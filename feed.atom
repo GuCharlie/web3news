@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-03T23:12:54.563Z</updated>
+    <updated>2025-02-03T23:35:18.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米上院議員、トランプ大統領令で米国のBTC購入示唆]]></title>
+        <id>https://jp.cointelegraph.com/news/donald-trump-executive-order-usa-buying-bitcoin</id>
+        <link href="https://jp.cointelegraph.com/news/donald-trump-executive-order-usa-buying-bitcoin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-03T23:05:00.000Z</updated>
+        <summary type="html"><![CDATA[米国のドナルド・トランプ大統領は、政府系ファンドの創設を指示する大統領令に署名した。業界関係者や少なくとも1人の議員は、この措置が政府によるビットコイン（BTC）の取得につながる可能性を指摘している。]]></summary>
+        <author>
+            <name>Cointelegraph  Turner Wright</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ大統領、財務長官をCFPB局長代行に指名｜前任者を解任]]></title>
         <id>https://jp.cointelegraph.com/news/donald-trump-treasury-secretary-acting-cfpb-director</id>

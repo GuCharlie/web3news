@@ -285,6 +285,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=592221",
+          "author": "CoinPost編集部",
+          "description": "仮想通貨市場は再び反落し、一時80万円の下落を記録した。背景には、トランプ米政権が4日、中国からの輸入品に対し10%の追加関税を発動し、中国もこれに応戦する形で、同日、米国からの輸入品である原油や石炭などに追加関税を課すと発表したことが挙げられる。",
+          "link": "https://coinpost.jp/?p=592221",
+          "publishedOn": "2025-02-04T23:30:58.000Z",
+          "wordCount": 3205,
+          "title": "ビットコイン再び急落、トランプ政権の関税措置で波乱｜仮想NISHI",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=592214",
           "author": "K.Kobayashi",
           "description": "仮想通貨の証券性を明確化することなど、米SECのヘスター・ピアース委員がタスクフォースの具体的な取り組みを説明。規制とイノベーションを両立していく考えを示した。",
@@ -958,6 +973,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/btc-volatility-low-stablecoin-transaction-tops-visa-ark",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "2024年はデジタル資産市場にとって画期的な年となった。ビットコインの年間ボラティリティ（価格変動率）は過去最低を記録し、ステーブルコインの取引額がVisaやマスターカードを上回った。",
+          "link": "https://jp.cointelegraph.com/news/btc-volatility-low-stablecoin-transaction-tops-visa-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-04T23:05:00.000Z",
+          "wordCount": null,
+          "title": "BTCのボラティリティが過去最低を記録、ステーブルコインの取引額がビザを上回る",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQyNTMtYTY0My03ZTUzLThkMGMtNTEyNWMyMjVhNGQx.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQyNTMtYTY0My03ZTUzLThkMGMtNTEyNWMyMjVhNGQx.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-block-size-4-mb-inscriptions-research",
           "author": "Cointelegraph  Alex O’Donnell",

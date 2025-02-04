@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-04T08:40:18.320Z</updated>
+    <updated>2025-02-04T09:14:36.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国が報復関税とグーグルへの調査を発表し、ビットコインは2.5%下落]]></title>
+        <id>https://www.coindeskjapan.com/?p=274495</id>
+        <link href="https://www.coindeskjapan.com/274495/"/>
+        <updated>2025-02-04T08:50:00.000Z</updated>
+        <summary type="html"><![CDATA[2月4日のアジア市場では、中国がアメリカに対して報復関税を課したことを受け、ビットコイン（BTC）とナスダック先物に再び売り圧力がかかった。 また中国は、グーグ ...
+中国が報復関税とグーグルへの調査を発表し、ビットコインは2.5%下落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国政府による報復関税措置発表　ビットコインは再び10万ドル割れ　貿易戦争懸念が再燃]]></title>
+        <id>https://jp.cointelegraph.com/news/us-china-tariffs-bitcoin-100k-analyst-all-time-high</id>
+        <link href="https://jp.cointelegraph.com/news/us-china-tariffs-bitcoin-100k-analyst-all-time-high?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-04T08:46:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は2月4日、一時的な急反発が関税問題によって押し戻され、10万ドルを割り込んだ。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRPとドージコインは20％急騰したが、中国の報復関税発表で再び下落]]></title>
         <id>https://www.coindeskjapan.com/?p=274476</id>
@@ -1123,16 +1144,6 @@ XRP、DOGEが25%急落──貿易戦争の懸念から22億ドルの清算が�
         <summary type="html"><![CDATA[大手仮想通貨資産運用会社のグレースケールが、ビットコイン（BTC）マイニングへの投資機会を提供する新たな上場投資信託（ETF）を立ち上げた。]]></summary>
         <author>
             <name>Cointelegraph  Helen Partz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米イリノイ州　5年間の保有を義務付ける戦略的ビットコイン準備金を検討中]]></title>
-        <id>https://jp.cointelegraph.com/news/illinois-bitcoin-strategic-reserve-bill</id>
-        <link href="https://jp.cointelegraph.com/news/illinois-bitcoin-strategic-reserve-bill?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-01-30T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米イリノイ州が、ビットコイン（BTC）の戦略的準備金に関する法案を推進する最新の州となった。この法案は、ビットコインを金融貯蓄技術として活用することを目指している。]]></summary>
-        <author>
-            <name>Cointelegraph  Zoltan Vardai</name>
         </author>
     </entry>
 </feed>

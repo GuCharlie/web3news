@@ -165,6 +165,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=592036",
+          "author": "AKIRA.H",
+          "description": "ビットバンクが、トロン（TRX）の取扱いを開始。現物取引に加え、レンディングサービス「貸して増やす」にも対応。3月6日までは取引手数料無料キャンペーンを実施する。",
+          "link": "https://coinpost.jp/?p=592036",
+          "publishedOn": "2025-02-04T00:40:23.000Z",
+          "wordCount": 3025,
+          "title": "ビットバンク、トロン（TRX）の取扱いを開始｜取引手数料無料キャンペーンも実施",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/trx-okex-rollback.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/trx-okex-rollback.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=592021",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨市場は急反発し、一時150万円（24時間比）の上昇を記録した。主な背景として、下落の要因となっていたトランプ大統領による関税引き上げが、カナダ・メキシコに対して1か月延期されたことが挙げられる。",
+          "link": "https://coinpost.jp/?p=592021",
+          "publishedOn": "2025-02-03T23:48:09.000Z",
+          "wordCount": 3202,
+          "title": "ビットコインが150万円幅の急反発　トランプ関税延期報道が影響｜仮想NISHI",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=592008",
           "author": "菊谷ルイス",
           "description": "トランプ氏関連のDeFiプロジェクト「ワールド・リバティ・ファイナンシャルが、匿名の情報源による仮想通貨トークンの売却疑惑に対して反論。ポートフォリオの価値は一時大幅減。",
@@ -603,6 +633,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-etfs-50-billion-inflows-2025-bitwise",
+          "author": "Cointelegraph  Jesse Coghlan",
+          "description": "ビットワイズの投資責任者マット・ホーガン氏によれば、米国の現物ビットコイン上場投資信託（ETF）は、1月に約50億ドルの資金流入を記録し、年間で500億ドルを超える可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-etfs-50-billion-inflows-2025-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-04T00:40:00.000Z",
+          "wordCount": null,
+          "title": "米国のビットコインETF　2025年には500億ドル以上の資金を集める＝ビットワイズ幹部が予測",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZhMjMtNzc5NC03YTY2LThhZjktNWI4ZTM5YjA3ZTVi.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZhMjMtNzc5NC03YTY2LThhZjktNWI4ZTM5YjA3ZTVi.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/donald-trump-executive-order-usa-buying-bitcoin",
           "author": "Cointelegraph  Turner Wright",

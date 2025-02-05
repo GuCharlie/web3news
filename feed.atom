@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-05T11:35:30.836Z</updated>
+    <updated>2025-02-05T12:27:34.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【2/5話題】BlockstreamとDiamond Handsが提携、リミックスポイントが5億円でBTCとXRP追加購入など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=449021</id>
+        <link href="https://www.neweconomy.jp/posts/449021"/>
+        <updated>2025-02-05T12:17:34.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ政権、ステーブルコインの国内回帰を推進へ – ホワイトハウスの仮想通貨責任者が明言]]></title>
+        <id>https://jp.cointelegraph.com/news/trump-administration-stablecoin-regulation-us-dollar</id>
+        <link href="https://jp.cointelegraph.com/news/trump-administration-stablecoin-regulation-us-dollar?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-05T11:59:00.000Z</updated>
+        <summary type="html"><![CDATA[トランプ政権の仮想通貨政策担当であるデービッド・サックス氏によれば、トランプ政権は、ステーブルコインの規制と国内でのイノベーション推進を計画している。]]></summary>
+        <author>
+            <name>Cointelegraph  Helen Partz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polygon Labs、「AggLayer v0.2」をメインネットで稼働開始]]></title>
         <id>https://www.neweconomy.jp/?p=449149</id>
@@ -1552,26 +1572,6 @@ XRP、DOGEが25%急落──貿易戦争の懸念から22億ドルの清算が�
         <summary type="html"><![CDATA[ラスベガス・スフィアがドッグウィズハット（WIF）の広告投影計画を否定した。一方、WIFチームは実現に向け交渉継続中としている。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10万ドル以上を維持できるか　仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ]]></title>
-        <id>https://jp.cointelegraph.com/news/price-analysis-1-31-btc-eth-xrp-sol-bnb-doge-ada-link-avax-xlm</id>
-        <link href="https://jp.cointelegraph.com/news/price-analysis-1-31-btc-eth-xrp-sol-bnb-doge-ada-link-avax-xlm?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-01-31T23:55:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は、過去最高値である10万9588ドルに向かって徐々に上昇しており、強気派の継続的な買いが示されている。]]></summary>
-        <author>
-            <name>Cointelegraph  Rakesh Upadhyay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国で初のポルカドット現物ETF申請へ、21Shares]]></title>
-        <id>https://coinpost.jp/?p=591678</id>
-        <link href="https://coinpost.jp/?p=591678"/>
-        <updated>2025-01-31T23:50:41.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ETF運用の大手21Sharesは米証券取引委員会に対し、米国初となるポルカドット現物ETFの登録届出書を提出した。トランプ新政権下での規制環境の改善を見越した申請ラッシュとされる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

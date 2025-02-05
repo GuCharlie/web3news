@@ -928,21 +928,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/03/wif-vegas.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/03/wif-vegas.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=591678",
-          "author": "菊谷ルイス",
-          "description": "仮想通貨ETF運用の大手21Sharesは米証券取引委員会に対し、米国初となるポルカドット現物ETFの登録届出書を提出した。トランプ新政権下での規制環境の改善を見越した申請ラッシュとされる。",
-          "link": "https://coinpost.jp/?p=591678",
-          "publishedOn": "2025-01-31T23:50:41.000Z",
-          "wordCount": 2989,
-          "title": "米国で初のポルカドット現物ETF申請へ、21Shares",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/polkadot011521.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/polkadot011521.jpg"
         }
       ]
     },
@@ -951,6 +936,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=449021",
+          "author": "NewEconomy",
+          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/449021",
+          "publishedOn": "2025-02-05T12:17:34.000Z",
+          "wordCount": 786,
+          "title": "【2/5話題】BlockstreamとDiamond Handsが提携、リミックスポイントが5億円でBTCとXRP追加購入など（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/05173937/news_head_20250205.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=449149",
           "author": "TamuraSeiji",
@@ -1278,6 +1273,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/trump-administration-stablecoin-regulation-us-dollar",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "トランプ政権の仮想通貨政策担当であるデービッド・サックス氏によれば、トランプ政権は、ステーブルコインの規制と国内でのイノベーション推進を計画している。",
+          "link": "https://jp.cointelegraph.com/news/trump-administration-stablecoin-regulation-us-dollar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-05T11:59:00.000Z",
+          "wordCount": null,
+          "title": "トランプ政権、ステーブルコインの国内回帰を推進へ – ホワイトハウスの仮想通貨責任者が明言",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ1NGYtMjEzMy03MDJiLWI5NDctMTUxN2M3ZTEzMTUz.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ1NGYtMjEzMy03MDJiLWI5NDctMTUxN2M3ZTEzMTUz.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/atypical-bitcoin-bull-market-can-extend-beyond-march-2025",
           "author": "Cointelegraph  William Suberg",
@@ -1967,21 +1977,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGJkZDAtMjZmNS03NTE2LTkyOWItYmNlZWY1NzZkYzIx.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/price-analysis-1-31-btc-eth-xrp-sol-bnb-doge-ada-link-avax-xlm",
-          "author": "Cointelegraph  Rakesh Upadhyay",
-          "description": "ビットコイン（BTC）は、過去最高値である10万9588ドルに向かって徐々に上昇しており、強気派の継続的な買いが示されている。",
-          "link": "https://jp.cointelegraph.com/news/price-analysis-1-31-btc-eth-xrp-sol-bnb-doge-ada-link-avax-xlm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-01-31T23:55:00.000Z",
-          "wordCount": null,
-          "title": "10万ドル以上を維持できるか　仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGJkNTItMDU0Mi03YzYwLTgyOWUtYzQ1ZjZkNmE0NDFj.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGJkNTItMDU0Mi03YzYwLTgyOWUtYzQ1ZjZkNmE0NDFj.jpg"
         }
       ]
     }

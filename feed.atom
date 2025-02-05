@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-05T10:39:25.336Z</updated>
+    <updated>2025-02-05T11:11:24.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Polygon Labs、「AggLayer v0.2」をメインネットで稼働開始]]></title>
+        <id>https://www.neweconomy.jp/?p=449149</id>
+        <link href="https://www.neweconomy.jp/posts/449149"/>
+        <updated>2025-02-05T11:05:32.000Z</updated>
+        <summary type="html"><![CDATA[Polygon Labsが「AggLayer v0.2」を発表 ポリゴンラボ（Polygon Labs）が、「アグレイヤー v0.2（AggLayer v0.2）」のメインネット稼働開始を2月3日に発表した。 「アグレイ […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブロックストリーム、アジア進出の拠点として東京にオフィスを開設]]></title>
         <id>https://www.coindeskjapan.com/?p=274738</id>
@@ -1572,26 +1582,6 @@ XRP、DOGEが25%急落──貿易戦争の懸念から22億ドルの清算が�
         <summary type="html"><![CDATA[CryptoQuantは、ステーブルコインの流動性向上から分析するとビットコインなどの仮想通貨の価格が近く上昇する可能性があるとの見方を示した。週次レポートでデータを公開している。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ビットコイン強気相場はまだ終焉ではない」資金流入の相違点分析]]></title>
-        <id>https://coinpost.jp/?p=591658</id>
-        <link href="https://coinpost.jp/?p=591658"/>
-        <updated>2025-01-31T22:55:14.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨オンチェーンデータ分析プラットフォームCryptoQuantのKi Young Ju CEOは、現在のビットコイン市場における機関投資家の買い入れ動向から、強気相場はまだ終焉を迎えていないとの分析を示した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グレイスケール、ドージコイン投資ファンドを発表　機関投資家向けに提供]]></title>
-        <id>https://jp.cointelegraph.com/news/grayscale-launches-dogecoin-investment-fund</id>
-        <link href="https://jp.cointelegraph.com/news/grayscale-launches-dogecoin-investment-fund?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-01-31T22:40:00.000Z</updated>
-        <summary type="html"><![CDATA[グレイスケール・インベストメンツは1月31日、時価総額で最も人気のあるミームコイン、ドージコイン（DOGE）の投資ファンドを新たに立ち上げたと発表した。このファンドは機関投資家のみを対象としている。]]></summary>
-        <author>
-            <name>Cointelegraph  Alex O’Donnell</name>
         </author>
     </entry>
 </feed>

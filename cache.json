@@ -540,6 +540,21 @@
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/eric-trump-eth-pump-and-dump.jpeg"
         },
         {
+          "id": "https://coinpost.jp/?p=512830",
+          "author": "CoinPost編集部",
+          "description": "ビットコインの価格が日本円建てで史上最高値を更新するなどして、仮想通貨への注目度が改めて高まってきています。本記事では初心者向けに、ビットコインの買い方、投資のメリットやリスクなどを解説しています。",
+          "link": "https://coinpost.jp/?p=512830",
+          "publishedOn": "2025-02-04T01:54:30.000Z",
+          "wordCount": 8175,
+          "title": "ビットコインの買い方（始め方）｜最適な取引所の選び方と投資メリットを解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/10/241008_coinpost_512830_1200.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/10/241008_coinpost_512830_1200.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=592053",
           "author": "A.Yamada",
           "description": "ビットワイズCIOが2025年のビットコイン現物ETFへの流入額は昨年よりも多くなると予測した。トランプ政権下での仮想通貨市場の変化が注目される。",
@@ -907,6 +922,26 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=449006",
+          "author": "OtsugaShinya",
+          "description": "イーサリアムが「ガスリミット」引き上げ イーサリアム（Ethereum）の「ガスリミット」が、バリデーターの半数以上の承認により、2月4日に引き上げられた。この調整は、ハードフォークを必要とせずに自動的に実行された。 今 […]",
+          "link": "https://www.neweconomy.jp/posts/449006",
+          "publishedOn": "2025-02-05T08:11:31.000Z",
+          "wordCount": 596,
+          "title": "イーサリアムが「ガスリミット」引き上げ、PoS移行後に初",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/05171119/9adf5115ddf9b9c8dae2f02db4376893.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=448974",
+          "author": "HitomotoToshikazu",
+          "description": "Semler ScientificのBTC保有数が3192BTCに 米ナスダック上場企業の医療機器メーカーであるセムラーサイエンティフィック（Semler Scientific）が、ビットコインの追加購入を2月4日発表し […]",
+          "link": "https://www.neweconomy.jp/posts/448974",
+          "publishedOn": "2025-02-05T07:52:34.000Z",
+          "wordCount": 597,
+          "title": "セムラーサイエンティフィックがビットコイン追加購入、総保有数3192BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/05161048/33fcd28923513cf43ddfb1f93872e59e.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=448957",
           "author": "HitomotoToshikazu",
           "description": "BerachainがTGEとメインネットローンチへ 「ベラチェーン（Berachain）」のトークン生成イベント（TGE）およびメインネットローンチが今月6日に実施される。同チェーンの支援団体「ベラチェーン財団（Bera […]",
@@ -1183,6 +1218,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/el-salvador-adds-12-bitcoin-in-day-reserve-hits-6068-btc",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "エルサルバドルはビットコイン（BTC）の準備資産をさらに増やし、12BTCを追加購入した。エルサルバドルのビットコイン局のデータによれば、2月4日、エルサルバドルは1100万ドル以上を投じて11BTCを購入し（平均取得価格は1BTCあたり10万1816ドル）、その後9万9114ドルで1BTCを追加購入した。",
+          "link": "https://jp.cointelegraph.com/news/el-salvador-adds-12-bitcoin-in-day-reserve-hits-6068-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-05T07:45:00.000Z",
+          "wordCount": null,
+          "title": "エルサルバドル、仮想通貨市場の下落中にビットコインを追加購入　保有量は6068BTCに",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQzYjgtMmUxNy03MjMwLWE2ODgtNDdiYjc4NmQ2M2Vk.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQzYjgtMmUxNy03MjMwLWE2ODgtNDdiYjc4NmQ2M2Vk.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/semler-scientific-871-bitcoin-buy-yield-tops-150",
           "author": "Cointelegraph  Martin Young",
@@ -1887,36 +1937,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGJkN2MtNmJjMS03NDcwLTg0NzctODQzMzIzM2MzZjQ4.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/errol-musk-memecoin-musk-it-200m-raise",
-          "author": "Cointelegraph  Zoltan Vardai",
-          "description": "著名人が支援するミームコインへの関心が高まる中、イーロン・マスク氏の父親も資金調達のためにミームコインを活用する可能性が浮上している。",
-          "link": "https://jp.cointelegraph.com/news/errol-musk-memecoin-musk-it-200m-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-01-31T20:00:00.000Z",
-          "wordCount": null,
-          "title": "イーロン・マスクの父親　ミームコインで2億ドルの資金調達を計画",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGJiNjktZDBmOC03MjIyLTg4NGItMjZhOWNiNTJhMjc3.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGJiNjktZDBmOC03MjIyLTg4NGItMjZhOWNiNTJhMjc3.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-etfs-surpass-125-b-blackrock-ibit-world-31st-etf",
-          "author": "Cointelegraph  Zoltan Vardai",
-          "description": "米国の現物ビットコイン上場投資信託（ETF）が重要な節目を迎え、世界初の仮想通貨に対する機関投資家の採用が拡大していることを示している。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-etfs-surpass-125-b-blackrock-ibit-world-31st-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-01-31T19:40:00.000Z",
-          "wordCount": null,
-          "title": "ビットコインETF　BTC保有高が1250億ドル突破　ブラックロックのIBITは世界第31位のETFに",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGJjOWQtNWMwYy03OGJmLWE5NWQtYWU3NDBmYmNhMTEx.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGJjOWQtNWMwYy03OGJmLWE5NWQtYWU3NDBmYmNhMTEx.jpg"
         }
       ]
     }

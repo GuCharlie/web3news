@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-05T08:40:16.620Z</updated>
+    <updated>2025-02-05T09:15:28.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「日本でビットコイン関連事業を加速」Blockstream、Diamond Handsらと業務提携]]></title>
+        <id>https://coinpost.jp/?p=592037</id>
+        <link href="https://coinpost.jp/?p=592037"/>
+        <updated>2025-02-05T09:05:01.000Z</updated>
+        <summary type="html"><![CDATA[日本で仮想通貨ビットコインの関連事業を加速することを目的に、BlockstreamがDiamond Handsとフルグルと業務提携。今後の計画などを説明している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインインフラ企業BlockstreamがDiamond Handsと提携、日本への事業拡大で]]></title>
+        <id>https://www.neweconomy.jp/?p=448949</id>
+        <link href="https://www.neweconomy.jp/posts/448949"/>
+        <updated>2025-02-05T09:01:30.000Z</updated>
+        <summary type="html"><![CDATA[BlockstreamとDiamond Handsが提携 カナダのビットコインインフラ開発会社であるBlockstream（ブロックストリーム）が、国内ビットコイン関連企業のDiamond Hands（ダイヤモンドハンズ […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アダム・バック氏率いるBlockstream、日本国内での事業拡大にむけてDiamond Handsと提携]]></title>
+        <id>https://www.coindeskjapan.com/?p=274658</id>
+        <link href="https://www.coindeskjapan.com/274658/"/>
+        <updated>2025-02-05T09:01:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインインフラ開発会社Blockstreamは2月5日、日本国内での事業拡大に向けて、Blockstreamの筆頭株主Fulgur Venturesの日本 ...
+アダム・バック氏率いるBlockstream、日本国内での事業拡大にむけてDiamond Handsと提携 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>CoinDesk JAPAN</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインの強気のブレイクアウトにブレーキをかける可能性がある3つの展開]]></title>
         <id>https://www.coindeskjapan.com/?p=274692</id>
@@ -1548,16 +1579,6 @@ XRP、DOGEが25%急落──貿易戦争の懸念から22億ドルの清算が�
         <summary type="html"><![CDATA[カナダの大手資産運用会社Purpose Investments Inc.は30日、XRPに特化した上場投資信託の設立を目指し、カナダの証券規制当局に予備目論見書を提出したことを発表した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ家関与のワールド・リバティ・フィナンシャル　1000万ドル相当のイーサリアムを追加購入]]></title>
-        <id>https://jp.cointelegraph.com/news/trump-world-liberty-financial-buys-more-eth</id>
-        <link href="https://jp.cointelegraph.com/news/trump-world-liberty-financial-buys-more-eth?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-01-31T20:55:00.000Z</updated>
-        <summary type="html"><![CDATA[トランプ一家の分散型金融（DeFi）プラットフォーム「ワールド・リバティ・ファイナンシャル」が、新たに1000万ドル相当のイーサリアム（ETH）を購入した。]]></summary>
-        <author>
-            <name>Cointelegraph  Christopher Tepedino</name>
         </author>
     </entry>
 </feed>

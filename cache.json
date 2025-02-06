@@ -1197,6 +1197,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=449314",
+          "author": "OtsugaShinya",
+          "description": "日本のApp Storeから複数の暗号資産取引アプリが削除か アップル（Apple）が提供する日本のApp Storeから、複数の海外暗号資産（仮想通貨）取引所アプリが非表示にされていることが2月6日明らかになった。 非 […]",
+          "link": "https://www.neweconomy.jp/posts/449314",
+          "publishedOn": "2025-02-06T07:44:30.000Z",
+          "wordCount": 762,
+          "title": "アップル、日本のApp Storeから複数の海外暗号資産取引アプリを削除か",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/06164427/faf3ef64bf1d78d73f9dcc4aad7dcda1.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=449304",
           "author": "HitomotoToshikazu",
           "description": "エルサルバドルの保有量が6,067BTCに 中米エルサルバドル政府が、同国の戦略準備金としてビットコイン（BTC）を追加購入した。エルサルバドル大統領ナジブ・ブケレ（Nayib Bukele）氏が2月4日にXで発表してい […]",
@@ -1594,6 +1604,51 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0206",
+          "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
+          "description": "5日のビットコイン（BTC）円は1513万2330円から取引が始まった。",
+          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0206?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-06T08:10:00.000Z",
+          "wordCount": null,
+          "title": "米金利低下もBTC上値重く、為替の影響に注意【仮想通貨相場】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kMmQ1NTVjMmUzZjkyZmJmM2E3MTljYmFhMzBmOGQ3Mi5qZmlm.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kMmQ1NTVjMmUzZjkyZmJmM2E3MTljYmFhMzBmOGQ3Mi5qZmlm.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/institutional-traders-no-plans-trade-crypto-despite-trump-promises-jpm",
+          "author": "Cointelegraph  Martin Young",
+          "description": "JPモルガンが機関投資家向けに実施した調査によると、回答者の70%以上が2025年も仮想通貨を取引する予定はないと回答した。",
+          "link": "https://jp.cointelegraph.com/news/institutional-traders-no-plans-trade-crypto-despite-trump-promises-jpm?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-06T07:45:00.000Z",
+          "wordCount": null,
+          "title": "JPモルガン調査　機関投資家の7割以上が2025年も仮想通貨取引を予定せず",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ5NzUtNzk4YS03MDI1LWFlNjEtODVjNGE0OThkN2Nk.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ5NzUtNzk4YS03MDI1LWFlNjEtODVjNGE0OThkN2Nk.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/tether-building-ai-apps-open-source-sdk-platform",
+          "author": "Cointelegraph  Martin Young",
+          "description": "世界最大のステーブルコイン発行企業であるテザーが、人工知能（AI）分野への取り組みを加速させている。複数のAIアプリケーションを開発中であることを、同社のCEOであるパオロ・アルドイノ氏が明らかにした。",
+          "link": "https://jp.cointelegraph.com/news/tether-building-ai-apps-open-source-sdk-platform?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-06T07:05:00.000Z",
+          "wordCount": null,
+          "title": "ステーブルコイン発行企業テザー、AI分野に本格参入　ウォレット・アシスタントなどのアプリ開発中",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ5MDMtMGMwNy03MGMzLTg1NDQtMWJkMmEyMzgwMTI1.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ5MDMtMGMwNy03MGMzLTg1NDQtMWJkMmEyMzgwMTI1.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/tether-building-ai-apps-open-source-sdk-platform",
           "author": "Cointelegraph  Martin Young",
           "description": "世界最大のステーブルコイン発行企業であるテザーが、人工知能（AI）分野への取り組みを加速させている。複数のAIアプリケーションを開発中であることを、同社のCEOであるパオロ・アルドイノ氏が明らかにした。",
@@ -1607,6 +1662,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ5MDMtMGMwNy03MGMzLTg1NDQtMWJkMmEyMzgwMTI1.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/200-billion-tiger21-has-6-billion-worth-crypto",
+          "author": "Cointelegraph  Brayden Lindrea",
+          "description": "富裕層投資家や起業家、経営者のネットワークであるTIGER 21が、2000億ドルのポートフォリオのうち最大60億ドルを仮想通貨に投資していることが明らかになった。TIGER 21の創設者兼会長であるマイケル・ソネンフェルド氏が述べた。",
+          "link": "https://jp.cointelegraph.com/news/200-billion-tiger21-has-6-billion-worth-crypto?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-06T06:40:00.000Z",
+          "wordCount": null,
+          "title": "富裕層投資家グループのTIGER 21、60億ドル相当の仮想通貨を保有——総資産2000億ドルの一部として",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ4YmEtZjJhYy03YmI0LTk4NmYtYWRiNGUxNzFiNzU1.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ4YmEtZjJhYy03YmI0LTk4NmYtYWRiNGUxNzFiNzU1.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/200-billion-tiger21-has-6-billion-worth-crypto",
@@ -1627,6 +1697,21 @@
           "id": "https://jp.cointelegraph.com/news/burwick-law-cease-and-desist-pump-fun-tokens-ip",
           "author": "Cointelegraph  Stephen Katte",
           "description": "ソラナのミームコイン作成プラットフォームPump.funが、現在同プラットフォームを提訴している2つの法律事務所のロゴや名称を使用したトークンを理由に、コインの差し止め要求を受けた。",
+          "link": "https://jp.cointelegraph.com/news/burwick-law-cease-and-desist-pump-fun-tokens-ip?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-06T06:05:00.000Z",
+          "wordCount": null,
+          "title": "ミームコイン作成プラットフォームPump.fun、法律事務所から200以上のコイン削除要求受ける",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ4NjMtZGM1Zi03YmQ4LWJlOTAtZWQ0ZGY1NzEzODQz.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ4NjMtZGM1Zi03YmQ4LWJlOTAtZWQ0ZGY1NzEzODQz.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/burwick-law-cease-and-desist-pump-fun-tokens-ip",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "ソラナのミームコイン作成プラットフォームPump.funが、現在同プラットフォームを提訴している2つの法律事務所のロゴや名称を使用したトークンを理由に、コインの差し止め要求を受けた。",
           "link": "https://jp.cointelegraph.com/news/burwick-law-cease-and-desist-pump-fun-tokens-ip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-02-06T06:05:00.000Z",
           "wordCount": null,
@@ -1637,6 +1722,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ4NjMtZGM1Zi03YmQ4LWJlOTAtZWQ0ZGY1NzEzODQz.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-giving-exceeds-1b-2024",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "非営利団体が仮想通貨寄付を受け付けるためのプラットフォーム「ギビング・ブロック」によると、2024年の仮想通貨寄付額は10億ドルを超えた。デジタル資産市場の成長と、世界的な規制の明確化が主な要因とされている。",
+          "link": "https://jp.cointelegraph.com/news/crypto-giving-exceeds-1b-2024?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-06T05:55:00.000Z",
+          "wordCount": null,
+          "title": "2024年の仮想通貨寄付額が10億ドルを突破——デジタル資産市場の成長と規制の明確化が後押し",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ3MzUtNGNkMy03M2ZmLThmNDktNjI0MjU3Y2M3YmNm.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ3MzUtNGNkMy03M2ZmLThmNDktNjI0MjU3Y2M3YmNm.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/crypto-giving-exceeds-1b-2024",
@@ -1657,6 +1757,21 @@
           "id": "https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0206",
           "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
           "description": "昨日のBTC相場はもみ合い推移。",
+          "link": "https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0206?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-06T05:11:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン、マイクロストラテジー社名変更、赤字決算だけど大丈夫？【仮想通貨相場】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zMDc4MTViMTAyMTMwYmY0OWNjMjQ1OTdlZDE4ZWQ5Mi5qcGc=.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zMDc4MTViMTAyMTMwYmY0OWNjMjQ1OTdlZDE4ZWQ5Mi5qcGc=.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0206",
+          "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
+          "description": "昨日のBTC相場はもみ合い推移。",
           "link": "https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0206?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-02-06T05:11:00.000Z",
           "wordCount": null,
@@ -1667,6 +1782,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zMDc4MTViMTAyMTMwYmY0OWNjMjQ1OTdlZDE4ZWQ5Mi5qcGc=.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/solana-app-revenue-up-213-q4",
+          "author": "Cointelegraph  Alex O’Donnell",
+          "description": "仮想通貨リサーチ企業メサーリの報告によると、2024年第4四半期にソラナネットワーク上のアプリ収益が前年同期比で213%増加した。ソラナ上でのミームコイン投機の活発化が影響した。",
+          "link": "https://jp.cointelegraph.com/news/solana-app-revenue-up-213-q4?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-06T04:25:00.000Z",
+          "wordCount": null,
+          "title": "ソラナネットワークのアプリ収益、第4四半期に213%増加——ミームコイン投機が追い風",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzQ3YmItMmQ1Ny03YTA3LTk0ZTktNDUzMWE2NmZlYjlk.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzQ3YmItMmQ1Ny03YTA3LTk0ZTktNDUzMWE2NmZlYjlk.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/solana-app-revenue-up-213-q4",
@@ -1687,6 +1817,21 @@
           "id": "https://jp.cointelegraph.com/news/bybit-registers-with-india-s-fiu-settles-for-monetary-fine",
           "author": "Cointelegraph  Zoltan Vardai",
           "description": "仮想通貨取引所バイビットは、インドでの過去のコンプライアンス違反により業務停止を余儀なくされたが、その後インドの金融規制当局から罰金を科された。",
+          "link": "https://jp.cointelegraph.com/news/bybit-registers-with-india-s-fiu-settles-for-monetary-fine?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-06T03:50:00.000Z",
+          "wordCount": null,
+          "title": "仮想通貨取引所バイビット、インドの金融規制当局から罰金処分——過去のコンプライアンス違反が影響",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ1NjQtZjY0Mi03MjQ1LTk1MTktMWQ1NGVjZjViOTg3.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ1NjQtZjY0Mi03MjQ1LTk1MTktMWQ1NGVjZjViOTg3.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bybit-registers-with-india-s-fiu-settles-for-monetary-fine",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "仮想通貨取引所バイビットは、インドでの過去のコンプライアンス違反により業務停止を余儀なくされたが、その後インドの金融規制当局から罰金を科された。",
           "link": "https://jp.cointelegraph.com/news/bybit-registers-with-india-s-fiu-settles-for-monetary-fine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-02-06T03:50:00.000Z",
           "wordCount": null,
@@ -1697,6 +1842,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ1NjQtZjY0Mi03MjQ1LTk1MTktMWQ1NGVjZjViOTg3.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/xrp-price-analysts-bullish-5-next-long-term-target-18",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "XRPの価格は2月5日に3.2%下落した。しかし、ローソク足が2.70ドル以上まで回復できれば、アルトコインにとって強いトレンド転換のシグナルとなる。",
+          "link": "https://jp.cointelegraph.com/news/xrp-price-analysts-bullish-5-next-long-term-target-18?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-06T03:15:00.000Z",
+          "wordCount": null,
+          "title": "XRP価格、2025年に18ドルまで上昇するか？ アナリストは強気予測を示す",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ2OGQtZTJmNS03NmY0LTliZmEtY2FjNjQzYTM1YjY1.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ2OGQtZTJmNS03NmY0LTliZmEtY2FjNjQzYTM1YjY1.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/xrp-price-analysts-bullish-5-next-long-term-target-18",
@@ -1717,6 +1877,21 @@
           "id": "https://jp.cointelegraph.com/news/blackrock-list-bitcoin-etp-europe",
           "author": "Cointelegraph  Alex O’Donnell",
           "description": "世界最大の資産運用会社であるブラックロックが、欧州でビットコイン上場取引商品（ETP）の立ち上げを準備していると、2月5日にブルームバーグが報じた。",
+          "link": "https://jp.cointelegraph.com/news/blackrock-list-bitcoin-etp-europe?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-06T02:49:00.000Z",
+          "wordCount": null,
+          "title": "ブラックロック、欧州でビットコインETPの立ち上げを準備＝報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ3NzUtNWMwZi03MjQ3LWI5Y2YtZWM4Yjg2NDgyM2Ux.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ3NzUtNWMwZi03MjQ3LWI5Y2YtZWM4Yjg2NDgyM2Ux.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/blackrock-list-bitcoin-etp-europe",
+          "author": "Cointelegraph  Alex O’Donnell",
+          "description": "世界最大の資産運用会社であるブラックロックが、欧州でビットコイン上場取引商品（ETP）の立ち上げを準備していると、2月5日にブルームバーグが報じた。",
           "link": "https://jp.cointelegraph.com/news/blackrock-list-bitcoin-etp-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-02-06T02:49:00.000Z",
           "wordCount": null,
@@ -1727,6 +1902,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ3NzUtNWMwZi03MjQ3LWI5Y2YtZWM4Yjg2NDgyM2Ux.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/microstrategy-now-strategy-reports-670-million-loss-q4",
+          "author": "Cointelegraph  Brayden Lindrea",
+          "description": "ビットコイン（BTC）投資企業のストラテジー（旧マイクロストラテジー）は、第4四半期に21万8887BTCを追加取得した一方で、6億7080万ドルの純損失を計上した。",
+          "link": "https://jp.cointelegraph.com/news/microstrategy-now-strategy-reports-670-million-loss-q4?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-06T02:28:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン保有企業ストラテジー　第4四半期に6億7000万ドルの損失計上",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ4MWMtODMwOS03MThjLTg0MzgtMTM1OGU0OGY4NDQz.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ4MWMtODMwOS03MThjLTg0MzgtMTM1OGU0OGY4NDQz.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/microstrategy-now-strategy-reports-670-million-loss-q4",
@@ -1747,6 +1937,21 @@
           "id": "https://jp.cointelegraph.com/news/bitcoin-mining-difficulty-production-dip",
           "author": "Cointelegraph  Arijit Sarkar",
           "description": "ビットコイン（BTC）の取引を承認し、新たなブロックを生成するために必要な計算能力であるマイニング難易度が上昇し続ける中、ビットコインマイナーの月間生産量が減少している。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-mining-difficulty-production-dip?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-05T22:30:00.000Z",
+          "wordCount": null,
+          "title": "マイニング難易度の上昇に直面し、ビットコインマイナーの生産量が減少",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ1OWQtNDQ5NS03MGYwLWFjNDctNjhmMzExNDYzODZm.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ1OWQtNDQ5NS03MGYwLWFjNDctNjhmMzExNDYzODZm.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-mining-difficulty-production-dip",
+          "author": "Cointelegraph  Arijit Sarkar",
+          "description": "ビットコイン（BTC）の取引を承認し、新たなブロックを生成するために必要な計算能力であるマイニング難易度が上昇し続ける中、ビットコインマイナーの月間生産量が減少している。",
           "link": "https://jp.cointelegraph.com/news/bitcoin-mining-difficulty-production-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-02-05T22:30:00.000Z",
           "wordCount": null,
@@ -1757,6 +1962,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ1OWQtNDQ5NS03MGYwLWFjNDctNjhmMzExNDYzODZm.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/how-long-will-the-bitcoin-consolidation-last",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "ビットコイン（BTC）は11月19日に初めて9万ドルの大台を突破した後、9万1,500ドルから10万6,500ドルのレンジで推移している。",
+          "link": "https://jp.cointelegraph.com/news/how-long-will-the-bitcoin-consolidation-last?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-05T22:05:00.000Z",
+          "wordCount": null,
+          "title": "ビットコインの調整、いつまで続く？各アナリストの見解を紹介",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTAvMDE5MmQyOWQtNGZhYS03OTE0LThjZGUtMzE0NGNlN2NkYzk5.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTAvMDE5MmQyOWQtNGZhYS03OTE0LThjZGUtMzE0NGNlN2NkYzk5.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/how-long-will-the-bitcoin-consolidation-last",
@@ -1777,6 +1997,21 @@
           "id": "https://jp.cointelegraph.com/news/altseason-ended-2024-bitcoin-dominance-71-before-returns",
           "author": "Cointelegraph  William Suberg",
           "description": "ビットコイン（BTC）のドミナンス(市場支配率)が70%を超えなければ、本格的な「アルトシーズン」は再開しない可能性がある――。",
+          "link": "https://jp.cointelegraph.com/news/altseason-ended-2024-bitcoin-dominance-71-before-returns?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-05T21:41:00.000Z",
+          "wordCount": null,
+          "title": "「アルトシーズンは2024年に終了した」ビットコインのドミナンスが71%に達するまで再開せず＝アナリスト",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ2YTMtMTI5OC03ZDcxLWJkYjEtYzNjNjZhZWJkYzJj.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ2YTMtMTI5OC03ZDcxLWJkYjEtYzNjNjZhZWJkYzJj.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/altseason-ended-2024-bitcoin-dominance-71-before-returns",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコイン（BTC）のドミナンス(市場支配率)が70%を超えなければ、本格的な「アルトシーズン」は再開しない可能性がある――。",
           "link": "https://jp.cointelegraph.com/news/altseason-ended-2024-bitcoin-dominance-71-before-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-02-05T21:41:00.000Z",
           "wordCount": null,
@@ -1787,6 +2022,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ2YTMtMTI5OC03ZDcxLWJkYjEtYzNjNjZhZWJkYzJj.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/microstrategy-rebrands-strategy-btc-logo",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "米ビジネスインテリジェンス（BI）企業であり、ビットコイン（BTC）を企業財務戦略に組み込むマイクロストラテジーは、社名を「ストラテジー（Strategy）」に変更し、ビットコインをテーマにしたビジュアルマーケティングを導入した。",
+          "link": "https://jp.cointelegraph.com/news/microstrategy-rebrands-strategy-btc-logo?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-05T21:35:00.000Z",
+          "wordCount": null,
+          "title": "マイクロストラテジーが社名を「ストラテジー」に変更",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ3ODUtZWQ0NC03MTRhLTg1MmQtOGVkMWY1Mzc5Yjg3.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ3ODUtZWQ0NC03MTRhLTg1MmQtOGVkMWY1Mzc5Yjg3.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/microstrategy-rebrands-strategy-btc-logo",
@@ -1807,6 +2057,21 @@
           "id": "https://jp.cointelegraph.com/news/trump-administration-stablecoin-regulation-us-dollar",
           "author": "Cointelegraph  Helen Partz",
           "description": "トランプ政権の仮想通貨政策担当であるデービッド・サックス氏によれば、トランプ政権は、ステーブルコインの規制と国内でのイノベーション推進を計画している。",
+          "link": "https://jp.cointelegraph.com/news/trump-administration-stablecoin-regulation-us-dollar?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-05T11:59:00.000Z",
+          "wordCount": null,
+          "title": "トランプ政権、ステーブルコインの国内回帰を推進へ – ホワイトハウスの仮想通貨責任者が明言",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ1NGYtMjEzMy03MDJiLWI5NDctMTUxN2M3ZTEzMTUz.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ1NGYtMjEzMy03MDJiLWI5NDctMTUxN2M3ZTEzMTUz.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/trump-administration-stablecoin-regulation-us-dollar",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "トランプ政権の仮想通貨政策担当であるデービッド・サックス氏によれば、トランプ政権は、ステーブルコインの規制と国内でのイノベーション推進を計画している。",
           "link": "https://jp.cointelegraph.com/news/trump-administration-stablecoin-regulation-us-dollar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-02-05T11:59:00.000Z",
           "wordCount": null,
@@ -1817,6 +2082,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ1NGYtMjEzMy03MDJiLWI5NDctMTUxN2M3ZTEzMTUz.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/atypical-bitcoin-bull-market-can-extend-beyond-march-2025",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコイン（BTC）のネットワークに蓄積された価値が高まり、実現時価総額が初めて8500億ドルに達した。仮想通貨分析企業グラスノードは最新の週刊レポートにおいて、BTCの次のマクロ的な価格ピークはまだ遠い可能性があると予測した。",
+          "link": "https://jp.cointelegraph.com/news/atypical-bitcoin-bull-market-can-extend-beyond-march-2025?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-05T09:56:00.000Z",
+          "wordCount": null,
+          "title": "ビットコインの強気相場　過去のサイクルとは「異質」＝グラスノードが指摘",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDRiNzMtZWFhMC03Mjk0LWI4MjgtYTg2YTUwYTJmOTI3.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDRiNzMtZWFhMC03Mjk0LWI4MjgtYTg2YTUwYTJmOTI3.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/atypical-bitcoin-bull-market-can-extend-beyond-march-2025",
@@ -1837,6 +2117,21 @@
           "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0205",
           "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
           "description": "4日のビットコイン（BTC）円は1578万8751円から取引が始まった。",
+          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0205?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-05T08:29:00.000Z",
+          "wordCount": null,
+          "title": "仮想通貨政策期待はまたも不発、貿易戦争リスクもBTCの重石に【仮想通貨相場】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jYThkZDlmM2EzNWE5YjYxM2UxOGE5NGNjMTAxZTkyNy5qcGc=.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jYThkZDlmM2EzNWE5YjYxM2UxOGE5NGNjMTAxZTkyNy5qcGc=.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0205",
+          "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
+          "description": "4日のビットコイン（BTC）円は1578万8751円から取引が始まった。",
           "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0205?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-02-05T08:29:00.000Z",
           "wordCount": null,
@@ -1847,6 +2142,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jYThkZDlmM2EzNWE5YjYxM2UxOGE5NGNjMTAxZTkyNy5qcGc=.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-market-confusing-defies-logic-say-analysts-traders",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "仮想通貨市場がこれまでのパターンに従わなくなっており、多くのトレーダーが困惑している。「市場は正常に機能していない」と、仮名の仮想通貨トレーダーのシコデリック氏は2月4日のX投稿で述べた。同氏は、米トランプ政権の仮想通貨推進政策にもかかわらず、市場はひたすら価格を戻し続けていると指摘した。",
+          "link": "https://jp.cointelegraph.com/news/crypto-market-confusing-defies-logic-say-analysts-traders?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-05T08:20:00.000Z",
+          "wordCount": null,
+          "title": "仮想通貨市場の異変にトレーダー困惑　米国の仮想通貨推進策でも伸び悩むビットコイン",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ0OTEtYzk2My03ZDIzLWI1NjAtNWFjMWZhZWJjYmRl.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ0OTEtYzk2My03ZDIzLWI1NjAtNWFjMWZhZWJjYmRl.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/crypto-market-confusing-defies-logic-say-analysts-traders",
@@ -1867,6 +2177,21 @@
           "id": "https://jp.cointelegraph.com/news/el-salvador-adds-12-bitcoin-in-day-reserve-hits-6068-btc",
           "author": "Cointelegraph  Stephen Katte",
           "description": "エルサルバドルはビットコイン（BTC）の準備資産をさらに増やし、12BTCを追加購入した。エルサルバドルのビットコイン局のデータによれば、2月4日、エルサルバドルは1100万ドル以上を投じて11BTCを購入し（平均取得価格は1BTCあたり10万1816ドル）、その後9万9114ドルで1BTCを追加購入した。",
+          "link": "https://jp.cointelegraph.com/news/el-salvador-adds-12-bitcoin-in-day-reserve-hits-6068-btc?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-05T07:45:00.000Z",
+          "wordCount": null,
+          "title": "エルサルバドル、仮想通貨市場の下落中にビットコインを追加購入　保有量は6068BTCに",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQzYjgtMmUxNy03MjMwLWE2ODgtNDdiYjc4NmQ2M2Vk.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQzYjgtMmUxNy03MjMwLWE2ODgtNDdiYjc4NmQ2M2Vk.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/el-salvador-adds-12-bitcoin-in-day-reserve-hits-6068-btc",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "エルサルバドルはビットコイン（BTC）の準備資産をさらに増やし、12BTCを追加購入した。エルサルバドルのビットコイン局のデータによれば、2月4日、エルサルバドルは1100万ドル以上を投じて11BTCを購入し（平均取得価格は1BTCあたり10万1816ドル）、その後9万9114ドルで1BTCを追加購入した。",
           "link": "https://jp.cointelegraph.com/news/el-salvador-adds-12-bitcoin-in-day-reserve-hits-6068-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-02-05T07:45:00.000Z",
           "wordCount": null,
@@ -1877,6 +2202,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQzYjgtMmUxNy03MjMwLWE2ODgtNDdiYjc4NmQ2M2Vk.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/semler-scientific-871-bitcoin-buy-yield-tops-150",
+          "author": "Cointelegraph  Martin Young",
+          "description": "医療技術・ソフトウェア企業セムラー・サイエンティフィックは、過去数週間で8850万ドル相当のビットコイン（BTC）を購入し、150%以上の含み益を得ていると発表した。",
+          "link": "https://jp.cointelegraph.com/news/semler-scientific-871-bitcoin-buy-yield-tops-150?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-05T07:20:00.000Z",
+          "wordCount": null,
+          "title": "セムラー・サイエンティフィック、8850万ドル相当のビットコインを追加購入",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ0NzAtZWJlOS03MTkzLTkyZjgtMWI4MWE4MmMxNTA0.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ0NzAtZWJlOS03MTkzLTkyZjgtMWI4MWE4MmMxNTA0.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/semler-scientific-871-bitcoin-buy-yield-tops-150",
@@ -1897,6 +2237,21 @@
           "id": "https://jp.cointelegraph.com/news/telegram-ton-exclusive-web3-blockchain",
           "author": "Cointelegraph  Helen Partz",
           "description": "TON財団の理事であるスティーブ・ユン氏によれば、テレグラムがアプリ内Web3エコシステムでオープン・ネットワーク（TON）を唯一の対応ブロックチェーンとする決定を下したことは、セキュリティとスケーラビリティの観点から正しい選択だった。",
+          "link": "https://jp.cointelegraph.com/news/telegram-ton-exclusive-web3-blockchain?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-05T06:22:00.000Z",
+          "wordCount": null,
+          "title": "テレグラムによるTONの独占サポート　セキュリティやスケーラビリティから「必要なことだった」＝TON財団のスティーブ・ユン氏",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzk3NjYtNTJkNi03ZTNmLTk0ZDYtOTYzNDAzNzRjNzli.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzk3NjYtNTJkNi03ZTNmLTk0ZDYtOTYzNDAzNzRjNzli.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/telegram-ton-exclusive-web3-blockchain",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "TON財団の理事であるスティーブ・ユン氏によれば、テレグラムがアプリ内Web3エコシステムでオープン・ネットワーク（TON）を唯一の対応ブロックチェーンとする決定を下したことは、セキュリティとスケーラビリティの観点から正しい選択だった。",
           "link": "https://jp.cointelegraph.com/news/telegram-ton-exclusive-web3-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-02-05T06:22:00.000Z",
           "wordCount": null,
@@ -1907,6 +2262,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzk3NjYtNTJkNi03ZTNmLTk0ZDYtOTYzNDAzNzRjNzli.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-com-cronos-etf-launch-stablecoin-2025",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "仮想通貨取引所クリプト・ドットコム（Crypto.com）は、ネイティブトークン「クロノス（CRO）」の上場投資信託（ETF）を立ち上げることを2025年の最優先事項としており、デジタル資産の機関投資家向け市場が拡大していることを示している。",
+          "link": "https://jp.cointelegraph.com/news/crypto-com-cronos-etf-launch-stablecoin-2025?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-05T05:41:00.000Z",
+          "wordCount": null,
+          "title": "仮想通貨取引所クリプト・ドットコム　独自トークン「クロノス」のETF立ち上げ目指す＝2025年ロードマップ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzY0NTgtYjg5MS03Y2EzLTgxMzAtNTUxNDMyZDc5N2Rk.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzY0NTgtYjg5MS03Y2EzLTgxMzAtNTUxNDMyZDc5N2Rk.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/crypto-com-cronos-etf-launch-stablecoin-2025",
@@ -1927,6 +2297,21 @@
           "id": "https://jp.cointelegraph.com/news/sec-scale-back-crypto-enforcement-unit-nyt",
           "author": "Cointelegraph  Felix Ng",
           "description": "米証券取引委員会（SEC）は、50人規模の仮想通貨執行部門の縮小を開始していると報じられている。",
+          "link": "https://jp.cointelegraph.com/news/sec-scale-back-crypto-enforcement-unit-nyt?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-05T05:30:00.000Z",
+          "wordCount": null,
+          "title": "米証券取引委員会、仮想通貨執行部門の縮小を開始か＝報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzUxOGUtODdjNS03NzhhLWJhNDAtZTRjMGEzNWVkZTAz.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzUxOGUtODdjNS03NzhhLWJhNDAtZTRjMGEzNWVkZTAz.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/sec-scale-back-crypto-enforcement-unit-nyt",
+          "author": "Cointelegraph  Felix Ng",
+          "description": "米証券取引委員会（SEC）は、50人規模の仮想通貨執行部門の縮小を開始していると報じられている。",
           "link": "https://jp.cointelegraph.com/news/sec-scale-back-crypto-enforcement-unit-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-02-05T05:30:00.000Z",
           "wordCount": null,
@@ -1937,6 +2322,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzUxOGUtODdjNS03NzhhLWJhNDAtZTRjMGEzNWVkZTAz.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0205",
+          "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
+          "description": "昨日のBTC相場は反発後、上値を重くする展開。一昨日の9.1万ドル（約1400万円）台から切り返すと、10.2万ドル（約1570万円）まで値を戻したが、その後、一時9.6万円（約1480万円）台に値を落とすなど上値の重い展開となった。",
+          "link": "https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0205?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-05T05:04:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン、対中貿易戦争再発、サックス氏会見は期待外れ【仮想通貨相場】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zMDc4MTViMTAyMTMwYmY0OWNjMjQ1OTdlZDE4ZWQ5Mi5qcGc=.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zMDc4MTViMTAyMTMwYmY0OWNjMjQ1OTdlZDE4ZWQ5Mi5qcGc=.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0205",
@@ -1957,6 +2357,21 @@
           "id": "https://jp.cointelegraph.com/news/republican-lawmakers-crypto-working-group",
           "author": "Cointelegraph  Turner Wright",
           "description": "米議会の共和党指導部は、仮想通貨規制の枠組みとステーブルコインに関する法案取りまとめのための作業部会を設立すると発表した。",
+          "link": "https://jp.cointelegraph.com/news/republican-lawmakers-crypto-working-group?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-05T04:50:00.000Z",
+          "wordCount": null,
+          "title": "米議会、仮想通貨規制枠組みとステーブルコインに関する作業部会を設立",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQyOTgtODBlMS03MWJiLTg5N2EtMjU4ZGYyM2JjMzA0.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQyOTgtODBlMS03MWJiLTg5N2EtMjU4ZGYyM2JjMzA0.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/republican-lawmakers-crypto-working-group",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "米議会の共和党指導部は、仮想通貨規制の枠組みとステーブルコインに関する法案取りまとめのための作業部会を設立すると発表した。",
           "link": "https://jp.cointelegraph.com/news/republican-lawmakers-crypto-working-group?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-02-05T04:50:00.000Z",
           "wordCount": null,
@@ -1967,6 +2382,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQyOTgtODBlMS03MWJiLTg5N2EtMjU4ZGYyM2JjMzA0.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/ftx-bahamas-repay-creditors-february",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "破綻した仮想通貨取引所FTXのバハマ法人であるFTXデジタルマーケットが、2022年11月にFTXが破綻した際に資金を失った債権者への弁済を開始する。",
+          "link": "https://jp.cointelegraph.com/news/ftx-bahamas-repay-creditors-february?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-05T03:59:00.000Z",
+          "wordCount": null,
+          "title": "FTXのバハマ法人、2月18日から債権者への弁済を開始",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQxY2QtMzhjMC03ZDdhLWIxYTYtYjk5YTQ4MzNlODFm.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQxY2QtMzhjMC03ZDdhLWIxYTYtYjk5YTQ4MzNlODFm.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/ftx-bahamas-repay-creditors-february",
@@ -1987,6 +2417,21 @@
           "id": "https://jp.cointelegraph.com/news/crypto-market-bitcoin-full-recovery-2022-pattern-repeats",
           "author": "Cointelegraph  Ciaran Lyons",
           "description": "米国のドナルド・トランプ大統領による関税措置が貿易戦争への懸念を高めた。これを受け、仮想通貨市場では大規模清算が起こったが、市場の回復には4月まで時間がかかる可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/crypto-market-bitcoin-full-recovery-2022-pattern-repeats?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-05T03:39:00.000Z",
+          "wordCount": null,
+          "title": "仮想通貨市場の回復、4月までかかる可能性——貿易戦争懸念で大規模清算発生＝アナリスト",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQzYWMtNmJlNy03ZWI2LTkzZDEtY2E5YjE4MTMxYzkz.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQzYWMtNmJlNy03ZWI2LTkzZDEtY2E5YjE4MTMxYzkz.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-market-bitcoin-full-recovery-2022-pattern-repeats",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "米国のドナルド・トランプ大統領による関税措置が貿易戦争への懸念を高めた。これを受け、仮想通貨市場では大規模清算が起こったが、市場の回復には4月まで時間がかかる可能性がある。",
           "link": "https://jp.cointelegraph.com/news/crypto-market-bitcoin-full-recovery-2022-pattern-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-02-05T03:39:00.000Z",
           "wordCount": null,
@@ -1997,6 +2442,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQzYWMtNmJlNy03ZWI2LTkzZDEtY2E5YjE4MTMxYzkz.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/btc-volatility-low-stablecoin-transaction-tops-visa-ark",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "2024年はデジタル資産市場にとって画期的な年となった。ビットコインの年間ボラティリティ（価格変動率）は過去最低を記録し、ステーブルコインの取引額がVisaやマスターカードを上回った。",
+          "link": "https://jp.cointelegraph.com/news/btc-volatility-low-stablecoin-transaction-tops-visa-ark?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-04T23:05:00.000Z",
+          "wordCount": null,
+          "title": "BTCのボラティリティが過去最低を記録、ステーブルコインの取引額がビザを上回る",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQyNTMtYTY0My03ZTUzLThkMGMtNTEyNWMyMjVhNGQx.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQyNTMtYTY0My03ZTUzLThkMGMtNTEyNWMyMjVhNGQx.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/btc-volatility-low-stablecoin-transaction-tops-visa-ark",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-06T10:39:52.230Z</updated>
+    <updated>2025-02-06T11:11:43.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、1日に16億ドル相当が取引所から流出。4月以来最大：アナリストが指摘]]></title>
+        <id>https://www.coindeskjapan.com/?p=274990</id>
+        <link href="https://www.coindeskjapan.com/274990/"/>
+        <updated>2025-02-06T10:55:00.000Z</updated>
+        <summary type="html"><![CDATA[2月5日、中央集権型取引所から1万7000ビットコイン（BTC）以上が流出した。これは、現在の市場価格9万8600ドルで換算すると16億ドル（約2400億円、1 ...
+ビットコイン、1日に16億ドル相当が取引所から流出。4月以来最大：アナリストが指摘 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2/6話題】CoinBestがOSL Japanに社名変更、日本のApp Storeから複数の海外取引所アプリが削除かなど（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=449326</id>
@@ -2368,16 +2379,6 @@ XRP、DOGEが25%急落──貿易戦争の懸念から22億ドルの清算が�
         <summary type="html"><![CDATA[今週は　FRBパウエル議長の仮想通貨に関する発言、Bitwise幹部によるビットコイン4年サイクル分析、ECBラガルド総裁のビットコイン準備金に関する発言について書いたニュースが最も関心を集めた。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[機械が信頼するマネー　AIとステーブルコインが築くエージェント経済【オピニオン】]]></title>
-        <id>https://jp.cointelegraph.com/news/money-that-machines-trust</id>
-        <link href="https://jp.cointelegraph.com/news/money-that-machines-trust?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-01T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[APIの発明がソフトウェアの発展を可能にし、システム間の自動通信を実現したように、ステーブルコインは人工知能（AI）にとっての「金融API」となりつつある。APIがソフトウェア間のデータ交換とタスク実行をシームレスに行うのと同様に、ステーブルコインはAIエージェントが価値を交換し、完全に自律的な環境で取引を実行するための流動性、プログラム可能性、効率性を提供する。]]></summary>
-        <author>
-            <name>Cointelegraph  Peter Schroeder</name>
         </author>
     </entry>
 </feed>

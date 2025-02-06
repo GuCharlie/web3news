@@ -545,6 +545,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=592625",
+          "author": "AKIRA.H",
+          "description": "暗号資産販売所CoinTradeが、ステーキング報酬を自動で元本に組み入れる無期限の複利運用サービスを開始。ETH、SOLなど10銘柄に対応し、90日ごとの更新が不要に。",
+          "link": "https://coinpost.jp/?p=592625",
+          "publishedOn": "2025-02-06T08:20:25.000Z",
+          "wordCount": 3009,
+          "title": "コイントレード、複利ステーキングサービスを開始　自動再投資型で長期運用ニーズに対応",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/CoinTrade-1-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/CoinTrade-1-1.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=592587",
           "author": "AKIRA.H",
           "description": "「Apple社が日本のApp Storeで、Bybit、Bitget、MEXCなど5つの主要海外取引所アプリを非表示に。金融庁による未登録業者への警告との関連性が指摘される中、各社の対応や日本のユーザーへの影響が注目される。",
@@ -1604,6 +1619,36 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-chart-signals-decisive-price-move-coming-macro-economic-conditions-analysts",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "ビットコイン（BTC）は、今後数週間のうちに「決定的な価格変動」に向かう可能性がある。これは、米国政府の次のビットコイン政策の決定と、マクロ経済の動向が影響を与えると見られている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-chart-signals-decisive-price-move-coming-macro-economic-conditions-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-06T08:20:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン　今後数週間で「決定的な価格変動」——米国の仮想通貨政策が鍵に＝アナリスト",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ4Y2ItNjI2MC03YzBjLTkwMDQtYjA3ZjAzZWE3YTk0.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ4Y2ItNjI2MC03YzBjLTkwMDQtYjA3ZjAzZWE3YTk0.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0206",
+          "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
+          "description": "5日のビットコイン（BTC）円は1513万2330円から取引が始まった。",
+          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0206?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-06T08:10:00.000Z",
+          "wordCount": null,
+          "title": "米金利低下もBTC上値重く、為替の影響に注意【仮想通貨相場】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kMmQ1NTVjMmUzZjkyZmJmM2E3MTljYmFhMzBmOGQ3Mi5qZmlm.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kMmQ1NTVjMmUzZjkyZmJmM2E3MTljYmFhMzBmOGQ3Mi5qZmlm.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0206",
           "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
           "description": "5日のビットコイン（BTC）円は1513万2330円から取引が始まった。",
@@ -1617,6 +1662,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kMmQ1NTVjMmUzZjkyZmJmM2E3MTljYmFhMzBmOGQ3Mi5qZmlm.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/institutional-traders-no-plans-trade-crypto-despite-trump-promises-jpm",
+          "author": "Cointelegraph  Martin Young",
+          "description": "JPモルガンが機関投資家向けに実施した調査によると、回答者の70%以上が2025年も仮想通貨を取引する予定はないと回答した。",
+          "link": "https://jp.cointelegraph.com/news/institutional-traders-no-plans-trade-crypto-despite-trump-promises-jpm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-06T07:45:00.000Z",
+          "wordCount": null,
+          "title": "JPモルガン調査　機関投資家の7割以上が2025年も仮想通貨取引を予定せず",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ5NzUtNzk4YS03MDI1LWFlNjEtODVjNGE0OThkN2Nk.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ5NzUtNzk4YS03MDI1LWFlNjEtODVjNGE0OThkN2Nk.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/institutional-traders-no-plans-trade-crypto-despite-trump-promises-jpm",

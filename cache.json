@@ -545,6 +545,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=591599",
+          "author": "Shusaku.Akaji",
+          "description": "仮想通貨TRUMPの取引方法とエアドロップ獲得のポイントを解説。ハイパーリキッドでのレバレッジ取引の始め方から、リスク管理まで網羅。次回のエアドロップに関する情報も提供。",
+          "link": "https://coinpost.jp/?p=591599",
+          "publishedOn": "2025-02-06T09:00:38.000Z",
+          "wordCount": 3195,
+          "title": "仮想通貨トランプ（TRUMP）のトレードとエアドロップ戦略｜ハイパーリキッドの使い方",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/hyperliquid-trunmp-20250131.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/hyperliquid-trunmp-20250131.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=592625",
           "author": "AKIRA.H",
           "description": "暗号資産販売所CoinTradeが、ステーキング報酬を自動で元本に組み入れる無期限の複利運用サービスを開始。ETH、SOLなど10銘柄に対応し、90日ごとの更新が不要に。",
@@ -1618,6 +1633,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-political-weapon-reserve-asset-arthur-hayes",
+          "author": "Cointelegraph  Brayden Lindrea",
+          "description": "業界関係者によれば、米国でビットコイン（BTC）の戦略準備金が導入されれば、業界にとって「マイナス要因」となる可能性がある。これは、政治的な武器として利用される可能性があり、2028年の大統領選で民主党が勝利した場合には保有BTCが売却される可能性すらある。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-political-weapon-reserve-asset-arthur-hayes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-06T08:45:00.000Z",
+          "wordCount": null,
+          "title": "米国のビットコイン備蓄金、業界にとって「マイナス要因」になる可能性＝アーサー・ヘイズ氏",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ5MjEtNWZmNy03Njg3LWJkMGQtY2UzM2IzZjA0ODU0.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ5MjEtNWZmNy03Njg3LWJkMGQtY2UzM2IzZjA0ODU0.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-chart-signals-decisive-price-move-coming-macro-economic-conditions-analysts",
           "author": "Cointelegraph  Ciaran Lyons",
@@ -2982,21 +3012,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGI2MDktY2RhYS03NjliLWEwNjgtOWJlYmNiZTA1OGNi.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/us-following-el-salvador-playbook-web3-ceo",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "デジタル資産のトークン化を手掛けるネクスブリッジの創設者ミケーレ・クリヴェッリ氏によると、米国は現在エルサルバドルの足跡を追っているという。",
-          "link": "https://jp.cointelegraph.com/news/us-following-el-salvador-playbook-web3-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-02-01T20:55:00.000Z",
-          "wordCount": null,
-          "title": "米国　仮想通貨政策でエルサルバドルと同じ道を歩む＝Web3企業が指摘",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGJlMTktN2M1My03MmVhLThlY2UtOGFkYWI5ZjVkMzBk.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGJlMTktN2M1My03MmVhLThlY2UtOGFkYWI5ZjVkMzBk.jpg"
         }
       ]
     }

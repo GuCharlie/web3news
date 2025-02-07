@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-07T11:35:34.425Z</updated>
+    <updated>2025-02-07T12:26:51.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【2/7話題】金融庁がAppleとGoogleに海外暗号資産アプリ停止要請、イーサリアム「Pectra」テストネット実装日など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=449666</id>
+        <link href="https://www.neweconomy.jp/posts/449666"/>
+        <updated>2025-02-07T11:55:45.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FRBのウォーラー理事、明確な規制の下でのステーブルコイン導入を支持——米ドルの基軸通貨維持につながると強調]]></title>
+        <id>https://jp.cointelegraph.com/news/fed-s-waller-says-he-s-supportive-of-stablecoins</id>
+        <link href="https://jp.cointelegraph.com/news/fed-s-waller-says-he-s-supportive-of-stablecoins?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-07T11:55:00.000Z</updated>
+        <summary type="html"><![CDATA[米連邦準備制度理事会（FRB）のクリストファー・ウォーラー理事は、明確なルールと規制の下でステーブルコインを導入することが、米ドルの基軸通貨としての地位を確固たるものにすると述べた。]]></summary>
+        <author>
+            <name>Cointelegraph  Stephen Katte</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本の金融庁、未登録取引所5社のアプリダウンロード停止を要請——規制遵守の姿勢を強化]]></title>
         <id>https://jp.cointelegraph.com/news/japan-removes-unregistered-crypto-exchange-apps</id>
@@ -2854,27 +2874,6 @@ XRP、DOGEが25%急落──貿易戦争の懸念から22億ドルの清算が�
         <summary type="html"><![CDATA[インド経済担当次官が仮想通貨規制方針の見直しを示唆した。米国トランプ政権の規制緩和の動向などに注目しているとみられる。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン土日に約140万円幅下落、迫る関税のインフレ懸念｜仮想NISHI]]></title>
-        <id>https://coinpost.jp/?p=591800</id>
-        <link href="https://coinpost.jp/?p=591800"/>
-        <updated>2025-02-03T00:17:02.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインが3日間で140万円急落し一時1,500万円割れ。トランプ前大統領の関税措置発表を受けインフレ懸念が台頭、オプション市場ではPCRが上昇基調に。米国の戦略備蓄法案やチェコの動向は好材料も、金融引き締め観測から下値リスクに警戒感。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、9万7200ドル付近まで下落──カナダがトランプ大統領の関税に報復]]></title>
-        <id>https://www.coindeskjapan.com/?p=274270</id>
-        <link href="https://www.coindeskjapan.com/274270/"/>
-        <updated>2025-02-02T23:40:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインは2日、10万ドルを下回り、3日連続で軟調な取引となった（日本時間3日8時40分時点では、9万7200ドル付近）。カナダがメキシコに続いて米国に対す ...
-ビットコイン、9万7200ドル付近まで下落──カナダがトランプ大統領の関税に報復 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-07T10:40:01.465Z</updated>
+    <updated>2025-02-07T11:11:18.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日本の金融庁、未登録取引所5社のアプリダウンロード停止を要請——規制遵守の姿勢を強化]]></title>
+        <id>https://jp.cointelegraph.com/news/japan-removes-unregistered-crypto-exchange-apps</id>
+        <link href="https://jp.cointelegraph.com/news/japan-removes-unregistered-crypto-exchange-apps?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-07T10:53:00.000Z</updated>
+        <summary type="html"><![CDATA[日本の金融庁（FSA）は、未登録の仮想通貨取引所5社のアプリダウンロード停止をアップルとグーグルに要請し、日本市場における規制遵守の重要性を改めて強調した。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、8万ドルと9万ドルのプットオプションに需要──米雇用統計の発表を前に]]></title>
+        <id>https://www.coindeskjapan.com/?p=275248</id>
+        <link href="https://www.coindeskjapan.com/275248/"/>
+        <updated>2025-02-07T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[シンガポールを拠点とするQCPキャピタル（QCP Capital）が追跡しているオプション市場の動きによると、アメリカの非農業部門雇用者数（NFP）という重要な ...
+ビットコイン、8万ドルと9万ドルのプットオプションに需要──米雇用統計の発表を前に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン市場、米雇用統計を前に軟調な展開続く　雇用統計上振れならリスク資産に逆風]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-traders-huge-us-jobs-data-btc-price-risks-95k</id>
@@ -2854,26 +2875,6 @@ XRP、DOGEが25%急落──貿易戦争の懸念から22億ドルの清算が�
 ビットコイン、9万7200ドル付近まで下落──カナダがトランプ大統領の関税に報復 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETHトレーダー、イーサリアム価格3,000ドルへの下落で1,600万ドルの利益]]></title>
-        <id>https://jp.cointelegraph.com/news/crypto-trader-profits-16m-ether-short-as-eth-falls</id>
-        <link href="https://jp.cointelegraph.com/news/crypto-trader-profits-16m-ether-short-as-eth-falls?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-02T23:08:00.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨市場において、あるトレーダーがイーサリアム（ETH）の価格下落を活用し、約1570万ドル（約24億3700万円）の未実現利益を生み出した。]]></summary>
-        <author>
-            <name>Cointelegraph  Zoltan Vardai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、10万ドル超えの月間終値も9万5000ドルへの調整リスク]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-price-correction-bear-trap-analysts-eye-95k-dip</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-price-correction-bear-trap-analysts-eye-95k-dip?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-02T22:55:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は、史上初めて10万ドルを超える月間終値を記録したものの、9万5000ドルを下回る「ベアトラップ」に向かう可能性がある。]]></summary>
-        <author>
-            <name>Cointelegraph  Zoltan Vardai</name>
         </author>
     </entry>
 </feed>

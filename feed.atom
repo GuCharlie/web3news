@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-07T10:14:54.842Z</updated>
+    <updated>2025-02-07T10:40:01.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン市場、米雇用統計を前に軟調な展開続く　雇用統計上振れならリスク資産に逆風]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-traders-huge-us-jobs-data-btc-price-risks-95k</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-traders-huge-us-jobs-data-btc-price-risks-95k?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-07T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は2月7日も軟調な展開となり、予測市場が米国の雇用統計の「大幅な上振れ」を警告している。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナは2025年末までに520ドルに達する：VanEck]]></title>
         <id>https://www.coindeskjapan.com/?p=275219</id>
@@ -2864,36 +2874,6 @@ XRP、DOGEが25%急落──貿易戦争の懸念から22億ドルの清算が�
         <summary type="html"><![CDATA[ビットコイン（BTC）は、史上初めて10万ドルを超える月間終値を記録したものの、9万5000ドルを下回る「ベアトラップ」に向かう可能性がある。]]></summary>
         <author>
             <name>Cointelegraph  Zoltan Vardai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、6日ぶりに10万ドルを割り込む｜トランプ大統領の関税発表で市場混乱]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-price-100k-fall-donald-trump-imposes-import-tariffs</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-price-100k-fall-donald-trump-imposes-import-tariffs?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-02T22:37:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は2月1日、米国のドナルド・トランプ大統領が中国、カナダ、メキシコからの輸入品に対する関税措置を盛り込んだ大統領令に署名したことを受け、6日ぶりに10万ドルを下回った。]]></summary>
-        <author>
-            <name>Cointelegraph  Ciaran Lyons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[インド政府、仮想通貨規制の見直しを検討｜国家間の採用拡大を受け]]></title>
-        <id>https://jp.cointelegraph.com/news/india-may-change-crypto-policy-due-international-adoption-report</id>
-        <link href="https://jp.cointelegraph.com/news/india-may-change-crypto-policy-due-international-adoption-report?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-02T22:26:00.000Z</updated>
-        <summary type="html"><![CDATA[歴史的に仮想通貨に対して否定的な立場を取ってきたインド政府が、他国での採用拡大を受けて規制方針の見直しを進めている。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインのドミナンス、60%台を回復｜アルトコインの大幅下落が要因]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-dominance-hits-60-altcoins-bleed</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-dominance-hits-60-altcoins-bleed?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-02T22:20:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）の市場占有率（ドミナンス）が2月2日、仮想通貨市場全体の時価総額に対して60%を突破した。これは、米国のドナルド・トランプ大統領による新たな貿易関税措置に伴う市場の下落を受けたものだ。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-09T02:35:21.628Z</updated>
+    <updated>2025-02-09T06:17:49.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今週の主要仮想通貨材料まとめ、ビットコイン急落やXRP・LTCのETF申請で進展など]]></title>
+        <id>https://coinpost.jp/?p=592786</id>
+        <link href="https://coinpost.jp/?p=592786"/>
+        <updated>2025-02-09T05:00:01.000Z</updated>
+        <summary type="html"><![CDATA[前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナなど主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今週のビットコイン乱高下で推移、米中貿易摩擦が重石に｜bitbankアナリスト寄稿]]></title>
         <id>https://coinpost.jp/?p=592865</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[bitbankアナリストの長谷川氏が2月第1週のビットコイン相場を分析。米加墨の関税問題や日銀の追加利上げ観測による円高進行で上値が重い展開に。一方で、バイデン政権下のFDIC規制見直し方針が下支えとなり、今後は米雇用統計と中国の対米関税発動が焦点に。]]></summary>
         <author>
             <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIエージェントがWeb3ゲームの普及を後押しする【オピニオン】]]></title>
+        <id>https://jp.cointelegraph.com/news/ai-agents-will-expedite-web3-gaming</id>
+        <link href="https://jp.cointelegraph.com/news/ai-agents-will-expedite-web3-gaming?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-09T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ゲーマーは新たな冒険を求めるハッカーのような存在だ。ゲームのレベルや全クリを達成すれば、さらに多くを求める。そして、達成を認められ、誇りを示したいと考える。だからこそ、プレイヤーを指導し、ゲーム内で応援するAIエージェントの導入が、Web3ゲームの人気を急拡大させるだろう。]]></summary>
+        <author>
+            <name>Cointelegraph  Norris Wang</name>
         </author>
     </entry>
     <entry>

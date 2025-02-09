@@ -1285,16 +1285,6 @@
           "wordCount": 786,
           "title": "【2/5話題】BlockstreamとDiamond Handsが提携、リミックスポイントが5億円でBTCとXRP追加購入など（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/05173937/news_head_20250205.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=449149",
-          "author": "TamuraSeiji",
-          "description": "Polygon Labsが「AggLayer v0.2」を発表 ポリゴンラボ（Polygon Labs）が、「アグレイヤー v0.2（AggLayer v0.2）」のメインネット稼働開始を2月3日に発表した。 「アグレイ […]",
-          "link": "https://www.neweconomy.jp/posts/449149",
-          "publishedOn": "2025-02-05T11:05:32.000Z",
-          "wordCount": 676,
-          "title": "Polygon Labs、「AggLayer v0.2」をメインネットで稼働開始",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/05200520/2f6751489d5abd98fc62b56eecc879b3.jpg"
         }
       ]
     },
@@ -1303,6 +1293,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/quantum-computing-bitcoin-lost-wallet-threat-tether-ceo",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "テザーの最高経営責任者（CEO）であるパオロ・アルドイノ氏は、量子コンピューターが最終的に休眠状態のビットコインウォレットをハッキングし、それらのウォレットに保管されているビットコインが市場に再流通すると予測している。",
+          "link": "https://jp.cointelegraph.com/news/quantum-computing-bitcoin-lost-wallet-threat-tether-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-09T22:58:00.000Z",
+          "wordCount": null,
+          "title": "量子コンピューターが休眠状態のビットコインを市場に戻す可能性＝テザーCEO",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGU4YWItMDczMS03NTA0LWJkZjUtZTNiNjE1NDJlMGEx.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGU4YWItMDczMS03NTA0LWJkZjUtZTNiNjE1NDJlMGEx.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/micro-strategy-saylor-posts-btc-chart-after-week-break",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "ストラテジーの共同創業者であるマイケル・セイラー氏は、日曜日に投稿することが多いビットコイン（BTC）のチャートをXに投稿し、1週間の購入休止を経て翌日に再びビットコインを取得する可能性を示唆した。",
+          "link": "https://jp.cointelegraph.com/news/micro-strategy-saylor-posts-btc-chart-after-week-break?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-09T22:45:00.000Z",
+          "wordCount": null,
+          "title": "マイケル・セイラー氏がビットコインチャートの投稿を再開",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJkZTYtNTQwNy03ZjE0LTk3Y2EtMjJiNGFhODBmZDIx.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJkZTYtNTQwNy03ZjE0LTk3Y2EtMjJiNGFhODBmZDIx.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/austin-university-launch-5-m-bitcoin-fund-5-year-hodl-strategy-report",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "米オースティン大学が米国初のビットコイン投資ファンドを設立した。同国の機関投資家によるビットコイン採用が拡大している。",
+          "link": "https://jp.cointelegraph.com/news/austin-university-launch-5-m-bitcoin-fund-5-year-hodl-strategy-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-09T22:28:00.000Z",
+          "wordCount": null,
+          "title": "米オースティン大学が500万ドルのビットコインファンドを設立、5年間の保有戦略を計画",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGVhNTYtMjIyMS03NGRkLWI5NzItMmRlZGMzMTkzNzkw.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGVhNTYtMjIyMS03NGRkLWI5NzItMmRlZGMzMTkzNzkw.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/blockchain-us-treasury-musk-doge-transparency",
           "author": "Cointelegraph  Zoltan Vardai",

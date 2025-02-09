@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-09T22:36:23.397Z</updated>
+    <updated>2025-02-09T23:13:18.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[量子コンピューターが休眠状態のビットコインを市場に戻す可能性＝テザーCEO]]></title>
+        <id>https://jp.cointelegraph.com/news/quantum-computing-bitcoin-lost-wallet-threat-tether-ceo</id>
+        <link href="https://jp.cointelegraph.com/news/quantum-computing-bitcoin-lost-wallet-threat-tether-ceo?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-09T22:58:00.000Z</updated>
+        <summary type="html"><![CDATA[テザーの最高経営責任者（CEO）であるパオロ・アルドイノ氏は、量子コンピューターが最終的に休眠状態のビットコインウォレットをハッキングし、それらのウォレットに保管されているビットコインが市場に再流通すると予測している。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイケル・セイラー氏がビットコインチャートの投稿を再開]]></title>
+        <id>https://jp.cointelegraph.com/news/micro-strategy-saylor-posts-btc-chart-after-week-break</id>
+        <link href="https://jp.cointelegraph.com/news/micro-strategy-saylor-posts-btc-chart-after-week-break?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-09T22:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ストラテジーの共同創業者であるマイケル・セイラー氏は、日曜日に投稿することが多いビットコイン（BTC）のチャートをXに投稿し、1週間の購入休止を経て翌日に再びビットコインを取得する可能性を示唆した。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米オースティン大学が500万ドルのビットコインファンドを設立、5年間の保有戦略を計画]]></title>
+        <id>https://jp.cointelegraph.com/news/austin-university-launch-5-m-bitcoin-fund-5-year-hodl-strategy-report</id>
+        <link href="https://jp.cointelegraph.com/news/austin-university-launch-5-m-bitcoin-fund-5-year-hodl-strategy-report?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-09T22:28:00.000Z</updated>
+        <summary type="html"><![CDATA[米オースティン大学が米国初のビットコイン投資ファンドを設立した。同国の機関投資家によるビットコイン採用が拡大している。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マスク氏の「DOGE」、米国納税者に約5.5兆円の節約効果｜仮想通貨業界は政府にブロックチェーン活用を求める]]></title>
         <id>https://jp.cointelegraph.com/news/blockchain-us-treasury-musk-doge-transparency</id>
@@ -1781,16 +1811,6 @@ SECのヘスター・パース委員、新設の暗号資産タスクフォー�
         <summary type="html"><![CDATA[トランプ政権の仮想通貨政策担当であるデービッド・サックス氏によれば、トランプ政権は、ステーブルコインの規制と国内でのイノベーション推進を計画している。]]></summary>
         <author>
             <name>Cointelegraph  Helen Partz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygon Labs、「AggLayer v0.2」をメインネットで稼働開始]]></title>
-        <id>https://www.neweconomy.jp/?p=449149</id>
-        <link href="https://www.neweconomy.jp/posts/449149"/>
-        <updated>2025-02-05T11:05:32.000Z</updated>
-        <summary type="html"><![CDATA[Polygon Labsが「AggLayer v0.2」を発表 ポリゴンラボ（Polygon Labs）が、「アグレイヤー v0.2（AggLayer v0.2）」のメインネット稼働開始を2月3日に発表した。 「アグレイ […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
         </author>
     </entry>
 </feed>

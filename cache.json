@@ -480,16 +480,6 @@
           "wordCount": 1304,
           "title": "SECのヘスター・パース委員、新設の暗号資産タスクフォースの10の優先事項を提示",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/shutterstock_2426097137.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=274738",
-          "author": "Will Canny",
-          "description": "伝説的なビットコイン（BTC）開発者であるアダム・バック（Adam Back）氏が共同創業した暗号資産（仮想通貨）開発企業のブロックストリーム（Blockstr ...\nブロックストリーム、アジア進出の拠点として東京にオフィスを開設 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/274738/",
-          "publishedOn": "2025-02-05T10:30:00.000Z",
-          "wordCount": 1283,
-          "title": "ブロックストリーム、アジア進出の拠点として東京にオフィスを開設",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/0e53af5518bc524d01ea3e655b84d209f4046519-2560x1920-1.png"
         }
       ]
     },
@@ -1313,6 +1303,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/blockchain-us-treasury-musk-doge-transparency",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "米実業家のイーロン・マスク氏が主導する「政府効率化局（Department of Government Efficiency、DOGE）」が、米国の納税者に対し約367億ドルの節約効果をもたらした。",
+          "link": "https://jp.cointelegraph.com/news/blockchain-us-treasury-musk-doge-transparency?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-09T22:10:00.000Z",
+          "wordCount": null,
+          "title": "マスク氏の「DOGE」、米国納税者に約5.5兆円の節約効果｜仮想通貨業界は政府にブロックチェーン活用を求める",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGU5ZjItYTNjYi03MDc4LWJkNDEtMGFlOTg3YmE3N2Ex.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGU5ZjItYTNjYi03MDc4LWJkNDEtMGFlOTg3YmE3N2Ex.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-700k-ethereum-16k-this-cycle-bill-barhydt",
           "author": "Cointelegraph  William Suberg",

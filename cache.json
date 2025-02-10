@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=275599",
+          "author": "Oliver Knight",
+          "description": "暗号資産取引所バイナンスが最近公表した準備金データによると、同取引所のビットコイン準備高は先月、3億5500万ドル減少したが、顧客残高は40億ドル以上増加し、2 ...\nバイナンスのビットコイン準備高、1月に約540億円減少──ユーザー残高は約6700億円増加 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/275599/",
+          "publishedOn": "2025-02-10T23:00:00.000Z",
+          "wordCount": 1280,
+          "title": "バイナンスのビットコイン準備高、1月に約540億円減少──ユーザー残高は約6700億円増加",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/b82c4976b4725029511f9ba8ea6033b9f0c55a16-1123x746-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=275571",
           "author": "林 理南",
           "description": "マイクロストラテジー（MicroStrategy）から社名変更したストラテジー（Strategy）は、ビットコイン（BTC）購入を先週一時中断した後、7億424 ...\nストラテジー、ビットコイン購入を再開──保有量が47万8740BTCに増加 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -460,16 +470,6 @@
           "wordCount": 1330,
           "title": "ストラテジーの新転換優先株ストライク、6日にナスダック上場へ",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/00e7304e15455e431051c733121e5e07d51210fc-5184x3888-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=274990",
-          "author": "Omkar Godbole",
-          "description": "2月5日、中央集権型取引所から1万7000ビットコイン（BTC）以上が流出した。これは、現在の市場価格9万8600ドルで換算すると16億ドル（約2400億円、1 ...\nビットコイン、1日に16億ドル相当が取引所から流出。4月以来最大：アナリストが指摘 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/274990/",
-          "publishedOn": "2025-02-06T10:55:00.000Z",
-          "wordCount": 1315,
-          "title": "ビットコイン、1日に16億ドル相当が取引所から流出。4月以来最大：アナリストが指摘",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/11/shutterstock_2471362535-scaled-e1732688055562.jpg"
         }
       ]
     },
@@ -1228,6 +1228,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/ethereum-hedge-funds-short-bets-price-struggles",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "世界で2番目に時価総額が大きい仮想通貨であるイーサ（ETH）は勢いを欠き、ヘッジファンドはショートポジションを増やしている。",
+          "link": "https://jp.cointelegraph.com/news/ethereum-hedge-funds-short-bets-price-struggles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-10T22:51:00.000Z",
+          "wordCount": null,
+          "title": "イーサリアムのショートポジションが500％急増、ヘッジファンドが下落に賭ける",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGFiMDEtMGNlZS03NGUwLTg0NjMtZTdmNTNkM2ZjY2Vi.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGFiMDEtMGNlZS03NGUwLTg0NjMtZTdmNTNkM2ZjY2Vi.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/michael-saylor-s-strategy-makes-first-bitcoin-acquisition-under-new-name",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "大手ビットコイン保有企業であるストラテジー（旧マイクロストラテジー）は、社名変更後初となるBTCの取得を発表した。",
+          "link": "https://jp.cointelegraph.com/news/michael-saylor-s-strategy-makes-first-bitcoin-acquisition-under-new-name?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-10T22:39:00.000Z",
+          "wordCount": null,
+          "title": "ストラテジー社、社名変更後に初のビットコイン購入を発表",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGVmZmQtODM0Ni03MWVjLTgzNmQtMGI3ZThjNWI4Nzdi.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGVmZmQtODM0Ni03MWVjLTgzNmQtMGI3ZThjNWI4Nzdi.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/metaplanet-shares-rise-btc-reserve-strategy",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "メタプラネットの株価が過去1年間で急騰している。同社は一貫してビットコイン（BTC）を財務資産として追加しており、マイケル・セイラー氏が率いるストラテジー社（旧マイクロストラテジー）の戦略を模倣している。",
+          "link": "https://jp.cointelegraph.com/news/metaplanet-shares-rise-btc-reserve-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-10T22:30:00.000Z",
+          "wordCount": null,
+          "title": "メタプラネットの株価が1年で4800%上昇",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGYxMDQtYjM4Yi03ZGQxLThiNTktYjk3ZjQxMjJlNjlh.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGYxMDQtYjM4Yi03ZGQxLThiNTktYjk3ZjQxMjJlNjlh.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/tesla-q4-bitcoin-profit-btc-collateral-opportunity-execs",
           "author": "Cointelegraph  Sam Bourgi",

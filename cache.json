@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=275483",
+          "author": "廣瀬 優香",
+          "description": "事情に詳しい関係者によると、シティグループ（Citigroup）の元幹部らが設立したスタートアップであるReceipts Depositary Corp.（RD ...\nシティ元幹部が設立したスタートアップ、XRP担保証券を発行へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/275483/",
+          "publishedOn": "2025-02-10T09:45:00.000Z",
+          "wordCount": 1310,
+          "title": "シティ元幹部が設立したスタートアップ、XRP担保証券を発行へ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/shutterstock_2470698987.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=275500",
           "author": "Omkar Godbole",
           "description": "1週間前、貿易戦争への懸念が市場を揺るがし、ビットコイン（BTC）は9万1000ドル近くまで暴落した。暗号資産分析会社のIntoTheBlockによると、同じ日 ...\nBTC価格が9万ドルへ下落した際、取引所へのテザーの流入額が27億ドルに急増 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -510,26 +520,6 @@
           "wordCount": 1274,
           "title": "ビットコインは2028年までに50万ドル到達： スタンダードチャータード",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/d8f61eaa6c79326f1434a0062c4c08d7639fd368-1400x787-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=274811",
-          "author": "Camomile Shumba",
-          "description": "10兆ドル以上の運用資産を持つ世界最大の資産運用会社ブラックロックが、欧州でビットコインETPの上場を計画していると、ブルームバーグが2月5日に報じた。 このフ ...\nブラックロック、欧州でビットコインETPを計画：ブルームバーグ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/274811/",
-          "publishedOn": "2025-02-05T22:15:00.000Z",
-          "wordCount": 1369,
-          "title": "ブラックロック、欧州でビットコインETPを計画：ブルームバーグ",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/shutterstock_1753971095.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=274778",
-          "author": "林 理南",
-          "description": "タップルート・ウィザーズ（Taproot Wizards）は、3000万ドル（約46億5000万円、1ドル155円換算）を調達した。これを用いてOP_CATビッ ...\nビットコインにスマートコントラクトを──タップルート・ウィザーズが約46.5億円調達 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/274778/",
-          "publishedOn": "2025-02-05T22:00:00.000Z",
-          "wordCount": 1282,
-          "title": "ビットコインにスマートコントラクトを──タップルート・ウィザーズが約46.5億円調達",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/ca3c6e0d93948dc00c7ecf7c8ccd3a46ac238280-1920x1080-1.jpg"
         }
       ]
     },
@@ -544,6 +534,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=592758",
+          "author": "CoinPost編集部",
+          "description": "独自仮想通貨を4つの取引所に同時上場することを、ブロックチェーンの相互運用レイヤーAnalogが発表。ブロックチェーン接続の再構築やトークンのリーチ拡大に向け、大胆な一歩を踏み出すとした。",
+          "link": "https://coinpost.jp/?p=592758",
+          "publishedOn": "2025-02-10T10:00:45.000Z",
+          "wordCount": 3074,
+          "title": "独自仮想通貨を4つの取引所に同時上場へ　ブロックチェーンの相互運用レイヤー「Analog」が発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/Analog-1-listing.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/Analog-1-listing.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=593202",
           "author": "AKIRA.H",
@@ -1188,21 +1193,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/201102_usa_btc.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/201102_usa_btc.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=592436",
-          "author": "菊谷ルイス",
-          "description": "世界最大の資産運用会社ブラックロックが、米国で成功を収めた仮想通貨ビットコイン連動の現物ETFを踏襲し、ヨーロッパ市場向けに類似のビットコインETFの上場準備を進めている。",
-          "link": "https://coinpost.jp/?p=592436",
-          "publishedOn": "2025-02-05T22:15:16.000Z",
-          "wordCount": 3194,
-          "title": "ブラックロック、欧州でビットコイン現物ETF提供へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/03/blackrock-build-ondo-shit.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/03/blackrock-build-ondo-shit.jpeg"
         }
       ]
     },
@@ -1478,6 +1468,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0210",
+          "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
+          "description": "3日〜9日のビットコイン（BTC）対円相場の週足終値は、前週比54万2044円（3.56%）安の1468万8997円と2週続落した。",
+          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0210?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-10T09:33:00.000Z",
+          "wordCount": null,
+          "title": "BTCジリ下げで2週続落　三役逆転が間近に【仮想通貨相場】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jYThkZDlmM2EzNWE5YjYxM2UxOGE5NGNjMTAxZTkyNy5qcGc=.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jYThkZDlmM2EzNWE5YjYxM2UxOGE5NGNjMTAxZTkyNy5qcGc=.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/quantum-computing-bitcoin-lost-wallet-threat-tether-ceo",
           "author": "Cointelegraph  Ciaran Lyons",
@@ -2407,66 +2412,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ1OWQtNDQ5NS03MGYwLWFjNDctNjhmMzExNDYzODZm.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/how-long-will-the-bitcoin-consolidation-last",
-          "author": "Cointelegraph  Nancy Lubale",
-          "description": "ビットコイン（BTC）は11月19日に初めて9万ドルの大台を突破した後、9万1,500ドルから10万6,500ドルのレンジで推移している。",
-          "link": "https://jp.cointelegraph.com/news/how-long-will-the-bitcoin-consolidation-last?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-02-05T22:05:00.000Z",
-          "wordCount": null,
-          "title": "ビットコインの調整、いつまで続く？各アナリストの見解を紹介",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTAvMDE5MmQyOWQtNGZhYS03OTE0LThjZGUtMzE0NGNlN2NkYzk5.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTAvMDE5MmQyOWQtNGZhYS03OTE0LThjZGUtMzE0NGNlN2NkYzk5.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/how-long-will-the-bitcoin-consolidation-last",
-          "author": "Cointelegraph  Nancy Lubale",
-          "description": "ビットコイン（BTC）は11月19日に初めて9万ドルの大台を突破した後、9万1,500ドルから10万6,500ドルのレンジで推移している。",
-          "link": "https://jp.cointelegraph.com/news/how-long-will-the-bitcoin-consolidation-last?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-02-05T22:05:00.000Z",
-          "wordCount": null,
-          "title": "ビットコインの調整、いつまで続く？各アナリストの見解を紹介",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTAvMDE5MmQyOWQtNGZhYS03OTE0LThjZGUtMzE0NGNlN2NkYzk5.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTAvMDE5MmQyOWQtNGZhYS03OTE0LThjZGUtMzE0NGNlN2NkYzk5.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/altseason-ended-2024-bitcoin-dominance-71-before-returns",
-          "author": "Cointelegraph  William Suberg",
-          "description": "ビットコイン（BTC）のドミナンス(市場支配率)が70%を超えなければ、本格的な「アルトシーズン」は再開しない可能性がある――。",
-          "link": "https://jp.cointelegraph.com/news/altseason-ended-2024-bitcoin-dominance-71-before-returns?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-02-05T21:41:00.000Z",
-          "wordCount": null,
-          "title": "「アルトシーズンは2024年に終了した」ビットコインのドミナンスが71%に達するまで再開せず＝アナリスト",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ2YTMtMTI5OC03ZDcxLWJkYjEtYzNjNjZhZWJkYzJj.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ2YTMtMTI5OC03ZDcxLWJkYjEtYzNjNjZhZWJkYzJj.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/altseason-ended-2024-bitcoin-dominance-71-before-returns",
-          "author": "Cointelegraph  William Suberg",
-          "description": "ビットコイン（BTC）のドミナンス(市場支配率)が70%を超えなければ、本格的な「アルトシーズン」は再開しない可能性がある――。",
-          "link": "https://jp.cointelegraph.com/news/altseason-ended-2024-bitcoin-dominance-71-before-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-02-05T21:41:00.000Z",
-          "wordCount": null,
-          "title": "「アルトシーズンは2024年に終了した」ビットコインのドミナンスが71%に達するまで再開せず＝アナリスト",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ2YTMtMTI5OC03ZDcxLWJkYjEtYzNjNjZhZWJkYzJj.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ2YTMtMTI5OC03ZDcxLWJkYjEtYzNjNjZhZWJkYzJj.jpg"
         }
       ]
     }

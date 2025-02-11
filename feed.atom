@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-11T22:13:01.974Z</updated>
+    <updated>2025-02-11T22:37:40.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[パウエルFRB議長、CBDC発行を否定「私の任期中にはあり得ない」]]></title>
+        <id>https://jp.cointelegraph.com/news/fed-chair-jerome-powell-no-digital-dollar</id>
+        <link href="https://jp.cointelegraph.com/news/fed-chair-jerome-powell-no-digital-dollar?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-11T22:21:00.000Z</updated>
+        <summary type="html"><![CDATA[米連邦準備制度理事会（FRB）のジェローム・パウエル議長は、上院での公聴会において、自身が議長である限り、中央銀行デジタル通貨（CBDC）を発行することはないと明言した。]]></summary>
+        <author>
+            <name>Cointelegraph  Turner Wright</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ビットコインは2〜3週間後に最高値更新」金の動きを追跡するとトレーダーが指摘]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-all-time-high-due-2-3-weeks-traders-btc-copying-gold</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-all-time-high-due-2-3-weeks-traders-btc-copying-gold?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-11T22:03:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は、2月11日の米ウォール街市場の開幕とともに直近の上昇分を帳消しにした。一方、金は史上最高値を更新した後、調整局面に入った。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンス、相場ピーク時に自社資産のビットコインなどを大量売却　罰金支払いのためか]]></title>
         <id>https://coinpost.jp/?p=593837</id>
@@ -1236,26 +1256,6 @@ ETH、強気相場に向かうか──8月の底値時と似た値動き first 
 ビットコイン、8万ドルと9万ドルのプットオプションに需要──米雇用統計の発表を前に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン市場、米雇用統計を前に軟調な展開続く　雇用統計上振れならリスク資産に逆風]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-traders-huge-us-jobs-data-btc-price-risks-95k</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-traders-huge-us-jobs-data-btc-price-risks-95k?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-07T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は2月7日も軟調な展開となり、予測市場が米国の雇用統計の「大幅な上振れ」を警告している。]]></summary>
-        <author>
-            <name>Cointelegraph  William Suberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン市場、米雇用統計を前に軟調な展開続く　雇用統計上振れならリスク資産に逆風]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-traders-huge-us-jobs-data-btc-price-risks-95k</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-traders-huge-us-jobs-data-btc-price-risks-95k?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-07T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は2月7日も軟調な展開となり、予測市場が米国の雇用統計の「大幅な上振れ」を警告している。]]></summary>
-        <author>
-            <name>Cointelegraph  William Suberg</name>
         </author>
     </entry>
 </feed>

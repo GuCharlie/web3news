@@ -320,16 +320,6 @@
           "wordCount": 1344,
           "title": "ビットコイン、10万ドル超え──1月の米雇用者数の伸びが予想下回ったことを受けて",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/shutterstock_2261521435.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=275248",
-          "author": "Omkar Godbole",
-          "description": "シンガポールを拠点とするQCPキャピタル（QCP Capital）が追跡しているオプション市場の動きによると、アメリカの非農業部門雇用者数（NFP）という重要な ...\nビットコイン、8万ドルと9万ドルのプットオプションに需要──米雇用統計の発表を前に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/275248/",
-          "publishedOn": "2025-02-07T10:45:00.000Z",
-          "wordCount": 1321,
-          "title": "ビットコイン、8万ドルと9万ドルのプットオプションに需要──米雇用統計の発表を前に",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/01/shutterstock_1803009601.jpg"
         }
       ]
     },
@@ -344,6 +334,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=593851",
+          "author": "CoinPost編集部",
+          "description": "仮想通貨市場は、軟調な動きを継続。米国消費者物価指数（CPI）の公表を控え、投資家が様子見姿勢を取っていることが挙げられる。",
+          "link": "https://coinpost.jp/?p=593851",
+          "publishedOn": "2025-02-11T22:55:45.000Z",
+          "wordCount": 3249,
+          "title": "ビットコイン軟調、パウエル議長発言とCPI発表前の影響分析｜仮想NISHI",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=593839",
+          "author": "K.Kobayashi",
+          "description": "大手DEXユニスワップは、仮想通貨イーサリアムのL2「Unichain」のメインネットをローンチ。発表で、DeFiを復興させることを表明した。",
+          "link": "https://coinpost.jp/?p=593839",
+          "publishedOn": "2025-02-11T22:40:19.000Z",
+          "wordCount": 3249,
+          "title": "大手DEXユニスワップ、イーサリアムL2「Unichain」のメインネットをローンチ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/uniswap_20210630_02.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/uniswap_20210630_02.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=593837",
           "author": "菊谷ルイス",
@@ -893,6 +913,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/solo-miner-snags-bitcoin-block-reward-worth-300-k",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "ソロのビットコインマイナーが、3.125BTC（約30万ドル）の報酬を得たことが分かった。",
+          "link": "https://jp.cointelegraph.com/news/solo-miner-snags-bitcoin-block-reward-worth-300-k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-11T22:56:00.000Z",
+          "wordCount": null,
+          "title": "ソロビットコインマイナーが30万ドルのマイニングに成功",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGYzMzYtMWNlZi03ZDI2LTllNTItNzY3YjhjNTA0ODJi.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGYzMzYtMWNlZi03ZDI2LTllNTItNzY3YjhjNTA0ODJi.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/sec-senate-confirmed-chair-crypto-agenda",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "米証券取引委員会（SEC）の仮想通貨タスクフォースを率いるヘスター・ピアース委員は、上院が新議長を承認するまで、SECはデジタル資産に関する規制の議題を決定しない可能性が高いと述べた。",
+          "link": "https://jp.cointelegraph.com/news/sec-senate-confirmed-chair-crypto-agenda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-11T22:46:00.000Z",
+          "wordCount": null,
+          "title": "米SECのピアース委員、仮想通貨規制議題について「議長がいない状態では時期尚早」と発言",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGY2YzMtZmU4OS03YjVkLTk1YTEtZDY1MWUyMzU0MDZj.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGY2YzMtZmU4OS03YjVkLTk1YTEtZDY1MWUyMzU0MDZj.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitgo-mulls-ipo-2025-report",
+          "author": "Cointelegraph  Alex O’Donnell",
+          "description": "2月11日付のブルームバーグによると、仮想通貨カストディ企業のビットゴーが、早ければ今年にも新規株式公開（IPO）を検討しているという。",
+          "link": "https://jp.cointelegraph.com/news/bitgo-mulls-ipo-2025-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-11T22:25:00.000Z",
+          "wordCount": null,
+          "title": "仮想通貨カストディのビットゴー、2025年にIPOを計画＝報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGY2YWMtZDVjNy03ZWQ3LTljY2QtOTYxMjY1MDgxYmNm.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGY2YWMtZDVjNy03ZWQ3LTljY2QtOTYxMjY1MDgxYmNm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/fed-chair-jerome-powell-no-digital-dollar",
           "author": "Cointelegraph  Turner Wright",
@@ -1612,36 +1677,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGRkZDUtYTU2ZC03MDA4LTg2MDEtN2NhYTcxMDJhZTEx.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/japan-removes-unregistered-crypto-exchange-apps",
-          "author": "Cointelegraph  Zoltan Vardai",
-          "description": "日本の金融庁（FSA）は、未登録の仮想通貨取引所5社のアプリダウンロード停止をアップルとグーグルに要請し、日本市場における規制遵守の重要性を改めて強調した。",
-          "link": "https://jp.cointelegraph.com/news/japan-removes-unregistered-crypto-exchange-apps?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-02-07T10:53:00.000Z",
-          "wordCount": null,
-          "title": "日本の金融庁、未登録取引所5社のアプリダウンロード停止を要請——規制遵守の姿勢を強化",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGRmZjQtOTI2My03NjZjLWFjZTgtZmU2NjMzYmJmNWMx.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGRmZjQtOTI2My03NjZjLWFjZTgtZmU2NjMzYmJmNWMx.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/japan-removes-unregistered-crypto-exchange-apps",
-          "author": "Cointelegraph  Zoltan Vardai",
-          "description": "日本の金融庁（FSA）は、未登録の仮想通貨取引所5社のアプリダウンロード停止をアップルとグーグルに要請し、日本市場における規制遵守の重要性を改めて強調した。",
-          "link": "https://jp.cointelegraph.com/news/japan-removes-unregistered-crypto-exchange-apps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-02-07T10:53:00.000Z",
-          "wordCount": null,
-          "title": "日本の金融庁、未登録取引所5社のアプリダウンロード停止を要請——規制遵守の姿勢を強化",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGRmZjQtOTI2My03NjZjLWFjZTgtZmU2NjMzYmJmNWMx.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGRmZjQtOTI2My03NjZjLWFjZTgtZmU2NjMzYmJmNWMx.jpg"
         }
       ]
     }

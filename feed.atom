@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-11T22:37:40.164Z</updated>
+    <updated>2025-02-11T23:14:06.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソロビットコインマイナーが30万ドルのマイニングに成功]]></title>
+        <id>https://jp.cointelegraph.com/news/solo-miner-snags-bitcoin-block-reward-worth-300-k</id>
+        <link href="https://jp.cointelegraph.com/news/solo-miner-snags-bitcoin-block-reward-worth-300-k?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-11T22:56:00.000Z</updated>
+        <summary type="html"><![CDATA[ソロのビットコインマイナーが、3.125BTC（約30万ドル）の報酬を得たことが分かった。]]></summary>
+        <author>
+            <name>Cointelegraph  Stephen Katte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン軟調、パウエル議長発言とCPI発表前の影響分析｜仮想NISHI]]></title>
+        <id>https://coinpost.jp/?p=593851</id>
+        <link href="https://coinpost.jp/?p=593851"/>
+        <updated>2025-02-11T22:55:45.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨市場は、軟調な動きを継続。米国消費者物価指数（CPI）の公表を控え、投資家が様子見姿勢を取っていることが挙げられる。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米SECのピアース委員、仮想通貨規制議題について「議長がいない状態では時期尚早」と発言]]></title>
+        <id>https://jp.cointelegraph.com/news/sec-senate-confirmed-chair-crypto-agenda</id>
+        <link href="https://jp.cointelegraph.com/news/sec-senate-confirmed-chair-crypto-agenda?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-11T22:46:00.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会（SEC）の仮想通貨タスクフォースを率いるヘスター・ピアース委員は、上院が新議長を承認するまで、SECはデジタル資産に関する規制の議題を決定しない可能性が高いと述べた。]]></summary>
+        <author>
+            <name>Cointelegraph  Turner Wright</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大手DEXユニスワップ、イーサリアムL2「Unichain」のメインネットをローンチ]]></title>
+        <id>https://coinpost.jp/?p=593839</id>
+        <link href="https://coinpost.jp/?p=593839"/>
+        <updated>2025-02-11T22:40:19.000Z</updated>
+        <summary type="html"><![CDATA[大手DEXユニスワップは、仮想通貨イーサリアムのL2「Unichain」のメインネットをローンチ。発表で、DeFiを復興させることを表明した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨カストディのビットゴー、2025年にIPOを計画＝報道]]></title>
+        <id>https://jp.cointelegraph.com/news/bitgo-mulls-ipo-2025-report</id>
+        <link href="https://jp.cointelegraph.com/news/bitgo-mulls-ipo-2025-report?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-11T22:25:00.000Z</updated>
+        <summary type="html"><![CDATA[2月11日付のブルームバーグによると、仮想通貨カストディ企業のビットゴーが、早ければ今年にも新規株式公開（IPO）を検討しているという。]]></summary>
+        <author>
+            <name>Cointelegraph  Alex O’Donnell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[パウエルFRB議長、CBDC発行を否定「私の任期中にはあり得ない」]]></title>
         <id>https://jp.cointelegraph.com/news/fed-chair-jerome-powell-no-digital-dollar</id>
@@ -1225,37 +1275,6 @@ ETH、強気相場に向かうか──8月の底値時と似た値動き first 
         <summary type="html"><![CDATA[米連邦準備制度理事会（FRB）のクリストファー・ウォーラー理事は、明確なルールと規制の下でステーブルコインを導入することが、米ドルの基軸通貨としての地位を確固たるものにすると述べた。]]></summary>
         <author>
             <name>Cointelegraph  Stephen Katte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本の金融庁、未登録取引所5社のアプリダウンロード停止を要請——規制遵守の姿勢を強化]]></title>
-        <id>https://jp.cointelegraph.com/news/japan-removes-unregistered-crypto-exchange-apps</id>
-        <link href="https://jp.cointelegraph.com/news/japan-removes-unregistered-crypto-exchange-apps?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-07T10:53:00.000Z</updated>
-        <summary type="html"><![CDATA[日本の金融庁（FSA）は、未登録の仮想通貨取引所5社のアプリダウンロード停止をアップルとグーグルに要請し、日本市場における規制遵守の重要性を改めて強調した。]]></summary>
-        <author>
-            <name>Cointelegraph  Zoltan Vardai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本の金融庁、未登録取引所5社のアプリダウンロード停止を要請——規制遵守の姿勢を強化]]></title>
-        <id>https://jp.cointelegraph.com/news/japan-removes-unregistered-crypto-exchange-apps</id>
-        <link href="https://jp.cointelegraph.com/news/japan-removes-unregistered-crypto-exchange-apps?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-07T10:53:00.000Z</updated>
-        <summary type="html"><![CDATA[日本の金融庁（FSA）は、未登録の仮想通貨取引所5社のアプリダウンロード停止をアップルとグーグルに要請し、日本市場における規制遵守の重要性を改めて強調した。]]></summary>
-        <author>
-            <name>Cointelegraph  Zoltan Vardai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、8万ドルと9万ドルのプットオプションに需要──米雇用統計の発表を前に]]></title>
-        <id>https://www.coindeskjapan.com/?p=275248</id>
-        <link href="https://www.coindeskjapan.com/275248/"/>
-        <updated>2025-02-07T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[シンガポールを拠点とするQCPキャピタル（QCP Capital）が追跡しているオプション市場の動きによると、アメリカの非農業部門雇用者数（NFP）という重要な ...
-ビットコイン、8万ドルと9万ドルのプットオプションに需要──米雇用統計の発表を前に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>

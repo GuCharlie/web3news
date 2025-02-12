@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=275653",
+          "author": "林 理南",
+          "description": "米連邦準備制度理事会（FRB）のジェローム・パウエル（Jerome Powell）議長は上院銀行委員会の公聴会で、暗号資産（仮想通貨）業界を悩ませる「デバンキン ...\nFRBのパウエル議長、米暗号資産業界を悩ませる「デバンキング」への懸念に同意 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/275653/",
+          "publishedOn": "2025-02-12T04:34:52.000Z",
+          "wordCount": 1357,
+          "title": "FRBのパウエル議長、米暗号資産業界を悩ませる「デバンキング」への懸念に同意",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/53bff5a314aa0c494894d49f43bde129462c1c3f-7502x4503-1-scaled.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=275646",
           "author": "廣瀬 優香",
           "description": "ウォール街の銀行大手JPモルガン（JPMorgan）は11日、TradingViewのデータを引用したリサーチレポートのなかで、暗号資産（仮想通貨）エコシステム ...\n暗号資産エコシステムの成長は1月に鈍化も、時価総額は増加：JPモルガン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -370,10 +380,85 @@
       "articles": []
     },
     {
-      "title": "Ethereum(ETH)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=593930",
+          "author": "CoinPost編集部",
+          "description": "暗号資産取引所大手のLBankが主導し、MEXC VenturesやHashKey Capitalなど業界有力7社が共同で、DEXXハッキング被害の救済基金を設立。新設の「ミームコイン振興委員会」が運営を担い、NFTステーキングによる補償プランも導入。",
+          "link": "https://coinpost.jp/?p=593930",
+          "publishedOn": "2025-02-12T05:21:58.000Z",
+          "wordCount": 3040,
+          "title": "LBankなど7社、DEXXハッキング被害者に対し約20億円の補償基金設立へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/Lbank0212.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/Lbank0212.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=593900",
+          "author": "幸田直子",
+          "description": "パウエルFRB議長が上院銀行委員会で、仮想通貨業界の銀行サービスのアクセス問題に関して再検討を表明。規制当局が銀行に対し、過度の規制を行わないよう協力すると約束した。",
+          "link": "https://coinpost.jp/?p=593900",
+          "publishedOn": "2025-02-12T04:30:04.000Z",
+          "wordCount": 3089,
+          "title": "パウエルFRB議長「仮想通貨企業の銀行アクセス問題を再検討すべき時」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/frb-powell.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/frb-powell.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=593881",
+          "author": "A.Yamada",
+          "description": "リップル社はユニカンビオと提携し、リップルペイメントを使ってポルトガルとブラジル間の即時国際決済を提供する。",
+          "link": "https://coinpost.jp/?p=593881",
+          "publishedOn": "2025-02-12T02:30:14.000Z",
+          "wordCount": 3241,
+          "title": "リップル社、ポルトガルとブラジル間の即時国際決済を実現へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/ripple2_20210628.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/ripple2_20210628.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=593869",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨ビットコインの現物ETFが購入するビットコイン数量は2025年、新規発行される数量を大きく上回っている。ETFの購入量が新規発行量を3倍超上回っているとの指摘も上がった。",
+          "link": "https://coinpost.jp/?p=593869",
+          "publishedOn": "2025-02-12T01:42:29.000Z",
+          "wordCount": 3281,
+          "title": "ETFのビットコイン購入量、25年は新規発行量を3倍超過か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/guernsey-btc-etf-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/guernsey-btc-etf-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=593863",
+          "author": "A.Yamada",
+          "description": "香港当局が、仮想通貨ビットコインとイーサリアムを投資移民の資産として承認したと伝えられる。香港ではBTC準備金の検討を唱える議員もいる。",
+          "link": "https://coinpost.jp/?p=593863",
+          "publishedOn": "2025-02-12T01:25:24.000Z",
+          "wordCount": 3242,
+          "title": "香港政府、投資移民の資産としてビットコインとイーサリアムを認定か＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/hongkong-license-1st-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/hongkong-license-1st-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=593867",
           "author": "菊谷ルイス",
@@ -847,6 +932,66 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=450512",
+          "author": "OtsugaShinya",
+          "description": "中央アフリカ共和国がミームコイン「CAR」発行 中央アフリカ共和国による公式ミームコイン「Central African Republic Meme（CAR）」が2月10日に発行開始された。同日に同国大統領のファスティン […]",
+          "link": "https://www.neweconomy.jp/posts/450512",
+          "publishedOn": "2025-02-12T06:10:09.000Z",
+          "wordCount": 803,
+          "title": "中央アフリカ共和国がミームコイン「CAR」発行、時価総額一時約9億ドルなるも暴落",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/12150955/f83c621303d469f2729c9f994326605a.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=450500",
+          "author": "NewEconomy",
+          "description": "TONがLayerZeroと統合 レイヤー1ブロックチェーン「オープンネットワーク（The Open Network：TON）」と相互運用性プロトコル「レイヤーゼロ（LayerZero）」の統合完了が、2月12日に発表さ […]",
+          "link": "https://www.neweconomy.jp/posts/450500",
+          "publishedOn": "2025-02-12T06:03:34.000Z",
+          "wordCount": 658,
+          "title": "TON、LayerZero統合で相互運用性を向上",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/12150329/9a3c9b6b8f5cc9b4f27d1570efdc31d5.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=450462",
+          "author": "HitomotoToshikazu",
+          "description": "Grayscale Cardano Trust上場へ シカゴの証券取引所「NYSEアーカ（NYSE Arca）」が、暗号資産（仮想通貨）運用会社グレースケール（Grayscale）が運営するカルダノ（ADA）投資信託「グ […]",
+          "link": "https://www.neweconomy.jp/posts/450462",
+          "publishedOn": "2025-02-12T05:59:19.000Z",
+          "wordCount": 623,
+          "title": "NYSE Arca、グレースケールの「カルダノ（ADA）投資信託」の上場でSECに提案書提出",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/12135446/c4a2134e8dbd4ddb1a9225bf6723850d.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=450496",
+          "author": "NewEconomy",
+          "description": "BTC、ETH、SOL等の資産を売却との噂を否定 世界最大の暗号資産（仮想通貨）取引所であるバイナンス（Binance）は、同社がビットコイン（BTC）など複数の資産を大量売却したという噂を2月11日に否定した。 この噂 […]",
+          "link": "https://www.neweconomy.jp/posts/450496",
+          "publishedOn": "2025-02-12T05:52:56.000Z",
+          "wordCount": 661,
+          "title": "バイナンス、ビットコイン等の保有資産を大量売却したとの噂を否定",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/12145250/06e2b5e6db40ae8536346cf1167ef806.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=450446",
+          "author": "OtsugaShinya",
+          "description": "OKJがBCH・ETC・FNCT・LTCを販売所で取扱開始 国内暗号資産（仮想通貨）取引所OKJ提供の販売所サービスにおいて、ビットコインキャッシュ（BCH）、イーサリアムクラシック（ETC）、フィナンシェトークン（FN […]",
+          "link": "https://www.neweconomy.jp/posts/450446",
+          "publishedOn": "2025-02-12T03:43:55.000Z",
+          "wordCount": 602,
+          "title": "OKJ、BCH・ETC・FNCT・LTCを販売所で取扱開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/12124338/5bdf61f2a63ad6a8a616bc67555877f7.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=450431",
+          "author": "NewEconomy",
+          "description": "チェコ中銀副総裁が「ビットコインは外貨準備に適さず」と発言 チェコ国立銀行（中央銀行）のザムラジロワ（Eva Zamrazilova）副総裁は、暗号資産（仮想通貨）ビットコインは中銀の外貨準備にふさわしくないとしながらも […]",
+          "link": "https://www.neweconomy.jp/posts/450431",
+          "publishedOn": "2025-02-12T02:38:25.000Z",
+          "wordCount": 742,
+          "title": "ビットコインは外貨準備に適さず、研究は必要＝チェコ中銀副総裁",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/12113818/2d21bd833361e1ae17afd23e25e48905.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=450316",
           "author": "OtsugaShinya",
           "description": "ストラテジーのビットコイン総保有量478,740BTCに ビットコイン（BTC）の購入を積極的に進めている米ナスダック上場企業ストラテジー（Strategy：旧マイクロストラテジー）が、ビットコインの追加購入を2月10日 […]",
@@ -973,6 +1118,111 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-vc-deal-count-dropped-46-percent-2024",
+          "author": "Cointelegraph  Ezra Reguerra",
+          "description": "2024年第4四半期の仮想通貨関連のベンチャーキャピタル（VC）投資の取引件数が大幅に減少しており、投資家が資金配分に対してより選別的になっている。",
+          "link": "https://jp.cointelegraph.com/news/crypto-vc-deal-count-dropped-46-percent-2024?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-12T05:35:00.000Z",
+          "wordCount": null,
+          "title": "仮想通貨プロジェクトへの投資　ベンチャーキャピタルはより慎重姿勢に＝レポート",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzNkMzctMzRmOS03NmJjLWJlZGEtYTNmNDk5ZjIwZGMz.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzNkMzctMzRmOS03NmJjLWJlZGEtYTNmNDk5ZjIwZGMz.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/institutional-players-shape-the-future-of-de-fi",
+          "author": "Cointelegraph  Michael Egorov",
+          "description": "分散型金融（DeFi）は、金融業界において急速に影響力を増している重要なトレンドとなっている。DeFiの活動は絶えず拡大し、総ロック価値（TVL）は1000億ドルを超えている。このセクターへの機関投資家の関心も急激に高まっている。",
+          "link": "https://jp.cointelegraph.com/news/institutional-players-shape-the-future-of-de-fi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-12T05:05:00.000Z",
+          "wordCount": null,
+          "title": "機関投資家とDeFiの未来：分散化と制度化のバランスをどう取るべきか【オピニオン】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDVlZWMtMjY4Ny03Mjk1LWJiZDEtOTA0N2NmMTM4NTkw.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDVlZWMtMjY4Ny03Mjk1LWJiZDEtOTA0N2NmMTM4NTkw.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/grayscale-files-cardano-trust-spot-etf",
+          "author": "Cointelegraph  Tom Mitchelhill",
+          "description": "NYSEグループ傘下のNYSEアーカが、仮想通貨資産運用会社グレースケールに代わり、現物カルダノ上場投資信託（ETF）の上場を申請した。",
+          "link": "https://jp.cointelegraph.com/news/grayscale-files-cardano-trust-spot-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-12T04:40:00.000Z",
+          "wordCount": null,
+          "title": "NYSEアーカ、グレースケールのカルダノETF上場をSECに申請",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGYyMTEtYWJhNS03MzQzLWIxNzUtNWJjYjA1YmMxODI3.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGYyMTEtYWJhNS03MzQzLWIxNzUtNWJjYjA1YmMxODI3.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/tether-invests-in-zengo-wallet-self-custody-stablecoin",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "世界最大のステーブルコインの発行企業であるテザーが、自己管理型仮想通貨ウォレット「Zengoウォレット」に投資を行った。これは、テザーのステーブルコインUSDTが欧州連合（EU）の規制強化に直面する中での動きとなる。",
+          "link": "https://jp.cointelegraph.com/news/tether-invests-in-zengo-wallet-self-custody-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-12T03:55:00.000Z",
+          "wordCount": null,
+          "title": "ステーブルコイン発行企業テザー、自己管理型仮想通貨ウォレット「Zengo」に投資",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGY1NDItZDAzOS03MDgxLTllYWMtOGYzYTg0Yjg5YzY2.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGY1NDItZDAzOS03MDgxLTllYWMtOGYzYTg0Yjg5YzY2.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/solana-sol-price-softens-as-onchain-volumes-drop-28-in-a-week",
+          "author": "Cointelegraph  Marcel Pechman",
+          "description": "ソラナのネイティブトークンであるSOLは、足元では200ドルを下回って取引されており、現在は1月19日の過去最高値である295ドルから34%下落している。SOLのデリバティブ指標によると、トレーダーのセンチメントは悪化しており、ソラナネットワークの活動低下がさらなる強気回復の可能性を阻害する要因となっている。",
+          "link": "https://jp.cointelegraph.com/news/solana-sol-price-softens-as-onchain-volumes-drop-28-in-a-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-12T03:15:00.000Z",
+          "wordCount": null,
+          "title": "伸び悩むソラナ（SOL）　ミームコイン取引低迷とネットワーク活動減少が影響",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGY2NjEtMzY3NS03ODQwLWEwYWQtYWM2YTM4NmEzMjgz.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGY2NjEtMzY3NS03ODQwLWEwYWQtYWM2YTM4NmEzMjgz.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/binance-sec-case-halt-60-days-crypto-task-force",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "米証券取引委員会（SEC）とバイナンスは、仮想通貨に関する主要な訴訟の停止に向けた初の動きを見せ、訴訟の一時停止を求める共同申請を行った。SECの委員長代行にマーク・ウエダ氏が就任して以来、仮想通貨関連の訴訟でこのような動きが見られたのは初めてのことだ。",
+          "link": "https://jp.cointelegraph.com/news/binance-sec-case-halt-60-days-crypto-task-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-12T02:50:00.000Z",
+          "wordCount": null,
+          "title": "米証券取引委員会（SEC）とバイナンス、60日間の訴訟停止を共同申請",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGY0MDktMzM1OS03MTYxLTgzNDktNjc3MDRhNTM0MDA4.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGY0MDktMzM1OS03MTYxLTgzNDktNjc3MDRhNTM0MDA4.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/tokyo-listed-gaming-studio-gumi-acquires-bitcoin",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "日本のモバイルゲーム企業gumiが、バランスシートにビットコインを追加し、ステーキングプロトコル「Babylon」を通じた保有資産の収益化を計画している。",
+          "link": "https://jp.cointelegraph.com/news/tokyo-listed-gaming-studio-gumi-acquires-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-12T02:25:00.000Z",
+          "wordCount": null,
+          "title": "日本のモバイルゲーム企業gumi、10億円相当のビットコインを購入　ステーキングプロトコルでの収益化を計画",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGY1ZDUtMzNlMy03ZjhlLTliNTQtMTc3YTBhZDRjZDUw.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGY1ZDUtMzNlMy03ZjhlLTliNTQtMTc3YTBhZDRjZDUw.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/franklin-templeton-solana-trust-delaware-spot-sol-etf",
           "author": "Cointelegraph  Brayden Lindrea",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-12T07:13:12.393Z</updated>
+    <updated>2025-02-12T07:35:39.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米サークル「USDC」、Unichainにネイティブ対応開始]]></title>
+        <id>https://www.neweconomy.jp/?p=450546</id>
+        <link href="https://www.neweconomy.jp/posts/450546"/>
+        <updated>2025-02-12T07:19:21.000Z</updated>
+        <summary type="html"><![CDATA[USDCがUnichainにネイティブ対応開始 米サークル（Circle Internet Financial）発行の米ドル建てステーブルコイン「USDC」のネイティブ型トークンが、レイヤー2（L2）ブロックチェーン「ユ […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ユニスワップラボ、独自イーサL2「Unichain」のメインネット公開]]></title>
         <id>https://www.neweconomy.jp/?p=450528</id>
@@ -1520,26 +1530,6 @@ ETH、強気相場に向かうか──8月の底値時と似た値動き first 
         <summary type="html"><![CDATA[バイナンスのリチャード・テンCEOは、仮想通貨の普及には機関投資家の参入と規制の進化が不可欠であると強調した。テン氏は、「包括的な規制と機関投資家の関与が、デジタル資産エコシステムをより広範な金融システムにとって不可欠な存在へと変えつつある」とXで述べた。]]></summary>
         <author>
             <name>Cointelegraph  Arijit Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP 2桁台への急騰なるか？  仮想通貨アナリストは「1500％上昇」と予測も]]></title>
-        <id>https://jp.cointelegraph.com/news/analysts-predict-1500-pump-in-xrp-price-amid-multiple-etf-applications</id>
-        <link href="https://jp.cointelegraph.com/news/analysts-predict-1500-pump-in-xrp-price-amid-multiple-etf-applications?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-07T19:16:00.000Z</updated>
-        <summary type="html"><![CDATA[XRPは、過去7日間で約23%の価値を失い、2月7日時点で2.42ドル付近で推移している。過去24時間でも3%の下落となった。しかし、複数の現物XRP上場投資信託（ETF）の申請と強気のテクニカル要因により、アルトコイン市場でXRPが二桁ドル台へ急騰する可能性がある。]]></summary>
-        <author>
-            <name>Cointelegraph  Nancy Lubale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP 2桁台への急騰なるか？  仮想通貨アナリストは「1500％上昇」と予測も]]></title>
-        <id>https://jp.cointelegraph.com/news/analysts-predict-1500-pump-in-xrp-price-amid-multiple-etf-applications</id>
-        <link href="https://jp.cointelegraph.com/news/analysts-predict-1500-pump-in-xrp-price-amid-multiple-etf-applications?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-07T19:16:00.000Z</updated>
-        <summary type="html"><![CDATA[XRPは、過去7日間で約23%の価値を失い、2月7日時点で2.42ドル付近で推移している。過去24時間でも3%の下落となった。しかし、複数の現物XRP上場投資信託（ETF）の申請と強気のテクニカル要因により、アルトコイン市場でXRPが二桁ドル台へ急騰する可能性がある。]]></summary>
-        <author>
-            <name>Cointelegraph  Nancy Lubale</name>
         </author>
     </entry>
 </feed>

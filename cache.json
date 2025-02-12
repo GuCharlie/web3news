@@ -947,6 +947,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=450546",
+          "author": "OtsugaShinya",
+          "description": "USDCがUnichainにネイティブ対応開始 米サークル（Circle Internet Financial）発行の米ドル建てステーブルコイン「USDC」のネイティブ型トークンが、レイヤー2（L2）ブロックチェーン「ユ […]",
+          "link": "https://www.neweconomy.jp/posts/450546",
+          "publishedOn": "2025-02-12T07:19:21.000Z",
+          "wordCount": 795,
+          "title": "米サークル「USDC」、Unichainにネイティブ対応開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/12161917/ae80f9aa44bf305f97f58865e1a4c2c3.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=450528",
           "author": "OtsugaShinya",
           "description": "「Unichain」メインネット公開 ユニスワップラボ（Uniswap Labs）が、独自ブロックチェーン「ユニチェーン（Unichain）」のメインネットの一般公開を2月11日に発表した。ユニスワップラボは、分散型取引 […]",
@@ -1977,36 +1987,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2FkZTMtZDZiMy03Njc3LTllMTMtZjcwZTY5NGNhMzhj.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/analysts-predict-1500-pump-in-xrp-price-amid-multiple-etf-applications",
-          "author": "Cointelegraph  Nancy Lubale",
-          "description": "XRPは、過去7日間で約23%の価値を失い、2月7日時点で2.42ドル付近で推移している。過去24時間でも3%の下落となった。しかし、複数の現物XRP上場投資信託（ETF）の申請と強気のテクニカル要因により、アルトコイン市場でXRPが二桁ドル台へ急騰する可能性がある。",
-          "link": "https://jp.cointelegraph.com/news/analysts-predict-1500-pump-in-xrp-price-amid-multiple-etf-applications?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-02-07T19:16:00.000Z",
-          "wordCount": null,
-          "title": "XRP 2桁台への急騰なるか？  仮想通貨アナリストは「1500％上昇」と予測も",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGUwOTYtMTZlOC03MGU4LTkwNDctZjgwMzMwYjA1NjMx.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGUwOTYtMTZlOC03MGU4LTkwNDctZjgwMzMwYjA1NjMx.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/analysts-predict-1500-pump-in-xrp-price-amid-multiple-etf-applications",
-          "author": "Cointelegraph  Nancy Lubale",
-          "description": "XRPは、過去7日間で約23%の価値を失い、2月7日時点で2.42ドル付近で推移している。過去24時間でも3%の下落となった。しかし、複数の現物XRP上場投資信託（ETF）の申請と強気のテクニカル要因により、アルトコイン市場でXRPが二桁ドル台へ急騰する可能性がある。",
-          "link": "https://jp.cointelegraph.com/news/analysts-predict-1500-pump-in-xrp-price-amid-multiple-etf-applications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-02-07T19:16:00.000Z",
-          "wordCount": null,
-          "title": "XRP 2桁台への急騰なるか？  仮想通貨アナリストは「1500％上昇」と予測も",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGUwOTYtMTZlOC03MGU4LTkwNDctZjgwMzMwYjA1NjMx.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGUwOTYtMTZlOC03MGU4LTkwNDctZjgwMzMwYjA1NjMx.jpg"
         }
       ]
     }

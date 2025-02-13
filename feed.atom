@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-13T11:35:36.718Z</updated>
+    <updated>2025-02-13T12:27:46.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BNB Chain、2025年のロードマップ発表]]></title>
+        <id>https://www.neweconomy.jp/?p=451071</id>
+        <link href="https://www.neweconomy.jp/posts/451071"/>
+        <updated>2025-02-13T12:12:06.000Z</updated>
+        <summary type="html"><![CDATA[BNBチェーンの2025年ロードマップが発表 BNBチェーン（BNB Chain）の2025年のロードマップが2月11日に発表された。このロードマップでは、同チェーンの取引速度の向上や、AIを搭載した開発ツールなどの導入 […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フランクリン・テンプルトン、「オンチェーン米国政府マネーファンド（FOBXX）」をSolanaに展開]]></title>
+        <id>https://www.neweconomy.jp/?p=451062</id>
+        <link href="https://www.neweconomy.jp/posts/451062"/>
+        <updated>2025-02-13T11:41:30.000Z</updated>
+        <summary type="html"><![CDATA[オンチェーン米国政府マネーファンドがソラナで展開 米大手資産運用企業フランクリン・テンプルトン（Franklin Templeton）による「オンチェーン米国政府マネーファンド（OnChain U.S. Governme […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リップルとギャラクシー、ムーンペイに1億6000万ドルを融資──ミームコイン「TRUMP」のローンチを支援]]></title>
         <id>https://www.coindeskjapan.com/?p=276012</id>
@@ -2069,17 +2089,6 @@ DEXアグリゲーター1インチがZKsyncを統合──クロスチェーン�
         <summary type="html"><![CDATA[コインベースの運用資産額（AUM）は、米国で21番目に大きな銀行の総資産を上回る規模となり、仮想通貨業界の成長を示している。コインベースは、取引高で世界第3位の中央集権型仮想通貨取引所（CEX）であり、ユーザーのデジタル資産を4200億ドル以上保管している。]]></summary>
         <author>
             <name>Cointelegraph  Zoltan Vardai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[史上最大の蓄積作戦：企業の “ビットコイン争奪戦” が始まった]]></title>
-        <id>https://www.coindeskjapan.com/?p=274991</id>
-        <link href="https://www.coindeskjapan.com/274991/"/>
-        <updated>2025-02-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[企業がビットコインを保有することは、単なるトレンドではない。企業が株主価値を創造し、維持する方法の変革を意味すると、Next Layer CapitalのBra ...
-史上最大の蓄積作戦：企業の “ビットコイン争奪戦” が始まった first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Brandon Turp</name>
         </author>
     </entry>
 </feed>

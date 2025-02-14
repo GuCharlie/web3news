@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-14T21:12:46.430Z</updated>
+    <updated>2025-02-14T21:35:22.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[XRP価格が10%高、現物ETF実現への期待高まる]]></title>
+        <id>https://coinpost.jp/?p=594805</id>
+        <link href="https://coinpost.jp/?p=594805"/>
+        <updated>2025-02-14T21:20:58.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨XRPの価格が15日に前日比10%上昇し、2.72ドルを記録した。市場では、米証券取引委員会による現物XRPのETF承認への期待感が高まっている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、5週末連続の下落を脱するか]]></title>
         <id>https://www.coindeskjapan.com/?p=276269</id>
@@ -2192,37 +2202,6 @@ gumi、10億円分のビットコイン購入へ──企業の暗号資産保�
 シティ元幹部が設立したスタートアップ、XRP担保証券を発行へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCジリ下げで2週続落　三役逆転が間近に【仮想通貨相場】]]></title>
-        <id>https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0210</id>
-        <link href="https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0210?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-10T09:33:00.000Z</updated>
-        <summary type="html"><![CDATA[3日〜9日のビットコイン（BTC）対円相場の週足終値は、前週比54万2044円（3.56%）安の1468万8997円と2週続落した。]]></summary>
-        <author>
-            <name>Cointelegraph  コインテレグラフジャパン寄稿者</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCジリ下げで2週続落　三役逆転が間近に【仮想通貨相場】]]></title>
-        <id>https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0210</id>
-        <link href="https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0210?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-10T09:33:00.000Z</updated>
-        <summary type="html"><![CDATA[3日〜9日のビットコイン（BTC）対円相場の週足終値は、前週比54万2044円（3.56%）安の1468万8997円と2週続落した。]]></summary>
-        <author>
-            <name>Cointelegraph  コインテレグラフジャパン寄稿者</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTC価格が9万ドルへ下落した際、取引所へのテザーの流入額が27億ドルに急増]]></title>
-        <id>https://www.coindeskjapan.com/?p=275500</id>
-        <link href="https://www.coindeskjapan.com/275500/"/>
-        <updated>2025-02-10T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[1週間前、貿易戦争への懸念が市場を揺るがし、ビットコイン（BTC）は9万1000ドル近くまで暴落した。暗号資産分析会社のIntoTheBlockによると、同じ日 ...
-BTC価格が9万ドルへ下落した際、取引所へのテザーの流入額が27億ドルに急増 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>

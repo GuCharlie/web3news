@@ -590,16 +590,6 @@
           "wordCount": 1310,
           "title": "シティ元幹部が設立したスタートアップ、XRP担保証券を発行へ",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/shutterstock_2470698987.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=275500",
-          "author": "Omkar Godbole",
-          "description": "1週間前、貿易戦争への懸念が市場を揺るがし、ビットコイン（BTC）は9万1000ドル近くまで暴落した。暗号資産分析会社のIntoTheBlockによると、同じ日 ...\nBTC価格が9万ドルへ下落した際、取引所へのテザーの流入額が27億ドルに急増 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/275500/",
-          "publishedOn": "2025-02-10T09:30:00.000Z",
-          "wordCount": 1317,
-          "title": "BTC価格が9万ドルへ下落した際、取引所へのテザーの流入額が27億ドルに急増",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/10/THWADL6HLRAQXGDQHVVMM6BOOU.jpeg"
         }
       ]
     },
@@ -614,6 +604,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=594805",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨XRPの価格が15日に前日比10%上昇し、2.72ドルを記録した。市場では、米証券取引委員会による現物XRPのETF承認への期待感が高まっている。",
+          "link": "https://coinpost.jp/?p=594805",
+          "publishedOn": "2025-02-14T21:20:58.000Z",
+          "wordCount": 3321,
+          "title": "XRP価格が10%高、現物ETF実現への期待高まる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/xrp-45-up-24hr.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/xrp-45-up-24hr.png"
+        },
         {
           "id": "https://coinpost.jp/?p=594774",
           "author": "Shusaku.Akaji",
@@ -2742,36 +2747,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hMTY2ZWMyMjY1M2U1ODViMjNjYmQzYTljMmMwZDNkNS5qcGVn.jpeg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0210",
-          "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
-          "description": "3日〜9日のビットコイン（BTC）対円相場の週足終値は、前週比54万2044円（3.56%）安の1468万8997円と2週続落した。",
-          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0210?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-02-10T09:33:00.000Z",
-          "wordCount": null,
-          "title": "BTCジリ下げで2週続落　三役逆転が間近に【仮想通貨相場】",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jYThkZDlmM2EzNWE5YjYxM2UxOGE5NGNjMTAxZTkyNy5qcGc=.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jYThkZDlmM2EzNWE5YjYxM2UxOGE5NGNjMTAxZTkyNy5qcGc=.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0210",
-          "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
-          "description": "3日〜9日のビットコイン（BTC）対円相場の週足終値は、前週比54万2044円（3.56%）安の1468万8997円と2週続落した。",
-          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0210?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-02-10T09:33:00.000Z",
-          "wordCount": null,
-          "title": "BTCジリ下げで2週続落　三役逆転が間近に【仮想通貨相場】",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jYThkZDlmM2EzNWE5YjYxM2UxOGE5NGNjMTAxZTkyNy5qcGc=.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jYThkZDlmM2EzNWE5YjYxM2UxOGE5NGNjMTAxZTkyNy5qcGc=.jpg"
         }
       ]
     }

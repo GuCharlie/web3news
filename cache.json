@@ -620,10 +620,70 @@
       "articles": []
     },
     {
-      "title": "企業  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=591246",
+          "author": "A.Yoshida",
+          "description": "ステーブルコインの一種、USDCoin（USDC）の市場規模が拡大しています。2023年末に約240億ドルまで落ち込んだ供給量は、1年間で徐々に回復。2025年2月時点には約560億ドルまで達しました。USDCの時価総額推移　出典：コインマ...",
+          "link": "https://coinpost.jp/?p=591246",
+          "publishedOn": "2025-02-14T06:00:11.000Z",
+          "wordCount": 3525,
+          "title": "ステーブルコイン「USDC」とは？サークル社の米国IPO計画・国内取扱いの展望まで",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/usdc2.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/usdc2.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=593978",
+          "author": "AKIRA.H",
+          "description": "国内最大の仮想通貨メディアCoinPostで実施した「国内取引所への上場期待が高い仮想通貨銘柄調査」で、ソラナ（SOL）が48票、スイ（SUI）が37票を獲得し上位を占めた。RWA関連のONDOやミームコインへの期待も。技術力と将来性を重視する投資家の声が顕著に。",
+          "link": "https://coinpost.jp/?p=593978",
+          "publishedOn": "2025-02-14T05:00:31.000Z",
+          "wordCount": 3240,
+          "title": "【調査】国内取引所への上場期待が高い仮想通貨、トップ3は？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/CoinPost-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/CoinPost-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=594640",
+          "author": "幸田直子",
+          "description": "米税関・国境警備局（CBP）がビットコインマイニング機器の差し止めを強化。ビットメイン社製だけでなく、MicroBTやCanaan社の機器も対象に。輸入規制の背景や市場への影響を解説。",
+          "link": "https://coinpost.jp/?p=594640",
+          "publishedOn": "2025-02-14T04:35:49.000Z",
+          "wordCount": 3398,
+          "title": "米税関・国境警備局が仮想通貨マイニング機器を大規模押収",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/US-border-mining-rigs.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/US-border-mining-rigs.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=594624",
+          "author": "A.Yamada",
+          "description": "米SECとバイナンスの訴訟が4月中旬まで延期された。仮想通貨タスクフォース設立を受けSEC規制方針の転換へ期待が高まっている。",
+          "link": "https://coinpost.jp/?p=594624",
+          "publishedOn": "2025-02-14T04:20:31.000Z",
+          "wordCount": 3159,
+          "title": "対バイナンス訴訟、SECが方針転換か　新設タスクフォースで証券性判断に変化の可能性",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/lawsuit1_220909.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/lawsuit1_220909.png"
+        },
         {
           "id": "https://coinpost.jp/?p=594579",
           "author": "A.Yamada",
@@ -1878,6 +1938,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/sec-acknowledges-grayscales-xrp-dogecoin-etf-filings",
+          "author": "Cointelegraph  Brayden Lindrea",
+          "description": "米証券取引委員会（SEC）は、資産運用会社グレースケールが提出したXRPおよびドージコイン（DOGE）の上場投資信託（ETF）の申請を正式に受理した。",
+          "link": "https://jp.cointelegraph.com/news/sec-acknowledges-grayscales-xrp-dogecoin-etf-filings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-14T06:20:00.000Z",
+          "wordCount": null,
+          "title": "米証券取引委員会、グレースケールによるXRPとドージコインのETF申請を受理",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTAyMmItMmU5ZS03NTBjLTlkNGYtOGI0NTUyMjM5NDRk.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTAyMmItMmU5ZS03NTBjLTlkNGYtOGI0NTUyMjM5NDRk.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0214",
+          "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
+          "description": "昨日のBTC相場はもみ合い推移。",
+          "link": "https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0214?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-14T06:18:00.000Z",
+          "wordCount": null,
+          "title": "関税問題に揺れるビットコイン相場、第3次トランプラリーはいつ来るの？【仮想通貨相場】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMmMwMWNiMmM5MTVhZWYxMzY3OGJmYWY0MjkzMTc3Yi5qZmlm.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMmMwMWNiMmM5MTVhZWYxMzY3OGJmYWY0MjkzMTc3Yi5qZmlm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/south-korea-institutions-sell-crypto-donations-2025",
           "author": "Cointelegraph  Zoltan Vardai",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-14T18:42:23.547Z</updated>
+    <updated>2025-02-14T19:10:57.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、5週末連続の下落を脱するか]]></title>
+        <id>https://www.coindeskjapan.com/?p=276269</id>
+        <link href="https://www.coindeskjapan.com/276269/"/>
+        <updated>2025-02-14T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は2月14日、米国取引セッション序盤に小幅な上昇を見せたが、その動きはすぐに消えた。強気派は週末を前にポジションを軽くしているのだろうか？ ...
+ビットコイン、5週末連続の下落を脱するか first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Stephen Alpher</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コインベース、強い短期モメンタムの恩恵を受けて2025年は好スタート：JMP証券]]></title>
         <id>https://www.coindeskjapan.com/?p=276255</id>
@@ -2305,16 +2316,6 @@ BTC価格が9万ドルへ下落した際、取引所へのテザーの流入額�
         <summary type="html"><![CDATA[活況な市場環境受け SBIホールディングスが、2025年3月期第3四半期の連結決算を2月7日に発表し、グループ全体及び暗号資産事業の収益がともに過去最高を更新したと報告した。 暗号資産（仮想通貨）事業は、前年同期（202 […]]]></summary>
         <author>
             <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gumiのシンガポール子会社、EigenLayerのノード運営開始]]></title>
-        <id>https://www.neweconomy.jp/?p=450011</id>
-        <link href="https://www.neweconomy.jp/posts/450011"/>
-        <updated>2025-02-10T06:49:46.000Z</updated>
-        <summary type="html"><![CDATA[gC Games SingaporeがEigenLayerのノード運営開始 gumi（グミ）の連結子会社gC Games Singapore（gcゲームズシンガポール）が、EigenLayer（アイゲンレイヤー）のバリデ […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>

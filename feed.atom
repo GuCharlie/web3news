@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-14T21:35:22.560Z</updated>
+    <updated>2025-02-14T22:12:42.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アブダビ政府系ファンド、昨年4QにブラックロックのビットコインETFに665億円投資]]></title>
+        <id>https://coinpost.jp/?p=594814</id>
+        <link href="https://coinpost.jp/?p=594814"/>
+        <updated>2025-02-14T21:50:21.000Z</updated>
+        <summary type="html"><![CDATA[アブダビの政府系ファンド「ムバダラ」が、ブラックロックのビットコイン現物ETFに665億円を投資。2024年第4四半期の投資実施が明らかになった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jito Labsなど、米SECとの会議でステーキングをETFに組み込む方法を解説]]></title>
+        <id>https://coinpost.jp/?p=594810</id>
+        <link href="https://coinpost.jp/?p=594810"/>
+        <updated>2025-02-14T21:40:54.000Z</updated>
+        <summary type="html"><![CDATA[Jito LabsとMulticoin Capitalは、米SECの仮想通貨規制タスクフォースとの会議で、ステーキングをETFに組み込む可能性について議論した。会議では、ステーキングが投資家に与える利益や、ETF内でのステーキングモデルについての提案が行われた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRP価格が10%高、現物ETF実現への期待高まる]]></title>
         <id>https://coinpost.jp/?p=594805</id>
@@ -2181,27 +2201,6 @@ gumi、10億円分のビットコイン購入へ──企業の暗号資産保�
         <summary type="html"><![CDATA[1inchがZKsyncのクロスチェーンスワップ対応開始 DEX（分散型取引所）アグリゲーターの1インチネットワーク（1inch Network）のクロスチェーンスワップ機能が、イーサリアム（Ethereum）のレイヤー […]]]></summary>
         <author>
             <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[独自仮想通貨を4つの取引所に同時上場へ　ブロックチェーンの相互運用レイヤー「Analog」が発表]]></title>
-        <id>https://coinpost.jp/?p=592758</id>
-        <link href="https://coinpost.jp/?p=592758"/>
-        <updated>2025-02-10T10:00:45.000Z</updated>
-        <summary type="html"><![CDATA[独自仮想通貨を4つの取引所に同時上場することを、ブロックチェーンの相互運用レイヤーAnalogが発表。ブロックチェーン接続の再構築やトークンのリーチ拡大に向け、大胆な一歩を踏み出すとした。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シティ元幹部が設立したスタートアップ、XRP担保証券を発行へ]]></title>
-        <id>https://www.coindeskjapan.com/?p=275483</id>
-        <link href="https://www.coindeskjapan.com/275483/"/>
-        <updated>2025-02-10T09:45:00.000Z</updated>
-        <summary type="html"><![CDATA[事情に詳しい関係者によると、シティグループ（Citigroup）の元幹部らが設立したスタートアップであるReceipts Depositary Corp.（RD ...
-シティ元幹部が設立したスタートアップ、XRP担保証券を発行へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
         </author>
     </entry>
 </feed>

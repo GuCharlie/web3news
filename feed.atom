@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-14T22:36:47.240Z</updated>
+    <updated>2025-02-14T23:13:22.556Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[機関投資家のイーサリアム現物ETF保有率が急増、ゴールドマンなどが購入]]></title>
+        <id>https://coinpost.jp/?p=594857</id>
+        <link href="https://coinpost.jp/?p=594857"/>
+        <updated>2025-02-14T23:05:10.000Z</updated>
+        <summary type="html"><![CDATA[2024年第4四半期の13F報告書から、機関投資家のイーサリアム現物ETF保有率が前四半期比で4.8%から14.5%に上昇。ビットコイン現物ETFは機関投資家比率21.5%で横ばいであった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XRP ETF、SECが申請受理で実現に一歩近づく]]></title>
+        <id>https://www.coindeskjapan.com/?p=276274</id>
+        <link href="https://www.coindeskjapan.com/276274/"/>
+        <updated>2025-02-14T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会（SEC）は、エックス・アール・ピー（XRP）の価格に連動するETF（上場投資信託）を承認するかどうかの決定期限を設定した。 SECは、ニューヨ ...
+XRP ETF、SECが申請受理で実現に一歩近づく first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Helene Braun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アルトコインシーズンの到来はまだ先か？ 個人投資家の関心が分散]]></title>
+        <id>https://jp.cointelegraph.com/news/analysts-predict-delayed-altcoin-season-lack-retail-traders</id>
+        <link href="https://jp.cointelegraph.com/news/analysts-predict-delayed-altcoin-season-lack-retail-traders?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-14T22:35:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨アナリストによると、アルトコイン市場は依然として「投機的」な初期段階にあり、2021年の高値へ回復するにはまだ時間がかかる可能性がある。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアムの大型アップグレード「ペクトラ」、3月5日に最終テスト実施へ]]></title>
         <id>https://coinpost.jp/?p=594811</id>
@@ -2191,26 +2222,6 @@ FRBのパウエル議長、米暗号資産業界を悩ませる「デバンキ�
 gumi、10億円分のビットコイン購入へ──企業の暗号資産保有が加速 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gumiが10億円相当のビットコイン購入へ、Babylonでステーキングも]]></title>
-        <id>https://www.neweconomy.jp/?p=450268</id>
-        <link href="https://www.neweconomy.jp/posts/450268"/>
-        <updated>2025-02-10T11:09:36.000Z</updated>
-        <summary type="html"><![CDATA[gumiが10億円相当のビットコイン購入へ 東証プライム上場企業のgumi（グミ）が、10億円のビットコイン購入決議について2月10日発表した。 またgumiは、2025年4月期（2024.5.1~2025.4.31）第 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEXの1inch、クロスチェーンスワップをZKsyncに対応開始]]></title>
-        <id>https://www.neweconomy.jp/?p=450264</id>
-        <link href="https://www.neweconomy.jp/posts/450264"/>
-        <updated>2025-02-10T11:05:05.000Z</updated>
-        <summary type="html"><![CDATA[1inchがZKsyncのクロスチェーンスワップ対応開始 DEX（分散型取引所）アグリゲーターの1インチネットワーク（1inch Network）のクロスチェーンスワップ機能が、イーサリアム（Ethereum）のレイヤー […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>

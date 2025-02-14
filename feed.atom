@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-14T11:35:39.085Z</updated>
+    <updated>2025-02-14T12:27:18.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
@@ -15,6 +15,16 @@
 ビットコインの短期保有者、400万BTC以上を保有──サイクルにはまだ上昇の余地がある first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>James Van Straten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインの個人投資家、価格保ち合いの中でも活発に取引]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-retail-volumes-dip-2-analyst-btc-price-breakout</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-retail-volumes-dip-2-analyst-btc-price-breakout?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-14T11:10:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）の個人投資家は、価格が1カ月間にわたって保ち合いの状態にあるにもかかわらず、依然として活発に取引を続けている。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
         </author>
     </entry>
     <entry>
@@ -2366,16 +2376,6 @@ BTC価格が9万ドルへ下落した際、取引所へのテザーの流入額�
         <summary type="html"><![CDATA[トヨタファイナンスが初のセキュリティトークン社債を発行。総額10億円、1口10万円で個人投資家向けに2025年2月20日から募集する。]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「政府支出のブロックチェーン化で監査容易に」米コインベースCEOがイーロン・マスクを支持]]></title>
-        <id>https://coinpost.jp/?p=593194</id>
-        <link href="https://coinpost.jp/?p=593194"/>
-        <updated>2025-02-10T00:24:18.000Z</updated>
-        <summary type="html"><![CDATA[米コインベースCEOが政府支出のブロックチェーン化でマスク氏に賛同した。透明性向上や支出の監査効率化に期待している。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>

@@ -1468,21 +1468,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/Progmat_02210.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/Progmat_02210.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=593194",
-          "author": "A.Yamada",
-          "description": "米コインベースCEOが政府支出のブロックチェーン化でマスク氏に賛同した。透明性向上や支出の監査効率化に期待している。",
-          "link": "https://coinpost.jp/?p=593194",
-          "publishedOn": "2025-02-10T00:24:18.000Z",
-          "wordCount": 3135,
-          "title": "「政府支出のブロックチェーン化で監査容易に」米コインベースCEOがイーロン・マスクを支持",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/usa_crypto1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/usa_crypto1.jpg"
         }
       ]
     },
@@ -1978,6 +1963,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-retail-volumes-dip-2-analyst-btc-price-breakout",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコイン（BTC）の個人投資家は、価格が1カ月間にわたって保ち合いの状態にあるにもかかわらず、依然として活発に取引を続けている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-retail-volumes-dip-2-analyst-btc-price-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-14T11:10:00.000Z",
+          "wordCount": null,
+          "title": "ビットコインの個人投資家、価格保ち合いの中でも活発に取引",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTAzY2QtNzZiZS03YTY1LTkwNDQtZDlhODI5NWIyNDUw.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTAzY2QtNzZiZS03YTY1LTkwNDQtZDlhODI5NWIyNDUw.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/el-salvador-bitcoin-status-btc-law-amendment",
           "author": "Cointelegraph  Helen Partz",

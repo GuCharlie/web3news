@@ -560,16 +560,6 @@
           "wordCount": 1288,
           "title": "イーサリアム、激しい競争に直面：JPモルガン",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/image-51.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=275384",
-          "author": "林 理南",
-          "description": "分散型取引所（DEX）アグリゲーターの1インチネットワーク（1inch Network）は、イーサリアムブロックチェーンのレイヤー2スケーリングソリューションで ...\nDEXアグリゲーター1インチがZKsyncを統合──クロスチェーンスワップを強化 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/275384/",
-          "publishedOn": "2025-02-09T13:28:36.000Z",
-          "wordCount": 1272,
-          "title": "DEXアグリゲーター1インチがZKsyncを統合──クロスチェーンスワップを強化",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/7b63b5e1efc97e601271d42bd7599050e6015e6c-1920x1281-1.jpg"
         }
       ]
     },
@@ -584,6 +574,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=594579",
+          "author": "A.Yamada",
+          "description": "決済大手マスターカードの取引30%がトークン化している。同社のブロックチェーン・仮想通貨事業の最新動向を解説。",
+          "link": "https://coinpost.jp/?p=594579",
+          "publishedOn": "2025-02-14T02:05:03.000Z",
+          "wordCount": 3154,
+          "title": "マスターカード、仮想通貨事業を強化、全取引の3割がトークン化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/mastercard-new-crypto.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/mastercard-new-crypto.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=594586",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨DEX大手のジュピターは、プロトコル手数料収入の50％を使用してJUPの買い戻しを開始し、供給量を削減するために30億JUPをバーンする計画を発表。トークンの希少性を高め、価値向上を目指す戦略をいよいよ遂行する。",
+          "link": "https://coinpost.jp/?p=594586",
+          "publishedOn": "2025-02-14T01:02:17.000Z",
+          "wordCount": 3143,
+          "title": "JUP価値向上への戦略、ジュピター　来週より買い戻し開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/jupiter-x-debridge.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/jupiter-x-debridge.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=594564",
           "author": "K.Kobayashi",
@@ -1342,6 +1362,26 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=451110",
+          "author": "NewEconomy",
+          "description": "CZの愛犬関連のミームコイン発行される 世界最大の暗号資産（仮想通貨）取引所バイナンス（Binance）の創業者であり前CEOのチャンポン・ジャオ（Changpeng Zhao：CZ）氏が、自身のペットの名前と写真を公開 […]",
+          "link": "https://www.neweconomy.jp/posts/451110",
+          "publishedOn": "2025-02-14T02:17:26.000Z",
+          "wordCount": 743,
+          "title": "CZの愛犬「BROCCOLI」の非公式ミームコインが大量発行、パンケーキスワップの取引高急増",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/14111715/b287a82495a9c29c3ea4d83550ce036e.jpeg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=451109",
+          "author": "OtsugaShinya",
+          "description": "コインチェックGがNext Finance Tech買収へ 国内で暗号資産（仮想通貨）取引所を運営するコインチェックの親会社であるオランダのコインチェックグループ（Coincheck Group N.V.：CCG）が、日 […]",
+          "link": "https://www.neweconomy.jp/posts/451109",
+          "publishedOn": "2025-02-14T02:14:38.000Z",
+          "wordCount": 754,
+          "title": "コインチェックG、国内ブロックチェーンインフラ企業Next Finance Tech買収へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/14111421/2d7dcf124b8a6c9884fdee699a07420a.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=451080",
           "author": "OtsugaShinya",
           "description": "「JOCトークン」IEO時のシステム障害で手数料額が返金へ 国内暗号資産（仮想通貨）取引所ビットトレードが、ジャパンオープンチェーントークン（JOC）のIEOにおいて払込された手数料額を返金すると2月13日発表した。 な […]",
@@ -1758,6 +1798,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/coinbase-earnings-q4-revenue-surge-beat-analyst-expectations",
+          "author": "Cointelegraph  Alex O’Donnell",
+          "description": "コインベースは、米国大統領選でドナルド・トランプ氏が当選した後、仮想通貨価格と取引高が急増したことを受け、第4四半期に過去1年以上で最も好調な業績を記録した。",
+          "link": "https://jp.cointelegraph.com/news/coinbase-earnings-q4-revenue-surge-beat-analyst-expectations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-14T01:55:00.000Z",
+          "wordCount": null,
+          "title": "仮想通貨取引所コインベース、第4四半期に13億ドルの純利益　市場予想上回る",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5Mzc2MTYtNTdjYi03MjMyLWFkNTEtZGQ2MWQ1NWNmYzcy.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5Mzc2MTYtNTdjYi03MjMyLWFkNTEtZGQ2MWQ1NWNmYzcy.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/trump-s-cftc-pick-touts",
           "author": "Cointelegraph  Alex O’Donnell",

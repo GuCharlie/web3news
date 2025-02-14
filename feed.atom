@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-14T08:40:25.920Z</updated>
+    <updated>2025-02-14T09:14:34.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コインベースCEO「仮想通貨の新時代の幕開け」　2030年までにGDPの10%が仮想通貨ベースに？]]></title>
+        <id>https://jp.cointelegraph.com/news/coinbase-ceo-predicts-10-percent-global-gdp-crypto-rails-2030</id>
+        <link href="https://jp.cointelegraph.com/news/coinbase-ceo-predicts-10-percent-global-gdp-crypto-rails-2030?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-14T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[コインベースのブライアン・アームストロングCEOは、米国において「仮想通貨の新時代が幕を開けた」と述べ、2030年までに世界のGDPの最大10%が仮想通貨ベースになると予測した。]]></summary>
+        <author>
+            <name>Cointelegraph  Martin Young</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTCは米CPI消化で戻り売り　ついに三役逆転が完成【仮想通貨相場】]]></title>
         <id>https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0214</id>
@@ -2435,17 +2445,6 @@ BTC価格が9万ドルへ下落した際、取引所へのテザーの流入額�
 金連動型トークンにさらなる追い風──大手金融機関が金の価格予想引き上げ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Francisco Rodrigues</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム、激しい競争に直面：JPモルガン]]></title>
-        <id>https://www.coindeskjapan.com/?p=275247</id>
-        <link href="https://www.coindeskjapan.com/275247/"/>
-        <updated>2025-02-09T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムはここ数カ月間、他の暗号資産よりもパフォーマンスが低く、これはイーサリアムブロックチェーンが他のチェーンとの激しい競争に直面しているためと米銀大手J ...
-イーサリアム、激しい競争に直面：JPモルガン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Will Canny</name>
         </author>
     </entry>
 </feed>

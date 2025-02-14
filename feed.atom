@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-14T11:11:25.183Z</updated>
+    <updated>2025-02-14T11:35:39.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインの短期保有者、400万BTC以上を保有──サイクルにはまだ上昇の余地がある]]></title>
+        <id>https://www.coindeskjapan.com/?p=276234</id>
+        <link href="https://www.coindeskjapan.com/276234/"/>
+        <updated>2025-02-14T11:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Glassnodeによると、ビットコイン（BTC）の短期保有者（STH）は9月以来150万BTCを追加し、総数は400万BTCを超えた。 これは、平均すると毎月 ...
+ビットコインの短期保有者、400万BTC以上を保有──サイクルにはまだ上昇の余地がある first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>James Van Straten</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マトリックス法によるテクニカル分析（2025/2/14）下げ止まった？まだ下がる？見極めのポイントは？【楽天ウォレット】]]></title>
         <id>https://www.coindeskjapan.com/?p=276214</id>
@@ -57,6 +68,16 @@ SECがETF申請を受理したことでXRPとDOGEが上昇 first appeared on Coi
         <summary type="html"><![CDATA[Lidoが「Lido v3」を発表 リキッドステーキングプロトコルのライド（Lido）による、「ライド v3（Lido v3）」が2月11日に発表された。この「ライド v3」は、イーサリアム（Ethereum）のステーキ […]]]></summary>
         <author>
             <name>TamuraSeiji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PancakeSwap（パンケーキスワップ）の使い方│特徴から注意点まで]]></title>
+        <id>https://coinpost.jp/?p=594774</id>
+        <link href="https://coinpost.jp/?p=594774"/>
+        <updated>2025-02-14T08:55:33.000Z</updated>
+        <summary type="html"><![CDATA[BNBチェーン上で最大規模のDEX、PancakeSwap（パンケーキスワップ）の基本機能と特徴を解説。低コストな取引手数料、豊富な収益機会、NFT取引など多彩な機能を備え、メタマスクで簡単に利用可能。使い方から注意点まで詳しく紹介。]]></summary>
+        <author>
+            <name>Shusaku.Akaji</name>
         </author>
     </entry>
     <entry>
@@ -2355,27 +2376,6 @@ BTC価格が9万ドルへ下落した際、取引所へのテザーの流入額�
         <summary type="html"><![CDATA[米コインベースCEOが政府支出のブロックチェーン化でマスク氏に賛同した。透明性向上や支出の監査効率化に期待している。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金融庁、仮想通貨の有価証券並「金融商品」の扱い検討か　税率引き下げやETF見据え＝日経新聞]]></title>
-        <id>https://coinpost.jp/?p=593172</id>
-        <link href="https://coinpost.jp/?p=593172"/>
-        <updated>2025-02-09T23:19:27.000Z</updated>
-        <summary type="html"><![CDATA[金融庁が、仮想通貨を有価証券並みの扱いにするための制度設計に着手すると日経新聞が報じた。2026年の法改正を目指し、現行最大55%の税率を金融所得課税と同じ20%へ引き下げる方針。ビットコイン現物ETFの解禁も視野に、投資家保護と市場活性化の両立を図る。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金融庁、暗号資産を有価証券並み規制へ──ETF解禁視野に検討と日経報じる]]></title>
-        <id>https://www.coindeskjapan.com/?p=275397</id>
-        <link href="https://www.coindeskjapan.com/275397/"/>
-        <updated>2025-02-09T23:14:29.000Z</updated>
-        <summary type="html"><![CDATA[金融庁が暗号資産（仮想通貨）を有価証券に並ぶ金融商品として位置づける方向で検討に入ったと2月10日、日経新聞が報じた。 同庁は現在、有識者との非公開の勉強会で現 ...
-金融庁、暗号資産を有価証券並み規制へ──ETF解禁視野に検討と日経報じる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>栃山直樹</name>
         </author>
     </entry>
 </feed>

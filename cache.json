@@ -615,6 +615,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=594873",
+          "author": "菊谷ルイス",
+          "description": "金価格が今月史上最高値の2,966ドルを記録。米関税拡大懸念や脱ドル化が加速させた。中央銀行の金購入も過去10年で最高水準に到達。一方、仮想通貨ビットコインは9.7万ドル台で推移。",
+          "link": "https://coinpost.jp/?p=594873",
+          "publishedOn": "2025-02-14T23:50:46.000Z",
+          "wordCount": 3139,
+          "title": "金価格が史上最高値2942ドル到達　その背景は",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/gold-surge-amid-tariff-war.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/gold-surge-amid-tariff-war.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=594857",
           "author": "菊谷ルイス",
           "description": "2024年第4四半期の13F報告書から、機関投資家のイーサリアム現物ETF保有率が前四半期比で4.8%から14.5%に上昇。ビットコイン現物ETFは機関投資家比率21.5%で横ばいであった。",
@@ -1795,16 +1810,6 @@
           "wordCount": 789,
           "title": "ストラテジーがビットコイン追加購入、総保有量478,740BTCに",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/11134017/93c0838bcab50598a7980497a0987f39.jpeg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=450281",
-          "author": "TamuraSeiji",
-          "description": "Pump.Fun独自トークンの噂否定 ソラナ（Solana）発のミームコイン作成・取引プラットフォーム「パンプファン（Pump.Fun）」の独自トークン発行の噂について、同プラットフォーム共同創設者であるアロン・コーエン […]",
-          "link": "https://www.neweconomy.jp/posts/450281",
-          "publishedOn": "2025-02-10T11:47:48.000Z",
-          "wordCount": 688,
-          "title": "Pump[.]Fun独自トークン発行の噂、共同創設者が否定。報道したメディアは反論",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/10204744/a051104ecab6a83e1510d996c2e72f21.jpg"
         }
       ]
     },
@@ -1813,6 +1818,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/price-analysis-2-14-btc-eth-xrp-sol-bnb-doge-ada-link-avax-sui",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "ビットコイン（BTC）はここ数日、移動平均線を下回る水準で取引されているが、弱気派は価格を9万ドルまで押し下げることができていない。",
+          "link": "https://jp.cointelegraph.com/news/price-analysis-2-14-btc-eth-xrp-sol-bnb-doge-ada-link-avax-sui?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-15T00:40:00.000Z",
+          "wordCount": null,
+          "title": "BTC 10万ドル攻防戦　仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTA1NDYtNDI5ZC03NjI2LTllZTEtNTU3Y2NhNmE1ZTRk.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTA1NDYtNDI5ZC03NjI2LTllZTEtNTU3Y2NhNmE1ZTRk.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/aleksander-vinnik-arrives-in-russia-as-part-of-a-prisoner-swap-with-the-us",
+          "author": "Cointelegraph  Yohan Yun",
+          "description": "現在は閉鎖された仮想通貨取引所BTC-eの運営者であるアレクサンダー・ヴィニック氏が、米国との囚人交換の一環としてロシアに帰還した。",
+          "link": "https://jp.cointelegraph.com/news/aleksander-vinnik-arrives-in-russia-as-part-of-a-prisoner-swap-with-the-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-14T23:50:00.000Z",
+          "wordCount": null,
+          "title": "マネロンに関与したBTC-e元運営者ヴィニック氏、米国との囚人交換でロシアに帰還",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTAzOGQtMzIyNi03YWM4LThmMjctMTUxYTA4Zjg3YmMy.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTAzOGQtMzIyNi03YWM4LThmMjctMTUxYTA4Zjg3YmMy.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/2025-xrp-etf-approval-odds-hit-81-on-polymarket",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "XRP（XRP）は、上場投資信託（ETF）承認への期待と現実世界資産（RWA）のXRPレジャー上での導入に関する好材料を受け、過去2日間で10%急騰した。",
+          "link": "https://jp.cointelegraph.com/news/2025-xrp-etf-approval-odds-hit-81-on-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-14T23:35:00.000Z",
+          "wordCount": null,
+          "title": "2025年にXRP ETFが承認される確率　ポリマーケットで81％に上昇",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTA0YmYtNGRmMi03N2EyLWE5YjctNzkzZTQwZGQ1OTBm.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTA0YmYtNGRmMi03N2EyLWE5YjctNzkzZTQwZGQ1OTBm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/state-wisconsin-investment-board-btc-exposure-over-321-m",
           "author": "Cointelegraph  Vince Quill",

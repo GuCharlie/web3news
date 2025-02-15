@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-14T23:35:08.363Z</updated>
+    <updated>2025-02-15T01:04:45.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BTC 10万ドル攻防戦　仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ]]></title>
+        <id>https://jp.cointelegraph.com/news/price-analysis-2-14-btc-eth-xrp-sol-bnb-doge-ada-link-avax-sui</id>
+        <link href="https://jp.cointelegraph.com/news/price-analysis-2-14-btc-eth-xrp-sol-bnb-doge-ada-link-avax-sui?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-15T00:40:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）はここ数日、移動平均線を下回る水準で取引されているが、弱気派は価格を9万ドルまで押し下げることができていない。]]></summary>
+        <author>
+            <name>Cointelegraph  Rakesh Upadhyay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金価格が史上最高値2942ドル到達　その背景は]]></title>
+        <id>https://coinpost.jp/?p=594873</id>
+        <link href="https://coinpost.jp/?p=594873"/>
+        <updated>2025-02-14T23:50:46.000Z</updated>
+        <summary type="html"><![CDATA[金価格が今月史上最高値の2,966ドルを記録。米関税拡大懸念や脱ドル化が加速させた。中央銀行の金購入も過去10年で最高水準に到達。一方、仮想通貨ビットコインは9.7万ドル台で推移。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マネロンに関与したBTC-e元運営者ヴィニック氏、米国との囚人交換でロシアに帰還]]></title>
+        <id>https://jp.cointelegraph.com/news/aleksander-vinnik-arrives-in-russia-as-part-of-a-prisoner-swap-with-the-us</id>
+        <link href="https://jp.cointelegraph.com/news/aleksander-vinnik-arrives-in-russia-as-part-of-a-prisoner-swap-with-the-us?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-14T23:50:00.000Z</updated>
+        <summary type="html"><![CDATA[現在は閉鎖された仮想通貨取引所BTC-eの運営者であるアレクサンダー・ヴィニック氏が、米国との囚人交換の一環としてロシアに帰還した。]]></summary>
+        <author>
+            <name>Cointelegraph  Yohan Yun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年にXRP ETFが承認される確率　ポリマーケットで81％に上昇]]></title>
+        <id>https://jp.cointelegraph.com/news/2025-xrp-etf-approval-odds-hit-81-on-polymarket</id>
+        <link href="https://jp.cointelegraph.com/news/2025-xrp-etf-approval-odds-hit-81-on-polymarket?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-14T23:35:00.000Z</updated>
+        <summary type="html"><![CDATA[XRP（XRP）は、上場投資信託（ETF）承認への期待と現実世界資産（RWA）のXRPレジャー上での導入に関する好材料を受け、過去2日間で10%急騰した。]]></summary>
+        <author>
+            <name>Cointelegraph  Biraajmaan Tamuly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[USDT発行元のテザー社、ユベントスに投資]]></title>
         <id>https://www.coindeskjapan.com/?p=276278</id>
@@ -2233,16 +2273,6 @@ FRBのパウエル議長、米暗号資産業界を悩ませる「デバンキ�
 リップル、最新の提携でポルトガルの暗号資産エコシステムを狙う──XRPに注目集まる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pump[.]Fun独自トークン発行の噂、共同創設者が否定。報道したメディアは反論]]></title>
-        <id>https://www.neweconomy.jp/?p=450281</id>
-        <link href="https://www.neweconomy.jp/posts/450281"/>
-        <updated>2025-02-10T11:47:48.000Z</updated>
-        <summary type="html"><![CDATA[Pump.Fun独自トークンの噂否定 ソラナ（Solana）発のミームコイン作成・取引プラットフォーム「パンプファン（Pump.Fun）」の独自トークン発行の噂について、同プラットフォーム共同創設者であるアロン・コーエン […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
         </author>
     </entry>
 </feed>

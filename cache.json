@@ -580,16 +580,6 @@
           "wordCount": 1296,
           "title": "アメリカの基金、暗号資産に傾斜：フィナンシャル・タイムズ",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/99d72641bd1e8eb24597eb4418916393f978afaa-5472x3648-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=275578",
-          "author": "林 理南",
-          "description": "アメリカのドナルド・トランプ（Donald Trump）大統領が始めた新たな関税ラウンドと短期的な材料不足が、市場ウォッチャーの間で警戒感を引き起こしている。特 ...\nトランプ大統領の新関税、ビットコイン・イーサリアム・ドージコインの取引に警戒感 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/275578/",
-          "publishedOn": "2025-02-10T17:01:31.000Z",
-          "wordCount": 1306,
-          "title": "トランプ大統領の新関税、ビットコイン・イーサリアム・ドージコインの取引に警戒感",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/shutterstock_2557198861.jpg"
         }
       ]
     },
@@ -604,6 +594,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=594941",
+          "author": "A.Yamada",
+          "description": "SECが、仮想通貨タスクフォースによる作業を理由にコインベース控訴への回答を延期した。証券性判断の見直しに注目が集まる。",
+          "link": "https://coinpost.jp/?p=594941",
+          "publishedOn": "2025-02-15T04:20:38.000Z",
+          "wordCount": 3158,
+          "title": "SECの仮想通貨規制方針に転換の兆し 、コインベース訴訟延期で銘柄分類を再検討へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/sec-new-virtual-meetup.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/sec-new-virtual-meetup.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=594938",
+          "author": "菊谷ルイス",
+          "description": "ミームコイン熱狂で仮想通貨ビットコインのオンチェーン活動が直近7日間で55%減少。12ヶ月最低の動向と市場転換の背景は？",
+          "link": "https://coinpost.jp/?p=594938",
+          "publishedOn": "2025-02-15T02:35:17.000Z",
+          "wordCount": 3331,
+          "title": "ミームコイン熱狂でビットコインオンチェーン活動低迷に、ピーク時から55%減少の実態",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-onchain-activities.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-onchain-activities.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=594929",
           "author": "A.Yamada",
@@ -1824,6 +1844,21 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/crypto-unicorn-hash-key-raises-30-m-from-chinese-vc-gaorong-ventures",
+          "author": "Cointelegraph  Arijit Sarkar",
+          "description": "中国を拠点とするベンチャーキャピタル（VC）企業ガオロン・ベンチャーズ（高榕創投）が、香港登録の仮想通貨取引所ハッシュキーに3000万ドルを出資したと報じられた。",
+          "link": "https://jp.cointelegraph.com/news/crypto-unicorn-hash-key-raises-30-m-from-chinese-vc-gaorong-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-15T02:15:00.000Z",
+          "wordCount": null,
+          "title": "中国のベンチャーキャピタル企業ガオロン、香港の仮想通貨取引所ハッシュキーに3000万ドル出資",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTA0YTEtOThiNy03OTVlLTk0N2MtODhjZGMyZWU4MDhj.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTA0YTEtOThiNy03OTVlLTk0N2MtODhjZGMyZWU4MDhj.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/tether-invests-juventus-football-club",
           "author": "Cointelegraph  Sam Bourgi",
           "description": "ステーブルコイン発行企業テザーが、イタリア・トリノに拠点を置くセリエAの名門サッカークラブ「ユヴェントスFC」の少数株を取得した。ユヴェントスは125年以上の歴史を誇るクラブだ。",
@@ -1837,6 +1872,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTA1NzItZGE0OC03OTdiLTk5ZGMtNWRkZjhhNTVmMWZh.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-traders-fearful-after-651m-spot-btc-etf-outflows-is-a-price-crash-coming",
+          "author": "Cointelegraph  Marcel Pechman",
+          "description": "米国の現物ビットコイン上場投資信託（ETF）は、2月10日以降、6億5100万ドルの流出を記録しており、9万5000ドルの重要なサポートを維持できるかが焦点となっている。この流れがあと1週間続けば、現物ビットコインETF市場は約16億5000万ドル縮小する可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-traders-fearful-after-651m-spot-btc-etf-outflows-is-a-price-crash-coming?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-15T01:51:00.000Z",
+          "wordCount": null,
+          "title": "ビットコインETFで流出続く、BTC相場は強気の勢いを維持できるか？",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTA1Y2UtYTg2ZC03ZDAxLWE4ZjctYzlkYmViMmZiZWEx.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTA1Y2UtYTg2ZC03ZDAxLWE4ZjctYzlkYmViMmZiZWEx.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/price-analysis-2-14-btc-eth-xrp-sol-bnb-doge-ada-link-avax-sui",

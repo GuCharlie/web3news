@@ -590,16 +590,6 @@
           "wordCount": 1306,
           "title": "トランプ大統領の新関税、ビットコイン・イーサリアム・ドージコインの取引に警戒感",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/shutterstock_2557198861.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=275564",
-          "author": "林 理南",
-          "description": "リップル（Ripple）は10日、ポルトガルの通貨交換プロバイダーであるユニカンビオ（Unicâmbio）と提携した。リップルの決済プラットフォームを使用してポ ...\nリップル、最新の提携でポルトガルの暗号資産エコシステムを狙う──XRPに注目集まる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/275564/",
-          "publishedOn": "2025-02-10T13:32:12.000Z",
-          "wordCount": 1285,
-          "title": "リップル、最新の提携でポルトガルの暗号資産エコシステムを狙う──XRPに注目集まる",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/9ee65ff3968544b0afabf2faf9a2f4c0f899ba43-1500x1001-2.jpg"
         }
       ]
     },
@@ -614,6 +604,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=594929",
+          "author": "A.Yamada",
+          "description": "仮想通貨ミームコインのローンチパッドPump.funがiOS/Androidアプリ版をリリース。一方で英国などで法的懸念も浮上している。",
+          "link": "https://coinpost.jp/?p=594929",
+          "publishedOn": "2025-02-15T01:22:59.000Z",
+          "wordCount": 3193,
+          "title": "ソラナ基盤のミームコインプラットフォームPump.fun、モバイルアプリを公開",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/Pumpfun-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/Pumpfun-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=594873",
           "author": "菊谷ルイス",
@@ -1818,6 +1823,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/tether-invests-juventus-football-club",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "ステーブルコイン発行企業テザーが、イタリア・トリノに拠点を置くセリエAの名門サッカークラブ「ユヴェントスFC」の少数株を取得した。ユヴェントスは125年以上の歴史を誇るクラブだ。",
+          "link": "https://jp.cointelegraph.com/news/tether-invests-juventus-football-club?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-15T01:54:00.000Z",
+          "wordCount": null,
+          "title": "ステーブルコイン発行企業テザー、イタリアの名門サッカークラブ「ユヴェントスFC」に投資",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTA1NzItZGE0OC03OTdiLTk5ZGMtNWRkZjhhNTVmMWZh.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTA1NzItZGE0OC03OTdiLTk5ZGMtNWRkZjhhNTVmMWZh.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/price-analysis-2-14-btc-eth-xrp-sol-bnb-doge-ada-link-avax-sui",
           "author": "Cointelegraph  Rakesh Upadhyay",

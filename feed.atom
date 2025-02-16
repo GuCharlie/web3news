@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-16T22:12:09.322Z</updated>
+    <updated>2025-02-16T22:36:24.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アルゼンチン大統領が弾劾の危機、仮想通貨プロジェクトが支持直後に急落]]></title>
+        <id>https://jp.cointelegraph.com/news/javier-milei-risks-impeachment-107-m-libra-rug-pull</id>
+        <link href="https://jp.cointelegraph.com/news/javier-milei-risks-impeachment-107-m-libra-rug-pull?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-16T22:18:00.000Z</updated>
+        <summary type="html"><![CDATA[アルゼンチンのハビエル・ミレイ大統領が支持した仮想通貨プロジェクトが崩壊し、アナリストが「大規模なインサイダー詐欺」と指摘する中、ミレイ大統領に対する弾劾を求める声が高まっている。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン指標が転換示す、アナリストが弱気フェーズに入った可能性を指摘]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-price-metric-red-analysis-warns-bearish-phase</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-price-metric-red-analysis-warns-bearish-phase?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-16T22:03:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は、投資家が現在の価格水準でリスクエクスポージャーを減らす中、新たな「弱気フェーズ」に入るリスクがある。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC、コインベース訴訟の期限延長を裁判所に要請──和解の可能性を示唆]]></title>
         <id>https://www.coindeskjapan.com/?p=276316</id>
@@ -1671,17 +1691,6 @@ NFTマーケットプレースのOpenSea、トークン取引へとサービス�
 バイナンスとSEC、早期解決を目指して裁判の一時中断を申し立て first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Camomile Shumba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産への投資とポルトガルの居住権を組み合わせたファンドが登場]]></title>
-        <id>https://www.coindeskjapan.com/?p=275795</id>
-        <link href="https://www.coindeskjapan.com/275795/"/>
-        <updated>2025-02-12T10:20:00.000Z</updated>
-        <summary type="html"><![CDATA[新たな投資商品であるKvarnPortugalファンドは、投資家が暗号資産（仮想通貨）セクターに参入する手段を提供すると同時に、ポルトガルの居住権または市民権を ...
-暗号資産への投資とポルトガルの居住権を組み合わせたファンドが登場 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Francisco Rodrigues</name>
         </author>
     </entry>
 </feed>

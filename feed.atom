@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-16T19:11:18.772Z</updated>
+    <updated>2025-02-16T19:35:06.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アルゼンチン野党、リブラトークンのツイートめぐりミレイ大統領に弾劾の脅し：ロイター]]></title>
+        <id>https://www.coindeskjapan.com/?p=276365</id>
+        <link href="https://www.coindeskjapan.com/276365/"/>
+        <updated>2025-02-16T19:12:49.000Z</updated>
+        <summary type="html"><![CDATA[アルゼンチンのハビエル・ミレイ（Javier Milei）大統領は、中小企業支援を意図していたとされるリブラ（LIBRA）と呼ばれる暗号資産（仮想通貨）を支持し ...
+アルゼンチン野党、リブラトークンのツイートめぐりミレイ大統領に弾劾の脅し：ロイター first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ハビエル・ミレイ大統領、44億ドルのミームコイン宣伝投稿を削除──「インサイダー」が利益獲得後]]></title>
         <id>https://www.coindeskjapan.com/?p=276325</id>
@@ -1753,26 +1764,6 @@ Google Playからも海外暗号資産取引所アプリが削除──App Store
         <summary type="html"><![CDATA[週末から昨日までのBTC相場はもみ合い推移。]]></summary>
         <author>
             <name>Cointelegraph  コインテレグラフジャパン寄稿者</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゴールドマンサックス、イーサリアムETFの保有を2000%増加 — ビットコインETFも15億ドル超に拡大]]></title>
-        <id>https://jp.cointelegraph.com/news/goldman-sachs-increase-ether-bitcoin-etf-holdings-q4-2024</id>
-        <link href="https://jp.cointelegraph.com/news/goldman-sachs-increase-ether-bitcoin-etf-holdings-q4-2024?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-12T07:25:00.000Z</updated>
-        <summary type="html"><![CDATA[米投資銀行ゴールドマンサックスは、2024年第4四半期に現物イーサリアム上場投資信託（ETF）の保有を2000%増加させるとともに、ビットコインETFの保有額を15億ドル超まで引き上げた。]]></summary>
-        <author>
-            <name>Cointelegraph  Brayden Lindrea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米サークル「USDC」、Unichainにネイティブ対応開始]]></title>
-        <id>https://www.neweconomy.jp/?p=450546</id>
-        <link href="https://www.neweconomy.jp/posts/450546"/>
-        <updated>2025-02-12T07:19:21.000Z</updated>
-        <summary type="html"><![CDATA[USDCがUnichainにネイティブ対応開始 米サークル（Circle Internet Financial）発行の米ドル建てステーブルコイン「USDC」のネイティブ型トークンが、レイヤー2（L2）ブロックチェーン「ユ […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>

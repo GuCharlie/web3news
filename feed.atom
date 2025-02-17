@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-17T07:14:12.052Z</updated>
+    <updated>2025-02-17T07:35:12.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Binance Japan、BCH・LINK・LTC の円建て取引開始　手数料無料キャンペーンも実施]]></title>
+        <id>https://coinpost.jp/?p=595479</id>
+        <link href="https://coinpost.jp/?p=595479"/>
+        <updated>2025-02-17T07:14:11.000Z</updated>
+        <summary type="html"><![CDATA[3種類の取引ペア追加暗号資産（仮想通貨）取引所のBinanceJapanは17日、ビットコインキャッシュ（BCH）、チェーンリンク（LINK）、ライトコイン（LTC）の3銘柄について、日本円との取引ペアを20日17時より開始すると発表した。...]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アルゼンチン大領領、リブラトークンをめぐり告発される：AP通信]]></title>
         <id>https://www.coindeskjapan.com/?p=276486</id>
@@ -1916,17 +1926,6 @@ NFTマーケットプレースのOpenSea、トークン取引へとサービス�
 サークルのUSDC、ステーブルコインの需要急増で過去最高の時価総額約8兆6000億円超を記録 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、米CPIを受けた下落から反発]]></title>
-        <id>https://www.coindeskjapan.com/?p=275858</id>
-        <link href="https://www.coindeskjapan.com/275858/"/>
-        <updated>2025-02-12T19:15:49.000Z</updated>
-        <summary type="html"><![CDATA[予想をはるかに上回る米国のインフレデータを受けて、2月12日早朝に9万4000ドルをわずかに上回る水準まで下落していたビットコイン（BTC）は一転して、9万75 ...
-ビットコイン、米CPIを受けた下落から反発 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Stephen Alpher</name>
         </author>
     </entry>
 </feed>

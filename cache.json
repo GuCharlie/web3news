@@ -530,16 +530,6 @@
           "wordCount": 1305,
           "title": "サークルのUSDC、ステーブルコインの需要急増で過去最高の時価総額約8兆6000億円超を記録",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/c3bd428e474a66aa6cff40080089ccb5f1406ab5-1234x718-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=275858",
-          "author": "Stephen Alpher",
-          "description": "予想をはるかに上回る米国のインフレデータを受けて、2月12日早朝に9万4000ドルをわずかに上回る水準まで下落していたビットコイン（BTC）は一転して、9万75 ...\nビットコイン、米CPIを受けた下落から反発 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/275858/",
-          "publishedOn": "2025-02-12T19:15:49.000Z",
-          "wordCount": 1297,
-          "title": "ビットコイン、米CPIを受けた下落から反発",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/shutterstock_2135089839.jpg"
         }
       ]
     },
@@ -550,10 +540,25 @@
       "articles": []
     },
     {
-      "title": "Cardano(ADA)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=595479",
+          "author": "AKIRA.H",
+          "description": "3種類の取引ペア追加暗号資産（仮想通貨）取引所のBinanceJapanは17日、ビットコインキャッシュ（BCH）、チェーンリンク（LINK）、ライトコイン（LTC）の3銘柄について、日本円との取引ペアを20日17時より開始すると発表した。...",
+          "link": "https://coinpost.jp/?p=595479",
+          "publishedOn": "2025-02-17T07:14:11.000Z",
+          "wordCount": 3148,
+          "title": "Binance Japan、BCH・LINK・LTC の円建て取引開始　手数料無料キャンペーンも実施",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/binance-rebuke.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/binance-rebuke.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=595394",
           "author": "A.Yamada",

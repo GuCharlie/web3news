@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-17T01:08:17.826Z</updated>
+    <updated>2025-02-17T02:37:03.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アルゼンチン大統領がスキャム疑惑の仮想通貨を宣伝か　騒動の真相は]]></title>
+        <id>https://coinpost.jp/?p=595304</id>
+        <link href="https://coinpost.jp/?p=595304"/>
+        <updated>2025-02-17T01:47:24.000Z</updated>
+        <summary type="html"><![CDATA[アルゼンチンのミレイ大統領が、スキャム疑惑のあるソラナ基盤のLIBRAトークンを支持し物議を醸している。野党から弾劾要求も上がる中、大統領は関与を否定し、調査が開始された。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ラップドアバランチ、バイビットカードのキャッシュバック採用でウォレット蓄積が増加]]></title>
         <id>https://www.coindeskjapan.com/?p=276332</id>
@@ -1723,17 +1733,6 @@ NFTマーケットプレースのOpenSea、トークン取引へとサービス�
 ビットコイン、米CPIを受けた下落から反発 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Stephen Alpher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オリコ、ステーブルコイン「USDC」決済のVISAカード発行へ──報道]]></title>
-        <id>https://www.coindeskjapan.com/?p=275842</id>
-        <link href="https://www.coindeskjapan.com/275842/"/>
-        <updated>2025-02-12T14:31:13.000Z</updated>
-        <summary type="html"><![CDATA[オリエントコーポレーション（オリコ）が、米ドル連動型ステーブルコイン「USDコイン（USDC）」を担保とした決済カードを2024年6月までに発行する方針であるこ ...
-オリコ、ステーブルコイン「USDC」決済のVISAカード発行へ──報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>栃山直樹</name>
         </author>
     </entry>
 </feed>

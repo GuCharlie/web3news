@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-18T11:35:55.390Z</updated>
+    <updated>2025-02-18T12:27:55.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NFTマーケットのオープンシー、新たなエアドロップ報酬システムを一時停止——ユーザーの批判を受け]]></title>
+        <id>https://jp.cointelegraph.com/news/open-sea-xp-rewards-system-pause-listing-bidding</id>
+        <link href="https://jp.cointelegraph.com/news/open-sea-xp-rewards-system-pause-listing-bidding?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-18T11:37:00.000Z</updated>
+        <summary type="html"><![CDATA[非代替性トークン（NFT）マーケットプレイスのオープンシーは、新たなエアドロップ報酬システムに対するユーザーの批判を受け、一時停止を決定した。]]></summary>
+        <author>
+            <name>Cointelegraph  Ezra Reguerra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LIBRAのラグプルでソラナのミームコインエコシステムに打撃：ギャラクシー・リサーチ]]></title>
         <id>https://www.coindeskjapan.com/?p=276829</id>
@@ -1736,16 +1746,6 @@ SECがETF申請を受理したことでXRPとDOGEが上昇 first appeared on Coi
         <summary type="html"><![CDATA[イーサリアム財団が計180億円超相当の仮想通貨ETHをDeFiプラットフォームに移動。DeFiで運用し財源を確保する目的とみられる。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米SEC、グレースケールのドージコインとXRPのETF申請を審査開始]]></title>
-        <id>https://coinpost.jp/?p=594561</id>
-        <link href="https://coinpost.jp/?p=594561"/>
-        <updated>2025-02-13T23:50:14.000Z</updated>
-        <summary type="html"><![CDATA[米国証券取引委員会は13日、グレースケールが提出したドージコインの上場投資信託の上場申請に関してパブリックコメントを求めることを発表した。XRPに関しても同様な進展があった。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

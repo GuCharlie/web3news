@@ -440,16 +440,6 @@
           "wordCount": 1288,
           "title": "コインベース、強い短期モメンタムの恩恵を受けて2025年は好スタート：JMP証券",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/70d5b0727dbc41cec4dbc03edaa23e0a33ba4718-1500x1000-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=276234",
-          "author": "James Van Straten",
-          "description": "Glassnodeによると、ビットコイン（BTC）の短期保有者（STH）は9月以来150万BTCを追加し、総数は400万BTCを超えた。 これは、平均すると毎月 ...\nビットコインの短期保有者、400万BTC以上を保有──サイクルにはまだ上昇の余地がある first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/276234/",
-          "publishedOn": "2025-02-14T11:25:00.000Z",
-          "wordCount": 1317,
-          "title": "ビットコインの短期保有者、400万BTC以上を保有──サイクルにはまだ上昇の余地がある",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/936dfb2b2395e130fd379bcb4ab24fa5ed78fabc-1800x1013-1.png"
         }
       ]
     },
@@ -1248,6 +1238,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/strategy-2-billion-convertible-note-buy-more-bitcoin",
+          "author": "Cointelegraph  Brayden Lindrea",
+          "description": "ビジネスインテリジェンスサービスとビットコイン購入を手がけるストラテジー社（旧マイクロストラテジー）は、新たに0%シニア転換社債を発行し、20億ドルを調達する計画を発表した。この資金はさらなるビットコインの購入に充てられる予定だ。",
+          "link": "https://jp.cointelegraph.com/news/strategy-2-billion-convertible-note-buy-more-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-18T23:04:00.000Z",
+          "wordCount": null,
+          "title": "ストラテジー社、転換社債発行で20億ドル調達｜ビットコインをさらに購入へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTFhZmEtMjVhNC03MDBhLThmY2YtMTRiOTYyYmM2NzVm.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTFhZmEtMjVhNC03MDBhLThmY2YtMTRiOTYyYmM2NzVm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/traders-eye-sol-eth-reversal-memecoin-fallout",
           "author": "Cointelegraph  Alex O’Donnell",

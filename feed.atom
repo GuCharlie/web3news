@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-18T23:13:04.835Z</updated>
+    <updated>2025-02-18T23:35:20.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ストラテジー社、転換社債発行で20億ドル調達｜ビットコインをさらに購入へ]]></title>
+        <id>https://jp.cointelegraph.com/news/strategy-2-billion-convertible-note-buy-more-bitcoin</id>
+        <link href="https://jp.cointelegraph.com/news/strategy-2-billion-convertible-note-buy-more-bitcoin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-18T23:04:00.000Z</updated>
+        <summary type="html"><![CDATA[ビジネスインテリジェンスサービスとビットコイン購入を手がけるストラテジー社（旧マイクロストラテジー）は、新たに0%シニア転換社債を発行し、20億ドルを調達する計画を発表した。この資金はさらなるビットコインの購入に充てられる予定だ。]]></summary>
+        <author>
+            <name>Cointelegraph  Brayden Lindrea</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トレーダー、ミームコイン崩壊を受けSOL/ETHの反転に注目]]></title>
         <id>https://jp.cointelegraph.com/news/traders-eye-sol-eth-reversal-memecoin-fallout</id>
@@ -1467,17 +1477,6 @@ XRP ETF、SECが申請受理で実現に一歩近づく first appeared on CoinDe
         <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインの短期保有者、400万BTC以上を保有──サイクルにはまだ上昇の余地がある]]></title>
-        <id>https://www.coindeskjapan.com/?p=276234</id>
-        <link href="https://www.coindeskjapan.com/276234/"/>
-        <updated>2025-02-14T11:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Glassnodeによると、ビットコイン（BTC）の短期保有者（STH）は9月以来150万BTCを追加し、総数は400万BTCを超えた。 これは、平均すると毎月 ...
-ビットコインの短期保有者、400万BTC以上を保有──サイクルにはまだ上昇の余地がある first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>James Van Straten</name>
         </author>
     </entry>
 </feed>

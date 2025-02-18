@@ -450,26 +450,6 @@
           "wordCount": 1317,
           "title": "ビットコインの短期保有者、400万BTC以上を保有──サイクルにはまだ上昇の余地がある",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/936dfb2b2395e130fd379bcb4ab24fa5ed78fabc-1800x1013-1.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=276214",
-          "author": "松田康生",
-          "description": "本稿ではビットコイン相場を①パターン分析 ②移動平均線（9MA・25MA） ③一目均衡表 ④ボリンジャーバンド ⑤MACD ⑥RSIの代表的な6種類のテクニカル ...\nマトリックス法によるテクニカル分析（2025/2/14）下げ止まった？まだ下がる？見極めのポイントは？【楽天ウォレット】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/276214/",
-          "publishedOn": "2025-02-14T10:57:30.000Z",
-          "wordCount": 1311,
-          "title": "マトリックス法によるテクニカル分析（2025/2/14）下げ止まった？まだ下がる？見極めのポイントは？【楽天ウォレット】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/tr-thumb_250214.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=276199",
-          "author": "Omkar Godbole",
-          "description": "アルトコインが2月14日に話題となった。エックス・アール・ピー（XRP）とドージコイン（DOGE）が現物ETF（上場投資信託）の楽観論から力を得て上昇し、ソラナ ...\nSECがETF申請を受理したことでXRPとDOGEが上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/276199/",
-          "publishedOn": "2025-02-14T10:55:00.000Z",
-          "wordCount": 1322,
-          "title": "SECがETF申請を受理したことでXRPとDOGEが上昇",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/02/shutterstock_2291741475.jpg"
         }
       ]
     },
@@ -484,6 +464,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=595898",
+          "author": "菊谷ルイス",
+          "description": "金価格前日比2%上昇米国の金（ゴールド）準備監査提案がブロックチェーン技術採用を促進する可能性が高まっている。水曜日の金先物相場は史上最高値の2,968.5ドルをわずかに下回る水準で推移し、投資家が米国の貿易政策への懸念から安全資産を求める...",
+          "link": "https://coinpost.jp/?p=595898",
+          "publishedOn": "2025-02-18T22:45:45.000Z",
+          "wordCount": 3143,
+          "title": "米国の金準備の監査提案がブロックチェーン採用を加速か　国家資産管理の透明性向上へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/bitcoin-and-gold-paul-jones.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/bitcoin-and-gold-paul-jones.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=595886",
           "author": "K.Kobayashi",
@@ -1254,6 +1249,36 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/traders-eye-sol-eth-reversal-memecoin-fallout",
+          "author": "Cointelegraph  Alex O’Donnell",
+          "description": "ソラナ（SOL）ネットワークで相次ぐミームコインのスキャンダルによって市場心理が悪化する中、仮想通貨トレーダーはSOLとイーサ（ETH）の比率が反転する可能性に注目している。",
+          "link": "https://jp.cointelegraph.com/news/traders-eye-sol-eth-reversal-memecoin-fallout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-18T22:57:00.000Z",
+          "wordCount": null,
+          "title": "トレーダー、ミームコイン崩壊を受けSOL/ETHの反転に注目",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzA5Y2QtNTk2Mi03Y2FhLWEzNDQtY2QxZjdiMTc1MGY3.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzA5Y2QtNTk2Mi03Y2FhLWEzNDQtY2QxZjdiMTc1MGY3.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/ftx-next-repayment-distribution-may-2025",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "FTXは2月18日に最初の弁済を開始した後、今後の債権者への返済計画を発表した。",
+          "link": "https://jp.cointelegraph.com/news/ftx-next-repayment-distribution-may-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-18T22:42:00.000Z",
+          "wordCount": null,
+          "title": "FTX、次回の弁済は5月と発表",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTFhYWQtNWEyYi03MTgyLTg1NzMtNTc1OTA5YTYyYzA0.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTFhYWQtNWEyYi03MTgyLTg1NzMtNTc1OTA5YTYyYzA0.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/ether-exchange-reserves-drop-nine-year-low-bullish-sentiment",
           "author": "Cointelegraph  Zoltan Vardai",
           "description": "中央集権型取引所のイーサ（ETH）準備金が、ほぼ9年ぶりの低水準に達した。",
@@ -1822,36 +1847,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTA0NDItNDNhMy03MDk1LWFhMjgtZDk4YmMwZjVhZmQ5.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-retail-volumes-dip-2-analyst-btc-price-breakout",
-          "author": "Cointelegraph  William Suberg",
-          "description": "ビットコイン（BTC）の個人投資家は、価格が1カ月間にわたって保ち合いの状態にあるにもかかわらず、依然として活発に取引を続けている。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-retail-volumes-dip-2-analyst-btc-price-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-02-14T11:10:00.000Z",
-          "wordCount": null,
-          "title": "ビットコインの個人投資家、価格保ち合いの中でも活発に取引",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTAzY2QtNzZiZS03YTY1LTkwNDQtZDlhODI5NWIyNDUw.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTAzY2QtNzZiZS03YTY1LTkwNDQtZDlhODI5NWIyNDUw.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/el-salvador-bitcoin-status-btc-law-amendment",
-          "author": "Cointelegraph  Helen Partz",
-          "description": "ビットコイン（BTC）を法定通貨として採用した世界初の国、エルサルバドルが、国際通貨基金（IMF）との融資合意に準拠するため、ビットコイン法を改正した。これにより、同国のビットコインを巡る規制が変化に直面している。",
-          "link": "https://jp.cointelegraph.com/news/el-salvador-bitcoin-status-btc-law-amendment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-02-14T10:55:00.000Z",
-          "wordCount": null,
-          "title": "エルサルバドルのビットコインはどうなるか？ IMFとの合意に伴うBTC法改正の影響",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2RiZTQtZTQzZS03NjI2LTk5MmEtNzMwMmU3MGFjM2Iw.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2RiZTQtZTQzZS03NjI2LTk5MmEtNzMwMmU3MGFjM2Iw.jpg"
         }
       ]
     }

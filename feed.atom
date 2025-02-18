@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-18T21:12:58.665Z</updated>
+    <updated>2025-02-18T21:35:30.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン買い増し予定、米ストラテジーが新たな資金調達へ]]></title>
+        <id>https://coinpost.jp/?p=595881</id>
+        <link href="https://coinpost.jp/?p=595881"/>
+        <updated>2025-02-18T21:20:24.000Z</updated>
+        <summary type="html"><![CDATA[米ストラテジー社が20億ドルの無利息転換社債発行を発表。2030年満期の新規社債で機関投資家から資金調達へ。セイラー会長は先週のビットコイン非購入を報告、保有BTCは47.8万枚超を維持している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[破綻したFTXが現金での返金開始、5万ドル以下の顧客に最優先分配]]></title>
         <id>https://coinpost.jp/?p=595874</id>

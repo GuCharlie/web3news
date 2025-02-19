@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-19T14:13:40.864Z</updated>
+    <updated>2025-02-19T14:39:11.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ストラテジー、ビットコイン追加購入のため20億ドルを調達]]></title>
+        <id>https://www.coindeskjapan.com/?p=277109</id>
+        <link href="https://www.coindeskjapan.com/277109/"/>
+        <updated>2025-02-19T14:17:33.000Z</updated>
+        <summary type="html"><![CDATA[旧マイクロストラテジー（MicroStrategy）のストラテジー（Strategy）は、0%転換社債を通じてさらに20億ドル（約3040億円、1ドル152円換 ...
+ストラテジー、ビットコイン追加購入のため20億ドルを調達 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>廣瀬 優香</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アルゼンチン大統領によるLIBRAスキャンダル　ミームコインの規制強化につながる＝業界関係者]]></title>
         <id>https://jp.cointelegraph.com/news/memecoin-regulation-libra-collapse-calls-for-oversight</id>
@@ -1716,26 +1727,6 @@ SEC、コインベース訴訟の期限延長を裁判所に要請──和解�
         <summary type="html"><![CDATA[SECが、仮想通貨タスクフォースによる作業を理由にコインベース控訴への回答を延期した。証券性判断の見直しに注目が集まる。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ミームコイン熱狂でビットコインオンチェーン活動低迷に、ピーク時から55%減少の実態]]></title>
-        <id>https://coinpost.jp/?p=594938</id>
-        <link href="https://coinpost.jp/?p=594938"/>
-        <updated>2025-02-15T02:35:17.000Z</updated>
-        <summary type="html"><![CDATA[ミームコイン熱狂で仮想通貨ビットコインのオンチェーン活動が直近7日間で55%減少。12ヶ月最低の動向と市場転換の背景は？]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国のベンチャーキャピタル企業ガオロン、香港の仮想通貨取引所ハッシュキーに3000万ドル出資]]></title>
-        <id>https://jp.cointelegraph.com/news/crypto-unicorn-hash-key-raises-30-m-from-chinese-vc-gaorong-ventures</id>
-        <link href="https://jp.cointelegraph.com/news/crypto-unicorn-hash-key-raises-30-m-from-chinese-vc-gaorong-ventures?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-15T02:15:00.000Z</updated>
-        <summary type="html"><![CDATA[中国を拠点とするベンチャーキャピタル（VC）企業ガオロン・ベンチャーズ（高榕創投）が、香港登録の仮想通貨取引所ハッシュキーに3000万ドルを出資したと報じられた。]]></summary>
-        <author>
-            <name>Cointelegraph  Arijit Sarkar</name>
         </author>
     </entry>
 </feed>

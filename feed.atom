@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-19T12:25:01.130Z</updated>
+    <updated>2025-02-19T12:56:52.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨トレーディング企業ウィンターミュート　米国市場への進出を計画　トランプ政権での規制緩和に期待]]></title>
+        <id>https://jp.cointelegraph.com/news/wintermute-expands-us-crypto-market-ny-office</id>
+        <link href="https://jp.cointelegraph.com/news/wintermute-expands-us-crypto-market-ny-office?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-19T12:21:00.000Z</updated>
+        <summary type="html"><![CDATA[英ロンドン拠点のアルゴリズム仮想通貨トレーディング企業ウィンターミュートが、米国市場への進出を計画しており、まずはニューヨークにオフィスを開設する。]]></summary>
+        <author>
+            <name>Cointelegraph  Arijit Sarkar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFTコレクターがデジタルアートを300万ドルで購入──過去3年間の最高額]]></title>
         <id>https://www.coindeskjapan.com/?p=277078</id>
@@ -1746,16 +1756,6 @@ SEC、コインベース訴訟の期限延長を裁判所に要請──和解�
         <summary type="html"><![CDATA[仮想通貨ミームコインのローンチパッドPump.funがiOS/Androidアプリ版をリリース。一方で英国などで法的懸念も浮上している。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTC 10万ドル攻防戦　仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ]]></title>
-        <id>https://jp.cointelegraph.com/news/price-analysis-2-14-btc-eth-xrp-sol-bnb-doge-ada-link-avax-sui</id>
-        <link href="https://jp.cointelegraph.com/news/price-analysis-2-14-btc-eth-xrp-sol-bnb-doge-ada-link-avax-sui?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-15T00:40:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）はここ数日、移動平均線を下回る水準で取引されているが、弱気派は価格を9万ドルまで押し下げることができていない。]]></summary>
-        <author>
-            <name>Cointelegraph  Rakesh Upadhyay</name>
         </author>
     </entry>
 </feed>

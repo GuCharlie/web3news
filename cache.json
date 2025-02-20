@@ -1422,6 +1422,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=452681",
+          "author": "OtsugaShinya",
+          "description": "Gincoが「SOC2 Type Ⅱ」保証報告書を受領 国内ブロックチェーン関連企業Ginco（ギンコ）が、同社提供サービスにおいて、国際的なセキュリティ認証「SOC2 TypeⅡ（ソックツータイプ2）」の保証報告書を受 […]",
+          "link": "https://www.neweconomy.jp/posts/452681",
+          "publishedOn": "2025-02-20T06:40:24.000Z",
+          "wordCount": 756,
+          "title": "Ginco、国際的なセキュリティ認証「SOC2 Type Ⅱ」保証報告書を受領、昨年に続き",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/20154020/b660197604561d89f1c5e36e76e96c98.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=452653",
           "author": "OtsugaShinya",
           "description": "メタプラネットのビットコイン保有数が総供給量の0.01%に ビットコイン（BTC）の購入を積極的に進めている東証スタンダード上場企業メタプラネットが、新たにビットコインの追加購入を実施したことを2月20日に発表した。 今 […]",
@@ -1838,6 +1848,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/10-stablecoin-issuers-approved-under-eu-mica",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "欧州連合（EU）は、暗号資産市場規制（MiCA）の枠組みの下で、現在10社にステーブルコインの発行を承認している。",
+          "link": "https://jp.cointelegraph.com/news/10-stablecoin-issuers-approved-under-eu-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-20T06:20:00.000Z",
+          "wordCount": null,
+          "title": "欧州連合（EU）　MiCA規制下で10社のステーブルコイン発行を承認 — テザーは含まれず",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGEwM2MtMjAzYS03YWZiLWE0N2QtMTFiOGMwZjcxM2Y3.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGEwM2MtMjAzYS03YWZiLWE0N2QtMTFiOGMwZjcxM2Y3.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/sanctioned-jurisdictions-illicit-crypto-transactions-2024",
           "author": "Cointelegraph  Arijit Sarkar",

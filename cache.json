@@ -745,6 +745,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=596383",
+          "author": "菊谷ルイス",
+          "description": "資産運用大手フランクリン・テンプルトンが複数の仮想通貨を組み入れた指数型ETF「EZPZ」を米国で上場。ビットコイン87%、イーサリアム13%の構成比で運用開始。",
+          "link": "https://coinpost.jp/?p=596383",
+          "publishedOn": "2025-02-20T21:30:51.000Z",
+          "wordCount": 3182,
+          "title": "F・テンプルトン、ビットコインとイーサリアムの指数連動型ETFを提供開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/FT-index-etf.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/FT-index-etf.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=596375",
           "author": "菊谷ルイス",
           "description": "ビットコイン報酬プログラムを提供するフィンテック企業Foldが20日米NASDAQ市場に上場。初値10.25ドル、時価総額3.65億ドル規模の新規公開を実現した。",
@@ -1968,6 +1983,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-layer2-projects-fade-stacks-muneeb-ali",
+          "author": "Cointelegraph  Arijit Sarkar",
+          "description": "既存のビットコインのレイヤー2（L2）プロジェクトの3分の2以上が、最初の熱狂が冷めるにつれて今後3年以内に消滅すると、Stacksの共同創設者ムニーブ・アリ氏は予測する。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-layer2-projects-fade-stacks-muneeb-ali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-20T21:50:00.000Z",
+          "wordCount": null,
+          "title": "ビットコインのレイヤー2プロジェクト 「ハネムーン期は終わりかけている」＝Stacks共同創設者",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTIyNzktMjUwNC03YzM2LTkxNzMtZWEyZTQzOTdhYjg2.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTIyNzktMjUwNC03YzM2LTkxNzMtZWEyZTQzOTdhYjg2.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/kraken-fbi-sec-data-requests-2024",
           "author": "Cointelegraph  Helen Partz",

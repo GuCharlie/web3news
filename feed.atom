@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-20T20:37:36.035Z</updated>
+    <updated>2025-02-20T21:12:04.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所クラーケン、2024年の規制・法執行機関からのデータ要求が39%増加]]></title>
+        <id>https://jp.cointelegraph.com/news/kraken-fbi-sec-data-requests-2024</id>
+        <link href="https://jp.cointelegraph.com/news/kraken-fbi-sec-data-requests-2024?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-20T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所クラーケンは、2024年に規制および法執行機関からのデータ要求が39%増加したと発表した。特に米連邦捜査局（FBI）を含む米国の機関からの要求が大半を占めていることが明らかになった。]]></summary>
+        <author>
+            <name>Cointelegraph  Helen Partz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米SEC、仮想通貨とAI領域で投資家保護部門を立ち上げ]]></title>
+        <id>https://coinpost.jp/?p=596370</id>
+        <link href="https://coinpost.jp/?p=596370"/>
+        <updated>2025-02-20T20:55:02.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会が新設したCETUは、AI・暗号資産分野での投資家保護と技術革新の促進を目指す。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米証券取引委員会、利回り付きステーブルコインを初承認　証券として発行]]></title>
         <id>https://jp.cointelegraph.com/news/sec-approves-first-yield-bearing-stablecoin</id>

@@ -735,6 +735,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=596370",
+          "author": "菊谷ルイス",
+          "description": "米証券取引委員会が新設したCETUは、AI・暗号資産分野での投資家保護と技術革新の促進を目指す。",
+          "link": "https://coinpost.jp/?p=596370",
+          "publishedOn": "2025-02-20T20:55:02.000Z",
+          "wordCount": 3178,
+          "title": "米SEC、仮想通貨とAI領域で投資家保護部門を立ち上げ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/secusa43362-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/secusa43362-1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=594696",
           "author": "Shusaku.Akaji",
           "description": "BitTrade(ビットトレード)はHuobiグループが運営する仮想通貨取引所。強固なセキュリティと豊富な取扱銘柄が魅力です。手数料無料や少額取引にも対応し、初心者から上級者まで幅広く支持を集めています。",
@@ -1928,6 +1943,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/kraken-fbi-sec-data-requests-2024",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "仮想通貨取引所クラーケンは、2024年に規制および法執行機関からのデータ要求が39%増加したと発表した。特に米連邦捜査局（FBI）を含む米国の機関からの要求が大半を占めていることが明らかになった。",
+          "link": "https://jp.cointelegraph.com/news/kraken-fbi-sec-data-requests-2024?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-20T21:00:00.000Z",
+          "wordCount": null,
+          "title": "仮想通貨取引所クラーケン、2024年の規制・法執行機関からのデータ要求が39%増加",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTIyN2ItNzc4YS03ODI4LWEwZDYtMWY1MDIwZjUzNjg0.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTIyN2ItNzc4YS03ODI4LWEwZDYtMWY1MDIwZjUzNjg0.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/sec-approves-first-yield-bearing-stablecoin",
           "author": "Cointelegraph  Sam Bourgi",

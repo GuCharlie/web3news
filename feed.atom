@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-21T08:18:11.513Z</updated>
+    <updated>2025-02-21T08:40:41.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ライトコインETFに向けた動きが活発化、ネットワーク取引量は1日96億ドルに到達　LTC価格も上昇]]></title>
+        <id>https://jp.cointelegraph.com/news/litecoin-daily-transactions-surge-etf-excitement-grows</id>
+        <link href="https://jp.cointelegraph.com/news/litecoin-daily-transactions-surge-etf-excitement-grows?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-21T08:35:00.000Z</updated>
+        <summary type="html"><![CDATA[ライトコイン（LTC）のネットワーク上での1日あたりの取引額が96億ドルに達した。これは、米国でライトコインの上場投資信託（ETF）を上場しようとする発行者の動きが活発化していることを受けてのものだ。]]></summary>
+        <author>
+            <name>Cointelegraph  Martin Young</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米グーグル、ビットコインウォレットのログインにGoogle認証技術活用か＝報道]]></title>
         <id>https://www.neweconomy.jp/?p=453090</id>

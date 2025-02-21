@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-21T17:12:22.902Z</updated>
+    <updated>2025-02-21T17:35:54.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所バイビットでハッキング被害　14億ドル以上のETH関連トークンが不正流出か]]></title>
+        <id>https://jp.cointelegraph.com/news/bybit-exchange-hacked</id>
+        <link href="https://jp.cointelegraph.com/news/bybit-exchange-hacked?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-21T17:09:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所バイビット（Bybit）が、リキッド・ステークド・イーサ（stETH）、メガETH（mETH）、およびほかのERC-20トークンなど14億ドル超のハッキング被害を受けた。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRP、3.20ドルまで上昇なるか？ 鍵を握るのは2.75ドルのブレイク]]></title>
         <id>https://jp.cointelegraph.com/news/xrp-price-eyes-320-support-reclaimed-analyst</id>
@@ -2610,37 +2620,6 @@ SOLとXRPが暗号資産の下落を主導、米国は「大統領の日」で�
         <summary type="html"><![CDATA[米上院が、仮想通貨VC大手パンテラの創設者モアヘッド氏を税法違反の疑いで調査している。プエルトリコ移住後の約1,290億円の投資利益が対象だ。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、バークレーズもアブダビも購入！今週はどうなる？【仮想通貨相場】]]></title>
-        <id>https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0217</id>
-        <link href="https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0217?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-17T05:35:00.000Z</updated>
-        <summary type="html"><![CDATA[週末のBTC相場はもみ合い推移。]]></summary>
-        <author>
-            <name>Cointelegraph  コインテレグラフジャパン寄稿者</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットフライヤー、日本円出金停止中]]></title>
-        <id>https://www.coindeskjapan.com/?p=276471</id>
-        <link href="https://www.coindeskjapan.com/276471/"/>
-        <updated>2025-02-17T05:30:38.000Z</updated>
-        <summary type="html"><![CDATA[ビットフライヤーは2月17日午前中に「お詫び：日本円出金停止のお知らせ」として、「本日 8：50 頃から、システムの不具合により日本円の出金がご利用いただけない ...
-ビットフライヤー、日本円出金停止中 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>CoinDesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI活用で暗号資産詐欺が2024年に過去最高を記録か＝チェイナリシス]]></title>
-        <id>https://www.neweconomy.jp/?p=451570</id>
-        <link href="https://www.neweconomy.jp/posts/451570"/>
-        <updated>2025-02-17T05:14:23.000Z</updated>
-        <summary type="html"><![CDATA[AIがクリプト詐欺の収益増やす可能性示唆 「豚の食肉解体（pig butchering）」と呼ばれるロマンス詐欺の増加と生成型人工知能（Generative AI）の利用拡大により、2024年の暗号資産（仮想通貨）詐欺に […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>

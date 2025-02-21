@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-21T18:18:59.554Z</updated>
+    <updated>2025-02-21T18:42:39.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイビッドCEO　ハッキング被害後も「出金は可能」と説明　他のウォレットは影響を受けていないとも]]></title>
+        <id>https://jp.cointelegraph.com/news/bybit-confirms-withdrawals-active-warns-delays</id>
+        <link href="https://jp.cointelegraph.com/news/bybit-confirms-withdrawals-active-warns-delays?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-21T18:16:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所バイビット（Bybit）がハッキング攻撃を受け、14億ドル相当のETH関連トークンが不正流出したが、バイビットCEOであるベン・チョウ氏は、出金が引き続き可能であると顧客に向けて説明した。ただし、ネットワークの輻輳により処理に数時間かかる可能性があるという。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨取引所バイビットでハッキング被害　14億ドル以上のETH関連トークンが不正流出か]]></title>
         <id>https://jp.cointelegraph.com/news/bybit-exchange-hacked</id>

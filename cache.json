@@ -2175,16 +2175,6 @@
           "wordCount": 747,
           "title": "Binance Japan、日本円取引ペア3種追加へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/17135420/6ae57f0e5080e058faef9fae285bedf1.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=451518",
-          "author": "OtsugaShinya",
-          "description": "コイントレードがステーブルコインの「電取業」登録へ 国内暗号資産（仮想通貨）取引所コイントレード運営のマーキュリーが、ステーブルコイン取扱いに向け、「電子決済手段等取引業者」登録を目指していることが分かった。マーキュリー […]",
-          "link": "https://www.neweconomy.jp/posts/451518",
-          "publishedOn": "2025-02-17T03:58:18.000Z",
-          "wordCount": 734,
-          "title": "CoinTradeのマーキュリー、ステーブルコインの「電取業」登録へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/17125812/10ca31d11bdaf914e64dc1f052917d84.jpg"
         }
       ]
     },
@@ -2193,6 +2183,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/xrp-price-eyes-320-support-reclaimed-analyst",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "米証券取引委員会（SEC）が複数のXRP ETF申請を受理したにもかかわらず、XRPは2.85ドルから2.30ドルのレンジ内で横ばいの動きを続けている。複数のアナリストが2.75ドル〜2.80ドルのレジスタンスの重要性を指摘する中、XRPは2.60ドルを超えて反発した。",
+          "link": "https://jp.cointelegraph.com/news/xrp-price-eyes-320-support-reclaimed-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-21T16:10:00.000Z",
+          "wordCount": null,
+          "title": "XRP、3.20ドルまで上昇なるか？ 鍵を握るのは2.75ドルのブレイク",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzI1MTctNzYwYy03YThiLTllODAtMDRhYzE1YTY0NDE1.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzI1MTctNzYwYy03YThiLTllODAtMDRhYzE1YTY0NDE1.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/pi-network-token-drop-65-percent-mainnet-launch",
           "author": "Cointelegraph  Ezra Reguerra",

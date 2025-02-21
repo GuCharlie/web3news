@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-21T15:37:07.238Z</updated>
+    <updated>2025-02-21T16:17:23.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[XRP、3.20ドルまで上昇なるか？ 鍵を握るのは2.75ドルのブレイク]]></title>
+        <id>https://jp.cointelegraph.com/news/xrp-price-eyes-320-support-reclaimed-analyst</id>
+        <link href="https://jp.cointelegraph.com/news/xrp-price-eyes-320-support-reclaimed-analyst?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-21T16:10:00.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会（SEC）が複数のXRP ETF申請を受理したにもかかわらず、XRPは2.85ドルから2.30ドルのレンジ内で横ばいの動きを続けている。複数のアナリストが2.75ドル〜2.80ドルのレジスタンスの重要性を指摘する中、XRPは2.60ドルを超えて反発した。]]></summary>
+        <author>
+            <name>Cointelegraph  Nancy Lubale</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Piネットワークのネイティブトークン、メインネット公開後に急落　バイビットCEOと対立]]></title>
         <id>https://jp.cointelegraph.com/news/pi-network-token-drop-65-percent-mainnet-launch</id>
@@ -2649,16 +2659,6 @@ SOLとXRPが暗号資産の下落を主導、米国は「大統領の日」で�
         <link href="https://www.neweconomy.jp/posts/451550"/>
         <updated>2025-02-17T04:54:24.000Z</updated>
         <summary type="html"><![CDATA[バイナンスジャパンが日本円取引ペア3種追加へ 国内暗号資産（仮想通貨）取引所Binance Japan（バイナンスジャパン）が、新たに3種の日本円取引ペアを追加することを2月17日に発表した。 追加される日本円取引ペアは […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoinTradeのマーキュリー、ステーブルコインの「電取業」登録へ]]></title>
-        <id>https://www.neweconomy.jp/?p=451518</id>
-        <link href="https://www.neweconomy.jp/posts/451518"/>
-        <updated>2025-02-17T03:58:18.000Z</updated>
-        <summary type="html"><![CDATA[コイントレードがステーブルコインの「電取業」登録へ 国内暗号資産（仮想通貨）取引所コイントレード運営のマーキュリーが、ステーブルコイン取扱いに向け、「電子決済手段等取引業者」登録を目指していることが分かった。マーキュリー […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
         </author>

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-21T18:42:39.443Z</updated>
+    <updated>2025-02-21T19:10:55.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BTC、ETH下落──約2200億円規模の取引所ハッキングを受けて暗号資産価格低迷]]></title>
+        <id>https://www.coindeskjapan.com/?p=277614</id>
+        <link href="https://www.coindeskjapan.com/277614/"/>
+        <updated>2025-02-21T19:04:26.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産価格は2月21日、ハッキングによって暗号資産取引所バイビットから15億ドル相当の暗号資産が流出している可能性があるとの情報を受けて下落し、それまでの上昇 ...
+BTC、ETH下落──約2200億円規模の取引所ハッキングを受けて暗号資産価格低迷 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Krisztian Sandor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイビッドCEO　ハッキング被害後も「出金は可能」と説明　他のウォレットは影響を受けていないとも]]></title>
         <id>https://jp.cointelegraph.com/news/bybit-confirms-withdrawals-active-warns-delays</id>
@@ -2557,37 +2568,6 @@ SOLとXRPが暗号資産の下落を主導、米国は「大統領の日」で�
         <summary type="html"><![CDATA[3種類の取引ペア追加暗号資産（仮想通貨）取引所のBinanceJapanは17日、ビットコインキャッシュ（BCH）、チェーンリンク（LINK）、ライトコイン（LTC）の3銘柄について、日本円との取引ペアを20日17時より開始すると発表した。...]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アルゼンチン大領領、リブラトークンをめぐり告発される：AP通信]]></title>
-        <id>https://www.coindeskjapan.com/?p=276486</id>
-        <link href="https://www.coindeskjapan.com/276486/"/>
-        <updated>2025-02-17T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アルゼンチンの弁護士らは、今週末のリブラ（LIBRA）トークンの「ラグプル」をめぐり、同国のハビエル・ミレイ（Javier Milei）大統領を告発しているとA ...
-アルゼンチン大領領、リブラトークンをめぐり告発される：AP通信 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Progmat、Swift連携のステーブルコインPJ「Project Pax」で韓国金融機関とMOU締結]]></title>
-        <id>https://www.neweconomy.jp/?p=451628</id>
-        <link href="https://www.neweconomy.jp/posts/451628"/>
-        <updated>2025-02-17T06:57:07.000Z</updated>
-        <summary type="html"><![CDATA[Progmatが「Project Pax」で韓国企業とMOU デジタルアセット発行・管理基盤「Progmat（プログマ）」を提供する日本企業のProgmat（プログマ）社が、Swift（国際銀行間通信協会）と連携した銀行 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NYSE Arca、「現物イーサリアムETF」でステーキング許可求める規則変更をSECに申請]]></title>
-        <id>https://www.neweconomy.jp/?p=451627</id>
-        <link href="https://www.neweconomy.jp/posts/451627"/>
-        <updated>2025-02-17T06:50:28.000Z</updated>
-        <summary type="html"><![CDATA[現物イーサリアムETFのステーキング許可求める申請書提出 シカゴの証券取引所「NYSEアーカ（NYSE Arca）」が、暗号資産（仮想通貨）運用会社グレースケール（Grayscale）による「現物イーサリアム（ETH）上 […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>

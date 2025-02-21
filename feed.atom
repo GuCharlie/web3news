@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-21T21:35:11.935Z</updated>
+    <updated>2025-02-21T22:13:04.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米国株の急落、暗号資産の不調に拍車]]></title>
+        <id>https://www.coindeskjapan.com/?p=277623</id>
+        <link href="https://www.coindeskjapan.com/277623/"/>
+        <updated>2025-02-21T21:44:35.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産市場はわずか数時間前には、米証券取引委員会（SEC）がコインベース（Coinbase）に対する訴訟を取り下げる意向を示したことで、活況を呈していた。 こ ...
+米国株の急落、暗号資産の不調に拍車 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Stephen Alpher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F・テンプレトン、ステーキング機能付きソラナETFを申請]]></title>
+        <id>https://coinpost.jp/?p=596814</id>
+        <link href="https://coinpost.jp/?p=596814"/>
+        <updated>2025-02-21T21:35:27.000Z</updated>
+        <summary type="html"><![CDATA[世界最大級の運用会社フランクリン・テンプレトンが、ステーキング報酬を組み込んだソラナETFの申請を実施。コインベースをカストディアンに指名し、Cboe BZXでの上場を目指す。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイビットの巨額ハッキング被害　北朝鮮のハッカー集団ラザルスが関与か＝セキュリティ専門家が指摘]]></title>
         <id>https://jp.cointelegraph.com/news/zach-xbt-identifies-lazarus-group-bybit-hack-arkham-bounty</id>
@@ -2565,17 +2586,6 @@ SOLとXRPが暗号資産の下落を主導、米国は「大統領の日」で�
         <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アメリカの暗号資産タスクフォースはビットコイン準備金の創設に焦点を当てる：バーンスタイン]]></title>
-        <id>https://www.coindeskjapan.com/?p=276574</id>
-        <link href="https://www.coindeskjapan.com/276574/"/>
-        <updated>2025-02-17T10:10:00.000Z</updated>
-        <summary type="html"><![CDATA[アメリカの暗号資産（仮想通貨）タスクフォースは、国家によるビットコイン（BTC）準備金の創設に焦点を当てる予定であり、この動きは世界中で同様の取り組みを促進する ...
-アメリカの暗号資産タスクフォースはビットコイン準備金の創設に焦点を当てる：バーンスタイン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Will Canny</name>
         </author>
     </entry>
 </feed>

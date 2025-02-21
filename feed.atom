@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-21T20:36:23.693Z</updated>
+    <updated>2025-02-21T21:12:04.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所クラーケン　独自の米ドル連動ステーブルコインを検討中＝報道]]></title>
+        <id>https://jp.cointelegraph.com/news/kraken-mulls-stablecoin-tether-usdt-delisting</id>
+        <link href="https://jp.cointelegraph.com/news/kraken-mulls-stablecoin-tether-usdt-delisting?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-21T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所クラーケンが、自社独自のステーブルコインの発行を検討していると報じられている。これは、欧州の規制により仮想通貨取引所がテザーのUSDTをプラットフォームから上場廃止する動きに対応するものとみられる。]]></summary>
+        <author>
+            <name>Cointelegraph  Helen Partz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SECがコインベースに対する訴訟を取り下げへ、仮想通貨業界に大きな勝利]]></title>
+        <id>https://coinpost.jp/?p=596806</id>
+        <link href="https://coinpost.jp/?p=596806"/>
+        <updated>2025-02-21T20:55:43.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会がコインベースに対する訴訟を取り下げることで原則合意。2021年の上場後、2年を経て提起された訴訟は「間違い」と認定。CEOのアームストロング氏は「来週にも承認見込み」と発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エセナ・ラボがUSDeの健全性を強調　バイビットでのハッキング事件受け]]></title>
+        <id>https://jp.cointelegraph.com/news/ethena-assures-users-solvency-after-bybit-hack</id>
+        <link href="https://jp.cointelegraph.com/news/ethena-assures-users-solvency-after-bybit-hack?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-21T20:50:00.000Z</updated>
+        <summary type="html"><![CDATA[エセナ・ラボは、2月21日にバイビットで発生した10億ドル超の流出事件を受けても、利回り付きステーブルコイン「エセナUSDe（USDe）」の健全性に問題はないとユーザーに向けて説明した。]]></summary>
+        <author>
+            <name>Cointelegraph  Alex O’Donnell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暗号資産取引所Bybit、約2200億円のハッキング被害──「損失はカバーできる」とCEO]]></title>
+        <id>https://www.coindeskjapan.com/?p=277619</id>
+        <link href="https://www.coindeskjapan.com/277619/"/>
+        <updated>2025-02-21T20:39:55.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーン探偵ZachXBTによると、暗号資産取引所のバイビットから、14億6000万ドル相当の「疑わしい流出」が見られた。 問題のウォレットは、40万1 ...
+暗号資産取引所Bybit、約2200億円のハッキング被害──「損失はカバーできる」とCEO first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Oliver Knight</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bybit、史上最大規模のハッキング　仮想通貨相場が急落]]></title>
+        <id>https://coinpost.jp/?p=596794</id>
+        <link href="https://coinpost.jp/?p=596794"/>
+        <updated>2025-02-21T20:25:58.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所Bybitがマルチシグコールドウォレットから14億ドル相当のETHが流出する史上最大の仮想通貨ハッキング被害に。CEOは流出額は総資産の約5%と明かし、顧客資産の全額補償を約束した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[下落時の防衛ラインはどこか？　仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ]]></title>
         <id>https://jp.cointelegraph.com/news/price-analysis-2-21-btc-eth-xrp-bnb-sol-doge-ada-link-sui-xlm</id>

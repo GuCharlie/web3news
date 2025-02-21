@@ -690,16 +690,6 @@
           "wordCount": 1319,
           "title": "アメリカの暗号資産タスクフォースはビットコイン準備金の創設に焦点を当てる：バーンスタイン",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/shutterstock_119809810-768x512-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=276542",
-          "author": "Oliver Knight",
-          "description": "暗号インテリジェンス・プラットフォームのMerkle Scienceの報告書によると、2024年には、ミームコインのラグプル（rug pulls）や詐欺により5 ...\n2024年、暗号資産投資家はミームコインのラグプルや詐欺で5億ドル以上を失った：報告書 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/276542/",
-          "publishedOn": "2025-02-17T09:30:00.000Z",
-          "wordCount": 1284,
-          "title": "2024年、暗号資産投資家はミームコインのラグプルや詐欺で5億ドル以上を失った：報告書",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/09/shutterstock_2434644369.jpg"
         }
       ]
     },
@@ -2074,6 +2064,21 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/zach-xbt-identifies-lazarus-group-bybit-hack-arkham-bounty",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "オンチェーン分析プラットフォームのアーカム・インテリジェンスは、オンチェーンセキュリティ専門家であるZachXBT氏が、2月21日に発生したバイビットのハッキング事件の首謀者として、北朝鮮のハッカー集団「ラザルス・グループ」を特定したと発表した。",
+          "link": "https://jp.cointelegraph.com/news/zach-xbt-identifies-lazarus-group-bybit-hack-arkham-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-21T21:25:00.000Z",
+          "wordCount": null,
+          "title": "バイビットの巨額ハッキング被害　北朝鮮のハッカー集団ラザルスが関与か＝セキュリティ専門家が指摘",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTJhMTAtZTljZS03NTUzLWI0MmMtMjllN2M0OTYyNzRi.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTJhMTAtZTljZS03NTUzLWI0MmMtMjllN2M0OTYyNzRi.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/kraken-mulls-stablecoin-tether-usdt-delisting",
           "author": "Cointelegraph  Helen Partz",
           "description": "仮想通貨取引所クラーケンが、自社独自のステーブルコインの発行を検討していると報じられている。これは、欧州の規制により仮想通貨取引所がテザーのUSDTをプラットフォームから上場廃止する動きに対応するものとみられる。",
@@ -3182,21 +3187,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTE0ZDQtOGJjZi03OTRmLTgwMjUtMzc0MDQzYjU3NzM1.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0217",
-          "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
-          "description": "10日〜16日のビットコイン（BTC）対円相場の週足終値は、前週比1万3219円（0.09%）安の1467万5778円とほぼ変わらずだった。",
-          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0217?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-02-17T09:32:00.000Z",
-          "wordCount": null,
-          "title": "BTCは値固めの様相　テクニカル的な売りに注意【仮想通貨相場】",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jYThkZDlmM2EzNWE5YjYxM2UxOGE5NGNjMTAxZTkyNy5qcGc=.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jYThkZDlmM2EzNWE5YjYxM2UxOGE5NGNjMTAxZTkyNy5qcGc=.jpg"
         }
       ]
     }

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-21T21:12:04.452Z</updated>
+    <updated>2025-02-21T21:35:11.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイビットの巨額ハッキング被害　北朝鮮のハッカー集団ラザルスが関与か＝セキュリティ専門家が指摘]]></title>
+        <id>https://jp.cointelegraph.com/news/zach-xbt-identifies-lazarus-group-bybit-hack-arkham-bounty</id>
+        <link href="https://jp.cointelegraph.com/news/zach-xbt-identifies-lazarus-group-bybit-hack-arkham-bounty?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-21T21:25:00.000Z</updated>
+        <summary type="html"><![CDATA[オンチェーン分析プラットフォームのアーカム・インテリジェンスは、オンチェーンセキュリティ専門家であるZachXBT氏が、2月21日に発生したバイビットのハッキング事件の首謀者として、北朝鮮のハッカー集団「ラザルス・グループ」を特定したと発表した。]]></summary>
+        <author>
+            <name>Cointelegraph  Christopher Tepedino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨取引所クラーケン　独自の米ドル連動ステーブルコインを検討中＝報道]]></title>
         <id>https://jp.cointelegraph.com/news/kraken-mulls-stablecoin-tether-usdt-delisting</id>
@@ -2566,27 +2576,6 @@ SOLとXRPが暗号資産の下落を主導、米国は「大統領の日」で�
 アメリカの暗号資産タスクフォースはビットコイン準備金の創設に焦点を当てる：バーンスタイン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Will Canny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCは値固めの様相　テクニカル的な売りに注意【仮想通貨相場】]]></title>
-        <id>https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0217</id>
-        <link href="https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0217?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-17T09:32:00.000Z</updated>
-        <summary type="html"><![CDATA[10日〜16日のビットコイン（BTC）対円相場の週足終値は、前週比1万3219円（0.09%）安の1467万5778円とほぼ変わらずだった。]]></summary>
-        <author>
-            <name>Cointelegraph  コインテレグラフジャパン寄稿者</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年、暗号資産投資家はミームコインのラグプルや詐欺で5億ドル以上を失った：報告書]]></title>
-        <id>https://www.coindeskjapan.com/?p=276542</id>
-        <link href="https://www.coindeskjapan.com/276542/"/>
-        <updated>2025-02-17T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号インテリジェンス・プラットフォームのMerkle Scienceの報告書によると、2024年には、ミームコインのラグプル（rug pulls）や詐欺により5 ...
-2024年、暗号資産投資家はミームコインのラグプルや詐欺で5億ドル以上を失った：報告書 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Oliver Knight</name>
         </author>
     </entry>
 </feed>

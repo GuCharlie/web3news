@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-21T20:14:58.099Z</updated>
+    <updated>2025-02-21T20:36:23.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[下落時の防衛ラインはどこか？　仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ]]></title>
+        <id>https://jp.cointelegraph.com/news/price-analysis-2-21-btc-eth-xrp-bnb-sol-doge-ada-link-sui-xlm</id>
+        <link href="https://jp.cointelegraph.com/news/price-analysis-2-21-btc-eth-xrp-bnb-sol-doge-ada-link-sui-xlm?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-21T20:10:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインの弱気派が優位となるには、BTCを9万3388ドル以下に引き下げる必要がある。それが実現すれば、重要な9万ドルのサポートを再び試す展開になり得る。]]></summary>
+        <author>
+            <name>Cointelegraph  Rakesh Upadhyay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTC、ETH下落──約2200億円規模の取引所ハッキングを受けて暗号資産価格低迷]]></title>
         <id>https://www.coindeskjapan.com/?p=277614</id>
@@ -2526,16 +2536,6 @@ SOLとXRPが暗号資産の下落を主導、米国は「大統領の日」で�
 2024年、暗号資産投資家はミームコインのラグプルや詐欺で5億ドル以上を失った：報告書 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Oliver Knight</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テザー社、伊サッカー「ユヴェントスFC」の少数株式を取得]]></title>
-        <id>https://www.neweconomy.jp/?p=451646</id>
-        <link href="https://www.neweconomy.jp/posts/451646"/>
-        <updated>2025-02-17T08:17:45.000Z</updated>
-        <summary type="html"><![CDATA[テザー、ユヴェントスの少数株式を取得 USDTなどのステーブルコイン発行企業テザー（Tether）社が、伊プロサッカークラブ「ユヴェントス・フットボール・クラブ（Juventus Football Club：以下ユーヴェ […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
 </feed>

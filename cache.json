@@ -1910,16 +1910,6 @@
           "wordCount": 758,
           "title": "米SEC、コインベースとの訴訟の回答期限を28日間延長へ。バイナンス訴訟に続き",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/18152530/6ecf55ff0a89399b3f4953871ecaae14.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=451985",
-          "author": "OtsugaShinya",
-          "description": "TISとgC Labsがweb3コンサルティングサービス「NUE3」提供開始 TISインテックグループのTISとgumiの連結子会社としてブロックチェーン事業を展開するgC Labsが、web3コンサルティングサービス「 […]",
-          "link": "https://www.neweconomy.jp/posts/451985",
-          "publishedOn": "2025-02-18T05:08:47.000Z",
-          "wordCount": 611,
-          "title": "TISとgumiのgC Labs、web3コンサルティングサービス「NUE3」提供開始",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/18140841/gumi-250218-metamorworks.jpg"
         }
       ]
     },
@@ -1928,6 +1918,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bybit-hack-withdrawals-5-3b-reserves-secure-hacken",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "DefiLlamaのデータによれば、仮想通貨取引所バイビットは、14億ドル規模のハッキング被害と総資産で53億ドルの減少を経験したものの、負債を上回る準備資産を維持している。",
+          "link": "https://jp.cointelegraph.com/news/bybit-hack-withdrawals-5-3b-reserves-secure-hacken?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-22T16:31:00.000Z",
+          "wordCount": null,
+          "title": "仮想通貨取引所バイビット、ハッキング後に資産が53億ドル減少　監査機関Hacken「負債超過には至らず」",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTJkYTYtM2FiMi03Yjk1LWFhMDAtYjdiOTZkMDNiYTcy.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTJkYTYtM2FiMi03Yjk1LWFhMDAtYjdiOTZkMDNiYTcy.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bybit-hack-centralized-exchange-security-flaws",
           "author": "Cointelegraph  Zoltan Vardai",
@@ -2947,21 +2952,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMmMwMWNiMmM5MTVhZWYxMzY3OGJmYWY0MjkzMTc3Yi5qZmlm.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/argentina-president-javier-milei-denies-promoting-libra-token",
-          "author": "Cointelegraph  Brayden Lindrea",
-          "description": "アルゼンチンのミレイ大統領は、急落したLIBRAトークンを推奨したとの主張を否定した。このLIBRA騒動により、仮想通貨に友好的なミレイ大統領は複数の詐欺訴訟に直面し、さらには弾劾を求める声まで上がっている。",
-          "link": "https://jp.cointelegraph.com/news/argentina-president-javier-milei-denies-promoting-libra-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-02-18T04:50:00.000Z",
-          "wordCount": null,
-          "title": "アルゼンチンのミレイ大統領　LIBRAトークンを「推奨したわけではない」　LIBRA暴落後に初めての発言",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTE2N2UtYWI1Yy03MDU4LTk3N2QtZDViNTY2MjJmZTUw.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTE2N2UtYWI1Yy03MDU4LTk3N2QtZDViNTY2MjJmZTUw.jpg"
         }
       ]
     }

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-22T16:38:46.203Z</updated>
+    <updated>2025-02-22T17:12:07.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所バイビット、ハッキング後に資産が53億ドル減少　監査機関Hacken「負債超過には至らず」]]></title>
+        <id>https://jp.cointelegraph.com/news/bybit-hack-withdrawals-5-3b-reserves-secure-hacken</id>
+        <link href="https://jp.cointelegraph.com/news/bybit-hack-withdrawals-5-3b-reserves-secure-hacken?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-22T16:31:00.000Z</updated>
+        <summary type="html"><![CDATA[DefiLlamaのデータによれば、仮想通貨取引所バイビットは、14億ドル規模のハッキング被害と総資産で53億ドルの減少を経験したものの、負債を上回る準備資産を維持している。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[過去最大の被害額となったバイビットのハッキング事件　仮想通貨取引所のセキュリティ問題を浮き彫りに]]></title>
         <id>https://jp.cointelegraph.com/news/bybit-hack-centralized-exchange-security-flaws</id>
@@ -2357,26 +2367,6 @@ LIBRAのラグプルでソラナのミームコインエコシステムに打撃
         <summary type="html"><![CDATA[昨日のBTC相場はもみ合い推移。]]></summary>
         <author>
             <name>Cointelegraph  コインテレグラフジャパン寄稿者</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TISとgumiのgC Labs、web3コンサルティングサービス「NUE3」提供開始]]></title>
-        <id>https://www.neweconomy.jp/?p=451985</id>
-        <link href="https://www.neweconomy.jp/posts/451985"/>
-        <updated>2025-02-18T05:08:47.000Z</updated>
-        <summary type="html"><![CDATA[TISとgC Labsがweb3コンサルティングサービス「NUE3」提供開始 TISインテックグループのTISとgumiの連結子会社としてブロックチェーン事業を展開するgC Labsが、web3コンサルティングサービス「 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アルゼンチンのミレイ大統領　LIBRAトークンを「推奨したわけではない」　LIBRA暴落後に初めての発言]]></title>
-        <id>https://jp.cointelegraph.com/news/argentina-president-javier-milei-denies-promoting-libra-token</id>
-        <link href="https://jp.cointelegraph.com/news/argentina-president-javier-milei-denies-promoting-libra-token?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-18T04:50:00.000Z</updated>
-        <summary type="html"><![CDATA[アルゼンチンのミレイ大統領は、急落したLIBRAトークンを推奨したとの主張を否定した。このLIBRA騒動により、仮想通貨に友好的なミレイ大統領は複数の詐欺訴訟に直面し、さらには弾劾を求める声まで上がっている。]]></summary>
-        <author>
-            <name>Cointelegraph  Brayden Lindrea</name>
         </author>
     </entry>
 </feed>

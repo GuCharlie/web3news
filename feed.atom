@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-22T08:16:08.457Z</updated>
+    <updated>2025-02-22T08:38:15.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイビットCEO、全出金処理が完了し「通常の運用に復帰」と発表　15億ドルの巨額ハッキング被害]]></title>
+        <id>https://jp.cointelegraph.com/news/crypto-exchange-bybit-withdrawals-processed-after-hack-ben-zhou</id>
+        <link href="https://jp.cointelegraph.com/news/crypto-exchange-bybit-withdrawals-processed-after-hack-ben-zhou?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-22T08:13:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所バイビットのベン・チョウCEOは、業界史上最大規模のハッキング被害を受けた後、全ての出金処理が完了し、システムが「完全に通常の処理速度に戻った」と発表した。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SECがオープンシー調査を終了、コインベース訴訟撤回に続く規制緩和の動き]]></title>
         <id>https://coinpost.jp/?p=596867</id>

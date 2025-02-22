@@ -610,7 +610,7 @@
       "articles": []
     },
     {
-      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "銀行  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -1918,6 +1918,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/lazarus-moves-funds-multiple-wallets-bybit-offers-bounty",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "オンチェーン分析企業ルックオンチェーンによると、今回のハッキングに関与したグループは2月22日、1万ETH（約2700万ドル相当）を「Bybit Exploiter 54」とラベル付けされたウォレットに移動し、資金洗浄を試みた。",
+          "link": "https://jp.cointelegraph.com/news/lazarus-moves-funds-multiple-wallets-bybit-offers-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-22T16:55:00.000Z",
+          "wordCount": null,
+          "title": "バイビット事件のハッカーグループ、1万ETHを資金洗浄のために移動か",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTJlMTMtNDUzYS03OWQ5LTgyOTUtNzI1NjcxY2MwODg5.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTJlMTMtNDUzYS03OWQ5LTgyOTUtNzI1NjcxY2MwODg5.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bybit-hack-withdrawals-5-3b-reserves-secure-hacken",
           "author": "Cointelegraph  Zoltan Vardai",

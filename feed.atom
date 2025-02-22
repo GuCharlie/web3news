@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-22T17:12:07.029Z</updated>
+    <updated>2025-02-22T17:36:01.096Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイビット事件のハッカーグループ、1万ETHを資金洗浄のために移動か]]></title>
+        <id>https://jp.cointelegraph.com/news/lazarus-moves-funds-multiple-wallets-bybit-offers-bounty</id>
+        <link href="https://jp.cointelegraph.com/news/lazarus-moves-funds-multiple-wallets-bybit-offers-bounty?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-22T16:55:00.000Z</updated>
+        <summary type="html"><![CDATA[オンチェーン分析企業ルックオンチェーンによると、今回のハッキングに関与したグループは2月22日、1万ETH（約2700万ドル相当）を「Bybit Exploiter 54」とラベル付けされたウォレットに移動し、資金洗浄を試みた。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨取引所バイビット、ハッキング後に資産が53億ドル減少　監査機関Hacken「負債超過には至らず」]]></title>
         <id>https://jp.cointelegraph.com/news/bybit-hack-withdrawals-5-3b-reserves-secure-hacken</id>

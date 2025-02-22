@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-22T02:30:49.342Z</updated>
+    <updated>2025-02-22T06:19:59.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SECがオープンシー調査を終了、コインベース訴訟撤回に続く規制緩和の動き]]></title>
+        <id>https://coinpost.jp/?p=596867</id>
+        <link href="https://coinpost.jp/?p=596867"/>
+        <updated>2025-02-22T04:50:54.000Z</updated>
+        <summary type="html"><![CDATA[SECはついにOpenSeaの調査も終了。Coinbaseへの訴訟撤回と相まって仮想通貨業界における規制アプローチの重要な変化を示す。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米SEC、コインベースの訴訟取り下げへ、暗号資産規制に転換の兆し]]></title>
+        <id>https://www.neweconomy.jp/?p=453256</id>
+        <link href="https://www.neweconomy.jp/posts/453256"/>
+        <updated>2025-02-22T04:31:48.000Z</updated>
+        <summary type="html"><![CDATA[米SECがコインベースの訴訟取り下げへ 米大手暗号資産（仮想通貨）取引所コインベース（Coinbase）は、米証券取引委員会（SEC）が同社に対して起こしていた訴訟を取り下げる予定であることを2月21日に明らかにした。  […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フランス大手銀、ステラでユーロ建てステーブルコイン「EURCV」発行]]></title>
+        <id>https://coinpost.jp/?p=596863</id>
+        <link href="https://coinpost.jp/?p=596863"/>
+        <updated>2025-02-22T04:20:58.000Z</updated>
+        <summary type="html"><![CDATA[仏大手銀行ソシエテジェネラル子会社が仮想通貨ステラ上でユーロ建てステーブルコイン「EURCV」を発行する。従来型金融とデジタル資産との融合が進むと述べている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bybit、コールドウォレットのハッキングで15億ドル相当のイーサリアムが不正流出]]></title>
+        <id>https://www.neweconomy.jp/?p=453247</id>
+        <link href="https://www.neweconomy.jp/posts/453247"/>
+        <updated>2025-02-22T04:05:24.000Z</updated>
+        <summary type="html"><![CDATA[バイビットがハッキング被害で15億ドルのETHが不正流出 海外大手暗号資産（仮想通貨）取引所バイビット（Bybit）が、イーサリアム（ETH）のコールドウォレットのハッキング被害を受け、14.6億ドル（約2,200億円） […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米当局、保有ビットコイン総額把握できず＝報道]]></title>
         <id>https://coinpost.jp/?p=596859</id>
@@ -2613,17 +2653,6 @@ SOLとXRPが暗号資産の下落を主導、米国は「大統領の日」で�
         <summary type="html"><![CDATA[仮想通貨取引所バイナンスは17日、4銘柄の上場廃止を実施する予定を発表。前回の銘柄廃止イベントは昨年12月で、トークン価格に大きな影響を与えた。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[都内高級ホテルの宿泊権NFT化、最大半額で提供へ──報道]]></title>
-        <id>https://www.coindeskjapan.com/?p=276629</id>
-        <link href="https://www.coindeskjapan.com/276629/"/>
-        <updated>2025-02-17T14:48:19.000Z</updated>
-        <summary type="html"><![CDATA[資産の流動化事業を展開するFosun Real World Asset（FRWA）が東京都内の高級ホテル3施設の宿泊権をNFT化して販売するサービスを2月末から ...
-都内高級ホテルの宿泊権NFT化、最大半額で提供へ──報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>栃山直樹</name>
         </author>
     </entry>
 </feed>

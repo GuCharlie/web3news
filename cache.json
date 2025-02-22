@@ -550,16 +550,6 @@
           "wordCount": 1341,
           "title": "LIBRAのラグプルでソラナのミームコインエコシステムに打撃：ギャラクシー・リサーチ",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/shutterstock_2142005911.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=276809",
-          "author": "廣瀬 優香",
-          "description": "イーロン・マスク（Elon Musk）氏が率いる政府効率化省（D.O.G.E）が17日、米証券取引委員会（SEC）に狙いを定めたようで、エックス・アール・ピー（ ...\nイーロン・マスク氏の「政府効率化省」がSECを標的に──XRPに注目集まる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/276809/",
-          "publishedOn": "2025-02-18T09:45:00.000Z",
-          "wordCount": 1321,
-          "title": "イーロン・マスク氏の「政府効率化省」がSECを標的に──XRPに注目集まる",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/bb7e5c6c702b8344f2ac234613dd0b2053952cc8-1400x894-1.jpg"
         }
       ]
     },
@@ -1808,6 +1798,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/stripe-paypal-primary-catalysts-stablecoin-growth-polygon-labs",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "ポリゴン・ラボのマーク・ボイロンCEOによれば、近年のステーブルコイン業界の急成長は、大手決済プロバイダーがこの新しい技術を統合し、トークンによる決済を容易にしたことが一因だ。ボイロン氏は「ストライプやペイパルのような企業がステーブルコインを統合したことが、その成長の主な原動力となっている可能性が高い」と語った。",
+          "link": "https://jp.cointelegraph.com/news/stripe-paypal-primary-catalysts-stablecoin-growth-polygon-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-22T22:00:00.000Z",
+          "wordCount": null,
+          "title": "ペイパルとストライプ　ステーブルコイン成長の「主要な原動力に」＝ポリゴン・ラボCEO",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJmYTctN2M1Yi03ODBhLWE4ZmItOWNmZjkyMjc2ZWY2.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJmYTctN2M1Yi03ODBhLWE4ZmItOWNmZjkyMjc2ZWY2.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/lazarus-moves-funds-multiple-wallets-bybit-offers-bounty",
           "author": "Cointelegraph  Vince Quill",

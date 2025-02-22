@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-22T10:40:09.851Z</updated>
+    <updated>2025-02-22T11:10:31.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[過去最大の被害額となったバイビットのハッキング事件　仮想通貨取引所のセキュリティ問題を浮き彫りに]]></title>
+        <id>https://jp.cointelegraph.com/news/bybit-hack-centralized-exchange-security-flaws</id>
+        <link href="https://jp.cointelegraph.com/news/bybit-hack-centralized-exchange-security-flaws?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-22T10:34:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所バイビットが、仮想通貨業界で過去最大のハッキング被害を受け、14億6000万ドル以上のリド・ステークドETH（stETH）、マントル・ステークドETH（mETH）などのERC-20トークンが不正流出した。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米証券取引委員会、オープンシーへの調査を終了　コインベースとの訴訟も取り下げ]]></title>
         <id>https://jp.cointelegraph.com/news/sec-closes-investigation-nft-platform-opensea</id>
@@ -2540,47 +2550,6 @@ SOLとXRPが暗号資産の下落を主導、米国は「大統領の日」で�
         <summary type="html"><![CDATA[*本レポートは、クリプトアナリストである仮想NISHI（...]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブレバン・ハワード・デジタル、イーサリアムベースのKintoに約30億円を投資──機関投資家のDeFiへの関心の高まり示す]]></title>
-        <id>https://www.coindeskjapan.com/?p=276647</id>
-        <link href="https://www.coindeskjapan.com/276647/"/>
-        <updated>2025-02-17T23:05:11.000Z</updated>
-        <summary type="html"><![CDATA[世界的な投資運用会社の暗号資産（仮想通貨）部門であるブレバン・ハワード・デジタルのアブダビ支社は、分散型金融（DeFi）への機関投資家の参加を目的に設計されたブ ...
-ブレバン・ハワード・デジタル、イーサリアムベースのKintoに約30億円を投資──機関投資家のDeFiへの関心の高まり示す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国人投資家が2億円相当のETHを焼却、外部からの「脳支配」と主張]]></title>
-        <id>https://coinpost.jp/?p=595576</id>
-        <link href="https://coinpost.jp/?p=595576"/>
-        <updated>2025-02-17T22:55:57.000Z</updated>
-        <summary type="html"><![CDATA[中国人プログラマーが投資会社のCEOらによる「脳コンピューター兵器での支配」を告発。約2億円相当のイーサリアムを焼却アドレスに送信し、業界に衝撃が走った。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨コミュニティがミームコインのインサイダー問題解決を模索]]></title>
-        <id>https://jp.cointelegraph.com/news/memecoin-social-layer-community-discussion-insider</id>
-        <link href="https://jp.cointelegraph.com/news/memecoin-social-layer-community-discussion-insider?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-17T22:53:00.000Z</updated>
-        <summary type="html"><![CDATA[ミームコインのトレーダーが損失を出し続ける中、一部の仮想通貨業界のリーダーは、インサイダーによる詐欺を抑止する手段として社会的圧力を求めている。]]></summary>
-        <author>
-            <name>Cointelegraph  Ezra Reguerra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBFなど、多数の犯罪者が恩赦を模索｜「シルクロード創設者」のような可能性は低いとの指摘も]]></title>
-        <id>https://jp.cointelegraph.com/news/ulbricht-white-collar-criminals-face-slim-sbf-conviction-relief</id>
-        <link href="https://jp.cointelegraph.com/news/ulbricht-white-collar-criminals-face-slim-sbf-conviction-relief?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-17T22:41:00.000Z</updated>
-        <summary type="html"><![CDATA[FTXの元CEO、サム・バンクマン-フリード氏を含む多くの犯罪者が、ドナルド・トランプ米大統領の当選を受けて恩赦の道を模索している。]]></summary>
-        <author>
-            <name>Cointelegraph  Sam Bourgi</name>
         </author>
     </entry>
 </feed>

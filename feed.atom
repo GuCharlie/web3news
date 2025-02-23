@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-23T22:36:50.289Z</updated>
+    <updated>2025-02-23T23:12:31.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SEC、Coinbaseに対する訴訟を取り下げへ──暗号資産にとって大きな転換点]]></title>
+        <id>https://www.coindeskjapan.com/?p=277717</id>
+        <link href="https://www.coindeskjapan.com/277717/"/>
+        <updated>2025-02-23T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Coinbaseの弁護士によると、SECは、Coinbaseに対する告訴を完全に断念することについて間もなく投票を行う予定だという。 SECは暗号資産に対するこ ...
+SEC、Coinbaseに対する訴訟を取り下げへ──暗号資産にとって大きな転換点 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Jesse Hamilton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイビットCEO、イーサリアムのロールバックについて「一個人の判断で決められるものではない」と回答]]></title>
+        <id>https://jp.cointelegraph.com/news/bybit-ceo-discusses-possibility-ethereum-blockchain-rollback</id>
+        <link href="https://jp.cointelegraph.com/news/bybit-ceo-discusses-possibility-ethereum-blockchain-rollback?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-23T22:45:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所バイビットのCEOであるベン・シュウ氏は、取引所が盗難資金の回収に向け、利用可能なあらゆる手段を講じると述べた。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ストラテジーのマイケル・セイラー氏、ビットコイン買い再開を示唆]]></title>
+        <id>https://jp.cointelegraph.com/news/saylor-hints-resuming-bitcoin-buying</id>
+        <link href="https://jp.cointelegraph.com/news/saylor-hints-resuming-bitcoin-buying?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-23T22:31:00.000Z</updated>
+        <summary type="html"><![CDATA[ストラテジー社（旧マイクロストラテジー）の共同創業者であるマイケル・セイラー氏は、ビットコイン（BTC）の購入再開を示唆するチャートを投稿した。これは、同社が1週間の購入停止後に再びBTCを取得する可能性を示している。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインのインプライド・ボラティリティが記録的な低水準に｜ストラテジー社の買いで市場動くか]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-implied-volatility-record-lows-as-strategy-signals-btc-buy</id>
@@ -1689,17 +1720,6 @@ AI偽装でFTX債権めぐり企業から数百万ドル相当を詐取か：報
         <summary type="html"><![CDATA[英ロンドン拠点のアルゴリズム仮想通貨トレーディング企業ウィンターミュートが、米国市場への進出を計画しており、まずはニューヨークにオフィスを開設する。]]></summary>
         <author>
             <name>Cointelegraph  Arijit Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFTコレクターがデジタルアートを300万ドルで購入──過去3年間の最高額]]></title>
-        <id>https://www.coindeskjapan.com/?p=277078</id>
-        <link href="https://www.coindeskjapan.com/277078/"/>
-        <updated>2025-02-19T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アメリカのアートコレクティブ、Kanbasが先週、過去3年間で最大のNFT（非代替性トークン）購入を行い、サム・スプラット（Sam Spratt）氏の1点限りの ...
-NFTコレクターがデジタルアートを300万ドルで購入──過去3年間の最高額 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Oliver Knight</name>
         </author>
     </entry>
 </feed>

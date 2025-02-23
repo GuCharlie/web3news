@@ -1789,6 +1789,21 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/2014-vitalik-buterin-couldn-t-raise-today",
+          "author": "Cointelegraph  Aaron Barefoot",
+          "description": "イーサリアム誕生から10年が経ったが、もし今ヴィタリック・ブテリン氏がゼロからスタートしなければならないとしたら、資金調達は不可能だろう。",
+          "link": "https://jp.cointelegraph.com/news/2014-vitalik-buterin-couldn-t-raise-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-23T00:00:00.000Z",
+          "wordCount": null,
+          "title": "次のヴィタリックはXでバズらなければならないのか？ 仮想通貨のビジョンを失った市場の現実【オピニオン】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDg4OTUtODgxYi03MWE4LWFhNWYtYTAwY2E3MDBjYzI2.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDg4OTUtODgxYi03MWE4LWFhNWYtYTAwY2E3MDBjYzI2.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/stripe-paypal-primary-catalysts-stablecoin-growth-polygon-labs",
           "author": "Cointelegraph  Sam Bourgi",
           "description": "ポリゴン・ラボのマーク・ボイロンCEOによれば、近年のステーブルコイン業界の急成長は、大手決済プロバイダーがこの新しい技術を統合し、トークンによる決済を容易にしたことが一因だ。ボイロン氏は「ストライプやペイパルのような企業がステーブルコインを統合したことが、その成長の主な原動力となっている可能性が高い」と語った。",
@@ -2732,21 +2747,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTE4ZGYtOGIyMi03NDU2LWFjOGMtOWZkNTQ5MWEwMGI0.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/open-sea-xp-rewards-system-pause-listing-bidding",
-          "author": "Cointelegraph  Ezra Reguerra",
-          "description": "非代替性トークン（NFT）マーケットプレイスのオープンシーは、新たなエアドロップ報酬システムに対するユーザーの批判を受け、一時停止を決定した。",
-          "link": "https://jp.cointelegraph.com/news/open-sea-xp-rewards-system-pause-listing-bidding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-02-18T11:37:00.000Z",
-          "wordCount": null,
-          "title": "NFTマーケットのオープンシー、新たなエアドロップ報酬システムを一時停止——ユーザーの批判を受け",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTE4NzEtOWRjNC03ZTg4LThjZTYtOTY1MjVhNGE1NTBm.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTE4NzEtOWRjNC03ZTg4LThjZTYtOTY1MjVhNGE1NTBm.jpg"
         }
       ]
     }

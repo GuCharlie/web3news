@@ -560,7 +560,7 @@
       "articles": []
     },
     {
-      "title": "Monero(XMR)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -1698,6 +1698,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/ethereum-rollback-debate-technically-intractable-eth-core-developer",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "バイビットでの史上最大の仮想通貨不正流出事件を受け、仮想通貨業界からはハッキング以前の2月21日以前の状態にイーサリアムネットワークをロールバックするよう求める声が出ている。しかし、イーサリアムのコア開発者であるティム・ベイコ氏は、この提案は技術的に極めて困難であり、重大な影響を伴うと指摘した。",
+          "link": "https://jp.cointelegraph.com/news/ethereum-rollback-debate-technically-intractable-eth-core-developer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-23T13:14:00.000Z",
+          "wordCount": null,
+          "title": "イーサリアムをロールバックするべきか？ 開発者「技術的に極めて困難」　バイビットの巨額ハッキング事件",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGE1ZTQtMjZmMy03ZDUwLWE4NTMtYWFiOTUzODRhZWEx.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGE1ZTQtMjZmMy03ZDUwLWE4NTMtYWFiOTUzODRhZWEx.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/2014-vitalik-buterin-couldn-t-raise-today",
           "author": "Cointelegraph  Aaron Barefoot",

@@ -915,36 +915,6 @@
           "wordCount": 795,
           "title": "「TOKI」が本番環境で稼働開始、イーサリアムとBNBチェーン間で初のIBC接続",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/21125508/b72281563a9c35438ddf48f5a9688bdb.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=452760",
-          "author": "NewEconomyPodcast",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/452760",
-          "publishedOn": "2025-02-20T11:10:20.000Z",
-          "wordCount": 781,
-          "title": "【2/20話題】メタプラネットのビットコイン保有数が総供給量の0.01%に、バイナンスUSが米ドルの入出金を再開など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/20173909/news_head_20240220.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=452795",
-          "author": "HitomotoToshikazu",
-          "description": "ブラジルでXRP現物ETF取引開始へ ブラジル証券取引委員会（CVM）が、「XRP現物ETF」のブラジル証券取引所B3への上場を承認した。地元メディア「ポータルドゥビットコイン（Portal do Bitcoin）」が2 […]",
-          "link": "https://www.neweconomy.jp/posts/452795",
-          "publishedOn": "2025-02-20T10:48:41.000Z",
-          "wordCount": 744,
-          "title": "ブラジル証券取引委員会、「XRP現物ETF」上場を世界で初承認",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/20194755/b8f14de0b0981f7c3562e3d589e0b7fd.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=452797",
-          "author": "OtsugaShinya",
-          "description": "BRILがベトナム大手暗号資産取引所Nami Exchangeに上場へ 日本発のブロックチェーンゲーム「Brilliantcrypto（ブリリアンクリプト）」発行の暗号資産（仮想通貨）「BRIL（ブリリアンクリプトトーク […]",
-          "link": "https://www.neweconomy.jp/posts/452797",
-          "publishedOn": "2025-02-20T10:45:04.000Z",
-          "wordCount": 761,
-          "title": "Brilliantcryptoの「ブリリアンクリプトトークン（BRIL）」、ベトナム大手Nami Exchangeに上場へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/20194449/BRIL-250220-Ninja-Studio.jpg"
         }
       ]
     },
@@ -953,6 +923,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/44-percent-us-spot-bitcoin-etfs-buying-hodling",
+          "author": "Cointelegraph  Martin Young",
+          "description": "仮想通貨調査会社の報告によると、ビットコイン現物ETFの投資家の多くは裁定取引（アービトラージ）戦略を利用しており、流入のうち長期投資に関連するのはわずか44％にとどまるという。",
+          "link": "https://jp.cointelegraph.com/news/44-percent-us-spot-bitcoin-etfs-buying-hodling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-24T22:38:00.000Z",
+          "wordCount": null,
+          "title": "米国のビットコイン現物ETF、流入の56％が裁定取引によるもの＝10xリサーチ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5NDA2YTAtM2VmNy03Njg3LWJmOWYtNDY0NjJjYmI3YzVl.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5NDA2YTAtM2VmNy03Njg3LWJmOWYtNDY0NjJjYmI3YzVl.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/sec-task-force-meetings-crypto-regulation",
           "author": "Cointelegraph  Turner Wright",

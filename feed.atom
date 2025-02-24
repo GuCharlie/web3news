@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-24T22:38:13.990Z</updated>
+    <updated>2025-02-24T23:13:46.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米国のビットコイン現物ETF、流入の56％が裁定取引によるもの＝10xリサーチ]]></title>
+        <id>https://jp.cointelegraph.com/news/44-percent-us-spot-bitcoin-etfs-buying-hodling</id>
+        <link href="https://jp.cointelegraph.com/news/44-percent-us-spot-bitcoin-etfs-buying-hodling?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-24T22:38:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨調査会社の報告によると、ビットコイン現物ETFの投資家の多くは裁定取引（アービトラージ）戦略を利用しており、流入のうち長期投資に関連するのはわずか44％にとどまるという。]]></summary>
+        <author>
+            <name>Cointelegraph  Martin Young</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ政権下のSEC、仮想通貨企業への執行措置を撤回する可能性]]></title>
         <id>https://jp.cointelegraph.com/news/sec-task-force-meetings-crypto-regulation</id>
@@ -1150,36 +1160,6 @@ SECの新サイバー部門、暗号資産に対する執行措置重視の姿�
 バイナンスUS、チョークポイント2.0を生き延びて米ドルの入出金再開 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>橋本 祐樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2/20話題】メタプラネットのビットコイン保有数が総供給量の0.01%に、バイナンスUSが米ドルの入出金を再開など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=452760</id>
-        <link href="https://www.neweconomy.jp/posts/452760"/>
-        <updated>2025-02-20T11:10:20.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラジル証券取引委員会、「XRP現物ETF」上場を世界で初承認]]></title>
-        <id>https://www.neweconomy.jp/?p=452795</id>
-        <link href="https://www.neweconomy.jp/posts/452795"/>
-        <updated>2025-02-20T10:48:41.000Z</updated>
-        <summary type="html"><![CDATA[ブラジルでXRP現物ETF取引開始へ ブラジル証券取引委員会（CVM）が、「XRP現物ETF」のブラジル証券取引所B3への上場を承認した。地元メディア「ポータルドゥビットコイン（Portal do Bitcoin）」が2 […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brilliantcryptoの「ブリリアンクリプトトークン（BRIL）」、ベトナム大手Nami Exchangeに上場へ]]></title>
-        <id>https://www.neweconomy.jp/?p=452797</id>
-        <link href="https://www.neweconomy.jp/posts/452797"/>
-        <updated>2025-02-20T10:45:04.000Z</updated>
-        <summary type="html"><![CDATA[BRILがベトナム大手暗号資産取引所Nami Exchangeに上場へ 日本発のブロックチェーンゲーム「Brilliantcrypto（ブリリアンクリプト）」発行の暗号資産（仮想通貨）「BRIL（ブリリアンクリプトトーク […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>

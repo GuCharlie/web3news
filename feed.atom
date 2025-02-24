@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-24T22:13:30.521Z</updated>
+    <updated>2025-02-24T22:38:13.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ政権下のSEC、仮想通貨企業への執行措置を撤回する可能性]]></title>
+        <id>https://jp.cointelegraph.com/news/sec-task-force-meetings-crypto-regulation</id>
+        <link href="https://jp.cointelegraph.com/news/sec-task-force-meetings-crypto-regulation?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-24T22:29:00.000Z</updated>
+        <summary type="html"><![CDATA[ドナルド・トランプ大統領の就任以降、新たな指導体制となった米国証券取引委員会（SEC）が、一部の仮想通貨企業に対する執行措置を撤回するのではないかとの憶測が広がっている。]]></summary>
+        <author>
+            <name>Cointelegraph  Turner Wright</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米SEC、ロビンフッド・クリプトの調査を終了]]></title>
+        <id>https://jp.cointelegraph.com/news/sec-enforcement-division-closes-investigation-robinhood-crypto</id>
+        <link href="https://jp.cointelegraph.com/news/sec-enforcement-division-closes-investigation-robinhood-crypto?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-24T22:24:00.000Z</updated>
+        <summary type="html"><![CDATA[米国証券取引委員会（SEC）は、オンライン証券会社ロビンフッドに対してウェルズ通知を発行してから1年足らずで、ロビンフッド・クリプトに関する調査を終了した。]]></summary>
+        <author>
+            <name>Cointelegraph  Sam Bourgi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9万ドルを割り込む可能性も　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ]]></title>
+        <id>https://jp.cointelegraph.com/news/price-analysis-2-24-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-link</id>
+        <link href="https://jp.cointelegraph.com/news/price-analysis-2-24-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-link?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-24T22:16:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインは現在のレンジを下方に割り込むリスクを抱えており、9万ドルを割り込む可能性もある]]></summary>
+        <author>
+            <name>Cointelegraph  Rakesh Upadhyay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム「巻き戻し」提案に批判──起こり得ない理由とは]]></title>
         <id>https://www.coindeskjapan.com/?p=277735</id>
@@ -1150,17 +1180,6 @@ SECの新サイバー部門、暗号資産に対する執行措置重視の姿�
         <summary type="html"><![CDATA[BRILがベトナム大手暗号資産取引所Nami Exchangeに上場へ 日本発のブロックチェーンゲーム「Brilliantcrypto（ブリリアンクリプト）」発行の暗号資産（仮想通貨）「BRIL（ブリリアンクリプトトーク […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産取引所デリビット、クラーケンによる買収交渉は継続中：情報筋]]></title>
-        <id>https://www.coindeskjapan.com/?p=277351</id>
-        <link href="https://www.coindeskjapan.com/277351/"/>
-        <updated>2025-02-20T10:35:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）オプション取引所のデリビット（Deribit）は、同じく取引所のクラーケン（Kraken）が買収交渉から撤退したという報道とは逆に、両社は依 ...
-暗号資産取引所デリビット、クラーケンによる買収交渉は継続中：情報筋 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Ian Allison</name>
         </author>
     </entry>
 </feed>

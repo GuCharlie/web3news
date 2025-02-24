@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=277748",
+          "author": "Will Canny",
+          "description": "ビットコインの財務省のがアフリカに到達、Altvestが参入 南アフリカの投資会社Altvest Capitalは2月22日、アフリカの上場企業として初めて、戦 ...\n企業のビットコイン保有、アフリカにも──南アの投資会社が1BTC強購入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/277748/",
+          "publishedOn": "2025-02-24T23:35:00.000Z",
+          "wordCount": 1293,
+          "title": "企業のビットコイン保有、アフリカにも──南アの投資会社が1BTC強購入",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/image-63.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=277735",
           "author": "Margaux Nijkerk",
           "description": "2月21日、暗号通貨取引所Bybit（バイビット）が北朝鮮のラザルスグループ（Lazarus Group）によってハッキングされたと伝えられ、14億ドル近いイー ...\nイーサリアム「巻き戻し」提案に批判──起こり得ない理由とは first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -260,16 +270,6 @@
           "wordCount": 1304,
           "title": "ビットコイン、小幅上昇──アトランタ連銀総裁のハト派発言を受けて",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/shutterstock_2053167725.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=277261",
-          "author": "橋本 祐樹",
-          "description": "米国の顧客にサービスを提供する認可済みの暗号資産取引所バイナンスUSは、ついにUSDの入出金サービスを再開した。同社はバイデン政権下で、USDの取扱いが事実上停 ...\nバイナンスUS、チョークポイント2.0を生き延びて米ドルの入出金再開 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/277261/",
-          "publishedOn": "2025-02-20T11:25:00.000Z",
-          "wordCount": 1286,
-          "title": "バイナンスUS、チョークポイント2.0を生き延びて米ドルの入出金再開",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/shutterstock_1504385249-scaled.jpg"
         }
       ]
     },
@@ -756,6 +756,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=453618",
+          "author": "HitomotoToshikazu",
+          "description": "Deribitで取引所外決済可能に 暗号資産（仮想通貨）などデジタル資産のカストディサービスを提供するビットゴー（BitGo）とコッパー（Copper）が提携し、取引所に資産を預けずに取引を行える機関投資家向け取引所外決 […]",
+          "link": "https://www.neweconomy.jp/posts/453618",
+          "publishedOn": "2025-02-24T23:34:46.000Z",
+          "wordCount": 641,
+          "title": "BitGoとCopper、デリバティブ取引所「Deribit」で取引所外決済を提供開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/25083413/a7c165538ad9f365074da2e8538f6738.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=453608",
+          "author": "HitomotoToshikazu",
+          "description": "Orderly NetworkがMonadと統合 分散型オーダーブックを提供する「オーダリーネットワーク（Orderly Network）」が、EVM（イーサリアムバーチャルマシン）互換のレイヤー1（L1）ブロックチェー […]",
+          "link": "https://www.neweconomy.jp/posts/453608",
+          "publishedOn": "2025-02-24T23:25:38.000Z",
+          "wordCount": 752,
+          "title": "分散型オーダーブック「Orderly Network」、EVM互換L1チェーン「Monad」と統合",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/25082518/8ed83e194ef3eae4985d2e01d45b331a.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=453256",
           "author": "NewEconomy",

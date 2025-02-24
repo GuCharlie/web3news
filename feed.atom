@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-24T02:38:44.686Z</updated>
+    <updated>2025-02-24T06:21:09.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムのロールバック提案にコア開発者が反論、Bybitハッキング事件で]]></title>
+        <id>https://coinpost.jp/?p=597300</id>
+        <link href="https://coinpost.jp/?p=597300"/>
+        <updated>2025-02-24T05:02:37.000Z</updated>
+        <summary type="html"><![CDATA[2,100億円相当のBybitハッキング事件後に提案された、イーサリアムのロールバックにコア開発者が反論し、なぜ難しいのかについて、一般ユーザーのために解説した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bybitハッカー、ミームコイン発行で資金洗浄か　パンプファンが阻止]]></title>
+        <id>https://coinpost.jp/?p=597287</id>
+        <link href="https://coinpost.jp/?p=597287"/>
+        <updated>2025-02-24T04:10:36.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所Bybitから盗まれた仮想通貨の一部がミームコインを通じてマネロンされた。Bybitは資金回収のための報奨金プログラムを開始した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンスらがBybitに10万ETH緊急支援、ハッキング被害後も資産は安定か]]></title>
         <id>https://coinpost.jp/?p=597274</id>

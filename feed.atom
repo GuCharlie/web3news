@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-24T20:37:41.046Z</updated>
+    <updated>2025-02-24T21:13:01.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム「巻き戻し」提案に批判──起こり得ない理由とは]]></title>
+        <id>https://www.coindeskjapan.com/?p=277735</id>
+        <link href="https://www.coindeskjapan.com/277735/"/>
+        <updated>2025-02-24T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2月21日、暗号通貨取引所Bybit（バイビット）が北朝鮮のラザルスグループ（Lazarus Group）によってハッキングされたと伝えられ、14億ドル近いイー ...
+イーサリアム「巻き戻し」提案に批判──起こり得ない理由とは first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Margaux Nijkerk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【3/3〜3/7】「GFTNフォーラム・ジャパン2025」──金融庁主催「Japan Fintech Week」内で開催]]></title>
         <id>https://www.coindeskjapan.com/?p=277779</id>
@@ -1182,19 +1193,6 @@ SECの新サイバー部門、暗号資産に対する執行措置重視の姿�
 フランクリン・テンプルトン、トークン化された米国債ファンドを欧州投資家に提供 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム開発者、クロスチェーン取引を簡素化する新たなイニシアティブを発表]]></title>
-        <id>https://www.coindeskjapan.com/?p=277303</id>
-        <link href="https://www.coindeskjapan.com/277303/"/>
-        <updated>2025-02-20T08:40:00.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム開発者、クロスチェーン取引を簡素化する新たなイニシアティブを発表" />
-
-イーサリアム（Ethereum）のトップ開発者グループとリーダーが2月19日、クロスチェーンのトークン移転を簡素化し標準化する新たなフレームワークを発表した。  ...
-イーサリアム開発者、クロスチェーン取引を簡素化する新たなイニシアティブを発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Margaux Nijkerk</name>
         </author>
     </entry>
 </feed>

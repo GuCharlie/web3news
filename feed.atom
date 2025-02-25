@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-25T20:37:46.322Z</updated>
+    <updated>2025-02-25T21:13:12.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SECがユニスワップラボ調査を終了、DeFiセクターに追い風]]></title>
+        <id>https://coinpost.jp/?p=597897</id>
+        <link href="https://coinpost.jp/?p=597897"/>
+        <updated>2025-02-25T20:40:24.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会が世界最大の分散型取引所開発企業Uniswap Labsへの調査を執行措置なしで終了。コインベース、OpenSeaなど他の仮想通貨企業への調査も相次いで打ち切り、新体制下での規制アプローチ変更が具現化している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインはさらに下落する可能性が高いが、次の強気相場の種が蒔かれつつある]]></title>
         <id>https://www.coindeskjapan.com/?p=278113</id>
@@ -1244,26 +1254,6 @@ BTC、ETH下落──約2200億円規模の取引所ハッキングを受けて�
 アメリカのステーブルコインの普及は規制の欠如により妨げられている：S&Pグローバル first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Will Canny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9万8000ドルを維持したビットコイン　10万ドル回復なるか？ 「9万8400ドルがピボットポイント」]]></title>
-        <id>https://jp.cointelegraph.com/news/108k-btc-price-next-bitcoin-bull-market-pivot-point</id>
-        <link href="https://jp.cointelegraph.com/news/108k-btc-price-next-bitcoin-bull-market-pivot-point?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-21T09:10:00.000Z</updated>
-        <summary type="html"><![CDATA[2月21日、ビットコイン（BTC）は9万8000ドルを維持し、強気派が過去3週間で最も高い日次終値を記録した。]]></summary>
-        <author>
-            <name>Cointelegraph  William Suberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨の税務調査で追徴課税？確定申告のミスが引き起こす具体的リスクと対策｜Gtax寄稿]]></title>
-        <id>https://coinpost.jp/?p=596268</id>
-        <link href="https://coinpost.jp/?p=596268"/>
-        <updated>2025-02-21T09:00:05.000Z</updated>
-        <summary type="html"><![CDATA[資家必見の税務リスク対策ガイド。仮想通貨取引の確定申告ミスが招く税務調査と追徴課税のリスクについて、Gtax提供企業の税理士が徹底解説。損益計算のチェックポイントから実際の追徴課税事例、対策方法まで徹底解説。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>

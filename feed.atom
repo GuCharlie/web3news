@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-25T10:15:12.776Z</updated>
+    <updated>2025-02-25T10:41:10.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[暗号資産市場の時価総額が10％下落し、恐怖と貪欲指数は「極度の恐怖」を示す]]></title>
+        <id>https://www.coindeskjapan.com/?p=278037</id>
+        <link href="https://www.coindeskjapan.com/278037/"/>
+        <updated>2025-02-25T10:20:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）トレーダーは今、不安を感じている。 広く注目されている「恐怖と貪欲指数（Fear and Greed Index）」は、ソーシャルメディアへ ...
+暗号資産市場の時価総額が10％下落し、恐怖と貪欲指数は「極度の恐怖」を示す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ステーブルコイン「USDe」開発企業のエセナ、1億ドルを調達：ブルームバーグ]]></title>
         <id>https://www.coindeskjapan.com/?p=277972</id>
@@ -1530,16 +1541,6 @@ TIS、double jumpとステーブルコイン決済基盤を構築へ first appea
         <summary type="html"><![CDATA[欧州中央銀行は、国際決済における分散型台帳技術の活用を検討すると発表し、今後の計画を説明した。分散型台帳技術にはブロックチェーン技術も含まれる。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン上昇基調、トランプ大統領「米国を仮想通貨の中心に」発言が影響｜仮想NISHI]]></title>
-        <id>https://coinpost.jp/?p=596402</id>
-        <link href="https://coinpost.jp/?p=596402"/>
-        <updated>2025-02-20T22:25:40.000Z</updated>
-        <summary type="html"><![CDATA[*本レポートは、クリプトアナリストである仮想NISHI（...]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>

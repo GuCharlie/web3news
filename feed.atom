@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-25T21:36:05.320Z</updated>
+    <updated>2025-02-25T22:13:25.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CryptoQuant CEO、限定的なアルトコインシーズン到来を予測　その条件は？]]></title>
+        <id>https://coinpost.jp/?p=597904</id>
+        <link href="https://coinpost.jp/?p=597904"/>
+        <updated>2025-02-25T21:40:08.000Z</updated>
+        <summary type="html"><![CDATA[「すべてが高騰する時代は終わった」暗号資産（仮想通貨）分析会社CryptoQuantの創業者兼CEOであるキ・ヨンジュ氏が25日、2025年は選別的なアルトコイン相場が訪れると予測している。キ氏によれば、ビットコインとイーサリアム以外の多く...]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米国複数州でビットコイン準備金法案が否決続く　BTC価格急落の要因に]]></title>
+        <id>https://coinpost.jp/?p=597899</id>
+        <link href="https://coinpost.jp/?p=597899"/>
+        <updated>2025-02-25T21:10:31.000Z</updated>
+        <summary type="html"><![CDATA[米サウスダコタ州議会でビットコイン戦略的準備金法案が否決。モンタナ州など複数州での否決が続き、ビットコイン価格は一時86000ドルまで下落。一方でオクラホマ州では委員会通過など明るい兆しも。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米SECがユニスワップラボ調査を終了、DeFiセクターに追い風]]></title>
         <id>https://coinpost.jp/?p=597897</id>
@@ -1222,27 +1242,6 @@ BTC、ETH下落──約2200億円規模の取引所ハッキングを受けて�
         <summary type="html"><![CDATA[NTTデジタルがバリデーションビジネ強化でFigmentと連携 NTTドコモのweb3を推進する子会社NTT Digital（NTTデジタル）が、グローバルに展開する大手独立系ステーキングインフラプロバイダーであるFig […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産は需要の低迷に直面している：JPモルガン]]></title>
-        <id>https://www.coindeskjapan.com/?p=277551</id>
-        <link href="https://www.coindeskjapan.com/277551/"/>
-        <updated>2025-02-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[JPモルガン（JPMorgan）は2月19日のレポートで、暗号資産（仮想通貨）市場には、目先のポジティブな材料が欠けていると述べた。 ここ数カ月の暗号資産市場の ...
-暗号資産は需要の低迷に直面している：JPモルガン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Will Canny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVM互換のL1ブロックチェーン「Monad」、テストネット稼働開始]]></title>
-        <id>https://www.neweconomy.jp/?p=453121</id>
-        <link href="https://www.neweconomy.jp/posts/453121"/>
-        <updated>2025-02-21T09:44:06.000Z</updated>
-        <summary type="html"><![CDATA[Monadのテストネット稼働開始 EVM（イーサリアムバーチャルマシン）互換のレイヤー1（L1）ブロックチェーン「モナド（Monad）」のパブリックテストネットが2月20日に稼働開始した。 このテストネットは、ブロックタ […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
         </author>
     </entry>
 </feed>

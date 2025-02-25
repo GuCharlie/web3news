@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-25T06:43:41.218Z</updated>
+    <updated>2025-02-25T07:14:05.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pacific Meta、「Bifrost Network」のバリデータ運用を開始]]></title>
+        <id>https://www.neweconomy.jp/?p=453884</id>
+        <link href="https://www.neweconomy.jp/posts/453884"/>
+        <updated>2025-02-25T06:47:39.000Z</updated>
+        <summary type="html"><![CDATA[Pacific MetaとBifrost Networkが提携 Pacific Meta（パシフィックメタ）が、Bifrost（バイフロスト）との戦略的パートナーシップ締結を2月21日に発表した。 Pacific Met […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイビットのハッカー、DEXを利用し仮想通貨をDAIに交換　取引所EXchは協力を拒否]]></title>
         <id>https://jp.cointelegraph.com/news/bybit-hacker-swaps-3-64-m-to-dai-via-decentralized-exchanges</id>
@@ -1516,17 +1526,6 @@ SECの新サイバー部門、暗号資産に対する執行措置重視の姿�
         <summary type="html"><![CDATA[ビットコイン（BTC）は2月18日に9万3321ドルの新たなレンジを形成後、4.40%の急騰を見せた。しかし、より長い時間軸のチャートでは下降チャネルパターンを形成しながら下落トレンドを維持している。]]></summary>
         <author>
             <name>Cointelegraph  Biraajmaan Tamuly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、小幅上昇──アトランタ連銀総裁のハト派発言を受けて]]></title>
-        <id>https://www.coindeskjapan.com/?p=277369</id>
-        <link href="https://www.coindeskjapan.com/277369/"/>
-        <updated>2025-02-20T19:09:45.000Z</updated>
-        <summary type="html"><![CDATA[2025年に米連邦準備制度理事会（FRB）が利下げを実施する可能性を諦めつつあった投資家たちは2月20日、アトランタ連銀のボスティック総裁の控えめなハト派的発言 ...
-ビットコイン、小幅上昇──アトランタ連銀総裁のハト派発言を受けて first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Stephen Alpher</name>
         </author>
     </entry>
 </feed>

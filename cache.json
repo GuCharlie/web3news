@@ -325,6 +325,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=597916",
+          "author": "CoinPost編集部",
+          "description": "仮想通貨市場は、米国の5つの州でビットコイン準備金法案が廃案となったことを受け、失望感から大きく下落した。さらに、BinanceアカウントがGoogleメール経由での資金盗難の影響を受け大規模なデフォルトログインから強制ログアウトされたとの報道が出たことで、市場は一段と下落した。",
+          "link": "https://coinpost.jp/?p=597916",
+          "publishedOn": "2025-02-25T23:10:17.000Z",
+          "wordCount": 3257,
+          "title": "仮想通貨市場急落、米州でBTC準備金法案の廃案が広がる｜仮想NISHI",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0556.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0556.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=597912",
           "author": "菊谷ルイス",
           "description": "2013年に誤って捨てられた7500ビットコインを含むハードドライブの回収に挑むジェームズ・ハウエルズ氏。埋立地の買収まで検討する執念に対し、廃棄物管理専門家は9億分の1の確率と忠告した。",
@@ -993,6 +1008,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bybit-lazarus-group-bounty-war-hack",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "ハッカーが仮想通貨取引所バイビットから14億ドル以上の資産を盗み出してから1週間も経たないうちに、同仮想通貨取引所の共同創設者兼CEOが攻撃者への対抗措置を宣言した。",
+          "link": "https://jp.cointelegraph.com/news/bybit-lazarus-group-bounty-war-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-25T22:59:00.000Z",
+          "wordCount": null,
+          "title": "バイビットCEO、14億ドルのハッキング被害後「ラザルスとの戦争」を宣言",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTNkOWUtZTkxMi03NWI0LThkNTEtNDQ4YmQzMDVkMzEy.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTNkOWUtZTkxMi03NWI0LThkNTEtNDQ4YmQzMDVkMzEy.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/most-altcoins-won-t-make-it-2025-crypto-quant-ceo",
           "author": "Cointelegraph  Zoltan Vardai",

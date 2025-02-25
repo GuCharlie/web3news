@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=278113",
+          "author": "Stephen Alpher",
+          "description": "「お前がいなければ、こんな状況にはならなかった。お前のせいで、こんな苦境に立たされているんだ」。マーティン・スコセッシ監督の『カジノ』で、ロバート・デ・ニーロ演 ...\nビットコインはさらに下落する可能性が高いが、次の強気相場の種が蒔かれつつある first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/278113/",
+          "publishedOn": "2025-02-25T20:26:56.000Z",
+          "wordCount": 1295,
+          "title": "ビットコインはさらに下落する可能性が高いが、次の強気相場の種が蒔かれつつある",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/shutterstock_2246342051-scaled.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=278075",
           "author": "T. Minamoto",
           "description": "暗号資産（仮想通貨）取引所の大手10社の一角を成すクラーケンでは、同デリバティブ部門の責任者アレクシア・セオドロウ（Alexia Theodorou）氏がCoi ...\nビットコインが8.8万ドルを割る中で「押し目買い」の可能性：クラーケン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -965,16 +975,6 @@
           "wordCount": 612,
           "title": "EVM互換のL1ブロックチェーン「Monad」、テストネット稼働開始",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/21184400/26a962cf455cca4676511a7f199192c3.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=453090",
-          "author": "NewEconomy",
-          "description": "暗号資産業界に新規ユーザーを呼び込むか 米グーグル（Google）が、ビットコインへのアクセスを容易にするための取り組みに乗り出すようだ。グーグルのアジア太平洋地域Web3スペシャリストであるカイル・ソング（Kyle S […]",
-          "link": "https://www.neweconomy.jp/posts/453090",
-          "publishedOn": "2025-02-21T08:16:27.000Z",
-          "wordCount": 612,
-          "title": "米グーグル、ビットコインウォレットのログインにGoogle認証技術活用か＝報道",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/21171620/44a94d2eb3ca0983c4026e1758688488.jpg"
         }
       ]
     },
@@ -1612,21 +1612,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTI3NDYtN2IwOS03NWZhLTgxOWQtMTY3MmU4ZWEwODFm.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/litecoin-daily-transactions-surge-etf-excitement-grows",
-          "author": "Cointelegraph  Martin Young",
-          "description": "ライトコイン（LTC）のネットワーク上での1日あたりの取引額が96億ドルに達した。これは、米国でライトコインの上場投資信託（ETF）を上場しようとする発行者の動きが活発化していることを受けてのものだ。",
-          "link": "https://jp.cointelegraph.com/news/litecoin-daily-transactions-surge-etf-excitement-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-02-21T08:35:00.000Z",
-          "wordCount": null,
-          "title": "ライトコインETFに向けた動きが活発化、ネットワーク取引量は1日96億ドルに到達　LTC価格も上昇",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTI2YjAtNmY3NS03MzhkLWE4ODktY2EwODVlZjk3NmYz.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTI2YjAtNmY3NS03MzhkLWE4ODktY2EwODVlZjk3NmYz.jpg"
         }
       ]
     }

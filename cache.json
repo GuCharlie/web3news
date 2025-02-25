@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=278120",
+          "author": "Francisco Rodrigues",
+          "description": "ハッキングされた暗号資産取引所バイビットは、「ラザルスとの戦争」を宣言し、同グループのウォレットアドレスを追跡する新しいウェブサイトを立ち上げて、調査活動のクラ ...\nBybit、ラザルスに宣戦布告──盗まれた資金凍結のためのクラウドソーシングを開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/278120/",
+          "publishedOn": "2025-02-25T22:30:00.000Z",
+          "wordCount": 1263,
+          "title": "Bybit、ラザルスに宣戦布告──盗まれた資金凍結のためのクラウドソーシングを開始",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/abc7d1dd01270fb8f15f16714372cfa1dcf787a9-2400x1600-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=278113",
           "author": "Stephen Alpher",
           "description": "「お前がいなければ、こんな状況にはならなかった。お前のせいで、こんな苦境に立たされているんだ」。マーティン・スコセッシ監督の『カジノ』で、ロバート・デ・ニーロ演 ...\nビットコインはさらに下落する可能性が高いが、次の強気相場の種が蒔かれつつある first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -983,6 +993,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/sec-investigation-uniswap-dropped",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "分散型取引所（DEX）ユニスワップを開発するユニスワップ・ラボは、米証券取引委員会（SEC）が同社に対する調査を終了し、執行措置を取らないと報告した。",
+          "link": "https://jp.cointelegraph.com/news/sec-investigation-uniswap-dropped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-25T22:20:00.000Z",
+          "wordCount": null,
+          "title": "SEC、ユニスワップに対する調査を終了｜執行措置なし",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTNlNjctODZiZC03ZDgxLWE4NjYtZmEyNGJiYmI1ZWFi.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTNlNjctODZiZC03ZDgxLWE4NjYtZmEyNGJiYmI1ZWFi.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/microstrategy-stock-down-16-ytd-amid-bitcoin-rout",
+          "author": "Cointelegraph  Alex O’Donnell",
+          "description": "ストラテジー社（旧マイクロストラテジー）の株価は、ビットコイン（BTC）の調整局面の影響を受け、年初来で約16％下落している。",
+          "link": "https://jp.cointelegraph.com/news/microstrategy-stock-down-16-ytd-amid-bitcoin-rout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-25T22:06:00.000Z",
+          "wordCount": null,
+          "title": "マイクロストラテジーの株価が16%下落、ビットコイン相場が影響か",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTNkZmUtMjE3MC03ODMzLTljYWUtZjM2YzZlMzNkNzAy.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTNkZmUtMjE3MC03ODMzLTljYWUtZjM2YzZlMzNkNzAy.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-drops-below-90k-etf-sell-off-liquidations-mount",
           "author": "Cointelegraph  Zoltan Vardai",

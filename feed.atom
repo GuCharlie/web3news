@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-25T08:19:01.696Z</updated>
+    <updated>2025-02-25T08:42:06.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[売り圧力が強まり、ソラナが14%急落──XRPとドージコインは8%下落]]></title>
+        <id>https://www.coindeskjapan.com/?p=277977</id>
+        <link href="https://www.coindeskjapan.com/277977/"/>
+        <updated>2025-02-25T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[主要暗号資産（仮想通貨）は、2月24日の売りから25日にも続落し、弱気な見方が広がる中、市場を支えるような実行可能な触媒となるものが不足していることから、過去2 ...
+売り圧力が強まり、ソラナが14%急落──XRPとドージコインは8%下落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ナスダック上場Rezolve Ai、総額1500億円規模のビットコイン財務戦略を開始]]></title>
+        <id>https://coinpost.jp/?p=597427</id>
+        <link href="https://coinpost.jp/?p=597427"/>
+        <updated>2025-02-25T08:29:07.000Z</updated>
+        <summary type="html"><![CDATA[AIソリューション企業Rezolve Aiが1500億円規模のビットコイン財務戦略を発表した。テザー社と提携し、加盟店手数料無料の仮想通貨決済サービスも展開していく。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインは7万ドルまで下落の可能性　ヘッジファンドのETF解消が引き金に＝アーサー・ヘイズ氏]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-could-headed-for-70k-goblin-town-etf-exodus-hayes</id>
@@ -1568,16 +1589,6 @@ SECの新サイバー部門、暗号資産に対する執行措置重視の姿�
         <summary type="html"><![CDATA[米証券取引委員会が新設したCETUは、AI・暗号資産分野での投資家保護と技術革新の促進を目指す。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米証券取引委員会、利回り付きステーブルコインを初承認　証券として発行]]></title>
-        <id>https://jp.cointelegraph.com/news/sec-approves-first-yield-bearing-stablecoin</id>
-        <link href="https://jp.cointelegraph.com/news/sec-approves-first-yield-bearing-stablecoin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-20T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[米証券取引委員会（SEC）は、フィギュア・マーケッツが申請した利回り付きステーブルコインを承認した。この決定により、ユーザーは保有資産に対して利息を受け取ることが可能になる。これは、急成長するステーブルコイン市場に対するSECの柔軟な姿勢を示す動きだ。]]></summary>
-        <author>
-            <name>Cointelegraph  Sam Bourgi</name>
         </author>
     </entry>
 </feed>

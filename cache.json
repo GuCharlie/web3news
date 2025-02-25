@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=278124",
+          "author": "Jamie Crawley",
+          "description": "暗号資産に特化した資産運用会社ビットワイズは、暗号資産ベンチャー企業エレクトリック・キャピタルが主導する7000万ドルの株式による資金調達を完了した。 今回の増 ...\n暗号資産運用会社ビットワイズ、約104億円の増資でバランスシート強化 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/278124/",
+          "publishedOn": "2025-02-25T23:00:00.000Z",
+          "wordCount": 1341,
+          "title": "暗号資産運用会社ビットワイズ、約104億円の増資でバランスシート強化",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/shutterstock_2120686025.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=278120",
           "author": "Francisco Rodrigues",
           "description": "ハッキングされた暗号資産取引所バイビットは、「ラザルスとの戦争」を宣言し、同グループのウォレットアドレスを追跡する新しいウェブサイトを立ち上げて、調査活動のクラ ...\nBybit、ラザルスに宣戦布告──盗まれた資金凍結のためのクラウドソーシングを開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -314,6 +324,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=597912",
+          "author": "菊谷ルイス",
+          "description": "2013年に誤って捨てられた7500ビットコインを含むハードドライブの回収に挑むジェームズ・ハウエルズ氏。埋立地の買収まで検討する執念に対し、廃棄物管理専門家は9億分の1の確率と忠告した。",
+          "link": "https://coinpost.jp/?p=597912",
+          "publishedOn": "2025-02-25T22:50:10.000Z",
+          "wordCount": 3238,
+          "title": "英国人の1000億円ビットコイン回収作戦、専門家は「成功確率ほぼゼロ」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/landfill-bitcoin-no-chnace-to-salvage.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/landfill-bitcoin-no-chnace-to-salvage.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=597907",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨ビットコインの現物ETFから24日に約800億円の資金が純流出。また、イーサリアム現物ETFからも約116億円が純流出した。有識者が現状を分析している。",
+          "link": "https://coinpost.jp/?p=597907",
+          "publishedOn": "2025-02-25T22:15:54.000Z",
+          "wordCount": 3260,
+          "title": "ビットコイン現物ETF、24日に約800億円の資金が純流出　過去5番目の規模",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/etf-bitcoin-canada.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/etf-bitcoin-canada.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=597904",
           "author": "菊谷ルイス",
@@ -945,46 +985,6 @@
           "wordCount": 891,
           "title": "Bybit、コールドウォレットのハッキングで15億ドル相当のイーサリアムが不正流出",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/22130510/199126bcef7da2b8d6af6187feaf2e94.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=453127",
-          "author": "HitomotoToshikazu",
-          "description": "FOBXXをルクセンブルクで立ち上げ 米大手資産運用企業フランクリン・テンプルトン（Franklin Templeton）が、ルクセンブルクで登録された初の米国債トークン化ファンド「フランクリン・オンチェーン米国政府マネ […]",
-          "link": "https://www.neweconomy.jp/posts/453127",
-          "publishedOn": "2025-02-21T11:10:47.000Z",
-          "wordCount": 617,
-          "title": "フランクリン・テンプルトン、「オンチェーン米国政府マネーファンド（FOBXX）」をルクセンブルクで立ち上げ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/21194750/8d78adbf782b33266d35f16a858f3dc5.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=453222",
-          "author": "OtsugaShinya",
-          "description": "Offchain Labsが「Arbitrum BOLD」をメインネットローンチ イーサリアム（Ethereum）のレイヤー2スケーリングソリューション「アービトラム（Arbitrum）」を開発する「オフチェーンラボ（O […]",
-          "link": "https://www.neweconomy.jp/posts/453222",
-          "publishedOn": "2025-02-21T11:09:10.000Z",
-          "wordCount": 654,
-          "title": "Offchain Labs、新たな不正行為証明「Arbitrum BOLD」をメインネットローンチ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/21200852/7075cb1771ace223e7ff9a62a7259344.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=453098",
-          "author": "NewEconomyPodcast",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/453098",
-          "publishedOn": "2025-02-21T10:50:59.000Z",
-          "wordCount": 793,
-          "title": "【2/21話題】TOKI稼働開始でイーサとBNBのチェーン接続、イーサリアム財団のOpen Intent Frameworkなど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/21172443/news_head_20240221.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=453139",
-          "author": "OtsugaShinya",
-          "description": "NTTデジタルがバリデーションビジネ強化でFigmentと連携 NTTドコモのweb3を推進する子会社NTT Digital（NTTデジタル）が、グローバルに展開する大手独立系ステーキングインフラプロバイダーであるFig […]",
-          "link": "https://www.neweconomy.jp/posts/453139",
-          "publishedOn": "2025-02-21T10:45:31.000Z",
-          "wordCount": 751,
-          "title": "NTTデジタルがFigmentと連携、バリデーションビジネス強化で",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/21194526/1b0c07ed7fe05b7f4278aaed3ccc04b8.jpg"
         }
       ]
     },
@@ -993,6 +993,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/most-altcoins-won-t-make-it-2025-crypto-quant-ceo",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "ビットコイン（BTC）とイーサ（ETH）を除くほとんどの仮想通貨は、2025年に広範な「アルトコインシーズン」を迎えることはないかもしれない。",
+          "link": "https://jp.cointelegraph.com/news/most-altcoins-won-t-make-it-2025-crypto-quant-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-25T22:48:00.000Z",
+          "wordCount": null,
+          "title": "「大半のアルトコインは生き残れない」＝クリプトクオントCEO",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTNjYmItOTVmYy03NWI2LWJkOWQtYjRlMGIyOWJjNGRm.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTNjYmItOTVmYy03NWI2LWJkOWQtYjRlMGIyOWJjNGRm.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/nasdaq-files-grayscalepolkadot-etf",
+          "author": "Cointelegraph  Alex O’Donnell",
+          "description": "米国の証券取引所ナスダックは、グレースケールが運用するポルカドット（DOT）裏付けの上場投資信託（ETF）を申請したことが提出書類で明らかになった。",
+          "link": "https://jp.cointelegraph.com/news/nasdaq-files-grayscalepolkadot-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-25T22:29:00.000Z",
+          "wordCount": null,
+          "title": "ナスダック、グレースケール・ポルカドットETFを申請",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTNkOTYtZDg1Yi03NTM4LTljNGQtNTNjYjk4ZDMwY2Y0.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTNkOTYtZDg1Yi03NTM4LTljNGQtNTNjYjk4ZDMwY2Y0.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/sec-investigation-uniswap-dropped",
           "author": "Cointelegraph  Turner Wright",

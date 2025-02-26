@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-26T19:36:02.520Z</updated>
+    <updated>2025-02-26T20:15:42.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインが8万3500ドルまで下落　弱気市場の要因は？]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-price-falls-to-83-k-should-btc-traders-expect-a-swift-recovery</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-price-falls-to-83-k-should-btc-traders-expect-a-swift-recovery?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-26T20:10:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は2月26日、2024年11月以来の最安値となる8万3500ドルまで下落した。コイングラスのデータによると、この3日間での1万2820ドル分の下落により、レバレッジをかけたロングポジションで10億ドル以上が清算された。]]></summary>
+        <author>
+            <name>Cointelegraph  Marcel Pechman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン下落──トランプ大統領によるEUへの25%関税提案を受けて]]></title>
+        <id>https://www.coindeskjapan.com/?p=278340</id>
+        <link href="https://www.coindeskjapan.com/278340/"/>
+        <updated>2025-02-26T19:44:42.000Z</updated>
+        <summary type="html"><![CDATA[ドナルド・トランプ米大統領が初の閣議で欧州連合（EU）に25％の関税を課す方針を示したことを受け、ビットコイン（BTC）と株式市場は2月26日、下落した。 ビッ ...
+ビットコイン下落──トランプ大統領によるEUへの25%関税提案を受けて first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Aoyon Ashraf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイビットの14億ドルの不正流出事件　ハッカーに関連する1万1000個のウォレットを特定]]></title>
+        <id>https://jp.cointelegraph.com/news/north-korean-hackers-crypto-wallets-bybit-hack</id>
+        <link href="https://jp.cointelegraph.com/news/north-korean-hackers-crypto-wallets-bybit-hack?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-26T19:21:00.000Z</updated>
+        <summary type="html"><![CDATA[バイビットでの14億ドル以上のハッキング事件に関連し、事件に関与したハッカーが資金洗浄に使用する仮想通貨ウォレットが1万1000個以上に及ぶことが明らかになった。]]></summary>
+        <author>
+            <name>Cointelegraph  Arijit Sarkar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[企業のビットコイン保有をサポート──Next Finance Techが新サービス2025年春開始]]></title>
         <id>https://www.coindeskjapan.com/?p=278324</id>
@@ -1512,16 +1543,6 @@ SEC、Coinbaseに対する訴訟を取り下げへ──暗号資産にとって
         <link href="https://jp.cointelegraph.com/news/sec-closes-investigation-nft-platform-opensea?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
         <updated>2025-02-22T08:46:00.000Z</updated>
         <summary type="html"><![CDATA[米証券取引委員会（SEC）は、非代替性トークン（NFT）マーケットプレイスのオープンシー（OpenSea）への調査を終了したと、同社の創設者が明らかにした。SECがオープンシーへの訴訟を取り下げたのは、仮想通貨取引所コインベースに対する訴訟を取り下げた数時間後のことだった]]></summary>
-        <author>
-            <name>Cointelegraph  Ciaran Lyons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイビットCEO、全出金処理が完了し「通常の運用に復帰」と発表　15億ドルの巨額ハッキング被害]]></title>
-        <id>https://jp.cointelegraph.com/news/crypto-exchange-bybit-withdrawals-processed-after-hack-ben-zhou</id>
-        <link href="https://jp.cointelegraph.com/news/crypto-exchange-bybit-withdrawals-processed-after-hack-ben-zhou?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-22T08:13:00.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所バイビットのベン・チョウCEOは、業界史上最大規模のハッキング被害を受けた後、全ての出金処理が完了し、システムが「完全に通常の処理速度に戻った」と発表した。]]></summary>
         <author>
             <name>Cointelegraph  Ciaran Lyons</name>
         </author>

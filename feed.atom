@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-26T09:15:49.998Z</updated>
+    <updated>2025-02-26T09:37:43.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金融庁、暗号資産交換業の「プロ向け」販売規制を強化へ]]></title>
+        <id>https://www.coindeskjapan.com/?p=278263</id>
+        <link href="https://www.coindeskjapan.com/278263/"/>
+        <updated>2025-02-26T09:33:42.000Z</updated>
+        <summary type="html"><![CDATA[金融庁、暗号資産交換業の「プロ向け」販売規制を強化へ" />
+
+金融庁は2月26日、暗号資産（仮想通貨）交換業者に関する事務ガイドラインの改正案を公表した。改正案では、企業等が暗号資産を発行し適格機関投資家から資金調達を行う ...
+金融庁、暗号資産交換業の「プロ向け」販売規制を強化へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>栃山直樹</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンスCEO、仮想通貨市場の急落は一時的と指摘  –– 「戦術的な撤退に過ぎない」]]></title>
         <id>https://jp.cointelegraph.com/news/crypto-market-tactical-retreat-reversal-macroeconomic-conditions-binance-ceo</id>
@@ -1558,26 +1571,6 @@ SEC、Coinbaseに対する訴訟を取り下げへ──暗号資産にとって
 米国株の急落、暗号資産の不調に拍車 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Stephen Alpher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F・テンプレトン、ステーキング機能付きソラナETFを申請]]></title>
-        <id>https://coinpost.jp/?p=596814</id>
-        <link href="https://coinpost.jp/?p=596814"/>
-        <updated>2025-02-21T21:35:27.000Z</updated>
-        <summary type="html"><![CDATA[世界最大級の運用会社フランクリン・テンプレトンが、ステーキング報酬を組み込んだソラナETFの申請を実施。コインベースをカストディアンに指名し、Cboe BZXでの上場を目指す。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイビットの巨額ハッキング被害　北朝鮮のハッカー集団ラザルスが関与か＝セキュリティ専門家が指摘]]></title>
-        <id>https://jp.cointelegraph.com/news/zach-xbt-identifies-lazarus-group-bybit-hack-arkham-bounty</id>
-        <link href="https://jp.cointelegraph.com/news/zach-xbt-identifies-lazarus-group-bybit-hack-arkham-bounty?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-21T21:25:00.000Z</updated>
-        <summary type="html"><![CDATA[オンチェーン分析プラットフォームのアーカム・インテリジェンスは、オンチェーンセキュリティ専門家であるZachXBT氏が、2月21日に発生したバイビットのハッキング事件の首謀者として、北朝鮮のハッカー集団「ラザルス・グループ」を特定したと発表した。]]></summary>
-        <author>
-            <name>Cointelegraph  Christopher Tepedino</name>
         </author>
     </entry>
 </feed>

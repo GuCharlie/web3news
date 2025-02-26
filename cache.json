@@ -365,6 +365,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=598033",
+          "author": "AKIRA.H",
+          "description": "2月25日、米国ビットコイン現物ETFは過去最大となる9.379億ドル（約1400億円）の資金流出を記録。ビットメックス共同創業者アーサー・ヘイズ氏はヘッジファンドによるベーシストレード解消を指摘した。",
+          "link": "https://coinpost.jp/?p=598033",
+          "publishedOn": "2025-02-26T08:20:41.000Z",
+          "wordCount": 3296,
+          "title": "ビットコインETF、過去最大9.3億ドルの純流出　ヘイズ氏「7万ドル視野」と見解",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/new-bitcoin-sell.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/new-bitcoin-sell.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=598006",
           "author": "幸田直子",
           "description": "イーサリアム財団のブテリン氏らトップ研究者がRedditのAMAで「エンドゲーム」についての構想を明かした。その一つがロールアップ機能をL1チェーンに統合する「ネイティブ・ロールアップ」というアイディアだ。",
@@ -933,21 +948,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/Franklin-Templeton.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/Franklin-Templeton.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=596806",
-          "author": "菊谷ルイス",
-          "description": "米証券取引委員会がコインベースに対する訴訟を取り下げることで原則合意。2021年の上場後、2年を経て提起された訴訟は「間違い」と認定。CEOのアームストロング氏は「来週にも承認見込み」と発表した。",
-          "link": "https://coinpost.jp/?p=596806",
-          "publishedOn": "2025-02-21T20:55:43.000Z",
-          "wordCount": 3235,
-          "title": "SECがコインベースに対する訴訟を取り下げへ、仮想通貨業界に大きな勝利",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/coinbase-new-new.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/coinbase-new-new.jpeg"
         }
       ]
     },
@@ -1263,6 +1263,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-market-tactical-retreat-reversal-macroeconomic-conditions-binance-ceo",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "米国のトランプ大統領がカナダとメキシコに対する関税を予定通り実施すると発表したことを受け、仮想通貨市場は急落した。しかし、バイナンスのリチャード・テンCEOは、この下落は一時的なものであり、長くは続かないと指摘した。",
+          "link": "https://jp.cointelegraph.com/news/crypto-market-tactical-retreat-reversal-macroeconomic-conditions-binance-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-26T08:50:00.000Z",
+          "wordCount": null,
+          "title": "バイナンスCEO、仮想通貨市場の急落は一時的と指摘  –– 「戦術的な撤退に過ぎない」",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTNmNTktZTE0MC03ZDQzLTgxMGEtNWJiMmY0OTU2Nzk4.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTNmNTktZTE0MC03ZDQzLTgxMGEtNWJiMmY0OTU2Nzk4.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/crypto-shows-tokenizing-private-stocks-powerful-robinhood-ceo",
           "author": "Cointelegraph  Brayden Lindrea",
@@ -2012,36 +2027,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTJhMTAtZTljZS03NTUzLWI0MmMtMjllN2M0OTYyNzRi.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/kraken-mulls-stablecoin-tether-usdt-delisting",
-          "author": "Cointelegraph  Helen Partz",
-          "description": "仮想通貨取引所クラーケンが、自社独自のステーブルコインの発行を検討していると報じられている。これは、欧州の規制により仮想通貨取引所がテザーのUSDTをプラットフォームから上場廃止する動きに対応するものとみられる。",
-          "link": "https://jp.cointelegraph.com/news/kraken-mulls-stablecoin-tether-usdt-delisting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-02-21T21:00:00.000Z",
-          "wordCount": null,
-          "title": "仮想通貨取引所クラーケン　独自の米ドル連動ステーブルコインを検討中＝報道",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTI4YjktMGI3OS03Zjg4LWE0MTUtMTRmMzFhNTY2MjQ0.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTI4YjktMGI3OS03Zjg4LWE0MTUtMTRmMzFhNTY2MjQ0.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/ethena-assures-users-solvency-after-bybit-hack",
-          "author": "Cointelegraph  Alex O’Donnell",
-          "description": "エセナ・ラボは、2月21日にバイビットで発生した10億ドル超の流出事件を受けても、利回り付きステーブルコイン「エセナUSDe（USDe）」の健全性に問題はないとユーザーに向けて説明した。",
-          "link": "https://jp.cointelegraph.com/news/ethena-assures-users-solvency-after-bybit-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-02-21T20:50:00.000Z",
-          "wordCount": null,
-          "title": "エセナ・ラボがUSDeの健全性を強調　バイビットでのハッキング事件受け",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGUxMjYtODBkYy03MTU4LWJmNzctMzFiYjQzOWI0YjE3.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGUxMjYtODBkYy03MTU4LWJmNzctMzFiYjQzOWI0YjE3.jpg"
         }
       ]
     }

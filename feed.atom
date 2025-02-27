@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-27T01:07:26.553Z</updated>
+    <updated>2025-02-27T02:38:10.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ondo Financeがマスターカードと提携　短期米国債ファンド提供で]]></title>
+        <id>https://coinpost.jp/?p=598224</id>
+        <link href="https://coinpost.jp/?p=598224"/>
+        <updated>2025-02-27T02:02:00.000Z</updated>
+        <summary type="html"><![CDATA[RWAトークン化企業Ondo Financeが短期米国債ファンド（OUSG）を、決済大手マスターカードのマルチトークンネットワークで提供開始。初のRWAトークン導入で注目を集める。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オンド・ファイナンス、RWAをマスターカードネットワークに導入]]></title>
+        <id>https://www.coindeskjapan.com/?p=278388</id>
+        <link href="https://www.coindeskjapan.com/278388/"/>
+        <updated>2025-02-27T01:45:00.000Z</updated>
+        <summary type="html"><![CDATA[トークン化現実資産（RWA）発行企業のオンド・ファイナンス（Ondo Finance）は、金融機関と企業を結びつけてクロスボーダー決済を改善するマスターカード（ ...
+オンド・ファイナンス、RWAをマスターカードネットワークに導入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>廣瀬 優香</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「機関向けDeFiを主導へ」リップル社、XRPLの2025年の開発計画を発表]]></title>
+        <id>https://coinpost.jp/?p=598229</id>
+        <link href="https://coinpost.jp/?p=598229"/>
+        <updated>2025-02-27T01:40:57.000Z</updated>
+        <summary type="html"><![CDATA[リップル社はXRPLの現状や今後の開発計画について説明。2025年はコンプライアンス機能やプログラム可能性などを強化するとし、仮想通貨イーサリアム互換のサイドチェーンのローンチ計画にも言及した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リステーキングプロトコル提供「ビザンチンファイナンス」、3Mドル調達]]></title>
+        <id>https://www.neweconomy.jp/?p=454596</id>
+        <link href="https://www.neweconomy.jp/posts/454596"/>
+        <updated>2025-02-27T01:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Byzantine Financeが約4.5億円調達 パーミッションレス（許可不要）なリステーキングプロトコルを提供する「ビザンチンファイナンス（Byzantine Finance）」が、プレシードラウンドで300万ドル […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bybitハッキング事件の原因　SafeウォレットのAWSインフラへの侵害か]]></title>
+        <id>https://coinpost.jp/?p=598223</id>
+        <link href="https://coinpost.jp/?p=598223"/>
+        <updated>2025-02-27T00:45:04.000Z</updated>
+        <summary type="html"><![CDATA[史上最大規模となるBybit取引所から15億ドルが流出したハッキング事件の原因が判明。北朝鮮のラザラス・グループがSafe(Wallet)開発者のマシンを侵害し、AWSインフラに悪意あるコードを挿入。Bybit自体のセキュリティシステムは無事だったことが複数の調査で確認された。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サークルCEO、ドル建てステーブルコインの米国での登録義務付けを求める：ブルームバーグ]]></title>
         <id>https://www.coindeskjapan.com/?p=278353</id>
@@ -37,6 +88,26 @@
 リップル、XRP台帳の機関投資家向けロードマップを発表──XRPに注目集まる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>林 理南</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインが110万円急落、背景と今後の展望｜仮想NISHI]]></title>
+        <id>https://coinpost.jp/?p=598196</id>
+        <link href="https://coinpost.jp/?p=598196"/>
+        <updated>2025-02-26T23:50:02.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨市場は27日、過去24時間で110万円以上の大幅な下落となった。トランプ米大統領が欧州連合からの輸入品に対する関税について「まもなく発表する予定だ」との考えを示したことで、投資家のリスク回避姿勢が強まったことが影響した。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC、Geminiの調査も終了　トランプ政権下で規制緩和加速]]></title>
+        <id>https://coinpost.jp/?p=598210</id>
+        <link href="https://coinpost.jp/?p=598210"/>
+        <updated>2025-02-26T23:15:40.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会が仮想通貨取引所ジェミニへの調査を終了し法的措置を見送り。トランプ政権下で仮想通貨企業への規制アプローチが大きく転換しつつある。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>

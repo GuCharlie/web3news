@@ -565,6 +565,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=598581",
+          "author": "K.Kobayashi",
+          "description": "米民主党議員が、米大統領らによる仮想通貨ミームコインの発行などを禁止する法案を提出。背景には、仮想通貨業界の内外で注目を集めたトランプ氏とメラニア夫人によるミームコイン発行がある。",
+          "link": "https://coinpost.jp/?p=598581",
+          "publishedOn": "2025-02-27T23:05:54.000Z",
+          "wordCount": 3257,
+          "title": "米民主党議員、大統領らによるミームコイン発行を禁止する法案提出",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/usa-America_1400822942.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/usa-America_1400822942.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=598580",
           "author": "菊谷ルイス",
           "description": "米SEC企業財務部門がミームコインは証券法適用外との見解を正式発表。ハウイーテスト基準で非該当と判断したが、一部の市場関係者は今後ミームコインを利用した詐欺が横行してしまうと懸念。",
@@ -1713,6 +1728,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/inside-lazarus-group-money-laundering-strategy-bybit-hack",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "仮想通貨取引所バイビットで発生した15億ドル規模のハッキング事件の調査において、ブロックチェーン調査機関ナンセンとチェイナリシスは、北朝鮮のハッカー集団「ラザルスグループ」の資金洗浄手法を明らかにした。",
+          "link": "https://jp.cointelegraph.com/news/inside-lazarus-group-money-laundering-strategy-bybit-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-27T23:05:00.000Z",
+          "wordCount": 19492,
+          "title": "バイビットの15億ドルハッキング事件、ラザルスグループの資金洗浄手法が明らかに",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTQ5MzItMjU5Zi03NzJlLWE0ZDUtZTZhNDg2NWNhMzEy.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTQ5MzItMjU5Zi03NzJlLWE0ZDUtZTZhNDg2NWNhMzEy.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-could-hit-500k-trump-leaves-office-standard-chartered",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "米国のドナルド・トランプ大統領の就任から1カ月間、リスク資産市場は大きく変動したが、長期的に見れば彼の政権はビットコインにとってプラスに働く可能性が高いと、スタンダードチャータードが分析している。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-could-hit-500k-trump-leaves-office-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-27T23:00:00.000Z",
+          "wordCount": 19587,
+          "title": "ビットコイン、トランプ退任前に50万ドル到達の可能性 ＝スタンダードチャータード",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGI0NmItNjBkMS03MDFmLWFlY2MtOGJkYjZiN2I1YTMx.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGI0NmItNjBkMS03MDFmLWFlY2MtOGJkYjZiN2I1YTMx.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/pump-fun-launches-down-from-peak",
           "author": "Cointelegraph  Alex O’Donnell",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-27T11:35:40.099Z</updated>
+    <updated>2025-02-27T12:28:34.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TON基盤ゲーム「ハムスターコンバット」、ゲーム特化レイヤー2「ハムスターネットワーク」公開]]></title>
+        <id>https://www.neweconomy.jp/?p=454860</id>
+        <link href="https://www.neweconomy.jp/posts/454860"/>
+        <updated>2025-02-27T11:36:21.000Z</updated>
+        <summary type="html"><![CDATA[Hamster Kombatがゲーム特化チェーン公開 「オープンネットワーク（The Open Network：TON）」を基盤とするゲーム「ハムスターコンバット（Hamster Kombat）」が、ゲーム特化チェーン「 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2/27話題】ByBitハッキングは北朝鮮の攻撃でSafe Walletの侵害が原因、Avalanche Card提供開始など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=454701</id>
@@ -2338,16 +2348,6 @@ SEC、Coinbaseに対する訴訟を取り下げへ──暗号資産にとって
         <summary type="html"><![CDATA[今週は、バイナンスによる仮想通貨4銘柄の上場廃止、グーグルのビットコイン参入本格化、VanEckによる戦略的ビットコイン準備金の可能性分析、Bybitへのハッキングに関するニュースが最も関心を集めた。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[次のヴィタリックはXでバズらなければならないのか？ 仮想通貨のビジョンを失った市場の現実【オピニオン】]]></title>
-        <id>https://jp.cointelegraph.com/news/2014-vitalik-buterin-couldn-t-raise-today</id>
-        <link href="https://jp.cointelegraph.com/news/2014-vitalik-buterin-couldn-t-raise-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム誕生から10年が経ったが、もし今ヴィタリック・ブテリン氏がゼロからスタートしなければならないとしたら、資金調達は不可能だろう。]]></summary>
-        <author>
-            <name>Cointelegraph  Aaron Barefoot</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-27T21:35:55.757Z</updated>
+    <updated>2025-02-27T22:14:48.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SEC、コンセンシスへの訴訟取り下げ]]></title>
+        <id>https://jp.cointelegraph.com/news/securities-exchange-commission-agrees-drop-consensys-lawsuit</id>
+        <link href="https://jp.cointelegraph.com/news/securities-exchange-commission-agrees-drop-consensys-lawsuit?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-27T22:04:00.000Z</updated>
+        <summary type="html"><![CDATA[米国証券取引委員会（SEC）は、メタマスクの開発元である仮想通貨企業コンセンシスに対する訴訟を取り下げることで基本合意に達した。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC、コインベースへの訴訟も取り下げる]]></title>
+        <id>https://jp.cointelegraph.com/news/sec-dismisses-lawsuit-against-coinbase</id>
+        <link href="https://jp.cointelegraph.com/news/sec-dismisses-lawsuit-against-coinbase?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-02-27T22:02:00.000Z</updated>
+        <summary type="html"><![CDATA[米国証券取引委員会（SEC）は2月27日、コインベースに対する訴訟を正式に取り下げたことが明らかになった。]]></summary>
+        <author>
+            <name>Cointelegraph  Brayden Lindrea</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米SEC、コインベース訴訟を正式に取り下げ申請]]></title>
         <id>https://coinpost.jp/?p=598577</id>

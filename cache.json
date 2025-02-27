@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=278446",
+          "author": "Aoyon Ashraf",
+          "description": "MARAホールディングス（MARA Holdings）は株主宛ての書簡で、従来の送電網からの電気を利用しているビットコイン（BTC）マイニング事業者は、次の20 ...\n多くのビットコインマイナーは2028年の半減を生き残れない：MARAが株主向け書簡で述べる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/278446/",
+          "publishedOn": "2025-02-27T07:30:00.000Z",
+          "wordCount": 1316,
+          "title": "多くのビットコインマイナーは2028年の半減を生き残れない：MARAが株主向け書簡で述べる",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/bb6f6358f562f5d7eac6d507275a723688c7ec8c-720x406-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=278437",
           "author": "栃山直樹",
           "description": "ブロックチェーン技術を活用した貿易情報連携プラットフォーム「TradeWaltz」の2024年度トランザクション数が10万件を突破したと、同サービスを展開するト ...\nブロックチェーン活用の貿易連携プラットフォームが10万トランザクション突破：TradeWaltz first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -494,6 +504,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=598333",
+          "author": "AKIRA.H",
+          "description": "米国預託信託決済機構（DTCC）が初のソラナ先物ETF「SOLZ」「SOLT」を登録。Volatility Sharesによる先物ベースの商品で、現物ソラナETF承認への重要なステップとなる可能性も。",
+          "link": "https://coinpost.jp/?p=598333",
+          "publishedOn": "2025-02-27T07:15:34.000Z",
+          "wordCount": 3244,
+          "title": "初のソラナ先物ETFがDTCC登録、米国市場で",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/solana-google-cloud.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/solana-google-cloud.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=598319",
+          "author": "AKIRA.H",
+          "description": "暗号資産ファンド運用会社ビットワイズがアプトス（APT）ETF法定信託をデラウェア州に登録。米SECへの申請手続きと見られる。",
+          "link": "https://coinpost.jp/?p=598319",
+          "publishedOn": "2025-02-27T06:50:22.000Z",
+          "wordCount": 3240,
+          "title": "ビットワイズ、アプトスETF法定信託をデラウェア州に登録、SEC申請準備か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/aptos-staking-etp-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/aptos-staking-etp-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=598284",
           "author": "幸田直子",
@@ -1518,6 +1558,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/fbi-urges-crypto-private-sector-block-bybit-lazarus-laundering",
+          "author": "Cointelegraph  Brayden Lindrea",
+          "description": "米連邦捜査局（FBI）は、仮想通貨のノード運営者、取引所、および民間セクターに対し、14億ドル相当のバイビットハッキングで盗まれた資金をロンダリングするために使用されたアドレスからの取引をブロックするよう求めた。",
+          "link": "https://jp.cointelegraph.com/news/fbi-urges-crypto-private-sector-block-bybit-lazarus-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-27T06:41:00.000Z",
+          "wordCount": null,
+          "title": "米FBI　バイビット事件で北朝鮮の関与を確認　史上最大の仮想通貨ハッキング事件",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTQ1MzYtODU4ZS03ZDE1LThkOWUtZjIxYmE0MDcyYWQz.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTQ1MzYtODU4ZS03ZDE1LThkOWUtZjIxYmE0MDcyYWQz.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/blackrock-bitcoin-fund-sheds-420-million-etf-losing-streak-extends",
           "author": "Cointelegraph  Martin Young",

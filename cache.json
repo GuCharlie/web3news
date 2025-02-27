@@ -1222,6 +1222,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=454693",
+          "author": "OtsugaShinya",
+          "description": "OKJがBNB取り扱いへ 国内暗号資産（仮想通貨）取引所OKJが、暗号資産ビルドアンドビルド（BNB）の取り扱い予定を2月27日発表した。取扱い開始は3月4日17:00の予定だ。 なお同取引所に予定通りBNBが上場すれば […]",
+          "link": "https://www.neweconomy.jp/posts/454693",
+          "publishedOn": "2025-02-27T08:25:07.000Z",
+          "wordCount": 749,
+          "title": "OKJにビルドアンドビルド（BNB）上場へ、国内5例目",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/27172453/8787f9576ae0b561ea03c27eeffba604.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=454685",
           "author": "TamuraSeiji",
           "description": "ハッキング被害、Bybitのセキュリティには問題なし 14.6億ドル（約2,200億円）相当の暗号資産が不正流出した海外大手暗号資産（仮想通貨）取引所バイビット（Bybit）のハッキング事件に関する中間報告書が2月27日 […]",
@@ -1598,6 +1608,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0227",
+          "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
+          "description": "BTCは過熱感を伴いつつも続落し、ドル建てでは8万5000ドルのサポートをも割り込んだ。ただ、EUに対するトランプ関税で下げ幅を拡大したBTCだが、エヌビディアの決算を無事に通過。米株式市場も決算を控えて今週は軟化していたが、決算通過で買い戻しが入っており、本日は警戒感が巻き戻るか。",
+          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0227?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-27T08:20:00.000Z",
+          "wordCount": null,
+          "title": "BTCは過熱感伴いつつも続落　まだ下がるのか？【仮想通貨相場】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kMmQ1NTVjMmUzZjkyZmJmM2E3MTljYmFhMzBmOGQ3Mi5qZmlm.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kMmQ1NTVjMmUzZjkyZmJmM2E3MTljYmFhMzBmOGQ3Mi5qZmlm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/fbi-urges-crypto-private-sector-block-bybit-lazarus-laundering",
           "author": "Cointelegraph  Brayden Lindrea",
@@ -2475,6 +2500,26 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=130804",
+          "author": "Crypto Troll",
+          "description": "ElizaOSはv2を発表しました。v2は完全自律型AIエージェントを実現するための包括的なアーキテクチャ改良を導入しており、特にHTN（Hierarchical Task Networks）を統合することで、AIエージ […]\n投稿 ElizaOS、V2を発表しAIエージェントの完全自律型エンティティを構築へ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-elizaos-releases-v2/",
+          "publishedOn": "2025-02-27T08:40:28.000Z",
+          "wordCount": 633,
+          "title": "ElizaOS、V2を発表しAIエージェントの完全自律型エンティティを構築へ",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/02/shutterstock_2547021065.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=130797",
+          "author": "Crypto Troll",
+          "description": "Nifty IslandはAI駆動のエージェントを導入し、プレイヤーは10万$ISLANDトークンを保有することでAIエージェントを自分の島だけでなく、ゲーム内の他の任意の島にも配置できるようになりました。 GAM3Rは […]\n投稿 Nifty IslandでGAM3Rがグローバルエージェントをアンロック は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-gam3r-unlocks-global-agents-on-nifty-island/",
+          "publishedOn": "2025-02-27T08:28:05.000Z",
+          "wordCount": 636,
+          "title": "Nifty IslandでGAM3Rがグローバルエージェントをアンロック",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/02/shutterstock_2161952971.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=130793",
           "author": "Crypto Troll",

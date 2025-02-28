@@ -1592,6 +1592,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=454991",
+          "author": "TamuraSeiji",
+          "description": "MetaMaskがロードマップを発表 Web3ウォレット「メタマスク（MetaMask）」の今後のロードマップが2月28日に公開された。そのロードマップでは、ビットコイン（Bitcoin）やソラナ（Solana）ネットワ […]",
+          "link": "https://www.neweconomy.jp/posts/454991",
+          "publishedOn": "2025-02-28T10:29:14.000Z",
+          "wordCount": 775,
+          "title": "MetaMaskがロードマップ公開、ビットコイン・ソラナ対応など予定",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/28192910/149f2bb6e37a458b8a644bac0fa58397.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=454959",
           "author": "OtsugaShinya",
           "description": "リミックスポイントが5億円のビットコイン追加購入 東証スタンダード上場企業のリミックスポイントが、5億円相当となるビットコインの追加購入実施を2月28日に発表した。 今回リミックスポイントは2月27日に5億円でビットコイ […]",
@@ -3017,36 +3027,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTJlZTAtNTM4Yy03M2FiLWEzYmUtYzAyMDczNDdjZDhh.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/saylor-hints-resuming-bitcoin-buying",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "ストラテジー社（旧マイクロストラテジー）の共同創業者であるマイケル・セイラー氏は、ビットコイン（BTC）の購入再開を示唆するチャートを投稿した。これは、同社が1週間の購入停止後に再びBTCを取得する可能性を示している。",
-          "link": "https://jp.cointelegraph.com/news/saylor-hints-resuming-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-02-23T22:31:00.000Z",
-          "wordCount": null,
-          "title": "ストラテジーのマイケル・セイラー氏、ビットコイン買い再開を示唆",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTMzMzAtMzYwNy03YzFhLTg1OGUtNGJjNmY0MzIyNWQz.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTMzMzAtMzYwNy03YzFhLTg1OGUtNGJjNmY0MzIyNWQz.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-implied-volatility-record-lows-as-strategy-signals-btc-buy",
-          "author": "Cointelegraph  William Suberg",
-          "description": "ビットコイン（BTC）は2月23日の週次終値に向けて9万5000ドルを目指している。ビジネスインテリジェンス企業ストラテジー社による大規模なBTC買い増しの兆候が見られる。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-implied-volatility-record-lows-as-strategy-signals-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-02-23T22:19:00.000Z",
-          "wordCount": null,
-          "title": "ビットコインのインプライド・ボラティリティが記録的な低水準に｜ストラテジー社の買いで市場動くか",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTMzOGEtMGI5Yy03ODU3LTg0OWUtNGM3YmMwYTcwMzFh.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTMzOGEtMGI5Yy03ODU3LTg0OWUtNGM3YmMwYTcwMzFh.jpg"
         }
       ]
     },

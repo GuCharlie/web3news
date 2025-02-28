@@ -1508,21 +1508,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/ethereum254.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/ethereum254.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=597287",
-          "author": "A.Yamada",
-          "description": "仮想通貨取引所Bybitから盗まれた仮想通貨の一部がミームコインを通じてマネロンされた。Bybitは資金回収のための報奨金プログラムを開始した。",
-          "link": "https://coinpost.jp/?p=597287",
-          "publishedOn": "2025-02-24T04:10:36.000Z",
-          "wordCount": 3553,
-          "title": "Bybitハッカー、ミームコイン発行で資金洗浄か　パンプファンが阻止",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/moneylaundering0204.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/moneylaundering0204.jpg"
         }
       ]
     },
@@ -2068,6 +2053,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-price-bounces-analyst-crypto-slump-end-march",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコイン（BTC）は2月28日の米国市場の取引開始時に8万2000ドルを再び突破した。アナリストらは3月の価格回復の可能性を指摘している。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-price-bounces-analyst-crypto-slump-end-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-28T15:28:00.000Z",
+          "wordCount": null,
+          "title": "ビットコインは8万3000ドル以上に回復 　仮想通貨市場は3月に反発か",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzBjMzgtYzhhYy03ZjZlLWJlOTgtNzZmNDg2MTY3NTkw.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzBjMzgtYzhhYy03ZjZlLWJlOTgtNzZmNDg2MTY3NTkw.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0228",
           "author": "Cointelegraph  コインテレグラフジャパン寄稿者",

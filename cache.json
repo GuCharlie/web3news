@@ -665,6 +665,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=598895",
+          "author": "菊谷ルイス",
+          "description": "スタンダード・チャータードのケンドリック氏が週末までにビットコイン価格が69,000〜76,500ドルに下落すると予測。ETF資金流出とヘッジファンドのショートポジション増加を要因に挙げている。",
+          "link": "https://coinpost.jp/?p=598895",
+          "publishedOn": "2025-02-28T21:15:17.000Z",
+          "wordCount": 3224,
+          "title": "ビットコイン価格は短期で続落か、スタンダード・チャータードのアナリストが予測",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/bitcoin-gonna-dump-again-becareful.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/bitcoin-gonna-dump-again-becareful.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=598887",
+          "author": "菊谷ルイス",
+          "description": "世界最大のデリバティブ取引所CMEグループが3月17日からSolana先物取引を開始予定。25SOLと500SOLの2サイズ展開で、複数の資産運用会社が申請中の仮想通貨ソラナ現物ETF承認への期待が高まる。",
+          "link": "https://coinpost.jp/?p=598887",
+          "publishedOn": "2025-02-28T20:55:45.000Z",
+          "wordCount": 3225,
+          "title": "米CME、3月17日にソラナ先物取引の開始を発表　SOL価格反発",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/solana-2.0-new-3.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/solana-2.0-new-3.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=598734",
           "author": "Ritsuki.Kumazawa",
           "description": "国内上場企業リミックスポイントが4.7億円分(39.37 BTC)、メタプラネットが16億円分(135 BTC)のビットコインを追加購入。リミックスポイントの保有総量は575.89 BTC、メタプラネットは2,235 BTCに到達。",
@@ -2048,6 +2078,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/price-analysis-2-28-btc-eth-xrp-bnb-sol-doge-ada-ltc-link-avax",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "弱気派はBTC/USDTペアを7万3777ドルまで押し下げようとしたが、強気派が2月28日に7万8258ドルで押し目買いを行った。強気派は価格を8万5000ドル～9万ドルのレジスタンスゾーンに戻そうと試みている。この水準を突破できれば、短期的な底打ちの可能性が高まるだろう。",
+          "link": "https://jp.cointelegraph.com/news/price-analysis-2-28-btc-eth-xrp-bnb-sol-doge-ada-ltc-link-avax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-02-28T21:30:00.000Z",
+          "wordCount": null,
+          "title": "BTCは底を打ったか？　仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTRkNjAtZjA5Zi03ZTVjLWE0MDktMGQ3ZTJmYzlkNzZl.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTRkNjAtZjA5Zi03ZTVjLWE0MDktMGQ3ZTJmYzlkNzZl.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/solana-rallies-16-after-sol-rsi-falls-to-2023-low",
           "author": "Cointelegraph  Biraajmaan Tamuly",

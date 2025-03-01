@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-01T15:36:53.065Z</updated>
+    <updated>2025-03-01T16:15:36.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、「7万2000ドルまで一時的な調整の可能性」 ＝仮想通貨アナリスト]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-bottom-72k-crypto-investor-sentiment-3-year-low</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-bottom-72k-crypto-investor-sentiment-3-year-low?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-01T15:43:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は、一時的に7万2000ドルのサポートまで調整する可能性がある。市場回復の見通しは依然として限定的であり、投資家の心理が2022年以来の低水準に落ち込んでいることが影響している。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加賀温泉郷の最高峰ホテルが1泊5,000円 !? 石川県「加賀市」AMAレポート]]></title>
         <id>https://crypto-times.jp/?p=130558</id>
@@ -2765,16 +2775,6 @@ Bybit、ラザルスに宣戦布告──盗まれた資金凍結のためのク
         <summary type="html"><![CDATA[米国当局は、2021年4月に発生したウラニウム・ファイナンス のハッキング事件に関連する3100万ドル相当の仮想通貨を押収した。]]></summary>
         <author>
             <name>Cointelegraph  Brayden Lindrea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX、米国での無許可営業で約5億ドルの罰金支払いに同意]]></title>
-        <id>https://www.neweconomy.jp/?p=453743</id>
-        <link href="https://www.neweconomy.jp/posts/453743"/>
-        <updated>2025-02-25T03:44:31.000Z</updated>
-        <summary type="html"><![CDATA[OKXが米国での無許可送金業を認める 海外大手暗号資産（仮想通貨）取引所OKXの関連会社が米国におけるマネーロンダリング防止法違反を認め、約5億500万ドルを支払うことに同意したと米司法省（DOJ）が2月24日に発表した […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>

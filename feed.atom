@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-01T08:40:04.301Z</updated>
+    <updated>2025-03-01T09:13:50.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「XRP 1万8000ドル」説の現実性は？ 楽観的すぎる予測を検証]]></title>
+        <id>https://jp.cointelegraph.com/news/xrp-price-to-18-k-one-crypto-research-group-says-it-is-possible</id>
+        <link href="https://jp.cointelegraph.com/news/xrp-price-to-18-k-one-crypto-research-group-says-it-is-possible?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-01T08:10:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨の投機的な性質は、「あらゆる評価が正当化されうる」という考えを体現している。こうした分析は、尊敬されるか、あるいは嘲笑されるかの狭間にある。]]></summary>
+        <author>
+            <name>Cointelegraph  Biraajmaan Tamuly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米国の州が連邦政府に先駆けてビットコイン準備金を導入か？ 推進派のルミス上院議員が言及]]></title>
         <id>https://jp.cointelegraph.com/news/states-adopt-bitcoin-reserves-first-senator-lummis</id>
@@ -3032,17 +3042,6 @@ Japan Fintech Week「ネットワーキングアプリ」登場 first appeared o
         <summary type="html"><![CDATA[ビットコインは現在のレンジを下方に割り込むリスクを抱えており、9万ドルを割り込む可能性もある]]></summary>
         <author>
             <name>Cointelegraph  Rakesh Upadhyay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム「巻き戻し」提案に批判──起こり得ない理由とは]]></title>
-        <id>https://www.coindeskjapan.com/?p=277735</id>
-        <link href="https://www.coindeskjapan.com/277735/"/>
-        <updated>2025-02-24T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2月21日、暗号通貨取引所Bybit（バイビット）が北朝鮮のラザルスグループ（Lazarus Group）によってハッキングされたと伝えられ、14億ドル近いイー ...
-イーサリアム「巻き戻し」提案に批判──起こり得ない理由とは first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Margaux Nijkerk</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-02T16:16:21.430Z</updated>
+    <updated>2025-03-02T16:40:02.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ大統領、ソラナやリップルを含む仮想通貨準備金の設立を指示]]></title>
+        <id>https://crypto-times.jp/?p=131065</id>
+        <link href="https://crypto-times.jp/news-president-trump-orders-establishment-of-cryptocurrency-reserve-including-solana-and-ripple/"/>
+        <updated>2025-03-02T16:24:53.000Z</updated>
+        <summary type="html"><![CDATA[トランプ大統領はリップル（XRP）、ソラナ（SOL）、カルダノ（ADA）を含む仮想通貨戦略的準備金を推進するよう大統領作業部会に指示したことをTruth Socialにて投稿しました。 トランプ氏は「私は米国が世界の仮想 […]
+投稿 トランプ大統領、ソラナやリップルを含む仮想通貨準備金の設立を指示 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ベルゼ・シュトゥットガルト、デカバンクと提携──機関投資家向け暗号資産取引を提供]]></title>
         <id>https://www.coindeskjapan.com/?p=279057</id>
@@ -2163,26 +2174,6 @@ Bybit2200億円流出事件、チェイナリシスが分析レポート公開�
         <summary type="html"><![CDATA[Canary HBAR ETFの提案書提出 米証券取引所のナスダック（Nasdaq）が、暗号資産（仮想通貨）投資企業カナリー（Canary）運営の「カナリー・HBAR・ETF（Canary HBAR ETF）」の上場およ […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイビットの巨額不正流出事件　チャイナリシスがハッキングの手口を解説　「北朝鮮ハッカーに共通する特徴」]]></title>
-        <id>https://jp.cointelegraph.com/news/chainalysis-bybit-hack-breakdown-1-4-billion</id>
-        <link href="https://jp.cointelegraph.com/news/chainalysis-bybit-hack-breakdown-1-4-billion?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-26T04:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ブロックチェーン分析企業チェイナリシスは、仮想通貨取引所バイビットから14億6000万ドルが盗まれた手口を詳細に分析し、北朝鮮のハッカー集団ラザルスが使用した資金洗浄の手法について明らかにした。]]></summary>
-        <author>
-            <name>Cointelegraph  Ezra Reguerra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネット、業績評価に「BTCゲイン」採用　株価は本日ストップ安]]></title>
-        <id>https://coinpost.jp/?p=598000</id>
-        <link href="https://coinpost.jp/?p=598000"/>
-        <updated>2025-02-26T04:22:56.000Z</updated>
-        <summary type="html"><![CDATA[メタプラネットが仮想通貨ビットコイン関連の新指標「BTCゲイン」「BTC円ゲイン」を導入。一方、BTC価格下落の影響で株価は26日にストップ安になった。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

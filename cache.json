@@ -2137,21 +2137,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zMDc4MTViMTAyMTMwYmY0OWNjMjQ1OTdlZDE4ZWQ5Mi5qcGc=.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/paolo-ardoino-competitors-politicians-kill-tether",
-          "author": "Cointelegraph  Zoltan Vardai",
-          "description": "テザーのパオロ・アルドイノCEOによれば、テザーの競争相手は、世界最大のステーブルコイン発行者であるテザーを仮想通貨市場から排除しようとしているという。",
-          "link": "https://jp.cointelegraph.com/news/paolo-ardoino-competitors-politicians-kill-tether?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-02-26T05:25:00.000Z",
-          "wordCount": null,
-          "title": "競合他社と政治家は「テザーを潰そうとしている」　ステーブルコイン発行企業テザーCEOが発言",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTNkNmQtNzk5ZS03ODI4LTg5MTYtMWZmYmM1ZTJlNGY4.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTNkNmQtNzk5ZS03ODI4LTg5MTYtMWZmYmM1ZTJlNGY4.jpg"
         }
       ]
     },
@@ -2160,6 +2145,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=131085",
+          "author": "Crypto Troll",
+          "description": "仮想通貨準備金設立を発表したトランプ大統領ですが、準備金銘柄の中にはビットコイン（BTC）とイーサリアム（ETH）も含まれると発表しました。同氏の投稿の背景として、仮想通貨準備金設立の発表の際に言及した銘柄がリップル（X […]\n投稿 トランプ大統領、仮想通貨準備金にビットコインとイーサリアムも追加へ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-trump-to-add-bitcoin-and-ethereum-to-cryptocurrency-reserve/",
+          "publishedOn": "2025-03-02T17:30:04.000Z",
+          "wordCount": 591,
+          "title": "トランプ大統領、仮想通貨準備金にビットコインとイーサリアムも追加へ",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_2541188735.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=131071",
           "author": "Crypto Troll",
@@ -2519,26 +2514,6 @@
           "wordCount": 593,
           "title": "グレースケール、ポルカドットETFをナスダックに申請",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/02/shutterstock_2252750103.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=130581",
-          "author": "Crypto Troll",
-          "description": "NFTマーケットプレイス大手のOpenSeaは、自社の新プラットフォーム「OS2」においてレイヤー2ブロックチェーン「Shape」の対応を正式に発表しました。すでにShapeの機能はOS2上で実装されており今後の展開が注 […]\n投稿 OpenSea、NFT特化のレイヤー2「Shape」をOS2に実装 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-opensea-implements-shape-into-os2/",
-          "publishedOn": "2025-02-26T05:22:50.000Z",
-          "wordCount": 664,
-          "title": "OpenSea、NFT特化のレイヤー2「Shape」をOS2に実装",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/02/shutterstock_2095329262.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=130100",
-          "author": "Crypto Troll",
-          "description": "2月14日、Fracton Venturesが主催するインキュベーションプログラム「Fracton Incubation Cohort 3」のDemo Dayが東京都内で開催されました。このプログラムはイーサリアムエコシ […]\n投稿 Fracton Incubation Demo Dayが東京で開催、革新的なプロジェクトが続々登場 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/fracton-incubation-demo-day/",
-          "publishedOn": "2025-02-26T05:15:24.000Z",
-          "wordCount": 710,
-          "title": "Fracton Incubation Demo Dayが東京で開催、革新的なプロジェクトが続々登場",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/02/GjbfjaUaAAEPR7-.jpg"
         }
       ]
     }

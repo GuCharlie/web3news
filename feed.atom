@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-03T18:19:39.595Z</updated>
+    <updated>2025-03-03T18:43:38.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、9万ドル割り込む──トランプ大統領の準備金構想めぐる値上がりから一夜明けて]]></title>
+        <id>https://www.coindeskjapan.com/?p=279262</id>
+        <link href="https://www.coindeskjapan.com/279262/"/>
+        <updated>2025-03-03T18:39:18.000Z</updated>
+        <summary type="html"><![CDATA[トランプ米大統領は3月2日、暗号資産準備金に関する投稿を行ってショートスクイーズを引き起こしたが、米国時間3日の早い時間にはすでに、値上がり分は縮小している。  ...
+ビットコイン、9万ドル割り込む──トランプ大統領の準備金構想めぐる値上がりから一夜明けて first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Stephen Alpher</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【3/3話題】米国の暗号資産準備金に5銘柄、メタプラネットが約20億円のビットコイン追加購入など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=455465</id>
@@ -1831,27 +1842,6 @@ FBI、Bybitハッキングは北朝鮮が関与と強調──資金洗浄の阻
         <summary type="html"><![CDATA[暗号資産ファンド運用会社ビットワイズがアプトス（APT）ETF法定信託をデラウェア州に登録。米SECへの申請手続きと見られる。]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米FBI　バイビット事件で北朝鮮の関与を確認　史上最大の仮想通貨ハッキング事件]]></title>
-        <id>https://jp.cointelegraph.com/news/fbi-urges-crypto-private-sector-block-bybit-lazarus-laundering</id>
-        <link href="https://jp.cointelegraph.com/news/fbi-urges-crypto-private-sector-block-bybit-lazarus-laundering?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-27T06:41:00.000Z</updated>
-        <summary type="html"><![CDATA[米連邦捜査局（FBI）は、仮想通貨のノード運営者、取引所、および民間セクターに対し、14億ドル相当のバイビットハッキングで盗まれた資金をロンダリングするために使用されたアドレスからの取引をブロックするよう求めた。]]></summary>
-        <author>
-            <name>Cointelegraph  Brayden Lindrea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブロックチェーン調査員ZachXBTがParadigmの「インシデント対応」アドバイザーに就任]]></title>
-        <id>https://crypto-times.jp/?p=130782</id>
-        <link href="https://crypto-times.jp/newx-zachxbt-joins-paradigm-as-incident-response-advisor/"/>
-        <updated>2025-02-27T06:26:00.000Z</updated>
-        <summary type="html"><![CDATA[ブロックチェーン調査員であるZachXBTが、Paradigmの「インシデント対応」アドバイザーとして加わることが発表されました。 Pleased to share I’ll be working with  […]
-投稿 ブロックチェーン調査員ZachXBTがParadigmの「インシデント対応」アドバイザーに就任 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Troll</name>
         </author>
     </entry>
 </feed>

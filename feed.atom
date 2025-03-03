@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-03T21:38:02.650Z</updated>
+    <updated>2025-03-03T22:13:52.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ストラテジー社、先週のビットコイン追加購入を見送り]]></title>
+        <id>https://coinpost.jp/?p=599896</id>
+        <link href="https://coinpost.jp/?p=599896"/>
+        <updated>2025-03-03T22:00:30.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコイン最大の企業保有者ストラテジー社が先週の追加購入を見送り。同社の購入パターンは「押し目買い」ではなく高値圏での購入が特徴。現在499,096BTCを保有、総投資額330億ドルを超えている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スタンダード・チャータード、トランプ大統領の仮想通貨準備金発表受け「ビットコイン50万ドル予測」を維持]]></title>
+        <id>https://coinpost.jp/?p=599888</id>
+        <link href="https://coinpost.jp/?p=599888"/>
+        <updated>2025-03-03T21:15:51.000Z</updated>
+        <summary type="html"><![CDATA[トランプ大統領の仮想通貨準備金発表でビットコイン急騰した3月3日。スタンダードチャータードのケンドリック氏は『トランプ保証』の出現を指摘し、2028年までにビットコイン50万ドル到達を予測。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ヘイズ氏などが指摘、トランプの仮想通貨準想に資金調達・選定基準の不透明性]]></title>
         <id>https://coinpost.jp/?p=599886</id>
@@ -1673,27 +1693,6 @@ FBI、Bybitハッキングは北朝鮮が関与と強調──資金洗浄の阻
 米FBI、15億ドルBybitハッキングは北朝鮮による犯行と断定 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、7万8000ドルのCME先物ギャップを埋めるか？]]></title>
-        <id>https://jp.cointelegraph.com/news/is-bitcoin-price-about-to-fill-78-k-cme-futures-gap</id>
-        <link href="https://jp.cointelegraph.com/news/is-bitcoin-price-about-to-fill-78-k-cme-futures-gap?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-27T10:11:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）が昨年の重要な下値目標に接近し、BTC/USDは過去の最高値付近へと迫っている。仮想通貨アナリストはビットコイン先物の「ギャップ」が今後の相場を考える上で重要だと指摘する。]]></summary>
-        <author>
-            <name>Cointelegraph  William Suberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラックロックのビットコイン現物ETF、過去最大の4億ドルが流出]]></title>
-        <id>https://www.coindeskjapan.com/?p=278492</id>
-        <link href="https://www.coindeskjapan.com/278492/"/>
-        <updated>2025-02-27T10:05:00.000Z</updated>
-        <summary type="html"><![CDATA[ブラックロック（BlackRock）のiシェアーズ・ビットコイン・トラスト（IBIT）は、ビットコイン（BTC）が8万2000ドル前後まで下落した2月26日に、 ...
-ブラックロックのビットコイン現物ETF、過去最大の4億ドルが流出 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>James Van Straten</name>
         </author>
     </entry>
 </feed>

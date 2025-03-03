@@ -440,16 +440,6 @@
           "wordCount": 1238,
           "title": "米FBI、15億ドルBybitハッキングは北朝鮮による犯行と断定",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/shutterstock_2216000225.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=278492",
-          "author": "James Van Straten",
-          "description": "ブラックロック（BlackRock）のiシェアーズ・ビットコイン・トラスト（IBIT）は、ビットコイン（BTC）が8万2000ドル前後まで下落した2月26日に、 ...\nブラックロックのビットコイン現物ETF、過去最大の4億ドルが流出 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/278492/",
-          "publishedOn": "2025-02-27T10:05:00.000Z",
-          "wordCount": 1292,
-          "title": "ブラックロックのビットコイン現物ETF、過去最大の4億ドルが流出",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/THWADL6HLRAQXGDQHVVMM6BOOU-768x512-1.jpeg"
         }
       ]
     },
@@ -464,6 +454,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=599896",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨ビットコイン最大の企業保有者ストラテジー社が先週の追加購入を見送り。同社の購入パターンは「押し目買い」ではなく高値圏での購入が特徴。現在499,096BTCを保有、総投資額330億ドルを超えている。",
+          "link": "https://coinpost.jp/?p=599896",
+          "publishedOn": "2025-03-03T22:00:30.000Z",
+          "wordCount": 3247,
+          "title": "ストラテジー社、先週のビットコイン追加購入を見送り",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/microstrategy-back-in-action-_.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/microstrategy-back-in-action-_.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=599888",
+          "author": "菊谷ルイス",
+          "description": "トランプ大統領の仮想通貨準備金発表でビットコイン急騰した3月3日。スタンダードチャータードのケンドリック氏は『トランプ保証』の出現を指摘し、2028年までにビットコイン50万ドル到達を予測。",
+          "link": "https://coinpost.jp/?p=599888",
+          "publishedOn": "2025-03-03T21:15:51.000Z",
+          "wordCount": 3247,
+          "title": "スタンダード・チャータード、トランプ大統領の仮想通貨準備金発表受け「ビットコイン50万ドル予測」を維持",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-onchain-activities.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-onchain-activities.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=599886",
           "author": "菊谷ルイス",
@@ -1707,21 +1727,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDYwZjQtZDVmMy03OTA1LTlmYWQtZTZhYzdkODIyODhl.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/is-bitcoin-price-about-to-fill-78-k-cme-futures-gap",
-          "author": "Cointelegraph  William Suberg",
-          "description": "ビットコイン（BTC）が昨年の重要な下値目標に接近し、BTC/USDは過去の最高値付近へと迫っている。仮想通貨アナリストはビットコイン先物の「ギャップ」が今後の相場を考える上で重要だと指摘する。",
-          "link": "https://jp.cointelegraph.com/news/is-bitcoin-price-about-to-fill-78-k-cme-futures-gap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-02-27T10:11:00.000Z",
-          "wordCount": null,
-          "title": "ビットコイン、7万8000ドルのCME先物ギャップを埋めるか？",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2E5ODgtNTBlNS03MTY1LThiMDMtZWUxOWYwNGJmYjM0.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2E5ODgtNTBlNS03MTY1LThiMDMtZWUxOWYwNGJmYjM0.jpg"
         }
       ]
     },

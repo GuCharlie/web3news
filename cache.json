@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=279266",
+          "author": "Oliver Knight",
+          "description": "あるトレーダーは3月2日、分散型デリバティブプラットフォーム、ハイパーリキッド（Hyperliquid）で50倍のレバレッジを使ってビットコインの2億ドルのロン ...\nトランプ大統領の暗号資産準備金発表で約10億円の利益を上げたトレーダー first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/279266/",
+          "publishedOn": "2025-03-03T21:00:00.000Z",
+          "wordCount": 1366,
+          "title": "トランプ大統領の暗号資産準備金発表で約10億円の利益を上げたトレーダー",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/shutterstock_2074714744.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=279262",
           "author": "Stephen Alpher",
           "description": "トランプ米大統領は3月2日、暗号資産準備金に関する投稿を行ってショートスクイーズを引き起こしたが、米国時間3日の早い時間にはすでに、値上がり分は縮小している。  ...\nビットコイン、9万ドル割り込む──トランプ大統領の準備金構想めぐる値上がりから一夜明けて first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -450,16 +460,6 @@
           "wordCount": 1298,
           "title": "サークルのステーブルコイン「USDC」「EURC」、ドバイ国際金融センターで承認を獲得",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/ff5119b1e32baaefdcfa9ca015005fb5813de347-1888x1416-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=278452",
-          "author": "廣瀬 優香",
-          "description": "暗号資産（仮想通貨）トレーダーは、25日の市場の大暴落が原因でまだ動揺しているようだが、2つのアルトコインへの強気な賭けは見事な利益をもたらしている。 知的財産 ...\nストーリープロトコルのIPが40%急騰、トレーダーがIPトークン化に賭ける first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/278452/",
-          "publishedOn": "2025-02-27T08:45:00.000Z",
-          "wordCount": 1350,
-          "title": "ストーリープロトコルのIPが40%急騰、トレーダーがIPトークン化に賭ける",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/ae788e6c0604c97240cbbc8b197eb0170650f616-1440x1080-1.jpg"
         }
       ]
     },
@@ -474,6 +474,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=599886",
+          "author": "菊谷ルイス",
+          "description": "ビットコイン準備金なのか、アルトコイン準備金なのかトランプ米大統領が3日に発表した「仮想通貨戦略的準備金」構想について、投資銀行TDコーエンがコミュニケーション不足と資金調達の不明確さを指摘している。同行のワシントン・リサーチ・グループは3...",
+          "link": "https://coinpost.jp/?p=599886",
+          "publishedOn": "2025-03-03T21:00:05.000Z",
+          "wordCount": 3247,
+          "title": "ヘイズ氏などが指摘、トランプの仮想通貨準想に資金調達・選定基準の不透明性",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/trump-bitcoin-100k-.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/trump-bitcoin-100k-.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=599879",
           "author": "菊谷ルイス",
@@ -1984,16 +1999,6 @@
           "wordCount": 876,
           "title": "Kaito Connectに掲載された9つのプロジェクトを紹介",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/02/kaito-connect.jpeg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=130804",
-          "author": "Crypto Troll",
-          "description": "ElizaOSはv2を発表しました。v2は完全自律型AIエージェントを実現するための包括的なアーキテクチャ改良を導入しており、特にHTN（Hierarchical Task Networks）を統合することで、AIエージ […]\n投稿 ElizaOS、V2を発表しAIエージェントの完全自律型エンティティを構築へ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-elizaos-releases-v2/",
-          "publishedOn": "2025-02-27T08:40:28.000Z",
-          "wordCount": 633,
-          "title": "ElizaOS、V2を発表しAIエージェントの完全自律型エンティティを構築へ",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/02/shutterstock_2547021065.jpg"
         }
       ]
     }

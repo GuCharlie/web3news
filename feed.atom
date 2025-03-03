@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-03T20:15:27.923Z</updated>
+    <updated>2025-03-03T20:39:01.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインやXRP、ADAが大幅に反落　トランプ関税発表が影響]]></title>
+        <id>https://coinpost.jp/?p=599879</id>
+        <link href="https://coinpost.jp/?p=599879"/>
+        <updated>2025-03-03T20:35:00.000Z</updated>
+        <summary type="html"><![CDATA[相場乱高下トランプ大統領が米国の「仮想通貨準備金」創設を発表した翌日、ビットコインなど主要仮想通貨の価格が急落した。月曜日の取引でビットコインは一時9万4000ドルまで上昇したものの、現在は8万6000ドルまで下落し、24時間で8.3%のマ...]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、9万ドル割り込む──トランプ大統領の準備金構想めぐる値上がりから一夜明けて]]></title>
         <id>https://www.coindeskjapan.com/?p=279262</id>
@@ -1696,37 +1706,6 @@ FBI、Bybitハッキングは北朝鮮が関与と強調──資金洗浄の阻
 投稿 ElizaOS、V2を発表しAIエージェントの完全自律型エンティティを構築へ は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nifty IslandでGAM3Rがグローバルエージェントをアンロック]]></title>
-        <id>https://crypto-times.jp/?p=130797</id>
-        <link href="https://crypto-times.jp/news-gam3r-unlocks-global-agents-on-nifty-island/"/>
-        <updated>2025-02-27T08:28:05.000Z</updated>
-        <summary type="html"><![CDATA[Nifty IslandはAI駆動のエージェントを導入し、プレイヤーは10万$ISLANDトークンを保有することでAIエージェントを自分の島だけでなく、ゲーム内の他の任意の島にも配置できるようになりました。 GAM3Rは […]
-投稿 Nifty IslandでGAM3Rがグローバルエージェントをアンロック は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKJにビルドアンドビルド（BNB）上場へ、国内5例目]]></title>
-        <id>https://www.neweconomy.jp/?p=454693</id>
-        <link href="https://www.neweconomy.jp/posts/454693"/>
-        <updated>2025-02-27T08:25:07.000Z</updated>
-        <summary type="html"><![CDATA[OKJがBNB取り扱いへ 国内暗号資産（仮想通貨）取引所OKJが、暗号資産ビルドアンドビルド（BNB）の取り扱い予定を2月27日発表した。取扱い開始は3月4日17:00の予定だ。 なお同取引所に予定通りBNBが上場すれば […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCは過熱感伴いつつも続落　まだ下がるのか？【仮想通貨相場】]]></title>
-        <id>https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0227</id>
-        <link href="https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0227?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-27T08:20:00.000Z</updated>
-        <summary type="html"><![CDATA[BTCは過熱感を伴いつつも続落し、ドル建てでは8万5000ドルのサポートをも割り込んだ。ただ、EUに対するトランプ関税で下げ幅を拡大したBTCだが、エヌビディアの決算を無事に通過。米株式市場も決算を控えて今週は軟化していたが、決算通過で買い戻しが入っており、本日は警戒感が巻き戻るか。]]></summary>
-        <author>
-            <name>Cointelegraph  コインテレグラフジャパン寄稿者</name>
         </author>
     </entry>
 </feed>

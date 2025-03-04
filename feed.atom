@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-04T09:37:59.643Z</updated>
+    <updated>2025-03-04T10:16:08.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインが8万4000ドルまで下落、CME先物チャートのギャップを埋める──10億ドル近いロングが清算]]></title>
+        <id>https://www.coindeskjapan.com/?p=279486</id>
+        <link href="https://www.coindeskjapan.com/279486/"/>
+        <updated>2025-03-04T09:55:00.000Z</updated>
+        <summary type="html"><![CDATA[シカゴ・マーカンタイル取引所（CME）のビットコイン（BTC）先物チャートで注目されていたギャップ（窓）は、記録的な上昇を見せた翌日には完全に埋まり、次の上昇の ...
+ビットコインが8万4000ドルまで下落、CME先物チャートのギャップを埋める──10億ドル近いロングが清算 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム、2023年11月以来の安値2000ドルを試す]]></title>
         <id>https://www.coindeskjapan.com/?p=279454</id>
@@ -2002,36 +2013,6 @@ XRP、DOGEが10%急落──トランプ大統領の新たな関税が中国市�
         <summary type="html"><![CDATA[米SEC企業財務部門がミームコインは証券法適用外との見解を正式発表。ハウイーテスト基準で非該当と判断したが、一部の市場関係者は今後ミームコインを利用した詐欺が横行してしまうと懸念。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pump.funでのローンチ数、ピーク時から80%以上減少]]></title>
-        <id>https://jp.cointelegraph.com/news/pump-fun-launches-down-from-peak</id>
-        <link href="https://jp.cointelegraph.com/news/pump-fun-launches-down-from-peak?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-27T22:15:00.000Z</updated>
-        <summary type="html"><![CDATA[デューン・アナリティクスのデータによると、ミームコインプラットフォームPump.funでの新規トークンの成功した上場数は、1月のピーク時から80%以上減少していることがわかった。]]></summary>
-        <author>
-            <name>Cointelegraph  Alex O’Donnell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC、コンセンシスへの訴訟取り下げ]]></title>
-        <id>https://jp.cointelegraph.com/news/securities-exchange-commission-agrees-drop-consensys-lawsuit</id>
-        <link href="https://jp.cointelegraph.com/news/securities-exchange-commission-agrees-drop-consensys-lawsuit?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-27T22:04:00.000Z</updated>
-        <summary type="html"><![CDATA[米国証券取引委員会（SEC）は、メタマスクの開発元である仮想通貨企業コンセンシスに対する訴訟を取り下げることで基本合意に達した。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC、コインベースへの訴訟も取り下げる]]></title>
-        <id>https://jp.cointelegraph.com/news/sec-dismisses-lawsuit-against-coinbase</id>
-        <link href="https://jp.cointelegraph.com/news/sec-dismisses-lawsuit-against-coinbase?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-02-27T22:02:00.000Z</updated>
-        <summary type="html"><![CDATA[米国証券取引委員会（SEC）は2月27日、コインベースに対する訴訟を正式に取り下げたことが明らかになった。]]></summary>
-        <author>
-            <name>Cointelegraph  Brayden Lindrea</name>
         </author>
     </entry>
 </feed>

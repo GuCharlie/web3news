@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-04T22:13:07.387Z</updated>
+    <updated>2025-03-04T22:38:09.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナのアップグレード、ネットワーク強化もバリデーターには打撃＝ヴァンエック]]></title>
+        <id>https://jp.cointelegraph.com/news/solana-upgrades-strengthen-network-squeeze-validators-earnings-vaneck</id>
+        <link href="https://jp.cointelegraph.com/news/solana-upgrades-strengthen-network-squeeze-validators-earnings-vaneck?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-04T22:16:00.000Z</updated>
+        <summary type="html"><![CDATA[資産運用会社ヴァンエックによると、ソラナ（Solana）のプロトコルアップグレードはネットワークの長期的な健全性にとって重要だが、一方でバリデーターの収益に打撃を与える可能性があるという。]]></summary>
+        <author>
+            <name>Cointelegraph  Alex O’Donnell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBIVCトレード、日本初のUSDC取り扱いへ｜電子決済手段等取引業者」の登録を完了]]></title>
+        <id>https://jp.cointelegraph.com/news/sbi-vc-trade-usdc-launch-japan-stablecoin-regulation</id>
+        <link href="https://jp.cointelegraph.com/news/sbi-vc-trade-usdc-launch-japan-stablecoin-regulation?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-04T22:04:00.000Z</updated>
+        <summary type="html"><![CDATA[SBI VCトレードは3月4日、ステーブルコイン取引に関して日本初となる「電子決済手段等取引業者」の登録を完了したと発表した。]]></summary>
+        <author>
+            <name>Cointelegraph  Helen Partz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メキシコ億万長者サリナス氏、ビットコインへの投資を10％から70％に拡大]]></title>
         <id>https://coinpost.jp/?p=600039</id>
@@ -1629,16 +1649,6 @@ CMEグループ、暗号資産デリバティブの需要拡大に伴いソラ�
         <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaMaskがロードマップ公開、ビットコイン・ソラナ対応など予定]]></title>
-        <id>https://www.neweconomy.jp/?p=454991</id>
-        <link href="https://www.neweconomy.jp/posts/454991"/>
-        <updated>2025-02-28T10:29:14.000Z</updated>
-        <summary type="html"><![CDATA[MetaMaskがロードマップを発表 Web3ウォレット「メタマスク（MetaMask）」の今後のロードマップが2月28日に公開された。そのロードマップでは、ビットコイン（Bitcoin）やソラナ（Solana）ネットワ […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
         </author>
     </entry>
 </feed>

@@ -1325,16 +1325,6 @@
           "wordCount": 773,
           "title": "【2/28話題】リミックスポイントが5億円でビットコイン追加、ビットバンクにライブピア（LPT）国内初上場へなど（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/28173912/news_head_20250228.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=454991",
-          "author": "TamuraSeiji",
-          "description": "MetaMaskがロードマップを発表 Web3ウォレット「メタマスク（MetaMask）」の今後のロードマップが2月28日に公開された。そのロードマップでは、ビットコイン（Bitcoin）やソラナ（Solana）ネットワ […]",
-          "link": "https://www.neweconomy.jp/posts/454991",
-          "publishedOn": "2025-02-28T10:29:14.000Z",
-          "wordCount": 775,
-          "title": "MetaMaskがロードマップ公開、ビットコイン・ソラナ対応など予定",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/28192910/149f2bb6e37a458b8a644bac0fa58397.jpg"
         }
       ]
     },
@@ -1343,6 +1333,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/solana-upgrades-strengthen-network-squeeze-validators-earnings-vaneck",
+          "author": "Cointelegraph  Alex O’Donnell",
+          "description": "資産運用会社ヴァンエックによると、ソラナ（Solana）のプロトコルアップグレードはネットワークの長期的な健全性にとって重要だが、一方でバリデーターの収益に打撃を与える可能性があるという。",
+          "link": "https://jp.cointelegraph.com/news/solana-upgrades-strengthen-network-squeeze-validators-earnings-vaneck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-04T22:16:00.000Z",
+          "wordCount": null,
+          "title": "ソラナのアップグレード、ネットワーク強化もバリデーターには打撃＝ヴァンエック",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTYyYjUtYzJhNS03ZWNmLTk4NDMtOTM5ZDcwMGI3ZWU4.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTYyYjUtYzJhNS03ZWNmLTk4NDMtOTM5ZDcwMGI3ZWU4.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/sbi-vc-trade-usdc-launch-japan-stablecoin-regulation",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "SBI VCトレードは3月4日、ステーブルコイン取引に関して日本初となる「電子決済手段等取引業者」の登録を完了したと発表した。",
+          "link": "https://jp.cointelegraph.com/news/sbi-vc-trade-usdc-launch-japan-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-04T22:04:00.000Z",
+          "wordCount": null,
+          "title": "SBIVCトレード、日本初のUSDC取り扱いへ｜電子決済手段等取引業者」の登録を完了",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGUyMDYtMzQzNi03MzU5LWExYTQtMzY2ZjRkZTY4MWZj.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGUyMDYtMzQzNi03MzU5LWExYTQtMzY2ZjRkZTY4MWZj.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0304",
           "author": "Cointelegraph  コインテレグラフジャパン寄稿者",

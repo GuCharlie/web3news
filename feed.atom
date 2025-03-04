@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-03T23:35:42.682Z</updated>
+    <updated>2025-03-04T01:08:41.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SEC、クラーケンへの訴訟取り下げで合意　対コインベース訴訟に続き]]></title>
+        <id>https://coinpost.jp/?p=599918</id>
+        <link href="https://coinpost.jp/?p=599918"/>
+        <updated>2025-03-04T00:50:39.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会がクラーケンへの提訴を取り下げで合意した。対コインベース訴訟に続く規制緩和の流れとみられ、トランプ政権下で仮想通貨企業への法的圧力軽減が進行中だ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ストラテジー、先週はビットコイン保有量を維持──初の優先配当を発表]]></title>
+        <id>https://www.coindeskjapan.com/?p=279336</id>
+        <link href="https://www.coindeskjapan.com/279336/"/>
+        <updated>2025-03-04T00:24:33.000Z</updated>
+        <summary type="html"><![CDATA[ストラテジー（Strategy）は3日の朝、2日までの1週間でビットコイン（BTC）を追加購入しなかったことを確認し、保有総額を49万9096BTCに維持した。 ...
+ストラテジー、先週はビットコイン保有量を維持──初の優先配当を発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>廣瀬 優香</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブラックロック「BUIDL」のようなトークン化MMFを日本でも──Progmat主催のコンソーシアムが共同検討開始]]></title>
         <id>https://www.coindeskjapan.com/?p=279271</id>
@@ -1752,27 +1773,6 @@ XRP、DOGEが10%急落──トランプ大統領の新たな関税が中国市�
 トランプ関税の脅威で米株が下落する一方、暗号資産は持ちこたえる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Stephen Alpher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaito Connectに掲載された9つのプロジェクトを紹介]]></title>
-        <id>https://crypto-times.jp/?p=130715</id>
-        <link href="https://crypto-times.jp/column-kaito-connect/"/>
-        <updated>2025-02-27T12:57:24.000Z</updated>
-        <summary type="html"><![CDATA[InfoFiプロジェクト「Kaito AI」の$KAITOトークンが昨今高値更新を続けており、大きな注目を集めています。 同プロジェクトが手掛ける投票プラットフォーム「Kaito Connect」では、連日新しいプロジェ […]
-投稿 Kaito Connectに掲載された9つのプロジェクトを紹介 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TON基盤ゲーム「ハムスターコンバット」、ゲーム特化レイヤー2「ハムスターネットワーク」公開]]></title>
-        <id>https://www.neweconomy.jp/?p=454860</id>
-        <link href="https://www.neweconomy.jp/posts/454860"/>
-        <updated>2025-02-27T11:36:21.000Z</updated>
-        <summary type="html"><![CDATA[Hamster Kombatがゲーム特化チェーン公開 「オープンネットワーク（The Open Network：TON）」を基盤とするゲーム「ハムスターコンバット（Hamster Kombat）」が、ゲーム特化チェーン「 […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
 </feed>

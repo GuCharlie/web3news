@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=279336",
+          "author": "廣瀬 優香",
+          "description": "ストラテジー（Strategy）は3日の朝、2日までの1週間でビットコイン（BTC）を追加購入しなかったことを確認し、保有総額を49万9096BTCに維持した。 ...\nストラテジー、先週はビットコイン保有量を維持──初の優先配当を発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/279336/",
+          "publishedOn": "2025-03-04T00:24:33.000Z",
+          "wordCount": 1330,
+          "title": "ストラテジー、先週はビットコイン保有量を維持──初の優先配当を発表",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/224315b7c03251382f07d6718a11af32fba3674f-5184x2916-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=279271",
           "author": "増田隆幸",
           "description": "グローバルで人気の「トークン化MMF」を日本でも実現し、さらにステーブルコインを組み合わせて、より高度なサービスを提供する──Progmat社が主催する「デジタ ...\nブラックロック「BUIDL」のようなトークン化MMFを日本でも──Progmat主催のコンソーシアムが共同検討開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -454,6 +464,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=599918",
+          "author": "A.Yamada",
+          "description": "米証券取引委員会がクラーケンへの提訴を取り下げで合意した。対コインベース訴訟に続く規制緩和の流れとみられ、トランプ政権下で仮想通貨企業への法的圧力軽減が進行中だ。",
+          "link": "https://coinpost.jp/?p=599918",
+          "publishedOn": "2025-03-04T00:50:39.000Z",
+          "wordCount": 3257,
+          "title": "米SEC、クラーケンへの訴訟取り下げで合意　対コインベース訴訟に続き",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/kraken02053.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/kraken02053.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=599909",
           "author": "菊谷ルイス",
@@ -1370,16 +1395,6 @@
           "wordCount": 755,
           "title": "米SEC、コインベース訴訟を正式に却下。トランプ政権下で方針転換",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/28112126/db337a7462310c1cd970e42c42dabe2c-2.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=454860",
-          "author": "HitomotoToshikazu",
-          "description": "Hamster Kombatがゲーム特化チェーン公開 「オープンネットワーク（The Open Network：TON）」を基盤とするゲーム「ハムスターコンバット（Hamster Kombat）」が、ゲーム特化チェーン「 […]",
-          "link": "https://www.neweconomy.jp/posts/454860",
-          "publishedOn": "2025-02-27T11:36:21.000Z",
-          "wordCount": 800,
-          "title": "TON基盤ゲーム「ハムスターコンバット」、ゲーム特化レイヤー2「ハムスターネットワーク」公開",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/27203611/80e96f0c66a6d6b5fea82eccffe7867d.jpg"
         }
       ]
     },
@@ -2109,16 +2124,6 @@
           "wordCount": 625,
           "title": "Bybitがハッキング事件で流出したETH分の資金回収をほぼ完了、イーサリアムを基盤とするMIND of Pepeの実用性に期待が高まる",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/02/AD_4nXdfuVMoU00fcGQ9h6CVj7XKm_o-NxkTZgmLORNFtidZB3gAmmOuOSKX1SU_h9lXmdww2Yy1hutwfiHzWDjYQs1Llm9OKOuFvuYBSoBcUEFS6-gmyJdW_26v.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=130715",
-          "author": "Crypto Times 編集部",
-          "description": "InfoFiプロジェクト「Kaito AI」の$KAITOトークンが昨今高値更新を続けており、大きな注目を集めています。 同プロジェクトが手掛ける投票プラットフォーム「Kaito Connect」では、連日新しいプロジェ […]\n投稿 Kaito Connectに掲載された9つのプロジェクトを紹介 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/column-kaito-connect/",
-          "publishedOn": "2025-02-27T12:57:24.000Z",
-          "wordCount": 876,
-          "title": "Kaito Connectに掲載された9つのプロジェクトを紹介",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/02/kaito-connect.jpeg"
         }
       ]
     }

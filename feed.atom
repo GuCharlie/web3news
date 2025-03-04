@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-04T21:13:46.238Z</updated>
+    <updated>2025-03-04T21:35:45.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メキシコ億万長者サリナス氏、ビットコインへの投資を10％から70％に拡大]]></title>
+        <id>https://coinpost.jp/?p=600039</id>
+        <link href="https://coinpost.jp/?p=600039"/>
+        <updated>2025-03-04T21:20:40.000Z</updated>
+        <summary type="html"><![CDATA[メキシコ億万長者リカルド・サリナス氏は仮想通貨ビットコインと金に70％投資を明かし、政治的挑戦と独自の投資戦略を語る。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[市場低迷で米国債利回り低下、暗号資産に希望をもたらす]]></title>
         <id>https://www.coindeskjapan.com/?p=279545</id>
@@ -1661,16 +1671,6 @@ CMEグループ、暗号資産デリバティブの需要拡大に伴いソラ�
         <summary type="html"><![CDATA[国内上場企業リミックスポイントが4.7億円分(39.37 BTC)、メタプラネットが16億円分(135 BTC)のビットコインを追加購入。リミックスポイントの保有総量は575.89 BTC、メタプラネットは2,235 BTCに到達。]]></summary>
         <author>
             <name>Ritsuki.Kumazawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーブルコイン「USDC」の買い方、DeFi運用・使い方を徹底解説]]></title>
-        <id>https://coinpost.jp/?p=598359</id>
-        <link href="https://coinpost.jp/?p=598359"/>
-        <updated>2025-02-28T09:30:49.000Z</updated>
-        <summary type="html"><![CDATA[USDCの運用方法を徹底解説。DeFiレンディングプラットフォームでの利回り獲得から、DEXでの流動性提供、資産管理のコツまで、USDCを最大限に活用するための実践的なガイドをお届けします。初心者から上級者まで必見。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>

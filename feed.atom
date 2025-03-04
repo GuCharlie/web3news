@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-04T20:37:43.280Z</updated>
+    <updated>2025-03-04T21:13:46.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[市場低迷で米国債利回り低下、暗号資産に希望をもたらす]]></title>
+        <id>https://www.coindeskjapan.com/?p=279545</id>
+        <link href="https://www.coindeskjapan.com/279545/"/>
+        <updated>2025-03-04T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ミームコインの投機的バブル崩壊だけでは、暗号資産（仮想通貨）市場をここ数週間暴落させるのに十分でなかったかのように、伝統的金融における一般的なリスクオフのセンチ ...
+市場低迷で米国債利回り低下、暗号資産に希望をもたらす first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>James Van Straten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金高騰の一方、ビットコインは安全資産の役割に苦戦　トランプ関税で専門家が分析]]></title>
+        <id>https://coinpost.jp/?p=600034</id>
+        <link href="https://coinpost.jp/?p=600034"/>
+        <updated>2025-03-04T20:50:13.000Z</updated>
+        <summary type="html"><![CDATA[トランプ政権の関税政策が金融市場を揺るがす中、仮想通貨ビットコインと金の市場動向を専門家が徹底分析。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号資産と株、急反発]]></title>
         <id>https://www.coindeskjapan.com/?p=279549</id>
@@ -1650,27 +1671,6 @@ CMEグループ、暗号資産デリバティブの需要拡大に伴いソラ�
         <summary type="html"><![CDATA[USDCの運用方法を徹底解説。DeFiレンディングプラットフォームでの利回り獲得から、DEXでの流動性提供、資産管理のコツまで、USDCを最大限に活用するための実践的なガイドをお届けします。初心者から上級者まで必見。]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国のBDACS、XRP・RLUSDの機関投資家向け保管に「リップル・カストディ」を採用]]></title>
-        <id>https://www.coindeskjapan.com/?p=278666</id>
-        <link href="https://www.coindeskjapan.com/278666/"/>
-        <updated>2025-02-28T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[機関投資家向け暗号資産（仮想通貨）保管企業のBDACSは26日、エックス・アール・ピー（XRP）と米ドル連動型ステーブルコインRLUSDの機関投資家向け保管の安 ...
-韓国のBDACS、XRP・RLUSDの機関投資家向け保管に「リップル・カストディ」を採用 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100万円・1000万円不申告だった場合の追徴課税はいくらに？シミュレーション結果を解説｜Gtax寄稿]]></title>
-        <id>https://coinpost.jp/?p=598738</id>
-        <link href="https://coinpost.jp/?p=598738"/>
-        <updated>2025-02-28T08:38:13.000Z</updated>
-        <summary type="html"><![CDATA[*本レポートは、暗号資産税金計算ツール「Gtax」を提供するAerialPartnersが、CoinPostに寄稿した記事です。暗号資産（以下、仮想通貨）の確定申告について、「税金を申告しなくてもバレないだろう」「面倒だから申告したくない…...]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>

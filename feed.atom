@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-05T21:13:39.504Z</updated>
+    <updated>2025-03-05T21:35:57.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ大統領が一般教書演説でビットコイン準備金言及せず、戦略的優先度に疑問の声　TD Cowen]]></title>
+        <id>https://coinpost.jp/?p=600270</id>
+        <link href="https://coinpost.jp/?p=600270"/>
+        <updated>2025-03-05T21:05:12.000Z</updated>
+        <summary type="html"><![CDATA[アナリストがトランプ大統領の仮想通貨への姿勢を分析。議会演説での沈黙が示唆する政治的優先順位と今後の仮想通貨政策の行方を解説した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[長引くビットコインの「極度の恐怖」、値上がりの前兆か]]></title>
         <id>https://www.coindeskjapan.com/?p=279766</id>
@@ -2016,16 +2026,6 @@ DePINスターアップ、スペースXで衛星打ち上げ──フライト�
 投稿 加賀温泉郷の最高峰ホテルが1泊5,000円 !? 石川県「加賀市」AMAレポート は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>boarding bridge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインの「トランプトレード」は終了か？ トレーダーはFRBの利下げと世界的な流動性拡大に期待]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-trump-trade-is-over-will-fed-rate-cuts-and-m2-expansion-help</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-trump-trade-is-over-will-fed-rate-cuts-and-m2-expansion-help?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-01T09:35:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインはドナルド・トランプ大統領の就任日に記録した過去最高値から26%の下落となり、「トランプ・ポンプ」の効果を完全に打ち消した状況だ。]]></summary>
-        <author>
-            <name>Cointelegraph  Marie Poteriaieva</name>
         </author>
     </entry>
 </feed>

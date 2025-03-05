@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-05T11:35:36.913Z</updated>
+    <updated>2025-03-05T12:28:56.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【3/5話題】JOCのDeFi型貸暗号資産プログラムが提供開始、インタートレードが米Fireblocksと提携など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=456295</id>
+        <link href="https://www.neweconomy.jp/posts/456295"/>
+        <updated>2025-03-05T12:01:04.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロナウジーニョ氏の仮想通貨、発行から2日で60%下落｜インサイダー疑惑も浮上]]></title>
+        <id>https://crypto-times.jp/?p=131273</id>
+        <link href="https://crypto-times.jp/market-star10/"/>
+        <updated>2025-03-05T11:52:17.000Z</updated>
+        <summary type="html"><![CDATA[2025年3月3日に世界的な元サッカー選手ロナウジーニョ氏が発表した仮想通貨「$STAR10」は、その発行からわずか2日で60%を超える価格下落を見せています。 大手取引所Binanceが手掛けるブロックチェーン「BNB […]
+投稿 ロナウジーニョ氏の仮想通貨、発行から2日で60%下落｜インサイダー疑惑も浮上 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[売り手に枯渇の兆候、ビットコインは9万5000ドルまで戻す可能性がある：テクニカル分析]]></title>
         <id>https://www.coindeskjapan.com/?p=279733</id>
@@ -2120,16 +2141,6 @@ DePINスターアップ、スペースXで衛星打ち上げ──フライト�
         <summary type="html"><![CDATA[米国アリゾナ州上院がビットコイン準備金法案2件を承認した。もし今後下院でも可決すれば州によるBTC保有が実現する可能性もある。一方、5州がすでに否決した。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン100万円幅超の乱高下、その背景と今後の展望｜仮想NISHI]]></title>
-        <id>https://coinpost.jp/?p=598582</id>
-        <link href="https://coinpost.jp/?p=598582"/>
-        <updated>2025-03-01T00:15:36.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコインは過去24時間で100万円幅以上の大きな値動きを見せる荒れた相場となった。現在、ビットコインは独自の値動きを示しており、米国の大統領令や各州の準備金法案に対する期待や失望が相場に大きく影響を与えている状況だ。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>

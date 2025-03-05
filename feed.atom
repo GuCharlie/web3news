@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-05T08:43:13.021Z</updated>
+    <updated>2025-03-05T09:15:59.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米ナスダック、グレースケールの「ヘデラ（HBAR）投資信託」のETF転換をSECへ申請]]></title>
+        <id>https://www.neweconomy.jp/?p=456298</id>
+        <link href="https://www.neweconomy.jp/posts/456298"/>
+        <updated>2025-03-05T09:05:20.000Z</updated>
+        <summary type="html"><![CDATA[Grayscale Hedera Trustの上場提案書提出 暗号資産（仮想通貨）運用会社グレースケール（Grayscale）が運営する暗号資産ヘデラ（HBAR）の投資信託「グレースケール・へデラ・トラスト（Graysc […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有価証券とは別に「暗号資産」として金商法に位置づける：塩崎議員が新しいホワイトペーパーの内容を予告【FIN/SUM 2025】]]></title>
+        <id>https://www.coindeskjapan.com/?p=279684</id>
+        <link href="https://www.coindeskjapan.com/279684/"/>
+        <updated>2025-03-05T09:00:04.000Z</updated>
+        <summary type="html"><![CDATA[3月4日に開幕した「FIN/SUM 2025」で5日、「Web3、いま取るべき国家戦略への道筋」と題したセッションが行われ、衆議院議員で自由民主党副幹事長の塩崎 ...
+有価証券とは別に「暗号資産」として金商法に位置づける：塩崎議員が新しいホワイトペーパーの内容を予告【FIN/SUM 2025】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>増田隆幸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム、次期アップグレード「Fusaka」を2025年中に実施か]]></title>
+        <id>https://www.neweconomy.jp/?p=456285</id>
+        <link href="https://www.neweconomy.jp/posts/456285"/>
+        <updated>2025-03-05T08:44:00.000Z</updated>
+        <summary type="html"><![CDATA[「Fusaka」アップグレード2025年中に実施か イーサリアム（Ethereum）の共同創設者であるヴィタリク・ブテリン（Vitalik Buterin）氏が、イーサリアムの大型アップグレード「ペクトラ（Pectra） […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブラックロックのビットコインETF、10億ドル以上が流出し、取引量も急増]]></title>
         <id>https://www.coindeskjapan.com/?p=279676</id>
@@ -2086,26 +2117,6 @@ CMEグループ、暗号資産デリバティブの需要拡大に伴いソラ�
         <summary type="html"><![CDATA[弱気派はBTC/USDTペアを7万3777ドルまで押し下げようとしたが、強気派が2月28日に7万8258ドルで押し目買いを行った。強気派は価格を8万5000ドル～9万ドルのレジスタンスゾーンに戻そうと試みている。この水準を突破できれば、短期的な底打ちの可能性が高まるだろう。]]></summary>
         <author>
             <name>Cointelegraph  Rakesh Upadhyay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン価格は短期で続落か、スタンダード・チャータードのアナリストが予測]]></title>
-        <id>https://coinpost.jp/?p=598895</id>
-        <link href="https://coinpost.jp/?p=598895"/>
-        <updated>2025-02-28T21:15:17.000Z</updated>
-        <summary type="html"><![CDATA[スタンダード・チャータードのケンドリック氏が週末までにビットコイン価格が69,000〜76,500ドルに下落すると予測。ETF資金流出とヘッジファンドのショートポジション増加を要因に挙げている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米CME、3月17日にソラナ先物取引の開始を発表　SOL価格反発]]></title>
-        <id>https://coinpost.jp/?p=598887</id>
-        <link href="https://coinpost.jp/?p=598887"/>
-        <updated>2025-02-28T20:55:45.000Z</updated>
-        <summary type="html"><![CDATA[世界最大のデリバティブ取引所CMEグループが3月17日からSolana先物取引を開始予定。25SOLと500SOLの2サイズ展開で、複数の資産運用会社が申請中の仮想通貨ソラナ現物ETF承認への期待が高まる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-05T13:01:37.882Z</updated>
+    <updated>2025-03-05T13:40:26.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ビットコインには特別な地位を」米財務長官が仮想通貨準備金構想について発言　BTCやADA大幅高]]></title>
+        <id>https://coinpost.jp/?p=600242</id>
+        <link href="https://coinpost.jp/?p=600242"/>
+        <updated>2025-03-05T13:05:19.000Z</updated>
+        <summary type="html"><![CDATA[トランプ政権下で、ビットコインが準備金戦略の中心に浮上。財務長官が金曜日の仮想通貨サミットでビットコインの戦略的重要性を強調し、他の銘柄との差別化戦略を明らかにする。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【3/5話題】JOCのDeFi型貸暗号資産プログラムが提供開始、インタートレードが米Fireblocksと提携など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=456295</id>
@@ -2131,16 +2141,6 @@ DePINスターアップ、スペースXで衛星打ち上げ──フライト�
         <summary type="html"><![CDATA[中国のIntchains Gropは昨年末のトランプ勝利後のドージコイン採掘機器需要急増で2024年第4四半期の売上が前年比109%増。マスク氏のDOGE省就任発表後のドージコイン価格急騰が背景に。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米アリゾナ州上院、ビットコイン準備金法案2件を承認]]></title>
-        <id>https://coinpost.jp/?p=598992</id>
-        <link href="https://coinpost.jp/?p=598992"/>
-        <updated>2025-03-01T01:10:50.000Z</updated>
-        <summary type="html"><![CDATA[米国アリゾナ州上院がビットコイン準備金法案2件を承認した。もし今後下院でも可決すれば州によるBTC保有が実現する可能性もある。一方、5州がすでに否決した。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>

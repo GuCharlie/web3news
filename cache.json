@@ -755,6 +755,51 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=600716",
+          "author": "菊谷ルイス",
+          "description": "ソラナ・ラボ共同創業者ヤコベンコ氏がトランプの仮想通貨準備金構想に懐疑的見解を表明。「準備金なし」か「州単位の管理」を提案。アルトコインXRP、SOL、ADAの価値保存機能への疑問と政府介入の懸念が広がる。",
+          "link": "https://coinpost.jp/?p=600716",
+          "publishedOn": "2025-03-06T21:35:31.000Z",
+          "wordCount": 3236,
+          "title": "ソラナ共同創業者、米国仮想通貨準備金構想に懐疑的見解",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/bitcoin-reserve-toly-against.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/bitcoin-reserve-toly-against.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=600702",
+          "author": "菊谷ルイス",
+          "description": "ホワイトハウスの仮想通貨サミット直前、デビッド・サックス特命官が米政府のこれまでの19.5万BTCの売却を批判した。",
+          "link": "https://coinpost.jp/?p=600702",
+          "publishedOn": "2025-03-06T21:05:38.000Z",
+          "wordCount": 3228,
+          "title": "米仮想通貨特命官サックス氏、過去10年間「米政府のビットコイン売却で2.5兆円損失」と批判",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-czar-criticize.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-czar-criticize.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=600698",
+          "author": "菊谷ルイス",
+          "description": "テキサス州上院がビットコイン戦略準備金法案を25対5で可決。下院審査と知事の署名を経て法制化へ。ニューハンプシャー州やユタ州など他州も仮想通貨の公的資金導入に向けた法整備を進める。",
+          "link": "https://coinpost.jp/?p=600698",
+          "publishedOn": "2025-03-06T20:45:13.000Z",
+          "wordCount": 3235,
+          "title": "テキサス州上院、ビットコイン戦略準備金法案を可決　下院審査へ進む",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/texas_bitcoin1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/texas_bitcoin1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=600528",
           "author": "AKIRA.H",
           "description": "自民党web3WGが暗号資産を金商法内の独自アセットクラスとして位置付ける制度改正案を公表。現行の雑所得課税（最大55%）から金融所得課税（20%）への移行を目指し、投資家保護と市場発展を両立。6月に方向性公表へ。",
@@ -1988,6 +2033,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/texas-senate-passes-bitcoin-strategic-reserve-bill",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "テキサス州上院は3月6日、州上院での激しい議論を経て、賛成25票・反対5票の投票結果でビットコイン（BTC）の戦略的準備金法案「SB-21」を可決した。",
+          "link": "https://jp.cointelegraph.com/news/texas-senate-passes-bitcoin-strategic-reserve-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-06T22:03:00.000Z",
+          "wordCount": null,
+          "title": "テキサス上院、「ビットコイン戦略的準備金法案」を可決",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDZjZDgtZmRlMS03YjcxLThjNjktZjA1YjU1MjJjMDg0.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDZjZDgtZmRlMS03YjcxLThjNjktZjA1YjU1MjJjMDg0.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0306",
           "author": "Cointelegraph  コインテレグラフジャパン寄稿者",

@@ -740,16 +740,6 @@
           "wordCount": 1273,
           "title": "ベルゼ・シュトゥットガルト、デカバンクと提携──機関投資家向け暗号資産取引を提供",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/shutterstock_2202039731.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=279047",
-          "author": "林 理南",
-          "description": "アメリカの現物ビットコインETF（上場投資信託）は、過去3年間で最悪の月となった2月の最終日に、総額9430万ドル（約141億円、1ドル150円換算）の資金流入 ...\nビットコインETF、32億ドルの8日間連続資金流出が止まる──9430万ドルの資金流入を記録 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/279047/",
-          "publishedOn": "2025-03-02T11:22:09.000Z",
-          "wordCount": 1298,
-          "title": "ビットコインETF、32億ドルの8日間連続資金流出が止まる──9430万ドルの資金流入を記録",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/shutterstock_2413098031.jpg"
         }
       ]
     },
@@ -764,6 +754,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=600734",
+          "author": "CoinPost編集部",
+          "description": "仮想通貨サミットを控える中、仮想通貨ビットコインは小幅な値動きにとどまった。米株式市場は関税政策を巡る不透明感や米景気減速への懸念から下落したものの、ビットコインは24時間前と比較してほぼ変動が見られなかった。",
+          "link": "https://coinpost.jp/?p=600734",
+          "publishedOn": "2025-03-06T23:30:42.000Z",
+          "wordCount": 3248,
+          "title": "ビットコイン小幅な値動き、ホワイトハウス仮想通貨サミットを控えた市場の動向｜仮想NISHI",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
+        },
         {
           "id": "https://coinpost.jp/?p=600718",
           "author": "K.Kobayashi",
@@ -2073,6 +2078,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/us-crypto-reserve-could-boost-bitcoin-market-cap-by-460-b-research",
+          "author": "Cointelegraph  Alex O’Donnell",
+          "description": "米国で戦略的な暗号資産準備金を創設することで、ビットコイン（BTC）の時価総額が約25%、つまり約4600億ドル増加する可能性があると、シグナム・バンクが分析した。",
+          "link": "https://jp.cointelegraph.com/news/us-crypto-reserve-could-boost-bitcoin-market-cap-by-460-b-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-06T23:01:00.000Z",
+          "wordCount": null,
+          "title": "米国の仮想通貨準備金、ビットコイン時価総額を4600億ドル押し上げる可能性＝調査",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTZjZDktZTExZS03MjU1LWE4MWEtYjM0NTQ5NWFjYjE2.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTZjZDktZTExZS03MjU1LWE4MWEtYjM0NTQ5NWFjYjE2.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/solana-dex-volumes-still-rival-ethereum-s-despite-memecoin-meltdown-van-eck",
           "author": "Cointelegraph  Alex O’Donnell",

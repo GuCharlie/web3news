@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-06T23:35:50.717Z</updated>
+    <updated>2025-03-07T01:09:27.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨の送金も可能に　ワールドコイン、新機能「ワールドチャット（ベータ版）」をローンチ]]></title>
+        <id>https://coinpost.jp/?p=600757</id>
+        <link href="https://coinpost.jp/?p=600757"/>
+        <updated>2025-03-07T00:45:42.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI共同創設者サム・アルトマン氏のワールドコインが新機能のワールドチャットをベータ版としてリリース。テキストメッセージのやりとりに加え、仮想通貨の送受金もできる。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン小幅な値動き、ホワイトハウス仮想通貨サミットを控えた市場の動向｜仮想NISHI]]></title>
         <id>https://coinpost.jp/?p=600734</id>
@@ -2720,17 +2730,6 @@ XRP・SOL・ADAのコインベースプレミアム、1カ月ぶり高水準に�
 投稿 トランプ大統領、ソラナやリップルを含む仮想通貨準備金の設立を指示 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ベルゼ・シュトゥットガルト、デカバンクと提携──機関投資家向け暗号資産取引を提供]]></title>
-        <id>https://www.coindeskjapan.com/?p=279057</id>
-        <link href="https://www.coindeskjapan.com/279057/"/>
-        <updated>2025-03-02T12:04:44.000Z</updated>
-        <summary type="html"><![CDATA[ドイツの主要証券取引所の一つであるベルゼ・シュトゥットガルト（Boerse Stuttgart）は、ドイツの投資銀行デカバンク（DekaBank）と提携し、デカ ...
-ベルゼ・シュトゥットガルト、デカバンクと提携──機関投資家向け暗号資産取引を提供 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
         </author>
     </entry>
 </feed>

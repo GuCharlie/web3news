@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-07T21:34:56.012Z</updated>
+    <updated>2025-03-07T22:11:52.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米国初の仮想通貨サミット、重要進展なし　FIFAコイン発表も]]></title>
+        <id>https://coinpost.jp/?p=601062</id>
+        <link href="https://coinpost.jp/?p=601062"/>
+        <updated>2025-03-07T21:30:52.000Z</updated>
+        <summary type="html"><![CDATA[ホワイトハウス仮想通貨サミットでトランプ大統領とFIFA会長インファンティーノ氏がFIFAコインの発行計画を発表。米国建国250周年と重なる2026年ワールドカップに向けた新イニシアチブとして注目される中、規制緩和への謝意も表明された。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フォールドが475BTCを追加取得──米上場企業のビットコイン保有量トップ10入り]]></title>
         <id>https://www.coindeskjapan.com/?p=280370</id>
@@ -2873,28 +2883,6 @@ XRP、暗号資産準備金の発表で3ドルまで上昇も、その後は一�
         <summary type="html"><![CDATA[「Base」が「Flashblocks」を実装へ イーサリアム（Ethereum）レイヤー2チェーン「ベース（Base）」のテストネット「ベースセポリア（Base Sepolia）」に、トランザクションの確定までの時間を […]]]></summary>
         <author>
             <name>TamuraSeiji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨の始め方｜初心者向けの買い方などを解説【2025年3月版】]]></title>
-        <id>https://crypto-times.jp/?p=49498</id>
-        <link href="https://crypto-times.jp/crypto-start-beginner/"/>
-        <updated>2025-03-03T10:10:35.000Z</updated>
-        <summary type="html"><![CDATA[2025年現在、仮想通貨市場は再び世界的な注目を集めています。米国では仮想通貨に親和的なトランプ大統領が政権を率い、世界各国の機関投資家や大手企業も続々と市場に参入しています。 代表的な仮想通貨であるビットコインは「デジ […]
-投稿 仮想通貨の始め方｜初心者向けの買い方などを解説【2025年3月版】 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CMEのビットコイン3月先物、チャートに窓が開く急上昇]]></title>
-        <id>https://www.coindeskjapan.com/?p=279175</id>
-        <link href="https://www.coindeskjapan.com/279175/"/>
-        <updated>2025-03-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ドナルド・トランプ（Donald Trump）大統領がビットコイン（BTC）とその他の4つのコイン、イーサリアム（ETH）、エックス・アール・ピー（XRP）、ソ ...
-CMEのビットコイン3月先物、チャートに窓が開く急上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>

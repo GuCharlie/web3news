@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-07T15:37:46.864Z</updated>
+    <updated>2025-03-07T16:17:40.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2月米雇用統計、雇用者数15万1000人増で予想とほぼ同じ]]></title>
+        <id>https://www.coindeskjapan.com/?p=280371</id>
+        <link href="https://www.coindeskjapan.com/280371/"/>
+        <updated>2025-03-07T16:16:01.000Z</updated>
+        <summary type="html"><![CDATA[アメリカの雇用市場は2月も引き続き堅調さだったが、失業率はやや上昇した。 労働統計局は7日午前、非農業部門の雇用者数は2月に15万1000人増加したと発表した。 ...
+2月米雇用統計、雇用者数15万1000人増で予想とほぼ同じ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米国のビットコイン準備金　BTCを金融システムに統合する「大きな一歩に」]]></title>
+        <id>https://jp.cointelegraph.com/news/us-bitcoin-reserve-global-financial-integration-step</id>
+        <link href="https://jp.cointelegraph.com/news/us-bitcoin-reserve-global-financial-integration-step?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-07T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[トランプ大統領は戦略的ビットコイン準備金とデジタル資産備蓄を創設する大統領令に署名したが、これがビットコインを米国の金融システムに統合するための最初の大きな一歩になる可能性がある。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金融庁、暗号資産・ステーブルコイン規制改正法案を国会提出──「仲介業」など新設へ]]></title>
         <id>https://www.coindeskjapan.com/?p=280353</id>
@@ -2944,36 +2965,6 @@ Web3.0の社会受容へ──経済産業省「Web3.0・ブロックチェー�
         <link href="https://www.neweconomy.jp/posts/455318"/>
         <updated>2025-03-03T04:24:51.000Z</updated>
         <summary type="html"><![CDATA[メタプラネットのビットコイン保有数が2,391BTCに ビットコイン（BTC）の購入を積極的に進めている東証スタンダード上場企業メタプラネットが、新たにビットコインの追加購入を実施したことを3月3日に発表した。 今回メタ […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京大学ブロックチェーン公開講座、2025年度受講の申込受付が開始]]></title>
-        <id>https://www.neweconomy.jp/?p=455302</id>
-        <link href="https://www.neweconomy.jp/posts/455302"/>
-        <updated>2025-03-03T04:00:32.000Z</updated>
-        <summary type="html"><![CDATA[東京大学ブロックチェーン公開講座の申込受付が開始 東京大学ブロックチェーンイノベーション寄付講座による、2025年度ブロックチェーン公開講座の受講申込が開始した。なおこの講座は、学生・社会人問わず無料にて受講可能。4月か […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネット、約20億円でビットコインを追加購入　保有量2,391BTCに]]></title>
-        <id>https://coinpost.jp/?p=599656</id>
-        <link href="https://coinpost.jp/?p=599656"/>
-        <updated>2025-03-03T03:55:51.000Z</updated>
-        <summary type="html"><![CDATA[メタプラネットは約20億円を投じてビットコインを156BTC追加購入し、保有量を2,391BTCに拡大。トランプ大統領令の影響で株価は一時ストップ高、前日比20％上昇を記録した。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ大統領、米国の暗号資産準備金に含める5銘柄公開、市場価格は急騰]]></title>
-        <id>https://www.neweconomy.jp/?p=455296</id>
-        <link href="https://www.neweconomy.jp/posts/455296"/>
-        <updated>2025-03-03T03:52:37.000Z</updated>
-        <summary type="html"><![CDATA[米国の暗号資産準備金に含める5銘柄公開 ドナルド・トランプ（Donald Trump）米大統領が、米国の暗号資産（仮想通貨）準備金に含める5つの銘柄を3月2日に発表した。これにより各暗号資産の市場価格は急上昇した。 トラ […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
         </author>

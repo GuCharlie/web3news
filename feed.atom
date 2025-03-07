@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-07T16:17:40.005Z</updated>
+    <updated>2025-03-07T16:43:31.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ベッセント財務長官「米国が仮想通貨分野で世界をリードすべき」　ビットコイン取得の検討も]]></title>
+        <id>https://jp.cointelegraph.com/news/treasury-secretary-scott-bessent-us-bring-btc-onshore</id>
+        <link href="https://jp.cointelegraph.com/news/treasury-secretary-scott-bessent-us-bring-btc-onshore?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-07T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[米国のスコット・ベッセント財務長官は、ビットコイン（BTC）を米国内に取り込み、さらなるBTCの取得について3月7日のホワイトハウス仮想通貨サミットで協議する意向を示した。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2月米雇用統計、雇用者数15万1000人増で予想とほぼ同じ]]></title>
         <id>https://www.coindeskjapan.com/?p=280371</id>
@@ -2946,27 +2956,6 @@ Web3.0の社会受容へ──経済産業省「Web3.0・ブロックチェー�
 メタプラネット、20億円のビットコイン追加購入──累計投資約300億円に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFTカードゲーム「Parallel」がモバイル対応｜3月18日登場予定]]></title>
-        <id>https://crypto-times.jp/?p=131125</id>
-        <link href="https://crypto-times.jp/news-nft-card-game-parallel-now-mobile-compatible/"/>
-        <updated>2025-03-03T04:38:52.000Z</updated>
-        <summary type="html"><![CDATA[ブロックチェーン技術を活用したトレーディングカードゲーム「Parallel」が、モバイル端末向けの対応を発表しました。 Parallel TCG is coming to mobile on March 18th. Pi […]
-投稿 NFTカードゲーム「Parallel」がモバイル対応｜3月18日登場予定 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネットが約20億円のビットコイン追加購入、合計保有数2,391BTCに]]></title>
-        <id>https://www.neweconomy.jp/?p=455318</id>
-        <link href="https://www.neweconomy.jp/posts/455318"/>
-        <updated>2025-03-03T04:24:51.000Z</updated>
-        <summary type="html"><![CDATA[メタプラネットのビットコイン保有数が2,391BTCに ビットコイン（BTC）の購入を積極的に進めている東証スタンダード上場企業メタプラネットが、新たにビットコインの追加購入を実施したことを3月3日に発表した。 今回メタ […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>

@@ -1762,6 +1762,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=456970",
+          "author": "OtsugaShinya",
+          "description": "「JPCrypto-ISAC」が設立 日本で初となる暗号資産（仮想通貨）のサイバー対策組織「一般社団法人JPCrypto-ISAC」の設立が3月7日に発表された。なお同組織は1月17日に設立されていたとのこと。 「JPC […]",
+          "link": "https://www.neweconomy.jp/posts/456970",
+          "publishedOn": "2025-03-07T11:01:17.000Z",
+          "wordCount": 754,
+          "title": "暗号資産のサイバー対策組織「JPCrypto-ISAC」が設立、業界内での情報共有・連携へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/07200108/ISAC.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=456875",
           "author": "NewEconomy",
           "description": "LINEのMini Dapp、累計ユーザー数3,500万人突破 LINEメッセンジャー内で提供される「Mini Dapp（ミニDApp）」の累計ユーザー数が、サービス開始から1カ月で3,500万回を突破した。レイヤー1ブ […]",
@@ -3182,36 +3192,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMmMwMWNiMmM5MTVhZWYxMzY3OGJmYWY0MjkzMTc3Yi5qZmlm.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/trump-administration-hasnt-addressed-crypto-debanking-issues",
-          "author": "Cointelegraph  Brayden Lindrea",
-          "description": "カストディア・バンクのCEOであるケイトリン・ロング氏は、米国政府が仮想通貨企業の銀行口座閉鎖（デバンキング）問題に対して「何も対処していない」と指摘した。",
-          "link": "https://jp.cointelegraph.com/news/trump-administration-hasnt-addressed-crypto-debanking-issues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-03-02T22:56:00.000Z",
-          "wordCount": null,
-          "title": "トランプ政権復帰後も米国の仮想通貨銀行規制に変化なし＝ケイトリン・ロング",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTRmNzMtMTBlMy03MDczLWFkMDUtYWFhMGMzOWI4Y2Rk.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTRmNzMtMTBlMy03MDczLWFkMDUtYWFhMGMzOWI4Y2Rk.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-etfs-see-first-inflow-day-in-nine-trading-days-as-bitcoin-recovers",
-          "author": "Cointelegraph  Brayden Lindrea",
-          "description": "米国のスポットビットコインETFは2月28日、9,430万ドルの資金流入を記録し、8日間続いた資金流出の流れを断ち切った。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-etfs-see-first-inflow-day-in-nine-trading-days-as-bitcoin-recovers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-03-02T22:50:00.000Z",
-          "wordCount": null,
-          "title": "ARK 21SharesとFidelityのビットコインETFに強い資金流入、8日連続の流出に終止符",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTU0NzgtOTk0YS03N2VjLTljMTctNzI5ODRkMTQ1Y2Nh.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTU0NzgtOTk0YS03N2VjLTljMTctNzI5ODRkMTQ1Y2Nh.jpg"
         }
       ]
     },

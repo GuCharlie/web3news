@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-07T10:40:59.116Z</updated>
+    <updated>2025-03-07T11:12:16.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[暗号資産のサイバー対策組織「JPCrypto-ISAC」が設立、業界内での情報共有・連携へ]]></title>
+        <id>https://www.neweconomy.jp/?p=456970</id>
+        <link href="https://www.neweconomy.jp/posts/456970"/>
+        <updated>2025-03-07T11:01:17.000Z</updated>
+        <summary type="html"><![CDATA[「JPCrypto-ISAC」が設立 日本で初となる暗号資産（仮想通貨）のサイバー対策組織「一般社団法人JPCrypto-ISAC」の設立が3月7日に発表された。なお同組織は1月17日に設立されていたとのこと。 「JPC […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ナスダックとS&P500はトランプ当選後の利益をすべて失った──ビットコインは約20％の上昇]]></title>
         <id>https://www.coindeskjapan.com/?p=280287</id>
@@ -3041,26 +3051,6 @@ XRP・SOL・ADAのコインベースプレミアム、1カ月ぶり高水準に�
 トランプ大統領、「暗号資産準備金」の推進を指示──XRP、SOL、ADA、BTC、ETHを準備金に指定 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Nikhilesh De</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ政権復帰後も米国の仮想通貨銀行規制に変化なし＝ケイトリン・ロング]]></title>
-        <id>https://jp.cointelegraph.com/news/trump-administration-hasnt-addressed-crypto-debanking-issues</id>
-        <link href="https://jp.cointelegraph.com/news/trump-administration-hasnt-addressed-crypto-debanking-issues?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-02T22:56:00.000Z</updated>
-        <summary type="html"><![CDATA[カストディア・バンクのCEOであるケイトリン・ロング氏は、米国政府が仮想通貨企業の銀行口座閉鎖（デバンキング）問題に対して「何も対処していない」と指摘した。]]></summary>
-        <author>
-            <name>Cointelegraph  Brayden Lindrea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARK 21SharesとFidelityのビットコインETFに強い資金流入、8日連続の流出に終止符]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-etfs-see-first-inflow-day-in-nine-trading-days-as-bitcoin-recovers</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-etfs-see-first-inflow-day-in-nine-trading-days-as-bitcoin-recovers?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-02T22:50:00.000Z</updated>
-        <summary type="html"><![CDATA[米国のスポットビットコインETFは2月28日、9,430万ドルの資金流入を記録し、8日間続いた資金流出の流れを断ち切った。]]></summary>
-        <author>
-            <name>Cointelegraph  Brayden Lindrea</name>
         </author>
     </entry>
 </feed>

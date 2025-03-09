@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-09T22:11:53.025Z</updated>
+    <updated>2025-03-09T22:34:18.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マイケル・セイラー氏、米政府にビットコイン供給の25％購入を提案]]></title>
+        <id>https://jp.cointelegraph.com/news/strategy-michael-saylor-bitcoin-purchase-us-government-donald-trump</id>
+        <link href="https://jp.cointelegraph.com/news/strategy-michael-saylor-bitcoin-purchase-us-government-donald-trump?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-09T22:17:00.000Z</updated>
+        <summary type="html"><![CDATA[ストラテジー創業者のマイケル・セイラー氏は、米国政府がビットコイン戦略的準備金のために、今後10年間でビットコインの総供給量の最大25％を取得することを提案している。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインがさらに3％下落｜次の下値目標は6万9,000ドルか]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-slides-3-btc-price-69k-next</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-slides-3-btc-price-69k-next?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-09T22:02:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は下落を続けており、7万5,000ドルまで暴落するリスクが依然として指摘されている。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブラジル郵便局、業務改善にブロックチェーンとAIを活用へ]]></title>
         <id>https://www.coindeskjapan.com/?p=280489</id>
@@ -2241,16 +2261,6 @@ LINEのミニDapp、1カ月で新規ウォレット300万件突破 first appeare
 イーサリアムの「ペクトラ」アップグレード、Sepoliaでのテスト成功でメインネットに近づく first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Margaux Nijkerk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ミームコイン市場、トランプ氏の大統領勝利後の上昇分をすべて喪失 — 12月のピークから56％下落]]></title>
-        <id>https://jp.cointelegraph.com/news/memecoin-market-cap-down-56-past-3-months-what-next</id>
-        <link href="https://jp.cointelegraph.com/news/memecoin-market-cap-down-56-past-3-months-what-next?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-05T10:21:00.000Z</updated>
-        <summary type="html"><![CDATA[ミームコイン市場は、2024年11月のドナルド・トランプ氏の大統領選勝利後の上昇分をすべて失い、12月以降で時価総額が半減した。コインマーケットキャップのデータによると、ミームコインの総時価総額は3月5日時点で540億ドルとなり、2024年12月5日の1240億ドルから56%減少した。]]></summary>
-        <author>
-            <name>Cointelegraph  Helen Partz</name>
         </author>
     </entry>
 </feed>

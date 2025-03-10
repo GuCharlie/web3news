@@ -360,16 +360,6 @@
           "wordCount": 1288,
           "title": "自民党web3WGの新提言、公の場で初めて説明──「世界でも最先端の規制モデルに」塩崎議員",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/DSC_2545のコピー.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=280083",
-          "author": "Shaurya Malwa",
-          "description": "3月6日のアジア取引時間の午前中、ビットコインは9万2000ドルを上回り、主要な暗号通貨（仮想通貨）は5%上昇した。トレーダーは、3月7日に予定されている史上初 ...\nビットコインが一時9万2000ドルを超える──ホワイトハウスの暗号資産サミットを控えて first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/280083/",
-          "publishedOn": "2025-03-06T10:40:00.000Z",
-          "wordCount": 1294,
-          "title": "ビットコインが一時9万2000ドルを超える──ホワイトハウスの暗号資産サミットを控えて",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2019/10/Bull.jpg"
         }
       ]
     },
@@ -1133,6 +1123,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/thailand-regulator-approves-usdt-stablecoin",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "タイ証券取引委員会（SEC）は、テザーのUSDt（USDT）およびサークルのUSDCをタイ国内の仮想通貨取引に利用可能なステーブルコインとして正式に承認した。",
+          "link": "https://jp.cointelegraph.com/news/thailand-regulator-approves-usdt-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-10T23:03:00.000Z",
+          "wordCount": null,
+          "title": "タイ規制当局がUSDTとUSDCを承認",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTgwNTYtZjc3NC03Yjg2LTg5MTItYTY1NTA4MGNjZDUx.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTgwNTYtZjc3NC03Yjg2LTg5MTItYTY1NTA4MGNjZDUx.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-needs-policy-change-more-than-bitcoin-reserve-execs",
+          "author": "Cointelegraph  Alex O’Donnell",
+          "description": "米国の仮想通貨業界にとって、ドナルド・トランプ前大統領によるビットコイン（BTC）国家備蓄計画よりも、規制の明確化の方が重要だと業界幹部がコインテレグラフに語った。",
+          "link": "https://jp.cointelegraph.com/news/crypto-needs-policy-change-more-than-bitcoin-reserve-execs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-10T22:44:00.000Z",
+          "wordCount": null,
+          "title": "仮想通貨業界が求めるのはビットコイン備蓄より政策変更＝業界幹部",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDQwNDctZTg0Yy03OTVjLTk0ZTktMmVkYmNjMmIzOGQ2.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDQwNDctZTg0Yy03OTVjLTk0ZTktMmVkYmNjMmIzOGQ2.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/strategy-shares-down-30-since-saylor-forbes-cover",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "ストラテジー（旧マイクロストラテジー、ティッカー：MSTR）の株価は、マイケル・セイラー会長（元CEO）が米経済誌フォーブスの表紙を飾って以来、約30％下落している。",
+          "link": "https://jp.cointelegraph.com/news/strategy-shares-down-30-since-saylor-forbes-cover?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-10T22:40:00.000Z",
+          "wordCount": null,
+          "title": "セイラー氏のフォーブス表紙以降、ストラテジー株30％下落",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTgxZTUtNzE3MS03MDE3LTg4MzMtNDJiMWE5ZGFjODMz.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTgxZTUtNzE3MS03MDE3LTg4MzMtNDJiMWE5ZGFjODMz.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/cleanspark-join-sp-small-cap-600-index",
           "author": "Cointelegraph  Sam Bourgi",

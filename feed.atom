@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-10T12:29:34.674Z</updated>
+    <updated>2025-03-10T13:03:01.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【3/10話題】トランプがステーブルコイン法案の署名意向、金融庁が仲介業の新設提案、ジェミナイがIPO申請かなど（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=457271</id>
+        <link href="https://www.neweconomy.jp/posts/457271"/>
+        <updated>2025-03-10T12:41:05.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨XRP、資金流入でビットコイン上回る]]></title>
         <id>https://crypto-times.jp/?p=131582</id>
@@ -2387,26 +2397,6 @@ LINEのミニDapp、1カ月で新規ウォレット300万件突破 first appeare
 ビットコインのリスク調整後リターン、2月に大幅に低下 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロビンフッドクリプト、イーサL2「アービトラム（ARB）」取扱開始]]></title>
-        <id>https://www.neweconomy.jp/?p=456507</id>
-        <link href="https://www.neweconomy.jp/posts/456507"/>
-        <updated>2025-03-06T00:35:02.000Z</updated>
-        <summary type="html"><![CDATA[Robinhood CryptoでARB取扱開始 米ロビンフッドマーケッツ（Robinhood Markets）が提供する「ロビンフッドクリプト（Robinhood Crypto）」アプリにおいて、米国ユーザー向けに暗号 […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベース、デジタル証券（ST）事業に高い関心　米トランプ政権の規制緩和に期待感]]></title>
-        <id>https://coinpost.jp/?p=600370</id>
-        <link href="https://coinpost.jp/?p=600370"/>
-        <updated>2025-03-06T00:30:21.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所コインベースは、デジタル証券（ST）事業に高い関心を示している。背景には米トランプ政権による規制緩和への期待感がある。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>

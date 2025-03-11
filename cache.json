@@ -380,16 +380,6 @@
           "wordCount": 1286,
           "title": "BTCマイナーのコア・サイエンティフィック、株価が15%下落",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/45b2cf9bcd59831153a5222aba4664c7e2d083d6-5184x3888-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=280142",
-          "author": "Stephen Alpher",
-          "description": "トランプ米大統領による関税の脅しの撤回は、少なくとも米国時間3月6日の半ばまでには、リスク市場に期待された効果をもたらしていない。 米ニュース専門局CNBCに出 ...\n暗号資産が反落する中、関税への懸念に代わって金利への懸念が高まる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/280142/",
-          "publishedOn": "2025-03-06T18:52:55.000Z",
-          "wordCount": 1324,
-          "title": "暗号資産が反落する中、関税への懸念に代わって金利への懸念が高まる",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/shutterstock_2342249901.jpg"
         }
       ]
     },
@@ -1132,6 +1122,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=457591",
+          "author": "OtsugaShinya",
+          "description": "AIフュージョンが5億円分のビットコイン購入へ 東証スタンダード上場のAIフュージョンキャピタルグループ（以下、AIフュージョン）が、5億円相当のビットコイン購入に関する決議を3月11日に発表した。 投資日は3月11日以 […]",
+          "link": "https://www.neweconomy.jp/posts/457591",
+          "publishedOn": "2025-03-11T06:53:49.000Z",
+          "wordCount": 718,
+          "title": "国内上場企業AIフュージョンキャピタルグループ、5億円分のビットコイン購入へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/11155344/670ab893e34d6c5fcefd16f2eeaef1fd.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=457577",
           "author": "NewEconomy",
           "description": "4月から発効へ 過去多くの暗号資産（仮想通貨）関連企業を誘致してきたケイマン諸島が、暗号資産規制を3月10日改定し、カストディおよび取引サービスを提供する企業にライセンスの取得を義務付けた。 発表によれば、新法は2025 […]",
@@ -1438,6 +1438,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/sec-looking-abandon-requiring-crypto-firms-register-exchanges",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "米証券取引委員会（SEC）の新たな指示により、一部の仮想通貨企業に対し取引所としての登録を義務付ける規則改正案が撤回される可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/sec-looking-abandon-requiring-crypto-firms-register-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-11T06:35:00.000Z",
+          "wordCount": null,
+          "title": "米SEC、仮想通貨企業の「取引所登録」義務化案を撤回へ ── 委員長代行が規制見直しを指示",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzUxOGUtODdjNS03NzhhLWJhNDAtZTRjMGEzNWVkZTAz.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzUxOGUtODdjNS03NzhhLWJhNDAtZTRjMGEzNWVkZTAz.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0311",
           "author": "Cointelegraph  コインテレグラフジャパン寄稿者",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-11T06:44:55.399Z</updated>
+    <updated>2025-03-11T07:14:15.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[国内上場企業AIフュージョンキャピタルグループ、5億円分のビットコイン購入へ]]></title>
+        <id>https://www.neweconomy.jp/?p=457591</id>
+        <link href="https://www.neweconomy.jp/posts/457591"/>
+        <updated>2025-03-11T06:53:49.000Z</updated>
+        <summary type="html"><![CDATA[AIフュージョンが5億円分のビットコイン購入へ 東証スタンダード上場のAIフュージョンキャピタルグループ（以下、AIフュージョン）が、5億円相当のビットコイン購入に関する決議を3月11日に発表した。 投資日は3月11日以 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米SEC、仮想通貨企業の「取引所登録」義務化案を撤回へ ── 委員長代行が規制見直しを指示]]></title>
+        <id>https://jp.cointelegraph.com/news/sec-looking-abandon-requiring-crypto-firms-register-exchanges</id>
+        <link href="https://jp.cointelegraph.com/news/sec-looking-abandon-requiring-crypto-firms-register-exchanges?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-11T06:35:00.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会（SEC）の新たな指示により、一部の仮想通貨企業に対し取引所としての登録を義務付ける規則改正案が撤回される可能性がある。]]></summary>
+        <author>
+            <name>Cointelegraph  Stephen Katte</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ケイマン諸島が暗号資産規制を改定、カストディアンや取引所のライセンス取得を義務化へ]]></title>
         <id>https://www.neweconomy.jp/?p=457577</id>
@@ -2279,17 +2299,6 @@ BTCマイナーのコア・サイエンティフィック、株価が15%下落 f
         <summary type="html"><![CDATA[テキサス州上院がビットコイン戦略準備金法案を25対5で可決。下院審査と知事の署名を経て法制化へ。ニューハンプシャー州やユタ州など他州も仮想通貨の公的資金導入に向けた法整備を進める。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産が反落する中、関税への懸念に代わって金利への懸念が高まる]]></title>
-        <id>https://www.coindeskjapan.com/?p=280142</id>
-        <link href="https://www.coindeskjapan.com/280142/"/>
-        <updated>2025-03-06T18:52:55.000Z</updated>
-        <summary type="html"><![CDATA[トランプ米大統領による関税の脅しの撤回は、少なくとも米国時間3月6日の半ばまでには、リスク市場に期待された効果をもたらしていない。 米ニュース専門局CNBCに出 ...
-暗号資産が反落する中、関税への懸念に代わって金利への懸念が高まる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Stephen Alpher</name>
         </author>
     </entry>
 </feed>

@@ -380,10 +380,40 @@
       "articles": []
     },
     {
-      "title": "NEO(NEO)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=601702",
+          "author": "K.Kobayashi",
+          "description": "キャンターフィッツジェラルドは、仮想通貨ビットコインの融資事業でAnchorage DigitalとCopperが担保の管理とカストディを担当すると発表。両社のセキュリティを高く評価している。",
+          "link": "https://coinpost.jp/?p=601702",
+          "publishedOn": "2025-03-11T22:30:21.000Z",
+          "wordCount": 3283,
+          "title": "米金融大手キャンターフィッツジェラルド、ビットコイン融資事業のカストディアンを決定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/Cantor-Fitzgerald.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/Cantor-Fitzgerald.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=601707",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨資産運用会社ビットワイズが1000BTC以上を保有する企業の株式に投資する新ETF「OWNB」を発表。組入比率上位にはマイクロストラテジー、MARA、クリーンスパーク、メタプラネットなど。",
+          "link": "https://coinpost.jp/?p=601707",
+          "publishedOn": "2025-03-11T22:05:42.000Z",
+          "wordCount": 3332,
+          "title": "メタプラネットも構成銘柄に　ビットワイズが1000ビットコイン以上の保有企業ETFを立ち上げ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-onchain-activities.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-onchain-activities.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=601670",
           "author": "菊谷ルイス",
@@ -1278,6 +1308,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/coinbase-plans-india-comeback-fiu-registration",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "仮想通貨取引所コインベースは、インドの金融情報局（FIU）からライセンスを取得し、同国でのサービス再開に向けて一歩前進した。",
+          "link": "https://jp.cointelegraph.com/news/coinbase-plans-india-comeback-fiu-registration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-11T22:15:00.000Z",
+          "wordCount": null,
+          "title": "コインベース、FIU登録でインド再参入を計画",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTg1ZGEtYmUwNi03MDA5LWI2YWItMWQ1NDI2NjA4NzY1.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTg1ZGEtYmUwNi03MDA5LWI2YWItMWQ1NDI2NjA4NzY1.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/eth-price-prediction-200-dollars-yuga-exec-whale-liquidation",
+          "author": "Cointelegraph  Ezra Reguerra",
+          "description": "ユガラボのブロックチェーン担当副社長が、弱気相場が長期化した場合、イーサリアムが現在の価格から90％下落し、200ドルまで落ち込む可能性があると警告した。",
+          "link": "https://jp.cointelegraph.com/news/eth-price-prediction-200-dollars-yuga-exec-whale-liquidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-11T22:02:00.000Z",
+          "wordCount": null,
+          "title": "ユガラボ幹部、イーサリアムの「本格的な弱気相場」に警鐘｜200ドルまで下落の指摘も",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTg1MDgtNmE2Yy03ZWIxLWJlM2YtNGZkZDg5NzVhNzU4.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTg1MDgtNmE2Yy03ZWIxLWJlM2YtNGZkZDg5NzVhNzU4.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/ether-1-8k-correction-global-tariff-fears-eth-etf-outflows",
           "author": "Cointelegraph  Zoltan Vardai",

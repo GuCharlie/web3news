@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-11T09:16:11.268Z</updated>
+    <updated>2025-03-11T09:38:16.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本田圭佑氏のファンドがリード、Web3ゲーム「キャプテン翼」開発のMint Town7億円調達]]></title>
+        <id>https://www.coindeskjapan.com/?p=281418</id>
+        <link href="https://www.coindeskjapan.com/281418/"/>
+        <updated>2025-03-11T09:23:22.000Z</updated>
+        <summary type="html"><![CDATA[Web3ゲーム開発を手掛けるミントタウン（Mint Town）は3月10日、元サッカー日本代表の本田圭佑氏が設立したファンド「X&KSK」をリードインベ ...
+本田圭佑氏のファンドがリード、Web3ゲーム「キャプテン翼」開発のMint Town7億円調達 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>栃山直樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヴァンエック、米国でアバランチETF申請に向けてデラウェア州で登録]]></title>
+        <id>https://jp.cointelegraph.com/news/vaneck-avalanche-etf-registration-delaware-avax-drops-55-ytd</id>
+        <link href="https://jp.cointelegraph.com/news/vaneck-avalanche-etf-registration-delaware-avax-drops-55-ytd?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-11T09:09:00.000Z</updated>
+        <summary type="html"><![CDATA[投資会社ヴァンエックが、米国でのアバランチ上場投資信託（ETF）の申請を視野に入れ、デラウェア州で登録を行った。]]></summary>
+        <author>
+            <name>Cointelegraph  Helen Partz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コインベース、米国でビットコイン・イーサリアム先物の24時間取引を発表──永久先物も提供へ]]></title>
         <id>https://jp.cointelegraph.com/news/coinbase-launch-24-7-btc-eth-futures-perpetuals-us</id>
@@ -2350,16 +2371,6 @@ USDCが切り拓く国際送金の未来──Circleカントリーマネージ�
         <summary type="html"><![CDATA[テキサス州上院は3月6日、州上院での激しい議論を経て、賛成25票・反対5票の投票結果でビットコイン（BTC）の戦略的準備金法案「SB-21」を可決した。]]></summary>
         <author>
             <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナ共同創業者、米国仮想通貨準備金構想に懐疑的見解]]></title>
-        <id>https://coinpost.jp/?p=600716</id>
-        <link href="https://coinpost.jp/?p=600716"/>
-        <updated>2025-03-06T21:35:31.000Z</updated>
-        <summary type="html"><![CDATA[ソラナ・ラボ共同創業者ヤコベンコ氏がトランプの仮想通貨準備金構想に懐疑的見解を表明。「準備金なし」か「州単位の管理」を提案。アルトコインXRP、SOL、ADAの価値保存機能への疑問と政府介入の懸念が広がる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

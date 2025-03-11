@@ -380,16 +380,6 @@
           "wordCount": 1310,
           "title": "米上院銀行委員長、暗号資産業界が憤る「デバンキング」の解消を目指す法案を支持",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/f22719b8852a77e1aef4ee6b635915577ec96d29-4030x2267-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=280146",
-          "author": "James Van Straten",
-          "description": "ビットコイン（BTC）マイナーであるコア・サイエンティフィックの株価は、マイクロソフトが上場間近のクラウドコンピューティング企業コアウィーブとの契約の一部から手 ...\nBTCマイナーのコア・サイエンティフィック、株価が15%下落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/280146/",
-          "publishedOn": "2025-03-06T21:00:00.000Z",
-          "wordCount": 1286,
-          "title": "BTCマイナーのコア・サイエンティフィック、株価が15%下落",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/45b2cf9bcd59831153a5222aba4664c7e2d083d6-5184x3888-1.jpeg"
         }
       ]
     },
@@ -1108,36 +1098,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/bitcoin-reserve-toly-against.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/bitcoin-reserve-toly-against.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=600702",
-          "author": "菊谷ルイス",
-          "description": "ホワイトハウスの仮想通貨サミット直前、デビッド・サックス特命官が米政府のこれまでの19.5万BTCの売却を批判した。",
-          "link": "https://coinpost.jp/?p=600702",
-          "publishedOn": "2025-03-06T21:05:38.000Z",
-          "wordCount": 3228,
-          "title": "米仮想通貨特命官サックス氏、過去10年間「米政府のビットコイン売却で2.5兆円損失」と批判",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-czar-criticize.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-czar-criticize.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=600698",
-          "author": "菊谷ルイス",
-          "description": "テキサス州上院がビットコイン戦略準備金法案を25対5で可決。下院審査と知事の署名を経て法制化へ。ニューハンプシャー州やユタ州など他州も仮想通貨の公的資金導入に向けた法整備を進める。",
-          "link": "https://coinpost.jp/?p=600698",
-          "publishedOn": "2025-03-06T20:45:13.000Z",
-          "wordCount": 3235,
-          "title": "テキサス州上院、ビットコイン戦略準備金法案を可決　下院審査へ進む",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/texas_bitcoin1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/texas_bitcoin1.jpg"
         }
       ]
     },
@@ -1483,6 +1443,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/coinbase-launch-24-7-btc-eth-futures-perpetuals-us",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "コインベースは3月10日、米国居住者向けにビットコイン（BTC）とイーサリアム（ETH）の先物取引を24時間対応で提供する計画を発表した。また、長期間の満期を設定した永久先物取引（パーペチュアル・フューチャーズ）の提供も開始する。",
+          "link": "https://jp.cointelegraph.com/news/coinbase-launch-24-7-btc-eth-futures-perpetuals-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-11T08:43:00.000Z",
+          "wordCount": null,
+          "title": "コインベース、米国でビットコイン・イーサリアム先物の24時間取引を発表──永久先物も提供へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGYxMGQtODBmMy03M2VhLTg5MGUtZWZjZGFlYmMxZTIx.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGYxMGQtODBmMy03M2VhLTg5MGUtZWZjZGFlYmMxZTIx.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/solana-revenue-slumps-90-from-january-high-memecoin-mania-dies",
           "author": "Cointelegraph  Martin Young",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-11T08:43:02.815Z</updated>
+    <updated>2025-03-11T09:16:11.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コインベース、米国でビットコイン・イーサリアム先物の24時間取引を発表──永久先物も提供へ]]></title>
+        <id>https://jp.cointelegraph.com/news/coinbase-launch-24-7-btc-eth-futures-perpetuals-us</id>
+        <link href="https://jp.cointelegraph.com/news/coinbase-launch-24-7-btc-eth-futures-perpetuals-us?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-11T08:43:00.000Z</updated>
+        <summary type="html"><![CDATA[コインベースは3月10日、米国居住者向けにビットコイン（BTC）とイーサリアム（ETH）の先物取引を24時間対応で提供する計画を発表した。また、長期間の満期を設定した永久先物取引（パーペチュアル・フューチャーズ）の提供も開始する。]]></summary>
+        <author>
+            <name>Cointelegraph  Christopher Tepedino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ECBの決済システム障害受け、EU議員から「デジタルユーロ」に対する疑問噴出]]></title>
         <id>https://www.neweconomy.jp/?p=457622</id>
@@ -2348,37 +2358,6 @@ USDCが切り拓く国際送金の未来──Circleカントリーマネージ�
         <link href="https://coinpost.jp/?p=600716"/>
         <updated>2025-03-06T21:35:31.000Z</updated>
         <summary type="html"><![CDATA[ソラナ・ラボ共同創業者ヤコベンコ氏がトランプの仮想通貨準備金構想に懐疑的見解を表明。「準備金なし」か「州単位の管理」を提案。アルトコインXRP、SOL、ADAの価値保存機能への疑問と政府介入の懸念が広がる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米仮想通貨特命官サックス氏、過去10年間「米政府のビットコイン売却で2.5兆円損失」と批判]]></title>
-        <id>https://coinpost.jp/?p=600702</id>
-        <link href="https://coinpost.jp/?p=600702"/>
-        <updated>2025-03-06T21:05:38.000Z</updated>
-        <summary type="html"><![CDATA[ホワイトハウスの仮想通貨サミット直前、デビッド・サックス特命官が米政府のこれまでの19.5万BTCの売却を批判した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCマイナーのコア・サイエンティフィック、株価が15%下落]]></title>
-        <id>https://www.coindeskjapan.com/?p=280146</id>
-        <link href="https://www.coindeskjapan.com/280146/"/>
-        <updated>2025-03-06T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）マイナーであるコア・サイエンティフィックの株価は、マイクロソフトが上場間近のクラウドコンピューティング企業コアウィーブとの契約の一部から手 ...
-BTCマイナーのコア・サイエンティフィック、株価が15%下落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>James Van Straten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テキサス州上院、ビットコイン戦略準備金法案を可決　下院審査へ進む]]></title>
-        <id>https://coinpost.jp/?p=600698</id>
-        <link href="https://coinpost.jp/?p=600698"/>
-        <updated>2025-03-06T20:45:13.000Z</updated>
-        <summary type="html"><![CDATA[テキサス州上院がビットコイン戦略準備金法案を25対5で可決。下院審査と知事の署名を経て法制化へ。ニューハンプシャー州やユタ州など他州も仮想通貨の公的資金導入に向けた法整備を進める。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>

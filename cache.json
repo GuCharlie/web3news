@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=281449",
+          "author": "増田隆幸",
+          "description": "自民党ブロックチェーン推進議員連盟の第27回会合が3月10日に開催された。議題は「ブロックチェーンの活用事例（公共、防災、ReFi）」、以下の3つのテーマに取り ...\n公共、防災、ReFiへのブロックチェーン活用を議論：自民党ブロックチェーン推進議員連盟 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/281449/",
+          "publishedOn": "2025-03-11T23:00:00.000Z",
+          "wordCount": 1400,
+          "title": "公共、防災、ReFiへのブロックチェーン活用を議論：自民党ブロックチェーン推進議員連盟",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/IMG_2999のコピー.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=281557",
           "author": "Omkar Godbole",
           "description": "最近の暗号資産市場の低迷により、デリビットでかつて最も人気のあった12万ドルのビットコインオプションは、10万ドルのコールに王座を奪われ、トレーダーが強気予想を ...\nDeribitで一番人気のBTCコールオプション、12万ドルから10万ドルへ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -1290,16 +1300,6 @@
           "wordCount": 630,
           "title": "【3/7話題】トランプが「戦略的ビットコイン準備金」設立の大統領令、自民党web3WGが分離課税を目指す改正案など（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/07165208/news_head_20250307.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=456970",
-          "author": "OtsugaShinya",
-          "description": "「JPCrypto-ISAC」が設立 日本で初となる暗号資産（仮想通貨）のサイバー対策組織「一般社団法人JPCrypto-ISAC」の設立が3月7日に発表された。なお同組織は1月17日に設立されていたとのこと。 「JPC […]",
-          "link": "https://www.neweconomy.jp/posts/456970",
-          "publishedOn": "2025-03-07T11:01:17.000Z",
-          "wordCount": 754,
-          "title": "暗号資産のサイバー対策組織「JPCrypto-ISAC」が設立、業界内での情報共有・連携へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/07200108/ISAC.jpg"
         }
       ]
     },
@@ -1308,6 +1308,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/texas-lawmaker-bitcoin-reserve-legislation",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "テキサス州議会の議員が、州や地方自治体が準備資産として仮想通貨に投資できる額を制限する法案を提出した。",
+          "link": "https://jp.cointelegraph.com/news/texas-lawmaker-bitcoin-reserve-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-11T22:50:00.000Z",
+          "wordCount": null,
+          "title": "テキサス州議員、州のビットコイン購入計画を2億5000万ドルに制限するよう提案",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTg2NWYtMzMwMy03ODMxLWFlZWQtNGUxODk3YWMxYWU4.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTg2NWYtMzMwMy03ODMxLWFlZWQtNGUxODk3YWMxYWU4.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/4-reasons-why-76-7k-bitcoin-btc-is-the-ultimate-low",
+          "author": "Cointelegraph  Marcel Pechman",
+          "description": "ビットコイン（BTC）は3月11日、4カ月ぶりの安値となる7万6700ドルまで下落した。これは、S&P500指数が1週間で6％下落したことを受けた動きだった。",
+          "link": "https://jp.cointelegraph.com/news/4-reasons-why-76-7k-bitcoin-btc-is-the-ultimate-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-11T22:45:00.000Z",
+          "wordCount": null,
+          "title": "7万6700ドルのビットコインが「最終的な底値」である可能性を示す4つの兆候",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTg1NGItY2YxZC03NzY0LWFlYTktYmNlNTVhZTczYzRl.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTg1NGItY2YxZC03NzY0LWFlYTktYmNlNTVhZTczYzRl.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/coinbase-plans-india-comeback-fiu-registration",
           "author": "Cointelegraph  Sam Bourgi",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-11T21:35:46.101Z</updated>
+    <updated>2025-03-11T22:13:31.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム、ETF流出と関税懸念で1,800ドルへの調整リスク]]></title>
+        <id>https://jp.cointelegraph.com/news/ether-1-8k-correction-global-tariff-fears-eth-etf-outflows</id>
+        <link href="https://jp.cointelegraph.com/news/ether-1-8k-correction-global-tariff-fears-eth-etf-outflows?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-11T21:54:00.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム（ETH）は、マクロ経済的な懸念や米国のイーサリアム上場投資信託（ETF）からの継続的な売り圧力によって投資家心理が冷え込む中、約3カ月にわたる下落トレンドからの反転に苦しんでいる。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deribitで一番人気のBTCコールオプション、12万ドルから10万ドルへ]]></title>
         <id>https://www.coindeskjapan.com/?p=281557</id>
@@ -1768,17 +1778,6 @@ ADA、XRP、SOLが急落──米政権高官が準備金に含まれない可�
         <summary type="html"><![CDATA[「JPCrypto-ISAC」が設立 日本で初となる暗号資産（仮想通貨）のサイバー対策組織「一般社団法人JPCrypto-ISAC」の設立が3月7日に発表された。なお同組織は1月17日に設立されていたとのこと。 「JPC […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ナスダックとS&P500はトランプ当選後の利益をすべて失った──ビットコインは約20％の上昇]]></title>
-        <id>https://www.coindeskjapan.com/?p=280287</id>
-        <link href="https://www.coindeskjapan.com/280287/"/>
-        <updated>2025-03-07T09:40:00.000Z</updated>
-        <summary type="html"><![CDATA[過去数週間の株式市場の関税騒動により、ナスダック100種指数とS&P500種指数は、11月初旬のドナルド・トランプ氏の大統領選挙勝利以降の上昇分をすべて ...
-ナスダックとS&P500はトランプ当選後の利益をすべて失った──ビットコインは約20％の上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>James Van Straten</name>
         </author>
     </entry>
 </feed>

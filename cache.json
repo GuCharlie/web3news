@@ -395,6 +395,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=601590",
+          "author": "AKIRA.H",
+          "description": "暗号資産取引所ビットトレードが三井物産デジタルコモディティーズ発行の金価格連動型暗号資産「ジパングコイン(ZPG)」の取扱いを2025年3月11日より開始。期間限定で購入額の5%相当をZPGでプレゼントするキャンペーンも実施中。",
+          "link": "https://coinpost.jp/?p=601590",
+          "publishedOn": "2025-03-11T08:14:59.000Z",
+          "wordCount": 3245,
+          "title": "金価格連動の暗号資産ZPG、ビットトレードで取引開始　購入者に5%還元キャンペーン実施中",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/ZPG_2.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/ZPG_2.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=601555",
           "author": "幸田直子",
           "description": "米SECのウエダ委員長代行が仮想通貨関連の代替取引システム(ATS)規制案撤回の検討を指示した。トランプ政権下で仮想通貨企業への提訴取り下げなど、規制緩和の動きが加速している。",
@@ -1122,6 +1137,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=457608",
+          "author": "NewEconomy",
+          "description": "Mint Townが7億円の資金調達を実施 Web3ゲームおよびプラットフォーム事業を手掛けるMint Town（ミントタウン）が、総額7億円の資金調達実施を3月10日に発表した。 今回の資金調達は第三者割当増資によるも […]",
+          "link": "https://www.neweconomy.jp/posts/457608",
+          "publishedOn": "2025-03-11T07:51:11.000Z",
+          "wordCount": 776,
+          "title": "Web3ゲーム開発のMint Town、本田圭佑のX＆KSKらから7億円の資金調達",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/11165050/3189d99cbbeeed1d99690f355db70325.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=457591",
           "author": "OtsugaShinya",
           "description": "AIフュージョンが5億円分のビットコイン購入へ 東証スタンダード上場のAIフュージョンキャピタルグループ（以下、AIフュージョン）が、5億円相当のビットコイン購入に関する決議を3月11日に発表した。 投資日は3月11日以 […]",
@@ -1438,6 +1463,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/solana-revenue-slumps-90-from-january-high-memecoin-mania-dies",
+          "author": "Cointelegraph  Martin Young",
+          "description": "過去2カ月間で、ソラナのネットワーク収益とオンチェーンの総ロック価値（TVL）が急減している。これは、ミームコインに対する関心が衰退し続けていることが主な要因とみられる。",
+          "link": "https://jp.cointelegraph.com/news/solana-revenue-slumps-90-from-january-high-memecoin-mania-dies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-11T07:50:00.000Z",
+          "wordCount": null,
+          "title": "ソラナのネットワーク収益とTVLが急落 ──ミームコインブーム終焉で1月のピークから93%減少",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTgzODktNDRmNS03NzQ5LTk1NTQtMWU5NDAwNjBiYWVh.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTgzODktNDRmNS03NzQ5LTk1NTQtMWU5NDAwNjBiYWVh.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0311",
+          "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
+          "description": "10日のビットコイン（BTC）円は1193万円から取引が始まった。",
+          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0311?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-11T07:47:00.000Z",
+          "wordCount": null,
+          "title": "BTCは続落で真空地帯に突入　米景気後退懸念で【仮想通貨相場】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kMmQ1NTVjMmUzZjkyZmJmM2E3MTljYmFhMzBmOGQ3Mi5qZmlm.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kMmQ1NTVjMmUzZjkyZmJmM2E3MTljYmFhMzBmOGQ3Mi5qZmlm.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/trump-support-crypto-hurt-europe-monetary-autonomy-top-eu-official",
+          "author": "Cointelegraph  Martin Young",
+          "description": "欧州連合（EU）の財務当局幹部は、ドナルド・トランプ米大統領が仮想通貨を積極的に支持していることが、欧州の金融主権や経済の安定に影響を及ぼす可能性があるとして警戒を強めている。",
+          "link": "https://jp.cointelegraph.com/news/trump-support-crypto-hurt-europe-monetary-autonomy-top-eu-official?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-11T07:15:00.000Z",
+          "wordCount": null,
+          "title": "EU高官、トランプ政権の仮想通貨推進に懸念 ── ユーロ圏の金融主権と安定への影響を警戒",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTgzNmYtMDkyMS03OGEzLWE3ZDAtODYzM2E2OGI5MTlj.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTgzNmYtMDkyMS03OGEzLWE3ZDAtODYzM2E2OGI5MTlj.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/sec-looking-abandon-requiring-crypto-firms-register-exchanges",
           "author": "Cointelegraph  Stephen Katte",

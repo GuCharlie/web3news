@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=282215",
+          "author": "Helene Braun",
+          "description": "米証券取引委員会（SEC）は最近、いくつかの暗号資産ETFの申請を受理したものの、委員長の選任が一段落するまで、これらの商品を承認する決定を下すことはなさそうだ ...\nXRP、SOL、DOGEのETF、承認はSEC新委員長就任後か first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/282215/",
+          "publishedOn": "2025-03-12T22:30:00.000Z",
+          "wordCount": 1355,
+          "title": "XRP、SOL、DOGEのETF、承認はSEC新委員長就任後か",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/shutterstock_1174443955.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=282211",
           "author": "Shaurya Malwa",
           "description": "リップル・ラボと米証券取引委員会（SEC）の間で長く続いている法廷闘争がまもなく決着する可能性があると、フォックス・ビジネスが 「2人の有力な情報筋」を引用して ...\nXRP、値上がり──リップル社とSECの訴訟が終わりに近づいているとの報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -1473,6 +1483,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/genius-stablecoin-bill-cbdc-trojan-horse",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "最近提出された「GENIUS」ステーブルコイン法案について、分散型取引プラットフォーム「Smardex」の共同創設者であるジャン・ラウジス氏は、「実質的には民間を装った中央銀行デジタル通貨（CBDC）支配の導入にすぎない」と指摘している。",
+          "link": "https://jp.cointelegraph.com/news/genius-stablecoin-bill-cbdc-trojan-horse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-12T22:27:00.000Z",
+          "wordCount": null,
+          "title": "GENIUSステーブルコイン法案はCBDCのトロイの木馬＝DeFi幹部が警告",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NThhOTEtMjlkZC03OTAyLWI2ZWQtNzQyMGI0YTYyYjJm.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NThhOTEtMjlkZC03OTAyLWI2ZWQtNzQyMGI0YTYyYjJm.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/price-analysis-3-12-btc-eth-xrp-bnb-sol-ada-doge-pi-leo-hbar",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "ビットコインは76,606ドルから反発したものの、85,000ドル付近で売りに直面している。ただし、売り圧力の弱まりを示す初期兆候があり、底打ちが近い可能性もある。",
+          "link": "https://jp.cointelegraph.com/news/price-analysis-3-12-btc-eth-xrp-bnb-sol-ada-doge-pi-leo-hbar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-12T22:19:00.000Z",
+          "wordCount": null,
+          "title": "底打ちも近いか　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NThiMTItZWY5OS03NDhlLThkOTYtZmM1OTdiZTc3YWZl.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NThiMTItZWY5OS03NDhlLThkOTYtZmM1OTdiZTc3YWZl.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/xrp-etf-filings-awaiting-sec-approval",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "米資産運用会社フランクリン・テンプルトンが、拡大するXRP上場投資信託（ETF）競争に参入し、米国でスポット型XRP ETFを申請した最新の企業となった。",
+          "link": "https://jp.cointelegraph.com/news/xrp-etf-filings-awaiting-sec-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-12T22:08:00.000Z",
+          "wordCount": null,
+          "title": "XRP ETF：現在SEC承認待ちのファンド一覧",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzg3NWYtZTQ2Yi03MWZiLThiNjMtOTI5MmFmM2IyOTBj.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzg3NWYtZTQ2Yi03MWZiLThiNjMtOTI5MmFmM2IyOTBj.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-whales-hint-80k-market-rebound-binance-inflows-cool",
           "author": "Cointelegraph  William Suberg",

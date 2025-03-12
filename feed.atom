@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-12T07:14:03.179Z</updated>
+    <updated>2025-03-12T07:36:12.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米取引所Cboe BZX、フィデリティのイーサリアムETFにステーキング機能追加を申請]]></title>
+        <id>https://jp.cointelegraph.com/news/cboe-seeks-permission-staking-ether-fidelity-etf</id>
+        <link href="https://jp.cointelegraph.com/news/cboe-seeks-permission-staking-ether-fidelity-etf?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-12T07:20:00.000Z</updated>
+        <summary type="html"><![CDATA[米国の証券取引所Cboe BZXが、フィデリティのイーサリアム上場投資信託（ETF）にステーキングを組み込む許可を米規制当局に申請した。]]></summary>
+        <author>
+            <name>Cointelegraph  Alex O’Donnell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[シンガポール取引所、今年後半に「ビットコイン無期限先物取引」開始か＝報道]]></title>
         <id>https://www.neweconomy.jp/?p=457963</id>

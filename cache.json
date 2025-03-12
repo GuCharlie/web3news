@@ -430,16 +430,6 @@
           "wordCount": 1320,
           "title": "3週間で30%安のコインベース株、買いのチャンス",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/shutterstock_2451429289.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=272195",
-          "author": "橋本 祐樹",
-          "description": "暗号資産（仮想通貨）市場は新たな局面を迎えている。2024年1月には米国でビットコインの現物ETF（上場投資信託）が承認され、市場の成熟が進んだ。そして2025 ...\n金投資が人気のタイ、暗号資産の市場拡大は進むのか【コラム】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/272195/",
-          "publishedOn": "2025-03-07T23:00:00.000Z",
-          "wordCount": 1363,
-          "title": "金投資が人気のタイ、暗号資産の市場拡大は進むのか【コラム】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/01/shutterstock_2372710895-scaled.jpg"
         }
       ]
     },
@@ -1152,6 +1142,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=458105",
+          "author": "TamuraSeiji",
+          "description": "Movementがパブリックメインネットベータを開始 独自仮想マシン「MoveVM」で構築されたイーサリアム（Ethereum）レイヤー2ネットワークであるMovement（ムーブメント）のパブリックメインネットベータが […]",
+          "link": "https://www.neweconomy.jp/posts/458105",
+          "publishedOn": "2025-03-12T10:43:24.000Z",
+          "wordCount": 596,
+          "title": "「MoveVM」で構築のイーサL2「Movement」、パブリックメインネットベータ開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/12194318/dfdccb0de8ec1262f97b5199579dad8b.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=457980",
           "author": "NewEconomyPodcast",
           "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
@@ -1578,6 +1578,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-whales-hint-80k-market-rebound-binance-inflows-cool",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコイン（BTC）の大口保有者（クジラ）が再び市場に戻り、BTCを買い戻していることが新たな調査で明らかになった。一方、小口投資家は市場のパニック状態を受け、依然として様子見を続けている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-whales-hint-80k-market-rebound-binance-inflows-cool?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-12T10:50:00.000Z",
+          "wordCount": null,
+          "title": "ビットコインのクジラが買い戻しか？ 小口投資家は依然慎重姿勢＝仮想通貨アナリスト",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDQ4MWQtYTYyYi03YzhjLTllNmYtYjI3MGQ2Y2QwNDIy.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDQ4MWQtYTYyYi03YzhjLTllNmYtYjI3MGQ2Y2QwNDIy.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-high-entry-buyers-sell-pressure-btc-retrace-possible",
           "author": "Cointelegraph  Ciaran Lyons",
@@ -2342,36 +2357,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTcyNDAtY2U1Yi03NTNjLTkxZTgtYmIyZTcxOTVkN2Vh.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/us-stablecoins-ensure-dollar-hegemony-scott-bessent",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "米国のスコット・ベッセント財務長官は3月7日、ホワイトハウスの仮想通貨サミットで、米国政府がステーブルコインを活用し、米ドルの世界基軸通貨としての地位を維持する方針を明らかにした。",
-          "link": "https://jp.cointelegraph.com/news/us-stablecoins-ensure-dollar-hegemony-scott-bessent?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-03-07T22:55:00.000Z",
-          "wordCount": null,
-          "title": "米国のベッセント財務長官「ステーブルコイン活用でドルの基軸通貨維持」＝仮想通貨サミット",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTcyODgtOGY2OC03ZWJhLTg1OTgtOWZkZDJjYzM1ZTYw.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTcyODgtOGY2OC03ZWJhLTg1OTgtOWZkZDJjYzM1ZTYw.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/us-stablecoins-ensure-dollar-hegemony-scott-bessent",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "米国のスコット・ベッセント財務長官は3月7日、ホワイトハウスの仮想通貨サミットで、米国政府がステーブルコインを活用し、米ドルの世界基軸通貨としての地位を維持する方針を明らかにした。",
-          "link": "https://jp.cointelegraph.com/news/us-stablecoins-ensure-dollar-hegemony-scott-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-03-07T22:55:00.000Z",
-          "wordCount": null,
-          "title": "米国のベッセント財務長官「ステーブルコイン活用でドルの基軸通貨維持」＝仮想通貨サミット",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTcyODgtOGY2OC03ZWJhLTg1OTgtOWZkZDJjYzM1ZTYw.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTcyODgtOGY2OC03ZWJhLTg1OTgtOWZkZDJjYzM1ZTYw.jpg"
         }
       ]
     },

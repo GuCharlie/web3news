@@ -1152,6 +1152,26 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=457980",
+          "author": "NewEconomyPodcast",
+          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/457980",
+          "publishedOn": "2025-03-12T10:13:12.000Z",
+          "wordCount": 789,
+          "title": "【3/12話題】メタプラネットが約20億円でビットコイン追加購入、SBI VCトレードがUSDCをベータ版でリリースなど（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/12191233/news_head_20240312.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=458059",
+          "author": "OtsugaShinya",
+          "description": "TISとgC Labsがノード運営の合弁会社を設立へ TISインテックグループのTISとgumiの連結子会社としてブロックチェーン事業を展開するgC Labsが、合弁会社Hinode Technologies（ヒノデテク […]",
+          "link": "https://www.neweconomy.jp/posts/458059",
+          "publishedOn": "2025-03-12T09:46:58.000Z",
+          "wordCount": 615,
+          "title": "TISとgC Labs、ノード運営の合弁会社「Hinode Technologies」設立へ、暗号資産会計管理システム提供も視野",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/12184652/a2350aafa4bae38a3a33787afd5676f5.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=458043",
           "author": "OtsugaShinya",
           "description": "「Soneium」上にLINEのミニアプリが展開へ Ethereum（イーサリアム）のレイヤー2ブロックチェーン「Soneium（ソニューム）」上にLINEのミニアプリがグローバルに向け展開されることが3月12日に発表さ […]",
@@ -1559,6 +1579,21 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/bitwise-launches-bitcoin-corporate-treasury-etf",
+          "author": "Cointelegraph  Alex O’Donnell",
+          "description": "資産運用会社ビットワイズは3月11日、ビットコイン（BTC）を大量に保有する企業の株式を組み込んだ上場投資信託（ETF）を発表した。",
+          "link": "https://jp.cointelegraph.com/news/bitwise-launches-bitcoin-corporate-treasury-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-12T09:49:00.000Z",
+          "wordCount": null,
+          "title": "ビットワイズ、ビットコイン保有企業の株式を組み込んだETFを発表",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTg2NTEtY2JjOC03Y2Q5LThiNDQtYTlkOGE2YTliYjdl.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTg2NTEtY2JjOC03Y2Q5LThiNDQtYTlkOGE2YTliYjdl.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0312",
           "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
           "description": "11日のビットコイン（BTC）円は1157万1988円から取引が始まった。",
@@ -1572,6 +1607,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jYThkZDlmM2EzNWE5YjYxM2UxOGE5NGNjMTAxZTkyNy5qcGc=.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/us-house-follows-senate-kill-irs-defi-broker-rule",
+          "author": "Cointelegraph  Martin Young",
+          "description": "米議会下院は、分散型金融（DeFi）プロトコルに対し、内国歳入庁（IRS）への報告を義務付けるルールを無効化する議案を可決した。",
+          "link": "https://jp.cointelegraph.com/news/us-house-follows-senate-kill-irs-defi-broker-rule?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-12T08:02:00.000Z",
+          "wordCount": null,
+          "title": "米議会下院、DeFiプロトコルのIRS報告義務を撤廃する議案を可決",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTg3ZmQtYmZmMC03YzE0LTgyZjUtM2ExNTBlZGMzMTk0.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTg3ZmQtYmZmMC03YzE0LTgyZjUtM2ExNTBlZGMzMTk0.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/solo-bitcoin-miner-wins-block-using-tiny-cheap-bitcoin-miner",

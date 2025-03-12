@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=281671",
+          "author": "栃山直樹",
+          "description": "ソニーグループとStartale Groupの合弁会社Sony Block Solutions Labsは3月12日、LINEと協業し、4つの人気ミニアプリをイ ...\nソニーとLINEが連携、Soneiumでミニアプリ4種を展開へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/281671/",
+          "publishedOn": "2025-03-12T06:11:03.000Z",
+          "wordCount": 1265,
+          "title": "ソニーとLINEが連携、Soneiumでミニアプリ4種を展開へ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/line3_30d251caaf.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=281572",
           "author": "増田隆幸",
           "description": "Japan Fintech Week（JFW）を期に世界中から暗号資産（仮想通貨）業界のキーパーソンが東京に集まった。暗号資産取引所バイナンス（Binance） ...\n創業者主導から取締役会主導の組織へ──1年半の変革、世界最大級の取引所を率いるために大切なこと【バイナンスCEOインタビュー】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -390,16 +400,6 @@
           "wordCount": 1419,
           "title": "ADA、XRP、SOLが急落──米政権高官が準備金に含まれない可能性を示唆",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/f9d84dd6e97416da75fa992e32d8a1c848f76557-2400x1800-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=280371",
-          "author": "林 理南",
-          "description": "アメリカの雇用市場は2月も引き続き堅調さだったが、失業率はやや上昇した。 労働統計局は7日午前、非農業部門の雇用者数は2月に15万1000人増加したと発表した。 ...\n2月米雇用統計、雇用者数15万1000人増で予想とほぼ同じ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/280371/",
-          "publishedOn": "2025-03-07T16:16:01.000Z",
-          "wordCount": 1292,
-          "title": "2月米雇用統計、雇用者数15万1000人増で予想とほぼ同じ",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/0bd7d25adab19bae569a11ac843bb6b058835c49-1920x1080-1.jpg"
         }
       ]
     },
@@ -414,6 +414,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=601856",
+          "author": "AKIRA.H",
+          "description": "メタプラネットが暗号資産ビットコインを162BTC追加購入し、保有量3,050BTCに到達。EVO FUNDとの新株予約権発行やゼロクーポン社債を活用した資本戦略を通じ、さらに買い増しを進める方針を示している。",
+          "link": "https://coinpost.jp/?p=601856",
+          "publishedOn": "2025-03-12T06:15:41.000Z",
+          "wordCount": 3214,
+          "title": "メタプラネットが162BTCを追加購入　ビットコイン保有量3,050BTCに拡大",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/metaplanet-new-buy.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/metaplanet-new-buy.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=601839",
+          "author": "幸田直子",
+          "description": "ワシントンDCで開催された「Bitcoin for America」フォーラムで、米国のビットコイン戦略についての議論が交わされた。上下院でのビットコイン法案提出の発表や、ストラテジー社会長のマイケル・セイラー氏によるビットコイン準備金戦略のプレゼンなどにより、今後の具体的な方向性と指針が示された。",
+          "link": "https://coinpost.jp/?p=601839",
+          "publishedOn": "2025-03-12T05:49:11.000Z",
+          "wordCount": 3263,
+          "title": "ビットコイン準備金戦略で米国経済を強化、「デジタルゴールドラッシュ」時代の到来に備える",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/bitcoin-2025-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/bitcoin-2025-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=600484",
+          "author": "Ritsuki.Kumazawa",
+          "description": "HashPortとWebX実行委員会主催のイベントで金融庁の柳瀬護審議官が日本の暗号資産規制の今後を示唆した。決済手段から投資対象へと変化した暗号資産の実態に合わせた新たな規制枠組みを検討中。2025年の通常国会での法案提出を目指し、金商法への移行も選択肢の一つとしながら、過度な規制による利用低下を避ける実用性重視の姿勢を表明。",
+          "link": "https://coinpost.jp/?p=600484",
+          "publishedOn": "2025-03-12T02:52:33.000Z",
+          "wordCount": 3247,
+          "title": "金融庁審議官らが語る日本の暗号資産規制とWeb3特有の課題｜HashPort・WebX Round Table",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/hashporteventlogo0311.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/hashporteventlogo0311.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=601797",
+          "author": "A.Yamada",
+          "description": "米下院金融サービス委員会で、ステーブルコイン規制の公聴会が開催された。共和党・民主党議員の多くが支持を表明し成立への機運が高まっている。トランプ政権も法整備に前向きだ。",
+          "link": "https://coinpost.jp/?p=601797",
+          "publishedOn": "2025-03-12T02:50:45.000Z",
+          "wordCount": 3223,
+          "title": "米国下院、超党派でステーブルコイン規制法案「STABLE」への支持広がる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/stablecoin2020a-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/stablecoin2020a-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=601743",
           "author": "A.Yamada",
@@ -1082,6 +1142,76 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=457938",
+          "author": "OtsugaShinya",
+          "description": "メタプラネットが20億円でビットコイン追加購入 ビットコイン（BTC）の購入を積極的に進めている東証スタンダード上場企業メタプラネットが、新たにビットコインの追加購入を実施したことを3月12日に発表した。 今回メタプラネ […]",
+          "link": "https://www.neweconomy.jp/posts/457938",
+          "publishedOn": "2025-03-12T05:26:44.000Z",
+          "wordCount": 607,
+          "title": "メタプラネットが約20億円でビットコイン追加購入、総保有数3,050BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/12142636/4812644d51bcfd3438e53dfeea15ff1e.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=457916",
+          "author": "OtsugaShinya",
+          "description": "ビットワイズがETF「OWBN」立ち上げ 米暗号資産（仮想通貨）運用会社ビットワイズ（Bitwise）が、暗号資産に関連した新たなETF（上場投資信託）「Bitwise Bitcoin Standard Corporat […]",
+          "link": "https://www.neweconomy.jp/posts/457916",
+          "publishedOn": "2025-03-12T05:07:09.000Z",
+          "wordCount": 751,
+          "title": "ビットワイズ、1,000BTC以上保有する上場企業で構成のETF「OWBN」立ち上げ、ストラテジーやメタプラも対象",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/12140658/b0906b4f822cd9f9a3962da7649621cf.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=457890",
+          "author": "HitomotoToshikazu",
+          "description": "Coinbaseが米国初の終日取引可能な先物提供へ 米大手暗号資産（仮想通貨）取引所コインベース（Coinbase）が、米国初となる24時間365日取引可能な先物取引を近日中に提供予定であることに加え、長期満期型パーペチ […]",
+          "link": "https://www.neweconomy.jp/posts/457890",
+          "publishedOn": "2025-03-12T05:00:07.000Z",
+          "wordCount": 605,
+          "title": "コインベースが米国初の終日取引可能な先物提供へ、長期満期型の永久先物も計画",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/12130546/16a7bc573c0778055e3d01dcfbd6e3bc.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=457868",
+          "author": "OtsugaShinya",
+          "description": "ソニュームが「aibo」のSBT提供 SONY（ソニー）販売のペットロボット「aibo（アイボ）」の公式デジタルコレクションが3月10日に発表された。 このデジタルコレクションは、Sony Block Solutions […]",
+          "link": "https://www.neweconomy.jp/posts/457868",
+          "publishedOn": "2025-03-12T03:48:26.000Z",
+          "wordCount": 652,
+          "title": "ソニューム、SONYのペットロボット「aibo」の公式SBT提供開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/12124818/ea8c2286901e459875f3ad0722a651dc.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=457862",
+          "author": "NewEconomy",
+          "description": "ETHの価値向上目指す イーサリアム（Ethereum）のコミュニティが、新たな非営利団体「イーサ・ギルド（Ether Guild）」を立ち上げたと3月10日発表した。 「イーサ・ギルド」は、イーサリアムネットワークをサ […]",
+          "link": "https://www.neweconomy.jp/posts/457862",
+          "publishedOn": "2025-03-12T03:41:32.000Z",
+          "wordCount": 817,
+          "title": "イーサリアムコミュニティ、ETH価格向上を目指す非営利団体「Ether Guild」立ち上げ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/12124122/de2485b299ac551690bfd6981498cc39.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=457858",
+          "author": "OtsugaShinya",
+          "description": "山形県西川町とメタウォーターがDAO活用の水道施設維持管理の実証実験 東証プライム上場企業のメタウォーターと山形県西川町が、水道施設の維持管理にDAO（分散型自立組織）を活用した実証実験において事業連携することを3月11 […]",
+          "link": "https://www.neweconomy.jp/posts/457858",
+          "publishedOn": "2025-03-12T03:38:33.000Z",
+          "wordCount": 591,
+          "title": "山形県西川町とメタウォーター、DAO活用の水道施設の維持管理に関する実証試験で事業連携",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/12123821/dff208f51c178d9b3722f2e34f3f25c1.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=457845",
+          "author": "OtsugaShinya",
+          "description": "USDCのクロスチェーンネイティブ転送時間が短縮 米ドル建てステーブルコイン「USDC」のブロックチェーン間転送を可能にする「クロスチェーン転送プロトコル（Cross-Chain Transfer Protocol：CC […]",
+          "link": "https://www.neweconomy.jp/posts/457845",
+          "publishedOn": "2025-03-12T02:50:23.000Z",
+          "wordCount": 788,
+          "title": "Circleの「CCTP」がアップグレード、「USDC」クロスチェーン転送時間を短縮",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/12115013/fc5f5f913b8ebf00b37419313ee3ec00.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=457794",
           "author": "HitomotoToshikazu",
           "description": "Offchain LabsがARB購入へ オフチェーンラボ（Offchain Labs）が、戦略的購入計画の一環として、暗号資産（仮想通貨）アービトラム（ARB）を段階的に購入すると3月11日発表した。オフチェーンラボは […]",
@@ -1368,6 +1498,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0312",
+          "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
+          "description": "昨日のBTC相場は反発。",
+          "link": "https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0312?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-12T06:04:00.000Z",
+          "wordCount": null,
+          "title": "ウクライナが米停戦提案受入れビットコイン反発、本日はCPIと10年入札【仮想通貨相場】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zMDc4MTViMTAyMTMwYmY0OWNjMjQ1OTdlZDE4ZWQ5Mi5qcGc=.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zMDc4MTViMTAyMTMwYmY0OWNjMjQ1OTdlZDE4ZWQ5Mi5qcGc=.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/texas-lawmaker-bitcoin-reserve-legislation",
           "author": "Cointelegraph  Turner Wright",
@@ -2087,96 +2232,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTcwNTMtNzgxOS03NjNhLWEzOTgtOGVkNTYyZTBmZGFk.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/https-cms-cointelegraph-com-articles-18718-language-1",
-          "author": "Cointelegraph  Zoltan Vardai",
-          "description": "ビットコインアナリストは、米国のトランプ大統領による戦略的ビットコイン準備金計画に対する失望を受け、仮想通貨の上値余地は限定的であると指摘している。",
-          "link": "https://jp.cointelegraph.com/news/https-cms-cointelegraph-com-articles-18718-language-1?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-03-07T17:00:00.000Z",
-          "wordCount": null,
-          "title": "ビットコイン準備金による上昇余地は限定的か？「当面は保ち合いの展開が続く」＝仮想通貨アナリスト",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTcwODYtMjJjNS03MTBiLTg1ODgtOTM4NjVjMTE4Zjhl.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTcwODYtMjJjNS03MTBiLTg1ODgtOTM4NjVjMTE4Zjhl.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/https-cms-cointelegraph-com-articles-18718-language-1",
-          "author": "Cointelegraph  Zoltan Vardai",
-          "description": "ビットコインアナリストは、米国のトランプ大統領による戦略的ビットコイン準備金計画に対する失望を受け、仮想通貨の上値余地は限定的であると指摘している。",
-          "link": "https://jp.cointelegraph.com/news/https-cms-cointelegraph-com-articles-18718-language-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-03-07T17:00:00.000Z",
-          "wordCount": null,
-          "title": "ビットコイン準備金による上昇余地は限定的か？「当面は保ち合いの展開が続く」＝仮想通貨アナリスト",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTcwODYtMjJjNS03MTBiLTg1ODgtOTM4NjVjMTE4Zjhl.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTcwODYtMjJjNS03MTBiLTg1ODgtOTM4NjVjMTE4Zjhl.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/treasury-secretary-scott-bessent-us-bring-btc-onshore",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "米国のスコット・ベッセント財務長官は、ビットコイン（BTC）を米国内に取り込み、さらなるBTCの取得について3月7日のホワイトハウス仮想通貨サミットで協議する意向を示した。",
-          "link": "https://jp.cointelegraph.com/news/treasury-secretary-scott-bessent-us-bring-btc-onshore?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-03-07T16:30:00.000Z",
-          "wordCount": null,
-          "title": "ベッセント財務長官「米国が仮想通貨分野で世界をリードすべき」　ビットコイン取得の検討も",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTcwYzgtZGQ4Zi03NjkxLWFlYmItZmRkOGI2ZjAyY2Fk.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTcwYzgtZGQ4Zi03NjkxLWFlYmItZmRkOGI2ZjAyY2Fk.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/treasury-secretary-scott-bessent-us-bring-btc-onshore",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "米国のスコット・ベッセント財務長官は、ビットコイン（BTC）を米国内に取り込み、さらなるBTCの取得について3月7日のホワイトハウス仮想通貨サミットで協議する意向を示した。",
-          "link": "https://jp.cointelegraph.com/news/treasury-secretary-scott-bessent-us-bring-btc-onshore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-03-07T16:30:00.000Z",
-          "wordCount": null,
-          "title": "ベッセント財務長官「米国が仮想通貨分野で世界をリードすべき」　ビットコイン取得の検討も",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTcwYzgtZGQ4Zi03NjkxLWFlYmItZmRkOGI2ZjAyY2Fk.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTcwYzgtZGQ4Zi03NjkxLWFlYmItZmRkOGI2ZjAyY2Fk.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/us-bitcoin-reserve-global-financial-integration-step",
-          "author": "Cointelegraph  Zoltan Vardai",
-          "description": "トランプ大統領は戦略的ビットコイン準備金とデジタル資産備蓄を創設する大統領令に署名したが、これがビットコインを米国の金融システムに統合するための最初の大きな一歩になる可能性がある。",
-          "link": "https://jp.cointelegraph.com/news/us-bitcoin-reserve-global-financial-integration-step?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-03-07T16:00:00.000Z",
-          "wordCount": null,
-          "title": "米国のビットコイン準備金　BTCを金融システムに統合する「大きな一歩に」",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTZmOTQtYTVlNC03NzMwLWI4MDktYTgzYTI2MTVjNGEy.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTZmOTQtYTVlNC03NzMwLWI4MDktYTgzYTI2MTVjNGEy.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/us-bitcoin-reserve-global-financial-integration-step",
-          "author": "Cointelegraph  Zoltan Vardai",
-          "description": "トランプ大統領は戦略的ビットコイン準備金とデジタル資産備蓄を創設する大統領令に署名したが、これがビットコインを米国の金融システムに統合するための最初の大きな一歩になる可能性がある。",
-          "link": "https://jp.cointelegraph.com/news/us-bitcoin-reserve-global-financial-integration-step?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-03-07T16:00:00.000Z",
-          "wordCount": null,
-          "title": "米国のビットコイン準備金　BTCを金融システムに統合する「大きな一歩に」",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTZmOTQtYTVlNC03NzMwLWI4MDktYTgzYTI2MTVjNGEy.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTZmOTQtYTVlNC03NzMwLWI4MDktYTgzYTI2MTVjNGEy.jpg"
         }
       ]
     },
@@ -2185,6 +2240,96 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=131659",
+          "author": "アラタ &#124; Shingo Arai",
+          "description": "Soneiumは、Sony Block Solutions Labsと協力し、LINEと連携して4つの人気ミニアプリをブロックチェーン対応することを発表しました。今回のコラボレーションにより、LINEの2億人以上のアクテ […]\n投稿 SoneiumがLINEと協力し、オンチェーンMINIアプリ導入へ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-soneium-line/",
+          "publishedOn": "2025-03-12T06:02:44.000Z",
+          "wordCount": 602,
+          "title": "SoneiumがLINEと協力し、オンチェーンMINIアプリ導入へ",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/853d4d230a46a1d8edd13e8111800290.png"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=131645",
+          "author": "Crypto Troll",
+          "description": "フランクリン・テンプルトンは、アメリカ証券取引委員会（SEC）にリップル（XRP）の現物取引型ETF（上場投資信託）の申請を行うため、Form S-1を提出したことが発表されました。 今回の申請により、フランクリン・テン […]\n投稿 フランクリン・テンプルトン、リップルETF申請｜2025年に高確率で実現か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-franklin-templeton-files-for-ripple-etf/",
+          "publishedOn": "2025-03-12T05:13:01.000Z",
+          "wordCount": 578,
+          "title": "フランクリン・テンプルトン、リップルETF申請｜2025年に高確率で実現か",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_1853887246.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=131640",
+          "author": "Crypto Troll",
+          "description": "Story Protocolでは新たに「.ip」のドメインが公開され、ユーザーはStory Explorerでこれを確認・検索できるようになりました。この機能は、ENSのEthscanのようにドメイン名を検索することがで […]\n投稿 Story Protocolで新たに「.ip」ドメインが公開 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-story-protocol-launches-new-ip-domain/",
+          "publishedOn": "2025-03-12T04:20:47.000Z",
+          "wordCount": 638,
+          "title": "Story Protocolで新たに「.ip」ドメインが公開",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/d79df8015e8ee3bc0538641e543f0143.png"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=131637",
+          "author": "Crypto Troll",
+          "description": "Spotlight IPは、Story Protocolメインネットへの展開後、いくつかの新しいアップデートを発表しました。 Since deploying on Story mainnet, ecosystem app […]\n投稿 Spotlight IP、Storyメインネット展開後の新機能を発表 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-spotlight-ip-announces-new-features-after-story-mainnet-deployment/",
+          "publishedOn": "2025-03-12T04:15:44.000Z",
+          "wordCount": 638,
+          "title": "Spotlight IP、Storyメインネット展開後の新機能を発表",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/GcG-g01bIAACqow.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=131630",
+          "author": "Crypto Troll",
+          "description": "イーサリアムレイヤー2「Soneium」において、ソニーの犬型ロボットペット「aibo」のSBT（Soulbound Token）がフリーミントで提供されています。このNFTは、OpenSeaのマーケットプレイスを通じて […]\n投稿 Soneium、ロボットペット「aibo」のSBTをフリーミントで提供 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-aibo-sbt-to-freemint/",
+          "publishedOn": "2025-03-12T03:52:29.000Z",
+          "wordCount": 623,
+          "title": "Soneium、ロボットペット「aibo」のSBTをフリーミントで提供",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_2245793665.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=131622",
+          "author": "Crypto Troll",
+          "description": "Arbitrumの開発チームであるOffchain Labsは、ARBトークンを段階的に買い戻す計画を発表しました。プロジェクトのネイティブトークンであるARBの保有を増加させることによって、エコシステムへの信頼と安定性 […]\n投稿 Arbitrum開発チーム、ARBトークンの買い戻しで信頼強化へ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-arbitrum-developers-team-buys-back-arb-tokens/",
+          "publishedOn": "2025-03-12T03:27:59.000Z",
+          "wordCount": 578,
+          "title": "Arbitrum開発チーム、ARBトークンの買い戻しで信頼強化へ",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/0724_Arbiturm_BlogImages_Arbitrum.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=131618",
+          "author": "Crypto Troll",
+          "description": "イーサリアム財団のウォレットが、MakerDAOの貸出プラットフォームに30,098 ETHを預け、清算価格を下げるための措置を取ったと報じられました。しかし、イーサリアムのコミュニティメンバーと開発者は、このウォレット […]\n投稿 イーサリアム財団、3万ETH貸出騒動も誤報との訂正 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-ethereum-foundation-suspicion-30000-eth-loan-controversy/",
+          "publishedOn": "2025-03-12T03:14:54.000Z",
+          "wordCount": 586,
+          "title": "イーサリアム財団、3万ETH貸出騒動も誤報との訂正",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_2479172497.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=131613",
+          "author": "Crypto Troll",
+          "description": "米国のシンシア・ルミス上院議員がビットコイン法案を再提出したことを、自身のXで報告しました。 Proud to re-introduce the BITCOIN Act. Let’s secure America’s f […]\n投稿 米上院議員、ビットコイン法案を再提出｜5年間で最大100万BTCを購入か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-us-senator-reintroduces-bitcoin-bill/",
+          "publishedOn": "2025-03-12T03:03:33.000Z",
+          "wordCount": 599,
+          "title": "米上院議員、ビットコイン法案を再提出｜5年間で最大100万BTCを購入か",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_2135089839.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=131651",
+          "author": "Crypto Times 編集部",
+          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 3月2日にトランプ大統領は、新しく進めている国家政策「仮想通貨の戦略的 […]\n投稿 トランプ大統領の後押しでソラナの価格が上昇、関連トークンSolaxyではクジラが25万ドル近くを投資 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/press-solaxy-25m/",
+          "publishedOn": "2025-03-12T02:00:39.000Z",
+          "wordCount": 578,
+          "title": "トランプ大統領の後押しでソラナの価格が上昇、関連トークンSolaxyではクジラが25万ドル近くを投資",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/AD_4nXddTaUwUR_9Yu2Ea_pORXWoA5tzqFB8QrRPm6aqfhkZNo0MUXg-jp6M_RR94s-O-X7FYEFWGwbxPXEFKR4op8AmHcj8zuxhPO0q0_ZAXJYIAmILNeG_aX3d.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=131605",
           "author": "Crypto Times 編集部",

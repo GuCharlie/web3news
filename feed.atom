@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-12T10:15:49.465Z</updated>
+    <updated>2025-03-12T10:41:30.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米国仮想通貨ETFの審査状況まとめ　ソラナやXRP・ドージなど]]></title>
+        <id>https://coinpost.jp/?p=601804</id>
+        <link href="https://coinpost.jp/?p=601804"/>
+        <updated>2025-03-12T10:30:39.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインやイーサリアムに続き、ソラナやリップルなど多数のアルトコインETF申請が進行中。2025年の米国規制環境で加速するETF審査状況を整理しました]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインの4年間の年平均成長率、過去最低の8%に低下──ETH/BTCレシオは2020年以来の最低水準に]]></title>
+        <id>https://www.coindeskjapan.com/?p=281895</id>
+        <link href="https://www.coindeskjapan.com/281895/"/>
+        <updated>2025-03-12T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Glassnodeのデータによると、ビットコイン（BTC）の4年間の年平均成長率（Compounded Annual Growth Rate：CAGR）が過去最 ...
+ビットコインの4年間の年平均成長率、過去最低の8%に低下──ETH/BTCレシオは2020年以来の最低水準に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>James Van Straten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、短期保有者の売りが市場に圧力　「需要の勢いが低下」＝グラスノード]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-high-entry-buyers-sell-pressure-btc-retrace-possible</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-high-entry-buyers-sell-pressure-btc-retrace-possible?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-12T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[オンチェーン分析企業グラスノードによれば、1月に史上最高値の10万9000ドル付近でビットコイン（BTC）を購入した投資家が、価格下落に伴いパニック売りを始めている。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【3/12話題】メタプラネットが約20億円でビットコイン追加購入、SBI VCトレードがUSDCをベータ版でリリースなど（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=457980</id>
@@ -2155,47 +2186,6 @@ DOGE、ADA、XRPが10%下落──恐怖と貪欲指数は「極度の恐怖」�
         <summary type="html"><![CDATA[米国のスコット・ベッセント財務長官は3月7日、ホワイトハウスの仮想通貨サミットで、米国政府がステーブルコインを活用し、米ドルの世界基軸通貨としての地位を維持する方針を明らかにした。]]></summary>
         <author>
             <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ大統領、暗号資産サミットで方針転換の姿勢鮮明に]]></title>
-        <id>https://www.coindeskjapan.com/?p=280414</id>
-        <link href="https://www.coindeskjapan.com/280414/"/>
-        <updated>2025-03-07T22:39:49.000Z</updated>
-        <summary type="html"><![CDATA[ドナルド・トランプ米大統領は、3月7日にホワイトハウスで開かれた初の暗号資産（仮想通貨）サミットで、暗号資産業界が新たな地平に立っていることを保証し、業界が薄々 ...
-トランプ大統領、暗号資産サミットで方針転換の姿勢鮮明に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Jesse Hamilton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国通貨監督庁、銀行仮想通貨業務の規制を大幅緩和]]></title>
-        <id>https://coinpost.jp/?p=601079</id>
-        <link href="https://coinpost.jp/?p=601079"/>
-        <updated>2025-03-07T22:35:08.000Z</updated>
-        <summary type="html"><![CDATA[米国通貨監督庁が新たな解釈指針書を公表し、銀行による仮想通貨カストディ業務やステーブルコイン活動を正式に許可。事前承認要件を撤廃し参入障壁を低減することで、金融イノベーションの促進を図る。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ホワイトハウスの仮想通貨担当サックス氏、ビットコインを「希少な戦略資産」と強調]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-scarce-valuable-us-strategic-reserve-david-sacks</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-scarce-valuable-us-strategic-reserve-david-sacks?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-07T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ホワイトハウスの仮想通貨政策責任者であるデビッド・サックス氏は、米政府がビットコインを特別な準備資産として扱う決定について詳しく説明し、「希少な」デジタル資産として長期的に国家に利益をもたらす可能性があると強調した。]]></summary>
-        <author>
-            <name>Cointelegraph  Sam Bourgi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ホワイトハウスの仮想通貨担当サックス氏、ビットコインを「希少な戦略資産」と強調]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-scarce-valuable-us-strategic-reserve-david-sacks</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-scarce-valuable-us-strategic-reserve-david-sacks?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-07T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ホワイトハウスの仮想通貨政策責任者であるデビッド・サックス氏は、米政府がビットコインを特別な準備資産として扱う決定について詳しく説明し、「希少な」デジタル資産として長期的に国家に利益をもたらす可能性があると強調した。]]></summary>
-        <author>
-            <name>Cointelegraph  Sam Bourgi</name>
         </author>
     </entry>
 </feed>

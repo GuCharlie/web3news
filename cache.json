@@ -1152,6 +1152,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=457963",
+          "author": "OtsugaShinya",
+          "description": "SGXが今年後半に「ビットコイン無期限先物取引」提供か シンガポール最大の取引所グループであるシンガポール証券取引所（SGX）が、ビットコインの無期限先物取引を提供する予定であると「ブルームバーグ」が3月10日に発表した […]",
+          "link": "https://www.neweconomy.jp/posts/457963",
+          "publishedOn": "2025-03-12T06:55:54.000Z",
+          "wordCount": 732,
+          "title": "シンガポール取引所、今年後半に「ビットコイン無期限先物取引」開始か＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/12155546/db0748b4e4e8a62a66b86125944f010e.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=457953",
           "author": "OtsugaShinya",
           "description": "SBI VCトレードがUSDCをベータ版でリリース 国内暗号資産（仮想通貨）取引所SBI VCトレードが、米サークル（Circle Internet Financial）発行の米ドル建てステーブルコイン「USDC」をベー […]",
@@ -1519,6 +1529,21 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/sec-delays-decision-xrp-solana-litecoin-dogecoin-etfs",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "米証券取引委員会（SEC）は、XRP（XRP）、ソラナ（SOL）、ライトコイン（LTC）、ドージコイン（DOGE）を対象とした複数の上場投資信託（ETF）に関する承認決定期限を延期した。",
+          "link": "https://jp.cointelegraph.com/news/sec-delays-decision-xrp-solana-litecoin-dogecoin-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-12T06:55:00.000Z",
+          "wordCount": null,
+          "title": "米証券取引委員会（SEC）、XRP・ソラナ・ライトコイン・ドージコインのETF審査を延期",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2UxM2EtYTIzNS03MmJmLTg1ODUtNWZlMjlkZjM3NzU0.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2UxM2EtYTIzNS03MmJmLTg1ODUtNWZlMjlkZjM3NzU0.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0312",
           "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
           "description": "昨日のBTC相場は反発。",
@@ -1532,6 +1557,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zMDc4MTViMTAyMTMwYmY0OWNjMjQ1OTdlZDE4ZWQ5Mi5qcGc=.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/senator-cynthia-lummis-new-bitcoin-act-one-million-btc",
+          "author": "Cointelegraph  Felix Ng",
+          "description": "シンシア・ルミス米上院議員が再提出したBITCOIN法により、米国政府が新たに設立した準備金の一環として、100万BTC超を保有する可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/senator-cynthia-lummis-new-bitcoin-act-one-million-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-12T05:28:00.000Z",
+          "wordCount": null,
+          "title": "米国のルミス上院議員、BITCOIN法を再提出 — トランプ政権の大統領令と連携深める",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzAzMmUtOGJhNS03OGI0LTgxYWQtOTRiZjVlYzFhNzkw.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzAzMmUtOGJhNS03OGI0LTgxYWQtOTRiZjVlYzFhNzkw.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/texas-lawmaker-bitcoin-reserve-legislation",

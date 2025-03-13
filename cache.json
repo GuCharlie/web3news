@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=282292",
+          "author": "増田隆幸",
+          "description": "日本暗号資産ビジネス協会（JCBA）は3月13日、「RWA（現実資産等）トークンの利活用に関するガイドライン」等を公表した。 このガイドラインは、経済産業省「W ...\n「RWAトークンの利活用に関するガイドライン」公表：日本暗号資産ビジネス協会 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/282292/",
+          "publishedOn": "2025-03-13T07:10:00.000Z",
+          "wordCount": 1260,
+          "title": "「RWAトークンの利活用に関するガイドライン」公表：日本暗号資産ビジネス協会",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/スクリーンショット-2025-03-13-13.37.56-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=282324",
           "author": "栃山直樹",
           "description": "シンガポールに拠点を置きトークン発行支援を行うBOBG （ボブジー）は3月13日、ソニーグループとスターテイル（Startale Group）の合弁会社Sony ...\nトークン発行支援のBOBG、ソニー「Soneium」と連携 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -514,6 +524,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=602035",
+          "author": "AKIRA.H",
+          "description": "米コインベースが上場基準適合性の見直しにより仮想通貨FLOKI、TURBO、GIGAの取引を2025年4月に停止。これら上場直後のミームコインは価格が4分の1細に下落している。",
+          "link": "https://coinpost.jp/?p=602035",
+          "publishedOn": "2025-03-13T04:04:35.000Z",
+          "wordCount": 3234,
+          "title": "米コインベース、ミームコイン3銘柄の取引を一時停止へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/coinbase-thumbnail0.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/coinbase-thumbnail0.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=602006",
+          "author": "S.Ninomiya",
+          "description": "トランプ大統領の関税政策による市場の不確実性が高まる中、ビットコインETFは7日連続で資金流出し、3月11日には3.7億ドルの純流出を記録。一方でビットコインは前日比+1.9%の83,832ドルに反発した。",
+          "link": "https://coinpost.jp/?p=602006",
+          "publishedOn": "2025-03-13T03:21:06.000Z",
+          "wordCount": 3222,
+          "title": "ビットコイン反発で84000ドル台を回復、ETFから6週連続の資金流出続く中",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-czar-criticize.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-czar-criticize.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=601997",
           "author": "A.Yamada",
@@ -1648,6 +1688,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/lazarus-group-deposits-400-eth-into-tornado-cash-new-malware",
+          "author": "Cointelegraph  Martin Young",
+          "description": "北朝鮮に関連するハッカー集団ラザルスが、大規模なハッキングの後、仮想通貨をミキシングサービス経由で移動させている。",
+          "link": "https://jp.cointelegraph.com/news/lazarus-group-deposits-400-eth-into-tornado-cash-new-malware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-13T06:24:00.000Z",
+          "wordCount": null,
+          "title": "北朝鮮のハッカー集団ラザルス、ミキサーを利用して仮想通貨を移動",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NThkZTYtNDYzOC03MDU1LWE4YTctZGE1ODkyYzA5NWMx.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NThkZTYtNDYzOC03MDU1LWE4YTctZGE1ODkyYzA5NWMx.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/india-arrest-aleksej-besciokov-garantex",
           "author": "Cointelegraph  Turner Wright",

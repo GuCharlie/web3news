@@ -615,6 +615,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=602196",
+          "author": "菊谷ルイス",
+          "description": "動画共有プラットフォームRumbleが188ビットコインを約1700万ドルで購入した。インフレ対策としての仮想通貨投資戦略を本格化し、Truth Socialと関連するデジタルエコシステムでの存在感を強化する。",
+          "link": "https://coinpost.jp/?p=602196",
+          "publishedOn": "2025-03-13T22:50:05.000Z",
+          "wordCount": 3177,
+          "title": "米Rumble、25億円のビットコイン追加購入を発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/bitcoin-reserve-toly-against.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/bitcoin-reserve-toly-against.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=602197",
+          "author": "K.Kobayashi",
+          "description": "リップル社は、仮想通貨の決済手段やサービスをドバイ国際金融センターで提供するための認可を取得したことを発表。ステーブルコインの普及促進も期待している。",
+          "link": "https://coinpost.jp/?p=602197",
+          "publishedOn": "2025-03-13T22:35:00.000Z",
+          "wordCount": 3224,
+          "title": "リップル社、ドバイ国際金融センターの事業認可を取得　ステーブルコイン普及も期待",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103002.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103002.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=602193",
           "author": "菊谷ルイス",
           "description": "米大手資産運用会社フランクリン・テンプルトンが現物ソラナETFの上場申請を実施。ステーキングによる追加報酬も計画しており、前日のXRP ETF申請に続く動きである。",
@@ -1838,6 +1868,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/eth-falling-20-will-trigger-336-m-liquidations",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "現実世界資産（RWA）レンディングプラットフォーム「RAAC」の創業者であるケビン・ラッシャー氏によると、イーサ（ETH）の価格がさらに20％下落すれば、分散型金融（DeFi）市場で最大3億3600万ドル規模の清算が連鎖的に発生する可能性があるという。",
+          "link": "https://jp.cointelegraph.com/news/eth-falling-20-will-trigger-336-m-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-13T22:55:00.000Z",
+          "wordCount": null,
+          "title": "イーサリアムが20％下落すれば、3億3600万ドル規模のDeFi清算が発生する可能性",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NThmYzYtZDdiNS03ZjQ1LWJhZGMtNmJlNTg2NDEyZmJl.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NThmYzYtZDdiNS03ZjQ1LWJhZGMtNmJlNTg2NDEyZmJl.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/ethereum-average-gas-fees-95-percent-drop-dencun",
+          "author": "Cointelegraph  Ezra Reguerra",
+          "description": "イーサリアムにおける最も重要なネットワーク改善の一つとされる「Dencun（デンクン）アップグレード」から1年が経過し、イーサリアムの平均ガス代は95％下落した。",
+          "link": "https://jp.cointelegraph.com/news/ethereum-average-gas-fees-95-percent-drop-dencun?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-13T22:43:00.000Z",
+          "wordCount": null,
+          "title": "Dencunアップグレードから1年、イーサリアムの平均ガス代が95％下落",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NThmMTMtOTE3ZC03OTI2LTk5NmQtOGM5YmZhZDg5OWZj.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NThmMTMtOTE3ZC03OTI2LTk5NmQtOGM5YmZhZDg5OWZj.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/hyperliquid-ups-margin-rules-4m-liquidation-loss",
+          "author": "Cointelegraph  Alex O’Donnell",
+          "description": "ハイパーリキッド（Hyperliquid）は、流動性プールが大規模なイーサ（ETH）の清算によって数百万ドルの損失を被ったことを受け、トレーダー向けの証拠金要件を引き上げたと発表した。",
+          "link": "https://jp.cointelegraph.com/news/hyperliquid-ups-margin-rules-4m-liquidation-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-13T22:25:00.000Z",
+          "wordCount": null,
+          "title": "ハイパーリキッド、400万ドルの清算損失を受け証拠金要件を引き上げ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTkwODYtZmNhNS03ZmE3LTljMDYtMjE2MWFkYmM5MGFm.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTkwODYtZmNhNS03ZmE3LTljMDYtMjE2MWFkYmM5MGFm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/senate-banking-committee-advances-genius-stablecoin-bill",
           "author": "Cointelegraph  Vince Quill",

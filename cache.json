@@ -670,16 +670,6 @@
           "wordCount": 1373,
           "title": "ビットコイン、8万ドル割れ──暗号資産市場は悪化の一途",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/shutterstock_2082587002.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=280950",
-          "author": "Shaurya Malwa",
-          "description": "暗号資産（仮想通貨）の強気派は、日本の20年物国債利回りが2008年以来の高水準に急騰したことで、ビットコイン（BTC）などのリスク資産を敬遠する動きにつながる ...\nビットコイン、7万ドルまで下落する可能性──日本の国債利回りが17年ぶりの高水準に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/280950/",
-          "publishedOn": "2025-03-10T10:00:00.000Z",
-          "wordCount": 1333,
-          "title": "ビットコイン、7万ドルまで下落する可能性──日本の国債利回りが17年ぶりの高水準に",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/10/shutterstock_2178321981.jpg"
         }
       ]
     },
@@ -694,6 +684,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=602383",
+          "author": "菊谷ルイス",
+          "description": "米投資運用会社レックス・シェアーズが、ビットコインを財務戦略に組み込む企業の転換社債に投資するETF「BMAX」を発表。ストラテジー社債券が81%を占め、個人投資家にマイケル・セイラー流ビットコイン戦略への新たな投資機会を提供するものだ。",
+          "link": "https://coinpost.jp/?p=602383",
+          "publishedOn": "2025-03-14T21:50:56.000Z",
+          "wordCount": 3175,
+          "title": "米レックス・シェアーズ、セイラー流ビットコイン戦略への新たな投資機会を提供",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/microstrategy-back-in-action-_.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/microstrategy-back-in-action-_.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=602376",
           "author": "菊谷ルイス",
@@ -2033,6 +2038,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/world-liberty-financial-token-sales-550-million",
+          "author": "Cointelegraph  Ezra Reguerra",
+          "description": "トランプ家が関与する分散型金融（DeFi）プロジェクト「ワールド・リバティ・フィナンシャル（WLFI）」が、2回目の公開トークンセールを完了し、2億5000万ドルを調達した。",
+          "link": "https://jp.cointelegraph.com/news/world-liberty-financial-token-sales-550-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-14T21:45:00.000Z",
+          "wordCount": null,
+          "title": "トランプ家が関与する「ワールド・リバティ・フィナンシャルl」、2回目のトークンセールで2億5000万ドル調達",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTkzODEtOTg5Mi03MjAwLTg5Y2UtMWM0NGFjMDVkYjc0.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTkzODEtOTg5Mi03MjAwLTg5Y2UtMWM0NGFjMDVkYjc0.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/russia-bitcoin-oil-trade-crypto-payments",
           "author": "Cointelegraph  Helen Partz",

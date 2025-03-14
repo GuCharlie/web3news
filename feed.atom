@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-14T22:13:18.918Z</updated>
+    <updated>2025-03-14T22:37:55.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VanEck、業界初のアバランチ現物ETF提供を目指す]]></title>
+        <id>https://coinpost.jp/?p=602389</id>
+        <link href="https://coinpost.jp/?p=602389"/>
+        <updated>2025-03-14T22:15:39.000Z</updated>
+        <summary type="html"><![CDATA[米資産運用大手ヴァンエックが仮想通貨アバランチ（AVAX）に特化したETFのS-1フォームをSECに提出。SEC委員長不在の中、複数のアルトコインETF審査が延長される状況だ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米レックス・シェアーズ、セイラー流ビットコイン戦略への新たな投資機会を提供]]></title>
         <id>https://coinpost.jp/?p=602383</id>
@@ -3132,16 +3142,6 @@ ETH、1900ドル割れ──約191億円相当のETHを担保としたDeFiロー
 投稿 仮想通貨XRP、資金流入でビットコイン上回る は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKJ、「IOST」保有者へ「IOST（BEP20）」エアドロ実施へ]]></title>
-        <id>https://www.neweconomy.jp/?p=457298</id>
-        <link href="https://www.neweconomy.jp/posts/457298"/>
-        <updated>2025-03-10T10:35:57.000Z</updated>
-        <summary type="html"><![CDATA[OKJがIOSTホルダー向けにエアドロ 国内暗号資産（仮想通貨）取引所OKJが、同取引所の暗号資産アイオーエスティー（IOST）保有者向けにエアドロップを実施することを3月10日に発表した。エアドロップされるのは、トーク […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>

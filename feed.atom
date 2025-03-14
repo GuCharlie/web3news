@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-14T10:15:41.569Z</updated>
+    <updated>2025-03-14T10:40:10.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム「Pectra」アップグレード、メインネット実装前にテストネット「Hoodi」立ち上げ]]></title>
+        <id>https://www.neweconomy.jp/?p=458788</id>
+        <link href="https://www.neweconomy.jp/posts/458788"/>
+        <updated>2025-03-14T10:26:32.000Z</updated>
+        <summary type="html"><![CDATA[「Pectra」メインネット実装前にテストネット「Hoodi」立ち上げ イーサリアム（Ethereum）の大型アップグレード「ペクトラ（Pectra）」をテストネット「ホルスキー（Holesky）」および「セポリア（Se […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「成長しなければ、終わり」マネックス・松本氏がナスダック上場の次に描く戦略【GFTN 2025】]]></title>
+        <id>https://www.coindeskjapan.com/?p=282615</id>
+        <link href="https://www.coindeskjapan.com/282615/"/>
+        <updated>2025-03-14T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[3月3日から7日まで都内で開催された「GFTNフォーラム・ジャパン2025」内で5日、マネックスグループ取締役会議長兼代表執行役会長の松本大氏とN.Avenue ...
+「成長しなければ、終わり」マネックス・松本氏がナスダック上場の次に描く戦略【GFTN 2025】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>増田隆幸</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム、「ペクトラ」アップグレードに向けた新たなテストネットを立ち上げ]]></title>
         <id>https://www.coindeskjapan.com/?p=282616</id>
@@ -3300,36 +3321,6 @@ DOGE、ADA、XRPが10%下落──恐怖と貪欲指数は「極度の恐怖」�
         <summary type="html"><![CDATA[世界最大の中央集権型取引所であるバイナンスは、ユーザーがプラットフォーム上のトークンの上場や上場廃止を投票によって決定できるコミュニティ共同ガバナンス体制を発表した。]]></summary>
         <author>
             <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CZ、イーロン・マスク氏にXでのボット禁止を求める]]></title>
-        <id>https://jp.cointelegraph.com/news/cz-urges-elon-musk-ban-bots-x</id>
-        <link href="https://jp.cointelegraph.com/news/cz-urges-elon-musk-ban-bots-x?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-09T22:33:00.000Z</updated>
-        <summary type="html"><![CDATA[バイナンス共同創業者のジャオ・チャンポン（CZ）氏は、イーロン・マスク氏に対し、X（旧ツイッター）からボット（自動で投稿を繰り返すアカウント）を禁止するよう求めた。これらのボットはコンテンツの拡散や組織的な攻撃に使われている。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年時点で世界人口の4％がビットコインを保有＝調査]]></title>
-        <id>https://jp.cointelegraph.com/news/only-4-world-population-holds-bitcoin-2025</id>
-        <link href="https://jp.cointelegraph.com/news/only-4-world-population-holds-bitcoin-2025?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-09T22:27:00.000Z</updated>
-        <summary type="html"><![CDATA[現在、世界人口のわずか4％しかビットコイン（BTC）を保有しておらず、保有率が最も高いのは米国で、推定14％の人々がBTCを所有している。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイケル・セイラー氏、米政府にビットコイン供給の25％購入を提案]]></title>
-        <id>https://jp.cointelegraph.com/news/strategy-michael-saylor-bitcoin-purchase-us-government-donald-trump</id>
-        <link href="https://jp.cointelegraph.com/news/strategy-michael-saylor-bitcoin-purchase-us-government-donald-trump?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-09T22:17:00.000Z</updated>
-        <summary type="html"><![CDATA[ストラテジー創業者のマイケル・セイラー氏は、米国政府がビットコイン戦略的準備金のために、今後10年間でビットコインの総供給量の最大25％を取得することを提案している。]]></summary>
-        <author>
-            <name>Cointelegraph  Ciaran Lyons</name>
         </author>
     </entry>
 </feed>

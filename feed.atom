@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-14T09:36:59.613Z</updated>
+    <updated>2025-03-14T10:15:41.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム、「ペクトラ」アップグレードに向けた新たなテストネットを立ち上げ]]></title>
+        <id>https://www.coindeskjapan.com/?p=282616</id>
+        <link href="https://www.coindeskjapan.com/282616/"/>
+        <updated>2025-03-14T10:10:00.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム（Ethereum）の次期アップグレードであるペクトラ（Pectra）の2回のテストで問題が発生したことを受け、ネットワークのコア開発者たちは3月1 ...
+イーサリアム、「ペクトラ」アップグレードに向けた新たなテストネットを立ち上げ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Sam Kessler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFiにおけるビットコインは「未開拓の機会」：バイナンス・リサーチ]]></title>
         <id>https://www.coindeskjapan.com/?p=282565</id>
@@ -3319,27 +3330,6 @@ DOGE、ADA、XRPが10%下落──恐怖と貪欲指数は「極度の恐怖」�
         <summary type="html"><![CDATA[ストラテジー創業者のマイケル・セイラー氏は、米国政府がビットコイン戦略的準備金のために、今後10年間でビットコインの総供給量の最大25％を取得することを提案している。]]></summary>
         <author>
             <name>Cointelegraph  Ciaran Lyons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインがさらに3％下落｜次の下値目標は6万9,000ドルか]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-slides-3-btc-price-69k-next</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-slides-3-btc-price-69k-next?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-09T22:02:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は下落を続けており、7万5,000ドルまで暴落するリスクが依然として指摘されている。]]></summary>
-        <author>
-            <name>Cointelegraph  William Suberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラジル郵便局、業務改善にブロックチェーンとAIを活用へ]]></title>
-        <id>https://www.coindeskjapan.com/?p=280489</id>
-        <link href="https://www.coindeskjapan.com/280489/"/>
-        <updated>2025-03-09T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ブラジル郵便局Correios（コレイオス）は、ブロックチェーンおよびAIの企業と専門家を対象に、物流と業務管理のためのソリューション開発に向けた事前選考プロセ ...
-ブラジル郵便局、業務改善にブロックチェーンとAIを活用へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Francisco Rodrigues</name>
         </author>
     </entry>
 </feed>

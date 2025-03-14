@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-14T14:13:38.247Z</updated>
+    <updated>2025-03-14T14:39:02.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインと金価格、12年続いた上昇トレンドを割り込む — 強気相場の終焉か？]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-gold-price-12-year-support-record-3k</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-gold-price-12-year-support-record-3k?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-14T13:55:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は3月14日、金（XAU）との比較で12年以上続いた上昇トレンドラインを割り込んだ。]]></summary>
+        <author>
+            <name>Cointelegraph  Yashu Gola</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サークル、10億ドル規模のトークン化米国債発行会社ハッシュノートのバミューダライセンスへの移行を計画]]></title>
         <id>https://www.coindeskjapan.com/?p=282698</id>
@@ -3281,48 +3291,6 @@ DOGE、ADA、XRPが10%下落──恐怖と貪欲指数は「極度の恐怖」�
         <summary type="html"><![CDATA[BlockstreamがBTC関連ファンド設立へ ビットコイン（BTC）基盤技術を開発するブロックストリーム（Blockstream）が、数十億ドル規模の資金調達を完了し、機関投資家向けの3つのビットコイン関連ファンドを […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、不正マーケットメイカーを排除]]></title>
-        <id>https://crypto-times.jp/?p=131533</id>
-        <link href="https://crypto-times.jp/news-binance-removes-rogue-market-makers/"/>
-        <updated>2025-03-10T02:35:40.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産取引所バイナンスは、GoPlus Security（GPS）のマーケットメイカー（MM）を調査する過程で、同一の業者がMyShell（SHELL）のマーケットメイキングにも関与していることを突き止めました。この業 […]
-投稿 バイナンス、不正マーケットメイカーを排除 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットワイズ、ビットコイン（BTC）と金（ゴールド）の複合型ETPを欧州で公開]]></title>
-        <id>https://www.neweconomy.jp/?p=457057</id>
-        <link href="https://www.neweconomy.jp/posts/457057"/>
-        <updated>2025-03-10T02:32:09.000Z</updated>
-        <summary type="html"><![CDATA[BitwiseがBTCと金のETPを欧州で公開 米暗号資産（仮想通貨）運用会社ビットワイズ（Bitwise）が提供する、暗号資産ビットコイン（BTC）と金（ゴールド）の価格に連動する複合型ETP（上場投資商品）「ディアマ […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Japan、「HODLer Airdrops」でゴープラスセキュリティ (GPS) 取扱い開始]]></title>
-        <id>https://www.neweconomy.jp/?p=457051</id>
-        <link href="https://www.neweconomy.jp/posts/457051"/>
-        <updated>2025-03-10T02:20:35.000Z</updated>
-        <summary type="html"><![CDATA[HODLer Airdropsでゴープラスセキュリティ (GPS)取り扱い開始 国内暗号資産（仮想通貨）取引所バイナンスジャパン（Binance Japan）提供のローンチプールサービス「HODLer Airdrops」 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーブルコイン、ST──トランプ政権下で日本がとるべき戦略は【N.Avenue club Summit企業発表会】]]></title>
-        <id>https://www.coindeskjapan.com/?p=279604</id>
-        <link href="https://www.coindeskjapan.com/279604/"/>
-        <updated>2025-03-10T02:15:52.000Z</updated>
-        <summary type="html"><![CDATA[CoinDesk JAPANを運営するN.Avenueが2023年7月に開始した「N.Avenue club」は、Web3をリサーチ・推進する企業リーダーを中心 ...
-ステーブルコイン、ST──トランプ政権下で日本がとるべき戦略は【N.Avenue club Summit企業発表会】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>CoinDesk JAPAN</name>
         </author>
     </entry>
 </feed>

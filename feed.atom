@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-14T15:38:23.847Z</updated>
+    <updated>2025-03-14T16:17:51.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは8万4000ドル越え、重要レジスタンス突破で強気転換となるか？]]></title>
+        <id>https://jp.cointelegraph.com/news/watch-bitcoin-price-levels-btc-84-k-btc-key-resistance</id>
+        <link href="https://jp.cointelegraph.com/news/watch-bitcoin-price-levels-btc-84-k-btc-key-resistance?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-14T15:55:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は3月14日のウォール街市場オープン時点で8万3000ドルを突破し、トレーダーは強気転換の条件を探っている。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025年の仮想通貨市場の急落　歴史上最も厳しいサイクルなのか？]]></title>
         <id>https://jp.cointelegraph.com/news/worst-crypto-cycle-community-history-bitcoin-price</id>
@@ -3227,38 +3237,6 @@ DOGE、ADA、XRPが10%下落──恐怖と貪欲指数は「極度の恐怖」�
         <summary type="html"><![CDATA[仮想通貨投資サービス企業Riverがビットコインの普及状況についてレポートを発表。まだBTC時価総額は潜在的な市場規模の3％未満だと意見し、今後の普及要因を解説した。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Axie Infinity新作、異例の事前登録100万超え]]></title>
-        <id>https://crypto-times.jp/?p=131547</id>
-        <link href="https://crypto-times.jp/news-new-axie-infinity-game-exceeds-1-million-pre-registrations/"/>
-        <updated>2025-03-10T03:48:32.000Z</updated>
-        <summary type="html"><![CDATA[Axie Infinityの新作ゲーム「Atia’s Legacy」の事前登録キャンペーンが始まり、開始から65時間で71万5千件の登録があったと報告されました。 Axie Infinity: Atia’s  […]
-投稿 Axie Infinity新作、異例の事前登録100万超え は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ大統領、8月までにステーブルコイン法案に署名する意向示す]]></title>
-        <id>https://www.neweconomy.jp/?p=457168</id>
-        <link href="https://www.neweconomy.jp/posts/457168"/>
-        <updated>2025-03-10T03:43:18.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産サミットにて発表 米ホワイトハウスで初となる、暗号資産（仮想通貨）のサミットが3月7日に開催され、ドナルド・トランプ（Donald Trump）大統領は8月までにステーブルコイン法案へ署名する意向を示した。各社が […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分析プラットフォームArkham、暗号資産インフルエンサー追跡タグを導入]]></title>
-        <id>https://crypto-times.jp/?p=131541</id>
-        <link href="https://crypto-times.jp/news-arkham-introduces-crypto-influencer-tracking-tag/"/>
-        <updated>2025-03-10T03:40:08.000Z</updated>
-        <summary type="html"><![CDATA[ブロックチェーン分析プラットフォームのArkham Intelligenceは、「キーオピニオンリーダー（KOL）タグ」機能の導入を発表しました。これはフォロワー数が10万を超える暗号資産インフルエンサーや著名人に関連す […]
-投稿 分析プラットフォームArkham、暗号資産インフルエンサー追跡タグを導入 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Troll</name>
         </author>
     </entry>
 </feed>

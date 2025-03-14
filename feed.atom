@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-14T10:40:10.725Z</updated>
+    <updated>2025-03-14T11:12:24.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アンバーグループのAmber International Holding、「AMBR」でナスダックに上場]]></title>
+        <id>https://www.neweconomy.jp/?p=458794</id>
+        <link href="https://www.neweconomy.jp/posts/458794"/>
+        <updated>2025-03-14T10:41:34.000Z</updated>
+        <summary type="html"><![CDATA[Amber International Holdingがナスダックに上場 Amber Group（アンバーグループ）で機関投資家や富裕層（HNWI） 向けの資産管理ソリューション「Amber Premium」を提供するA […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム「Pectra」アップグレード、メインネット実装前にテストネット「Hoodi」立ち上げ]]></title>
         <id>https://www.neweconomy.jp/?p=458788</id>
@@ -3311,16 +3321,6 @@ DOGE、ADA、XRPが10%下落──恐怖と貪欲指数は「極度の恐怖」�
         <summary type="html"><![CDATA[投資のプロが選ぶ仮想通貨取引所おすすめランキング最新版。IEO投資、ビットコイン（BTC）、イーサリアム（ETH）、XRP（リップル）、ソラナ（SOL）など人気銘柄の取扱いやユーザー評判を初心者目線で徹底比較。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、仮想通貨上場にコミュニティ投票メカニズムを導入]]></title>
-        <id>https://jp.cointelegraph.com/news/binance-community-voting-mechanism-token-listings</id>
-        <link href="https://jp.cointelegraph.com/news/binance-community-voting-mechanism-token-listings?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-09T22:48:00.000Z</updated>
-        <summary type="html"><![CDATA[世界最大の中央集権型取引所であるバイナンスは、ユーザーがプラットフォーム上のトークンの上場や上場廃止を投票によって決定できるコミュニティ共同ガバナンス体制を発表した。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
         </author>
     </entry>
 </feed>

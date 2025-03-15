@@ -690,16 +690,6 @@
           "wordCount": 1284,
           "title": "ビットコインの資金調達率は揺れ動き、底値が見えない",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/5774b4f985abc280fe4750efad91c314f3740802-1043x590-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=281183",
-          "author": "Krisztian Sandor",
-          "description": "暗号資産は3月10日、米国時間序盤に株式を含むリスク資産が急落する中、下げ幅を拡大した。 ストラテジー社による210億ドル（約3兆円、1ドル＝147円換算）の資 ...\nビットコイン、8万ドル割れ──暗号資産市場は悪化の一途 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/281183/",
-          "publishedOn": "2025-03-10T18:02:36.000Z",
-          "wordCount": 1373,
-          "title": "ビットコイン、8万ドル割れ──暗号資産市場は悪化の一途",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/shutterstock_2082587002.jpg"
         }
       ]
     },
@@ -714,6 +704,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=602467",
+          "author": "A.Yamada",
+          "description": "米国の下院議員が、トランプ大統領によるビットコイン準備金設立の大統領令を法律化する法案を提出した。政権交代後も継続する仕組みを構築することを目指す。",
+          "link": "https://coinpost.jp/?p=602467",
+          "publishedOn": "2025-03-15T04:50:04.000Z",
+          "wordCount": 3187,
+          "title": "米下院議員、トランプ氏のビットコイン準備金大統領令を法律化する法案を提出　政権交代後も継続狙う",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/BTC-Reserve_0124.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/BTC-Reserve_0124.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=602490",
+          "author": "菊谷ルイス",
+          "description": "デビッド・サックス米AI・仮想通貨特命官が利益相反を回避するため就任前に2億ドル超の仮想通貨関連投資を売却。ビットコイン、イーサリアム、コインベース株など含む大規模な資産売却はトランプ政権内で異例の対応となった。",
+          "link": "https://coinpost.jp/?p=602490",
+          "publishedOn": "2025-03-15T04:20:21.000Z",
+          "wordCount": 3201,
+          "title": "トランプ大統領のサックス仮想通貨特命官、就任前に300億円相当の仮想通貨投資を売却",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/07/shutterstock_1159933525-2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/07/shutterstock_1159933525-2.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=602449",
           "author": "A.Yamada",
@@ -2093,6 +2113,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/vaneck-files-avalanche-etf",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "資産運用会社ヴァンエックは、アバランチ（AVAX）の上場投資信託（ETF）を米証券取引委員会（SEC）に申請し、アバランチへの投資機会を提供しようとしている。",
+          "link": "https://jp.cointelegraph.com/news/vaneck-files-avalanche-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-15T05:55:00.000Z",
+          "wordCount": null,
+          "title": "ヴァンエック、アバランチETFをSECに申請 ー 仮想通貨ETF競争が加速",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTk2YzYtNGUyMi03YThjLWJiYjAtYmNlYTIzMGM1Mjg4.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTk2YzYtNGUyMi03YThjLWJiYjAtYmNlYTIzMGM1Mjg4.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bolivia-to-use-crypto-to-pay-for-energy-imports",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "ロイターの報道によれば、ボリビアの国営エネルギー企業YPFBが、エネルギー輸入の支払いに仮想通貨を利用する計画を進めている。この動きは、同国が外貨準備の不足と国内ガス生産の減少に直面していることを受けたものだという。",
+          "link": "https://jp.cointelegraph.com/news/bolivia-to-use-crypto-to-pay-for-energy-imports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-15T05:20:00.000Z",
+          "wordCount": null,
+          "title": "ボリビアの国営エネルギー企業、仮想通貨を利用した決済を計画＝報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzYxODYtOGIwOS03NmIxLThkOTYtZTkxOTYyZTg4YmM2.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzYxODYtOGIwOS03NmIxLThkOTYtZTkxOTYyZTg4YmM2.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/toshimurin-bitcoin-price-analysis-20250315",
+          "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
+          "description": "コインテレグラフのコメンテーターでトレーダー、トシムリン氏が久しぶりに今後のビットコインの相場展望について最新記事を寄稿した。",
+          "link": "https://jp.cointelegraph.com/news/toshimurin-bitcoin-price-analysis-20250315?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-15T03:00:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン反発の兆し！ しかし油断は禁物、2025年は乱高下の年に？【仮想通貨相場】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNTE4OTYwYTFhODFjY2Q4MTRjYTNkMzViNjMwYzkyMi5wbmc=.png",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNTE4OTYwYTFhODFjY2Q4MTRjYTNkMzViNjMwYzkyMi5wbmc=.png"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/price-analysis-3-14-btc-eth-xrp-bnb-sol-ada-doge-pi-leo-link",
           "author": "Cointelegraph  Rakesh Upadhyay",
@@ -3934,16 +3999,6 @@
           "wordCount": 597,
           "title": "ビットコイン、80,000ドル割れ｜さらなる下落の可能性はあるのか",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_2547233649-scaled.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=131588",
-          "author": "アラタ &#124; Shingo Arai",
-          "description": "Move言語を活用した新興ブロックチェーン「Movement Network」が、パブリックメインネットβ版を正式に公開しました。今回のリリースにより、開発者は承認なしでスマートコントラクトをデプロイでき、ユーザーもパブ […]\n投稿 Movement Network、パブリックメインネットβのローンチへ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-movement-public-mainnet-launch/",
-          "publishedOn": "2025-03-10T15:25:34.000Z",
-          "wordCount": 622,
-          "title": "Movement Network、パブリックメインネットβのローンチへ",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2024/12/movement_tge.png"
         }
       ]
     }

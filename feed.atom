@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-15T02:37:06.196Z</updated>
+    <updated>2025-03-15T06:18:59.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ヴァンエック、アバランチETFをSECに申請 ー 仮想通貨ETF競争が加速]]></title>
+        <id>https://jp.cointelegraph.com/news/vaneck-files-avalanche-etf</id>
+        <link href="https://jp.cointelegraph.com/news/vaneck-files-avalanche-etf?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-15T05:55:00.000Z</updated>
+        <summary type="html"><![CDATA[資産運用会社ヴァンエックは、アバランチ（AVAX）の上場投資信託（ETF）を米証券取引委員会（SEC）に申請し、アバランチへの投資機会を提供しようとしている。]]></summary>
+        <author>
+            <name>Cointelegraph  Sam Bourgi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ボリビアの国営エネルギー企業、仮想通貨を利用した決済を計画＝報道]]></title>
+        <id>https://jp.cointelegraph.com/news/bolivia-to-use-crypto-to-pay-for-energy-imports</id>
+        <link href="https://jp.cointelegraph.com/news/bolivia-to-use-crypto-to-pay-for-energy-imports?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-15T05:20:00.000Z</updated>
+        <summary type="html"><![CDATA[ロイターの報道によれば、ボリビアの国営エネルギー企業YPFBが、エネルギー輸入の支払いに仮想通貨を利用する計画を進めている。この動きは、同国が外貨準備の不足と国内ガス生産の減少に直面していることを受けたものだという。]]></summary>
+        <author>
+            <name>Cointelegraph  Christopher Tepedino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米下院議員、トランプ氏のビットコイン準備金大統領令を法律化する法案を提出　政権交代後も継続狙う]]></title>
+        <id>https://coinpost.jp/?p=602467</id>
+        <link href="https://coinpost.jp/?p=602467"/>
+        <updated>2025-03-15T04:50:04.000Z</updated>
+        <summary type="html"><![CDATA[米国の下院議員が、トランプ大統領によるビットコイン準備金設立の大統領令を法律化する法案を提出した。政権交代後も継続する仕組みを構築することを目指す。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ大統領のサックス仮想通貨特命官、就任前に300億円相当の仮想通貨投資を売却]]></title>
+        <id>https://coinpost.jp/?p=602490</id>
+        <link href="https://coinpost.jp/?p=602490"/>
+        <updated>2025-03-15T04:20:21.000Z</updated>
+        <summary type="html"><![CDATA[デビッド・サックス米AI・仮想通貨特命官が利益相反を回避するため就任前に2億ドル超の仮想通貨関連投資を売却。ビットコイン、イーサリアム、コインベース株など含む大規模な資産売却はトランプ政権内で異例の対応となった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン反発の兆し！ しかし油断は禁物、2025年は乱高下の年に？【仮想通貨相場】]]></title>
+        <id>https://jp.cointelegraph.com/news/toshimurin-bitcoin-price-analysis-20250315</id>
+        <link href="https://jp.cointelegraph.com/news/toshimurin-bitcoin-price-analysis-20250315?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-15T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[コインテレグラフのコメンテーターでトレーダー、トシムリン氏が久しぶりに今後のビットコインの相場展望について最新記事を寄稿した。]]></summary>
+        <author>
+            <name>Cointelegraph  コインテレグラフジャパン寄稿者</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ一族のワールドリバティ、2回目のトークン販売完了　累計880億円調達]]></title>
         <id>https://coinpost.jp/?p=602449</id>
@@ -3172,28 +3222,6 @@ ETH、1900ドル割れ──約191億円相当のETHを担保としたDeFiロー
         <summary type="html"><![CDATA[トランプ大統領が仮想通貨企業の銀行サービス利用を妨げるバイデン前政権の政策「オペレーション・チョークポイント2.0」を撤回する新たな大統領令に今週にも署名する見通し。業界への大きな転換点となりうる。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、8万ドル割れ──暗号資産市場は悪化の一途]]></title>
-        <id>https://www.coindeskjapan.com/?p=281183</id>
-        <link href="https://www.coindeskjapan.com/281183/"/>
-        <updated>2025-03-10T18:02:36.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産は3月10日、米国時間序盤に株式を含むリスク資産が急落する中、下げ幅を拡大した。 ストラテジー社による210億ドル（約3兆円、1ドル＝147円換算）の資 ...
-ビットコイン、8万ドル割れ──暗号資産市場は悪化の一途 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Movement Network、パブリックメインネットβのローンチへ]]></title>
-        <id>https://crypto-times.jp/?p=131588</id>
-        <link href="https://crypto-times.jp/news-movement-public-mainnet-launch/"/>
-        <updated>2025-03-10T15:25:34.000Z</updated>
-        <summary type="html"><![CDATA[Move言語を活用した新興ブロックチェーン「Movement Network」が、パブリックメインネットβ版を正式に公開しました。今回のリリースにより、開発者は承認なしでスマートコントラクトをデプロイでき、ユーザーもパブ […]
-投稿 Movement Network、パブリックメインネットβのローンチへ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>アラタ &amp;#124; Shingo Arai</name>
         </author>
     </entry>
 </feed>

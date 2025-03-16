@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-16T22:37:10.791Z</updated>
+    <updated>2025-03-16T23:14:03.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[量子コンピュータに脆弱なビットコインはバーンが最善策 ＝ ジェイムソン・ロップ]]></title>
+        <id>https://jp.cointelegraph.com/news/burning-quantum-vulnerable-btc-best-option-jameson-lopp</id>
+        <link href="https://jp.cointelegraph.com/news/burning-quantum-vulnerable-btc-best-option-jameson-lopp?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-16T22:50:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）カストディ企業「Casa」の最高セキュリティ責任者であるジェイムソン・ロップ氏は、量子コンピュータを使ったビットコインの回収（量子リカバリー）に反対し、ビットコインのプロトコルの一貫性を守るためには失われたコインを焼却（バーン）する方が望ましいと主張した。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインクジラ、FOMC前に40倍レバレッジで3億6800万ドルの下落賭ける]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-whale-bets-368-m-40x-leverage-btc-decline-fomc</id>
@@ -1859,36 +1869,6 @@ XRP、値上がり──リップル社とSECの訴訟が終わりに近づい�
 ビットコイン、米CPI発表直前に強気なRSIの乖離が出現 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインのクジラが買い戻しか？ 小口投資家は依然慎重姿勢＝仮想通貨アナリスト]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-whales-hint-80k-market-rebound-binance-inflows-cool</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-whales-hint-80k-market-rebound-binance-inflows-cool?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-12T10:50:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）の大口保有者（クジラ）が再び市場に戻り、BTCを買い戻していることが新たな調査で明らかになった。一方、小口投資家は市場のパニック状態を受け、依然として様子見を続けている。]]></summary>
-        <author>
-            <name>Cointelegraph  William Suberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインのクジラが買い戻しか？ 小口投資家は依然慎重姿勢＝仮想通貨アナリスト]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-whales-hint-80k-market-rebound-binance-inflows-cool</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-whales-hint-80k-market-rebound-binance-inflows-cool?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-12T10:50:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）の大口保有者（クジラ）が再び市場に戻り、BTCを買い戻していることが新たな調査で明らかになった。一方、小口投資家は市場のパニック状態を受け、依然として様子見を続けている。]]></summary>
-        <author>
-            <name>Cointelegraph  William Suberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「MoveVM」で構築のイーサL2「Movement」、パブリックメインネットベータ開始]]></title>
-        <id>https://www.neweconomy.jp/?p=458105</id>
-        <link href="https://www.neweconomy.jp/posts/458105"/>
-        <updated>2025-03-12T10:43:24.000Z</updated>
-        <summary type="html"><![CDATA[Movementがパブリックメインネットベータを開始 独自仮想マシン「MoveVM」で構築されたイーサリアム（Ethereum）レイヤー2ネットワークであるMovement（ムーブメント）のパブリックメインネットベータが […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
         </author>
     </entry>
 </feed>

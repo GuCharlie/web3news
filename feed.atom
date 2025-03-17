@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-17T23:13:47.968Z</updated>
+    <updated>2025-03-17T23:36:14.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、米株連動で約50万円上昇も冬入りに警戒｜仮想NISHI]]></title>
+        <id>https://coinpost.jp/?p=602821</id>
+        <link href="https://coinpost.jp/?p=602821"/>
+        <updated>2025-03-17T23:15:27.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコインは前日比で約50万円超の上昇となった。17日に発表された2月の米小売売上高が市場予想を大幅に下回ることはなく、米国経済の景気後退懸念が後退したことが背景にある。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、8万4000ドルまで上昇──暗号資産が再び下落する可能性を警告するアナリストも]]></title>
         <id>https://www.coindeskjapan.com/?p=283017</id>
@@ -15,6 +25,16 @@
 ビットコイン、8万4000ドルまで上昇──暗号資産が再び下落する可能性を警告するアナリストも first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Krisztian Sandor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スタンダード・チャータード、2025年のETH価格予測を60%引き下げ]]></title>
+        <id>https://jp.cointelegraph.com/news/standard-chartered-drops-2025-eth-price-estimate-by-60-to-4-k</id>
+        <link href="https://jp.cointelegraph.com/news/standard-chartered-drops-2025-eth-price-estimate-by-60-to-4-k?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-17T22:54:00.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムの価格は、2024年12月の高値4,107ドルから52%以上下落しており、TradingViewのデータによると、2025年の年初から42%の下落となっている。]]></summary>
+        <author>
+            <name>Cointelegraph  Big Smokey</name>
         </author>
     </entry>
     <entry>
@@ -1685,17 +1705,6 @@ gumiのブロックチェーン事業、売上高257%増で黒字転換──第
 ビットコインとS&P500、200日移動平均を割り込み苦戦──さらなる下落の兆しか first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>James Van Straten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産取引所MEXCの投資部門、EthenaとUSDeに3600万ドルを投資]]></title>
-        <id>https://www.coindeskjapan.com/?p=282423</id>
-        <link href="https://www.coindeskjapan.com/282423/"/>
-        <updated>2025-03-13T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[プレスリリースによると、暗号資産（仮想通貨）取引所MEXCの投資部門であるMEXC Venturesは、Ethena（エセナ）とそのステーブルコインであるUSD ...
-暗号資産取引所MEXCの投資部門、EthenaとUSDeに3600万ドルを投資 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Aoyon Ashraf</name>
         </author>
     </entry>
 </feed>

@@ -390,16 +390,6 @@
           "wordCount": 1300,
           "title": "ビットコインとS&P500、200日移動平均を割り込み苦戦──さらなる下落の兆しか",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/a6b527e5123fdf462d0acfb3bf36e9c7c94080bb-1439x802-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=282423",
-          "author": "Aoyon Ashraf",
-          "description": "プレスリリースによると、暗号資産（仮想通貨）取引所MEXCの投資部門であるMEXC Venturesは、Ethena（エセナ）とそのステーブルコインであるUSD ...\n暗号資産取引所MEXCの投資部門、EthenaとUSDeに3600万ドルを投資 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/282423/",
-          "publishedOn": "2025-03-13T11:30:00.000Z",
-          "wordCount": 1313,
-          "title": "暗号資産取引所MEXCの投資部門、EthenaとUSDeに3600万ドルを投資",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/01/shutterstock_2261247393.jpg"
         }
       ]
     },
@@ -414,6 +404,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=602821",
+          "author": "CoinPost編集部",
+          "description": "仮想通貨ビットコインは前日比で約50万円超の上昇となった。17日に発表された2月の米小売売上高が市場予想を大幅に下回ることはなく、米国経済の景気後退懸念が後退したことが背景にある。",
+          "link": "https://coinpost.jp/?p=602821",
+          "publishedOn": "2025-03-17T23:15:27.000Z",
+          "wordCount": 3209,
+          "title": "ビットコイン、米株連動で約50万円上昇も冬入りに警戒｜仮想NISHI",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
+        },
         {
           "id": "https://coinpost.jp/?p=602809",
           "author": "K.Kobayashi",
@@ -1208,6 +1213,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/standard-chartered-drops-2025-eth-price-estimate-by-60-to-4-k",
+          "author": "Cointelegraph  Big Smokey",
+          "description": "イーサリアムの価格は、2024年12月の高値4,107ドルから52%以上下落しており、TradingViewのデータによると、2025年の年初から42%の下落となっている。",
+          "link": "https://jp.cointelegraph.com/news/standard-chartered-drops-2025-eth-price-estimate-by-60-to-4-k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-17T22:54:00.000Z",
+          "wordCount": null,
+          "title": "スタンダード・チャータード、2025年のETH価格予測を60%引き下げ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWE1ODQtZWNiNS03NmQ1LWJiODMtOTdlYmRlYmM3MDVk.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWE1ODQtZWNiNS03NmQ1LWJiODMtOTdlYmRlYmM3MDVk.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/telegram-founder-pavel-durov-reached-dubai-legal-obligations",
           "author": "Cointelegraph  Ezra Reguerra",

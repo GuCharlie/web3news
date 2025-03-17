@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-17T09:39:04.164Z</updated>
+    <updated>2025-03-17T10:16:46.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米財務長官、「市場の調整は健全かつ正常」と発言]]></title>
+        <id>https://www.coindeskjapan.com/?p=282917</id>
+        <link href="https://www.coindeskjapan.com/282917/"/>
+        <updated>2025-03-17T09:40:00.000Z</updated>
+        <summary type="html"><![CDATA[3月16日、アメリカのスコット・ベッセント（Scott Bessent）財務長官は、資産市場の調整は健全なものだと表現し、市場への待望の政策支援、いわゆる「トラ ...
+米財務長官、「市場の調整は健全かつ正常」と発言 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[テレグラム創設者パベル・デュロフ、フランス当局より「数週間」出国許可か＝報道]]></title>
         <id>https://www.neweconomy.jp/?p=459197</id>
@@ -2130,26 +2141,6 @@ XRP、SOL、DOGEのETF、承認はSEC新委員長就任後か first appeared on 
         <summary type="html"><![CDATA[ビットコインは76,606ドルから反発したものの、85,000ドル付近で売りに直面している。ただし、売り圧力の弱まりを示す初期兆候があり、底打ちが近い可能性もある。]]></summary>
         <author>
             <name>Cointelegraph  Rakesh Upadhyay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP ETF：現在SEC承認待ちのファンド一覧]]></title>
-        <id>https://jp.cointelegraph.com/news/xrp-etf-filings-awaiting-sec-approval</id>
-        <link href="https://jp.cointelegraph.com/news/xrp-etf-filings-awaiting-sec-approval?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-12T22:08:00.000Z</updated>
-        <summary type="html"><![CDATA[米資産運用会社フランクリン・テンプルトンが、拡大するXRP上場投資信託（ETF）競争に参入し、米国でスポット型XRP ETFを申請した最新の企業となった。]]></summary>
-        <author>
-            <name>Cointelegraph  Helen Partz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP ETF：現在SEC承認待ちのファンド一覧]]></title>
-        <id>https://jp.cointelegraph.com/news/xrp-etf-filings-awaiting-sec-approval</id>
-        <link href="https://jp.cointelegraph.com/news/xrp-etf-filings-awaiting-sec-approval?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-12T22:08:00.000Z</updated>
-        <summary type="html"><![CDATA[米資産運用会社フランクリン・テンプルトンが、拡大するXRP上場投資信託（ETF）競争に参入し、米国でスポット型XRP ETFを申請した最新の企業となった。]]></summary>
-        <author>
-            <name>Cointelegraph  Helen Partz</name>
         </author>
     </entry>
 </feed>

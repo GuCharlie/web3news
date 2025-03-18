@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-18T22:14:07.164Z</updated>
+    <updated>2025-03-18T22:38:41.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米ミネソタ州議員、ビットコイン投資の法案を提出]]></title>
+        <id>https://coinpost.jp/?p=603109</id>
+        <link href="https://coinpost.jp/?p=603109"/>
+        <updated>2025-03-18T22:35:11.000Z</updated>
+        <summary type="html"><![CDATA[米ミネソタ州でビットコイン法案が提出され、州の投資、退職金制度、税金支払いに仮想通貨を活用する先駆的な取り組みが進行中。全米各州でも広がる仮想通貨導入の動きに加え、トランプ政権の戦略的ビットコイン準備金政策も法制化に向けて前進している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイケル・セイラー率いるストラテジー社、500万株を発行しビットコインを追加購入へ]]></title>
+        <id>https://jp.cointelegraph.com/news/michael-saylor-strategy-offer-5m-shares-buy-bitcoin</id>
+        <link href="https://jp.cointelegraph.com/news/michael-saylor-strategy-offer-5m-shares-buy-bitcoin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-18T22:13:00.000Z</updated>
+        <summary type="html"><![CDATA[ビジネスインテリジェンス企業でありビットコイン投資家でもあるストラテジー社は、シリーズA永久優先株500万株を発行し、その資金をビットコインの追加購入に充てる計画を発表した。]]></summary>
+        <author>
+            <name>Cointelegraph  Ezra Reguerra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米国のビットコイン現物ETF、17日に410億円の資金が純流入　2月5日以降で最大規模]]></title>
+        <id>https://coinpost.jp/?p=603091</id>
+        <link href="https://coinpost.jp/?p=603091"/>
+        <updated>2025-03-18T22:05:31.000Z</updated>
+        <summary type="html"><![CDATA[米国の仮想通貨ビットコインの現物ETFは17日、約410億円の資金が純流入した。この純流入額は2月5日以降で最大規模。アナリストが背景を分析している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、トランプ選挙後も株式など他資産を上回る]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-outperforms-assets-trump-election-btc-correction</id>
@@ -14,6 +44,16 @@
         <summary type="html"><![CDATA[最近の暗号資産市場の調整が、米国における2か月間の債務停止期間と重なったにもかかわらず、ビットコイン（BTC）は株式指数、株式、米国債、貴金属などの主要な世界資産を上回るパフォーマンスを見せた。]]></summary>
         <author>
             <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ政権、予算中立のビットコイン取得計画進行中か　高官発言]]></title>
+        <id>https://coinpost.jp/?p=603095</id>
+        <link href="https://coinpost.jp/?p=603095"/>
+        <updated>2025-03-18T21:45:02.000Z</updated>
+        <summary type="html"><![CDATA[トランプ政権のデジタル資産顧問会議ディレクターが米国政府によるビットコイン積極取得計画を明らかにした。納税者負担なしの方法を模索し、ビットコインを商品として位置づける戦略を推進している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -1588,27 +1628,6 @@ S&P500が調整局面入り、ビットコインへの影響は？ first appeare
         <summary type="html"><![CDATA[Amber International Holdingがナスダックに上場 Amber Group（アンバーグループ）で機関投資家や富裕層（HNWI） 向けの資産管理ソリューション「Amber Premium」を提供するA […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム「Pectra」アップグレード、メインネット実装前にテストネット「Hoodi」立ち上げ]]></title>
-        <id>https://www.neweconomy.jp/?p=458788</id>
-        <link href="https://www.neweconomy.jp/posts/458788"/>
-        <updated>2025-03-14T10:26:32.000Z</updated>
-        <summary type="html"><![CDATA[「Pectra」メインネット実装前にテストネット「Hoodi」立ち上げ イーサリアム（Ethereum）の大型アップグレード「ペクトラ（Pectra）」をテストネット「ホルスキー（Holesky）」および「セポリア（Se […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「成長しなければ、終わり」マネックス・松本氏がナスダック上場の次に描く戦略【GFTN 2025】]]></title>
-        <id>https://www.coindeskjapan.com/?p=282615</id>
-        <link href="https://www.coindeskjapan.com/282615/"/>
-        <updated>2025-03-14T10:25:00.000Z</updated>
-        <summary type="html"><![CDATA[3月3日から7日まで都内で開催された「GFTNフォーラム・ジャパン2025」内で5日、マネックスグループ取締役会議長兼代表執行役会長の松本大氏とN.Avenue ...
-「成長しなければ、終わり」マネックス・松本氏がナスダック上場の次に描く戦略【GFTN 2025】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>増田隆幸</name>
         </author>
     </entry>
 </feed>

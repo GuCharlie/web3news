@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-18T10:16:02.772Z</updated>
+    <updated>2025-03-18T10:41:44.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Napier Labs、モジュラー利回りトークン化プロトコル「Napier Finance v2」リリース]]></title>
+        <id>https://www.neweconomy.jp/?p=459610</id>
+        <link href="https://www.neweconomy.jp/posts/459610"/>
+        <updated>2025-03-18T10:32:53.000Z</updated>
+        <summary type="html"><![CDATA[「Napier Finance v2」がリリース DeFiプロジェクト「ネイピアファイナンス（Napier Finance）」の主要開発元であるネイピアラボ（Napier Labs）が、新プロトコル「ネイピアファイナンス […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ストラテジーの株価チャートがダブルボトムを形成、強気への転換か：テクニカル分析]]></title>
+        <id>https://www.coindeskjapan.com/?p=283213</id>
+        <link href="https://www.coindeskjapan.com/283213/"/>
+        <updated>2025-03-18T10:20:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）の最近の市場急落を警告するパターンとは対照的に、強気のテクニカル分析パターンがビットコイン保有企業であるストラテジー（Strategy）の ...
+ストラテジーの株価チャートがダブルボトムを形成、強気への転換か：テクニカル分析 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインのボラティリティが急上昇する可能性：Derive]]></title>
         <id>https://www.coindeskjapan.com/?p=283127</id>
@@ -1993,36 +2014,6 @@ gumiのブロックチェーン事業、売上高257%増で黒字転換──第
         <summary type="html"><![CDATA[イーサリアムにおける最も重要なネットワーク改善の一つとされる「Dencun（デンクン）アップグレード」から1年が経過し、イーサリアムの平均ガス代は95％下落した。]]></summary>
         <author>
             <name>Cointelegraph  Ezra Reguerra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップル社、ドバイ国際金融センターの事業認可を取得　ステーブルコイン普及も期待]]></title>
-        <id>https://coinpost.jp/?p=602197</id>
-        <link href="https://coinpost.jp/?p=602197"/>
-        <updated>2025-03-13T22:35:00.000Z</updated>
-        <summary type="html"><![CDATA[リップル社は、仮想通貨の決済手段やサービスをドバイ国際金融センターで提供するための認可を取得したことを発表。ステーブルコインの普及促進も期待している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハイパーリキッド、400万ドルの清算損失を受け証拠金要件を引き上げ]]></title>
-        <id>https://jp.cointelegraph.com/news/hyperliquid-ups-margin-rules-4m-liquidation-loss</id>
-        <link href="https://jp.cointelegraph.com/news/hyperliquid-ups-margin-rules-4m-liquidation-loss?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-13T22:25:00.000Z</updated>
-        <summary type="html"><![CDATA[ハイパーリキッド（Hyperliquid）は、流動性プールが大規模なイーサ（ETH）の清算によって数百万ドルの損失を被ったことを受け、トレーダー向けの証拠金要件を引き上げたと発表した。]]></summary>
-        <author>
-            <name>Cointelegraph  Alex O’Donnell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米上院銀行委員会、GENIUSステーブルコイン法案を可決]]></title>
-        <id>https://jp.cointelegraph.com/news/senate-banking-committee-advances-genius-stablecoin-bill</id>
-        <link href="https://jp.cointelegraph.com/news/senate-banking-committee-advances-genius-stablecoin-bill?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-13T22:17:00.000Z</updated>
-        <summary type="html"><![CDATA[米国上院銀行委員会は、「米国ステーブルコイン国家イノベーション指針法（GENIUS法）」を賛成18、反対6の投票で可決し、次の段階に進めることを決定した。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
         </author>
     </entry>
 </feed>

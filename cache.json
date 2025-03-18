@@ -1175,26 +1175,6 @@
           "wordCount": 604,
           "title": "Omakaseとビットポイント、「Babylon」活用のビットコインステーキング提供へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/17115716/7185103ae2193d5db6ea347b2fdd043e.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=458770",
-          "author": "NewEconomyPodcast",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/458770",
-          "publishedOn": "2025-03-14T11:10:33.000Z",
-          "wordCount": 724,
-          "title": "【3/14話題】トランプ一族のバイナンスUSへの出資協議をCZ否定、RippleがUAEで暗号資産決済サービス展開へなど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/14183522/news_head_20250314.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=458794",
-          "author": "OtsugaShinya",
-          "description": "Amber International Holdingがナスダックに上場 Amber Group（アンバーグループ）で機関投資家や富裕層（HNWI） 向けの資産管理ソリューション「Amber Premium」を提供するA […]",
-          "link": "https://www.neweconomy.jp/posts/458794",
-          "publishedOn": "2025-03-14T10:41:34.000Z",
-          "wordCount": 642,
-          "title": "アンバーグループのAmber International Holding、「AMBR」でナスダックに上場",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/14194122/d5720115c91b446f3e7df24b7a41b361.jpg"
         }
       ]
     },
@@ -1203,6 +1183,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/dogecoin-millionaires-buying-dips-doge-30-price-rally",
+          "author": "Cointelegraph  Yashu Gola",
+          "description": "ドージコイン（DOGE）の価格は、2024年12月に0.48ドルに達した後、70%以上下落した。しかし、価格下落にもかかわらず、同銘柄の最大の保有者は買い増しを続けており、今後数週間での反発を期待している可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/dogecoin-millionaires-buying-dips-doge-30-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-18T22:57:00.000Z",
+          "wordCount": null,
+          "title": "ドージコインの大口保有者が押し目買い、DOGE価格は30%上昇を視野に",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzU3ZGEtYjYxYS03NTgzLTllOTgtYTZiZmUyNDhlZDY1.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzU3ZGEtYjYxYS03NTgzLTllOTgtYTZiZmUyNDhlZDY1.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-companies-seeking-bank-charters-trump-administration-report",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "ロイターの報道によると、仮想通貨およびフィンテック企業がトランプ政権下で事業を拡大するため、銀行免許の取得を目指す動きが強まっているという。ロイターは業界関係者6人以上に取材を行った。",
+          "link": "https://jp.cointelegraph.com/news/crypto-companies-seeking-bank-charters-trump-administration-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-18T22:48:00.000Z",
+          "wordCount": null,
+          "title": "トランプ政権下で仮想通貨企業の銀行免許取得を目指す動き＝ロイター",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzliYTYtMThkMS03MmQ5LWFhODEtNjQ2ZjRkZTEzYWRh.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzliYTYtMThkMS03MmQ5LWFhODEtNjQ2ZjRkZTEzYWRh.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/institutions-plan-increase-crypto-allocations-survey",
+          "author": "Cointelegraph  Alex O’Donnell",
+          "description": "機関投資家の暗号資産への強気姿勢が強まっており、83%が2025年に暗号資産の配分を増やす計画を持っていることが、コインベースとEYパルテノンの3月18日付のレポートで明らかになった。",
+          "link": "https://jp.cointelegraph.com/news/institutions-plan-increase-crypto-allocations-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-18T22:19:00.000Z",
+          "wordCount": null,
+          "title": "83%の機関投資家、2025年に仮想通貨の配分を増やすと回答＝コインベース調査",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDVlZWMtMjY4Ny03Mjk1LWJiZDEtOTA0N2NmMTM4NTkw.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDVlZWMtMjY4Ny03Mjk1LWJiZDEtOTA0N2NmMTM4NTkw.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/michael-saylor-strategy-offer-5m-shares-buy-bitcoin",
           "author": "Cointelegraph  Ezra Reguerra",

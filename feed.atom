@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-18T10:41:44.276Z</updated>
+    <updated>2025-03-18T11:12:27.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【3/18話題】マイクロストラテジー・メタプラネット・Sサイエンスがビットコイン購入、米国初のスイ現物ETFが申請など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=459545</id>
+        <link href="https://www.neweconomy.jp/posts/459545"/>
+        <updated>2025-03-18T11:05:35.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゴールドが先行して、ビットコインが追随。歴史的なパターンは再現されるのか]]></title>
+        <id>https://www.coindeskjapan.com/?p=283243</id>
+        <link href="https://www.coindeskjapan.com/283243/"/>
+        <updated>2025-03-18T10:50:00.000Z</updated>
+        <summary type="html"><![CDATA[ゴールド（金）は年初来15%以上上昇し、1オンスあたり3025ドルを突破し、史上最高値を更新した。一方、ビットコイン（BTC）は10%下落している。 金ETF（ ...
+ゴールドが先行して、ビットコインが追随。歴史的なパターンは再現されるのか first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>James Van Straten</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Napier Labs、モジュラー利回りトークン化プロトコル「Napier Finance v2」リリース]]></title>
         <id>https://www.neweconomy.jp/?p=459610</id>
@@ -1984,36 +2005,6 @@ gumiのブロックチェーン事業、売上高257%増で黒字転換──第
         <summary type="html"><![CDATA[仮想通貨ビットコインは24時間比で一時50万円超の下落となった。マクロ要因としてトランプ政権による欧州連合との貿易摩擦激化への警戒感が高まり株価が下落したことが影響した。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムが20％下落すれば、3億3600万ドル規模のDeFi清算が発生する可能性]]></title>
-        <id>https://jp.cointelegraph.com/news/eth-falling-20-will-trigger-336-m-liquidations</id>
-        <link href="https://jp.cointelegraph.com/news/eth-falling-20-will-trigger-336-m-liquidations?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-13T22:55:00.000Z</updated>
-        <summary type="html"><![CDATA[現実世界資産（RWA）レンディングプラットフォーム「RAAC」の創業者であるケビン・ラッシャー氏によると、イーサ（ETH）の価格がさらに20％下落すれば、分散型金融（DeFi）市場で最大3億3600万ドル規模の清算が連鎖的に発生する可能性があるという。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米Rumble、25億円のビットコイン追加購入を発表]]></title>
-        <id>https://coinpost.jp/?p=602196</id>
-        <link href="https://coinpost.jp/?p=602196"/>
-        <updated>2025-03-13T22:50:05.000Z</updated>
-        <summary type="html"><![CDATA[動画共有プラットフォームRumbleが188ビットコインを約1700万ドルで購入した。インフレ対策としての仮想通貨投資戦略を本格化し、Truth Socialと関連するデジタルエコシステムでの存在感を強化する。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dencunアップグレードから1年、イーサリアムの平均ガス代が95％下落]]></title>
-        <id>https://jp.cointelegraph.com/news/ethereum-average-gas-fees-95-percent-drop-dencun</id>
-        <link href="https://jp.cointelegraph.com/news/ethereum-average-gas-fees-95-percent-drop-dencun?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-13T22:43:00.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムにおける最も重要なネットワーク改善の一つとされる「Dencun（デンクン）アップグレード」から1年が経過し、イーサリアムの平均ガス代は95％下落した。]]></summary>
-        <author>
-            <name>Cointelegraph  Ezra Reguerra</name>
         </author>
     </entry>
 </feed>

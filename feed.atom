@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-18T21:35:37.857Z</updated>
+    <updated>2025-03-18T22:14:07.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、トランプ選挙後も株式など他資産を上回る]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-outperforms-assets-trump-election-btc-correction</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-outperforms-assets-trump-election-btc-correction?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-18T22:02:00.000Z</updated>
+        <summary type="html"><![CDATA[最近の暗号資産市場の調整が、米国における2か月間の債務停止期間と重なったにもかかわらず、ビットコイン（BTC）は株式指数、株式、米国債、貴金属などの主要な世界資産を上回るパフォーマンスを見せた。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バリュークリエーション、1億円分ビットコイン購入完了　株価は最高値更新]]></title>
         <id>https://coinpost.jp/?p=603087</id>
@@ -1599,17 +1609,6 @@ S&P500が調整局面入り、ビットコインへの影響は？ first appeare
 「成長しなければ、終わり」マネックス・松本氏がナスダック上場の次に描く戦略【GFTN 2025】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>増田隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム、「ペクトラ」アップグレードに向けた新たなテストネットを立ち上げ]]></title>
-        <id>https://www.coindeskjapan.com/?p=282616</id>
-        <link href="https://www.coindeskjapan.com/282616/"/>
-        <updated>2025-03-14T10:10:00.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム（Ethereum）の次期アップグレードであるペクトラ（Pectra）の2回のテストで問題が発生したことを受け、ネットワークのコア開発者たちは3月1 ...
-イーサリアム、「ペクトラ」アップグレードに向けた新たなテストネットを立ち上げ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Sam Kessler</name>
         </author>
     </entry>
 </feed>

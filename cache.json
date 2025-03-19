@@ -978,21 +978,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/BTC-Reserve_0124.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/BTC-Reserve_0124.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=602490",
-          "author": "菊谷ルイス",
-          "description": "デビッド・サックス米AI・仮想通貨特命官が利益相反を回避するため就任前に2億ドル超の仮想通貨関連投資を売却。ビットコイン、イーサリアム、コインベース株など含む大規模な資産売却はトランプ政権内で異例の対応となった。",
-          "link": "https://coinpost.jp/?p=602490",
-          "publishedOn": "2025-03-15T04:20:21.000Z",
-          "wordCount": 3201,
-          "title": "トランプ大統領のサックス仮想通貨特命官、就任前に300億円相当の仮想通貨投資を売却",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/07/shutterstock_1159933525-2.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/07/shutterstock_1159933525-2.jpg"
         }
       ]
     },
@@ -1398,6 +1383,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/sec-drop-appeal-ripple-ceo-garlinghouse",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "リップルと米証券取引委員会（SEC）の長年にわたる法廷闘争がついに終結する。リップルのブラッド・ガーリングハウスCEOが3月19日にXで発表した。",
+          "link": "https://jp.cointelegraph.com/news/sec-drop-appeal-ripple-ceo-garlinghouse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-19T15:55:00.000Z",
+          "wordCount": null,
+          "title": "米証券取引委員会とリップルとの法廷闘争が終結　ガーリングハウスCEOが「全面勝利」と発表　XRPは急騰",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWFlOGQtYzk0Yi03NmVhLWI3NjctOWM5MTVjOWM3YWM1.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWFlOGQtYzk0Yi03NmVhLWI3NjctOWM5MTVjOWM3YWM1.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-price-recovery-fed-inflation-policy-90k-target",
           "author": "Cointelegraph  Zoltan Vardai",

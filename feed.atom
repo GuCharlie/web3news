@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-19T16:18:38.739Z</updated>
+    <updated>2025-03-19T16:45:13.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米証券取引委員会とリップルとの法廷闘争が終結　ガーリングハウスCEOが「全面勝利」と発表　XRPは急騰]]></title>
+        <id>https://jp.cointelegraph.com/news/sec-drop-appeal-ripple-ceo-garlinghouse</id>
+        <link href="https://jp.cointelegraph.com/news/sec-drop-appeal-ripple-ceo-garlinghouse?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-19T15:55:00.000Z</updated>
+        <summary type="html"><![CDATA[リップルと米証券取引委員会（SEC）の長年にわたる法廷闘争がついに終結する。リップルのブラッド・ガーリングハウスCEOが3月19日にXで発表した。]]></summary>
+        <author>
+            <name>Cointelegraph  Helen Partz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、9万ドルへの回復なるか？  米国のインフレ懸念緩和が追い風に]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-price-recovery-fed-inflation-policy-90k-target</id>
@@ -1972,16 +1982,6 @@ S&P500が調整局面入り、ビットコインへの影響は？ first appeare
         <summary type="html"><![CDATA[米国の下院議員が、トランプ大統領によるビットコイン準備金設立の大統領令を法律化する法案を提出した。政権交代後も継続する仕組みを構築することを目指す。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ大統領のサックス仮想通貨特命官、就任前に300億円相当の仮想通貨投資を売却]]></title>
-        <id>https://coinpost.jp/?p=602490</id>
-        <link href="https://coinpost.jp/?p=602490"/>
-        <updated>2025-03-15T04:20:21.000Z</updated>
-        <summary type="html"><![CDATA[デビッド・サックス米AI・仮想通貨特命官が利益相反を回避するため就任前に2億ドル超の仮想通貨関連投資を売却。ビットコイン、イーサリアム、コインベース株など含む大規模な資産売却はトランプ政権内で異例の対応となった。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

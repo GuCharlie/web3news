@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=283292",
+          "author": "James Van Straten",
+          "description": "火曜日はビットコイン（BTC）のトレーダーにとって、大きな価格変動を意味するかもしれない。 Amberdataによると、火曜日は2025年現時点まで最もボラティ ...\n火曜日は2025年、ビットコインが最も変動する曜日に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/283292/",
+          "publishedOn": "2025-03-19T00:30:00.000Z",
+          "wordCount": 1551,
+          "title": "火曜日は2025年、ビットコインが最も変動する曜日に",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/image-16-3.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=283294",
+          "author": "Jamie Crawley",
+          "description": "企業のオンチェーンアプリケーション開発を支援するブロックチェーンインフラ企業クロスミントは、2360万ドルの資金を調達した。 3月18日に発表された声明によると ...\nアディダスとレッドブルを顧客に抱えるブロックチェーン企業Crossmint、約35億円の資金調達 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/283294/",
+          "publishedOn": "2025-03-19T00:14:12.000Z",
+          "wordCount": 1553,
+          "title": "アディダスとレッドブルを顧客に抱えるブロックチェーン企業Crossmint、約35億円の資金調達",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/shutterstock_2476057625.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=283286",
           "author": "Stephen Alpher",
           "description": "良い雰囲気でここ数日を終えていたリスク市場は3月18日、米連邦準備制度理事会（FRB）の政策決定会合の結果を1日後に控えて再び下落に転じた。 ビットコイン（BT ...\nビットコイン、FOMCの結果発表を前に市場が神経質になり反落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -384,6 +404,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=603148",
+          "author": "A.Yamada",
+          "description": "ブラックロック、スーパーステート、セントリフュージの3社がSkyのRWAトークン化コンテストで勝利。米国債トークン化ファンドに合計10億ドルを受け取る予定だ。",
+          "link": "https://coinpost.jp/?p=603148",
+          "publishedOn": "2025-03-19T01:02:48.000Z",
+          "wordCount": 3185,
+          "title": "ブラックロックBUIDLなど、MakerDAO（Sky）のRWAコンテストで勝利　合計1500億円受け取りへ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/digitaldollar1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/digitaldollar1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=603138",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨ソラナのスマートフォンを開発するソラナ・モバイルは、ソラナスマホ二代目の機種ソラナシーカーの出荷を2025年夏に開始する予定だと発表。現在テスト段階に入っている。",
+          "link": "https://coinpost.jp/?p=603138",
+          "publishedOn": "2025-03-19T00:45:03.000Z",
+          "wordCount": 3220,
+          "title": "二代目ソラナスマホ「シーカー」、2025年夏に出荷開始予定　現在はテスト段階に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/Solana_mobile_0910.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/Solana_mobile_0910.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=603136",
+          "author": "菊谷ルイス",
+          "description": "TRONブロックチェーン創設者サン氏がTRXトークンとソラナエコシステムの統合を発表し。両ネットワーク間のクロスチェーン互換性実現により、取引コストの実現が期待される。",
+          "link": "https://coinpost.jp/?p=603136",
+          "publishedOn": "2025-03-19T00:10:34.000Z",
+          "wordCount": 3156,
+          "title": "トロンが近日中にソラナでローンチか、ジャスティン・サン氏が発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/trx-okex-rollback.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/trx-okex-rollback.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=603121",
           "author": "CoinPost編集部",

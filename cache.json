@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=283404",
+          "author": "Helene Braun",
+          "description": "暗号資産（仮想通貨）への投資をいち早く開始した伝統的金融投資家の一人であるアーク・インベスト（Ark Invest）のキャシー・ウッド（Cathie Wood） ...\nアークのキャシー・ウッド氏、同社のファンドをトークン化したいと発言 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/283404/",
+          "publishedOn": "2025-03-19T09:10:00.000Z",
+          "wordCount": 1559,
+          "title": "アークのキャシー・ウッド氏、同社のファンドをトークン化したいと発言",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/bf64ce0495dd8509b500e8a9557b5ef1d46a751f-5184x2916-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=283388",
           "author": "Margaux Nijkerk",
           "description": "テクノロジー大手のマイクロソフト（Microsoft）は、Google Chromeの拡張機能で使用される最も人気の高い暗号資産（仮想通貨）ウォレット20種類を ...\nマイクロソフトが警告──コインベースやメタマスクなどのウォレットを標的にした新たなマルウエア first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -1033,21 +1043,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/goldman-sachs-ark-etf-notes.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/goldman-sachs-ark-etf-notes.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=602368",
-          "author": "菊谷ルイス",
-          "description": "新テストネット立ち上げイーサリアム財団の開発者たちは13日に開催された「AllDevsCall」において、「Hoodi」と名付けられた新しいテストネットを立ち上げることを発表した。この「長期運用型」テストネットは3月17日に開始される予定だ...",
-          "link": "https://coinpost.jp/?p=602368",
-          "publishedOn": "2025-03-14T21:02:03.000Z",
-          "wordCount": 3210,
-          "title": "イーサリアム　新テストネットを3月17日に立ち上げへ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/Ethereum_0513-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/Ethereum_0513-1.jpg"
         }
       ]
     },
@@ -1433,6 +1428,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/stablecoin-users-53-percent-growth-2025",
+          "author": "Cointelegraph  Ezra Reguerra",
+          "description": "オンチェーン分析プラットフォームのArtemisとDuneの共同レポートによると、ステーブルコインのアクティブウォレット数が1年間で50%以上増加したことが明らかになった。",
+          "link": "https://jp.cointelegraph.com/news/stablecoin-users-53-percent-growth-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-19T08:32:00.000Z",
+          "wordCount": null,
+          "title": "ステーブルコインのアクティブウォレット数　過去1年で50%以上増加 ＝レポート",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWFkNDQtMGJmZS03NTFkLWExZGUtNjJlMmJjOGFlMjZi.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWFkNDQtMGJmZS03NTFkLWExZGUtNjJlMmJjOGFlMjZi.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0319",
           "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
@@ -2122,36 +2132,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTkzODEtOTg5Mi03MjAwLTg5Y2UtMWM0NGFjMDVkYjc0.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/russia-bitcoin-oil-trade-crypto-payments",
-          "author": "Cointelegraph  Helen Partz",
-          "description": "ロイターの報道によれば、ロシアに対する国際的な制裁が続く中、ロシア企業がビットコイン（BTC）やテザー（USDT）などの仮想通貨を活用し、中国やインドとの貿易を行っている。",
-          "link": "https://jp.cointelegraph.com/news/russia-bitcoin-oil-trade-crypto-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-03-14T21:00:00.000Z",
-          "wordCount": null,
-          "title": "ロシアの石油企業、ビットコインやテザーを利用して中国やインドと取引＝報道",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTkzODItNmNmYy03MDRhLTgwODMtZTMzOWRlMzNiNTI2.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTkzODItNmNmYy03MDRhLTgwODMtZTMzOWRlMzNiNTI2.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/xrp-flips-ether-fdv-change-market-dynamics",
-          "author": "Cointelegraph  Alex O’Donnell",
-          "description": "XRPの完全希薄化後評価額（FDV）がイーサリアム（ETH）を上回ったことが、3月14日のコインゲッコーのデータで明らかになった。",
-          "link": "https://jp.cointelegraph.com/news/xrp-flips-ether-fdv-change-market-dynamics?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-03-14T20:55:00.000Z",
-          "wordCount": null,
-          "title": "XRPのFDVがイーサリアムを超える 　XRPレジャーのDeFiエコシステムが勢いを増す",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTk1YTQtYTFiOS03YmY5LTkzMDktNDhjODVkZjZkMmJk.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTk1YTQtYTFiOS03YmY5LTkzMDktNDhjODVkZjZkMmJk.jpg"
         }
       ]
     },

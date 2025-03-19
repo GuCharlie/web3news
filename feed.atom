@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-19T08:44:49.594Z</updated>
+    <updated>2025-03-19T09:16:49.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アークのキャシー・ウッド氏、同社のファンドをトークン化したいと発言]]></title>
+        <id>https://www.coindeskjapan.com/?p=283404</id>
+        <link href="https://www.coindeskjapan.com/283404/"/>
+        <updated>2025-03-19T09:10:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）への投資をいち早く開始した伝統的金融投資家の一人であるアーク・インベスト（Ark Invest）のキャシー・ウッド（Cathie Wood） ...
+アークのキャシー・ウッド氏、同社のファンドをトークン化したいと発言 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Helene Braun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ステーブルコインのアクティブウォレット数　過去1年で50%以上増加 ＝レポート]]></title>
+        <id>https://jp.cointelegraph.com/news/stablecoin-users-53-percent-growth-2025</id>
+        <link href="https://jp.cointelegraph.com/news/stablecoin-users-53-percent-growth-2025?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-19T08:32:00.000Z</updated>
+        <summary type="html"><![CDATA[オンチェーン分析プラットフォームのArtemisとDuneの共同レポートによると、ステーブルコインのアクティブウォレット数が1年間で50%以上増加したことが明らかになった。]]></summary>
+        <author>
+            <name>Cointelegraph  Ezra Reguerra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTCはイベント控え失速　FOMCでは景気と金利の見通しに注目【仮想通貨相場】]]></title>
         <id>https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0319</id>
@@ -1980,36 +2001,6 @@ S&P500が調整局面入り、ビットコインへの影響は？ first appeare
         <summary type="html"><![CDATA[世界第2位の投資銀行ゴールドマンサックスが2025年株主レターで初めて仮想通貨の普及を認める。かつて「詐欺」と呼んだ同社が姿勢を転換し、仮想通貨デスク設立やブロックチェーン技術への投資を進めている。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム　新テストネットを3月17日に立ち上げへ]]></title>
-        <id>https://coinpost.jp/?p=602368</id>
-        <link href="https://coinpost.jp/?p=602368"/>
-        <updated>2025-03-14T21:02:03.000Z</updated>
-        <summary type="html"><![CDATA[新テストネット立ち上げイーサリアム財団の開発者たちは13日に開催された「AllDevsCall」において、「Hoodi」と名付けられた新しいテストネットを立ち上げることを発表した。この「長期運用型」テストネットは3月17日に開始される予定だ...]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロシアの石油企業、ビットコインやテザーを利用して中国やインドと取引＝報道]]></title>
-        <id>https://jp.cointelegraph.com/news/russia-bitcoin-oil-trade-crypto-payments</id>
-        <link href="https://jp.cointelegraph.com/news/russia-bitcoin-oil-trade-crypto-payments?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-14T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ロイターの報道によれば、ロシアに対する国際的な制裁が続く中、ロシア企業がビットコイン（BTC）やテザー（USDT）などの仮想通貨を活用し、中国やインドとの貿易を行っている。]]></summary>
-        <author>
-            <name>Cointelegraph  Helen Partz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRPのFDVがイーサリアムを超える 　XRPレジャーのDeFiエコシステムが勢いを増す]]></title>
-        <id>https://jp.cointelegraph.com/news/xrp-flips-ether-fdv-change-market-dynamics</id>
-        <link href="https://jp.cointelegraph.com/news/xrp-flips-ether-fdv-change-market-dynamics?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-14T20:55:00.000Z</updated>
-        <summary type="html"><![CDATA[XRPの完全希薄化後評価額（FDV）がイーサリアム（ETH）を上回ったことが、3月14日のコインゲッコーのデータで明らかになった。]]></summary>
-        <author>
-            <name>Cointelegraph  Alex O’Donnell</name>
         </author>
     </entry>
 </feed>

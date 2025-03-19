@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-19T08:19:47.942Z</updated>
+    <updated>2025-03-19T08:44:49.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BTCはイベント控え失速　FOMCでは景気と金利の見通しに注目【仮想通貨相場】]]></title>
+        <id>https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0319</id>
+        <link href="https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0319?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-19T08:28:00.000Z</updated>
+        <summary type="html"><![CDATA[20日午前3時に終了する米連邦公開市場委員会（FOMC）を控え、昨日のBTC相場は小動きとなった。今月のFOMCでは政策金利の据え置きがほぼ確実視されているが、注目点はトランプ関税の影響による景気の先行きを当局者がどうみているかと言える。]]></summary>
+        <author>
+            <name>Cointelegraph  コインテレグラフジャパン寄稿者</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マイクロソフトが警告──コインベースやメタマスクなどのウォレットを標的にした新たなマルウエア]]></title>
         <id>https://www.coindeskjapan.com/?p=283388</id>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-19T13:42:15.088Z</updated>
+    <updated>2025-03-19T14:14:44.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SECとリップル社の法廷闘争終結へ　ガーリングハウスCEOが「勝利宣言」]]></title>
+        <id>https://coinpost.jp/?p=603314</id>
+        <link href="https://coinpost.jp/?p=603314"/>
+        <updated>2025-03-19T13:47:57.000Z</updated>
+        <summary type="html"><![CDATA[米SECがリップル社に対する控訴を取り下げ、2020年12月から続いた歴史的な法廷闘争が終結した。ガーリングハウスCEOは「リップルと暗号資産業界全体の勝利」と宣言し、XRPが高騰した。法的地位が確定したことで米国取引所の再上場へ道が開かれることなどが期待される。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hana Network / $HANA によるToken Sale「No More CEX Round(Community Round)」、3月18日より開始]]></title>
         <id>https://crypto-times.jp/?p=132104</id>
@@ -1961,16 +1971,6 @@ S&P500が調整局面入り、ビットコインへの影響は？ first appeare
         <summary type="html"><![CDATA[コインテレグラフのコメンテーターでトレーダー、トシムリン氏が久しぶりに今後のビットコインの相場展望について最新記事を寄稿した。]]></summary>
         <author>
             <name>Cointelegraph  コインテレグラフジャパン寄稿者</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ一族のワールドリバティ、2回目のトークン販売完了　累計880億円調達]]></title>
-        <id>https://coinpost.jp/?p=602449</id>
-        <link href="https://coinpost.jp/?p=602449"/>
-        <updated>2025-03-15T01:50:37.000Z</updated>
-        <summary type="html"><![CDATA[ドナルド・トランプ一族のDeFiプロジェクトWLFIが2回目のトークン販売を完了し累計880億円を調達した。WLFIは様々な仮想通貨からなる準備金も設立する計画だ。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>

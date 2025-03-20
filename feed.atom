@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-20T11:35:41.572Z</updated>
+    <updated>2025-03-20T12:28:22.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mantle NetworkがEigenDAを統合、モジュラーブロックチェーンのスケーリングにおけるデータ可用性を強化]]></title>
+        <id>https://www.neweconomy.jp/?p=460301</id>
+        <link href="https://www.neweconomy.jp/posts/460301"/>
+        <updated>2025-03-20T11:56:45.000Z</updated>
+        <summary type="html"><![CDATA[Mantle NetworkがEigenDAを統合 レイヤー2ブロックチェーン「マントルネットワーク（Mantle Network）」が、イーサリアム（Ethereum）ベースのリステーキングプロトコル「アイゲンレイヤー […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リップルCEO、米戦略的準備金へのXRP組み入れに自信──IPOは「可能」と発言]]></title>
         <id>https://www.coindeskjapan.com/?p=283513</id>
@@ -2197,27 +2207,6 @@ NRI、野村證券、三井住友銀行ら5社、デジタル証券の拡大に�
         <summary type="html"><![CDATA[人気メッセージングアプリ「テレグラム」の創設者であるパベル・デュロフ氏が、フランス裁判所の承認を得て同国を離れ、ドバイへ渡航したことが明らかになった。]]></summary>
         <author>
             <name>Cointelegraph  Arijit Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、2024年と同様に保ち合い相場となる可能性 – 10xリサーチのアナリスト「非常にあり得る」]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-consolidation-phase-repeat-2024-price-action-possible-crypto-analyst</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-consolidation-phase-repeat-2024-price-action-possible-crypto-analyst?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-16T00:05:00.000Z</updated>
-        <summary type="html"><![CDATA[10xリサーチは、ビットコイン（BTC）が2024年と同様の値動きを繰り返す可能性を排除していない。2024年は年初に史上最高値を更新した後、ほとんどの期間を保ち合い相場で過ごした。]]></summary>
-        <author>
-            <name>Cointelegraph  Ciaran Lyons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S&P500が調整局面入り、ビットコインへの影響は？]]></title>
-        <id>https://www.coindeskjapan.com/?p=282749</id>
-        <link href="https://www.coindeskjapan.com/282749/"/>
-        <updated>2025-03-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[S&P500は今、史上最高値から10%下落した調整局面に入っている。さらに10%下落すれば、弱気相場入りとなる。パニックに陥るときが来たのだろうか？ ビ ...
-S&P500が調整局面入り、ビットコインへの影響は？ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>James Van Straten</name>
         </author>
     </entry>
 </feed>

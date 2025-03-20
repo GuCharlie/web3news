@@ -515,6 +515,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=603526",
+          "author": "CoinPost編集部",
+          "description": "仮想通貨ビットコインは前日比で50万円以上の下落となった。20日に開催されたデジタル資産サミットにおいてトランプ大統領が演説を行ったものの、新たな政策関連の発言や大統領令の署名に関する具体的な発表はなかったことで、市場では失望売りが広がった。",
+          "link": "https://coinpost.jp/?p=603526",
+          "publishedOn": "2025-03-20T22:55:37.000Z",
+          "wordCount": 3228,
+          "title": "ビットコイン50万円下落、トランプ大統領演説で失望売り発生｜仮想NISHI",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=603530",
           "author": "菊谷ルイス",
           "description": "米Canary Capitalが業界初となるPudgy Penguins NFTとPENGUトークンを保有するETFの申請書をSECに提出。トランプ政権下での仮想通貨規制緩和を背景に、アルトコインETF申請が加速している。",
@@ -1648,6 +1663,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/successful-eth-etf-less-perfect-without-staking-blackrock",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "ブラックロックのデジタル資産部門責任者であるロビー・ミッチニック氏は、同社のイーサリアム上場投資信託（ETF）について「大成功」と評したが、重要な制約があることも認めた。",
+          "link": "https://jp.cointelegraph.com/news/successful-eth-etf-less-perfect-without-staking-blackrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-20T23:00:00.000Z",
+          "wordCount": null,
+          "title": "ブラックロックのイーサリアムETFは「大成功」も　ステーキング欠如が課題に＝ブラックロック幹部",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzA1MzItYTljOC03MmVlLThhMGItY2NkNjE3MzM3MjIy.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzA1MzItYTljOC03MmVlLThhMGItY2NkNjE3MzM3MjIy.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/tether-becomes-7th-largest-us-treasury-holder-stablecoin-growth",
           "author": "Cointelegraph  Zoltan Vardai",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-20T23:13:48.742Z</updated>
+    <updated>2025-03-20T23:36:22.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[プルーフ・オブ・ワーク（PoW）マイニングは証券取引に該当せず　米SECが見解]]></title>
+        <id>https://jp.cointelegraph.com/news/sec-proof-of-work-mining-clarification</id>
+        <link href="https://jp.cointelegraph.com/news/sec-proof-of-work-mining-clarification?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-20T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会（SEC）の企業財務部は、プルーフ・オブ・ワーク（PoW）マイニングに関する見解を明確にし、特定の条件を満たす限り、これらの活動は「1933年証券法に基づく証券の提供および販売」に該当しないと述べた。]]></summary>
+        <author>
+            <name>Cointelegraph  Sam Bourgi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブラックロックのイーサリアムETFは「大成功」も　ステーキング欠如が課題に＝ブラックロック幹部]]></title>
         <id>https://jp.cointelegraph.com/news/successful-eth-etf-less-perfect-without-staking-blackrock</id>

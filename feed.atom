@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-21T22:13:58.521Z</updated>
+    <updated>2025-03-21T22:38:41.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「3600万超のアルトコインがビットコインの地位を強化」アナリスト考察]]></title>
+        <id>https://coinpost.jp/?p=603889</id>
+        <link href="https://coinpost.jp/?p=603889"/>
+        <updated>2025-03-21T22:25:32.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコインアナリストJesse Myers氏が「アルトシーズンが永久にキャンセルされた」と主張。3600万超のアルトコインの出現がビットコインのドミナンスを強化する3つの理由と「キャッチ22」パラドックスを解説。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン保有企業ストラテジー　BTC購入のための7億1100万ドルの資金調達発表]]></title>
         <id>https://jp.cointelegraph.com/news/strategy-announces-10-preferred-stock-buy-btc</id>
@@ -2879,17 +2889,6 @@ BTCとS&P500、スタグフレーショントレードに劣勢──トラン�
 商標権の小口化NFTで5500円から酒蔵投資が可能に──「Sake World」提供 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国、ビットコインの戦略的準備の検討を中止：報道]]></title>
-        <id>https://www.coindeskjapan.com/?p=282956</id>
-        <link href="https://www.coindeskjapan.com/282956/"/>
-        <updated>2025-03-17T10:25:00.000Z</updated>
-        <summary type="html"><![CDATA[韓国経済新聞の報道によると、韓国の中央銀行である韓国銀行（BOK）は、外貨準備にビットコイン（BTC）を含めることについて慎重な姿勢を示している。 報道によると ...
-韓国、ビットコインの戦略的準備の検討を中止：報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>

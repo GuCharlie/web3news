@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-21T21:35:04.833Z</updated>
+    <updated>2025-03-21T22:13:58.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン保有企業ストラテジー　BTC購入のための7億1100万ドルの資金調達発表]]></title>
+        <id>https://jp.cointelegraph.com/news/strategy-announces-10-preferred-stock-buy-btc</id>
+        <link href="https://jp.cointelegraph.com/news/strategy-announces-10-preferred-stock-buy-btc?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-21T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ストラテジー（旧マイクロストラテジー）は、新たなビットコイン（BTC）購入に先立ち、優先株による資金調達の概要を発表した。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ストラテジー社、ビットコイン追加購入のため調達額を1000億円に引き上げ]]></title>
         <id>https://coinpost.jp/?p=603879</id>
@@ -2880,17 +2890,6 @@ BTCとS&P500、スタグフレーショントレードに劣勢──トラン�
 韓国、ビットコインの戦略的準備の検討を中止：報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米財務長官、「市場の調整は健全かつ正常」と発言]]></title>
-        <id>https://www.coindeskjapan.com/?p=282917</id>
-        <link href="https://www.coindeskjapan.com/282917/"/>
-        <updated>2025-03-17T09:40:00.000Z</updated>
-        <summary type="html"><![CDATA[3月16日、アメリカのスコット・ベッセント（Scott Bessent）財務長官は、資産市場の調整は健全なものだと表現し、市場への待望の政策支援、いわゆる「トラ ...
-米財務長官、「市場の調整は健全かつ正常」と発言 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>

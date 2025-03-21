@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-21T21:13:06.869Z</updated>
+    <updated>2025-03-21T21:35:04.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ストラテジー社、ビットコイン追加購入のため調達額を1000億円に引き上げ]]></title>
+        <id>https://coinpost.jp/?p=603879</id>
+        <link href="https://coinpost.jp/?p=603879"/>
+        <updated>2025-03-21T21:25:56.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコイン追加購入のために、ストラテジー社は優先株発行規模を当初計画から45%増の7億2250万ドルに引き上げた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米SECの仮想通貨タスクフォース始動、規制アプローチの転換点に]]></title>
+        <id>https://coinpost.jp/?p=603876</id>
+        <link href="https://coinpost.jp/?p=603876"/>
+        <updated>2025-03-21T21:02:25.000Z</updated>
+        <summary type="html"><![CDATA[米SECが初の仮想通貨タスクフォース円卓会議を開催した。ゲンスラー時代の「執行による規制」からの脱却を図り、パース委員主導で新たな規制枠組みを模索していく。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓国当局、無登録の仮想通貨取引所に対するアクセス遮断措置を検討＝報道]]></title>
         <id>https://jp.cointelegraph.com/news/south-korea-fiu-targets-unregistered-crypto-exchanges</id>

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-21T10:41:10.804Z</updated>
+    <updated>2025-03-21T11:12:32.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ICFが「Evmos」をオープンソース化、公式ソフトウェア「Cosmos EVM」へ移行]]></title>
+        <id>https://www.neweconomy.jp/?p=460652</id>
+        <link href="https://www.neweconomy.jp/posts/460652"/>
+        <updated>2025-03-21T11:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Evmosがオープンソースに コスモス（Cosmos）のインフラストラクチャの開発・運営を支援するインターチェーン財団（ICF）が、Evmos（エヴモス）をオープンソース化し、コスモスのマルチチェーンエコシステム向けの標 […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EOS NetworkがWeb3バンキング特化「Vaulta」にリブランディング、新トークン発行とスワップを予定]]></title>
+        <id>https://www.neweconomy.jp/?p=460430</id>
+        <link href="https://www.neweconomy.jp/posts/460430"/>
+        <updated>2025-03-21T10:43:46.000Z</updated>
+        <summary type="html"><![CDATA[EOS Networkがリブランディング 「イオスネットワーク（EOS Network）」を運営する非営利団体イオスネットワーク財団（EOS Network Foundation：ENF）が、同ネットワークをWeb3バン […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインは8万4000ドルまで下落──FOMCを受けた急騰のあとに利益確定売り]]></title>
         <id>https://www.coindeskjapan.com/?p=283762</id>
@@ -2836,26 +2856,6 @@ NRI、野村證券、三井住友銀行ら5社、デジタル証券の拡大に�
 クロスボーダーM&Aのハードルを超え、事業拡大──米Lukka傘下に加わったAerial Partnersの勝算【沼澤氏インタビュー】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>増田隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[言論の自由とオンラインプライバシー：パベル・ドゥロフの頂点への道]]></title>
-        <id>https://jp.cointelegraph.com/news/free-speech-online-privacy-pavel-durov-rise-top</id>
-        <link href="https://jp.cointelegraph.com/news/free-speech-online-privacy-pavel-durov-rise-top?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-16T23:01:00.000Z</updated>
-        <summary type="html"><![CDATA[テレグラム創設者で言論の自由の擁護者であるパベル・ドゥロフは、1984年10月10日にロシアのサンクトペテルブルクで生まれ、幼い頃からコンピューターサイエンスの才能を発揮し、複数の成功したオンラインソーシャルメディアプラットフォームを立ち上げた。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[量子コンピュータに脆弱なビットコインはバーンが最善策 ＝ ジェイムソン・ロップ]]></title>
-        <id>https://jp.cointelegraph.com/news/burning-quantum-vulnerable-btc-best-option-jameson-lopp</id>
-        <link href="https://jp.cointelegraph.com/news/burning-quantum-vulnerable-btc-best-option-jameson-lopp?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-16T22:50:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）カストディ企業「Casa」の最高セキュリティ責任者であるジェイムソン・ロップ氏は、量子コンピュータを使ったビットコインの回収（量子リカバリー）に反対し、ビットコインのプロトコルの一貫性を守るためには失われたコインを焼却（バーン）する方が望ましいと主張した。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
         </author>
     </entry>
 </feed>

@@ -1497,6 +1497,26 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=460652",
+          "author": "TamuraSeiji",
+          "description": "Evmosがオープンソースに コスモス（Cosmos）のインフラストラクチャの開発・運営を支援するインターチェーン財団（ICF）が、Evmos（エヴモス）をオープンソース化し、コスモスのマルチチェーンエコシステム向けの標 […]",
+          "link": "https://www.neweconomy.jp/posts/460652",
+          "publishedOn": "2025-03-21T11:08:48.000Z",
+          "wordCount": 624,
+          "title": "ICFが「Evmos」をオープンソース化、公式ソフトウェア「Cosmos EVM」へ移行",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/21200844/5750ce9f669cca639099bfb7aa7e83f5.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=460430",
+          "author": "HitomotoToshikazu",
+          "description": "EOS Networkがリブランディング 「イオスネットワーク（EOS Network）」を運営する非営利団体イオスネットワーク財団（EOS Network Foundation：ENF）が、同ネットワークをWeb3バン […]",
+          "link": "https://www.neweconomy.jp/posts/460430",
+          "publishedOn": "2025-03-21T10:43:46.000Z",
+          "wordCount": 661,
+          "title": "EOS NetworkがWeb3バンキング特化「Vaulta」にリブランディング、新トークン発行とスワップを予定",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/21194337/94861fe165d1afc396355d00c50d75d0.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=460459",
           "author": "gentosha_takahashi",
           "description": "米国をBTC超大国にと再度誓う ドナルド・トランプ（Donald Trump）大統領は3月20日、暗号資産（仮想通貨）関係者が集まるサミットにて、「米国を議論の余地のないビットコインの超大国とし、世界の暗号資産の中心地に […]",
@@ -2917,36 +2937,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMmMwMWNiMmM5MTVhZWYxMzY3OGJmYWY0MjkzMTc3Yi5qZmlm.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/free-speech-online-privacy-pavel-durov-rise-top",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "テレグラム創設者で言論の自由の擁護者であるパベル・ドゥロフは、1984年10月10日にロシアのサンクトペテルブルクで生まれ、幼い頃からコンピューターサイエンスの才能を発揮し、複数の成功したオンラインソーシャルメディアプラットフォームを立ち上げた。",
-          "link": "https://jp.cointelegraph.com/news/free-speech-online-privacy-pavel-durov-rise-top?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-03-16T23:01:00.000Z",
-          "wordCount": null,
-          "title": "言論の自由とオンラインプライバシー：パベル・ドゥロフの頂点への道",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTlmODYtZjBhMi03NjU3LWJkNzItODBjYzg0ZDRjMTBj.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTlmODYtZjBhMi03NjU3LWJkNzItODBjYzg0ZDRjMTBj.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/burning-quantum-vulnerable-btc-best-option-jameson-lopp",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "ビットコイン（BTC）カストディ企業「Casa」の最高セキュリティ責任者であるジェイムソン・ロップ氏は、量子コンピュータを使ったビットコインの回収（量子リカバリー）に反対し、ビットコインのプロトコルの一貫性を守るためには失われたコインを焼却（バーン）する方が望ましいと主張した。",
-          "link": "https://jp.cointelegraph.com/news/burning-quantum-vulnerable-btc-best-option-jameson-lopp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-03-16T22:50:00.000Z",
-          "wordCount": null,
-          "title": "量子コンピュータに脆弱なビットコインはバーンが最善策 ＝ ジェイムソン・ロップ",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2FmNjgtMzQ5NC03OTEyLTk3NDktMjEwZmE4MWYxYWJh.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2FmNjgtMzQ5NC03OTEyLTk3NDktMjEwZmE4MWYxYWJh.jpg"
         }
       ]
     },

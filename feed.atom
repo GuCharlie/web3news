@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-21T20:37:52.284Z</updated>
+    <updated>2025-03-21T21:13:06.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[韓国当局、無登録の仮想通貨取引所に対するアクセス遮断措置を検討＝報道]]></title>
+        <id>https://jp.cointelegraph.com/news/south-korea-fiu-targets-unregistered-crypto-exchanges</id>
+        <link href="https://jp.cointelegraph.com/news/south-korea-fiu-targets-unregistered-crypto-exchanges?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-21T20:55:00.000Z</updated>
+        <summary type="html"><![CDATA[韓国当局が、必要な登録をせずに営業している仮想通貨取引所に対し、アクセス遮断などの制裁措置を検討している。]]></summary>
+        <author>
+            <name>Cointelegraph  Ezra Reguerra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRP 75％上昇のシナリオも　SECとの訴訟終結でファンダメンタルズ堅調]]></title>
         <id>https://jp.cointelegraph.com/news/xrp-price-chart-75-sec-withdraws-lawsuit-against-ripple</id>
@@ -2861,37 +2871,6 @@ BTCとS&P500、スタグフレーショントレードに劣勢──トラン�
 米財務長官、「市場の調整は健全かつ正常」と発言 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テレグラム創設者パベル・デュロフ、フランス当局より「数週間」出国許可か＝報道]]></title>
-        <id>https://www.neweconomy.jp/?p=459197</id>
-        <link href="https://www.neweconomy.jp/posts/459197"/>
-        <updated>2025-03-17T08:52:01.000Z</updated>
-        <summary type="html"><![CDATA[テレグラム創設者パベル・デュロフがフランスから出国か フランスで起訴され同国からの出国を禁じられていた、テレグラム（Telegram）のCEO兼創設者であるパベル・デュロフ（Pavel Durov）氏が、ドバイへ出国した […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラックロックのトークン化ファンド「BUIDL」、運用資産額が10億ドル突破]]></title>
-        <id>https://www.neweconomy.jp/?p=459177</id>
-        <link href="https://www.neweconomy.jp/posts/459177"/>
-        <updated>2025-03-17T08:46:24.000Z</updated>
-        <summary type="html"><![CDATA[BUIDLの運用資産額が約1,846億円に 「ブラックロック・米ドル機関投資家向けデジタル流動性ファンド（BlackRock USD Institutional Digital Liquidity Fund：BUIDL） […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインが低調、ADA、SOL、XRPも5%下落──「押し目買い」の心理が続く]]></title>
-        <id>https://www.coindeskjapan.com/?p=282899</id>
-        <link href="https://www.coindeskjapan.com/282899/"/>
-        <updated>2025-03-17T08:40:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は、CoinDesk Indicesのデータによると3月17日に24時間で2%下落し、マイナスで週が始まった。さらに、主要なトークンが最大 ...
-ビットコインが低調、ADA、SOL、XRPも5%下落──「押し目買い」の心理が続く first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>

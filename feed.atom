@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-22T19:35:26.443Z</updated>
+    <updated>2025-03-22T20:14:57.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米財務省、トルネードキャッシュを制裁リストから削除　控訴審の判断を受けて対応]]></title>
+        <id>https://jp.cointelegraph.com/news/tornado-mixer-dropped-from-us-blacklist</id>
+        <link href="https://jp.cointelegraph.com/news/tornado-mixer-dropped-from-us-blacklist?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-22T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米財務省は3月21日、仮想通貨ミキサー「トルネードキャッシュ」を制裁リストから削除したと発表した。]]></summary>
+        <author>
+            <name>Cointelegraph  Alex O’Donnell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[貿易戦争の懸念が仮想通貨と伝統市場に圧力　4月初旬までは不透明感続く可能性も]]></title>
         <id>https://jp.cointelegraph.com/news/crypto-markets-pressured-trade-wars-april-analyst</id>
@@ -2503,48 +2513,6 @@ DOGE、XRP、3%下落──トレーダーはFRBの金利決定を注視 first a
         <summary type="html"><![CDATA[17日のビットコイン（BTC）円は1230万8000円から取引が始まった。]]></summary>
         <author>
             <name>Cointelegraph  コインテレグラフジャパン寄稿者</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨投資で世界との情報格差解消へ　AI多言語プラットフォーム「CoinPost Terminal」アルファ版ローンチ]]></title>
-        <id>https://coinpost.jp/?p=602258</id>
-        <link href="https://coinpost.jp/?p=602258"/>
-        <updated>2025-03-18T08:00:14.000Z</updated>
-        <summary type="html"><![CDATA[国内最大のWeb3メディアCoinPostは、ビットコインなど仮想通貨市場における世界との情報格差の解消を目指すAI活用プラットフォーム「CoinPost Terminal」α版を公開した。海外の投資関連情報をリアルタイムで収集・翻訳・要約し、「CP-Selected List」と呼ばれる信頼性の高いソースから情報を一元提供する。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインからAIへの転換期か｜米マイニング業者の最新戦略]]></title>
-        <id>https://crypto-times.jp/?p=132034</id>
-        <link href="https://crypto-times.jp/news-bitfarms-btc-to-ai/"/>
-        <updated>2025-03-18T07:58:40.000Z</updated>
-        <summary type="html"><![CDATA[昨年8月、ビットコインマイニング企業Bitfarmsは競合企業Stronghold Digital Miningを1億2500万ドルの株式価値と5000万ドルの負債引受で買収する合併契約を締結しました。そして先日、この買 […]
-投稿 ビットコインからAIへの転換期か｜米マイニング業者の最新戦略 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スイ（SUI）で年内に10タイトルのWeb3ゲームリリースへ、セガの「コードオブジョーカー」最新作も]]></title>
-        <id>https://www.neweconomy.jp/?p=459433</id>
-        <link href="https://www.neweconomy.jp/posts/459433"/>
-        <updated>2025-03-18T07:54:52.000Z</updated>
-        <summary type="html"><![CDATA[Suiで新たに10タイトルのゲーム展開 レイヤー1（L1）ブロックチェーン「スイ（Sui）」上で、セガ（SEGA）ライセンスのデジタルトレーディングカードゲーム「コードオブジョーカー：エヴォリューションズ（CODE OF […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TISと女子プロ卓球チーム、デジタル社債でTリーグ初の資金調達へ]]></title>
-        <id>https://www.coindeskjapan.com/?p=283091</id>
-        <link href="https://www.coindeskjapan.com/283091/"/>
-        <updated>2025-03-18T07:36:38.000Z</updated>
-        <summary type="html"><![CDATA[IT大手のTISとTリーグ女子プロ卓球チーム「京都カグヤライズ」を運営する京都卓球クラブは3月18日、私募によるデジタル社債「カグヤスマイルトークン」の発行を発 ...
-TISと女子プロ卓球チーム、デジタル社債でTリーグ初の資金調達へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>橋本 祐樹</name>
         </author>
     </entry>
 </feed>

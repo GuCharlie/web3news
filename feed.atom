@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-22T21:35:22.954Z</updated>
+    <updated>2025-03-22T22:12:45.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨業界、米国でのデバンキング問題は「まだ終わっていない」]]></title>
+        <id>https://jp.cointelegraph.com/news/crypto-debanking-over-jan-2026-caitlin-long</id>
+        <link href="https://jp.cointelegraph.com/news/crypto-debanking-over-jan-2026-caitlin-long?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-22T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨業界は、米国で進展する規制緩和の動きとは裏腹に、「デバンキング（銀行サービスからの排除）」に関する課題をいまだに抱えている可能性がある。複数の業界関係者が指摘している。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米政府、金証券の含み益を原資とするビットコイン取得の可能性も＝ホワイトハウス高官が言及]]></title>
         <id>https://jp.cointelegraph.com/news/govt-realize-gains-gold-certificates-buy-bitcoin-bo-hines</id>

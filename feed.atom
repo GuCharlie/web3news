@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-23T22:13:58.856Z</updated>
+    <updated>2025-03-23T22:38:57.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[セイラー氏、資金調達完了後のビットコイン追加購入を示唆]]></title>
+        <id>https://jp.cointelegraph.com/news/saylor-hints-impending-btc-buy-after-capital-raise</id>
+        <link href="https://jp.cointelegraph.com/news/saylor-hints-impending-btc-buy-after-capital-raise?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-23T22:18:00.000Z</updated>
+        <summary type="html"><![CDATA[ストラテジー社の共同創業者マイケル・セイラー氏は、同社が今週、最新の優先株発行によって追加資本を調達したことを受け、近くビットコイン（BTC）を購入する可能性を示唆した。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサ、クジラの買い増し進行で「マクロレンジ」2,200ドル回復の可能性]]></title>
+        <id>https://jp.cointelegraph.com/news/eth-reclaim-2-2-k-macro-range-whale-accumulation</id>
+        <link href="https://jp.cointelegraph.com/news/eth-reclaim-2-2-k-macro-range-whale-accumulation?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-23T22:11:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産市場が少なくとも4月初旬まで世界的なマクロ経済懸念の影響を受けると予想される中、イーサ（ETH）がさらなる上昇の勢いを得るには、2,200ドルを超える「マクロレンジ」を取り戻す必要がある。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインのマイニング・ハッシュ価格、難易度上昇にもかかわらず横ばい＝レポート]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-mining-hashprice-flat-despite-higher-difficulty</id>

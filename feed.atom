@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-24T11:35:45.037Z</updated>
+    <updated>2025-03-24T12:30:38.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨XRPの100倍は可能か｜アナリスト予想と2025年重大ニュース]]></title>
+        <id>https://crypto-times.jp/?p=132391</id>
+        <link href="https://crypto-times.jp/column-xrp-100x/"/>
+        <updated>2025-03-24T11:36:48.000Z</updated>
+        <summary type="html"><![CDATA[国際送金の効率化を目指す仮想通貨XRP（エックスアールピー）。その将来性には熱い視線が注がれ、一部のアナリストからは価格が今後数年で100倍以上になる可能性さえ囁かれています。果たして、そのような急騰は本当にあり得るので […]
+投稿 仮想通貨XRPの100倍は可能か｜アナリスト予想と2025年重大ニュース は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【3/24話題】OmakaseがBitGoの日本初のバリデータパートナーに、米財務省がトルネードキャッシュの制裁解除など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=460843</id>
@@ -2124,27 +2135,6 @@ BTC、ETH、SOLの価格、FOMC金利決定で3～5%変動の可能性──Volm
         <summary type="html"><![CDATA[米国ノースカロライナ州議会で新たなビットコイン準備金創設法案が提出された。公的資金の最大10%を仮想通貨ビットコインへの投資に充て、州の金融革新を推進するという内容だ。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン50万円上昇、FOMC・トランプ演説・SEC動向が影響｜仮想NISHI]]></title>
-        <id>https://coinpost.jp/?p=603348</id>
-        <link href="https://coinpost.jp/?p=603348"/>
-        <updated>2025-03-20T00:15:33.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコインは前日比で50万円以上の上昇となった。米FOMCにおいて、年内2回の利下げ見通しが据え置かれたことで、米連邦準備制度理事会が利下げを再開するとの期待が強まり、市場はリスクオンの流れとなった。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シーメンス、IoT機器にブロックチェーンを組み込み]]></title>
-        <id>https://www.coindeskjapan.com/?p=283417</id>
-        <link href="https://www.coindeskjapan.com/283417/"/>
-        <updated>2025-03-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ヨーロッパ最大の産業テクノロジー企業シーメンス（Siemens）は、IoT（モノのインターネット）向けブロックチェーン開発企業のMinimaと提携し、自動車、ロ ...
-シーメンス、IoT機器にブロックチェーンを組み込み first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Ian Allison</name>
         </author>
     </entry>
 </feed>

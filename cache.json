@@ -455,6 +455,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=603982",
+          "author": "A.Yamada",
+          "description": "米資産運用大手フィデリティが、米ドル建てMMF「FYHXX」を仮想通貨イーサリアムのチェーンでトークン化することをSECに申請した。成長するRWA市場での新たな展開を解説する。",
+          "link": "https://coinpost.jp/?p=603982",
+          "publishedOn": "2025-03-24T01:16:15.000Z",
+          "wordCount": 3209,
+          "title": "フィデリティ、米ドル建てMMF「FYHXX」のイーサリアム上トークン化を申請",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/fidelity-expanding-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/fidelity-expanding-1.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=602837",
           "author": "CoinPost編集部",
           "description": "カルダノ創設者チャールズ・ホスキンソン氏が、トランプ政権の仮想通貨政策、SpaceXとの提携計画、日本の税制などについて語った独占インタビュー。仮想通貨の課題についても話している。",
@@ -978,21 +993,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0555.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0555.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=603314",
-          "author": "CoinPost編集部",
-          "description": "米SECがリップル社に対する控訴を取り下げ、2020年12月から続いた歴史的な法廷闘争が終結した。ガーリングハウスCEOは「リップルと暗号資産業界全体の勝利」と宣言し、XRPが高騰した。法的地位が確定したことで米国取引所の再上場へ道が開かれることなどが期待される。",
-          "link": "https://coinpost.jp/?p=603314",
-          "publishedOn": "2025-03-19T13:47:57.000Z",
-          "wordCount": 3214,
-          "title": "SECとリップル社の法廷闘争終結へ　ガーリングハウスCEOが「勝利宣言」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/05/xrp-long_.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/05/xrp-long_.jpg"
         }
       ]
     },
@@ -1001,6 +1001,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=460700",
+          "author": "OtsugaShinya",
+          "description": "OmakaseがBitGoのバリデータパートナーに選出 国内バリデータ運用事業者のOmakaseが、デジタル資産のカストディサービスを提供するビットゴー（BitGo Trust Company）より、同社の国内初バリデー […]",
+          "link": "https://www.neweconomy.jp/posts/460700",
+          "publishedOn": "2025-03-24T02:29:09.000Z",
+          "wordCount": 597,
+          "title": "Omakase、BitGoの日本初のバリデータパートナーに選出",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/24112905/c7dc46ed83bb86fffffd81662d0893a0.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=460690",
+          "author": "OtsugaShinya",
+          "description": "メタプラネットが約18億円で150BTC追加 ビットコイン（BTC）の購入を積極的に進めている東証スタンダード上場企業メタプラネットが、新たなビットコイン追加購入の実施を3月24日に発表した。 今回メタプラネットが追加購 […]",
+          "link": "https://www.neweconomy.jp/posts/460690",
+          "publishedOn": "2025-03-24T02:08:09.000Z",
+          "wordCount": 746,
+          "title": "メタプラネットが約18億円でビットコイン追加購入、150枚追加で総保有数3,350BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/24110804/6c14dc2012a7204bc22a7f2d612b75ca.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=460456",
           "author": "NewEconomyPodcast",
@@ -2344,16 +2364,6 @@
           "wordCount": 666,
           "title": "Trezor SuiteがSolanaステーキングをサポート",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/STAKING.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=132117",
-          "author": "アラタ &#124; Shingo Arai",
-          "description": "Ripple CEOであるBrad Garlinghouseが自身のツイートにて、アメリカ証券取引委員会（SEC）によるRippleに対する訴訟が公式に終了したことを発表しました。 This is it – the mo […]\n投稿 Ripple(リップル)社とSECの裁判が終了、 $XRP は15％の価格上昇へ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-ripple-win-from-sec/",
-          "publishedOn": "2025-03-19T14:35:10.000Z",
-          "wordCount": 703,
-          "title": "Ripple(リップル)社とSECの裁判が終了、 $XRP は15％の価格上昇へ",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_1976930807.jpg"
         }
       ]
     }

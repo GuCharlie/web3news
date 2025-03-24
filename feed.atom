@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-24T08:20:18.695Z</updated>
+    <updated>2025-03-24T08:44:20.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フィリピン最大のデジタルウォレットGCashがUSDCをサポート]]></title>
+        <id>https://www.coindeskjapan.com/?p=284032</id>
+        <link href="https://www.coindeskjapan.com/284032/"/>
+        <updated>2025-03-24T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[フィリピン最大のデジタルウォレット「GCash」は、サークル（Circle）のUSDコイン（USDC）をサポートすると発表した。 The largest and ...
+フィリピン最大のデジタルウォレットGCashがUSDCをサポート first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Sam Reynolds</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン価格上昇の鍵はステーブルコインか]]></title>
         <id>https://crypto-times.jp/?p=132358</id>
@@ -2102,26 +2113,6 @@ BTC、8万4000ドル付近を維持──FRBの金利据え置き発表後 first
         <summary type="html"><![CDATA[データセンターインフラ企業のハイブ・デジタルが、ビットコイン（BTC）の長期保有戦略を強化している。さらに最近の市場調整を活用し、マイニング能力の拡大と新たな買収先の模索に注力している。]]></summary>
         <author>
             <name>Cointelegraph  Sam Bourgi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カルダノ（ADA）のセンチメントが4か月ぶり高値　3月末までに20%の上昇となるか]]></title>
-        <id>https://jp.cointelegraph.com/news/cardano-ada-on-verge-of-20-breakout-as-social-sentiment-indicator-hits-4-month-high</id>
-        <link href="https://jp.cointelegraph.com/news/cardano-ada-on-verge-of-20-breakout-as-social-sentiment-indicator-hits-4-month-high?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-19T20:40:00.000Z</updated>
-        <summary type="html"><![CDATA[カルダノ（ADA）は2月に32%の下落を経験した後、3月には13.5%の上昇を維持している。2024年第1四半期のパフォーマンスは依然として15%のマイナスだが、テクニカルデータは最近のポジティブな値動きの継続を示唆している。]]></summary>
-        <author>
-            <name>Cointelegraph  Biraajmaan Tamuly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カルダノ（ADA）のセンチメントが4か月ぶり高値　3月末までに20%の上昇となるか]]></title>
-        <id>https://jp.cointelegraph.com/news/cardano-ada-on-verge-of-20-breakout-as-social-sentiment-indicator-hits-4-month-high</id>
-        <link href="https://jp.cointelegraph.com/news/cardano-ada-on-verge-of-20-breakout-as-social-sentiment-indicator-hits-4-month-high?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-19T20:40:00.000Z</updated>
-        <summary type="html"><![CDATA[カルダノ（ADA）は2月に32%の下落を経験した後、3月には13.5%の上昇を維持している。2024年第1四半期のパフォーマンスは依然として15%のマイナスだが、テクニカルデータは最近のポジティブな値動きの継続を示唆している。]]></summary>
-        <author>
-            <name>Cointelegraph  Biraajmaan Tamuly</name>
         </author>
     </entry>
 </feed>

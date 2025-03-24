@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-24T20:38:04.197Z</updated>
+    <updated>2025-03-24T21:13:39.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン上のDeFi実現に向け、開発者はゼロ知識証明を検討──フォークによるリスクも]]></title>
+        <id>https://www.coindeskjapan.com/?p=283805</id>
+        <link href="https://www.coindeskjapan.com/283805/"/>
+        <updated>2025-03-24T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーンにおける分散型金融（DeFi）機能の拡張を目するビットコインの開発者は、ゼロ知識証明について検討している可能性が高い。これについては現在利用でき ...
+ビットコイン上のDeFi実現に向け、開発者はゼロ知識証明を検討──フォークによるリスクも first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>T. Minamoto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨XRPの100倍は可能か｜アナリスト予想と2025年重大ニュース]]></title>
         <id>https://crypto-times.jp/?p=132391</id>
@@ -1878,16 +1889,6 @@ SBI VCトレード、ステーブルコイン「USDC」本格提供に向け取�
         <summary type="html"><![CDATA[ビットメックスの共同創設者アーサー・ヘイズ氏によれば、米連邦準備制度理事会（FRB）が量的引き締め（QT）の減速を示唆したことで、ビットコイン（BTC）は当面7万7000ドルの価格水準に戻る可能性は低い。]]></summary>
         <author>
             <name>Cointelegraph  Ciaran Lyons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トロン（TRX）がソラナ上で近日ローンチか、TRON創設者ジャスティン・サン言及]]></title>
-        <id>https://www.neweconomy.jp/?p=460198</id>
-        <link href="https://www.neweconomy.jp/posts/460198"/>
-        <updated>2025-03-20T08:56:22.000Z</updated>
-        <summary type="html"><![CDATA[TRXがソラナ上で近日ローンチか トロン（TRON）ブロックチェーンのネイティブトークンであるトロン（TRX）が、ソラナ（Solana）ブロックチェーン上に近日中に発行予定であるようだ。 トロンの創設者であるジャスティン […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>

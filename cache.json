@@ -525,6 +525,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=604389",
+          "author": "AKIRA.H",
+          "description": "コインチェック株式会社が法人・機関投資家向け暗号資産サービス「Coincheck Prime」を開始。1,000万円以上の大口取引に特化し、アセットロック・OTC取引・カストディなど充実のサポートを提供する。",
+          "link": "https://coinpost.jp/?p=604389",
+          "publishedOn": "2025-03-25T06:54:00.000Z",
+          "wordCount": 3213,
+          "title": "コインチェックが「Coincheck Prime」　大口取引・保管サービスを提供開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/Coincheck-Prime_0325.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/Coincheck-Prime_0325.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=604368",
           "author": "菊谷ルイス",
           "description": "仮想通貨最大手バイナンス、従業員による非公開情報を利用した不正取引を内部調査で特定。11万ドル以上の利益を違法に得た従業員を処分したと報告した。",
@@ -1648,6 +1663,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0325",
+          "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
+          "description": "昨日のBTC相場は続伸。",
+          "link": "https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0325?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-25T06:53:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン続伸、投資マインド回復鮮明に！今週はどこまで戻す？【仮想通貨相場】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zMDc4MTViMTAyMTMwYmY0OWNjMjQ1OTdlZDE4ZWQ5Mi5qcGc=.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zMDc4MTViMTAyMTMwYmY0OWNjMjQ1OTdlZDE4ZWQ5Mi5qcGc=.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/trump-media-partners-with-crypto-com-to-launch-etfs",
           "author": "Cointelegraph  Brayden Lindrea",

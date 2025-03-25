@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-25T22:39:34.572Z</updated>
+    <updated>2025-03-25T23:13:38.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインが年内に高値更新する可能性は75%＝ティモシー・ピーターソン]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-price-has-75-chance-of-hitting-new-highs-in-2025-analyst</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-price-has-75-chance-of-hitting-new-highs-in-2025-analyst?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-25T23:02:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は今後9カ月以内に新高値を更新する可能性が75％に達している──こう語るのは、ビットコインネットワーク経済学者のティモシー・ピーターソン氏だ。]]></summary>
+        <author>
+            <name>Cointelegraph  Biraajmaan Tamuly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインの展望「2Qは過去最高のリスク資産パフォーマンス期間」　QCPが分析]]></title>
+        <id>https://coinpost.jp/?p=604518</id>
+        <link href="https://coinpost.jp/?p=604518"/>
+        <updated>2025-03-25T22:35:44.000Z</updated>
+        <summary type="html"><![CDATA[QCPキャピタルの市場分析によると、Q2は過去最高のリスク資産パフォーマンス期間。株式市場と仮想通貨ビットコインの動向に注目が集まる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインマイナーの収益、半減期後に安定＝コインメトリクス]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-miners-income-stabilizes-post-halving-coin-metrics</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-miners-income-stabilizes-post-halving-coin-metrics?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-25T22:33:00.000Z</updated>
+        <summary type="html"><![CDATA[コインメトリクスのデータによると、ビットコイン（BTC）のマイニング収益は2024年第4四半期に37億ドルに達し、前期比で42％増加した。2025年第1四半期もこれに近い36億ドル前後に達する見込みだ。]]></summary>
+        <author>
+            <name>Cointelegraph  Alex O’Donnell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゲームストップ、取締役会の承認を受けビットコイン購入を示唆]]></title>
         <id>https://jp.cointelegraph.com/news/gamestop-future-bitcoin-purchases-board-approval</id>
@@ -1663,26 +1693,6 @@ CryptoQuantのBTCブルスコア指数が2年ぶりの低水準に first appeare
         <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICFが「Evmos」をオープンソース化、公式ソフトウェア「Cosmos EVM」へ移行]]></title>
-        <id>https://www.neweconomy.jp/?p=460652</id>
-        <link href="https://www.neweconomy.jp/posts/460652"/>
-        <updated>2025-03-21T11:08:48.000Z</updated>
-        <summary type="html"><![CDATA[Evmosがオープンソースに コスモス（Cosmos）のインフラストラクチャの開発・運営を支援するインターチェーン財団（ICF）が、Evmos（エヴモス）をオープンソース化し、コスモスのマルチチェーンエコシステム向けの標 […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EOS NetworkがWeb3バンキング特化「Vaulta」にリブランディング、新トークン発行とスワップを予定]]></title>
-        <id>https://www.neweconomy.jp/?p=460430</id>
-        <link href="https://www.neweconomy.jp/posts/460430"/>
-        <updated>2025-03-21T10:43:46.000Z</updated>
-        <summary type="html"><![CDATA[EOS Networkがリブランディング 「イオスネットワーク（EOS Network）」を運営する非営利団体イオスネットワーク財団（EOS Network Foundation：ENF）が、同ネットワークをWeb3バン […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
 </feed>

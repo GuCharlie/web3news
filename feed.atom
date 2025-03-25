@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-25T21:13:39.524Z</updated>
+    <updated>2025-03-25T21:35:32.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[リップル、SECへの追加上訴を撤回　4年間の法廷闘争に終止符]]></title>
+        <id>https://coinpost.jp/?p=604500</id>
+        <link href="https://coinpost.jp/?p=604500"/>
+        <updated>2025-03-25T21:25:43.000Z</updated>
+        <summary type="html"><![CDATA[リップル社がSEC訴訟の追加上訴を行わず。XRPの法的地位が明確化され、4年間の法廷闘争に終止符。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゲームストップ、取締役会が全会一致でビットコインを準備金として承認]]></title>
         <id>https://coinpost.jp/?p=604498</id>
@@ -1666,28 +1676,6 @@ CryptoQuantのBTCブルスコア指数が2年ぶりの低水準に first appeare
 ソラナベースのDEX「Orca」のネイティブトークン、92％急騰──アップビットに上場で first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨取引所Bitgetにてリップルを獲得できる「XRP取引祭り」が開催中！]]></title>
-        <id>https://crypto-times.jp/?p=132226</id>
-        <link href="https://crypto-times.jp/news-bitget-trade-xrp/"/>
-        <updated>2025-03-21T09:29:33.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所Bitgetにて、リップル（XRP）を取引すればするほどXRPがもらえる「XRP取引祭り」が開催されました。 【✨🎊 $XRP 取引祭り🎊✨】 3 […]
-投稿 仮想通貨取引所Bitgetにてリップルを獲得できる「XRP取引祭り」が開催中！ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産を本当に安全に守るには？Tangemハードウェアウォレットが選ばれる理由]]></title>
-        <id>https://crypto-times.jp/?p=125645</id>
-        <link href="https://crypto-times.jp/tangem-wallet/"/>
-        <updated>2025-03-21T09:20:45.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産取引所Bybitで2月21日に発生した巨額ハッキング事件が、暗号資産業界を揺るがしました。被害額は15億ドルと推定され歴史上最大規模のハッキング事件となりました。 Bybit事件をきっかけとして資産の安全な自己管 […]
-投稿 暗号資産を本当に安全に守るには？Tangemハードウェアウォレットが選ばれる理由 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Troll</name>
         </author>
     </entry>
 </feed>

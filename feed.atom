@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-25T11:12:29.984Z</updated>
+    <updated>2025-03-25T11:36:11.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米ドル連動のステーブルコイン「USDC」、国内で取り扱いへ]]></title>
+        <id>https://crypto-times.jp/?p=132416</id>
+        <link href="https://crypto-times.jp/news-circle-usdc-japan/"/>
+        <updated>2025-03-25T11:30:21.000Z</updated>
+        <summary type="html"><![CDATA[米ドルに連動したステーブルコインであるUSDCが日本国内で取り扱いが開始されます。 Circle社が手掛けるUSDCは2025年3月26日19時よりSBI VC Tradeにおいて取引が可能となります。また、今後はSBI […]
+投稿 米ドル連動のステーブルコイン「USDC」、国内で取り扱いへ は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【3/25話題】サークルがバイナンスジャパン・ビットバンク・ビットフライヤー「USDC」取扱予告、サークルとSBIと合弁会社へなど（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=461306</id>
+        <link href="https://www.neweconomy.jp/posts/461306"/>
+        <updated>2025-03-25T11:26:41.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メタプラネットCEO「アジア最大のビットコイン保有者になる」]]></title>
         <id>https://crypto-times.jp/?p=132411</id>
@@ -2165,26 +2186,6 @@ SBI VCトレード、ステーブルコイン「USDC」本格提供に向け取�
         <summary type="html"><![CDATA[パウエル議長が関税によるインフレを「一過性」と評価。ヘイズ氏は「ビットコイン底値は77,000ドル」と予測する一方、QCPはFRBの慎重姿勢とスタグフレーションリスクを指摘した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プルーフ・オブ・ワーク（PoW）マイニングは証券取引に該当せず　米SECが見解]]></title>
-        <id>https://jp.cointelegraph.com/news/sec-proof-of-work-mining-clarification</id>
-        <link href="https://jp.cointelegraph.com/news/sec-proof-of-work-mining-clarification?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-20T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[米証券取引委員会（SEC）の企業財務部は、プルーフ・オブ・ワーク（PoW）マイニングに関する見解を明確にし、特定の条件を満たす限り、これらの活動は「1933年証券法に基づく証券の提供および販売」に該当しないと述べた。]]></summary>
-        <author>
-            <name>Cointelegraph  Sam Bourgi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プルーフ・オブ・ワーク（PoW）マイニングは証券取引に該当せず　米SECが見解]]></title>
-        <id>https://jp.cointelegraph.com/news/sec-proof-of-work-mining-clarification</id>
-        <link href="https://jp.cointelegraph.com/news/sec-proof-of-work-mining-clarification?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-20T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[米証券取引委員会（SEC）の企業財務部は、プルーフ・オブ・ワーク（PoW）マイニングに関する見解を明確にし、特定の条件を満たす限り、これらの活動は「1933年証券法に基づく証券の提供および販売」に該当しないと述べた。]]></summary>
-        <author>
-            <name>Cointelegraph  Sam Bourgi</name>
         </author>
     </entry>
 </feed>

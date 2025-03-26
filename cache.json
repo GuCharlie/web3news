@@ -605,6 +605,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=604773",
+          "author": "菊谷ルイス",
+          "description": "北カロライナ州が年金資金の最大5%をビットコインに投資可能にする法案を提出。ビットコイン投資の新たな可能性を探る画期的な提案の詳細とは。",
+          "link": "https://coinpost.jp/?p=604773",
+          "publishedOn": "2025-03-26T23:12:51.000Z",
+          "wordCount": 3192,
+          "title": "米国の北カロライナ議員、公的資金の最大10%をビットコインに投資する法案を提出",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/north-caro-bitcoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/north-caro-bitcoin.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=604764",
           "author": "菊谷ルイス",
           "description": "仮想通貨イーサリアムの次期アップグレードPectraが新テストネットHoodiで最終テストを成功。4月25日のメインネット導入に向け前進。",
@@ -1678,6 +1693,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/blackrock-buidl-3x-1-8-b-3-weeks-bitcoin-lacks-momentum",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "ブラックロックのイーサリアム基盤マネーマーケットファンド「USDインスティテューショナル・デジタル・リクイディティ・ファンド（BUIDL）」の運用資産額（TVL）が過去3週間で3倍以上に増加し、デジタル資産市場での安全資産需要の高まりを背景に、20億ドルに迫っている。",
+          "link": "https://jp.cointelegraph.com/news/blackrock-buidl-3x-1-8-b-3-weeks-bitcoin-lacks-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-26T22:59:00.000Z",
+          "wordCount": null,
+          "title": "ブラックロックのトークン化ファンド「BUIDL」、ビットコイン停滞の中で3週間で3倍に急増",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzQ0ZWItZDM0NS03MTZjLTgwOTctMzU0OTVlYWU5YzNk.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzQ0ZWItZDM0NS03MTZjLTgwOTctMzU0OTVlYWU5YzNk.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/gamestop-shares-up-bitcoin-investment-plan-debt-notes",
           "author": "Cointelegraph  Christopher Tepedino",

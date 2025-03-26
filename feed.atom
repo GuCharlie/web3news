@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-26T23:14:17.226Z</updated>
+    <updated>2025-03-26T23:36:19.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米国の北カロライナ議員、公的資金の最大10%をビットコインに投資する法案を提出]]></title>
+        <id>https://coinpost.jp/?p=604773</id>
+        <link href="https://coinpost.jp/?p=604773"/>
+        <updated>2025-03-26T23:12:51.000Z</updated>
+        <summary type="html"><![CDATA[北カロライナ州が年金資金の最大5%をビットコインに投資可能にする法案を提出。ビットコイン投資の新たな可能性を探る画期的な提案の詳細とは。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゲームストップ、ビットコイン購入のため転換社債で約1960億円を調達]]></title>
         <id>https://www.coindeskjapan.com/?p=284521</id>
@@ -15,6 +25,16 @@
 ゲームストップ、ビットコイン購入のため転換社債で約1960億円を調達 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Stephen Alpher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブラックロックのトークン化ファンド「BUIDL」、ビットコイン停滞の中で3週間で3倍に急増]]></title>
+        <id>https://jp.cointelegraph.com/news/blackrock-buidl-3x-1-8-b-3-weeks-bitcoin-lacks-momentum</id>
+        <link href="https://jp.cointelegraph.com/news/blackrock-buidl-3x-1-8-b-3-weeks-bitcoin-lacks-momentum?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-26T22:59:00.000Z</updated>
+        <summary type="html"><![CDATA[ブラックロックのイーサリアム基盤マネーマーケットファンド「USDインスティテューショナル・デジタル・リクイディティ・ファンド（BUIDL）」の運用資産額（TVL）が過去3週間で3倍以上に増加し、デジタル資産市場での安全資産需要の高まりを背景に、20億ドルに迫っている。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
         </author>
     </entry>
     <entry>

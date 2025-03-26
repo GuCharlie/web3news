@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=284521",
+          "author": "Stephen Alpher",
+          "description": "ビデオゲーム小売大手のゲームストップは3月25日、バランスシートへ追加するためにビットコインの購入を開始する意向を明らかにした。 ビットコイン財務戦略を採用する ...\nゲームストップ、ビットコイン購入のため転換社債で約1960億円を調達 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/284521/",
+          "publishedOn": "2025-03-26T23:08:25.000Z",
+          "wordCount": 1330,
+          "title": "ゲームストップ、ビットコイン購入のため転換社債で約1960億円を調達",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/shutterstock_1905054661.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=284517",
           "author": "Helene Braun",
           "description": "コンピュータゲーム小売大手ゲームストップの株価は3月26日、同社がバランスシートに追加するためにビットコインの購入を開始すると発表したことを受けて、16％値上が ...\nビットコイン財務戦略採用のゲームストップ株、16％急騰 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -1668,6 +1678,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/gamestop-shares-up-bitcoin-investment-plan-debt-notes",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "ゲームストップの株価が3月26日、同社がビットコイン（BTC）の購入計画を発表したことを受けて、約12％急騰した。",
+          "link": "https://jp.cointelegraph.com/news/gamestop-shares-up-bitcoin-investment-plan-debt-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-26T22:52:00.000Z",
+          "wordCount": null,
+          "title": "ゲームストップ、ビットコイン購入計画を発表後に株価が急騰",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQ0MjgtODlhMy03MTczLTkxMGUtMmM0OThhOGJmY2Yw.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQ0MjgtODlhMy03MTczLTkxMGUtMmM0OThhOGJmY2Yw.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/specialized-purpose-dex-poised-growth-michael-egorov",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "Curve Financeの創業者マイケル・エゴロフ氏によると、2025年には分散型金融（DeFi）の複数の分野、特に特定用途向けの分散型取引所（DEX）、ステーブルコイン、トークン化資産で成長が期待されているという。",
+          "link": "https://jp.cointelegraph.com/news/specialized-purpose-dex-poised-growth-michael-egorov?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-26T22:38:00.000Z",
+          "wordCount": null,
+          "title": "2025年に成長が見込まれる特化型DEX｜Curve創業者が予測",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQzM2UtMGUxNS03MWVkLWIyNDQtODk2ODIwNzYyZGIw.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQzM2UtMGUxNS03MWVkLWIyNDQtODk2ODIwNzYyZGIw.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/firms-without-a-business-model-buy-bitcoin-angel-investor-jason-calacanis",
           "author": "Cointelegraph  Adrian Zmudzinski",

@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-26T23:36:19.910Z</updated>
+    <updated>2025-03-27T01:10:15.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[gumiの新たな株主優待、総額1600万円のビットコインを抽選で進呈へ]]></title>
+        <id>https://coinpost.jp/?p=604803</id>
+        <link href="https://coinpost.jp/?p=604803"/>
+        <updated>2025-03-27T01:02:10.000Z</updated>
+        <summary type="html"><![CDATA[gumiが画期的な株主優待を発表。SBI VCトレードと提携し、総額1,600万円相当のビットコインを抽選で進呈する。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米州政府、独自ステーブルコインを7月にも発行の可能性　イーサリアムなどでテスト実施]]></title>
+        <id>https://coinpost.jp/?p=604785</id>
+        <link href="https://coinpost.jp/?p=604785"/>
+        <updated>2025-03-27T00:50:47.000Z</updated>
+        <summary type="html"><![CDATA[ワイオミング州は、独自の米ドルステーブルコイン「WYST」を早ければ2025年7月にもローンチする予定。現在は仮想通貨のイーサリアムやソラナなどのブロックチェーンでテストを行っている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フランス上場企業、76億円相当のビットコインを取得　他社に追随]]></title>
+        <id>https://coinpost.jp/?p=604778</id>
+        <link href="https://coinpost.jp/?p=604778"/>
+        <updated>2025-03-27T00:40:37.000Z</updated>
+        <summary type="html"><![CDATA[フランス上場のテクノロジー企業The Blockchain Groupが始めて580ビットコインを取得。欧州初の仮想通貨トレジャリー企業となった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン30万円下落、ゲームストップ社報道も機関投資家の資金流出続く｜仮想NISHI]]></title>
+        <id>https://coinpost.jp/?p=604770</id>
+        <link href="https://coinpost.jp/?p=604770"/>
+        <updated>2025-03-26T23:50:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコインは前日比で約30万円の下落となった。一時、米ゲーム小売大手ゲームストップ社がビットコイン購入を主目的とした約2,000億円規模の転換社債を発行するとの報道を受け上昇する局面も見られたが、ダウ工業株30種平均が4日ぶりに反落したことに連れ安となり下落に転じた。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米国の北カロライナ議員、公的資金の最大10%をビットコインに投資する法案を提出]]></title>
         <id>https://coinpost.jp/?p=604773</id>
@@ -2216,16 +2256,6 @@ SBI北尾氏の刺激的な40分／ビットコインのボラティリティは
         <summary type="html"><![CDATA[仮想通貨および伝統的金融市場は、世界的な貿易戦争への懸念により少なくとも4月初旬までは圧力を受け続ける可能性があるが、その後の解決が次の大きな市場材料になるかもしれない。]]></summary>
         <author>
             <name>Cointelegraph  Zoltan Vardai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーブルコイン発行企業テザー、ビッグ4による監査に向けて協議中＝報道]]></title>
-        <id>https://jp.cointelegraph.com/news/stablecoin-issuer-tether-big-four-firm-full-reserve-audit-report</id>
-        <link href="https://jp.cointelegraph.com/news/stablecoin-issuer-tether-big-four-firm-full-reserve-audit-report?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-22T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ステーブルコイン発行企業テザーが、USDTが米ドルと1:1で裏付けられているのを証明するため、ビッグ4の会計事務所と監査に向けた協議を行っていると報じられている。]]></summary>
-        <author>
-            <name>Cointelegraph  Ciaran Lyons</name>
         </author>
     </entry>
 </feed>

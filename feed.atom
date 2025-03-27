@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-27T12:30:27.103Z</updated>
+    <updated>2025-03-27T13:24:18.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[韓国の政府高官、保有仮想通貨を公開　平均保有額は360万円 ── 透明性強化の一環として公開]]></title>
+        <id>https://jp.cointelegraph.com/news/south-korea-officials-hold-24k-crypto-ethics-commission</id>
+        <link href="https://jp.cointelegraph.com/news/south-korea-officials-hold-24k-crypto-ethics-commission?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-27T12:32:00.000Z</updated>
+        <summary type="html"><![CDATA[韓国の倫理委員会は、高官クラスの公務員が平均で3510万ウォン（約360万円）相当の仮想通貨を保有していると明らかにした。]]></summary>
+        <author>
+            <name>Cointelegraph  Ezra Reguerra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、2025年の目標価格は13万8000ドルとの予測 ── 米国の貿易関税ショックから回復中]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-price-prediction-markets-bet-btc-138k-2025</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-price-prediction-markets-bet-btc-138k-2025?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-27T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[新たな分析によると、ビットコイン（BTC）の2025年の目標価格は13万8000ドルとされており、市場は米国による貿易関税の影響から回復しつつある。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【3/27話題】イーサリアムのPectraがHoodiに実装、イオレが暗号資産金融事業への参入検討へなど（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=461950</id>
@@ -2661,17 +2681,6 @@ coinbook、株主変更および社名・ドメイン変更を発表──23年�
         <summary type="html"><![CDATA[今週は、スタンダードチャータードによる仮想通貨イーサリアムの価格予測の下方修正、リップル社CEOによる対SEC裁判終結宣言、トランプ大統領のカンファレンスでの発言に関するニュースが最も関心を集めた。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ナスダック、24時間取引へ──暗号資産を追随]]></title>
-        <id>https://www.coindeskjapan.com/?p=283855</id>
-        <link href="https://www.coindeskjapan.com/283855/"/>
-        <updated>2025-03-23T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[世界中の株式や他の伝統的な金融資産のトレーダーは、24時間体制で売買を行いたいと考えており、それを受けて、米国の2大株式市場のナスダックとニューヨーク証券取引所 ...
-ナスダック、24時間取引へ──暗号資産を追随 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Helene Braun</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=284674",
+          "author": "Krisztian Sandor",
+          "description": "トークン化された金の時価総額は3月、過去最高の14億ドルまで増加し、取引高も年初来の高水準に急増していることが、CoinDesk Dataの月次ステーブルコイン ...\n金連動型トークン、3月は取引高急増で時価総額は過去最高の約2100億円に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/284674/",
+          "publishedOn": "2025-03-27T22:30:00.000Z",
+          "wordCount": 1314,
+          "title": "金連動型トークン、3月は取引高急増で時価総額は過去最高の約2100億円に",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/f90caaf4b82ef4b0227b9980c47eb796e7e87c0a-1920x1280-2.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=284665",
           "author": "林 理南",
           "description": "リップル（Ripple）は27日、アフリカ全域でサービスを提供する決済プロバイダーのチッパー・キャッシュ（Chipper Cash）と提携し、リップル・ペイメン ...\nリップル、XRPを使用したアフリカでの決済を強化へ──チッパー・キャッシュと提携で first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -674,6 +684,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=605067",
+          "author": "菊谷ルイス",
+          "description": "Glassnodeの最新レポートによると、大口投資家がビットコインを大量に購入。市場の不確実性にもかかわらず、大口投資家は自信を示している。",
+          "link": "https://coinpost.jp/?p=605067",
+          "publishedOn": "2025-03-27T22:30:09.000Z",
+          "wordCount": 3184,
+          "title": "ビットコイン大口投資家、3月に約13万BTC買い増し",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/bitcoin-light.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/bitcoin-light.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=605057",
           "author": "菊谷ルイス",
@@ -2063,6 +2088,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/senator-elizabeth-warren-paul-atkins-hearing-conflicts-interest-ftx",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "米国上院銀行委員会の議員らは、証券取引委員会（SEC）の次期委員候補であるポール・アトキンス氏に対し、暗号資産業界との関係や、承認された場合にどのようにデジタル資産を規制するかについて質問した。",
+          "link": "https://jp.cointelegraph.com/news/senator-elizabeth-warren-paul-atkins-hearing-conflicts-interest-ftx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-27T22:17:00.000Z",
+          "wordCount": null,
+          "title": "SEC次期委員長候補、FTX関連企業の売却を巡り追及される",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQ4OGEtYTFkZC03MzEwLWFkZmMtZWZlYmI4ZDcxNTlk.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQ4OGEtYTFkZC03MzEwLWFkZmMtZWZlYmI4ZDcxNTlk.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/tether-ceo-says-stablecoin-era-begins",
+          "author": "Cointelegraph  Adrian Zmudzinski",
+          "description": "ステーブルコイン発行企業テザーのCEO、パオロ・アルドイーノ氏は、業界が新たな時代に突入したと述べた。この新時代は、民間企業や政府によるステーブルコインの導入ラッシュが特徴だという。",
+          "link": "https://jp.cointelegraph.com/news/tether-ceo-says-stablecoin-era-begins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-27T22:05:00.000Z",
+          "wordCount": null,
+          "title": "テザーのアルドイーノ氏「ステーブルコイン・マルチバースに突入」",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGEwM2MtMjAzYS03YWZiLWE0N2QtMTFiOGMwZjcxM2Y3.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGEwM2MtMjAzYS03YWZiLWE0N2QtMTFiOGMwZjcxM2Y3.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/south-korea-officials-hold-24k-crypto-ethics-commission",
           "author": "Cointelegraph  Ezra Reguerra",

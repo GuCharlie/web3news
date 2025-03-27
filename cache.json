@@ -680,7 +680,7 @@
       "articles": []
     },
     {
-      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "Waves(WAVES)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -2088,6 +2088,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-price-rally-stalls-gold-passes-record-3-1-k",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコイン（BTC）は3月27日、米国の新たな貿易関税と経済指標という複合的な要因を受け、不安定な値動きを見せた。これにより、リスク資産全体に重しがかかった。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-price-rally-stalls-gold-passes-record-3-1-k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-27T22:38:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン、上値重く停滞｜金は3,100ドルに迫る",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQ4ODktZWY4Zi03N2UyLTgyYjMtNjdlZGE0NTZlZDA0.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQ4ODktZWY4Zi03N2UyLTgyYjMtNjdlZGE0NTZlZDA0.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/gamestop-loses-3b-market-cap-investors-bitcoin-buys",
+          "author": "Cointelegraph  Alex O’Donnell",
+          "description": "ゲームストップは3月27日、ビットコイン（BTC）の備蓄計画に対して投資家が疑念を抱いたことを受け、時価総額で約30億ドルを失った。",
+          "link": "https://jp.cointelegraph.com/news/gamestop-loses-3b-market-cap-investors-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-27T22:28:00.000Z",
+          "wordCount": null,
+          "title": "ゲームストップ、ビットコイン計画に株主が疑念　1日で時価総額30億ドル消失",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQ4YmQtZWQ1Mi03YjEyLTkyNmQtZGZkNjE5NzZiZjVl.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQ4YmQtZWQ1Mi03YjEyLTkyNmQtZGZkNjE5NzZiZjVl.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/senator-elizabeth-warren-paul-atkins-hearing-conflicts-interest-ftx",
           "author": "Cointelegraph  Turner Wright",

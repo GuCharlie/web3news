@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-28T11:35:33.718Z</updated>
+    <updated>2025-03-28T12:28:52.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NFT市場の販売額、2025年第1四半期に63％減　それでも一部コレクションは健闘]]></title>
+        <id>https://jp.cointelegraph.com/news/nft-sales-down-pudgy-penguins-milady-surge-q1-2025</id>
+        <link href="https://jp.cointelegraph.com/news/nft-sales-down-pudgy-penguins-milady-surge-q1-2025?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-28T11:49:00.000Z</updated>
+        <summary type="html"><![CDATA[2025年第1四半期、非代替性トークン（NFT）の販売額は前年同期比で63％減少し、急激な落ち込みを見せた。それでも、一部の人気コレクションはこの下落局面を乗り越え、販売実績を伸ばしている。]]></summary>
+        <author>
+            <name>Cointelegraph  Ezra Reguerra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フランスの政府系投資銀行、暗号資産に2500万ユーロを投資]]></title>
         <id>https://www.coindeskjapan.com/?p=284859</id>
@@ -3188,16 +3198,6 @@ BTC、XRP、SOLが米株先物とともに上昇──トランプ氏が的を�
 不動産大手オープンハウス、暗号資産決済をXRP・SOL・DOGEにも拡大 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カルダノ創設者ホスキンソン氏が語るトランプ政権の仮想通貨政策と今後の展望]]></title>
-        <id>https://coinpost.jp/?p=602837</id>
-        <link href="https://coinpost.jp/?p=602837"/>
-        <updated>2025-03-24T00:00:35.000Z</updated>
-        <summary type="html"><![CDATA[カルダノ創設者チャールズ・ホスキンソン氏が、トランプ政権の仮想通貨政策、SpaceXとの提携計画、日本の税制などについて語った独占インタビュー。仮想通貨の課題についても話している。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>

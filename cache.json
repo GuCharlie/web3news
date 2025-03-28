@@ -730,7 +730,7 @@
       "articles": []
     },
     {
-      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "マイクロソフト：BCHのブロック容量拡張の様な方法は取引増加に対応不可",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -1732,6 +1732,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=462112",
+          "author": "gentosha_takahashi",
+          "description": "デジタル資産の活用拡大へ 米取引所グループ「インターコンチネンタル取引所（ICE）」と、米ドルステーブルコイン「USDC」を発行する米サークル（Circle Internet Group）が、デジタル資産を活用した商品や […]",
+          "link": "https://www.neweconomy.jp/posts/462112",
+          "publishedOn": "2025-03-28T06:48:18.000Z",
+          "wordCount": 749,
+          "title": "米取引所グループICEとサークルがMoU、「USDC」や「USYC」で金融商品開発へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/28154755/b26e850eb393e6ac2daac15b37df35cc.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=462094",
           "author": "OtsugaShinya",
           "description": "Sei財団が米23andMeの買収検討 レイヤー1ブロックチェーン「セイ（Sei）」を支援するセイ財団（Sei Foundation）が、米遺伝子検査サービス提供の23andMe（トゥウェンティー・スリー・アンド・ミー） […]",
@@ -2328,6 +2338,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/ripple-chipper-cash-partner-to-power-african-remittances",
+          "author": "Cointelegraph  Adrian Zmudzinski",
+          "description": "リップルは3月27日、アフリカの決済インフラプロバイダーであるチッパー・キャッシュとの提携を発表した。これにより、同社の仮想通貨決済ソリューション「リップル・ペイメント」が、チッパー・キャッシュの国際送金に活用される予定だ。",
+          "link": "https://jp.cointelegraph.com/news/ripple-chipper-cash-partner-to-power-african-remittances?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-28T06:25:00.000Z",
+          "wordCount": null,
+          "title": "リップル、アフリカの決済企業チッパー・キャッシュと提携 ── 仮想通貨による国際送金を加速へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQ3MzYtNjcwNi03Yjg2LTgyZDItNDU3YWJmNmY2YzUw.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQ3MzYtNjcwNi03Yjg2LTgyZDItNDU3YWJmNmY2YzUw.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/tether-invests-10-million-in-be-water",
           "author": "Cointelegraph  Adrian Zmudzinski",
@@ -3206,6 +3231,16 @@
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
         {
+          "id": "https://crypto-times.jp/?p=132672",
+          "author": "Crypto Troll",
+          "description": "Animoca Brandsは3月27日、ソニー開発のイーサリアムL2ブロックチェーン「Soneium」との戦略的パートナーシップを発表しました。この提携により、Animoca BrandsのデジタルID基盤「Moca  […]\n投稿 Animoca Brands、ソニー開発のL2「Soneium」と戦略的提携 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-animoca-brands-and-soneium-enter-into-strategic-partnership/",
+          "publishedOn": "2025-03-28T07:02:13.000Z",
+          "wordCount": 666,
+          "title": "Animoca Brands、ソニー開発のL2「Soneium」と戦略的提携",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_2256408017.jpg"
+        },
+        {
           "id": "https://crypto-times.jp/?p=132669",
           "author": "Crypto Troll",
           "description": "高い人気を誇るNFTプロジェクト「Azuki」が、新たにトレーディングカードゲーム（TCG）市場への参入を発表し、その第一弾となる「Alpha Starter Decks」の予約注文受付を開始しました。 今回の予約注文は […]\n投稿 Azukiトレーディングカード、アルファ版の予約開始 は CRYPTO TIMES に最初に表示されました。",
@@ -3274,6 +3309,16 @@
           "wordCount": 610,
           "title": "米オンライン証券大手Interactive Brokers、リップルの取り扱いを開始",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_2417417575.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=132678",
+          "author": "Crypto Times 編集部",
+          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 暗号資産取引所のBTCCは、全世界680万人のユーザーに向け、高額取引 […]\n投稿 BTCC取引所、VIPプログラムを刷新 – 高額取引ユーザー向け特典がさらに充実に は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/press-btcc-vip/",
+          "publishedOn": "2025-03-28T03:02:35.000Z",
+          "wordCount": 621,
+          "title": "BTCC取引所、VIPプログラムを刷新 – 高額取引ユーザー向け特典がさらに充実に",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/IMG_4374.jpg"
         },
         {
           "id": "https://crypto-times.jp/?p=132622",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-28T14:40:26.607Z</updated>
+    <updated>2025-03-28T15:15:18.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、インフレ再加速の中でローカルボトムを模索 ── PCE上振れで3％超下落]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-price-drops-hot-us-pce-data-analyst-84k-must-hold</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-price-drops-hot-us-pce-data-analyst-84k-must-hold?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は3月28日、米インフレ指標が予想を上回る中で、ローカルボトムを探る展開となった。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRP市場に警戒シグナル　テクニカル的な弱気パターンが出現　米国の関税圧力と重なり40％下落の恐れ]]></title>
         <id>https://jp.cointelegraph.com/news/xrp-price-drop-40-trump-tariffs-spook-risk-traders</id>
@@ -3135,27 +3145,6 @@ BTC、XRP、SOLが米株先物とともに上昇──トランプ氏が的を�
 投稿 トランプ大統領のSNS投稿で仮想通貨「$TRUMP」が急騰 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[膠着状態のビットコイン、ETFの資金流入は回復傾向が顕著に]]></title>
-        <id>https://coinpost.jp/?p=603980</id>
-        <link href="https://coinpost.jp/?p=603980"/>
-        <updated>2025-03-24T03:08:40.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）市場ではビットコインは8.5万ドル台で膠着状態が続くも、現物ETFへの資金流入は力強く回復している。わずか数週間前の大規模資金流出から一転、投資家心理に改善の兆し。対照的にイーサリアムETFからは資金流出が続き、両者の格差は拡大傾向に。]]></summary>
-        <author>
-            <name>S.Ninomiya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[市場が冷え込む中、VOOXは積極的にユーザー還元を実施]]></title>
-        <id>https://crypto-times.jp/?p=132364</id>
-        <link href="https://crypto-times.jp/press-voox/"/>
-        <updated>2025-03-24T03:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 VOOXは、ユーザーが自由に取引し利益を追求できる環境を提供し、あらゆ […]
-投稿 市場が冷え込む中、VOOXは積極的にユーザー還元を実施 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-28T18:20:30.427Z</updated>
+    <updated>2025-03-28T18:47:20.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン　週前半の上昇を打ち消し再び下落　一時8万4000ドル割れ]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-price-drop-to-72-k-possible-due-to-macro-liquidity-conditions-analyst</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-price-drop-to-72-k-possible-due-to-macro-liquidity-conditions-analyst?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-28T18:15:00.000Z</updated>
+        <summary type="html"><![CDATA[週明けに好調なスタートを切ったビットコイン（BTC）は、3月28日に3.5％以上の下落となり、8万4000ドルを割る展開となった。下落は、下降トレンドライン（黒）と上昇チャネルパターンの上限に差し掛かったタイミングで発生した。]]></summary>
+        <author>
+            <name>Cointelegraph  Biraajmaan Tamuly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、インフレ再加速の中でローカルボトムを模索 ── PCE上振れで3％超下落]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-price-drops-hot-us-pce-data-analyst-84k-must-hold</id>

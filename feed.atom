@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-27T23:37:28.615Z</updated>
+    <updated>2025-03-28T01:10:15.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム「Pectra」、メインネット実装は暫定的に4/30予定]]></title>
+        <id>https://www.neweconomy.jp/?p=462030</id>
+        <link href="https://www.neweconomy.jp/posts/462030"/>
+        <updated>2025-03-28T00:20:33.000Z</updated>
+        <summary type="html"><![CDATA[Pectraのメインネット実装は暫定的に4/30に イーサリアム（Ethereum）の大型アップグレード「ペクトラ（Pectra）」のメインネット実装予定日が、暫定的に4月30日に設定された。このことは3月27日に行われ […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sei財団、23andMe買収で遺伝子データのブロックチェーン移行を計画]]></title>
+        <id>https://www.coindeskjapan.com/?p=284683</id>
+        <link href="https://www.coindeskjapan.com/284683/"/>
+        <updated>2025-03-27T23:44:19.000Z</updated>
+        <summary type="html"><![CDATA[レイヤー1ブロックチェーンSeiを支える非営利開発組織Sei財団は、倒産したゲノム企業23andMeの買収と、1500万人のユーザーの遺伝子データをブロックチェ ...
+Sei財団、23andMe買収で遺伝子データのブロックチェーン移行を計画 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Krisztian Sandor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berachain、「Proof of Liquidity」稼働開始]]></title>
         <id>https://www.neweconomy.jp/?p=462003</id>

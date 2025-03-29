@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-29T21:35:12.833Z</updated>
+    <updated>2025-03-29T22:13:11.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨の「4年周期」は終焉か ── ポリゴン共同創業者が語る構造変化]]></title>
+        <id>https://jp.cointelegraph.com/news/crypto-market-cycle-permanently-shifted-polygon-founder</id>
+        <link href="https://jp.cointelegraph.com/news/crypto-market-cycle-permanently-shifted-polygon-founder?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-29T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ポリゴンの共同創業者であるサンディープ・ネイルワル氏によれば、仮想通貨市場における4年周期は、資産クラスとしての成熟と機関投資家の参入により、もはや従来のような明確なサイクルとは言い難くなっている。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインと新時代のゴールドラッシュ ── デジタルゴールドがもたらす経済革命【オピニオン】]]></title>
         <id>https://jp.cointelegraph.com/news/digital-gold-can-rush-in-an-economic-revolution</id>
@@ -2570,17 +2580,6 @@ Japan Crypto Snapshot 2025年3月（vol.4）【bitbank Ventures】 first appeare
 投稿 メタプラネットCEO「アジア最大のビットコイン保有者になる」 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラックロック、欧州でビットコインETPの提供を開始]]></title>
-        <id>https://www.coindeskjapan.com/?p=284271</id>
-        <link href="https://www.coindeskjapan.com/284271/"/>
-        <updated>2025-03-25T09:45:00.000Z</updated>
-        <summary type="html"><![CDATA[アメリカ最大のビットコイン（BTC）現物ETF（上場投資信託）を運用する世界的な資産運用会社ブラックロック（BlackRock）は、ヨーロッパでビットコインET ...
-ブラックロック、欧州でビットコインETPの提供を開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Jamie Crawley</name>
         </author>
     </entry>
 </feed>

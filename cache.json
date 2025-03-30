@@ -1339,6 +1339,36 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/ethereum-founder-vitalik-buterin-interaction-robot-crypto-industry-frenzy",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "イーサリアム共同創設者ヴィタリック・ブテリンがロボットの前でひざまずき、「ニャー」と鳴いたように見える動画が拡散されており、いつものように仮想通貨業界ではその意味について憶測が飛び交っている。",
+          "link": "https://jp.cointelegraph.com/news/ethereum-founder-vitalik-buterin-interaction-robot-crypto-industry-frenzy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-30T22:23:00.000Z",
+          "wordCount": null,
+          "title": "「ニャー」と鳴くブテリンの動画が話題に　イーサ価格への影響を巡り憶測広がる",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWU1MTUtODE0OS03YzEzLTk1ZTItZjdiOGIwZGZjM2Zi.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWU1MTUtODE0OS03YzEzLTk1ZTItZjdiOGIwZGZjM2Zi.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-trader-turns-2k-into-43m-with-pepe-sells-for-10m-profit",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "仮想通貨トレーダーが、わずか2,000ドルの元手を「ペペ（Pepe）」への投資で4,300万ドル超にまで増やしたと報じられている。Pepeは極めて高いボラティリティと技術的な裏付けの欠如にもかかわらず、かつて高い評価を受けたミームコインだ。",
+          "link": "https://jp.cointelegraph.com/news/crypto-trader-turns-2k-into-43m-with-pepe-sells-for-10m-profit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-30T22:07:00.000Z",
+          "wordCount": null,
+          "title": "仮想通貨トレーダー、2,000ドルのPEPEを4,300万ドルに",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWU2OTctN2MyZS03YzI3LWFlZWItZDY1MmZkOTU1ZDQ0.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWU2OTctN2MyZS03YzI3LWFlZWItZDY1MmZkOTU1ZDQ0.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/1-trillion-stablecoin-supply-could-drive-2025-crypto-rally",
           "author": "Cointelegraph  Zoltan Vardai",
           "description": "コインファンドのマネージング・パートナーであるデイビッド・パクマン氏によれば、世界のステーブルコイン供給量が2025年末までに1兆ドルに達する可能性があり、仮想通貨市場全体の成長を後押しする重要な要因となる見通しだ。",
@@ -2201,6 +2231,16 @@
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_2353150151.jpg"
         },
         {
+          "id": "https://crypto-times.jp/?p=132486",
+          "author": "Crypto Troll",
+          "description": "Zeus Networkは、主力dApp「APOLLO」を介し、ソラナ上でパーミッションレスなビットコイン「zBTC」を開始しました。 従来、ビットコインは効率性等の制限から、ラップド版利用時に透明性や中央集権リスクの課 […]\n投稿 Zeus Network、ソラナでパーミッションレスBTC「 $zBTC 」の提供を開始 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-zeus-network-zbtc/",
+          "publishedOn": "2025-03-27T14:00:15.000Z",
+          "wordCount": 595,
+          "title": "Zeus Network、ソラナでパーミッションレスBTC「 $zBTC 」の提供を開始",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/APOLLO-and-zBTC-Going-Public-scaled.jpg"
+        },
+        {
           "id": "https://crypto-times.jp/?p=132605",
           "author": "Crypto Times 編集部",
           "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 Suiブロックチェーンにおけるネイティブなワンストップ流動性プラットフ […]\n投稿 NAVIプロトコルのNAVXトークンがOKXでスポット取引可能に は CRYPTO TIMES に最初に表示されました。",
@@ -2339,16 +2379,6 @@
           "wordCount": 634,
           "title": "OpenSea、Roninチェーン統合を発表｜記念SBTを限定配布中",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_2095293679.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=132498",
-          "author": "Crypto Times 編集部",
-          "description": "Zeus NetworkのdApp「APOLLO」が、ソラナ初のビットコインオンチェーン取引所として稼働しました。APOLLOは、ソラナネイティブな1:1ビットコインペッグ資産「zBTC」を提供し、これまで活用が難しかっ […]\n投稿 Zeus Networkによるソラナ初のBTCオンチェーン取引所「APOLLO」が稼働 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-zeus-network-apollo/",
-          "publishedOn": "2025-03-26T10:31:57.000Z",
-          "wordCount": 591,
-          "title": "Zeus Networkによるソラナ初のBTCオンチェーン取引所「APOLLO」が稼働",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/APOLLO-mainnet-live-1.jpg"
         }
       ]
     }

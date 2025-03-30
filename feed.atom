@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-30T22:13:30.709Z</updated>
+    <updated>2025-03-30T22:37:38.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ニャー」と鳴くブテリンの動画が話題に　イーサ価格への影響を巡り憶測広がる]]></title>
+        <id>https://jp.cointelegraph.com/news/ethereum-founder-vitalik-buterin-interaction-robot-crypto-industry-frenzy</id>
+        <link href="https://jp.cointelegraph.com/news/ethereum-founder-vitalik-buterin-interaction-robot-crypto-industry-frenzy?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-30T22:23:00.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム共同創設者ヴィタリック・ブテリンがロボットの前でひざまずき、「ニャー」と鳴いたように見える動画が拡散されており、いつものように仮想通貨業界ではその意味について憶測が飛び交っている。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨トレーダー、2,000ドルのPEPEを4,300万ドルに]]></title>
+        <id>https://jp.cointelegraph.com/news/crypto-trader-turns-2k-into-43m-with-pepe-sells-for-10m-profit</id>
+        <link href="https://jp.cointelegraph.com/news/crypto-trader-turns-2k-into-43m-with-pepe-sells-for-10m-profit?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-30T22:07:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨トレーダーが、わずか2,000ドルの元手を「ペペ（Pepe）」への投資で4,300万ドル超にまで増やしたと報じられている。Pepeは極めて高いボラティリティと技術的な裏付けの欠如にもかかわらず、かつて高い評価を受けたミームコインだ。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アスターの「Astar zkEVM」、3/31でネットワーク停止]]></title>
         <id>https://www.neweconomy.jp/?p=462311</id>
@@ -1119,6 +1139,17 @@ Sei財団、23andMe買収で遺伝子データのブロックチェーン移行�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Zeus Network、ソラナでパーミッションレスBTC「 $zBTC 」の提供を開始]]></title>
+        <id>https://crypto-times.jp/?p=132486</id>
+        <link href="https://crypto-times.jp/news-zeus-network-zbtc/"/>
+        <updated>2025-03-27T14:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Zeus Networkは、主力dApp「APOLLO」を介し、ソラナ上でパーミッションレスなビットコイン「zBTC」を開始しました。 従来、ビットコインは効率性等の制限から、ラップド版利用時に透明性や中央集権リスクの課 […]
+投稿 Zeus Network、ソラナでパーミッションレスBTC「 $zBTC 」の提供を開始 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Troll</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[韓国の政府高官、保有仮想通貨を公開　平均保有額は360万円 ── 透明性強化の一環として公開]]></title>
         <id>https://jp.cointelegraph.com/news/south-korea-officials-hold-24k-crypto-ethics-commission</id>
         <link href="https://jp.cointelegraph.com/news/south-korea-officials-hold-24k-crypto-ethics-commission?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
@@ -1924,17 +1955,6 @@ gumiも参入、暗号資産の株主優待──総額1600万円相当のビッ
 金融のトークン化で変わる日本企業の財務戦略──JPモルガン『Kinexys』幹部が生出演【N.Avenue club 2期9回ラウンドテーブル・レポート】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>瑞澤 圭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zeus Networkによるソラナ初のBTCオンチェーン取引所「APOLLO」が稼働]]></title>
-        <id>https://crypto-times.jp/?p=132498</id>
-        <link href="https://crypto-times.jp/news-zeus-network-apollo/"/>
-        <updated>2025-03-26T10:31:57.000Z</updated>
-        <summary type="html"><![CDATA[Zeus NetworkのdApp「APOLLO」が、ソラナ初のビットコインオンチェーン取引所として稼働しました。APOLLOは、ソラナネイティブな1:1ビットコインペッグ資産「zBTC」を提供し、これまで活用が難しかっ […]
-投稿 Zeus Networkによるソラナ初のBTCオンチェーン取引所「APOLLO」が稼働 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
 </feed>

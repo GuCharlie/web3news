@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-30T22:37:38.814Z</updated>
+    <updated>2025-03-30T23:14:12.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MEXC幹部が警鐘 「資産トークン化の『暗部』は中央集権にあり」]]></title>
+        <id>https://jp.cointelegraph.com/news/centralization-dark-side-asset-tokenization-mexc-exec</id>
+        <link href="https://jp.cointelegraph.com/news/centralization-dark-side-asset-tokenization-mexc-exec?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-30T22:58:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所MEXCの最高執行責任者（COO）であるトレイシー・ジン氏は、現実世界資産（RWA）のトークン化には、検閲、流動性リスク、法的な不確実性、サイバーセキュリティ上の問題、そして国家や第三者仲介機関による資産の没収といった、重大な中央集権的リスクが伴うと警告している。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、中央集権型から分散型取引への直接トレード機能を導入]]></title>
+        <id>https://jp.cointelegraph.com/news/binance-debuts-centralized-exchange-decentralized-exchange-trades</id>
+        <link href="https://jp.cointelegraph.com/news/binance-debuts-centralized-exchange-decentralized-exchange-trades?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-30T22:50:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所バイナンスが、中央集権型取引所（CEX）と分散型取引所（DEX）の間のトレード機能を導入した。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ氏の貿易戦争が仮想通貨市場に圧力　4月2日の関税発表が焦点に]]></title>
+        <id>https://jp.cointelegraph.com/news/trump-s-trade-war-pressures-crypto-market-as-april-2-tariffs-loom</id>
+        <link href="https://jp.cointelegraph.com/news/trump-s-trade-war-pressures-crypto-market-as-april-2-tariffs-loom?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-03-30T22:35:00.000Z</updated>
+        <summary type="html"><![CDATA[世界的な貿易戦争への懸念が広がる中、投資家が米国のドナルド・トランプ大統領による4月2日の関税発表の可能性に備えるなかで、伝統的市場と仮想通貨市場の両方に圧力がかかっている。これは、4月のビットコイン価格の動向を左右する転機になる可能性がある。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「ニャー」と鳴くブテリンの動画が話題に　イーサ価格への影響を巡り憶測広がる]]></title>
         <id>https://jp.cointelegraph.com/news/ethereum-founder-vitalik-buterin-interaction-robot-crypto-industry-frenzy</id>
@@ -1139,6 +1169,17 @@ Sei財団、23andMe買収で遺伝子データのブロックチェーン移行�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Zeus Networkによるソラナ初のBTCオンチェーン取引所「APOLLO」が稼働]]></title>
+        <id>https://crypto-times.jp/?p=132498</id>
+        <link href="https://crypto-times.jp/news-zeus-network-apollo/"/>
+        <updated>2025-03-27T14:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Zeus NetworkのdApp「APOLLO」が、ソラナ初のビットコインオンチェーン取引所として稼働しました。APOLLOは、ソラナネイティブな1:1ビットコインペッグ資産「zBTC」を提供し、これまで活用が難しかっ […]
+投稿 Zeus Networkによるソラナ初のBTCオンチェーン取引所「APOLLO」が稼働 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Zeus Network、ソラナでパーミッションレスBTC「 $zBTC 」の提供を開始]]></title>
         <id>https://crypto-times.jp/?p=132486</id>
         <link href="https://crypto-times.jp/news-zeus-network-zbtc/"/>
@@ -1923,38 +1964,6 @@ gumiも参入、暗号資産の株主優待──総額1600万円相当のビッ
 投稿 ビットコインは健全な調整中？ 著名投資家は強気姿勢を維持 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フィデリティ、米ドル連動ステーブルコインの発行を計画＝報道]]></title>
-        <id>https://jp.cointelegraph.com/news/fidelity-stablecoin-launch-sol-etf-regulatory-litmus-test</id>
-        <link href="https://jp.cointelegraph.com/news/fidelity-stablecoin-launch-sol-etf-regulatory-litmus-test?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-26T11:07:00.000Z</updated>
-        <summary type="html"><![CDATA[フィデリティ・インベストメンツが、米ドルに連動するステーブルコインのテストを最終段階に進めていると報じられた。トランプ政権下で仮想通貨規制が緩和されつつある中、同社によるデジタル資産領域への最新の取り組みとして注目されている。]]></summary>
-        <author>
-            <name>Cointelegraph  Zoltan Vardai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSea、Roninチェーン統合を発表｜記念SBTを限定配布中]]></title>
-        <id>https://crypto-times.jp/?p=132506</id>
-        <link href="https://crypto-times.jp/news-opensea-announces-ronin-chain-integration/"/>
-        <updated>2025-03-26T10:58:17.000Z</updated>
-        <summary type="html"><![CDATA[世界最大級のNFTマーケットプレイスOpenSeaは、Roninブロックチェーンへの正式対応を開始したことを明らかにしました。これを記念しOpenSeaでは現在、特別なNFTの限定配布イベントが開催されています。 Ron […]
-投稿 OpenSea、Roninチェーン統合を発表｜記念SBTを限定配布中 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金融のトークン化で変わる日本企業の財務戦略──JPモルガン『Kinexys』幹部が生出演【N.Avenue club 2期9回ラウンドテーブル・レポート】]]></title>
-        <id>https://www.coindeskjapan.com/?p=283001</id>
-        <link href="https://www.coindeskjapan.com/283001/"/>
-        <updated>2025-03-26T10:55:00.000Z</updated>
-        <summary type="html"><![CDATA[デジタル資産の進化が金融のあり方を大きく変えようとしており、その波は日本にも押し寄せている。 米銀最大手のJPモルガン・チェースは次世代デジタル資産プラットフォ ...
-金融のトークン化で変わる日本企業の財務戦略──JPモルガン『Kinexys』幹部が生出演【N.Avenue club 2期9回ラウンドテーブル・レポート】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>瑞澤 圭</name>
         </author>
     </entry>
 </feed>

@@ -370,16 +370,6 @@
           "wordCount": 1353,
           "title": "運用資産410億ドルの投資会社が、ETFはビットコインだけでイーサリアムに手を広げない理由",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/shutterstock_2291741475.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=283001",
-          "author": "瑞澤 圭",
-          "description": "デジタル資産の進化が金融のあり方を大きく変えようとしており、その波は日本にも押し寄せている。 米銀最大手のJPモルガン・チェースは次世代デジタル資産プラットフォ ...\n金融のトークン化で変わる日本企業の財務戦略──JPモルガン『Kinexys』幹部が生出演【N.Avenue club 2期9回ラウンドテーブル・レポート】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/283001/",
-          "publishedOn": "2025-03-26T10:55:00.000Z",
-          "wordCount": 1392,
-          "title": "金融のトークン化で変わる日本企業の財務戦略──JPモルガン『Kinexys』幹部が生出演【N.Avenue club 2期9回ラウンドテーブル・レポート】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/0004のコピー.jpg"
         }
       ]
     },
@@ -1339,6 +1329,51 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/centralization-dark-side-asset-tokenization-mexc-exec",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "仮想通貨取引所MEXCの最高執行責任者（COO）であるトレイシー・ジン氏は、現実世界資産（RWA）のトークン化には、検閲、流動性リスク、法的な不確実性、サイバーセキュリティ上の問題、そして国家や第三者仲介機関による資産の没収といった、重大な中央集権的リスクが伴うと警告している。",
+          "link": "https://jp.cointelegraph.com/news/centralization-dark-side-asset-tokenization-mexc-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-30T22:58:00.000Z",
+          "wordCount": null,
+          "title": "MEXC幹部が警鐘 「資産トークン化の『暗部』は中央集権にあり」",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWRjMGQtY2FiYS03MDg1LTk5ZjctNTg2ODJlZGFmNzZm.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWRjMGQtY2FiYS03MDg1LTk5ZjctNTg2ODJlZGFmNzZm.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/binance-debuts-centralized-exchange-decentralized-exchange-trades",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "仮想通貨取引所バイナンスが、中央集権型取引所（CEX）と分散型取引所（DEX）の間のトレード機能を導入した。",
+          "link": "https://jp.cointelegraph.com/news/binance-debuts-centralized-exchange-decentralized-exchange-trades?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-30T22:50:00.000Z",
+          "wordCount": null,
+          "title": "バイナンス、中央集権型から分散型取引への直接トレード機能を導入",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWU3NzYtOGViYy03MTcwLTllNjctZWFmOWYzMDM2MjYw.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWU3NzYtOGViYy03MTcwLTllNjctZWFmOWYzMDM2MjYw.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/trump-s-trade-war-pressures-crypto-market-as-april-2-tariffs-loom",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "世界的な貿易戦争への懸念が広がる中、投資家が米国のドナルド・トランプ大統領による4月2日の関税発表の可能性に備えるなかで、伝統的市場と仮想通貨市場の両方に圧力がかかっている。これは、4月のビットコイン価格の動向を左右する転機になる可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/trump-s-trade-war-pressures-crypto-market-as-april-2-tariffs-loom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-30T22:35:00.000Z",
+          "wordCount": null,
+          "title": "トランプ氏の貿易戦争が仮想通貨市場に圧力　4月2日の関税発表が焦点に",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzFiOGUtMjljOS03NzhkLWJmZTUtMDEwYzdjN2ZhNDc0.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzFiOGUtMjljOS03NzhkLWJmZTUtMDEwYzdjN2ZhNDc0.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/ethereum-founder-vitalik-buterin-interaction-robot-crypto-industry-frenzy",
           "author": "Cointelegraph  Ciaran Lyons",
           "description": "イーサリアム共同創設者ヴィタリック・ブテリンがロボットの前でひざまずき、「ニャー」と鳴いたように見える動画が拡散されており、いつものように仮想通貨業界ではその意味について憶測が飛び交っている。",
@@ -2027,21 +2062,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQxZjMtMzRlNy03YzBjLTk2Y2UtNjNlY2I1ZWExODFh.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/fidelity-stablecoin-launch-sol-etf-regulatory-litmus-test",
-          "author": "Cointelegraph  Zoltan Vardai",
-          "description": "フィデリティ・インベストメンツが、米ドルに連動するステーブルコインのテストを最終段階に進めていると報じられた。トランプ政権下で仮想通貨規制が緩和されつつある中、同社によるデジタル資産領域への最新の取り組みとして注目されている。",
-          "link": "https://jp.cointelegraph.com/news/fidelity-stablecoin-launch-sol-etf-regulatory-litmus-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-03-26T11:07:00.000Z",
-          "wordCount": null,
-          "title": "フィデリティ、米ドル連動ステーブルコインの発行を計画＝報道",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQxYTYtMTVlNy03NDkwLTkyNTgtMzA4MjA2NWNiODY3.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQxYTYtMTVlNy03NDkwLTkyNTgtMzA4MjA2NWNiODY3.jpg"
         }
       ]
     },
@@ -2231,6 +2251,16 @@
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_2353150151.jpg"
         },
         {
+          "id": "https://crypto-times.jp/?p=132498",
+          "author": "Crypto Times 編集部",
+          "description": "Zeus NetworkのdApp「APOLLO」が、ソラナ初のビットコインオンチェーン取引所として稼働しました。APOLLOは、ソラナネイティブな1:1ビットコインペッグ資産「zBTC」を提供し、これまで活用が難しかっ […]\n投稿 Zeus Networkによるソラナ初のBTCオンチェーン取引所「APOLLO」が稼働 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-zeus-network-apollo/",
+          "publishedOn": "2025-03-27T14:00:57.000Z",
+          "wordCount": 580,
+          "title": "Zeus Networkによるソラナ初のBTCオンチェーン取引所「APOLLO」が稼働",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/APOLLO-mainnet-live-1.jpg"
+        },
+        {
           "id": "https://crypto-times.jp/?p=132486",
           "author": "Crypto Troll",
           "description": "Zeus Networkは、主力dApp「APOLLO」を介し、ソラナ上でパーミッションレスなビットコイン「zBTC」を開始しました。 従来、ビットコインは効率性等の制限から、ラップド版利用時に透明性や中央集権リスクの課 […]\n投稿 Zeus Network、ソラナでパーミッションレスBTC「 $zBTC 」の提供を開始 は CRYPTO TIMES に最初に表示されました。",
@@ -2369,16 +2399,6 @@
           "wordCount": 643,
           "title": "ビットコインは健全な調整中？ 著名投資家は強気姿勢を維持",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_1923648677.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=132506",
-          "author": "Crypto Troll",
-          "description": "世界最大級のNFTマーケットプレイスOpenSeaは、Roninブロックチェーンへの正式対応を開始したことを明らかにしました。これを記念しOpenSeaでは現在、特別なNFTの限定配布イベントが開催されています。 Ron […]\n投稿 OpenSea、Roninチェーン統合を発表｜記念SBTを限定配布中 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-opensea-announces-ronin-chain-integration/",
-          "publishedOn": "2025-03-26T10:58:17.000Z",
-          "wordCount": 634,
-          "title": "OpenSea、Roninチェーン統合を発表｜記念SBTを限定配布中",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_2095293679.jpg"
         }
       ]
     }

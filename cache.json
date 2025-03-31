@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=285178",
+          "author": "James Van Straten",
+          "description": "ウォール・ストリート・ジャーナルの報道によると、トランプ一族はビットコイン（BTC）のマイニング事業への大規模な参入により、暗号資産（仮想通貨）への関与を深めて ...\nトランプファミリー、ビットコインマイニングに参入：報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/285178/",
+          "publishedOn": "2025-03-31T11:00:00.000Z",
+          "wordCount": 1301,
+          "title": "トランプファミリー、ビットコインマイニングに参入：報道",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/08/t.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=285152",
           "author": "James Van Straten",
           "description": "暗号資産（仮想通貨）で2番目に時価総額が大きいイーサリアム（ETH）は、今年に入り、時価総額が最大のビットコイン（BTC）に対して39%下落し、両者の比率はほぼ ...\nETH/BTCレシオ、5年ぶりの低水準に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -450,16 +460,6 @@
           "wordCount": 1284,
           "title": "イーサリアム、「ペクトラ」アップグレードの最終テストをHoodiネットワークで開始",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/bf3bb2a695e2f328f36be1ff918cbf9eb4231f1d-3000x2000-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=284521",
-          "author": "Stephen Alpher",
-          "description": "ビデオゲーム小売大手のゲームストップは3月25日、バランスシートへ追加するためにビットコインの購入を開始する意向を明らかにした。 ビットコイン財務戦略を採用する ...\nゲームストップ、ビットコイン購入のため転換社債で約1960億円を調達 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/284521/",
-          "publishedOn": "2025-03-26T23:08:25.000Z",
-          "wordCount": 1330,
-          "title": "ゲームストップ、ビットコイン購入のため転換社債で約1960億円を調達",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/shutterstock_1905054661.jpg"
         }
       ]
     },
@@ -2157,36 +2157,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDRmZDktNDczYi03NzQ2LThmOTAtODlmYTU5ZmEzY2Mx.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/blackrock-buidl-3x-1-8-b-3-weeks-bitcoin-lacks-momentum",
-          "author": "Cointelegraph  Zoltan Vardai",
-          "description": "ブラックロックのイーサリアム基盤マネーマーケットファンド「USDインスティテューショナル・デジタル・リクイディティ・ファンド（BUIDL）」の運用資産額（TVL）が過去3週間で3倍以上に増加し、デジタル資産市場での安全資産需要の高まりを背景に、20億ドルに迫っている。",
-          "link": "https://jp.cointelegraph.com/news/blackrock-buidl-3x-1-8-b-3-weeks-bitcoin-lacks-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-03-26T22:59:00.000Z",
-          "wordCount": null,
-          "title": "ブラックロックのトークン化ファンド「BUIDL」、ビットコイン停滞の中で3週間で3倍に急増",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzQ0ZWItZDM0NS03MTZjLTgwOTctMzU0OTVlYWU5YzNk.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzQ0ZWItZDM0NS03MTZjLTgwOTctMzU0OTVlYWU5YzNk.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/gamestop-shares-up-bitcoin-investment-plan-debt-notes",
-          "author": "Cointelegraph  Christopher Tepedino",
-          "description": "ゲームストップの株価が3月26日、同社がビットコイン（BTC）の購入計画を発表したことを受けて、約12％急騰した。",
-          "link": "https://jp.cointelegraph.com/news/gamestop-shares-up-bitcoin-investment-plan-debt-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-03-26T22:52:00.000Z",
-          "wordCount": null,
-          "title": "ゲームストップ、ビットコイン購入計画を発表後に株価が急騰",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQ0MjgtODlhMy03MTczLTkxMGUtMmM0OThhOGJmY2Yw.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQ0MjgtODlhMy03MTczLTkxMGUtMmM0OThhOGJmY2Yw.jpg"
         }
       ]
     },

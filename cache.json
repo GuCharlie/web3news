@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=284377",
+          "author": "橋本 祐樹",
+          "description": "自民党ブロックチェーン推進議員連盟の第28回会合が、3月26日に開催された。NTTコミュニケーションズ、NTTデータ、デンソーの3社が、自動車産業でのブロックチ ...\n欧州規則とデータ連携の行方、自動車業界の活用事例を共有：自民党ブロックチェーン推進議員連盟 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/284377/",
+          "publishedOn": "2025-03-31T04:54:05.000Z",
+          "wordCount": 1380,
+          "title": "欧州規則とデータ連携の行方、自動車業界の活用事例を共有：自民党ブロックチェーン推進議員連盟",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/DSC_2876-scaled.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=285013",
+          "author": "廣瀬 優香",
+          "description": "サム・バンクマン-フリード（Sam Bankman-Fried）氏がかつて率いていた、崩壊した暗号資産（仮想通貨）取引所FTXは、5月末に主要債権者への支払いを ...\nFTX、債権者への114億ドルの弁済を5月に開始へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/285013/",
+          "publishedOn": "2025-03-31T04:33:37.000Z",
+          "wordCount": 1270,
+          "title": "FTX、債権者への114億ドルの弁済を5月に開始へ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/924f300d4a2f226716f6a66aaffc2326dbe79aad-2688x1536-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=285005",
           "author": "廣瀬 優香",
           "description": "崩壊したテラ（Luna）トークンとステーブルコイン「TerraUSD（UST）」の背後にいる企業、テラフォーム・ラボ（Terraform Labs）は、3月31 ...\nテラフォーム・ラボ、投資家向け請求ポータルを3月31日に開設 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -414,6 +434,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=605501",
+          "author": "CoinPost編集部",
+          "description": "イーロン・マスク氏が米ウィスコンシン州のタウンホールミーティングで、トランプ政権の連邦政府効率化局（D.O.G.E）と暗号資産（仮想通貨）ドージコイン（DOGE）の間に関連性はないと明言した。今年2月のドージコインのマスコット表示で生じた市場の思惑は誤りだったことが改めて確認された。",
+          "link": "https://coinpost.jp/?p=605501",
+          "publishedOn": "2025-03-31T06:07:31.000Z",
+          "wordCount": 3260,
+          "title": "イーロン・マスク、連邦政府DOGE省と仮想通貨ドージコインの関連性を否定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/DOGE-US.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/DOGE-US.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=605487",
+          "author": "AKIRA.H",
+          "description": "株式会社メタプラネットは総額20億円の第10回普通社債を発行し、調達資金をビットコイン追加購入に充当。24日時点の保有量は3,350BTCとなり、積極的な買い増しを継続する方針だ。",
+          "link": "https://coinpost.jp/?p=605487",
+          "publishedOn": "2025-03-31T05:10:02.000Z",
+          "wordCount": 3189,
+          "title": "メタプラネットがビットコイン購入へ　総額20億円の第10回普通社債を発行",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/bitcoin_0918-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/bitcoin_0918-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=605461",
+          "author": "A.Yamada",
+          "description": "バンク・オブ・アメリカのファンドマネージャー調査で、トランプ関税を背景とした貿易戦争時の避難資産として、金（ゴールド）が仮想通貨ビットコインより圧倒的に好まれていた。投資家の避難先として注目されているのが、パクソス社が発行するPAXG（Pax Gold）やテザー社が発行するXAUT（Tether Gold）、国内では三井物産デジタルコモディティーズ株式会社が発行するジパングコイン（ZPG）がある。",
+          "link": "https://coinpost.jp/?p=605461",
+          "publishedOn": "2025-03-31T04:03:53.000Z",
+          "wordCount": 3203,
+          "title": "米大手金融機関バンカメ「貿易戦争の資産逃避先では金（ゴールド）が圧倒的優位」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/gold-selling-centralbank.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/gold-selling-centralbank.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=605407",
           "author": "S.Ninomiya",
@@ -1112,6 +1177,36 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=462397",
+          "author": "OtsugaShinya",
+          "description": "暗号資産を金融商品とする改正案が26年に国会提出か 金融庁が、2026年にも金融商品取引法の改正案を国会に提出し、暗号資産（仮想通貨）を金融商品として法的に位置づける方針であることを日経新聞が3月30日に報じた。 なお今 […]",
+          "link": "https://www.neweconomy.jp/posts/462397",
+          "publishedOn": "2025-03-31T04:58:33.000Z",
+          "wordCount": 783,
+          "title": "金融庁、暗号資産を金融商品とする改正案を26年に国会提出の方針か＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/31135826/3e7494c28570a64d3aafaee511466768.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=462379",
+          "author": "HitomotoToshikazu",
+          "description": "Grayscale Avalanche Trustの上場提案書提出 暗号資産（仮想通貨）運用会社グレースケール（Grayscale）が運営する暗号資産アバランチ（AVAX）の投資信託「グレースケール・アバランチ・トラスト […]",
+          "link": "https://www.neweconomy.jp/posts/462379",
+          "publishedOn": "2025-03-31T04:22:13.000Z",
+          "wordCount": 754,
+          "title": "米ナスダック、グレースケールの「アバランチ（AVAX）投資信託」をETFとして上場申請",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/31132157/c7d37fbec46995602baf2b405945a65b.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=462372",
+          "author": "HitomotoToshikazu",
+          "description": "CeloがEthereumレイヤー2へ正式移行 「Celo（セロ）」の開発会社であるcLabs（シーラボ）が、EVM（イーサリアムヴァーチャルマシン）互換のレイヤー1（L1）ブロックチェーンから、Ethereum（イーサ […]",
+          "link": "https://www.neweconomy.jp/posts/462372",
+          "publishedOn": "2025-03-31T04:09:55.000Z",
+          "wordCount": 828,
+          "title": "「Celo」がイーサL2へ正式移行、OP StackとEigenDA活用",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/31131254/273333ae9c68f8cb7eaa61faa7e15882.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=462311",
           "author": "OtsugaShinya",
           "description": "Astar zkEVMが3/31でネットワーク停止 Startale Group（スターテイルグループ）開発のEthereum（イーサリアム）レイヤー2ネットワーク「Astar zkEVM」が、明日3月31日に停止する。 […]",
@@ -1378,6 +1473,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0331",
+          "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
+          "description": "週末のBTC相場は下落。",
+          "link": "https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0331?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-31T05:32:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン失速、なぜ下がった？今週どうなる？【仮想通貨相場】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMmMwMWNiMmM5MTVhZWYxMzY3OGJmYWY0MjkzMTc3Yi5qZmlm.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMmMwMWNiMmM5MTVhZWYxMzY3OGJmYWY0MjkzMTc3Yi5qZmlm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/centralization-dark-side-asset-tokenization-mexc-exec",
           "author": "Cointelegraph  Vince Quill",
@@ -2106,6 +2216,66 @@
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
         {
+          "id": "https://crypto-times.jp/?p=132776",
+          "author": "Crypto Troll",
+          "description": "暗号資産取引所FTXは2022年11月に経営破綻し、John J. Ray III氏を新たなCEOとする再建チームが主導しています。破綻後の残存資産の売却や債権回収の結果、現時点で約114億ドル（約1.7兆円）の現金を確 […]\n投稿 FTX主要債権者への返済が本格始動へ｜5月30日開始予定 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-ftx-begins-full-scale-repayment-of-major-creditors/",
+          "publishedOn": "2025-03-31T05:23:19.000Z",
+          "wordCount": 576,
+          "title": "FTX主要債権者への返済が本格始動へ｜5月30日開始予定",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_2225021035.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=132771",
+          "author": "Crypto Troll",
+          "description": "YugaLabsが展開するNFTコレクション「Mutant Ape Yacht Club（MAYC）」が、3Dキャラクターとして活用できるようになりました。 これは、DashboUGCが提供している技術をもとにコミュニテ […]\n投稿 NFTコレクション「MAYC」が3Dアバターで活用可能に は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-mayc-can-now-be-used-with-3d-avatars/",
+          "publishedOn": "2025-03-31T05:08:29.000Z",
+          "wordCount": 615,
+          "title": "NFTコレクション「MAYC」が3Dアバターで活用可能に",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_2147412109.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=132767",
+          "author": "Crypto Troll",
+          "description": "日本政府は、暗号資産（仮想通貨）に対するインサイダー取引を禁止するため、暗号資産を金融商品取引法上の「金融商品」と位置づける法改正案を検討していることが分かりました。 これにより、証券取引と同様の規制が暗号資産にも適用さ […]\n投稿 日本、仮想通貨を金融商品と位置づけインサイダー取引の禁止を明確化へ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-japan-classifies-cryptocurrency-as-financial-products/",
+          "publishedOn": "2025-03-31T04:50:52.000Z",
+          "wordCount": 565,
+          "title": "日本、仮想通貨を金融商品と位置づけインサイダー取引の禁止を明確化へ",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_2176431395.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=132762",
+          "author": "Crypto Troll",
+          "description": "米フロリダ州で3月25日から27日にかけて開催されたビットコインマイニングエキスポ「Mining Disrupt」において、2024年11月の大統領選挙でトランプ氏が勝利し、ホワイトハウスに復帰したことが大きく取り上げら […]\n投稿 トランプ政権下でビットコインマイニング業界の再興なるか｜AI事業への多角化が鍵か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-will-the-bitcoin-mining-industry-revive-under-the-trump-administration/",
+          "publishedOn": "2025-03-31T04:44:49.000Z",
+          "wordCount": 569,
+          "title": "トランプ政権下でビットコインマイニング業界の再興なるか｜AI事業への多角化が鍵か",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_1985279114.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=132753",
+          "author": "Crypto Troll",
+          "description": "分散型取引所（DEX）PumpSwapが、ローンチからわずか10日で累計取引高が約100億ドルに到達しました。また、10日間で約70万のウォレット（利用者）がPumpSwapを利用したとのデータもあります。 PumpSw […]\n投稿 ソラナ新興DEX「PumpSwap」、10日間で累計取引高100億ドルを記録 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-pumpswap-hits-10-billion-in-cumulative-trading-volume-in-10-days/",
+          "publishedOn": "2025-03-31T04:08:42.000Z",
+          "wordCount": 568,
+          "title": "ソラナ新興DEX「PumpSwap」、10日間で累計取引高100億ドルを記録",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_2290588475.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=132749",
+          "author": "Crypto Troll",
+          "description": "ビットコインマイニング企業大手として知られるマラソン社（MARA）が、最大20億ドルにおよぶ株式売却を計画していることを明らかにしました。売却によって得られる資金は、同社が保有するビットコインの追加購入や企業の運転資金な […]\n投稿 ビットコインマイニング大手マラソン社、最大20億ドルの株式売却へ｜ビットコインの追加購入か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-marathon-to-sell-stock-for-2-billion/",
+          "publishedOn": "2025-03-31T03:49:11.000Z",
+          "wordCount": 569,
+          "title": "ビットコインマイニング大手マラソン社、最大20億ドルの株式売却へ｜ビットコインの追加購入か",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_2386283107.jpg"
+        },
+        {
           "id": "https://crypto-times.jp/?p=132728",
           "author": "Crypto Troll",
           "description": "ビットコインのマーケットドミナンス（暗号資産全体の時価総額に占める割合）が、昨年12月時点の約54％から直近で62.1％前後まで上昇し、高水準で推移しています。通常はビットコイン主導の上昇が一服した後、アルトコイン全体の […]\n投稿 ビットコイン独走、アルトシーズンは来るのか？ は CRYPTO TIMES に最初に表示されました。",
@@ -2394,16 +2564,6 @@
           "wordCount": 688,
           "title": "Hana Network、KaitoのPre-TGEプロジェクトに選出｜エアドロ付きNFTの条件も公開",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/Gm-SYdkXAAABDFm.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=132538",
-          "author": "Crypto Times 編集部",
-          "description": "急成長を遂げる分散型取引所（DEX）のHyperliquidで、突如として発生した「Jelly（JELLYJELLY）」トークンに関する異常事態。価格の異常な高騰、巨額の損失、そして大手中央集権型取引所（CEX）であるB […]\n投稿 Hyperliquidの悪夢か？ $Jelly 騒動に見るCEX vs DEXの暗闘と市場リスク は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/column-hyperliquid-jelly/",
-          "publishedOn": "2025-03-26T16:28:25.000Z",
-          "wordCount": 785,
-          "title": "Hyperliquidの悪夢か？ $Jelly 騒動に見るCEX vs DEXの暗闘と市場リスク",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_2552692339.jpg"
         }
       ]
     }

@@ -400,16 +400,6 @@
           "wordCount": 1288,
           "title": "XRPの急騰は、市場の過熱とビットコインのピークを示す指標となる",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2021/09/shutterstock_1902005935-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=284625",
-          "author": "Will Canny",
-          "description": "3月27日に発表されたプレスリリースによると、伝統的金融の大手であるノーザン・トラスト・（Northern Trust）は、貿易金融に焦点を当てたステーブルコイ ...\nノーザン・トラスト、ステーブルコイン発行元のヘイセンにカストディ・サービスを提供 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/284625/",
-          "publishedOn": "2025-03-27T10:25:00.000Z",
-          "wordCount": 1320,
-          "title": "ノーザン・トラスト、ステーブルコイン発行元のヘイセンにカストディ・サービスを提供",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/729f7731e18fffe6f3ec39661e4c88d8aa4dd81b-1500x1115-1.jpg"
         }
       ]
     },
@@ -1218,6 +1208,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/strategy-buys-2-billion-bitcoin-ahead-trump-tariffs",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "マイケル・セイラー氏率いるストラテジーは、ビットコイン価格の下落局面を利用して約20億ドル分のBTCを購入した。これは、ドナルド・トランプ米大統領による4月2日の関税発表を控えて市場の懸念が高まる中での動きだった。",
+          "link": "https://jp.cointelegraph.com/news/strategy-buys-2-billion-bitcoin-ahead-trump-tariffs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-31T22:27:00.000Z",
+          "wordCount": null,
+          "title": "マイケル・セイラーのストラテジー、19億ドルでビットコインの押し目買い",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWVjMmEtOWVhMC03MjVmLTg4ZWYtZGE1MTYxOTJiZGE2.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWVjMmEtOWVhMC03MjVmLTg4ZWYtZGE1MTYxOTJiZGE2.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-dominance-dollar-blackrock-larry-fink",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "米国が債務を抑制できなければ、米ドルは世界の基軸通貨としての地位をビットコインやその他のデジタル資産に奪われる可能性がある──ブラックロックのラリー・フィンク最高経営責任者（CEO）はそう警告している。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-dominance-dollar-blackrock-larry-fink?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-31T22:23:00.000Z",
+          "wordCount": null,
+          "title": "ビットコインが米ドルの支配力を弱める可能性＝ブラックロック",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWVkMzgtN2MzNy03ZWIwLTk5ZDktZmEwM2Q2MjU0YTQ3.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWVkMzgtN2MzNy03ZWIwLTk5ZDktZmEwM2Q2MjU0YTQ3.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/price-analysis-3-31-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-ton",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "ビットコインの強気派は8万ドルのサポートを防衛するために動いたが、4月2日にドナルド・トランプ米大統領が発表予定の「解放の日」関税の後も、この水準は維持されるのだろうか。",
+          "link": "https://jp.cointelegraph.com/news/price-analysis-3-31-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-ton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-03-31T22:15:00.000Z",
+          "wordCount": null,
+          "title": "8万ドルを維持できるか　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWVkMWMtNDgxOC03OTg0LWI1NTktYzFhNTMwYzE3YWI5.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWVkMWMtNDgxOC03OTg0LWI1NTktYzFhNTMwYzE3YWI5.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0331",
           "author": "Cointelegraph  コインテレグラフジャパン寄稿者",

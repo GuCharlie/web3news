@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-31T07:36:28.566Z</updated>
+    <updated>2025-03-31T08:21:10.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スイの分散型ストレージ「Walrus」、メインネットローンチ]]></title>
+        <id>https://www.neweconomy.jp/?p=462504</id>
+        <link href="https://www.neweconomy.jp/posts/462504"/>
+        <updated>2025-03-31T08:16:40.000Z</updated>
+        <summary type="html"><![CDATA[「Walrus」がメインネットローンチ レイヤー1ブロックチェーン「スイ（Sui）」上に構築された分散型ストレージネットワーク「ウォルラス（Walrus）」が3月27日にメインネットローンチした。「ウォルラス」を支援する […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oasysがアニメチェーン社と提携、AI時代におけるIP保護の実証実験へ]]></title>
         <id>https://www.neweconomy.jp/?p=462497</id>

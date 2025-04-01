@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=285433",
+          "author": "Helene Braun",
+          "description": "コアウィーブ株は4月1日、オープンAIが前日に400億ドルという記録的な資金調達ラウンドを発表したことを受けて、取引開始3日目で38％以上値上がりした。コアウィ ...\nOpenAIの約6兆円の資金調達が不安定な市場を落ち着かせ、コアウィーブ株やAIトークンが上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/285433/",
+          "publishedOn": "2025-04-01T22:52:41.000Z",
+          "wordCount": 1321,
+          "title": "OpenAIの約6兆円の資金調達が不安定な市場を落ち着かせ、コアウィーブ株やAIトークンが上昇",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/shutterstock_2466668137.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=285428",
           "author": "Tom Carreras",
           "description": "米国を拠点とするステーブルコイン発行会社サークルが株式公開に向けて動き出した。 サークル社は4月1日、米証券取引委員会（SEC）に「S-1」フォームを提出した。 ...\nステーブルコイン大手サークル、IPOを申請 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -1305,16 +1315,6 @@
           "wordCount": 805,
           "title": "アスターの「Astar zkEVM」、3/31でネットワーク停止",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/30152618/029627563363198ce280f6c6326b77a9.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=462286",
-          "author": "NewEconomyPodcast",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/462286",
-          "publishedOn": "2025-03-28T10:55:45.000Z",
-          "wordCount": 828,
-          "title": "【3/28話題】イーサリアムPectraのメインネット実装が仮決定、ゲームストップ株急落、Seiが23andMe買収検討など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/28195540/news_head_20250328.jpg"
         }
       ]
     },
@@ -1323,6 +1323,66 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/circle-files-initial-public-offering",
+          "author": "Cointelegraph  Brayden Lindrea",
+          "description": "米ドル連動型ステーブルコイン「USDC」の発行元であるサークル・インターネット・グループ（Circle Internet Group）は、米国証券取引委員会（SEC）に対し、新規株式公開（IPO）を目的とした申請書類（Form S-1）を4月1日付で提出した。",
+          "link": "https://jp.cointelegraph.com/news/circle-files-initial-public-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-01T22:57:00.000Z",
+          "wordCount": null,
+          "title": "サークル、新規株式公開（IPO）を申請",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWYzNGItODNmNC03ZjFhLWJjYjYtZjA5NjEzNmZmNDM2.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWYzNGItODNmNC03ZjFhLWJjYjYtZjA5NjEzNmZmNDM2.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/ethereum-weekly-blob-fees-hit-2025-lows",
+          "author": "Cointelegraph  Alex O’Donnell",
+          "description": "イーサリアム（Ethereum）ネットワークがレイヤー2（L2）スケーリングチェーンから得る主要な収入源である「ブロブ手数料」が、今年に入ってから最も低い週次水準にまで落ち込んでいる。Etherscanのデータで明らかになった。",
+          "link": "https://jp.cointelegraph.com/news/ethereum-weekly-blob-fees-hit-2025-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-01T22:52:00.000Z",
+          "wordCount": null,
+          "title": "イーサリアムの週次ブロブ手数料、2025年最安値を記録",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGE1ZTQtMjZmMy03ZDUwLWE4NTMtYWFiOTUzODRhZWEx.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGE1ZTQtMjZmMy03ZDUwLWE4NTMtYWFiOTUzODRhZWEx.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/binance-halt-spot-usdt-trading-eea-mica-compliance",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "暗号資産（仮想通貨）取引所バイナンスは、テザー（Tether）のステーブルコイン「USDt（USDT）」との現物取引ペアを欧州経済領域（EEA）で廃止した。これは、欧州の「暗号資産市場規則（MiCA）」への準拠を目的とした措置である。",
+          "link": "https://jp.cointelegraph.com/news/binance-halt-spot-usdt-trading-eea-mica-compliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-01T22:41:00.000Z",
+          "wordCount": null,
+          "title": "バイナンス、MiCA規則に対応し欧州でUSDTの取引を終了",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWYwM2MtN2FmNS03MjJhLWI5MTctYTFlZjNjMTRlMGZk.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWYwM2MtN2FmNS03MjJhLWI5MTctYTFlZjNjMTRlMGZk.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/altcoins-crash-april-fools-day-while-crypto-market-holds-steady",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "4月1日、エイプリルフールの日に複数のアルトコインおよびミームコインが急落し、なかでも人工知能をテーマにしたプロジェクトに関連するトークン「Act I The AI Prophecy（ACT）」は、数分で60％近く下落した。",
+          "link": "https://jp.cointelegraph.com/news/altcoins-crash-april-fools-day-while-crypto-market-holds-steady?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-01T22:24:00.000Z",
+          "wordCount": null,
+          "title": "エイプリルフールに複数のアルトコインが急落、主要暗号資産は堅調維持",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTIzOTgtNGNhNS03YTdhLWEyNGQtMDQ3ZTExMzM2OTg3.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTIzOTgtNGNhNS03YTdhLWEyNGQtMDQ3ZTExMzM2OTg3.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bybit-shuts-down-its-nft-marketplace",
           "author": "Cointelegraph  Adrian Zmudzinski",

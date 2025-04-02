@@ -1248,21 +1248,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/brazil-btc-carbon-tickets.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/brazil-btc-carbon-tickets.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=605290",
-          "author": "菊谷ルイス",
-          "description": "イーロン・マスク氏が率いるAI企業XAIが旧ツイッター社X社を全株式交換で買収。XAIを800億ドル、X社を330億ドルと評価する統合により、AIとソーシャルメディアの融合を目指す。",
-          "link": "https://coinpost.jp/?p=605290",
-          "publishedOn": "2025-03-28T21:40:21.000Z",
-          "wordCount": 3203,
-          "title": "イーロン・マスク氏、人工知能開発のXAIがX社を買収と発表　企業価値16兆円超の巨大統合に",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/Elon-musk_0712.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/Elon-musk_0712.jpg"
         }
       ]
     },
@@ -1658,6 +1643,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/7-eleven-cbdc-testing-phase-april-june-30",
+          "author": "Cointelegraph  Ezra Reguerra",
+          "description": "韓国のセブンイレブン各店舗が、中央銀行デジタル通貨（CBDC）を用いた決済を6月末まで受け入れる。これは、中央銀行の韓国銀行が主導するCBDCプロジェクトの試験運用の一環として実施されるもので、試験期間中にCBDCで支払ったすべての商品に対し10％の割引が適用される。",
+          "link": "https://jp.cointelegraph.com/news/7-eleven-cbdc-testing-phase-april-june-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-02T09:12:00.000Z",
+          "wordCount": null,
+          "title": "韓国のセブンイレブン、CBDC決済を6月まで受け入れ ── 中央銀行デジタル通貨の試験導入に参加",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWY1OGItZmVlNy03ZGUxLWEzYWItZWM4MDc1NmE4MzQz.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWY1OGItZmVlNy03ZGUxLWEzYWItZWM4MDc1NmE4MzQz.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/sec-gemini-pause-lawsuit-explore-potential-resolution",
           "author": "Cointelegraph  Martin Young",

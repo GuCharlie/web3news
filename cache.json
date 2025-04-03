@@ -1337,6 +1337,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=463581",
+          "author": "OtsugaShinya",
+          "description": "米リップルがRLUSDをRipple Paymentsに統合 米リップル（Ripple）社が、同社の国際決済ソリューション「リップル・ペイメント（Ripple Payments）」に、同じく同社による米ドル連動型ステーブ […]",
+          "link": "https://www.neweconomy.jp/posts/463581",
+          "publishedOn": "2025-04-03T11:29:29.000Z",
+          "wordCount": 739,
+          "title": "米リップル、ステーブルコイン「RLUSD」を「Ripple Payments」に統合",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/03202922/1ad1398b4dee110bf81880f2ce850dbd.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=463434",
           "author": "HitomotoToshikazu",
           "description": "JupiterがNFTプラットフォームDRiP買収 Solana（ソラナ）基盤の分散型取引所（DEX）「ジュピター（Jupiter）」が、同じくソラナ上で展開されるNFTプラットフォーム「ドリップ（DRiP）」を買収した […]",
@@ -1833,6 +1843,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-71k-target-tariffs-deal-rare-us-business-outlook-slump",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコイン（BTC）は、米国による貿易関税の影響により「非常に高いリスク」にさらされており、価格が7万1000ドルまで急落する可能性がある。ビットコイン投資ファンド「カプリオール・インベストメンツ」創設者のチャールズ・エドワーズ氏が最新の分析で警告している。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-71k-target-tariffs-deal-rare-us-business-outlook-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-03T11:25:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン、米国の貿易関税で「極めて高いリスク」に直面 ── 7万1000ドルまでの下落懸念も",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWZhYTAtOWM5Zi03NmZhLTkzNjMtNzAzNmRkMjc2NGNm.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWZhYTAtOWM5Zi03NmZhLTkzNjMtNzAzNmRkMjc2NGNm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/cz-donates-1000-bnb-thailand-myanmar-earthquake-relief",
           "author": "Cointelegraph  Zoltan Vardai",

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=285609",
+          "author": "廣瀬 優香",
+          "description": "日本のホテル企業メタプラネットは、平均購入価格約1250万円（1BTCあたり8万3600ドル）で160BTCを追加取得し、投資総額は19億9800万円（約134 ...\nメタプラネット、第1四半期にBTC利回り95.6%を達成──第2四半期は160BTC取得でスタート first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/285609/",
+          "publishedOn": "2025-04-03T00:14:44.000Z",
+          "wordCount": 1292,
+          "title": "メタプラネット、第1四半期にBTC利回り95.6%を達成──第2四半期は160BTC取得でスタート",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/afb72db5244609c27e04ac1bb3950f260319c35e-3840x2160-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=285601",
           "author": "Helene Braun",
           "description": "ビットコイン現物ETFには第1四半期、ビットコイン価格の低迷にもかかわらず、かなりの資金が流入しており、少なくとも1人のアナリストは、価格が回復しないとしても、 ...\nビットコインETF、価格回復なしでも第2四半期に約4500億円の資金流入の可能性：ビットワイズのアナリスト first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -504,6 +514,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=606007",
+          "author": "CoinPost編集部",
+          "description": "米国のトランプ大統領による相互関税の詳細発表を受けて、ビットコインは前日比で100万円超の急落。現物売りが増加し、CMEの未決済建玉も減少していることから機関投資家の撤退が進んでいる可能性が示唆される。米国の納税期限も迫り、仮想通貨市場は厳しい状況に直面している。X-Bankクリプトアナリストによる最新分析。",
+          "link": "https://coinpost.jp/?p=606007",
+          "publishedOn": "2025-04-02T23:36:47.000Z",
+          "wordCount": 3278,
+          "title": "ビットコイン100万円超急落、トランプ大統領の関税発表が引き金に｜仮想NISHI",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0556.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0556.png"
+        },
         {
           "id": "https://coinpost.jp/?p=606026",
           "author": "Ritsuki.Kumazawa",
@@ -1558,6 +1583,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/former-new-york-governor-advised-okx-over-500-million-federal-probe-bloomberg",
+          "author": "Cointelegraph  Brayden Lindrea",
+          "description": "仮想通貨取引所OKXが、連邦政府による捜査に関連して、元ニューヨーク州知事のアンドリュー・クオモ氏をアドバイザーとして起用していたと報じられている。この捜査では、OKXが複数の法令違反を認め、5億500万ドルの罰金および制裁金の支払いに同意している。",
+          "link": "https://jp.cointelegraph.com/news/former-new-york-governor-advised-okx-over-500-million-federal-probe-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-03T00:55:00.000Z",
+          "wordCount": null,
+          "title": "元ニューヨーク州知事アンドリュー・クオモ氏、仮想通貨取引所OKXに連邦捜査対応で助言＝報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTAwZDgtNmMxZi03MmY4LTg3NDMtNDU3OThiOWMwM2Yw.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTAwZDgtNmMxZi03MmY4LTg3NDMtNDU3OThiOWMwM2Yw.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/vaneck-bnb-etf-delaware-trust",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "投資会社ヴァンエックが、バイナンスの仮想通貨BNBに連動する上場投資信託（ETF）の設立に向けて、デラウェア州で信託会社を登録した。",
+          "link": "https://jp.cointelegraph.com/news/vaneck-bnb-etf-delaware-trust?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-03T00:15:00.000Z",
+          "wordCount": null,
+          "title": "ヴァンエック、BNB連動ETF設立に向けてデラウェア州で信託会社を登録",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWY1ZDgtNjlkZi03MjdhLTgwMDMtMDk2YTNkNjU1YTNl.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWY1ZDgtNjlkZi03MjdhLTgwMDMtMDk2YTNkNjU1YTNl.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/fdusd-depegs-following-claims-justin-sun",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "トロン創設者のジャスティン・サン氏が、ドル連動型ステーブルコイン「ファースト・デジタルUSD（FDUSD）」の発行元であるファースト・デジタルが破綻していると主張したことを受け、FDUSDは4月2日にドルとの価格乖離を引き起こした。",
+          "link": "https://jp.cointelegraph.com/news/fdusd-depegs-following-claims-justin-sun?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-02T23:40:00.000Z",
+          "wordCount": null,
+          "title": "ステーブルコインのFDUSD　ドルペッグが乖離 — ジャスティン・サン氏が破綻を主張　 発行元側は反論",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWY3OTQtNmIxNi03NjNiLTlhZjUtMzllMjdmMjUyNWYw.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWY3OTQtNmIxNi03NjNiLTlhZjUtMzllMjdmMjUyNWYw.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-rally-to-88-5-k-obliterates-bears-as-spot-volumes-soar-will-a-tariff-war-stop-the-party",
           "author": "Cointelegraph  Big Smokey",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-04T21:13:30.401Z</updated>
+    <updated>2025-04-04T21:35:46.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SEC、USDCなどの米ドル連動ステーブルコインは証券ではないと公式見解]]></title>
+        <id>https://coinpost.jp/?p=606799</id>
+        <link href="https://coinpost.jp/?p=606799"/>
+        <updated>2025-04-04T21:15:42.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会（SEC）が「カバード」ステーブルコインを証券と見なさないとする公式見解を発表。実物資産で裏付けられ、米ドルと1対1で交換可能なステーブルコインの発行・償還プロセスはSECへの登録が不要となる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コインベース、XRP先物取引を4月21日から提供開始へ　SEC訴訟解決を受け新商品展開]]></title>
         <id>https://coinpost.jp/?p=606781</id>

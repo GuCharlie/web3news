@@ -610,16 +610,6 @@
           "wordCount": 1303,
           "title": "サークル、4月下旬のIPO申請計画でJPモルガンとシティを採用： フォーチュン",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/7da1ff84e3944a8fce0dea265a37a255b3a7c737-5184x3888-3-990x660-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=285192",
-          "author": "James Van Straten",
-          "description": "コインシェアーズ（CoinShares）のバルキリー・ビットコイン・マイニング（Valkyrie Bitcoin Mining）ETF（上場投資信託）（WGMI ...\nコインシェアーズのBTCマイニングETF、今年最低のパフォーマンスを記録 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/285192/",
-          "publishedOn": "2025-03-31T11:30:00.000Z",
-          "wordCount": 1340,
-          "title": "コインシェアーズのBTCマイニングETF、今年最低のパフォーマンスを記録",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/01/shutterstock_2124599498.jpg"
         }
       ]
     },
@@ -634,6 +624,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=607012",
+          "author": "K.Kobayashi",
+          "description": "ブラックロックのBUIDLのトークン化を担うセキュリタイズは、25年3月のBUIDLの分配金が推定で6億円超だったと発表。この金額はトークン化した国債ファンドの1カ月の分配金として史上最高額だという。",
+          "link": "https://coinpost.jp/?p=607012",
+          "publishedOn": "2025-04-04T23:25:37.000Z",
+          "wordCount": 3208,
+          "title": "ブラックロックの「BUIDL」、3月の分配金額は約6億円　トークン化国債ファンドの史上最高額に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/blackrock1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/blackrock1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=606979",
           "author": "菊谷ルイス",
@@ -2090,16 +2095,6 @@
           "wordCount": 596,
           "title": "ヴィタリック、L2セキュリティ向上のための検証システム提案",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/31203611/71e92298522f1dfdaacb2b3b16a81a8c.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=462503",
-          "author": "HitomotoToshikazu",
-          "description": "Binance Walletで対応チェーン上のトークン取引可能に 暗号資産（仮想通貨）取引所大手Binance（バイナンス）提供の「Binance Wallet（バイナンスウォレット）」に、取引所アカウントの残高で、対応 […]",
-          "link": "https://www.neweconomy.jp/posts/462503",
-          "publishedOn": "2025-03-31T11:15:38.000Z",
-          "wordCount": 644,
-          "title": "バイナンス、取引所残高で対象4チェーン上の全トークンが直接取引可能に",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/31180841/2e5c29fcb840a8592ab2af0e0da32b56.jpg"
         }
       ]
     },

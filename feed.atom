@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-04T17:13:16.297Z</updated>
+    <updated>2025-04-04T17:37:50.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン さらなる下落か？底打ちか？　「7万ドルまで下落」との予測も]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-crash-risk-to-70-k-in-10-days-increasing-analyst-says-it-s-btc-s-practical-bottom</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-crash-risk-to-70-k-in-10-days-increasing-analyst-says-it-s-btc-s-practical-bottom?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-04-04T17:15:00.000Z</updated>
+        <summary type="html"><![CDATA[アナリストによれば、ビットコイン（BTC）は今後10日以内に7万ドルまで下落する可能性がある。米トランプ政権の関税政策による市場への影響が、投資家のリスク資産に対する心理を悪化させている。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、株式市場の混乱にも耐える ── BTC価格は8万2000ドル台を維持]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-bulls-defend-80-k-support-as-world-war-3-of-trade-wars-crushes-us-stocks</id>
@@ -2844,27 +2854,6 @@ BTCが8万1000ドルに接近、XRPとADAも下落──トレーダーは関税
         <summary type="html"><![CDATA[イーロン・マスク氏が米ウィスコンシン州のタウンホールミーティングで、トランプ政権の連邦政府効率化局（D.O.G.E）と暗号資産（仮想通貨）ドージコイン（DOGE）の間に関連性はないと明言した。今年2月のドージコインのマスコット表示で生じた市場の思惑は誤りだったことが改めて確認された。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン失速、なぜ下がった？今週どうなる？【仮想通貨相場】]]></title>
-        <id>https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0331</id>
-        <link href="https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0331?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-03-31T05:32:00.000Z</updated>
-        <summary type="html"><![CDATA[週末のBTC相場は下落。]]></summary>
-        <author>
-            <name>Cointelegraph  コインテレグラフジャパン寄稿者</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX主要債権者への返済が本格始動へ｜5月30日開始予定]]></title>
-        <id>https://crypto-times.jp/?p=132776</id>
-        <link href="https://crypto-times.jp/news-ftx-begins-full-scale-repayment-of-major-creditors/"/>
-        <updated>2025-03-31T05:23:19.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産取引所FTXは2022年11月に経営破綻し、John J. Ray III氏を新たなCEOとする再建チームが主導しています。破綻後の残存資産の売却や債権回収の結果、現時点で約114億ドル（約1.7兆円）の現金を確 […]
-投稿 FTX主要債権者への返済が本格始動へ｜5月30日開始予定 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Troll</name>
         </author>
     </entry>
 </feed>

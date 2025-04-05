@@ -530,16 +530,6 @@
           "wordCount": 1290,
           "title": "メタプラネット、さらに696BTCを購入──ビットコイン保有高は4000BTC超に",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/08/メタプラネット　ビットコインと未来へ.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=285295",
-          "author": "Omkar Godbole",
-          "description": "3月は市場の低迷により、ミームコイントレーダー御用達のプラットフォームであるソラナ（Solana）の活動が鈍化したため、イーサリアム（Ethereum）が分散型 ...\nイーサリアム、ソラナを抜いてDEXにおける主要チェーンの座を奪還 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/285295/",
-          "publishedOn": "2025-04-01T08:40:00.000Z",
-          "wordCount": 1351,
-          "title": "イーサリアム、ソラナを抜いてDEXにおける主要チェーンの座を奪還",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/09/shutterstock_1958528764.jpg"
         }
       ]
     },
@@ -1303,21 +1293,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/openai-congress-altman.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/openai-congress-altman.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=605806",
-          "author": "AKIRA.H",
-          "description": "メタプラネットが696BTCを追加取得した。キャッシュ担保付きプットオプションで第1四半期に7.7億円の収益を計上し、長期的なビットコイン蓄積と安定収益を同時に狙う戦略を公開した。",
-          "link": "https://coinpost.jp/?p=605806",
-          "publishedOn": "2025-04-01T08:40:30.000Z",
-          "wordCount": 3202,
-          "title": "メタプラネット、ビットコインを696 BTC追加購入",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/bitcoin_0918-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/bitcoin_0918-1.jpg"
         }
       ]
     },
@@ -1743,6 +1718,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/united-states-sec-covered-stablecoins-not-securities",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "米証券取引委員会（SEC）は4月4日、一定の条件を満たすステーブルコインについて「非証券」に該当すると認定し、取引報告義務の対象外とする方針を示した。",
+          "link": "https://jp.cointelegraph.com/news/united-states-sec-covered-stablecoins-not-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-05T21:00:00.000Z",
+          "wordCount": null,
+          "title": "SEC、新ガイドラインで特定のステーブルコインを「非証券」と分類",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjAyNWMtZWZiMS03ZTY3LWE5ZDEtNDQyODZjMGRlYzdk.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjAyNWMtZWZiMS03ZTY3LWE5ZDEtNDQyODZjMGRlYzdk.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/no-country-wins-global-trade-war-btc-surge-result",
           "author": "Cointelegraph  Vince Quill",

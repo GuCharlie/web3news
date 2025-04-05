@@ -1745,16 +1745,6 @@
           "wordCount": 608,
           "title": "テザー社が南米農業大手アデコアグロ買収へ、過半数株式取得に合意",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/01163658/818a5caa5c02b9ce3bdb989194a696aa.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=462821",
-          "author": "OtsugaShinya",
-          "description": "「Slash Ｖプリカ SHOP」がSolanaに対応開始 スラッシュフィンテック（Slash Fintech）運営の「Slash Vプリカ SHOP」が、ソラナ（Solana）ブロックチェーンに対応開始した。同社が3月 […]",
-          "link": "https://www.neweconomy.jp/posts/462821",
-          "publishedOn": "2025-04-01T08:13:55.000Z",
-          "wordCount": 793,
-          "title": "スラッシュ、「Slash Ｖプリカ SHOP」をSolanaに対応開始",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/01171349/448dfd759d5d5f111ac992a56398fc4c.jpg"
         }
       ]
     },
@@ -1763,6 +1753,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-demand-skyrocket-2-700-bitcoin-defi-surge",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "バイナンスの新しい調査によれば、ビットコイン（BTC）を基盤とする分散型金融（BTCFi）にロックされた資産価値（TVL）は、過去1年間で2700％以上の急増を記録しており、ビットコインを「受動的な価値の保存手段」から「利回りを生む生産的資産」へと変貌させる可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-demand-skyrocket-2-700-bitcoin-defi-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-05T20:00:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン版DeFi、TVLが2700％急増　「価値の保存手段」から「利回りを生む資産」へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTcwNzktYjJhNS03MTZjLThkMWYtZmJhNmYyMzA0NGJm.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTcwNzktYjJhNS03MTZjLThkMWYtZmJhNmYyMzA0NGJm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/smart-money-hunting-meme-tokens-end-memecoin-supercycle",
           "author": "Cointelegraph  Zoltan Vardai",
@@ -2662,21 +2667,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWYxOWItODFiNy03MmU2LTg2ZDUtZGJiNTMwNjJlMTJm.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0401",
-          "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
-          "description": "3月31日のビットコイン（BTC）円は1233万9486円から取引が始まった。",
-          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0401?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-04-01T07:52:00.000Z",
-          "wordCount": null,
-          "title": "下げ渋ったビットコイン　相互関税控え戻りは限定的か【仮想通貨相場】",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kMmQ1NTVjMmUzZjkyZmJmM2E3MTljYmFhMzBmOGQ3Mi5qZmlm.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kMmQ1NTVjMmUzZjkyZmJmM2E3MTljYmFhMzBmOGQ3Mi5qZmlm.jpg"
         }
       ]
     },

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-05T19:35:57.832Z</updated>
+    <updated>2025-04-05T20:14:30.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン版DeFi、TVLが2700％急増　「価値の保存手段」から「利回りを生む資産」へ]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-demand-skyrocket-2-700-bitcoin-defi-surge</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-demand-skyrocket-2-700-bitcoin-defi-surge?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-04-05T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[バイナンスの新しい調査によれば、ビットコイン（BTC）を基盤とする分散型金融（BTCFi）にロックされた資産価値（TVL）は、過去1年間で2700％以上の急増を記録しており、ビットコインを「受動的な価値の保存手段」から「利回りを生む生産的資産」へと変貌させる可能性がある。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ミームコイン人気に陰り？ 投資家は短期利益狙いで動くも、トランプトークンで勢い失速か]]></title>
         <id>https://jp.cointelegraph.com/news/smart-money-hunting-meme-tokens-end-memecoin-supercycle</id>
@@ -2517,26 +2527,6 @@ OpenAIの約6兆円の資金調達が不安定な市場を落ち着かせ、コ�
 投稿 ビットコイン vs 金｜時価総額の逆転はいつ？専門家が見る未来 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スラッシュ、「Slash Ｖプリカ SHOP」をSolanaに対応開始]]></title>
-        <id>https://www.neweconomy.jp/?p=462821</id>
-        <link href="https://www.neweconomy.jp/posts/462821"/>
-        <updated>2025-04-01T08:13:55.000Z</updated>
-        <summary type="html"><![CDATA[「Slash Ｖプリカ SHOP」がSolanaに対応開始 スラッシュフィンテック（Slash Fintech）運営の「Slash Vプリカ SHOP」が、ソラナ（Solana）ブロックチェーンに対応開始した。同社が3月 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[下げ渋ったビットコイン　相互関税控え戻りは限定的か【仮想通貨相場】]]></title>
-        <id>https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0401</id>
-        <link href="https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0401?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-01T07:52:00.000Z</updated>
-        <summary type="html"><![CDATA[3月31日のビットコイン（BTC）円は1233万9486円から取引が始まった。]]></summary>
-        <author>
-            <name>Cointelegraph  コインテレグラフジャパン寄稿者</name>
         </author>
     </entry>
 </feed>

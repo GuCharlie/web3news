@@ -625,6 +625,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=607098",
+          "author": "菊谷ルイス",
+          "description": "決済大手PayPalとVenmoが仮想通貨サービスを拡充し、ChainlinkとSolanaの購入・保有・販売・送金に対応。サービスは米国居住者に限定される。",
+          "link": "https://coinpost.jp/?p=607098",
+          "publishedOn": "2025-04-05T01:00:09.000Z",
+          "wordCount": 3219,
+          "title": "PayPalとVenmo、ソラナとLINKの取引サービスを追加",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/paypal_0403-2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/paypal_0403-2.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=607082",
+          "author": "CoinPost編集部",
+          "description": "仮想通貨ビットコインは株式市場が歴史的な下落幅を記録するなかで下落基調となっている。中国が米国に対する報復関税を発表したことを受けて急落し、一時は70万円幅の下落となった。",
+          "link": "https://coinpost.jp/?p=607082",
+          "publishedOn": "2025-04-05T00:05:04.000Z",
+          "wordCount": 3287,
+          "title": "世界同時株安のなかでのビットコイン市場分析｜仮想NISHI",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=607012",
           "author": "K.Kobayashi",
           "description": "ブラックロックのBUIDLのトークン化を担うセキュリタイズは、25年3月のBUIDLの分配金が推定で6億円超だったと発表。この金額はトークン化した国債ファンドの1カ月の分配金として史上最高額だという。",
@@ -2075,26 +2105,6 @@
           "wordCount": 778,
           "title": "ストラテジーが19.2Bドルでビットコイン追加購入、総保有量528,185BTCに",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/01111702/5d0d994bd882211cdb3b9308180a7fd4.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=462524",
-          "author": "NewEconomyPodcast",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/462524",
-          "publishedOn": "2025-03-31T12:54:03.000Z",
-          "wordCount": 851,
-          "title": "【3/31話題】Astar zkEVMがネットワーク停止、暗号資産を金融商品とする改正案は26年に国会提出かなど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/31183554/news_head_20250331.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=462656",
-          "author": "TamuraSeiji",
-          "description": "ヴィタリックが新しいセキュリティ検証システムを提案 イーサリアム（Ethereum）の共同創設者であるヴィタリック・ブテリン（Vitalik Buterin）氏が、レイヤー2（L2）のセキュリティとトランザクションの即時 […]",
-          "link": "https://www.neweconomy.jp/posts/462656",
-          "publishedOn": "2025-03-31T11:36:19.000Z",
-          "wordCount": 596,
-          "title": "ヴィタリック、L2セキュリティ向上のための検証システム提案",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/31203611/71e92298522f1dfdaacb2b3b16a81a8c.jpg"
         }
       ]
     },
@@ -2103,6 +2113,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/price-analysis-4-4-btc-eth-xrp-bnb-sol-doge-ada-ton-leo-link",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "ビットコイン（BTC）は4月2日にレジスタンスラインを上抜けたものの、ローソク足の上ヒゲが示すように、高値圏では売り圧力が強かった。BTC価格は急反落し、20日間指数平滑移動平均線（EMA、8万4483ドル）を割り込んだ。",
+          "link": "https://jp.cointelegraph.com/news/price-analysis-4-4-btc-eth-xrp-bnb-sol-doge-ada-ton-leo-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-04T23:50:00.000Z",
+          "wordCount": null,
+          "title": "強気派が主導権を握れるか？ 仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjAxYjktMmNhYi03YjlhLThiYzEtMjdmZTZkNDg2MmNm.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjAxYjktMmNhYi03YjlhLThiYzEtMjdmZTZkNDg2MmNm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/stablecoin-circle-may-pause-ipo-plans",
           "author": "Cointelegraph  Vince Quill",

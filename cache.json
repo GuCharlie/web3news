@@ -625,6 +625,51 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=607110",
+          "author": "A.Yamada",
+          "description": "米国の関税政策やインフレ懸念を背景にDeFiの預かり資産総額が12月のピーク時から約30％減少している。識者はイノベーションやRWAが回復の鍵になるとの見解を示した。",
+          "link": "https://coinpost.jp/?p=607110",
+          "publishedOn": "2025-04-05T04:30:41.000Z",
+          "wordCount": 3219,
+          "title": "DeFiのTVL、12月から30％下落　世界経済不安とトランプ関税政策の影響鮮明に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/defi-hack-2021.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/defi-hack-2021.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=607108",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨ビットコイン開発者が量子コンピュータからの資産保護のため、古いアドレスから安全なウォレットへの強制移行案を提案。マイクロソフトの新技術「マヨラナ・ワン」開発で量子脅威が現実味を帯びる中、仮想通貨業界全体で対策議論が加速している。",
+          "link": "https://coinpost.jp/?p=607108",
+          "publishedOn": "2025-04-05T03:55:56.000Z",
+          "wordCount": 3221,
+          "title": "ビットコイン開発者　量子コンピュータ対策のハードフォークを提案",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/quantum-bitcoin-fight.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/quantum-bitcoin-fight.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=607099",
+          "author": "A.Yamada",
+          "description": "ソラナベースのDePINプロジェクト「XNET」が通信大手AT&Tと提携した。AT＆Tユーザーも、XNETによるWiFiホットスポット網を利用可能となる。",
+          "link": "https://coinpost.jp/?p=607099",
+          "publishedOn": "2025-04-05T02:00:12.000Z",
+          "wordCount": 3226,
+          "title": "ソラナ基盤DePIN「XNET」、通信大手AT&Tと提携　WiFiホットスポット提供へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/att0524.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/att0524.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=607098",
           "author": "菊谷ルイス",
           "description": "決済大手PayPalとVenmoが仮想通貨サービスを拡充し、ChainlinkとSolanaの購入・保有・販売・送金に対応。サービスは米国居住者に限定される。",
@@ -3095,6 +3140,26 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=133073",
+          "author": "Crypto Troll",
+          "description": "米大手暗号資産取引所コインベースのデリバティブ部門は、リップル（XRP）を原資産とする先物商品「XRL」の自己認証申請を米商品先物取引委員会（CFTC）に対して行いました。 We’re excited to  […]\n投稿 リップル先物取引が拡大、コインベースが新商品発表 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-ripple-futures-trading-expands/",
+          "publishedOn": "2025-04-05T05:54:08.000Z",
+          "wordCount": 629,
+          "title": "リップル先物取引が拡大、コインベースが新商品発表",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_2576758659.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=133068",
+          "author": "Crypto Troll",
+          "description": "米国上院銀行委員会は4月3日、ポール・アトキンス氏を証券取引委員会（SEC）の委員長候補として13対11の党派的な賛成多数で承認し、上院本会議に送付しました。 アトキンス氏はトランプ大統領により指名されており、かつて20 […]\n投稿 米国暗号資産規制に緩和の兆し、アトキンス氏がSEC委員長候補に は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-atkins-is-a-candidate-for-sec-chairman/",
+          "publishedOn": "2025-04-05T05:46:49.000Z",
+          "wordCount": 581,
+          "title": "米国暗号資産規制に緩和の兆し、アトキンス氏がSEC委員長候補に",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_2426097137.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=133063",
           "author": "Crypto Troll",

@@ -400,16 +400,6 @@
           "wordCount": 1366,
           "title": "イーサリアムに下落トレンド終息の兆候：テクニカル分析",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/01/shutterstock_2562450539-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=285550",
-          "author": "James Van Straten",
-          "description": "長期間にわたって下落トレンドが続いた後、投資家の最大の関心事は、その資産が底を打ったかどうかだろう。 最近の価格動向から、ビットコイン（BTC）は3月10日の7 ...\nビットコイン、史上最高値から30%下落し、底を打った可能性 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/285550/",
-          "publishedOn": "2025-04-02T11:00:00.000Z",
-          "wordCount": 1371,
-          "title": "ビットコイン、史上最高値から30%下落し、底を打った可能性",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/01/shutterstock_1899670633.jpg"
         }
       ]
     },
@@ -1200,16 +1190,6 @@
           "wordCount": 598,
           "title": "村上隆のカイカイキキ、米NiftyKitを買収、NFT・ブロックチェーン技術の強化で",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/02202719/d1928633288e9d7798cd17080f7ecf91.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=463212",
-          "author": "NewEconomyPodcast",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/463212",
-          "publishedOn": "2025-04-02T11:06:34.000Z",
-          "wordCount": 853,
-          "title": "【4/2話題】三井住友FGらがステーブルコイン事業化の検討開始、メタプラネットとテザーがビットコイン追加購入など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/02164504/news_head_20250402.jpg"
         }
       ]
     },
@@ -1218,6 +1198,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/ftx-creditors-risk-losing-2-5b-missing-kyc-deadline",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "破綻した暗号資産取引所FTXの債権者のうち約40万人が、本人確認（KYC）手続きを開始していないことで、最大25億ドルの返済を受け取れなくなる可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/ftx-creditors-risk-losing-2-5b-missing-kyc-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-06T22:55:00.000Z",
+          "wordCount": null,
+          "title": "FTX債権者約40万人、最大25億ドルの返済失効リスク",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2I2ZjYtNDcyMC03MWIyLTg4OWYtOGJiMDA4MmZjM2Nm.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2I2ZjYtNDcyMC03MWIyLTg4OWYtOGJiMDA4MmZjM2Nm.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/billionaire-investor-bill-ackman-predicts-us-president-donald-trump-postpone-tariffs",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "仮想通貨に好意的な著名投資家ビル・アックマン氏は、ドナルド・トランプ米大統領が4月7日に予定されている物議を醸す関税の実施を延期する可能性を示唆した。",
+          "link": "https://jp.cointelegraph.com/news/billionaire-investor-bill-ackman-predicts-us-president-donald-trump-postpone-tariffs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-06T22:34:00.000Z",
+          "wordCount": null,
+          "title": "ビリオネア投資家、トランプ関税の延期を予想",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjA5MzUtYzZjNy03MTQ4LTk4NzAtMTdjM2I1ODJjZjdh.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjA5MzUtYzZjNy03MTQ4LTk4NzAtMTdjM2I1ODJjZjdh.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/stablecoins-best-way-ensure-us-dollar-dominance-web3-ceo",
           "author": "Cointelegraph  Vince Quill",

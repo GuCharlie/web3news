@@ -370,16 +370,6 @@
           "wordCount": 1289,
           "title": "500万円の盆栽NFTが完売、ソニーグループのRWAプロジェクトが示す可能性",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/SNFT.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=285734",
-          "author": "Shaurya Malwa",
-          "description": "比較的新しいステーブルコインへの需要の高まりを受け、4月1日以降、リップルUSD（RLUSD）は1億ドル（約145億円、1ドル=145円換算）分以上が発行され、 ...\nリップルのステーブルコイン「RLUSD」、4月1日以降に1億ドル分発行 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/285734/",
-          "publishedOn": "2025-04-03T10:30:00.000Z",
-          "wordCount": 1303,
-          "title": "リップルのステーブルコイン「RLUSD」、4月1日以降に1億ドル分発行",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2020/07/whale-paola-ocaranza-3RBM2xXEPNo-unsplash.jpg"
         }
       ]
     },
@@ -394,6 +384,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=607461",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨取引所バイナンスは、決済大手ワールドペイとパートナーシップを締結。Apple PayとGoogle Payで決済手段を拡充させ、ユーザー体験を向上させる。",
+          "link": "https://coinpost.jp/?p=607461",
+          "publishedOn": "2025-04-07T22:20:50.000Z",
+          "wordCount": 3241,
+          "title": "仮想通貨取引所バイナンス、決済大手ワールドペイと提携",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/Binance-Worldpay.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/Binance-Worldpay.png"
+        },
         {
           "id": "https://coinpost.jp/?p=607460",
           "author": "菊谷ルイス",
@@ -1248,6 +1253,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/pakistan-appoints-changpeng-zhao-crypto-adviser",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "バイナンスの前CEOであるジャオ・チャンポン（CZ）氏が、パキスタンで新たに設立された規制機関「クリプト評議会（Crypto Council）」の顧問に任命された。",
+          "link": "https://jp.cointelegraph.com/news/pakistan-appoints-changpeng-zhao-crypto-adviser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-07T22:24:00.000Z",
+          "wordCount": null,
+          "title": "仮想通貨導入が進むパキスタン、CZ氏を顧問に任命",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjEwZWItY2U5My03MDEyLWI2ZDUtYTU5YWNmOTUxZDBj.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjEwZWItY2U5My03MDEyLWI2ZDUtYTU5YWNmOTUxZDBj.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/price-analysis-4-7-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-leo",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "ビットコインは74500ドルから鋭く反発した。しかし短期的に上昇が続くのは難しいだろう。",
+          "link": "https://jp.cointelegraph.com/news/price-analysis-4-7-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-leo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-07T22:15:00.000Z",
+          "wordCount": null,
+          "title": "反発は継続するか　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjExMzctMmE4OC03MzgyLTk1YjYtZmI2OTljNGVjOWQ4.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjExMzctMmE4OC03MzgyLTk1YjYtZmI2OTljNGVjOWQ4.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/saylor-strategy-skip-bitcoin-buy-87000-drop",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "マイケル・セイラー氏が率いる世界最大のビットコイン保有マイニング上場企業ストラテジー社は先週、ビットコイン価格が8万7,000ドルを下回ったにもかかわらず、BTCの買い増しを行わなかった。",
+          "link": "https://jp.cointelegraph.com/news/saylor-strategy-skip-bitcoin-buy-87000-drop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-07T22:08:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン下落する中でストラテジー社のビットコイン買い増しなし",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTMzMzAtMzYwNy03YzFhLTg1OGUtNGJjNmY0MzIyNWQz.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTMzMzAtMzYwNy03YzFhLTg1OGUtNGJjNmY0MzIyNWQz.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0407",
           "author": "Cointelegraph  ビットバンク　長谷川友哉",
@@ -2134,16 +2184,6 @@
           "wordCount": 639,
           "title": "Magic Eden、クロスチェーンスワップ機能を開始",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_2554595805.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=132934",
-          "author": "Crypto Times 編集部",
-          "description": "2025年、仮想通貨XRPは、長年の懸案事項だった米国証券取引委員会（SEC）との訴訟終結という歴史的な転換点を迎え、新たなステージへと歩みを進めようとしています。 訴訟リスクという重しが取れたことに加え、現物ETF（上 […]\n投稿 仮想通貨XRP、7倍以上の道筋も見えた？ SEC訴訟終結後の展望とETF期待 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/market-xrp-15usd/",
-          "publishedOn": "2025-04-03T10:38:56.000Z",
-          "wordCount": 653,
-          "title": "仮想通貨XRP、7倍以上の道筋も見えた？ SEC訴訟終結後の展望とETF期待",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_1735145573.jpg"
         }
       ]
     }

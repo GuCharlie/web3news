@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-08T10:16:37.279Z</updated>
+    <updated>2025-04-08T10:43:13.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cboe、新たなFTSEビットコイン指数先物を提供へ]]></title>
+        <id>https://www.coindeskjapan.com/?p=286492</id>
+        <link href="https://www.coindeskjapan.com/286492/"/>
+        <updated>2025-04-08T10:20:00.000Z</updated>
+        <summary type="html"><![CDATA[シカゴ・オプション取引所（Cboe）の暗号資産（仮想通貨）部門であるCboe Digitalは、規制当局の承認が得られれば、4月末にもビットコイン（BTC）先物 ...
+Cboe、新たなFTSEビットコイン指数先物を提供へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Helene Braun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[揺れ動く世界経済とビットコイン、第2四半期の行方とは]]></title>
         <id>https://crypto-times.jp/?p=133282</id>
@@ -2156,47 +2167,6 @@ WisdomTree、機関投資家向けトークン化ファンドプラットフォ�
         <summary type="html"><![CDATA[米下院金融サービス委員会は4月2日、中央銀行デジタル通貨（CBDC）の発行や利用を連邦準備制度（FRB）などの連邦銀行に禁じる法案「反監視国家CBDC法（CBDC Anti-Surveillance State Act）」を可決し、本会議での採決に向けて前進した。]]></summary>
         <author>
             <name>Cointelegraph  Turner Wright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC訴訟の一時停止を受け、ジェミナイがマイアミに新オフィス開設へ]]></title>
-        <id>https://jp.cointelegraph.com/news/gemini-miami-office-sec-pause-ipo</id>
-        <link href="https://jp.cointelegraph.com/news/gemini-miami-office-sec-pause-ipo?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-03T22:41:00.000Z</updated>
-        <summary type="html"><![CDATA[キャメロン・ウィンクルボス氏とタイラー・ウィンクルボス氏が支援する仮想通貨取引所ジェミナイは、米証券取引委員会（SEC）による執行措置が終結に向かいつつある中、マイアミ近郊に新オフィスを開設する計画だ。]]></summary>
-        <author>
-            <name>Cointelegraph  Turner Wright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クジラがビットコインを押し目買い── 8カ月ぶりの有意義な蓄積]]></title>
-        <id>https://www.coindeskjapan.com/?p=285790</id>
-        <link href="https://www.coindeskjapan.com/285790/"/>
-        <updated>2025-04-03T22:31:10.000Z</updated>
-        <summary type="html"><![CDATA[価格には依然として圧力がかかり、センチメントは2022年の再来かと思うほど弱いが、ほぼ1年ぶりにビットコインのクジラが買いを入れている。 Glassnodeのデ ...
-クジラがビットコインを押し目買い── 8カ月ぶりの有意義な蓄積 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>山口 晶子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨スタートアップのプレシード投資、2021年以降で767％増加＝レポート]]></title>
-        <id>https://jp.cointelegraph.com/news/pre-seed-bitcoin-funding-deals-report</id>
-        <link href="https://jp.cointelegraph.com/news/pre-seed-bitcoin-funding-deals-report?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-03T22:28:00.000Z</updated>
-        <summary type="html"><![CDATA[ベンチャーキャピタル企業Trammell Venture Partners（TVP）のレポートによると、ビットコイン（BTC）系スタートアップに対するプレシード（超初期）資金調達の件数は、2021年以降で767％増加した。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CEX上場、ナスダックやダウのIPOを上回る｜平均リターン80％を記録]]></title>
-        <id>https://jp.cointelegraph.com/news/crypto-token-listings-outperform-stocks-80-roi</id>
-        <link href="https://jp.cointelegraph.com/news/crypto-token-listings-outperform-stocks-80-roi?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-03T22:22:00.000Z</updated>
-        <summary type="html"><![CDATA[最近、中央集権型取引所（CEX）におけるトークン上場の操作リスクをめぐってコミュニティの批判が高まっているにもかかわらず、仮想通貨の上場は伝統的な株式上場を平均で上回るリターンを示している。]]></summary>
-        <author>
-            <name>Cointelegraph  Zoltan Vardai</name>
         </author>
     </entry>
 </feed>

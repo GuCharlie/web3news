@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-09T22:38:15.637Z</updated>
+    <updated>2025-04-09T23:14:01.652Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム現物ETFのオプション取引を初めて承認、米SEC]]></title>
+        <id>https://coinpost.jp/?p=607975</id>
+        <link href="https://coinpost.jp/?p=607975"/>
+        <updated>2025-04-09T23:00:10.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会が現物イーサリアムETFのオプション取引を承認。ブラックロック、Bitwise、Grayscaleの各ETF商品が対象。仮想通貨市場の成熟化と機関投資家の参入拡大に向けた重要な一歩となった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ氏の関税一時停止で市場心理が急回復、ビットコイン10万ドル回復が再浮上]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-100-k-target-back-on-table-after-trump-tariff-pause-supercharges-market-sentiment</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-100-k-target-back-on-table-after-trump-tariff-pause-supercharges-market-sentiment?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-04-09T22:57:00.000Z</updated>
+        <summary type="html"><![CDATA[米国のドナルド・トランプ大統領が、対抗措置を取らない国に対する関税を一時停止すると発表したことを受け、ビットコイン（BTC）は急反発した。]]></summary>
+        <author>
+            <name>Cointelegraph  Yashu Gola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC、イーサリアム現物ETFに対するオプション取引を承認]]></title>
+        <id>https://jp.cointelegraph.com/news/sec-approves-options-spot-ether-etfs</id>
+        <link href="https://jp.cointelegraph.com/news/sec-approves-options-spot-ether-etfs?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-04-09T22:47:00.000Z</updated>
+        <summary type="html"><![CDATA[米国証券取引委員会（SEC）は、複数のイーサリアム現物ETFに対するオプション取引を承認した。これにより、機関投資家にとってイーサの投資魅力がさらに高まる可能性がある。]]></summary>
+        <author>
+            <name>Cointelegraph  Sam Bourgi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム、過去85%の期間でビットコインのパフォーマンスを下回る　アナリストが指摘]]></title>
         <id>https://coinpost.jp/?p=607958</id>

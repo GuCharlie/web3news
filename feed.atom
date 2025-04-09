@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-09T20:40:32.000Z</updated>
+    <updated>2025-04-09T21:13:07.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トークン化されたファンドの急成長にはリスクも伴う： ムーディーズ]]></title>
+        <id>https://www.coindeskjapan.com/?p=286798</id>
+        <link href="https://www.coindeskjapan.com/286798/"/>
+        <updated>2025-04-09T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[トークン化されたファンドの人気が急上昇しているが、その急成長には投資家が見過ごしてはならない深刻なリスクが伴うと、信用機関のムーディーズ・レーティングスは4月9 ...
+トークン化されたファンドの急成長にはリスクも伴う： ムーディーズ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Krisztian Sandor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨関連株、トランプ関税90日間停止を受け]]></title>
+        <id>https://coinpost.jp/?p=607941</id>
+        <link href="https://coinpost.jp/?p=607941"/>
+        <updated>2025-04-09T20:55:34.000Z</updated>
+        <summary type="html"><![CDATA[トランプ大統領が75カ国以上に対する相互関税を90日間停止し関税率を10%に引き下げる一方、中国への関税は125%に引き上げ。市場は急反発し、ビットコインは7%上昇、Strategy社株は24%高、Coinbaseは16.8%高。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ関税一時停止で暗号資産、急騰──ビットコインは6％高の8万1000ドル超え]]></title>
         <id>https://www.coindeskjapan.com/?p=286806</id>
@@ -2108,28 +2129,6 @@ CoinDesk Weekly Recap：ビットコイン、市場が混乱する中で安定 f
         <summary type="html"><![CDATA[S&P500が2日間で5兆ドルの時価総額を失う記録的な暴落を記録するなか、ビットコインが比較的安定した価格を保ったことで、金融不安に対するヘッジ資産としての注目が再び高まっている。]]></summary>
         <author>
             <name>Cointelegraph  Zoltan Vardai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分散型SNS向け「Lens Chain」がローンチ｜GHO決済やデータ所有機能も]]></title>
-        <id>https://crypto-times.jp/?p=133071</id>
-        <link href="https://crypto-times.jp/news-lens-chain-launched/"/>
-        <updated>2025-04-05T08:54:23.000Z</updated>
-        <summary type="html"><![CDATA[分散型ソーシャルメディアアプリ向けに特化したレイヤー2ネットワーク「Lens Chain」のメインネットがローンチしました。Lens Chainはイーサリアム上に構築されたオーバーレイ型のチェーンで、高速かつ低コストの環 […]
-投稿 分散型SNS向け「Lens Chain」がローンチ｜GHO決済やデータ所有機能も は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米大手銀行BNYメロン、ブロックチェーン活用の会計ツールを発表]]></title>
-        <id>https://crypto-times.jp/?p=133111</id>
-        <link href="https://crypto-times.jp/news-bny-mellon-launches-blockchain-powered-accounting-tool/"/>
-        <updated>2025-04-05T08:43:01.000Z</updated>
-        <summary type="html"><![CDATA[米国の大手銀行BNYメロンは2025年4月3日、新たなブロックチェーンベースの会計ツール「Digital Asset Data Insights」を発表しました。 このツールは、トークン化ファンドの純資産価値（NAV）を […]
-投稿 米大手銀行BNYメロン、ブロックチェーン活用の会計ツールを発表 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Troll</name>
         </author>
     </entry>
 </feed>

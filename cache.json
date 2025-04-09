@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=286798",
+          "author": "Krisztian Sandor",
+          "description": "トークン化されたファンドの人気が急上昇しているが、その急成長には投資家が見過ごしてはならない深刻なリスクが伴うと、信用機関のムーディーズ・レーティングスは4月9 ...\nトークン化されたファンドの急成長にはリスクも伴う： ムーディーズ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/286798/",
+          "publishedOn": "2025-04-09T21:00:00.000Z",
+          "wordCount": 1401,
+          "title": "トークン化されたファンドの急成長にはリスクも伴う： ムーディーズ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/shutterstock_1042111717.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=286806",
           "author": "Krisztian Sandor",
           "description": "暗号資産は4月9日、ドナルド・トランプ米大統領が中国を除く国々への相互関税の上乗せ分を一時停止するというニュースを受けて、急上昇した。 トランプ氏が自身のソーシ ...\nトランプ関税一時停止で暗号資産、急騰──ビットコインは6％高の8万1000ドル超え first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -474,6 +484,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=607941",
+          "author": "菊谷ルイス",
+          "description": "トランプ大統領が75カ国以上に対する相互関税を90日間停止し関税率を10%に引き下げる一方、中国への関税は125%に引き上げ。市場は急反発し、ビットコインは7%上昇、Strategy社株は24%高、Coinbaseは16.8%高。",
+          "link": "https://coinpost.jp/?p=607941",
+          "publishedOn": "2025-04-09T20:55:34.000Z",
+          "wordCount": 3223,
+          "title": "仮想通貨関連株、トランプ関税90日間停止を受け",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/trump-whitehouse.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/trump-whitehouse.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=607669",
           "author": "M.Somekawa",
@@ -2494,26 +2519,6 @@
           "wordCount": 623,
           "title": "XRPのアクティブアドレスが5倍増、ビットコインを圧倒",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_1846653706-scaled.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=133071",
-          "author": "Crypto Troll",
-          "description": "分散型ソーシャルメディアアプリ向けに特化したレイヤー2ネットワーク「Lens Chain」のメインネットがローンチしました。Lens Chainはイーサリアム上に構築されたオーバーレイ型のチェーンで、高速かつ低コストの環 […]\n投稿 分散型SNS向け「Lens Chain」がローンチ｜GHO決済やデータ所有機能も は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-lens-chain-launched/",
-          "publishedOn": "2025-04-05T08:54:23.000Z",
-          "wordCount": 602,
-          "title": "分散型SNS向け「Lens Chain」がローンチ｜GHO決済やデータ所有機能も",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/863cc0578322831c9250550ba5e1e8f2.png"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=133111",
-          "author": "Crypto Troll",
-          "description": "米国の大手銀行BNYメロンは2025年4月3日、新たなブロックチェーンベースの会計ツール「Digital Asset Data Insights」を発表しました。 このツールは、トークン化ファンドの純資産価値（NAV）を […]\n投稿 米大手銀行BNYメロン、ブロックチェーン活用の会計ツールを発表 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-bny-mellon-launches-blockchain-powered-accounting-tool/",
-          "publishedOn": "2025-04-05T08:43:01.000Z",
-          "wordCount": 589,
-          "title": "米大手銀行BNYメロン、ブロックチェーン活用の会計ツールを発表",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_2589481313.jpg"
         }
       ]
     }

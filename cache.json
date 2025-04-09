@@ -1157,6 +1157,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=464520",
+          "author": "OtsugaShinya",
+          "description": "米司法省が暗号資産取締チーム解散か 米司法省（DOJ）が、「国家暗号資産取締チーム（National Cryptocurrency Enforcement Team：NCET）」を解散し、検察官に対して暗号資産（仮想通貨 […]",
+          "link": "https://www.neweconomy.jp/posts/464520",
+          "publishedOn": "2025-04-09T07:53:20.000Z",
+          "wordCount": 656,
+          "title": "米司法省、暗号資産取締チームを解散か＝ロイター",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/09165316/9d7f44b668863bb5129c79b13fd4e591.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=464497",
           "author": "HitomotoToshikazu",
           "description": "RippleがHidden Roadを約1,818億円で買収へ 米リップル（Ripple）社が、機関投資家向けプライムブローカーであるヒドゥンロード（Hidden Road）を12.5億ドル（約1,818億円）で買収する […]",
@@ -1444,6 +1454,21 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0409",
+          "author": "Cointelegraph  ビットバンク　長谷川友哉",
+          "description": "8日のビットコイン（BTC）円は1171万5942円から取引が始まった。",
+          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0409?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-09T08:02:00.000Z",
+          "wordCount": null,
+          "title": "関税免除期待剥落でBTC反落　相互関税上乗せ分は本日発動【ビットバンク仮想通貨分析】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMjhhNzQ0ZjQyMWJjYjlmNzYwMmM4N2MxYzI3MWIwZC5qcGc=.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMjhhNzQ0ZjQyMWJjYjlmNzYwMmM4N2MxYzI3MWIwZC5qcGc=.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/ethereum-whale-sells-eth-after-900-days-missing-27-m-peak-profit",
           "author": "Cointelegraph  Stephen Katte",
           "description": "過去900日間にわたり1万イーサリアム（ETH）を保有していたクジラが、保有分をすべて売却し、仮想通貨価格が4000ドルを超えていた際に得られたはずの2760万ドルの利益を逃していた。",
@@ -1457,6 +1482,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjE4NGEtNGJiNy03Y2Q0LWI5NzUtNjQ5NDhmMWVjMGNl.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/eth-outperforms-btc-just-15-percent-of-time-since-launch",
+          "author": "Cointelegraph  Martin Young",
+          "description": "イーサリアム（ETH）は約10年前のローンチ以来、全取引日のうち85％の期間においてビットコイン（BTC）に対してアンダーパフォームしていたことがアナリストの分析により明らかとなった。",
+          "link": "https://jp.cointelegraph.com/news/eth-outperforms-btc-just-15-percent-of-time-since-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-09T06:42:00.000Z",
+          "wordCount": null,
+          "title": "イーサリアム：取引開始以来、ビットコインに85％の取引日で劣後 ── ETH/BTCが5年ぶりの安値に",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzU4OTAtYmRlMy03MmMyLWJjZDMtMzdkM2FkMDRhMGQ4.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzU4OTAtYmRlMy03MmMyLWJjZDMtMzdkM2FkMDRhMGQ4.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/eu-markets-regulator-warns-crypto-may-bring-broader-stability-issues",
@@ -2117,21 +2157,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjAxNzMtZGQyZC03ZGM2LWIxOTYtMDRmMWZkMThmOTNh.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/first-digital-redeems-26m-fdusd-after-stablecoin-depeg",
-          "author": "Cointelegraph  Zoltan Vardai",
-          "description": "ステーブルコイン「ファーストデジタルUSD（FDUSD）」を発行するファースト・デジタル・トラスト（FDT）は、2600万ドル近くの償還請求に応じたことがわかった。トロン創設者ジャスティン・サン氏がFDTの経営危機を指摘した後、FDUSDはドルとのペッグが外れる事態となった。",
-          "link": "https://jp.cointelegraph.com/news/first-digital-redeems-26m-fdusd-after-stablecoin-depeg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-04-04T20:00:00.000Z",
-          "wordCount": null,
-          "title": "ステーブルコインFDUSD発行のファースト・デジタル、2600万ドル相当を償還処理　ドルペッグ喪失後",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjAwNzgtZWNhNi03ZjJhLWE4YTEtMDU0MTRlNmJlZjVm.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjAwNzgtZWNhNi03ZjJhLWE4YTEtMDU0MTRlNmJlZjVm.jpg"
         }
       ]
     },
@@ -2140,6 +2165,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=133368",
+          "author": "Crypto Troll",
+          "description": "Soneiumと@JAMが連携し、オンチェーンを活用した来場証明を配布することが発表されました。これにより、ファンはライブなどのイベント参加時に「@JAM LIVE PASS」と呼ばれるデジタルスタンプを取得し、イベント […]\n投稿 Soneiumと@JAMが連携、オンチェーン来場証明「@JAM LIVE PASS」を配布開始 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-soneium-and-jam-collaborate/",
+          "publishedOn": "2025-04-09T08:18:54.000Z",
+          "wordCount": 642,
+          "title": "Soneiumと@JAMが連携、オンチェーン来場証明「@JAM LIVE PASS」を配布開始",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/Gn_pozrXoAAXApI.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=133357",
           "author": "Crypto Times 編集部",

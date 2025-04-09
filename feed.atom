@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-09T11:35:29.284Z</updated>
+    <updated>2025-04-09T12:30:30.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【4/9話題】Progmatが農中信託銀行・あおぞら銀行・ケネディクスから資金調達、リップルがHidden Roadを買収へなど（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=464548</id>
+        <link href="https://www.neweconomy.jp/posts/464548"/>
+        <updated>2025-04-09T12:28:06.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cboe、ビットコイン指数先物取引を提供へ]]></title>
         <id>https://www.neweconomy.jp/?p=464699</id>
@@ -2215,26 +2225,6 @@ CoinDesk Weekly Recap：ビットコイン、市場が混乱する中で安定 f
         <summary type="html"><![CDATA[決済大手PayPalとVenmoが仮想通貨サービスを拡充し、ChainlinkとSolanaの購入・保有・販売・送金に対応。サービスは米国居住者に限定される。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界同時株安のなかでのビットコイン市場分析｜仮想NISHI]]></title>
-        <id>https://coinpost.jp/?p=607082</id>
-        <link href="https://coinpost.jp/?p=607082"/>
-        <updated>2025-04-05T00:05:04.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコインは株式市場が歴史的な下落幅を記録するなかで下落基調となっている。中国が米国に対する報復関税を発表したことを受けて急落し、一時は70万円幅の下落となった。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[強気派が主導権を握れるか？ 仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ]]></title>
-        <id>https://jp.cointelegraph.com/news/price-analysis-4-4-btc-eth-xrp-bnb-sol-doge-ada-ton-leo-link</id>
-        <link href="https://jp.cointelegraph.com/news/price-analysis-4-4-btc-eth-xrp-bnb-sol-doge-ada-ton-leo-link?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-04T23:50:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は4月2日にレジスタンスラインを上抜けたものの、ローソク足の上ヒゲが示すように、高値圏では売り圧力が強かった。BTC価格は急反落し、20日間指数平滑移動平均線（EMA、8万4483ドル）を割り込んだ。]]></summary>
-        <author>
-            <name>Cointelegraph  Rakesh Upadhyay</name>
         </author>
     </entry>
 </feed>

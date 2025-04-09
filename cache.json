@@ -415,6 +415,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=607669",
+          "author": "M.Somekawa",
+          "description": "WBTC（Wrapped Bitcoin）はビットコインをイーサリアム上で運用できる暗号資産（仮想通貨）です。メリットや買い方、リスクを初心者にもわかりやすく解説します。",
+          "link": "https://coinpost.jp/?p=607669",
+          "publishedOn": "2025-04-09T09:00:00.000Z",
+          "wordCount": 2548,
+          "title": "ビットコインをDeFiで運用　WBTCのメリット・買い方、運用法まで徹底解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/WBTC_0409.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/WBTC_0409.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=607801",
           "author": "菊谷ルイス",
           "description": "メタプラネットとAIフュージョンが4月9日に大幅安。両社のビットコイン追加購入にもかかわらず、価格下落による含み損懸念から売り圧力。",
@@ -1118,21 +1133,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/trump-pump-the-fck-uop.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/trump-pump-the-fck-uop.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=606799",
-          "author": "菊谷ルイス",
-          "description": "米証券取引委員会（SEC）が「カバード」ステーブルコインを証券と見なさないとする公式見解を発表。実物資産で裏付けられ、米ドルと1対1で交換可能なステーブルコインの発行・償還プロセスはSECへの登録が不要となる。",
-          "link": "https://coinpost.jp/?p=606799",
-          "publishedOn": "2025-04-04T21:15:42.000Z",
-          "wordCount": 3185,
-          "title": "米SEC、USDCなどの米ドル連動ステーブルコインは証券ではないと公式見解",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/Stablecoin_1201-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/Stablecoin_1201-1.png"
         }
       ]
     },

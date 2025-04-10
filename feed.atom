@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-10T12:30:59.650Z</updated>
+    <updated>2025-04-10T13:25:37.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【4/10話題】クラーケンがマスターカードと提携、イーサリアム現物ETF関連のオプション取引を米SEC初承認（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=464835</id>
+        <link href="https://www.neweconomy.jp/posts/464835"/>
+        <updated>2025-04-10T12:59:52.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Officeに見せかけた仮想通貨マルウェアが拡散｜偽ファイルに注意]]></title>
         <id>https://crypto-times.jp/?p=133451</id>
@@ -2654,17 +2664,6 @@ BTCマイニング量、半減期後の最高を記録：AI対応を強化する
         <summary type="html"><![CDATA[今週はイーロン・マスク氏によるDOGE省とドージコインの関連性否定、トランプ大統領の関税発表後の市況、CryptoQuanによる仮想通貨ビットコインの相場分析に関するニュースが最も関心を集めた。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoinDesk Weekly Recap：ビットコイン、市場が混乱する中で安定]]></title>
-        <id>https://www.coindeskjapan.com/?p=286057</id>
-        <link href="https://www.coindeskjapan.com/286057/"/>
-        <updated>2025-04-06T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[株式市場にとっては恐ろしい週となった。S&P500は過去5日で6%超下落した。一方、ビットコイン（BTC）は暗号資産（仮想通貨）市場全体よりは好調で、過 ...
-CoinDesk Weekly Recap：ビットコイン、市場が混乱する中で安定 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Benjamin Schiller</name>
         </author>
     </entry>
 </feed>

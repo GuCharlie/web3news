@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-10T21:14:13.311Z</updated>
+    <updated>2025-04-10T21:36:30.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ナスダック、アバランチ現物ETFの上場申請をSECに提出]]></title>
+        <id>https://coinpost.jp/?p=608293</id>
+        <link href="https://coinpost.jp/?p=608293"/>
+        <updated>2025-04-10T21:12:19.000Z</updated>
+        <summary type="html"><![CDATA[米ナスダックが仮想通貨アバランチへの間接投資を可能にするVanEck Avalanche TrustのETF上場申請をSECに提出。3月のデラウェア州での信託登録に続く動きで、承認されれば投資家は直接保有せずAVAX価格に連動した投資が可能になる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トークン化された金、時価総額約2900億円に迫る──関税への懸念がセーフヘイブントレードに火をつける]]></title>
         <id>https://www.coindeskjapan.com/?p=286958</id>
@@ -751,6 +761,16 @@
         <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨用語まとめ｜投資初心者向けのポイント解説一覧]]></title>
+        <id>http://coinpost.jp/?p=16319</id>
+        <link href="https://coinpost.jp/?p=16319"/>
+        <updated>2025-04-09T12:00:34.000Z</updated>
+        <summary type="html"><![CDATA[投資初心者のための「仮想通貨用語まとめ」を作成。ビットコイン（BTC）やリップル（XRP）など知名度の高い仮想通貨名と重要な関連用語、国内外の主要取引所名、マイニング関連用語集などを幅広く解説！仮想通貨投資の入門編としてお役立て下さい。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
         </author>
     </entry>
     <entry>

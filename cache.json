@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=287085",
+          "author": "Shaurya Malwa",
+          "description": "リップル・ラボ（Ripple Labs）社とアメリカ証券取引委員会（SEC）は4月10日、和解案をまとめるためにそれぞれの訴訟手続きを一時停止するように要請する ...\nリップル社とSEC、訴訟手続きの一時停止を求める申し立てを共同で提出 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/287085/",
+          "publishedOn": "2025-04-11T07:55:00.000Z",
+          "wordCount": 1376,
+          "title": "リップル社とSEC、訴訟手続きの一時停止を求める申し立てを共同で提出",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/shutterstock_2426097137.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=286935",
+          "author": "栃山直樹",
+          "description": "取材という仕事をしていると時に不思議な偶然に出会うことがある。 京都・桂駅のカフェ。 桂離宮で知られるこの地で、Tリーグ女子プロ卓球チーム「京都カグヤライズ」の ...\nWeb3時代の地方スポーツクラブ経営戦略──トークンによる資金調達に挑む古都2チームを追う first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/286935/",
+          "publishedOn": "2025-04-11T07:44:39.000Z",
+          "wordCount": 1436,
+          "title": "Web3時代の地方スポーツクラブ経営戦略──トークンによる資金調達に挑む古都2チームを追う",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/名称未設定-11.png"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=287067",
           "author": "Sam Reynolds",
           "description": "テザー（Tether）のXAUTやパクソス（Paxos）のPAXGといったトークン化されたゴールド（金）は、貿易戦争の緊張緩和にもかかわらず、投資家が安全な避難 ...\nテザーのトークン化ゴールド「XAUT」、暗号資産のトップ10に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -1597,6 +1617,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=465180",
+          "author": "OtsugaShinya",
+          "description": "香港のHashKeyとOSLがETHステーキングサービス提供開始 香港で個人向けサービス提供の認可済み暗号資産（仮想通貨）取引所であるハッシュキーエクスチェンジ（HashKey Exchange）およびOSLが、同地区に […]",
+          "link": "https://www.neweconomy.jp/posts/465180",
+          "publishedOn": "2025-04-11T08:05:21.000Z",
+          "wordCount": 597,
+          "title": "HashKeyとOSL、香港SFCからイーサリアム（ETH）ステーキングサービス提供を承認",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/11170515/6fe2a3af22b6a086331b34fb93e6c20a.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=465119",
           "author": "NewEconomy",
           "description": "@JAMがSoneium活用のデジタルスタンプ配布へ 国内ポップカルチャーイベント「@JAM（アットジャム）」が、Ethereum（イーサリアム）レイヤー2ブロッチェーン「Soneium（ソニューム）」を活用したデジタル […]",
@@ -2163,6 +2193,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-miners-may-rush-buy-rigs-trump-tariff-pause",
+          "author": "Cointelegraph  Brayden Lindrea",
+          "description": "米国のビットコインマイニング企業は、トランプ政権による関税の一時停止を好機と捉え、マイニングマシンの調達を加速させる構えだ。ただし、10％の最低関税は引き続き課されており、業界は依然として不利な立場にあると関係者は指摘している。",
+          "link": "https://jp.cointelegraph.com/news/crypto-miners-may-rush-buy-rigs-trump-tariff-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-11T07:55:00.000Z",
+          "wordCount": null,
+          "title": "米国のビットコイン採掘企業、関税の一時停止を好機にマシン調達を加速 ── 依然として国際競争で不利との声も",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjIyNWItZjExZC03OGU0LThlNWEtNjRjNWI0NmI3MDlm.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjIyNWItZjExZC03OGU0LThlNWEtNjRjNWI0NmI3MDlm.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/sec-guidance-how-federal-securities-laws-could-apply-crypto",
+          "author": "Cointelegraph  Brayden Lindrea",
+          "description": "米証券取引委員会（SEC）が、仮想通貨に対する連邦証券法の適用に関するガイダンスを提示した。トークンの発行や取り扱いが証券に該当する可能性のある企業に対して、事業内容のより詳細な開示を求めている。",
+          "link": "https://jp.cointelegraph.com/news/sec-guidance-how-federal-securities-laws-could-apply-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-11T07:28:00.000Z",
+          "wordCount": null,
+          "title": "米SEC、仮想通貨への証券法適用に関するガイダンスを発表",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzUxOGUtODdjNS03NzhhLWJhNDAtZTRjMGEzNWVkZTAz.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzUxOGUtODdjNS03NzhhLWJhNDAtZTRjMGEzNWVkZTAz.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/fartcoin-rallies-104-in-a-week-will-solana-sol-price-catch-up",
           "author": "Cointelegraph  Yashu Gola",

@@ -1632,6 +1632,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=465217",
+          "author": "TamuraSeiji",
+          "description": "Babylon Genesisのメインネット正式ローンチ ビットコイン（Bitcoin）ステーキングプロトコル「バビロン（Babylon）」のフェーズ2となる「バビロンジェネシス（Babylon Genesis）」のメイ […]",
+          "link": "https://www.neweconomy.jp/posts/465217",
+          "publishedOn": "2025-04-11T10:36:39.000Z",
+          "wordCount": 791,
+          "title": "ビットコインステーキングプロトコル「Babylon」、Genesisメインネット正式ローンチ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/11193634/a7417b3da8338ff24ecdc76761f95d2e.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=465180",
           "author": "OtsugaShinya",
           "description": "香港のHashKeyとOSLがETHステーキングサービス提供開始 香港で個人向けサービス提供の認可済み暗号資産（仮想通貨）取引所であるハッシュキーエクスチェンジ（HashKey Exchange）およびOSLが、同地区に […]",
@@ -3272,51 +3282,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2I2ZjYtNDcyMC03MWIyLTg4OWYtOGJiMDA4MmZjM2Nm.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/billionaire-investor-bill-ackman-predicts-us-president-donald-trump-postpone-tariffs",
-          "author": "Cointelegraph  Ciaran Lyons",
-          "description": "仮想通貨に好意的な著名投資家ビル・アックマン氏は、ドナルド・トランプ米大統領が4月7日に予定されている物議を醸す関税の実施を延期する可能性を示唆した。",
-          "link": "https://jp.cointelegraph.com/news/billionaire-investor-bill-ackman-predicts-us-president-donald-trump-postpone-tariffs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-04-06T22:34:00.000Z",
-          "wordCount": null,
-          "title": "ビリオネア投資家、トランプ関税の延期を予想",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjA5MzUtYzZjNy03MTQ4LTk4NzAtMTdjM2I1ODJjZjdh.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjA5MzUtYzZjNy03MTQ4LTk4NzAtMTdjM2I1ODJjZjdh.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/stablecoins-best-way-ensure-us-dollar-dominance-web3-ceo",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "米LayerZero LabsのCEO兼創業者であるブライアン・ペレグリーノ氏は、米国政府にとって、ステーブルコインは米ドルの国際的な金融市場における覇権を維持する「最良の手段」だと主張している。",
-          "link": "https://jp.cointelegraph.com/news/stablecoins-best-way-ensure-us-dollar-dominance-web3-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-04-06T22:26:00.000Z",
-          "wordCount": null,
-          "title": "米ドルの覇権維持にはステーブルコインが最善＝LayerZeroCEO",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjBjM2QtZGEyNi03NmEwLWFhY2MtMDcyN2JlYjcyY2U3.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjBjM2QtZGEyNi03NmEwLWFhY2MtMDcyN2JlYjcyY2U3.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/cfpb-step-back-crypto-regulation-attorney",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "トラウトマン・ペッパー・ロック法律事務所のパートナーであるイーサン・オストロフ弁護士によると、証券取引委員会（SEC）や州レベルの規制当局が暗号資産政策においてより大きな役割を担う中で、米消費者金融保護局（CFPB）は暗号資産規制における役割が縮小される可能性が高いという。",
-          "link": "https://jp.cointelegraph.com/news/cfpb-step-back-crypto-regulation-attorney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-04-06T22:17:00.000Z",
-          "wordCount": null,
-          "title": "CFPB、暗号資産規制で後退へ＝法律専門家が指摘",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDQzOTMtYzlhMC03ZGYwLWFlNDctYWMwNTUyZGY5MmEw.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDQzOTMtYzlhMC03ZGYwLWFlNDctYWMwNTUyZGY5MmEw.jpg"
         }
       ]
     },
@@ -3325,6 +3290,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=133499",
+          "author": "Crypto Troll",
+          "description": "長年にわたり多くのプレイヤーを魅了してきた宇宙MMO「Eve Online」の開発元であるCCP Gamesは、現在開発中のブロックチェーン技術を活用したスピンオフタイトル「Eve Frontier」について、本日202 […]\n投稿 Eve Online開発元の新作Web3ゲーム「Eve Frontier」、11日より10日間無料トライアル開始！ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-eve-frontier-starts-10-day-free-trial-today/",
+          "publishedOn": "2025-04-11T10:36:08.000Z",
+          "wordCount": 644,
+          "title": "Eve Online開発元の新作Web3ゲーム「Eve Frontier」、11日より10日間無料トライアル開始！",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_2458253811.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=133501",
           "author": "Crypto Times 編集部",

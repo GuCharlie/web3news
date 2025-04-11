@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-11T18:45:21.340Z</updated>
+    <updated>2025-04-11T19:12:29.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインが直近安値から12％反発　オンチェーン指標は売り枯れを示唆]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-sellers-tap-out-clearing-the-path-for-a-fresh-run-at-new-all-time-highs</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-sellers-tap-out-clearing-the-path-for-a-fresh-run-at-new-all-time-highs?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-04-11T18:40:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は、4月7日に記録した7万4400ドルの安値から12％以上反発しており、オンチェーンおよびテクニカル指標からは回復基調の持続が示唆されている。]]></summary>
+        <author>
+            <name>Cointelegraph  Nancy Lubale</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン　米PPI下振れで上値試す　ドル安とインフレ鈍化が強気材料に]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-holds-82-k-as-us-dollar-falls-to-3-year-low-and-ppi-inflation-drops-sharply</id>
@@ -3098,17 +3108,6 @@ XRP、SOL、DOGEが20%下落──トレーダーは米国市場オープン後�
 投稿 仮想通貨市場、1日で30兆円縮小 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI・ブロックチェーンでエンジニアのキャリアはどうなる？──“重い産業” を動かすには【5/8 オンライン無料開催】]]></title>
-        <id>https://www.coindeskjapan.com/?p=286243</id>
-        <link href="https://www.coindeskjapan.com/286243/"/>
-        <updated>2025-04-07T06:50:00.000Z</updated>
-        <summary type="html"><![CDATA[AIとブロックチェーンの技術が急速に進化する今、次に求められるのは、金融・物流・サプライチェーンといった “重い産業“ 、すなわち、あらゆる産業を基盤として支え ...
-AI・ブロックチェーンでエンジニアのキャリアはどうなる？──“重い産業” を動かすには【5/8 オンライン無料開催】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>CoinDesk JAPAN</name>
         </author>
     </entry>
 </feed>

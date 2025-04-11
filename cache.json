@@ -1632,6 +1632,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=465195",
+          "author": "NewEconomyPodcast",
+          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/465195",
+          "publishedOn": "2025-04-11T11:37:35.000Z",
+          "wordCount": 653,
+          "title": "【4/11話題】トランプ大統領がDeFi課税ルールを撤回、金融庁が暗号資産を2類型にする規制提案など（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/11172944/news_head_20250411.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=465323",
           "author": "TamuraSeiji",
           "description": "コスモスが「IBC Eureka」をローンチ コスモス（Cosmos）エコシステムの開発を主導するインターチェーンラボ（Interchain Labs）が「IBCエウレカ（IBC Eureka）」をローンチし、初めてIB […]",
@@ -2238,6 +2248,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-bullish-impulse-recession-premature-crypto-analyst-forecast",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "将来的な景気後退がビットコイン（BTC）の価格に及ぼす影響について、投資家が強気姿勢を取るには「まだ時期尚早だ」と、10xリサーチのリサーチ責任者であるマルクス・ティーレン氏は指摘している。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-bullish-impulse-recession-premature-crypto-analyst-forecast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-11T12:20:00.000Z",
+          "wordCount": null,
+          "title": "「景気後退によるビットコインの上昇期待は時期尚早」　10xリサーチのティーレン氏が指摘　短期的にはBTCに逆風",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzcyZWEtZDcxYS03MGIyLThiNGItMjZiYjY3M2NhMDMx.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzcyZWEtZDcxYS03MGIyLThiNGItMjZiYjY3M2NhMDMx.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0411",
           "author": "Cointelegraph  ビットバンク　長谷川友哉",

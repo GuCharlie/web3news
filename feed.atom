@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-11T22:14:26.825Z</updated>
+    <updated>2025-04-11T22:40:37.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナの主要ミームコイン『Fartcoin』逆行高]]></title>
+        <id>https://coinpost.jp/?p=608608</id>
+        <link href="https://coinpost.jp/?p=608608"/>
+        <updated>2025-04-11T22:35:46.000Z</updated>
+        <summary type="html"><![CDATA[ファートコイン逆行高トランプ米大統領が10日、世界的な「相互関税」政策の90日間停止を発表。これにより、市場は一時的にリスクオンに転じ、ミームコインを含む一部の仮想通貨銘柄が急騰した。出典：CoinGecko他の国に対し一律関税を10%に引...]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米消費者心理はトランプ関税発動後に悪化も、暗号資産は持ちこたえる]]></title>
+        <id>https://www.coindeskjapan.com/?p=287167</id>
+        <link href="https://www.coindeskjapan.com/287167/"/>
+        <updated>2025-04-11T22:17:53.000Z</updated>
+        <summary type="html"><![CDATA[米中貿易摩擦が世界市場を動揺させ続け、伝統的な米国資産は大混乱に陥っている中、米国経済に対するセンチメントが悪化し、インフレ懸念が高まっていることを示す新たなデ ...
+米消費者心理はトランプ関税発動後に悪化も、暗号資産は持ちこたえる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Krisztian Sandor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北欧議員、ビットコイン準備金を提案　米国を参考に]]></title>
+        <id>https://coinpost.jp/?p=608601</id>
+        <link href="https://coinpost.jp/?p=608601"/>
+        <updated>2025-04-11T22:15:12.000Z</updated>
+        <summary type="html"><![CDATA[スウェーデンの議員は財務相に対し、準備金に仮想通貨ビットコインを加えることを検討しているか質問。米トランプ政権の動向などに言及し、ビットコインの保有することのメリットを説明している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブラックロック、2025年第1四半期に840億ドルの純流入　デジタル資産でも30億ドル超の流入]]></title>
         <id>https://jp.cointelegraph.com/news/blackrock-3-billion-inflows-crypto-asset-products-q1-2025</id>
@@ -2957,26 +2988,6 @@ XRP、DOGEなどが10%急騰──暗号資産市場は安堵のラリーを展�
 投稿 仮想通貨市場の急落で14億ドル超の清算発生｜強い売り圧続く は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分散型SNS「Lens」、イーサL2「Lens Chain」をメインネットローンチ]]></title>
-        <id>https://www.neweconomy.jp/?p=464095</id>
-        <link href="https://www.neweconomy.jp/posts/464095"/>
-        <updated>2025-04-07T10:32:51.000Z</updated>
-        <summary type="html"><![CDATA[Lensが「Lens Chain」メインネットをローンチ 大手DeFi（分散型金融）アーベ（Aave）開発元によるSocialFiプロトコル「レンズ（Lens）」が、独自のEVM互換レイヤー2ネットワーク「レンズチェーン […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベース、米国初の終日取引可能な先物を5/9より提供へ]]></title>
-        <id>https://www.neweconomy.jp/?p=464091</id>
-        <link href="https://www.neweconomy.jp/posts/464091"/>
-        <updated>2025-04-07T10:28:56.000Z</updated>
-        <summary type="html"><![CDATA[Coinbaseが5月9日より終日取引可能な先物提供へ 米大手暗号資産（仮想通貨）取引所コインベース（Coinbase）が、米国初となる24時間365日取引可能な先物取引を5月9日より開始する予定だ。同取引所が4月5日に […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
 </feed>

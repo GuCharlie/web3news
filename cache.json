@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=287171",
+          "author": "Nikhilesh De",
+          "description": "米証券取引委員会（SEC）と暗号資産（仮想通貨）取引所バイナンスの弁護士は4月11日、連邦判事に対し、「生産的な話し合い」を理由に、バイナンスに対するSECの裁 ...\nSECとバイナンス、進行中の訴訟の一時停止期間延長を判事に要請 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/287171/",
+          "publishedOn": "2025-04-11T23:30:00.000Z",
+          "wordCount": 1305,
+          "title": "SECとバイナンス、進行中の訴訟の一時停止期間延長を判事に要請",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/d515099cc27d1cef5d333e5c01bb778ce49d7531-6000x3376-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=287102",
           "author": "Shaurya Malwa",
           "description": "かつてCryptoPunks（クリプトパンクス）は、究極のステータスシンボルだったことを覚えているだろうか？ 2017年にLarva Labsが発行した1万体の ...\nCryptoPunk #3100、約1億円の損失で売却──希少価値はまだ健在 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -560,16 +570,6 @@
           "wordCount": 1313,
           "title": "ビットコイン、反発から再び下落──トランプ関税延期の噂が市場を翻弄",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/shutterstock_1078100036.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=286325",
-          "author": "Sam Reynolds",
-          "description": "DefiLlamaが収集したオンチェーンデータの分析によると、イーサリアム（ETH）の価格が15%下落すると、約1億ドルのポジションが危険にさらされる。 アジア ...\nトランプ関税による下落で、イーサリアムに1億ドルの清算が迫る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/286325/",
-          "publishedOn": "2025-04-07T11:15:00.000Z",
-          "wordCount": 1353,
-          "title": "トランプ関税による下落で、イーサリアムに1億ドルの清算が迫る",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/shutterstock_2142875543.jpg"
         }
       ]
     },
@@ -580,10 +580,25 @@
       "articles": []
     },
     {
-      "title": "iOSウォレットBread Wallet：ビットコインキャッシュを追加",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=608630",
+          "author": "菊谷ルイス",
+          "description": "米国トランプ大統領の関税政策により、ビットコインのマイニング収益率が大幅に下落。多くのマイニング企業が損益分岐点を下回り、S19 Pro機器の大規模シャットダウンの可能性が高まっていると指摘されている。",
+          "link": "https://coinpost.jp/?p=608630",
+          "publishedOn": "2025-04-11T23:15:02.000Z",
+          "wordCount": 3245,
+          "title": "トランプ関税でビットコインマイニング収益悪化　赤字企業続出",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-bear-hayes.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-bear-hayes.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=608608",
           "author": "菊谷ルイス",
@@ -3604,16 +3619,6 @@
           "wordCount": 591,
           "title": "Aave DAO、週100万ドル相当の買戻し開始へ",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/XjsYgQ1T.png"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=133188",
-          "author": "Crypto Times 編集部",
-          "description": "2017年、仮想通貨市場は空前の盛り上がりを見せ、ビットコイン (BTC) だけでなく多くのアルトコインが驚異的な価格上昇を記録しました。いわゆる「アルトコイン・シーズン」では、プロジェクトの内容に関わらず市場全体の熱狂 […]\n投稿 次の仮想通貨バブル、上がる銘柄は限定的か｜注目のプロジェクトとは？ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/market-next-altcoin-bubble/",
-          "publishedOn": "2025-04-07T11:28:14.000Z",
-          "wordCount": 579,
-          "title": "次の仮想通貨バブル、上がる銘柄は限定的か｜注目のプロジェクトとは？",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_1966057594.jpg"
         }
       ]
     }

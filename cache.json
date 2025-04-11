@@ -550,26 +550,6 @@
           "wordCount": 1353,
           "title": "トランプ関税による下落で、イーサリアムに1億ドルの清算が迫る",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/shutterstock_2142875543.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=286295",
-          "author": "James Van Straten",
-          "description": "暗号資産（仮想通貨）市場の調整が始まり、ドナルド・トランプ（Donald Trump）大統領の関税に従来の金融市場が反応し始めてから数日後、ビットコイン（BTC ...\nBTC暴落もストラテジーはまだ利益を確保──メタプラネットとセムラーは大きな損失 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/286295/",
-          "publishedOn": "2025-04-07T10:10:00.000Z",
-          "wordCount": 1337,
-          "title": "BTC暴落もストラテジーはまだ利益を確保──メタプラネットとセムラーは大きな損失",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/a57323d92b3fa599df2ee442af800248477423c0-6000x3376-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=286288",
-          "author": "栃山直樹",
-          "description": "NTT Digital、クリプトリエ、teketの3社は4月7日、NTTドコモグループの2025年度合同入社式におけるNFT活用の取り組みを支援したと発表した。 ...\nドコモ、入社式でNFT活用──入社証明書からゲーム報酬まで first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/286288/",
-          "publishedOn": "2025-04-07T09:43:51.000Z",
-          "wordCount": 1294,
-          "title": "ドコモ、入社式でNFT活用──入社証明書からゲーム報酬まで",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/136141-25-3e2831500690b0861aa78c.jpg"
         }
       ]
     },
@@ -584,6 +564,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=608600",
+          "author": "菊谷ルイス",
+          "description": "米CPIの下振れ及び景気後退リスクでFRBの利下げ期待が浮上。仮想通貨ビットコインは84,000ドルを回復するも、米中関税と債券市場の不安が続き、アナリストは市場リスクの継続に警鐘を鳴らす。",
+          "link": "https://coinpost.jp/?p=608600",
+          "publishedOn": "2025-04-11T21:35:16.000Z",
+          "wordCount": 3230,
+          "title": "ビットコイン84000ドル回復　FRB利下げ観測強まるも市場リスクは後退せず",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-onchain-activities.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-onchain-activities.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=608594",
           "author": "菊谷ルイス",
@@ -1993,6 +1988,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/blackrock-3-billion-inflows-crypto-asset-products-q1-2025",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "世界最大の資産運用会社ブラックロックは、2025年第1四半期に840億ドルの純流入を記録し、運用資産額で年率3％の成長になったと発表した。",
+          "link": "https://jp.cointelegraph.com/news/blackrock-3-billion-inflows-crypto-asset-products-q1-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-11T21:55:00.000Z",
+          "wordCount": null,
+          "title": "ブラックロック、2025年第1四半期に840億ドルの純流入　デジタル資産でも30億ドル超の流入",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjI0NzQtZTg4ZS03NDhkLThkYmEtODkzYTU3YzVmMWFj.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjI0NzQtZTg4ZS03NDhkLThkYmEtODkzYTU3YzVmMWFj.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-sellers-tap-out-clearing-the-path-for-a-fresh-run-at-new-all-time-highs",
           "author": "Cointelegraph  Nancy Lubale",
@@ -3569,16 +3579,6 @@
           "wordCount": 578,
           "title": "仮想通貨市場の急落で14億ドル超の清算発生｜強い売り圧続く",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_2464799453.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=133168",
-          "author": "Crypto Times 編集部",
-          "description": "BitMEX共同創設者のアーサー・ヘイズ氏はFRBの金融政策が政府の意向に強く影響されるとの見解を示し、世界的な通貨安競争が激化する中でビットコインがインフレヘッジとして機能し、2027年には100万ドルに迫る可能性があ […]\n投稿 ビットコイン、2027年に100万ドルに迫る可能性？金融緩和とインフレ背景に は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-arthur-hayes-btc-2027/",
-          "publishedOn": "2025-04-07T09:53:49.000Z",
-          "wordCount": 586,
-          "title": "ビットコイン、2027年に100万ドルに迫る可能性？金融緩和とインフレ背景に",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_2533638515.jpg"
         }
       ]
     }

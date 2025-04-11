@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-11T20:38:51.346Z</updated>
+    <updated>2025-04-11T21:13:45.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マクドナルド、株主のビットコイン購入提案を拒否、SECが対応を支持]]></title>
+        <id>https://coinpost.jp/?p=608594</id>
+        <link href="https://coinpost.jp/?p=608594"/>
+        <updated>2025-04-11T20:55:22.000Z</updated>
+        <summary type="html"><![CDATA[マクドナルドが保守系株主団体からのビットコイン購入検討提案を拒否。SECは「通常業務に関連する」として同社の判断を支持した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインが直近安値から12％反発　オンチェーン指標は売り枯れを示唆]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-sellers-tap-out-clearing-the-path-for-a-fresh-run-at-new-all-time-highs</id>
@@ -3013,28 +3023,6 @@ BTC暴落もストラテジーはまだ利益を確保──メタプラネッ�
 投稿 イーサリアム急落、ETH/BTCは0.02を下回る は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨市場下落、「先に売り、後で考える」姿勢が影響か]]></title>
-        <id>https://crypto-times.jp/?p=133158</id>
-        <link href="https://crypto-times.jp/news-sell-now-think-later-causes-crypto-market-slump/"/>
-        <updated>2025-04-07T08:49:26.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインとイーサリアムは続落し、ドナルド・トランプ大統領による貿易戦争の激化が世界的な売りをさらに悪化させました。 Presto Researchのリサーチ責任者であるPeter Chung氏によると、4月2日からの […]
-投稿 仮想通貨市場下落、「先に売り、後で考える」姿勢が影響か は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP、SOL、DOGEが20%下落──トレーダーは米国市場オープン後にさらなる痛みも予想]]></title>
-        <id>https://www.coindeskjapan.com/?p=286268</id>
-        <link href="https://www.coindeskjapan.com/286268/"/>
-        <updated>2025-04-07T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[4月7日の欧州取引時間の朝に、暗号資産（仮想通貨）市場の売りはさらに悪化し、ビットコインは7万5000ドルを一時割り込み、主要トークンの損失はほぼ20％に拡大し ...
-XRP、SOL、DOGEが20%下落──トレーダーは米国市場オープン後にさらなる痛みも予想 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>

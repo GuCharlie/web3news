@@ -1558,21 +1558,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/federal-reserve-ban-1.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/federal-reserve-ban-1.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=607456",
-          "author": "菊谷ルイス",
-          "description": "先週は追加購入しておらず米ストラテジー社（旧マイクロストラテジー）が2025年第1四半期に（1〜3月）保有するビットコイン（BTC）資産で、59.1億ドル（約8,800億円）の未実現損失を計上したことが明らかになった。トランプ関税政策の影響...",
-          "link": "https://coinpost.jp/?p=607456",
-          "publishedOn": "2025-04-07T21:20:43.000Z",
-          "wordCount": 3222,
-          "title": "セイラー会長のストラテジー社、1Qに約8800億円のビットコイン未実現損失を計上",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/microstra.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/microstra.jpeg"
         }
       ]
     },
@@ -2068,6 +2053,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/mark-uyeda-crypto-temporary-framework-sec-roundtable-crypto-task-force",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "米証券取引委員会（SEC）のマーク・ウエダ委員長代行は、恒久的な規制の整備が進行中であることを踏まえ、仮想通貨業界に対して迅速に導入可能な「一時的・条件付きの規制緩和措置」が、米国内におけるブロックチェーン技術のイノベーションを後押しする可能性があると述べた。",
+          "link": "https://jp.cointelegraph.com/news/mark-uyeda-crypto-temporary-framework-sec-roundtable-crypto-task-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-12T08:53:00.000Z",
+          "wordCount": null,
+          "title": "一時的な仮想通貨規制の緩和措置、イノベーション促進を後押＝米SECのウエダ委員長代行",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjI3ZTMtODBlMC03MWFjLWE5OGQtNmE1ZGEyODlmZjNh.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjI3ZTMtODBlMC03MWFjLWE5OGQtNmE1ZGEyODlmZjNh.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/price-analysis-4-11-btc-eth-xrp-bnb-sol-doge-ada-leo-link-avax",
           "author": "Cointelegraph  Rakesh Upadhyay",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-12T15:13:28.539Z</updated>
+    <updated>2025-04-12T15:37:00.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2035年にビットコインは180万ドルを突破へ　関税不安でも強気継続とアナリスト指摘]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-to-1-8-m-2035-trump-trade-war-analyst</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-to-1-8-m-2035-trump-trade-war-analyst?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-04-12T15:05:00.000Z</updated>
+        <summary type="html"><![CDATA[アンチェインドのリサーチディレクターであるジョー・バーネット氏によれば、ビットコイン（BTC）は短期的な価格調整や世界的な貿易摩擦による投資家心理の冷え込みを受けながらも、2035年までに180万ドルを突破する勢いが維持されている。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乱高下するビットコイン、過去の暴落と比較｜関税問題とマクロ経済の影響は？]]></title>
         <id>https://crypto-times.jp/?p=133529</id>
@@ -2794,16 +2804,6 @@ XRP、DOGEなどが10%急騰──暗号資産市場は安堵のラリーを展�
         <summary type="html"><![CDATA[テザーが米国市場専用のステーブルコイン検討 米ドル建てステーブルコイン「USDT」等を発行するテザー（Tether）社が、米国市場専用のステーブルコイン提供を検討していると、「フィナンシャルタイムズ（Financial  […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインは下落相場でも「底堅さ」示す　バイナンスが最新レポートで分析]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-shows-signs-of-reslience-outperforms-stocks-gold-amid-global-market-selloff</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-shows-signs-of-reslience-outperforms-stocks-gold-amid-global-market-selloff?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-08T03:34:00.000Z</updated>
-        <summary type="html"><![CDATA[米国のトランプ大統領による包括的な関税の発表を受けて、株式市場および仮想通貨市場全体が急落するなか、ビットコイン（BTC）は依然として「底堅さの兆し」を見せている──世界最大の仮想通貨取引所バイナンスが4月7日に発表したリサーチレポートでそう述べている。]]></summary>
-        <author>
-            <name>Cointelegraph  Alex O’Donnell</name>
         </author>
     </entry>
 </feed>

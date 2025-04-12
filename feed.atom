@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-12T09:37:20.241Z</updated>
+    <updated>2025-04-12T10:13:50.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SECとバイナンス、訴訟の60日間延長を共同申請]]></title>
+        <id>https://jp.cointelegraph.com/news/binance-sec-request-60-day-pause-again-productive-talks-crypto-lawsuit</id>
+        <link href="https://jp.cointelegraph.com/news/binance-sec-request-60-day-pause-again-productive-talks-crypto-lawsuit?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-04-12T09:35:00.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会（SEC）と仮想通貨取引所バイナンスは、両者の間で続く約2年にわたる法廷闘争について、さらに60日間の一時停止を求める共同申請を行った。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一時的な仮想通貨規制の緩和措置、イノベーション促進を後押＝米SECのウエダ委員長代行]]></title>
         <id>https://jp.cointelegraph.com/news/mark-uyeda-crypto-temporary-framework-sec-roundtable-crypto-task-force</id>
@@ -2996,37 +3006,6 @@ XRP、DOGEなどが10%急騰──暗号資産市場は安堵のラリーを展�
         <summary type="html"><![CDATA[ビットコインは74500ドルから鋭く反発した。しかし短期的に上昇が続くのは難しいだろう。]]></summary>
         <author>
             <name>Cointelegraph  Rakesh Upadhyay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン下落する中でストラテジー社のビットコイン買い増しなし]]></title>
-        <id>https://jp.cointelegraph.com/news/saylor-strategy-skip-bitcoin-buy-87000-drop</id>
-        <link href="https://jp.cointelegraph.com/news/saylor-strategy-skip-bitcoin-buy-87000-drop?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-07T22:08:00.000Z</updated>
-        <summary type="html"><![CDATA[マイケル・セイラー氏が率いる世界最大のビットコイン保有マイニング上場企業ストラテジー社は先週、ビットコイン価格が8万7,000ドルを下回ったにもかかわらず、BTCの買い増しを行わなかった。]]></summary>
-        <author>
-            <name>Cointelegraph  Helen Partz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[市場はさらに20%下落の可能性も：ブラックロックのラリー・フィンクCEO]]></title>
-        <id>https://www.coindeskjapan.com/?p=286373</id>
-        <link href="https://www.coindeskjapan.com/286373/"/>
-        <updated>2025-04-07T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ブラックロックのラリー・フィンクCEOは、市場はさらに20％下落する可能性があるが、現在の下落はシステミックリスクをもたらさないため、長期的には買いのチャンスで ...
-市場はさらに20%下落の可能性も：ブラックロックのラリー・フィンクCEO first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Helene Braun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米政府機関の仮想通貨保有報告、本日期限か　公開の有無に注目集まる]]></title>
-        <id>https://coinpost.jp/?p=607460</id>
-        <link href="https://coinpost.jp/?p=607460"/>
-        <updated>2025-04-07T21:45:04.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨保有報告の期限到来米国の連邦政府機関は4月8日までに財務省のスコット・ベセント財務長官に対して仮想通貨保有状況の報告を行う必要があると報じられている。ジャーナリストのエレノア・テレット氏が7日に、ホワイトハウス関係者の情報としてXで...]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

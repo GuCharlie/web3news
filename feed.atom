@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-12T20:36:34.666Z</updated>
+    <updated>2025-04-12T21:12:52.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[投資家がクリプトパンクを約1000万ドルの損失で売却　NFT市場の苦戦が浮き彫りに]]></title>
+        <id>https://jp.cointelegraph.com/news/whale-sells-6m-crypto-punk-9-7-m-loss-year-hodling</id>
+        <link href="https://jp.cointelegraph.com/news/whale-sells-6m-crypto-punk-9-7-m-loss-year-hodling?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-04-12T20:55:00.000Z</updated>
+        <summary type="html"><![CDATA[ある投資家が、かつては「ブルーチップ」と称された非代替性トークン（NFT）コレクションであるクリプトパンクスを約1000万ドルの損を出して売却した。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2035年にビットコインは180万ドルを突破へ　関税不安でも強気継続とアナリスト指摘]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-to-1-8-m-2035-trump-trade-war-analyst</id>
@@ -2769,28 +2779,6 @@ Cboe、新たなFTSEビットコイン指数先物を提供へ first appeared on
         <summary type="html"><![CDATA[キャシー・ウッド氏率いる投資会社ARKインベストが、米国の新たな貿易関税措置を受け、現物型ビットコインETFの一部を売却する一方で、コインベース（COIN）の株式を積極的に買い増している。]]></summary>
         <author>
             <name>Cointelegraph  Helen Partz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[揺れ動く世界経済とビットコイン、第2四半期の行方とは]]></title>
-        <id>https://crypto-times.jp/?p=133282</id>
-        <link href="https://crypto-times.jp/column-crypto-q2/"/>
-        <updated>2025-04-08T09:01:48.000Z</updated>
-        <summary type="html"><![CDATA[昨今、金融市場は大きな混乱に見舞われています。「ブラックマンデー」を彷彿とさせるビットコインの急落に加え、世界中で貿易戦争への懸念が急速に高まっています。 このような厳しい状況下で市場にはまだ買い支える力があるのでしょう […]
-投稿 揺れ動く世界経済とビットコイン、第2四半期の行方とは は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アメリカ初のXRP ETFは、テウクリウムのレバレッジ型ファンド]]></title>
-        <id>https://www.coindeskjapan.com/?p=286475</id>
-        <link href="https://www.coindeskjapan.com/286475/"/>
-        <updated>2025-04-08T08:40:00.000Z</updated>
-        <summary type="html"><![CDATA[テウクリウム・インベストメント・アドバイザーズ（Teucrium Investment Advisors）は、アメリカで初めてのXRP関連ETF（上場投資信託） ...
-アメリカ初のXRP ETFは、テウクリウムのレバレッジ型ファンド first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>

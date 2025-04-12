@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-12T21:35:37.364Z</updated>
+    <updated>2025-04-12T22:13:04.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンス前CEOのCZ氏、「ジャスティン・サン氏に不利な証言に合意」との報道を否定]]></title>
+        <id>https://jp.cointelegraph.com/news/zhao-claps-back-baseless-plea-deal-allegations</id>
+        <link href="https://jp.cointelegraph.com/news/zhao-claps-back-baseless-plea-deal-allegations?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-04-12T21:55:00.000Z</updated>
+        <summary type="html"><![CDATA[バイナンスの元最高経営責任者（CEO）であるチャンポン・ジャオ氏（通称CZ）は、米司法省との司法取引の一環として、トロン創設者ジャスティン・サン氏に不利な証拠提供に合意したとの報道を否定した。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[投資家がクリプトパンクを約1000万ドルの損失で売却　NFT市場の苦戦が浮き彫りに]]></title>
         <id>https://jp.cointelegraph.com/news/whale-sells-6m-crypto-punk-9-7-m-loss-year-hodling</id>
@@ -2769,16 +2779,6 @@ Progmatと農中信託銀行、あおぞら銀行、ケネディクスが提携�
 Cboe、新たなFTSEビットコイン指数先物を提供へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Helene Braun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARKインベスト、トランプ関税発表後にコインベース株を追加購入]]></title>
-        <id>https://jp.cointelegraph.com/news/ark-cathie-wood-buy-27-million-coinbase-tariffs-bitcoin-etf-dump</id>
-        <link href="https://jp.cointelegraph.com/news/ark-cathie-wood-buy-27-million-coinbase-tariffs-bitcoin-etf-dump?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[キャシー・ウッド氏率いる投資会社ARKインベストが、米国の新たな貿易関税措置を受け、現物型ビットコインETFの一部を売却する一方で、コインベース（COIN）の株式を積極的に買い増している。]]></summary>
-        <author>
-            <name>Cointelegraph  Helen Partz</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-13T20:37:08.327Z</updated>
+    <updated>2025-04-13T21:13:29.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは決済プラットフォームではない]]></title>
+        <id>https://www.coindeskjapan.com/?p=286971</id>
+        <link href="https://www.coindeskjapan.com/286971/"/>
+        <updated>2025-04-13T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ツイッター（現X）の創業者、ジャック・ドーシー（Jack Dorsey）氏は、ビットコインがスケールするには決済が不可欠と述べている。だが、トラスト・マシンズ（ ...
+ビットコインは決済プラットフォームではない first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Rena Shah</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、次なる上昇は金融緩和後？ 専門家が予測する「12万ドル」への道筋]]></title>
         <id>https://crypto-times.jp/?p=133533</id>
@@ -2208,16 +2219,6 @@ Web3時代の地方スポーツクラブ経営戦略──トークンによる�
         <summary type="html"><![CDATA[米国による貿易戦争への懸念を背景に、グローバルな投資家がリスク資産から資金を引き上げるなか、ビットコイン（BTC）と伝統的金融市場との関係性が改めて試されている。]]></summary>
         <author>
             <name>Cointelegraph  Zoltan Vardai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインをDeFiで運用　WBTCのメリット・買い方、運用法まで徹底解説]]></title>
-        <id>https://coinpost.jp/?p=607669</id>
-        <link href="https://coinpost.jp/?p=607669"/>
-        <updated>2025-04-09T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[WBTC（Wrapped Bitcoin）はビットコインをイーサリアム上で運用できる暗号資産（仮想通貨）です。メリットや買い方、リスクを初心者にもわかりやすく解説します。]]></summary>
-        <author>
-            <name>M.Somekawa</name>
         </author>
     </entry>
 </feed>

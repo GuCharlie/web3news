@@ -390,16 +390,6 @@
           "wordCount": 1262,
           "title": "クラーケン、マスターカードと提携して暗号資産デビットカードを導入",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2021/12/krakenmobile-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=286776",
-          "author": "CoinDesk JAPAN",
-          "description": "JTG証券（Ｊトラストグローバル証券）は4月9日より、米暗号資産取引所コインベース（Coinbase）など、米テック企業9社それぞれの株価を参照する海外ETF、 ...\n米暗号資産取引所コインベースなど人気の米国株に連動するETF：JTG証券 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/286776/",
-          "publishedOn": "2025-04-09T10:25:00.000Z",
-          "wordCount": 1244,
-          "title": "米暗号資産取引所コインベースなど人気の米国株に連動するETF：JTG証券",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/111858-42-86e3ecdf4a2d106521d555.jpg"
         }
       ]
     },
@@ -1323,6 +1313,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/lomond-school-bitcoin-curriculum-btc-tuition-ammous-uk",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "スコットランドの私立学校であるローモンドスクールは、授業料の支払いにビットコイン（BTC）を受け入れ始め、ビットコインの著者サイフェディーン・アムス氏と協力して、ビットコインとオーストリア経済学に焦点を当てた新しいカリキュラムを導入する。",
+          "link": "https://jp.cointelegraph.com/news/lomond-school-bitcoin-curriculum-btc-tuition-ammous-uk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-13T22:10:00.000Z",
+          "wordCount": null,
+          "title": "『ビットコイン・スタンダード』著者、スコットランドの学校向けにオーストリア学派経済学カリキュラムを開発へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTFkY2ItNGRmYy03Y2RmLWExNWItM2YzMzJmY2E3ZGQ5.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTFkY2ItNGRmYy03Y2RmLWExNWItM2YzMzJmY2E3ZGQ5.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-price-tags-86-k-as-trump-tariff-relief-boosts-breakout-odds",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコイン（BTC）は4月13日、米国の金融政策の変化を受けた仮想通貨市場の反発に連動し、11日ぶりの高値を記録した。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-price-tags-86-k-as-trump-tariff-relief-boosts-breakout-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-13T22:04:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン、一時8万6,000ドルに到達｜トランプ氏の関税緩和でブレイクアウトの可能性高まる",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjJmMzctYWVkZS03OGRmLTlhZTYtNzQ1NzA5YjNhNDVk.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjJmMzctYWVkZS03OGRmLTlhZTYtNzQ1NzA5YjNhNDVk.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/zhao-claps-back-baseless-plea-deal-allegations",
           "author": "Cointelegraph  Zoltan Vardai",

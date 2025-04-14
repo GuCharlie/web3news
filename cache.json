@@ -350,16 +350,6 @@
           "wordCount": 1274,
           "title": "暗号資産、2つに分けて規制か──金融庁が「暗号資産に関連する制度のあり方等の検証」ディスカッション・ペーパーを公表",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/スクリーンショット-2025-04-10-22.11.47.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=286902",
-          "author": "Oliver Knight",
-          "description": "イーサリアム（ETH）は今週、2年ぶりの安値となる1412ドルにまで下落し、その価格変動は長期保有者にとって耐え難いものとなったようだ。この保有者は、2016年 ...\nイーサリアムのクジラ、9年ぶりに2200万ドル相当のETHを売却 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/286902/",
-          "publishedOn": "2025-04-10T10:45:00.000Z",
-          "wordCount": 1313,
-          "title": "イーサリアムのクジラ、9年ぶりに2200万ドル相当のETHを売却",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2021/10/shutterstock_211846078.jpg"
         }
       ]
     },
@@ -937,6 +927,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=465667",
+          "author": "OtsugaShinya",
+          "description": "米SBCメディカルGHDが5BTC購入 「湘南美容クリニック」などを手掛けるSBCメディカルグループの持ち株会社である米SBCメディカルグループホールディングス（SBCメディカルGHD）が、暗号資産（仮想通貨）ビットコイ […]",
+          "link": "https://www.neweconomy.jp/posts/465667",
+          "publishedOn": "2025-04-14T22:46:36.000Z",
+          "wordCount": 733,
+          "title": "「湘南美容クリニック」の米SBCメディカルGHD、ビットコイン購入を報告",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/15074953/dbf8e6e44720bd6aff35623983a34b74.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=465518",
           "author": "NewEconomyPodcast",
           "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
@@ -1233,6 +1233,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-lending-down-43-2021-highs-defi-borrowing-recovers-959",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "暗号資産レンディング市場の規模は、かつての640億ドルというピークから大幅に縮小したままだが、分散型金融（DeFi）による借入は弱気相場の底値から900％超の回復を遂げている。",
+          "link": "https://jp.cointelegraph.com/news/crypto-lending-down-43-2021-highs-defi-borrowing-recovers-959?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-14T23:05:00.000Z",
+          "wordCount": null,
+          "title": "暗号資産レンディング市場、2021年のピークから43％減｜DeFi借入は959％急増",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDY1NjEtZDI4ZS03NDcwLWI3YTAtMTVkYzBkMWZmZGEx.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDY1NjEtZDI4ZS03NDcwLWI3YTAtMTVkYzBkMWZmZGEx.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/michael-saylor-strategy-buys-285-m-bitcoin-83k",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "マイケル・セイラー氏が率いるデジタル資産企業ストラテジーは、3,459ビットコインを2億8,550万ドルで購入した。世界市場が貿易関連の逆風に直面する中でも、ビットコインへの継続的な信頼を示す形となった。",
+          "link": "https://jp.cointelegraph.com/news/michael-saylor-strategy-buys-285-m-bitcoin-83k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-14T22:48:00.000Z",
+          "wordCount": null,
+          "title": "マイケル・セイラー氏のストラテジー、相場不透明感の中で2億8,500万ドル相当のビットコインを購入",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTM3ZmItYmU1MC03Mjc1LTlkMjUtNWEzNzY3YjAyMmNj.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTM3ZmItYmU1MC03Mjc1LTlkMjUtNWEzNzY3YjAyMmNj.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/google-crypto-ads-mica-europe-compliance-policy",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "Googleは暗号資産サービスに関する広告方針を強化し、欧州の「暗号資産市場（MiCA）」規制の枠組みに基づく新たなルールを適用すると、最近のポリシー更新で発表した。",
+          "link": "https://jp.cointelegraph.com/news/google-crypto-ads-mica-europe-compliance-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-14T22:38:00.000Z",
+          "wordCount": null,
+          "title": "欧州での仮想通貨広告にMiCA規制適用｜Googleが4月23日から施行",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjMzN2MtOTEwMi03YmM2LTkyMDYtZTJiNmRhOWJiMzhh.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjMzN2MtOTEwMi03YmM2LTkyMDYtZTJiNmRhOWJiMzhh.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/price-analysis-4-14-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-leo",
           "author": "Cointelegraph  Rakesh Upadhyay",
@@ -2454,16 +2499,6 @@
           "wordCount": 591,
           "title": "Microsoft Officeに見せかけた仮想通貨マルウェアが拡散｜偽ファイルに注意",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_2247888569.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=133446",
-          "author": "Crypto Troll",
-          "description": "パキスタン政府が、国内で発生している余剰電力をビットコインマイニングやハイテクデータセンターに振り向ける新たな計画を発表しました。 パキスタンの新設組織である「Crypto Council」のトップによると、余剰電力の一 […]\n投稿 パキスタン政府、ビットコインマイニングを本格推進｜CZ氏を顧問に起用 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-pakistan-government-to-fully-promote-bitcoin-mining-cz-appointed-as-advisor/",
-          "publishedOn": "2025-04-10T11:00:09.000Z",
-          "wordCount": 583,
-          "title": "パキスタン政府、ビットコインマイニングを本格推進｜CZ氏を顧問に起用",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_2242103339.jpg"
         }
       ]
     }

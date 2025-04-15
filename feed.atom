@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-15T08:46:05.997Z</updated>
+    <updated>2025-04-15T09:17:17.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWSの大規模障害　バイナンス、クーコイン、MEXCなど複数の仮想通貨取引所でサービス停止や遅延]]></title>
+        <id>https://jp.cointelegraph.com/news/binance-kucoin-mexc-aws-outage-crypto-service-issues</id>
+        <link href="https://jp.cointelegraph.com/news/binance-kucoin-mexc-aws-outage-crypto-service-issues?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-04-15T09:01:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所のバイナンス、クーコイン、MEXCをはじめとする複数の取引所およびウォレット事業者が、アマゾン・ウェブ・サービス（AWS）の大規模なネットワーク障害により、サービス停止や遅延を報告している。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[30年物日本国債の利回りが2004年以来の高水準に──投資家の懸念が高まる]]></title>
         <id>https://www.coindeskjapan.com/?p=287545</id>
@@ -2391,37 +2401,6 @@ Web3時代の地方スポーツクラブ経営戦略──トークンによる�
         <summary type="html"><![CDATA[カルダノ創設者チャールズ・ホスキンソン氏は、仮想通貨ビットコインの価格は2025年か2026年に25万ドルまで上昇する可能性があるとの見方を示した。その根拠を説明している。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ナスダック、アバランチ現物ETFの上場申請をSECに提出]]></title>
-        <id>https://coinpost.jp/?p=608293</id>
-        <link href="https://coinpost.jp/?p=608293"/>
-        <updated>2025-04-10T21:12:19.000Z</updated>
-        <summary type="html"><![CDATA[米ナスダックが仮想通貨アバランチへの間接投資を可能にするVanEck Avalanche TrustのETF上場申請をSECに提出。3月のデラウェア州での信託登録に続く動きで、承認されれば投資家は直接保有せずAVAX価格に連動した投資が可能になる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トークン化された金、時価総額約2900億円に迫る──関税への懸念がセーフヘイブントレードに火をつける]]></title>
-        <id>https://www.coindeskjapan.com/?p=286958</id>
-        <link href="https://www.coindeskjapan.com/286958/"/>
-        <updated>2025-04-10T21:06:24.000Z</updated>
-        <summary type="html"><![CDATA[関税がもたらす不透明感の中、暗号資産を含むリスク資産が苦戦する一方、トークン化された金は再び大混乱の中でアウトパフォーマーとして頭角を現した。 CoinGeck ...
-トークン化された金、時価総額約2900億円に迫る──関税への懸念がセーフヘイブントレードに火をつける first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ家の仮想通貨プロジェクトWLFI、11億円相当のイーサリアム売却の報道を否定]]></title>
-        <id>https://coinpost.jp/?p=608285</id>
-        <link href="https://coinpost.jp/?p=608285"/>
-        <updated>2025-04-10T20:50:55.000Z</updated>
-        <summary type="html"><![CDATA[トランプ一家が支援するWorld Liberty Financialは、大幅な損失でイーサリアムを売却したとする報道を「完全に不正確」と否定。Arkhamが特定したウォレットとの関連性についても疑問が残る。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

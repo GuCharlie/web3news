@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-15T10:16:49.749Z</updated>
+    <updated>2025-04-15T10:43:40.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今さら聞けないビットコイン入門：なぜアメリカは「無限に欲しい」と言うのか？]]></title>
+        <id>https://crypto-times.jp/?p=133630</id>
+        <link href="https://crypto-times.jp/market-btc-us-gov/"/>
+        <updated>2025-04-15T10:19:20.000Z</updated>
+        <summary type="html"><![CDATA[「ビットコイン」という言葉をニュースなどで耳にする機会が増えましたが「結局どういうものなの？」「なぜ注目されているの？」と感じている方も多いのではないでしょうか。 特に最近、アメリカ政府がビットコインに対して非常に積極的 […]
+投稿 今さら聞けないビットコイン入門：なぜアメリカは「無限に欲しい」と言うのか？ は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米政府は本気？ホワイトハウスが語る「ビットコイン戦略」とは]]></title>
         <id>https://crypto-times.jp/?p=133627</id>
@@ -2374,36 +2385,6 @@ Web3時代の地方スポーツクラブ経営戦略──トークンによる�
         <summary type="html"><![CDATA[米国におけるイーサリアム（ETH）上場投資信託（ETF）は、早ければ5月にも一部トークンのステーキングが可能になる可能性があると、ブルームバーグ・インテリジェンスのアナリスト、ジェームズ・セイファート氏が述べた。]]></summary>
         <author>
             <name>Cointelegraph  Alex O’Donnell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Babylon Genesis始動、6500億円超ビットコインをステーキング]]></title>
-        <id>https://coinpost.jp/?p=608335</id>
-        <link href="https://coinpost.jp/?p=608335"/>
-        <updated>2025-04-10T22:40:22.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコインのステーキングプロトコルBabylonが「Genesis」メインネットを正式立ち上げ。40億ドル超のBTCをロックし、ビットコインを分散型経済の基盤へ変革。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ナスダック、ヴァンエックの現物型アバランチETF上場を申請]]></title>
-        <id>https://jp.cointelegraph.com/news/nasdaq-avalanche-etf-listing-application</id>
-        <link href="https://jp.cointelegraph.com/news/nasdaq-avalanche-etf-listing-application?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-10T22:29:00.000Z</updated>
-        <summary type="html"><![CDATA[米国の証券取引所ナスダックが、暗号資産AVAXへの間接的なエクスポージャーを提供することを目的とした上場投資信託（ETF）「ヴァンエック・アバランチ・トラスト」の上場申請を米証券取引委員会（SEC）に提出した。]]></summary>
-        <author>
-            <name>Cointelegraph  Ezra Reguerra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ナスダック、ヴァンエックの現物型アバランチETF上場を申請]]></title>
-        <id>https://jp.cointelegraph.com/news/nasdaq-avalanche-etf-listing-application</id>
-        <link href="https://jp.cointelegraph.com/news/nasdaq-avalanche-etf-listing-application?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-10T22:29:00.000Z</updated>
-        <summary type="html"><![CDATA[米国の証券取引所ナスダックが、暗号資産AVAXへの間接的なエクスポージャーを提供することを目的とした上場投資信託（ETF）「ヴァンエック・アバランチ・トラスト」の上場申請を米証券取引委員会（SEC）に提出した。]]></summary>
-        <author>
-            <name>Cointelegraph  Ezra Reguerra</name>
         </author>
     </entry>
 </feed>

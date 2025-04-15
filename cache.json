@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=287615",
+          "author": "Helene Braun",
+          "description": "米国の発行企業はまだソラナ（SOL）現物ETFの承認を待っているが、カナダの投資家は16日から、トロント証券取引所で取引できるようになる。 ETFアナリストのエ ...\n初のソラナ現物ETF、今週カナダ市場に登場 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/287615/",
+          "publishedOn": "2025-04-15T22:30:16.000Z",
+          "wordCount": 1327,
+          "title": "初のソラナ現物ETF、今週カナダ市場に登場",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/shutterstock_2496996631.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=287611",
           "author": "Will Canny",
           "description": "「米国ステーブルコインのための国家イノベーションのガイドと確立（Guiding and Establishing National Innovation for ...\nステーブルコイン市場、2028年末までに約290兆円規模に成長の可能性：スタンダードチャータード first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -1290,16 +1300,6 @@
           "wordCount": 620,
           "title": "OKXとStandard Charteredが暗号資産担保プログラム開始、Franklin Templetonが1号ファンドに",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/11194519/OKX-250411BlackSalmon.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=465217",
-          "author": "TamuraSeiji",
-          "description": "Babylon Genesisのメインネット正式ローンチ ビットコイン（Bitcoin）ステーキングプロトコル「バビロン（Babylon）」のフェーズ2となる「バビロンジェネシス（Babylon Genesis）」のメイ […]",
-          "link": "https://www.neweconomy.jp/posts/465217",
-          "publishedOn": "2025-04-11T10:36:39.000Z",
-          "wordCount": 791,
-          "title": "ビットコインステーキングプロトコル「Babylon」、Genesisメインネット正式ローンチ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/11193634/a7417b3da8338ff24ecdc76761f95d2e.jpg"
         }
       ]
     },
@@ -1308,6 +1308,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/el-salvador-bitcoin-firms-operational-status",
+          "author": "Cointelegraph  Ezra Reguerra",
+          "description": "エルサルバドルの中央銀行に登録された181のビットコイン関連事業者のうち、稼働しているのはわずか20社にとどまり、残りは同国のビットコイン法が定める要件を満たしていないことが明らかになった。",
+          "link": "https://jp.cointelegraph.com/news/el-salvador-bitcoin-firms-operational-status?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-15T22:15:00.000Z",
+          "wordCount": null,
+          "title": "エルサルバドルの登録ビットコイン企業、稼働中はわずか11％",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjM4YWQtZTI0Mi03OGYyLTg2YjUtMjlkODJiNGM1Zjdi.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjM4YWQtZTI0Mi03OGYyLTg2YjUtMjlkODJiNGM1Zjdi.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/emblem-vault-ceo-loses-75-assets-in-elusive-comet-scam",
+          "author": "Cointelegraph  Martin Young",
+          "description": "NFTプラットフォーム「Emblem Vault」のCEOが、悪質な脅威アクター「ELUSIVE COMET」によって個人資産10万ドル以上を盗まれたとして、ビデオ会議アプリ「Zoom」の使用に警戒するようXユーザーに呼びかけている。",
+          "link": "https://jp.cointelegraph.com/news/emblem-vault-ceo-loses-75-assets-in-elusive-comet-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-15T22:07:00.000Z",
+          "wordCount": null,
+          "title": "仮想通貨企業の幹部、資産の75％を喪失｜「ELUSIVE COMET」の脅威に警鐘",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjM3M2MtYzU4OC03ZjVhLTliNDItMDFkNzE5YTYwYjQw.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjM3M2MtYzU4OC03ZjVhLTliNDItMDFkNzE5YTYwYjQw.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/xapo-bank-bitcoin-trading-surge-wealthy-members-bought-dip",
           "author": "Cointelegraph  Jody McDonald",
@@ -2066,6 +2096,16 @@
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
         {
+          "id": "https://crypto-times.jp/?p=133650",
+          "author": "Crypto Times 編集部",
+          "description": "仮想通貨業界の最大手であるテザー社は、フィンテック企業Fizen Limitedへの戦略的投資を発表しました。この投資は、ステーブルコインの日常的な利用を拡大し、金融へのアクセスとセキュリティを向上させる自己管理型（セル […]\n投稿 ステーブルコインの日常利用拡大へ｜テザーが決済フィンテックFizenに出資 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-tether-strategic-investment-fizen/",
+          "publishedOn": "2025-04-15T22:19:58.000Z",
+          "wordCount": 605,
+          "title": "ステーブルコインの日常利用拡大へ｜テザーが決済フィンテックFizenに出資",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_2106689450.jpg"
+        },
+        {
           "id": "https://crypto-times.jp/?p=133644",
           "author": "Crypto Times 編集部",
           "description": "現在の世界経済は「関税」というキーワードに揺れています。 かつてない形で政府間の対立が市場の不安定さを煽り、その影響は株式市場だけでなく仮想通貨市場にも色濃く表れています。 関税が引き起こす市場の動揺 Flowdesk社 […]\n投稿 「関税が仮想通貨を揺らす？」専門家が読み解く、市場変動と見通し は CRYPTO TIMES に最初に表示されました。",
@@ -2284,16 +2324,6 @@
           "wordCount": 590,
           "title": "現物ビットコインETF、6日間で8.7億ドル超流出｜関税戦争激化が影響か",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_2327972837.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=133499",
-          "author": "Crypto Troll",
-          "description": "長年にわたり多くのプレイヤーを魅了してきた宇宙MMO「Eve Online」の開発元であるCCP Gamesは、現在開発中のブロックチェーン技術を活用したスピンオフタイトル「Eve Frontier」について、本日202 […]\n投稿 Eve Online開発元の新作Web3ゲーム「Eve Frontier」、11日より10日間無料トライアル開始！ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-eve-frontier-starts-10-day-free-trial-today/",
-          "publishedOn": "2025-04-11T10:36:08.000Z",
-          "wordCount": 644,
-          "title": "Eve Online開発元の新作Web3ゲーム「Eve Frontier」、11日より10日間無料トライアル開始！",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_2458253811.jpg"
         }
       ]
     }

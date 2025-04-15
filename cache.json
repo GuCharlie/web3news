@@ -405,6 +405,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=609207",
+          "author": "菊谷ルイス",
+          "description": "東証グロース上場のバリュークリエーションが4月14日、1億円のビットコイン追加購入を決議。3月に2億円の投資を完了済みで、4〜8月に3度目の購入を実施予定である。",
+          "link": "https://coinpost.jp/?p=609207",
+          "publishedOn": "2025-04-15T22:40:46.000Z",
+          "wordCount": 3201,
+          "title": "バリュークリエーション、1億円のビットコイン追加購入を決議",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/bitcoin-light.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/bitcoin-light.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=609194",
           "author": "K.Kobayashi",
           "description": "スウェーデンで新たに議員がビットコイン準備金の創設を提案した。米トランプ政権などの事例をもとに、同国が準備金創設を検討しているか質問する書簡を財務相に送っている。",
@@ -1290,16 +1305,6 @@
           "wordCount": 671,
           "title": "コスモスのInterchain Labsが「Eureka」ローンチ、IBCをイーサリアムに拡張",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/11201734/c6d12c6d6324b41d0775c7b03d7beac9.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=465190",
-          "author": "HitomotoToshikazu",
-          "description": "OKXとStandard Charteredが暗号資産担保プログラム開始 大手海外暗号資産（仮想通貨）取引所OKXが、スタンダードチャータード（Standard Chartered）銀行と共同で、暗号資産およびトークン化 […]",
-          "link": "https://www.neweconomy.jp/posts/465190",
-          "publishedOn": "2025-04-11T10:45:51.000Z",
-          "wordCount": 620,
-          "title": "OKXとStandard Charteredが暗号資産担保プログラム開始、Franklin Templetonが1号ファンドに",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/11194519/OKX-250411BlackSalmon.jpg"
         }
       ]
     },
@@ -1308,6 +1313,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/clean-spark-start-selling-bitcoin-self-funding-pivot",
+          "author": "Cointelegraph  Alex O’Donnell",
+          "description": "米ビットコインマイニング企業クリーンスパークは4月15日、自社のマイニングによって得たビットコインの一部を毎月売却し、財務的な自立を目指す方針を明らかにした。",
+          "link": "https://jp.cointelegraph.com/news/clean-spark-start-selling-bitcoin-self-funding-pivot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-15T22:59:00.000Z",
+          "wordCount": null,
+          "title": "クリーンスパーク、「自力運営」への転換でビットコイン売却開始",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjNhYmYtYTAwNS03ZjVlLTlhMWItYjZhYzg2ZjAxMWE0.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjNhYmYtYTAwNS03ZjVlLTlhMWItYjZhYzg2ZjAxMWE0.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/trump-next-crypto-play-monopoly-style-game-fortune",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "米国のドナルド・トランプ大統領が、ゲームと暗号資産を組み合わせた新たなプロジェクトを進めていると、フォーチュン誌が事情に詳しい関係者の話として報じた。",
+          "link": "https://jp.cointelegraph.com/news/trump-next-crypto-play-monopoly-style-game-fortune?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-15T22:45:00.000Z",
+          "wordCount": null,
+          "title": "トランプ氏の次なる仮想通貨プロジェクトはモノポリー風ゲームか＝報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjNhN2ItMTBhMS03MWI4LTk5NzEtMTA1YmIwMGE0NzFk.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjNhN2ItMTBhMS03MWI4LTk5NzEtMTA1YmIwMGE0NzFk.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/mantra-om-vs-terra-luna-nothing-common-but-token-crash",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "Mantra（OM）トークンの急落を受けて、一部では2022年5月に崩壊したテラエコシステムとの比較が持ち上がっているが、コミュニティの多くは両者に共通点はほとんどなく、チャートの見た目が似ているにすぎないと主張している。",
+          "link": "https://jp.cointelegraph.com/news/mantra-om-vs-terra-luna-nothing-common-but-token-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-15T22:24:00.000Z",
+          "wordCount": null,
+          "title": "Mantraとテラの共通点は「暴落」だけ｜「本質は異なる」と指摘",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjM5M2EtMzQwZi03NjA4LWE1ZjQtNjkyMjU1Mzk3NDg0.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjM5M2EtMzQwZi03NjA4LWE1ZjQtNjkyMjU1Mzk3NDg0.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/el-salvador-bitcoin-firms-operational-status",
           "author": "Cointelegraph  Ezra Reguerra",

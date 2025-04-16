@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-16T10:16:45.524Z</updated>
+    <updated>2025-04-16T10:43:40.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米サークル「USDC」、EVM互換のL1ブロックチェーン「Monad」でネイティブ発行へ]]></title>
+        <id>https://www.neweconomy.jp/?p=466104</id>
+        <link href="https://www.neweconomy.jp/posts/466104"/>
+        <updated>2025-04-16T10:28:52.000Z</updated>
+        <summary type="html"><![CDATA[USDCがMonadでネイティブ発行へ 現在パブリックテストネットを展開中のレイヤー1ブロックチェーン「モナド（Monad）」のDay1（メインネットローンチ）より、米ドル建てステーブルコイン「USDC」が同チェーン上で […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインと上位50トークンが弱気相場入り、「暗号資産の冬」の兆候：コインベース]]></title>
+        <id>https://www.coindeskjapan.com/?p=287791</id>
+        <link href="https://www.coindeskjapan.com/287791/"/>
+        <updated>2025-04-16T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）の強気相場は終わり、市場は長期的な損失と停滞を特徴とする「冬」に突入する可能性が高いとコインベース（Coinbase）の機関投資家部門は述べ ...
+ビットコインと上位50トークンが弱気相場入り、「暗号資産の冬」の兆候：コインベース first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨取引所OKX、米国市場への再参入を発表　段階的に全米展開を計画]]></title>
         <id>https://jp.cointelegraph.com/news/okx-enters-the-united-states-market-following-505-m-settlement</id>
@@ -2277,27 +2298,6 @@ CryptoPunk #3100、約1億円の損失で売却──希少価値はまだ健在
         <summary type="html"><![CDATA[トランプ大統領の公式ミームコイン「オフィシャル・トランプ（TRUMP）」において、4月18日に約3億2100万ドル相当のトークンがロック解除される予定となっている。]]></summary>
         <author>
             <name>Cointelegraph  Ezra Reguerra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナの主要ミームコイン『Fartcoin』逆行高]]></title>
-        <id>https://coinpost.jp/?p=608608</id>
-        <link href="https://coinpost.jp/?p=608608"/>
-        <updated>2025-04-11T22:35:46.000Z</updated>
-        <summary type="html"><![CDATA[ファートコイン逆行高トランプ米大統領が10日、世界的な「相互関税」政策の90日間停止を発表。これにより、市場は一時的にリスクオンに転じ、ミームコインを含む一部の仮想通貨銘柄が急騰した。出典：CoinGecko他の国に対し一律関税を10%に引...]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米消費者心理はトランプ関税発動後に悪化も、暗号資産は持ちこたえる]]></title>
-        <id>https://www.coindeskjapan.com/?p=287167</id>
-        <link href="https://www.coindeskjapan.com/287167/"/>
-        <updated>2025-04-11T22:17:53.000Z</updated>
-        <summary type="html"><![CDATA[米中貿易摩擦が世界市場を動揺させ続け、伝統的な米国資産は大混乱に陥っている中、米国経済に対するセンチメントが悪化し、インフレ懸念が高まっていることを示す新たなデ ...
-米消費者心理はトランプ関税発動後に悪化も、暗号資産は持ちこたえる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
         </author>
     </entry>
 </feed>

@@ -535,6 +535,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=609007",
+          "author": "CoinPost編集部",
+          "description": "仮想通貨ビットコインは17日、パウエル米連邦準備制度理事会議長が早期の利下げに慎重な姿勢を示したことを受けて下落した。",
+          "link": "https://coinpost.jp/?p=609007",
+          "publishedOn": "2025-04-16T23:00:24.000Z",
+          "wordCount": 3181,
+          "title": "ビットコイン下落、利下げ慎重発言と半導体市況悪化で売り加速｜仮想NISHI",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=609655",
           "author": "菊谷ルイス",
           "description": "不確実な世界経済環境の中、金は3300ドルの史上最高値を記録し、ビットコインは調整後も8万ドル台を維持。投資家動向と今後の市場展望をGlassnodeが分析。",
@@ -1563,6 +1578,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-vc-funding-down-50-crypto-market-cap-40-possible-q3-upside-coinbase",
+          "author": "Cointelegraph  Adrian Zmudzinski",
+          "description": "米国の上場仮想通貨取引所コインベースが発表した月次市場レポートによると、市場全体は一時的に収縮しているものの、次の四半期に向けて反転の準備を進めている兆候が見られるという。",
+          "link": "https://jp.cointelegraph.com/news/crypto-vc-funding-down-50-crypto-market-cap-40-possible-q3-upside-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-16T22:44:00.000Z",
+          "wordCount": null,
+          "title": "仮想通貨市場は弱気相場、第3四半期に反発の可能性＝コインベース",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjNkZTUtNTQxOC03MjZlLWE0Y2ItNjQ5NjAyOTkwYjZl.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjNkZTUtNTQxOC03MjZlLWE0Y2ItNjQ5NjAyOTkwYjZl.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/publicly-mining-firms-sold-40-btc-march-2025",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "マイニング業界の調査機関TheMinerMagによると、上場しているビットコイン（BTC）マイニング企業15社のデータを分析した結果、これら企業が3月に採掘したBTCのうち40％超を売却していたことが明らかになった。",
+          "link": "https://jp.cointelegraph.com/news/publicly-mining-firms-sold-40-btc-march-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-16T22:40:00.000Z",
+          "wordCount": null,
+          "title": "仮想通貨マイニングの上場企業、3月にBTCの4割超を売却＝レポート",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTYyNjEtNDllOC03ZjI4LWJlNDctMDA5MTI4M2U1NTM3.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTYyNjEtNDllOC03ZjI4LWJlNDctMDA5MTI4M2U1NTM3.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/sec-roundtable-crypto-custody",
           "author": "Cointelegraph  Turner Wright",

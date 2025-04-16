@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-16T09:17:01.370Z</updated>
+    <updated>2025-04-16T09:40:29.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインに利益確定売り──カルダノが主要コインの下落を主導]]></title>
+        <id>https://www.coindeskjapan.com/?p=287752</id>
+        <link href="https://www.coindeskjapan.com/287752/"/>
+        <updated>2025-04-16T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[4月15日の上昇相場は予想通り、16日のアジア取引時間午前中に利益確定売りに遭い、ビットコイン（BTC）やその他の主要トークンは3%以上下落した。 暗号資産（仮 ...
+ビットコインに利益確定売り──カルダノが主要コインの下落を主導 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金価格が初の3300ドル突破　ビットコインの安全資産としての地位に逆風か？]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-trader-gold-blow-off-top-xau-new-3-3-k-record</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-trader-gold-blow-off-top-xau-new-3-3-k-record?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-04-16T09:20:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は2025年、安全資産としての立場を維持するうえで厳しい局面を迎えている。金ファンドへの資金流入が急増し、年初来で800億ドルに達していることが、バンク・オブ・アメリカ（BoA）のデータから明らかになった。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、再び長期の保ち合い局面に入るか？ 短期指標は弱気傾向を示唆＝仮想通貨アナリスト]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-price-range-performance-crypto-analyst-forecast</id>
@@ -2286,16 +2307,6 @@ CryptoPunk #3100、約1億円の損失で売却──希少価値はまだ健在
         <summary type="html"><![CDATA[世界最大の資産運用会社ブラックロックは、2025年第1四半期に840億ドルの純流入を記録し、運用資産額で年率3％の成長になったと発表した。]]></summary>
         <author>
             <name>Cointelegraph  Helen Partz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン84000ドル回復　FRB利下げ観測強まるも市場リスクは後退せず]]></title>
-        <id>https://coinpost.jp/?p=608600</id>
-        <link href="https://coinpost.jp/?p=608600"/>
-        <updated>2025-04-11T21:35:16.000Z</updated>
-        <summary type="html"><![CDATA[米CPIの下振れ及び景気後退リスクでFRBの利下げ期待が浮上。仮想通貨ビットコインは84,000ドルを回復するも、米中関税と債券市場の不安が続き、アナリストは市場リスクの継続に警鐘を鳴らす。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

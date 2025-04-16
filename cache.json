@@ -1237,6 +1237,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=466038",
+          "author": "HitomotoToshikazu",
+          "description": "Tether社がFizenに戦略的投資 米ドル建てステーブルコイン「USDT」等を発行するテザー（Tether）社が、セルフカストディ（自己保管）型の暗号資産（仮想通貨）ウォレットとデジタル決済を手がけるフィンテック企業 […]",
+          "link": "https://www.neweconomy.jp/posts/466038",
+          "publishedOn": "2025-04-16T06:45:25.000Z",
+          "wordCount": 735,
+          "title": "Tether社、セルフカストディウォレットの「Fizen」に出資",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/16154516/aba720c70079644a57e677b4dca59a09.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=466015",
           "author": "OtsugaShinya",
           "description": "AWS障害で複数取引所に一時不具合 暗号資産（仮想通貨）取引所バイナンス（Binance）は、アマゾン・ウェブ・サービス（Amazon Web Services：AWS）のデータセンターに関連する問題のため、一時的にプラ […]",
@@ -1543,6 +1553,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-shows-increasing-resilience-likely-to-keep-outperforming-ether-wintermute",
+          "author": "Cointelegraph  Adrian Zmudzinski",
+          "description": "仮想通貨マーケットメイカーのウィンターミュートは、最新のレポートでビットコインは伝統的な金融市場に比べてマクロ経済の逆風に対して高い耐性を見せていると指摘した。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-shows-increasing-resilience-likely-to-keep-outperforming-ether-wintermute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-16T06:30:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン、伝統的金融市場に比べて経済逆風への耐性を強化＝ウィンターミュートがレポート",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjM4OWItMTE0ZC03MGFjLWEyMzUtNGVjZjRiMzk1OWEz.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjM4OWItMTE0ZC03MGFjLWEyMzUtNGVjZjRiMzk1OWEz.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/semler-scientific-reports-paper-loss-bitcoin-floats-securities-sale",
           "author": "Cointelegraph  Martin Young",
@@ -2337,36 +2362,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjI0NzQtZTg4ZS03NDhkLThkYmEtODkzYTU3YzVmMWFj.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-sellers-tap-out-clearing-the-path-for-a-fresh-run-at-new-all-time-highs",
-          "author": "Cointelegraph  Nancy Lubale",
-          "description": "ビットコイン（BTC）は、4月7日に記録した7万4400ドルの安値から12％以上反発しており、オンチェーンおよびテクニカル指標からは回復基調の持続が示唆されている。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-sellers-tap-out-clearing-the-path-for-a-fresh-run-at-new-all-time-highs?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-04-11T18:40:00.000Z",
-          "wordCount": null,
-          "title": "ビットコインが直近安値から12％反発　オンチェーン指標は売り枯れを示唆",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MmZmYTktYzk4ZC03YmE5LWI5NjYtZGIwNjE2MTIyYzBm.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MmZmYTktYzk4ZC03YmE5LWI5NjYtZGIwNjE2MTIyYzBm.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-sellers-tap-out-clearing-the-path-for-a-fresh-run-at-new-all-time-highs",
-          "author": "Cointelegraph  Nancy Lubale",
-          "description": "ビットコイン（BTC）は、4月7日に記録した7万4400ドルの安値から12％以上反発しており、オンチェーンおよびテクニカル指標からは回復基調の持続が示唆されている。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-sellers-tap-out-clearing-the-path-for-a-fresh-run-at-new-all-time-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-04-11T18:40:00.000Z",
-          "wordCount": null,
-          "title": "ビットコインが直近安値から12％反発　オンチェーン指標は売り枯れを示唆",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MmZmYTktYzk4ZC03YmE5LWI5NjYtZGIwNjE2MTIyYzBm.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MmZmYTktYzk4ZC03YmE5LWI5NjYtZGIwNjE2MTIyYzBm.jpg"
         }
       ]
     },
@@ -2375,6 +2370,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=133692",
+          "author": "Crypto Troll",
+          "description": "資産運用大手VanEckのデジタル資産リサーチ責任者マシュー・シーゲル氏は、米国政府が抱える14兆ドル規模の巨額な借り換え需要に対応する新しい戦略として、米国債とビットコイン（BTC）を組み合わせたハイブリッド債券「Bi […]\n投稿 米国の巨額債務対策？ VanEckが米国債とビットコインの組み合わせを提案 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-vaneck-proposes-pairing-u-s-treasuries-with-bitcoin/",
+          "publishedOn": "2025-04-16T06:26:25.000Z",
+          "wordCount": 647,
+          "title": "米国の巨額債務対策？ VanEckが米国債とビットコインの組み合わせを提案",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_2135089839.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=133688",
           "author": "Crypto Times 編集部",

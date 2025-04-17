@@ -610,7 +610,7 @@
       "articles": []
     },
     {
-      "title": "BinanceCoin(BNB)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -1933,6 +1933,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0417",
+          "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
+          "description": "16日のビットコイン（BTC）円は1200万5556円から取引が始まった。",
+          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0417?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-17T08:23:00.000Z",
+          "wordCount": null,
+          "title": "指標と要人発言でBTCは上に往って来い　また方向感示せず【ビットバンク仮想通貨分析】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMjhhNzQ0ZjQyMWJjYjlmNzYwMmM4N2MxYzI3MWIwZC5qcGc=.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMjhhNzQ0ZjQyMWJjYjlmNzYwMmM4N2MxYzI3MWIwZC5qcGc=.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/russia-finance-ministry-official-floats-country-making-own-stablecoins-report",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "ロシア財務省の高官が、制裁を受けた仮想通貨取引所ガランテックス（Garantex）に関連するウォレットが米国当局とステーブルコイン発行体テザーによって凍結されたことを受け、ロシアは独自のステーブルコインを開発すべきだと発言した。",
+          "link": "https://jp.cointelegraph.com/news/russia-finance-ministry-official-floats-country-making-own-stablecoins-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-17T07:56:00.000Z",
+          "wordCount": null,
+          "title": "ロシア財務省高官　ロシア独自のステーブルコイン開発を「検討すべき」",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzcxYzQtYWVlZC03YjUzLWIwZmEtNjI4NTQzYzg1YmEw.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzcxYzQtYWVlZC03YjUzLWIwZmEtNjI4NTQzYzg1YmEw.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/ethereum-fees-drop-five-year-low-user-lull",
           "author": "Cointelegraph  Stephen Katte",

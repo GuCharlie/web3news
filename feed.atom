@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-18T13:02:19.038Z</updated>
+    <updated>2025-04-18T13:40:41.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[香港のハッシュ―・キャピタル、アジア初のXRP連動ファンドを発表　将来的にはETF化も視野に]]></title>
+        <id>https://jp.cointelegraph.com/news/hashkey-takes-aim-at-xrp-etf-in-asia-with-new-fund</id>
+        <link href="https://jp.cointelegraph.com/news/hashkey-takes-aim-at-xrp-etf-in-asia-with-new-fund?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-04-18T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[香港拠点の仮想通貨投資会社ハッシュキー・キャピタルは、XRP価格のパフォーマンスを追跡する「ハッシュキーXRPトラッカーファンド」の立ち上げを発表した。将来的には同ファンドを上場投資信託（ETF）へと転換する計画も示されている。]]></summary>
+        <author>
+            <name>Cointelegraph  Adrian Zmudzinski</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【4/18話題】NTTデータとセキュリタイズJPのデジタル証券プラットフォーム、a16zがLayerZeroのZROを取得など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=466646</id>
@@ -3528,26 +3538,6 @@ JPモルガン、ブロックチェーン決済サービス「Kinexys」に英�
 投稿 関税緩和でリスクオン？ ビットコイン、一時85,000ドル回復 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットバンク、信用取引で「ドージコイン」と「ソラナ」の取扱いを開始へ]]></title>
-        <id>https://coinpost.jp/?p=608759</id>
-        <link href="https://coinpost.jp/?p=608759"/>
-        <updated>2025-04-14T01:26:20.000Z</updated>
-        <summary type="html"><![CDATA[ビットバンクが2025年4月14日より仮想通貨ドージコイン(DOGE)とソラナ(SOL)の信用取引サービスを開始。最大2倍レバレッジ、期間限定で建玉金利0%、新規申込者全員に200円プレゼント実施中。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RWA特化ブロックチェーンのマントラ（OM）が前日比90％安と暴落　公式はラグプル疑惑を否定]]></title>
-        <id>https://coinpost.jp/?p=608748</id>
-        <link href="https://coinpost.jp/?p=608748"/>
-        <updated>2025-04-14T01:10:24.000Z</updated>
-        <summary type="html"><![CDATA[現実資産(RWA)トークン化に特化したマントラ（OM）の価格が急落。背景については出口詐欺も懸念される中、チームは取引所での大規模な強制清算による影響だと述べている。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>

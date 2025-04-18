@@ -1687,6 +1687,26 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=466646",
+          "author": "NewEconomyPodcast",
+          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/466646",
+          "publishedOn": "2025-04-18T12:04:32.000Z",
+          "wordCount": 687,
+          "title": "【4/18話題】NTTデータとセキュリタイズJPのデジタル証券プラットフォーム、a16zがLayerZeroのZROを取得など（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/18181807/news_head_20250418.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=466760",
+          "author": "OtsugaShinya",
+          "description": "AIフュージョンが暗号資産投資事業の方針公開 東証スタンダード上場のAIフュージョンキャピタルグループ（以下、AIフュージョン）が、暗号資産（仮想通貨）の運用やレンディング事業など、新たな暗号資産への投資事業の方針を決議 […]",
+          "link": "https://www.neweconomy.jp/posts/466760",
+          "publishedOn": "2025-04-18T11:56:40.000Z",
+          "wordCount": 605,
+          "title": "AIフュージョンキャピタル、暗号資産の運用・投資・レンディング事業を展開へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/18205625/d315559ba4711ec33bcbdd25447aeba6.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=466752",
           "author": "OtsugaShinya",
           "description": "インタートレードがAndGoの株式取得 東証スタンダード上場の金融機関向けソフトウェアハウスであるインタートレードが、暗号資産ウォレット事業およびセキュリティサービスソリューション事業を展開する国内企業AndGoの株式を […]",
@@ -4324,36 +4344,6 @@
           "wordCount": 601,
           "title": "なぜソラナから資金は流出しない？ ステーブルコイン「定着」に見るエコシステムの進化",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_2149934137.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=133548",
-          "author": "Crypto Troll",
-          "description": "実物資産（RWA）のトークン化に焦点を当てたレイヤー1「MANTRA」のネイティブトークン（$OM）が4月13日、90分間で90%を超える価格暴落に見舞われ、一時約0.50ドルまで急落しました。 MANTRA commu […]\n投稿 RWAプロジェクト「MANTRA」、90%の大暴落｜チーム説明と市場の噂に乖離 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-mantra-crashes-by-90/",
-          "publishedOn": "2025-04-14T00:27:41.000Z",
-          "wordCount": 644,
-          "title": "RWAプロジェクト「MANTRA」、90%の大暴落｜チーム説明と市場の噂に乖離",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_1605890221.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=133542",
-          "author": "Crypto Troll",
-          "description": "暗号資産市場において、主要なレイヤー1ブロックチェーン間の力関係に変化が見られています。代表的なスマートコントラクトプラットフォームであるイーサリアム（ETH）に対し、新興の競合であるソラナ（SOL）が価格面で相対的な強 […]\n投稿 イーサリアム苦戦、ソラナが対ETH価格比率で過去最高値を更新｜レイヤー1勢力図に変化か は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-solana-hits-all-time-high-in-eth-price-ratio/",
-          "publishedOn": "2025-04-14T00:10:39.000Z",
-          "wordCount": 636,
-          "title": "イーサリアム苦戦、ソラナが対ETH価格比率で過去最高値を更新｜レイヤー1勢力図に変化か",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_2108025419.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=133536",
-          "author": "Crypto Troll",
-          "description": "ペンシルベニア州のNFTトレーダー、ウェイロン・ウィルコックス氏が、著名なNFTコレクションである「CryptoPunk」の売却によって得た所得をIRS（米国内国歳入庁）に過少報告した罪で有罪を認めました。 ウィルコック […]\n投稿 CryptoPunk売却で1300万ドル超の利益隠し｜ NFTトレーダーが脱税認め有罪 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-over-13-million-in-profits-hidden-from-cryptopunk-sale/",
-          "publishedOn": "2025-04-13T23:53:23.000Z",
-          "wordCount": 602,
-          "title": "CryptoPunk売却で1300万ドル超の利益隠し｜ NFTトレーダーが脱税認め有罪",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_2060044742.jpg"
         }
       ]
     }

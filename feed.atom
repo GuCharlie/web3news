@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-18T21:13:52.787Z</updated>
+    <updated>2025-04-18T21:36:14.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ギャラクシーリサーチ、ソラナのトークンインフレ改革に新提案]]></title>
+        <id>https://coinpost.jp/?p=610283</id>
+        <link href="https://coinpost.jp/?p=610283"/>
+        <updated>2025-04-18T21:20:15.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ソラナ（Solana）コミュニティの経済モデル改革に向け、Galaxy Researchが新たな投票方式「MESA」を提案した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[750万ドルの不正流出事件　分散型取引所KiloExが全額を回収　返還したハッカーに報奨金支払いへ]]></title>
         <id>https://jp.cointelegraph.com/news/kiloex-exploiter-returns-5-5-m-7-5-m-dex-exploit</id>
@@ -3341,16 +3351,6 @@ JPモルガン、ブロックチェーン決済サービス「Kinexys」に英�
 レイ・ダリオ氏、グローバルなシステミック・リスクを警告──ビットコインは依然として堅調 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>James Van Straten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCは振れ幅伴いつつ反発　テクニカル的に重要な転換期か【ビットバンク仮想通貨分析】]]></title>
-        <id>https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0414</id>
-        <link href="https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0414?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-14T09:20:00.000Z</updated>
-        <summary type="html"><![CDATA[7日〜13日のビットコイン（BTC）対円相場の週足終値は、前週比65万2771円（5.73%）高の1204万7732円と反発した。]]></summary>
-        <author>
-            <name>Cointelegraph  ビットバンク　長谷川友哉</name>
         </author>
     </entry>
 </feed>

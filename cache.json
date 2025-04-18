@@ -1573,21 +1573,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/bitcoin.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/bitcoin.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=608798",
-          "author": "幸田直子",
-          "description": "ティム・スコット米上院銀行委員長は仮想通貨市場構造法案の2025年8月までの成立に自信を示している。トランプ政権の目指す仮想通貨革命の方針と一致しており、民主党議員や大統領諮問委員会も成立を見込んでいる。",
-          "link": "https://coinpost.jp/?p=608798",
-          "publishedOn": "2025-04-14T06:38:09.000Z",
-          "wordCount": 3217,
-          "title": "米上院銀行委員長、今年8月までの仮想通貨法案の成立に自信",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/world_reguration_0418.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/world_reguration_0418.jpg"
         }
       ]
     },
@@ -2145,26 +2130,6 @@
           "wordCount": 731,
           "title": "マクドナルド、ビットコイン購入に関する株主提案を年次総会議題から除外、SECが判断",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/14160449/2bfed51ce57333a873a244b0daaf9f0a.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=465455",
-          "author": "TamuraSeiji",
-          "description": "Aavegotchiコミュニティが「Base」への移行を投票で決定 NFTゲーミングプロトコル「アーベゴッチ（Aavegotchi）」の分散型自律組織（DAO）が、同プロトコルのデプロイ先のブロッチェーンを既存のポリゴン […]",
-          "link": "https://www.neweconomy.jp/posts/465455",
-          "publishedOn": "2025-04-14T06:33:22.000Z",
-          "wordCount": 630,
-          "title": "Aavegotchi、PolygonからBaseエコシステムに完全移行へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/14153308/372de0fc40a1269b3102ba7acf54d537.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=465449",
-          "author": "gentosha_takahashi",
-          "description": "独立監査も義務化 ジャック・ドーシー（Jack Dorsey）氏が率いる米決済企業ブロック（Block：旧スクエア）社が、4,000万ドル（約61億円）の罰金を支払うことでニューヨーク州金融サービス局（NYDFS）と和解 […]",
-          "link": "https://www.neweconomy.jp/posts/465449",
-          "publishedOn": "2025-04-14T06:32:28.000Z",
-          "wordCount": 740,
-          "title": "ジャックドーシーの米ブロック、体制不備についてNYDFSと和解、罰金支払いで",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/14153224/a29ac1fa9107f20a1ffe4993a29602a7.jpeg"
         }
       ]
     },
@@ -2173,6 +2138,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/analysts-brace-bitcoin-slide-us-manufacturing-data",
+          "author": "Cointelegraph  Alex O’Donnell",
+          "description": "複数の仮想通貨アナリストによれば、米連邦準備制度理事会（FRB）が公表した製造業データが過去最悪レベルとなったことを受け、ビットコイン（BTC）の価格が短期的に下落する可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/analysts-brace-bitcoin-slide-us-manufacturing-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-18T17:55:00.000Z",
+          "wordCount": null,
+          "title": "米国の製造業景況指数が悪化　ビットコイン価格にも短期的に下落圧力か",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjQ5YjYtNGU0Zi03ZTc0LWExMmItNTY1ZjVjNjgxYWFl.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjQ5YjYtNGU0Zi03ZTc0LWExMmItNTY1ZjVjNjgxYWFl.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-price-volatility-imminent-speculators-move-170k-btc-cryptoquant",
           "author": "Cointelegraph  William Suberg",

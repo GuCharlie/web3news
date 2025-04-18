@@ -650,16 +650,6 @@
           "wordCount": 1363,
           "title": "ブラックロックのビットコインおよびイーサリアムETF、四半期で流入83%減、30億ドルに",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/shutterstock_1643220034.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=286971",
-          "author": "Rena Shah",
-          "description": "ツイッター（現X）の創業者、ジャック・ドーシー（Jack Dorsey）氏は、ビットコインがスケールするには決済が不可欠と述べている。だが、トラスト・マシンズ（ ...\nビットコインは決済プラットフォームではない first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/286971/",
-          "publishedOn": "2025-04-13T21:00:00.000Z",
-          "wordCount": 1317,
-          "title": "ビットコインは決済プラットフォームではない",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/shutterstock_2465928335.jpg"
         }
       ]
     },
@@ -2258,6 +2248,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0418",
+          "author": "Cointelegraph  ビットバンク　長谷川友哉",
+          "description": "17日のビットコイン（BTC）円は1194万6227円から取引が始まった。ドル円相場の反発もあり、東京時間は段階的に戻りを試し、終盤には1210万円を回復したが、ドル建てBTC相場は8万5000ドルにタッチしたことで、欧州時間から失速した。",
+          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0418?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-18T08:50:00.000Z",
+          "wordCount": null,
+          "title": "BTCは手掛かり不足で動意薄　米休場で本日も方向感欠くか【ビットバンク仮想通貨分析】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jY2RkZjRmZDA1YjlkMTc4MDVkNzJkM2M5ZGIwMTRjZS5qcGc=.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jY2RkZjRmZDA1YjlkMTc4MDVkNzJkM2M5ZGIwMTRjZS5qcGc=.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-price-stability-michael-saylor-etf-investors-eric-balchunas",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "ビットコイン（BTC）の価格が、米国の金利見通しや関税政策に関する不透明感のなかでも比較的安定を保っている背景には、現物ビットコイン上場投資信託（ETF）の保有者の粘り強さと、マイケル・セイラー氏率いるストラテジーによる継続的な買いがあるという。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-price-stability-michael-saylor-etf-investors-eric-balchunas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-18T08:20:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン価格の安定　ETF保有者とセイラー氏の積極買いが要因か＝ブルームバーグのアナリスト",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDY1ZGEtNmEyMS03ZGU3LTkzNjUtZWE5NGNiZTJkMGI4.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDY1ZGEtNmEyMS03ZGU3LTkzNjUtZWE5NGNiZTJkMGI4.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/local-yemenis-turning-defi-in-force-amid-us-sanctions",
           "author": "Cointelegraph  Stephen Katte",

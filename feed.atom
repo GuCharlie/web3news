@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-18T13:40:41.666Z</updated>
+    <updated>2025-04-18T14:13:42.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン短期保有者の動きは波乱の予兆か？ 17万BTCがオンチェーン移動]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-price-volatility-imminent-speculators-move-170k-btc-cryptoquant</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-price-volatility-imminent-speculators-move-170k-btc-cryptoquant?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-04-18T13:50:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）の短期保有者による大規模なコイン移動が確認され、BTC価格の大幅な変動が迫っている可能性がある。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[香港のハッシュ―・キャピタル、アジア初のXRP連動ファンドを発表　将来的にはETF化も視野に]]></title>
         <id>https://jp.cointelegraph.com/news/hashkey-takes-aim-at-xrp-etf-in-asia-with-new-fund</id>
@@ -3527,17 +3537,6 @@ JPモルガン、ブロックチェーン決済サービス「Kinexys」に英�
         <summary type="html"><![CDATA[トランプ関税の影響で乱高下するビットコインは88,000ドル付近まで回復するも再び下落した。半導体関連の関税政策が流動的な中、BitMEX共同創業者のアーサー・ヘイズは『市場不安は全て買う好機』と指摘。]]></summary>
         <author>
             <name>S.Ninomiya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[関税緩和でリスクオン？ ビットコイン、一時85,000ドル回復]]></title>
-        <id>https://crypto-times.jp/?p=133568</id>
-        <link href="https://crypto-times.jp/news-tariff-easing-leads-to-risk-on-btc-price-temporarily-hits-86000/"/>
-        <updated>2025-04-14T01:42:47.000Z</updated>
-        <summary type="html"><![CDATA[米国の関税政策に関する新たな動きが、暗号資産市場、特にビットコイン（BTC）の価格に影響を与えました。 米国政府は先週金曜日（4月11日）、中国からの輸入品に対する相互関税措置に関して、スマートフォン、ラップトップPC、 […]
-投稿 関税緩和でリスクオン？ ビットコイン、一時85,000ドル回復 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Troll</name>
         </author>
     </entry>
 </feed>

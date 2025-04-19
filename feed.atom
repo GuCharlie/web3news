@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-19T17:37:33.668Z</updated>
+    <updated>2025-04-19T18:18:37.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、90日以内に13万8000ドル到達なるか＝アナリストが予想]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-can-reach-138k-in-3-months-macro-btc-price-upside</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-can-reach-138k-in-3-months-macro-btc-price-upside?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-04-19T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[エコノミストのティモシー・ピーターソン氏は、4月18日に公開した最新の分析において、ビットコイン（BTC）が今後3カ月以内に13万8000ドルまで上昇する可能性があると予想した。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トロン、初の現物ETF申請｜ステーキング機能搭載で承認なるか]]></title>
         <id>https://crypto-times.jp/?p=133942</id>
@@ -3108,37 +3118,6 @@ JASRACの楽曲管理システム「KENDRIX」がSoneiumに移行 first appeared
         <summary type="html"><![CDATA[イーサリアムは、人工知能（AI）プラットフォームが抱える課題を解決するための分散型パートナーとして、大きな可能性を秘めている──元イーサリアム・コア開発者のエリック・コナー氏はそう主張している。]]></summary>
         <author>
             <name>Cointelegraph  Martin Young</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GMGNとは？Web3時代のミームコイン探索＆取引ツール]]></title>
-        <id>https://crypto-times.jp/?p=130526</id>
-        <link href="https://crypto-times.jp/gmgn/"/>
-        <updated>2025-04-15T05:59:27.000Z</updated>
-        <summary type="html"><![CDATA[GMGN（Good Morning, Good Night）とは？ GMGN（Good Morning, Good Night）は、ミームコインの発掘、分析、取引を効率的に行うためのWeb3ツールです。特にSolanaチ […]
-投稿 GMGNとは？Web3時代のミームコイン探索＆取引ツール は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>bobotango</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[貿易戦争の激化、ブロックチェーンに新たな活用機会　Web3企業トゥルービットが指摘]]></title>
-        <id>https://jp.cointelegraph.com/news/trade-wars-could-spur-governments-embrace-web3-truebit</id>
-        <link href="https://jp.cointelegraph.com/news/trade-wars-could-spur-governments-embrace-web3-truebit?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-15T05:56:00.000Z</updated>
-        <summary type="html"><![CDATA[貿易戦争の激化が仮想通貨市場に動揺をもたらしているが、同時にブロックチェーン技術の新たな活用機会を生んでいると、トゥルービットの幹部はコインテレグラフに語った。]]></summary>
-        <author>
-            <name>Cointelegraph  Alex O’Donnell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国当局、未登録仮想通貨取引所のアプリをApp Storeから削除　規制強化とユーザー保護を強調]]></title>
-        <id>https://jp.cointelegraph.com/news/south-korea-blocked-14-crypto-exchange-apple-apps-report</id>
-        <link href="https://jp.cointelegraph.com/news/south-korea-blocked-14-crypto-exchange-apple-apps-report?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-15T05:50:00.000Z</updated>
-        <summary type="html"><![CDATA[韓国が、同国で未登録なっている仮想取引所のアプリに対する禁止措置を拡大している。韓国の金融委員会（FSC）は、14の仮想通貨取引所のアプリがアップルのApp Store上でブロックされたことを発表した。対象にはクーコインやMEXCも含まれている。]]></summary>
-        <author>
-            <name>Cointelegraph  Christopher Tepedino</name>
         </author>
     </entry>
 </feed>

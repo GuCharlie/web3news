@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=288078",
+          "author": "Helene Braun",
+          "description": "ヘッジファンドのカナリー・キャピタルは、トロンのネイティブトークンであるTRXの価格に連動するETF（上場投資信託）のローンチを目指している。 カナリー・キャピ ...\nCanary Capital、ステーキング機能付きトロンETFを申請 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/288078/",
+          "publishedOn": "2025-04-19T00:00:00.000Z",
+          "wordCount": 1312,
+          "title": "Canary Capital、ステーキング機能付きトロンETFを申請",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/3aeb241d7a5ee9bbb59e031bf2bad2f8c6d84153-1440x1080-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=288074",
           "author": "Will Canny",
           "description": "暗号資産（仮想通貨）取引所のクラーケンは4月18日、FX永久先物取引をローンチし、主要なFXペアの24時間取引で伝統的市場に進出したと発表した。 最初のコントラ ...\nクラーケン、FX永久先物取引を開始──FXメジャーペアで24時間365日の取引が可能に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -624,6 +634,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=610313",
+          "author": "菊谷ルイス",
+          "description": "量子コンピュータの脅威に備えた『QDay Prize』コンテストが開始。ビットコイン暗号解読に成功したチームに1BTCを贈呈。量子耐性対策が進む中、ビットコインの未来にどんな影響があるのか。",
+          "link": "https://coinpost.jp/?p=610313",
+          "publishedOn": "2025-04-19T00:05:24.000Z",
+          "wordCount": 3186,
+          "title": "量子コンピュータvsビットコイン　1BTCをかけた解読コンテスト開催",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/quantum-bitcoin-fight.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/quantum-bitcoin-fight.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=610290",
+          "author": "K.Kobayashi",
+          "description": "日本発のWeb3プロジェクトのアスターは、仮想通貨ASTRのトークノミクスをアップデートしたことを発表。今回の変更で、不要な発行の抑制や利回りの安定化を目指す。",
+          "link": "https://coinpost.jp/?p=610290",
+          "publishedOn": "2025-04-18T23:00:35.000Z",
+          "wordCount": 3185,
+          "title": "アスター、仮想通貨ASTRのトークノミクスをアップデート",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/Astar-Dynamic-Tokenomics-Thumbnail.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/Astar-Dynamic-Tokenomics-Thumbnail.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=610297",
+          "author": "菊谷ルイス",
+          "description": "米アリゾナ州議会でビットコイン準備金法案が進展し最終投票を待つ状況に。州財務官に年間10%の暗号資産投資権限を付与する内容だが、知事は障害者サービス予算問題を理由に拒否権行使の可能性も。",
+          "link": "https://coinpost.jp/?p=610297",
+          "publishedOn": "2025-04-18T22:44:18.000Z",
+          "wordCount": 3172,
+          "title": "アリゾナ州のビットコイン準備金法案などが前進　投票の最終段階へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-budget-neutral-way.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-budget-neutral-way.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=610286",
           "author": "菊谷ルイス",
@@ -2060,16 +2115,6 @@
           "wordCount": 733,
           "title": "「湘南美容クリニック」の米SBCメディカルGHD、ビットコイン購入を報告",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/15074953/dbf8e6e44720bd6aff35623983a34b74.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=465518",
-          "author": "NewEconomyPodcast",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/465518",
-          "publishedOn": "2025-04-14T12:03:44.000Z",
-          "wordCount": 791,
-          "title": "【4/14話題】メタプラネットが約37億円でビットコイン追加購入、米SECがリップルとの訴訟を一時停止など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/14174257/news_head_20250414.jpg"
         }
       ]
     },

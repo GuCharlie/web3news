@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-19T20:37:43.481Z</updated>
+    <updated>2025-04-19T21:12:59.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トークン化株式、今後数年で市場規模1兆ドル超へ＝業界関係者らが議論]]></title>
+        <id>https://jp.cointelegraph.com/news/tokenized-stocks-top-1-trillion-market-cap-executives</id>
+        <link href="https://jp.cointelegraph.com/news/tokenized-stocks-top-1-trillion-market-cap-executives?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-04-19T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[トークン化株式の市場規模が今後数年で1兆ドルを超える可能性があるという。ニューヨークで開催された「TokenizeThis」カンファレンスに登壇した業界幹部らが予測している。]]></summary>
+        <author>
+            <name>Cointelegraph  Alex O’Donnell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRPに40〜50％の調整リスク　逆カップ＆ハンドル形成とオンチェーン分析が警告]]></title>
         <id>https://jp.cointelegraph.com/news/xrp-revisit-1-realized-price-charts-bearish-picture</id>
@@ -2994,16 +3004,6 @@ JASRACの楽曲管理システム「KENDRIX」がSoneiumに移行 first appeared
 投稿 銀行は終わる？ ステーブルコインが伝統的金融機関にもたらす影響 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWSの大規模障害　バイナンス、クーコイン、MEXCなど複数の仮想通貨取引所でサービス停止や遅延]]></title>
-        <id>https://jp.cointelegraph.com/news/binance-kucoin-mexc-aws-outage-crypto-service-issues</id>
-        <link href="https://jp.cointelegraph.com/news/binance-kucoin-mexc-aws-outage-crypto-service-issues?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-15T09:01:00.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所のバイナンス、クーコイン、MEXCをはじめとする複数の取引所およびウォレット事業者が、アマゾン・ウェブ・サービス（AWS）の大規模なネットワーク障害により、サービス停止や遅延を報告している。]]></summary>
-        <author>
-            <name>Cointelegraph  Zoltan Vardai</name>
         </author>
     </entry>
 </feed>

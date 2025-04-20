@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-20T22:39:26.090Z</updated>
+    <updated>2025-04-20T23:13:40.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[セイラー氏がBTC追加購入を示唆、ストラテジーへのエクスポージャーを持つ機関は1.3万社超に]]></title>
+        <id>https://jp.cointelegraph.com/news/13-000-institutions-exposure-strategy-saylor-hints-btc-buy</id>
+        <link href="https://jp.cointelegraph.com/news/13-000-institutions-exposure-strategy-saylor-hints-btc-buy?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-04-20T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米ビットコイン投資企業ストラテジーの共同創業者マイケル・セイラー氏は、自社による新たなビットコイン（BTC）購入の可能性を示唆し、現在では1万3000超の機関投資家が同社株式に直接投資していると述べた。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットゲット、VOXEL-USDT先物で不正取引を検知　該当口座をロールバック]]></title>
+        <id>https://jp.cointelegraph.com/news/bitget-detects-irregularity-voxelusdt-futures</id>
+        <link href="https://jp.cointelegraph.com/news/bitget-detects-irregularity-voxelusdt-futures?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-04-20T22:41:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所のBitget（ビットゲット）は20日、VOXELとテザー（USDT）の永久先物契約をめぐり、不審な取引活動が同日協定世界時（UTC）午前8時から8時30分の間に発生したとして、一部の口座を凍結したと発表した。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヴィタリック・ブテリン、EVM言語をRISC-Vに置き換える提案]]></title>
+        <id>https://jp.cointelegraph.com/news/vitalik-buterin-proposes-swapping-evm-language-risc-v</id>
+        <link href="https://jp.cointelegraph.com/news/vitalik-buterin-proposes-swapping-evm-language-risc-v?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-04-20T22:33:00.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムの共同創設者ヴィタリック・ブテリンが、イーサリアムネットワークの実行レイヤーの速度と効率を向上させるため、現在のイーサリアム仮想マシン（EVM）のコントラクト言語をRISC-V命令セットアーキテクチャに置き換える提案を行った。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024年の半減期以降、ビットコイン33％上昇｜機関投資家の参入でサイクルに変化]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-up-33-halving-analysts-institutional-cycle-acceleration</id>

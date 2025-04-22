@@ -400,7 +400,7 @@
       "articles": []
     },
     {
-      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "Ripple(XRP)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -1117,6 +1117,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=467177",
+          "author": "OtsugaShinya",
+          "description": "ハウス食品が万博PRでNFT活用のキャンペーン ハウス食品グループ本社が、NFTを活用した海外向けのプロモーションとして、大阪・関西万博のPRを兼ねたキャンペーンを実施すると4月21日に発表した。⼤阪創業の⾷品企業として […]",
+          "link": "https://www.neweconomy.jp/posts/467177",
+          "publishedOn": "2025-04-22T07:23:05.000Z",
+          "wordCount": 607,
+          "title": "ハウス食品、大阪・関西万博の海外向けPRのキャンペーンでNFT活用",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/22162301/9f7a38adf2223603e5d96220193c4bcd.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=467162",
           "author": "HitomotoToshikazu",
           "description": "Jupiterが最新ルーティングエンジン公開 ソラナ（Solana）基盤の分散型取引所（DEX）アグリゲーターであるジュピター（Jupiter）にて新たなルーティングエンジン「ジュノ（Juno）」が稼働開始した。ジュピタ […]",
@@ -1473,6 +1483,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/toshimurin-bitcoin-price-analysis-20250422",
+          "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
+          "description": "まずアメリカ株に関してだが、３月から４月にかけて株式市場は反発したものの続落したため、想定通りだと言える。",
+          "link": "https://jp.cointelegraph.com/news/toshimurin-bitcoin-price-analysis-20250422?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-22T07:20:00.000Z",
+          "wordCount": null,
+          "title": "ビットコインに光、株式市場に影──二極化するマーケットに現れる危険な兆候【仮想通貨相場】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNTE4OTYwYTFhODFjY2Q4MTRjYTNkMzViNjMwYzkyMi5wbmc=.png",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNTE4OTYwYTFhODFjY2Q4MTRjYTNkMzViNjMwYzkyMi5wbmc=.png"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0422",
           "author": "Cointelegraph  コインテレグラフジャパン寄稿者",

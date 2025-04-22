@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-22T22:40:40.232Z</updated>
+    <updated>2025-04-22T23:13:43.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アナリスト：機関投資家の需要が2025年にビットコインを20万ドル超へ押し上げる可能性]]></title>
+        <id>https://jp.cointelegraph.com/news/fund-inflows-could-push-btc-past-200k-2025-analysts</id>
+        <link href="https://jp.cointelegraph.com/news/fund-inflows-could-push-btc-past-200k-2025-analysts?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-04-22T23:05:00.000Z</updated>
+        <summary type="html"><![CDATA[金融機関からの需要が、2025年にビットコイン（BTC）価格を1枚あたり20万ドルまで押し上げる可能性があると、コインテレグラフが確認した2本の調査レポートが予測している。]]></summary>
+        <author>
+            <name>Cointelegraph  Alex O’Donnell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインベース、米国の銀行免許取得を検討]]></title>
+        <id>https://jp.cointelegraph.com/news/coinbase-confirms-considering-a-banking-charter</id>
+        <link href="https://jp.cointelegraph.com/news/coinbase-confirms-considering-a-banking-charter?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-04-22T22:50:00.000Z</updated>
+        <summary type="html"><![CDATA[米国の上場仮想通貨取引所コインベースは、米連邦銀行免許の取得を検討していることを正式に認めた。]]></summary>
+        <author>
+            <name>Cointelegraph  Adrian Zmudzinski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン価格とM2マネーサプライの相関関係が明らかに、12万ドル到達の可能性も──複数アナリストが考察]]></title>
+        <id>https://coinpost.jp/?p=610767</id>
+        <link href="https://coinpost.jp/?p=610767"/>
+        <updated>2025-04-22T22:45:42.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコインの価格がグローバルM2マネーサプライの動向と78日のタイムラグで相関関係にあるという分析が注目を集めている。この関係が継続すれば、ビットコイン価格は12万ドル以上に到達する可能性があると分析されている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ピアース氏、新委員長ポール・アトキンス下でのSEC「方向転換」を期待]]></title>
         <id>https://jp.cointelegraph.com/news/sec-commissioner-hester-peirce-reorient-paul-atkins</id>
@@ -24,6 +54,16 @@
         <summary type="html"><![CDATA[米証券取引委員会（SEC）は4月21日、ポール・アトキンス氏が第34代委員長として正式に就任したと発表した。]]></summary>
         <author>
             <name>Cointelegraph  Brayden Lindrea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「短期的な株の利益が目標ではない」メタプラネットのゲロヴィッチ社長　ビットコイン戦略継続の重要性を強調]]></title>
+        <id>https://coinpost.jp/?p=610758</id>
+        <link href="https://coinpost.jp/?p=610758"/>
+        <updated>2025-04-22T22:15:19.000Z</updated>
+        <summary type="html"><![CDATA[メタプラネットのトップであるゲロヴィッチ氏は、株主へのメッセージをXに投稿し、短期的な株価の利益が同社の目標ではないと説明。仮想通貨ビットコインの戦略継続の重要性を強調した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
         </author>
     </entry>
     <entry>
@@ -56,6 +96,16 @@
 ビットコインが9万ドルを突破する中、ストラテジー、コインベース、マイナーなどの暗号資産銘柄が上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Krisztian Sandor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XRPレジャーのJavaScriptライブラリに重大脆弱性、即時更新を推奨]]></title>
+        <id>https://coinpost.jp/?p=610756</id>
+        <link href="https://coinpost.jp/?p=610756"/>
+        <updated>2025-04-22T21:35:53.000Z</updated>
+        <summary type="html"><![CDATA[XRPレジャー財団がxrplパッケージの複数バージョンにセキュリティ脆弱性があると発表。悪意ある攻撃者による秘密鍵の窃取とウォレットへの不正アクセスの可能性があり、影響を受ける可能性のあるユーザーは早急なアップデートが必要。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -1673,16 +1723,6 @@ Canary Capital、ステーキング機能付きトロンETFを申請 first appea
 投稿 リップル(XRP)に追い風？アジア初、機関投資家向け「XRPトラッカーファンド」誕生 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[インタートレードがAndGoの株式取得、DAMSが機関向けのハードウェアウォレット導入支援]]></title>
-        <id>https://www.neweconomy.jp/?p=466752</id>
-        <link href="https://www.neweconomy.jp/posts/466752"/>
-        <updated>2025-04-18T11:05:16.000Z</updated>
-        <summary type="html"><![CDATA[インタートレードがAndGoの株式取得 東証スタンダード上場の金融機関向けソフトウェアハウスであるインタートレードが、暗号資産ウォレット事業およびセキュリティサービスソリューション事業を展開する国内企業AndGoの株式を […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>

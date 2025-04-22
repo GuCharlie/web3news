@@ -400,10 +400,160 @@
       "articles": []
     },
     {
-      "title": "Cardano(ADA)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=610683",
+          "author": "幸田直子",
+          "description": "ナスダック上場企業Upexiが約140億円を調達し、仮想通貨ソラナを基盤とした財務戦略を導入すると発表。株価は一時700%急騰した。",
+          "link": "https://coinpost.jp/?p=610683",
+          "publishedOn": "2025-04-22T05:45:31.000Z",
+          "wordCount": 3163,
+          "title": "株価8倍ほど急騰、ナスダック上場企業Upexiが140億円の資金調達でソラナ財務戦略を導入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/solana-2.0-new-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/solana-2.0-new-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=610686",
+          "author": "菊谷ルイス",
+          "description": "グレースケールが適格投資家向けに分散型AIファンドを提供開始。AIと暗号資産の交点に焦点を当て、NEAR、TAO、RENDERなど5銘柄に投資。市場時価総額加重方式で四半期ごとに再調整、運用手数料2.5%、現在の運用資産は約1.5億円。",
+          "link": "https://coinpost.jp/?p=610686",
+          "publishedOn": "2025-04-22T05:45:11.000Z",
+          "wordCount": 3130,
+          "title": "グレースケールが分散型AIセクターの投資信託販売を開始　NEARやTAOなど5銘柄に投資",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/grayscale-bitcoin-1m.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/grayscale-bitcoin-1m.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=610663",
+          "author": "A.Yamada",
+          "description": "仮想通貨ビットコインマイニングの収益性が過去5年間で最低水準に落ち込んでいる。難易度上昇、エネルギーコスト増、昨年のBTC半減期などが多くのマイナーに影響を与えている。",
+          "link": "https://coinpost.jp/?p=610663",
+          "publishedOn": "2025-04-22T05:00:44.000Z",
+          "wordCount": 3148,
+          "title": "ビットコイン採掘の収益性、過去5年間で最低水準に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin-mining-hashrate-sales.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin-mining-hashrate-sales.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=610675",
+          "author": "菊谷ルイス",
+          "description": "大手暗号資産投資企業Galaxy DigitalとParadigmによる大量のイーサリアム移動が検出された。Galaxy Digitalは約1億ドル相当のETHをBinanceに送金し、Paradigmは過去1年で約3億ドル相当をAnchorageに移動。売却圧力が高まる中、一部投資家は買い増しも行っている。",
+          "link": "https://coinpost.jp/?p=610675",
+          "publishedOn": "2025-04-22T04:00:11.000Z",
+          "wordCount": 3140,
+          "title": "Galaxy DigitalとParadigmがイーサリアム大量売却か　160億円相当のETH移動をオンチェーンで検出",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/ethereum2_0418.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/ethereum2_0418.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=610590",
+          "author": "A.Yamada",
+          "description": "トランプ政権による仮想通貨規制緩和を背景に、ドイツ銀行やスタンダード・チャータードなど大手銀行が米国での仮想通貨事業参入を検討していると伝えられる。",
+          "link": "https://coinpost.jp/?p=610590",
+          "publishedOn": "2025-04-22T03:25:30.000Z",
+          "wordCount": 3136,
+          "title": "ドイツ銀行やスタンダード・チャータード、米国で仮想通貨事業参入を検討か＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/Crypto-usa_0307.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/Crypto-usa_0307.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=610576",
+          "author": "菊谷ルイス",
+          "description": "ビットコインの実現時価総額が8721億ドル超の史上最高値を記録し、投資家の長期保有と資本流入の増加を示唆。短期保有者は91,000ドル付近で依然含み損を抱えており、この価格帯が今後の市場動向の鍵を握ると見られている。",
+          "link": "https://coinpost.jp/?p=610576",
+          "publishedOn": "2025-04-22T02:30:15.000Z",
+          "wordCount": 3132,
+          "title": "ビットコイン実現時価総額が史上最高値を更新、強気相場継続の兆しか",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/buy-and-sell-and-hold-market-weekend-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/buy-and-sell-and-hold-market-weekend-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=610612",
+          "author": "CoinPost編集部",
+          "description": "トランプ米大統領指名のポール・アトキンス氏がSEC委員長に就任したことがわかった。暗号資産（仮想通貨）規制の方針転換が加速する見通しだ。すでに申請が受理されているソラナやXRP（リップル）やなどのETF承認プロセスも加速すると予測される。",
+          "link": "https://coinpost.jp/?p=610612",
+          "publishedOn": "2025-04-22T01:53:23.000Z",
+          "wordCount": 3143,
+          "title": "SEC、ポール・アトキンスの新委員長就任を発表　アルトコインのETF審査加速に期待感",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/sec-cftc_0509.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/sec-cftc_0509.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=610586",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨イーサリアムの現物ETFにおける運用資産残高が減少基調にある。17日時点で過去最低水準まで減少してきていることが示されている。",
+          "link": "https://coinpost.jp/?p=610586",
+          "publishedOn": "2025-04-22T01:11:45.000Z",
+          "wordCount": 3146,
+          "title": "イーサリアム現物ETFの運用資産残高が過去最低水準に　資金は8週連続で純流出",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/eth-etf-new.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/eth-etf-new.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=610124",
+          "author": "Ritsuki.Kumazawa",
+          "description": "日本の暗号資産政策の方向性が明らかになった会合では、金融庁による投資家保護と産業育成のバランス模索、経産省のWeb3実証事業の成果などが報告された。業界からはビットコインETF認可と並行した現物法制整備やレバレッジ規制緩和を求める声が上がり、5月12日に予定される次回会合での政策提言が注目される。",
+          "link": "https://coinpost.jp/?p=610124",
+          "publishedOn": "2025-04-22T00:28:33.000Z",
+          "wordCount": 3146,
+          "title": "自民党・ブロックチェーン推進議員連盟、投資家保護と産業育成のバランス重視の姿勢示す",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/blockchain201118g-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/blockchain201118g-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=609972",
+          "author": "CoinPost編集部",
+          "description": "仮想通貨ビットコインは、トランプ米大統領が米連邦準備制度理事会（FRB）への批判を強めたことを受けて米国資産に対する信認が低下しドル安が進行した。",
+          "link": "https://coinpost.jp/?p=609972",
+          "publishedOn": "2025-04-21T23:35:45.000Z",
+          "wordCount": 3151,
+          "title": "ビットコイン上昇、ドル安で反発か｜仮想NISHI",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
+        },
         {
           "id": "https://coinpost.jp/?p=610571",
           "author": "菊谷ルイス",

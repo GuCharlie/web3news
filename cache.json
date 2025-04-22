@@ -390,16 +390,6 @@
           "wordCount": 1294,
           "title": "リップルが買収予定のヒドゥン・ロード、米ブローカー・ディーラーライセンスを取得",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/a66c4c08ad6480ac3b0ca8b183d9dd43cfe22dc7-1500x1000-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=287990",
-          "author": "廣瀬 優香",
-          "description": "アナリストたちは今週、ビットコイン（BTC）とイーサリアム（ETH）に続き、エックス・アール・ピー（XRP）が米国で現物ETF（上場投資信託）として上場する次の ...\nXRP、ETFへの楽観論にもかかわらず下落懸念が継続──オプションデータが示す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/287990/",
-          "publishedOn": "2025-04-18T00:48:22.000Z",
-          "wordCount": 1292,
-          "title": "XRP、ETFへの楽観論にもかかわらず下落懸念が継続──オプションデータが示す",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/000d21f040ae8be74dca604bc2028bce6798118f-1600x722-1.jpg"
         }
       ]
     },
@@ -1013,21 +1003,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/brett-new-ventures.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/brett-new-ventures.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=610001",
-          "author": "K.Kobayashi",
-          "description": "リップル社が買収する計画のHidden Roadは、完全子会社が米FINRAからブローカーディーラーの認可を取得したと発表。これからサービスと顧客基盤を拡大していく。",
-          "link": "https://coinpost.jp/?p=610001",
-          "publishedOn": "2025-04-18T00:45:27.000Z",
-          "wordCount": 3167,
-          "title": "リップル社買収先のHidden Road、米FINRA認可取得で固定収入資産サービス拡大へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/usa-America_1400822942.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/usa-America_1400822942.jpg"
         }
       ]
     },
@@ -1415,16 +1390,6 @@
           "wordCount": 840,
           "title": "a16z crypto、LayerZero独自トークン「ZRO」を55Mドル相当取得",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/18101735/a5d239db55314a3b8840a0fc9b504f08.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=466503",
-          "author": "HitomotoToshikazu",
-          "description": "TetherがOCEANへハッシュレート割り当てへ 米ドル建てステーブルコイン「USDT」等を発行するテザー（Tether）社が、現在運用中のハッシュレートと将来的な計算能力をビットコイン（BTC）の分散型マイニングプー […]",
-          "link": "https://www.neweconomy.jp/posts/466503",
-          "publishedOn": "2025-04-18T00:56:34.000Z",
-          "wordCount": 734,
-          "title": "Tether社、ビットコイン分散型マイニングプール「OCEAN」へハッシュレート割り当てへ、アフリカ展開も",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/18095539/04f399a78e93670438b4eb0709665800.jpg"
         }
       ]
     },
@@ -2010,6 +1975,26 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=134055",
+          "author": "Crypto Times 編集部",
+          "description": "金（ゴールド）の価格が連日のように史上最高値を更新する一方で、代表的な仮想通貨であるビットコインの価格は伸び悩んでいます。この対照的な動きの背景には何があるのでしょうか。 専門家は、現在の複雑なマクロ経済環境と市場心理が […]\n投稿 金はなぜ爆上げし、ビットコインは上がらないのか｜専門家が分析 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/column-why-is-gold-rising-while-bitcoin-isnt/",
+          "publishedOn": "2025-04-22T12:58:13.000Z",
+          "wordCount": 595,
+          "title": "金はなぜ爆上げし、ビットコインは上がらないのか｜専門家が分析",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_2503768467.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=134050",
+          "author": "Crypto Times 編集部",
+          "description": "ビットコインに続く主要な仮想通貨であるイーサリアム (ETH) は、その技術的な基盤が進歩しているにも関わらず昨今、価格が伸び悩んでいます。 このファンダメンタルズと価格の間に生じているギャップについて、イーサリアムコミ […]\n投稿 イーサリアムの価格はなぜ上がらない？専門家が分析するギャップ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/column-why-isnt-the-price-of-eth-going-up/",
+          "publishedOn": "2025-04-22T12:31:43.000Z",
+          "wordCount": 628,
+          "title": "イーサリアムの価格はなぜ上がらない？専門家が分析するギャップ",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_1873268185.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=134043",
           "author": "Crypto Times 編集部",

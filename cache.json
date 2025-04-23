@@ -425,6 +425,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=610787",
+          "author": "A.Yamada",
+          "description": "米デジタル不動産企業DeFi Development Corpが仮想通貨ソラナを88,164枚追加購入。約49億円相当のソラナを保有している。ソラナ財務戦略に伴い、社名も変更した。",
+          "link": "https://coinpost.jp/?p=610787",
+          "publishedOn": "2025-04-23T02:00:47.000Z",
+          "wordCount": 3176,
+          "title": "ナスダック企業がソラナ16億円買い増し　総額49億円に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/solana-google-cloud.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/solana-google-cloud.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=610786",
+          "author": "K.Kobayashi",
+          "description": "著名な経済学者で仮想通貨批判論者のピーター・シフ氏は、ゴールドは単なるコモディティではなく、通貨でもあるとの見方を示した。この見方には、ビットコインと比較するなどして批判も上がっている。",
+          "link": "https://coinpost.jp/?p=610786",
+          "publishedOn": "2025-04-23T01:30:29.000Z",
+          "wordCount": 3156,
+          "title": "ピーター・シフ、米ドル支配の終焉を主張「ゴールドは通貨の性質を併せ持つ」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/07/gold-btc.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/07/gold-btc.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=610767",
           "author": "菊谷ルイス",
           "description": "仮想通貨ビットコインの価格がグローバルM2マネーサプライの動向と78日のタイムラグで相関関係にあるという分析が注目を集めている。この関係が継続すれば、ビットコイン価格は12万ドル以上に到達する可能性があると分析されている。",
@@ -1002,6 +1032,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=467346",
+          "author": "HitomotoToshikazu",
+          "description": "TMTGがCrypto.comおよびYorkvilleと正式提携 トランプメディア＆テクノロジーグループ（Trump Media and Technology Group Corp：TMTG/Nasdaq： DJT）が、 […]",
+          "link": "https://www.neweconomy.jp/posts/467346",
+          "publishedOn": "2025-04-23T02:19:19.000Z",
+          "wordCount": 613,
+          "title": "トランプ大統領のメディア企業、Crypto[.]comらと正式提携でETFを年内ローンチへ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/23110628/fb0ac1b322e3fcb0515a0b0acc29b790.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=467198",
           "author": "NewEconomyPodcast",
           "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
@@ -1248,6 +1288,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-breaks-downtrend-with-spike-toward-92-6k-but-who-s-behind-the-price-momentum",
+          "author": "Cointelegraph  Marie Poteriaieva",
+          "description": "ビットコイン（BTC）の価格がイースター週末から急上昇し、4月22日には9万1000ドルの節目を突破した。9％の上昇幅は、低調な株式市場の反発とは対照的であり、一時3500ドルの史上最高値に到達した金の強気相場と歩調を合わせる形となった。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-breaks-downtrend-with-spike-toward-92-6k-but-who-s-behind-the-price-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-23T01:30:00.000Z",
+          "wordCount": null,
+          "title": "ビットコインは9万3000ドル突破　イースター週末から急騰　機関投資家の回帰が背景に",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTE0OTgtZTAyNy03ZGIyLTg0YzQtN2Y5MGRmNzMxYzJl.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTE0OTgtZTAyNy03ZGIyLTg0YzQtN2Y5MGRmNzMxYzJl.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/fund-inflows-could-push-btc-past-200k-2025-analysts",
           "author": "Cointelegraph  Alex O’Donnell",
@@ -1697,21 +1752,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjQ5YjYtNGU0Zi03ZTc0LWExMmItNTY1ZjVjNjgxYWFl.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-price-volatility-imminent-speculators-move-170k-btc-cryptoquant",
-          "author": "Cointelegraph  William Suberg",
-          "description": "ビットコイン（BTC）の短期保有者による大規模なコイン移動が確認され、BTC価格の大幅な変動が迫っている可能性がある。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-price-volatility-imminent-speculators-move-170k-btc-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-04-18T13:50:00.000Z",
-          "wordCount": null,
-          "title": "ビットコイン短期保有者の動きは波乱の予兆か？ 17万BTCがオンチェーン移動",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjQ4NWEtYzI4MC03YTQxLTkzY2ItNDUwOWQ3NmU2MjU4.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjQ4NWEtYzI4MC03YTQxLTkzY2ItNDUwOWQ3NmU2MjU4.jpg"
         }
       ]
     },

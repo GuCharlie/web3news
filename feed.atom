@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-23T01:13:02.167Z</updated>
+    <updated>2025-04-23T02:49:00.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ大統領のメディア企業、Crypto[.]comらと正式提携でETFを年内ローンチへ]]></title>
+        <id>https://www.neweconomy.jp/?p=467346</id>
+        <link href="https://www.neweconomy.jp/posts/467346"/>
+        <updated>2025-04-23T02:19:19.000Z</updated>
+        <summary type="html"><![CDATA[TMTGがCrypto.comおよびYorkvilleと正式提携 トランプメディア＆テクノロジーグループ（Trump Media and Technology Group Corp：TMTG/Nasdaq： DJT）が、 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ナスダック企業がソラナ16億円買い増し　総額49億円に]]></title>
+        <id>https://coinpost.jp/?p=610787</id>
+        <link href="https://coinpost.jp/?p=610787"/>
+        <updated>2025-04-23T02:00:47.000Z</updated>
+        <summary type="html"><![CDATA[米デジタル不動産企業DeFi Development Corpが仮想通貨ソラナを88,164枚追加購入。約49億円相当のソラナを保有している。ソラナ財務戦略に伴い、社名も変更した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ピーター・シフ、米ドル支配の終焉を主張「ゴールドは通貨の性質を併せ持つ」]]></title>
+        <id>https://coinpost.jp/?p=610786</id>
+        <link href="https://coinpost.jp/?p=610786"/>
+        <updated>2025-04-23T01:30:29.000Z</updated>
+        <summary type="html"><![CDATA[著名な経済学者で仮想通貨批判論者のピーター・シフ氏は、ゴールドは単なるコモディティではなく、通貨でもあるとの見方を示した。この見方には、ビットコインと比較するなどして批判も上がっている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは9万3000ドル突破　イースター週末から急騰　機関投資家の回帰が背景に]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-breaks-downtrend-with-spike-toward-92-6k-but-who-s-behind-the-price-momentum</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-breaks-downtrend-with-spike-toward-92-6k-but-who-s-behind-the-price-momentum?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-04-23T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）の価格がイースター週末から急上昇し、4月22日には9万1000ドルの節目を突破した。9％の上昇幅は、低調な株式市場の反発とは対照的であり、一時3500ドルの史上最高値に到達した金の強気相場と歩調を合わせる形となった。]]></summary>
+        <author>
+            <name>Cointelegraph  Marie Poteriaieva</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[オランダの銀行ING、TradFiや暗号資産企業と共同で新たなステーブルコインを開発か：関係者]]></title>
         <id>https://www.coindeskjapan.com/?p=288589</id>
@@ -1705,16 +1745,6 @@ Canary Capital、ステーキング機能付きトロンETFを申請 first appea
         <summary type="html"><![CDATA[複数の仮想通貨アナリストによれば、米連邦準備制度理事会（FRB）が公表した製造業データが過去最悪レベルとなったことを受け、ビットコイン（BTC）の価格が短期的に下落する可能性がある。]]></summary>
         <author>
             <name>Cointelegraph  Alex O’Donnell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン短期保有者の動きは波乱の予兆か？ 17万BTCがオンチェーン移動]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-price-volatility-imminent-speculators-move-170k-btc-cryptoquant</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-price-volatility-imminent-speculators-move-170k-btc-cryptoquant?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-18T13:50:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）の短期保有者による大規模なコイン移動が確認され、BTC価格の大幅な変動が迫っている可能性がある。]]></summary>
-        <author>
-            <name>Cointelegraph  William Suberg</name>
         </author>
     </entry>
 </feed>

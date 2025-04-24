@@ -615,6 +615,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=611232",
+          "author": "K.Kobayashi",
+          "description": "RWAトークン化企業Securitizeは、仮想通貨イーサリアムL2のMantleと協業し、インデックスファンドをローンチ。このファンドはビットコインやソラナなどのバスケットに投資できる。",
+          "link": "https://coinpost.jp/?p=611232",
+          "publishedOn": "2025-04-24T22:45:11.000Z",
+          "wordCount": 3175,
+          "title": "仮想通貨版S&P500を提供へ　SecuritizeとMantle、新インデックスファンドをローンチ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/Securitize-Mantle.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/Securitize-Mantle.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=611244",
+          "author": "菊谷ルイス",
+          "description": "米ARK Investmentが「Big Ideas 2025」で発表した分析によると、ビットコイン価格は2030年までに30万〜150万ドルに到達する可能性がある。機関投資家の参入、デジタルゴールドとしての採用、新興市場での需要などが主な成長要因に。",
+          "link": "https://coinpost.jp/?p=611244",
+          "publishedOn": "2025-04-24T22:25:25.000Z",
+          "wordCount": 3244,
+          "title": "米ARKが予測するビットコイン今後の価格シナリオ　2030年までに最大150万ドル到達へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/gold-bitcoin-fighting-gold.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/gold-bitcoin-fighting-gold.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=611231",
           "author": "菊谷ルイス",
           "description": "米証券取引委員会がPolkadotとHederaに基づく仮想通貨の現物ETFの審査期限を6月11日まで延長。GrayscaleとCanaryの申請、BitwiseのBTC・ETH ETFも同時期まで判断保留に。アルトコイン市場への投資機会拡大は引き続き待機状態に。",
@@ -1933,6 +1963,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/chicago-mercantile-exchange-cme-group-to-launch-xrp-futures",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "世界最大級の金融デリバティブ取引所を運営するCME（シカゴ・マーカンタイル取引所）グループは、XRP（エックスアールピー）の先物取引を5月19日に開始すると発表した。",
+          "link": "https://jp.cointelegraph.com/news/chicago-mercantile-exchange-cme-group-to-launch-xrp-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-24T22:42:00.000Z",
+          "wordCount": null,
+          "title": "CME、XRP先物取引を5月19日に開始",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjY4MjEtMWM1ZS03MDkyLTg2NDctMTZmNzBjYWRiODAy.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjY4MjEtMWM1ZS03MDkyLTg2NDctMTZmNzBjYWRiODAy.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/sec-crypto-task-force-ondo-finance-regulation",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "米証券取引委員会（SEC）の仮想通貨タスクフォースは、ヘスター・ピアース委員の主導のもと、規制改正を検討する中でデジタル資産企業との協議を継続している。",
+          "link": "https://jp.cointelegraph.com/news/sec-crypto-task-force-ondo-finance-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-24T22:30:00.000Z",
+          "wordCount": null,
+          "title": "SECタスクフォース、トランプ支持企業と仮想通貨規制を協議",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzhjN2QtOGEyMS03MDRmLWE5NjgtMjQwNzdjODA2NzMy.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzhjN2QtOGEyMS03MDRmLWE5NjgtMjQwNzdjODA2NzMy.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/federal-reserve-withdraws-crypto-guidance-for-banks",
           "author": "Cointelegraph  Brayden Lindrea",

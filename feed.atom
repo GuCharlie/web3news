@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-25T10:16:08.061Z</updated>
+    <updated>2025-04-25T10:42:22.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Japan Crypto Snapshot 2025年4月（vol.5）【bitbank Ventures】]]></title>
+        <id>https://www.coindeskjapan.com/?p=289064</id>
+        <link href="https://www.coindeskjapan.com/289064/"/>
+        <updated>2025-04-25T10:27:25.000Z</updated>
+        <summary type="html"><![CDATA[直近の日本におけるビジネス動向、投資動向、規制動向をまとめます。 日本のビジネス動向 ◾️JVCEA取引高および口座開設数 2025年2月までの過去12ヶ月のJ ...
+Japan Crypto Snapshot 2025年4月（vol.5）【bitbank Ventures】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>bitbank Ventures</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米アーク、2030年末のビットコイン価格目標を最大240万ドルに引き上げ]]></title>
         <id>https://www.coindeskjapan.com/?p=289310</id>
@@ -3099,26 +3110,6 @@ GetBlock、AIエージェント向けRPCノードインフラを提供 first app
         <link href="https://jp.cointelegraph.com/news/13-000-institutions-exposure-strategy-saylor-hints-btc-buy?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
         <updated>2025-04-20T23:00:00.000Z</updated>
         <summary type="html"><![CDATA[米ビットコイン投資企業ストラテジーの共同創業者マイケル・セイラー氏は、自社による新たなビットコイン（BTC）購入の可能性を示唆し、現在では1万3000超の機関投資家が同社株式に直接投資していると述べた。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットゲット、VOXEL-USDT先物で不正取引を検知　該当口座をロールバック]]></title>
-        <id>https://jp.cointelegraph.com/news/bitget-detects-irregularity-voxelusdt-futures</id>
-        <link href="https://jp.cointelegraph.com/news/bitget-detects-irregularity-voxelusdt-futures?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-20T22:41:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所のBitget（ビットゲット）は20日、VOXELとテザー（USDT）の永久先物契約をめぐり、不審な取引活動が同日協定世界時（UTC）午前8時から8時30分の間に発生したとして、一部の口座を凍結したと発表した。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヴィタリック・ブテリン、EVM言語をRISC-Vに置き換える提案]]></title>
-        <id>https://jp.cointelegraph.com/news/vitalik-buterin-proposes-swapping-evm-language-risc-v</id>
-        <link href="https://jp.cointelegraph.com/news/vitalik-buterin-proposes-swapping-evm-language-risc-v?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-20T22:33:00.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムの共同創設者ヴィタリック・ブテリンが、イーサリアムネットワークの実行レイヤーの速度と効率を向上させるため、現在のイーサリアム仮想マシン（EVM）のコントラクト言語をRISC-V命令セットアーキテクチャに置き換える提案を行った。]]></summary>
         <author>
             <name>Cointelegraph  Vince Quill</name>
         </author>

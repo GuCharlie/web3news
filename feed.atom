@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-25T20:40:22.999Z</updated>
+    <updated>2025-04-25T21:14:05.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[前週比65%以上高騰、仮想通貨SUI（スイ）がビットコインやイーサリアムを大幅アウトパフォーム　背景は？]]></title>
+        <id>https://coinpost.jp/?p=611561</id>
+        <link href="https://coinpost.jp/?p=611561"/>
+        <updated>2025-04-25T21:10:52.000Z</updated>
+        <summary type="html"><![CDATA[複数の好材料が重なる暗号資産SUI（スイ）の価格が急騰し、過去24時間で20%上昇して3.78ドルを付けた。週間では65%超の上昇率となり、同期間のビットコインやイーサリアムなど主要銘柄を大きくアウトパフォームしている。出典：CoinGec...]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ氏のミームコイン夕食会　「30万ドル必要」という噂を運営チームが否定　保有量と保有期間をもとに選定]]></title>
+        <id>https://jp.cointelegraph.com/news/trump-coin-dinner-300k-rumors-eligibility-memecoin</id>
+        <link href="https://jp.cointelegraph.com/news/trump-coin-dinner-300k-rumors-eligibility-memecoin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-04-25T20:55:00.000Z</updated>
+        <summary type="html"><![CDATA[米国のトランプ大統領の公式ミームコイン「オフィシャル・トランプ（TRUMP）」の運営チームは、トークン保有者がトランプ氏との夕食会に参加するためには少なくとも30万ドル分のトークンを保有する必要があるとの噂を否定した。]]></summary>
+        <author>
+            <name>Cointelegraph  Ezra Reguerra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン 9万5000ドルの攻防戦　強気派と弱気派が綱引き　10万ドル到達には「材料不足」との声も]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-spikes-to-7-week-highs-analyst-doubts-chances-100k-rebound</id>
@@ -3129,38 +3149,6 @@ coinbook、BACKSEATに社名・ドメイン変更 first appeared on CoinDesk JAP
 投稿 ビットコインを超える可能性？著名投資家が次に賭ける「AI銘柄」とは は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ビットコインは年内に最高値を達成する」ウォール街30年のプロが予想、その根拠とは]]></title>
-        <id>https://crypto-times.jp/?p=133993</id>
-        <link href="https://crypto-times.jp/news-btc-2025-ath/"/>
-        <updated>2025-04-21T09:06:24.000Z</updated>
-        <summary type="html"><![CDATA[ウォール街で30年以上の経験を持つマクロ投資家、ジョルディ・ヴィッサー氏は「ビットコインは年内に過去最高値を更新する」と予測しています。 市場の不確実性が高まる中、なぜ同氏は強気の見方を示すのでしょうか。 根拠①「世界的 […]
-投稿 「ビットコインは年内に最高値を達成する」ウォール街30年のプロが予想、その根拠とは は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインがブレイクアウトし、9万ドルから9万2000ドルに達する可能性：テクニカル分析]]></title>
-        <id>https://www.coindeskjapan.com/?p=288258</id>
-        <link href="https://www.coindeskjapan.com/288258/"/>
-        <updated>2025-04-21T08:55:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）の最近のレンジ相場は、4月21日早朝に上昇傾向で決着し、注目は以前強いサポートゾーンだった9万ドルから9万2000ドルの価格帯に移った。  ...
-ビットコインがブレイクアウトし、9万ドルから9万2000ドルに達する可能性：テクニカル分析 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヴィタリック、イーサリアムの「RISC-V」移行を提案]]></title>
-        <id>https://www.neweconomy.jp/?p=466927</id>
-        <link href="https://www.neweconomy.jp/posts/466927"/>
-        <updated>2025-04-21T08:53:58.000Z</updated>
-        <summary type="html"><![CDATA[ヴィタリックがRISC-Vへの移行を提案 イーサリアム（Ethereum）の共同創設者であるヴィタリック・ブテリン（Vitalik Buterin）氏が、イーサリアムのスケーラビリティを大幅に向上させる「抜本的な」提案を […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
         </author>
     </entry>
 </feed>

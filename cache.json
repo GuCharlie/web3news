@@ -1548,21 +1548,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/ethereum2_0418.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/ethereum2_0418.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=610590",
-          "author": "A.Yamada",
-          "description": "トランプ政権による仮想通貨規制緩和を背景に、ドイツ銀行やスタンダード・チャータードなど大手銀行が米国での仮想通貨事業参入を検討していると伝えられる。",
-          "link": "https://coinpost.jp/?p=610590",
-          "publishedOn": "2025-04-22T03:25:30.000Z",
-          "wordCount": 3136,
-          "title": "ドイツ銀行やスタンダード・チャータード、米国で仮想通貨事業参入を検討か＝報道",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/Crypto-usa_0307.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/Crypto-usa_0307.jpg"
         }
       ]
     },
@@ -1988,6 +1973,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-market-structural-weekend-risks-tariff-calm",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "仮想通貨投資家のセンチメントは、世界的な関税懸念から大きく回復したものの、市場の構造的な弱点により、週末の流動性低下時には再び下落圧力が強まる可能性があるとアナリストらは警告している。",
+          "link": "https://jp.cointelegraph.com/news/crypto-market-structural-weekend-risks-tariff-calm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-26T15:15:00.000Z",
+          "wordCount": null,
+          "title": "仮想通貨市場のセンチメントは回復も…週末の流動性リスクで再び急変動の可能性",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjcyNGUtODhhNS03MDk0LWI4NGYtNWRjYjQwM2E1ZTg2.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjcyNGUtODhhNS03MDk0LWI4NGYtNWRjYjQwM2E1ZTg2.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/traders-donald-trump-memecoin-holdings-selling-dinner",
           "author": "Cointelegraph  Turner Wright",

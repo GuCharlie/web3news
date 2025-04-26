@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-26T15:13:57.518Z</updated>
+    <updated>2025-04-26T15:36:40.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨市場のセンチメントは回復も…週末の流動性リスクで再び急変動の可能性]]></title>
+        <id>https://jp.cointelegraph.com/news/crypto-market-structural-weekend-risks-tariff-calm</id>
+        <link href="https://jp.cointelegraph.com/news/crypto-market-structural-weekend-risks-tariff-calm?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-04-26T15:15:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨投資家のセンチメントは、世界的な関税懸念から大きく回復したものの、市場の構造的な弱点により、週末の流動性低下時には再び下落圧力が強まる可能性があるとアナリストらは警告している。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[決済大手Stripe、ステーブルコイン新製品を開発中｜CEOが「10年来の構想実現へ」と示唆]]></title>
         <id>https://crypto-times.jp/?p=134310</id>
@@ -3156,16 +3166,6 @@ ZKSyncを攻撃したハッカー、10％の報奨金と引き換えに500万ド
         <summary type="html"><![CDATA[「米国を世界一の投資先・ビジネス拠点に」 米証券取引委員会（SEC）は、第34代委員長にポール・アトキンス（Paul S. Atkins）氏が正式に就任したことを4月21日に発表した。 アトキンス氏は、今年1月にドナルド […]]]></summary>
         <author>
             <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドイツ銀行やスタンダード・チャータード、米国で仮想通貨事業参入を検討か＝報道]]></title>
-        <id>https://coinpost.jp/?p=610590</id>
-        <link href="https://coinpost.jp/?p=610590"/>
-        <updated>2025-04-22T03:25:30.000Z</updated>
-        <summary type="html"><![CDATA[トランプ政権による仮想通貨規制緩和を背景に、ドイツ銀行やスタンダード・チャータードなど大手銀行が米国での仮想通貨事業参入を検討していると伝えられる。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>

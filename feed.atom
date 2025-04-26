@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-26T10:14:28.579Z</updated>
+    <updated>2025-04-26T10:39:28.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FRBの発表はガス抜き？米議員「暗号資産への真の障壁は残る」と撤回策を酷評]]></title>
+        <id>https://crypto-times.jp/?p=134313</id>
+        <link href="https://crypto-times.jp/news-u-s-lawmaker-slams-repeal-plan-saying-real-barriers-to-cryptocurrency-use-remain/"/>
+        <updated>2025-04-26T10:21:56.000Z</updated>
+        <summary type="html"><![CDATA[米国の暗号資産推進派として知られるシンシア・ルミス上院議員（共和党）は、連邦準備制度理事会（FRB）が最近発表した暗号資産関連の監督指示の一部撤回について、「単なるノイズであり、真の進歩ではない」と厳しく批判しました。  […]
+投稿 FRBの発表はガス抜き？米議員「暗号資産への真の障壁は残る」と撤回策を酷評 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スイス国立銀行「ビットコインの外貨準備採用は時期尚早」]]></title>
         <id>https://crypto-times.jp/?p=134314</id>
@@ -3274,26 +3285,6 @@ coinbook、BACKSEATに社名・ドメイン変更 first appeared on CoinDesk JAP
         <summary type="html"><![CDATA[サプライチェーン管理を専門とするブランド保有企業Upexiが、暗号資産分野への多角化を進めている。]]></summary>
         <author>
             <name>Cointelegraph  Christopher Tepedino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムの性能が最大100倍高まる可能性、ヴィタリックが新たに提案]]></title>
-        <id>https://coinpost.jp/?p=610562</id>
-        <link href="https://coinpost.jp/?p=610562"/>
-        <updated>2025-04-21T22:25:20.000Z</updated>
-        <summary type="html"><![CDATA[ヴィタリック・ブテリン氏は、仮想通貨イーサリアムの長期的な改善案を公開。今回の提案を実行することで、ケースによっては最大100倍以上ネットワークの効率性を向上できる可能性があると説明した。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国の仮想通貨ETF70本超が今年SEC審査待ち──ブルームバーグ]]></title>
-        <id>https://jp.cointelegraph.com/news/us-crypto-etfs-await-sec-decision-70-bloomberg</id>
-        <link href="https://jp.cointelegraph.com/news/us-crypto-etfs-await-sec-decision-70-bloomberg?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-21T22:19:00.000Z</updated>
-        <summary type="html"><![CDATA[米証券取引委員会（SEC）は、今年中に70本を超える暗号資産関連の上場投資信託（ETF）の審査を予定している。]]></summary>
-        <author>
-            <name>Cointelegraph  Alex O’Donnell</name>
         </author>
     </entry>
 </feed>

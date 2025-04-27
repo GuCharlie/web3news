@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-27T09:14:32.386Z</updated>
+    <updated>2025-04-27T09:36:26.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
@@ -2956,16 +2956,6 @@ ZKSyncを攻撃したハッカー、10％の報奨金と引き換えに500万ド
 ビットコインが9万ドルを突破する中、ストラテジー、コインベース、マイナーなどの暗号資産銘柄が上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRPレジャーのJavaScriptライブラリに重大脆弱性、即時更新を推奨]]></title>
-        <id>https://coinpost.jp/?p=610756</id>
-        <link href="https://coinpost.jp/?p=610756"/>
-        <updated>2025-04-22T21:35:53.000Z</updated>
-        <summary type="html"><![CDATA[XRPレジャー財団がxrplパッケージの複数バージョンにセキュリティ脆弱性があると発表。悪意ある攻撃者による秘密鍵の窃取とウォレットへの不正アクセスの可能性があり、影響を受ける可能性のあるユーザーは早急なアップデートが必要。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

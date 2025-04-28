@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=289635",
+          "author": "Andy Baehr",
+          "description": "CoinDesk Indicesのプロダクト責任者アンディ・ベイアー（Andy Baehr）氏は、イーサリアム（ETH）は現サイクルで「成長ストーリー」を見つけ ...\nイーサリアム、まだ特別な存在か first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/289635/",
+          "publishedOn": "2025-04-28T23:00:00.000Z",
+          "wordCount": 1343,
+          "title": "イーサリアム、まだ特別な存在か",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/shutterstock_1527808853.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=289721",
           "author": "Tom Carreras",
           "description": "ビットコインは4月28日、米国取引セッションの序盤に下落したが、マクロ経済に関する悪いニュースが飛び込んでくる中、大半は堅調に推移した。 ビットコインは28日の ...\nビットコイン、堅調に推移──経済指標の悪化、インド・パキスタン情勢緊迫化の中でも first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -973,21 +983,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/68082deffb5fc9ff5eabb91e_Welcome-Salman.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/68082deffb5fc9ff5eabb91e_Welcome-Salman.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=537862",
-          "author": "CoinPost編集部",
-          "description": "仮想通貨（暗号資産）スイ（SUI）は、元Meta・旧Facebookのメンバーが開発し、高い取引処理能力や並列処理能力が注目される。SUIの初心者向け解説からおすすめ取引所の購入方法まで詳しく紹介。",
-          "link": "https://coinpost.jp/?p=537862",
-          "publishedOn": "2025-04-24T10:43:53.000Z",
-          "wordCount": 2469,
-          "title": "スイ（SUI）の買い方｜元Meta開発者が手掛ける仮想通貨の将来性、おすすめ取引所の選び方",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/SUi_0618.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/SUi_0618.png"
         }
       ]
     },
@@ -1293,6 +1288,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/tether-gold-reaches-ath-amid-global-economic-uncertainty",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "米国のドナルド・トランプ大統領が4月2日に発表した関税措置による世界的な貿易戦争の影響で、ゴールド連動型暗号資産の価値が急騰している。",
+          "link": "https://jp.cointelegraph.com/news/tether-gold-reaches-ath-amid-global-economic-uncertainty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-28T22:51:00.000Z",
+          "wordCount": null,
+          "title": "世界的な貿易不安の中、ゴールド連動型仮想通貨が急騰",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjdkNzItY2E1ZC03YWY3LWFlYTItMTE2Mzk2NzM0YmJj.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjdkNzItY2E1ZC03YWY3LWFlYTItMTE2Mzk2NzM0YmJj.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/loopscale-hacker-agrees-return-stolen-crypto-bounty",
+          "author": "Cointelegraph  Alex O’Donnell",
+          "description": "ソラナ基盤のプロトコルであるLoopscaleは、580万ドル相当の最近のハッキング被害に関して、盗まれた資金の返還と引き換えにバウンティ（報奨金）を支払う交渉を進めていると発表した。",
+          "link": "https://jp.cointelegraph.com/news/loopscale-hacker-agrees-return-stolen-crypto-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-28T22:31:00.000Z",
+          "wordCount": null,
+          "title": "Loopscale、ハッカーと盗まれた仮想通貨の返還交渉中",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjdkMWYtMTAzYS03ZjY0LTk1Y2UtMDNmYmJiY2ZiNTAz.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjdkMWYtMTAzYS03ZjY0LTk1Y2UtMDNmYmJiY2ZiNTAz.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/peter-chung-bitcoin-210k-prediction-institutional-adoption-2025",
           "author": "Cointelegraph  Amin Haqshanas",

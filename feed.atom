@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-28T22:40:19.246Z</updated>
+    <updated>2025-04-28T23:14:29.414Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム、まだ特別な存在か]]></title>
+        <id>https://www.coindeskjapan.com/?p=289635</id>
+        <link href="https://www.coindeskjapan.com/289635/"/>
+        <updated>2025-04-28T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CoinDesk Indicesのプロダクト責任者アンディ・ベイアー（Andy Baehr）氏は、イーサリアム（ETH）は現サイクルで「成長ストーリー」を見つけ ...
+イーサリアム、まだ特別な存在か first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Andy Baehr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界的な貿易不安の中、ゴールド連動型仮想通貨が急騰]]></title>
+        <id>https://jp.cointelegraph.com/news/tether-gold-reaches-ath-amid-global-economic-uncertainty</id>
+        <link href="https://jp.cointelegraph.com/news/tether-gold-reaches-ath-amid-global-economic-uncertainty?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-04-28T22:51:00.000Z</updated>
+        <summary type="html"><![CDATA[米国のドナルド・トランプ大統領が4月2日に発表した関税措置による世界的な貿易戦争の影響で、ゴールド連動型暗号資産の価値が急騰している。]]></summary>
+        <author>
+            <name>Cointelegraph  Christopher Tepedino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loopscale、ハッカーと盗まれた仮想通貨の返還交渉中]]></title>
+        <id>https://jp.cointelegraph.com/news/loopscale-hacker-agrees-return-stolen-crypto-bounty</id>
+        <link href="https://jp.cointelegraph.com/news/loopscale-hacker-agrees-return-stolen-crypto-bounty?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-04-28T22:31:00.000Z</updated>
+        <summary type="html"><![CDATA[ソラナ基盤のプロトコルであるLoopscaleは、580万ドル相当の最近のハッキング被害に関して、盗まれた資金の返還と引き換えにバウンティ（報奨金）を支払う交渉を進めていると発表した。]]></summary>
+        <author>
+            <name>Cointelegraph  Alex O’Donnell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[プレストのリサーチ責任者「ビットコイン、2025年に21万ドル到達の可能性」]]></title>
         <id>https://jp.cointelegraph.com/news/peter-chung-bitcoin-210k-prediction-institutional-adoption-2025</id>
@@ -2021,16 +2052,6 @@ CME、XRP先物取引を導入へ──XRPへの関心の高まりと普及拡�
 分散型取引所KiloEx、700万ドルの攻撃で被害を受けたユーザーに補償へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スイ（SUI）の買い方｜元Meta開発者が手掛ける仮想通貨の将来性、おすすめ取引所の選び方]]></title>
-        <id>https://coinpost.jp/?p=537862</id>
-        <link href="https://coinpost.jp/?p=537862"/>
-        <updated>2025-04-24T10:43:53.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨（暗号資産）スイ（SUI）は、元Meta・旧Facebookのメンバーが開発し、高い取引処理能力や並列処理能力が注目される。SUIの初心者向け解説からおすすめ取引所の購入方法まで詳しく紹介。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>

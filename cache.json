@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=289668",
+          "author": "CoinDesk JAPAN",
+          "description": "Xアカウントへの不正ログインにより、全サービスを停止していたコインチェックがサービスを順次再開している。 コインチェックは「当社Xアカウントへの不正ログインに伴 ...\nコインチェック、サービスを順次再開 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/289668/",
+          "publishedOn": "2025-04-28T09:27:35.000Z",
+          "wordCount": 1247,
+          "title": "コインチェック、サービスを順次再開",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/FAQ_お問い合わせ.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=289622",
           "author": "廣瀬 優香",
           "description": "ETF（上場投資信託）発行企業のプロシェアーズ（ProShares）は、米証券取引委員会（SEC）の黙示的な承認を得て、今週、エックス・アール・ピー（XRP）を ...\nプロシェアーズ、SECから3つのXRP ETFの承認を獲得 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -535,26 +545,6 @@
           "wordCount": 1314,
           "title": "トランプ大統領のミームコイン「TRUMP」、70%急騰──上位保有者向けディナーイベント発表で",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/4ed96e598bdb163e7a9a042e5e51a71b71316398-6000x4000-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=288816",
-          "author": "林 理南",
-          "description": "ライス・ロボティクス（Rice Robotics）と犬をモチーフにしたユーティリティプロジェクトであるフロキ（Floki）は、間もなくRICE AIのプラットフ ...\nフロキ、ソフトバンクのパートナー企業ライス・ロボティクスと提携──AIデータのトークン化目指す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/288816/",
-          "publishedOn": "2025-04-23T21:30:00.000Z",
-          "wordCount": 1296,
-          "title": "フロキ、ソフトバンクのパートナー企業ライス・ロボティクスと提携──AIデータのトークン化目指す",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/20301958ba40938c016ef364f91e50391d06fff4-1383x787-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=288808",
-          "author": "林 理南",
-          "description": "ペイパル（PayPal）は、ステーブルコイン市場での競争を激化させている。同社はアメリカのユーザー向けにペイパルUSD（PYUSD）残高に対して年率3.7％の利 ...\nペイパル、ステーブルコインPYUSDに年率3.7％の利回りを提供へ──利用拡大目指す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/288808/",
-          "publishedOn": "2025-04-23T21:00:00.000Z",
-          "wordCount": 1271,
-          "title": "ペイパル、ステーブルコインPYUSDに年率3.7％の利回りを提供へ──利用拡大目指す",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/ca66c441f504e730e61f0eb01b6d3a16206523c5-1920x1172-1.jpg"
         }
       ]
     },
@@ -1318,81 +1308,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/EthereumMining1.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/EthereumMining1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=610987",
-          "author": "K.Kobayashi",
-          "description": "テスラは25年3月末時点で仮想通貨ビットコインを11,509BTC保有しており、これは1,550億円に相当する。同社のビットコイン保有戦略も投資家からの注目度が高い。",
-          "link": "https://coinpost.jp/?p=610987",
-          "publishedOn": "2025-04-23T22:45:12.000Z",
-          "wordCount": 3153,
-          "title": "イーロン・マスク氏のテスラ、25年1Qもビットコイン保有を継続　1550億円相当",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/tesla-bitcoin-II.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/tesla-bitcoin-II.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=610993",
-          "author": "菊谷ルイス",
-          "description": "ロシアの中央銀行と財務省が「高度な適格投資家」限定の仮想通貨取引所を開設予定。1億ルーブル以上の投資資産または年収5,000万ルーブル以上の富裕層のみが利用可能。プーチン大統領指示による実験的法的制度の一環である。",
-          "link": "https://coinpost.jp/?p=610993",
-          "publishedOn": "2025-04-23T22:20:27.000Z",
-          "wordCount": 3127,
-          "title": "ロシア中央銀行、『高度な適格投資家限定』の仮想通貨取引所を開設へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/russian-corrupt-rich.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/russian-corrupt-rich.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=610986",
-          "author": "菊谷ルイス",
-          "description": "強気見通しに米国の投資銀行ベンチマークは23日、仮想通貨業界の規制不透明感が終わりに近づく中、仮想通貨取引所コインベースが恩恵を受ける好位置にあるとの見方を示した。TheBlockやCoinDeskが報じた。ベンチマークはコインベース（CO...",
-          "link": "https://coinpost.jp/?p=610986",
-          "publishedOn": "2025-04-23T21:55:55.000Z",
-          "wordCount": 3137,
-          "title": "コインベース株に30%上昇余地か、ベンチマークが規制環境改善を背景に強気見通し",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/coinbase-reopen-case.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/coinbase-reopen-case.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=610980",
-          "author": "菊谷ルイス",
-          "description": "ソフトバンクグループとテザーの支援を受ける新会社「Twenty One（二十一）」は4.2万ビットコインを保有して設立へ。ジャック・マラーズCEO率いる同社は1株あたりのビットコイン保有量最大化を使命に、SPAC経由で上場を目指す。",
-          "link": "https://coinpost.jp/?p=610980",
-          "publishedOn": "2025-04-23T21:10:52.000Z",
-          "wordCount": 3152,
-          "title": "42000ビットコイン保有予定、ソフトバンクら出資の「21キャピタル」が世界3位のBTC保有規模で設立へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/softbank-bulish-1.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/softbank-bulish-1.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=589589",
-          "author": "M.Somekawa",
-          "description": "ソラナで発行されたトランプ大統領公式ミームコイン『TRUMP』について初心者向けに詳しく解説。Phantomウォレットやソラナ系DEXでの買い方、投資リスク、今後の見通しまで説明しています。",
-          "link": "https://coinpost.jp/?p=589589",
-          "publishedOn": "2025-04-23T21:00:46.000Z",
-          "wordCount": 2526,
-          "title": "仮想通貨トランプ（TRUMP）は「どこで買える？」買い方・Jupiter等の使い方を解説",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/TRUMP_0124.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/TRUMP_0124.jpg"
         }
       ]
     },
@@ -1401,6 +1316,36 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=468444",
+          "author": "OtsugaShinya",
+          "description": "HODLer AirdropsでSIGN対応 国内暗号資産（仮想通貨）取引所バイナンスジャパン（Binance Japan）提供のローンチプールサービス「HODLer Airdrops」における暗号資産サイン（SIGN） […]",
+          "link": "https://www.neweconomy.jp/posts/468444",
+          "publishedOn": "2025-04-28T10:48:10.000Z",
+          "wordCount": 648,
+          "title": "Binance Japan、HODLer Airdropsで「サイン（SIGN）」の対応決定",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/28194805/a60d95183da4194ae7d1f67a5f4f96d3.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=468438",
+          "author": "OtsugaShinya",
+          "description": "SuiのバーチャルMastercardがローンチ レイヤー1（L1）ブロックチェーン「スイ（Sui）」ブランドのマスターカード（Mastercard）ローンチが、同チェーンを支援するスイ財団（SuiFoundation） […]",
+          "link": "https://www.neweconomy.jp/posts/468438",
+          "publishedOn": "2025-04-28T10:14:50.000Z",
+          "wordCount": 778,
+          "title": "SuiのバーチャルMastercardがローンチ、　欧州から利用可能に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/28191444/d855e80db3a8e0be52c119e2659dd868.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=468427",
+          "author": "TamuraSeiji",
+          "description": "Loopscaleから580万ドル相当の資金が不正流出 Solana（ソラナ）ベースの分散型金融（DeFi）プロトコル「Loopscale（ループスケール）」が約580万ドル（約8億9,000万円）の資金流出被害を受けた […]",
+          "link": "https://www.neweconomy.jp/posts/468427",
+          "publishedOn": "2025-04-28T09:34:36.000Z",
+          "wordCount": 771,
+          "title": "ソラナのDeFi「Loopscale」、約5.8Mドルの不正流出被害、ローンチ後2週間で発生",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/28183432/613d0ddb645aa75f10dea9232ec2b018.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=468330",
           "author": "HitomotoToshikazu",
@@ -1798,6 +1743,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0428",
+          "author": "Cointelegraph  ビットバンク　長谷川友哉",
+          "description": "21日〜27日のビットコイン（BTC）対円相場の週足終値は、前週比142万1435円（11.77%）高の1349万8760円と3週続伸した。",
+          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0428?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-28T09:24:00.000Z",
+          "wordCount": null,
+          "title": "BTC週足は10%超の上昇　相場トレンドは「中立水準」で分岐点に【ビットバンク仮想通貨分析】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMjhhNzQ0ZjQyMWJjYjlmNzYwMmM4N2MxYzI3MWIwZC5qcGc=.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMjhhNzQ0ZjQyMWJjYjlmNzYwMmM4N2MxYzI3MWIwZC5qcGc=.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0428",
           "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
@@ -2952,51 +2912,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGE3MzUtZDA5Ny03NmQ4LWJlOTctMDcyMDJhMmNjZGZl.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-etf-inflows-top-500-of-2025-average-significant-deviation",
-          "author": "Cointelegraph  William Suberg",
-          "description": "ビットコイン（BTC）の機関投資家は、4月22日に米国のスポット型ビットコインETFに、過去平均の11倍超となる資金を流入させた。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-etf-inflows-top-500-of-2025-average-significant-deviation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-04-23T22:25:00.000Z",
-          "wordCount": null,
-          "title": "ビットコインETFへの資金流入、2025年平均の500倍超に",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzRmMGEtZWE1OS03MWRjLWE4MjAtOGIzYTk5OWEyOTFl.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzRmMGEtZWE1OS03MWRjLWE4MjAtOGIzYTk5OWEyOTFl.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/paypal-stablecoin-pyusd-yield-launch",
-          "author": "Cointelegraph  Adrian Zmudzinski",
-          "description": "決済大手ペイパルは、自社のステーブルコイン「PayPal USD（PYUSD）」の残高に対して年利3.7％の利回りを提供する計画を明らかにした。",
-          "link": "https://jp.cointelegraph.com/news/paypal-stablecoin-pyusd-yield-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-04-23T22:19:00.000Z",
-          "wordCount": null,
-          "title": "ペイパル、自社ステーブルコインに年利3.7%提供明らかに",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzQ1YWItZWYxMy03ODZlLWJkMTEtZmY3ZTZiMjVjZWI1.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzQ1YWItZWYxMy03ODZlLWJkMTEtZmY3ZTZiMjVjZWI1.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/price-predictions-4-23-btc-eth-xrp-bnb-sol-doge-ada-link-avax-sui",
-          "author": "Cointelegraph  Rakesh Upadhyay",
-          "description": "スポット型ビットコインETFへの資金流入の急増を受けて、アナリストらは2025年末までにビットコイン価格が20万ドルに達するとの見方を示している。では、それに続く可能性のあるアルトコインはどれか？",
-          "link": "https://jp.cointelegraph.com/news/price-predictions-4-23-btc-eth-xrp-bnb-sol-doge-ada-link-avax-sui?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-04-23T22:13:00.000Z",
-          "wordCount": null,
-          "title": "ETFへの資金急増で反発　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjYzN2UtZDdiOS03MTZmLTg1NzgtYTNmMTJjNWM5NWVk.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjYzN2UtZDdiOS03MTZmLTg1NzgtYTNmMTJjNWM5NWVk.jpg"
         }
       ]
     },

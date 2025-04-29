@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-29T20:17:22.883Z</updated>
+    <updated>2025-04-29T20:41:16.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SECがXRPとドージコインETF判断を延期、第4四半期まで決定先送りの可能性浮上]]></title>
+        <id>https://coinpost.jp/?p=612127</id>
+        <link href="https://coinpost.jp/?p=612127"/>
+        <updated>2025-04-29T20:30:01.000Z</updated>
+        <summary type="html"><![CDATA[米SECが仮想通貨XRPとドージコインに連動する現物ETF審査を6月中旬まで延期。専門家は年内第4四半期までさらなる延期を予想する中、ナスダックが新たに21SharesのドージコインETF上場許可を申請した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[なぜブラックロックはイーサリアムを選ぶのか｜RWA分野での優位性]]></title>
         <id>https://crypto-times.jp/?p=134457</id>
@@ -1470,27 +1480,6 @@ Japan Crypto Snapshot 2025年4月（vol.5）【bitbank Ventures】 first appeare
 投稿 ビットコイン、2030年に150万ドル到達か｜資金流入で爆上げシナリオ は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北朝鮮のハッカー集団、アメリカにダミー企業を設立していた──暗号資産開発者にマルウェアを配布]]></title>
-        <id>https://www.coindeskjapan.com/?p=289273</id>
-        <link href="https://www.coindeskjapan.com/289273/"/>
-        <updated>2025-04-25T08:25:00.000Z</updated>
-        <summary type="html"><![CDATA[北朝鮮のハッカーがアメリカ人テクノロジー起業家を装い、ニューヨークとニューメキシコで企業を密かに設立した。これは、暗号資産（仮想通貨）業界の開発者を標的とした作 ...
-北朝鮮のハッカー集団、アメリカにダミー企業を設立していた──暗号資産開発者にマルウェアを配布 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米CME Group、「XRP」先物取引を5/19ローンチへ]]></title>
-        <id>https://www.neweconomy.jp/?p=468025</id>
-        <link href="https://www.neweconomy.jp/posts/468025"/>
-        <updated>2025-04-25T08:23:08.000Z</updated>
-        <summary type="html"><![CDATA[CME GroupがXRP先物を5/19ローンチへ 北米最大の金融・商品デリバティブ取引市場であるCMEグループ（CME Group）で、暗号資産（仮想通貨）エックスアールピー（XRP）の先物取引が5月19日に開始される […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
 </feed>

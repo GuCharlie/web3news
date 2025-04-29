@@ -355,36 +355,6 @@
           "wordCount": 1279,
           "title": "エルサルバドルの暗号資産規制当局トップが米SECと会談──「非常に新鮮だった」",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/ccb773b6fd35d7adf4faade19d83ce386595b847-3059x1721-1-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=289360",
-          "author": "栃山直樹",
-          "description": "日経新聞グループで金融情報サービスを提供するQUICKは4月25日、国内市場における円建てビットコイン（BTC）取引価格を基にした暗号資産ベンチマーク「QUIC ...\nQUICK、円建てビットコイン指数の試験提供を開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/289360/",
-          "publishedOn": "2025-04-25T11:09:26.000Z",
-          "wordCount": 1250,
-          "title": "QUICK、円建てビットコイン指数の試験提供を開始",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/shutterstock_2246342051.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=289334",
-          "author": "松田康生",
-          "description": "本稿ではビットコイン相場を①パターン分析 ②移動平均線（9MA・25MA） ③一目均衡表 ④ボリンジャーバンド ⑤MACD ⑥RSIの代表的な6種類のテクニカル ...\nマトリックス法によるテクニカル分析（2025/4/25）あと一歩でトレンド転換が鮮明に【楽天ウォレット】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/289334/",
-          "publishedOn": "2025-04-25T11:04:22.000Z",
-          "wordCount": 1319,
-          "title": "マトリックス法によるテクニカル分析（2025/4/25）あと一歩でトレンド転換が鮮明に【楽天ウォレット】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/tr-thumb_250425.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=289331",
-          "author": "林 理南",
-          "description": "大手ヘッジファンドであるブリッジウォーター・アソシエイツ（Bridgewater Associates）の元CEO、デイブ・マコーミック（Dave McCorm ...\n元ブリッジウォーターCEOのマコーミック上院議員、法案策定中にビットコイン投資を拡大 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/289331/",
-          "publishedOn": "2025-04-25T11:00:00.000Z",
-          "wordCount": 1305,
-          "title": "元ブリッジウォーターCEOのマコーミック上院議員、法案策定中にビットコイン投資を拡大",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/8574684b81351f620b72924b0ff878efc4c91e4c-1167x656-1.jpg"
         }
       ]
     },
@@ -1088,6 +1058,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bunq-europe-second-largest-neobank-expands-crypto",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "欧州第2位のネオバンクであるオランダのBunqが仮想通貨サービスに参入した。世界的に個人投資家によるデジタル資産への関心が高まっていることを背景としている。",
+          "link": "https://jp.cointelegraph.com/news/bunq-europe-second-largest-neobank-expands-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-29T23:03:00.000Z",
+          "wordCount": null,
+          "title": "欧州第2位のネオバンクBunq、仮想通貨分野に進出",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQ3NTMtOTQ1MC03OTRjLWFkNzktYWUyY2Y5N2NjZWM2.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQ3NTMtOTQ1MC03OTRjLWFkNzktYWUyY2Y5N2NjZWM2.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/nasdaq-files-list-21-shares-dogecoin-etf",
+          "author": "Cointelegraph  Alex O’Donnell",
+          "description": "米国の取引所ナスダックは、人気のミームコインであるドージコイン（DOGE）を組み込んだ21シェアーズの上場投資信託（ETF）の上場許可を規制当局に申請したことが、提出書類から明らかになった。",
+          "link": "https://jp.cointelegraph.com/news/nasdaq-files-list-21-shares-dogecoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-29T22:55:00.000Z",
+          "wordCount": null,
+          "title": "ナスダック、21シェアーズのドージコインETF上場を申請",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTVmNGEtYzE2ZC03NjdhLWFiMmEtNmRmZWRjYmM2NDM1.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTVmNGEtYzE2ZC03NjdhLWFiMmEtNmRmZWRjYmM2NDM1.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/ray-dalio-global-monetary-order-on-brink-breakdown",
           "author": "Cointelegraph  Brayden Lindrea",

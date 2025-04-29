@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-29T23:14:08.620Z</updated>
+    <updated>2025-04-29T23:36:56.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「トランプ大統領がビットコイン準備金に取り組むのは関税問題解決と停戦の後」米商務長官が説明]]></title>
+        <id>https://coinpost.jp/?p=612153</id>
+        <link href="https://coinpost.jp/?p=612153"/>
+        <updated>2025-04-29T23:20:00.000Z</updated>
+        <summary type="html"><![CDATA[米商務長官はビットコイン・マガジンの独自取材に応じ、ビットコイン準備金などの仮想通貨政策の見通しについて話した。トランプ大統領は現在、貿易政策と停戦に集中していると説明している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧州第2位のネオバンクBunq、仮想通貨分野に進出]]></title>
         <id>https://jp.cointelegraph.com/news/bunq-europe-second-largest-neobank-expands-crypto</id>
@@ -24,6 +34,16 @@
         <summary type="html"><![CDATA[米国の取引所ナスダックは、人気のミームコインであるドージコイン（DOGE）を組み込んだ21シェアーズの上場投資信託（ETF）の上場許可を規制当局に申請したことが、提出書類から明らかになった。]]></summary>
         <author>
             <name>Cointelegraph  Alex O’Donnell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クジラ投資家が70億円相当のイーサリアムを蓄積、ETF資金流入も継続]]></title>
+        <id>https://coinpost.jp/?p=612158</id>
+        <link href="https://coinpost.jp/?p=612158"/>
+        <updated>2025-04-29T22:45:27.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨分析サイトLookonchainによると、カンバーランドが70億円相当のイーサリアムを取引所から引き出し蓄積を開始。一方でギャラクシー・デジタルは60億円相当を売却。現物ETFへの資金流入も継続する中、機関投資家の動向に注目が集まる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -440,6 +460,16 @@ SIGN、アップビット上場で60%上昇──バイナンスではスロー�
         <summary type="html"><![CDATA[Loopscaleから580万ドル相当の資金が不正流出 Solana（ソラナ）ベースの分散型金融（DeFi）プロトコル「Loopscale（ループスケール）」が約580万ドル（約8億9,000万円）の資金流出被害を受けた […]]]></summary>
         <author>
             <name>TamuraSeiji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ステーブルコイン「USDC」の買い方と特徴｜SBI VCトレードでの購入方法を解説]]></title>
+        <id>https://coinpost.jp/?p=598359</id>
+        <link href="https://coinpost.jp/?p=598359"/>
+        <updated>2025-04-28T09:30:49.000Z</updated>
+        <summary type="html"><![CDATA[USDCの運用方法を徹底解説。DeFiレンディングプラットフォームでの利回り獲得から、DEXでの流動性提供、資産管理のコツまで、USDCを最大限に活用するための実践的なガイドをお届けします。初心者から上級者まで必見。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
         </author>
     </entry>
     <entry>

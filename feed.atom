@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-29T19:35:43.721Z</updated>
+    <updated>2025-04-29T20:17:22.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
@@ -820,6 +820,16 @@ Chart of the Week：トランプ大統領の関税戦争、ビットコインの
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sui（スイ）ブロックチェーンのDEX「Cetus AMM」の使い方、ウォレット準備から取引まで]]></title>
+        <id>https://coinpost.jp/?p=611249</id>
+        <link href="https://coinpost.jp/?p=611249"/>
+        <updated>2025-04-27T01:00:40.000Z</updated>
+        <summary type="html"><![CDATA[Suiブロックチェーン上の主要DEX「Cetus AMM」の使い方を解説。OKJでのSUI購入からウォレット設定、Walrus（WAL）を想定した、トークンスワップの使い方まで初心者にもわかりやすく紹介します。]]></summary>
+        <author>
+            <name>M.Somekawa</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[クジラが勢いを回復、ビットコイン上昇を支える：オンチェーンデータ]]></title>
         <id>https://www.coindeskjapan.com/?p=289460</id>
         <link href="https://www.coindeskjapan.com/289460/"/>
@@ -1481,99 +1491,6 @@ Japan Crypto Snapshot 2025年4月（vol.5）【bitbank Ventures】 first appeare
         <summary type="html"><![CDATA[CME GroupがXRP先物を5/19ローンチへ 北米最大の金融・商品デリバティブ取引市場であるCMEグループ（CME Group）で、暗号資産（仮想通貨）エックスアールピー（XRP）の先物取引が5月19日に開始される […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「マイケル・セイラーがビットコインの半分を保有しても問題なし」 『ビットコイン・スタンダード』著者が懸念を一蹴]]></title>
-        <id>https://jp.cointelegraph.com/news/michael-saylor-strategy-10-million-bitcoin-hold-no-risks-bitcoin-standard-author</id>
-        <link href="https://jp.cointelegraph.com/news/michael-saylor-strategy-10-million-bitcoin-hold-no-risks-bitcoin-standard-author?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-25T08:15:00.000Z</updated>
-        <summary type="html"><![CDATA[『ビットコイン・スタンダード』の著者であるサイファディーン・アモウズ氏は、仮にマイケル・セイラー氏がビットコイン（BTC）の総供給量の約48％を保有したとしても、ビットコインのプロトコルや価格にリスクをもたらすことはないとの見解を示した。]]></summary>
-        <author>
-            <name>Cointelegraph  Ciaran Lyons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「マイケル・セイラーがビットコインの半分を保有しても問題なし」 『ビットコイン・スタンダード』著者が懸念を一蹴]]></title>
-        <id>https://jp.cointelegraph.com/news/michael-saylor-strategy-10-million-bitcoin-hold-no-risks-bitcoin-standard-author</id>
-        <link href="https://jp.cointelegraph.com/news/michael-saylor-strategy-10-million-bitcoin-hold-no-risks-bitcoin-standard-author?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-25T08:15:00.000Z</updated>
-        <summary type="html"><![CDATA[『ビットコイン・スタンダード』の著者であるサイファディーン・アモウズ氏は、仮にマイケル・セイラー氏がビットコイン（BTC）の総供給量の約48％を保有したとしても、ビットコインのプロトコルや価格にリスクをもたらすことはないとの見解を示した。]]></summary>
-        <author>
-            <name>Cointelegraph  Ciaran Lyons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインは9万ドル以上を維持　市場心理が2カ月ぶりの高水準に　一方で持続性に疑念も]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-price-90k-hold-crypto-market-sentiment-slipping-analyst-doubts</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-price-90k-hold-crypto-market-sentiment-slipping-analyst-doubts?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-25T08:05:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）が数日間にわたり9万ドルを上回る水準を維持したことで、仮想通貨市場の投資家心理は4月23日に2カ月ぶりのピークに達した。しかし、その後は上昇の持続性に対する懸念が強まり、やや冷え込みつつある。]]></summary>
-        <author>
-            <name>Cointelegraph  Ciaran Lyons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインは9万ドル以上を維持　市場心理が2カ月ぶりの高水準に　一方で持続性に疑念も]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-price-90k-hold-crypto-market-sentiment-slipping-analyst-doubts</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-price-90k-hold-crypto-market-sentiment-slipping-analyst-doubts?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-25T08:05:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）が数日間にわたり9万ドルを上回る水準を維持したことで、仮想通貨市場の投資家心理は4月23日に2カ月ぶりのピークに達した。しかし、その後は上昇の持続性に対する懸念が強まり、やや冷え込みつつある。]]></summary>
-        <author>
-            <name>Cointelegraph  Ciaran Lyons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年の米暗号資産詐欺被害は93億ドル：FBI]]></title>
-        <id>https://www.coindeskjapan.com/?p=289232</id>
-        <link href="https://www.coindeskjapan.com/289232/"/>
-        <updated>2025-04-25T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[FBI（連邦捜査局）のインターネット犯罪苦情センター（IC3：Internet Crime Complaint Center）の報告書によると、2024年にアメ ...
-2024年の米暗号資産詐欺被害は93億ドル：FBI first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC、仮想通貨ETFの判断を相次ぎ延期｜6月に注目集まる]]></title>
-        <id>https://crypto-times.jp/?p=134259</id>
-        <link href="https://crypto-times.jp/news-sec-crypto-etf-delay/"/>
-        <updated>2025-04-25T07:54:09.000Z</updated>
-        <summary type="html"><![CDATA[米国の証券取引委員会 (SEC) は、複数の仮想通貨に関連する上場投資信託 (ETF) の上場および取引に関する判断を延期する決定を下しました。 SECは、グレースケール社によるポルカドット信託（Grayscale Po […]
-投稿 SEC、仮想通貨ETFの判断を相次ぎ延期｜6月に注目集まる は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCは揉み合い継続　関税交渉巡り米中の主張が相違【ビットバンク仮想通貨分析】]]></title>
-        <id>https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0425</id>
-        <link href="https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0425?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-25T07:52:00.000Z</updated>
-        <summary type="html"><![CDATA[24日のビットコイン（BTC）円は1344万1224円から取引が始まった。]]></summary>
-        <author>
-            <name>Cointelegraph  ビットバンク　長谷川友哉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCは揉み合い継続　関税交渉巡り米中の主張が相違【ビットバンク仮想通貨分析】]]></title>
-        <id>https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0425</id>
-        <link href="https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0425?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-25T07:52:00.000Z</updated>
-        <summary type="html"><![CDATA[24日のビットコイン（BTC）円は1344万1224円から取引が始まった。]]></summary>
-        <author>
-            <name>Cointelegraph  ビットバンク　長谷川友哉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインオプションによると、トレーダーの短期的な目標は9万5000ドル]]></title>
-        <id>https://www.coindeskjapan.com/?p=289245</id>
-        <link href="https://www.coindeskjapan.com/289245/"/>
-        <updated>2025-04-25T07:40:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）の主要銘柄は、過去24時間でほぼ横ばいの動きを示した。市場は前日の急騰が落ち着き、週前半分の利益確定売りが進んだためだ。ビットコイン（BTC ...
-ビットコインオプションによると、トレーダーの短期的な目標は9万5000ドル first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>

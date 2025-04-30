@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-30T13:43:41.098Z</updated>
+    <updated>2025-04-30T14:15:07.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SEC、PayPalのステーブルコイン「PYUSD」調査を執行措置なしで終了]]></title>
+        <id>https://crypto-times.jp/?p=134512</id>
+        <link href="https://crypto-times.jp/news-sec-closes-pyusd-investigation-without-enforcement-action/"/>
+        <updated>2025-04-30T13:59:16.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会（SEC）は、決済大手PayPalのドル連動ステーブルコイン「PYUSD」に関する調査を、執行措置を取らずに正式に終了しました。これはPayPalの最新の四半期報告書で明らかになったもので、2023年11 […]
+投稿 SEC、PayPalのステーブルコイン「PYUSD」調査を執行措置なしで終了 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブラックロック、1500億ドルMMFにブロックチェーン株式クラス導入か]]></title>
         <id>https://crypto-times.jp/?p=134509</id>
@@ -2154,16 +2165,6 @@ SBINFT、代表取締役が異動──SBI VCトレードの近藤氏が就任�
         <summary type="html"><![CDATA[ジョージア州代表のオソフ上院議員がトランプ大統領のTRUMPコイン保有者向け晩餐会を「弾劾に値する犯罪」と批判。上位220名の保有者を招待する計画に対し、民主党議員からは利益相反の懸念が高まり、SECへの調査要請も行われている。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ストラテジー社によるビットコイン寡占は深刻なリスクにならず」──『ビットコイン・スタンダード』著者見解]]></title>
-        <id>https://coinpost.jp/?p=611599</id>
-        <link href="https://coinpost.jp/?p=611599"/>
-        <updated>2025-04-26T01:45:15.000Z</updated>
-        <summary type="html"><![CDATA[サイフェディアン・アモウズ氏が、企業によるビットコイン寡占リスクについて見解を示した。トランプ関税政策を批判し、ビットコインによる米国債務問題の解決策についても言及している。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>

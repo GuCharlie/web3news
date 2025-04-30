@@ -475,6 +475,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=612517",
+          "author": "菊谷ルイス",
+          "description": "トランプ大統領の次男エリック氏がCNBCで現代金融システムを強く批判。自身の銀行口座解約体験から仮想通貨の重要性に目覚め、ブロックチェーン技術が従来の銀行システムを変革し10年以内に適応できない銀行は消滅すると警告。",
+          "link": "https://coinpost.jp/?p=612517",
+          "publishedOn": "2025-04-30T21:55:56.000Z",
+          "wordCount": 3152,
+          "title": "エリック・トランプ氏「10年以内に銀行は消滅」、仮想通貨普及が時代遅れの金融システムを変革",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/trump-son-bitcoin-mining.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/trump-son-bitcoin-mining.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=612513",
           "author": "菊谷ルイス",
           "description": "トランプ政権の仮想通貨担当高官が「可能な限りビットコインを取得したい」と再度発言。関税収入や金証書再評価などの「創造的な方法」でビットコイン準備金構築を模索している。",
@@ -1283,6 +1298,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/vitalik-shares-ethereum-vision-as-addresses-hit-record-high",
+          "author": "Cointelegraph  Adrian Zmudzinski",
+          "description": "イーサリアム共同創設者のヴィタリック・ブテリン氏が、イーサリアムの将来的な発展に向けての自身の考えを改めて示した。",
+          "link": "https://jp.cointelegraph.com/news/vitalik-shares-ethereum-vision-as-addresses-hit-record-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-30T21:50:00.000Z",
+          "wordCount": null,
+          "title": "ヴィタリック・ブテリン氏、2025年のイーサリアム開発の重点課題を公開",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDdhNjItMWY1Ny03YmZhLWJmZjYtNWZmMjA2YzIxZWYz.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDdhNjItMWY1Ny03YmZhLWJmZjYtNWZmMjA2YzIxZWYz.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/price-predictions-4-30-btc-eth-xrp-bnb-sol-doge-ada-sui-link-avax",
           "author": "Cointelegraph  Rakesh Upadhyay",
@@ -2504,26 +2534,6 @@
           "wordCount": 627,
           "title": "FRBの発表はガス抜き？米議員「暗号資産への真の障壁は残る」と撤回策を酷評",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_222294475.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=134314",
-          "author": "Crypto Troll",
-          "description": "スイス国立銀行（SNB）は、高まるビットコイン（BTC）を外貨準備に加えるよう求める声に対し、暗号資産は同行の準備資産としての要件を満たさないとして、改めて否定的な見解を示しました。 ベルンで開催されたSNBの年次株主総 […]\n投稿 スイス国立銀行「ビットコインの外貨準備採用は時期尚早」 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-swiss-national-bank-its-too-early-to-include-bitcoin-in-foreign-exchange-reserves/",
-          "publishedOn": "2025-04-26T10:12:47.000Z",
-          "wordCount": 583,
-          "title": "スイス国立銀行「ビットコインの外貨準備採用は時期尚早」",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_1110008579.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=134309",
-          "author": "Crypto Troll",
-          "description": "ステーブルコインUSDCの発行元であるCircle社は、同社が米国の銀行ライセンス申請を計画しているとの一部報道を明確に否定しました。 @circle does not intend to become a bank o […]\n投稿 USDC発行Circle社、銀行ライセンス申請報道を「明確に否定」 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-circle-categorically-denies-reports-its-applying-for-a-banking-license/",
-          "publishedOn": "2025-04-26T09:52:07.000Z",
-          "wordCount": 649,
-          "title": "USDC発行Circle社、銀行ライセンス申請報道を「明確に否定」",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_1231334707.jpg"
         }
       ]
     }

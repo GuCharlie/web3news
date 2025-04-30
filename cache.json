@@ -1072,6 +1072,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=468734",
+          "author": "OtsugaShinya",
+          "description": "Fusakaアップグレードは今年後半の実装か 5月7日実施予定のイーサリアム（Ethereum）の大型アップグレード「ペクトラ（Pectra）」の次のアップグレードとなる「フサカ（Fusaka）」は、今年後半となる第3四 […]",
+          "link": "https://www.neweconomy.jp/posts/468734",
+          "publishedOn": "2025-04-30T07:05:43.000Z",
+          "wordCount": 676,
+          "title": "イーサリアム次期アップグレード「Fusaka」は今年後半の実装目標、EOFは除外決定",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/30160532/7f67e7c72f9ef97c510614f8b7691e86.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=468724",
           "author": "gentosha_takahashi",
           "description": "国民の力が7大暗号資産政策を発表 韓国の与党「国民の力」は、選挙で勝利した場合、暗号資産（仮想通貨）現物ETFの承認と、「1取引所-1銀行」原則の撤廃を公約した。現地紙「イーデイリー」が4月28日に報じている。 報道によ […]",
@@ -1348,6 +1358,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/sec-drops-investigation-into-paypal-s-stablecoin",
+          "author": "Cointelegraph  Martin Young",
+          "description": "ペイパルによれば、米証券取引委員会（SEC）が同社の米ドル建てステーブルコイン「ペイパルUSD（PYUSD）」に対する調査を終了し、法的措置を取らない方針を示した。",
+          "link": "https://jp.cointelegraph.com/news/sec-drops-investigation-into-paypal-s-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-04-30T06:29:00.000Z",
+          "wordCount": null,
+          "title": "米証券取引委員会　ペイパルのステーブルコインに対するの調査を終了　PYUSD普及拡大に向けた提携も加速",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWVkNGMtYTg1YS03M2I5LWJhZWEtMmFkOTI4MmRmZTZk.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWVkNGMtYTg1YS03M2I5LWJhZWEtMmFkOTI4MmRmZTZk.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0430",
           "author": "Cointelegraph  コインテレグラフジャパン寄稿者",

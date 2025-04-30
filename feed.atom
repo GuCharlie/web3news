@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-30T06:48:57.459Z</updated>
+    <updated>2025-04-30T07:15:09.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム次期アップグレード「Fusaka」は今年後半の実装目標、EOFは除外決定]]></title>
+        <id>https://www.neweconomy.jp/?p=468734</id>
+        <link href="https://www.neweconomy.jp/posts/468734"/>
+        <updated>2025-04-30T07:05:43.000Z</updated>
+        <summary type="html"><![CDATA[Fusakaアップグレードは今年後半の実装か 5月7日実施予定のイーサリアム（Ethereum）の大型アップグレード「ペクトラ（Pectra）」の次のアップグレードとなる「フサカ（Fusaka）」は、今年後半となる第3四 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ginco、「東京都カーボンクレジットマーケット」のブロックチェーン活用を支援]]></title>
         <id>https://www.coindeskjapan.com/?p=289958</id>
@@ -26,6 +36,16 @@ Ginco、「東京都カーボンクレジットマーケット」のブロック
 投稿 $TRUMPインサイダー売りか？2000万ドル相当が取引所へ｜価格急落の裏側に迫る は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Troll</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米証券取引委員会　ペイパルのステーブルコインに対するの調査を終了　PYUSD普及拡大に向けた提携も加速]]></title>
+        <id>https://jp.cointelegraph.com/news/sec-drops-investigation-into-paypal-s-stablecoin</id>
+        <link href="https://jp.cointelegraph.com/news/sec-drops-investigation-into-paypal-s-stablecoin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-04-30T06:29:00.000Z</updated>
+        <summary type="html"><![CDATA[ペイパルによれば、米証券取引委員会（SEC）が同社の米ドル建てステーブルコイン「ペイパルUSD（PYUSD）」に対する調査を終了し、法的措置を取らない方針を示した。]]></summary>
+        <author>
+            <name>Cointelegraph  Martin Young</name>
         </author>
     </entry>
     <entry>

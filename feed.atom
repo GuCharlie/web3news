@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-01T22:40:48.806Z</updated>
+    <updated>2025-05-01T23:14:46.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン高騰に株式市場が追随、仮想通貨の「デカップリング」神話に終止符]]></title>
+        <id>https://jp.cointelegraph.com/news/crypto-decoupling-story-ends-as-stocks-follow-bitcoin-s-rally</id>
+        <link href="https://jp.cointelegraph.com/news/crypto-decoupling-story-ends-as-stocks-follow-bitcoin-s-rally?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-01T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨トレーダーの間では、暗号資産が株式市場から明確に「デカップリング」する必要性がしばしば強調されてきたが、過去10日間において、ビットコイン（BTC）および主要アルトコインの日中の値動きは、米S&P500と密接に連動しており、貿易戦争の展開が市場心理を支配する中でもその傾向が続いている。]]></summary>
+        <author>
+            <name>Cointelegraph  Marcel Pechman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、9万7000ドル突破──ストラテジーは増資の憶測の中、決算発表を前に株が今年最高値を更新]]></title>
+        <id>https://www.coindeskjapan.com/?p=290596</id>
+        <link href="https://www.coindeskjapan.com/290596/"/>
+        <updated>2025-05-01T22:58:07.000Z</updated>
+        <summary type="html"><![CDATA[トランプ米大統領による解放の日の関税発表後に発生したパニックは薄れ続けており、ビットコインと米国の主要株価平均は新たに急上昇している。 当記事執筆時点のビットコ ...
+ビットコイン、9万7000ドル突破──ストラテジーは増資の憶測の中、決算発表を前に株が今年最高値を更新 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Tom Carreras</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米大手金融参入が加速　モルガン・スタンレー、『E*Trade』で仮想通貨取引サービス提供へ]]></title>
+        <id>https://coinpost.jp/?p=612858</id>
+        <link href="https://coinpost.jp/?p=612858"/>
+        <updated>2025-05-01T22:55:51.000Z</updated>
+        <summary type="html"><![CDATA[モルガン・スタンレーがE*Trade顧客向け仮想通貨取引サービスを2026年に開始予定。トランプ政権の規制緩和を受け、チャールズ・シュワブも参入を表明。米金融大手の仮想通貨市場進出が本格化に。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マンゴー・マーケッツの流出犯、児童性的虐待に関する罪で禁錮4年超の判決]]></title>
+        <id>https://jp.cointelegraph.com/news/mango-markets-avraham-eisenberg-sentenced-child</id>
+        <link href="https://jp.cointelegraph.com/news/mango-markets-avraham-eisenberg-sentenced-child?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-01T22:49:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年に分散型取引所マンゴー・マーケッツ（Mango Markets）から約1億ドルを引き出したアブラハム・アイゼンバーグ氏が、児童性的虐待資料（CSAM）に関連する罪で禁錮4年以上の刑を言い渡された。]]></summary>
+        <author>
+            <name>Cointelegraph  Turner Wright and Vince Quill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4000億円規模の不動産をトークン化　UAE大手MAG、マルチバンク・グループらとRWA商品提供へ]]></title>
         <id>https://coinpost.jp/?p=612835</id>
@@ -2604,28 +2645,6 @@ Chart of the Week：トランプ大統領の関税戦争、ビットコインの
 トランプ大統領のミームコイン「TRUMP」、1週間で85%値上がり──大規模なアンロックや民主党員からの弾劾要求にもかかわらず first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>T. Minamoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なぜ今ビットコインなのか？ウォール街のベテランが指摘する金融秩序の転換点]]></title>
-        <id>https://crypto-times.jp/?p=134377</id>
-        <link href="https://crypto-times.jp/news-why-bitcoin-now/"/>
-        <updated>2025-04-27T11:01:32.000Z</updated>
-        <summary type="html"><![CDATA[米国を中心に金融市場が新たな局面を迎える中、暗号資産であるビットコインに対する注目が再び高まっています。 30年以上のウォール街での経験を持つマクロ投資家ジョルディ・ヴィサー氏は、現在の状況を将来的にビットコインが金融シ […]
-投稿 なぜ今ビットコインなのか？ウォール街のベテランが指摘する金融秩序の転換点 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCC取引所、2025年第1四半期で驚異的な成長を達成：過去最高の取引高8,150億ドル、ユーザー保護の強化、さらにユーザー中心の取り組みを推進]]></title>
-        <id>https://crypto-times.jp/?p=134378</id>
-        <link href="https://crypto-times.jp/press-btcc-2025-q1/"/>
-        <updated>2025-04-27T10:46:31.000Z</updated>
-        <summary type="html"><![CDATA[Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 2025年4月24日、暗号資産取引所BTCCは、2025年第1四半期に […]
-投稿 BTCC取引所、2025年第1四半期で驚異的な成長を達成：過去最高の取引高8,150億ドル、ユーザー保護の強化、さらにユーザー中心の取り組みを推進 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-02T20:39:37.815Z</updated>
+    <updated>2025-05-02T21:14:06.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google、ウォレットにブロックチェーン技術を導入──ユーザーがデータ共有なしで年齢証明可能に]]></title>
+        <id>https://www.coindeskjapan.com/?p=290832</id>
+        <link href="https://www.coindeskjapan.com/290832/"/>
+        <updated>2025-05-02T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[発表によると、Googleは年齢確認にゼロ知識証明（ZKP）技術を採用したプライバシー重視のアップグレードを自社のウォレットサービスに実施している。 同社による ...
+Google、ウォレットにブロックチェーン技術を導入──ユーザーがデータ共有なしで年齢証明可能に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所クーコイン　韓国市場への再参入を検討　新CEOがコメント]]></title>
+        <id>https://jp.cointelegraph.com/news/kucoin-ceo-south-korea-plans-compliance-challenges-token2049</id>
+        <link href="https://jp.cointelegraph.com/news/kucoin-ceo-south-korea-plans-compliance-challenges-token2049?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-02T20:55:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所クーコインは、韓国で同社のプラットフォームがブロック措置を受けた後も、韓国市場への再参入を視野に入れている。]]></summary>
+        <author>
+            <name>Cointelegraph  Ezra Reguerra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインは9万7000ドル突破　米雇用統計発表を受けて数カ月ぶり高値に]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-hits-10-week-high-trump-demands-rate-cut-on-us-jobs-beat</id>

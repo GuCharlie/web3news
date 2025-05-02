@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=290844",
+          "author": "林 理南",
+          "description": "暗号資産取引所クラーケン（Kraken）は、2025年第1四半期の収益が4億7200万ドル（約684億円、1ドル145円換算）で、暗号資産（仮想通貨）市場の軟化 ...\nクラーケン、第1四半期収益は19%増の4億7200万ドル──取引高は29%増加 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/290844/",
+          "publishedOn": "2025-05-02T21:30:00.000Z",
+          "wordCount": 1268,
+          "title": "クラーケン、第1四半期収益は19%増の4億7200万ドル──取引高は29%増加",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/d5431dca55b1d200b874251f094539a4c2d41736-1920x1280-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=290832",
           "author": "林 理南",
           "description": "発表によると、Googleは年齢確認にゼロ知識証明（ZKP）技術を採用したプライバシー重視のアップグレードを自社のウォレットサービスに実施している。 同社による ...\nGoogle、ウォレットにブロックチェーン技術を導入──ユーザーがデータ共有なしで年齢証明可能に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -610,16 +620,6 @@
           "wordCount": 1245,
           "title": "「進撃の巨人」とカメラNFT「SNPIT」がコラボ──人気IP×Web3活発化",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/47553-149-4d159676b899516a6df909.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=289668",
-          "author": "CoinDesk JAPAN",
-          "description": "Xアカウントへの不正ログインにより、全サービスを停止していたコインチェックがサービスを順次再開している。 コインチェックは「当社Xアカウントへの不正ログインに伴 ...\nコインチェック、サービスを順次再開 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/289668/",
-          "publishedOn": "2025-04-28T09:27:35.000Z",
-          "wordCount": 1247,
-          "title": "コインチェック、サービスを順次再開",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/FAQ_お問い合わせ.jpg"
         }
       ]
     },
@@ -634,6 +634,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=613020",
+          "author": "菊谷ルイス",
+          "description": "Appleが米国App Storeのガイドラインを更新し、開発者が外部決済サイトへのリンクやボタンを含めることを許可。NFTコレクション閲覧アプリにも規制緩和の影響が及ぶ。",
+          "link": "https://coinpost.jp/?p=613020",
+          "publishedOn": "2025-05-02T21:25:19.000Z",
+          "wordCount": 3158,
+          "title": "Apple、NFT購入ルールを緩和",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/apple-intel.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/apple-intel.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=613013",
+          "author": "菊谷ルイス",
+          "description": "セイラー会長率いるストラテジー社が2027年までのビットコイン取得資金の調達目標を12兆円に倍増。時価評価導入で42億ドルの純損失計上も、株式・債券発行拡大で約55.4万BTCの保有をさらに拡大へ。",
+          "link": "https://coinpost.jp/?p=613013",
+          "publishedOn": "2025-05-02T21:00:21.000Z",
+          "wordCount": 3168,
+          "title": "マイケル・セイラー率いるストラテジー社、ビットコイン投資資金を12兆円に倍増へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/microstra.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/microstra.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=596418",
           "author": "CoinPost編集部",
@@ -1503,21 +1533,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-2.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-2.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=598359",
-          "author": "AKIRA.H",
-          "description": "USDCの運用方法を徹底解説。DeFiレンディングプラットフォームでの利回り獲得から、DEXでの流動性提供、資産管理のコツまで、USDCを最大限に活用するための実践的なガイドをお届けします。初心者から上級者まで必見。",
-          "link": "https://coinpost.jp/?p=598359",
-          "publishedOn": "2025-04-28T09:30:49.000Z",
-          "wordCount": 2454,
-          "title": "ステーブルコイン「USDC」の買い方と特徴｜SBI VCトレードでの購入方法を解説",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/USDC_0929221.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/USDC_0929221.jpg"
         }
       ]
     },
@@ -1975,16 +1990,6 @@
           "wordCount": 778,
           "title": "SuiのバーチャルMastercardがローンチ、　欧州から利用可能に",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/28191444/d855e80db3a8e0be52c119e2659dd868.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=468427",
-          "author": "TamuraSeiji",
-          "description": "Loopscaleから580万ドル相当の資金が不正流出 Solana（ソラナ）ベースの分散型金融（DeFi）プロトコル「Loopscale（ループスケール）」が約580万ドル（約8億9,000万円）の資金流出被害を受けた […]",
-          "link": "https://www.neweconomy.jp/posts/468427",
-          "publishedOn": "2025-04-28T09:34:36.000Z",
-          "wordCount": 771,
-          "title": "ソラナのDeFi「Loopscale」、約5.8Mドルの不正流出被害、ローンチ後2週間で発生",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/28183432/613d0ddb645aa75f10dea9232ec2b018.jpg"
         }
       ]
     },
@@ -2952,36 +2957,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjdkODYtM2JiZi03MDg1LThiOGQtYWQ5MzkwZTFmYjdl.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0428",
-          "author": "Cointelegraph  ビットバンク　長谷川友哉",
-          "description": "21日〜27日のビットコイン（BTC）対円相場の週足終値は、前週比142万1435円（11.77%）高の1349万8760円と3週続伸した。",
-          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0428?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-04-28T09:24:00.000Z",
-          "wordCount": null,
-          "title": "BTC週足は10%超の上昇　相場トレンドは「中立水準」で分岐点に【ビットバンク仮想通貨分析】",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMjhhNzQ0ZjQyMWJjYjlmNzYwMmM4N2MxYzI3MWIwZC5qcGc=.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMjhhNzQ0ZjQyMWJjYjlmNzYwMmM4N2MxYzI3MWIwZC5qcGc=.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0428",
-          "author": "Cointelegraph  ビットバンク　長谷川友哉",
-          "description": "21日〜27日のビットコイン（BTC）対円相場の週足終値は、前週比142万1435円（11.77%）高の1349万8760円と3週続伸した。",
-          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0428?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-04-28T09:24:00.000Z",
-          "wordCount": null,
-          "title": "BTC週足は10%超の上昇　相場トレンドは「中立水準」で分岐点に【ビットバンク仮想通貨分析】",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMjhhNzQ0ZjQyMWJjYjlmNzYwMmM4N2MxYzI3MWIwZC5qcGc=.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMjhhNzQ0ZjQyMWJjYjlmNzYwMmM4N2MxYzI3MWIwZC5qcGc=.jpg"
         }
       ]
     },

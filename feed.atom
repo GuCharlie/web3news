@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-02T15:39:07.829Z</updated>
+    <updated>2025-05-02T16:19:07.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[XRP 3.75ドルまで上昇するか　テクニカルパターンは70％上昇を示唆]]></title>
+        <id>https://jp.cointelegraph.com/news/xrp-moon-soon-strongest-spot-premium-aligns-with-70-rally-setup</id>
+        <link href="https://jp.cointelegraph.com/news/xrp-moon-soon-strongest-spot-premium-aligns-with-70-rally-setup?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-02T15:40:00.000Z</updated>
+        <summary type="html"><![CDATA[XRP（XRP）は現在、スポット市場が恒常的に先物価格を上回る「スポット・プレミアム」の状態が史上最も長く続いている。この現象は、永久先物よりもスポット価格が堅調に推移していることを意味し、投機ではなく実需による上昇が進行中である可能性を示唆している。]]></summary>
+        <author>
+            <name>Cointelegraph  Yashu Gola</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フランクミュラー、Solanaモデルの限定版腕時計をリリースへ]]></title>
         <id>https://www.neweconomy.jp/?p=469415</id>
@@ -2902,36 +2912,6 @@ SIGN、アップビット上場で60%上昇──バイナンスではスロー�
         <summary type="html"><![CDATA[リミックスポイントが新たに10億円相当の暗号資産を購入へ 東証スタンダード上場企業のリミックスポイントが、新たに10億円相当となる暗号資産（仮想通貨）を追加購入する決議をしたことを4月24日に発表した。 発表によると購入 […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【フィッシング注意】コインチェック、公式Xの不正ログイン確認で全サービス一時停止に]]></title>
-        <id>https://www.neweconomy.jp/?p=468230</id>
-        <link href="https://www.neweconomy.jp/posts/468230"/>
-        <updated>2025-04-28T04:04:27.000Z</updated>
-        <summary type="html"><![CDATA[コインチェックが全サービスを一時停止に 国内暗号資産（仮想通貨）取引所コインチェックが、同社公式Xアカウント「@coincheckjp」が第三者からの不正ログインを受けて、全サービスを一時停止したことを4月28日12:2 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインチェックのXに不正ログイン　全サービスを一時停止]]></title>
-        <id>https://jp.cointelegraph.com/news/unauthorized-login-to-coincheck-x-account-temporary-suspension-of-all-services</id>
-        <link href="https://jp.cointelegraph.com/news/unauthorized-login-to-coincheck-x-account-temporary-suspension-of-all-services?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-28T03:52:00.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所コインチェックは4月28日、Xアカウント「coincheckjp」が同日午前8時から不正ログインされていることが判明したと明らかにした。]]></summary>
-        <author>
-            <name>Cointelegraph  コインテレグラフ日本版編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインチェックのXに不正ログイン　全サービスを一時停止]]></title>
-        <id>https://jp.cointelegraph.com/news/unauthorized-login-to-coincheck-x-account-temporary-suspension-of-all-services</id>
-        <link href="https://jp.cointelegraph.com/news/unauthorized-login-to-coincheck-x-account-temporary-suspension-of-all-services?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-28T03:52:00.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所コインチェックは4月28日、Xアカウント「coincheckjp」が同日午前8時から不正ログインされていることが判明したと明らかにした。]]></summary>
-        <author>
-            <name>Cointelegraph  コインテレグラフ日本版編集部</name>
         </author>
     </entry>
 </feed>

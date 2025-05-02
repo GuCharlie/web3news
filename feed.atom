@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-02T17:38:40.198Z</updated>
+    <updated>2025-05-02T18:20:52.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは9万7000ドル突破　米雇用統計発表を受けて数カ月ぶり高値に]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-hits-10-week-high-trump-demands-rate-cut-on-us-jobs-beat</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-hits-10-week-high-trump-demands-rate-cut-on-us-jobs-beat?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-02T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は、5月2日の米国市場の取引開始後に数カ月ぶりの高値を更新した。米国の非農業部門雇用者数（NFP）が予想を上回る内容となったことが影響したようだ。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4月米雇用統計、予想を上回る17万7000人の雇用増]]></title>
         <id>https://www.coindeskjapan.com/?p=290798</id>
@@ -2811,57 +2821,6 @@ SIGN、アップビット上場で60%上昇──バイナンスではスロー�
         <summary type="html"><![CDATA[本日のBTC市場は底堅い展開が予想される。]]></summary>
         <author>
             <name>Cointelegraph  コインテレグラフジャパン寄稿者</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ProShares、XRP連動のレバレッジ型とインバース型先物ETFを4/30公開へ]]></title>
-        <id>https://www.neweconomy.jp/?p=468298</id>
-        <link href="https://www.neweconomy.jp/posts/468298"/>
-        <updated>2025-04-28T06:13:41.000Z</updated>
-        <summary type="html"><![CDATA[ProSharesがXRP先物ETFを4/30公開へ 米資産運用会社プロシェアーズ（ProShares）が、暗号資産（仮想通貨）エックスアールピー（XRP）の価格に連動するレバレッジ型およびインバース型の先物ETF（上場 […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プロシェアーズ、SECから3つのXRP ETFの承認を獲得]]></title>
-        <id>https://www.coindeskjapan.com/?p=289622</id>
-        <link href="https://www.coindeskjapan.com/289622/"/>
-        <updated>2025-04-28T06:05:57.000Z</updated>
-        <summary type="html"><![CDATA[ETF（上場投資信託）発行企業のプロシェアーズ（ProShares）は、米証券取引委員会（SEC）の黙示的な承認を得て、今週、エックス・アール・ピー（XRP）を ...
-プロシェアーズ、SECから3つのXRP ETFの承認を獲得 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaMask、イーサリアムのガストークンにETH以外を選択可能に]]></title>
-        <id>https://www.neweconomy.jp/?p=468297</id>
-        <link href="https://www.neweconomy.jp/posts/468297"/>
-        <updated>2025-04-28T06:01:02.000Z</updated>
-        <summary type="html"><![CDATA[MetaMaskのイーサリアムの取引でガストークン選択可能に web3ウォレット「メタマスク（MetaMask）」によるイーサリアム（Ethereum）上の取引において、取引手数料として利用するトークンを選択できるように […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USDCの運用方法とは？DeFi・CEXで利回りを得るステーブルコイン活用術を解説]]></title>
-        <id>https://coinpost.jp/?p=591246</id>
-        <link href="https://coinpost.jp/?p=591246"/>
-        <updated>2025-04-28T06:00:11.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）USDCを使った運用方法を解説。DeFiやCEXでの利回り獲得法、流動性提供、リスク管理まで初心者にもわかりやすく紹介します。]]></summary>
-        <author>
-            <name>A.Yoshida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインチェック、公式Xの不正ログイン対処完了、サービス再開へ]]></title>
-        <id>https://www.neweconomy.jp/?p=468285</id>
-        <link href="https://www.neweconomy.jp/posts/468285"/>
-        <updated>2025-04-28T05:43:54.000Z</updated>
-        <summary type="html"><![CDATA[コインチェック公式Xの不正ログインへの対処完了 国内暗号資産（仮想通貨）取引所コインチェックが、同社公式Xアカウント「@coincheckjp」の第三者からの不正ログインへの対処を完了したと、4月28日14:30頃報告し […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>

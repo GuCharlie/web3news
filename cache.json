@@ -645,6 +645,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=612960",
+          "author": "幸田直子",
+          "description": "マイケル・エリスCIA副長官がビットコインの戦略的役割について、法執行機関による犯罪追跡ツールとしての可能性や国際的な技術競争における重要性を語った。",
+          "link": "https://coinpost.jp/?p=612960",
+          "publishedOn": "2025-05-02T07:30:25.000Z",
+          "wordCount": 3184,
+          "title": "CIA副長官「ビットコインは捜査・諜報活動にも有効」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/block-bitcoin-sales.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/block-bitcoin-sales.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=612934",
           "author": "A.Yamada",
           "description": "仮想通貨イーサリアムの開発者らが、新トークン標準ERC7930とERC7828を導入しようとしている。相互運用性向上によりクロスチェーン環境の安全性とUX改善を目指すものだ。",
@@ -3230,6 +3245,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=134584",
+          "author": "Crypto Troll",
+          "description": "大手ビットコインマイニング企業ライオット社は5月1日、2025年第1四半期の決算を発表しました。収益は前年同期比で倍増と大幅な成長を見せたものの、純損失を計上しました。同社は現在、ビットコインマイニング事業に加え、AIお […]\n投稿 マイニング大手ライオット、ビットコインからAIへ転換加速か｜Q1決算報告 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-riot-accelerates-shift-from-bitcoin-to-ai/",
+          "publishedOn": "2025-05-02T07:30:11.000Z",
+          "wordCount": 590,
+          "title": "マイニング大手ライオット、ビットコインからAIへ転換加速か｜Q1決算報告",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2537620697.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=134615",
           "author": "Crypto Troll",

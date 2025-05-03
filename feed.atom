@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-03T02:47:38.843Z</updated>
+    <updated>2025-05-03T06:20:03.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米上院、ステーブルコイン規制案審議を加速　トランプ関連コイン批判も]]></title>
+        <id>https://coinpost.jp/?p=613085</id>
+        <link href="https://coinpost.jp/?p=613085"/>
+        <updated>2025-05-03T05:30:07.000Z</updated>
+        <summary type="html"><![CDATA[米上院議員らがステーブルコイン規制法案「GENIUS」の採決迅速化手続きを開始した。一方で、民主党からはトランプ関連ステーブルコインへの懸念の声も上がっている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン反落、BTC準備金法案をアリゾナ州知事が拒否]]></title>
+        <id>https://coinpost.jp/?p=612107</id>
+        <link href="https://coinpost.jp/?p=612107"/>
+        <updated>2025-05-03T04:10:09.000Z</updated>
+        <summary type="html"><![CDATA[米アリゾナの州知事が仮想通貨ビットコイン準備金関連法案SB1025に拒否権を行使。州の公的退職年金システムへのデジタル資産投資権限付与は見送られたが、デジタル資産戦略準備金基金の設立を目指すSB1373はまだ知事の署名を待っている状態である。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは国家安全保障の問題だ　CIA副長官がビットコイン支持者のポッドキャストに出演]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-matter-national-security-deputy-cia-director</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-matter-national-security-deputy-cia-director?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-03T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米中央情報局（CIA）がビットコイン（BTC）を業務に積極的に取り入れつつあり、仮想通貨は国家安全保障上の問題だと、CIAのマイケル・エリス副長官がポッドキャストで語った。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン 市場心理はなお慎重姿勢？ ETF資金流入と米中関係が鍵に]]></title>
+        <id>https://jp.cointelegraph.com/news/stars-align-for-bitcoin-rally-to-100-k-but-futures-traders-exercise-caution-here-s-why</id>
+        <link href="https://jp.cointelegraph.com/news/stars-align-for-bitcoin-rally-to-100-k-but-futures-traders-exercise-caution-here-s-why?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-03T03:10:00.000Z</updated>
+        <summary type="html"><![CDATA[5月1日、ビットコイン（BTC）は9万3000ドルから9万5600ドルの狭い取引レンジを6日間維持した後、ついにブレイクアウトを果たし、BTC価格は過去10週間で最高値となる9万7930ドルに達した。しかし、BTCデリバティブ指標によれば市場心理は依然として中立のままとなっている。]]></summary>
+        <author>
+            <name>Cointelegraph  Marcel Pechman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン　100日以内に過去最高値13万5000ドルに到達か　VIX低下とステーブルコイン拡大が後押し]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-data-macroeconomic-charts-point-to-new-btc-all-time-high-in-100-days-analysts</id>

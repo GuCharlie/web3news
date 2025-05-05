@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-05T10:43:57.005Z</updated>
+    <updated>2025-05-05T11:13:01.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1万XRPの手数料表示？ Ripple CTOがウォレット不具合巡る憶測に説明]]></title>
+        <id>https://crypto-times.jp/?p=134686</id>
+        <link href="https://crypto-times.jp/news-ripple-cto-explains-speculation-over-wallet-glitches/"/>
+        <updated>2025-05-05T10:46:46.000Z</updated>
+        <summary type="html"><![CDATA[最近、XRP Ledger上で発生したウォレットの不具合が、XRPコミュニティ内で混乱と様々な憶測を呼びましたが、リップル社のCTO（最高技術責任者）でありXRP Ledgerの設計者でもあるデビッド・シュワルツ氏が状況 […]
+投稿 1万XRPの手数料表示？ Ripple CTOがウォレット不具合巡る憶測に説明 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Troll</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ルミス議員「ビットコイン法こそ米国の債務危機を解消可能する唯一の手段だ」]]></title>
+        <id>https://coinpost.jp/?p=613376</id>
+        <link href="https://coinpost.jp/?p=613376"/>
+        <updated>2025-05-05T09:45:48.000Z</updated>
+        <summary type="html"><![CDATA[シンシア・ルミス米上院議員が36兆ドルの国家債務の解決策としてビットコイン法を提唱した。トランプ大統領による支持に言及すると同時に、現在米国の債務危機が深刻化していることに警鐘を鳴らした。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン9万4000ドル超で推移──市場は米中貿易協議の進展を待つ]]></title>
         <id>https://www.coindeskjapan.com/?p=290986</id>
@@ -1959,37 +1980,6 @@ Zaifカード いまだけ10倍！ビットコイン還元【キャンペーン�
         <summary type="html"><![CDATA[仮想通貨取引所BitMEXのアーサー・ヘイズ元CEOは、ビットコインの価格は2028年までに100万ドルに到達する可能性があると強気な見方を示した。根拠も概説している。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン弱気相場脱却に成功か、ステーブルコイン流動性が過去最高に　クリプトクアント週間分析]]></title>
-        <id>https://coinpost.jp/?p=612532</id>
-        <link href="https://coinpost.jp/?p=612532"/>
-        <updated>2025-04-30T23:05:45.000Z</updated>
-        <summary type="html"><![CDATA[クリプトクアントの最新レポートによると、ステーブルコイン市場の流動性が過去最高の2200億ドルに達し、弱気だった仮想通貨市場に好影響を与えた。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グレースケール、ビットコイン保有企業に連動する新ETFを発表]]></title>
-        <id>https://jp.cointelegraph.com/news/grayscale-launches-grayscale-bitcoin-adopters-etf</id>
-        <link href="https://jp.cointelegraph.com/news/grayscale-launches-grayscale-bitcoin-adopters-etf?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-30T22:55:00.000Z</updated>
-        <summary type="html"><![CDATA[資産運用会社グレースケールは、ビットコイン（BTC）を財務戦略として保有する企業に連動する新たな上場投資信託（ETF）「グレースケール・ビットコイン・アダプターズETF」を発表した。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産、株とともに反発]]></title>
-        <id>https://www.coindeskjapan.com/?p=290095</id>
-        <link href="https://www.coindeskjapan.com/290095/"/>
-        <updated>2025-04-30T22:47:23.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産は4月30日、少し乱高下したが、市場の大半は非常に狭いレンジで取引されるという数週間のトレンドを継続した。 米国株式市場での取引終了直後、ビットコインは ...
-暗号資産、株とともに反発 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Tom Carreras</name>
         </author>
     </entry>
 </feed>

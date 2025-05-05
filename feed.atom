@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-05T02:56:52.363Z</updated>
+    <updated>2025-05-05T06:23:29.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「米国政府によるビットコインの追加購入は考えにくい」アーサー・ヘイズが見解示す]]></title>
+        <id>https://coinpost.jp/?p=613360</id>
+        <link href="https://coinpost.jp/?p=613360"/>
+        <updated>2025-05-05T03:30:29.000Z</updated>
+        <summary type="html"><![CDATA[米トランプ政権のビットコイン準備金政策について、元BitMEX CEOのアーサー・ヘイズ氏が見解を示した。イーサリアムなどアルトコイン市場の見通しについても発言している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米アリゾナ州のビットコイン法案、議員は再提出の意向示す]]></title>
+        <id>https://coinpost.jp/?p=613328</id>
+        <link href="https://coinpost.jp/?p=613328"/>
+        <updated>2025-05-05T03:16:25.000Z</updated>
+        <summary type="html"><![CDATA[アリゾナ州知事がビットコイン法案に拒否権を行使したことを受けて、ロジャーズ議員は再提出の意向を示した。仮想通貨コミュニティからも知事への反論が続出している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chart of the Week：ビットコインの「10倍の資金倍増効果」、ウォール街を席巻するか]]></title>
         <id>https://www.coindeskjapan.com/?p=290955</id>
@@ -2050,16 +2070,6 @@ Zaifカード いまだけ10倍！ビットコイン還元【キャンペーン�
         <summary type="html"><![CDATA[4月30日、ビットコイン（BTC）の価格は一時9万3000ドルを下回った。これは、米国の国内総生産（GDP）速報値が2025年第1四半期に−0.3％と、市場予想の＋0.3％を大きく下回る結果となったことを受けた動きだ。一方で、GDPデフレーターは3.7％と2023年8月以来の高水準となった。]]></summary>
         <author>
             <name>Cointelegraph  Biraajmaan Tamuly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン 「2028年までに100万ドル到達」　アーサー・ヘイズ氏が強気予測]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-volatility-563-day-low-hayes-predicts-1-m-btc-2028</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-volatility-563-day-low-hayes-predicts-1-m-btc-2028?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-04-30T15:05:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は、世界的な金融資産としての成熟の兆しを見せている。K33リサーチの調査責任者ヴェトレ・ルンデ氏によると、2024年4月30日時点でビットコインの週間ボラティリティは563日ぶりの低水準を記録したという。]]></summary>
-        <author>
-            <name>Cointelegraph  Zoltan Vardai</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-05T14:15:53.953Z</updated>
+    <updated>2025-05-05T14:43:48.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マイケル・セイラーのストラテジー社、260億円相当のビットコインを追加購入]]></title>
+        <id>https://coinpost.jp/?p=613391</id>
+        <link href="https://coinpost.jp/?p=613391"/>
+        <updated>2025-05-05T14:25:01.000Z</updated>
+        <summary type="html"><![CDATA[セイラー氏率いるストラテジー社は5月5日、1,895BTCのビットコインを追加購入したと発表した。購入額は約260億円に相当。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[オンチェーン資産運用のリーディングカンパニーMaple Finance、10億ドルのTVL達成を記念して50万ドルのインセンティブ・プログラムを開始]]></title>
         <id>https://crypto-times.jp/?p=134679</id>
@@ -1914,16 +1924,6 @@ Zaifカード いまだけ10倍！ビットコイン還元【キャンペーン�
         <summary type="html"><![CDATA[米国初のビットコインETF承認の影響でBTC価格が過去最高値を更新し、仮想通貨投資による資産運用の注目度が急上昇しています。本記事では初心者向けに高騰するイーサリアム（ETH）の買い方、アルトコイン投資のメリットやデメリット、リスクなどを解説しています。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UFO伝説の米ロズウェル市、全米初の自治体ビットコイン準備金を設立]]></title>
-        <id>https://coinpost.jp/?p=612586</id>
-        <link href="https://coinpost.jp/?p=612586"/>
-        <updated>2025-05-01T02:25:00.000Z</updated>
-        <summary type="html"><![CDATA[UFO目撃事件で有名となった米国のロズウェル市が3000ドル相当のビットコイン寄付を受け入れ、米国初となる自治体レベルのビットコイン戦略的準備金を設立した。この動きはアリゾナ州の州レベル準備金法案に先行する形で実現し、自治体財務におけるビットコイン統合の先駆的事例として注目を集めている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

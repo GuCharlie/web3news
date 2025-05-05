@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-05T11:13:01.428Z</updated>
+    <updated>2025-05-05T11:35:50.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナ、トークン規格の重大な脆弱性を秘密裏に修正｜対応に賛否も]]></title>
+        <id>https://crypto-times.jp/?p=134692</id>
+        <link href="https://crypto-times.jp/news-solana-secretly-fixes-critical-vulnerability-in-token-standard/"/>
+        <updated>2025-05-05T11:30:14.000Z</updated>
+        <summary type="html"><![CDATA[ソラナ財団は、同ブロックチェーンのトークン規格「Token-2022」に存在した重大な脆弱性を、2025年4月中に秘密裏に修正していたことを明らかにしました。この脆弱性は、悪用されれば無制限のトークン発行や不正な資金引き […]
+投稿 ソラナ、トークン規格の重大な脆弱性を秘密裏に修正｜対応に賛否も は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Troll</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン反落、一時95,000ドル割れ｜米金利上昇が重しか]]></title>
+        <id>https://crypto-times.jp/?p=134693</id>
+        <link href="https://crypto-times.jp/news-bitcoin-falls-briefly-falling-below-95000/"/>
+        <updated>2025-05-05T11:14:23.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）価格は金曜日に付けた数ヶ月ぶりの高値97,000ドル超から反落し、5月5日の取引では一時95,000ドルを下回る水準まで下落しました。この背景には、米国の金融政策への懸念や原油価格の変動、地政学的な […]
+投稿 ビットコイン反落、一時95,000ドル割れ｜米金利上昇が重しか は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1万XRPの手数料表示？ Ripple CTOがウォレット不具合巡る憶測に説明]]></title>
         <id>https://crypto-times.jp/?p=134686</id>
@@ -1970,16 +1992,6 @@ Zaifカード いまだけ10倍！ビットコイン還元【キャンペーン�
         <summary type="html"><![CDATA[仮想通貨ビットコインは、2025年1〜3月期の米実質GDPが前期比年率0.3％減となったことを受け米経済の減速懸念が浮上し米株価指数の急落とともに下落した。今夜は米雇用統計が目玉材料となる。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年の25万ドル予想から4倍増に、アーサー・ヘイズ氏「ビットコインは3年後に100万ドル到達」]]></title>
-        <id>https://coinpost.jp/?p=612529</id>
-        <link href="https://coinpost.jp/?p=612529"/>
-        <updated>2025-04-30T23:20:10.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所BitMEXのアーサー・ヘイズ元CEOは、ビットコインの価格は2028年までに100万ドルに到達する可能性があると強気な見方を示した。根拠も概説している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>

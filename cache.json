@@ -1198,21 +1198,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=612529",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨取引所BitMEXのアーサー・ヘイズ元CEOは、ビットコインの価格は2028年までに100万ドルに到達する可能性があると強気な見方を示した。根拠も概説している。",
-          "link": "https://coinpost.jp/?p=612529",
-          "publishedOn": "2025-04-30T23:20:10.000Z",
-          "wordCount": 3175,
-          "title": "今年の25万ドル予想から4倍増に、アーサー・ヘイズ氏「ビットコインは3年後に100万ドル到達」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/bitcoin-bull-glassnode.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/bitcoin-bull-glassnode.jpg"
         }
       ]
     },
@@ -2050,6 +2035,26 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=134692",
+          "author": "Crypto Troll",
+          "description": "ソラナ財団は、同ブロックチェーンのトークン規格「Token-2022」に存在した重大な脆弱性を、2025年4月中に秘密裏に修正していたことを明らかにしました。この脆弱性は、悪用されれば無制限のトークン発行や不正な資金引き […]\n投稿 ソラナ、トークン規格の重大な脆弱性を秘密裏に修正｜対応に賛否も は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-solana-secretly-fixes-critical-vulnerability-in-token-standard/",
+          "publishedOn": "2025-05-05T11:30:14.000Z",
+          "wordCount": 590,
+          "title": "ソラナ、トークン規格の重大な脆弱性を秘密裏に修正｜対応に賛否も",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2435487347.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=134693",
+          "author": "Crypto Troll",
+          "description": "ビットコイン（BTC）価格は金曜日に付けた数ヶ月ぶりの高値97,000ドル超から反落し、5月5日の取引では一時95,000ドルを下回る水準まで下落しました。この背景には、米国の金融政策への懸念や原油価格の変動、地政学的な […]\n投稿 ビットコイン反落、一時95,000ドル割れ｜米金利上昇が重しか は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitcoin-falls-briefly-falling-below-95000/",
+          "publishedOn": "2025-05-05T11:14:23.000Z",
+          "wordCount": 586,
+          "title": "ビットコイン反落、一時95,000ドル割れ｜米金利上昇が重しか",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2482149401.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=134686",
           "author": "Crypto Troll",

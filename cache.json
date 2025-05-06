@@ -515,6 +515,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=613456",
+          "author": "幸田直子",
+          "description": "トランプ米大統領がNBCインタビューでTRUMPミームコインからの利益獲得を強く否定した。一方、トークン保有者向け晩餐会には倫理的懸念が高まり、強く批判されている。",
+          "link": "https://coinpost.jp/?p=613456",
+          "publishedOn": "2025-05-06T07:40:55.000Z",
+          "wordCount": 3195,
+          "title": "「金銭的利益を得ておらず」トランプ大統領、ミームコインでの収益疑惑を完全否定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/trump-not-selling-bitcoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/trump-not-selling-bitcoin.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=613440",
           "author": "A.Yamada",
           "description": "仮想通貨イーサリアム共同創設者のブテリン氏は、L2ロールアップの完全分散化に向けた課題を指摘。リスク分析を行い、証明システムの堅牢性強化が先決と述べている。",
@@ -1800,6 +1815,26 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=134728",
+          "author": "Crypto Troll",
+          "description": "ドナルド・トランプ前米大統領が、暗号資産（デジタル資産）に関連するディナーイベントを5月中に2件開催する予定であることが、利益相反の懸念を呼んでいます。 1つは、自身に関連するミームコイン「TRUMP」の上位保有者を招待 […]\n投稿 トランプ氏、暗号資産ディナー2件開催へ ｜利益相反と批判噴出、汚職リスク警戒も は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-trump-to-host-two-cryptocurrency-dinners/",
+          "publishedOn": "2025-05-06T08:21:13.000Z",
+          "wordCount": 603,
+          "title": "トランプ氏、暗号資産ディナー2件開催へ ｜利益相反と批判噴出、汚職リスク警戒も",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2589906687.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=134727",
+          "author": "Crypto Troll",
+          "description": "米国において、州の準備資産に暗号資産ビットコイン（BTC）を組み入れる動きが難航しています。フロリダ州議会は2025年5月3日の会期末をもって、公的資金の一部をビットコインに投資することを目指した2つの法案（HB 487 […]\n投稿 フロリダ州、ビットコイン準備資産法案を正式撤回｜各州に慎重姿勢広がる は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-florida-formally-withdraws-bitcoin-reserve-bill/",
+          "publishedOn": "2025-05-06T08:13:58.000Z",
+          "wordCount": 590,
+          "title": "フロリダ州、ビットコイン準備資産法案を正式撤回｜各州に慎重姿勢広がる",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2328012757.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=134726",
           "author": "Crypto Troll",

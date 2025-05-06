@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-06T21:14:27.425Z</updated>
+    <updated>2025-05-06T21:37:39.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BNB、2028年末までに2775ドルに達する可能性も：スタンダードチャータード]]></title>
+        <id>https://www.coindeskjapan.com/?p=291108</id>
+        <link href="https://www.coindeskjapan.com/291108/"/>
+        <updated>2025-05-06T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所バイナンス（Binance）が手がけるレイヤー1スマートコントラクトプラットフォーム「BNBチェーン」のネイティブトークンであるBNB ...
+BNB、2028年末までに2775ドルに達する可能性も：スタンダードチャータード first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Will Canny</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[まだクリプト？ 今すぐAIにピボットしよう]]></title>
         <id>https://www.coindeskjapan.com/?p=289717</id>
@@ -1270,16 +1281,6 @@ Google、ウォレットにブロックチェーン技術を導入──ユー�
         <summary type="html"><![CDATA[ビットコイン（BTC）マイニング企業ライオット・プラットフォームズは、2025年第1四半期において過去最高の四半期売上高を記録したものの、マイニングコストの急増により赤字を計上した。]]></summary>
         <author>
             <name>Cointelegraph  Ciaran Lyons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モルガン・スタンレー、Eトレードで仮想通貨の取引提供を計画か＝報道]]></title>
-        <id>https://jp.cointelegraph.com/news/morgan-stanley-etrade-crypto-trading-2026</id>
-        <link href="https://jp.cointelegraph.com/news/morgan-stanley-etrade-crypto-trading-2026?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-05-02T09:27:00.000Z</updated>
-        <summary type="html"><![CDATA[米金融大手モルガン・スタンレーが、同社の投資・取引プラットフォーム「Eトレード」において仮想通貨の取り扱いを開始する計画を進めていると報じられた。]]></summary>
-        <author>
-            <name>Cointelegraph  Adrian Zmudzinski</name>
         </author>
     </entry>
 </feed>

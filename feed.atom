@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-06T10:16:51.076Z</updated>
+    <updated>2025-05-06T10:43:39.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[株式・仮想通貨取引プラットフォームeToro、米国上場で最大5億ドルの調達目指す]]></title>
+        <id>https://jp.cointelegraph.com/news/etoro-us-ipo-4-billion-valuation-500-million-raise</id>
+        <link href="https://jp.cointelegraph.com/news/etoro-us-ipo-4-billion-valuation-500-million-raise?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-06T10:17:00.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルを拠点とするeToroグループが、米国での新規株式公開（IPO）により最大40億ドルの企業評価額を目指している。同社は、株式および仮想通貨取引プラットフォームとして、ナスダック市場への上場準備を進めている。]]></summary>
+        <author>
+            <name>Cointelegraph  Jesse Coghlan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「実用性のないトークン化は不要」 OKX中東CEOがRWAブームに警鐘　UAEでは規制整備進む]]></title>
         <id>https://jp.cointelegraph.com/news/okx-mena-ceo-rwa-tokenization-boom-token2049-dubai</id>
@@ -1811,36 +1821,6 @@ SOL、XRP、DOGEの現物ETF、数カ月以内にSECから承認の可能性：�
         <summary type="html"><![CDATA[2022年に分散型取引所マンゴー・マーケッツ（Mango Markets）から約1億ドルを引き出したアブラハム・アイゼンバーグ氏が、児童性的虐待資料（CSAM）に関連する罪で禁錮4年以上の刑を言い渡された。]]></summary>
         <author>
             <name>Cointelegraph  Turner Wright and Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4000億円規模の不動産をトークン化　UAE大手MAG、マルチバンク・グループらとRWA商品提供へ]]></title>
-        <id>https://coinpost.jp/?p=612835</id>
-        <link href="https://coinpost.jp/?p=612835"/>
-        <updated>2025-05-01T22:30:13.000Z</updated>
-        <summary type="html"><![CDATA[4000億円規模の不動産をトークン化するため、UAE大手MAG、マルチバンク・グループ、Mavrykが事業契約を締結。仮想通貨MBGを活用し、DeFiとも接続しながら、RWA商品を提供する。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ストラテジー、決算で年初来13.7%のビットコイン利回りを強調]]></title>
-        <id>https://jp.cointelegraph.com/news/strategy-touts-13-7-ytd-bitcoin-yield-in-earnings-print</id>
-        <link href="https://jp.cointelegraph.com/news/strategy-touts-13-7-ytd-bitcoin-yield-in-earnings-print?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-05-01T22:28:00.000Z</updated>
-        <summary type="html"><![CDATA[マイケル・セイラー氏率いるテック企業「ストラテジー（Strategy）」は、2025年5月1日に発表した決算報告において、年初来で13.7%のビットコイン（BTC）利回りを株主にもたらしたと明らかにした。]]></summary>
-        <author>
-            <name>Cointelegraph  Alex O’Donnell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUI（スイ）の現物ETF申請で価格急騰　21Sharesとの戦略的提携も発表]]></title>
-        <id>https://coinpost.jp/?p=612853</id>
-        <link href="https://coinpost.jp/?p=612853"/>
-        <updated>2025-05-01T22:25:34.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨SUIは過去1ヶ月で70%上昇。スイスの21Sharesが米SECにスイETFの申請を行い、戦略的パートナーシップを発表した。SUIへの機関投資家関心が高まっているところだ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

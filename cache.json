@@ -1083,21 +1083,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/strategy-up-3000.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/strategy-up-3000.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=612796",
-          "author": "菊谷ルイス",
-          "description": "ナスダック上場企業フレート・テクノロジーズが最大2000万ドルの転換社債を発行し、トランプ大統領発行のTRUMPトークンを企業戦略の柱に据えると発表。",
-          "link": "https://coinpost.jp/?p=612796",
-          "publishedOn": "2025-05-01T20:45:28.000Z",
-          "wordCount": 3174,
-          "title": "世界初のトランプコイン財務戦略採用で30億円調達へ、米上場企業フレート・テクノロジーズ社",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/TRUMP_0124.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/TRUMP_0124.jpg"
         }
       ]
     },
@@ -1283,6 +1268,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/us-treasury-issues-sanctions-burma-myanmar-militia-group-crypto-scams",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "米財務省は5月5日、ミャンマーの武装勢力であるカレン民族軍（KNA）を仮想通貨関連の詐欺行為などに関与したとして制裁対象に指定したと発表した。",
+          "link": "https://jp.cointelegraph.com/news/us-treasury-issues-sanctions-burma-myanmar-militia-group-crypto-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-06T08:05:00.000Z",
+          "wordCount": null,
+          "title": "ミャンマーの武装組織KNAに米財務省が制裁　仮想通貨詐欺と人身売買で制裁対象に",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmExY2YtNmFiMS03YTMwLTlhMTYtYmI2NDA1OGNkZTIz.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmExY2YtNmFiMS03YTMwLTlhMTYtYmI2NDA1OGNkZTIz.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-sell-off-to-93-5-k-is-a-brief-hiccup-data-still-supports-new-btc-highs-in-2025",
           "author": "Cointelegraph  Marcel Pechman",
@@ -1815,6 +1815,36 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=134776",
+          "author": "Crypto Troll",
+          "description": "分散型金融（DeFi）プロトコルのCurve Financeは、一時的にアクセスが失われていた公式Xアカウントについて、管理権を回復したと発表しました。 We are officially back. Special t […]\n投稿 Curve Finance、ハッキング被害疑いの公式Xアカウント管理権を回復 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-curve-finance-regains-control-of-official-x-account-after-alleged-hack/",
+          "publishedOn": "2025-05-06T08:44:12.000Z",
+          "wordCount": 638,
+          "title": "Curve Finance、ハッキング被害疑いの公式Xアカウント管理権を回復",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2154668657.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=134773",
+          "author": "Crypto Troll",
+          "description": "米国内国歳入庁（IRS）において、暗号資産の課税や法執行を監督する専門部門のトップが交代したことが、ブルームバーグ・タックスの報道により明らかになりました。 新たに責任者に就任したのは、IRSで20年以上の勤務経験を持つ […]\n投稿 IRS暗号資産課税・法執行はどう変わる？ 新トップにターナー氏就任、政権交代で方針転換の兆し は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-how-will-the-irs-change-cryptocurrency-taxation-and-enforcement/",
+          "publishedOn": "2025-05-06T08:31:46.000Z",
+          "wordCount": 594,
+          "title": "IRS暗号資産課税・法執行はどう変わる？ 新トップにターナー氏就任、政権交代で方針転換の兆し",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2262073555.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=134729",
+          "author": "Crypto Troll",
+          "description": "メラニア・トランプ米大統領夫人に関連するミームコイン「MELANIA」の発行・市場公開を巡り、インサイダー情報に基づくと見られる取引で一部関係者が巨額の利益を得た疑いがあると、英フィナンシャル・タイムズ（FT）紙が報じま […]\n投稿 メラニア・トランプ氏関連ミームコイン「MELANIA」でインサイダー疑惑｜1.5億ドル超の利益獲得か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-insider-trading-allegations-at-melania/",
+          "publishedOn": "2025-05-06T08:27:10.000Z",
+          "wordCount": 593,
+          "title": "メラニア・トランプ氏関連ミームコイン「MELANIA」でインサイダー疑惑｜1.5億ドル超の利益獲得か",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2453286477.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=134728",
           "author": "Crypto Troll",

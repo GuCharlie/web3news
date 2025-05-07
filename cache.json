@@ -475,6 +475,81 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=613858",
+          "author": "菊谷ルイス",
+          "description": "米通貨監督庁（OCC）が国法銀行と連邦貯蓄金融機関による仮想通貨カストディサービスの範囲を明確化。顧客指示による仮想通貨の売買や第三者へのサービス委託が正式に認められ、3月の「評判リスク」調査終了と合わせて規制緩和の動きが加速。",
+          "link": "https://coinpost.jp/?p=613858",
+          "publishedOn": "2025-05-07T22:35:03.000Z",
+          "wordCount": 3195,
+          "title": "米銀行への仮想通貨規制緩和、顧客指示での売買など可能に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-us-cant-find-out.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-us-cant-find-out.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=613848",
+          "author": "K.Kobayashi",
+          "description": "バイナンスは、ブータンがBinance Payを国家の観光産業の決済システムに導入したと発表。ユーザーはBNBやビットコインなど100種類以上の仮想通貨を旅行で利用できる。",
+          "link": "https://coinpost.jp/?p=613848",
+          "publishedOn": "2025-05-07T22:15:36.000Z",
+          "wordCount": 3216,
+          "title": "ブータン、国家の観光決済にバイナンスペイ導入　BNB・BTCなど100種類以上の仮想通貨に対応",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/Bhutan-Binance-Pay.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/Bhutan-Binance-Pay.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=613846",
+          "author": "菊谷ルイス",
+          "description": "米証券大手キャンター・フィッツジェラルドが保有株式の約40%をビットコイン保有企業ストラテジーに集中投資していることが判明。ラトニック米商務長官がCEOだった会社が示した大胆な投資戦略と、息子ブランドン氏率いる新会社による4.2万BTCの取得計画が市場に与える影響に注目が集まる。",
+          "link": "https://coinpost.jp/?p=613846",
+          "publishedOn": "2025-05-07T22:00:14.000Z",
+          "wordCount": 3209,
+          "title": "米金融大手キャンター、ビットコイン関連のストラテジーに資産の約40%集中投資　4Qデータ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/microstrategy-back-in-action-_.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/microstrategy-back-in-action-_.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=613830",
+          "author": "菊谷ルイス",
+          "description": "K33のアナリストが伝統的格言「セル・イン・メイ」に反し「5月に保有して留まれ」戦略を推奨。トランプ大統領の戦略的ビットコイン準備金創設など仮想通貨政策が追い風となり、夏相場に向けビットコインの相対的強さが予想される。",
+          "link": "https://coinpost.jp/?p=613830",
+          "publishedOn": "2025-05-07T20:55:17.000Z",
+          "wordCount": 3210,
+          "title": "「5月は売らずに保有せよ」、K33がビットコインの夏相場を強気予測",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/bitcoin-2025-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/bitcoin-2025-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=613822",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨イーサリアムがメインネットで歴史的アップグレード「ペクトラ」を実装。2022年のマージ以来最重要とされるこの更新は、EIP数で史上最大規模となった。",
+          "link": "https://coinpost.jp/?p=613822",
+          "publishedOn": "2025-05-07T20:35:17.000Z",
+          "wordCount": 3194,
+          "title": "イーサリアム、マージ以来最大のアップグレードを実装完了",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/EthereumMining1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/EthereumMining1.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=611956",
           "author": "Ritsuki.Kumazawa",
           "description": "東京・四谷にビットコイン特化型施設「Tokyo Bitcoin Base」がオープンした。4階建て1300平米の空間に、サトシ・ナカモト像が設置され、シェアオフィスやイベントスペースを備えたビットコイナーの交流拠点および教育施設としての役割を目指す。",
@@ -998,6 +1073,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/stripe-announces-stablecoin-financial-accounts",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "グローバル決済プラットフォームのストライプが、100ヵ国以上のクライアントにステーブルコインベースの口座を導入した。",
+          "link": "https://jp.cointelegraph.com/news/stripe-announces-stablecoin-financial-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-07T22:54:00.000Z",
+          "wordCount": null,
+          "title": "ストライプ、100ヵ国以上にステーブルコイン口座を提供開始",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmFjNmUtMzRiMS03M2QxLTgxZGYtZWU2NTc1YWFiZTA3.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmFjNmUtMzRiMS03M2QxLTgxZGYtZWU2NTc1YWFiZTA3.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/strive-to-become-bitcoin-treasury-company",
+          "author": "Cointelegraph  Alex O’Donnell",
+          "description": "起業家で元大統領候補のヴィヴェック・ラマスワミー氏が創設したストライブ・アセット・マネジメントが、ビットコイン財務会社への転換計画を明らかにした。",
+          "link": "https://jp.cointelegraph.com/news/strive-to-become-bitcoin-treasury-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-07T22:48:00.000Z",
+          "wordCount": null,
+          "title": "ストライブ、ビットコイン財務会社へ転換へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmFiNjMtYjI4Yi03OWFlLWIwMjQtNjFjMWJkZDFkMzcy.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmFiNjMtYjI4Yi03OWFlLWIwMjQtNjFjMWJkZDFkMzcy.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-1b-daily-realized-profits-signal-late-stage-bull-market",
+          "author": "Cointelegraph  William Suberg",
+          "description": "5月8日のブログ記事「Quicktake」で、オンチェーン分析プラットフォームのクリプトクオントはBTC投資家間での実現利益の上昇を指摘した。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-1b-daily-realized-profits-signal-late-stage-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-07T22:33:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン、1日10億ドルの実現利益は「強気相場の後期段階」を示す",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGZlOTEtYTY3Yi03Y2EyLWFkNDItYmM5ZDZmMzUzODNk.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGZlOTEtYTY3Yi03Y2EyLWFkNDItYmM5ZDZmMzUzODNk.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bybit-recovers-liquidity-30-days-after-hack",
           "author": "Cointelegraph  Vince Quill",

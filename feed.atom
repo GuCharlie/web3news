@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-07T22:15:15.744Z</updated>
+    <updated>2025-05-07T22:41:30.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイビット、2月のハッキングから30日で流動性を回復]]></title>
+        <id>https://jp.cointelegraph.com/news/bybit-recovers-liquidity-30-days-after-hack</id>
+        <link href="https://jp.cointelegraph.com/news/bybit-recovers-liquidity-30-days-after-hack?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-07T22:26:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所バイビット（Bybit）は、2025年2月に発生した約15億ドル相当のハッキング被害から30日で流動性を回復した。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10万ドルの回復なるか　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ]]></title>
+        <id>https://jp.cointelegraph.com/news/price-predictions-5-7-btc-eth-xrp-bnb-sol-doge-ada-sui-link-avax</id>
+        <link href="https://jp.cointelegraph.com/news/price-predictions-5-7-btc-eth-xrp-bnb-sol-doge-ada-sui-link-avax?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-07T21:56:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインが下値圏から反発したことで、10万ドルまでの上昇の可能性が高まっている。]]></summary>
+        <author>
+            <name>Cointelegraph  Rakesh Upadhyay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビザ、ブロックチェーン決済企業BVNKへの投資でステーブルコインにさらに肩入れ]]></title>
         <id>https://www.coindeskjapan.com/?p=291310</id>

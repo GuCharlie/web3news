@@ -1212,6 +1212,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=469967",
+          "author": "HitomotoToshikazu",
+          "description": "Stripeがステーブルコイン金融口座を提供開始 決済インフラ提供の米ストライプ（Stripe）が、ステーブルコイン残高を活用して世界101カ国で資金の送受信を行える機能「ステーブルコイン金融口座（Stablecoin  […]",
+          "link": "https://www.neweconomy.jp/posts/469967",
+          "publishedOn": "2025-05-08T07:53:17.000Z",
+          "wordCount": 633,
+          "title": "米ストライプ、101カ国対応の「ステーブルコイン金融口座」提供開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/08165259/53f5a72dccc799d0910674715cfc746f.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=469957",
           "author": "NewEconomy",
           "description": "GateがドバイでVASPライセンス取得 海外暗号資産（仮想通貨）取引所Gate.io（ゲート）のドバイ法人Gate Dubai（ゲートドバイ）が、同国の規制当局であるドバイ暗号資産規制機関（Dubai Virtual  […]",
@@ -1408,6 +1418,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0508",
+          "author": "Cointelegraph  ビットバンク　長谷川友哉",
+          "description": "7日のビットコイン（BTC）円は1388万2250円から取引が始まった。前日の相場上昇の反動で東京時間は上下に振れる展開となり、プラス圏とマイナス圏を行き来した。",
+          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0508?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-08T08:14:00.000Z",
+          "wordCount": null,
+          "title": "BTCはFOMC通過後に反発　米州で新たに仮想通貨準備金法が成立【ビットバンク仮想通貨分析】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jY2RkZjRmZDA1YjlkMTc4MDVkNzJkM2M5ZGIwMTRjZS5qcGc=.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jY2RkZjRmZDA1YjlkMTc4MDVkNzJkM2M5ZGIwMTRjZS5qcGc=.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/g7-summit-could-discuss-north-korea-crypto-hacks-bloomberg",
           "author": "Cointelegraph  Martin Young",

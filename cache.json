@@ -590,16 +590,6 @@
           "wordCount": 1317,
           "title": "DeFi（分散型金融）とは【GWに学ぶ基礎知識】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/05/shutterstock_2027959100.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=290864",
-          "author": "増田隆幸",
-          "description": "イーサリアムは、時価総額第2位の暗号資産（仮想通貨）であり、伝統的投資家にとってDeFi（分散型金融）への玄関口となる。だが、メインストリームへの普及には成長ス ...\nイーサリアムはまた特別な存在か／ビットコインは低ベータ資産へと進化【日曜日に読みたい厳選10本】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/290864/",
-          "publishedOn": "2025-05-03T23:00:00.000Z",
-          "wordCount": 1270,
-          "title": "イーサリアムはまた特別な存在か／ビットコインは低ベータ資産へと進化【日曜日に読みたい厳選10本】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/shutterstock_395413507.jpg"
         }
       ]
     },
@@ -1266,6 +1256,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=469965",
+          "author": "NewEconomyPodcast",
+          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/469965",
+          "publishedOn": "2025-05-08T11:00:31.000Z",
+          "wordCount": 639,
+          "title": "【5/8話題】イーサリアムのPectraがメインネット実装、リミックスポイントがバリデーター事業参入など（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/08181424/7b2b2ad996b2b0cedc690f2a0a45d4e9.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=469967",
           "author": "HitomotoToshikazu",
@@ -2057,21 +2057,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NjljNmMtMjIwZC03OWI5LTk4ZGMtMzZkOWE0NDVmYTVj.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/deribit-us-expansion-trump-crypto-regulation",
-          "author": "Cointelegraph  Amin Haqshanas",
-          "description": "フィナンシャル・タイムズ（FT）によれば、世界最大の仮想通貨オプション取引所であるデリビットが、トランプ政権下で仮想通貨に対する規制姿勢が軟化しつつあることを受け、米国市場への参入を検討している。",
-          "link": "https://jp.cointelegraph.com/news/deribit-us-expansion-trump-crypto-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-05-03T22:55:00.000Z",
-          "wordCount": null,
-          "title": "仮想通貨オプション取引所デリビット　米国市場参入を検討　トランプ政権下の規制緩和を受け",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5Njk1YmEtMzI3YS03NDI1LTlhMjktYTM3YzlhNWFhYTAy.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5Njk1YmEtMzI3YS03NDI1LTlhMjktYTM3YzlhNWFhYTAy.jpg"
         }
       ]
     },
@@ -2080,6 +2065,26 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=134907",
+          "author": "Crypto Troll",
+          "description": "スコット・ベッセント財務長官は、デジタル資産セクター、特にステーブルコインの成長により、米国政府債務に対する需要が今後数年間で2兆ドル規模に達する可能性があるとの見通しを示しました。これは、世界金融システムに関する下院金 […]\n投稿 米財務長官「ステーブルコインが米国債需要2兆ドル生む」衝撃予測 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-us-treasury-secretary-stablecoins-will-create-2-trillion-in-demand-for-us-treasuries/",
+          "publishedOn": "2025-05-08T10:54:22.000Z",
+          "wordCount": 583,
+          "title": "米財務長官「ステーブルコインが米国債需要2兆ドル生む」衝撃予測",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2598232503.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=134923",
+          "author": "Crypto Troll",
+          "description": "ブラックロックが米国証券取引委員会（SEC）に提出した最新の四半期報告書によると、同社のビットコイン現物ETF「iShares Bitcoin Trust（IBIT）」は、2025年第1四半期にスポンサー手数料として3, […]\n投稿 ブラックロックIBIT、BTC価格下落で純資産減も資金流入は堅調｜Q1報告 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-blackrock-ibit-sees-strong-inflows-despite-decline-in-net-assets-due-to-btc-price-drop/",
+          "publishedOn": "2025-05-08T10:47:30.000Z",
+          "wordCount": 589,
+          "title": "ブラックロックIBIT、BTC価格下落で純資産減も資金流入は堅調｜Q1報告",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2318769247.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=134924",
           "author": "Crypto Troll",

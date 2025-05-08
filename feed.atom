@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-08T22:40:51.041Z</updated>
+    <updated>2025-05-08T23:15:21.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メタ、ステーブルコインによる支払い統合を検討＝報道]]></title>
+        <id>https://jp.cointelegraph.com/news/meta-exploring-stablecoin-integration-payouts</id>
+        <link href="https://jp.cointelegraph.com/news/meta-exploring-stablecoin-integration-payouts?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-08T22:50:00.000Z</updated>
+        <summary type="html"><![CDATA[米メディア「フォーチュン」が関係者の話として報じたところによると、テクノロジー大手メタ（旧フェイスブック）が、ステーブルコイン決済の自社プラットフォームへの統合を検討しているという。メタが仮想通貨に関与するのは約3年ぶりとなる。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインベース、デリビット買収合意　時価総額1兆ドルへ成長の可能性]]></title>
+        <id>https://coinpost.jp/?p=614215</id>
+        <link href="https://coinpost.jp/?p=614215"/>
+        <updated>2025-05-08T22:40:37.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所コインベースは、デリバティブ大手Deribitの買収で合意したと発表。買収金額、今後の目標、デリビットCEOのコメントなどを公表した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米ステーブルコイン法案が否決、民主党が反発]]></title>
+        <id>https://jp.cointelegraph.com/news/us-genius-stablecoin-act-fails-to-pass-cloture-by-to-vote</id>
+        <link href="https://jp.cointelegraph.com/news/us-genius-stablecoin-act-fails-to-pass-cloture-by-to-vote?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-08T22:36:00.000Z</updated>
+        <summary type="html"><![CDATA[米国におけるステーブルコイン規制に向けた法案「2025年全米ステーブルコイン国家的イノベーション指針および確立法（GENIUS法案）」は、5月8日に米上院での討議終結（クロージャー）投票で否決され、国内の仮想通貨規制にとって小さな打撃となった。]]></summary>
+        <author>
+            <name>Cointelegraph  Christopher Tepedino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米SEC、証券のトークン化促進に向け規制緩和を検討]]></title>
         <id>https://coinpost.jp/?p=614221</id>
@@ -2280,28 +2310,6 @@ NFTで出版支援＆印税還元、Zaif INO「NFT漫画プロジェクト」が
         <updated>2025-05-04T11:27:29.000Z</updated>
         <summary type="html"><![CDATA[Galaxy社が5月1日に発表したレポートによると、2025年第1四半期の暗号資産分野におけるベンチャー投資額は49億ドルに達し、業界にとって力強い回復を示しました。 調達された総資本は前期比で40%増加し、案件数は44 […]
 投稿 暗号資産ベンチャー投資、Q1は49億ドルで回復基調か｜大型案件が押し上げ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムの反省｜ブテリン氏、機能強化の代償と「シンプルさ」への回帰語る]]></title>
-        <id>https://crypto-times.jp/?p=134661</id>
-        <link href="https://crypto-times.jp/news-buterin-discusses-the-cost-of-feature-enhancements-and-a-return-to-simplicity/"/>
-        <updated>2025-05-04T11:09:02.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム（ETH）共同創設者ヴィタリック・ブテリン氏は、自身のブログで、イーサリアムの長期的な成功のためには「ビットコインのようなシンプルさ」を目指すべきだという構想を発表しました。 ブテリン氏は、ビットコインのプロ […]
-投稿 イーサリアムの反省｜ブテリン氏、機能強化の代償と「シンプルさ」への回帰語る は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナの成長はWeb3の好機、専門家が語る「クロスチェーン」の重要性]]></title>
-        <id>https://crypto-times.jp/?p=134660</id>
-        <link href="https://crypto-times.jp/news-solanas-growth-is-a-web3-opportunity/"/>
-        <updated>2025-05-04T10:43:18.000Z</updated>
-        <summary type="html"><![CDATA[ソラナが急速な成長で注目を集める中、DeFiプロトコル開発に携わるRisk LabsのHart Lambur氏は、イーサリアムを含むWeb3エコシステム全体にとっての好機だと分析しています。同氏によれば、ソラナの成功をW […]
-投稿 ソラナの成長はWeb3の好機、専門家が語る「クロスチェーン」の重要性 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Troll</name>
         </author>

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-08T09:40:08.049Z</updated>
+    <updated>2025-05-08T10:17:22.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ドージコインとカルダノが市場の上昇を牽引──ビットコイン投資家は次回のFRB会合に注目]]></title>
+        <id>https://www.coindeskjapan.com/?p=291468</id>
+        <link href="https://www.coindeskjapan.com/291468/"/>
+        <updated>2025-05-08T09:55:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は5月8日に10万ドル近くまで上昇した。ドージコイン（DOGE）やカルダノ（ADA）などの主要な暗号資産（仮想資産）が暗号資産市場全体の上 ...
+ドージコインとカルダノが市場の上昇を牽引──ビットコイン投資家は次回のFRB会合に注目 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[楽天ウォレット、Futureverseと提携──RakutenWallet.PassでWeb3体験拡大へ]]></title>
         <id>https://www.coindeskjapan.com/?p=291469</id>
@@ -2211,16 +2222,6 @@ DeFi（分散型金融）とは【GWに学ぶ基礎知識】 first appeared on C
         <summary type="html"><![CDATA[フィナンシャル・タイムズ（FT）によれば、世界最大の仮想通貨オプション取引所であるデリビットが、トランプ政権下で仮想通貨に対する規制姿勢が軟化しつつあることを受け、米国市場への参入を検討している。]]></summary>
         <author>
             <name>Cointelegraph  Amin Haqshanas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国政府のビットコイン準備金　アーサー・ヘイズ氏は追加購入に懐疑的　「支持は得られない」]]></title>
-        <id>https://jp.cointelegraph.com/news/arthur-hayes-bitmex-us-strategic-reseve-plans-doubts-bitcoin-bros</id>
-        <link href="https://jp.cointelegraph.com/news/arthur-hayes-bitmex-us-strategic-reseve-plans-doubts-bitcoin-bros?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-05-03T21:55:00.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所ビットメックスの共同創業者アーサー・ヘイズ氏は、米国がすでに押収済みのビットコイン（BTC）以上の量を国家準備金として追加購入する可能性は低いとの見解を示した。米政府の財政赤字の問題とBTC信者に対する世間のイメージがその背景にあるという。]]></summary>
-        <author>
-            <name>Cointelegraph  Ciaran Lyons</name>
         </author>
     </entry>
 </feed>

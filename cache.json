@@ -615,6 +615,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=614221",
+          "author": "菊谷ルイス",
+          "description": "米SECのパース委員がブロックチェーンを活用した証券の発行・取引・決済を可能にする規制免除命令を検討中と発表。企業がトークン化証券のための革新的取引システムを利用できる環境整備を目指す。",
+          "link": "https://coinpost.jp/?p=614221",
+          "publishedOn": "2025-05-08T22:25:33.000Z",
+          "wordCount": 3157,
+          "title": "米SEC、証券のトークン化促進に向け規制緩和を検討",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/new-sec-firing-and-50k.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/new-sec-firing-and-50k.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=614205",
           "author": "菊谷ルイス",
           "description": "米上院のステーブルコイン規制法案「GENIUS法案」が手続き投票で否決。民主党議員の支持撤回の背景にトランプ家の仮想通貨関与による利益相反懸念。他の仮想通貨法案にも影響の恐れが浮上。",
@@ -1508,6 +1523,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/donald-trump-xrp-crypto-reserve-trick",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "米国大統領ドナルド・トランプ氏が、リップル社と関係のあるロビイストに操作され、自身の国家仮想通貨準備計画にXRPトークンを含める発表を行ったと報じられている。",
+          "link": "https://jp.cointelegraph.com/news/donald-trump-xrp-crypto-reserve-trick?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-08T22:19:00.000Z",
+          "wordCount": null,
+          "title": "トランプ氏、XRPを仮想通貨準備金に推進するよう仕向けられる＝報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmIxMDgtNDA0Zi03YmNhLWFhNDUtYzFhMjY5NjUwOTFj.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmIxMDgtNDA0Zi03YmNhLWFhNDUtYzFhMjY5NjUwOTFj.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-hits-100k-first-time-since-january",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "ビットコインが1月以来初めて10万ドルの価格水準を回復し、投資家の間で強気のセンチメントが再燃していることを示した。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-hits-100k-first-time-since-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-08T22:10:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン価格、1月以来の10万ドルを回復",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzI2NjAtNGRkZC03YTMzLWExMzAtOGE1NWVhNDU0MThl.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzI2NjAtNGRkZC03YTMzLWExMzAtOGE1NWVhNDU0MThl.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/coinbase-acquire-deribit-2-9-billion",
           "author": "Cointelegraph  Helen Partz",

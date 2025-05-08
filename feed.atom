@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-08T22:14:49.065Z</updated>
+    <updated>2025-05-08T22:40:51.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SEC、証券のトークン化促進に向け規制緩和を検討]]></title>
+        <id>https://coinpost.jp/?p=614221</id>
+        <link href="https://coinpost.jp/?p=614221"/>
+        <updated>2025-05-08T22:25:33.000Z</updated>
+        <summary type="html"><![CDATA[米SECのパース委員がブロックチェーンを活用した証券の発行・取引・決済を可能にする規制免除命令を検討中と発表。企業がトークン化証券のための革新的取引システムを利用できる環境整備を目指す。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ氏、XRPを仮想通貨準備金に推進するよう仕向けられる＝報道]]></title>
+        <id>https://jp.cointelegraph.com/news/donald-trump-xrp-crypto-reserve-trick</id>
+        <link href="https://jp.cointelegraph.com/news/donald-trump-xrp-crypto-reserve-trick?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-08T22:19:00.000Z</updated>
+        <summary type="html"><![CDATA[米国大統領ドナルド・トランプ氏が、リップル社と関係のあるロビイストに操作され、自身の国家仮想通貨準備計画にXRPトークンを含める発表を行ったと報じられている。]]></summary>
+        <author>
+            <name>Cointelegraph  Turner Wright</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン価格、1月以来の10万ドルを回復]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-hits-100k-first-time-since-january</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-hits-100k-first-time-since-january?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-08T22:10:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインが1月以来初めて10万ドルの価格水準を回復し、投資家の間で強気のセンチメントが再燃していることを示した。]]></summary>
+        <author>
+            <name>Cointelegraph  Helen Partz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コインベース、29億ドルでデリビットを買収]]></title>
         <id>https://jp.cointelegraph.com/news/coinbase-acquire-deribit-2-9-billion</id>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-09T13:26:09.381Z</updated>
+    <updated>2025-05-09T13:44:21.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ドイツの警察当局、バイビットのハッキング事件絡みで仮想通貨55億円相当を押収　取引所eXchを摘発]]></title>
+        <id>https://jp.cointelegraph.com/news/germany-seizes-38-million-crypto-bybit-hack-linked-exch</id>
+        <link href="https://jp.cointelegraph.com/news/germany-seizes-38-million-crypto-bybit-hack-linked-exch?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-09T13:35:00.000Z</updated>
+        <summary type="html"><![CDATA[ドイツ連邦刑事庁（BKA）とフランクフルト検察庁は5月9日、仮想通貨プラットフォームのeXchから約3400万ユーロ（約55億円）相当の仮想通貨を押収したと発表した。同プラットフォームは、バイビットのハッキング事件における盗難資産のマネーロンダリングに利用された疑いがある。]]></summary>
+        <author>
+            <name>Cointelegraph  Helen Partz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ユニスワップL2「Unichain」、v4取引量でイーサリアムを圧倒｜市場シェア75%獲得]]></title>
         <id>https://crypto-times.jp/?p=134961</id>

@@ -1588,21 +1588,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/arizona-paypal.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/arizona-paypal.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=539590",
-          "author": "菊谷ルイス",
-          "description": "ソラナエコシステムの最前線、スワップアグリゲーター『ジュピター』の特徴とJUPトークンのステーキング方法、ローンチパッドLFGの詳細を解説します。国内暗号資産（仮想通貨）取引所でSOLを購入して、運用する選択肢を紹介。",
-          "link": "https://coinpost.jp/?p=539590",
-          "publishedOn": "2025-05-05T03:00:01.000Z",
-          "wordCount": 2405,
-          "title": "Jupiter（ジュピター）の使い方│ソラナで最大級のDEXアグリゲーターの機能を解説",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/jupiter-pyth.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/jupiter-pyth.jpeg"
         }
       ]
     },
@@ -1978,6 +1963,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/institutional-investors-continue-to-scoop-up-bitcoin-above-100-k",
+          "author": "Cointelegraph  Adrian Zmudzinski",
+          "description": "ビットコイン（BTC）は5月8日に再び10万ドルの大台を突破した。背景には、機関投資家による上場投資信託（ETF）を通じた継続的な買いがあった。",
+          "link": "https://jp.cointelegraph.com/news/institutional-investors-continue-to-scoop-up-bitcoin-above-100-k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-09T15:05:00.000Z",
+          "wordCount": null,
+          "title": "10万ドルを突破したビットコインの強気ムーブ　機関投資家のETF買いが後押し",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGM4Y2QtNjRlYi03ZGIxLTliNmQtOGM5N2Y4ZjQ5OGZm.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGM4Y2QtNjRlYi03ZGIxLTliNmQtOGM5N2Y4ZjQ5OGZm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/germany-seizes-38-million-crypto-bybit-hack-linked-exch",
           "author": "Cointelegraph  Helen Partz",

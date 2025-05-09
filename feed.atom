@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-09T22:14:26.074Z</updated>
+    <updated>2025-05-09T22:39:58.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ドイツ当局、50億円超相当の仮想通貨をeXchから押収　ビットコインやイーサリアムなど]]></title>
+        <id>https://coinpost.jp/?p=614663</id>
+        <link href="https://coinpost.jp/?p=614663"/>
+        <updated>2025-05-09T22:35:53.000Z</updated>
+        <summary type="html"><![CDATA[独連邦刑事庁は、eXchから55億円相当の仮想通貨を押収。ビットコイン、イーサリアム、ライトコイン、ダッシュが含まれており、同社はマネーロンダリングに関与した疑いなどが持たれている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブラックロックが米SECと協議、仮想通貨ETFのステーキングとオプション取引について]]></title>
         <id>https://coinpost.jp/?p=614662</id>

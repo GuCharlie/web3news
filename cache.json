@@ -1518,21 +1518,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/jupiter-pyth.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/jupiter-pyth.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=373857",
-          "author": "CoinPost編集部",
-          "description": "ゲームに特化したブロックチェーン「オアシス（Oasys）」の特徴や将来性、暗号資産（仮想通貨）OASの買い方を解説。取引所の比較や今後の計画も紹介。",
-          "link": "https://coinpost.jp/?p=373857",
-          "publishedOn": "2025-05-04T19:00:52.000Z",
-          "wordCount": 3013,
-          "title": "Oasys（オアシス）の特徴や将来性｜仮想通貨OASの買い方・取引所比較",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/241119_coinpost_373857_1200.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/241119_coinpost_373857_1200.png"
         }
       ]
     },
@@ -1858,6 +1843,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/rumble-launch-bitcoin-stablecoin-wallet-q3",
+          "author": "Cointelegraph  Martin Young",
+          "description": "仮想通貨支持で知られる動画共有サービス「ランブル」の創業者兼CEOであるクリス・パブロフスキー氏は、同社が2024年第3四半期にビットコインおよびステーブルコインに対応したノンカストディアルウォレット「ランブル・ウォレット」をローンチすることを明らかにした。",
+          "link": "https://jp.cointelegraph.com/news/rumble-launch-bitcoin-stablecoin-wallet-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-09T06:08:00.000Z",
+          "wordCount": null,
+          "title": "動画共有サービスのランブル、ビットコインとステーブルコイン対応のウォレットを第3四半期にリリースへ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmIyOTQtM2UwNC03ZDBlLTk4YmItMjgxODM5YmU5OTIw.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmIyOTQtM2UwNC03ZDBlLTk4YmItMjgxODM5YmU5OTIw.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0509",
           "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
@@ -2630,6 +2630,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=134962",
+          "author": "Crypto Troll",
+          "description": "3月初旬にSNS「Truth Social」上で拡散され、暗号資産リップル（XRP）や他の複数のアルトコインに言及した投稿は、著名なロビイストであるブライアン・バラード氏が率いるロビー企業「バラード・パートナーズ」の従業 […]\n投稿 リップル宣伝投稿が命取りに、著名ロビイストがホワイトハウスから追放か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-prominent-lobbyist-kicked-out-of-white-house-after-promoting-ripple/",
+          "publishedOn": "2025-05-09T07:14:00.000Z",
+          "wordCount": 578,
+          "title": "リップル宣伝投稿が命取りに、著名ロビイストがホワイトハウスから追放か",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2502569527.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=134897",
           "author": "Crypto Troll",

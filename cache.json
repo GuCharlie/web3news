@@ -750,6 +750,21 @@
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/03/kitachosen-north-korea-2.jpg"
         },
         {
+          "id": "https://coinpost.jp/?p=516165",
+          "author": "CoinPost編集部",
+          "description": "米国初のビットコインETF承認の影響でBTC価格が過去最高値を更新し、仮想通貨投資による資産運用の注目度が急上昇しています。本記事では初心者向けに高騰するイーサリアム（ETH）の買い方、アルトコイン投資のメリットやデメリット、リスクなどを解説しています。",
+          "link": "https://coinpost.jp/?p=516165",
+          "publishedOn": "2025-05-09T03:00:10.000Z",
+          "wordCount": 11238,
+          "title": "イーサリアムの買い方｜ETF動向・価格予想・リスク・税金までまとめて解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/241010_coinpost_516165_1200.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/241010_coinpost_516165_1200.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=614237",
           "author": "S.Ninomiya",
           "description": "ビットコインは3ヶ月ぶりに10万ドルの大台を回復し、イーサリアムが高騰した。背景には複数の好材料が挙げられる。ビットコインETFへの資金流入も加速し、直近2週間で約6200億円が流入した。機関投資家の動きも活発化する中、アルトコイン市場への波及効果も期待される。",
@@ -1898,6 +1913,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0509",
+          "author": "Cointelegraph  ビットバンク　長谷川友哉",
+          "description": "8日のビットコイン（BTC）円は1398万9878円から取引が始まった。",
+          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0509?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-09T08:32:00.000Z",
+          "wordCount": null,
+          "title": "BTC上伸で10万ドルを回復　市場の注目は米中通商協議へ【ビットバンク仮想通貨分析】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMjhhNzQ0ZjQyMWJjYjlmNzYwMmM4N2MxYzI3MWIwZC5qcGc=.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMjhhNzQ0ZjQyMWJjYjlmNzYwMmM4N2MxYzI3MWIwZC5qcGc=.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/ether-price-insane-candle-pectra-upgrade-turning-point-crypto-traders",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "イーサ（ETH）の価格が、ペクトラ（Pectra）アップグレードの実装を受けて過去24時間で20％近く急騰し、2025年を通じて不透明だったセンチメントにようやく転機が訪れた可能性があるとの見方が広がっている。",
+          "link": "https://jp.cointelegraph.com/news/ether-price-insane-candle-pectra-upgrade-turning-point-crypto-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-09T08:00:00.000Z",
+          "wordCount": null,
+          "title": "イーサリアム価格、「ペクトラ」アップグレード後に20％急騰　ETH相場の転換点となるか",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2Q1NDUtNjhjMi03YzI5LWIyMjMtZTBlNGI4YmIwOThi.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2Q1NDUtNjhjMi03YzI5LWIyMjMtZTBlNGI4YmIwOThi.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/rumble-launch-bitcoin-stablecoin-wallet-q3",
           "author": "Cointelegraph  Martin Young",

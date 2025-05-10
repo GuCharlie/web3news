@@ -670,36 +670,6 @@
           "wordCount": 1315,
           "title": "テザー、Tether.aiでAI分野に参入",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/shutterstock_2453966693.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=291026",
-          "author": "林 理南",
-          "description": "ビットコイン（BTC）は5日、9万5000ドル（約1378万円、1ドル145円換算）を下回った。マクロ経済への不確実性が高まり、市場の焦点が今週の連邦公開市場委 ...\nビットコイン、9万ドルまで下落する可能性──トレーダーはFOMCに注目 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/291026/",
-          "publishedOn": "2025-05-05T16:41:25.000Z",
-          "wordCount": 1308,
-          "title": "ビットコイン、9万ドルまで下落する可能性──トレーダーはFOMCに注目",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/db5d27e4d390ee1195d8dcd9503194e50f36716b-1280x851-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=291015",
-          "author": "林 理南",
-          "description": "ビットコイン（BTC）の週末の値動きにより、8万8800ドル（約1288万円、1ドル145円換算）のサポートレベルに注目が集まった。一方、決済重視の暗号資産（仮 ...\nビットコイン、トレンドライン突破後は8万8800ドルのサポートが焦点──XRPはデッドクロスが視野に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/291015/",
-          "publishedOn": "2025-05-05T15:41:16.000Z",
-          "wordCount": 1359,
-          "title": "ビットコイン、トレンドライン突破後は8万8800ドルのサポートが焦点──XRPはデッドクロスが視野に",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/b7a344f0035ec7514ae691c082663d0ba917b119-1500x1000-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=291005",
-          "author": "林 理南",
-          "description": "ボラティリティ急上昇から利益を得ようとする暗号資産（仮想通貨）トレーダーは、バイナンス（Binance）上場のイーサリアム/ビットコイン（ETH/BTC）比率に ...\nETH/BTCのスクイーズ、ボラティリティ急上昇の予兆──イーサリアムのペクトラアップグレードが近づく first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/291005/",
-          "publishedOn": "2025-05-05T14:58:19.000Z",
-          "wordCount": 1316,
-          "title": "ETH/BTCのスクイーズ、ボラティリティ急上昇の予兆──イーサリアムのペクトラアップグレードが近づく",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/251566d6d295fa651f0c8d3bdea79cfc922941a6-1440x1080-1.jpg"
         }
       ]
     },
@@ -714,6 +684,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=614742",
+          "author": "菊谷ルイス",
+          "description": "米上院の改訂版GENIUS法案で海外ステーブルコイン発行体も米国の規制対象に。テザーなど1500億ドル市場への影響と、DeFi開発者・バリデーターまで拡大された規制範囲の懸念点",
+          "link": "https://coinpost.jp/?p=614742",
+          "publishedOn": "2025-05-10T05:30:01.000Z",
+          "wordCount": 3157,
+          "title": "改訂版GENIUS法案、テザーも米規制対象に　DeFiへの影響も",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/07/us-congress-.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/07/us-congress-.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=614707",
+          "author": "A.Yamada",
+          "description": "米取引所コインベースグCEOが財務戦略としてのビットコイン保有を検討していた過去を語った。同社は投資目的で約1,900億円相当の仮想通貨を保有している。",
+          "link": "https://coinpost.jp/?p=614707",
+          "publishedOn": "2025-05-10T04:00:58.000Z",
+          "wordCount": 3181,
+          "title": "コインベースCEO明かす「企業資産の80%をビットコインに投資検討も断念」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-czar-criticize.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-czar-criticize.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=614711",
+          "author": "菊谷ルイス",
+          "description": "ブラックロックがイーサリアムETF「ETHA」の改訂届出書を提出し、SECの承認を前提に現物による設定・償還機能を追加。最終判断は2025年10月頃の見通し。同時にビットコインETF「IBIT」には量子コンピューティングリスクに関する記載も追加。",
+          "link": "https://coinpost.jp/?p=614711",
+          "publishedOn": "2025-05-10T02:45:40.000Z",
+          "wordCount": 3164,
+          "title": "ブラックロック、イーサリアムETFの現物償還機能を申請",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/blackrock1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/blackrock1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=614703",
+          "author": "菊谷ルイス",
+          "description": "ビットコイン専門家アダム・バック氏が新指標「mNAV回収月数」を提案し、メタプラネットの適正株価1340円を算出。ストラテジーと比較して3.8倍速いmNAV回収速度を実現していると分析。",
+          "link": "https://coinpost.jp/?p=614703",
+          "publishedOn": "2025-05-10T01:30:56.000Z",
+          "wordCount": 3180,
+          "title": "アダム・バックが試算、メタプラネット株価1340円到達の可能性も",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/metaplanet-bitcoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/metaplanet-bitcoin.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=614696",
           "author": "A.Yamada",
@@ -1637,6 +1667,26 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=470410",
+          "author": "OtsugaShinya",
+          "description": "ANAPがビットコイン追加購入 若年層女性向けのカジュアルファッションブランド「ANAP（アナップ）」等の事業を展開する東証スタンダード上場企業のANAPホールディングスが、ビットコインの追加購入を5月9日に発表した。  […]",
+          "link": "https://www.neweconomy.jp/posts/470410",
+          "publishedOn": "2025-05-10T05:30:40.000Z",
+          "wordCount": 596,
+          "title": "ファッションブランド「ANAP」、約2.7億円でビットコイン追加購入",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/10143035/e91ad52d4174c6888dc331faa9a5e951.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=470404",
+          "author": "OtsugaShinya",
+          "description": "コインベースがデリビットを買収 米大手暗号資産（仮想通貨）取引所コインベース（Coinbase）が、暗号資産デリバティブ取引所デリビット（Deribit）を買収する契約が締結したと5月8日に発表した。 コインベースは今回 […]",
+          "link": "https://www.neweconomy.jp/posts/470404",
+          "publishedOn": "2025-05-10T05:24:48.000Z",
+          "wordCount": 628,
+          "title": "コインベース、暗号資産デリバティブ取引所デリビットを29億ドルで買収",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/10142439/2a9b9be289b53ffcb0d79023843e43e0.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=470283",
           "author": "NewEconomyPodcast",
           "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
@@ -2003,6 +2053,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/ethereum-price-greenlit-for-further-upside-after-surprise-29-eth-rally",
+          "author": "Cointelegraph  Marcel Pechman",
+          "description": "5月8日から9日にかけて、イーサリアム（ETH）は29％の大幅上昇を記録し、4月9日に付けた1385ドルの安値を底とする10週にわたる弱気市場に終止符を打った可能性がある。この急騰により、ショート（売り）ポジションを取っていた先物取引で4億ドル以上の清算が発生し、クジラ（大口投資家）やマーケットメイカーの意表を突く形となった。",
+          "link": "https://jp.cointelegraph.com/news/ethereum-price-greenlit-for-further-upside-after-surprise-29-eth-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-10T03:55:00.000Z",
+          "wordCount": null,
+          "title": "イーサリアム急騰で弱気相場に終止符か　ETH価格は2700ドルも視野に",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzE5N2ItMDBjYi03N2Q0LTg3ODUtY2NiYzdkYWMxYzAw.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzE5N2ItMDBjYi03N2Q0LTg3ODUtY2NiYzdkYWMxYzAw.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/solana-price-gained-500-the-last-time-this-sol-metric-turned-bullish",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "ソラナ（SOL）の価格は今週18％上昇し、強気モメンタムの高まりを示している。現在、歴史的に重要な上昇の起点となってきた50週間指数平滑移動平均線（EMA）を上回る終値の形成が焦点となっている。",
+          "link": "https://jp.cointelegraph.com/news/solana-price-gained-500-the-last-time-this-sol-metric-turned-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-10T03:30:00.000Z",
+          "wordCount": null,
+          "title": "ソラナは過去1週間で18％上昇　50週間EMA突破迫る　強気相場への転換となるか",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmI1YjEtZmU3YS03NjdkLWJlNGMtMTc3NGUzMDQ0MmQ5.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmI1YjEtZmU3YS03NjdkLWJlNGMtMTc3NGUzMDQ0MmQ5.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/price-predictions-5-9-btc-eth-xrp-bnb-sol-doge-ada-sui-link-avax",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "ビットコイン（BTC）は5月8日に6％超上昇し、10万ドルの大台を終値ベースで突破した。強気派が主導権を握ったことを示す動きである。",
+          "link": "https://jp.cointelegraph.com/news/price-predictions-5-9-btc-eth-xrp-bnb-sol-doge-ada-sui-link-avax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-10T02:55:00.000Z",
+          "wordCount": null,
+          "title": "10万ドル突破後の展開は？　仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmI2MGQtNjhmYi03NWEwLWJjOTItYWU0ODUzNWUwOWQ4.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmI2MGQtNjhmYi03NWEwLWJjOTItYWU0ODUzNWUwOWQ4.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/us-vice-president-crypto-conference",
           "author": "Cointelegraph  Turner Wright",

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=291734",
+          "author": "Oliver Knight",
+          "description": "ブロックチェーン監視企業Solidus Labsのレポートで、Solana（ソラナ）ブロックチェーン上の詐欺行為の深刻さが明らかになった。トークン発行プラットフ ...\nPump.funで発行されたミームコイン、99％が詐欺：レポート first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/291734/",
+          "publishedOn": "2025-05-10T00:00:00.000Z",
+          "wordCount": 1374,
+          "title": "Pump.funで発行されたミームコイン、99％が詐欺：レポート",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/shutterstock_2176685795.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=291804",
           "author": "Helene Braun",
           "description": "ウォール街のアナリストらは、コインベースの第1四半期決算が予想を下回ったことと29億ドルでのデリビット買収について様々な判断を下し、短期的な予測を下方修正する者 ...\nコインベース、業績不振とデリビット買収でウォール街のアナリストの意見分かれる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -704,6 +714,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=614696",
+          "author": "A.Yamada",
+          "description": "台湾立法院の葛議員が国家資産の多様化を図るため仮想通貨ビットコインを準備金に採用することを提案した。米国における準備金政策の実現例も挙げている。",
+          "link": "https://coinpost.jp/?p=614696",
+          "publishedOn": "2025-05-10T00:40:35.000Z",
+          "wordCount": 3175,
+          "title": "台湾議員、ビットコイン準備金創設を提唱",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/taiwan-crypto.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/taiwan-crypto.png"
+        },
         {
           "id": "https://coinpost.jp/?p=614675",
           "author": "菊谷ルイス",
@@ -3344,46 +3369,6 @@
           "wordCount": 599,
           "title": "オンチェーン資産運用のリーディングカンパニーMaple Finance、10億ドルのTVL達成を記念して50万ドルのインセンティブ・プログラムを開始",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/AD_4nXexQs9XxfceRv9ZyNz9scQ7zUl-iYe0wT0kLRlA57OaMa0w8m2eF8CBanHsOElNqT3yL3YwSGDcIRr7JPZ-Icb3OBRUlZbB137Rminl8CpWUN3gfGWEffqX.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=134685",
-          "author": "Crypto Troll",
-          "description": "OpenAIのCEOであるサム・アルトマン氏が共同設立したことで知られる暗号資産プロジェクト「World」（旧Worldcoin）が、インドネシアで規制違反の疑いにより運営許可を一時停止される事態となりました。 インドネ […]\n投稿 インドネシア当局、OpenAI創設者の暗号資産プロジェクト「World」を一時停止 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-indonesian-authorities-suspend-world-app-for-alleged-regulatory-violations/",
-          "publishedOn": "2025-05-05T12:47:12.000Z",
-          "wordCount": 607,
-          "title": "インドネシア当局、OpenAI創設者の暗号資産プロジェクト「World」を一時停止",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2366323229.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=134663",
-          "author": "Crypto Troll",
-          "description": "米国の現物ビットコインETF（上場投資信託）への資金流入が継続しています。先週（2025年5月2日終了週）の純流入額は合計で18.1億ドルとなり、これで3週連続の資金純流入となりました。 先週の純流入額は、その前の週の3 […]\n投稿 米ビットコインETFへの資金流入止まらず、3週連続プラス は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-inflows-into-us-bitcoin-etf-continue-third-consecutive-week-of-gains/",
-          "publishedOn": "2025-05-05T12:39:50.000Z",
-          "wordCount": 586,
-          "title": "米ビットコインETFへの資金流入止まらず、3週連続プラス",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2413098031-1.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=134664",
-          "author": "Crypto Troll",
-          "description": "世界最大のステーブルコインUSDTを発行するテザー社が、AI分野への本格的な進出を発表しました。同社のパオロ・アルドイノCEOは、新たに「Tether AI」部門を立ち上げ、オープンソースのAI技術開発に取り組んでいるこ […]\n投稿 USDT発行元テザー、次なる一手はAI｜「Tether AI」ウェブサイト公開 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-tether-ai-website-launched/",
-          "publishedOn": "2025-05-05T12:34:37.000Z",
-          "wordCount": 610,
-          "title": "USDT発行元テザー、次なる一手はAI｜「Tether AI」ウェブサイト公開",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2420257629.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=134691",
-          "author": "Crypto Troll",
-          "description": "米国の包括的な暗号資産規制の第一歩と目されるステーブルコイン規制法案「GENIUS Act」の成立に向けた動きが、不透明感を増しています。9名の民主党上院議員が、現行法案のままでは支持できないとの共同声明を発表し、共和党 […]\n投稿 米ステーブルコイン法案に暗雲、一部民主党議員が支持撤回示唆 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-u-s-stablecoin-bill-faces-dark-clouds-as-some-democrats-threaten-to-withdraw-support/",
-          "publishedOn": "2025-05-05T12:01:00.000Z",
-          "wordCount": 639,
-          "title": "米ステーブルコイン法案に暗雲、一部民主党議員が支持撤回示唆",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2468450287.jpg"
         }
       ]
     }

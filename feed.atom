@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-10T19:35:35.591Z</updated>
+    <updated>2025-05-10T20:15:23.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブラックロックとSECが会合　ステーキング対応ETFや証券のトークン化を協議]]></title>
+        <id>https://jp.cointelegraph.com/news/blackrock-sec-crypto-task-force-etp-staking-tokenization</id>
+        <link href="https://jp.cointelegraph.com/news/blackrock-sec-crypto-task-force-etp-staking-tokenization?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-10T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ウォール街の大手資産運用会社ブラックロックが、米証券取引委員会（SEC）の仮想通貨タスクフォースと会談を行い、仮想通貨のステーキング機能を備えた上場投資商品（ETP）や、証券のトークン化について意見を交わした。]]></summary>
+        <author>
+            <name>Cointelegraph  Christopher Tepedino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム、ビットコインを凌ぐ急騰｜その背景とは？]]></title>
         <id>https://crypto-times.jp/?p=135039</id>
@@ -2680,37 +2690,6 @@ BNB、2028年末までに2775ドルに達する可能性も：スタンダード
 投稿 トランプ氏、暗号資産ディナー2件開催へ ｜利益相反と批判噴出、汚職リスク警戒も は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フロリダ州、ビットコイン準備資産法案を正式撤回｜各州に慎重姿勢広がる]]></title>
-        <id>https://crypto-times.jp/?p=134727</id>
-        <link href="https://crypto-times.jp/news-florida-formally-withdraws-bitcoin-reserve-bill/"/>
-        <updated>2025-05-06T08:13:58.000Z</updated>
-        <summary type="html"><![CDATA[米国において、州の準備資産に暗号資産ビットコイン（BTC）を組み入れる動きが難航しています。フロリダ州議会は2025年5月3日の会期末をもって、公的資金の一部をビットコインに投資することを目指した2つの法案（HB 487 […]
-投稿 フロリダ州、ビットコイン準備資産法案を正式撤回｜各州に慎重姿勢広がる は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ミャンマーの武装組織KNAに米財務省が制裁　仮想通貨詐欺と人身売買で制裁対象に]]></title>
-        <id>https://jp.cointelegraph.com/news/us-treasury-issues-sanctions-burma-myanmar-militia-group-crypto-scams</id>
-        <link href="https://jp.cointelegraph.com/news/us-treasury-issues-sanctions-burma-myanmar-militia-group-crypto-scams?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-05-06T08:05:00.000Z</updated>
-        <summary type="html"><![CDATA[米財務省は5月5日、ミャンマーの武装勢力であるカレン民族軍（KNA）を仮想通貨関連の詐欺行為などに関与したとして制裁対象に指定したと発表した。]]></summary>
-        <author>
-            <name>Cointelegraph  Christopher Tepedino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「金銭的利益を得ておらず」トランプ大統領、ミームコインでの収益疑惑を完全否定]]></title>
-        <id>https://coinpost.jp/?p=613456</id>
-        <link href="https://coinpost.jp/?p=613456"/>
-        <updated>2025-05-06T07:40:55.000Z</updated>
-        <summary type="html"><![CDATA[トランプ米大統領がNBCインタビューでTRUMPミームコインからの利益獲得を強く否定した。一方、トークン保有者向け晩餐会には倫理的懸念が高まり、強く批判されている。]]></summary>
-        <author>
-            <name>幸田直子</name>
         </author>
     </entry>
 </feed>

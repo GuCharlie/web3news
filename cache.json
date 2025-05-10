@@ -1628,21 +1628,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/XDC_060602.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/XDC_060602.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=613391",
-          "author": "菊谷ルイス",
-          "description": "セイラー氏率いるストラテジー社は5月5日、1,895BTCのビットコインを追加購入したと発表した。購入額は約260億円に相当。",
-          "link": "https://coinpost.jp/?p=613391",
-          "publishedOn": "2025-05-05T14:25:01.000Z",
-          "wordCount": 3162,
-          "title": "マイケル・セイラーのストラテジー社、260億円相当のビットコインを追加購入",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/micro-saylor-bitcoin.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/micro-saylor-bitcoin.png"
         }
       ]
     },
@@ -2018,6 +2003,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/us-vice-president-crypto-conference",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "米国のJD・ヴァンス副大統領が、2025年5月にラスベガスで開催されるビットコインカンファレンス「Bitcoin 2025」に登壇することが明らかになった。前年には、当時の大統領候補であったドナルド・トランプ氏が同イベントでスピーチを行っている。",
+          "link": "https://jp.cointelegraph.com/news/us-vice-president-crypto-conference?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-10T02:27:00.000Z",
+          "wordCount": null,
+          "title": "米国のヴァンス副大統領　ビットコイン2025で講演へ　現職副大統領として初の仮想通貨カンファレンス登壇",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmI2NWEtM2RkOC03MjExLWFmZjgtN2Q2M2ViMzM4ZGNm.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmI2NWEtM2RkOC03MjExLWFmZjgtN2Q2M2ViMzM4ZGNm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/taiwan-lawmaker-pushes-bitcoin-reserve-national-conference",
           "author": "Cointelegraph  Helen Partz",
@@ -3359,16 +3359,6 @@
           "wordCount": 631,
           "title": "「リップル社、930億ドル規模のXRPで買収攻勢可能」Bitwise社長",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2553031917.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=134679",
-          "author": "Crypto Times 編集部",
-          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 メルボルン、オーストラリア、2025年5月5日、Chainwire 5 […]\n投稿 オンチェーン資産運用のリーディングカンパニーMaple Finance、10億ドルのTVL達成を記念して50万ドルのインセンティブ・プログラムを開始 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/press-maple-finance-1b-tvl/",
-          "publishedOn": "2025-05-05T13:15:28.000Z",
-          "wordCount": 599,
-          "title": "オンチェーン資産運用のリーディングカンパニーMaple Finance、10億ドルのTVL達成を記念して50万ドルのインセンティブ・プログラムを開始",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/AD_4nXexQs9XxfceRv9ZyNz9scQ7zUl-iYe0wT0kLRlA57OaMa0w8m2eF8CBanHsOElNqT3yL3YwSGDcIRr7JPZ-Icb3OBRUlZbB137Rminl8CpWUN3gfGWEffqX.jpg"
         }
       ]
     }

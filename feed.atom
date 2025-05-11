@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-11T20:37:42.952Z</updated>
+    <updated>2025-05-11T21:13:12.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ドル再発明の第3幕：ステーブルコイン]]></title>
+        <id>https://www.coindeskjapan.com/?p=291838</id>
+        <link href="https://www.coindeskjapan.com/291838/"/>
+        <updated>2025-05-11T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーンベースのデジタルドル＝米ドル建てステーブルコインは、米国にとって莫大なチャンスとなる。ただし、賢く扱うことができれば、とジョン・デバドス氏は語る ...
+ドル再発明の第3幕：ステーブルコイン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>John deVadoss</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polygon Labs、チェーン開発キットに「OP Stack」追加、zkとOptimism選択可能に]]></title>
         <id>https://www.neweconomy.jp/?p=470461</id>
@@ -2227,16 +2238,6 @@ MOGが急騰──イーロン・マスク氏やギャリー・タン氏が「mo
         <summary type="html"><![CDATA[東京・四谷にビットコイン特化型施設「Tokyo Bitcoin Base」がオープンした。4階建て1300平米の空間に、サトシ・ナカモト像が設置され、シェアオフィスやイベントスペースを備えたビットコイナーの交流拠点および教育施設としての役割を目指す。]]></summary>
         <author>
             <name>Ritsuki.Kumazawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国難時に備えるビットコイン保有戦略　サムソン・モウの提唱するバックアッププラン]]></title>
-        <id>https://coinpost.jp/?p=613595</id>
-        <link href="https://coinpost.jp/?p=613595"/>
-        <updated>2025-05-07T09:00:27.000Z</updated>
-        <summary type="html"><![CDATA[国家の経済危機に備える「バックアッププラン」としてのビットコインとは。ビットコインテクノロジー企業のJAN3創業者サムソン・モウ氏がその優位性を語り、米国・日本を含む各国政府への提言と行動を促す。]]></summary>
-        <author>
-            <name>Enzo</name>
         </author>
     </entry>
 </feed>

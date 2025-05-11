@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-11T07:14:19.262Z</updated>
+    <updated>2025-05-11T07:35:46.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Polygon Labs、チェーン開発キットに「OP Stack」追加、zkとOptimism選択可能に]]></title>
+        <id>https://www.neweconomy.jp/?p=470461</id>
+        <link href="https://www.neweconomy.jp/posts/470461"/>
+        <updated>2025-05-11T07:23:01.000Z</updated>
+        <summary type="html"><![CDATA[Agglayer CDKがマルチスタック化 Polygon Labs（ポリゴンラボ）提供のブロックチェーン開発キット「Agglayer CDK（アグレイヤーCDK：旧Polygon CDK）」が「OP Stack（OPス […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sei、EVM専用チェーン化を視野に「SIP-3」提出、Cosmosトランザクション廃止か]]></title>
+        <id>https://www.neweconomy.jp/?p=470454</id>
+        <link href="https://www.neweconomy.jp/posts/470454"/>
+        <updated>2025-05-11T07:17:36.000Z</updated>
+        <summary type="html"><![CDATA[セイがEVM専用チェーンへ移行か レイヤー1ブロックチェーン「Sei（セイ）」のネットワークのアーキテクチャをEVM専用のチェーンに変換する提案がコミュニティに5月7日に提出された。「Sei」の主要開発元であるSei L […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BitcoinOS、世界初のブリッジレス転送でビットコインとカルダノ間の直接トランザクション成功]]></title>
         <id>https://www.neweconomy.jp/?p=470448</id>

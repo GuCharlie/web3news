@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-12T10:44:39.009Z</updated>
+    <updated>2025-05-12T11:13:23.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナの大口トレーダー、6月末までにSOLが200ドルを超えると予想]]></title>
+        <id>https://www.coindeskjapan.com/?p=292032</id>
+        <link href="https://www.coindeskjapan.com/292032/"/>
+        <updated>2025-05-12T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[プログラマブルブロックチェーン、ソラナ（Solana）のネイティブトークンであるSOLは、4月7日以降、4週間で85%の急騰を見せ、ビットコイン（BTC） の2 ...
+ソラナの大口トレーダー、6月末までにSOLが200ドルを超えると予想 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓国の個人投資家、XRPとDOGEへの投資を拡大──貿易摩擦緩和でリスクオンが再燃]]></title>
         <id>https://www.coindeskjapan.com/?p=292020</id>
@@ -2417,26 +2428,6 @@ LINE NEXTとKaia DLT財団、テザーと連携──LINE MINI Dappでの決済�
         <summary type="html"><![CDATA[億万長者投資家ティム・ドレイパーが企業のビットコイン保有を強く推奨。2025年末に25万ドル到達を予測し、ビットコイン完全運用のファンド構想も発表した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ストライプ、100ヵ国以上にステーブルコイン口座を提供開始]]></title>
-        <id>https://jp.cointelegraph.com/news/stripe-announces-stablecoin-financial-accounts</id>
-        <link href="https://jp.cointelegraph.com/news/stripe-announces-stablecoin-financial-accounts?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-05-07T22:54:00.000Z</updated>
-        <summary type="html"><![CDATA[グローバル決済プラットフォームのストライプが、100ヵ国以上のクライアントにステーブルコインベースの口座を導入した。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ストライブ、ビットコイン財務会社へ転換へ]]></title>
-        <id>https://jp.cointelegraph.com/news/strive-to-become-bitcoin-treasury-company</id>
-        <link href="https://jp.cointelegraph.com/news/strive-to-become-bitcoin-treasury-company?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-05-07T22:48:00.000Z</updated>
-        <summary type="html"><![CDATA[起業家で元大統領候補のヴィヴェック・ラマスワミー氏が創設したストライブ・アセット・マネジメントが、ビットコイン財務会社への転換計画を明らかにした。]]></summary>
-        <author>
-            <name>Cointelegraph  Alex O’Donnell</name>
         </author>
     </entry>
 </feed>

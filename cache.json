@@ -1138,21 +1138,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/AIAgent-1230.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/AIAgent-1230.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=613965",
-          "author": "幸田直子",
-          "description": "SECの内部文書が米コインベースにより公開され、イーサリアムやXRPの証券性判断をめぐって当局が抱える不確実性が露呈した。主要仮想通貨企業に対して、執行による規制を強行したSECの舞台裏は脆いものだったようだ。",
-          "link": "https://coinpost.jp/?p=613965",
-          "publishedOn": "2025-05-08T04:40:59.000Z",
-          "wordCount": 3180,
-          "title": "イーサリアム証券論争とXRP訴訟の裏側、SECの内部文書が明らかに",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/eth-accumu.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/eth-accumu.jpg"
         }
       ]
     },
@@ -1520,16 +1505,6 @@
           "wordCount": 658,
           "title": "イーサリアム、大型アップグレード「Pectra」のメインネット実装完了",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/08144236/0494b2087c118bd47bf6ef387599dfa7.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=469920",
-          "author": "gentosha_takahashi",
-          "description": "CBDC開発で産官連携強化 欧州中央銀行（ECB）が、中央銀行デジタル通貨（CBDC）「デジタルユーロ」の発行に向けたプロジェクトの一環として、欧州の利害関係者と協力するためのイノベーションプラットフォームを設立したと5 […]",
-          "link": "https://www.neweconomy.jp/posts/469920",
-          "publishedOn": "2025-05-08T04:47:20.000Z",
-          "wordCount": 598,
-          "title": "ECB、デジタルユーロのユースケース検証へ。70社参加のイノベーションプラットフォーム設立",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/08134708/4541ae1b604d93069bd1d1c9967787bd.jpg"
         }
       ]
     },
@@ -1538,6 +1513,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-all-time-high-cues-come-us-china-deal-dxy-to-1-month-high",
+          "author": "Cointelegraph  William Suberg",
+          "description": "米中の貿易協議交渉での合意のニュースを受け、5月12日の米ウォール街での取引開始時、ビットコイン（BTC）は10万4000ドル付近での保ち合いを続けた。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-all-time-high-cues-come-us-china-deal-dxy-to-1-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-12T16:25:00.000Z",
+          "wordCount": null,
+          "title": "米中貿易合意を受けて米ドル指数は1ヶ月ぶり高値に　ビットコインも追随できるか　「10万2000ドル付近に注目」",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWUyYWYtZDY0OC03NDI0LWIxNzgtMjVjYWNjNTU2N2Zh.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWUyYWYtZDY0OC03NDI0LWIxNzgtMjVjYWNjNTU2N2Zh.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/us-china-tariff-truce-crypto-market-rally",
           "author": "Cointelegraph  Zoltan Vardai",
@@ -2182,21 +2172,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzAyMGEtOGJhZi03MDZkLWExNWMtODQ4ODk2ZmMyYzVk.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/robinhood-blockchain-us-asset-trading-tokenization-europe",
-          "author": "Cointelegraph  Christopher Tepedino",
-          "description": "フィンテック企業ロビンフッドが、欧州の個人投資家向けに米国株をブロックチェーン上で取引できる新たなネットワークを構築する計画を進めている。",
-          "link": "https://jp.cointelegraph.com/news/robinhood-blockchain-us-asset-trading-tokenization-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-05-08T04:25:00.000Z",
-          "wordCount": null,
-          "title": "米ロビンフッド　欧州で米国株のブロックチェーン取引を計画　アービトラムとソラナが提携候補に＝報道",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmFjN2UtOGIwYy03MDMzLWFmMTQtZWE5YjY0MjVkY2Rl.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmFjN2UtOGIwYy03MDMzLWFmMTQtZWE5YjY0MjVkY2Rl.jpg"
         }
       ]
     },
@@ -2614,26 +2589,6 @@
           "wordCount": 583,
           "title": "【市場分析】ビットコイン98000ドルへ、回復基調も油断禁物｜次なる焦点は短期保有者の動向か",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2464800449.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=134872",
-          "author": "Crypto Troll",
-          "description": "アリゾナ州が米国で2番目となる暗号資産準備金法案を成立させました。ケイティ・ホッブス知事は2025年5月7日、下院法案2749号に署名し、暗号資産準備金の設立を認めることとなりました。これは、今週初めに同様の法案を可決し […]\n投稿 アリゾナ州、暗号資産準備金設立法案が成立｜米国2例目 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-arizona-passes-bill-to-establish-cryptocurrency-reserve/",
-          "publishedOn": "2025-05-08T04:35:12.000Z",
-          "wordCount": 580,
-          "title": "アリゾナ州、暗号資産準備金設立法案が成立｜米国2例目",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2242103179.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=134871",
-          "author": "Crypto Troll",
-          "description": "米国の証券取引プラットフォーム、ロビンフッドが、ヨーロッパの個人投資家向けにブロックチェーン技術を活用した米国証券取引プラットフォームの構築を検討していると、ブルームバーグニュースが2025年5月7日に報じました。この計 […]\n投稿 ロビンフッド、欧州でブロックチェーン米国株取引を計画｜Arbitrumかソラナ基盤か は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-robinhood-plans-blockchain-us-stock-trading-in-europe/",
-          "publishedOn": "2025-05-08T04:28:13.000Z",
-          "wordCount": 584,
-          "title": "ロビンフッド、欧州でブロックチェーン米国株取引を計画｜Arbitrumかソラナ基盤か",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_1925038823.jpg"
         }
       ]
     }

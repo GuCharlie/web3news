@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-12T15:42:31.663Z</updated>
+    <updated>2025-05-12T16:20:02.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米中貿易協議で合意　仮想通貨と株式市場で反発の後押しとなるか]]></title>
+        <id>https://jp.cointelegraph.com/news/us-china-tariff-truce-crypto-market-rally</id>
+        <link href="https://jp.cointelegraph.com/news/us-china-tariff-truce-crypto-market-rally?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-12T15:35:00.000Z</updated>
+        <summary type="html"><![CDATA[米国と中国による90日間の関税合意が、株式市場と仮想通貨市場全体の回復局面を後押しする可能性が出てきた。投資家の間では、さらなる税制優遇策への期待も高まりつつある。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【5/12話題】メタプラネットが184億円でビットコイン購入、米ステーブルコインのGENIUS法案の最新版など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=470587</id>
@@ -2221,47 +2231,6 @@ Gaudiyがソニー、バンダイナムコから100億円調達──3社は戦�
         <summary type="html"><![CDATA[フィンテック企業ロビンフッドが、欧州の個人投資家向けに米国株をブロックチェーン上で取引できる新たなネットワークを構築する計画を進めている。]]></summary>
         <author>
             <name>Cointelegraph  Christopher Tepedino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産を州財政に組み込む動き進む。米アリゾナ・ニューハンプシャーで法制化相次ぐ]]></title>
-        <id>https://www.neweconomy.jp/?p=469907</id>
-        <link href="https://www.neweconomy.jp/posts/469907"/>
-        <updated>2025-05-08T04:08:14.000Z</updated>
-        <summary type="html"><![CDATA[州の財政戦略に広がる暗号資産活用 米アリゾナ州にて、暗号資産（仮想通貨）準備金が、5月7日に正式に設立された。 この設立は、アリゾナ州の法案「HB2749」の成立を受けてのものである。「HB2749」は、デジタル資産や暗 […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国発のデジタル資産クオンツ投資ソリューション企業「AM Management」、J-CAMよりシリーズA資金調達を実施]]></title>
-        <id>https://crypto-times.jp/?p=134848</id>
-        <link href="https://crypto-times.jp/press-am-management/"/>
-        <updated>2025-05-08T04:00:43.000Z</updated>
-        <summary type="html"><![CDATA[Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 – BitLendingを傘下に持つ日本最大手のカストディ企業グループ […]
-投稿 韓国発のデジタル資産クオンツ投資ソリューション企業「AM Management」、J-CAMよりシリーズA資金調達を実施 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIとステーブルコインが変える決済の未来、コインベースが「x402」を発表]]></title>
-        <id>https://coinpost.jp/?p=613954</id>
-        <link href="https://coinpost.jp/?p=613954"/>
-        <updated>2025-05-08T04:00:40.000Z</updated>
-        <summary type="html"><![CDATA[コインベースが新オープンソース決済プロトコル「x402」を発表。HTTP 402を活用しステーブルコインによる決済レイヤーを実現へ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ・ミームコインの大口保有者　一部は米国外の投資家か　政治的影響懸念も浮上]]></title>
-        <id>https://jp.cointelegraph.com/news/donald-trump-memecoin-dinner-foreign</id>
-        <link href="https://jp.cointelegraph.com/news/donald-trump-memecoin-dinner-foreign?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-05-08T03:50:00.000Z</updated>
-        <summary type="html"><![CDATA[トランプ大統領の公式ミームコイン「オフィシャル・トランプ（TRUMP）」の大口保有者の一部は、米国外に居住している可能性がある。]]></summary>
-        <author>
-            <name>Cointelegraph  Turner Wright</name>
         </author>
     </entry>
 </feed>

@@ -1153,21 +1153,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/eth-accumu.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/eth-accumu.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=613954",
-          "author": "菊谷ルイス",
-          "description": "コインベースが新オープンソース決済プロトコル「x402」を発表。HTTP 402を活用しステーブルコインによる決済レイヤーを実現へ。",
-          "link": "https://coinpost.jp/?p=613954",
-          "publishedOn": "2025-05-08T04:00:40.000Z",
-          "wordCount": 3157,
-          "title": "AIとステーブルコインが変える決済の未来、コインベースが「x402」を発表",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/coinbase-402-x.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/coinbase-402-x.jpg"
         }
       ]
     },
@@ -1545,16 +1530,6 @@
           "wordCount": 598,
           "title": "ECB、デジタルユーロのユースケース検証へ。70社参加のイノベーションプラットフォーム設立",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/08134708/4541ae1b604d93069bd1d1c9967787bd.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=469907",
-          "author": "gentosha_takahashi",
-          "description": "州の財政戦略に広がる暗号資産活用 米アリゾナ州にて、暗号資産（仮想通貨）準備金が、5月7日に正式に設立された。 この設立は、アリゾナ州の法案「HB2749」の成立を受けてのものである。「HB2749」は、デジタル資産や暗 […]",
-          "link": "https://www.neweconomy.jp/posts/469907",
-          "publishedOn": "2025-05-08T04:08:14.000Z",
-          "wordCount": 823,
-          "title": "暗号資産を州財政に組み込む動き進む。米アリゾナ・ニューハンプシャーで法制化相次ぐ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/08130751/d20dd0ed02b8e366f14d63b030020b1f.jpg"
         }
       ]
     },
@@ -1563,6 +1538,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/us-china-tariff-truce-crypto-market-rally",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "米国と中国による90日間の関税合意が、株式市場と仮想通貨市場全体の回復局面を後押しする可能性が出てきた。投資家の間では、さらなる税制優遇策への期待も高まりつつある。",
+          "link": "https://jp.cointelegraph.com/news/us-china-tariff-truce-crypto-market-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-12T15:35:00.000Z",
+          "wordCount": null,
+          "title": "米中貿易協議で合意　仮想通貨と株式市場で反発の後押しとなるか",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTMzZDctZGI1OC03NWMwLWFhYTEtZjMyNTU5ZmVmZDE4.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTMzZDctZGI1OC03NWMwLWFhYTEtZjMyNTU5ZmVmZDE4.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0512",
           "author": "Cointelegraph  ビットバンク　長谷川友哉",
@@ -2207,21 +2197,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmFjN2UtOGIwYy03MDMzLWFmMTQtZWE5YjY0MjVkY2Rl.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/donald-trump-memecoin-dinner-foreign",
-          "author": "Cointelegraph  Turner Wright",
-          "description": "トランプ大統領の公式ミームコイン「オフィシャル・トランプ（TRUMP）」の大口保有者の一部は、米国外に居住している可能性がある。",
-          "link": "https://jp.cointelegraph.com/news/donald-trump-memecoin-dinner-foreign?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-05-08T03:50:00.000Z",
-          "wordCount": null,
-          "title": "トランプ・ミームコインの大口保有者　一部は米国外の投資家か　政治的影響懸念も浮上",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGE3MzUtZDA5Ny03NmQ4LWJlOTctMDcyMDJhMmNjZGZl.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGE3MzUtZDA5Ny03NmQ4LWJlOTctMDcyMDJhMmNjZGZl.jpg"
         }
       ]
     },
@@ -2659,16 +2634,6 @@
           "wordCount": 584,
           "title": "ロビンフッド、欧州でブロックチェーン米国株取引を計画｜Arbitrumかソラナ基盤か",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_1925038823.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=134848",
-          "author": "Crypto Times 編集部",
-          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 – BitLendingを傘下に持つ日本最大手のカストディ企業グループ […]\n投稿 韓国発のデジタル資産クオンツ投資ソリューション企業「AM Management」、J-CAMよりシリーズA資金調達を実施 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/press-am-management/",
-          "publishedOn": "2025-05-08T04:00:43.000Z",
-          "wordCount": 608,
-          "title": "韓国発のデジタル資産クオンツ投資ソリューション企業「AM Management」、J-CAMよりシリーズA資金調達を実施",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/image.jpg"
         }
       ]
     }

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=292048",
+          "author": "林 理南",
+          "description": "トランプ一家が支援し、ハット8（Hut 8）が過半数の株式を保有する子会社アメリカン・ビットコイン（American Bitcoin）は、グリフォン・デジタル・ ...\nトランプ一家が支援するアメリカン・ビットコイン、グリフォン・デジタルと合併で上場へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/292048/",
+          "publishedOn": "2025-05-12T21:00:00.000Z",
+          "wordCount": 1306,
+          "title": "トランプ一家が支援するアメリカン・ビットコイン、グリフォン・デジタルと合併で上場へ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/shutterstock_2525064959.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=292085",
           "author": "林 理南",
           "description": "強気相場が戻ってきた。ビットコイン（BTC）だけではない。 最新のデータによると、ステーブルコインを除く時価総額上位10位の暗号資産（仮想通貨）のうち少なくとも ...\nXRP、ビットコインなどの主要トークン、強気相場回帰の兆し first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -414,6 +424,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=615781",
+          "author": "菊谷ルイス",
+          "description": "フランスのThe Blockchain Groupは、仮想通貨ビットコインの保有量増加を目的とした20億円の転換社債発行を発表。戦略的投資家Adam Back氏による投資が含まれ、同社のBTC戦略が加速へ。",
+          "link": "https://coinpost.jp/?p=615781",
+          "publishedOn": "2025-05-12T20:55:10.000Z",
+          "wordCount": 3168,
+          "title": "フランス上場企業、ビットコイン戦略強化のため20億円調達",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-2.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=615777",
+          "author": "菊谷ルイス",
+          "description": "マイケル・セイラーのストラテジー社は、2025年5月5日から11日にかけて13390BTCを約13.4億ドルで購入し、ビットコイン保有額が590億ドルに達した。",
+          "link": "https://coinpost.jp/?p=615777",
+          "publishedOn": "2025-05-12T20:40:40.000Z",
+          "wordCount": 3167,
+          "title": "マイケル・セイラーのストラテジー社、2000億円相当のビットコインを追加購入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/LqfhxXPF-1-1.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/LqfhxXPF-1-1.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=615305",
           "author": "幸田直子",
@@ -1013,21 +1053,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/tax-infra-bill-tax-biden.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/tax-infra-bill-tax-biden.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=596261",
-          "author": "CoinPost編集部",
-          "description": "Oasysの松原代表とSBIVCの近藤代表が語る、Web2からWeb3への進化と今後の展望。NFTの限界を超えるトークンの可能性、日本の規制環境を活かした独自戦略、そしてSBIグループとの協業による新たな価値創造の取り組みとは。",
-          "link": "https://coinpost.jp/?p=596261",
-          "publishedOn": "2025-05-08T09:00:17.000Z",
-          "wordCount": 3248,
-          "title": "Oasys × SBI VC Tradeトップ対談　NFTからトークンへの戦略シフト、その背景は？",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/SBIVC_Oasys1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/SBIVC_Oasys1.jpg"
         }
       ]
     },
@@ -1353,6 +1378,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-price-sells-off-after-trump-s-us-china-tariff-deal-here-is-why",
+          "author": "Cointelegraph  Marcel Pechman",
+          "description": "5月12日、ビットコイン（BTC）は3カ月ぶりとなる10万5720ドルの高値をつけたものの、その後は上昇の勢いを維持できず10万2000ドルまで下落した。米中両国が関税問題で合意という一見ポジティブな材料を受けた後の値下がりに、市場関係者の間では困惑が広がっている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-price-sells-off-after-trump-s-us-china-tariff-deal-here-is-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-12T21:05:00.000Z",
+          "wordCount": null,
+          "title": "ビットコインが10万2000台ドルまで反落　米中関税合意にもかかわらず仮想通貨市場は伸び悩み",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmM2MjEtYzZlZi03N2JmLTg2ODEtODMyNGE3ZGJiZTI0.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmM2MjEtYzZlZi03N2JmLTg2ODEtODMyNGE3ZGJiZTI0.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/strategy-buys-13-390-bitcoin-for-1-34-b-as-price-pushes-100-k",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "ビットコイン（BTC）が10万ドルの大台を回復する中、マイケル・セイラー氏が共同創業者を務めるストラテジー（旧マイクロストラテジー）は、新たにビットコインを大量取得した。",
+          "link": "https://jp.cointelegraph.com/news/strategy-buys-13-390-bitcoin-for-1-34-b-as-price-pushes-100-k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-12T21:00:00.000Z",
+          "wordCount": null,
+          "title": "マイケル・セイラー氏率いるストラテジー、ビットコインを1万3390BTC追加取得",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTM3ZmItYmU1MC03Mjc1LTlkMjUtNWEzNzY3YjAyMmNj.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTM3ZmItYmU1MC03Mjc1LTlkMjUtNWEzNzY3YjAyMmNj.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-all-time-high-cues-come-us-china-deal-dxy-1-month-high",
           "author": "Cointelegraph  William Suberg",

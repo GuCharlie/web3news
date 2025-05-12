@@ -1383,21 +1383,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/bitcoin-2025-1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/bitcoin-2025-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=613822",
-          "author": "菊谷ルイス",
-          "description": "仮想通貨イーサリアムがメインネットで歴史的アップグレード「ペクトラ」を実装。2022年のマージ以来最重要とされるこの更新は、EIP数で史上最大規模となった。",
-          "link": "https://coinpost.jp/?p=613822",
-          "publishedOn": "2025-05-07T20:35:17.000Z",
-          "wordCount": 3194,
-          "title": "イーサリアム、マージ以来最大のアップグレードを実装完了",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/EthereumMining1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/EthereumMining1.png"
         }
       ]
     },
@@ -1783,6 +1768,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0512",
+          "author": "Cointelegraph  ビットバンク　長谷川友哉",
+          "description": "5日〜11日のビットコイン（BTC）対円相場の週足終値は、前週比151万9113円（11.11%）高の1519万4113円と5週続伸した。",
+          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0512?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-12T08:07:00.000Z",
+          "wordCount": null,
+          "title": "BTCは史上最高値が射程圏内に　米中通商協議の結果とインフレ指標でどう動く？【ビットバンク仮想通貨分析】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMjhhNzQ0ZjQyMWJjYjlmNzYwMmM4N2MxYzI3MWIwZC5qcGc=.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMjhhNzQ0ZjQyMWJjYjlmNzYwMmM4N2MxYzI3MWIwZC5qcGc=.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0512",
           "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
@@ -2555,6 +2555,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=135098",
+          "author": "Crypto Troll",
+          "description": "日本の投資会社メタプラネットは12日、新たに約1億2670万ドル相当のビットコイン（BTC）を購入したと発表しました。これにより同社のビットコイン総保有量は中米エルサルバドルの国家保有量を上回り、市場の注目を集めています […]\n投稿 メタプラネット、BTC追加購入でエルサルバドル超え は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-metaplanet-surpasses-el-salvador-with-additional-btc-purchases/",
+          "publishedOn": "2025-05-12T08:28:16.000Z",
+          "wordCount": 601,
+          "title": "メタプラネット、BTC追加購入でエルサルバドル超え",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2457935329.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=135099",
           "author": "Crypto Troll",

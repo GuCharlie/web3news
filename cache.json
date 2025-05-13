@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=292248",
+          "author": "Shaurya Malwa",
+          "description": "5月12日の夜、暗号資産（仮想通貨）市場で急激な下落が発生し、5億ドル（約750億円、1ドル=150円換算）を超えるロングポジションの清算が発生した。ビットコイ ...\nビットコインの急落で5億ドルのロングポジションが清算──DOGEとADAは7%下落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/292248/",
+          "publishedOn": "2025-05-13T08:25:00.000Z",
+          "wordCount": 1311,
+          "title": "ビットコインの急落で5億ドルのロングポジションが清算──DOGEとADAは7%下落",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/shutterstock_2485959187.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=292210",
           "author": "栃山直樹",
           "description": "万博会場と大阪の街を繋ぐ「夜のパビリオン」構想の中心プロジェクトとされる「EXPO酒場本店」において、「EXPO2025デジタルウォレット」を活用した新たなリピ ...\n万博ウォレット、NFT会員証で「EXPO酒場」一杯無料 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -1363,21 +1373,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/07/ripple-1-20190716.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/07/ripple-1-20190716.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=614195",
-          "author": "菊谷ルイス",
-          "description": "ミズーリ州議会が下院法案594を可決し、米国初となるキャピタルゲイン税廃止が知事の署名待ちに。成立すれば株式・仮想通貨・不動産の売却益に対する州税が撤廃され、投資家にとって大きな税制優遇となる。",
-          "link": "https://coinpost.jp/?p=614195",
-          "publishedOn": "2025-05-08T20:40:54.000Z",
-          "wordCount": 3165,
-          "title": "仮想通貨利益も非課税に　ミズーリ州、米国初のキャピタルゲイン税廃止へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/tax-infra-bill-tax-biden.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/tax-infra-bill-tax-biden.png"
         }
       ]
     },
@@ -1763,6 +1758,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0513",
+          "author": "Cointelegraph  ビットバンク　長谷川友哉",
+          "description": "12日のビットコイン（BTC）円は1519万8182円から取引が始まった。",
+          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0513?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-13T08:37:00.000Z",
+          "wordCount": null,
+          "title": "「アメリカ売り」逆転がBTCの上値を限定　米CPIで利食い進むか【ビットバンク仮想通貨分析】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jY2RkZjRmZDA1YjlkMTc4MDVkNzJkM2M5ZGIwMTRjZS5qcGc=.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jY2RkZjRmZDA1YjlkMTc4MDVkNzJkM2M5ZGIwMTRjZS5qcGc=.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/corporates-biggest-bitcoin-buyers-this-year-river",
+          "author": "Cointelegraph  Martin Young",
+          "description": "2025年に入ってから、ビットコイン（BTC）の最大の購入主体は企業となっており、上場投資信託（ETF）や個人投資家を大きく上回っている。ビットコイン投資会社リバーの新たな調査で明らかになった。",
+          "link": "https://jp.cointelegraph.com/news/corporates-biggest-bitcoin-buyers-this-year-river?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-13T08:30:00.000Z",
+          "wordCount": null,
+          "title": "企業がビットコインを大量購入　ETFや個人投資家を凌駕　供給圧力で「事実上の半減期」との指摘も",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjY0ZmEtNzA4Ni03MjY4LTg2MmMtMGEyMDY3NDE2MjM5.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjY0ZmEtNzA4Ni03MjY4LTg2MmMtMGEyMDY3NDE2MjM5.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/animoca-brands-new-york-listing-trump-crypto-push",
           "author": "Cointelegraph  Amin Haqshanas",

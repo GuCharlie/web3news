@@ -485,6 +485,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=616298",
+          "author": "菊谷ルイス",
+          "description": "ロンドン拠点のAbraxas Capitalが、過去6日間で約21万ETHを取得。AaveからUSDTを借入しBinanceに入金。ペクトラ・アップグレードを契機にETH価格は急上昇。",
+          "link": "https://coinpost.jp/?p=616298",
+          "publishedOn": "2025-05-13T20:30:51.000Z",
+          "wordCount": 3185,
+          "title": "ロンドン資産運用会社がイーサリアムを大量購入、過去一週間で700億円相当分取得",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/pectra-fusaka-ethereum.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/pectra-fusaka-ethereum.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=616007",
           "author": "AKIRA.H",
           "description": "ビットバンクがコスモス(ATOM)の取扱いを開始。6月12日までメイカー・テイカー共に手数料0%のキャンペーン実施中。現物取引、販売所、貸出の3サービスに対応、「貸して増やす」なら年率最大5%の運用も可能だ。",
@@ -2167,36 +2182,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzY2ODgtYzEyNC03Mzc4LWJlMzUtNzllNmFhYTAwNDhm.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0509",
-          "author": "Cointelegraph  ビットバンク　長谷川友哉",
-          "description": "8日のビットコイン（BTC）円は1398万9878円から取引が始まった。",
-          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0509?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-05-09T08:32:00.000Z",
-          "wordCount": null,
-          "title": "BTC上伸で10万ドルを回復　市場の注目は米中通商協議へ【ビットバンク仮想通貨分析】",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMjhhNzQ0ZjQyMWJjYjlmNzYwMmM4N2MxYzI3MWIwZC5qcGc=.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMjhhNzQ0ZjQyMWJjYjlmNzYwMmM4N2MxYzI3MWIwZC5qcGc=.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0509",
-          "author": "Cointelegraph  ビットバンク　長谷川友哉",
-          "description": "8日のビットコイン（BTC）円は1398万9878円から取引が始まった。",
-          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0509?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-05-09T08:32:00.000Z",
-          "wordCount": null,
-          "title": "BTC上伸で10万ドルを回復　市場の注目は米中通商協議へ【ビットバンク仮想通貨分析】",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMjhhNzQ0ZjQyMWJjYjlmNzYwMmM4N2MxYzI3MWIwZC5qcGc=.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMjhhNzQ0ZjQyMWJjYjlmNzYwMmM4N2MxYzI3MWIwZC5qcGc=.jpg"
         }
       ]
     },

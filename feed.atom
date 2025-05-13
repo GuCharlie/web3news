@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-13T20:17:42.581Z</updated>
+    <updated>2025-05-13T20:40:42.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ロンドン資産運用会社がイーサリアムを大量購入、過去一週間で700億円相当分取得]]></title>
+        <id>https://coinpost.jp/?p=616298</id>
+        <link href="https://coinpost.jp/?p=616298"/>
+        <updated>2025-05-13T20:30:51.000Z</updated>
+        <summary type="html"><![CDATA[ロンドン拠点のAbraxas Capitalが、過去6日間で約21万ETHを取得。AaveからUSDTを借入しBinanceに入金。ペクトラ・アップグレードを契機にETH価格は急上昇。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meebits、新たな報酬プログラム「Bits Rewards」を開始]]></title>
         <id>https://crypto-times.jp/?p=135160</id>
@@ -2062,26 +2072,6 @@ DOGE、XRP、ETH、SOLがBTCに続き一目均衡表の雲を突破──アル�
 フロリダ州の医薬品卸売企業がXRPをリアルタイム決済に採用 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTC上伸で10万ドルを回復　市場の注目は米中通商協議へ【ビットバンク仮想通貨分析】]]></title>
-        <id>https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0509</id>
-        <link href="https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0509?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-05-09T08:32:00.000Z</updated>
-        <summary type="html"><![CDATA[8日のビットコイン（BTC）円は1398万9878円から取引が始まった。]]></summary>
-        <author>
-            <name>Cointelegraph  ビットバンク　長谷川友哉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTC上伸で10万ドルを回復　市場の注目は米中通商協議へ【ビットバンク仮想通貨分析】]]></title>
-        <id>https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0509</id>
-        <link href="https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0509?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-05-09T08:32:00.000Z</updated>
-        <summary type="html"><![CDATA[8日のビットコイン（BTC）円は1398万9878円から取引が始まった。]]></summary>
-        <author>
-            <name>Cointelegraph  ビットバンク　長谷川友哉</name>
         </author>
     </entry>
 </feed>

@@ -1308,36 +1308,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0555.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0555.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=614215",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨取引所コインベースは、デリバティブ大手Deribitの買収で合意したと発表。買収金額、今後の目標、デリビットCEOのコメントなどを公表した。",
-          "link": "https://coinpost.jp/?p=614215",
-          "publishedOn": "2025-05-08T22:40:37.000Z",
-          "wordCount": 3191,
-          "title": "コインベース、デリビット買収合意　時価総額1兆ドルへ成長の可能性",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/Coinbase-Deribit-Acquisition.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/Coinbase-Deribit-Acquisition.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=614221",
-          "author": "菊谷ルイス",
-          "description": "米SECのパース委員がブロックチェーンを活用した証券の発行・取引・決済を可能にする規制免除命令を検討中と発表。企業がトークン化証券のための革新的取引システムを利用できる環境整備を目指す。",
-          "link": "https://coinpost.jp/?p=614221",
-          "publishedOn": "2025-05-08T22:25:33.000Z",
-          "wordCount": 3157,
-          "title": "米SEC、証券のトークン化促進に向け規制緩和を検討",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/new-sec-firing-and-50k.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/new-sec-firing-and-50k.jpg"
         }
       ]
     },
@@ -1346,6 +1316,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=470673",
+          "author": "NewEconomyPodcast",
+          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/470673",
+          "publishedOn": "2025-05-13T10:26:05.000Z",
+          "wordCount": 798,
+          "title": "【5/13話題】米コインベースが「S＆P500」銘柄入り、米SECが暗号資産政策の抜本改革へなど（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/13162732/783fa21284d2bafd2a3b9a792daf0d36.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=470660",
           "author": "OtsugaShinya",
@@ -2847,36 +2827,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmIxOGYtZTZiOS03YmNiLWJhMDctZTMyMDdiZmRkMTg3.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/us-genius-stablecoin-act-fails-to-pass-cloture-by-to-vote",
-          "author": "Cointelegraph  Christopher Tepedino",
-          "description": "米国におけるステーブルコイン規制に向けた法案「2025年全米ステーブルコイン国家的イノベーション指針および確立法（GENIUS法案）」は、5月8日に米上院での討議終結（クロージャー）投票で否決され、国内の仮想通貨規制にとって小さな打撃となった。",
-          "link": "https://jp.cointelegraph.com/news/us-genius-stablecoin-act-fails-to-pass-cloture-by-to-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-05-08T22:36:00.000Z",
-          "wordCount": null,
-          "title": "米ステーブルコイン法案が否決、民主党が反発",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmIxMzktZmYzNS03NTAxLTk0ZmUtNGI1ZmIwODAwYmM0.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmIxMzktZmYzNS03NTAxLTk0ZmUtNGI1ZmIwODAwYmM0.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/donald-trump-xrp-crypto-reserve-trick",
-          "author": "Cointelegraph  Turner Wright",
-          "description": "米国大統領ドナルド・トランプ氏が、リップル社と関係のあるロビイストに操作され、自身の国家仮想通貨準備計画にXRPトークンを含める発表を行ったと報じられている。",
-          "link": "https://jp.cointelegraph.com/news/donald-trump-xrp-crypto-reserve-trick?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-05-08T22:19:00.000Z",
-          "wordCount": null,
-          "title": "トランプ氏、XRPを仮想通貨準備金に推進するよう仕向けられる＝報道",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmIxMDgtNDA0Zi03YmNhLWFhNDUtYzFhMjY5NjUwOTFj.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmIxMDgtNDA0Zi03YmNhLWFhNDUtYzFhMjY5NjUwOTFj.jpg"
         }
       ]
     },
@@ -2885,6 +2835,26 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=135160",
+          "author": "Crypto Times 編集部",
+          "description": "NFTプロジェクト「Meebits」は、新たな報酬システム「Bits Rewards プログラム」を開始したことを発表しました。このプログラムを通じてユーザーは「BITS」というポイントを獲得できます。 1/ Our B […]\n投稿 Meebits、新たな報酬プログラム「Bits Rewards」を開始 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-meebits-bits-rewards/",
+          "publishedOn": "2025-05-13T10:38:01.000Z",
+          "wordCount": 633,
+          "title": "Meebits、新たな報酬プログラム「Bits Rewards」を開始",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2024/07/shutterstock_2273492585.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=135153",
+          "author": "Crypto Times 編集部",
+          "description": "スイスで行われた米中間の交渉において、両国が90日間の期限付きで互いの関税を大幅に削減することに合意されました。この合意により米国の対中関税率は145%から10%へ、中国の対米関税率は125%から10%へと大幅に引き下げ […]\n投稿 米中関税の大幅削減決定、ビットコインへの影響は？ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-us-china-tariff-cut-bitcoin-impact/",
+          "publishedOn": "2025-05-13T10:24:51.000Z",
+          "wordCount": 642,
+          "title": "米中関税の大幅削減決定、ビットコインへの影響は？",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2489117415.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=135149",
           "author": "Crypto Times 編集部",

@@ -440,16 +440,6 @@
           "wordCount": 1342,
           "title": "DOGE、XRP、ETH、SOLがBTCに続き一目均衡表の雲を突破──アルトコインの勢いが増す",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/879db233b3d9df4a276c2627b8ec93f8f2cb4632-1280x854-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=291746",
-          "author": "Shaurya Malwa",
-          "description": "ドイツ当局は暗号資産（仮想通貨）取引所のeXchを閉鎖し、3800万ドル（約55億1000万円、1ドル=145円換算）相当のトークンと8テラバイトを超えるデータ ...\nドイツ当局、資金洗浄の疑いのある取引所から3800万ドル相当のトークンを押収──バイビット、ジェネシスの事件に関連か first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/291746/",
-          "publishedOn": "2025-05-09T10:50:00.000Z",
-          "wordCount": 1325,
-          "title": "ドイツ当局、資金洗浄の疑いのある取引所から3800万ドル相当のトークンを押収──バイビット、ジェネシスの事件に関連か",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/01/shutterstock_680075002.jpg"
         }
       ]
     },
@@ -464,6 +454,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=616339",
+          "author": "菊谷ルイス",
+          "description": "アナリストBorisVestの分析によると、XRPはバイナンスで売り圧力が吸収され、強気シグナルが点灯。OI（建玉）の上昇と共に、価格上昇の可能性が高まる模様だ。",
+          "link": "https://coinpost.jp/?p=616339",
+          "publishedOn": "2025-05-13T22:55:45.000Z",
+          "wordCount": 3189,
+          "title": "XRPの価格動向　バイナンス先物データに見る強気の兆しとは、アナリスト分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/xrp-new-new-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/xrp-new-new-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=616320",
           "author": "菊谷ルイス",
@@ -1373,6 +1378,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/market-volatility-indicator-still-points-to-135-k-bitcoin-within-100-days-analyst",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "CBOEボラティリティ・インデックス（VIX）が2025年初頭の60から、過去30年の平均値である20まで下落したことを受け、ビットコイン（BTC）は10万ドル超で高値圏を維持している。",
+          "link": "https://jp.cointelegraph.com/news/market-volatility-indicator-still-points-to-135-k-bitcoin-within-100-days-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-13T22:49:00.000Z",
+          "wordCount": null,
+          "title": "市場のボラティリティ指標、100日以内にビットコイン13万5,000ドル到達を示唆＝アナリスト",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmNhYjMtODE4NS03ODc3LWE4Y2UtNzg3NGExNjYzM2Vj.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmNhYjMtODE4NS03ODc3LWE4Y2UtNzg3NGExNjYzM2Vj.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/coinbase-invests-in-canadian-stablecoin-issuer",
+          "author": "Cointelegraph  Alex O’Donnell",
+          "description": "コインベースは、カナダのステーブルコイン発行企業ステーブルコープ（Stablecorp）と提携し、トークン化されたカナダドルへのアクセス拡大を図る。",
+          "link": "https://jp.cointelegraph.com/news/coinbase-invests-in-canadian-stablecoin-issuer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-13T22:38:00.000Z",
+          "wordCount": null,
+          "title": "コインベース、カナダのステーブルコイン発行企業に出資",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmNiMGQtZDA1ZS03ZWIyLTk2NDAtMDVmZmUyOTllNzRi.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmNiMGQtZDA1ZS03ZWIyLTk2NDAtMDVmZmUyOTllNzRi.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/yuga-labs-sells-crypto-punks-ip-infinite-node-foundation",
           "author": "Cointelegraph  Alex O’Donnell",
@@ -2564,16 +2599,6 @@
           "wordCount": 603,
           "title": "リップル（XRP）、1億ドル超の謎送金発生｜OTC取引か新たな買い集めか",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2239791659.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=134978",
-          "author": "Crypto Troll",
-          "description": "ビットコインが10万ドルの大台への復帰を目指すなど、暗号資産市場全体が活気を取り戻す中、イーサリアム（ETH）も20%の急騰を記録しています。 この価格高騰の背景には、Pectraアップグレードによるネットワークの効率性 […]\n投稿 イーサリアム20%超の急騰、割安感とPectraアップグレードが後押しか は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-ethereum-surges-by-over-20-boosted-by-undervaluation-and-pectra-upgrade/",
-          "publishedOn": "2025-05-09T11:13:26.000Z",
-          "wordCount": 580,
-          "title": "イーサリアム20%超の急騰、割安感とPectraアップグレードが後押しか",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_1873268185.jpg"
         }
       ]
     }

@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=292106",
+          "author": "廣瀬 優香",
+          "description": "暗号資産（仮想通貨）取引所コインベース（Coinbase）は、同社株が広範な市場であるS&P500株価指数に採用されるというニュースを受けて、12日の市 ...\nコインベース株が8%急騰──S&P500指数に採用で first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/292106/",
+          "publishedOn": "2025-05-13T00:48:55.000Z",
+          "wordCount": 1335,
+          "title": "コインベース株が8%急騰──S&P500指数に採用で",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/03ab15a46a49d90cd40a30c7756dd0610bc6a533-3645x2050-1.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=292097",
+          "author": "増田隆幸",
+          "description": "1口1万円の不動産セキュリティ・トークンが登場する。 スターツコーポレーション（以下、スターツグループ）、みずほ証券、Securitize Japanは、不動産 ...\n不動産セキュリティ・トークンの多様化進む──スターツ、みずほ証券、Securitizeが1口1万円で発行 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/292097/",
+          "publishedOn": "2025-05-13T00:19:12.000Z",
+          "wordCount": 1356,
+          "title": "不動産セキュリティ・トークンの多様化進む──スターツ、みずほ証券、Securitizeが1口1万円で発行",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/starts.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=292102",
           "author": "Margaux Nijkerk",
           "description": "先週、ここ1年以上で最大のアップグレードであるペクトラ（Pectra）のデプロイが成功した後、イーサリアムネットワークのコア開発者らはすでに、次の主要なアップグ ...\nイーサリアムの次なるアップグレード「Fusaka」、レイヤー2とバリデーターのコスト削減の可能性 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -440,10 +460,70 @@
       "articles": []
     },
     {
-      "title": "Ripple(XRP)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=615838",
+          "author": "菊谷ルイス",
+          "description": "デル・テクノロジーズが全米公共政策調査センターによる58億ドルの現金準備の一部をビットコインに転換する株主提案を正式拒否。マイクロソフトも同様の提案を却下した経緯あり。",
+          "link": "https://coinpost.jp/?p=615838",
+          "publishedOn": "2025-05-13T00:42:41.000Z",
+          "wordCount": 3173,
+          "title": "米デル、ビットコイン保有提案を拒否　8500億円超の資産は現金・債券で維持",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/dell-bitcoin-reject.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/dell-bitcoin-reject.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=615823",
+          "author": "菊谷ルイス",
+          "description": "トランプ大統領の公式ミームコイン「TRUMP」の運営チームが上位220名の保有者を対象とした晩餐会コンテストの終了を発表。参加者には限定NFTも付与予定だ。",
+          "link": "https://coinpost.jp/?p=615823",
+          "publishedOn": "2025-05-12T23:25:27.000Z",
+          "wordCount": 3236,
+          "title": "トランプ大統領晩餐会コンテスト終了、TRUMPコイン上位220名が招待へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/trump-coin-dinner.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/trump-coin-dinner.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=615801",
+          "author": "K.Kobayashi",
+          "description": "ナスダック上場のアンバーは、1億ドル規模の仮想通貨エコシステム準備金の創設計画を発表。ビットコイン、イーサリアム、XRPなどを保有することや、創設の目的を説明した。",
+          "link": "https://coinpost.jp/?p=615801",
+          "publishedOn": "2025-05-12T22:55:39.000Z",
+          "wordCount": 3186,
+          "title": "ナスダック上場企業、ビットコインなど保有の1億ドル規模準備金創設へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/CryptoCurrency_1003-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/CryptoCurrency_1003-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=615815",
+          "author": "菊谷ルイス",
+          "description": "米最大の仮想通貨取引所コインベースがS&P 500指数に採用決定。5月19日から指数入りし、発表後に株価が9%超上昇。純粋な仮想通貨企業としては初のS&P 500入りとなる。",
+          "link": "https://coinpost.jp/?p=615815",
+          "publishedOn": "2025-05-12T22:40:12.000Z",
+          "wordCount": 3164,
+          "title": "コインベース株価9%超上昇、S&P500指数入りを好感",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/coinbase-thumbnail0.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/coinbase-thumbnail0.png"
+        },
         {
           "id": "https://coinpost.jp/?p=615799",
           "author": "菊谷ルイス",
@@ -1400,16 +1480,6 @@
           "wordCount": 737,
           "title": "米リップルとSEC、NY地裁に共同で和解案を提出、判事の承認で完全終結へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/09115742/122a362fa567c8d30f787eeacc58bd2c.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=470025",
-          "author": "HitomotoToshikazu",
-          "description": "CoinbaseがUSDC決済対応プロトコル公開 HTTPステータスコード「402ペイメントリクワイアード（402 Payment Required）」を再活用する新たな決済プロトコル「x402」が、オープンソースで公開 […]",
-          "link": "https://www.neweconomy.jp/posts/470025",
-          "publishedOn": "2025-05-08T12:02:59.000Z",
-          "wordCount": 769,
-          "title": "米コインベース、USDC決済対応プロトコル「x402」をオープンソースで公開",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/08210053/9fb820006e4900dd9994ebe4f2c01f3d.jpg"
         }
       ]
     },
@@ -1418,6 +1488,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/tether-market-cap-150-billion-first-time",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "テザー（USDT）の時価総額が5月12日、初めて1500億ドルを突破した。世界的にステーブルコインの採用が広がる中で、テザーは新たな節目を迎えた。",
+          "link": "https://jp.cointelegraph.com/news/tether-market-cap-150-billion-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-12T23:55:00.000Z",
+          "wordCount": null,
+          "title": "テザーの時価総額が1500億ドルを突破　ステーブルコイン需要拡大の中で新たな節目",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWJjMDYtNmJlYi03MjJhLWI0ZTEtZWNlZDRmYzQ0Zjli.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWJjMDYtNmJlYi03MjJhLWI0ZTEtZWNlZDRmYzQ0Zjli.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/american-bitcoin-gryphon-merger-public-listing-hut8-trump",
           "author": "Cointelegraph  Adrian Zmudzinski",

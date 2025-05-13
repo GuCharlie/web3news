@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=292394",
+          "author": "Krisztian Sandor",
+          "description": "ビットコイン（BTC）は5月13日、10万4000ドルを再び上回った。歓迎すべき新しいインフレデータ、トランプ米大統領の金融市場に対する強気な見通し、コインベー ...\nビットコイン、10万5000ドルを視野に、コインベース株は24％急騰──ラリーにはさらなる伸び代とアナリスト first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/292394/",
+          "publishedOn": "2025-05-13T22:40:56.000Z",
+          "wordCount": 1343,
+          "title": "ビットコイン、10万5000ドルを視野に、コインベース株は24％急騰──ラリーにはさらなる伸び代とアナリスト",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/6ebc4014f22e328c16d3bcaded87b327824160e0-2404x1352-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=292387",
           "author": "Krisztian Sandor",
           "description": "資産運用会社のヴァンエックは、初のトークン化ファンドをローンチし、トークン化によって資産をオンチェーンに導入する機関投資家の仲間入りを果たした。 5月13日付の ...\nヴァンエック、米短期国債ファンドトークンでトークン化競争に参戦 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -454,6 +464,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=616320",
+          "author": "菊谷ルイス",
+          "description": "Crypto Daの分析によると、仮想通貨ビットコインの「実現価格」が上昇を続けており、強気市場が続くことを示唆。マイクロストラテジーや機関投資家のBTC購入が価格上昇を牽引。",
+          "link": "https://coinpost.jp/?p=616320",
+          "publishedOn": "2025-05-13T22:15:34.000Z",
+          "wordCount": 3195,
+          "title": "ビットコインの「実現価格」が示す強気相場継続のシグナル、Cryptoquantアナリスト分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-3.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-3.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=616321",
           "author": "K.Kobayashi",
@@ -1348,6 +1373,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/yuga-labs-sells-crypto-punks-ip-infinite-node-foundation",
+          "author": "Cointelegraph  Alex O’Donnell",
+          "description": "インフィニット・ノード財団（NODE）は、ユガ・ラボからNFTコレクション「クリプトパンクス」の知的財産権を取得したと、5月13日に発表した。",
+          "link": "https://jp.cointelegraph.com/news/yuga-labs-sells-crypto-punks-ip-infinite-node-foundation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-13T22:22:00.000Z",
+          "wordCount": null,
+          "title": "ユガ・ラボ、クリプトパンクスのIPをインフィニット・ノード財団に売却",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmNhM2ItOGQ0Yy03NGQyLTg2OTMtNDdhYzgxYzAwZDc2.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmNhM2ItOGQ0Yy03NGQyLTg2OTMtNDdhYzgxYzAwZDc2.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/vaneck-securitize-first-rwa-tokenization-fund",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "資産運用会社ヴァンエックが、米国財務省短期証券（Tビル）に連動する「現実世界資産（RWA）」ファンドをローンチする。",
+          "link": "https://jp.cointelegraph.com/news/vaneck-securitize-first-rwa-tokenization-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-13T22:11:00.000Z",
+          "wordCount": null,
+          "title": "ヴァンエック、初のRWAトークン化ファンドを発表",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzU0ZGYtMTcyYy03NGZhLTkxYTMtMzRhMzM5ZWM5YTg3.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzU0ZGYtMTcyYy03NGZhLTkxYTMtMzRhMzM5ZWM5YTg3.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/coinbase-largest-btc-outflow-1-b-institutional-demand",
           "author": "Cointelegraph  Zoltan Vardai",
@@ -2519,16 +2574,6 @@
           "wordCount": 580,
           "title": "イーサリアム20%超の急騰、割安感とPectraアップグレードが後押しか",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_1873268185.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=134977",
-          "author": "Crypto Troll",
-          "description": "フロリダ州を拠点とする上場ヘルスケアインフラ企業Wellgistics社が、決済システムの効率化と財務準備資産として、暗号資産リップル（XRP）を採用する計画を発表しました。同社はこの取り組みを支援するため、5000万ド […]\n投稿 米上場ヘルスケア企業、決済と財務準備にXRP採用へ｜5000万ドル調達 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-publicly-listed-us-healthcare-company-to-adopt-xrp-for-payments-and-financial-preparations/",
-          "publishedOn": "2025-05-09T10:20:36.000Z",
-          "wordCount": 580,
-          "title": "米上場ヘルスケア企業、決済と財務準備にXRP採用へ｜5000万ドル調達",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_1383582755-1.jpg"
         }
       ]
     }

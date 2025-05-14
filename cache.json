@@ -1153,21 +1153,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/metaplanet-bitcoin.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/metaplanet-bitcoin.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=614696",
-          "author": "A.Yamada",
-          "description": "台湾立法院の葛議員が国家資産の多様化を図るため仮想通貨ビットコインを準備金に採用することを提案した。米国における準備金政策の実現例も挙げている。",
-          "link": "https://coinpost.jp/?p=614696",
-          "publishedOn": "2025-05-10T00:40:35.000Z",
-          "wordCount": 3175,
-          "title": "台湾議員、ビットコイン準備金創設を提唱",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/taiwan-crypto.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/taiwan-crypto.png"
         }
       ]
     },
@@ -1176,6 +1161,36 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=470878",
+          "author": "NewEconomyPodcast",
+          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/470878",
+          "publishedOn": "2025-05-14T13:23:50.000Z",
+          "wordCount": 787,
+          "title": "【5/14話題】eToroが米ナスダック上場へ、香港アニモカが米上場を検討、TofuNFTサービス終了へなど（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/14170922/621233db8e91f08c8f1f5a5b6694d4d4.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=471000",
+          "author": "HitomotoToshikazu",
+          "description": "Crypto.comがドバイ政府と提携 海外暗号資産（仮想通貨）取引所クリプトドットコム（Crypto.com）が、ドバイ政府が提供するサービスの手数料支払いに暗号資産を活用するデジタル決済チャネルの導入に向け、ドバイ財 […]",
+          "link": "https://www.neweconomy.jp/posts/471000",
+          "publishedOn": "2025-05-14T12:51:02.000Z",
+          "wordCount": 744,
+          "title": "Crypto[.]comがドバイ政府と提携、暗号資産での公共料金支払を実現へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/14215045/05941f4a75c2fc73667942dff2a2afce.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=470993",
+          "author": "HitomotoToshikazu",
+          "description": "CryptoPunksのIPをNODEが取得 デジタルアートに特化した非営利団体インフィニットノード財団（Infinite Node Foundation：NODE）が、NFTコレクション「クリプトパンクス（Crypto […]",
+          "link": "https://www.neweconomy.jp/posts/470993",
+          "publishedOn": "2025-05-14T12:43:07.000Z",
+          "wordCount": 801,
+          "title": "CryptoPunksのIP、デジタルアート特化の非営利団体NODEが取得",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/14214238/554ec5057e681bedc0948fea946565d7.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=470868",
           "author": "OtsugaShinya",

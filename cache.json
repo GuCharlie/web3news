@@ -480,7 +480,7 @@
       "articles": []
     },
     {
-      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "S.Ninomiya  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -1569,6 +1569,21 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/history-xrp-price-gained-400-whale-flows-flipped",
+          "author": "Cointelegraph  Yashu Gola",
+          "description": "XRP（XRP）は、4月に約1.61ドルでローカルボトムを形成して以降、55％超の反発を見せており、強気のテクニカルパターンとオンチェーンデータからはさらなる上昇が示唆されている。",
+          "link": "https://jp.cointelegraph.com/news/history-xrp-price-gained-400-whale-flows-flipped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-14T06:15:00.000Z",
+          "wordCount": null,
+          "title": "XRP価格　3.45ドルがターゲットに　クジラの動向とテクニカルパターンが示唆",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmM4YTItOTIzZS03ODUwLThiYWItNDViZDc4ZDUxMjQ5.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmM4YTItOTIzZS03ODUwLThiYWItNDViZDc4ZDUxMjQ5.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/bitcoin-builders-defend-vc-role-layer-two-development",
           "author": "Cointelegraph  Adrian Zmudzinski",
           "description": "ビットコイン（BTC）エコシステムにおけるインフラ開発において、ベンチャーキャピタル（VC）は不可欠な存在とされているが、一部のビットコイン支持者の間では依然として懐疑的な見方が残っている。ドバイで開催されたカンファレンス「Token2049」では、このテーマをめぐって活発な議論が交わされた。",
@@ -2445,6 +2460,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=135186",
+          "author": "Crypto Troll",
+          "description": "フランス・パリ中心部で5月12日、暗号資産企業CEOの娘とその幼い子供が白昼に誘拐されそうになる事件が発生し、当局が捜査を進めています。この事件は組織的な犯行の可能性が指摘されており、TMZなどが報じました。 報道による […]\n投稿 暗号資産企業CEO家族、パリで誘拐未遂｜富裕層のリスク管理に警鐘 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-cryptocurrency-exchange-ceos-family-victim-of-attempted-kidnapping-in-paris/",
+          "publishedOn": "2025-05-14T06:44:07.000Z",
+          "wordCount": 577,
+          "title": "暗号資産企業CEO家族、パリで誘拐未遂｜富裕層のリスク管理に警鐘",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_1096853936.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=135187",
           "author": "Crypto Troll",

@@ -655,6 +655,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=617056",
+          "author": "CoinPost編集部",
+          "description": "リミックスポイントが25年3月期の決算を発表。暗号資産（仮想通貨）評価損が影響し、5.4億円の経常赤字となった。一方、来期はビットコインETF資金流入やトランプ政権政策を背景に、業績の大幅回復を見込んだ。",
+          "link": "https://coinpost.jp/?p=617056",
+          "publishedOn": "2025-05-15T08:44:04.000Z",
+          "wordCount": 3172,
+          "title": "リミックスポイントが決算発表、経常赤字5.4億円に　来期の暗号資産は強気シナリオ想定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/RemixPoint_0515.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/RemixPoint_0515.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=617032",
           "author": "菊谷ルイス",
           "description": "ナスダック上場のBTCS Inc.が84億円規模の転換社債発行で仮想通貨イーサリアム購入戦略を強化。第一弾の調達ではバリデーターノード運用拡大とステーキング収益増加を目指す。",
@@ -1487,6 +1502,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=471155",
+          "author": "OtsugaShinya",
+          "description": "Hinode TechnologiesがSide Protocolのバリデータに Hinode Technologies（ヒノデテクノロジーズ）が、「Side Protocol（サイドプロトコル）」のバリデータとして参加 […]",
+          "link": "https://www.neweconomy.jp/posts/471155",
+          "publishedOn": "2025-05-15T09:03:56.000Z",
+          "wordCount": 655,
+          "title": "TISとgC LabsのHinode Technologies、「Side Protocol」のノード運営に参加",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/15180344/TIS-250515royyimzy.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=471143",
           "author": "OtsugaShinya",
           "description": "Phantomが独自LSTリリース 暗号資産（仮想通貨）ウォレット「ファントム（Phantom）」独自のリキッドステーキングトークン（LST）「ファントム・ステークドSOL：Phantom Staked SOL（PSOL […]",
@@ -1973,6 +1998,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-looks-ridiculous-bulls-attempt-2t-market-cap-flip",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコイン（BTC）は現在、拡大の局面にあるとする見方が強まっている。アナリストのFilbfilb氏は「ここまで強気に見える相場は久しぶりだ」と最新の見解をXで述べた。同氏によれば、BTC/USDは現在、重要なサポートの攻防にある。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-looks-ridiculous-bulls-attempt-2t-market-cap-flip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-15T08:55:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン 時価総額2兆ドルを固めるか　仮想通貨アナリストが重要ラインの攻防を指摘",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWFlYjItZTUzZi03NzlkLWJmMzMtNmUzZDRjZDYzOGU1.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWFlYjItZTUzZi03NzlkLWJmMzMtNmUzZDRjZDYzOGU1.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0515",
+          "author": "Cointelegraph  ビットバンク　長谷川友哉",
+          "description": "14日のビットコイン（BTC）円は1537万9300円から取引が始まった。",
+          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0515?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-15T08:46:00.000Z",
+          "wordCount": null,
+          "title": "BTCは様子見で下げ渋る　米指標とパウエル議長発言で動意付くか【ビットバンク仮想通貨分析】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jY2RkZjRmZDA1YjlkMTc4MDVkNzJkM2M5ZGIwMTRjZS5qcGc=.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jY2RkZjRmZDA1YjlkMTc4MDVkNzJkM2M5ZGIwMTRjZS5qcGc=.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/paris-attacks-criminals-see-crypto-untraceable-chainalysis",
           "author": "Cointelegraph  Stephen Katte",
@@ -2902,36 +2957,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmJmODAtNzI3NS03ZWM3LTlhOTItZTBiZDczYmY1OGZj.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/strategy-michael-saylor-bitcoin-price-lagging-rotation-new-investors",
-          "author": "Cointelegraph  Ciaran Lyons",
-          "description": "ストラテジー（旧マイクロストラテジー）の創設者であるマイケル・セイラー氏は、ビットコインがまだ15万ドルに達していない理由として、長期的な視点を持たない保有者たちが売却しているからだと指摘する。ただ、新たな投資家層が市場に参入し始めているとも語る。",
-          "link": "https://jp.cointelegraph.com/news/strategy-michael-saylor-bitcoin-price-lagging-rotation-new-investors?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-05-10T21:00:00.000Z",
-          "wordCount": null,
-          "title": "ビットコインが未だ15万ドルに達していない理由　「長期的視点を持たない投資家が売却」＝マイケル・セイラー氏",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTFhZmEtMjVhNC03MDBhLThmY2YtMTRiOTYyYmM2NzVm.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTFhZmEtMjVhNC03MDBhLThmY2YtMTRiOTYyYmM2NzVm.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/strategy-michael-saylor-bitcoin-price-lagging-rotation-new-investors",
-          "author": "Cointelegraph  Ciaran Lyons",
-          "description": "ストラテジー（旧マイクロストラテジー）の創設者であるマイケル・セイラー氏は、ビットコインがまだ15万ドルに達していない理由として、長期的な視点を持たない保有者たちが売却しているからだと指摘する。ただ、新たな投資家層が市場に参入し始めているとも語る。",
-          "link": "https://jp.cointelegraph.com/news/strategy-michael-saylor-bitcoin-price-lagging-rotation-new-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-05-10T21:00:00.000Z",
-          "wordCount": null,
-          "title": "ビットコインが未だ15万ドルに達していない理由　「長期的視点を持たない投資家が売却」＝マイケル・セイラー氏",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTFhZmEtMjVhNC03MDBhLThmY2YtMTRiOTYyYmM2NzVm.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTFhZmEtMjVhNC03MDBhLThmY2YtMTRiOTYyYmM2NzVm.jpg"
         }
       ]
     },
@@ -2940,6 +2965,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=135381",
+          "author": "Crypto Times 編集部",
+          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 MOGコインは、イーサリアムとベースで人気のミームコインで、モギング（ […]\n投稿 MOGが急騰──イーロン・マスク氏やギャリー・タン氏が「mog/acc」アイデンティティを支持 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/press-mog-mog-acc/",
+          "publishedOn": "2025-05-15T09:00:45.000Z",
+          "wordCount": 617,
+          "title": "MOGが急騰──イーロン・マスク氏やギャリー・タン氏が「mog/acc」アイデンティティを支持",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/GqTKC65XYAA1RPj-990x660-1.jpeg"
+        },
         {
           "id": "https://crypto-times.jp/?p=135375",
           "author": "Crypto Times 編集部",

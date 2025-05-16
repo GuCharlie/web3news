@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-16T20:39:50.778Z</updated>
+    <updated>2025-05-16T21:14:19.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[サウジ中央銀行、15億円相当のストラテジー株保有でビットコインに間接投資]]></title>
+        <id>https://coinpost.jp/?p=617837</id>
+        <link href="https://coinpost.jp/?p=617837"/>
+        <updated>2025-05-16T21:05:22.000Z</updated>
+        <summary type="html"><![CDATA[サウジ中央銀行がセイラーのストラテジー社の株を25656株取得し仮想通貨ビットコインへの間接投資を開始したことが確認された。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【5/16話題】コインベースのSEC調査とサイバー攻撃4億ドル被害、メタマスク独自トークン可能性など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=471383</id>
@@ -3415,38 +3425,6 @@ XRP、ビットコインなどの主要トークン、強気相場回帰の兆�
 投稿 マレーシア電力網が悲鳴、違法マイニングで電力盗難300%増 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【市場分析】リップル（XRP）、直近高値$2.44トライへ｜短期上昇継続も過熱感と調整に警戒]]></title>
-        <id>https://crypto-times.jp/?p=135096</id>
-        <link href="https://crypto-times.jp/news-xrp-to-try-recent-high-of-2-44/"/>
-        <updated>2025-05-12T09:13:20.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産リップル（XRP）の価格は、直近1ヶ月で力強い上昇を見せ、現在2.42ドル付近で推移しています。短期的な上昇トレンドが形成されているものの、目先のレジスタンスラインである2.44ドル付近での攻防が注目されます。こ […]
-投稿 【市場分析】リップル（XRP）、直近高値$2.44トライへ｜短期上昇継続も過熱感と調整に警戒 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゴールドマン・サックス、ビットコインETF保有28%増｜14億ドル保有で参戦加速か]]></title>
-        <id>https://crypto-times.jp/?p=135097</id>
-        <link href="https://crypto-times.jp/news-goldman-sachs-increases-bitcoin-etf-holdings-by-28/"/>
-        <updated>2025-05-12T08:49:39.000Z</updated>
-        <summary type="html"><![CDATA[ブラックロック社の現物ビットコイン上場投資信託（ETF）であるIBITが、直近20取引日連続で純資金流入を記録し、今年の現物ビットコインETF市場における最長連続流入記録を達成しました。 この期間の流入額は約51億ドルに […]
-投稿 ゴールドマン・サックス、ビットコインETF保有28%増｜14億ドル保有で参戦加速か は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doodles、ソラナ上で独自トークン「DOOD」ローンチ]]></title>
-        <id>https://www.neweconomy.jp/?p=470602</id>
-        <link href="https://www.neweconomy.jp/posts/470602"/>
-        <updated>2025-05-12T08:48:02.000Z</updated>
-        <summary type="html"><![CDATA[Doodlesがソラナ上でDOODローンチ NFTプロジェクト「ドゥードゥルズ（Doodles）」が、独自トークン「DOOD」をソラナ（Solana）上でローンチしたと5月9日Xで発表した。 これにより、ドゥードゥルズ保 […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-17T07:35:30.701Z</updated>
+    <updated>2025-05-17T08:18:38.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは2025年末に20万ドルへ　ビットワイズ幹部が供給ショックを根拠に強気予測]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-supply-crunch-boosts-confidence-200k-target-2025-bitwise-cio</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-supply-crunch-boosts-confidence-200k-target-2025-bitwise-cio?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-17T07:40:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットワイズの最高投資責任者（CIO）であるマット・ホーガン氏は、2025年末までにビットコイン（BTC）が20万ドルに到達すると予測している。その背景には、機関投資家による旺盛な需要によって生じる「供給ショック」があるという。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「ビットコインへの51％攻撃はイーサリアムより安上がり」　イーサリアム開発者ドレイク氏がPoSの防御力を強調]]></title>
         <id>https://jp.cointelegraph.com/news/ethereum-proponent-claims-bitcoin-is-screwed-a-51-attack-likely</id>

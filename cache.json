@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=293320",
+          "author": "栃山直樹",
+          "description": "電通グループと一般社団法人 大阪外食産業協会（ORA）は5月19日、外食産業における人材ネットワーク構築を目的とした実証実験を2025年6月より開始すると発表し ...\n電通ら、外食産業向け「アメちゃんNFT」実証実験──AR融合技術で人材育成支援 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/293320/",
+          "publishedOn": "2025-05-19T08:46:45.000Z",
+          "wordCount": 1266,
+          "title": "電通ら、外食産業向け「アメちゃんNFT」実証実験──AR融合技術で人材育成支援",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/名称未設定-4.png"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=293309",
           "author": "廣瀬 優香",
           "description": "世界最大級の暗号資産（仮想通貨）取引所のうちの2つ、バイナンス（Binance）とクラーケン（Kraken）は最近、コインベース（Coinbase）で大規模な情 ...\nバイナンスとクラーケン、コインベースと類似したソーシャルエンジニアリング攻撃を阻止 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -634,6 +644,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=618519",
+          "author": "AKIRA.H",
+          "description": "リミックスポイントがEVO FUND向け新株予約権で約56億円を調達。44億円で仮想通貨ビットコイン買い増し、12億円をWeb3バリデーター事業に投資へ。",
+          "link": "https://coinpost.jp/?p=618519",
+          "publishedOn": "2025-05-19T08:15:18.000Z",
+          "wordCount": 3208,
+          "title": "リミックスポイント、最大56億円を調達へ　44億円でビットコイン買い増し",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/RemixPoint_0515.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/RemixPoint_0515.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=618448",
+          "author": "Enzo",
+          "description": "TEAMZ WEB3 AIサミットで取材したC² Ventures、DFG、Jsquareの3社が語るWeb3投資の現在地。実需・収益性・規制対応を軸に見極めが進む中、インフラやAIへの関心、そしてアジア市場の可能性にも注目が集まる。",
+          "link": "https://coinpost.jp/?p=618448",
+          "publishedOn": "2025-05-19T07:50:59.000Z",
+          "wordCount": 3235,
+          "title": "変わるWeb3業界の投資地図　今注目のVC3社が語る「実需とインフラ」重視の新戦略",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/010.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/010.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=618446",
           "author": "CoinPost編集部",
@@ -1743,6 +1783,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0519",
+          "author": "Cointelegraph  ビットバンク　長谷川友哉",
+          "description": "12日〜18日のビットコイン（BTC）対円相場の週足終値は、前週比293,197円（+1.93%）高の15,487,310円と6週続伸した。",
+          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0519?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-19T08:28:00.000Z",
+          "wordCount": null,
+          "title": "週末に動意付いたBTC　史上最高値まであと3%弱【ビットバンク仮想通貨分析】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMjhhNzQ0ZjQyMWJjYjlmNzYwMmM4N2MxYzI3MWIwZC5qcGc=.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMjhhNzQ0ZjQyMWJjYjlmNzYwMmM4N2MxYzI3MWIwZC5qcGc=.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/exploring-the-world-of-bitcoin-defi-btc-fi-with-rootstock",
           "author": "Cointelegraph  コインテレグラフ日本版広告制作部",

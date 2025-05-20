@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=293615",
+          "author": "Shaurya Malwa",
+          "description": "エックス・アール・ピー（XRP）先物は5月19日にシカゴ・マーカンタイル取引所（CME）グループのデリバティブ取引プラットフォームで取引を開始し、初日のセッショ ...\nXRP先物、CME上場初日に150万ドルの取引高を記録 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/293615/",
+          "publishedOn": "2025-05-20T09:20:00.000Z",
+          "wordCount": 1332,
+          "title": "XRP先物、CME上場初日に150万ドルの取引高を記録",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/shutterstock_2291741475.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=293571",
           "author": "Shaurya Malwa",
           "description": "暗号資産市場は過去24時間で上昇を継続し、イーサリアム（ETH）が8%急騰し、ビットコイン（BTC）は10万7000ドルの節目付近まで一時的に回復した。これは、 ...\nイーサリアムは8%急騰、ビットコインは一時10万7000ドルに迫る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -580,16 +590,6 @@
           "wordCount": 1455,
           "title": "コインベース、ユーザー数虚偽申告の疑いで米証券取引委員会が調査中",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/shutterstock_2226806119-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=292854",
-          "author": "林 理南",
-          "description": "ソラナ（SOL）では数週間の資金流出を経て資金流入が戻ってきつつある。 グラスノード（Glassnode）のデータによると、ソラナの30日間の実現時価総額流入は ...\nソラナへの資金流入が再び増加──オンチェーン需要に回復の兆し first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/292854/",
-          "publishedOn": "2025-05-15T21:30:00.000Z",
-          "wordCount": 1306,
-          "title": "ソラナへの資金流入が再び増加──オンチェーン需要に回復の兆し",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/shutterstock_2485011933.jpg"
         }
       ]
     },
@@ -1338,21 +1338,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/trump-coin-dinner.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/trump-coin-dinner.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=617372",
-          "author": "菊谷ルイス",
-          "description": "アーサー・ヘイズ氏が最新ブログで、米国債市場の信頼低下と海外資本の本国送還によりビットコインが2028年までに100万ドルに達すると予測。トランプ政権下での資本規制強化が仮想通貨市場を押し上げる要因になると分析した。",
-          "link": "https://coinpost.jp/?p=617372",
-          "publishedOn": "2025-05-15T21:40:20.000Z",
-          "wordCount": 3151,
-          "title": "アーサー・ヘイズ、米国債信頼低下で2028年までのビットコイン100万ドル到達を予測",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-czar-criticize.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-czar-criticize.jpg"
         }
       ]
     },
@@ -1361,6 +1346,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=471901",
+          "author": "gentosha_takahashi",
+          "description": "ジャック・ドーシーも反応 ビットコイン（BTC）の単位表記に関する議論が再燃している。 この議論は以前から存在したが、今回はジョン・カルバーロ（John Carvalho）氏が4月23日にGitHub上で発表した「ビット […]",
+          "link": "https://www.neweconomy.jp/posts/471901",
+          "publishedOn": "2025-05-20T09:27:36.000Z",
+          "wordCount": 699,
+          "title": "ビットコイン単位表記の再定義提案に議論が再燃",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/20182731/f473a48a16738ee7a91387d9d181219b.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=471894",
+          "author": "gentosha_takahashi",
+          "description": "イノベーションを推進、スーパーアプリ構想も視野に 米証券取引委員会（SEC）のポール・アトキンス（Paul S. Atkins）委員長は、5月19日にワシントンD.C.で開催された「SEC Speaks」カンファレンスに […]",
+          "link": "https://www.neweconomy.jp/posts/471894",
+          "publishedOn": "2025-05-20T09:19:34.000Z",
+          "wordCount": 606,
+          "title": "米SEC、新委員長が暗号資産規制の明確化を宣言",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/20181928/SEC-250520-Reuters.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=471881",
           "author": "HitomotoToshikazu",

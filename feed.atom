@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-20T22:14:43.220Z</updated>
+    <updated>2025-05-20T22:40:56.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米国を「有価証券2.0」の時代へ　ロビンフッド、SECにRWAトークン化の規制案提出]]></title>
+        <id>https://coinpost.jp/?p=619099</id>
+        <link href="https://coinpost.jp/?p=619099"/>
+        <updated>2025-05-20T22:25:40.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨などの投資アプリを提供するロビンフッドは、RWAトークン化の規制に関する提案書を米SECに提出。将来的に、トークン化したRWAの取引所を運営する計画があるようだ。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バンコール、分散型取引所（DEX）技術を巡りユニスワップを特許侵害で提訴]]></title>
+        <id>https://jp.cointelegraph.com/news/bancor-files-patent-infringement-lawsuit-against-uniswap-over-dex-tech</id>
+        <link href="https://jp.cointelegraph.com/news/bancor-files-patent-infringement-lawsuit-against-uniswap-over-dex-tech?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-20T22:17:00.000Z</updated>
+        <summary type="html"><![CDATA[スマートコントラクトベースの自動マーケットメイカー（AMM）を開発したバンコールは、ユニスワップを特許侵害で提訴した。分散型金融（DeFi）取引所であるユニスワップが、同社の技術を無断で使用し、大きな利益を得ていると主張している。]]></summary>
+        <author>
+            <name>Cointelegraph  Christopher Tepedino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロビンフッド、RWAのトークン化に向けたSEC規則を提案]]></title>
+        <id>https://jp.cointelegraph.com/news/robinhood-sec-tokenized-rwa-framework-proposal</id>
+        <link href="https://jp.cointelegraph.com/news/robinhood-sec-tokenized-rwa-framework-proposal?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-20T22:11:00.000Z</updated>
+        <summary type="html"><![CDATA[ロビンフッドは、米証券取引委員会（SEC）に対し、現実世界資産（RWA）のトークン化に関する全国的な規制枠組みを求める42ページの提案書を提出した。フォーブスが5月20日に報じた。]]></summary>
+        <author>
+            <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XRP・ドージコインETFの判断延期継続　米SEC、承認は早くても夏ごろか]]></title>
+        <id>https://coinpost.jp/?p=619109</id>
+        <link href="https://coinpost.jp/?p=619109"/>
+        <updated>2025-05-20T22:10:34.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会がXRPとドージコインのETF申請について判断を延期し、パブリックコメントを募集。BitwiseのイーサリアムETFステーキング機能審査も先送りに。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインの未決済建玉が過去最高を更新、強気派が価格上昇に突き進む]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-open-interest-hits-record-high-as-bulls-stampede-toward-new-btc-price-highs</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-open-interest-hits-record-high-as-bulls-stampede-toward-new-btc-price-highs?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-20T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）先物の未決済建玉（OI）が5月20日に過去最高を記録し、現在の弱気ポジションが清算リスクに直面しているのではないかという見方が強まっている。]]></summary>
+        <author>
+            <name>Cointelegraph  Marcel Pechman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ退任前にビットコイン価格5倍上昇を予測　大手銀アナリスト]]></title>
         <id>https://coinpost.jp/?p=619098</id>
@@ -1917,16 +1967,6 @@ DeFi Development株、BONKとの提携とSOLの追加購入で30％急伸 first 
 米司法省、ジェネシス債権者から2億6300万ドル相当の暗号資産を盗んだ容疑などで12人を起訴 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Parikshit Mishra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カルダノ創設者、3700万ウォレットに「Midnight」トークン配布へ]]></title>
-        <id>https://www.neweconomy.jp/?p=471404</id>
-        <link href="https://www.neweconomy.jp/posts/471404"/>
-        <updated>2025-05-16T10:19:13.000Z</updated>
-        <summary type="html"><![CDATA[カルダノ創設者が大規模エアドロップを計画 カルダノ（Cardano）の創設者チャールズ・ホスキンソン（Charles Hoskinson）氏が、8つの異なるブロックチェーン上の約3700万ウォレットに向けて「Midnig […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
         </author>
     </entry>
 </feed>

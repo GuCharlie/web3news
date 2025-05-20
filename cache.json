@@ -490,16 +490,6 @@
           "wordCount": 1287,
           "title": "ウィスコンシン州の年金基金、500億円以上のビットコインETFをすべて売却",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/shutterstock_722843713.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=293037",
-          "author": "Parikshit Mishra",
-          "description": "アメリカ司法省（DOJ）は、約2億6300万ドル（約381億3500万円、1ドル=145円換算）相当の暗号資産（仮想通貨）を盗んだとして12人を起訴した。彼らの ...\n米司法省、ジェネシス債権者から2億6300万ドル相当の暗号資産を盗んだ容疑などで12人を起訴 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/293037/",
-          "publishedOn": "2025-05-16T11:15:00.000Z",
-          "wordCount": 1246,
-          "title": "米司法省、ジェネシス債権者から2億6300万ドル相当の暗号資産を盗んだ容疑などで12人を起訴",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/RWMWMNL7RBFA3DIQTLVTKRUBXQ.jpg"
         }
       ]
     },
@@ -514,6 +504,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=619114",
+          "author": "菊谷ルイス",
+          "description": "Cryptoquantの登録アナリストがイーサリアムが2500ドル付近で過熱状態と指摘。一方でバイナンスからのアルトコイン流出は蓄積の兆候に。",
+          "link": "https://coinpost.jp/?p=619114",
+          "publishedOn": "2025-05-20T23:00:32.000Z",
+          "wordCount": 3230,
+          "title": "イーサリアム過熱状態、2500ドルで調整局面入りか　アナリスト分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/ethereumbtc1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/ethereumbtc1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=619099",
           "author": "K.Kobayashi",
@@ -1399,6 +1404,21 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/ethereum-price-gained-90-the-last-time-this-indicator-turned-bullish",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "イーサリアム（ETH）の価格は、日足チャートで2,400〜2,750ドルのレンジ内で推移しており、3,000〜3,100ドルのレジスタンスゾーンを目指す「ブルフラッグ」を形成している。",
+          "link": "https://jp.cointelegraph.com/news/ethereum-price-gained-90-the-last-time-this-indicator-turned-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-20T23:20:00.000Z",
+          "wordCount": null,
+          "title": "ETH、ガウスチャネル中間線を奪還か｜過去には90％上昇の前例も",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDc1ZDktNmE4ZS03ZjcyLWIzYTktOGU1MDc1YmI5ZTlm.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDc1ZDktNmE4ZS03ZjcyLWIzYTktOGU1MDc1YmI5ZTlm.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/german-gov-t-missed-2-3b-bitcoin-profit-sold-btc-57k",
           "author": "Cointelegraph  Zoltan Vardai",
           "description": "ブロックチェーン分析企業アーカムによると、ドイツ政府は2024年に保有していたビットコインを売却したことで、20億ドル超の潜在的利益を逃したという。",
@@ -1997,21 +2017,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmQ5ODYtYzg0YS03NTM1LTkxYzctMTE0YTFhNDkyMjUx.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/traditional-banks-stablecoins-cross-border-fireblocks",
-          "author": "Cointelegraph  Ezra Reguerra",
-          "description": "企業向けデジタル資産プラットフォームのファイアブロックスのレポートによると、伝統的な銀行やフィンテック企業を含む機関投資家の90％が、業務におけるステーブルコインの利用をすでに行っているか、導入を検討中であることが明らかになった。",
-          "link": "https://jp.cointelegraph.com/news/traditional-banks-stablecoins-cross-border-fireblocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-05-16T11:33:00.000Z",
-          "wordCount": null,
-          "title": "ステーブルコインの決済利用が加速　90％の企業が検討または実施中＝ファイアブロックス調査",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmQ4NWQtNjQwOS03MDIyLTg5NWMtOTQyYThhYzU5ZTY3.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmQ4NWQtNjQwOS03MDIyLTg5NWMtOTQyYThhYzU5ZTY3.jpg"
         }
       ]
     },

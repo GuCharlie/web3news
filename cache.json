@@ -590,16 +590,6 @@
           "wordCount": 1252,
           "title": "「デジタル・ニッポン2025」自民党発表──「この四半世紀のデジタル政策の成果を真摯に反省」",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/IMG_3506.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=292878",
-          "author": "Cheyenne Ligon",
-          "description": "米証券取引委員会（SEC）は、暗号資産取引所コインベースが過去の有価証券報告書やマーケティング資料でユーザー数を偽っていたかどうかを調査している。 最初にこの件 ...\nコインベース、ユーザー数虚偽申告の疑いで米証券取引委員会が調査中 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/292878/",
-          "publishedOn": "2025-05-15T22:30:00.000Z",
-          "wordCount": 1455,
-          "title": "コインベース、ユーザー数虚偽申告の疑いで米証券取引委員会が調査中",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/shutterstock_2226806119-1.jpg"
         }
       ]
     },
@@ -614,6 +604,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=618981",
+          "author": "AKIRA.H",
+          "description": "【2025年5月最新】イーサリアム(ETH)の将来価格と成長可能性を徹底分析。ペクトラ後の価格回復、ブラックロックのステーキングETF申請、機関投資家の700億円購入など最新動向を解説。",
+          "link": "https://coinpost.jp/?p=618981",
+          "publishedOn": "2025-05-20T09:39:42.000Z",
+          "wordCount": 2449,
+          "title": "イーサリアム将来価格2025展望 | ETF・機関投資家・開発動向の注目点",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ethereum-mining-3x-bitcoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ethereum-mining-3x-bitcoin.jpg"
+        },
         {
           "id": "https://ec2-13-114-170-70.ap-northeast-1.compute.amazonaws.com/?p=618959",
           "author": "幸田直子",
@@ -1318,21 +1323,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/coinbase-2q-ventures.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/coinbase-2q-ventures.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=617419",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨ビットコインをロングしストラテジーの株をショートしていると、著名空売り投資家ジム・チェイノス氏が明かした。自身のアービトラージ戦略について語っている。",
-          "link": "https://coinpost.jp/?p=617419",
-          "publishedOn": "2025-05-15T22:35:15.000Z",
-          "wordCount": 3162,
-          "title": "「ビットコインを買いストラテジーの株を売る」著名空売り投資家ジム・チェイノス氏が投資戦略明かす",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/Microstrategy_0711.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/Microstrategy_0711.jpg"
         }
       ]
     },
@@ -1658,6 +1648,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-golden-cross-what-does-it-mean-for-btc-price",
+          "author": "Cointelegraph  Yashu Gola",
+          "description": "ビットコイン（BTC）の日足チャートにおいて、「ゴールデンクロス」が5月末までに確認される可能性が高い。過去の事例では、このテクニカルパターンが発生した後に大幅な上昇が起きる傾向があった。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-golden-cross-what-does-it-mean-for-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-20T10:20:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン 「ゴールデンクロス」成立が間近　過去には最大60％上昇も",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWEzYjItYmZjMy03NjllLWJmMjctMmU3MTAxODIyNDFj.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWEzYjItYmZjMy03NjllLWJmMjctMmU3MTAxODIyNDFj.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/korea-stablecoin-proposal-lee-jae-myung",
           "author": "Cointelegraph  Amin Haqshanas",
@@ -2392,21 +2397,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmQ0ZDktZmQyMC03NTRkLThiMGQtZjZiMjBlZTkyYmRi.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/ftx-second-distribution-starting",
-          "author": "Cointelegraph  Turner Wright",
-          "description": "仮想通貨取引所FTXが破綻を申請してから2年半以上が経過し、ようやく資金にアクセスできなかったユーザーへの返済が進み始めている。",
-          "link": "https://jp.cointelegraph.com/news/ftx-second-distribution-starting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-05-15T22:29:00.000Z",
-          "wordCount": null,
-          "title": "FTX破産財団、5月30日に50億ドル超の返済開始へ",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTE0MjctNzA1YS03OGM3LThlMjMtMzYzYjVlNDQyNzg3.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTE0MjctNzA1YS03OGM3LThlMjMtMzYzYjVlNDQyNzg3.jpg"
         }
       ]
     },
@@ -2415,6 +2405,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=135671",
+          "author": "Crypto Times 編集部",
+          "description": "仮想通貨のレンディングプラットフォームを提供するAave（アーベ）のネイティブトークンである$AAVEが、直近24時間で20%以上の高騰を見せています。 この上昇率は、時価総額トップ100にランクインする銘柄の中で最も高 […]\n投稿 仮想通貨AAVEが高騰、時価総額トップ100で上昇率1位を記録 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-aave-price-surge-leads-top-100-cryptocurrencies/",
+          "publishedOn": "2025-05-20T10:20:49.000Z",
+          "wordCount": 616,
+          "title": "仮想通貨AAVEが高騰、時価総額トップ100で上昇率1位を記録",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2526224763.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=135668",
           "author": "Crypto Times 編集部",

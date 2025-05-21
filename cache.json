@@ -605,6 +605,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=619390",
+          "author": "CoinPost編集部",
+          "description": "仮想通貨ビットコインは、22日未明に史上最高値を更新した。その背景には、米国第2位のGDP規模を有するテキサス州において「ビットコイン準備金法案」の成立見込みが高まったことが決定的な要因として挙げられる。",
+          "link": "https://coinpost.jp/?p=619390",
+          "publishedOn": "2025-05-21T22:30:26.000Z",
+          "wordCount": 3221,
+          "title": "ビットコイン史上最高値更新、テキサス州法案可決とバンス副大統領期待が後押し｜仮想NISHI",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0555.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0555.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=619382",
           "author": "菊谷ルイス",
           "description": "米ブラックロックのビットコイン現物ETF「IBIT」が1ヶ月で47位から5位へ急上昇。89億ドルの年初来純流入と669億ドルの運用資産を達成し、金など従来の金融商品と肩を並べる存在感を示す。",
@@ -1618,6 +1633,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/hong-kong-passes-stablecoin-bill-opens-licensing-by-year-end",
+          "author": "Cointelegraph  Adrian Zmudzinski",
+          "description": "香港の立法会は5月21日、「ステーブルコイン法案（Stablecoin Bill）」の3回目の読会を通過させ、同地域における規制枠組みの整備が現実のものとなった。",
+          "link": "https://jp.cointelegraph.com/news/hong-kong-passes-stablecoin-bill-opens-licensing-by-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-21T22:30:00.000Z",
+          "wordCount": null,
+          "title": "香港、ステーブルコイン法案を可決｜年内にライセンス制度開始へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTEzOGMtNmMxYS03YzEyLWI1MWQtOGRhYzNlYzIwMzAx.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTEzOGMtNmMxYS03YzEyLWI1MWQtOGRhYzNlYzIwMzAx.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/texas-house-passes-strategic-bitcoin-reserve-bill",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "テキサス州下院は5月21日、州としてビットコイン（BTC）準備金を設立することを目的とした法案「SB21」の3回目の読会を通過させた。",
+          "link": "https://jp.cointelegraph.com/news/texas-house-passes-strategic-bitcoin-reserve-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-21T22:21:00.000Z",
+          "wordCount": null,
+          "title": "テキサス州下院、戦略的ビットコイン準備金法案を可決",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDZjZDgtZmRlMS03YjcxLThjNjktZjA1YjU1MjJjMDg0.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDZjZDgtZmRlMS03YjcxLThjNjktZjA1YjU1MjJjMDg0.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/price-predictions-5-21-btc-eth-xrp-bnb-sol-doge-ada-sui-link-avax",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "ビットコインが最高値圏を維持できればアルトコインも続くだろう。",
+          "link": "https://jp.cointelegraph.com/news/price-predictions-5-21-btc-eth-xrp-bnb-sol-doge-ada-sui-link-avax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-21T22:17:00.000Z",
+          "wordCount": null,
+          "title": "最高値更新の勢い続くか　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmY0MGItZTM3Ni03MWIyLThhNjEtNGE2ZjY4YTVhZWNl.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmY0MGItZTM3Ni03MWIyLThhNjEtNGE2ZjY4YTVhZWNl.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-price-hit-a-new-all-time-high-and-data-shows-btc-bulls-aren-t-done-yet",
           "author": "Cointelegraph  Biraajmaan Tamuly",

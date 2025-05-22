@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=293984",
+          "author": "廣瀬 優香",
+          "description": "ソラナラボ（Solana Labs）のモバイルチームは21日、8月4日からスマートフォン「Seeker」の出荷を開始する予定だと発表し、インフラフレームワークに ...\nソラナの2代目スマホ「Seeker」、8月初旬に出荷へ──新トークンSKRも発行 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/293984/",
+          "publishedOn": "2025-05-22T03:30:00.000Z",
+          "wordCount": 1298,
+          "title": "ソラナの2代目スマホ「Seeker」、8月初旬に出荷へ──新トークンSKRも発行",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/9f1269f50b617364c26a0d03592ad00213f0c03b.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=293981",
           "author": "Omkar Godbole",
           "description": "ビットコイン（BTC）は10万ドルを再び突破、だが少し前の値動きを覚えている投資家は、すぐに12月から1月にかけての値動きと同じ展開、つまり、10万ドルに乗せた ...\nビットコイン、6つのチャートが示す「今回は1月よりも持続性が高い」理由 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -634,6 +644,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=619514",
+          "author": "菊谷ルイス",
+          "description": "世界最大手取引所バイナンスがWorld Liberty Financial発行のドル裏付けステーブルコインUSD1を5月22日に上場開始。BitGo管理で時価総額21億ドル規模。",
+          "link": "https://coinpost.jp/?p=619514",
+          "publishedOn": "2025-05-22T04:45:29.000Z",
+          "wordCount": 3173,
+          "title": "バイナンス、トランプ関連のステーブルコイン『USD1』を新規上場予定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/Binance_0626-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/Binance_0626-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=619448",
+          "author": "A.Yamada",
+          "description": "River社が、米国でビットコイン保有者が5,000万人に達しゴールド保有者を上回ったと報告。米国の仮想通貨ビットコイン採用は世界をリードしているとして様々なデータを示した。",
+          "link": "https://coinpost.jp/?p=619448",
+          "publishedOn": "2025-05-22T04:30:12.000Z",
+          "wordCount": 3187,
+          "title": "米国のビットコイン保有者5000万人突破、金ホルダーを上回る＝Riverレポート",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/bitcoin-15th-gensler.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/bitcoin-15th-gensler.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=619468",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨プロジェクトWorld Network（ワールドコイン）が200億円分のWLDトークンをa16zとベインキャピタルに売却し資金を調達し、米国展開を本格化へ。",
+          "link": "https://coinpost.jp/?p=619468",
+          "publishedOn": "2025-05-22T03:45:00.000Z",
+          "wordCount": 3178,
+          "title": "アルトマン氏のワールドコイン、WLD価格10%上昇　新たに200億円調達",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/03/worldcoin-orb-no-more-personal-data-storage.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/03/worldcoin-orb-no-more-personal-data-storage.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=619429",
+          "author": "S.Ninomiya",
+          "description": "ビットコインが史上最高値を更新し、11万500ドルを記録した。英スタンダード・チャータード銀行は年末20万ドル、著名投資家は8月15万ドルを予測する理由を解説。ブラックロックCEOの後押しやトランプ政権の規制緩和、米財政不安によるヘッジ需要が上昇要因に。",
+          "link": "https://coinpost.jp/?p=619429",
+          "publishedOn": "2025-05-22T03:03:11.000Z",
+          "wordCount": 3273,
+          "title": "ビットコイン史上最高値11万ドル突破、専門家の年末20万ドル予測も",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin0407-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin0407-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=619432",
           "author": "K.Kobayashi",
@@ -1482,6 +1552,66 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=472219",
+          "author": "OtsugaShinya",
+          "description": "ぷらっとホームがWeb3子会社を新設へ ぷらっとホームが、Web3事業を行う子会社「Things Revolution株式会社」を設立することを5月21日に発表した。設立および事業開始日は7月が予定されている。 発表によ […]",
+          "link": "https://www.neweconomy.jp/posts/472219",
+          "publishedOn": "2025-05-22T05:55:34.000Z",
+          "wordCount": 600,
+          "title": "ぷらっとホームがWeb3子会社を新設へ、暗号資産の開発・発行・取得など事業に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/22145515/2a64a321b4a3287b4f3334bb7b44983c.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=472189",
+          "author": "HitomotoToshikazu",
+          "description": "Seekerの出荷が8/4に レイヤー1ブロックチェーン「ソラナ（Solana）」のWeb3スマートフォン「ソラナシーカー（Solana Seeker）」が今年8月4日より全世界に出荷開始する。「ソラナ」の開発を主導する […]",
+          "link": "https://www.neweconomy.jp/posts/472189",
+          "publishedOn": "2025-05-22T05:26:53.000Z",
+          "wordCount": 798,
+          "title": "Solana MobileのWeb3スマホ「Seeker」8/4出荷へ、独自トークン「SKR」導入も",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/22140235/13cc0989764c200a34a471b05037ae62.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=472201",
+          "author": "TamuraSeiji",
+          "description": "イーサリアムのスケーリングと分散化を促進する新しいノードタイプを提案 イーサリアム（Ethereum）の共同創業者であるヴィタリック・ブテリン（Vitalik Buterin）氏が、ブロックチェーンの信頼性と検閲耐性を維 […]",
+          "link": "https://www.neweconomy.jp/posts/472201",
+          "publishedOn": "2025-05-22T05:16:06.000Z",
+          "wordCount": 592,
+          "title": "ヴィタリック、イーサリアムの「部分的ステートレスノード」設計を提案",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/22141547/c68325a35af22b403e185ac8d443b4f6.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=472177",
+          "author": "gentosha_takahashi",
+          "description": "法案「SB21」が下院で可決 テキサス州下院が、戦略的ビットコイン準備金を設立する法案「SB21」を101対42で5月22日可決した。 州上院議員のチャールズ・シュヴァルトナー（Charles Schwertner）氏が […]",
+          "link": "https://www.neweconomy.jp/posts/472177",
+          "publishedOn": "2025-05-22T04:37:26.000Z",
+          "wordCount": 596,
+          "title": "米テキサス州、戦略的ビットコイン準備金設立法案が下院可決。法制化に前進",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/22133716/770174741d3b56d282e5d9f5e6193cfb.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=472168",
+          "author": "OtsugaShinya",
+          "description": "香港でステーブルコイン発行に規制明確化 香港の立法機関が、法定通貨連動型ステーブルコイン発行者を対象としたライセンス制度を導入する法案を5月21日に可決した。これにより、今後ステーブルコインを発行する事業者に対する規制の […]",
+          "link": "https://www.neweconomy.jp/posts/472168",
+          "publishedOn": "2025-05-22T04:01:04.000Z",
+          "wordCount": 611,
+          "title": "香港、ステーブルコイン発行にライセンス義務化、年内にも新制度施行へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/22140918/586791c8bb9fbe7496fa11fdf97f4a85.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=472159",
+          "author": "OtsugaShinya",
+          "description": "アスターがアニモカと日本のエンタメIPをオンチェーン展開へ レイヤー1ブロックチェーン「アスターネットワーク（Astar Network）」と香港拠点でブロックチェーンゲーム開発やWeb3分野への投資を行うアニモカ・ブラ […]",
+          "link": "https://www.neweconomy.jp/posts/472159",
+          "publishedOn": "2025-05-22T03:23:00.000Z",
+          "wordCount": 680,
+          "title": "アスター（ASTR）、香港アニモカから戦略的投資を獲得、日本・アジアのエンタメIPをオンチェーン展開へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/22122234/fe5950adc257f6912c42cf1381d87c07.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=472150",
           "author": "OtsugaShinya",
           "description": "ビットコインの時価総額がアマゾン超え第5位に ビットコインの時価総額が2.18兆ドルに到達し、世界の資産における時価総額ランキングがアマゾン（Amazon）の2.13兆ドルを超え、第5位となった。 ビットコインの価格は、 […]",
@@ -1788,6 +1918,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/vaneck-launch-avalanche-rwa-ecosystem-fund",
+          "author": "Cointelegraph  Alex O’Donnell",
+          "description": "資産運用大手ヴァンエックは、アバランチ・ブロックチェーン上に構築されたWeb3プロジェクトを対象とした新たなプライベートデジタル資産ファンド「ヴァンエック・パーパスビルト・ファンド」を2025年6月に開始する予定であると発表した。",
+          "link": "https://jp.cointelegraph.com/news/vaneck-launch-avalanche-rwa-ecosystem-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-22T05:10:00.000Z",
+          "wordCount": null,
+          "title": "ヴァンエック、アバランチのプロジェクトに投資する投資ファンドを立ち上げへ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTgzZjMtYWYzMS03YmMwLWI0ODUtODA1MTUxODA4NTJh.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTgzZjMtYWYzMS03YmMwLWI0ODUtODA1MTUxODA4NTJh.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/70k-impacted-coinbase-data-breach-maine-attorneys",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "仮想通貨取引所コインベースの個人情報漏洩事件について、新たな詳細が明らかになった。米メイン州司法長官への提出文書によれば、影響を受けたユーザーは6万9461人にのぼり、うち217人がメイン州在住だったという。",
+          "link": "https://jp.cointelegraph.com/news/70k-impacted-coinbase-data-breach-maine-attorneys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-22T04:00:00.000Z",
+          "wordCount": null,
+          "title": "仮想通貨取引所コインベースからの個人情報漏洩、約7万人に影響",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmYzMDktOTk5Yy03OGU5LTllODItYzc2YWM5NWI0NDNj.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmYzMDktOTk5Yy03OGU5LTllODItYzc2YWM5NWI0NDNj.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-tops-110k-all-time-high-continued-rally",
+          "author": "Cointelegraph  Martin Young",
+          "description": "ビットコイン（BTC）は、米コインベースにおいて11万0788.98ドルの史上最高値を記録し、年初からの上昇率は17.5％に達した。これは、直近の最高値10万9458ドルを上回るもので、今年1月20日に付けた高値を初めて明確に超えたことになる。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-tops-110k-all-time-high-continued-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-22T02:57:00.000Z",
+          "wordCount": null,
+          "title": "ビットコインが史上最高値を更新　11万ドル突破で2025年の年初来リターンは17％に",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmY1Y2MtMTcwNi03OGIwLWI4ODgtZDM2YTJhOWFhNzg1.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmY1Y2MtMTcwNi03OGIwLWI4ODgtZDM2YTJhOWFhNzg1.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/sam-altman-world-raises-135m-andreessen-bain-expand-network",
           "author": "Cointelegraph  Vince Quill",
@@ -2567,21 +2742,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmRiNDUtYzFhOS03ZDM0LTk4ZDItYzlmNGY1NDY5NjJl.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-250k-2025-melker",
-          "author": "Cointelegraph  Amin Haqshanas",
-          "description": "仮想通貨アナリストであり、ポッドキャスト「ザ・ウルフ・オブ・オール・ストリート」のホストを務めるスコット・メルカー氏は、ビットコイン（BTC）が2025年末までに25万ドルに達する可能性があるとの見解を示した。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-250k-2025-melker?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-05-17T15:30:00.000Z",
-          "wordCount": null,
-          "title": "ビットコインは2025年末までに25万ドルへ　仮想通貨アナリストが「極めて強気な環境」と指摘",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmRlMmItNzU4ZS03YjA3LWEzOTEtZTdmMDQ1OGNjZTM2.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmRlMmItNzU4ZS03YjA3LWEzOTEtZTdmMDQ1OGNjZTM2.jpg"
         }
       ]
     },

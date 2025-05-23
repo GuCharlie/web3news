@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-23T22:14:55.426Z</updated>
+    <updated>2025-05-23T22:40:37.739Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スウェーデンのH100グループ、同国上場企業初のビットコイン戦略開始]]></title>
+        <id>https://coinpost.jp/?p=620011</id>
+        <link href="https://coinpost.jp/?p=620011"/>
+        <updated>2025-05-23T22:32:15.000Z</updated>
+        <summary type="html"><![CDATA[同国上場企業初のビットコイン戦略スウェーデン上場企業H100GroupABが500万ノルウェークローネ（50万ドル相当）を投じて4.39ビットコイン（BTC）を購入し、同国初の上場企業による仮想通貨準備金戦略を開始した。同社は医療技術ソリュ...]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米セムラー、455ビットコインを追加購入]]></title>
         <id>https://coinpost.jp/?p=620002</id>
@@ -3215,17 +3225,6 @@ XRP先物、CMEで取引開始 first appeared on CoinDesk JAPAN（コインデ�
 ドバイの暗号資産規制当局、ルールブックを改定──証拠金取引などの規制を強化 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Jamie Crawley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBI、メディア新会社「SBIネオメディアホールディングス」設立──第4のメガバンク構想と連動、1000億のコンテンツファンドも]]></title>
-        <id>https://www.coindeskjapan.com/?p=293367</id>
-        <link href="https://www.coindeskjapan.com/293367/"/>
-        <updated>2025-05-19T10:21:05.000Z</updated>
-        <summary type="html"><![CDATA[SBIが、本格的にメディア事業に取り出す。 SBIホールディングスは5月19日、ネオメディア生態系の構築に向け、新会社「SBIネオメディアホールディングス」を設 ...
-SBI、メディア新会社「SBIネオメディアホールディングス」設立──第4のメガバンク構想と連動、1000億のコンテンツファンドも first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>増田隆幸</name>
         </author>
     </entry>
 </feed>

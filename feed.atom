@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-23T21:37:12.223Z</updated>
+    <updated>2025-05-23T22:14:55.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米セムラー、455ビットコインを追加購入]]></title>
+        <id>https://coinpost.jp/?p=620002</id>
+        <link href="https://coinpost.jp/?p=620002"/>
+        <updated>2025-05-23T21:35:55.000Z</updated>
+        <summary type="html"><![CDATA[米ナスダック上場の医療技術企業セムラー・サイエンティフィックが仮想通貨ビットコインを455BTC追加購入し総保有数4264BTCに。一方で株主代表訴訟の可能性も浮上。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号資産市場、約430億円の清算──トランプ関税の脅威が強気を一掃]]></title>
         <id>https://www.coindeskjapan.com/?p=294392</id>
@@ -3216,28 +3226,6 @@ XRP先物、CMEで取引開始 first appeared on CoinDesk JAPAN（コインデ�
 SBI、メディア新会社「SBIネオメディアホールディングス」設立──第4のメガバンク構想と連動、1000億のコンテンツファンドも first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>増田隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップル、UAEで決済事業拡大──2社の新規顧客と契約締結]]></title>
-        <id>https://www.coindeskjapan.com/?p=293368</id>
-        <link href="https://www.coindeskjapan.com/293368/"/>
-        <updated>2025-05-19T10:10:00.000Z</updated>
-        <summary type="html"><![CDATA[リップルは、同社のブロックチェーンベースのクロスボーダー決済プラットフォーム「リップル・ペイメンツ（Ripple Payments）」を中東地域で拡大する中で、 ...
-リップル、UAEで決済事業拡大──2社の新規顧客と契約締結 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネット、ビットコイン投資総額1000億円突破──2週連続で1000BTC超購入]]></title>
-        <id>https://www.coindeskjapan.com/?p=293354</id>
-        <link href="https://www.coindeskjapan.com/293354/"/>
-        <updated>2025-05-19T09:48:59.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）保有戦略を進めるメタプラネットは5月19日、1004BTCの追加購入を発表した。これは12日の1241BTC購入に続くもので、2週連続での ...
-メタプラネット、ビットコイン投資総額1000億円突破──2週連続で1000BTC超購入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>栃山直樹</name>
         </author>
     </entry>
 </feed>

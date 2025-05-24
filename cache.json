@@ -1920,16 +1920,6 @@
           "wordCount": 606,
           "title": "米SEC、新委員長が暗号資産規制の明確化を宣言",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/20181928/SEC-250520-Reuters.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=471881",
-          "author": "HitomotoToshikazu",
-          "description": "Pengu Clashの早期アクセス版ローンチ NFTプロジェクト「パジーペンギンズ（Pudgy Penguins）」が手がけるTON（The Open Network）基盤のゲーム「ペンギュークラッシュ（Pengu C […]",
-          "link": "https://www.neweconomy.jp/posts/471881",
-          "publishedOn": "2025-05-20T08:48:55.000Z",
-          "wordCount": 762,
-          "title": "Pudgy PenguinsのTON基盤ゲーム「Pengu Clash」、早期アクセス版ローンチ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/20174847/53a5cb05df45e8aeeee3e7362a1a407d.jpg"
         }
       ]
     },
@@ -1938,6 +1928,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/coinbase-sp500-more-crypto-firms-to-come",
+          "author": "Cointelegraph  Andrew Singer",
+          "description": "米仮想通貨取引所コインベース（Coinbase）が、世界で最も著名な株価指数の1つであるS&P500に加わった。これは2020年代を通して米証券取引委員会（SEC）や米商品先物取引委員会（CFTC）との法廷闘争を繰り広げてきた同社にとって、大きな節目となる出来事である。",
+          "link": "https://jp.cointelegraph.com/news/coinbase-sp500-more-crypto-firms-to-come?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-24T21:00:00.000Z",
+          "wordCount": null,
+          "title": "コインベース　S&amp;P500入りで仮想通貨業界に新たな正統性　伝統金融との融合加速か【専門家に聞く】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmZkOTgtMTJkMy03ZjBhLWIzYmUtNzhhYzU0NGRiMGY5.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmZkOTgtMTJkMy03ZjBhLWIzYmUtNzhhYzU0NGRiMGY5.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-treasury-companies-significant-holdings-forecast-btc-jesse-myers",
           "author": "Cointelegraph  Ciaran Lyons",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-24T19:36:01.259Z</updated>
+    <updated>2025-05-24T20:15:52.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインの半分は企業の手に？ ストラテジーが「史上最も価値のある企業に」＝業界幹部が予測]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-treasury-companies-significant-holdings-forecast-btc-jesse-myers</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-treasury-companies-significant-holdings-forecast-btc-jesse-myers?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-24T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ムーンでビットコイン戦略を統括するジェシー・マイヤーズ氏は、2045年までに企業が保有するビットコインの量が想定以上に膨れ上がるとの見解を示した。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ハイパーリキッドの有名トレーダー　40倍レバレッジで12億ドル超のビットコインロングを構築]]></title>
         <id>https://jp.cointelegraph.com/news/james-wynn-bitcoin-leverage-position-hyperliquid</id>
@@ -3260,48 +3270,6 @@ XRP先物、CME上場初日に150万ドルの取引高を記録 first appeared o
         <summary type="html"><![CDATA[新たな分析によれば、ビットコイン（BTC）の価格が10万7000ドルを突破しても、強気相場の天井を示す「ダブルトップ」への懸念は根拠が薄いという。]]></summary>
         <author>
             <name>Cointelegraph  William Suberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCは下に往って来いで底堅い推移　史上最高値を試すか【ビットバンク仮想通貨分析】]]></title>
-        <id>https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0520</id>
-        <link href="https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0520?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-05-20T08:05:00.000Z</updated>
-        <summary type="html"><![CDATA[19日のビットコイン（BTC）円は1547万9864円から取引が始まった。]]></summary>
-        <author>
-            <name>Cointelegraph  ビットバンク　長谷川友哉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[３つのポジティブ材料、露ウ停戦協議・JPモルガン・ステーブルコイン【仮想通貨相場】]]></title>
-        <id>https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0520</id>
-        <link href="https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0520?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-05-20T08:01:00.000Z</updated>
-        <summary type="html"><![CDATA[昨日のBTC市場は急騰後、行って来いの展開を見せた。]]></summary>
-        <author>
-            <name>Cointelegraph  コインテレグラフジャパン寄稿者</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EXPOウォレット、開幕1カ月で30万人が公式NFT取得──HashPortがデータ公開]]></title>
-        <id>https://www.coindeskjapan.com/?p=293569</id>
-        <link href="https://www.coindeskjapan.com/293569/"/>
-        <updated>2025-05-20T07:56:25.000Z</updated>
-        <summary type="html"><![CDATA[「EXPO2025デジタルウォレット」を開発・提供するHashPortの代表取締役CEOである吉田世博氏は、大阪・関西万博の開幕から1カ月間における同ウォレット ...
-EXPOウォレット、開幕1カ月で30万人が公式NFT取得──HashPortがデータ公開 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップル、ステーブルコイン大手Circleの買収を再交渉か]]></title>
-        <id>https://crypto-times.jp/?p=135668</id>
-        <link href="https://crypto-times.jp/news-circle-ipo-or-corporate-sale/"/>
-        <updated>2025-05-20T07:39:05.000Z</updated>
-        <summary type="html"><![CDATA[リップル（Ripple）が、ステーブルコインUSDCの発行元であるサークル・インターネット・フィナンシャル（Circle Internet Financial）との買収交渉を再び行っている可能性が浮上しています。この動き […]
-投稿 リップル、ステーブルコイン大手Circleの買収を再交渉か は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
 </feed>

@@ -1893,21 +1893,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/jp-morgan-bitcoin-play.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/jp-morgan-bitcoin-play.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=618859",
-          "author": "菊谷ルイス",
-          "description": "米ストラテジー社は19日夜、2025年5月12日から18日の間に総額1,100億円を投じて、7,390 BTCを購入したことを報告した。",
-          "link": "https://coinpost.jp/?p=618859",
-          "publishedOn": "2025-05-19T20:35:34.000Z",
-          "wordCount": 3207,
-          "title": "1100億円相当のビットコインを買い増し、セイラーのストラテジー社",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/microstra.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/microstra.jpeg"
         }
       ]
     },
@@ -2363,6 +2348,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-etfs-weekly-inflows-significant-price-sits-108k",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "ビットコインが1月につけた過去最高値10万9000ドルを突破する中、米国の現物ビットコイン上場投資信託（ETF）には今週だけで総額27億5000万ドルの資金が流入した。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-etfs-weekly-inflows-significant-price-sits-108k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-24T08:20:00.000Z",
+          "wordCount": null,
+          "title": "ビットコインETF　1週間の資金流入が27億ドルを突破　前週の4.5倍に拡大",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzAwMjgtNTU1NS03ZjRkLWFkYTItNjM2Yzc2N2U2Yzlm.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzAwMjgtNTU1NS03ZjRkLWFkYTItNjM2Yzc2N2U2Yzlm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/polygon-cofounder-mihailo-bjelic-steps-down-operations",
           "author": "Cointelegraph  Ciaran Lyons",

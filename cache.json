@@ -460,16 +460,6 @@
           "wordCount": 1306,
           "title": "XRP/BTCでようやくゴールデンクロス──XRPの強気相場を示唆",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/ee1f5bf47e6e073145740a8d8fb71525c8bf55f3-1600x1280-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=293892",
-          "author": "James Van Straten",
-          "description": "ビットコイン（BTC）が機関投資家向け資産として成熟を続ける中、上場企業の財務戦略にBTCを組み込む動きが拡大し、いわゆる「レバレッジド・ビットコイン・エクイテ ...\nビットコイン財務戦略企業の新しい評価基準は「mNAV達成日数」 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/293892/",
-          "publishedOn": "2025-05-21T10:30:00.000Z",
-          "wordCount": 1323,
-          "title": "ビットコイン財務戦略企業の新しい評価基準は「mNAV達成日数」",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/11/shutterstock_2471362535-scaled-e1732688055562.jpg"
         }
       ]
     },
@@ -1518,6 +1508,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/pakistan-allocates-2000mw-bitcoin-mining-ai-centers",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "パキスタンが、2,000メガワットの余剰電力をビットコインのマイニングおよび人工知能（AI）センター専用に割り当てた。",
+          "link": "https://jp.cointelegraph.com/news/pakistan-allocates-2000mw-bitcoin-mining-ai-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-25T22:23:00.000Z",
+          "wordCount": null,
+          "title": "パキスタン、ビットコインマイニングとAIセンター向けに2,000メガワットの電力を割り当て",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzA2ZTMtNTA0OC03MDhlLTg1MTUtYWM5NjdmZTY4MTFh.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzA2ZTMtNTA0OC03MDhlLTg1MTUtYWM5NjdmZTY4MTFh.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/michael-saylor-hints-buying-bitcoin-dip",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "ストラテジーの共同創業者マイケル・セイラー氏は、5月22日に記録された11万2,000ドルの過去最高値からの下落を受け、同社によるビットコイン（BTC）購入が迫っていることを示唆した。",
+          "link": "https://jp.cointelegraph.com/news/michael-saylor-hints-buying-bitcoin-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-25T22:14:00.000Z",
+          "wordCount": null,
+          "title": "ストラテジーのマイケル・セイラー氏、ビットコインの下落局面での買い増しを示唆",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTdmZjUtMmRmMC03Y2U5LWI1YjEtMWU2ZWQ2ZjAxMDI4.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTdmZjUtMmRmMC03Y2U5LWI1YjEtMWU2ZWQ2ZjAxMDI4.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-trader-swaps-1-25b-long-for-short-as-btc-price-108k",
+          "author": "Cointelegraph  William Suberg",
+          "description": "BTC/USD は 5 月 25 日の週足終値に向けて10 万 8,000ドル台を保てず、米国の新たな貿易戦争懸念が尾を引いた形となった。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-trader-swaps-1-25b-long-for-short-as-btc-price-108k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-25T21:53:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイントレーダー、12億5,000万ドルのロングを解消しショートへ｜BTCは10万8,000ドル割れ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzA2OWEtODU2NS03Njg5LTg2N2EtMTMwNjFkNDg2ODQw.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzA2OWEtODU2NS03Njg5LTg2N2EtMTMwNjFkNDg2ODQw.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/coinbase-sp500-more-crypto-firms-to-come",
           "author": "Cointelegraph  Andrew Singer",
@@ -3109,16 +3144,6 @@
           "wordCount": 725,
           "title": "TVL2億ドル突破！最長稼働のBitcoinレイヤー2「Rootstock」AMAレポート",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/rootstock.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=135763",
-          "author": "Crypto Times 編集部",
-          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 ドバイ アラブ首長国連邦 – 2025年5月21日 \b […]\n投稿 BybitがToken Games Token ($TGT) を上場する最初のCEXとなり、AAA Web3ゲームの台頭を後押し は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/press-bybit-tgt/",
-          "publishedOn": "2025-05-21T10:18:57.000Z",
-          "wordCount": 669,
-          "title": "BybitがToken Games Token ($TGT) を上場する最初のCEXとなり、AAA Web3ゲームの台頭を後押し",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/image1-1.jpg"
         }
       ]
     }

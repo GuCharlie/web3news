@@ -435,6 +435,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=620469",
+          "author": "K.Kobayashi",
+          "description": "『金持ち父さん貧乏父さん』の著者ロバート・キヨサキ氏は、仮想通貨ビットコインは容易に裕福になれる手段であるとXに投稿。0.01BTCの保有だけでも2年後に非常に裕福になれる可能性があると主張した。",
+          "link": "https://coinpost.jp/?p=620469",
+          "publishedOn": "2025-05-26T22:50:44.000Z",
+          "wordCount": 3195,
+          "title": "「ビットコインは容易に裕福になれる手段」金持ち父さん著者キヨサキ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/bitcoin-ab-port.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/bitcoin-ab-port.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=620479",
           "author": "菊谷ルイス",
           "description": "ドバイ土地局が中東初の不動産トークン化プラットフォーム「Prypco Mint」をXRPレジャー上で開始。最低2000ディルハムから投資可能、2033年に160億ドル市場目指す。",
@@ -1313,6 +1328,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-industry-groups-urge-sec-to-clarify-staking-stance",
+          "author": "Cointelegraph  Alex O’Donnell",
+          "description": "仮想通貨業界団体が、米証券取引委員会（SEC）に対し、ステーキングに関する正式なガイダンスを出すよう求めている。",
+          "link": "https://jp.cointelegraph.com/news/crypto-industry-groups-urge-sec-to-clarify-staking-stance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-26T22:49:00.000Z",
+          "wordCount": null,
+          "title": "仮想通貨業界、SECにステーキング方針の明確化を要請",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzI3N2UtMTE1ZC03N2RlLWJlZjEtNWVlM2E0ZmE5ZGVl.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzI3N2UtMTE1ZC03N2RlLWJlZjEtNWVlM2E0ZmE5ZGVl.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/trump-media-group-raise-3b-buy-bitcoin-crypto",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "米大統領ドナルド・トランプ氏が率いる「トゥルース・ソーシャル」プラットフォームの運営会社、トランプ・メディア・アンド・テクノロジー・グループは、ビットコイン（BTC）およびその他の仮想通貨を取得するために、株式と転換社債を組み合わせて30億ドルの資金調達を計画していると、英フィナンシャル・タイムズ（FT）が報じた。",
+          "link": "https://jp.cointelegraph.com/news/trump-media-group-raise-3b-buy-bitcoin-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-26T22:37:00.000Z",
+          "wordCount": null,
+          "title": "トランプ・メディア・グループ、ビットコイン購入のために30億ドルを調達する計画を否定",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWYxZjUtZjUyMC03ZTY4LWI3YzEtZWQyNDBmM2MxMmVh.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWYxZjUtZjUyMC03ZTY4LWI3YzEtZWQyNDBmM2MxMmVh.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/elon-musk-confirms-x-money-beta-testing-launch-2025",
           "author": "Cointelegraph  Helen Partz",

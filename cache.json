@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=294648",
+          "author": "Shaurya Malwa",
+          "description": "最近数週間で最も注目されている暗号資産ウォレットの一つが、オンチェーン取引プラットフォームのハイパーリキッド（Hyperliquid）でビットコイン（BTC）の ...\nビットコインに10億ドルを賭けた匿名トレーダー、ペペコインにロングポジションを構築 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/294648/",
+          "publishedOn": "2025-05-26T09:50:00.000Z",
+          "wordCount": 1350,
+          "title": "ビットコインに10億ドルを賭けた匿名トレーダー、ペペコインにロングポジションを構築",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/pepecoin.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=294640",
           "author": "Omkar Godbole",
           "description": "マーカス・ティーレン（Markus Thielen）氏が率いる10xリサーチ（10x Research）は、ナスダック（Nasdaq）上場のビットコイン（BTC ...\nビットコインの急騰から乖離するストラテジーへの弱気なベットが魅力的に見える：10xリサーチ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -450,16 +460,6 @@
           "wordCount": 1287,
           "title": "ミームコイン「TRUMP」、トップ保有者にトロン創設者サン氏が浮上──2190万ドル相当を保有",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/04a3e49de62a2efc18a498b4cf45c0c5c6e4978d-4498x3000-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=293958",
-          "author": "Tom Carreras",
-          "description": "ビットコイン（BTC）は5月21日、10万9000ドルを超えて史上最高値を更新したが、マイニング関連のニュースを手がけるTheMinerMagによると、先月記録 ...\nビットコインマイナー、5月の価格急騰に先立ち記録的な量のビットコインを売却 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/293958/",
-          "publishedOn": "2025-05-21T22:00:00.000Z",
-          "wordCount": 1299,
-          "title": "ビットコインマイナー、5月の価格急騰に先立ち記録的な量のビットコインを売却",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/shutterstock_2179398627.jpg"
         }
       ]
     },
@@ -2842,36 +2842,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDZjZDgtZmRlMS03YjcxLThjNjktZjA1YjU1MjJjMDg0.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/price-predictions-5-21-btc-eth-xrp-bnb-sol-doge-ada-sui-link-avax",
-          "author": "Cointelegraph  Rakesh Upadhyay",
-          "description": "ビットコインが最高値圏を維持できればアルトコインも続くだろう。",
-          "link": "https://jp.cointelegraph.com/news/price-predictions-5-21-btc-eth-xrp-bnb-sol-doge-ada-sui-link-avax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-05-21T22:17:00.000Z",
-          "wordCount": null,
-          "title": "最高値更新の勢い続くか　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmY0MGItZTM3Ni03MWIyLThhNjEtNGE2ZjY4YTVhZWNl.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmY0MGItZTM3Ni03MWIyLThhNjEtNGE2ZjY4YTVhZWNl.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-price-hit-a-new-all-time-high-and-data-shows-btc-bulls-aren-t-done-yet",
-          "author": "Cointelegraph  Biraajmaan Tamuly",
-          "description": "ビットコイン（BTC）は5月21日、バイナンスで10万9,458ドルの過去最高値を記録した。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-price-hit-a-new-all-time-high-and-data-shows-btc-bulls-aren-t-done-yet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-05-21T22:04:00.000Z",
-          "wordCount": null,
-          "title": "ビットコインが過去最高値を更新、強気派の勢いはなお継続か",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDRiNzMtZWFhMC03Mjk0LWI4MjgtYTg2YTUwYTJmOTI3.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDRiNzMtZWFhMC03Mjk0LWI4MjgtYTg2YTUwYTJmOTI3.jpg"
         }
       ]
     },
@@ -3349,16 +3319,6 @@
           "wordCount": 640,
           "title": "ヴィタリック氏、イーサリアムZK技術のL1実用化に警鐘",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_1855835641.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=135794",
-          "author": "Crypto Troll",
-          "description": "米国議会で5月21日、上院下院それぞれで暗号資産に関連する2つの重要な法案が進展しました。 上院は「GENIUS Act」の審議を進める動議を賛成69票、反対31票で可決。この法案はステーブルコインの発行基準を定めるもの […]\n投稿 米国で暗号資産規制が大きく前進 、ステーブルコイン新法案が審議入り は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-major-step-forward-in-us-cryptocurrency-regulation-new-stablecoin-bill-now-under-consideration/",
-          "publishedOn": "2025-05-21T22:01:17.000Z",
-          "wordCount": 602,
-          "title": "米国で暗号資産規制が大きく前進 、ステーブルコイン新法案が審議入り",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2465401345-2.jpg"
         }
       ]
     }

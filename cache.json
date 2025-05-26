@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=294687",
+          "author": "Krisztian Sandor",
+          "description": "ソーシャルメディアサイト「トゥルース・ソーシャル（Truth Social）」を運営するトランプ・メディア・アンド・テクノロジー・グループが、暗号資産を購入する ...\nトランプ・メディア、暗号資産購入のため約4300億円の資金調達を計画： FT first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/294687/",
+          "publishedOn": "2025-05-26T22:30:00.000Z",
+          "wordCount": 1293,
+          "title": "トランプ・メディア、暗号資産購入のため約4300億円の資金調達を計画： FT",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/cdcf9842ba42c5e5ccb3f6bd464225a8b6206f40-1500x1000-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=294682",
           "author": "Krisztian Sandor",
           "description": "週末に小幅に上昇したビットコインは、メモリアルデーのため米国の伝統的市場が休場となった5月26日、低調な取引で10万9000ドルまで後退した。 ビットコインは過 ...\nビットコインの上昇、11万ドル弱で停滞──短期保有者が約1兆6300億円の利益確定 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -410,16 +420,6 @@
           "wordCount": 1346,
           "title": "FIFA、アバランチと提携して独自のブロックチェーンを構築へ──Web3への取り組みを拡大",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/shutterstock_2230231079.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=294050",
-          "author": "James Van Straten",
-          "description": "ビットコイン（BTC）は5月22日、ドル建てでの最高値を更新した。最大の暗号資産（仮想通貨）であるビットコインは11万1800ドルを超え、4月の安値近辺の7万5 ...\nビットコイン、対ゴールドやシルバー、英ポンドなどでも史上最高値が目前に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/294050/",
-          "publishedOn": "2025-05-22T10:15:00.000Z",
-          "wordCount": 1371,
-          "title": "ビットコイン、対ゴールドやシルバー、英ポンドなどでも史上最高値が目前に",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/shutterstock_709061209-1.jpg"
         }
       ]
     },
@@ -434,6 +434,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=620479",
+          "author": "菊谷ルイス",
+          "description": "ドバイ土地局が中東初の不動産トークン化プラットフォーム「Prypco Mint」をXRPレジャー上で開始。最低2000ディルハムから投資可能、2033年に160億ドル市場目指す。",
+          "link": "https://coinpost.jp/?p=620479",
+          "publishedOn": "2025-05-26T22:15:39.000Z",
+          "wordCount": 3187,
+          "title": "ドバイ、XRP基盤の不動産トークン化で160億ドル市場を目指す",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/02/dubaiuae345728.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/02/dubaiuae345728.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=620466",
           "author": "菊谷ルイス",
@@ -1003,21 +1018,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/strategy-lawsuit.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/strategy-lawsuit.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=619564",
-          "author": "CoinPost編集部",
-          "description": "ビットコインを大量保有する日本株のメタプラネットやリミックスポイント、米国株マイクロストラテジーなどの暗号資産（仮想通貨）関連銘柄がストップ高で高騰する中、代表的な仮想通貨関連銘柄とビットコイン現物投資のメリット・デメリットを初心者向けに徹底比較、解説しています。",
-          "link": "https://coinpost.jp/?p=619564",
-          "publishedOn": "2025-05-22T10:31:43.000Z",
-          "wordCount": 6091,
-          "title": "ビットコインと仮想通貨関連株はどちらを買うべき？メリット・デメリットを解説",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/02/bitcoin-flow-stock.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/02/bitcoin-flow-stock.jpg"
         }
       ]
     },
@@ -1313,6 +1313,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/elon-musk-confirms-x-money-beta-testing-launch-2025",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "2022年にイーロン・マスク氏がツイッター買収後に支持を表明した決済・バンキングアプリ「Xマネー」が、ベータテストを開始した。",
+          "link": "https://jp.cointelegraph.com/news/elon-musk-confirms-x-money-beta-testing-launch-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-26T22:18:00.000Z",
+          "wordCount": null,
+          "title": "マスク氏、2025年のローンチを前に「Xマネー」のベータテスト開始を明らかに",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDI5MDYtMDE4OS03Njg2LTk0ZDAtZWUzMjFjOTQ2Mzk4.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDI5MDYtMDE4OS03Njg2LTk0ZDAtZWUzMjFjOTQ2Mzk4.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/price-predictions-5-26-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-hype",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "ビットコインは下落のたびに買い支えられているが、重要な上値抵抗線を突破できるかどうかが、多くのアルトコインの今後を左右しそうだ。",
+          "link": "https://jp.cointelegraph.com/news/price-predictions-5-26-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-26T22:05:00.000Z",
+          "wordCount": null,
+          "title": "再び11万ドルを奪還できるか　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzBkOWMtZWNmYi03OTEzLWFjNjMtZjQ3MWE4NjNkZDc3.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzBkOWMtZWNmYi03OTEzLWFjNjMtZjQ3MWE4NjNkZDc3.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0526",
           "author": "Cointelegraph  ビットバンク　長谷川友哉",

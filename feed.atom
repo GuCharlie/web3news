@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-27T09:16:50.537Z</updated>
+    <updated>2025-05-27T09:40:48.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chainlinkのクロスチェーンプロトコル「CCIP」がSolanaに対応、RWA経済やDeFi展開を加速へ]]></title>
+        <id>https://www.neweconomy.jp/?p=473083</id>
+        <link href="https://www.neweconomy.jp/posts/473083"/>
+        <updated>2025-05-27T09:20:10.000Z</updated>
+        <summary type="html"><![CDATA[CCIPがSolanaに対応 ブロックチェーンオラクル・インフラプロバイダーであるチェーンリンク（Chainlink）開発のクロスチェーン相互運用プロトコル「CCIP：Cross-Chain Interoperabili […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ビットコイン・ドージコイン他】月1万円で今いくら？｜ドルコスト平均法の実績を徹底シミュレーション]]></title>
         <id>https://coinpost.jp/?p=613655</id>
@@ -2593,17 +2603,6 @@ JPYC Prepaid、電子決済手段へ移行──新規発行終了 first appeare
         <summary type="html"><![CDATA[Suiブロックチェーン上の分散型取引所（DEX）Cetusは、5月22日に発生したハッキングで流出した約2億2,000万ドルのうち、1億6,200万ドル分が凍結されたと明らかにした。]]></summary>
         <author>
             <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国初のXRP先物ETF、ナスダックで取引開始]]></title>
-        <id>https://www.coindeskjapan.com/?p=294086</id>
-        <link href="https://www.coindeskjapan.com/294086/"/>
-        <updated>2025-05-22T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[エックス・アール・ピー（XRP）先物に1対1で連動する米国初のETF（上場投資信託）が5月22日、ナスダックで取引を開始した。 ボラティリティ・シェアーズXRP ...
-米国初のXRP先物ETF、ナスダックで取引開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Helene Braun</name>
         </author>
     </entry>
 </feed>

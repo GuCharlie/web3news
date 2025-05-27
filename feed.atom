@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-27T21:38:13.796Z</updated>
+    <updated>2025-05-27T22:14:45.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウォール街大手キャンター、ビットコイン担保融資事業を開始]]></title>
+        <id>https://www.coindeskjapan.com/?p=294860</id>
+        <link href="https://www.coindeskjapan.com/294860/"/>
+        <updated>2025-05-27T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ウォール街の投資銀行キャンターフィッツジェラルドは5月27日、20億ドル（約2880億円、1ドル＝144円換算）の融資プログラムの一環であるビットコイン担保融資 ...
+ウォール街大手キャンター、ビットコイン担保融資事業を開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Krisztian Sandor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ステーブルコイン大手サークル、ニューヨーク証券取引所でのIPOローンチを発表]]></title>
         <id>https://www.coindeskjapan.com/?p=294856</id>
@@ -1795,28 +1806,6 @@ NFT、DAO…Web3はフィンテック普及の起爆剤となるか──金融�
         <summary type="html"><![CDATA[米R3がSolanaと提携 エンタープライズ向けブロックチェーン「コルダ（Corda）」開発の米R3が、ソラナ財団（Solana Foundation）との戦略的提携を5月22日に発表した。規制対象金融機関とその実世界の […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、最高値更新も利確は少数｜さらなる上昇への期待か]]></title>
-        <id>https://crypto-times.jp/?p=135942</id>
-        <link href="https://crypto-times.jp/news-btc-ath-secure-profit/"/>
-        <updated>2025-05-23T09:54:23.000Z</updated>
-        <summary type="html"><![CDATA[先日、ビットコインは過去最高値を更新し現在は高値圏である111,000ドル付近を現在は推移しています。そんな中、昨年12月の最高値更新時とは異なる市場の動きが出ていたことが報告されています。 Coin age distr […]
-投稿 ビットコイン、最高値更新も利確は少数｜さらなる上昇への期待か は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アメリカの大手銀行が共同でステーブルコインの発行を検討：報道]]></title>
-        <id>https://www.coindeskjapan.com/?p=294336</id>
-        <link href="https://www.coindeskjapan.com/294336/"/>
-        <updated>2025-05-23T09:50:00.000Z</updated>
-        <summary type="html"><![CDATA[アメリカの大手銀行は、暗号資産（仮想通貨）に対抗するため、共同でステーブルコインの発行を検討している。 ウォール・ストリート・ジャーナル（Wall Street ...
-アメリカの大手銀行が共同でステーブルコインの発行を検討：報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Francisco Rodrigues</name>
         </author>
     </entry>
 </feed>

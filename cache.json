@@ -465,6 +465,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=608473",
+          "author": "A.Yoshida",
+          "description": "ブラックロックのトークン化ファンドBUIDLが29億ドル突破。米国債裏付けデジタル資産の仕組み、投資方法、パートナー企業、市場シェア40%の成長要因を徹底解説。2025年注目のRWA投資戦略とリスクまで解説。",
+          "link": "https://coinpost.jp/?p=608473",
+          "publishedOn": "2025-05-27T06:30:19.000Z",
+          "wordCount": 2643,
+          "title": "ブラックロック「BUIDL」ファンド徹底解説｜29億ドル突破の仕組みとメリット",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/03/blackrock-fund-buying-etf.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/03/blackrock-fund-buying-etf.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=620598",
           "author": "菊谷ルイス",
           "description": "YZi Labsがビットコイン基盤のオンチェーン資本市場を構築するAvalon Labsに投資。同社のBTC担保ステーブルコインUSDaはDeFiLlama第2位のCDPプロジェクト。",
@@ -1563,6 +1578,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-token-vesting-unlocks-june-2025",
+          "author": "Cointelegraph  Ezra Reguerra",
+          "description": "6月には、複数の仮想通貨プロジェクトでロック期間の満了を迎え、総額33億ドル相当のデジタル資産が市場に流通する見通しとなっている。",
+          "link": "https://jp.cointelegraph.com/news/crypto-token-vesting-unlocks-june-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-27T06:30:00.000Z",
+          "wordCount": null,
+          "title": "6月に33億ドル相当のトークンが市場へ放出へ　SUIなどの仮想通貨プロジェクトがロック解除予定",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzBiNjgtOTM3MS03NGU5LTk3NjYtZTdjZmExMzVkZTM4.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzBiNjgtOTM3MS03NGU5LTk3NjYtZTdjZmExMzVkZTM4.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/michael-saylor-says-proof-of-reserves-bad-idea",
           "author": "Cointelegraph  Brayden Lindrea",

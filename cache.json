@@ -405,6 +405,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=620984",
+          "author": "菊谷ルイス",
+          "description": "米ゲーム小売大手ゲームストップが4710BTCの仮想通貨ビットコインの購入を完了。4月の15億ドル転換社債調達資金を活用し企業財務戦略をビットコインへ転換。",
+          "link": "https://coinpost.jp/?p=620984",
+          "publishedOn": "2025-05-28T12:35:54.000Z",
+          "wordCount": 3172,
+          "title": "4710BTC購入　米ゲームストップ、ビットコイン財務戦略を実行",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/gamestop-july-nft-launch.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/gamestop-july-nft-launch.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=620844",
           "author": "幸田直子",
           "description": "著名アナリストWilly Woo氏がビットコイン市場の過熱感を警告した。投機とSOPR指標から利益確定圧力の高まりを分析し、弱気相場転換の可能性を指摘した。",
@@ -1063,36 +1078,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/strategy-lawsuit.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/strategy-lawsuit.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=620073",
-          "author": "菊谷ルイス",
-          "description": "仮想通貨ビットコイン史上最高値更新中、Cryptoquantアナリストが大口投資家動向を分析。取引所流入3億ドルと低水準維持。MVRV比率の乖離現象で市場構造変化を指摘。",
-          "link": "https://coinpost.jp/?p=620073",
-          "publishedOn": "2025-05-24T01:25:58.000Z",
-          "wordCount": 3165,
-          "title": "ビットコイン、史上最高値更新も大口売り圧力は限定的か＝アナリスト",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-3.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-3.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=620037",
-          "author": "A.Yamada",
-          "description": "仮想通貨ビットコイン上昇を主導する層が個人投資家から機関投資家に移行しているとMatrixportが分析した。企業のビットコイン財務戦略採用で市場構造が変化していると述べる。",
-          "link": "https://coinpost.jp/?p=620037",
-          "publishedOn": "2025-05-24T00:45:52.000Z",
-          "wordCount": 3240,
-          "title": "今回のビットコイン強気相場は機関投資家主導、個人からクジラへ移行＝Matrixport",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/whale-how-many.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/whale-how-many.jpg"
         }
       ]
     },
@@ -1101,6 +1086,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=473400",
+          "author": "HitomotoToshikazu",
+          "description": "AvalancheとFilecoinが接続 アバランチ（Avalanche）Cチェーン（Contract Chain）と分散型ストレージネットワークのファイルコインを接続する、ネイティブなクロスチェーンデータブリッジのプ […]",
+          "link": "https://www.neweconomy.jp/posts/473400",
+          "publishedOn": "2025-05-28T13:17:08.000Z",
+          "wordCount": 771,
+          "title": "AvalancheとFilecoinが接続、クロスチェーンデータブリッジのプロトタイプ公開",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/28221652/f2059f6fc3dc55ed6062a05370ca0962.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=473334",
           "author": "NewEconomyPodcast",
@@ -1512,6 +1507,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTNkZDMtY2JlOS03ZWI3LTkwN2MtZGVmOThmMjdkMDZi.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/trader-rejects-altcoin-bear-market-fears-literally-at-the-bottom",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "アルトコインシーズン（アルトシーズン）はすでに終わったという声に対し、ある仮想通貨アナリストは「そもそも始まってすらいない」と反論している。多くのトークンがいまだにローカルの底値付近にあることがその理由だという。",
+          "link": "https://jp.cointelegraph.com/news/trader-rejects-altcoin-bear-market-fears-literally-at-the-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-28T09:55:00.000Z",
+          "wordCount": null,
+          "title": "「アルトコインシーズンはまだ始まってもいない」　仮想通貨アナリストが弱気論に反論",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzE0ZjQtMTFlMS03OWJmLWFmOTItN2RiYTgxODE4MDA5.jpg",
+            "length": "840",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzE0ZjQtMTFlMS03OWJmLWFmOTItN2RiYTgxODE4MDA5.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/altcoin-season-sparks-crypto-trader-shuts-down-bear-market-fears",

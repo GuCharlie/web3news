@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-28T12:33:09.306Z</updated>
+    <updated>2025-05-28T13:29:35.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AvalancheとFilecoinが接続、クロスチェーンデータブリッジのプロトタイプ公開]]></title>
+        <id>https://www.neweconomy.jp/?p=473400</id>
+        <link href="https://www.neweconomy.jp/posts/473400"/>
+        <updated>2025-05-28T13:17:08.000Z</updated>
+        <summary type="html"><![CDATA[AvalancheとFilecoinが接続 アバランチ（Avalanche）Cチェーン（Contract Chain）と分散型ストレージネットワークのファイルコインを接続する、ネイティブなクロスチェーンデータブリッジのプ […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4710BTC購入　米ゲームストップ、ビットコイン財務戦略を実行]]></title>
+        <id>https://coinpost.jp/?p=620984</id>
+        <link href="https://coinpost.jp/?p=620984"/>
+        <updated>2025-05-28T12:35:54.000Z</updated>
+        <summary type="html"><![CDATA[米ゲーム小売大手ゲームストップが4710BTCの仮想通貨ビットコインの購入を完了。4月の15億ドル転換社債調達資金を活用し企業財務戦略をビットコインへ転換。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨を永続的に配布？実験的プロジェクト「Loud」に注目集まる]]></title>
         <id>https://crypto-times.jp/?p=136372</id>
@@ -99,6 +119,16 @@
 XRP現物ETFが実現に一歩近づく──米SECが審査を開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「アルトコインシーズンはまだ始まってもいない」　仮想通貨アナリストが弱気論に反論]]></title>
+        <id>https://jp.cointelegraph.com/news/trader-rejects-altcoin-bear-market-fears-literally-at-the-bottom</id>
+        <link href="https://jp.cointelegraph.com/news/trader-rejects-altcoin-bear-market-fears-literally-at-the-bottom?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-28T09:55:00.000Z</updated>
+        <summary type="html"><![CDATA[アルトコインシーズン（アルトシーズン）はすでに終わったという声に対し、ある仮想通貨アナリストは「そもそも始まってすらいない」と反論している。多くのトークンがいまだにローカルの底値付近にあることがその理由だという。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
         </author>
     </entry>
     <entry>
@@ -2257,26 +2287,6 @@ NFT、DAO…Web3はフィンテック普及の起爆剤となるか──金融�
 投稿 XRPロング勢に悲劇、ショートとの清算比「2306%差」 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、史上最高値更新も大口売り圧力は限定的か＝アナリスト]]></title>
-        <id>https://coinpost.jp/?p=620073</id>
-        <link href="https://coinpost.jp/?p=620073"/>
-        <updated>2025-05-24T01:25:58.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコイン史上最高値更新中、Cryptoquantアナリストが大口投資家動向を分析。取引所流入3億ドルと低水準維持。MVRV比率の乖離現象で市場構造変化を指摘。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今回のビットコイン強気相場は機関投資家主導、個人からクジラへ移行＝Matrixport]]></title>
-        <id>https://coinpost.jp/?p=620037</id>
-        <link href="https://coinpost.jp/?p=620037"/>
-        <updated>2025-05-24T00:45:52.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコイン上昇を主導する層が個人投資家から機関投資家に移行しているとMatrixportが分析した。企業のビットコイン財務戦略採用で市場構造が変化していると述べる。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>

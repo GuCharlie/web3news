@@ -350,16 +350,6 @@
           "wordCount": 1282,
           "title": "セムラー・サイエンティフィック、ビットコイン5000万ドルを追加購入",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/shutterstock_2491707327.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=294364",
-          "author": "林 理南",
-          "description": "連休を前にやや低調な取引になりそうだったが、状況は変わった。トランプ大統領が行動を起こし、沈静化していた貿易摩擦を再燃させることを選んだ。 トランプ大統領はトゥ ...\nトランプ大統領が貿易戦争再開で明るいムードが崩れる──ビットコインは10万9000ドルを下回る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/294364/",
-          "publishedOn": "2025-05-23T14:27:39.000Z",
-          "wordCount": 1275,
-          "title": "トランプ大統領が貿易戦争再開で明るいムードが崩れる──ビットコインは10万9000ドルを下回る",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/shutterstock_2600426001-1.jpg"
         }
       ]
     },
@@ -374,6 +364,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=620782",
+          "author": "A.Yamada",
+          "description": "仮想通貨イーサリアムでガス上限を現在の倍程度に引き上げる提案の投票が行われている。この提案についてはコミュニティから賛否両論が上がっているところだ。",
+          "link": "https://coinpost.jp/?p=620782",
+          "publishedOn": "2025-05-28T02:25:28.000Z",
+          "wordCount": 3186,
+          "title": "イーサリアムの処理能力強化案、賛否両論に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/02/etherum34572.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/02/etherum34572.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=620790",
+          "author": "K.Kobayashi",
+          "description": "SBIグループのパートナー企業R3は、仮想通貨ソラナのソラナ財団と提携。パブリックネットワークとプライベートネットワークを結び、RWAトークン化技術を活用して、次世代の資本市場を構築する。",
+          "link": "https://coinpost.jp/?p=620790",
+          "publishedOn": "2025-05-28T02:15:00.000Z",
+          "wordCount": 3195,
+          "title": "SBIのパートナー企業「R3」、ソラナ財団と戦略的提携　次世代のデジタル資本市場構築へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/R3-Solana.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/R3-Solana.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=620769",
           "author": "K.Kobayashi",
@@ -1026,6 +1046,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=473220",
+          "author": "OtsugaShinya",
+          "description": "TMTGがビットコイン投資目的で25億ドル調達 ドナルド・トランプ（Donald Trump）米大統領のメディア企業トランプ・メディア・アンド・テクノロジー・グループ（Trump Media & Technolo […]",
+          "link": "https://www.neweconomy.jp/posts/473220",
+          "publishedOn": "2025-05-28T02:52:20.000Z",
+          "wordCount": 612,
+          "title": "トランプ一族のTMTG、ビットコイン投資目的で25億ドル調達、株式発行と転換社債で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/28115208/46e3ffad12a314460ca6deef298ea7ee.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=473211",
+          "author": "OtsugaShinya",
+          "description": "米サークルがNYSEで新規株式公開へ サークルインターネットグループ（Circle Internet Group）が、米国での新規株式公開（IPO）において、完全希薄化後の企業価値を最大67億1,000万ドル（約9,67 […]",
+          "link": "https://www.neweconomy.jp/posts/473211",
+          "publishedOn": "2025-05-28T02:30:59.000Z",
+          "wordCount": 792,
+          "title": "米サークルがNYSEにIPO申請、最大67億ドル評価、ARKも出資",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/28113055/78d273d2dd88d184a3978622245da22f.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=473068",
           "author": "NewEconomyPodcast",
@@ -1991,6 +2031,16 @@
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
         {
+          "id": "https://crypto-times.jp/?p=136285",
+          "author": "Crypto Troll",
+          "description": "米国政府が保有するビットコイン（BTC）は売却せず戦略的準備金として今後も積み増していく方針であることが、大統領デジタル資産諮問評議会のボー・ハインズ事務局長によって明らかにされました。ハインズ氏は2025年5月27日に […]\n投稿 米国政府、ビットコインの買い増し方法を模索 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-us-government-to-explore-ways-to-buy-more-bitcoin/",
+          "publishedOn": "2025-05-28T01:19:37.000Z",
+          "wordCount": 607,
+          "title": "米国政府、ビットコインの買い増し方法を模索",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_1405142669.jpg"
+        },
+        {
           "id": "https://crypto-times.jp/?p=136241",
           "author": "Crypto Troll",
           "description": "SBIホールディングス株式会社およびSBI R3 Japan株式会社は、SBIグループのパートナーである米R3社がソラナ財団と戦略的提携を結んだことを発表しました。 発表によれば、R3社とソラナ財団はR3社が提供する金融 […]\n投稿 SBIパートナー企業R3、ソラナ財団と戦略的提携へ は CRYPTO TIMES に最初に表示されました。",
@@ -2309,16 +2359,6 @@
           "wordCount": 572,
           "title": "XRPロング勢に悲劇、ショートとの清算比「2306%差」",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2208773861-2.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=135940",
-          "author": "Crypto Times 編集部",
-          "description": "著名なDeFiインフルエンサーのDeFi Dad氏が仮想通貨投資によって人生が劇的に変化した5年間の軌跡を公開し仮想通貨コミュニティで注目を集めています。 Crypto can absolutely transform  […]\n投稿 「仮想通貨は人生を変える」ビットコイン1万ドル時代からの軌跡とは は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-defi-dad-success-story/",
-          "publishedOn": "2025-05-23T14:52:16.000Z",
-          "wordCount": 672,
-          "title": "「仮想通貨は人生を変える」ビットコイン1万ドル時代からの軌跡とは",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_2063935940.jpg"
         }
       ]
     }

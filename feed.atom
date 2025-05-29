@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-29T23:14:41.176Z</updated>
+    <updated>2025-05-29T23:38:03.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[パリ・サンジェルマン、ビットコイン準備金採用]]></title>
+        <id>https://coinpost.jp/?p=621434</id>
+        <link href="https://coinpost.jp/?p=621434"/>
+        <updated>2025-05-29T23:25:31.000Z</updated>
+        <summary type="html"><![CDATA[パリ・サンジェルマンFCが昨年からビットコイン購入・保有を継続していると発表。世界最大級クラブとしてスポーツ界最大の仮想通貨採用プレーヤーと位置づけ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナ財務を強化へ　ナスダック上場のJanover、リキッド・ステーキング戦略を採用]]></title>
         <id>https://coinpost.jp/?p=621410</id>

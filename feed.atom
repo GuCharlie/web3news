@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-30T21:14:05.021Z</updated>
+    <updated>2025-05-30T21:36:46.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン　再び10万ドル割れの懸念  9万6000ドルが重要サポートに]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-drop-to-100k-likely-but-futures-market-reset-means-dips-won-t-last-long</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-drop-to-100k-likely-but-futures-market-reset-means-dips-won-t-last-long?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-30T21:25:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は今週4.5％下落し、今後数日で再び10万ドル水準に接近する可能性がある。ただし、現在のデータは、ビットコインがこの水準を大きく下回る展開は限定的になる可能性を示唆している。]]></summary>
+        <author>
+            <name>Cointelegraph  Biraajmaan Tamuly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[タイ証券取引委員会、バイビットとOKXなど5取引所を来月28日からアクセス遮断　ライセンスなしで営業]]></title>
         <id>https://jp.cointelegraph.com/news/thailand-blocks-okx-bybit-crypto-exchanges</id>
@@ -3317,17 +3327,6 @@ AIとブロックチェーンで変わる“重い産業”、加速する人材
 ビットコインに10億ドルを賭けた匿名トレーダー、ペペコインにロングポジションを構築 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインの急騰から乖離するストラテジーへの弱気なベットが魅力的に見える：10xリサーチ]]></title>
-        <id>https://www.coindeskjapan.com/?p=294640</id>
-        <link href="https://www.coindeskjapan.com/294640/"/>
-        <updated>2025-05-26T09:20:00.000Z</updated>
-        <summary type="html"><![CDATA[マーカス・ティーレン（Markus Thielen）氏が率いる10xリサーチ（10x Research）は、ナスダック（Nasdaq）上場のビットコイン（BTC ...
-ビットコインの急騰から乖離するストラテジーへの弱気なベットが魅力的に見える：10xリサーチ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>

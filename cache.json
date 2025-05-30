@@ -1647,6 +1647,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=473715",
+          "author": "gentosha_takahashi",
+          "description": "NYDFSのBitLicense廃止にも言及 米ニューヨーク市のエリック・アダムス（Eric Adams）市長は、ビットコインを担保とする市債「ビットボンド（BitBond）」の発行を提案し、ニューヨーク州の暗号資産事業 […]",
+          "link": "https://www.neweconomy.jp/posts/473715",
+          "publishedOn": "2025-05-30T06:26:12.000Z",
+          "wordCount": 611,
+          "title": "NY市長、ビットコイン担保の市債「BitBond」構想を表明",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/30152608/36764df5e606d9c33829e62e9a4db62e.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=473709",
           "author": "HitomotoToshikazu",
           "description": "Ledgerが米国でCrypto Life Card提供へ 暗号資産（仮想通貨）ハードウェアウォレット開発企業のレジャー（Ledger）社と、暗号資産決済プラットフォーム「バーンクス（Baanx）」が提供する、ビザ（Vi […]",
@@ -2213,6 +2223,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/securities-regulations-more-complex-than-static-definition-of-security-sec-commissioner",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "米証券取引委員会（SEC）のヘスター・ピアース委員は、仮想通貨に関する証券取引の該当性は、資産そのものよりも「取引の性質」に依拠すると述べた。",
+          "link": "https://jp.cointelegraph.com/news/securities-regulations-more-complex-than-static-definition-of-security-sec-commissioner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-30T06:22:00.000Z",
+          "wordCount": null,
+          "title": "SECのピアース委員　仮想通貨取引の証券該当性に指針必要と発言",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzFkYTMtMWQyNS03ODc4LTk2MmMtMGE0NGJlMjY0YzQ0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzFkYTMtMWQyNS03ODc4LTk2MmMtMGE0NGJlMjY0YzQ0.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0530",
           "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
@@ -3285,6 +3310,26 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=136537",
+          "author": "Crypto Troll",
+          "description": "米国証券取引委員会（SEC）は、大手暗号資産取引所のバイナンスとその創設者であるチャンポン・ジャオ（CZ）氏に対する民事訴訟を取り下げる申し立てを行いました。2023年6月から約2年間にわたり続いた証券問題を巡る両者の法 […]\n投稿 SEC、バイナンスとCZ氏への訴訟を取り下げ｜2年間の法廷闘争が終結 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-sec-drops-case-against-binance-and-cz/",
+          "publishedOn": "2025-05-30T06:40:32.000Z",
+          "wordCount": 623,
+          "title": "SEC、バイナンスとCZ氏への訴訟を取り下げ｜2年間の法廷闘争が終結",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2314087863-scaled.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=136563",
+          "author": "Crypto Troll",
+          "description": "フランスのサッカークラブ、パリ・サンジェルマン（PSG）は、財務資産としてビットコイン（BTC）を保有していることを明らかにしました。クラブのイノベーションハブであるPSG Labsを通じ、ビットコイン関連のスタートアッ […]\n投稿 名門サッカークラブ「パリ・サンジェルマン」、ビットコイン保有を公表 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-paris-saint-germain-reveals-bitcoin-holdings/",
+          "publishedOn": "2025-05-30T06:33:02.000Z",
+          "wordCount": 580,
+          "title": "名門サッカークラブ「パリ・サンジェルマン」、ビットコイン保有を公表",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2603190077.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=136556",
           "author": "Crypto Times 編集部",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-30T20:17:21.589Z</updated>
+    <updated>2025-05-30T20:41:41.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[決済企業ストライプ、ステーブルコインの導入に向け金融機関と協議]]></title>
+        <id>https://jp.cointelegraph.com/news/banks-very-interested-stablecoin-use-stripe-exec</id>
+        <link href="https://jp.cointelegraph.com/news/banks-very-interested-stablecoin-use-stripe-exec?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-30T20:20:00.000Z</updated>
+        <summary type="html"><![CDATA[米決済大手ストライプが、ステーブルコインの導入に関して銀行と初期的な協議を行っていることが分かった。仮想通貨に対する金融業界の関心が着実に広がっていることを示す動きといえる。]]></summary>
+        <author>
+            <name>Cointelegraph  Helen Partz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは一時104000ドル割れ　市場データはトレーダーの強気姿勢を示唆]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-falls-below-104k-but-data-shows-btc-traders-positioned-for-a-rebound</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-falls-below-104k-but-data-shows-btc-traders-positioned-for-a-rebound?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-30T20:01:00.000Z</updated>
+        <summary type="html"><![CDATA[5月27日から30日にかけて、ビットコイン（BTC）は5.5％下落し、11日ぶりに104000ドルの水準を再び試す展開となった。BTC価格が調整局面にあるにもかかわらず、BTCのデリバティブ市場や中国におけるステーブルコイン需要の動向からは、プロのビットコイントレーダーが依然として強気姿勢を崩していない様子がうかがえる。]]></summary>
+        <author>
+            <name>Cointelegraph  Marcel Pechman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米SECによる仮想通貨ステーキングの新指針　「コミュニティにとって勝利」と評価する声]]></title>
         <id>https://jp.cointelegraph.com/news/sec-crypto-staking-guidance-win-crypto-regulations</id>
@@ -3308,17 +3328,6 @@ AIとブロックチェーンで変わる“重い産業”、加速する人材
         <summary type="html"><![CDATA[19日〜25日のビットコイン（BTC）対円相場の週足終値は、前週比114,700円（0.74%）高の1560万2010円と7週続伸した。]]></summary>
         <author>
             <name>Cointelegraph  ビットバンク　長谷川友哉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、11万ドルへ反発──関税延期でセンチメントが回復]]></title>
-        <id>https://www.coindeskjapan.com/?p=294621</id>
-        <link href="https://www.coindeskjapan.com/294621/"/>
-        <updated>2025-05-26T08:20:00.000Z</updated>
-        <summary type="html"><![CDATA[ドナルド・トランプ（Donald Trump）大統領の突然の関税導入による欧州連合（EU）への威嚇を受け、週末に乱高下したビットコイン（BTC）は、5月26日月 ...
-ビットコイン、11万ドルへ反発──関税延期でセンチメントが回復 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>

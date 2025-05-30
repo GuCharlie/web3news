@@ -650,16 +650,6 @@
           "wordCount": 1327,
           "title": "ビットコインの急騰から乖離するストラテジーへの弱気なベットが魅力的に見える：10xリサーチ",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/03/shutterstock_1097489111-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=294621",
-          "author": "Shaurya Malwa",
-          "description": "ドナルド・トランプ（Donald Trump）大統領の突然の関税導入による欧州連合（EU）への威嚇を受け、週末に乱高下したビットコイン（BTC）は、5月26日月 ...\nビットコイン、11万ドルへ反発──関税延期でセンチメントが回復 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/294621/",
-          "publishedOn": "2025-05-26T08:20:00.000Z",
-          "wordCount": 1325,
-          "title": "ビットコイン、11万ドルへ反発──関税延期でセンチメントが回復",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/shutterstock_1311093857.jpg"
         }
       ]
     },
@@ -2088,6 +2078,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/banks-very-interested-stablecoin-use-stripe-exec",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "米決済大手ストライプが、ステーブルコインの導入に関して銀行と初期的な協議を行っていることが分かった。仮想通貨に対する金融業界の関心が着実に広がっていることを示す動きといえる。",
+          "link": "https://jp.cointelegraph.com/news/banks-very-interested-stablecoin-use-stripe-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-30T20:20:00.000Z",
+          "wordCount": null,
+          "title": "決済企業ストライプ、ステーブルコインの導入に向け金融機関と協議",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzIxNTMtNDU3YS03ZjNiLTkyNTItMmNkMDE2MThhM2Rh.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzIxNTMtNDU3YS03ZjNiLTkyNTItMmNkMDE2MThhM2Rh.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-falls-below-104k-but-data-shows-btc-traders-positioned-for-a-rebound",
+          "author": "Cointelegraph  Marcel Pechman",
+          "description": "5月27日から30日にかけて、ビットコイン（BTC）は5.5％下落し、11日ぶりに104000ドルの水準を再び試す展開となった。BTC価格が調整局面にあるにもかかわらず、BTCのデリバティブ市場や中国におけるステーブルコイン需要の動向からは、プロのビットコイントレーダーが依然として強気姿勢を崩していない様子がうかがえる。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-falls-below-104k-but-data-shows-btc-traders-positioned-for-a-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-05-30T20:01:00.000Z",
+          "wordCount": null,
+          "title": "ビットコインは一時104000ドル割れ　市場データはトレーダーの強気姿勢を示唆",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzIyMTktMjljZC03ZDFmLWFmMDktYzc5ZDBjODA3NGI5.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzIyMTktMjljZC03ZDFmLWFmMDktYzc5ZDBjODA3NGI5.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/sec-crypto-staking-guidance-win-crypto-regulations",
           "author": "Cointelegraph  Zoltan Vardai",

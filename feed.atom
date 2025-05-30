@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-30T20:41:41.561Z</updated>
+    <updated>2025-05-30T21:14:05.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[タイ証券取引委員会、バイビットとOKXなど5取引所を来月28日からアクセス遮断　ライセンスなしで営業]]></title>
+        <id>https://jp.cointelegraph.com/news/thailand-blocks-okx-bybit-crypto-exchanges</id>
+        <link href="https://jp.cointelegraph.com/news/thailand-blocks-okx-bybit-crypto-exchanges?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-30T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[タイ証券取引委員会（SEC）は5月29日、バイビット、1000X、コインEx、OKX、XT.COMの5つの仮想通貨取引所を6月28日付でタイ国内からアクセス不能にすると発表した。]]></summary>
+        <author>
+            <name>Cointelegraph  Adrian Zmudzinski</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[決済企業ストライプ、ステーブルコインの導入に向け金融機関と協議]]></title>
         <id>https://jp.cointelegraph.com/news/banks-very-interested-stablecoin-use-stripe-exec</id>
@@ -3318,16 +3328,6 @@ AIとブロックチェーンで変わる“重い産業”、加速する人材
 ビットコインの急騰から乖離するストラテジーへの弱気なベットが魅力的に見える：10xリサーチ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTC週足は米国売りで7週続伸　まだ上げられるか？【ビットバンク仮想通貨分析】]]></title>
-        <id>https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0526</id>
-        <link href="https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0526?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-05-26T08:50:00.000Z</updated>
-        <summary type="html"><![CDATA[19日〜25日のビットコイン（BTC）対円相場の週足終値は、前週比114,700円（0.74%）高の1560万2010円と7週続伸した。]]></summary>
-        <author>
-            <name>Cointelegraph  ビットバンク　長谷川友哉</name>
         </author>
     </entry>
 </feed>

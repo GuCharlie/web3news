@@ -1687,6 +1687,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=473736",
+          "author": "NewEconomyPodcast",
+          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/473736",
+          "publishedOn": "2025-05-30T10:35:54.000Z",
+          "wordCount": 788,
+          "title": "【5/30話題】米SECがバイナンスへの訴訟を取り下げ、タイSECがバイビットやOKXなど5社のアクセス遮断へなど（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/30165402/bdcea26a9b5144aaf57f5e8d68acac43.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=473758",
           "author": "HitomotoToshikazu",
           "description": "NetflixがFTXスキャンダル描く作品配信へ 暗号資産（仮想通貨）取引所FTXトレーディング（FTX Trading）の破綻を題材としたリミテッドシリーズ「アルトゥイスト（The Altruists）」が、ネットフリ […]",
@@ -3377,36 +3387,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTA0ZTItMjZmNC03ZDFlLTk0ZTUtYzUzMmYxY2U2MjVl.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/cardone-capital-10x-miami-river-bitcoin-fund",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "カードン・キャピタル（運用資産残高は50億ドル超の不動産投資会社）は、フロリダ州マイアミのマイアミ川沿いにある346戸のマルチファミリー商業物件と、1,500万ドル相当のビットコイン（BTC）で構成されるデュアルアセット型ファンド「10X マイアミ・リバー・ビットコイン・ファンド」を立ち上げた。",
-          "link": "https://jp.cointelegraph.com/news/cardone-capital-10x-miami-river-bitcoin-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-05-25T22:42:00.000Z",
-          "wordCount": null,
-          "title": "カードン・キャピタル、10Xマイアミ・リバー・ビットコイン・ファンドを組成",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzA4NzEtZWMzNC03YWJjLTgzOWEtNzhiNDcxOWQ4NzQw.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzA4NzEtZWMzNC03YWJjLTgzOWEtNzhiNDcxOWQ4NzQw.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/pakistan-allocates-2000mw-bitcoin-mining-ai-centers",
-          "author": "Cointelegraph  Amin Haqshanas",
-          "description": "パキスタンが、2,000メガワットの余剰電力をビットコインのマイニングおよび人工知能（AI）センター専用に割り当てた。",
-          "link": "https://jp.cointelegraph.com/news/pakistan-allocates-2000mw-bitcoin-mining-ai-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-05-25T22:23:00.000Z",
-          "wordCount": null,
-          "title": "パキスタン、ビットコインマイニングとAIセンター向けに2,000メガワットの電力を割り当て",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzA2ZTMtNTA0OC03MDhlLTg1MTUtYWM5NjdmZTY4MTFh.jpg",
-            "length": "840",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzA2ZTMtNTA0OC03MDhlLTg1MTUtYWM5NjdmZTY4MTFh.jpg"
         }
       ]
     },

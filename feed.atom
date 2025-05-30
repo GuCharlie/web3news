@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-30T08:20:51.043Z</updated>
+    <updated>2025-05-30T08:46:04.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブラックロックとフィデリティのイーサリアムETF投資家、大半が含み損抱える状況に＝グラスノード]]></title>
+        <id>https://jp.cointelegraph.com/news/ethereum-etf-investors-substantially-underwater-glassnode</id>
+        <link href="https://jp.cointelegraph.com/news/ethereum-etf-investors-substantially-underwater-glassnode?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-30T08:11:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨分析企業グラスノードの最新レポートによれば、ブラックロックおよびフィデリティ・インベストメンツが提供する現物イーサリアム上場投資信託（ETF）に投資している多くの投資家が、現在大幅な含み損を抱えているという。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米証券取引委員会　ステーキングに関する新ガイダンス　「PoS型ブロックチェーンでの報酬は証券に該当せず」]]></title>
         <id>https://jp.cointelegraph.com/news/sec-says-protocol-staking-pos-blockchains-not-securities</id>

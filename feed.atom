@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-31T19:36:10.076Z</updated>
+    <updated>2025-05-31T20:15:46.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ビットコイン2025」カンファレンス　政治と自由を巡る議論が活発に　JD・バンス副大統領が登壇]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-2025-event-recap-freedom</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-2025-event-recap-freedom?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-05-31T19:50:00.000Z</updated>
+        <summary type="html"><![CDATA[米ネバダ州ラスベガスで開催された「ビットコイン2025」カンファレンスには、世界各国から業界リーダー、政治家、カリスマ的な人物らが集結し、ビットコインを中心とした自身の見解を語った。仮想通貨全般についても触れられたが、議論の主役はあくまでビットコインだった。]]></summary>
+        <author>
+            <name>Cointelegraph  Turner Wright</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインに供給ショックの兆し　今後数か月でBTC価格を「押し上げる」＝シグナム幹部]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-demand-shock-could-amplify-price-months-sygnum</id>
@@ -3322,27 +3332,6 @@ XRP現物ETFが実現に一歩近づく──米SECが審査を開始 first appe
 DOGEとXRPが下落──米インフレデータ発表を控え、暗号資産の利益確定売りが続く first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、モメンタム指標が10万ドルへの下落を示唆：テクニカル分析]]></title>
-        <id>https://www.coindeskjapan.com/?p=294731</id>
-        <link href="https://www.coindeskjapan.com/294731/"/>
-        <updated>2025-05-27T07:55:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）の強気相場は足踏みしており、新たなテクニカル指標が価格の調整を示唆している。 TradingViewのデータによると、時価総額で最大の暗号 ...
-ビットコイン、モメンタム指標が10万ドルへの下落を示唆：テクニカル分析 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインの長期保有者は静かに買い増し　レバレッジトレーダーが清算直面の一方で]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-long-term-holders-capitalizing-drop-109000</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-long-term-holders-capitalizing-drop-109000?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-05-27T07:40:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）市場では、ここ数日で2度にわたる大規模な清算イベントが発生し、過剰にレバレッジをかけたトレーダーによる強制清算が相次いだ。しかしアナリストによれば、こうした局面で長期保有者（LTH）の動向に明確なパターンが浮かび上がっているという。]]></summary>
-        <author>
-            <name>Cointelegraph  Martin Young</name>
         </author>
     </entry>
 </feed>

@@ -475,6 +475,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=622253",
+          "author": "菊谷ルイス",
+          "description": "ファンドストラット社のトム・リー氏が仮想通貨ビットコインの2025年末25万ドル到達を予測。アーサー・ヘイズ氏も同様の強気見通しで一致。",
+          "link": "https://coinpost.jp/?p=622253",
+          "publishedOn": "2025-06-02T22:24:33.000Z",
+          "wordCount": 3243,
+          "title": "ビットコイン300万ドル到達の可能性は？　著名アナリストトム・リーが予測",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-onchain-activities.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-onchain-activities.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=622245",
           "author": "K.Kobayashi",
           "description": "仮想通貨投資企業CoinSharesは、先週におけるデジタル資産の投資商品への資金流入はイーサリアムが最も多かったと報告。一方、ビットコインの投資商品からは資金が純流出した。",
@@ -1393,6 +1408,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-funds-286-million-inflows-heavy-selling-coinshares",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "ビットコインが10万3,000ドルまで急落したにもかかわらず、仮想通貨投資商品は先週も流入が続き、複数週連続の流入記録を維持した。",
+          "link": "https://jp.cointelegraph.com/news/crypto-funds-286-million-inflows-heavy-selling-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-02T22:30:00.000Z",
+          "wordCount": null,
+          "title": "仮想通貨ファンドに2億8,600万ドルの資金流入、イーサリアムが買い越しを主導＝コインシェアーズ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzJmZWEtODk3Yy03MTFkLWJjYzQtNjQyMjFhNTliMjk5.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzJmZWEtODk3Yy03MTFkLWJjYzQtNjQyMjFhNTliMjk5.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/singapore-crypto-firms-deadline-overseas-digital-token-services",
           "author": "Cointelegraph  Ezra Reguerra",
@@ -2759,16 +2789,6 @@
           "wordCount": 584,
           "title": "Sonic上のDeFiプラットフォーム「Atlantis」ファーミングフェアローンチを発表",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/Gr94Ga4WQAAsE_S-scaled.jpeg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=136486",
-          "author": "Crypto Times 編集部",
-          "description": "低コストでプライバシーを保護する転送を実現するステートレスL2プロトコル「Intmax」が新しいウェブサイトを公開しました。 ユーザーは新しいサイトでIntmax/$ITXエコシステムを探索できるとしています。 The  […]\n投稿 Intmax、新ウェブサイトを公開｜ベータテストネットも稼働中 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-intmax-new-website/",
-          "publishedOn": "2025-05-29T10:22:03.000Z",
-          "wordCount": 624,
-          "title": "Intmax、新ウェブサイトを公開｜ベータテストネットも稼働中",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/GsCAZKqXMAAicaQ.jpeg"
         }
       ]
     }

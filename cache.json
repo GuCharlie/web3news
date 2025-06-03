@@ -455,6 +455,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=622538",
+          "author": "菊谷ルイス",
+          "description": "60社超の上場企業が合計67万BTCを保有する中、スタンダード・チャータード銀行のアナリストは価格下落時の強制売却リスクを警告。平均購入価格から22％下落が危険水域と分析。",
+          "link": "https://coinpost.jp/?p=622538",
+          "publishedOn": "2025-06-03T22:30:44.000Z",
+          "wordCount": 3191,
+          "title": "上場企業のビットコイン保有急増も、22％下落で強制清算の懸念＝スタンダード・チャータード分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/germna-bitcoin-return-6.07.34.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/germna-bitcoin-return-6.07.34.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=622534",
           "author": "K.Kobayashi",
           "description": "『金持ち父さん貧乏父さん』の著者ロバート・キヨサキ氏は、株などの市場が2025年の夏にかけて暴落する可能性があると警告。金、銀、仮想通貨ビットコインには数十億ドル規模の資金が流入すると予測している。",
@@ -1385,16 +1400,6 @@
           "wordCount": 757,
           "title": "OpenSeaの新マーケットプレイス「OS2」正式リリース",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/31120321/fd8ffa7c3809b3e464d8475344c19b30.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=473736",
-          "author": "NewEconomyPodcast",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/473736",
-          "publishedOn": "2025-05-30T10:35:54.000Z",
-          "wordCount": 788,
-          "title": "【5/30話題】米SECがバイナンスへの訴訟を取り下げ、タイSECがバイビットやOKXなど5社のアクセス遮断へなど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/30165402/bdcea26a9b5144aaf57f5e8d68acac43.jpg"
         }
       ]
     },
@@ -1403,6 +1408,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/mara-increases-bitcoin-production-35-percent-new-hashrate-highs",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "米国で最大級の上場ビットコインマイニング企業であるマラ・ホールディングスは、マイニング難易度の上昇とハッシュレートの増加にもかかわらず、5月のビットコイン（BTC）生産量を大幅に増加させた。",
+          "link": "https://jp.cointelegraph.com/news/mara-increases-bitcoin-production-35-percent-new-hashrate-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-03T22:12:00.000Z",
+          "wordCount": null,
+          "title": "MARA、ハッシュレート過去最高水準の中でビットコインマイニングを35%増加",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzM1ZmItYzQ2NC03NmI4LTk0YWYtNjczNjllZTZhMzMx.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzM1ZmItYzQ2NC03NmI4LTk0YWYtNjczNjllZTZhMzMx.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0603",
           "author": "Cointelegraph  ビットバンク　長谷川友哉",

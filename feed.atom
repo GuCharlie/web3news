@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-03T15:18:26.612Z</updated>
+    <updated>2025-06-03T15:43:10.924Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[XRP、価格上昇に期待──建玉の急増はショートスクイーズによる上昇か大規模な清算か]]></title>
+        <id>https://www.coindeskjapan.com/?p=296324</id>
+        <link href="https://www.coindeskjapan.com/296324/"/>
+        <updated>2025-06-03T15:38:37.000Z</updated>
+        <summary type="html"><![CDATA[XRPの建玉が急増しており、市場関係者は短期的な価格ブレイクアウトの兆候と見ている。XRPは3日午前中時点で2.20ドル付近で推移している。 「XRPの建玉は週 ...
+XRP、価格上昇に期待──建玉の急増はショートスクイーズによる上昇か大規模な清算か first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【6/3話題】ストラテジーの保有ビットコインが580,955BTCに、サークルIPO規模拡大、Zaifステーキングで円報酬など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=474343</id>
@@ -2336,37 +2347,6 @@ XRPが200日移動平均を下回り、ビットコインは10万5000ドルへ�
         <summary type="html"><![CDATA[米SECがバイナンスへの訴訟を取り下げ 米証券取引委員会（SEC）が、世界最大の暗号資産（仮想通貨）取引所であるバイナンス（Binance）およびその創業者であるチャンポン・ジャオ（Changpeng Zhao：CZ）氏 […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナのハッカソン、1,400超のプロジェクトが集結｜史上最大規模に]]></title>
-        <id>https://crypto-times.jp/?p=136514</id>
-        <link href="https://crypto-times.jp/news-solana-breakout-hackathon/"/>
-        <updated>2025-05-30T03:38:27.000Z</updated>
-        <summary type="html"><![CDATA[Solana（ソラナ）のハッカソン「Solana Breakout Hackathon」のプロジェクトディレクトリが公開され、1,400を超えるプロジェクトが提出されたことが明らかになりました。これは、Solana史上最 […]
-投稿 ソラナのハッカソン、1,400超のプロジェクトが集結｜史上最大規模に は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>yusshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナ価格が急落　1週間ぶりの安値水準に　ミームコイン離れとSOLロック解除が懸念材料に]]></title>
-        <id>https://jp.cointelegraph.com/news/solana-price-drops-as-memecoins-fade-and-sol-unlock-concerns-emerge</id>
-        <link href="https://jp.cointelegraph.com/news/solana-price-drops-as-memecoins-fade-and-sol-unlock-concerns-emerge?utm_source=rss_feed&amp;utm_medium=rss%3Fd%3D&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-05-30T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ソラナ（SOL）のネイティブトークンは5月23日、185ドルのレジスタンスを突破できず反落し、1日で10％下落した。現在の価格は167ドル前後となっており、1週間ぶりの安値水準となっている。この動きを受け、一部トレーダーの間では、SOLが142ドルのサポート水準まで再び下落する可能性があるのではないかとの懸念が広がっている。]]></summary>
-        <author>
-            <name>Cointelegraph  Marcel Pechman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナ価格が急落　1週間ぶりの安値水準に　ミームコイン離れとSOLロック解除が懸念材料に]]></title>
-        <id>https://jp.cointelegraph.com/news/solana-price-drops-as-memecoins-fade-and-sol-unlock-concerns-emerge</id>
-        <link href="https://jp.cointelegraph.com/news/solana-price-drops-as-memecoins-fade-and-sol-unlock-concerns-emerge?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-05-30T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ソラナ（SOL）のネイティブトークンは5月23日、185ドルのレジスタンスを突破できず反落し、1日で10％下落した。現在の価格は167ドル前後となっており、1週間ぶりの安値水準となっている。この動きを受け、一部トレーダーの間では、SOLが142ドルのサポート水準まで再び下落する可能性があるのではないかとの懸念が広がっている。]]></summary>
-        <author>
-            <name>Cointelegraph  Marcel Pechman</name>
         </author>
     </entry>
 </feed>

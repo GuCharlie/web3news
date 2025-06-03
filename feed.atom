@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-03T11:14:11.423Z</updated>
+    <updated>2025-06-03T11:37:24.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コンセンシスがWeb3Auth買収、MetaMaskのシードフレーズ管理不要に]]></title>
+        <id>https://www.neweconomy.jp/?p=474486</id>
+        <link href="https://www.neweconomy.jp/posts/474486"/>
+        <updated>2025-06-03T11:15:15.000Z</updated>
+        <summary type="html"><![CDATA[ConsensysがWeb3Auth買収 Web3ウォレットのメタマスク（MetaMask）を提供するコンセンシス（Consensys）が、Web3アプリケーション向けのキー管理および組み込み型ウォレットインフラを手がけ […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[香港Reitar Logtech社、最大15億米ドルのビットコイン取得計画]]></title>
         <id>https://crypto-times.jp/?p=136778</id>
@@ -2459,16 +2469,6 @@ OpenSea、プラットフォーム「OS2」のアップグレードを発表─�
         <link href="https://coinpost.jp/?p=621439"/>
         <updated>2025-05-29T23:55:05.000Z</updated>
         <summary type="html"><![CDATA[Crazzyblockkが29日発表した分析で、バイナンスへのビットコイン流入が4-5月に急増。中堅投資家層が主導し長期保有者の利確も進む一方、大口は買い増しの姿勢を維持。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パリ・サンジェルマン、ビットコイン準備金採用]]></title>
-        <id>https://coinpost.jp/?p=621434</id>
-        <link href="https://coinpost.jp/?p=621434"/>
-        <updated>2025-05-29T23:25:31.000Z</updated>
-        <summary type="html"><![CDATA[パリ・サンジェルマンFCが昨年からビットコイン購入・保有を継続していると発表。世界最大級クラブとしてスポーツ界最大の仮想通貨採用プレーヤーと位置づけ。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-03T10:45:37.399Z</updated>
+    <updated>2025-06-03T11:14:11.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[香港Reitar Logtech社、最大15億米ドルのビットコイン取得計画]]></title>
+        <id>https://crypto-times.jp/?p=136778</id>
+        <link href="https://crypto-times.jp/news-reitar-logtech-holdings-btc/"/>
+        <updated>2025-06-03T10:57:52.000Z</updated>
+        <summary type="html"><![CDATA[香港を拠点とする不動産および物流技術企業Reitar Logtech Holdings Ltdは、最大15億米ドル相当のビットコイン (BTC) を取得する戦略計画を米国証券取引委員会（SEC）への提出書類で明らかにしま […]
+投稿 香港Reitar Logtech社、最大15億米ドルのビットコイン取得計画 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナの次世代版NFT圧縮技術「Bubblegum v2」、メタプレックス財団が公開]]></title>
         <id>https://www.neweconomy.jp/?p=474376</id>
@@ -2460,16 +2471,6 @@ OpenSea、プラットフォーム「OS2」のアップグレードを発表─�
         <summary type="html"><![CDATA[パリ・サンジェルマンFCが昨年からビットコイン購入・保有を継続していると発表。世界最大級クラブとしてスポーツ界最大の仮想通貨採用プレーヤーと位置づけ。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムの買い方｜初心者向け取引所比較とリスク・税金まで解説]]></title>
-        <id>https://coinpost.jp/?p=516165</id>
-        <link href="https://coinpost.jp/?p=516165"/>
-        <updated>2025-05-29T23:00:10.000Z</updated>
-        <summary type="html"><![CDATA[米国初のビットコインETF承認の影響でBTC価格が過去最高値を更新し、仮想通貨投資による資産運用の注目度が急上昇しています。本記事では初心者向けに高騰するイーサリアム（ETH）の買い方、アルトコイン投資のメリットやデメリット、リスクなどを解説しています。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>

@@ -1272,6 +1272,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=474637",
+          "author": "OtsugaShinya",
+          "description": "ワールドがアルゼンチンでOrbの宅配サービス開始 暗号資産（仮想通貨）プロジェクト「ワールド（World）」における「オーブ（orb）」での虹彩スキャンによる認証作業が、宅配サービスとしてアルゼンチンで提供開始された。地 […]",
+          "link": "https://www.neweconomy.jp/posts/474637",
+          "publishedOn": "2025-06-04T07:16:22.000Z",
+          "wordCount": 605,
+          "title": "ワールド、アルゼンチンで「Orb」の宅配サービス開始、自宅で虹彩スキャン可能に＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/04161602/6f79824700a1e994ac230a575519e9b1.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=474619",
           "author": "gentosha_takahashi",
           "description": "TaskUs経由で漏洩。226名が業務停止の影響 米大手暗号資産（仮想通貨）取引所のコインベース・グローバル（Coinbase Global Inc.）は、5月に報告したセキュリティ侵害に関連する顧客データ漏洩の事実を、 […]",
@@ -1618,6 +1628,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/sec-policymaking-notice-and-comment-chair-paul-atkins",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "米証券取引委員会（SEC）のポール・アトキンス委員長は6月3日、米議会上院の金融サービス小委員会の公聴会で、今後の仮想通貨に関する政策はルール制定を通じて行われると述べ、従来のような裁判を通じた規制運用からの転換を明言した。",
+          "link": "https://jp.cointelegraph.com/news/sec-policymaking-notice-and-comment-chair-paul-atkins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-04T07:06:00.000Z",
+          "wordCount": null,
+          "title": "米証券取引委員会　仮想通貨政策の転換を明言　裁判頼みから「ルールによる規制」へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzM4ZTMtYjZlMS03N2UzLWI4Y2QtMTg2MmU3MWY3NjQ4.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzM4ZTMtYjZlMS03N2UzLWI4Y2QtMTg2MmU3MWY3NjQ4.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/rakuten-wallet-crypto-currency-market-review-2025-0604",
           "author": "Cointelegraph  コインテレグラフジャパン寄稿者",
@@ -2247,36 +2272,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzIwYjAtZDliYy03NTI2LWE0MzItYzc4ZmI4ZmE2ODA5.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-price-rally-driven-by-macroeconomic-headwinds-not-just-spot-btc-etf-flows-analyst",
-          "author": "Cointelegraph  Biraajmaan Tamuly",
-          "description": "ビットコイン（BTC）への投資家の関心は、地政学的リスクや金融不安に対するヘッジとしての役割にますます結びついていると、複数の仮想通貨アナリストが指摘している。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-price-rally-driven-by-macroeconomic-headwinds-not-just-spot-btc-etf-flows-analyst?utm_source=rss_feed&utm_medium=rss%3Fd%3D&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-05-30T19:35:00.000Z",
-          "wordCount": null,
-          "title": "ビットコイン　地政学リスクと金融不安に対するヘッジとして注目集める",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzAzMWUtZDdhZi03OTc5LWEyMjAtNTQzMjNiZmY5NjE3.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzAzMWUtZDdhZi03OTc5LWEyMjAtNTQzMjNiZmY5NjE3.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-price-rally-driven-by-macroeconomic-headwinds-not-just-spot-btc-etf-flows-analyst",
-          "author": "Cointelegraph  Biraajmaan Tamuly",
-          "description": "ビットコイン（BTC）への投資家の関心は、地政学的リスクや金融不安に対するヘッジとしての役割にますます結びついていると、複数の仮想通貨アナリストが指摘している。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-price-rally-driven-by-macroeconomic-headwinds-not-just-spot-btc-etf-flows-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-05-30T19:35:00.000Z",
-          "wordCount": null,
-          "title": "ビットコイン　地政学リスクと金融不安に対するヘッジとして注目集める",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzAzMWUtZDdhZi03OTc5LWEyMjAtNTQzMjNiZmY5NjE3.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzAzMWUtZDdhZi03OTc5LWEyMjAtNTQzMjNiZmY5NjE3.jpg"
         }
       ]
     },
@@ -2285,6 +2280,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=136787",
+          "author": "Crypto Times 編集部",
+          "description": "Baseチェーンを基盤とする分散型取引所「Avantis」が800万ドル（約12億円）のシリーズA資金調達ラウンドを完了したことを発表しました。このラウンドは著名投資家ピーター・ティール氏が率いるFounders Fun […]\n投稿 Base基盤のPerp DEX「Avantis」、800万ドルを調達｜エアドロへの期待高まる は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-avantis-funding/",
+          "publishedOn": "2025-06-04T07:25:26.000Z",
+          "wordCount": 626,
+          "title": "Base基盤のPerp DEX「Avantis」、800万ドルを調達｜エアドロへの期待高まる",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_2524319765.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=136781",
           "author": "Crypto Times 編集部",

@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=296345",
+          "author": "Tom Carreras",
+          "description": "ビットコイン（BTC）マイナーのマラ・ホールディングスは5月、950枚のビットコインをマイニングした。これは前月比では35%増で、2024年4月のビットコイン半 ...\nビットコインマイナーのマラ、5月は950BTCをマイニング──追加に成功したブロック数も過去最高 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/296345/",
+          "publishedOn": "2025-06-04T02:24:25.000Z",
+          "wordCount": 1284,
+          "title": "ビットコインマイナーのマラ、5月は950BTCをマイニング──追加に成功したブロック数も過去最高",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/63cf712ed31623c54c8672ad792413a4ffc9eb09-1238x697-1.jpeg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=296147",
+          "author": "CoinDesk JAPAN",
+          "description": "CoinDesk JAPANを運営するN.Avenueが2023年7月より展開している「N.Avenue club」は、Web3をリサーチ・推進する企業リーダー ...\n【N.Avenue club 2期12回ラウンドテーブル】ウォレットが普及するための条件：次世代“スーパーウォレット”の開発現場──ソフトバンク、HashPort、Backpack生出演 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/296147/",
+          "publishedOn": "2025-06-04T01:30:00.000Z",
+          "wordCount": 1752,
+          "title": "【N.Avenue club 2期12回ラウンドテーブル】ウォレットが普及するための条件：次世代“スーパーウォレット”の開発現場──ソフトバンク、HashPort、Backpack生出演",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/記事用アイキャッチ_1200x800.png"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=296331",
           "author": "Omkar Godbole",
           "description": "XRP、法定通貨、その他のデジタル資産の迅速かつコスト効率の良いリアルタイム送金を目的とした分散型パブリックブロックチェーン、XRPレジャーにおける取引活動は、 ...\nXRPレジャーの決済取引件数、10月以来の最低水準に減少──XRPはビットコインの勢いに追随できず first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -454,6 +474,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=622571",
+          "author": "A.Yamada",
+          "description": "米国のルミス上院議員が、米軍将官の一部も仮想通貨ビットコインを備蓄することを支持していると表明した。背景には防衛力強化がある。ルミス氏は少額決済の免税も提案した。",
+          "link": "https://coinpost.jp/?p=622571",
+          "publishedOn": "2025-06-04T02:45:00.000Z",
+          "wordCount": 3206,
+          "title": "「米軍の一部がビットコイン法案を支持」ルミス上院議員　国防強化の重要性を強調",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/201102_usa_btc.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/201102_usa_btc.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=622561",
+          "author": "菊谷ルイス",
+          "description": "カリフォルニア州議会下院が州政府のビットコイン・デジタル通貨支払い受け入れを可能にする法案を68対0で可決。",
+          "link": "https://coinpost.jp/?p=622561",
+          "publishedOn": "2025-06-04T02:30:46.000Z",
+          "wordCount": 3189,
+          "title": "政府のビットコイン支払い受入れ法案、カリフォルニア下院で可決　上院審議へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/cali-bitcoin-payment-state-bill.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/cali-bitcoin-payment-state-bill.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=622563",
+          "author": "K.Kobayashi",
+          "description": "シンガポール金融管理局は、仮想通貨サービス企業の事業ライセンスに関するガイダンスを発表。特に、シンガポールの国外にサービスを提供している仮想通貨企業に対する措置が注目を集めている。",
+          "link": "https://coinpost.jp/?p=622563",
+          "publishedOn": "2025-06-04T02:02:44.000Z",
+          "wordCount": 3205,
+          "title": "未認可の仮想通貨企業の国外サービス提供を禁止へ　シンガポール当局、新ガイダンスを発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/MAS_Singapore_784080886.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/MAS_Singapore_784080886.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=622547",
           "author": "A.Yamada",
@@ -1438,6 +1503,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/trump-truth-social-files-spot-bitcoin-etf",
+          "author": "Cointelegraph  Brayden Lindrea",
+          "description": "トランプ米大統領が率いる仮想通貨帝国が、さらなる拡大の兆しを見せている。新たな申請書によれば、トランプ氏のSNSプラットフォーム「トゥルース・ソーシャル」のブランドを冠したビットコインETF（上場投資信託）が立ち上げられる可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/trump-truth-social-files-spot-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-04T02:50:00.000Z",
+          "wordCount": null,
+          "title": "トランプ関連のビットコインETFが浮上　「トゥルース・ソーシャル」ブランドでSECに申請　仮想通貨事業をさらに拡大へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzM3YjEtMjhkZS03NGYxLWI5MzgtM2JhMzczODc1NzJm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzM3YjEtMjhkZS03NGYxLWI5MzgtM2JhMzczODc1NzJm.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/revolut-crypto-derivatives-push-job-listing",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "フィンテック大手レボリュートが、仮想通貨デリバティブ事業の立ち上げに向けて準備を進めている可能性が浮上している。最近の求人情報によれば、同社はこの分野をゼロから構築する計画を示唆している。",
+          "link": "https://jp.cointelegraph.com/news/revolut-crypto-derivatives-push-job-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-04T02:19:00.000Z",
+          "wordCount": null,
+          "title": "レボリュート　仮想通貨デリバティブ市場に本格参入か　求人情報が示唆",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzM0YTUtOWY2Ny03YTk4LTllYWEtODUyM2Y1NDQ2NjA0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzM0YTUtOWY2Ny03YTk4LTllYWEtODUyM2Y1NDQ2NjA0.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/crypto-vc-deal-count-2025-low-ma-2-9b-record",
           "author": "Cointelegraph  Zoltan Vardai",

@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-05T20:35:50.851Z</updated>
+    <updated>2025-06-05T21:14:54.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[個人マイナーがビットコインブロック採掘に成功、3.15BTC獲得]]></title>
+        <id>https://coinpost.jp/?p=623112</id>
+        <link href="https://coinpost.jp/?p=623112"/>
+        <updated>2025-06-05T21:00:32.000Z</updated>
+        <summary type="html"><![CDATA[個人マイナー再び採掘成功ソロ（個人）のビットコイン（BTC）マイナーが6月5日、ビットコインの#ブロック899,826を単独で採掘し、3.15BTC（約4,570万円）の報酬を獲得した。CKpoolのソロマイニング環境を使用したこのマイナー...]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[企業のビットコイン保有高、約12兆円に──1年で2倍以上に増加]]></title>
+        <id>https://www.coindeskjapan.com/?p=296582</id>
+        <link href="https://www.coindeskjapan.com/296582/"/>
+        <updated>2025-06-05T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は企業の財務にますます深く浸透しており、5月末時点で116の上場企業が合計80万9100枚のビットコインを保有している。これは現在の価格に ...
+企業のビットコイン保有高、約12兆円に──1年で2倍以上に増加 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Francisco Rodrigues</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サークル株、NYSE上場初日に急騰──ステーブルコイン発行企業への強い需要を示唆]]></title>
         <id>https://www.coindeskjapan.com/?p=296586</id>
@@ -2913,16 +2934,6 @@ XRPの価格動向と注目点を読み解く first appeared on CoinDesk JAPAN�
 イーサリアム、クジラへの懸念で下落も2500ドル水準に回復 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>T. Minamoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebX 2025徹底解説｜アジア最大級Web3カンファレンスの見どころ・参加方法・チケット料金を完全網羅]]></title>
-        <id>https://coinpost.jp/?p=612324</id>
-        <link href="https://coinpost.jp/?p=612324"/>
-        <updated>2025-06-01T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[WebX 2025の完全攻略ガイド。8月25-26日東京開催のアジア最大級Web3カンファレンスの注目スピーカー、チケット料金、会場アクセス、サイドイベント情報を詳しく解説。北尾吉孝氏、オードリー・タン氏ら豪華登壇者や過去実績も紹介。早期割引情報も必見です。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>

@@ -565,6 +565,51 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=623124",
+          "author": "K.Kobayashi",
+          "description": "イーロン・マスク氏は、トランプ政権の大きく美しい法案を、米国民を債務の奴隷にする内容だと批判。また、仮想通貨取引所コインベースのCEOがビットコインに言及した投稿に反応した。",
+          "link": "https://coinpost.jp/?p=623124",
+          "publishedOn": "2025-06-05T22:05:36.000Z",
+          "wordCount": 3173,
+          "title": "イーロン、「大きく美しい法案」を批判　ビットコイン関連投稿に反応も",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/elon-musk-5000-back-to-tax-payer-.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/elon-musk-5000-back-to-tax-payer-.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=623127",
+          "author": "菊谷ルイス",
+          "description": "トランプファミリー出資のWorld Liberty Financialが、別系列のトランプ名義ウォレット開発企業に停止命令を送付。内部対立が表面化に。",
+          "link": "https://coinpost.jp/?p=623127",
+          "publishedOn": "2025-06-05T21:45:13.000Z",
+          "wordCount": 3173,
+          "title": "トランプファミリー出資のWLFI、他社ウォレット開発巡り法的警告発出＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/trump-family-wallet-dispute.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/trump-family-wallet-dispute.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=623114",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨ステーブルコインUSDC発行のCircle社の株式がNYSEで取引開始し株価は公開価格31ドルから90ドル超まで急騰。初日の値動きが注目を集めた。",
+          "link": "https://coinpost.jp/?p=623114",
+          "publishedOn": "2025-06-05T21:20:12.000Z",
+          "wordCount": 3170,
+          "title": "株式上場初日で株価3倍以上高騰、ステーブルコイン大手Circle　ビットコインは急落",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/usdc-circle-stock-up-big.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/usdc-circle-stock-up-big.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=623112",
           "author": "菊谷ルイス",
           "description": "個人マイナー再び採掘成功ソロ（個人）のビットコイン（BTC）マイナーが6月5日、ビットコインの#ブロック899,826を単独で採掘し、3.15BTC（約4,570万円）の報酬を獲得した。CKpoolのソロマイニング環境を使用したこのマイナー...",
@@ -1888,6 +1933,66 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/rwa-token-market-bitcoin-adoption-2025",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "2025年前半、現実世界資産（RWA）のトークン化が急増した。これは、規制の明確化が進み、ブロックチェーンを基盤とした金融商品の普及が拡大したためだ。",
+          "link": "https://jp.cointelegraph.com/news/rwa-token-market-bitcoin-adoption-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-05T21:57:00.000Z",
+          "wordCount": null,
+          "title": "RWAトークン市場、2025年に260%成長｜企業が仮想通貨規制を受け入れ拡大",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzNmNWUtNzNiZi03MzdlLWE1NmUtMzk0YjRmN2Q5MTgy.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzNmNWUtNzNiZi03MzdlLWE1NmUtMzk0YjRmN2Q5MTgy.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/circle-stock-price-jumps-167-in-first-day-of-trading-after-ipo",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "ステーブルコイン発行企業のサークルが6月5日、ニューヨーク証券取引所（NYSE）で株式を公開し、初日の取引で株価が167%上昇する力強いデビューを果たした。",
+          "link": "https://jp.cointelegraph.com/news/circle-stock-price-jumps-167-in-first-day-of-trading-after-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-05T21:50:00.000Z",
+          "wordCount": null,
+          "title": "サークル株、IPO初日に167%急騰",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmVhNDItYjllZS03ODcwLThhNWYtNmMzNzM0OGMwMmYw.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmVhNDItYjllZS03ODcwLThhNWYtNmMzNzM0OGMwMmYw.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/trump-media-files-spot-bitcoin-etf-sec",
+          "author": "Cointelegraph  Adrian Zmudzinski",
+          "description": "米国大統領ドナルド・トランプ氏が大株主を務め、トゥルース・ソーシャル（Truth Social）を運営するトランプ・メディア・アンド・テクノロジー・グループ（TMTG）は、米国証券取引委員会（SEC）に対し、ビットコイン上場投資信託（ETF）の新規登録届出書を提出した。",
+          "link": "https://jp.cointelegraph.com/news/trump-media-files-spot-bitcoin-etf-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-05T21:41:00.000Z",
+          "wordCount": null,
+          "title": "トランプ・メディア、SECに現物ビットコインETF承認申請",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQwNGUtMzFmOC03NzFhLThkMDMtZDhiNTNmMTA4YjM5.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQwNGUtMzFmOC03NzFhLThkMDMtZDhiNTNmMTA4YjM5.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/donald-trump-world-liberty-financial-cease-desist-letter-crypto-wallets",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "米国大統領ドナルド・トランプ氏とその家族が支援する仮想通貨プラットフォーム「ワールド・リバティ・ファイナンシャル（WLFI）」が、同氏のブランドを冠したビットコインウォレットを手がける企業に対し、停止命令（差止命令）を出したと報じられた。",
+          "link": "https://jp.cointelegraph.com/news/donald-trump-world-liberty-financial-cease-desist-letter-crypto-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-05T21:35:00.000Z",
+          "wordCount": null,
+          "title": "WLFI、無許可の『トランプウォレット』に差止命令を送付 ＝ 報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQxN2ItNzg2MC03Y2RiLTllYTMtNDJjOTczNDJkYjRm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQxN2ItNzg2MC03Y2RiLTllYTMtNDJjOTczNDJkYjRm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/circle-debuts-public-trading-nyse-crcl",
           "author": "Cointelegraph  Helen Partz",

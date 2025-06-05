@@ -585,6 +585,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=622974",
+          "author": "Ritsuki.Kumazawa",
+          "description": "リミックスポイントは6月4日に32.81BTC（5億円相当）を追加購入し、保有量が713.5BTCに到達。新株予約権による資金調達で累計1,000BTC以上の取得を目指すと発表した。",
+          "link": "https://coinpost.jp/?p=622974",
+          "publishedOn": "2025-06-05T07:57:36.000Z",
+          "wordCount": 3175,
+          "title": "リミックスポイント、1000BTC以上の保有目標を発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/remixpointthunbnail0605.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/remixpointthunbnail0605.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=622962",
           "author": "AKIRA.H",
           "description": "バイナンスがBIFI・FIS・KMD・MDTの4銘柄を新たに監視対象に追加。FIS・KMDは急落。監視タグの意味や取引制限も解説。",
@@ -2692,21 +2707,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDI5YjktM2M3Ni03MTg5LWEzYTQtYjYzZjEyNjM3OWVj.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/digital-euro-not-mica-control-crypto-risks-bank-italy",
-          "author": "Cointelegraph  Helen Partz",
-          "description": "イタリア銀行総裁のファビオ・パネッタ氏は、仮想通貨の普及に伴うリスクに対処するためには、デジタルユーロが極めて重要なツールになると強調した。",
-          "link": "https://jp.cointelegraph.com/news/digital-euro-not-mica-control-crypto-risks-bank-italy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-05-31T21:00:00.000Z",
-          "wordCount": null,
-          "title": "デジタルユーロは仮想通貨リスクへの「唯一の有効な対応策」　イタリア中銀総裁が強調",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzIwYWUtZGJkZC03OTJiLWE2NDQtZTA2NGJjOTRjZGMw.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzIwYWUtZGJkZC03OTJiLWE2NDQtZTA2NGJjOTRjZGMw.jpg"
         }
       ]
     },
@@ -2715,6 +2715,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=136951",
+          "author": "boarding bridge",
+          "description": "執筆：summerchon TVL約2億ドルを誇り、2018年から稼働を続けるBitcoin Layer2「Rootstock」のAMAを、CryptoTimes公式コミュニティ「boarding bridge（bb）」 […]\n投稿 総額39万ドル報酬キャンペーン開始！最長稼働のBitcoin Layer2「Rootstock」AMAレポート は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/ama-rootstock-2/",
+          "publishedOn": "2025-06-05T08:56:17.000Z",
+          "wordCount": 731,
+          "title": "総額39万ドル報酬キャンペーン開始！最長稼働のBitcoin Layer2「Rootstock」AMAレポート",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/AMA_Poster_2.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=136902",
           "author": "Crypto Troll",

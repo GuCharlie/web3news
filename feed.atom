@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-05T21:14:54.028Z</updated>
+    <updated>2025-06-05T21:37:44.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[USDC発行元サークル、ニューヨーク証券取引所で株式公開取引を開始]]></title>
+        <id>https://jp.cointelegraph.com/news/circle-debuts-public-trading-nyse-crcl</id>
+        <link href="https://jp.cointelegraph.com/news/circle-debuts-public-trading-nyse-crcl?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-06-05T21:10:00.000Z</updated>
+        <summary type="html"><![CDATA[USDCを発行する時価総額第2位のステーブルコイン企業サークルが、ニューヨーク証券取引所（NYSE）で取引を開始した。]]></summary>
+        <author>
+            <name>Cointelegraph  Helen Partz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[個人マイナーがビットコインブロック採掘に成功、3.15BTC獲得]]></title>
         <id>https://coinpost.jp/?p=623112</id>

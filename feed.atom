@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-06T14:40:40.421Z</updated>
+    <updated>2025-06-06T15:14:02.769Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ大統領がパウエル議長に利下げ要求　ビットコインは10万4000ドル突破]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-nears-105k-donald-trump-demands-full-point-fed-rate-cut</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-nears-105k-donald-trump-demands-full-point-fed-rate-cut?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-06-06T15:05:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は6月6日のウォール街の取引開始とともに10万4000ドルを突破した。堅調な米雇用統計が発表される一方で、トランプ大統領は米連邦準備制度理事会（FRB）に対する利下げ圧力を強めている。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5月米雇用統計、13万9000人雇用増でほぼ予想通り]]></title>
+        <id>https://www.coindeskjapan.com/?p=296810</id>
+        <link href="https://www.coindeskjapan.com/296810/"/>
+        <updated>2025-06-06T14:49:41.000Z</updated>
+        <summary type="html"><![CDATA[アメリカの労働市場は5月も緩やかに減速したが、失業率を押し上げるには足りなかった。 米労働統計局（BLS）が6日に行った発表によると、非農業部門雇用者数は5月に ...
+5月米雇用統計、13万9000人雇用増でほぼ予想通り first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプvsマスク衝突でビットコイン大量清算、8.7億ドル相当が消失]]></title>
         <id>https://crypto-times.jp/?p=137027</id>
@@ -3581,26 +3602,6 @@ XRP、価格上昇に期待──建玉の急増はショートスクイーズ�
         <summary type="html"><![CDATA[仮想通貨ビットコインの大量保有で知られる上場企業、米ストラテジー社のマイケル・セイラー会長がBitcoin 2025に登壇。同社の株式が資産に対して大幅ディスカウントで取引された場合の対応策を説明した。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Dev CorpがLST「dfdvSOL」採用、SOL財務戦略を強化へ]]></title>
-        <id>https://www.neweconomy.jp/?p=473951</id>
-        <link href="https://www.neweconomy.jp/posts/473951"/>
-        <updated>2025-06-02T03:11:17.000Z</updated>
-        <summary type="html"><![CDATA[DeFi Dev CorpがLST採用 暗号資産（仮想通貨）ソラナ（SOL）に特化した財務戦略を採用し、不動産業界向けのAIプラットフォームも展開するディファイデブコープ（DeFi Development Corpora […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ関税の懸念再燃で前週末にかけて仮想通貨急落、Hyperliquidで1億ドルの清算発生]]></title>
-        <id>https://coinpost.jp/?p=621972</id>
-        <link href="https://coinpost.jp/?p=621972"/>
-        <updated>2025-06-02T03:09:45.000Z</updated>
-        <summary type="html"><![CDATA[米中貿易摩擦の再燃で、前週末にかけて株や暗号資産（仮想通貨）ビットコイン市場が急変、投資家心理が悪化した。関税政策への懸念から1日で6億ドルの資金流出が発生し、大口トレーダーの清算事件も重なる。市場分析とマクロ経済要因の影響を詳しく解説。]]></summary>
-        <author>
-            <name>S.Ninomiya</name>
         </author>
     </entry>
 </feed>

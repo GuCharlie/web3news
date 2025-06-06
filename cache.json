@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=296810",
+          "author": "林 理南",
+          "description": "アメリカの労働市場は5月も緩やかに減速したが、失業率を押し上げるには足りなかった。 米労働統計局（BLS）が6日に行った発表によると、非農業部門雇用者数は5月に ...\n5月米雇用統計、13万9000人雇用増でほぼ予想通り first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/296810/",
+          "publishedOn": "2025-06-06T14:49:41.000Z",
+          "wordCount": 1345,
+          "title": "5月米雇用統計、13万9000人雇用増でほぼ予想通り",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/shutterstock_273357302.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=296779",
           "author": "Francisco Rodrigues",
           "description": "東証スタンダードに上場するメタプラネットは、ビットコイン（BTC）に特化した財務会社として位置付けを強化しており、さらに5億5500万株の新株予約権を発行し、約 ...\nメタプラネット、約7700億円の資金調達計画を発表──2027年までに21万BTCの保有を目指す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -1678,21 +1688,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/micro-saylor-bitcoin.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/micro-saylor-bitcoin.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=621972",
-          "author": "S.Ninomiya",
-          "description": "米中貿易摩擦の再燃で、前週末にかけて株や暗号資産（仮想通貨）ビットコイン市場が急変、投資家心理が悪化した。関税政策への懸念から1日で6億ドルの資金流出が発生し、大口トレーダーの清算事件も重なる。市場分析とマクロ経済要因の影響を詳しく解説。",
-          "link": "https://coinpost.jp/?p=621972",
-          "publishedOn": "2025-06-02T03:09:45.000Z",
-          "wordCount": 3305,
-          "title": "トランプ関税の懸念再燃で前週末にかけて仮想通貨急落、Hyperliquidで1億ドルの清算発生",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/bitcoin-reserve-toly-against.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/bitcoin-reserve-toly-against.jpg"
         }
       ]
     },
@@ -2230,16 +2225,6 @@
           "wordCount": 758,
           "title": "メタプラネットが約169億円でビットコイン追加購入、総保有数8,888BTCに",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/02122638/a6e93dae6c5ef8321b21b1ae1dd3b599.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=473951",
-          "author": "HitomotoToshikazu",
-          "description": "DeFi Dev CorpがLST採用 暗号資産（仮想通貨）ソラナ（SOL）に特化した財務戦略を採用し、不動産業界向けのAIプラットフォームも展開するディファイデブコープ（DeFi Development Corpora […]",
-          "link": "https://www.neweconomy.jp/posts/473951",
-          "publishedOn": "2025-06-02T03:11:17.000Z",
-          "wordCount": 589,
-          "title": "DeFi Dev CorpがLST「dfdvSOL」採用、SOL財務戦略を強化へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/02121055/SOL-250602PIXTA.jpg"
         }
       ]
     },
@@ -2248,6 +2233,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-nears-105k-donald-trump-demands-full-point-fed-rate-cut",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコイン（BTC）は6月6日のウォール街の取引開始とともに10万4000ドルを突破した。堅調な米雇用統計が発表される一方で、トランプ大統領は米連邦準備制度理事会（FRB）に対する利下げ圧力を強めている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-nears-105k-donald-trump-demands-full-point-fed-rate-cut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-06T15:05:00.000Z",
+          "wordCount": null,
+          "title": "トランプ大統領がパウエル議長に利下げ要求　ビットコインは10万4000ドル突破",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTY1YjMtN2FjOC03MDEwLWFiNWEtNTcyZTM0YmRmMTE1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTY1YjMtN2FjOC03MDEwLWFiNWEtNTcyZTM0YmRmMTE1.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/dogecoin-price-risks-66-drop-to-0-06-trump-musk-feud",
           "author": "Cointelegraph  Nancy Lubale",

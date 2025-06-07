@@ -550,16 +550,6 @@
           "wordCount": 1320,
           "title": "暗号資産関連の詐欺、ハッキング、エクスプロイトによる損失額、5月は約430億円：CertiK",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/shutterstock_2248466625.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=296098",
-          "author": "Margaux Nijkerk",
-          "description": "人気のメタマスクウォレットを運営するイーサリアムインフラ企業のコンセンシスは、自社のプラットフォームにおけるユーザー体験の向上と開発者へのアクセス改善を目的に、 ...\nコンセンシス、Web3Authを買収──メタマスク刷新を目指す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/296098/",
-          "publishedOn": "2025-06-02T21:30:00.000Z",
-          "wordCount": 1292,
-          "title": "コンセンシス、Web3Authを買収──メタマスク刷新を目指す",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/7QXPPA62XZEJFMI7UVEMNWIWO4-1-768x512-1.jpg"
         }
       ]
     },
@@ -1698,21 +1688,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/texas-bitcoin-bill.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/texas-bitcoin-bill.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=622239",
-          "author": "菊谷ルイス",
-          "description": "香港拠点の物流技術企業リータル・ロジテック・ホールディングスが最大15億ドル相当のビットコイン取得計画をSEC文書で開示。資金準備金強化が購入の目的に。",
-          "link": "https://coinpost.jp/?p=622239",
-          "publishedOn": "2025-06-02T21:25:57.000Z",
-          "wordCount": 3163,
-          "title": "香港物流テック企業リータル・ロジテック、2140億円規模のビットコイン購入計画",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/bitcoin-2025-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/bitcoin-2025-1.jpg"
         }
       ]
     },
@@ -2138,6 +2113,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/spot-ether-etfs-inflow-streak-large-portion-net-flows",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "米国で運用されている現物イーサリアム上場投資信託（ETF）は、6月6日の取引で2530万ドルの資金流入を記録し、15営業日連続での流入となった。ファーサイドのデータによると、これは3週連続での純流入であり、現行の流入トレンドが続けば、来週中にも累計で10億ドルに達する可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/spot-ether-etfs-inflow-streak-large-portion-net-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-07T09:20:00.000Z",
+          "wordCount": null,
+          "title": "現物イーサリアムETF、15営業日連続の資金流入に　累計10億ドル超えも視野",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTg2YTQtMmE0My03ODA2LWE3N2EtMmNjOGQzNjk2ZmJi.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTg2YTQtMmE0My03ODA2LWE3N2EtMmNjOGQzNjk2ZmJi.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/etf-issuers-letter-urging-sec-return-first-file-approvals",
           "author": "Cointelegraph  Vince Quill",

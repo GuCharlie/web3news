@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-07T09:15:12.491Z</updated>
+    <updated>2025-06-07T09:37:39.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[現物イーサリアムETF、15営業日連続の資金流入に　累計10億ドル超えも視野]]></title>
+        <id>https://jp.cointelegraph.com/news/spot-ether-etfs-inflow-streak-large-portion-net-flows</id>
+        <link href="https://jp.cointelegraph.com/news/spot-ether-etfs-inflow-streak-large-portion-net-flows?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-06-07T09:20:00.000Z</updated>
+        <summary type="html"><![CDATA[米国で運用されている現物イーサリアム上場投資信託（ETF）は、6月6日の取引で2530万ドルの資金流入を記録し、15営業日連続での流入となった。ファーサイドのデータによると、これは3週連続での純流入であり、現行の流入トレンドが続けば、来週中にも累計で10億ドルに達する可能性がある。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【今日の暗号資産ニュース】メタプラネット2027年末までに21万BTC取得へ、Xが予測市場ポリマーケットと提携]]></title>
         <id>https://crypto-times.jp/?p=137168</id>
@@ -3460,27 +3470,6 @@ XRP、価格上昇に期待──建玉の急増はショートスクイーズ�
         <link href="https://coinpost.jp/?p=622246"/>
         <updated>2025-06-02T21:40:18.000Z</updated>
         <summary type="html"><![CDATA[テキサス州議会が上院法案21号を24対7で可決し、州政府によるビットコイン準備金設立が実現へ。アボット知事の署名を経て全米3番目の仮想通貨保有州となる見通し。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コンセンシス、Web3Authを買収──メタマスク刷新を目指す]]></title>
-        <id>https://www.coindeskjapan.com/?p=296098</id>
-        <link href="https://www.coindeskjapan.com/296098/"/>
-        <updated>2025-06-02T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[人気のメタマスクウォレットを運営するイーサリアムインフラ企業のコンセンシスは、自社のプラットフォームにおけるユーザー体験の向上と開発者へのアクセス改善を目的に、 ...
-コンセンシス、Web3Authを買収──メタマスク刷新を目指す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Margaux Nijkerk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港物流テック企業リータル・ロジテック、2140億円規模のビットコイン購入計画]]></title>
-        <id>https://coinpost.jp/?p=622239</id>
-        <link href="https://coinpost.jp/?p=622239"/>
-        <updated>2025-06-02T21:25:57.000Z</updated>
-        <summary type="html"><![CDATA[香港拠点の物流技術企業リータル・ロジテック・ホールディングスが最大15億ドル相当のビットコイン取得計画をSEC文書で開示。資金準備金強化が購入の目的に。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>

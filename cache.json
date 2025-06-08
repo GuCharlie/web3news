@@ -390,16 +390,6 @@
           "wordCount": 1318,
           "title": "ビットコインの流動性不足は新たなボラティリティを示唆：シグナム銀行",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/5adbb53f5fcd97a018889b0c437bca916550b4a1-5096x3822-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=296437",
-          "author": "Shaurya Malwa",
-          "description": "トランプ一族が支援する暗号資産（仮想通貨）企業、ワールド・リバティ・ファイナンシャル（World Liberty Financial）は、WLFIトークンセール ...\nワールド・リバティ・ファイナンシャル、WLFI保有者に47ドル相当のUSD1をエアドロップ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/296437/",
-          "publishedOn": "2025-06-04T10:25:00.000Z",
-          "wordCount": 1310,
-          "title": "ワールド・リバティ・ファイナンシャル、WLFI保有者に47ドル相当のUSD1をエアドロップ",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/c8bfe95b424c430682e7e2761b9bb8d2d70fcee1-3790x2132-1.jpeg"
         }
       ]
     },
@@ -414,6 +404,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=623678",
+          "author": "菊谷ルイス",
+          "description": "VanEckら3社がSECの先着順無視に異議。ソラナ・XRP ETF申請を巡り、ブラックロック参入時の一括承認への懸念と公平性が議論に。",
+          "link": "https://coinpost.jp/?p=623678",
+          "publishedOn": "2025-06-08T22:20:40.000Z",
+          "wordCount": 3195,
+          "title": "ブラックロックがXRP現物ETFを申請したら？　米SECの『大手優遇』に中小が反発",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/pando-etf.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/pando-etf.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=623675",
           "author": "菊谷ルイス",
@@ -1133,21 +1138,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/jpmorgan_bitcoin1.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/jpmorgan_bitcoin1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=622707",
-          "author": "CoinPost編集部",
-          "description": "新機能搭載のATM導入へ暗号資産交換業者ガイアは4日、事前登録不要の暗号資産自動両替機「BTM」サービスの開始を発表した。このサービスは訪日外国人観光客をメインターゲットとし、パスポートのみでビットコインやイーサリアムといった暗号資産（仮想...",
-          "link": "https://coinpost.jp/?p=622707",
-          "publishedOn": "2025-06-04T10:17:03.000Z",
-          "wordCount": 3195,
-          "title": "パスポート1枚でビットコインを日本円に　ガイアが新たな仮想通貨ATMサービス開始",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-czar-criticize.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-czar-criticize.jpg"
         }
       ]
     },
@@ -1353,6 +1343,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/tether-ceo-paolo-ardoino-no-public-plans-bearish-valuation",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "ステーブルコイン発行会社テザー（Tether）のCEOであるパオロ・アルドイノ氏は、ライバルのサークル（Circle）がニューヨーク証券取引所（NYSE）で株式公開を果たした数日後、テザーには上場する意図がないと述べた。",
+          "link": "https://jp.cointelegraph.com/news/tether-ceo-paolo-ardoino-no-public-plans-bearish-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-08T22:27:00.000Z",
+          "wordCount": null,
+          "title": "テザーCEO、IPOを否定｜5150億ドルの評価額は『やや弱気』と発言",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDcyNmQtNDA5NS03NjJkLWI2ZmItYWQ1Nzg5NTU4YmRm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDcyNmQtNDA5NS03NjJkLWI2ZmItYWQ1Nzg5NTU4YmRm.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/dubai-real-estate-sales-tokenization-boom-may-2025",
+          "author": "Cointelegraph  Ezra Reguerra",
+          "description": "ドバイの不動産市場は5月、投資家の信頼感が高まり、過去最高の販売件数と取引額を記録した。不動産のトークン化に向けた準備が整いつつあるようだ。",
+          "link": "https://jp.cointelegraph.com/news/dubai-real-estate-sales-tokenization-boom-may-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-08T22:20:00.000Z",
+          "wordCount": null,
+          "title": "ドバイ不動産市場、トークン化推進の中で5月に182億ドルの取引を記録",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTQyMWItOTIzYS03NDFlLWIzOTUtNWRkOWQ1NjYyNTc2.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTQyMWItOTIzYS03NDFlLWIzOTUtNWRkOWQ1NjYyNTc2.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoiners-debate-bitcoin-core-developers-use-cases-transaction-relay",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "ビットコインのコア開発者31人による共同声明が、ビットコインの非金融的な利用目的を巡る論争の最中に発表され、世界中のビットコイナーの間で議論を呼んでいる。",
+          "link": "https://jp.cointelegraph.com/news/bitcoiners-debate-bitcoin-core-developers-use-cases-transaction-relay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-08T22:09:00.000Z",
+          "wordCount": null,
+          "title": "ビットコインコア開発者の共同声明、ビットコイナー間で激しい議論を呼ぶ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjNlZTYtNDMxOS03OGM4LWJlY2QtZDg0OGM1NjRkNWFk.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjNlZTYtNDMxOS03OGM4LWJlY2QtZDg0OGM1NjRkNWFk.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/strategy-bitcoin-buy-signal-stock-offering",
           "author": "Cointelegraph  Ezra Reguerra",

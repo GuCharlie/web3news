@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-10T21:15:30.815Z</updated>
+    <updated>2025-06-10T21:38:45.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナ5%上昇、現物ETF　7月承認の可能性浮上]]></title>
+        <id>https://coinpost.jp/?p=624372</id>
+        <link href="https://coinpost.jp/?p=624372"/>
+        <updated>2025-06-10T21:22:07.000Z</updated>
+        <summary type="html"><![CDATA[米SECがソラナETF申請企業に対し1週間以内のS-1書類修正を要求。ステーキング機能や現物償還条項の言語修正が焦点で、業界関係者は3-5週間での承認、早ければ7月の可能性を見込む。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ家支援のAmerican Bitcoin、35億円相当のビットコイン購入]]></title>
+        <id>https://coinpost.jp/?p=624369</id>
+        <link href="https://coinpost.jp/?p=624369"/>
+        <updated>2025-06-10T21:05:22.000Z</updated>
+        <summary type="html"><![CDATA[エリック・トランプ氏らが支援するビットコインマイニング企業American Bitcoinが215BTCを購入。マイケル・セイラー戦略（ストラテジー）を採用している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン長期保有者による保有数の増加、強気の見通しを示唆]]></title>
         <id>https://www.coindeskjapan.com/?p=297289</id>
@@ -15,6 +35,16 @@
 ビットコイン長期保有者による保有数の増加、強気の見通しを示唆 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>James Van Straten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム7％上昇、UNI・AAVE高騰　SEC委員長のDeFi支持発言で]]></title>
+        <id>https://coinpost.jp/?p=624362</id>
+        <link href="https://coinpost.jp/?p=624362"/>
+        <updated>2025-06-10T20:50:13.000Z</updated>
+        <summary type="html"><![CDATA[SEC新委員長ポール・アトキンス氏のDeFi支援発言を受け、イーサリアムが7％以上上昇し2800ドル台に接近。UNIなどのDeFiトークンも大幅高を記録し、仮想通貨市場に楽観ムードが広がっている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -2117,47 +2147,6 @@ IOST、トークン化資産インフラの導入拡大のため2100万ドルを
         <summary type="html"><![CDATA[6月6日の米国市場の取引開始前に、ビットコイン（BTC）は一時的な下落から持ち直し、再び10万3000ドル以上まで回復した。]]></summary>
         <author>
             <name>Cointelegraph  William Suberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ氏とマスク氏の対立が影響か　ビットコインETFに再び大規模な資金流出]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-etf-bleed-trump-musk-fallout-sentiment-fear</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-etf-bleed-trump-musk-fallout-sentiment-fear?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-06-06T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[米国で上場されている現物ビットコイン上場投資信託（ETF）から資金が流出している。背景には、米国のトランプ大統領と起業家イーロン・マスク氏の関係悪化があると見られている。]]></summary>
-        <author>
-            <name>Cointelegraph  Helen Partz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ氏とマスク氏の対立が影響か　ビットコインETFに再び大規模な資金流出]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-etf-bleed-trump-musk-fallout-sentiment-fear</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-etf-bleed-trump-musk-fallout-sentiment-fear?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-06-06T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[米国で上場されている現物ビットコイン上場投資信託（ETF）から資金が流出している。背景には、米国のトランプ大統領と起業家イーロン・マスク氏の関係悪化があると見られている。]]></summary>
-        <author>
-            <name>Cointelegraph  Helen Partz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネット、ビットコイン保有計画で26倍超の上方修正　21万BTCの保有目指す]]></title>
-        <id>https://coinpost.jp/?p=623334</id>
-        <link href="https://coinpost.jp/?p=623334"/>
-        <updated>2025-06-06T09:21:33.000Z</updated>
-        <summary type="html"><![CDATA[メタプラネットが日本の資本市場史上最大級となる7,674億円の新株予約権発行を決議した。「555ミリオンプラン」により、ビットコイン保有目標を従来の2万BTCから21万BTCへ26倍超に上方修正。アジアを代表する仮想通貨ビットコイントレジャリー企業としての地位確立を図る。]]></summary>
-        <author>
-            <name>Ritsuki.Kumazawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台湾の取引所Bitopro、1100万ドル相当のハッキング被害を認める]]></title>
-        <id>https://www.coindeskjapan.com/?p=296719</id>
-        <link href="https://www.coindeskjapan.com/296719/"/>
-        <updated>2025-06-06T09:20:00.000Z</updated>
-        <summary type="html"><![CDATA[台湾の暗号資産（仮想通貨）取引所BitoProはCoinDeskに対し、5月に古いホットウォレットに対するサイバー攻撃を受け、1100万ドル（約15億9500万 ...
-台湾の取引所Bitopro、1100万ドル相当のハッキング被害を認める first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>

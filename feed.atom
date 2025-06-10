@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-10T22:42:17.061Z</updated>
+    <updated>2025-06-10T23:14:57.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日銀が量的緩和に転換すればビットコイン高騰の可能性 ＝ アーサー・ヘイズ氏]]></title>
+        <id>https://jp.cointelegraph.com/news/boj-june-introduce-qe-next-bitcoin-catalyst-arthur-hayes</id>
+        <link href="https://jp.cointelegraph.com/news/boj-june-introduce-qe-next-bitcoin-catalyst-arthur-hayes?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-06-10T22:55:00.000Z</updated>
+        <summary type="html"><![CDATA[日本銀行（日銀）の6月の金融政策決定会合が、株式や仮想通貨など世界のリスク資産にとって次の大きな材料になる可能性がある。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米下院農業委員会、CLARITY法案を可決]]></title>
+        <id>https://jp.cointelegraph.com/news/house-committee-crypto-market-structure-bill</id>
+        <link href="https://jp.cointelegraph.com/news/house-committee-crypto-market-structure-bill?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-06-10T22:33:00.000Z</updated>
+        <summary type="html"><![CDATA[米国下院農業委員会の議員らは、デジタル資産市場の規制を明確化する「CLARITY法案」を可決し、議会での審議をさらに進めた。]]></summary>
+        <author>
+            <name>Cointelegraph  Turner Wright</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインの年内「適正価値」は最大23万ドル＝ビットワイズアナリスト]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-fair-value-could-be-as-high-as-230k-bitwise-analysts</id>

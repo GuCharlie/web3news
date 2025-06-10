@@ -390,7 +390,7 @@
       "articles": []
     },
     {
-      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "仮想通貨の価格が上昇する要因5選",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -1273,6 +1273,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/boj-june-introduce-qe-next-bitcoin-catalyst-arthur-hayes",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "日本銀行（日銀）の6月の金融政策決定会合が、株式や仮想通貨など世界のリスク資産にとって次の大きな材料になる可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/boj-june-introduce-qe-next-bitcoin-catalyst-arthur-hayes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-10T22:55:00.000Z",
+          "wordCount": null,
+          "title": "日銀が量的緩和に転換すればビットコイン高騰の可能性 ＝ アーサー・ヘイズ氏",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU5M2MtZmI3MS03NmI0LWI5MDYtNzZlYjFlYmFiNTcz.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU5M2MtZmI3MS03NmI0LWI5MDYtNzZlYjFlYmFiNTcz.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/house-committee-crypto-market-structure-bill",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "米国下院農業委員会の議員らは、デジタル資産市場の規制を明確化する「CLARITY法案」を可決し、議会での審議をさらに進めた。",
+          "link": "https://jp.cointelegraph.com/news/house-committee-crypto-market-structure-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-10T22:33:00.000Z",
+          "wordCount": null,
+          "title": "米下院農業委員会、CLARITY法案を可決",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5NDA5Y2MtOTM5YS03NjQ1LWI4NTYtOGU4MWE2ODIwYjk4.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5NDA5Y2MtOTM5YS03NjQ1LWI4NTYtOGU4MWE2ODIwYjk4.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-fair-value-could-be-as-high-as-230k-bitwise-analysts",
           "author": "Cointelegraph  Yashu Gola",

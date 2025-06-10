@@ -420,10 +420,55 @@
       "articles": []
     },
     {
-      "title": "独自仮想通貨  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=624116",
+          "author": "AKIRA.H",
+          "description": "SBIホールディングスとSBI新生銀行が、NYSE上場のステーブルコイン大手Circle社に総額5000万ドルを戦略投資。世界最大級のUSDC発行企業との提携で日本の金融エコシステム統合を加速。株価は初日に倍増の83ドルで終了。",
+          "link": "https://coinpost.jp/?p=624116",
+          "publishedOn": "2025-06-10T06:35:32.000Z",
+          "wordCount": 3183,
+          "title": "SBI、米Circle社IPOで5000万ドル出資　ステーブルコインUSDC事業強化へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/usdc-circle-stock-up-big.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/usdc-circle-stock-up-big.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=624047",
+          "author": "A.Yamada",
+          "description": "米下院議員らがブロックチェーン規制確実性法をCLARITY法案の一部に組み込んだ。DeFi開発者などが不当な送金事業者登録を求められることを防ぐ法案である。",
+          "link": "https://coinpost.jp/?p=624047",
+          "publishedOn": "2025-06-10T03:35:46.000Z",
+          "wordCount": 3186,
+          "title": "DeFiを後押しするブロックチェーン規制確実性法、米CLARITY法案の一部に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/dc-new-bill-crypto.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/dc-new-bill-crypto.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=624033",
+          "author": "S.Ninomiya",
+          "description": "仮想通貨市況暗号資産（仮想通貨）市場では、ビットコイン（BTC）が上昇。前日比+3.76%の1BTC=109,700ドルとなり、一時11万ドル台を回復した。BTC/USD日足5月22日に記録した過去最高値1BTC=112,000ドルが迫って...",
+          "link": "https://coinpost.jp/?p=624033",
+          "publishedOn": "2025-06-10T03:11:01.000Z",
+          "wordCount": 3265,
+          "title": "ビットコイン過去最高値に接近、上場企業の大量保有も相次ぎ供給不足のシグナルも",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427j-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427j-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=624014",
           "author": "A.Yamada",

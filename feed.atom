@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-10T06:23:30.108Z</updated>
+    <updated>2025-06-10T06:50:09.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SBI、米Circle社IPOで5000万ドル出資　ステーブルコインUSDC事業強化へ]]></title>
+        <id>https://coinpost.jp/?p=624116</id>
+        <link href="https://coinpost.jp/?p=624116"/>
+        <updated>2025-06-10T06:35:32.000Z</updated>
+        <summary type="html"><![CDATA[SBIホールディングスとSBI新生銀行が、NYSE上場のステーブルコイン大手Circle社に総額5000万ドルを戦略投資。世界最大級のUSDC発行企業との提携で日本の金融エコシステム統合を加速。株価は初日に倍増の83ドルで終了。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[香港政府、チェーンリンクと提携しCBDCでのクロスチェーントランザクションを実験]]></title>
         <id>https://jp.cointelegraph.com/news/hong-kong-government-chainlink-ccip-cbdc-pilot-project</id>
@@ -122,6 +132,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DeFiを後押しするブロックチェーン規制確実性法、米CLARITY法案の一部に]]></title>
+        <id>https://coinpost.jp/?p=624047</id>
+        <link href="https://coinpost.jp/?p=624047"/>
+        <updated>2025-06-10T03:35:46.000Z</updated>
+        <summary type="html"><![CDATA[米下院議員らがブロックチェーン規制確実性法をCLARITY法案の一部に組み込んだ。DeFi開発者などが不当な送金事業者登録を求められることを防ぐ法案である。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[マイケル・セイラー氏、量子コンピュータによるビットコイン脅威説を一蹴　マーケティング戦略にすぎないと主張]]></title>
         <id>https://jp.cointelegraph.com/news/strategy-saylor-downplays-quantum-threat-bitcoin</id>
         <link href="https://jp.cointelegraph.com/news/strategy-saylor-downplays-quantum-threat-bitcoin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
@@ -140,6 +160,16 @@
 ファッションのANAP、8月期末までに1000BTC保有を計画──ビットコイン事業本格化 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>栃山直樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン過去最高値に接近、上場企業の大量保有も相次ぎ供給不足のシグナルも]]></title>
+        <id>https://coinpost.jp/?p=624033</id>
+        <link href="https://coinpost.jp/?p=624033"/>
+        <updated>2025-06-10T03:11:01.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨市況暗号資産（仮想通貨）市場では、ビットコイン（BTC）が上昇。前日比+3.76%の1BTC=109,700ドルとなり、一時11万ドル台を回復した。BTC/USD日足5月22日に記録した過去最高値1BTC=112,000ドルが迫って...]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
         </author>
     </entry>
     <entry>

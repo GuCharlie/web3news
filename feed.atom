@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-10T22:15:28.229Z</updated>
+    <updated>2025-06-10T22:42:17.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインの年内「適正価値」は最大23万ドル＝ビットワイズアナリスト]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-fair-value-could-be-as-high-as-230k-bitwise-analysts</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-fair-value-could-be-as-high-as-230k-bitwise-analysts?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-06-10T22:17:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットワイズのリサーチャー、アンドレ・ドラゴシュ氏とアユシュ・トリパティ氏によると、ビットコイン（BTC）は年末までに20万ドルを突破し、最終的には「適正価値」とされる23万ドルに達する可能性があるという。]]></summary>
+        <author>
+            <name>Cointelegraph  Yashu Gola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[投資大手グッゲンハイム、デジタルCP商品拡充に向けリップルと提携]]></title>
+        <id>https://jp.cointelegraph.com/news/guggenheim-ripple-digital-debt-offering-xrpl</id>
+        <link href="https://jp.cointelegraph.com/news/guggenheim-ripple-digital-debt-offering-xrpl?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-06-10T22:08:00.000Z</updated>
+        <summary type="html"><![CDATA[米投資運用会社のグッゲンハイムが、デジタル・コマーシャル・ペーパー（CP）商品を拡充するため、リップルとの提携を発表した。]]></summary>
+        <author>
+            <name>Cointelegraph  Sam Bourgi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ大統領が新生児向け「トランプ貯蓄口座」発表、政府が1000ドル拠出]]></title>
         <id>https://coinpost.jp/?p=624379</id>
@@ -2095,26 +2115,6 @@ IOST、トークン化資産インフラの導入拡大のため2100万ドルを
 取引高5.3億円突破の「Moriusa（もりうさ）NFT」、コインチェックが取扱い発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネット　2026年末までにビットコイン10万BTCの保有を目指す　新たな保有計画を発表]]></title>
-        <id>https://jp.cointelegraph.com/news/metaplanet-plans-buy-91k-btc-next-18-months</id>
-        <link href="https://jp.cointelegraph.com/news/metaplanet-plans-buy-91k-btc-next-18-months?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-06-06T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[日本版ストラテジー（旧マイクロストラテジー）として知られるメタプラネットは、2026年末までに10万BTCの保有を目指す新たな計画を発表した。これまで掲げていた2万1000BTCの目標から、約5倍となる大幅な上方修正となる。]]></summary>
-        <author>
-            <name>Cointelegraph  Helen Partz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネット　2026年末までにビットコイン10万BTCの保有を目指す　新たな保有計画を発表]]></title>
-        <id>https://jp.cointelegraph.com/news/metaplanet-plans-buy-91k-btc-next-18-months</id>
-        <link href="https://jp.cointelegraph.com/news/metaplanet-plans-buy-91k-btc-next-18-months?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-06-06T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[日本版ストラテジー（旧マイクロストラテジー）として知られるメタプラネットは、2026年末までに10万BTCの保有を目指す新たな計画を発表した。これまで掲げていた2万1000BTCの目標から、約5倍となる大幅な上方修正となる。]]></summary>
-        <author>
-            <name>Cointelegraph  Helen Partz</name>
         </author>
     </entry>
 </feed>

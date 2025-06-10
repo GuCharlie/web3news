@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=297165",
+          "author": "栃山直樹",
+          "description": "女性・子ども向けのカジュアルファッションブランド「ANAP（アナップ）」を運営する東証スタンダード上場のANAPホールディングスは、連結子会社であるANAPライ ...\nファッションのANAP、8月期末までに1000BTC保有を計画──ビットコイン事業本格化 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/297165/",
+          "publishedOn": "2025-06-10T03:12:30.000Z",
+          "wordCount": 1270,
+          "title": "ファッションのANAP、8月期末までに1000BTC保有を計画──ビットコイン事業本格化",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/スクリーンショット-2025-06-10-12.09.14.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=297139",
           "author": "栃山直樹",
           "description": "セキュリティ・トークン（デジタル証券、以下ST）の発行・管理基盤などを手がけるProgmat（プログマ）と不動産アセットマネジメントを展開するKENEDIXグル ...\nST投資家向け「ワンストップデータ連携」提供開始 ──プログマとケネディクス first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -400,16 +410,6 @@
           "wordCount": 1327,
           "title": "企業のビットコイン保有高、約12兆円に──1年で2倍以上に増加",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/shutterstock_783719212.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=296586",
-          "author": "Helene Braun",
-          "description": "サークル社の株式は6月5日、1株あたり69ドルでニューヨーク証券取引所で取引を開始した。株価は一時、100ドルまで急騰し、前夜に設定されたIPO価格の31ドルか ...\nサークル株、NYSE上場初日に急騰──ステーブルコイン発行企業への強い需要を示唆 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/296586/",
-          "publishedOn": "2025-06-05T17:59:34.000Z",
-          "wordCount": 1348,
-          "title": "サークル株、NYSE上場初日に急騰──ステーブルコイン発行企業への強い需要を示唆",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/1389229b8ec568a50350939c21ecc1d11d8da8e0-1920x1080-1-768x512-1.jpeg"
         }
       ]
     },
@@ -420,7 +420,7 @@
       "articles": []
     },
     {
-      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "独自仮想通貨  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -1077,6 +1077,26 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=475710",
+          "author": "OtsugaShinya",
+          "description": "リミックスポイントがビットコイン追加購入 東証スタンダード上場企業のリミックスポイントが、ビットコインの追加購入実施を6月10日に発表した。 発表によると同社は6月9日に7億0,050万円で45.78630895BTCを […]",
+          "link": "https://www.neweconomy.jp/posts/475710",
+          "publishedOn": "2025-06-10T05:51:50.000Z",
+          "wordCount": 610,
+          "title": "リミックスポイントが約7億円のビットコイン追加購入、総保有数約875BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/10145138/9b7f2a96eb350b2914fa687e41f88d51.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=475705",
+          "author": "OtsugaShinya",
+          "description": "USDCがCodexにネイティブ対応へ 米サークル（Circle Internet Financial）発行の米ドル建てステーブルコイン「USDC」のネイティブ型トークンが、B2Bのステーブルコイン取引用に設計されたEV […]",
+          "link": "https://www.neweconomy.jp/posts/475705",
+          "publishedOn": "2025-06-10T04:28:42.000Z",
+          "wordCount": 620,
+          "title": "米サークル「USDC」、B2Bステーブルコイン取引用EVMチェーン「Codex」にネイティブ対応へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/10132748/77f338ae23fb9b870f6b08b83181a1e2.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=475691",
           "author": "HitomotoToshikazu",
           "description": "ProSharesとBitwiseがCRCL対象のETF申請 米資産運用会社プロシェアーズ（ProShares）と米暗号資産（仮想通貨）運用会社ビットワイズ（Bitwise）が、ステーブルコイン発行企業の米サークルインタ […]",
@@ -1393,6 +1413,81 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/hong-kong-government-chainlink-ccip-cbdc-pilot-project",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "香港政府は、チェーンリンクのクロスチェーン相互運用プロトコル（CCIP）と提携し、パーミッション型ブロックチェーンとパーミッションレス型ブロックチェーン間のクロスボーダー取引や、異なる種類のデジタル資産を用いた決済の実証実験を開始した。",
+          "link": "https://jp.cointelegraph.com/news/hong-kong-government-chainlink-ccip-cbdc-pilot-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-10T05:57:00.000Z",
+          "wordCount": null,
+          "title": "香港政府、チェーンリンクと提携しCBDCでのクロスチェーントランザクションを実験",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU1YzktY2M1Ny03NjFmLTgxMTMtZmFlZDA1YTI3MzUx.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU1YzktY2M1Ny03NjFmLTgxMTMtZmFlZDA1YTI3MzUx.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/sec-mulls-crypto-exemption-onchain-innovation",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "米証券取引委員会（SEC）は、オンチェーン製品やサービスの開発を後押しするため、「イノベーション免除」と呼ばれる制度の導入を検討している。SECのポール・アトキンス委員長が6月9日に開催された仮想通貨ラウンドテーブル「DeFiとアメリカ精神」の場で明らかにした。",
+          "link": "https://jp.cointelegraph.com/news/sec-mulls-crypto-exemption-onchain-innovation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-10T05:35:00.000Z",
+          "wordCount": null,
+          "title": "米SEC　仮想通貨イノベーション促進に向け免除制度を検討　トランプ政権下で仮想通貨強化へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ3ZDYtYjJhZi03YjA0LWJjODMtMjc3ODg1Y2MzYzk3.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ3ZDYtYjJhZi03YjA0LWJjODMtMjc3ODg1Y2MzYzk3.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/blockchain-group-raise-340m-bitcoin-treasury",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "パリ拠点の仮想通貨企業ブロックチェーングループが、ビットコイン（BTC）の購入資金として3億ユーロ（約495億円）超の資金を調達する計画を発表した。欧州における機関投資家の仮想通貨導入の動きが続いている。",
+          "link": "https://jp.cointelegraph.com/news/blockchain-group-raise-340m-bitcoin-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-10T04:35:00.000Z",
+          "wordCount": null,
+          "title": "仏ブロックチェーングループ、ビットコイン購入資金として3億ユーロ調達へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzUwNzYtYmZjMi03MTY5LTljY2YtODliMzc3ZGMyMDVm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzUwNzYtYmZjMi03MTY5LTljY2YtODliMzc3ZGMyMDVm.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/active-memecoin-etf-good-chance-next-year-analyst",
+          "author": "Cointelegraph  Martin Young",
+          "description": "米国では、ミームコインに特化した上場投資信託（ETF）が登場する日が近いかもしれない。ブルームバーグのETFアナリスト、エリック・バルチュナス氏が6月7日、Xへの投稿でその可能性を示唆した。",
+          "link": "https://jp.cointelegraph.com/news/active-memecoin-etf-good-chance-next-year-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-10T03:55:00.000Z",
+          "wordCount": null,
+          "title": "ミームコインETF　2026年に登場の可能性も　ブルームバーグアナリストが見通し",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGJmNDAtNDg5Ny03OTAzLWI2ZWQtY2M4MDk5NmJjMWE0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGJmNDAtNDg5Ny03OTAzLWI2ZWQtY2M4MDk5NmJjMWE0.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/strategy-saylor-downplays-quantum-threat-bitcoin",
+          "author": "Cointelegraph  Brayden Lindrea",
+          "description": "ビットコイン強気派として知られるマイケル・セイラー氏は、量子コンピュータがビットコインにもたらす潜在的な脅威について、過度に誇張されたマーケティング戦略にすぎないと指摘した。",
+          "link": "https://jp.cointelegraph.com/news/strategy-saylor-downplays-quantum-threat-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-10T03:15:00.000Z",
+          "wordCount": null,
+          "title": "マイケル・セイラー氏、量子コンピュータによるビットコイン脅威説を一蹴　マーケティング戦略にすぎないと主張",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2FmNjgtMzQ5NC03OTEyLTk3NDktMjEwZmE4MWYxYWJh.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2FmNjgtMzQ5NC03OTEyLTk3NDktMjEwZmE4MWYxYWJh.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/xrp-price-25-etf-approved-crash-90-new-analysis",
           "author": "Cointelegraph  Nancy Lubale",
@@ -2495,6 +2590,56 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=137352",
+          "author": "Crypto Troll",
+          "description": "ステーブルコインUSDCを発行するサークル（Circle）社の株式が、新規株式公開（IPO）後に急騰し史上最高値を更新しました。 サークル社の株式（ティッカー：CRCL）は月曜日の取引で一時138.57ドルの史上最高値を […]\n投稿 IPOで株価169%高、今注目の株式銘柄サークルとは？｜SBIグループも5000万ドル出資 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-what-is-circle-the-hot-stock-that-saw-a-169-increase-in-its-stock-price-after-its-ipo-sbi-group-also-invests-50-million/",
+          "publishedOn": "2025-06-10T04:26:09.000Z",
+          "wordCount": 610,
+          "title": "IPOで株価169%高、今注目の株式銘柄サークルとは？｜SBIグループも5000万ドル出資",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_1231334707.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=136981",
+          "author": "Crypto Times 編集部",
+          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 AI（人工知能）と暗号資産、そして伝統金融の融合が韓国を中心に具体化し […]\n投稿 AM Management、韓国大手証券会社ハナ証券主催セミナーでAI・デジタル資産戦略を発表 〜AI・暗号資産・伝統金融の融合を韓国で推進〜 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/press-am-management-ai/",
+          "publishedOn": "2025-06-10T04:00:22.000Z",
+          "wordCount": 609,
+          "title": "AM Management、韓国大手証券会社ハナ証券主催セミナーでAI・デジタル資産戦略を発表 〜AI・暗号資産・伝統金融の融合を韓国で推進〜",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/AD_4nXdTGqr6vuV0MFCW5oaIhi-IM1eD9mGFTwL9kJRR54NoRWksdCBqLyHktPERpZmyVocuynBKRyuaYmtFTdODWj5py7bb6_Foaw33mBN_5tnczGvsPapAgUxf.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=137351",
+          "author": "Crypto Troll",
+          "description": "6月10日、ビットコイン（BTC）の価格は109,500ドル前後で推移しており、イーサリアム（ETH）は約2,680ドル、ソラナ（SOL）は約159ドルで取引されています。世界の暗号資産時価総額は3.55兆ドルで、ビット […]\n投稿 【今日の暗号資産ニュース】ビットコイン（BTC）11万ドル突破、ストラテジー社BTC買い増し加速 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-btc-exceeds-110000-strategy-accelerates-btc-purchases/",
+          "publishedOn": "2025-06-10T03:58:15.000Z",
+          "wordCount": 600,
+          "title": "【今日の暗号資産ニュース】ビットコイン（BTC）11万ドル突破、ストラテジー社BTC買い増し加速",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_1868335642.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=137350",
+          "author": "Crypto Troll",
+          "description": "リップル社のステーブルコインRLUSDの供給量が3億ドルを突破しました。 RLUSDの供給量は6月8日までの1週間で7,250万ドル増加し、総額3億2,066万ドルに達しました。これは2024年12月17日のローンチ以来 […]\n投稿 リップル社ステーブルコイン、ローンチ半年で供給量6倍増｜ドバイ承認が鍵か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-ripple-stablecoin-supply-increases-six-fold-in-the-six-months-since-launch-dubai-approval-may-be-key/",
+          "publishedOn": "2025-06-10T03:50:05.000Z",
+          "wordCount": 582,
+          "title": "リップル社ステーブルコイン、ローンチ半年で供給量6倍増｜ドバイ承認が鍵か",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_1979901218.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=137349",
+          "author": "Crypto Troll",
+          "description": "ビットコイン（BTC）の価格が11万ドルを突破しました。機関投資家や企業からの関心が継続していることが背景にあります。地政学的緊張の緩和も市場の楽観的な見方を後押ししました。 今回の価格上昇により、ビットコインは先週の売 […]\n投稿 ビットコイン、11万ドル突破｜機関投資家の買いが止まらず は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitcoin-tops-110000/",
+          "publishedOn": "2025-06-10T03:35:56.000Z",
+          "wordCount": 603,
+          "title": "ビットコイン、11万ドル突破｜機関投資家の買いが止まらず",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_1409391932.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=137332",
           "author": "Crypto Troll",

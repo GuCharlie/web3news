@@ -1122,6 +1122,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=475716",
+          "author": "HitomotoToshikazu",
+          "description": "リップルが2,900万円の助成金提供へ 米リップル（Ripple）社がWeb3サロン（Web3 Salon）と提携し、分散型レイヤー1ブロックチェーン「XRPレジャー（XRP Ledger）：XRPL」を基盤とする日本の […]",
+          "link": "https://www.neweconomy.jp/posts/475716",
+          "publishedOn": "2025-06-10T08:14:19.000Z",
+          "wordCount": 755,
+          "title": "XRP Ledger基盤の国内スタートアップに20万ドルの助成金提供へ、RippleとWeb3 Salon提携で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/10152335/9628578f1caf51d443ff308e6b602323.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=475720",
           "author": "OtsugaShinya",
           "description": "ANAPが初のビットコイン建て増資 東証スタンダード上場企業のANAPホールディングスが、ビットコインによる第三者割当増資を実施することを6月9日に発表した。 同社は今回、新株式および新株予約権の発行を決議。新株発行では […]",
@@ -1468,6 +1478,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0610",
+          "author": "Cointelegraph  ビットバンク　長谷川友哉",
+          "description": "9日のビットコイン（BTC）円は1527万2000円から取引が始まった。東京時間は1530万円周辺で小動きに終始するも、海外時間に入るとリミックスポイントやストラテジーのBTC追加購入を受けて上昇。更に、米国の時間外取引でサークルが30%ほど急伸すると、BTCは上値を追う展開となり、1560万円まで上昇した。",
+          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0610?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-10T08:00:00.000Z",
+          "wordCount": null,
+          "title": "BTCは週明けから上伸で11万ドルタッチ　サークル急騰に連れ高【ビットバンク仮想通貨分析】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jY2RkZjRmZDA1YjlkMTc4MDVkNzJkM2M5ZGIwMTRjZS5qcGc=.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jY2RkZjRmZDA1YjlkMTc4MDVkNzJkM2M5ZGIwMTRjZS5qcGc=.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/blackrock-bitcoin-etf-fastest-70-billion-assets-under-management",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "ブラックロックの現物ビットコイン上場投資信託（ETF）であるiシェアーズ・ビットコイン・トラストETF（IBIT）が、史上最速で運用資産700億ドルの大台を突破した。",
+          "link": "https://jp.cointelegraph.com/news/blackrock-bitcoin-etf-fastest-70-billion-assets-under-management?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-10T07:45:00.000Z",
+          "wordCount": null,
+          "title": "ブラックロックのビットコインETF、過去最速で運用資産700億ドル突破　来夏にはBTC保有量でサトシ超えか",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU2ZjEtOGZmOC03NTc3LWI1NWItZjExNGQzMmY1M2Ji.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU2ZjEtOGZmOC03NTc3LWI1NWItZjExNGQzMmY1M2Ji.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/staked-ethereum-hits-record-eth-tops-2700",
           "author": "Cointelegraph  Martin Young",
@@ -2652,21 +2692,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQwMWYtZmE2NS03MWRjLTk1MjMtOWQ3OTViMzhiZDQ3.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/pakistan-crypto-new-york-wall-street-allies",
-          "author": "Cointelegraph  Adrian Zmudzinski",
-          "description": "パキスタンの仮想通貨・ブロックチェーン担当国務大臣であるビラール・ビン・サキブ氏が、米ウォール街との連携に動き出している。",
-          "link": "https://jp.cointelegraph.com/news/pakistan-crypto-new-york-wall-street-allies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-06-05T20:00:00.000Z",
-          "wordCount": null,
-          "title": "パキスタンの暗号資産担当大臣　NY市長や金融サービス企業キャンターと協議",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQ0MWUtNWRjZi03YmFhLWFmMjctYzc4MGQ0YWVlZTgx.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQ0MWUtNWRjZi03YmFhLWFmMjctYzc4MGQ0YWVlZTgx.jpg"
         }
       ]
     },
@@ -2675,6 +2700,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=137386",
+          "author": "Crypto Times 編集部",
+          "description": "NFTプロジェクト「ONI FORCE」がAIを用いた新たな構想を発表しました。この構想は静的なNFTを知的に進化するデジタル資産「ネオエージェント」へと変革させるものでWeb3におけるIP（知的財産）開発の未来を目指す […]\n投稿 NFTプロジェクト「ONI FORCE」がAI構想を発表。保有NFTがエージェントに進化 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-oni-force-ai-nft/",
+          "publishedOn": "2025-06-10T08:06:30.000Z",
+          "wordCount": 635,
+          "title": "NFTプロジェクト「ONI FORCE」がAI構想を発表。保有NFTがエージェントに進化",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/01/nft-1.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=137352",
           "author": "Crypto Troll",
@@ -2724,6 +2759,16 @@
           "wordCount": 603,
           "title": "ビットコイン、11万ドル突破｜機関投資家の買いが止まらず",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_1409391932.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=137374",
+          "author": "Crypto Times 編集部",
+          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 先月、今年2度目となる史上最高値を更新したBitcoin（BTC、ビッ […]\n投稿 仮想通貨の次のバブルはこれ？Bitcoin Hyperが80万ドル調達 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitcoin-hyper-0-8m/",
+          "publishedOn": "2025-06-10T02:41:25.000Z",
+          "wordCount": 602,
+          "title": "仮想通貨の次のバブルはこれ？Bitcoin Hyperが80万ドル調達",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/AD_4nXdXCFAEYyre5G7jWOcEvgyUBvV6ex6Vk_Qo57k_ifme9uhw8b-bV_4sDX9oG7L1lDYs0b-Zzu4zjqJnWXd8-Xla3UteCHnC29hd59zgFObPCQ-JYp7vAjUo.png"
         },
         {
           "id": "https://crypto-times.jp/?p=137332",

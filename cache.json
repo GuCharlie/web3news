@@ -485,6 +485,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=624748",
+          "author": "菊谷ルイス",
+          "description": "日銀が16-17日に金融政策決定会合を開催。BitMEX創設者ヘイズ氏は量的緩和回帰への転換で仮想通貨市場の大幅上昇を予測。国債買い入れ削減ペース緩和の可能性が見込まれている。",
+          "link": "https://coinpost.jp/?p=624748",
+          "publishedOn": "2025-06-11T23:00:31.000Z",
+          "wordCount": 3207,
+          "title": "アーサー・ヘイズ、日銀の量的緩和再開でビットコイン急騰の可能性",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/0522_arthur.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/0522_arthur.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=624740",
+          "author": "K.Kobayashi",
+          "description": "リップル社は、OndoのRWAトークンOUSGが仮想通貨XRPのブロックチェーンXRPL上にローンチしたことを発表。OUSGはステーブルコインRLUSDで発行・償還ができる。",
+          "link": "https://coinpost.jp/?p=624740",
+          "publishedOn": "2025-06-11T22:35:44.000Z",
+          "wordCount": 3228,
+          "title": "XRPL上にOndoのRWAトークンがローンチ　リップル社が発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/Ripple-Ondo.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/Ripple-Ondo.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=624739",
           "author": "菊谷ルイス",
           "description": "米ゲームストップが無利息転換社債17.5億ドルの発行を発表。今回の声明でビットコイン購入といった文言は明記されていない。一方、売上減少で株価が続落。",
@@ -1588,6 +1618,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/us-senators-meta-stablecoin-plans-genius-act-debate",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "米上院がステーブルコイン規制法案の採決に向けて動くなか、2人の上院議員がメタのマーク・ザッカーバーグCEOに対し、新たなステーブルコイン導入に関する同社の計画について説明を求めた。",
+          "link": "https://jp.cointelegraph.com/news/us-senators-meta-stablecoin-plans-genius-act-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-11T22:55:00.000Z",
+          "wordCount": null,
+          "title": "GENIUS法案審議の中、米上院議員らがメタのステーブルコイン計画に説明を要求",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzYwNWItNDE2MS03NDYzLWI2MGEtZDNmNTRlNGNlOWVh.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzYwNWItNDE2MS03NDYzLWI2MGEtZDNmNTRlNGNlOWVh.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/us-senate-passes-cloture-genius-stablecoin-bill",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "米上院は、導入から1か月以上が経過した「米国ステーブルコインのための国家的イノベーション指針および確立法（GENIUS法）」の審議を進めることを、賛成68・反対30で可決した。",
+          "link": "https://jp.cointelegraph.com/news/us-senate-passes-cloture-genius-stablecoin-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-11T22:45:00.000Z",
+          "wordCount": null,
+          "title": "ステーブルコイン法案「GENIUS法」、重要採決を通過し米上院で前進",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjgzMzUtZWM1Yi03MjQzLWJmYzktNjJjMzU0YWJkMmYy.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjgzMzUtZWM1Yi03MjQzLWJmYzktNjJjMzU0YWJkMmYy.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/price-predictions-6-11-btc-eth-xrp-bnb-sol-doge-ada-hype-sui-link",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "ビットコイン価格が過去最高値付近で推移し、イーサリアムや複数のアルトコインは新たな上昇を開始している。",
+          "link": "https://jp.cointelegraph.com/news/price-predictions-6-11-btc-eth-xrp-bnb-sol-doge-ada-hype-sui-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-11T22:21:00.000Z",
+          "wordCount": null,
+          "title": "最高値を突破できるか　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzVmZDgtNmVjZi03YzA3LWEwZDMtZTM4NDM0ZDYwZGY4.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzVmZDgtNmVjZi03YzA3LWEwZDMtZTM4NDM0ZDYwZGY4.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/altcoin-etf-summer-july-sec-approvals-analysts",
           "author": "Cointelegraph  Martin Young",

@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-11T09:17:30.015Z</updated>
+    <updated>2025-06-11T09:41:56.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[XRP Ledger、2025年Q2にEVM互換サイドチェーン稼働開始｜イーサリアムDAppsとの相互運用性実現]]></title>
+        <id>https://coinpost.jp/?p=624579</id>
+        <link href="https://coinpost.jp/?p=624579"/>
+        <updated>2025-06-11T09:32:55.000Z</updated>
+        <summary type="html"><![CDATA[XRP LedgerがEVM互換サイドチェーンを2025年Q2に稼働開始。イーサリアムとの相互運用性により開発者の参入障壁が大幅低下し、87の新組織がエコシステムに参加。DeFi・機関向け金融サービスの新時代へ。]]></summary>
+        <author>
+            <name>Ritsuki.Kumazawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リップルCEO、ドージコインを異例の評価「役割ある」]]></title>
+        <id>https://crypto-times.jp/?p=137452</id>
+        <link href="https://crypto-times.jp/news-ripple-ceo-gives-unusual-assessment-of-dogecoin-it-has-a-role-to-play/"/>
+        <updated>2025-06-11T09:27:22.000Z</updated>
+        <summary type="html"><![CDATA[リップル社CEOブラッド・ガーリングハウス氏は、最近開催されたイベント「Apex 2025」において、暗号資産ドージコイン（DOGE）に対する自身の見解に変化があったことを示しました。 ガーリングハウス氏はドージコインに […]
+投稿 リップルCEO、ドージコインを異例の評価「役割ある」 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Troll</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リップルCTOが明言、XRPLのEVM互換チェーンがQ2始動]]></title>
+        <id>https://crypto-times.jp/?p=137454</id>
+        <link href="https://crypto-times.jp/news-ripple-cto-confirms-that-xrpls-evm-compatible-chain-will-launch-in-q2/"/>
+        <updated>2025-06-11T09:20:03.000Z</updated>
+        <summary type="html"><![CDATA[リップル社の最高技術責任者（CTO）であるデビッド・シュワルツ氏はイベント「Apex 2025」において、XRPレジャー（XRPL）のイーサリアム仮想マシン（EVM）互換サイドチェーンが今年の第2四半期に本稼働することを […]
+投稿 リップルCTOが明言、XRPLのEVM互換チェーンがQ2始動 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Troll</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暗号資産取引所BullishがアメリカでIPOを申請：報道]]></title>
+        <id>https://www.coindeskjapan.com/?p=297418</id>
+        <link href="https://www.coindeskjapan.com/297418/"/>
+        <updated>2025-06-11T09:20:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所Bullishがアメリカでの新規株式公開（IPO）を秘密裏に申請したと、フィナンシャル・タイムズ（FT）が6月11日に報じた。同紙は事 ...
+暗号資産取引所BullishがアメリカでIPOを申請：報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>James Van Straten</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTX返済で「返済格差」、受取手段が拡大も中国などは対象外]]></title>
         <id>https://crypto-times.jp/?p=137450</id>
@@ -2415,17 +2458,6 @@ IOST、トークン化資産インフラの導入拡大のため2100万ドルを
         <summary type="html"><![CDATA[ストラテジー社が10%配当の永続優先株STRDで約9.8億ドルを調達。ビットコイン追加購入と事業運転資金に充当予定で、6月10日に取引完了。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ポリマーケット、イーロン・マスク氏のxAIと提携]]></title>
-        <id>https://www.coindeskjapan.com/?p=296838</id>
-        <link href="https://www.coindeskjapan.com/296838/"/>
-        <updated>2025-06-06T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）予測市場のポリマーケット（Polymarket）と、イーロン・マスク（Elon Musk）氏が率いる人工知能（AI）企業xAIは6日に提携を ...
-ポリマーケット、イーロン・マスク氏のxAIと提携 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
         </author>
     </entry>
 </feed>

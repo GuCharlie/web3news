@@ -525,6 +525,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=624907",
+          "author": "CoinPost編集部",
+          "description": "上場企業のリミックスポイントが、SBI出身の新CEO田代卓氏就任とWeb3.0強化を発表した。さらに8億8730万円でビットコイン55.68BTC追加購入、総保有額168億円超になった。",
+          "link": "https://coinpost.jp/?p=624907",
+          "publishedOn": "2025-06-12T09:02:30.000Z",
+          "wordCount": 3254,
+          "title": "リミックスポイントがWeb3.0注力のため新経営体制に移行　ビットコインを追加購入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/remixpointthunbnail0605.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/remixpointthunbnail0605.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=624887",
           "author": "AKIRA.H",
           "description": "セレス関連会社提供の暗号資産取引所CoinTradeが積立ステーキングサービスを開始。仮想通貨の定期購入からステーキング、複利運用までを自動化。",
@@ -1401,6 +1416,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=476337",
+          "author": "OtsugaShinya",
+          "description": "ANAPライトニングキャピタルがビットコイン追加購入 東証スタンダード上場企業のANAPホールディングスが、同社子会社のANAPライトニングキャピタルによるビットコインの追加購入を6月11日に発表した。 ANAPホールデ […]",
+          "link": "https://www.neweconomy.jp/posts/476337",
+          "publishedOn": "2025-06-12T08:59:57.000Z",
+          "wordCount": 729,
+          "title": "ファッションブランド「ANAP」がビットコイン追加購入、総保有数約126BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/12175953/ANAP-BTC-250612worawit-chutrakunwanit.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=476328",
+          "author": "HitomotoToshikazu",
+          "description": "RLUSDとOUSGの決済可能に 機関投資家向けDeFi（分散型金融）プロトコル「オンドファイナンス（Ondo Finance）」発行のRWA（実物資産）トークン「OUSG」が、分散型レイヤー1ブロックチェーンのXRPレ […]",
+          "link": "https://www.neweconomy.jp/posts/476328",
+          "publishedOn": "2025-06-12T08:53:05.000Z",
+          "wordCount": 754,
+          "title": "機関投資家向けDeFi「Ondo Finance」のRWAトークン「OUSG」、XRPLで利用可能に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/12175247/XRPL-250612your_photo.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=476308",
           "author": "OtsugaShinya",
@@ -2812,36 +2847,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQ5YWMtNjI2ZS03OGJjLWJkZGMtZTI4YjZlMGE3M2Ri.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/trump-memecoin-unlock-july-2025-price-sentiment",
-          "author": "Cointelegraph  Ezra Reguerra",
-          "description": "米国のトランプ大統領は、自身の公式ミームコインがリーダーシップに対する世論の反映であるという見方を示している。トランプ氏は自身のSNSプラットフォーム「トゥルース・ソーシャル」に、公式ミームコインが政治的な勢いのバロメーターになっていると報じたNewsmaxの記事を共有した。",
-          "link": "https://jp.cointelegraph.com/news/trump-memecoin-unlock-july-2025-price-sentiment?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-06-07T20:55:00.000Z",
-          "wordCount": null,
-          "title": "トランプ大統領の公式ミームコイン　7月に5億2000万ドル相当のロック解除へ　トークン価格の下落圧力となるか",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQ5MmItYTNkZC03MGFlLTllZDEtYWRlMjY1ODE5YzJh.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQ5MmItYTNkZC03MGFlLTllZDEtYWRlMjY1ODE5YzJh.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/trump-memecoin-unlock-july-2025-price-sentiment",
-          "author": "Cointelegraph  Ezra Reguerra",
-          "description": "米国のトランプ大統領は、自身の公式ミームコインがリーダーシップに対する世論の反映であるという見方を示している。トランプ氏は自身のSNSプラットフォーム「トゥルース・ソーシャル」に、公式ミームコインが政治的な勢いのバロメーターになっていると報じたNewsmaxの記事を共有した。",
-          "link": "https://jp.cointelegraph.com/news/trump-memecoin-unlock-july-2025-price-sentiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-06-07T20:55:00.000Z",
-          "wordCount": null,
-          "title": "トランプ大統領の公式ミームコイン　7月に5億2000万ドル相当のロック解除へ　トークン価格の下落圧力となるか",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQ5MmItYTNkZC03MGFlLTllZDEtYWRlMjY1ODE5YzJh.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQ5MmItYTNkZC03MGFlLTllZDEtYWRlMjY1ODE5YzJh.jpg"
         }
       ]
     },
@@ -2850,6 +2855,36 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=137525",
+          "author": "よきょい",
+          "description": "6月12日、ビットコイン（BTC）の価格は107,700ドル前後で推移しており、イーサリアム（ETH）は約2,750ドル、ソラナ（SOL）は約159ドルで取引されています。世界の暗号資産時価総額は3.51兆ドルで、ビット […]\n投稿 【今日の暗号資産ニュース】ビットコインの「メガトレンド」とは？トランプ関税砲でBTC下落？ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-what-is-bitcoins-mega-trend-will-trump-tariffs-cause-a-drop-in-btc/",
+          "publishedOn": "2025-06-12T09:13:54.000Z",
+          "wordCount": 593,
+          "title": "【今日の暗号資産ニュース】ビットコインの「メガトレンド」とは？トランプ関税砲でBTC下落？",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_2142319699-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=137485",
+          "author": "よきょい",
+          "description": "イーサリアムのスケーリングソリューションを提供するPolygonが、共同創設者のサンディープ・ナイルワル氏を財団初のCEOに任命し、大規模なガバナンス刷新と戦略転換を発表しました。 BIG update –  […]\n投稿 Polygon、zkEVM開発終了へ｜CEOが語る新戦略 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-polygon-to-end-zkevm-development-ceo-explains-new-strategy/",
+          "publishedOn": "2025-06-12T09:03:20.000Z",
+          "wordCount": 638,
+          "title": "Polygon、zkEVM開発終了へ｜CEOが語る新戦略",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_2209791585.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=137524",
+          "author": "よきょい",
+          "description": "デジタル資産への対応を巡り、米国の各州で方針が大きく分かれています。コネチカット州が州レベルでのビットコイン（BTC）などの保有や使用を全面的に禁止する法律を制定した一方、ルイジアナ州はブロックチェーン技術の研究を進める […]\n投稿 BTCへの対応、米国で真っ二つ｜全面禁止の州と推進する州 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-us-split-on-bitcoin-some-states-ban-it-altogether-others-support-it/",
+          "publishedOn": "2025-06-12T08:53:18.000Z",
+          "wordCount": 614,
+          "title": "BTCへの対応、米国で真っ二つ｜全面禁止の州と推進する州",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_1405142669.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=137484",
           "author": "よきょい",

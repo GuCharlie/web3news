@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-13T17:40:34.502Z</updated>
+    <updated>2025-06-13T18:22:12.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン　ホルムズ海峡封鎖なら急落の可能性も　週末における最大のリスクに＝アナリスト]]></title>
+        <id>https://jp.cointelegraph.com/news/closing-strait-hormuz-biggest-risk-btc-price-weekend</id>
+        <link href="https://jp.cointelegraph.com/news/closing-strait-hormuz-biggest-risk-btc-price-weekend?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-06-13T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルによるイラン空爆にもかかわらず、ビットコイン（BTC）の価格は堅調に推移している。ただし、短期的には急落のリスクもあると、コインビューローの創設者であり市場アナリストのニック・パックリン氏は指摘している。特に、イランが石油輸送の要衝であるホルムズ海峡を封鎖した場合、すべてのリスク資産に影響が及ぶ可能性があるという。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウォルマートとアマゾン、アメリカでドル連動型ステーブルコインの発行を検討：WSJ]]></title>
         <id>https://www.coindeskjapan.com/?p=297864</id>
@@ -3256,26 +3266,6 @@ ST投資家向け「ワンストップデータ連携」提供開始 ──プ�
 投稿 MEXC IgniteX、Superteamと提携：Solana Summit APACで「IgniteX Solana Talent Lab」を発表 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リミックスポイント、約10億円でビットコイン追加購入　保有量約830 BTCに]]></title>
-        <id>https://coinpost.jp/?p=623771</id>
-        <link href="https://coinpost.jp/?p=623771"/>
-        <updated>2025-06-09T05:58:33.000Z</updated>
-        <summary type="html"><![CDATA[リミックスポイントが6月6日に10億6250万円でビットコイン71.5BTCを追加購入。ビットコインを含む保有暗号資産の時価総額は138億円、評価益19.3億円に。累計1000BTC保有を目指す。]]></summary>
-        <author>
-            <name>Ritsuki.Kumazawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーロンマスクのXがPolymarketと提携、市場解説機能「Live Insights」提供へ]]></title>
-        <id>https://www.neweconomy.jp/?p=475425</id>
-        <link href="https://www.neweconomy.jp/posts/475425"/>
-        <updated>2025-06-09T05:46:58.000Z</updated>
-        <summary type="html"><![CDATA[XとPolymarketが提携 分散型予測市場プラットフォーム「ポリマーケット（Polymarket）」と実業家のイーロン・マスク（Elon Musk）氏が会長兼CTOを務めるSNS「X」が、公式予測市場パートナーとなる […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>

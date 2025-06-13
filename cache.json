@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=297864",
+          "author": "林 理南",
+          "description": "ウォール・ストリート・ジャーナル（Wall Street Journal）の報道によれば、ウォルマート（Walmart）とアマゾン（Amazon）はアメリカでそ ...\nウォルマートとアマゾン、アメリカでドル連動型ステーブルコインの発行を検討：WSJ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/297864/",
+          "publishedOn": "2025-06-13T15:56:03.000Z",
+          "wordCount": 1315,
+          "title": "ウォルマートとアマゾン、アメリカでドル連動型ステーブルコインの発行を検討：WSJ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/3a9acb88a6c06b955d8977700ab30c7348e03116-1500x1000-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=297832",
           "author": "Shaurya Malwa",
           "description": "リップル（Ripple）のブラッド・ガーリングハウス（Brad Garlinghouse）CEOは、エックス・アール・ピー（XRP）がクロスボーダー決済の未来に ...\nXRPは5年以内に国際送金の14%を占めるようになる：リップルCEOが予測 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -2305,16 +2315,6 @@
           "wordCount": 593,
           "title": "英FCA、個人投資家への暗号資産連動「ETN」販売解禁を提案",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/09132942/1009b89dd9af40fa5487c4482d33ee9a.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=475405",
-          "author": "OtsugaShinya",
-          "description": "アップル、X、Airbnbがステーブルコイン決済の導入検討か 米大手テック企業のアップル（Apple）、X（旧ツイッター）、エアビーアンドビー（Airbnb）の各社が、ステーブルコイン決済の導入に向け、暗号資産（仮想通貨 […]",
-          "link": "https://www.neweconomy.jp/posts/475405",
-          "publishedOn": "2025-06-09T04:15:25.000Z",
-          "wordCount": 595,
-          "title": "アップル、X、Airbnbがステーブルコイン決済の導入検討か＝報道",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/09131521/9f563eb29e138b5f6152cb73dceea0c6.jpg"
         }
       ]
     },
@@ -2323,6 +2323,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-clings-to-105k-opinions-diverge-oil-price-outlook",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコイン（BTC）は6月13日のウォール街の取引開始とともに反発し、10万5000ドルを突破した。イスラエルとイランの地政学的な緊張が続く中、市場は今後の展開を慎重に見極めている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-clings-to-105k-opinions-diverge-oil-price-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-13T15:55:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン反発　10万5000ドル回復　中東リスクを警戒しつつ市場は様子見",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY5ZGUtYWFhMC03MWFkLTlhYTEtODJhNzMwOGI0Njdl.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY5ZGUtYWFhMC03MWFkLTlhYTEtODJhNzMwOGI0Njdl.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-mirrors-80-rally-setup-that-preceded-2024-israel-iran-conflict",
           "author": "Cointelegraph  Yashu Gola",
@@ -3919,36 +3934,6 @@
           "wordCount": 683,
           "title": "ApeChainとAlpine F1 Teamがコラボ、デジタルポスターを無料提供",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_2147935137.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=137188",
-          "author": "Crypto Troll",
-          "description": "ビットコインの取引データに関する上限の撤廃を巡り、コア開発者とコミュニティの間で意見が対立しています。開発者側は「検閲耐性」の維持を理由に上限撤廃を擁護する一方、コミュニティの一部はスパム取引の増加を懸念し議論が白熱して […]\n投稿 「検閲耐性」vs「スパム対策」ビットコインに分裂の危機？ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-censorship-resistance-vs-spam-protection-bitcoin-on-the-brink-of-splitting/",
-          "publishedOn": "2025-06-09T03:58:40.000Z",
-          "wordCount": 630,
-          "title": "「検閲耐性」vs「スパム対策」ビットコインに分裂の危機？",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_2464800449.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=137196",
-          "author": "Crypto Troll",
-          "description": "アルゼンチンの腐敗防止局はハビエル・ミレイ大統領が特定の暗号資産を宣伝した投稿について、倫理規定違反には当たらないとの判断を下しました。同局は問題となった投稿を公務員としての公式な発表ではなく、個人的な活動であったと結論 […]\n投稿 ミレイ大統領のミームコイン宣伝、政府当局は「倫理規定違反なし」と判断 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-president-milleys-meme-coin-promotion-government-officials-find-no-violation-of-ethics-rules/",
-          "publishedOn": "2025-06-09T03:53:42.000Z",
-          "wordCount": 582,
-          "title": "ミレイ大統領のミームコイン宣伝、政府当局は「倫理規定違反なし」と判断",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_2466180721.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=137187",
-          "author": "Crypto Troll",
-          "description": "ステーブルコインUSDTを発行するテザー社が株式公開した場合、その企業価値は5150億ドルに達する可能性があるという分析が示されました。この評価額はコカ・コーラやコストコを上回る水準であり、実現すればテザー社は世界で19 […]\n投稿 テザー上場なら価値5150億ドル、コカ・コーラ超え世界19位企業が誕生か は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-if-tether-goes-public-it-could-be-worth-515-billion-making-it-the-19th-largest-company-in-the-world-surpassing-coca-cola/",
-          "publishedOn": "2025-06-09T03:44:32.000Z",
-          "wordCount": 677,
-          "title": "テザー上場なら価値5150億ドル、コカ・コーラ超え世界19位企業が誕生か",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_2498263597.jpg"
         }
       ]
     }

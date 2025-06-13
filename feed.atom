@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-13T06:23:55.766Z</updated>
+    <updated>2025-06-13T06:50:38.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[リミックスポイントのビットコイン保有量が目標の1000BTC突破　8.9億円買い増し]]></title>
+        <id>https://coinpost.jp/?p=625114</id>
+        <link href="https://coinpost.jp/?p=625114"/>
+        <updated>2025-06-13T06:46:15.000Z</updated>
+        <summary type="html"><![CDATA[リミックスポイントが56.87BTCを8.9億円で追加購入し、保有量が目標の1000BTCを突破。暗号資産全体の時価評価額は172億円、評価益21億円に。]]></summary>
+        <author>
+            <name>Ritsuki.Kumazawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTCC取引所、2025年5月の準備金証明レポートを公開：ユーザー資産は準備率152%で安全性を実証]]></title>
+        <id>https://crypto-times.jp/?p=137622</id>
+        <link href="https://crypto-times.jp/press-btcc-may/"/>
+        <updated>2025-06-13T06:26:58.000Z</updated>
+        <summary type="html"><![CDATA[Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 暗号資産取引所BTCCは、2025年5月時点の準備金証明（Proof  […]
+投稿 BTCC取引所、2025年5月の準備金証明レポートを公開：ユーザー資産は準備率152%で安全性を実証 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米サークル「USDC」、「XRP Ledger」にネイティブ対応開始]]></title>
+        <id>https://www.neweconomy.jp/?p=476582</id>
+        <link href="https://www.neweconomy.jp/posts/476582"/>
+        <updated>2025-06-13T06:26:23.000Z</updated>
+        <summary type="html"><![CDATA[USDCがXRP Ledgerにネイティブ対応 米サークル（Circle Internet Financial）発行の米ドル建てステーブルコイン「USDC」のネイティブ型トークンが、「XRPレジャー（XRP Ledger […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uniswap財団、v4開発を加速する助成金プログラムを始動]]></title>
         <id>https://crypto-times.jp/?p=137612</id>

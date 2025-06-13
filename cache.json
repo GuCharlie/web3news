@@ -1713,21 +1713,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-us-cant-find-out.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-us-cant-find-out.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=623688",
-          "author": "A.Yamada",
-          "description": "2.2億ドル規模のハッキング被害を受けた、仮想通貨Sui最大のDEX「Cetus」が完全復旧した。流出資金の多くを取り戻しておりセキュリティ強化などを行っている。",
-          "link": "https://coinpost.jp/?p=623688",
-          "publishedOn": "2025-06-09T00:45:37.000Z",
-          "wordCount": 3198,
-          "title": "Sui最大のDEX「Cetus」が復旧　320億円ハッキング事件受け体制立て直し",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/sui-surge-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/sui-surge-1.jpg"
         }
       ]
     },
@@ -2415,16 +2400,6 @@
           "wordCount": 747,
           "title": "SMBC日興証券、韓国Web3VCハッシュド組成のファンドへ出資",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/09111353/145958f518dce429da2ce3eb559c4d8c.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=475335",
-          "author": "HitomotoToshikazu",
-          "description": "ジェミナイがIPO準備 ウィンクルボス（Winklevoss）兄弟が運営する米暗号資産（仮想通貨）取引所ジェミナイ（Gemini）が、クラスA普通株式の新規株式公開（IPO）を目指し、米証券取引委員会（SEC）に非公開で […]",
-          "link": "https://www.neweconomy.jp/posts/475335",
-          "publishedOn": "2025-06-09T00:57:04.000Z",
-          "wordCount": 737,
-          "title": "Gemini、IPOに向けてSECに草案を提出",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/09095645/IPO-250609TimArbaev.jpg"
         }
       ]
     },
@@ -2433,6 +2408,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-mirrors-80-rally-setup-that-preceded-2024-israel-iran-conflict",
+          "author": "Cointelegraph  Yashu Gola",
+          "description": "ビットコイン（BTC）は、イスラエルとイランの新たな衝突による売り圧力にもかかわらず、強気派の反発によって上昇の兆しを見せている。この展開は、2024年後半に80％の急騰が始まった際と類似しているとの見方が出ている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-mirrors-80-rally-setup-that-preceded-2024-israel-iran-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-13T12:58:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン、イスラエル対イランの地政学的リスクをはね返す　2024年の80％高騰を再現するか？",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY4Y2QtNmJkNy03MmZkLTg0YTUtY2Y3MDAzYTZjNjk5.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzY4Y2QtNmJkNy03MmZkLTg0YTUtY2Y3MDAzYTZjNjk5.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/walmart-amazon-explore-stablecoins-payments",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "ウォールストリートジャーナルの報道によれば、ウォルマートとアマゾンが、自社ブランドの米ドル連動型ステーブルコインの発行を検討している。規制環境の整備が進むなか、大手小売企業によるステーブルコイン導入の機運が高まりつつある。",
+          "link": "https://jp.cointelegraph.com/news/walmart-amazon-explore-stablecoins-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-13T12:25:00.000Z",
+          "wordCount": null,
+          "title": "ウォルマートとアマゾン　ドル連動型ステーブルコイン発行を検討か＝WSJ報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzhjMWQtYjU4ZS03OWU1LThlNGItYTQxNzlhODk0NWY3.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzhjMWQtYjU4ZS03OWU1LThlNGItYTQxNzlhODk0NWY3.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/shopify-early-access-usdc-stablecoin-payments-base",
           "author": "Cointelegraph  Helen Partz",

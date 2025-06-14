@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-14T20:38:57.940Z</updated>
+    <updated>2025-06-14T21:13:50.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ大統領　仮想通貨プロジェクトで5700万ドルの収入を申告　ワールド・リバティ・ファイナンシャル関連]]></title>
+        <id>https://jp.cointelegraph.com/news/trump-reports-57m-crypto-income-from-world-liberty-financial</id>
+        <link href="https://jp.cointelegraph.com/news/trump-reports-57m-crypto-income-from-world-liberty-financial?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-06-14T20:55:00.000Z</updated>
+        <summary type="html"><![CDATA[米国のトランプ大統領が、息子のドナルド・ジュニア氏およびエリック氏と共に支援する仮想通貨プロジェクト「ワールド・リバティ・ファイナンシャル」を通じて、5743万ドルの収入を得ていたことが明らかになった。]]></summary>
+        <author>
+            <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン相場 「まだ天井ではない」　コイングラスの30指標は強気相場続行を示唆]]></title>
         <id>https://jp.cointelegraph.com/news/30-bitcoin-price-top-indicators-hint-at-230k-bull-market-peak</id>
@@ -2647,47 +2657,6 @@ SBINFTと九州電力、学芸員選定のアートNFT販売で提携 first appe
 KULR、ビットコイン購入強化のため最大3億ドルの調達を計画 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン　11万2000ドルの史上最高値を更新できるのか　長期保有者の動向がカギに]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-price-lacks-fuel-surpass-all-time-high</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-price-lacks-fuel-surpass-all-time-high?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-06-10T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインが史上最高値11万1970ドルの再突破に迫る中、アナリストらは「明確な材料が乏しく、大きく上抜ける可能性は限定的」との見方を示している。]]></summary>
-        <author>
-            <name>Cointelegraph  Ciaran Lyons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ripple社、スタートアップ支援でWeb3 Salonと提携──DeFiやRWAなど国内事業者が対象、最大約3000万円助成へ]]></title>
-        <id>https://www.coindeskjapan.com/?p=297210</id>
-        <link href="https://www.coindeskjapan.com/297210/"/>
-        <updated>2025-06-10T08:51:15.000Z</updated>
-        <summary type="html"><![CDATA[米国に拠点を置くフィンテック企業のRipple（リップル）社は6月9日、アジアでのブロックチェーン技術の革新を加速させる一環として、Web3スタートアップの支援 ...
-Ripple社、スタートアップ支援でWeb3 Salonと提携──DeFiやRWAなど国内事業者が対象、最大約3000万円助成へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>橋本 祐樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ポール・アトキンスSEC新委員長が米国のイノベーション奨励姿勢を鮮明に]]></title>
-        <id>https://coinpost.jp/?p=624075</id>
-        <link href="https://coinpost.jp/?p=624075"/>
-        <updated>2025-06-10T08:45:01.000Z</updated>
-        <summary type="html"><![CDATA[米証券取引委員会のポール・アトキンス委員長は、ワシントンDCで開催された仮想通貨円卓会議において、分散型金融（DeFi）活動の根幹には、経済的自由や私有財産権、イノベーションといった米国の価値観が存在すると強調。SEC職員に対し、DeFiに適合する規制改正の検討を指示したことを明らかにした。]]></summary>
-        <author>
-            <name>幸田直子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム投資商品、7週連続で資金が純流入　全体的には投資家は様子見姿勢に]]></title>
-        <id>https://coinpost.jp/?p=624001</id>
-        <link href="https://coinpost.jp/?p=624001"/>
-        <updated>2025-06-10T08:39:40.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨投資企業CoinSharesは、先週におけるデジタル資産の投資商品への資金流入はイーサリアムが最も多かったことを報告。一方、ビットコインの投資商品からは純流出した。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>

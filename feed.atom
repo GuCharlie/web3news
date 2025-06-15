@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-15T22:41:10.923Z</updated>
+    <updated>2025-06-15T23:14:21.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ベトナム、デジタル技術産業法で仮想通貨を合法化]]></title>
+        <id>https://jp.cointelegraph.com/news/vietnam-legalizes-crypto-sets-digital-tech-ambitions</id>
+        <link href="https://jp.cointelegraph.com/news/vietnam-legalizes-crypto-sets-digital-tech-ambitions?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-06-15T22:47:00.000Z</updated>
+        <summary type="html"><![CDATA[ベトナム国会は6月14日、「デジタル技術産業法」を可決し、仮想通貨を含むデジタル資産を初めて規制の枠組みに取り込んだ。]]></summary>
+        <author>
+            <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインのマイニング難易度、過去最高からわずかに低下]]></title>
+        <id>https://jp.cointelegraph.com/news/btc-mining-difficulty-falls-slightly-all-time-high</id>
+        <link href="https://jp.cointelegraph.com/news/btc-mining-difficulty-falls-slightly-all-time-high?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-06-15T22:41:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）のマイニング難易度は、5月31日に過去最高の126.9兆を記録したのち、6月15日の難易度調整でわずかに下落した。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブラジル、個人の暗号資産利益に一律17.5％の課税を導入──小規模投資家への免税措置を終了]]></title>
         <id>https://www.coindeskjapan.com/?p=298003</id>
@@ -15,6 +35,16 @@
 ブラジル、個人の暗号資産利益に一律17.5％の課税を導入──小規模投資家への免税措置を終了 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>林 理南</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イスラエル・イラン情勢の緊張下で、セイラー氏がビットコイン購入を示唆]]></title>
+        <id>https://jp.cointelegraph.com/news/saylor-impending-bitcoin-purchase-israel-iran-conflict</id>
+        <link href="https://jp.cointelegraph.com/news/saylor-impending-bitcoin-purchase-israel-iran-conflict?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-06-15T22:24:00.000Z</updated>
+        <summary type="html"><![CDATA[ストラテジー（Strategy）共同創業者のマイケル・セイラー氏は、同社によるビットコイン（BTC）購入を示唆するチャートを投稿した。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
         </author>
     </entry>
     <entry>
@@ -2086,16 +2116,6 @@ LN Trends 2025年6月（vol.8） first appeared on CoinDesk JAPAN（コインデ
 投稿 米国の暗号資産規制、ついに明確化へ｜超党派の法案が前進 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カルダノ創設者、初のビットコインDeFiプロトコル「Cardinal」発表]]></title>
-        <id>https://www.neweconomy.jp/?p=476043</id>
-        <link href="https://www.neweconomy.jp/posts/476043"/>
-        <updated>2025-06-11T10:41:07.000Z</updated>
-        <summary type="html"><![CDATA[Cardanoが初のビットコインDeFiプロトコル「Cardinal」を発表 カルダノ（Cardano）の創設者チャールズ・ホスキンソン（Charles Hoskinson）氏が、カルダノネットワーク初のビットコイン（B […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
         </author>
     </entry>
 </feed>

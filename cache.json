@@ -1550,16 +1550,6 @@
           "wordCount": 780,
           "title": "【6/11話題】gumiとリミポがビットコイン購入、SBIが暗号資産運用ファンド、XRPLで米国債担保のCPなど（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/11174304/d9c03a91d62662359ada8c282c65bd55.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=476043",
-          "author": "TamuraSeiji",
-          "description": "Cardanoが初のビットコインDeFiプロトコル「Cardinal」を発表 カルダノ（Cardano）の創設者チャールズ・ホスキンソン（Charles Hoskinson）氏が、カルダノネットワーク初のビットコイン（B […]",
-          "link": "https://www.neweconomy.jp/posts/476043",
-          "publishedOn": "2025-06-11T10:41:07.000Z",
-          "wordCount": 759,
-          "title": "カルダノ創設者、初のビットコインDeFiプロトコル「Cardinal」発表",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/11194056/6e84e0050dadd47004cbb421231adbe6.jpg"
         }
       ]
     },
@@ -1568,6 +1558,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/vietnam-legalizes-crypto-sets-digital-tech-ambitions",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "ベトナム国会は6月14日、「デジタル技術産業法」を可決し、仮想通貨を含むデジタル資産を初めて規制の枠組みに取り込んだ。",
+          "link": "https://jp.cointelegraph.com/news/vietnam-legalizes-crypto-sets-digital-tech-ambitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-15T22:47:00.000Z",
+          "wordCount": null,
+          "title": "ベトナム、デジタル技術産業法で仮想通貨を合法化",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzczMDgtMzk1Yy03OGFkLWJlODMtNjEzMzJjN2YyOGY3.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzczMDgtMzk1Yy03OGFkLWJlODMtNjEzMzJjN2YyOGY3.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/btc-mining-difficulty-falls-slightly-all-time-high",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "ビットコイン（BTC）のマイニング難易度は、5月31日に過去最高の126.9兆を記録したのち、6月15日の難易度調整でわずかに下落した。",
+          "link": "https://jp.cointelegraph.com/news/btc-mining-difficulty-falls-slightly-all-time-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-15T22:41:00.000Z",
+          "wordCount": null,
+          "title": "ビットコインのマイニング難易度、過去最高からわずかに低下",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmFmYzgtNTljMC03YmJiLWJmMjItYmFmYWQ0OTJjNGNh.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmFmYzgtNTljMC03YmJiLWJmMjItYmFmYWQ0OTJjNGNh.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/saylor-impending-bitcoin-purchase-israel-iran-conflict",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "ストラテジー（Strategy）共同創業者のマイケル・セイラー氏は、同社によるビットコイン（BTC）購入を示唆するチャートを投稿した。",
+          "link": "https://jp.cointelegraph.com/news/saylor-impending-bitcoin-purchase-israel-iran-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-15T22:24:00.000Z",
+          "wordCount": null,
+          "title": "イスラエル・イラン情勢の緊張下で、セイラー氏がビットコイン購入を示唆",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2YxMTItZjRkYS03NmYzLWFiMzctZjcxNmMwZDM3MjEz.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2YxMTItZjRkYS03NmYzLWFiMzctZjcxNmMwZDM3MjEz.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-backed-loans-real-estate-capital-gains",
           "author": "Cointelegraph  Amin Haqshanas",

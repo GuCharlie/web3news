@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=298003",
+          "author": "林 理南",
+          "description": "ブラジルは、長年続いてきた暗号資産（仮想通貨）の利益に対する免税措置を廃止し、新たな暫定措置（MP 1303）により、個人のすべての暗号資産の利益に17.5％の ...\nブラジル、個人の暗号資産利益に一律17.5％の課税を導入──小規模投資家への免税措置を終了 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/298003/",
+          "publishedOn": "2025-06-15T22:30:00.000Z",
+          "wordCount": 1296,
+          "title": "ブラジル、個人の暗号資産利益に一律17.5％の課税を導入──小規模投資家への免税措置を終了",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/a010b6e8d5d9fab88360e6939414f5b12c6bf695-1920x1272-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=297987",
           "author": "T. Minamoto",
           "description": "NBAの伝説的選手であるシャキール・オニール氏が、破綻した暗号資産（仮想通貨）取引所FTXを利用していた投資家らによる集団訴訟において180万ドル（約2.6億円 ...\n伝説的NBA選手、FTX関連訴訟で約2.6億円の和解金支払いへ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -440,16 +450,6 @@
           "wordCount": 1335,
           "title": "ウクライナの議員グループ、暗号資産準備金創設のための法案を提出",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/shutterstock_2094300322.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=297424",
-          "author": "Krisztian Sandor",
-          "description": "ナスダック上場企業で暗号資産（仮想通貨）事業への移行を進めるビボパワー・インターナショナル（VivoPower International）は、1億ドル（約14 ...\nビボパワー、フレア上で1億ドル相当のXRPを運用──財務運営にリップルのRLUSDを採用 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/297424/",
-          "publishedOn": "2025-06-11T10:15:00.000Z",
-          "wordCount": 1358,
-          "title": "ビボパワー、フレア上で1億ドル相当のXRPを運用──財務運営にリップルのRLUSDを採用",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/shutterstock_2236802793.jpg"
         }
       ]
     },
@@ -1568,6 +1568,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-backed-loans-real-estate-capital-gains",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "ビットコイン（BTC）を担保にした仮想通貨ローンを活用し、1サトシも売却せずに不動産を購入する動きが広がっている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-backed-loans-real-estate-capital-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-15T22:15:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン担保ローン、富裕層に不動産市場への“非課税”アクセスを提供",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzczYTgtNWRlMC03YzIzLTg1OWYtYzUyMWYxMDhjYTAy.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzczYTgtNWRlMC03YzIzLTg1OWYtYzUyMWYxMDhjYTAy.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-price-targets-mushroom-traders-bet-on-200k-this-bull-run",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコイン（BTC）のトレーダーは、今の強気相場のなかで、新たな最高値、さらには27万ドルまでの上昇を依然として視野に入れているようだ。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-price-targets-mushroom-traders-bet-on-200k-this-bull-run?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-15T22:06:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン価格目標が急増　強気相場で14万ドル超を見込む声",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzczM2EtMGU2Ny03MDA1LThiY2ItM2RlMTY5YmVmOWJl.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzczM2EtMGU2Ny03MDA1LThiY2ItM2RlMTY5YmVmOWJl.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/crypto-ipos-circle-gemini-kraken-wall-street-2025",
           "author": "Cointelegraph  Marie Poteriaieva",

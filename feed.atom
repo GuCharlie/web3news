@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-16T23:14:55.618Z</updated>
+    <updated>2025-06-16T23:38:30.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1億ドル調達でトロン財務戦略を開始　ナスダック上場企業SRM、社名を「Tron Inc.」へ]]></title>
+        <id>https://coinpost.jp/?p=625719</id>
+        <link href="https://coinpost.jp/?p=625719"/>
+        <updated>2025-06-16T23:20:02.000Z</updated>
+        <summary type="html"><![CDATA[ナスダック上場企業SRM Entertainmentは、1億ドルを調達しトロン財務戦略を開始することを発表。トロン創設者のジャスティン・サンを顧問に迎え入れ、社名をTron Inc.に変更する。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ストラテジーがビットコイン1万100枚を追加購入、総保有数59万2,100BTCに]]></title>
         <id>https://www.neweconomy.jp/?p=477112</id>
@@ -24,6 +34,16 @@
         <summary type="html"><![CDATA[イランが湾岸諸国に米国経由でイスラエル停戦圧力を要請、核協議柔軟性も示唆。QCP分析ではビットコインが中東緊張下でも10.2万ドルから10.7万ドルに迅速に回復、機関投資家の継続的な買いが下支えと指摘。]]></summary>
         <author>
             <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ氏のTruth Social、ビットコインとイーサリアムの複合型ETFをSECに申請]]></title>
+        <id>https://jp.cointelegraph.com/news/trump-truth-social-sec-s-1-bitcoin-ether-etfs</id>
+        <link href="https://jp.cointelegraph.com/news/trump-truth-social-sec-s-1-bitcoin-ether-etfs?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-06-16T22:55:00.000Z</updated>
+        <summary type="html"><![CDATA[米SNS「Truth Social」を運営するトランプ・メディア・アンド・テクノロジー・グループ（TMTG）が、ビットコイン（BTC）とイーサリアム（ETH）を対象とするETF（上場投資信託）の設立を目指し、6月16日付で米証券取引委員会（SEC）にS-1登録届出書を提出した。]]></summary>
+        <author>
+            <name>Cointelegraph  Helen Partz</name>
         </author>
     </entry>
     <entry>
@@ -1891,16 +1911,6 @@ DeFi社、新たな信用枠で50億ドルのソラナ購入力を追加 first a
         <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「魁 三国志大戦」のゲームトークン「SGC」、海外大手10取引所に上場へ]]></title>
-        <id>https://www.neweconomy.jp/?p=476430</id>
-        <link href="https://www.neweconomy.jp/posts/476430"/>
-        <updated>2025-06-12T11:22:29.000Z</updated>
-        <summary type="html"><![CDATA[「魁 三国志大戦」のゲームトークン「SGC」が海外大手取引所に上場へ ブロックチェーンゲーム「魁 三国志大戦 -Battle of Three Kingdoms-」のゲーム内通貨として活用できるトークン「SG Coin（ […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>

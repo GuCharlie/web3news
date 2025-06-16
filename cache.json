@@ -405,6 +405,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=625719",
+          "author": "K.Kobayashi",
+          "description": "ナスダック上場企業SRM Entertainmentは、1億ドルを調達しトロン財務戦略を開始することを発表。トロン創設者のジャスティン・サンを顧問に迎え入れ、社名をTron Inc.に変更する。",
+          "link": "https://coinpost.jp/?p=625719",
+          "publishedOn": "2025-06-16T23:20:02.000Z",
+          "wordCount": 3258,
+          "title": "1億ドル調達でトロン財務戦略を開始　ナスダック上場企業SRM、社名を「Tron Inc.」へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/01/tron0110.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/01/tron0110.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=625718",
           "author": "菊谷ルイス",
           "description": "イランが湾岸諸国に米国経由でイスラエル停戦圧力を要請、核協議柔軟性も示唆。QCP分析ではビットコインが中東緊張下でも10.2万ドルから10.7万ドルに迅速に回復、機関投資家の継続的な買いが下支えと指摘。",
@@ -1420,16 +1435,6 @@
           "wordCount": 786,
           "title": "【6/12話題】国内初のTRUMPコイン上場か、ストライプがウォレットインフラのPrivy買収へなど（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/12183339/1d474197a07e778478e3ac4c9dc3ff70.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=476430",
-          "author": "OtsugaShinya",
-          "description": "「魁 三国志大戦」のゲームトークン「SGC」が海外大手取引所に上場へ ブロックチェーンゲーム「魁 三国志大戦 -Battle of Three Kingdoms-」のゲーム内通貨として活用できるトークン「SG Coin（ […]",
-          "link": "https://www.neweconomy.jp/posts/476430",
-          "publishedOn": "2025-06-12T11:22:29.000Z",
-          "wordCount": 753,
-          "title": "「魁 三国志大戦」のゲームトークン「SGC」、海外大手10取引所に上場へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/12202223/d15c4c72a9fcaa2f59d3cfffbc2d0f32.jpg"
         }
       ]
     },
@@ -1438,6 +1443,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/trump-truth-social-sec-s-1-bitcoin-ether-etfs",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "米SNS「Truth Social」を運営するトランプ・メディア・アンド・テクノロジー・グループ（TMTG）が、ビットコイン（BTC）とイーサリアム（ETH）を対象とするETF（上場投資信託）の設立を目指し、6月16日付で米証券取引委員会（SEC）にS-1登録届出書を提出した。",
+          "link": "https://jp.cointelegraph.com/news/trump-truth-social-sec-s-1-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-16T22:55:00.000Z",
+          "wordCount": null,
+          "title": "トランプ氏のTruth Social、ビットコインとイーサリアムの複合型ETFをSECに申請",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzc5NzctOTg2NS03MTZmLTk2NTktZDc1YjkzNDVkZTRk.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzc5NzctOTg2NS03MTZmLTk2NTktZDc1YjkzNDVkZTRk.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/early-bitcoin-adopter-says-btc-could-have-another-100x-cycle",
           "author": "Cointelegraph  Biraajmaan Tamuly",

@@ -390,16 +390,6 @@
           "wordCount": 1356,
           "title": "10年物米国債の入札で強い需要が示され、需要懸念が緩和──次には30年物の入札が控える",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/shutterstock_1936301413.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=297596",
-          "author": "Jamie Crawley",
-          "description": "アリペイ（Alipay）の親会社であるアント・グループ（Ant Group）の国際部門が、香港とシンガポールでステーブルコインのライセンス取得を目指す計画だとブ ...\nアント・インターナショナル、香港とシンガポールでステーブルコインのライセンス取得を目指す：ブルームバーグ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/297596/",
-          "publishedOn": "2025-06-12T10:30:00.000Z",
-          "wordCount": 1394,
-          "title": "アント・インターナショナル、香港とシンガポールでステーブルコインのライセンス取得を目指す：ブルームバーグ",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/0476239a2cacffc5810078e11336ae763ba82a13-1500x1000-1.jpeg"
         }
       ]
     },
@@ -1393,6 +1383,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/ethereum-staking-institutional-demand-lido-steth",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "今サイクルでイーサ（ETH）はビットコインや他のデジタル資産に大きく劣後しているものの、イーサリアムのステーキングに対する機関投資家の関心の高まりが、より多様な投資家層を支えるカストディ（保管）ソリューションの需要を生み出していると、ライド（Lido）エコシステム財団の機関投資家向け業務責任者キーン・ギルバート氏は語った。",
+          "link": "https://jp.cointelegraph.com/news/ethereum-staking-institutional-demand-lido-steth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-16T22:31:00.000Z",
+          "wordCount": null,
+          "title": "ETH価格は下落も、機関投資家はイーサリアムのステーキングに注目＝ Lido幹部",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWFhY2EtZmI4Mi03NmYxLTg1ZDktYWY2ZTk3OTE5ZDJj.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWFhY2EtZmI4Mi03NmYxLTg1ZDktYWY2ZTk3OTE5ZDJj.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/gemini-coinbase-eu-licenses-mica-report",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "仮想通貨取引所のジェミナイとコインベースが、欧州連合（EU）での営業ライセンスを取得する見通しとなった。",
+          "link": "https://jp.cointelegraph.com/news/gemini-coinbase-eu-licenses-mica-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-16T22:25:00.000Z",
+          "wordCount": null,
+          "title": "ジェミナイとコインベース、MiCA規制下でEUライセンス取得へ ＝報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzc5NjMtNzQ2ZC03NGJiLThhMzQtNjAzN2U0M2E0OWQ1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzc5NjMtNzQ2ZC03NGJiLThhMzQtNjAzN2U0M2E0OWQ1.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/price-predictions-6-16-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-hype",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "ビットコインが過去最高値の更新をうかがう展開となる中で、アルトコインは引き続き持ち合い相場にとどまっている。",
+          "link": "https://jp.cointelegraph.com/news/price-predictions-6-16-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-16T22:10:00.000Z",
+          "wordCount": null,
+          "title": "アルトコインは保合か　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzc5ZjItOTBhMy03NWE2LWJiY2ItYmZjMjRkYTM1M2Nh.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzc5ZjItOTBhMy03NWE2LWJiY2ItYmZjMjRkYTM1M2Nh.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0616",
           "author": "Cointelegraph  ビットバンク　長谷川友哉",

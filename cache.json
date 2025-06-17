@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=298337",
+          "author": "Sam Reynolds",
+          "description": "キャシー・ウッド（Cathie Wood）氏のアーク・インベスト（ARK Invest）は6月16日、保有するステーブルコイン発行会社サークル（Circle）の ...\n米アーク、上昇が続くサークル株を5000万ドル以上売却 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/298337/",
+          "publishedOn": "2025-06-17T08:30:00.000Z",
+          "wordCount": 1357,
+          "title": "米アーク、上昇が続くサークル株を5000万ドル以上売却",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/10/HHH2GWKS5ZDVNHXVGTB6WSHTTE.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=298307",
           "author": "Omkar Godbole",
           "description": "大量のエックス・アール・ピー（XRP）を保有する「クジラ」の数が過去最高を記録し、この暗号資産（仮想通貨）の価格見通しに対する信頼感が高まっている。 ブロックチ ...\nXRPのクジラが過去最高の数に──2700超のウォレットが100万XRP以上を所有 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -1313,21 +1323,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/DOGE_0911b.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/DOGE_0911b.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=624960",
-          "author": "菊谷ルイス",
-          "description": "コインベースの「Coinbase One」カードがAmex提携で登場。購入額に応じて最大4%の仮想通貨ビットコインを還元。",
-          "link": "https://coinpost.jp/?p=624960",
-          "publishedOn": "2025-06-12T20:40:24.000Z",
-          "wordCount": 3205,
-          "title": "コインベース、最大4%ビットコイン還元のクレジットカード発表",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/coinbase-card-american-express.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/coinbase-card-american-express.png"
         }
       ]
     },
@@ -1723,6 +1718,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0617",
+          "author": "Cointelegraph  ビットバンク　長谷川友哉",
+          "description": "16日のビットコイン（BTC）円は1528万1037円から取引が始まった。",
+          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0617?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-17T08:29:00.000Z",
+          "wordCount": null,
+          "title": "BTC上昇もトランプの意味深発言で上げ幅縮小　影響は一時的か【ビットバンク仮想通貨分析】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jY2RkZjRmZDA1YjlkMTc4MDVkNzJkM2M5ZGIwMTRjZS5qcGc=.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jY2RkZjRmZDA1YjlkMTc4MDVkNzJkM2M5ZGIwMTRjZS5qcGc=.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/arthur-hayes-trade-stablecoin-ipo-hot-potato",
+          "author": "Cointelegraph  Martin Young",
+          "description": "ビットメックス創業者のアーサー・ヘイズ氏は17日、今後のステーブルコイン企業の新規株式公開（IPO）ブームについて、「多くは過大評価されて失敗する」と警鐘を鳴らした。",
+          "link": "https://jp.cointelegraph.com/news/arthur-hayes-trade-stablecoin-ipo-hot-potato?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-17T08:25:00.000Z",
+          "wordCount": null,
+          "title": "アーサー・ヘイズ氏　ステーブルコインブームに警鐘　「多くは過大評価されて失敗する」",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDdmOTEtNjhlNi03NzdlLWFjZWUtNmU4YmE0N2I3NDhk.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDdmOTEtNjhlNi03NzdlLWFjZWUtNmU4YmE0N2I3NDhk.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-production-cost-rises-energy-hashrate-increase-q2",
+          "author": "Cointelegraph  Brayden Lindrea",
+          "description": "2025年第2四半期におけるビットコインの平均採掘コストは7万ドルを超える見通しとなっており、ネットワークのハッシュレート上昇と電力価格の高騰がマイナーの収益を圧迫している。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-production-cost-rises-energy-hashrate-increase-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-17T08:20:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン採掘コストが7万ドル以上に上昇　マイナー各社は効率化と収益多角化に活路",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzdhZjktYmNiMy03NjA4LWI5NmMtYjhmMTg5ZGVkNzM1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzdhZjktYmNiMy03NjA4LWI5NmMtYjhmMTg5ZGVkNzM1.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/eric-trump-denies-tron-us-public-offering-justin-sun",
           "author": "Cointelegraph  Sam Bourgi",
@@ -2435,6 +2475,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=137730",
+          "author": "よきょい",
+          "description": "暗号資産リップル（XRP）は、直近で短期的なゴールデンクロスを形成し約7%の急騰を見せた後、現在は利益確定売りに押され調整局面に移行しています。30分足チャートでは、中期的な上昇トレンドの継続か、あるいは調整の深化かを占 […]\n投稿 リップル(XRP)急騰落ち着く、押し目買いの好機か｜70SMAが運命の分かれ道 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-ripple-xrp-surge-pauses-a-good-opportunity-to-buy-on-dips/",
+          "publishedOn": "2025-06-17T08:44:53.000Z",
+          "wordCount": 578,
+          "title": "リップル(XRP)急騰落ち着く、押し目買いの好機か｜70SMAが運命の分かれ道",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_1360567550.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=137807",
           "author": "Crypto Times 編集部",

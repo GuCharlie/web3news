@@ -380,26 +380,6 @@
           "wordCount": 1315,
           "title": "ウォルマートとアマゾン、アメリカでドル連動型ステーブルコインの発行を検討：WSJ",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/3a9acb88a6c06b955d8977700ab30c7348e03116-1500x1000-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=297832",
-          "author": "Shaurya Malwa",
-          "description": "リップル（Ripple）のブラッド・ガーリングハウス（Brad Garlinghouse）CEOは、エックス・アール・ピー（XRP）がクロスボーダー決済の未来に ...\nXRPは5年以内に国際送金の14%を占めるようになる：リップルCEOが予測 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/297832/",
-          "publishedOn": "2025-06-13T10:30:00.000Z",
-          "wordCount": 1328,
-          "title": "XRPは5年以内に国際送金の14%を占めるようになる：リップルCEOが予測",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/399361b4f0e04a53673faca3322741da4b33f4b8-1141x581-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=297811",
-          "author": "CoinDesk JAPAN 広告制作チーム",
-          "description": "イーサリアム（Ethereum）の「ペクトラ（Pectra）」アップグレードは、2025年5月に行われ、「マージ（Merge）」以降で最も重要なアップグレードと ...\n新たなMEV機会を切り拓く「ZenMEV」──ペクトラ時代のステーキングプラットフォーム first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/297811/",
-          "publishedOn": "2025-06-13T10:25:00.000Z",
-          "wordCount": 1255,
-          "title": "新たなMEV機会を切り拓く「ZenMEV」──ペクトラ時代のステーキングプラットフォーム",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/image1-1.jpg"
         }
       ]
     },
@@ -1253,6 +1233,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/thailand-tax-exemption-crypto-income-five-years",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "タイ財務省の発表によると、同国はビットコインなどの仮想通貨の売却益に対する課税を5年間免除する方針を決定した。",
+          "link": "https://jp.cointelegraph.com/news/thailand-tax-exemption-crypto-income-five-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-17T22:22:00.000Z",
+          "wordCount": null,
+          "title": "タイ、仮想通貨売却益を5年免除へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJjODItZDUxZi03ZTA3LTgxZjItYjlhMjdhZjkyY2Ji.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJjODItZDUxZi03ZTA3LTgxZjItYjlhMjdhZjkyY2Ji.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/25-bitcoin-price-rally-set-to-follow-today-s-correction-if-history-repeats",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "ビットコイン（BTC）の価格は、米連邦公開市場委員会（FOMC）の会合および水曜日に公表される利上げ判断を前に、トレーダーがリスクを減らしたことで10万3,300ドルまで下落した。",
+          "link": "https://jp.cointelegraph.com/news/25-bitcoin-price-rally-set-to-follow-today-s-correction-if-history-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-17T22:13:00.000Z",
+          "wordCount": null,
+          "title": "過去の傾向が繰り返されれば、ビットコインは本日の調整後に25%上昇か",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzdlZDctMjMxNi03MDRiLTlmNmMtNzBhOWQ1YzdkOWI5.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzdlZDctMjMxNi03MDRiLTlmNmMtNzBhOWQ1YzdkOWI5.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-etf-inflows-hit-412m-amid-iran-israel-tensions",
           "author": "Cointelegraph  Amin Haqshanas",

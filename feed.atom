@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-17T22:15:04.934Z</updated>
+    <updated>2025-06-17T22:42:20.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[タイ、仮想通貨売却益を5年免除へ]]></title>
+        <id>https://jp.cointelegraph.com/news/thailand-tax-exemption-crypto-income-five-years</id>
+        <link href="https://jp.cointelegraph.com/news/thailand-tax-exemption-crypto-income-five-years?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-06-17T22:22:00.000Z</updated>
+        <summary type="html"><![CDATA[タイ財務省の発表によると、同国はビットコインなどの仮想通貨の売却益に対する課税を5年間免除する方針を決定した。]]></summary>
+        <author>
+            <name>Cointelegraph  Helen Partz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[過去の傾向が繰り返されれば、ビットコインは本日の調整後に25%上昇か]]></title>
+        <id>https://jp.cointelegraph.com/news/25-bitcoin-price-rally-set-to-follow-today-s-correction-if-history-repeats</id>
+        <link href="https://jp.cointelegraph.com/news/25-bitcoin-price-rally-set-to-follow-today-s-correction-if-history-repeats?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-06-17T22:13:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）の価格は、米連邦公開市場委員会（FOMC）の会合および水曜日に公表される利上げ判断を前に、トレーダーがリスクを減らしたことで10万3,300ドルまで下落した。]]></summary>
+        <author>
+            <name>Cointelegraph  Biraajmaan Tamuly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブラックロック主導で4億ドル超流入　イスラエル・イラン情勢下でもビットコインETFに資金集まる]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-etf-inflows-hit-412m-amid-iran-israel-tensions</id>
@@ -1847,28 +1867,6 @@ TONベースのプロトコルのAffluent、テレグラムをスーパーアプ
         <summary type="html"><![CDATA[仮想通貨ビットコイン（BTC）が上昇トレンドの終了を示唆しているとの見方が出ている。テクニカル指標「ボリンジャーバンド」の考案者として知られるジョン・ボリンジャー氏は6月13日、Xへの投稿で「ビットコインの反発は一区切りを迎えた」との見解を示した。]]></summary>
         <author>
             <name>Cointelegraph  William Suberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRPは5年以内に国際送金の14%を占めるようになる：リップルCEOが予測]]></title>
-        <id>https://www.coindeskjapan.com/?p=297832</id>
-        <link href="https://www.coindeskjapan.com/297832/"/>
-        <updated>2025-06-13T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[リップル（Ripple）のブラッド・ガーリングハウス（Brad Garlinghouse）CEOは、エックス・アール・ピー（XRP）がクロスボーダー決済の未来に ...
-XRPは5年以内に国際送金の14%を占めるようになる：リップルCEOが予測 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新たなMEV機会を切り拓く「ZenMEV」──ペクトラ時代のステーキングプラットフォーム]]></title>
-        <id>https://www.coindeskjapan.com/?p=297811</id>
-        <link href="https://www.coindeskjapan.com/297811/"/>
-        <updated>2025-06-13T10:25:00.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム（Ethereum）の「ペクトラ（Pectra）」アップグレードは、2025年5月に行われ、「マージ（Merge）」以降で最も重要なアップグレードと ...
-新たなMEV機会を切り拓く「ZenMEV」──ペクトラ時代のステーキングプラットフォーム first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>CoinDesk JAPAN 広告制作チーム</name>
         </author>
     </entry>
 </feed>

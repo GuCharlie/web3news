@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=298105",
+          "author": "橋本 祐樹",
+          "description": "各国のイーサリアム開発者が渋谷に集結し、カンファレンスとハッカソンを通じてエコシステムの拡大を目指す「ETHTokyo 2025」が、9月12日〜15日に開催さ ...\n世界のイーサリアム開発者が渋谷に集結、カンファレンスとハッカソンの祭典「ETHTokyo 2025」 が9月開催 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/298105/",
+          "publishedOn": "2025-06-17T03:47:41.000Z",
+          "wordCount": 2021,
+          "title": "世界のイーサリアム開発者が渋谷に集結、カンファレンスとハッカソンの祭典「ETHTokyo 2025」 が9月開催",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/IMG_0431.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=298196",
           "author": "廣瀬 優香",
           "description": "トランプ・メディア・アンド・テクノロジー・グループ（Trump Media and Technology Group）は16日、トゥルース・ソーシャル（Trut ...\nトランプ氏のトゥルース・ソーシャル、ビットコインとイーサリアムの複合ETFを申請 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -410,16 +420,6 @@
           "wordCount": 1328,
           "title": "DeFi社、新たな信用枠で50億ドルのソラナ購入力を追加",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/2e14ef9e0ece47068da06c0d0405ba1e13c15bd8-3904x2196-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=297625",
-          "author": "林 理南",
-          "description": "世界の主要通貨バスケットに対する米ドルの強さを示すドルインデックス（DXY）は、2022年初頭以来初めて98を下回った。 この動きは、世界の通貨市場における顕著 ...\nドルインデックス、3年ぶりに98を下回る──暗号資産に上昇の余地 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/297625/",
-          "publishedOn": "2025-06-12T16:30:17.000Z",
-          "wordCount": 1326,
-          "title": "ドルインデックス、3年ぶりに98を下回る──暗号資産に上昇の余地",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/14871b867415e5f0a9f8d85d4e23dfbe31b2d123-2876x1734-1-scaled.jpg"
         }
       ]
     },
@@ -434,6 +434,96 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=625789",
+          "author": "幸田直子",
+          "description": "米大手VCのa16zが発表したAIと仮想通貨の交差点に関する最新レポートを詳しく解説した。アイデンティティ、分散型インフラ、新経済モデルなど11の具体的ユースケースから、実現可能性や今後の課題などを探る。",
+          "link": "https://coinpost.jp/?p=625789",
+          "publishedOn": "2025-06-17T05:20:24.000Z",
+          "wordCount": 3258,
+          "title": "DePINや分散型IDが切り開くAIと仮想通貨の未来は　a16zが示す11のユースケース",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/AIAgent-1230.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/AIAgent-1230.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=625771",
+          "author": "菊谷ルイス",
+          "description": "BitMEX創設者アーサー・ヘイズ氏がステーブルコイン投資ブームの到来とバブル崩壊を警告。サークル株価は上場2週間で公募価格の5倍に急騰し、機関投資家の売買が後押しに。",
+          "link": "https://coinpost.jp/?p=625771",
+          "publishedOn": "2025-06-17T04:35:36.000Z",
+          "wordCount": 3235,
+          "title": "アーサー・ヘイズ、ステーブルコイン投機バブル警告もサークル株価上昇を予測",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/0522_arthur_B.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/0522_arthur_B.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=625772",
+          "author": "A.Yamada",
+          "description": "ドナルド・トランプ氏の企業トランプ・オーガニゼーションが携帯電話事業「トランプモバイル」を開始する。手頃な価格の通信プランを用意し、米国製スマホも発売予定だ。",
+          "link": "https://coinpost.jp/?p=625772",
+          "publishedOn": "2025-06-17T04:15:18.000Z",
+          "wordCount": 3242,
+          "title": "米国製「トランプモバイル」発表、トランプ一族企業が携帯電話に参入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/trump-family-wallet-dispute.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/trump-family-wallet-dispute.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=625766",
+          "author": "S.Ninomiya",
+          "description": "トランプ米大統領がイラン情勢悪化を受けてG7サミットを切り上げ帰国し、中東の地政学リスクが高まる中、ビットコインは前日比+0.9%の106,787ドルで堅調に推移。イラン高官のホルムズ海峡封鎖警告で原油価格が5か月ぶり高値に急騰したものの、機関投資家による暗号資産ETPへの資金流入は19億ドルを記録し9週連続の流入となった。",
+          "link": "https://coinpost.jp/?p=625766",
+          "publishedOn": "2025-06-17T02:40:11.000Z",
+          "wordCount": 3255,
+          "title": "トランプG7早期離脱で地政学リスク拡大懸念も、ビットコインは10万ドル台で推移",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/bitcoin-never-dies.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/bitcoin-never-dies.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=625736",
+          "author": "A.Yamada",
+          "description": "米銀行大手JPモルガンが「JPMD」商標を出願した。内容と名称からステーブルコイン関連との推測もされている。JPモルガンは、すでにKinexysなどブロックチェーン事業に参入している。",
+          "link": "https://coinpost.jp/?p=625736",
+          "publishedOn": "2025-06-17T02:00:29.000Z",
+          "wordCount": 3236,
+          "title": "JPモルガンが「JPMD」商標出願、新ステーブルコイン開発か？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/JPMorgan-Logo.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/JPMorgan-Logo.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=625749",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨ビットコインの現物ETFの出来高は、ビットコインの現物市場におけるシェアが拡大基調にある。最新データでは24.27%で、5月29日には過去最高水準に達していた。",
+          "link": "https://coinpost.jp/?p=625749",
+          "publishedOn": "2025-06-17T01:30:16.000Z",
+          "wordCount": 3252,
+          "title": "ビットコイン現物ETFの出来高、BTC取引全体の約25%に　シェアが拡大基調",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/leverage-etf-bitcoin-sec-first.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/leverage-etf-bitcoin-sec-first.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=625740",
           "author": "菊谷ルイス",
@@ -1207,6 +1297,46 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=477221",
+          "author": "HitomotoToshikazu",
+          "description": "マイケルセイラーがパキスタン政府に助言 米ナスダック上場企業ストラテジー（Strategy）の会長マイケル・セイラー（Michael Saylor）氏がパキスタン政府関係者と会談し、同国のビットコイン（BTC）への取り組 […]",
+          "link": "https://www.neweconomy.jp/posts/477221",
+          "publishedOn": "2025-06-17T06:20:28.000Z",
+          "wordCount": 732,
+          "title": "米Strategy会長マイケルセイラーがパキスタン政府と会談、ビットコイン導入に助言＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/17152002/d1a99beb659459d13c6bf120f7da60b5.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=477207",
+          "author": "gentosha_takahashi",
+          "description": "TRONが米ナスダック市場に進出 ナスダック上場企業「SRMエンターテイメント（SRM Entertainment, Inc.）」（NASDAQティッカー：SRM）が、トロン（TRON）トークン「TRX」のトレジャリー戦 […]",
+          "link": "https://www.neweconomy.jp/posts/477207",
+          "publishedOn": "2025-06-17T05:38:22.000Z",
+          "wordCount": 791,
+          "title": "TRONがナスダック上場企業SRMと合併、社名「Tron Inc.」に。ジャスティン・サンはアドバイザリーに就任",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/17143759/14191e4691c19dec03334fcd4e90a446.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=477194",
+          "author": "OtsugaShinya",
+          "description": "ジェミナイとコインベースがEUでのライセンス取得へ 世界最大級の暗号資産（仮想通貨）企業2社が、欧州連合（EU）全域での事業展開を可能とするライセンスの取得に向けて動いていることが、事情に詳しい関係者の話で明らかになった […]",
+          "link": "https://www.neweconomy.jp/posts/477194",
+          "publishedOn": "2025-06-17T05:04:47.000Z",
+          "wordCount": 799,
+          "title": "ジェミナイとコインベースがEUでのライセンス取得か、MiCAライセンスめぐり加盟国間に温度差も",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/17140359/db337a7462310c1cd970e42c42dabe2c.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=477173",
+          "author": "HitomotoToshikazu",
+          "description": "XRP現物ETFの最終目論見書を受理 カナダの資産運用会社パーパスインベストメント（Purpose Investments）が、暗号資産（仮想通貨）エックスアールピー（XRP）の現物価格に連動する上場投資信託（ETF）の […]",
+          "link": "https://www.neweconomy.jp/posts/477173",
+          "publishedOn": "2025-06-17T04:44:56.000Z",
+          "wordCount": 763,
+          "title": "Purpose申請の「XRP現物ETF」、6/18からカナダで取引開始へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/17130149/XRP-250617-PIXTA.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=477139",
           "author": "HitomotoToshikazu",
           "description": "TRUTH SOCIAL BITCOIN AND ETHEREUM ETF申請 ドナルド・トランプ（Donald Trump）米大統領のSNS「トゥルースソーシャル（Truth Social）」が、暗号資産（仮想通貨）ビ […]",
@@ -1513,6 +1643,81 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/eric-trump-denies-tron-us-public-offering-justin-sun",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "トランプ大統領の息子であるエリック・トランプ氏は、ブロックチェーンネットワーク「トロン」の米国上場計画に関与しているとの報道を否定した。一方で、同プロジェクトの創設者ジャスティン・サン氏に対しては肯定的なコメントをした。",
+          "link": "https://jp.cointelegraph.com/news/eric-trump-denies-tron-us-public-offering-justin-sun?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-17T05:55:00.000Z",
+          "wordCount": null,
+          "title": "米大統領次男エリック・トランプ氏　「トロン上場計画への関与」を否定　仮想通貨分野への影響力は拡大中",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzdhM2YtNjUyYi03M2FiLTkxMjMtMzM5MGZkYTkzYmYx.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzdhM2YtNjUyYi03M2FiLTkxMjMtMzM5MGZkYTkzYmYx.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/nasdaq-firm-tron-inc-210m-trx-treasury",
+          "author": "Cointelegraph  Adrian Zmudzinski",
+          "description": "ナスダック上場のSRMエンターテインメントは17日、最大2億1000万ドル規模のトロン財務戦略を展開すると発表した。また、社名を「トロン株式会社（Tron Inc.）」へ変更する方針も明らかにした。",
+          "link": "https://jp.cointelegraph.com/news/nasdaq-firm-tron-inc-210m-trx-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-17T04:40:00.000Z",
+          "wordCount": null,
+          "title": "ナスダック上場企業SRM、社名を「トロン株式会社」に変更へ　最大2億1000万ドル規模のトロン財務戦略を発表",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzc4ZjktNDEyNy03YzkyLWE5NzQtYzI5MmE3ZTBkOTVk.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzc4ZjktNDEyNy03YzkyLWE5NzQtYzI5MmE3ZTBkOTVk.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/el-salvador-buys-240-bitcoin-imf-deal",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "ビットコイン（BTC）を法定通貨として初めて導入した国エルサルバドルが、国際通貨基金（IMF）との14億ドルの融資合意において購入抑制を求められながらも、引き続き仮想通貨の買い増しを行っている。",
+          "link": "https://jp.cointelegraph.com/news/el-salvador-buys-240-bitcoin-imf-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-17T04:10:00.000Z",
+          "wordCount": null,
+          "title": "エルサルバドル　IMF融資後もビットコイン購入　「1日1BTC購入」戦略を継続",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2RiZTQtZTQzZS03NjI2LTk5MmEtNzMwMmU3MGFjM2Iw.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2RiZTQtZTQzZS03NjI2LTk5MmEtNzMwMmU3MGFjM2Iw.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-dips-reports-trump-summon-national-security-council",
+          "author": "Cointelegraph  Martin Young",
+          "description": "ビットコインや仮想通貨市場が一時急落をみせた。中東での緊張が一段と高まる中、米国のドナルド・トランプ大統領が主要国首脳会議を途中で離れ、「すぐにテヘランから退避せよ」とSNSに投稿したことが影響した。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-dips-reports-trump-summon-national-security-council?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-17T03:25:00.000Z",
+          "wordCount": null,
+          "title": "中東情勢の緊迫化でビットコインが一時急落　トランプ氏「すぐにテヘランから退避を」",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmZkYmMtOTU4NS03YTkzLTlkMTgtNWVmNzllNDJjMjI3.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmZkYmMtOTU4NS03YTkzLTlkMTgtNWVmNzllNDJjMjI3.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/kidnappers-release-crypto-trader-because-insufficient-funds",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "仏メディアの報道によると、仮想通貨に関するコンテンツをTikTokで発信しているトレーダーが、6月13日夜にフランスで誘拐された。犯人らは仮想通貨で5万ユーロ（837万円）の身代金を要求したが、被害者に支払い能力がないことがわかると、翌日に解放されたという。",
+          "link": "https://jp.cointelegraph.com/news/kidnappers-release-crypto-trader-because-insufficient-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-17T02:55:00.000Z",
+          "wordCount": null,
+          "title": "仮想通貨TikTok配信者がフランスで誘拐被害　身代金払う能力がなく解放",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzA4N2YtNTE2Zi03MGI1LThlNGItN2ZmZmEzMjU4ODQ5.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzA4N2YtNTE2Zi03MGI1LThlNGItN2ZmZmEzMjU4ODQ5.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/jpmorgan-files-jpmd-trademark-crypto-payment-services",
           "author": "Cointelegraph  Brayden Lindrea",
@@ -2151,6 +2356,96 @@
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
         {
+          "id": "https://crypto-times.jp/?p=137767",
+          "author": "よきょい",
+          "description": "中東の地政学的リスクに対する懸念が後退する中、暗号資産ファンドへの資金流入が9週連続でプラスを記録しました。CoinSharesの最新レポートによると、先週の流入額は19億ドルに達し、年初からの累計流入額は過去最高の13 […]\n投稿 強気相場の証か、機関投資家の暗号資産ファンドへの買い続く は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-institutional-investors-continue-to-buy-crypto-funds-as-bull-market-looms/",
+          "publishedOn": "2025-06-17T06:22:56.000Z",
+          "wordCount": 572,
+          "title": "強気相場の証か、機関投資家の暗号資産ファンドへの買い続く",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_1937599081.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=137727",
+          "author": "よきょい",
+          "description": "フランスの国会議員グループが年間約8000万ユーロに上る廃棄電力を経済的利益に変えるため、ビットコイン（BTC）マイニングの活用を政府に提案しました。 この提案は6月12日にフランス国民議会へ提出されました。フランスは電 […]\n投稿 原発大国フランスがBTCマイニングに活路｜廃棄電力を利益に は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-nuclear-powerhouse-france-turns-to-btc-mining-turning-waste-electricity-into-profits/",
+          "publishedOn": "2025-06-17T06:15:23.000Z",
+          "wordCount": 574,
+          "title": "原発大国フランスがBTCマイニングに活路｜廃棄電力を利益に",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_1129464794.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=137732",
+          "author": "よきょい",
+          "description": "ブロックチェーンプロジェクトのトロンが、米ナスダック上場企業とのリバースマージャーを通じ、米国株式市場への上場を計画していることが明らかになりました。 この計画ではナスダックに上場しているSRMエンターテインメント（SR […]\n投稿 トロンがナスダック上場計画、報道受けTRX7%急騰 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-tron-plans-to-list-on-nasdaq-trx-surges-7-on-news/",
+          "publishedOn": "2025-06-17T06:09:53.000Z",
+          "wordCount": 576,
+          "title": "トロンがナスダック上場計画、報道受けTRX7%急騰",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_1991082815.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=137726",
+          "author": "よきょい",
+          "description": "大手暗号資産取引所のコインベース（Coinbase）とジェミナイ（Gemini）が、EU全域での事業を可能にするライセンスの取得に近づいていると報じられました。しかし、この動きはEUの新たな暗号資産市場規制（MiCA）の […]\n投稿 コインベースのEU進出の裏で、国家間の規制対立が激化 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-coinbases-eu-expansion-sparks-growing-regulatory-conflict/",
+          "publishedOn": "2025-06-17T06:02:52.000Z",
+          "wordCount": 573,
+          "title": "コインベースのEU進出の裏で、国家間の規制対立が激化",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_2461500147-scaled.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=137755",
+          "author": "Crypto Times 編集部",
+          "description": "人気NFTコレクション「BAYC (Bored Ape Yacht Club) 」をモチーフとした横スクロールアクションゲーム「Sewer Shooters」のパブリックベータ版がリリースされました。 Sewer Sho […]\n投稿 BYACモチーフのゲーム「Sewer Shooters」のテスト版がリリース は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bayc-sewer-shooters/",
+          "publishedOn": "2025-06-17T05:52:19.000Z",
+          "wordCount": 643,
+          "title": "BYACモチーフのゲーム「Sewer Shooters」のテスト版がリリース",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2024/09/shutterstock_2101878073-scaled.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=137725",
+          "author": "よきょい",
+          "description": "パキスタンがビットコイン（BTC）を国家の柱とする戦略を本格化させています。ストラテジー社のマイケル・セイラー氏とバイナンス創業者のチャンポン・ジャオ（CZ）氏を顧問に迎え、国を挙げて「戦略的ビットコイン準備金」を創設す […]\n投稿 パキスタンがビットコインを国策に、一方でIMFは強い懸念を表明 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-pakistan-makes-bitcoin-national-policy-but-imf-expresses-strong-concerns/",
+          "publishedOn": "2025-06-17T05:25:41.000Z",
+          "wordCount": 619,
+          "title": "パキスタンがビットコインを国策に、一方でIMFは強い懸念を表明",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_1129276544.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=137724",
+          "author": "よきょい",
+          "description": "米金融大手JPモルガン（JPMorgan）が、デジタル資産の決済サービスに関連する商標「JPMD」を出願しました。 The world’s largest bank, JPMorgan, has filed a trad […]\n投稿 金融最大手がデジタル決済に本腰、JPモルガンが新商標出願 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-jpmorgan-files-new-trademark-application-as-financial-giant-gets-serious-about-digital-payments/",
+          "publishedOn": "2025-06-17T04:51:59.000Z",
+          "wordCount": 609,
+          "title": "金融最大手がデジタル決済に本腰、JPモルガンが新商標出願",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_2405314935.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=137723",
+          "author": "よきょい",
+          "description": "伝統的な株式と債券のポートフォリオに資産の10%をビットコイン（BTC）として組み込むことで、投資効果が大幅に向上するという分析が注目されています。 A little Bitcoin goes a long way. O […]\n投稿 金を超える新たな資産防衛術、ポートフォリオにBTC10%という新常識 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-a-new-asset-defense-method-that-surpasses-gold-the-new-common-sense-of-keeping-10-btc-in-your-portfolio/",
+          "publishedOn": "2025-06-17T03:49:25.000Z",
+          "wordCount": 614,
+          "title": "金を超える新たな資産防衛術、ポートフォリオにBTC10%という新常識",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_2455986461.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=137734",
+          "author": "よきょい",
+          "description": "Xがミームコイン関連の多数のアカウントを理由不明のまま凍結しました。対象にはソラナ基盤の人気発行プラットフォームであるPump.funの公式アカウントも含まれ、市場に動揺が走っています。 この凍結措置は6月17日未明ごろ […]\n投稿 Xの凍結騒動が熱狂を生む、ミームコイン取引高は逆に急増 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-x-freeze-creates-enthusiasm-meme-coin-trading-volume-surges/",
+          "publishedOn": "2025-06-17T03:37:34.000Z",
+          "wordCount": 577,
+          "title": "Xの凍結騒動が熱狂を生む、ミームコイン取引高は逆に急増",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_2336648595.jpg"
+        },
+        {
           "id": "https://crypto-times.jp/?p=137713",
           "author": "アラタ &#124; Shingo Arai",
           "description": "最近、ニュースやSNSで「メタプラネット」という企業の名前を目にする機会が増えていませんか？メタプラネット社は「日本版マイクロストラテジー」とも呼ばれ 、その株価の動向とともに現在、大きな注目を集めています。 「ビットコ […]\n投稿 【株価1800円超え】なぜメタプラネット社は日本経済の未来を賭け、BTC(ビットコイン)を買い続けるのか？ は CRYPTO TIMES に最初に表示されました。",
@@ -2159,6 +2454,16 @@
           "wordCount": 635,
           "title": "【株価1800円超え】なぜメタプラネット社は日本経済の未来を賭け、BTC(ビットコイン)を買い続けるのか？",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_1562159293.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=137733",
+          "author": "よきょい",
+          "description": "ビットコイン（BTC）の価格が6月16日、一時的に割り込んでいた10万8000ドル台を回復しました。中東における地政学的リスクが後退し、市場に安心感が広がったことが主な要因です。 価格は先週イスラエルとイランの対立激化を […]\n投稿 ビットコイン下落は「底打ちサイン」か、専門家が分析する今後の展開 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-is-bitcoins-decline-a-sign-of-bottoming-out-experts-analyze-future-developments/",
+          "publishedOn": "2025-06-16T11:01:25.000Z",
+          "wordCount": 599,
+          "title": "ビットコイン下落は「底打ちサイン」か、専門家が分析する今後の展開",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_740407774.jpg"
         },
         {
           "id": "https://crypto-times.jp/?p=137704",

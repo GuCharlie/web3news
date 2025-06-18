@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-18T21:15:11.386Z</updated>
+    <updated>2025-06-18T21:38:36.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イラン最大仮想通貨取引所から約120億円分不正流出、親イスラエルハッカー集団の仕掛けか]]></title>
+        <id>https://coinpost.jp/?p=626199</id>
+        <link href="https://coinpost.jp/?p=626199"/>
+        <updated>2025-06-18T21:15:03.000Z</updated>
+        <summary type="html"><![CDATA[イラン最大の仮想通貨取引所ノビテックスが親イスラエルハッカー集団による攻撃で8000万ドル以上の資産流出。政権関連金融インフラへの警告も発出。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、10万4000ドル付近で横ばい──FRBは金利を据え置き、成長の鈍化を予測]]></title>
         <id>https://www.coindeskjapan.com/?p=298643</id>
@@ -15,6 +25,26 @@
 ビットコイン、10万4000ドル付近で横ばい──FRBは金利を据え置き、成長の鈍化を予測 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Krisztian Sandor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[株価23%高騰、 米医療企業プレネティクスが30億ドル分ビットコインを購入]]></title>
+        <id>https://coinpost.jp/?p=626194</id>
+        <link href="https://coinpost.jp/?p=626194"/>
+        <updated>2025-06-18T20:55:59.000Z</updated>
+        <summary type="html"><![CDATA[ナスダック上場の医療企業プレネティクスが2000万ドル相当のビットコインを購入。トランプ陣営仮想通貨顧問が助言し、企業財務戦略として採用。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FRB政策金利据え置き、ビットコイン10.5万ドル割れ　サークル株価200ドル突破]]></title>
+        <id>https://coinpost.jp/?p=626189</id>
+        <link href="https://coinpost.jp/?p=626189"/>
+        <updated>2025-06-18T20:40:10.000Z</updated>
+        <summary type="html"><![CDATA[米連邦準備理事会（FOMC）が19日に政策金利を据え置き。ビットコインは10万5000ドルを下回る。パウエル議長は2025年に2回の利下げを予測し、インフレ懸念を表明。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -2149,17 +2179,6 @@ TONベースのプロトコルのAffluent、テレグラムをスーパーアプ
         <summary type="html"><![CDATA[ビットコイン（BTC）が史上最高値圏で推移し、第2四半期だけで30％近い上昇を記録する中、現在の価格水準で「100％ホールドすべき」とする見方が強まっている。]]></summary>
         <author>
             <name>Cointelegraph  William Suberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ドン・キホーテ」運営会社、デジタル社債発行へ──若年層支援に活用]]></title>
-        <id>https://www.coindeskjapan.com/?p=297918</id>
-        <link href="https://www.coindeskjapan.com/297918/"/>
-        <updated>2025-06-14T09:20:41.000Z</updated>
-        <summary type="html"><![CDATA[総合ディスカウントストア「ドン・キホーテ」を運営するパン・パシフィック・インターナショナルホールディングス（PPIH）は6月13日、グループ初となるセキュリティ ...
-「ドン・キホーテ」運営会社、デジタル社債発行へ──若年層支援に活用 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>栃山直樹</name>
         </author>
     </entry>
 </feed>

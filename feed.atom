@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-18T15:17:53.758Z</updated>
+    <updated>2025-06-18T15:43:14.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、50日単純移動平均線のサポートに再挑戦──XRPはドージコインと同様に弱気なモメンタム転換のリスク]]></title>
+        <id>https://www.coindeskjapan.com/?p=298631</id>
+        <link href="https://www.coindeskjapan.com/298631/"/>
+        <updated>2025-06-18T15:21:58.000Z</updated>
+        <summary type="html"><![CDATA[「一度は偶然、二度目は偶然の一致、三度目はトレンド」ということわざが存在する。 この言葉は、現在のビットコイン（BTC）に当てはまる。ビットコイン価格は、今月2 ...
+ビットコイン、50日単純移動平均線のサポートに再挑戦──XRPはドージコインと同様に弱気なモメンタム転換のリスク first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【6/18話題】米上院がステーブルコイン規制「GENIUS法案」可決、AIフュージョンが保有暗号資産の運用事業など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=477539</id>
@@ -2168,16 +2179,6 @@ TONベースのプロトコルのAffluent、テレグラムをスーパーアプ
         <summary type="html"><![CDATA[米コインベースが最新レポートで、現在228社が仮想通貨ビットコインを82万枚保有していると指摘し、こうした財務戦略でシステミックリスクも上昇していると説明した。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムに下押し圧力か　Q3は歴史的に調整局面に　2100ドル台再接近の可能性も]]></title>
-        <id>https://jp.cointelegraph.com/news/eth-price-trend-data-suggests-all-future-dips-are-for-buying</id>
-        <link href="https://jp.cointelegraph.com/news/eth-price-trend-data-suggests-all-future-dips-are-for-buying?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-06-14T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム（ETH）は今週、大きな値動きを見せた。水曜日には15週ぶりの高値となる2879ドルを記録したが、その後急落し、金曜日には2433ドルまで下落した。下げ幅は15％に達した。現在は2600ドルをやや下回る水準で保ち合いの様相を呈しているが、中長期のチャートパターンからは、今後数週間にわたり下押し圧力が続く可能性が示唆されている。]]></summary>
-        <author>
-            <name>Cointelegraph  Biraajmaan Tamuly</name>
         </author>
     </entry>
 </feed>

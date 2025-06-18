@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-17T23:38:57.490Z</updated>
+    <updated>2025-06-18T01:17:32.358Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JPモルガン、コインベースの「Base」ブロックチェーン上にUSD預金トークンを導入]]></title>
+        <id>https://www.coindeskjapan.com/?p=298465</id>
+        <link href="https://www.coindeskjapan.com/298465/"/>
+        <updated>2025-06-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米大手銀行のJPモルガンは、上場暗号資産取引所コインベース（Coinbas）が開発したイーサリアムのレイヤー2ネットワーク「ベース（Base）」上で、パーミッシ ...
+JPモルガン、コインベースの「Base」ブロックチェーン上にUSD預金トークンを導入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Ian Allison</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コインベース、トークン化された株式取引サービスでSECの承認を目指す]]></title>
         <id>https://www.coindeskjapan.com/?p=298435</id>
@@ -1827,26 +1838,6 @@ TONベースのプロトコルのAffluent、テレグラムをスーパーアプ
         <summary type="html"><![CDATA[ビットコイン（BTC）は6月13日のウォール街の取引開始とともに反発し、10万5000ドルを突破した。イスラエルとイランの地政学的な緊張が続く中、市場は今後の展開を慎重に見極めている。]]></summary>
         <author>
             <name>Cointelegraph  William Suberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、イスラエル対イランの地政学的リスクをはね返す　2024年の80％高騰を再現するか？]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-mirrors-80-rally-setup-that-preceded-2024-israel-iran-conflict</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-mirrors-80-rally-setup-that-preceded-2024-israel-iran-conflict?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-06-13T12:58:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は、イスラエルとイランの新たな衝突による売り圧力にもかかわらず、強気派の反発によって上昇の兆しを見せている。この展開は、2024年後半に80％の急騰が始まった際と類似しているとの見方が出ている。]]></summary>
-        <author>
-            <name>Cointelegraph  Yashu Gola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウォルマートとアマゾン　ドル連動型ステーブルコイン発行を検討か＝WSJ報道]]></title>
-        <id>https://jp.cointelegraph.com/news/walmart-amazon-explore-stablecoins-payments</id>
-        <link href="https://jp.cointelegraph.com/news/walmart-amazon-explore-stablecoins-payments?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-06-13T12:25:00.000Z</updated>
-        <summary type="html"><![CDATA[ウォールストリートジャーナルの報道によれば、ウォルマートとアマゾンが、自社ブランドの米ドル連動型ステーブルコインの発行を検討している。規制環境の整備が進むなか、大手小売企業によるステーブルコイン導入の機運が高まりつつある。]]></summary>
-        <author>
-            <name>Cointelegraph  Zoltan Vardai</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-18T10:17:39.578Z</updated>
+    <updated>2025-06-18T10:44:41.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブロックチェーン・グループが182BTCを購入──総保有額は約1億4900万ユーロに]]></title>
+        <id>https://www.coindeskjapan.com/?p=298606</id>
+        <link href="https://www.coindeskjapan.com/298606/"/>
+        <updated>2025-06-18T10:20:00.000Z</updated>
+        <summary type="html"><![CDATA[ユーロネクスト・グロース・パリ上場で、ヨーロッパ初のビットコイン財務戦略企業を自称するブロックチェーン・グループ（The Blockchain Group）は、 ...
+ブロックチェーン・グループが182BTCを購入──総保有額は約1億4900万ユーロに first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Francisco Rodrigues</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[個人投資家は養分？ビットコインで化けるメタプラ株高騰の裏側に迫る]]></title>
         <id>https://crypto-times.jp/?p=137933</id>
@@ -2260,16 +2271,6 @@ TONベースのプロトコルのAffluent、テレグラムをスーパーアプ
 ビットコイン、イランとイスラエルの緊張高まりを受けた下落から約10万6000ドルまで回復 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[現在最注目の仮想通貨関連法案、来週火曜日に米上院で最終採決見込み]]></title>
-        <id>https://coinpost.jp/?p=625291</id>
-        <link href="https://coinpost.jp/?p=625291"/>
-        <updated>2025-06-13T22:30:51.000Z</updated>
-        <summary type="html"><![CDATA[米上院が来週火曜日にステーブルコイン規制法案「GENIUS法」の最終採決を実施。米ドル裏付け義務化や年次監査要件など包括的な規制枠組みを設定する重要法案の行方に注目。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-18T06:23:47.978Z</updated>
+    <updated>2025-06-18T06:51:00.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JPモルガン SECとブロックチェーン移行の影響を協議]]></title>
+        <id>https://jp.cointelegraph.com/news/jpmorgan-sec-discuss-traditional-capital-markets-moving-onchain</id>
+        <link href="https://jp.cointelegraph.com/news/jpmorgan-sec-discuss-traditional-capital-markets-moving-onchain?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-06-18T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[米大手銀行JPモルガン・チェースの幹部が、米証券取引委員会（SEC）の暗号資産タスクフォースと会合を行い、デジタル資産の規制や資本市場のブロックチェーン移行に伴う影響について協議した。]]></summary>
+        <author>
+            <name>Cointelegraph  Brayden Lindrea</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[タイ政府、暗号資産のキャピタルゲイン課税を2029年末まで免除決定]]></title>
         <id>https://www.neweconomy.jp/?p=477507</id>

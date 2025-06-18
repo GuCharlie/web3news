@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-18T22:42:01.096Z</updated>
+    <updated>2025-06-18T23:15:09.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国のビットコインASICメーカー、関税圧力を受け米国での生産開始へ]]></title>
+        <id>https://jp.cointelegraph.com/news/producer-behind-90</id>
+        <link href="https://jp.cointelegraph.com/news/producer-behind-90?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-06-18T22:44:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）マイニング向け専用半導体（ASIC）の大半を生産しているビットメイン（Bitmain）、カナン（Canaan）、マイクロBT（MicroBT）の3社が、米国内での生産に乗り出す計画であるという。]]></summary>
+        <author>
+            <name>Cointelegraph  Adrian Zmudzinski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ビットコインが通貨安のヘッジ手段として普及を拡大」Bitwise最高投資責任者が分析]]></title>
+        <id>https://coinpost.jp/?p=626213</id>
+        <link href="https://coinpost.jp/?p=626213"/>
+        <updated>2025-06-18T22:40:31.000Z</updated>
+        <summary type="html"><![CDATA[Bitwiseの最高投資責任者は、個人投資家は法定通貨の供給量が増大していることに気づき、その対策として仮想通貨ビットコインを購入していると指摘。ゴールドの需要が増加していることにも言及した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ノルウェーの仮想通貨企業K33、最大1,000BTC取得に向けて追加資金を調達へ]]></title>
+        <id>https://jp.cointelegraph.com/news/norwegian-crypto-firm-k33-raising-more-funds-to-buy-up-to-1-000-btc</id>
+        <link href="https://jp.cointelegraph.com/news/norwegian-crypto-firm-k33-raising-more-funds-to-buy-up-to-1-000-btc?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-06-18T22:32:00.000Z</updated>
+        <summary type="html"><![CDATA[ノルウェーの仮想通貨企業K33は18日、最大1,000ビットコイン（BTC）を企業準備資産として購入する計画の一環として、最低8,500万スウェーデンクローナ（約890万ドル）を株式発行によって調達する方針を発表した。]]></summary>
+        <author>
+            <name>Cointelegraph  Adrian Zmudzinski</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北米初のXRP現物ETF、3iQとPurpose Investments両社がトロント証券取引所で開始]]></title>
         <id>https://coinpost.jp/?p=626212</id>

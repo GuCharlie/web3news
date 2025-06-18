@@ -475,6 +475,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=626213",
+          "author": "K.Kobayashi",
+          "description": "Bitwiseの最高投資責任者は、個人投資家は法定通貨の供給量が増大していることに気づき、その対策として仮想通貨ビットコインを購入していると指摘。ゴールドの需要が増加していることにも言及した。",
+          "link": "https://coinpost.jp/?p=626213",
+          "publishedOn": "2025-06-18T22:40:31.000Z",
+          "wordCount": 3240,
+          "title": "「ビットコインが通貨安のヘッジ手段として普及を拡大」Bitwise最高投資責任者が分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/bitcoindollar040221.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/bitcoindollar040221.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=626212",
           "author": "菊谷ルイス",
           "description": "カナダの3iQとPurpose Investmentsが北米初のXRP ETFをトロント証券取引所で開始。ブラジルに次ぐリップルの関連商品となった。",
@@ -1403,6 +1418,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/producer-behind-90",
+          "author": "Cointelegraph  Adrian Zmudzinski",
+          "description": "ビットコイン（BTC）マイニング向け専用半導体（ASIC）の大半を生産しているビットメイン（Bitmain）、カナン（Canaan）、マイクロBT（MicroBT）の3社が、米国内での生産に乗り出す計画であるという。",
+          "link": "https://jp.cointelegraph.com/news/producer-behind-90?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-18T22:44:00.000Z",
+          "wordCount": null,
+          "title": "中国のビットコインASICメーカー、関税圧力を受け米国での生産開始へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDg4MjQtZDQxMi03ZjE5LTg5ZGItZmMyNWYwODgwY2U3.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDg4MjQtZDQxMi03ZjE5LTg5ZGItZmMyNWYwODgwY2U3.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/norwegian-crypto-firm-k33-raising-more-funds-to-buy-up-to-1-000-btc",
+          "author": "Cointelegraph  Adrian Zmudzinski",
+          "description": "ノルウェーの仮想通貨企業K33は18日、最大1,000ビットコイン（BTC）を企業準備資産として購入する計画の一環として、最低8,500万スウェーデンクローナ（約890万ドル）を株式発行によって調達する方針を発表した。",
+          "link": "https://jp.cointelegraph.com/news/norwegian-crypto-firm-k33-raising-more-funds-to-buy-up-to-1-000-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-18T22:32:00.000Z",
+          "wordCount": null,
+          "title": "ノルウェーの仮想通貨企業K33、最大1,000BTC取得に向けて追加資金を調達へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWY2ZWYtMTQwMS03NWIwLThmYzktNmUyMzFjNjNmOGJl.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWY2ZWYtMTQwMS03NWIwLThmYzktNmUyMzFjNjNmOGJl.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/china-central-bank-pledges-expand-international-cbdc",
           "author": "Cointelegraph  Christopher Tepedino",

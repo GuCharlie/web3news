@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-19T20:18:42.842Z</updated>
+    <updated>2025-06-19T20:42:27.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[史上最大級160億件のログイン情報流出が発覚、アップルやフェイスブックなどから＝報道]]></title>
+        <id>https://coinpost.jp/?p=626528</id>
+        <link href="https://coinpost.jp/?p=626528"/>
+        <updated>2025-06-19T20:35:50.000Z</updated>
+        <summary type="html"><![CDATA[サイバーセキュリティ研究チームが160億件のログイン認証情報流出を発見。Apple、Google、Telegramなど主要サービスが対象。情報窃取マルウェアによる被害拡大が懸念される。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーロン・マスク氏のX、投資と取引を「間もなく」開始へ：FT]]></title>
         <id>https://www.coindeskjapan.com/?p=298860</id>

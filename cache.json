@@ -575,6 +575,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=626553",
+          "author": "菊谷ルイス",
+          "description": "米医療技術企業セムラーが19日、ビットコイン戦略責任者にジョー・バーネット氏を任命。2027年末105,000BTC保有の3年計画を発表。",
+          "link": "https://coinpost.jp/?p=626553",
+          "publishedOn": "2025-06-19T22:25:03.000Z",
+          "wordCount": 3251,
+          "title": "米上場セムラー、3年以内に10万BTC超のビットコイン保有目指す",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-2.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=626543",
+          "author": "K.Kobayashi",
+          "description": "イーロン・マスク氏のXは、投資機能の搭載を計画していることがわかった。同社のCEOが計画を明かしたことが報じられており、仮想通貨にも対応するのかに注目が集まっている。",
+          "link": "https://coinpost.jp/?p=626543",
+          "publishedOn": "2025-06-19T22:15:39.000Z",
+          "wordCount": 3244,
+          "title": "イーロン・マスクのX、投資機能を搭載へ　仮想通貨にも対応か＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/X_twitter_0822.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/X_twitter_0822.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=626542",
           "author": "菊谷ルイス",
           "description": "フィデリティが2024年半減期後のビットコイン供給動向を分析。10年以上動かない「古代供給量」が日平均566BTCと新規発行450BTCを初めて上回り、希少性が高まっている。",
@@ -1863,6 +1893,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-weak-hands-sell-15k-btc-at-a-loss-are-btc-lows-under-100k-next",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "ビットコイン（BTC）は今週、比較的静かな動きとなっている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-weak-hands-sell-15k-btc-at-a-loss-are-btc-lows-under-100k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-19T22:25:00.000Z",
+          "wordCount": null,
+          "title": "ビットコインの“弱気筋”、1万5000BTCを損失売却｜次の下値は10万ドル割れか？",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzg4OTgtNzAzZi03YWFkLTgxMzMtOTI0YzEzY2Q5ZjQx.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzg4OTgtNzAzZi03YWFkLTgxMzMtOTI0YzEzY2Q5ZjQx.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/donald-trump-company-reducing-stake-world-liberty-financial",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "米国大統領ドナルド・トランプ氏およびその家族が関与する企業のひとつが、仮想通貨プラットフォーム「ワールド・リバティ・ファイナンシャル（WLF）」での持ち株を過去11日間で減らしたと報じられている。",
+          "link": "https://jp.cointelegraph.com/news/donald-trump-company-reducing-stake-world-liberty-financial?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-19T22:17:00.000Z",
+          "wordCount": null,
+          "title": "トランプ家の関連企業、ワールド・リバティ・ファイナンシャルの持ち株を20％削減＝報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjMxNzMtMmIxNi03NWJmLWEwMzgtMGNjYWM1NDM5MDJi.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjMxNzMtMmIxNi03NWJmLWEwMzgtMGNjYWM1NDM5MDJi.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/16b-passwords-from-apple-facebook-and-google-leaked",
+          "author": "Cointelegraph  Adrian Zmudzinski",
+          "description": "アップル、グーグル、フェイスブックなどの大手オンラインサービスのログイン情報を含む160億件超の大量データが流出したことが分かった。仮想通貨保有者にも深刻な影響を及ぼす恐れがある。",
+          "link": "https://jp.cointelegraph.com/news/16b-passwords-from-apple-facebook-and-google-leaked?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-19T22:01:00.000Z",
+          "wordCount": null,
+          "title": "パスワード16億件の大規模流出　仮想通貨の安全性に懸念",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5NDFiYmQtM2E0Zi03ZjAxLThiMmEtMzI3ZWI1N2YxMDY3.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5NDFiYmQtM2E0Zi03ZjAxLThiMmEtMzI3ZWI1N2YxMDY3.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0619",
           "author": "Cointelegraph  ビットバンク　長谷川友哉",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-19T08:47:44.415Z</updated>
+    <updated>2025-06-19T09:17:33.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ氏のSNS『Truth Social』とは？仮想通貨市場に与える影響とTMTGの戦略]]></title>
+        <id>https://coinpost.jp/?p=624019</id>
+        <link href="https://coinpost.jp/?p=624019"/>
+        <updated>2025-06-19T09:00:53.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨市場への影響力も大きく、トランプ大統領のSNS投稿は注目度が高まっています。本記事ではトランプのSNSと呼ばれるTruth Socialの概要、仮想通貨との関連性などを解説します。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ニッポンアイドルトークン（NIDT）とは？買い方・特徴・将来性を初心者向けに解説]]></title>
         <id>https://coinpost.jp/?p=626089</id>
@@ -2711,16 +2721,6 @@ TONベースのプロトコルのAffluent、テレグラムをスーパーアプ
         <summary type="html"><![CDATA[2025年に入ってから、仮想通貨企業の新規株式公開（IPO）が相次いでいる。5月には、イスラエルの取引所eToroと、デラウェア州に拠点を置く金融サービス企業ギャラクシーデジタルがナスダックに上場。続いて6月5日には、ステーブルコインUSDCの発行元であるサークルが華々しくNYSEに上場し、IPOブームに火を付けた。]]></summary>
         <author>
             <name>Cointelegraph  Marie Poteriaieva</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ大統領　仮想通貨プロジェクトで5700万ドルの収入を申告　ワールド・リバティ・ファイナンシャル関連]]></title>
-        <id>https://jp.cointelegraph.com/news/trump-reports-57m-crypto-income-from-world-liberty-financial</id>
-        <link href="https://jp.cointelegraph.com/news/trump-reports-57m-crypto-income-from-world-liberty-financial?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-06-14T20:55:00.000Z</updated>
-        <summary type="html"><![CDATA[米国のトランプ大統領が、息子のドナルド・ジュニア氏およびエリック氏と共に支援する仮想通貨プロジェクト「ワールド・リバティ・ファイナンシャル」を通じて、5743万ドルの収入を得ていたことが明らかになった。]]></summary>
-        <author>
-            <name>Cointelegraph  Amin Haqshanas</name>
         </author>
     </entry>
 </feed>

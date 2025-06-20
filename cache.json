@@ -595,6 +595,51 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=626613",
+          "author": "S.Ninomiya",
+          "description": "ビットコインは前日比+0.2%の104,560ドルで推移。中東情勢の緊迫化とFRBの高金利継続姿勢が重石となる中、現物市場では売り圧力が優勢に。一方でビットコインETFには5日連続で13.9億ドルが流入し、機関投資家の中・長期的な買い姿勢は堅調だ。",
+          "link": "https://coinpost.jp/?p=626613",
+          "publishedOn": "2025-06-20T02:54:53.000Z",
+          "wordCount": 3252,
+          "title": "ビットコイン10万4000ドル台で推移、現物市場の需要後退も機関投資家は資金流入継続",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/investment-bitcoin-new-balance-sheet.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/investment-bitcoin-new-balance-sheet.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=626612",
+          "author": "菊谷ルイス",
+          "description": "イーサリアムのステーキング量が過去最高の3535万ETHに達し、流通供給量の29%を占める。機関投資家の需要も堅調で、ETF資金流入が19日連続を記録。",
+          "link": "https://coinpost.jp/?p=626612",
+          "publishedOn": "2025-06-20T02:25:50.000Z",
+          "wordCount": 3229,
+          "title": "イーサリアムステーキング数が史上最高に、長期保有拡大で供給圧縮",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/EthereumMining1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/EthereumMining1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=626575",
+          "author": "A.Yamada",
+          "description": "イラン中央銀行が国内仮想通貨取引所の営業時間を制限した。最大手ノビテックスへの親イスラエルサイバー攻撃で131億円が流出したことを受けた措置である。",
+          "link": "https://coinpost.jp/?p=626575",
+          "publishedOn": "2025-06-20T01:40:00.000Z",
+          "wordCount": 3248,
+          "title": "イラン中銀、仮想通貨取引所に営業制限　親イスラエルのサイバー攻撃受け",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/iran-bitcoin_0523.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/iran-bitcoin_0523.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=626565",
           "author": "K.Kobayashi",
           "description": "仮想通貨ビットコインの現物ETFは18日、約3.9億ドルの資金が純流入した。イスラエルとイランの軍事衝突で地政学リスクが高まる中、ビットコインの現物ETFは需要を維持している。",
@@ -1959,6 +2004,21 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/ethereum-bulls-break-2-8k-what-will-trigger-a-violent-move",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "イーサリアム（ETH）の価格は6月11日に4カ月ぶりの高値である2880ドルに達した後、現在は2550ドル付近まで調整している。複数のアナリストによれば、依然として2800ドルの水準が重要なレジスタンスとなっており、これをサポートに転換できれば「激しい上昇」が始まる可能性があると指摘されている。",
+          "link": "https://jp.cointelegraph.com/news/ethereum-bulls-break-2-8k-what-will-trigger-a-violent-move?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-20T02:30:00.000Z",
+          "wordCount": null,
+          "title": "イーサリアム　3000ドル突破に向けた準備は整ったか？　ETF需要やステーキングの増加が追い風",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzg4OTItYWQ2Yy03MzQ1LTliNzMtYzg4YTA5YjNlYTgx.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzg4OTItYWQ2Yy03MzQ1LTliNzMtYzg4YTA5YjNlYTgx.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/kraken-launches-bitcoin-staking-babylon",
           "author": "Cointelegraph  Adrian Zmudzinski",
           "description": "仮想通貨取引所クラーケンは、バビロン・ラボとのプロトコル統合により、新たなビットコイン（BTC）ステーキング商品を立ち上げた。",
@@ -2895,6 +2955,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=137985",
+          "author": "Crypto Times 編集部",
+          "description": "Apple、Facebook、Googleなど世界中の主要なオンラインサービスのログイン情報を含む約160億件の記録が流出していたことが報告されています。専門家はすべてのインターネット利用者に対して、即時のパスワード変更 […]\n投稿 史上最大160億件の情報流出が発覚｜仮想通貨ユーザーも警戒必要か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-the-largest-data-breach-in-history/",
+          "publishedOn": "2025-06-20T02:52:05.000Z",
+          "wordCount": 610,
+          "title": "史上最大160億件の情報流出が発覚｜仮想通貨ユーザーも警戒必要か",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2024/07/shutterstock_2249685481.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=137981",
           "author": "Crypto Times 編集部",

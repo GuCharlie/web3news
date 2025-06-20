@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-20T10:17:27.920Z</updated>
+    <updated>2025-06-20T10:44:39.930Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米アリゾナ州、ビットコイン準備金の創設に一歩前進──法案が上院を通過]]></title>
+        <id>https://www.coindeskjapan.com/?p=299044</id>
+        <link href="https://www.coindeskjapan.com/299044/"/>
+        <updated>2025-06-20T10:20:00.000Z</updated>
+        <summary type="html"><![CDATA[米アリゾナ州は、州上院が法案の第三読会で賛成多数で可決したことで、ビットコイン（BTC）準備金の設立に一歩近づいた。 アリゾナ州上院は6月19日、下院法案232 ...
+米アリゾナ州、ビットコイン準備金の創設に一歩前進──法案が上院を通過 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Jamie Crawley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不動産STOのデジタル証券株式会社が5億円調達──常陽銀行・丸紅など5社から]]></title>
         <id>https://www.coindeskjapan.com/?p=299030</id>
@@ -3589,37 +3600,6 @@ TONベースのプロトコルのAffluent、テレグラムをスーパーアプ
         <summary type="html"><![CDATA[ベトナム国会は6月14日、「デジタル技術産業法」を可決し、仮想通貨を含むデジタル資産を初めて規制の枠組みに取り込んだ。]]></summary>
         <author>
             <name>Cointelegraph  Amin Haqshanas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインのマイニング難易度、過去最高からわずかに低下]]></title>
-        <id>https://jp.cointelegraph.com/news/btc-mining-difficulty-falls-slightly-all-time-high</id>
-        <link href="https://jp.cointelegraph.com/news/btc-mining-difficulty-falls-slightly-all-time-high?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-06-15T22:41:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）のマイニング難易度は、5月31日に過去最高の126.9兆を記録したのち、6月15日の難易度調整でわずかに下落した。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラジル、個人の暗号資産利益に一律17.5％の課税を導入──小規模投資家への免税措置を終了]]></title>
-        <id>https://www.coindeskjapan.com/?p=298003</id>
-        <link href="https://www.coindeskjapan.com/298003/"/>
-        <updated>2025-06-15T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ブラジルは、長年続いてきた暗号資産（仮想通貨）の利益に対する免税措置を廃止し、新たな暫定措置（MP 1303）により、個人のすべての暗号資産の利益に17.5％の ...
-ブラジル、個人の暗号資産利益に一律17.5％の課税を導入──小規模投資家への免税措置を終了 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イスラエル・イラン情勢の緊張下で、セイラー氏がビットコイン購入を示唆]]></title>
-        <id>https://jp.cointelegraph.com/news/saylor-impending-bitcoin-purchase-israel-iran-conflict</id>
-        <link href="https://jp.cointelegraph.com/news/saylor-impending-bitcoin-purchase-israel-iran-conflict?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-06-15T22:24:00.000Z</updated>
-        <summary type="html"><![CDATA[ストラテジー（Strategy）共同創業者のマイケル・セイラー氏は、同社によるビットコイン（BTC）購入を示唆するチャートを投稿した。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
         </author>
     </entry>
 </feed>

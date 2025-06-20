@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-20T22:15:04.039Z</updated>
+    <updated>2025-06-20T22:42:04.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[11万ドル突破後需要鈍化、ビットコイン現物購入が減速＝CryptoQuant]]></title>
+        <id>https://coinpost.jp/?p=626864</id>
+        <link href="https://coinpost.jp/?p=626864"/>
+        <updated>2025-06-20T22:35:38.000Z</updated>
+        <summary type="html"><![CDATA[クリプトクアントが6月19日にビットコイン需要分析を発表。現物需要は成長継続も拡大ペースが減速し、クジラとETFの購入が半減。サポートラインは9万2000ドルと分析。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米ワイオミング州のステーブルコインWYST、パイロットプログラムでAptosとSeiを選定]]></title>
+        <id>https://coinpost.jp/?p=626839</id>
+        <link href="https://coinpost.jp/?p=626839"/>
+        <updated>2025-06-20T21:40:56.000Z</updated>
+        <summary type="html"><![CDATA[ワイオミング州ステーブルコイン委員会が政府発行ステーブルコインWYSTのパイロットプログラムでアプトスなどを選定。32点の最高評価でソラナと並ぶ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ノルウェー政府、仮想通貨採掘の新規設立を一時禁止へ＝報道]]></title>
+        <id>https://coinpost.jp/?p=626836</id>
+        <link href="https://coinpost.jp/?p=626836"/>
+        <updated>2025-06-20T21:00:52.000Z</updated>
+        <summary type="html"><![CDATA[ノルウェー政府が電力集約的な仮想通貨マイニング新設を一時禁止すると発表。電力を他産業に優先配分し、雇用創出効果の低いマイニング事業を制限する方針。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分散型取引所ジュピター　DAOのガバナンス投票を一時停止　スピードと成長を優先し再構築へ]]></title>
         <id>https://jp.cointelegraph.com/news/jupiter-pauses-dao-governance-defi-growth</id>
@@ -14,6 +44,16 @@
         <summary type="html"><![CDATA[ソラナベースの分散型取引所（DEX）ジュピターの最高執行責任者カッシュ・ダンダ氏は、ガバナンス投票の一時停止を発表した。]]></summary>
         <author>
             <name>Cointelegraph  Adrian Zmudzinski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ナカモトとカインドリーMD、ビットコイン戦略強化で75億円追加調達完了]]></title>
+        <id>https://coinpost.jp/?p=626830</id>
+        <link href="https://coinpost.jp/?p=626830"/>
+        <updated>2025-06-20T20:40:19.000Z</updated>
+        <summary type="html"><![CDATA[ナスダック上場のカインドリーMDが72時間以内に75億円の追加資金調達を完了。ナカモトホールディングスとの合併に向けビットコイン購入資金を確保。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -3284,17 +3324,6 @@ XRP現物ETF、今週カナダで取引開始──XRPは7%上昇 first appeared
         <summary type="html"><![CDATA[PPIHがセキュリタイズPFでデジタル社債発行へ 総合ディスカウントストア「ドン・キホーテ」等を運営するパン・パシフィック・インターナショナルホールディングス（PPIH）が、同グループ初のセキュリティトークン社債（デジタ […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TONベースのプロトコルのAffluent、テレグラムをスーパーアプリにすることを目指す]]></title>
-        <id>https://www.coindeskjapan.com/?p=298104</id>
-        <link href="https://www.coindeskjapan.com/298104/"/>
-        <updated>2025-06-16T10:35:00.000Z</updated>
-        <summary type="html"><![CDATA[トン（TON：The Open Network）ベースのマネーマーケット・プロトコルが、メッセージング・プラットフォームのテレグラム（Telegram）を分散型 ...
-TONベースのプロトコルのAffluent、テレグラムをスーパーアプリにすることを目指す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Jamie Crawley</name>
         </author>
     </entry>
 </feed>

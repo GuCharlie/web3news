@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-21T16:46:13.859Z</updated>
+    <updated>2025-06-21T17:12:57.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナに弱気シグナル　チャートはヘッド＆ショルダー形成　120ドルまで下落する恐れも]]></title>
+        <id>https://jp.cointelegraph.com/news/sol-price-drop-to-120-looks-likely-but-there-s-a-silver-lining</id>
+        <link href="https://jp.cointelegraph.com/news/sol-price-drop-to-120-looks-likely-but-there-s-a-silver-lining?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-06-21T16:55:00.000Z</updated>
+        <summary type="html"><![CDATA[ソラナ（SOL）の日足チャートでは、弱気包み足が形成されたことで下落が示唆されており、このトレンドが続けば、価格は120ドルまで下落する恐れがある。]]></summary>
+        <author>
+            <name>Cointelegraph  Biraajmaan Tamuly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRPに利益確定売りの波　過去のサイクルトップと類似する兆候も]]></title>
         <id>https://jp.cointelegraph.com/news/xrp-price-rally-biggest-earners-selling-68-5m-tokens-every-day</id>
@@ -3478,27 +3488,6 @@ XRPのクジラが過去最高の数に──2700超のウォレットが100万X
         <summary type="html"><![CDATA[米大手VCのa16zが発表したAIと仮想通貨の交差点に関する最新レポートを詳しく解説した。アイデンティティ、分散型インフラ、新経済モデルなど11の具体的ユースケースから、実現可能性や今後の課題などを探る。]]></summary>
         <author>
             <name>幸田直子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジェミナイとコインベースがEUでのライセンス取得か、MiCAライセンスめぐり加盟国間に温度差も]]></title>
-        <id>https://www.neweconomy.jp/?p=477194</id>
-        <link href="https://www.neweconomy.jp/posts/477194"/>
-        <updated>2025-06-17T05:04:47.000Z</updated>
-        <summary type="html"><![CDATA[ジェミナイとコインベースがEUでのライセンス取得へ 世界最大級の暗号資産（仮想通貨）企業2社が、欧州連合（EU）全域での事業展開を可能とするライセンスの取得に向けて動いていることが、事情に詳しい関係者の話で明らかになった […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金融最大手がデジタル決済に本腰、JPモルガンが新商標出願]]></title>
-        <id>https://crypto-times.jp/?p=137724</id>
-        <link href="https://crypto-times.jp/news-jpmorgan-files-new-trademark-application-as-financial-giant-gets-serious-about-digital-payments/"/>
-        <updated>2025-06-17T04:51:59.000Z</updated>
-        <summary type="html"><![CDATA[米金融大手JPモルガン（JPMorgan）が、デジタル資産の決済サービスに関連する商標「JPMD」を出願しました。 The world’s largest bank, JPMorgan, has filed a trad […]
-投稿 金融最大手がデジタル決済に本腰、JPモルガンが新商標出願 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
         </author>
     </entry>
 </feed>

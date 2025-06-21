@@ -550,16 +550,6 @@
           "wordCount": 2021,
           "title": "世界のイーサリアム開発者が渋谷に集結、カンファレンスとハッカソンの祭典「ETHTokyo 2025」 が9月開催",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/IMG_0431.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=298196",
-          "author": "廣瀬 優香",
-          "description": "トランプ・メディア・アンド・テクノロジー・グループ（Trump Media and Technology Group）は16日、トゥルース・ソーシャル（Trut ...\nトランプ氏のトゥルース・ソーシャル、ビットコインとイーサリアムの複合ETFを申請 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/298196/",
-          "publishedOn": "2025-06-17T03:00:00.000Z",
-          "wordCount": 1327,
-          "title": "トランプ氏のトゥルース・ソーシャル、ビットコインとイーサリアムの複合ETFを申請",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/38eb9d9690d69d229fe86adec13e20fd0984c3b3-5184x2916-1.jpg"
         }
       ]
     },
@@ -1868,6 +1858,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/xrp-price-rally-biggest-earners-selling-68-5m-tokens-every-day",
+          "author": "Cointelegraph  Yashu Gola",
+          "description": "オンチェーン分析企業グラスノードのデータによれば、2024年11月の高騰以前に0.50ドル以下でXRPを購入したトレーダーたちが現在、1日あたり平均6880万ドル相当の利益を確定している。",
+          "link": "https://jp.cointelegraph.com/news/xrp-price-rally-biggest-earners-selling-68-5m-tokens-every-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-21T15:05:00.000Z",
+          "wordCount": null,
+          "title": "XRPに利益確定売りの波　過去のサイクルトップと類似する兆候も",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzI1MTctNzYwYy03YThiLTllODAtMDRhYzE1YTY0NDE1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzI1MTctNzYwYy03YThiLTllODAtMDRhYzE1YTY0NDE1.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-futures-premium-falls-to-3-month-low-despite-strong-btc-etf-inflows",
           "author": "Cointelegraph  Marcel Pechman",
@@ -3787,21 +3792,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmZkYmMtOTU4NS03YTkzLTlkMTgtNWVmNzllNDJjMjI3.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/kidnappers-release-crypto-trader-because-insufficient-funds",
-          "author": "Cointelegraph  Stephen Katte",
-          "description": "仏メディアの報道によると、仮想通貨に関するコンテンツをTikTokで発信しているトレーダーが、6月13日夜にフランスで誘拐された。犯人らは仮想通貨で5万ユーロ（837万円）の身代金を要求したが、被害者に支払い能力がないことがわかると、翌日に解放されたという。",
-          "link": "https://jp.cointelegraph.com/news/kidnappers-release-crypto-trader-because-insufficient-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-06-17T02:55:00.000Z",
-          "wordCount": null,
-          "title": "仮想通貨TikTok配信者がフランスで誘拐被害　身代金払う能力がなく解放",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzA4N2YtNTE2Zi03MGI1LThlNGItN2ZmZmEzMjU4ODQ5.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzA4N2YtNTE2Zi03MGI1LThlNGItN2ZmZmEzMjU4ODQ5.jpg"
         }
       ]
     },

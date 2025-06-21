@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-21T11:13:35.576Z</updated>
+    <updated>2025-06-21T11:37:26.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Evo Fundによる資金調達の仕組みとは：BTCで動くメタプラネット株価を事例に、希薄化リスクを考える]]></title>
+        <id>https://crypto-times.jp/?p=138113</id>
+        <link href="https://crypto-times.jp/column-how-to-fundraise-about-evofund/"/>
+        <updated>2025-06-21T11:19:25.000Z</updated>
+        <summary type="html"><![CDATA[2024年から2025年にかけて、メタプラネット社の株価急騰をきっかけに、投資ファンド「Evo Fund」の名が市場を賑わせています。彼らが仕掛ける「BTCドーピングによる資金調達スキームと株価上昇」は、時に株価を劇的に […]
+投稿 Evo Fundによる資金調達の仕組みとは：BTCで動くメタプラネット株価を事例に、希薄化リスクを考える は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>アラタ &amp;#124; Shingo Arai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【今日の暗号資産ニュース】ビットコイン下落で大量清算発生、RedditがワールドID活用の噂]]></title>
         <id>https://crypto-times.jp/?p=138067</id>
@@ -3725,16 +3736,6 @@ GENIUS法が可決されれば、ステーブルコインは「インターネ�
         <summary type="html"><![CDATA[香港のミーム・ストラテジーが、仮想通貨ソラナを戦略的財政配分として購入。高速・低コスト取引とステーキング収益を評価し長期保有方針をとる。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1億ドル調達でトロン財務戦略を開始　ナスダック上場企業SRM、社名を「Tron Inc.」へ]]></title>
-        <id>https://coinpost.jp/?p=625719</id>
-        <link href="https://coinpost.jp/?p=625719"/>
-        <updated>2025-06-16T23:20:02.000Z</updated>
-        <summary type="html"><![CDATA[ナスダック上場企業SRM Entertainmentは、1億ドルを調達しトロン財務戦略を開始することを発表。トロン創設者のジャスティン・サンを顧問に迎え入れ、社名をTron Inc.に変更する。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>

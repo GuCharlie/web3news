@@ -625,6 +625,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=626953",
+          "author": "菊谷ルイス",
+          "description": "米テキサスのアボット知事は300法案に署名したが、SB21には署名せず。準備金保護法案HB4488は署名済み。最重要なSB21が6月22日に自動成立見込みだ。",
+          "link": "https://coinpost.jp/?p=626953",
+          "publishedOn": "2025-06-21T02:05:30.000Z",
+          "wordCount": 3203,
+          "title": "テキサス州知事、ビットコインの「準備金保護法案」に署名",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/texas-bitcoin-bill.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/texas-bitcoin-bill.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=626943",
           "author": "A.Yamada",
           "description": "ステーブルコインUSDC発行のサークル社株価が20%上昇した。投資銀行シーポートが買い推奨したことを受けたものだ。金利収益や規制法案の進捗により投資家に注目されている。",
@@ -2088,6 +2103,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-futures-premium-falls-to-3-month-low-despite-strong-btc-etf-inflows",
+          "author": "Cointelegraph  Marcel Pechman",
+          "description": "ビットコイン（BTC）のデリバティブ市場では弱気の兆しが見え始めている。BTC価格は10万3300ドルとなっており、過去最高値からわずか8％下の水準で推移しているにもかかわらず、強気な見方が広がらない異例の状況が続いている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-futures-premium-falls-to-3-month-low-despite-strong-btc-etf-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-21T02:20:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン　10万3000ドル台まで反落　先物プレミアムは3ヶ月ぶりの安値に",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDVkZTAtMTRkMC03NzQ2LTkxYWUtZWM2N2RiMmUwMDM3.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDVkZTAtMTRkMC03NzQ2LTkxYWUtZWM2N2RiMmUwMDM3.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/price-predictions-6-20-btc-eth-xrp-bnb-sol-doge-ada-hype-bch-sui",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "ビットコイン（BTC）は金曜に50日間単純移動平均線（SMA、10万4634ドル）から反発し、20日間指数平滑移動平均線（EMA、10万5590ドル）を上抜けた。ただし、ローソク足の長い上ヒゲが示すように、強気派は高値圏を維持できなかった。",
+          "link": "https://jp.cointelegraph.com/news/price-predictions-6-20-btc-eth-xrp-bnb-sol-doge-ada-hype-bch-sui?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-21T01:55:00.000Z",
+          "wordCount": null,
+          "title": "BTC 10万ドル防衛がカギに　仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzhlNTQtOGM5Yi03ZDE5LTlkMmQtYzg1YjZkMGEyOTAw.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzhlNTQtOGM5Yi03ZDE5LTlkMmQtYzg1YjZkMGEyOTAw.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-capped-at-100k-if-q3-seasonal-data-repeats",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "今週のビットコイン（BTC）はさえない展開が続いているが、世界のマネーサプライの動きに連動すれば、流れが変わる可能性もある。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-capped-at-100k-if-q3-seasonal-data-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-21T01:30:00.000Z",
+          "wordCount": null,
+          "title": "金との比較でリスク資産化が進むビットコイン　FOMC政策と地政学リスクが価格左右か",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzhkZTctNGQzZi03MmQzLWJjYzUtZjE3ZmRlM2Y0ZGNk.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzhkZTctNGQzZi03MmQzLWJjYzUtZjE3ZmRlM2Y0ZGNk.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/norway-government-crypto-mining-ban-energy",
           "author": "Cointelegraph  Turner Wright",

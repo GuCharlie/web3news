@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-22T03:11:38.903Z</updated>
+    <updated>2025-06-22T06:21:56.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今週の主要仮想通貨材料まとめ、北米初のXRP現物ETF上場やソラナETFの上場準備リスト入りなど]]></title>
+        <id>https://coinpost.jp/?p=626586</id>
+        <link href="https://coinpost.jp/?p=626586"/>
+        <updated>2025-06-22T05:00:17.000Z</updated>
+        <summary type="html"><![CDATA[前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナといった主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週刊仮想通貨ニュース｜金持ち父さん著者キヨサキのBTC価格予想やFRBの政策金利据え置きに高い関心]]></title>
         <id>https://coinpost.jp/?p=626929</id>
@@ -3158,17 +3168,6 @@ JPモルガン、コインベースの「Base」ブロックチェーン上にUS
 ビットコイン、10万4000ドル割れ──トランプ氏がイランの無条件降伏を要求 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Tom Carreras</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインキャッシュ/ビットコイン比率、三角保ち合いを突破──HYPE上昇相場は終了か]]></title>
-        <id>https://www.coindeskjapan.com/?p=298414</id>
-        <link href="https://www.coindeskjapan.com/298414/"/>
-        <updated>2025-06-17T16:42:17.000Z</updated>
-        <summary type="html"><![CDATA[上位100位の暗号資産（仮想通貨）の中で過去24時間のパフォーマンスが最も好調なビットコインキャッシュ（BCH）は、ビットコイン（BTC）に対して強気相場入りし ...
-ビットコインキャッシュ/ビットコイン比率、三角保ち合いを突破──HYPE上昇相場は終了か first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
         </author>
     </entry>
 </feed>

@@ -400,16 +400,6 @@
           "wordCount": 1391,
           "title": "ビットコイン、50日単純移動平均線のサポートに再挑戦──XRPはドージコインと同様に弱気なモメンタム転換のリスク",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/37c5323612027ca035f45d035408a06d07866d4d-1024x768-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=298606",
-          "author": "Francisco Rodrigues",
-          "description": "ユーロネクスト・グロース・パリ上場で、ヨーロッパ初のビットコイン財務戦略企業を自称するブロックチェーン・グループ（The Blockchain Group）は、 ...\nブロックチェーン・グループが182BTCを購入──総保有額は約1億4900万ユーロに first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/298606/",
-          "publishedOn": "2025-06-18T10:20:00.000Z",
-          "wordCount": 1357,
-          "title": "ブロックチェーン・グループが182BTCを購入──総保有額は約1億4900万ユーロに",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/shutterstock_1311093857.jpg"
         }
       ]
     },
@@ -1433,6 +1423,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/jan3-samson-mow-bitcoin-adoption-europe-france",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "Jan3の創業者サムソン・モウ氏は、ビットコイン支持を掲げるフランスの政治家サラ・クナフォ氏との建設的な会談を経て、ヨーロッパでの国家レベルのビットコイン導入拡大に向けた意欲を示している。",
+          "link": "https://jp.cointelegraph.com/news/jan3-samson-mow-bitcoin-adoption-europe-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-22T22:30:00.000Z",
+          "wordCount": null,
+          "title": "サムソン・モウ氏、「ヨーロッパ全体にビットコインを」｜フランスから招待受ける",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0ZmEtZGI2Zi03MjFjLWEyNTYtNzIzMjI2MDI0YmI1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0ZmEtZGI2Zi03MjFjLWEyNTYtNzIzMjI2MDI0YmI1.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/texas-creates-bitcoin-reserve-with-public-funds",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "テキサス州知事のグレッグ・アボット氏は、上院法案21号（SB21）に署名し、「テキサス戦略ビットコイン準備基金」の創設を正式に認可した。",
+          "link": "https://jp.cointelegraph.com/news/texas-creates-bitcoin-reserve-with-public-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-22T22:14:00.000Z",
+          "wordCount": null,
+          "title": "テキサス州知事、ビットコインを州の準備資産に加える法案に署名",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDZjZDgtZmRlMS03YjcxLThjNjktZjA1YjU1MjJjMDg0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDZjZDgtZmRlMS03YjcxLThjNjktZjA1YjU1MjJjMDg0.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-price-risks-sub-100k-dive-after-trump-confirms-iran-strikes",
+          "author": "Cointelegraph  William Suberg",
+          "description": "6月22日の週末終値に向け、ビットコイン（BTC）は今月の安値を更新するリスクが高まっている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-price-risks-sub-100k-dive-after-trump-confirms-iran-strikes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-22T22:01:00.000Z",
+          "wordCount": null,
+          "title": "トランプ氏がイラン攻撃を確認｜ビットコイン、10万ドル割れの急落リスク",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzIyMzMtZWVhNS03ZDI0LWJiMWItMzllNGVkNzhiMGJk.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzIyMzMtZWVhNS03ZDI0LWJiMWItMzllNGVkNzhiMGJk.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/crypto-cycle-resembles-2017-macro-data-raoul-pal",
           "author": "Cointelegraph  Ciaran Lyons",

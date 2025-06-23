@@ -440,16 +440,6 @@
           "wordCount": 1340,
           "title": "英国、銀行による暗号資産の取扱い制限を来年に提案へ",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/e0513d0a4817ed047117319c2338d720ea07bb82-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=298571",
-          "author": "CoinDesk JAPAN",
-          "description": "コミュニティ主導のイーサリアムの祭典「EDCON」が万博で賑わう大阪にやってくる。 昨年の東京・渋谷での「EDCON 2024」に続き、「EDCON 2025」 ...\n「EDCON 2025」が万博で賑わう大阪で開催 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/298571/",
-          "publishedOn": "2025-06-19T00:00:00.000Z",
-          "wordCount": 1390,
-          "title": "「EDCON 2025」が万博で賑わう大阪で開催",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/EDCON01.jpg"
         }
       ]
     },
@@ -460,7 +450,7 @@
       "articles": []
     },
     {
-      "title": "QASH(QASH)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "テクニカル分析  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -1560,16 +1550,6 @@
           "wordCount": 594,
           "title": "OKXが欧州でサービス提供開始、ドイツとポーランドで取引所を正式開設",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/19113432/6462b539d17cf9b238265dced86b5f9e.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=477736",
-          "author": "HitomotoToshikazu",
-          "description": "ANAPライトニングキャピタルがビットコイン追加購入 東証スタンダード上場企業のANAPホールディングスが、同社子会社のANAPライトニングキャピタルによるビットコインの追加購入を6月18日に発表した。同社がビットコイン […]",
-          "link": "https://www.neweconomy.jp/posts/477736",
-          "publishedOn": "2025-06-18T23:57:35.000Z",
-          "wordCount": 601,
-          "title": "ANAPが今月3度目のビットコイン追加購入、総保有数約184BTCに",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/19085724/3cf035adb87af24be8037b1a1721e8c9.jpg"
         }
       ]
     },
@@ -1578,6 +1558,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/btchahorumuzu-hai-xia-dong-xiangwo-xunri-zhou-moni-xia-luo-zhou-mingkeno-shi-changha-le-guanka",
+          "author": "Cointelegraph  ビットバンク　長谷川友哉",
+          "description": "16日〜22日のビットコイン（BTC）対円相場の週足終値は、前週比47万7673円（3.13%）安の1480万3364円と下落した。",
+          "link": "https://jp.cointelegraph.com/news/btchahorumuzu-hai-xia-dong-xiangwo-xunri-zhou-moni-xia-luo-zhou-mingkeno-shi-changha-le-guanka?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-23T11:48:22.000Z",
+          "wordCount": null,
+          "title": "BTCはホルムズ海峡動向を巡り週末に下落　週明けの市場は楽観か【仮想通貨分析】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/michael-saylor-s-strategy-premium-is-not-unreasonable-adam-back",
           "author": "Cointelegraph  Ciaran Lyons",

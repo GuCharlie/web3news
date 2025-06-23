@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-23T13:31:53.894Z</updated>
+    <updated>2025-06-23T14:16:36.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ストラテジーがビットコイン追加購入、総保有数59万2,345BTCに]]></title>
+        <id>https://www.neweconomy.jp/?p=478663</id>
+        <link href="https://www.neweconomy.jp/posts/478663"/>
+        <updated>2025-06-23T14:02:08.000Z</updated>
+        <summary type="html"><![CDATA[ストラテジーがBTC追加購入 ビットコイン（BTC）の購入を積極的に進めている米ナスダック上場企業ストラテジー（Strategy）が、BTCの追加購入を6月23日に発表した。 ストラテジーは、6月16日から6月22日まで […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTCはホルムズ海峡動向を巡り週末に下落　週明けの市場は楽観か【仮想通貨分析】]]></title>
         <id>https://jp.cointelegraph.com/news/btchahorumuzu-hai-xia-dong-xiangwo-xunri-zhou-moni-xia-luo-zhou-mingkeno-shi-changha-le-guanka</id>
@@ -2823,16 +2833,6 @@ SOLストラテジーズ、ナスダック上場を申請 first appeared on Coin
         <summary type="html"><![CDATA[ソラナ関連組織SPIは、米SECの仮想通貨タスクフォースに包括的な法的枠組み案を提出。ブロックチェーン上で規制に準拠した資本市場を構築しようとしている。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベース、ステーブルコイン決済「Coinbase Payments」開始]]></title>
-        <id>https://coinpost.jp/?p=626229</id>
-        <link href="https://coinpost.jp/?p=626229"/>
-        <updated>2025-06-19T01:40:55.000Z</updated>
-        <summary type="html"><![CDATA[米仮想通貨取引所コインベースが、Base上でUSDC決済を提供する「Coinbase Payments」を立ち上げた。Shopifyで稼働開始しており、発表後同社の株価は16%上昇した。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-24T11:38:02.986Z</updated>
+    <updated>2025-06-24T12:33:55.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【6/24話題】ぷらっとホームがINTMAXのノード運用、ストラテジーのビットコイン総保有数が59万2,345BTCになど（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=478791</id>
+        <link href="https://www.neweconomy.jp/posts/478791"/>
+        <updated>2025-06-24T12:24:32.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKJ、イーサリアム（ETH）をステーキングサービス銘柄に追加へ]]></title>
+        <id>https://www.neweconomy.jp/?p=478957</id>
+        <link href="https://www.neweconomy.jp/posts/478957"/>
+        <updated>2025-06-24T11:40:04.000Z</updated>
+        <summary type="html"><![CDATA[OKJのステーキングサービスにETH追加へ 国内暗号資産（仮想通貨）取引所OKJが、イーサリアム（ETH）のステーキングサービス提供予定を6月24日に発表した。6月26日17:00より同サービス対応銘柄にETHが追加され […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トルコが仮想通貨規制を強化へ　資金洗浄対策で送金詳細の報告義務などを導入]]></title>
         <id>https://jp.cointelegraph.com/news/turkey-tighten-crypto-oversight-source-purpose-checks</id>
@@ -2669,38 +2689,6 @@ KuCoin、機関投資家向けにウォレットへの事前入金不要の取�
         <summary type="html"><![CDATA[仮想通貨ビットコインの現物ETFは18日、約3.9億ドルの資金が純流入した。イスラエルとイランの軍事衝突で地政学リスクが高まる中、ビットコインの現物ETFは需要を維持している。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アリゾナ州「ビットコイン準備金」法案が復活、僅差で上院可決　下院審議へ]]></title>
-        <id>https://coinpost.jp/?p=626572</id>
-        <link href="https://coinpost.jp/?p=626572"/>
-        <updated>2025-06-20T00:25:25.000Z</updated>
-        <summary type="html"><![CDATA[アリゾナ州でビットコイン準備金法案HB2324が再審議動議により復活。犯罪捜査で押収した仮想通貨による基金創設を目指し、上院16-14僅差で可決後下院へ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BAYC、ステッカーパックコレクションを明日公開]]></title>
-        <id>https://crypto-times.jp/?p=137981</id>
-        <link href="https://crypto-times.jp/news-bayc-to-release-sticker-pack-collection-tomorrow/"/>
-        <updated>2025-06-20T00:01:03.000Z</updated>
-        <summary type="html"><![CDATA[大手NFTプロジェクトBored Ape Yacht Club（BAYC）は公式Xアカウントを通じて「Bored Ape Originals ステッカーパック」を明日公開すると発表しました。 The Bored Ape  […]
-投稿 BAYC、ステッカーパックコレクションを明日公開 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラックロックのトークン化国債ファンド、Crypto.comとデリビットで担保として利用可能に]]></title>
-        <id>https://www.coindeskjapan.com/?p=298885</id>
-        <link href="https://www.coindeskjapan.com/298885/"/>
-        <updated>2025-06-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米国債をトークン化した最大規模のファンドであるブラックロックUSDインスティテューショナル・デジタル・リクイディティ・ファンド（BUIDL）が、最も活発な暗号資 ...
-ブラックロックのトークン化国債ファンド、Crypto.comとデリビットで担保として利用可能に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
         </author>
     </entry>
 </feed>

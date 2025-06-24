@@ -400,16 +400,6 @@
           "wordCount": 1303,
           "title": "SOLストラテジーズ、ナスダック上場を申請",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/5c0e938a63bd5682392e0d0a8dbe881942882e4f-1280x720-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=298860",
-          "author": "林 理南",
-          "description": "イーロン・マスク（Elon Musk）氏のX（旧Twitter）は、Xを「あらゆるものを扱うアプリ」に変革する取り組みを強化している。フィナンシャル・タイムズ（ ...\nイーロン・マスク氏のX、投資と取引を「間もなく」開始へ：FT first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/298860/",
-          "publishedOn": "2025-06-19T16:32:25.000Z",
-          "wordCount": 1306,
-          "title": "イーロン・マスク氏のX、投資と取引を「間もなく」開始へ：FT",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/shutterstock_2596219333.jpg"
         }
       ]
     },
@@ -424,6 +414,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=627536",
+          "author": "菊谷ルイス",
+          "description": "民主党のアダム・シフ上院議員は大統領と副大統領、その家族による仮想通貨関連事業を禁止するCOIN法案を提出。違反には罰金と最大5年の禁錮刑を規定しトランプ大統領の仮想通貨関連事業を牽制する狙いだ。",
+          "link": "https://coinpost.jp/?p=627536",
+          "publishedOn": "2025-06-24T04:30:58.000Z",
+          "wordCount": 3207,
+          "title": "シフ米上院議員が『COIN法案』提出、大統領と家族の仮想通貨事業を禁止する内容",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/trump-coin-dinner.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/trump-coin-dinner.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=627492",
+          "author": "A.Yamada",
+          "description": "米国テキサス州で犯罪関連の仮想通貨やNFTの押収を認める法案SB1498が成立した。先日、ビットコイン準備金設立法案も承認されたところだ。",
+          "link": "https://coinpost.jp/?p=627492",
+          "publishedOn": "2025-06-24T04:00:16.000Z",
+          "wordCount": 3216,
+          "title": "テキサス州、犯罪関連の仮想通貨押収を認める法案が成立",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/texas_bitcoin1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/texas_bitcoin1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=627468",
           "author": "S.Ninomiya",
@@ -1287,6 +1307,46 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=478757",
+          "author": "OtsugaShinya",
+          "description": "アンカレッジが「Uniswap」のAPI採用 機関投資家向けに暗号資産（仮想通貨）の総合プラットフォームを提供するアンカレッジ・デジタル（Anchorage Digital）が、「ユニスワップ・トレーディングAPI（Un […]",
+          "link": "https://www.neweconomy.jp/posts/478757",
+          "publishedOn": "2025-06-24T06:04:18.000Z",
+          "wordCount": 623,
+          "title": "アンカレッジが「Uniswap」のAPI採用、機関投資家にDeFi流動性アクセス提供",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/24150413/657ce9eda27e59ce4d8b9d9ea0364acb.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=478752",
+          "author": "OtsugaShinya",
+          "description": "ぷらっとホームがINTMAXのノード運用開始 ぷらっとホームが、イーサリアム（Ethereum）のレイヤー2ネットワーク「INTMAX（イントマックス）」のブロックプロデューサーとしてノード運用を行うことを6月24日に発 […]",
+          "link": "https://www.neweconomy.jp/posts/478752",
+          "publishedOn": "2025-06-24T06:00:40.000Z",
+          "wordCount": 784,
+          "title": "ぷらっとホーム、「INTMAX」のノード運用開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/24150034/a98e90f67417ccefb3553324e1c85dd1.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=478748",
+          "author": "NewEconomy",
+          "description": "Bitgetがジョージアでサービス提供可能に シンガポール拠点の暗号資産（仮想通貨）デリバティブ取引所ビットゲット（Bitget）が、ジョージア共和国で暗号資産サービスプロバイダー（VASP）ライセンスを取得したと6月1 […]",
+          "link": "https://www.neweconomy.jp/posts/478748",
+          "publishedOn": "2025-06-24T05:57:56.000Z",
+          "wordCount": 740,
+          "title": "Bitget、ジョージアでVASPライセンス取得",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/24145752/7fc9cf83bc93cbb3917a5b9d02d570aa.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=478738",
+          "author": "HitomotoToshikazu",
+          "description": "Méliuzが3度目のBTC購入 ブラジル証券取引所（B3）上場のテクノロジー企業メリウズ（Méliuz）が、3回目となるビットコイン（BTC）の購入を6月23日に発表した。 発表によるとメリウズは6月20日、275.4 […]",
+          "link": "https://www.neweconomy.jp/posts/478738",
+          "publishedOn": "2025-06-24T05:29:50.000Z",
+          "wordCount": 603,
+          "title": "ブラジル証券取引所上場のメリウズ、2,860万ドル相当のBTC購入",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/24142928/BTC-250624PIXTA-2.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=478673",
           "author": "HitomotoToshikazu",
           "description": "SNPIT内で撮影できるコラボ記念NFT販売へ 日本発のSnap to Earnブロックチェーンゲーム「SNPIT」が、トヨタ自動車のモータースポーツ部門トヨタガズーレーシング（TOYOTA GAZOO Racing：T […]",
@@ -1553,6 +1613,66 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/semiconductor-firm-sequans-raise-384m-bitcoin-treasury",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "IoT向け半導体を開発するセクアン・コミュニケーションズが、戦略的なビットコイン（BTC）財務戦略の一環として、3億8400万ドルの資金調達を計画していることが明らかになった。",
+          "link": "https://jp.cointelegraph.com/news/semiconductor-firm-sequans-raise-384m-bitcoin-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-24T05:58:24.000Z",
+          "wordCount": null,
+          "title": "半導体企業セクアン・コミュニケーションズ、戦略的ビットコイン購入のため3億8400万ドルを調達へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzlkODQtMzI4ZC03ZGQ5LWI3ZTEtYTc0ZjQ4ZWQyMDg2.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzlkODQtMzI4ZC03ZGQ5LWI3ZTEtYTc0ZjQ4ZWQyMDg2.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/5-1b-real-estate-firm-cardone-capital-buys-1-000-btc-plans-for-more",
+          "author": "Cointelegraph  Martin Young",
+          "description": "不動産投資家のグラント・カードン氏が、自身の運営するカードン・キャピタルによる初のビットコイン購入を発表し、同社がデジタル資産による財務戦略を導入した最新の企業となった。",
+          "link": "https://jp.cointelegraph.com/news/5-1b-real-estate-firm-cardone-capital-buys-1-000-btc-plans-for-more?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-24T05:32:36.000Z",
+          "wordCount": null,
+          "title": "不動産企業カードン・キャピタルがビットコインを1000BTC購入　デジタル資産戦略へ本格参入",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzliMjUtNTczOC03YTU1LTllZTMtNjEzODc0MzBkZDM3.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzliMjUtNTczOC03YTU1LTllZTMtNjEzODc0MzBkZDM3.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/canaan-us-asic-production-ai-business-exit",
+          "author": "Cointelegraph  Adrian Zmudzinski",
+          "description": "ビットコインマイニング用のASIC（特定用途向け集積回路）を手がける中国のカナン（Canaan）が、米国での試験生産を完了したと発表した。",
+          "link": "https://jp.cointelegraph.com/news/canaan-us-asic-production-ai-business-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-24T04:29:06.000Z",
+          "wordCount": null,
+          "title": "ビットコインマイニング機器大手カナン、米国での試験生産を完了",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljZTUtZDkyNi03NDY1LWE3MTEtMDMzMmFiZTg1NGNi.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljZTUtZDkyNi03NDY1LWE3MTEtMDMzMmFiZTg1NGNi.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/okx-crypto-exhchange-ipo-united-states-relaunch",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "大手仮想通貨取引所OKXが、米国での事業再開を受けて、同国での新規株式公開（IPO）を検討している。",
+          "link": "https://jp.cointelegraph.com/news/okx-crypto-exhchange-ipo-united-states-relaunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-24T03:48:31.000Z",
+          "wordCount": null,
+          "title": "仮想通貨取引所OKX、米国での新規株式公開を検討か＝報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzliY2QtNWY3Mi03OGU2LWI4NjktZDY3ZmYwZDk5Zjhi.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzliY2QtNWY3Mi03OGU2LWI4NjktZDY3ZmYwZDk5Zjhi.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-rebounds-to-106k-amid-middle-east-ceasefire-and-rate-cut-bets",
           "author": "Cointelegraph  Marcel Pechman",
@@ -2775,6 +2895,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=137626",
+          "author": "Crypto Times 編集部",
+          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 ライオン・グループ・ホールディングス・リミテッド（LGHL）は、ATW […]\n投稿 LGHL、6億米ドルの資金枠を確保──BitGoと提携し、Hyperliquid・Solana・Suiを中核とするリザーブ戦略を発表 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/press-lghl-sol-sui/",
+          "publishedOn": "2025-06-24T06:00:12.000Z",
+          "wordCount": 613,
+          "title": "LGHL、6億米ドルの資金枠を確保──BitGoと提携し、Hyperliquid・Solana・Suiを中核とするリザーブ戦略を発表",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/AD_4nXeI5GoG4V6G4BAgeskQsKpPRrDr0nTxnBNTK7x_jDOWVklOxilG2rosxwXszkASqLsOPKDXojdAIgChQ1v9M9KKebhhf9urX2GZBIeJWglhObJxrzM0OM-a.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=138277",
           "author": "Crypto Times 編集部",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-24T21:15:30.165Z</updated>
+    <updated>2025-06-24T21:38:38.950Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米CMEのXRP先物契約、開始1ヶ月で取引高800億円達成　グローバル需要拡大]]></title>
+        <id>https://coinpost.jp/?p=627791</id>
+        <link href="https://coinpost.jp/?p=627791"/>
+        <updated>2025-06-24T21:20:21.000Z</updated>
+        <summary type="html"><![CDATA[CME GroupのXRP先物が取引開始1ヶ月で5.42億ドルの取引高を記録。45%が北米外からの参加で、建玉残高も7050万ドルに成長。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[チェーンリンクとマスターカード提携──約30億人のカード保有者がオンチェーンで暗号資産購入可能に]]></title>
         <id>https://www.coindeskjapan.com/?p=299615</id>
@@ -2096,17 +2106,6 @@ KAIAブロックチェーン、JBAに加入──LINE Mini Dapp好調、日本�
 北朝鮮のハッカー集団は偽の求人応募書類にマルウェアを仕込む──被害者が将来入社する暗号資産企業が標的 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ApeChainのNFT「NightGlyders」が数時間で完売。フロア価格は約2倍に急騰]]></title>
-        <id>https://crypto-times.jp/?p=138020</id>
-        <link href="https://crypto-times.jp/news-apechains-nft-nightglyders-sold-out-in-a-matter-of-hours-floor-price-skyrocketed-to-approximately-double/"/>
-        <updated>2025-06-20T09:36:04.000Z</updated>
-        <summary type="html"><![CDATA[Yuga Labsが支援する独自ブロックチェーン「ApeChain」で、新たに発行されたNFTコレクション「NightGlyders」が販売開始から数時間で完売しました。 このコレクションは日本時間6月19日に3,333 […]
-投稿 ApeChainのNFT「NightGlyders」が数時間で完売。フロア価格は約2倍に急騰 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-24T12:33:55.215Z</updated>
+    <updated>2025-06-24T13:31:06.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナ財団がカザフスタン政府と覚書締結、経済特区開設に続き]]></title>
+        <id>https://www.neweconomy.jp/?p=478962</id>
+        <link href="https://www.neweconomy.jp/posts/478962"/>
+        <updated>2025-06-24T12:36:53.000Z</updated>
+        <summary type="html"><![CDATA[ソラナ財団がMDAIとMOU パブリックブロックチェーンのソラナ（Solana）の開発を支援するソラナ財団（Solana Foundation）が、カザフスタン共和国のデジタル開発・イノベーション・航空宇宙産業省（MDA […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【6/24話題】ぷらっとホームがINTMAXのノード運用、ストラテジーのビットコイン総保有数が59万2,345BTCになど（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=478791</id>
@@ -2679,16 +2689,6 @@ KuCoin、機関投資家向けにウォレットへの事前入金不要の取�
         <summary type="html"><![CDATA[イラン中央銀行が国内仮想通貨取引所の営業時間を制限した。最大手ノビテックスへの親イスラエルサイバー攻撃で131億円が流出したことを受けた措置である。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イスラエル・イラン衝突下でもビットコインETFに8日連続資金が流入　18日は約4億ドルが純流入]]></title>
-        <id>https://coinpost.jp/?p=626565</id>
-        <link href="https://coinpost.jp/?p=626565"/>
-        <updated>2025-06-20T00:50:31.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコインの現物ETFは18日、約3.9億ドルの資金が純流入した。イスラエルとイランの軍事衝突で地政学リスクが高まる中、ビットコインの現物ETFは需要を維持している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-25T23:15:17.493Z</updated>
+    <updated>2025-06-25T23:38:52.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BIS、ステーブルコインは「通貨として失格」｜役割の厳格な制限を要求]]></title>
+        <id>https://jp.cointelegraph.com/news/stablecoins-fail-money-bis-report</id>
+        <link href="https://jp.cointelegraph.com/news/stablecoins-fail-money-bis-report?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-06-25T23:20:14.000Z</updated>
+        <summary type="html"><![CDATA[国際決済銀行（BIS）は、ステーブルコインが通貨としての基本原則を満たしておらず、金融犯罪のリスクや通貨主権への脅威をもたらすとする警告を年次報告書で示した。]]></summary>
+        <author>
+            <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米BTCマイニング企業Bit Digital、ビットコインからイーサリアム戦略へ完全転換]]></title>
+        <id>https://coinpost.jp/?p=628214</id>
+        <link href="https://coinpost.jp/?p=628214"/>
+        <updated>2025-06-25T23:20:10.000Z</updated>
+        <summary type="html"><![CDATA[米ナスダック上場のBit Digitalがビットコインマイニング事業を終了しイーサリアム特化企業へ転換。株式公開売出しでイーサリアム購入資金を調達、世界最大級のステーキングインフラ運営へ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米規制当局、住宅ローンに仮想通貨の活用をファニーメイとフレディマックに要請]]></title>
         <id>https://jp.cointelegraph.com/news/fannie-mae-freddie-mac-recognize-crypto-assets-mortgage-risk-assessments</id>
@@ -2356,17 +2376,6 @@ SOL、XRP、DOGE、週末の10億ドル超の清算後にアルトコインの�
         <summary type="html"><![CDATA[オンチェーン分析企業グラスノードのデータによれば、2024年11月の高騰以前に0.50ドル以下でXRPを購入したトレーダーたちが現在、1日あたり平均6880万ドル相当の利益を確定している。]]></summary>
         <author>
             <name>Cointelegraph  Yashu Gola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evo Fundによる資金調達の仕組みとは：BTCで動くメタプラネット株価を事例に、希薄化リスクを考える]]></title>
-        <id>https://crypto-times.jp/?p=138113</id>
-        <link href="https://crypto-times.jp/column-how-to-fundraise-about-evofund/"/>
-        <updated>2025-06-21T11:19:25.000Z</updated>
-        <summary type="html"><![CDATA[2024年から2025年にかけて、メタプラネット社の株価急騰をきっかけに、投資ファンド「Evo Fund」の名が市場を賑わせています。彼らが仕掛ける「BTCドーピングによる資金調達スキームと株価上昇」は、時に株価を劇的に […]
-投稿 Evo Fundによる資金調達の仕組みとは：BTCで動くメタプラネット株価を事例に、希薄化リスクを考える は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>アラタ &amp;#124; Shingo Arai</name>
         </author>
     </entry>
 </feed>

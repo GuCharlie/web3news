@@ -1337,6 +1337,26 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=479065",
+          "author": "TamuraSeiji",
+          "description": "アービトラムが最新アップグレード「Callisto」を実施 アービトラム（Arbitrum）のレイヤー2ネットワーク「アービトラムワン（Arbitrum One）」と「アービトラムノヴァ（Arbitrum Nova）」が […]",
+          "link": "https://www.neweconomy.jp/posts/479065",
+          "publishedOn": "2025-06-25T06:36:57.000Z",
+          "wordCount": 798,
+          "title": "イーサL2「Arbitrum」、Pectraを統合する「Callisto」へのアップグレード実施",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/25153652/08307e8210c5ff26aa42c6b49353a378.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=479069",
+          "author": "gentosha_takahashi",
+          "description": "クラウドに代わるWeb3インフラ構築目指す アプトスネットワーク（Aptos Network）を開発するアプトスラボ（Aptos Labs）とブロックチェーンインフラ企業のジャンプ・クリプト（Jump Crypto）が、 […]",
+          "link": "https://www.neweconomy.jp/posts/479069",
+          "publishedOn": "2025-06-25T06:28:57.000Z",
+          "wordCount": 781,
+          "title": "Aptos LabsとJump Crypto、高性能ホットストレージ「Shelby」を発表",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/25152748/29f0b9ea1b0dc929c548373e4bde5e6e.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=479060",
           "author": "OtsugaShinya",
           "description": "DEAがJIAから10億円調達 シンガポール拠点でグローバルにGameFiプラットフォーム事業を展開するDigital Entertainment Asset（DEA）が、日本の金融サービス企業ジャパンインベストメントア […]",
@@ -1633,6 +1653,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/norwegian-deep-sea-mining-firm-adopting-bitcoin",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "ノルウェーの海底資源採掘企業グリーンミネラルズは、ビットコイン（BTC）を長期保有する計画を発表し、そのために最大12億ドルの資金調達を目指している。",
+          "link": "https://jp.cointelegraph.com/news/norwegian-deep-sea-mining-firm-adopting-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-25T06:32:36.000Z",
+          "wordCount": null,
+          "title": "ノルウェーの資源採掘企業グリーンミネラルズ、ビットコイン準備資産の構築を発表　12億ドルの調達を計画",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2E1MDYtZmYwMC03ODA5LThmYjUtMWJmZDI5ZTNkZjQy.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2E1MDYtZmYwMC03ODA5LThmYjUtMWJmZDI5ZTNkZjQy.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/polymarket-set-for-200m-raise-1b-valuation-reports",
           "author": "Cointelegraph  Martin Young",

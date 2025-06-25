@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-25T20:18:18.904Z</updated>
+    <updated>2025-06-25T20:42:56.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バークレーズ銀、仮想通貨のクレカ購入を27日から全面禁止]]></title>
+        <id>https://coinpost.jp/?p=628186</id>
+        <link href="https://coinpost.jp/?p=628186"/>
+        <updated>2025-06-25T20:40:41.000Z</updated>
+        <summary type="html"><![CDATA[英バークレーズ銀行が6月27日から仮想通貨のクレジットカード購入を全面禁止。価格変動リスクと消費者保護不備を理由とする一方、マスターカードや米FRBは仮想通貨アクセス拡大を推進。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【6/25話題】DEAがJIAからシリーズAで10億円調達、Aptos LabsとJump Cryptoが高性能ホットストレージ「Shelby」など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=479081</id>
@@ -2256,17 +2266,6 @@ SOL、XRP、DOGE、週末の10億ドル超の清算後にアルトコインの�
 投稿 Solaxyが特別セール実施、ソラナ系ミームコインが5,400万ドル調達 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベース、ライセンス取得で欧州4.5億人市場へ参入]]></title>
-        <id>https://crypto-times.jp/?p=138069</id>
-        <link href="https://crypto-times.jp/news-coinbase-obtains-license-to-enter-european-market-of-450-million-users/"/>
-        <updated>2025-06-21T08:23:17.000Z</updated>
-        <summary type="html"><![CDATA[米国最大手の暗号資産取引所コインベースは、欧州連合（EU）の包括的な暗号資産規制「MiCA（Markets in Crypto-Assets）」に基づくライセンスをルクセンブルクで取得したと発表しました。これにより同社は […]
-投稿 コインベース、ライセンス取得で欧州4.5億人市場へ参入 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
         </author>
     </entry>
 </feed>

@@ -490,10 +490,40 @@
       "articles": []
     },
     {
-      "title": "BinanceCoin(BNB)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=628198",
+          "author": "菊谷ルイス",
+          "description": "インベスコとギャラクシーが25日にソラナETF申請をSECに提出。承認されればCboe BZXで取引開始。専門家は95%の承認確率と予測。",
+          "link": "https://coinpost.jp/?p=628198",
+          "publishedOn": "2025-06-25T21:20:03.000Z",
+          "wordCount": 3218,
+          "title": "インベスコとギャラクシー、ソラナETF申請でSEC承認レース参戦",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/solana-2.0-new.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/solana-2.0-new.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=628192",
+          "author": "菊谷ルイス",
+          "description": "米連邦住宅金融局が住宅ローン審査での仮想通貨資産考慮を指示。ファニーメイ・フレディマックに提案準備命令。トランプ政権の仮想通貨推進政策を反映する代表的な動きだ。",
+          "link": "https://coinpost.jp/?p=628192",
+          "publishedOn": "2025-06-25T20:55:35.000Z",
+          "wordCount": 3218,
+          "title": "米住宅金融局、住宅ローン審査で仮想通貨を資産として評価検討開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/fannie-mae.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/fannie-mae.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=628186",
           "author": "菊谷ルイス",
@@ -2674,16 +2704,6 @@
           "wordCount": 590,
           "title": "【今日の暗号資産ニュース】ビットコイン下落で大量清算発生、RedditがワールドID活用の噂",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_2055211673.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=138148",
-          "author": "Crypto Times 編集部",
-          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 Solaxy（$SOLX、ソラクシー）は、Solana（SOL、ソラナ […]\n投稿 Solaxyが特別セール実施、ソラナ系ミームコインが5,400万ドル調達 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/press-solaxy-54m/",
-          "publishedOn": "2025-06-21T09:38:11.000Z",
-          "wordCount": 575,
-          "title": "Solaxyが特別セール実施、ソラナ系ミームコインが5,400万ドル調達",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/AD_4nXcKcu2CGLcgaOMDhES9Z2adA1crX14yiPSf6CCdlRur3iQp-irx3swS74r-vlxnwaJ2Teu6rHlLBRxmQeGJuOZNmtogUZWNkcL_V6olPZ9wRUUJgzagCWgQ.jpg"
         }
       ]
     }

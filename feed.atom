@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-25T21:15:21.653Z</updated>
+    <updated>2025-06-25T21:39:29.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[インベスコとギャラクシー、ソラナETF申請でSEC承認レース参戦]]></title>
+        <id>https://coinpost.jp/?p=628198</id>
+        <link href="https://coinpost.jp/?p=628198"/>
+        <updated>2025-06-25T21:20:03.000Z</updated>
+        <summary type="html"><![CDATA[インベスコとギャラクシーが25日にソラナETF申請をSECに提出。承認されればCboe BZXで取引開始。専門家は95%の承認確率と予測。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スペースXの株式に連動したトークン、リパブリックから登場：WSJ]]></title>
         <id>https://www.coindeskjapan.com/?p=299830</id>
@@ -15,6 +25,16 @@
 スペースXの株式に連動したトークン、リパブリックから登場：WSJ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Francisco Rodrigues</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米住宅金融局、住宅ローン審査で仮想通貨を資産として評価検討開始]]></title>
+        <id>https://coinpost.jp/?p=628192</id>
+        <link href="https://coinpost.jp/?p=628192"/>
+        <updated>2025-06-25T20:55:35.000Z</updated>
+        <summary type="html"><![CDATA[米連邦住宅金融局が住宅ローン審査での仮想通貨資産考慮を指示。ファニーメイ・フレディマックに提案準備命令。トランプ政権の仮想通貨推進政策を反映する代表的な動きだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -2266,17 +2286,6 @@ SOL、XRP、DOGE、週末の10億ドル超の清算後にアルトコインの�
 投稿 【今日の暗号資産ニュース】ビットコイン下落で大量清算発生、RedditがワールドID活用の噂 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solaxyが特別セール実施、ソラナ系ミームコインが5,400万ドル調達]]></title>
-        <id>https://crypto-times.jp/?p=138148</id>
-        <link href="https://crypto-times.jp/press-solaxy-54m/"/>
-        <updated>2025-06-21T09:38:11.000Z</updated>
-        <summary type="html"><![CDATA[Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 Solaxy（$SOLX、ソラクシー）は、Solana（SOL、ソラナ […]
-投稿 Solaxyが特別セール実施、ソラナ系ミームコインが5,400万ドル調達 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
 </feed>

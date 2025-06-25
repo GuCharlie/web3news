@@ -515,6 +515,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=628211",
+          "author": "菊谷ルイス",
+          "description": "最初のビットコイン購入を実施仮想通貨投資家アンソニー・ポンプリアーノ氏が率いるProCapBTC社が24日、ビットコイン3,724枚を時間加重平均価格103,785ドルで購入したと発表した。前日23日に特別買収目的会社（SPAC）のColu...",
+          "link": "https://coinpost.jp/?p=628211",
+          "publishedOn": "2025-06-25T22:50:37.000Z",
+          "wordCount": 3232,
+          "title": "ポンプリアーノのProCap BTC社、ビットコインを3724BTC購入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/bitcoin-whale-making-more-purchase-.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/bitcoin-whale-making-more-purchase-.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=628201",
           "author": "K.Kobayashi",
           "description": "仮想通貨ビットコインのマイニングのハッシュレートが、15日を境にして急低下している。背景に何があるかは明確ではないが、イスラエルによるイラン攻撃が影響しているのではないかとの見方が上がった。",
@@ -1698,6 +1713,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/fannie-mae-freddie-mac-recognize-crypto-assets-mortgage-risk-assessments",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "連邦住宅金融庁（FHFA）のウィリアム・J・パルテ局長は、2つの政府支援企業に対し、住宅ローンの信用リスク評価に仮想通貨を考慮する準備を進めるよう指示した。",
+          "link": "https://jp.cointelegraph.com/news/fannie-mae-freddie-mac-recognize-crypto-assets-mortgage-risk-assessments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-25T23:02:05.000Z",
+          "wordCount": null,
+          "title": "米規制当局、住宅ローンに仮想通貨の活用をファニーメイとフレディマックに要請",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZiZDYtOGIyZC03M2QwLThhYzAtMWE0YmEyZWFkM2Jh.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZiZDYtOGIyZC03M2QwLThhYzAtMWE0YmEyZWFkM2Jh.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/senator-cynthia-lummia-end-year-crypto-bills",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "シンシア・ルミス上院議員は、CLARITY法案とGENIUS法案が年内に議会を通過し、大統領の署名を受ける準備が整うとの見通しを示した。",
+          "link": "https://jp.cointelegraph.com/news/senator-cynthia-lummia-end-year-crypto-bills?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-25T22:52:00.000Z",
+          "wordCount": null,
+          "title": "米上院議員、仮想通貨関連2法案の2026年成立を目標に設定",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2E4NjAtNzVkOC03Mjg4LWJlYWQtYmY5NWM0YzdiMDE2.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2E4NjAtNzVkOC03Mjg4LWJlYWQtYmY5NWM0YzdiMDE2.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-price-analysis-now-sees-up-to-111k-liquidity-grab-next",
           "author": "Cointelegraph  William Suberg",

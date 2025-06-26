@@ -630,16 +630,6 @@
           "wordCount": 1341,
           "title": "米ドルでなく金に連動のステーブルトークン発行計画：暗号資産評論家",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/shutterstock_2542095297.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=299101",
-          "author": "T. Minamoto",
-          "description": "上院が超党派の広い支持を集めた規制法案が可決され、ステーブルコインは米国の政策関係者の間で注目を集めている。そのような中、ドナルド・トランプ大統領とその家族は、 ...\nステーブルコイン追い風の中、トランプ大統領が関連事業の株式を売却した可能性 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/299101/",
-          "publishedOn": "2025-06-22T00:00:00.000Z",
-          "wordCount": 1358,
-          "title": "ステーブルコイン追い風の中、トランプ大統領が関連事業の株式を売却した可能性",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/c8bfe95b424c430682e7e2761b9bb8d2d70fcee1-3790x2132-2.jpeg"
         }
       ]
     },
@@ -2233,6 +2223,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/stablecoin-licensing-tokenization-hong-kong-crypto-policy",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "香港政府は6月、ステーブルコインの規制と資産のトークン化を柱とする新たなデジタル資産戦略を発表した。これは、同地域を世界的な仮想通貨およびフィンテックのハブにするための取り組みの一環だ。",
+          "link": "https://jp.cointelegraph.com/news/stablecoin-licensing-tokenization-hong-kong-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-26T12:25:18.000Z",
+          "wordCount": null,
+          "title": "香港政府　新たなデジタル資産戦略を発表　ステーブルコインと資産のトークン化に注力　世界的な仮想通貨ハブを目指す",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2EwNjYtODg3Ni03YjkzLTlmYTktMzcyOWM3YWJkZjUz.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2EwNjYtODg3Ni03YjkzLTlmYTktMzcyOWM3YWJkZjUz.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-satoshi-era-miners-sold-just-150-btc-in-2025-amid-all-time-highs",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコイン（BTC）のマイナーは、過去最高値に近い価格にもかかわらず、4月以降に保有量を4000BTC増やしていることが分かった。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-satoshi-era-miners-sold-just-150-btc-in-2025-amid-all-time-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-26T11:55:36.000Z",
+          "wordCount": null,
+          "title": "ビットコインマイナーの保有量が4000BTC増加、価格高騰にもかかわらず売却を控える動き",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTYyNjEtNDllOC03ZjI4LWJlNDctMDA5MTI4M2U1NTM3.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTYyNjEtNDllOC03ZjI4LWJlNDctMDA5MTI4M2U1NTM3.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/metaplanet-bitcoin-holdings-overtakes-tesla-after-latest-1-234-btc-buy",
           "author": "Cointelegraph  Adrian Zmudzinski",

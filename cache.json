@@ -525,6 +525,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=628260",
+          "author": "菊谷ルイス",
+          "description": "ブロックチェーン基盤「Sunrise」が日本のソニー銀行と提携し、金融機関のニーズに対応したブロックチェーンインフラの実証実験を開始。規制遵守、プライバシー、相互運用性を重視した金融グレードのソブリンロールアップ開発を目指す。",
+          "link": "https://coinpost.jp/?p=628260",
+          "publishedOn": "2025-06-26T02:25:28.000Z",
+          "wordCount": 3221,
+          "title": "Sunrise、ソニー銀行と金融機関向けブロックチェーン基盤の実証実験開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/GuVD0FSbQAAZmHN-1.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/GuVD0FSbQAAZmHN-1.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=628244",
+          "author": "菊谷ルイス",
+          "description": "投資プラットフォームRepublicが、イーロン・マスク氏のSpaceX社の株価に連動する仮想通貨トークン「rSpaceX」の販売を開始。最低50ドルから投資可能で、従来アクセス困難だった非公開企業への投資機会を一般投資家に提供。",
+          "link": "https://coinpost.jp/?p=628244",
+          "publishedOn": "2025-06-26T01:55:32.000Z",
+          "wordCount": 3228,
+          "title": "Republic、SpaceX株価追跡の仮想通貨トークン「rSpaceX」を一般投資家向けに販売開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/space-x-bitcoin-write-off.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/space-x-bitcoin-write-off.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=628228",
           "author": "Ritsuki.Kumazawa",
           "description": "Aptos LabsとJump Cryptoが分散型ホットストレージ「Shelby」を発表。クラウド並みの性能でWeb3アプリのデータ基盤を実現。2025年Q4にDevnet公開予定。",
@@ -1477,6 +1507,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=479274",
+          "author": "OtsugaShinya",
+          "description": "ソニー銀行が金融機関における独自ブロックチェーン活用に関する実証実験を開始 ソニー銀行が、規制に準拠したシームレスなweb3サービスの提供に向けた専用ブロックチェーンの活用に関する実証実験を開始することを6月26日に発表 […]",
+          "link": "https://www.neweconomy.jp/posts/479274",
+          "publishedOn": "2025-06-26T02:44:23.000Z",
+          "wordCount": 776,
+          "title": "ソニー銀行とCauchyE、金融機関における独自ブロックチェーンの実証実験、「Sunrise」活用で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/26114406/b47a3d44efc38f29ac700fed016937cf.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=479266",
           "author": "gentosha_takahashi",
           "description": "Fannie MaeとFreddie Macに検討するよう指示 米連邦住宅金融局（FHFA）が、住宅ローン市場を支える政府支援機関（GSE）であるファニーメイ（Fannie Mae）とフレディマック（Freddie Ma […]",
@@ -1823,6 +1863,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-s-next-stop-could-be-120k-btc-analysts-explain-why",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "バイナンスへのBTC流入の急激な減少は、ビットコインが12万ドルまで上昇する可能性に影響を与える可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-s-next-stop-could-be-120k-btc-analysts-explain-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-26T02:49:47.000Z",
+          "wordCount": null,
+          "title": "ビットコインの取引所流入が大幅減少　投資家心理の変化を示唆　BTCは12万ドルまで上昇なるか",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5NDFjMjAtNGI2OC03MDc0LTg4NjMtNDgzOTQzY2E5ZTgw.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5NDFjMjAtNGI2OC03MDc0LTg4NjMtNDgzOTQzY2E5ZTgw.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/stablecoins-fail-money-bis-report",
           "author": "Cointelegraph  Amin Haqshanas",

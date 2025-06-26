@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-26T21:15:10.694Z</updated>
+    <updated>2025-06-26T21:38:40.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[現実資産のトークン化市場、3年間でほぼ5倍に成長]]></title>
+        <id>https://www.coindeskjapan.com/?p=300203</id>
+        <link href="https://www.coindeskjapan.com/300203/"/>
+        <updated>2025-06-26T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[RedStone、Gauntlet、およびRWA.xyzの報告書によると、現実資産（RWA）のトークン化市場は、わずか3年間で380％成長し、今月240億ドル（ ...
+現実資産のトークン化市場、3年間でほぼ5倍に成長 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Jamie Crawley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインの非流動性供給量が1400万BTC超え──強力なHODLトレンドを反映]]></title>
         <id>https://www.coindeskjapan.com/?p=300184</id>
@@ -3000,28 +3011,6 @@ SOL、XRP、DOGE、週末の10億ドル超の清算後にアルトコインの�
 米軍によるイラン核施設空爆で暗号資産ロングポジションが5億9500万ドル相当の清算 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【今日の暗号資産ニュース】米軍空爆でビットコイン大幅下落、イーサリアムETFから大規模な資金流出]]></title>
-        <id>https://crypto-times.jp/?p=138128</id>
-        <link href="https://crypto-times.jp/news-bitcoin-falls-sharply-after-us-airstrikes-ethereum-etf-sees-massive-outflow-of-funds/"/>
-        <updated>2025-06-22T09:30:15.000Z</updated>
-        <summary type="html"><![CDATA[6月22日、ビットコイン（BTC）の価格は102,500ドル前後で推移しており、イーサリアム（ETH）は約2,270ドル、ソラナ（SOL）は約134ドルで取引されています。世界の暗号資産時価総額は3.26兆ドルで、ビット […]
-投稿 【今日の暗号資産ニュース】米軍空爆でビットコイン大幅下落、イーサリアムETFから大規模な資金流出 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムの時代は終了か？ETFから大規模な資金流出]]></title>
-        <id>https://crypto-times.jp/?p=138126</id>
-        <link href="https://crypto-times.jp/news-is-ethereums-era-over-massive-exodus-from-etfs/"/>
-        <updated>2025-06-22T09:21:28.000Z</updated>
-        <summary type="html"><![CDATA[米国の現物イーサリアムETF（上場投資信託）は金曜日、5月中旬以来で最大となる1100万ドル超の資金流出を記録。この資金流出や中東情勢の悪化を受けて、イーサリアム（ETH）の価格は2,300ドルを下回る水準で推移していま […]
-投稿 イーサリアムの時代は終了か？ETFから大規模な資金流出 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
         </author>
     </entry>
 </feed>

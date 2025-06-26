@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-26T09:17:58.509Z</updated>
+    <updated>2025-06-26T09:42:33.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ZKsync、Ethereumブロックを35秒で証明する「Airbender」発表]]></title>
+        <id>https://www.neweconomy.jp/?p=479424</id>
+        <link href="https://www.neweconomy.jp/posts/479424"/>
+        <updated>2025-06-26T09:40:50.000Z</updated>
+        <summary type="html"><![CDATA[ZKsyncが新たなゼロ知識証明システム「Airbender」を発表 イーサリアム（Ethereum）レイヤー2ネットワーク「ZKsync」の開発元である「マターラボ（Matter Labs）」が、新たな暗号学的証明器の […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、アルトコイン5銘柄を7月4日に上場廃止へ]]></title>
+        <id>https://coinpost.jp/?p=628408</id>
+        <link href="https://coinpost.jp/?p=628408"/>
+        <updated>2025-06-26T09:27:56.000Z</updated>
+        <summary type="html"><![CDATA[海外の仮想通貨取引所バイナンスは7月4日、StellaやKomodoなど5銘柄の上場廃止を発表。審査基準と今後の方針を解説。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTCは強含むも上昇一服感　トランプ減税法案の行方がカギとなるか【ビットバンク仮想通貨分析】]]></title>
         <id>https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0626</id>

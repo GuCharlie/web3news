@@ -675,6 +675,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=628539",
+          "author": "菊谷ルイス",
+          "description": "NYSE傘下の仮想通貨取引プラットフォームBakktが10億ドルのSEC登録を提出し、ビットコインや他の仮想通貨への投資方針を正式承認。資本調達で事業再生・拡大を目指す。",
+          "link": "https://coinpost.jp/?p=628539",
+          "publishedOn": "2025-06-26T22:55:25.000Z",
+          "wordCount": 3236,
+          "title": "Bakkt、10億ドル調達でビットコイン投資戦略など採用　事業転換目指す",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/08/bakkt_20190821.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/08/bakkt_20190821.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=628534",
           "author": "菊谷ルイス",
           "description": "グレースケール・リサーチが2025年第3四半期のトップ20仮想通貨銘柄リストを更新。アバランチ（AVAX）とモルフォ（MORPHO）を追加し、リド（LDO）とオプティミズム（OP）を除外。",
@@ -2323,6 +2338,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/private-credit-powers-24b-tokenization-market-ethereum-still-dominates-redstone",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "トークン化された現実世界資産（RWA）市場の規模は現在240億ドルに達しており、プライベートクレジットと米国債が中心を占めている。",
+          "link": "https://jp.cointelegraph.com/news/private-credit-powers-24b-tokenization-market-ethereum-still-dominates-redstone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-26T23:05:34.000Z",
+          "wordCount": null,
+          "title": "プライベートクレジットが240億ドルのトークン化市場を牽引、依然イーサリアムが主導＝レッドストーン",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FkMTUtMzkxNC03ZmQyLWJkMmEtNGFkODA3MGE2NDA4.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FkMTUtMzkxNC03ZmQyLWJkMmEtNGFkODA3MGE2NDA4.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/judge-denies-ripple-sec-request-reverse-rulings",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "アナリサ・トーレス判事は、米証券取引委員会（SEC）の規制方針が変わったとしても、リップルには依然として連邦証券法を遵守する義務があると述べた。",
+          "link": "https://jp.cointelegraph.com/news/judge-denies-ripple-sec-request-reverse-rulings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-26T22:46:51.000Z",
+          "wordCount": null,
+          "title": "米裁判所、リップルとSECの1億2,500万ドル制裁軽減の共同要請を却下",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FjNjgtYjc3ZC03NzZlLWE1ODctNmFiNDFhNWMwZmNm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FjNjgtYjc3ZC03NzZlLWE1ODctNmFiNDFhNWMwZmNm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/eu-softer-tone-foreign-stablecoins-industry-win",
           "author": "Cointelegraph  Helen Partz",

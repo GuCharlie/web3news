@@ -1993,36 +1993,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/trump-btc-usa2.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/trump-btc-usa2.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=627127",
-          "author": "CoinPost編集部",
-          "description": "イラン国会がホルムズ海峡封鎖を承認したとの報道を受け、ビットコインが一時10万ドルの大台を割り込む急落を記録。原油価格高騰による景気後退懸念が仮想通貨市場を直撃した。デリバティブ市場ではショートポジション増加が目立つ一方、バックワーデーション発生で現物需要超過も確認。過去の地政学リスク時にはBTC価格上昇の傾向もあり、今後の制裁措置動向が市場の方向性を左右する重要なポイントとなっている。",
-          "link": "https://coinpost.jp/?p=627127",
-          "publishedOn": "2025-06-23T01:26:22.000Z",
-          "wordCount": 3220,
-          "title": "ビットコイン一時10万ドル割れ、イラン・ホルムズ海峡封鎖報道が影響｜仮想NISHI",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0556.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0556.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=627107",
-          "author": "A.Yamada",
-          "description": "米テキサス州の知事が、ビットコイン準備金法案「SB21」に署名した。州が時価総額5000億ドル以上の仮想通貨へ投資することを認可するものだ。",
-          "link": "https://coinpost.jp/?p=627107",
-          "publishedOn": "2025-06-23T00:43:40.000Z",
-          "wordCount": 3220,
-          "title": "米テキサス州、ビットコイン準備金設立法案を成立　ニューハンプシャー州に続く",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/BTCTexas1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/BTCTexas1.png"
         }
       ]
     },
@@ -2031,6 +2001,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=479607",
+          "author": "NewEconomyPodcast",
+          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/479607",
+          "publishedOn": "2025-06-27T13:16:18.000Z",
+          "wordCount": 766,
+          "title": "【6/27話題】イーサリアム決済レイヤー「Intmax」がメインネット公開、自動車部品のイクヨが12億円でビットコイン購入へなど（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/27170845/c46011c3f5ae6a96de8cccfeca39d6c2.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=479596",
           "author": "OtsugaShinya",
@@ -2578,6 +2558,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/xrp-price-will-soon-break-out-after-4-month-consolidation",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "XRP（XRP）の価格は3月初旬から2.00ドル〜2.60ドルのレンジ内で推移しており、明確な方向感に欠ける状況が続いている。ただし、いくつかの要因から、この停滞が近く大きなブレイクアウトに転じる可能性が指摘されている。",
+          "link": "https://jp.cointelegraph.com/news/xrp-price-will-soon-break-out-after-4-month-consolidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-27T13:00:19.000Z",
+          "wordCount": null,
+          "title": "XRPにブレイクアウトの予兆　リップルの買収戦略とCME先物が後押し",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzg3MTUtNGYwNS03MDE5LTlhNzAtNGIzN2U2YmY3NDU0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzg3MTUtNGYwNS03MDE5LTlhNzAtNGIzN2U2YmY3NDU0.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-long-term-holders-stack-800-btc-per-month-record-hodl-run",
           "author": "Cointelegraph  William Suberg",

@@ -750,7 +750,7 @@
       "articles": []
     },
     {
-      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "銀行がビットコインとリップルの普及を後押しするか",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -1863,21 +1863,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/kokkai02062.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/kokkai02062.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=627191",
-          "author": "AKIRA.H",
-          "description": "メタプラネットが1111BTC（172億円）を追加購入し、保有量1万1111BTCで世界8位のビットコイン保有企業に。コインベースを上回る快挙。555ミリオン計画で21万BTC目標。",
-          "link": "https://coinpost.jp/?p=627191",
-          "publishedOn": "2025-06-23T04:05:30.000Z",
-          "wordCount": 3246,
-          "title": "メタプラネット、テスラに次ぐビットコイン保有世界8位に　1,111 BTC追加購入で",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/bitcoin_0918-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/bitcoin_0918-1.jpg"
         }
       ]
     },
@@ -2423,6 +2408,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/ethereum-chart-signals-altseason-as-analysts-predict-10k-eth-price-top",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "イーサリアム（ETH）のテクニカル指標は、今後数週間から数カ月の間に急騰が起き、いわゆる「アルトシーズン」の始まりとなる可能性を示している。",
+          "link": "https://jp.cointelegraph.com/news/ethereum-chart-signals-altseason-as-analysts-predict-10k-eth-price-top?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-27T15:57:09.000Z",
+          "wordCount": null,
+          "title": "イーサリアム、1万ドルまで上昇できるか？ チャートが示すアルトシーズン到来の可能性",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2IxOTktM2E2ZC03MzdhLWJhMGYtNWNlYTc1MmQzMDVm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2IxOTktM2E2ZC03MzdhLWJhMGYtNWNlYTc1MmQzMDVm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/xrp-price-will-soon-break-out-after-4-month-consolidation",
           "author": "Cointelegraph  Nancy Lubale",
@@ -4094,36 +4094,6 @@
           "wordCount": 570,
           "title": "リップル(XRP)に反発のサイン？7月は歴史的に最強の月",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_2236802793-1.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=138167",
-          "author": "よきょい",
-          "description": "Web3サイバーセキュリティ企業であるHackenで、秘密鍵が流出する事件が発生しました。同社は原因を「人為的ミス」と説明しCEOが自らの責任を認めています。 Hackenの発表によると、攻撃者はトークンを発行（ミント） […]\n投稿 Web3セキュリティ企業Hacken、自ら警告した脆弱性で秘密鍵が流出｜CEOが責任認める は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-web3-security-company-hacken-reveals-private-keys-due-to-vulnerability-it-warned-about/",
-          "publishedOn": "2025-06-23T04:05:44.000Z",
-          "wordCount": 621,
-          "title": "Web3セキュリティ企業Hacken、自ら警告した脆弱性で秘密鍵が流出｜CEOが責任認める",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_2088640753.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=138165",
-          "author": "よきょい",
-          "description": "米国がイランの核施設へ空爆を実施したことを受け、世界の市場に緊張が走っています。この軍事行動により世界の石油供給の約2割が通過するホルムズ海峡の閉鎖懸念が高まり、原油価格急騰のリスクが浮上しました。 ホルムズ海峡が封鎖さ […]\n投稿 有事のビットコイン買い？イラン空爆下でもBTC価格が安定する理由とは は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-buying-bitcoin-in-times-of-crisis-why-prices-remain-stable-even-under-iran-airstrikes/",
-          "publishedOn": "2025-06-23T03:56:03.000Z",
-          "wordCount": 598,
-          "title": "有事のビットコイン買い？イラン空爆下でもBTC価格が安定する理由とは",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_2531644459.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=138164",
-          "author": "よきょい",
-          "description": "株式会社メタプラネットが新たに1111 BTCを約172.60億円で追加取得したと発表しました。1BTCあたりの取得単価は約1554万円です。今回の購入により、2025年6月23日時点でのビットコイン（BTC）総保有量は […]\n投稿 メタプラネット、172億円相当のビットコインを追加取得｜株価90倍の勢い継続なるか は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-metaplanet-acquires-additional-bitcoin-worth-17-2-billion-yen-will-the-stock-price-rise-90-times/",
-          "publishedOn": "2025-06-23T03:48:21.000Z",
-          "wordCount": 582,
-          "title": "メタプラネット、172億円相当のビットコインを追加取得｜株価90倍の勢い継続なるか",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_1938668590.jpg"
         }
       ]
     }

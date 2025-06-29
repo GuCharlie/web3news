@@ -520,16 +520,6 @@
           "wordCount": 1368,
           "title": "スペースXの株式に連動したトークン、リパブリックから登場：WSJ",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/shutterstock_2409679511.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=299822",
-          "author": "Will Canny",
-          "description": "投資銀行のジェフリーズ（Jefferies）は6月23日の調査報告書で、ビットコイン（BTC）マイニングの収益性は5月に18.2%上昇したと述べた。これは、BT ...\n5月のビットコインマイニングの収益性は約20%上昇：ジェフリーズ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/299822/",
-          "publishedOn": "2025-06-25T10:40:00.000Z",
-          "wordCount": 1346,
-          "title": "5月のビットコインマイニングの収益性は約20%上昇：ジェフリーズ",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/01/shutterstock_772693789.jpg"
         }
       ]
     },
@@ -1598,6 +1588,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/spot-solana-staking-etf-rex-shares-launch-soon-analysts-forecast",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "ETFアナリストのエリック・バルチュナス氏によると、REXシェアーズがSECに提出した最新のソラナ・ステーキングETFの申請内容から判断して、この商品は「いつ発売されてもおかしくない」段階にあるという。",
+          "link": "https://jp.cointelegraph.com/news/spot-solana-staking-etf-rex-shares-launch-soon-analysts-forecast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-06-29T22:24:51.000Z",
+          "wordCount": null,
+          "title": "ソラナ・ステーキングETF、ローンチ間近｜アナリスト「全ての準備整う」",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzA5Y2QtNTk2Mi03Y2FhLWEzNDQtY2QxZjdiMTc1MGY3.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzA5Y2QtNTk2Mi03Y2FhLWEzNDQtY2QxZjdiMTc1MGY3.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-price-will-make-history-with-109k-weekly-monthly-close",
           "author": "Cointelegraph  William Suberg",

@@ -550,16 +550,6 @@
           "wordCount": 1331,
           "title": "アニモカブランズの主力プロジェクト「Moca Network」、デジタルID向けレイヤー1を導入へ",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/5b0efffe5807e4ce8831ac70ef15e1b852ccc1c0-1920x1080-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=300030",
-          "author": "Shaurya Malwa",
-          "description": "コインベース（Coinbase）は、cbADAとcbLTCを通じて、カルダノ（ADA）とライトコイン（LTC）をイーサリアム（Ethereum）レイヤー2ネット ...\nコインベース、ラップされたADAとLTCをBaseに導入──保有者にDeFiの機会を提供 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/300030/",
-          "publishedOn": "2025-06-26T08:20:00.000Z",
-          "wordCount": 1357,
-          "title": "コインベース、ラップされたADAとLTCをBaseに導入──保有者にDeFiの機会を提供",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/shutterstock_2091302218-1.jpg"
         }
       ]
     },
@@ -574,6 +564,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=629369",
+          "author": "菊谷ルイス",
+          "description": "米ストラテジー社は30日夜、6月22日から6月29日の間に総額765億円を投じて、4,980 BTCを購入したことを報告。前週購入数の20倍となった。",
+          "link": "https://coinpost.jp/?p=629369",
+          "publishedOn": "2025-06-30T20:30:49.000Z",
+          "wordCount": 3240,
+          "title": "ストラテジー社、約770億円でビットコイン追加購入　『ラッセルトップ200指数』入りも",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/strategy-lawsuit.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/strategy-lawsuit.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=629250",
           "author": "Ritsuki.Kumazawa",
@@ -2087,21 +2092,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FiNzktZDdkOS03NzgwLTk4YTYtMTYzZmE0NDM1Yzhl.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/us-dollar-lows-iran-israel-bitcoin-uptrend-analysts",
-          "author": "Cointelegraph  Ciaran Lyons",
-          "description": "中東情勢が緊迫する中、米ドルが「安全資産」としての本来の強さを示さず、一方でビットコインが上昇基調にあることが注目されている。アナリストらによれば、ビットコインは過去最高値の11万1970ドルに向けて再び動き出しているという。",
-          "link": "https://jp.cointelegraph.com/news/us-dollar-lows-iran-israel-bitcoin-uptrend-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-06-26T08:29:10.000Z",
-          "wordCount": null,
-          "title": "ビットコインは再び過去最高値に接近　米ドルは「安全資産」としての役割を失いつつあるとの指摘も",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzEzNjgtMDI4OS03ODQwLWFlN2UtZGU3ZDExZWRkMDU1.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzEzNjgtMDI4OS03ODQwLWFlN2UtZGU3ZDExZWRkMDU1.jpg"
         }
       ]
     },

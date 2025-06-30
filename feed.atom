@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-30T22:42:45.870Z</updated>
+    <updated>2025-06-30T23:15:03.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米初のステーキングETFがあす上場、ソラナへの投資機会を提供]]></title>
+        <id>https://jp.cointelegraph.com/news/first-us-staked-crypto-etf-solana-launch</id>
+        <link href="https://jp.cointelegraph.com/news/first-us-staked-crypto-etf-solana-launch?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-06-30T23:11:28.000Z</updated>
+        <summary type="html"><![CDATA[REXシェアーズは今週、米国初となるステーキング対応の仮想通貨ETFを上場させる。これにより、投資家はソラナ（SOL）への直接的なエクスポージャーとステーキング報酬の獲得が可能となる。]]></summary>
+        <author>
+            <name>Cointelegraph  Sam Bourgi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC、ビットワイズ・イーサリアムETFのステーキング承認判断を延期]]></title>
+        <id>https://coinpost.jp/?p=629398</id>
+        <link href="https://coinpost.jp/?p=629398"/>
+        <updated>2025-06-30T23:10:57.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会がビットワイズ社申請のイーサリアムETFのステーキング機能追加提案の承認判断を延期。投資家保護と公正な市場慣行への適合性について追加審査を実施中。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トークン化株式の取引、クラーケン・バイビット・ソラナのDeFiで開始]]></title>
+        <id>https://jp.cointelegraph.com/news/tokenized-stock-trading-live-on-kraken-bybit-and-solana-s-defi-ecosystem</id>
+        <link href="https://jp.cointelegraph.com/news/tokenized-stock-trading-live-on-kraken-bybit-and-solana-s-defi-ecosystem?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-06-30T22:50:25.000Z</updated>
+        <summary type="html"><![CDATA[バックド・ファイナンスのxStocksを通じて、60銘柄以上のトークン化株式の取引がクラーケン、バイビット、ソラナのDeFiエコシステム上で利用可能となった。]]></summary>
+        <author>
+            <name>Cointelegraph  Adrian Zmudzinski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サークル、米国でナショナル・デジタル通貨銀行設立を申請]]></title>
+        <id>https://coinpost.jp/?p=629394</id>
+        <link href="https://coinpost.jp/?p=629394"/>
+        <updated>2025-06-30T22:45:32.000Z</updated>
+        <summary type="html"><![CDATA[米ステーブルコイン発行企業サークルが米通貨監督庁にナショナル・トラスト銀行設立を申請。承認されればUSDC準備金の自己管理と機関投資家向け仮想通貨カストディサービス提供が可能に。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットマイン、イーサリアム企業財務管理プラットフォーム立ち上げに向け2億5,000万ドルを調達]]></title>
         <id>https://jp.cointelegraph.com/news/bitmine-receives-250m-investment-to-fund-its-ethereum-treasury</id>
@@ -14,6 +54,16 @@
         <summary type="html"><![CDATA[ビットマイン・イマージョン・テクノロジーズは、非公開増資を通じて2億5,000万ドルを調達し、イーサリアムを基盤とする企業向け財務管理機能の構築に乗り出した。これにより、従来のビットコイン中心の戦略からの転換が鮮明となっている。]]></summary>
         <author>
             <name>Cointelegraph  Adrian Zmudzinski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨税制改正案、ルミス議員が「大きく美しい法案」へ修正提案]]></title>
+        <id>https://coinpost.jp/?p=629390</id>
+        <link href="https://coinpost.jp/?p=629390"/>
+        <updated>2025-06-30T22:25:32.000Z</updated>
+        <summary type="html"><![CDATA[シンシア・ルミス上院議員がトランプ大統領一推しの予算調整法案に仮想通貨税制改正修正案を提出。300ドル未満取引免税とマイニング・ステーキング報酬の二重課税解消を目指す。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -617,6 +667,17 @@ DEXのビットコイントレーダーはプットオプションで下落に�
         <summary type="html"><![CDATA[ジョルディ・ヴィッサー氏は、25歳以下の若者を中心とした現行金融システムへの不満の高まりが、ビットコイン（BTC）の採用拡大につながると主張している。]]></summary>
         <author>
             <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン関連銘柄 本命はこの2つ、次の$SHIB候補か]]></title>
+        <id>https://crypto-times.jp/?p=138854</id>
+        <link href="https://crypto-times.jp/press-memecoins-btc/"/>
+        <updated>2025-06-29T23:02:13.000Z</updated>
+        <summary type="html"><![CDATA[Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 トランプ大統領による仲介で、停戦が続いているイランとイスラエルの状況を […]
+投稿 ビットコイン関連銘柄 本命はこの2つ、次の$SHIB候補か は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
         </author>
     </entry>
     <entry>
@@ -2105,50 +2166,6 @@ XRPのボラティリティ指標が昨年11月以来の低水準に first appea
         <summary type="html"><![CDATA[日本最大のビットコイン保有企業であるメタプラネットは、1234BTCを追加購入したことを木曜に発表した。これにより、同社の保有量は合計1万2345BTCに達した。]]></summary>
         <author>
             <name>Cointelegraph  Adrian Zmudzinski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインチャートに現れた「ブルフラッグ」は14万ドルへの上昇を示唆している：テクニカル分析]]></title>
-        <id>https://www.coindeskjapan.com/?p=300151</id>
-        <link href="https://www.coindeskjapan.com/300151/"/>
-        <updated>2025-06-26T11:10:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）の価格チャートは、明確な「ブルフラッグ（強気の旗）」を形成しており、一部のトレーダーが予想する14万ドルを超える価格急騰による新たな史上最 ...
-ビットコインチャートに現れた「ブルフラッグ」は14万ドルへの上昇を示唆している：テクニカル分析 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【今日の暗号資産ニュース】取引所流入ビットコインが減少、EUがステーブルコイン規制を緩和]]></title>
-        <id>https://crypto-times.jp/?p=138435</id>
-        <link href="https://crypto-times.jp/news-bitcoin-inflows-to-exchanges-fall-and-eu-eases-stablecoin-regulations/"/>
-        <updated>2025-06-26T10:51:41.000Z</updated>
-        <summary type="html"><![CDATA[6月26日、ビットコイン（BTC）の価格は107,400ドル前後で推移しており、イーサリアム（ETH）は約2,450ドル、ソラナ（SOL）は約143ドルで取引されています。世界の暗号資産時価総額は3.41兆ドルで、ビット […]
-投稿 【今日の暗号資産ニュース】取引所流入ビットコインが減少、EUがステーブルコイン規制を緩和 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リミックスポイント新社長、暗号資産取引所ビットポイント前社長・田代氏が就任]]></title>
-        <id>https://www.coindeskjapan.com/?p=300144</id>
-        <link href="https://www.coindeskjapan.com/300144/"/>
-        <updated>2025-06-26T10:46:35.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）保有戦略を強めるリミックスポイントは6月26日、同日開催の定時株主総会および取締役会を経て、SBIグループの暗号資産取引所ビットポイントジ ...
-リミックスポイント新社長、暗号資産取引所ビットポイント前社長・田代氏が就任 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ大統領のDeFiプロジェクト「WLFI」が本格始動]]></title>
-        <id>https://crypto-times.jp/?p=138433</id>
-        <link href="https://crypto-times.jp/news-president-trumps-defi-project-wlfi-is-now-fully-underway/"/>
-        <updated>2025-06-26T10:45:11.000Z</updated>
-        <summary type="html"><![CDATA[ドナルド・トランプ米大統領が一部を所有するDeFiプロジェクト「World Liberty Financial」は、同社のガバナンストークンWLFIの送金を可能にする計画を発表しました。 You asked to mak […]
-投稿 トランプ大統領のDeFiプロジェクト「WLFI」が本格始動 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
         </author>
     </entry>
 </feed>

@@ -420,16 +420,6 @@
           "wordCount": 1321,
           "title": "最新のマクロデータ発表でナスダックは史上最高値を更新──ビットコインと金には引き続き圧力",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/N0cf6ef2454fd60f067c1520dd923f735c902864b-1438x867-1.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=300417",
-          "author": "James Van Straten",
-          "description": "機関投資家向け貸付および流動性サービスを提供するビットコイン・トレジャリー・コーポレーション（Bitcoin Treasury Corporation）は、43 ...\nビットコイン・トレジャリー・コーポレーションが292BTCを購入──トロントで上場、まもなく取引開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/300417/",
-          "publishedOn": "2025-06-27T10:25:00.000Z",
-          "wordCount": 1380,
-          "title": "ビットコイン・トレジャリー・コーポレーションが292BTCを購入──トロントで上場、まもなく取引開始",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/11/shutterstock_2464053619.jpg"
         }
       ]
     },
@@ -444,6 +434,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=629715",
+          "author": "菊谷ルイス",
+          "description": "ナスダック上場のWebusがリップル・ストラテジー・ホールディングスと1億ドルの資金調達契約を締結。仮想通貨XRPを活用した事業戦略推進により株価が日中130％上昇も最終的には8%反落。",
+          "link": "https://coinpost.jp/?p=629715",
+          "publishedOn": "2025-07-01T22:25:58.000Z",
+          "wordCount": 3241,
+          "title": "XRP戦略推進へ、ナスダック上場のWebusが1億ドル調達合意",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/ripple-xrp-new-new.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/ripple-xrp-new-new.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=629705",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨運用企業Bitwiseは、2025年の10の予測に対する中間評価を公開。ビットコインが20万ドルに到達するとの予測は維持することなどを記載した。",
+          "link": "https://coinpost.jp/?p=629705",
+          "publishedOn": "2025-07-01T22:15:17.000Z",
+          "wordCount": 3245,
+          "title": "「ビットコイン20万ドル到達の見通しは維持」Bitwise、2025年予測を中間評価",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/cryptotopmarket1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/cryptotopmarket1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=629704",
+          "author": "菊谷ルイス",
+          "description": "ストラテジーの株価は純資産価値（NAV）を大きく上回って推移。継続的な株式発行が1株あたりのBTC保有を押し上げる構造が、投資家の注目を集めている。アナリストはその持続性とリスクに着目している。",
+          "link": "https://coinpost.jp/?p=629704",
+          "publishedOn": "2025-07-01T21:50:10.000Z",
+          "wordCount": 3245,
+          "title": "ストラテジーのビットコイン循環戦略、NAV超プレミアムを正当化か＝TD Cowen分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/microstrategy-back-in-action-_.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/microstrategy-back-in-action-_.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=629697",
           "author": "菊谷ルイス",
@@ -1508,6 +1543,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/us-considers-simplified-path-to-market-crypto-etfs",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "米証券取引委員会（SEC）は、一部の仮想通貨ETFについて上場手続きを簡素化する案を検討していると報じられている。",
+          "link": "https://jp.cointelegraph.com/news/us-considers-simplified-path-to-market-crypto-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-01T22:26:48.000Z",
+          "wordCount": null,
+          "title": "米SEC、仮想通貨ETFに簡略化された上場手続きを検討か",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWE3ODQtNmJmNC03MTc1LWEyZGUtMDQwMTZhYjdmNTkz.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWE3ODQtNmJmNC03MTc1LWEyZGUtMDQwMTZhYjdmNTkz.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/senate-budget-bill-amendment-crypto-taxes",
           "author": "Cointelegraph  Turner Wright",

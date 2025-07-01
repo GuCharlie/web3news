@@ -1462,6 +1462,36 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=480195",
+          "author": "gentosha_takahashi",
+          "description": "規制対応や新政権のステーブルコイン方針が影響か 韓国の中央銀行である韓国銀行（BOK）は、今年第4四半期に予定されていた中央銀行デジタル通貨（CBDC）試験プログラムの第2フェーズ準備を一時停止したようだ。シンガポールの […]",
+          "link": "https://www.neweconomy.jp/posts/480195",
+          "publishedOn": "2025-07-01T06:46:31.000Z",
+          "wordCount": 731,
+          "title": "韓国銀行、CBDCプロジェクト試験プログラム第2フェーズの準備を一時停止＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/01154620/57ec58d57a249c2f3986c3d1cb3bc449.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=480188",
+          "author": "OtsugaShinya",
+          "description": "ビットポイントが「NIGHT」エアドロを検討開始 国内暗号資産（仮想通貨）取引所BITPOINT（ビットポイント）が、「Midnight（ミッドナイト）」ブロックチェーンのネイティブトークン「NIGHT」のエアドロップ「 […]",
+          "link": "https://www.neweconomy.jp/posts/480188",
+          "publishedOn": "2025-07-01T06:38:39.000Z",
+          "wordCount": 739,
+          "title": "ビットポイント、「NIGHT」エアドロに向けMidnight財団と連携開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/01153832/36304f1935df1ba404a17003885c0b3e.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=480179",
+          "author": "gentosha_takahashi",
+          "description": "USDC運営基盤を拡大へ 米サークル（Circle Internet Financial）が、通貨監督局（OCC）に、信託銀行「ファースト・ナショナル・デジタル・カンレンシー・バンク（First National Dig […]",
+          "link": "https://www.neweconomy.jp/posts/480179",
+          "publishedOn": "2025-07-01T06:28:39.000Z",
+          "wordCount": 757,
+          "title": "サークル、OCCに全米信託銀行「First National Digital Currency Bank」の設立を申請",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/01152831/333c92320e2629f54c3a3ed0e1a8574f.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=480124",
           "author": "HitomotoToshikazu",
           "description": "ストラテジーがBTC追加購入 ビットコイン（BTC）の購入を積極的に進めている米ナスダック上場企業ストラテジー（Strategy）が、BTCの追加購入を6月30日に発表した。 ストラテジーは、6月23日から6月29日まで […]",
@@ -1728,6 +1758,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/kazakhstan-establishes-a-national-crypto-reserve",
+          "author": "Cointelegraph  Adrian Zmudzinski",
+          "description": "現地の政府系メディアのカジンフォルムによれば、中央銀行であるカザフスタン国立銀行は、国家管理による仮想通貨準備金の創設を計画している。",
+          "link": "https://jp.cointelegraph.com/news/kazakhstan-establishes-a-national-crypto-reserve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-01T06:33:41.000Z",
+          "wordCount": null,
+          "title": "カザフスタン中央銀行、仮想通貨準備金の設立を計画",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2MwMTMtYmM0OC03YzI5LTlkZDktYjljYzA3ZTNjYzE3.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2MwMTMtYmM0OC03YzI5LTlkZDktYjljYzA3ZTNjYzE3.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/robinhood-launches-blockchain-stock-trading-in-europe",
           "author": "Cointelegraph  Sam Bourgi",
@@ -2830,6 +2875,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=138865",
+          "author": "Crypto Times 編集部",
+          "description": "米ドルに連動するステーブルコイン「USDC」を発行するCircle（サークル）社が、米国の信託銀行のライセンスを申請したことが明らかになりました。この動きは同社がデジタル資産と従来の金融システムの融合をさらに進めるための […]\n投稿 ステーブルコイン大手Circle、信託銀行ライセンスを申請 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-major-stablecoin-company-circle-applies-for-trust-bank-license/",
+          "publishedOn": "2025-07-01T06:47:41.000Z",
+          "wordCount": 559,
+          "title": "ステーブルコイン大手Circle、信託銀行ライセンスを申請",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2024/08/shutterstock_2472129811.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=138866",
           "author": "Crypto Times 編集部",

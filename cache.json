@@ -530,7 +530,7 @@
       "articles": []
     },
     {
-      "title": "BitcoinCash(BCH)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -1463,21 +1463,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/coinbase-new-pic.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/coinbase-new-pic.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=628494",
-          "author": "菊谷ルイス",
-          "description": "ニューヨーク連邦地裁のトーレス判事が、リップル社とSECが共同申請した差し止め命令解除と1.25億ドル制裁金の60%削減要求を再び却下。両者は5000万ドルをSECに支払い、残額をリップルに返還する和解案を提示していた。",
-          "link": "https://coinpost.jp/?p=628494",
-          "publishedOn": "2025-06-26T20:30:37.000Z",
-          "wordCount": 3235,
-          "title": "米地裁が再び却下、リップルとSECの和解申請",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/ripple-xrp-new-new.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/ripple-xrp-new-new.jpg"
         }
       ]
     },
@@ -1486,6 +1471,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=480237",
+          "author": "gentosha_takahashi",
+          "description": "Binance Pay活用で観光経済強化狙う ブータン王国政府のウォレットは、継続的に暗号資産（仮想通貨）取引所バイナンス（Binance）へビットコイン（BTC）を送金しており、国家レベルでのバイナンス活用が続いている […]",
+          "link": "https://www.neweconomy.jp/posts/480237",
+          "publishedOn": "2025-07-01T08:33:17.000Z",
+          "wordCount": 613,
+          "title": "ブータン政府、バイナンスと観光分野での暗号資産活用を推進。BTC継続送金も確認",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/01173310/aa4b383a8d29f051f9a89de143a8969c.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=480229",
+          "author": "HitomotoToshikazu",
+          "description": "xStocksのトークン化株式が取引可能に バックド（Backed）が提供する株式のトークン化プロダクト「xStocks」がローンチした。バックドが6月30日に発表した。 「xStocks」では、アップル（Apple）、 […]",
+          "link": "https://www.neweconomy.jp/posts/480229",
+          "publishedOn": "2025-07-01T08:26:20.000Z",
+          "wordCount": 810,
+          "title": "バックド提供の株式トークン化プロダクト「xStocks」ローンチ、BybitやKrakenで取引可能に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/01172605/493dbf401290e5b6a7703a5e94f2c593.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=480224",
           "author": "TamuraSeiji",
@@ -1803,6 +1808,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/analysts-tip-95-chance-solana-xrp-litecoin-etf",
+          "author": "Cointelegraph  Martin Young",
+          "description": "仮想通貨ETF分野を専門にカバーするアナリストたちは、ソラナ（SOL）、XRP（XRP）、ライトコイン（LTC）の現物ETFが2025年内に米証券取引委員会（SEC）から承認される確率を95％と予測している。",
+          "link": "https://jp.cointelegraph.com/news/analysts-tip-95-chance-solana-xrp-litecoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-01T08:36:46.000Z",
+          "wordCount": null,
+          "title": "ソラナ、XRP、ライトコインの現物ETF、年内承認の可能性は95％＝ブルームバーグのETFアナリスト",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2MzZDUtYWRlNC03NzU5LWFiN2MtMzIyMmJlYThiNzky.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2MzZDUtYWRlNC03NzU5LWFiN2MtMzIyMmJlYThiNzky.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/jpmorgan-circle-underweight-80-target-late-2026",
           "author": "Cointelegraph  Helen Partz",
@@ -2950,6 +2970,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=138878",
+          "author": "Crypto Times 編集部",
+          "description": "Rippleの開発部門であるRippleXはXRP Ledger（XRPL）のEVM（イーサリアム仮想マシン）互換サイドチェーンがメインネットで正式に稼働したことを発表しました。 1/ The XRPL EVM Side […]\n投稿 リップル、EVM互換チェーンがメインネットで稼働 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-xrpl-evm-side-chain/",
+          "publishedOn": "2025-07-01T08:48:34.000Z",
+          "wordCount": 605,
+          "title": "リップル、EVM互換チェーンがメインネットで稼働",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2564446223-1.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=138879",
           "author": "Crypto Times 編集部",

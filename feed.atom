@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-02T20:16:14.982Z</updated>
+    <updated>2025-07-02T20:40:35.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SEC、グレースケール仮想通貨ETF転換承認を再検討]]></title>
+        <id>https://coinpost.jp/?p=630010</id>
+        <link href="https://coinpost.jp/?p=630010"/>
+        <updated>2025-07-02T20:35:51.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会がグレースケールの仮想通貨信託「Digital Large Cap Fund」のETF転換承認決定を再検討。NYSE Arca上場承認が一時停止状態に。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨のサイバー攻撃にどう備える？｜実例から学ぶ取引所の対策と自己防衛法]]></title>
         <id>https://coinpost.jp/?p=629985</id>

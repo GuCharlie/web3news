@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=301170",
+          "author": "廣瀬 優香",
+          "description": "米証券取引委員会（SEC）が、「グレイスケール・デジタル・ラージキャップ・ファンド（Grayscale Digital Large Cap Fund：GDLC） ...\nSEC、BTC・ETH・SOL・XRP・ADAを含むグレイスケールETFを承認 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/301170/",
+          "publishedOn": "2025-07-02T01:15:00.000Z",
+          "wordCount": 1388,
+          "title": "SEC、BTC・ETH・SOL・XRP・ADAを含むグレイスケールETFを承認",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/e21440bd66266230cde08581d414553299f3bbe4-1420x799-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=301150",
           "author": "Helene Braun",
           "description": "ビットコイン（BTC）は7月1日、米国テック株の弱さが暗号資産（仮想通貨）市場に波及したとみられる中、下落した。 ビットコインは過去24時間で約1%下落し、当記 ...\nビットコイン、記録的な月間終値の後、10万6000ドルまで下落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -434,6 +444,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=629720",
+          "author": "菊谷ルイス",
+          "description": "アジア食品ブランド運営のDDC EnterpriseがNYSE上場企業として最大規模の仮想通貨専用資金調達を実施。Anson Fundsらから総額5億2800万ドルでビットコイン準備金構築へ。",
+          "link": "https://coinpost.jp/?p=629720",
+          "publishedOn": "2025-07-01T22:55:00.000Z",
+          "wordCount": 3254,
+          "title": "NYSE上場DDCが760億円調達完了、ビットコイン準備金戦略を本格始動",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-onchain-activities.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-onchain-activities.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=629715",
           "author": "菊谷ルイス",
@@ -1525,16 +1550,6 @@
           "wordCount": 606,
           "title": "スイスTaurus、プライバシー機能付き「プライベートステーブルコイン契約」導入",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/30081214/a25324d0fb5b128fcdbd8645a1e16392.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=479607",
-          "author": "NewEconomyPodcast",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/479607",
-          "publishedOn": "2025-06-27T13:16:18.000Z",
-          "wordCount": 766,
-          "title": "【6/27話題】イーサリアム決済レイヤー「Intmax」がメインネット公開、自動車部品のイクヨが12億円でビットコイン購入へなど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/27170845/c46011c3f5ae6a96de8cccfeca39d6c2.jpg"
         }
       ]
     },
@@ -2427,66 +2442,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2IxOTktM2E2ZC03MzdhLWJhMGYtNWNlYTc1MmQzMDVm.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/xrp-price-will-soon-break-out-after-4-month-consolidation",
-          "author": "Cointelegraph  Nancy Lubale",
-          "description": "XRP（XRP）の価格は3月初旬から2.00ドル〜2.60ドルのレンジ内で推移しており、明確な方向感に欠ける状況が続いている。ただし、いくつかの要因から、この停滞が近く大きなブレイクアウトに転じる可能性が指摘されている。",
-          "link": "https://jp.cointelegraph.com/news/xrp-price-will-soon-break-out-after-4-month-consolidation?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-06-27T13:00:19.000Z",
-          "wordCount": null,
-          "title": "XRPにブレイクアウトの予兆　リップルの買収戦略とCME先物が後押し",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzg3MTUtNGYwNS03MDE5LTlhNzAtNGIzN2U2YmY3NDU0.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzg3MTUtNGYwNS03MDE5LTlhNzAtNGIzN2U2YmY3NDU0.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/xrp-price-will-soon-break-out-after-4-month-consolidation",
-          "author": "Cointelegraph  Nancy Lubale",
-          "description": "XRP（XRP）の価格は3月初旬から2.00ドル〜2.60ドルのレンジ内で推移しており、明確な方向感に欠ける状況が続いている。ただし、いくつかの要因から、この停滞が近く大きなブレイクアウトに転じる可能性が指摘されている。",
-          "link": "https://jp.cointelegraph.com/news/xrp-price-will-soon-break-out-after-4-month-consolidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-06-27T13:00:19.000Z",
-          "wordCount": null,
-          "title": "XRPにブレイクアウトの予兆　リップルの買収戦略とCME先物が後押し",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzg3MTUtNGYwNS03MDE5LTlhNzAtNGIzN2U2YmY3NDU0.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzg3MTUtNGYwNS03MDE5LTlhNzAtNGIzN2U2YmY3NDU0.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-long-term-holders-stack-800-btc-per-month-record-hodl-run",
-          "author": "Cointelegraph  William Suberg",
-          "description": "ビットコイン（BTC）の長期保有者が、月間ベースで80万BTCという過去最大規模の積み増しを行っていることが、新たなオンチェーン分析によって明らかになった。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-long-term-holders-stack-800-btc-per-month-record-hodl-run?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-06-27T12:09:32.000Z",
-          "wordCount": null,
-          "title": "ビットコイン長期保有者　月間80万BTCを積み増し　強気継続のシグナルか",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGM4Y2QtNjRlYi03ZGIxLTliNmQtOGM5N2Y4ZjQ5OGZm.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGM4Y2QtNjRlYi03ZGIxLTliNmQtOGM5N2Y4ZjQ5OGZm.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-long-term-holders-stack-800-btc-per-month-record-hodl-run",
-          "author": "Cointelegraph  William Suberg",
-          "description": "ビットコイン（BTC）の長期保有者が、月間ベースで80万BTCという過去最大規模の積み増しを行っていることが、新たなオンチェーン分析によって明らかになった。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-long-term-holders-stack-800-btc-per-month-record-hodl-run?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-06-27T12:09:32.000Z",
-          "wordCount": null,
-          "title": "ビットコイン長期保有者　月間80万BTCを積み増し　強気継続のシグナルか",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGM4Y2QtNjRlYi03ZGIxLTliNmQtOGM5N2Y4ZjQ5OGZm.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGM4Y2QtNjRlYi03ZGIxLTliNmQtOGM5N2Y4ZjQ5OGZm.jpg"
         }
       ]
     },

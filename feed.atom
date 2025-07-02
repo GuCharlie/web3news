@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-02T19:36:35.684Z</updated>
+    <updated>2025-07-02T20:16:14.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨のサイバー攻撃にどう備える？｜実例から学ぶ取引所の対策と自己防衛法]]></title>
+        <id>https://coinpost.jp/?p=629985</id>
+        <link href="https://coinpost.jp/?p=629985"/>
+        <updated>2025-07-02T19:24:38.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産のサイバー攻撃リスクと、取引所のセキュリティ対策、個人で実践できる防衛策を初心者向けにわかりやすく解説します。]]></summary>
+        <author>
+            <name>A.kamata</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、11万ドル付近まで反発──変動激しい7月の予兆となるか]]></title>
         <id>https://www.coindeskjapan.com/?p=301339</id>
@@ -2483,28 +2493,6 @@ EXPO2025デジタルウォレットに「NFT×AI」新機能、7月から試験�
         <summary type="html"><![CDATA[仮想通貨取引所ジェミナイは、マイケル・セイラー氏が率いるストラテジー（MSTR）の株式をトークン化し、欧州連合（EU）のユーザーに提供を開始した。これにより、ビットコインを大量保有する企業への投資がオンチェーンで可能となった。]]></summary>
         <author>
             <name>Cointelegraph  Ciaran Lyons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クレカに勝つ鍵は「報酬」 PayPal CEOが語るステーブルコイン普及戦略]]></title>
-        <id>https://crypto-times.jp/?p=138613</id>
-        <link href="https://crypto-times.jp/news-the-key-to-beating-credit-cards-is-rewards-paypal-ceo-discusses-stablecoin-adoption-strategy/"/>
-        <updated>2025-06-28T07:56:02.000Z</updated>
-        <summary type="html"><![CDATA[米決済大手PayPalのCEOであるアレックス・クリス氏は、米国の消費者が既存の決済手段からステーブルコインに乗り換えるには報酬プログラムのような明確なインセンティブが必要だとの見解を示しました。 現在、米国の消費者向け […]
-投稿 クレカに勝つ鍵は「報酬」 PayPal CEOが語るステーブルコイン普及戦略 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産規制はザルだった？専門機関が明かす監督体制の抜け穴]]></title>
-        <id>https://crypto-times.jp/?p=138618</id>
-        <link href="https://crypto-times.jp/news-cryptocurrency-regulations-are-lax-expert-agency-reveals-loopholes-in-oversight-system/"/>
-        <updated>2025-06-28T07:45:26.000Z</updated>
-        <summary type="html"><![CDATA[国際的な政府間機関である金融活動作業部会（FATF）は今週公表した報告書で、世界の暗号資産に対する規制は進展しているものの依然として深刻な抜け穴が存在し特に2025年に入ってステーブルコインの不正利用が急増していると強い […]
-投稿 暗号資産規制はザルだった？専門機関が明かす監督体制の抜け穴 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=301286",
+          "author": "James Van Straten",
+          "description": "CNBCによると、上場企業はビットコイン準備金を急速に積み上げており、3四半期連続でETF（上場投資信託）よりも多くのビットコインを購入している。 企業のビット ...\nビットコインの購入量、上場企業が3四半期連続でETFを上回る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/301286/",
+          "publishedOn": "2025-07-02T10:45:00.000Z",
+          "wordCount": 1325,
+          "title": "ビットコインの購入量、上場企業が3四半期連続でETFを上回る",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/shutterstock_2527574775.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=301273",
+          "author": "Omkar Godbole",
+          "description": "アメリカの通貨流通を包括的に測る指標であるM2が過去最高値を更新した。これは経済成長の兆候であると同時に、ビットコインの今後の動向については矛盾したメッセージを ...\nアメリカのM2マネーサプライが過去最高の約22兆ドルを記録──歴史的にはインフレに影響 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/301273/",
+          "publishedOn": "2025-07-02T10:20:00.000Z",
+          "wordCount": 1321,
+          "title": "アメリカのM2マネーサプライが過去最高の約22兆ドルを記録──歴史的にはインフレに影響",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/c7db40cbfe1933333cf20b490c15de58d2d43013-1500x1000-1-990x660-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=301262",
           "author": "栃山直樹",
           "description": "シンガポールを拠点とするSLASH VISIONは、米ドル連動ステーブルコイン「USDC」を担保とするBNPL（後払い）サービス「Slash Card」のクロー ...\nUSDC担保の後払いサービス「Slash Card」事前登録を開始──SLASH VISION first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -470,16 +490,6 @@
           "wordCount": 1382,
           "title": "コインベース、米国で無期限スタイルの先物取引サービスを開始へ",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/shutterstock_2451429289.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=300471",
-          "author": "Tom Carreras",
-          "description": "暗号資産市場は6月27日、関税の脅威が再燃したにもかかわらず、比較的穏やかな一日となった。 CoinDeskの市場データによると、ビットコイン（BTC）は過去2 ...\n暗号資産市場、トランプ大統領の新たな関税の脅威に動じず first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/300471/",
-          "publishedOn": "2025-06-27T22:20:54.000Z",
-          "wordCount": 1329,
-          "title": "暗号資産市場、トランプ大統領の新たな関税の脅威に動じず",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/cdb92859f0f8a44b919e1ff1edd196b766731094-2894x1548-1.jpeg"
         }
       ]
     },
@@ -1818,6 +1828,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-profit-taking-makes-140k-key-btc-price-point-new-research",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコイン（BTC）が本格的な強気相場の頂点を迎えるには、BTC価格が14万ドルに達する必要がある。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-profit-taking-makes-140k-key-btc-price-point-new-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-02T10:16:13.000Z",
+          "wordCount": null,
+          "title": "ビットコインは14万ドル到達で真の強気相場へ　長期保有者の含み益は依然ピークに届かず",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2NhMzktZGFlNy03OTlkLTg2YzYtYWExYzdhYTlkYzEz.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2NhMzktZGFlNy03OTlkLTg2YzYtYWExYzdhYTlkYzEz.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bhutan-binance-ceo-crypto-happiness",
           "author": "Cointelegraph  Ezra Reguerra",

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=301185",
+          "author": "栃山直樹",
+          "description": "SBIグループの暗号資産（仮想通貨）取引所ビットポイントジャパンは7月1日、Midnight Foundationとの連携を開始したことを発表した。この連携は、 ...\nビットポイント、トークン「NIGHT」のエアドロップを検討──カルダノ創設者の新ブロックチェーン「Midnight」と連携 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/301185/",
+          "publishedOn": "2025-07-02T03:53:02.000Z",
+          "wordCount": 1264,
+          "title": "ビットポイント、トークン「NIGHT」のエアドロップを検討──カルダノ創設者の新ブロックチェーン「Midnight」と連携",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/スクリーンショット-2025-07-02-12.37.06.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=301178",
           "author": "廣瀬 優香",
           "description": "グラスノード（Glassnode）のデータによると、ビットコイン（BTC）の200週単純移動平均（200WMA）は5万ドルに迫り、現在は約4万9223ドルとなっ ...\nビットコインの200週移動平均が5万ドルに迫る──市場の長期的な強さを示唆 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -430,16 +440,6 @@
           "wordCount": 1334,
           "title": "ビットコイン、昨年7月以来で最低の月間成長率か──ETFへの流入をクジラが相殺",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/shutterstock_2564747901-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=300441",
-          "author": "林 理南",
-          "description": "ビットコイン（BTC）は10万2000ドル（約1479万円、1ドル145円換算）から10万8000ドルのレンジで保ち合いを続けている。金は27日に2%下落し、史 ...\n最新のマクロデータ発表でナスダックは史上最高値を更新──ビットコインと金には引き続き圧力 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/300441/",
-          "publishedOn": "2025-06-27T17:20:12.000Z",
-          "wordCount": 1321,
-          "title": "最新のマクロデータ発表でナスダックは史上最高値を更新──ビットコインと金には引き続き圧力",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/N0cf6ef2454fd60f067c1520dd923f735c902864b-1438x867-1.png"
         }
       ]
     },
@@ -454,6 +454,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=629773",
+          "author": "幸田直子",
+          "description": "「大きく美しい法案」をめぐり、トランプ大統領とイーロン・マスク氏の対立が再燃している。マスク氏の痛烈な法案批判に対し、トランプ氏は、マスク氏が率いる企業の政府補助金受給について政府効率化局（DOGE）で調査すべきと発言し、かつて盟友だった両氏の関係は緊迫感を増している。",
+          "link": "https://coinpost.jp/?p=629773",
+          "publishedOn": "2025-07-02T04:45:58.000Z",
+          "wordCount": 3261,
+          "title": "トランプ大統領、イーロン・マスクに対する批判を再び展開、　『大きく美しい法案』巡る対立が再燃",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/trump-elon-feud.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/trump-elon-feud.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=629782",
+          "author": "菊谷ルイス",
+          "description": "アリゾナのホブズ知事が犯罪捜査で押収した仮想通貨管理法案を拒否。地方自治体の協力阻害を懸念と声明。",
+          "link": "https://coinpost.jp/?p=629782",
+          "publishedOn": "2025-07-02T04:20:17.000Z",
+          "wordCount": 3235,
+          "title": "アリゾナ州知事、押収仮想通貨の準備基金法案『HB2324』を拒否権行使",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/arizona-cryoto-bill-all-dead.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/arizona-cryoto-bill-all-dead.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=629748",
           "author": "A.Yamada",
@@ -1347,6 +1377,56 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=480521",
+          "author": "OtsugaShinya",
+          "description": "カタナのメインネットが稼働開始 ポリゴンラボ（Polygon Labs）と暗号資産（仮想通貨）マーケットメイカーのGSRが支援するDeFi（分散型金融）特化のブロックチェーン「カタナ（Katana）」が、7月1日にメイン […]",
+          "link": "https://www.neweconomy.jp/posts/480521",
+          "publishedOn": "2025-07-02T05:24:21.000Z",
+          "wordCount": 646,
+          "title": "Polygon LabsとGSR支援のDeFi特化チェーン「Katana」、メインネット稼働開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/02142417/dbd6f7ad3ed02b33052204b112631c99.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=480500",
+          "author": "OtsugaShinya",
+          "description": "JOCのバリデータにパシフィックメタ参画 ジャパンオープンチェーン（Japan Open Chain：JOC）のバリデータに、パシフィックメタ（Pacific Meta）が参画した。JOCのコンソーシアムを運営・管理する […]",
+          "link": "https://www.neweconomy.jp/posts/480500",
+          "publishedOn": "2025-07-02T04:36:17.000Z",
+          "wordCount": 772,
+          "title": "EVM互換の国産ブロックチェーン「Japan Open Chain」、バリデータにPacific Meta参画",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/02133611/JOC-250702PIXTA.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=480491",
+          "author": "OtsugaShinya",
+          "description": "OmakaseがSolv Protocolと提携 国内バリデータ運用事業者のOmakaseが、ビットコインのリキッドステーキングトークン（LST）提供のソルブプロトコル（Solv Protocol）戦略的提携し、オペレー […]",
+          "link": "https://www.neweconomy.jp/posts/480491",
+          "publishedOn": "2025-07-02T04:11:26.000Z",
+          "wordCount": 769,
+          "title": "OmakaseがSolv Protocolと提携、オペレーターに選出",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/02131121/255341a70460980d5ac9df6b067713e6.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=480485",
+          "author": "OtsugaShinya",
+          "description": "EEA向け新プラットフォーム「Bybit eu」提供開始 海外大手暗号資産（仮想通貨）取引所バイビット（Bybit）が、欧州経済領域（EEA）ユーザー向けに設計された専用プラットフォーム「Bybit.eu」の正式オープン […]",
+          "link": "https://www.neweconomy.jp/posts/480485",
+          "publishedOn": "2025-07-02T03:45:07.000Z",
+          "wordCount": 641,
+          "title": "バイビット、EEA向け新プラットフォーム「Bybit eu」提供開始、MiCA認可受け",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/02124503/e9151711875c3239898f7cefdf1c1a6f.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=480476",
+          "author": "OtsugaShinya",
+          "description": "NFTプラットフォーム「DOSI」がサービス終了へ LINE NEXT（ラインネクスト）提供のデジタル・コマース（D-Commerce）プラットフォーム「DOSI（ドシ）」がサービス終了することが6月30日に発表された。 […]",
+          "link": "https://www.neweconomy.jp/posts/480476",
+          "publishedOn": "2025-07-02T03:18:26.000Z",
+          "wordCount": 768,
+          "title": "LINE NEXT、NFTプラットフォーム「DOSI」サービス終了へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/02121815/DOSI-_250701berya113.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=480453",
           "author": "OtsugaShinya",
           "description": "ドイツ銀行が2026年よりデジタル資産カストディ提供か 独メガバンクのドイツ銀行（Deutsche Bank）が、2026年にデジタル資産のカストディ（保管）サービスを開始する予定だと、関係者から得た情報として「ブルーム […]",
@@ -1703,6 +1783,96 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/north-korean-it-workers-charged-crypto-theft",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "米司法省は6月30日、北朝鮮国籍の4人が米国のジョージア州で電子通信詐欺および資金洗浄の罪で起訴されたと発表した。彼らは偽造身分を用いて米国およびセルビアのブロックチェーン企業にリモートIT開発者として潜入し、約91万5000ドル相当の仮想通貨を盗み取ったという。",
+          "link": "https://jp.cointelegraph.com/news/north-korean-it-workers-charged-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-02T06:21:01.000Z",
+          "wordCount": null,
+          "title": "北朝鮮ハッカー、偽装身分で米ブロックチェーン企業に潜入　仮想通貨を窃取",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2M0ZDItNGU4Mi03ZDllLTkwZmQtMjM5MmZkOGM0NmZi.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2M0ZDItNGU4Mi03ZDllLTkwZmQtMjM5MmZkOGM0NmZi.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/xrp-news-update-traders-predict-consolidation-to-dollar2-35-amid-etf-speculation",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "XRPの価格は現在、保ち合いの局面にあり、これが次の上昇の足場となるのか、それとも弱気派によって押し下げられるのかが注目されている。",
+          "link": "https://jp.cointelegraph.com/news/xrp-news-update-traders-predict-consolidation-to-dollar2-35-amid-etf-speculation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-02T05:37:59.000Z",
+          "wordCount": null,
+          "title": "XRPテクニカル分析：2.35ドルの壁に挑む展開　突破なら急騰も",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2M2YWEtOGJlOC03MjEyLTliMWYtNGRiOTBmZjMyYTVk.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2M2YWEtOGJlOC03MjEyLTliMWYtNGRiOTBmZjMyYTVk.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/less-than-15-bitcoin-left-on-crypto-exchanges-signals-supply-problem",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "ビットコイン（BTC）の取引所保有率が15％を下回り、機関投資家によるETF需要の高まりとあいまって、「供給ショック」の可能性が強まっている。",
+          "link": "https://jp.cointelegraph.com/news/less-than-15-bitcoin-left-on-crypto-exchanges-signals-supply-problem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-02T04:47:30.000Z",
+          "wordCount": null,
+          "title": "ビットコイン 取引所保有率が過去7年で最低水準に　「供給ショック」による価格高騰につながるか？",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NjhjMmItNTRiNy03MDhhLTgxOTItYTdhMjYxNTU1ZTY1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NjhjMmItNTRiNy03MDhhLTgxOTItYTdhMjYxNTU1ZTY1.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-analysts-say-market-quickly-absorbs-selling-paving-way-for-a-bullish-july",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "オンチェーンデータ企業グラスノードの分析によると、ビットコイン（BTC）が10万ドルから11万ドルの範囲で保ち合いとなっている原因は、利益確定売りの増加にあるという。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-analysts-say-market-quickly-absorbs-selling-paving-way-for-a-bullish-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-02T04:00:47.000Z",
+          "wordCount": null,
+          "title": "ビットコイン　長期保有者の売却圧力でも価格は崩れず　7月に再上昇の兆しも",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZmNGEtZTEwNi03OGRkLTliZTQtZDdlMTFhYTkxMTc4.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZmNGEtZTEwNi03OGRkLTliZTQtZDdlMTFhYTkxMTc4.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-at-risk-of-deeper-drop-as-btc-slips-below-key-support-levels",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "ビットコイン（BTC）は、6月29日および30日に10万9000ドルの突破に失敗したのち、7月1日には10万5250ドルまで下落した。ビットフィネックスのアナリストは市場レポートで、ローカルトップの形成、あるいは保ち合いフェーズへの突入の可能性を示唆している。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-at-risk-of-deeper-drop-as-btc-slips-below-key-support-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-02T03:22:50.000Z",
+          "wordCount": null,
+          "title": "ビットコイン　10万ドル割れの警戒感強まる　重要サポートは10万4500ドル",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzIyMTgtMTFiYS03NTU4LTk1ZTctNmM4MmZmMWY2MWJh.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzIyMTgtMTFiYS03NTU4LTk1ZTctNmM4MmZmMWY2MWJh.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/sol-etf-news-gain-evaporates-while-chart-warns-of-another-20percent-drop",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "ソラナ（SOL）は6月30日、初の上場投資信託（ETF）開始の報道を受けて一時5％上昇し、160ドルを突破した。しかし勢いは長続きせず、24時間以内に上昇分をすべて失い、複数の時間軸で弱含みの兆候が確認されている。",
+          "link": "https://jp.cointelegraph.com/news/sol-etf-news-gain-evaporates-while-chart-warns-of-another-20percent-drop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-02T03:04:43.000Z",
+          "wordCount": null,
+          "title": "ソラナ、一時5％急騰も失速　価格は再び147ドル割れ懸念　防衛ラインはどこか？",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGY2NjEtMzY3NS03ODQwLWEwYWQtYWM2YTM4NmEzMjgz.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGY2NjEtMzY3NS03ODQwLWEwYWQtYWM2YTM4NmEzMjgz.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/deutsche-bank-crypto-custody-accounts-2026",
           "author": "Cointelegraph  Helen Partz",
@@ -2557,36 +2727,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2IyNTYtNzRmNC03MzkxLWIyYjYtM2E0ODY2OTQ1ZDlk.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/ethereum-chart-signals-altseason-as-analysts-predict-10k-eth-price-top",
-          "author": "Cointelegraph  Nancy Lubale",
-          "description": "イーサリアム（ETH）のテクニカル指標は、今後数週間から数カ月の間に急騰が起き、いわゆる「アルトシーズン」の始まりとなる可能性を示している。",
-          "link": "https://jp.cointelegraph.com/news/ethereum-chart-signals-altseason-as-analysts-predict-10k-eth-price-top?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-06-27T15:57:09.000Z",
-          "wordCount": null,
-          "title": "イーサリアム、1万ドルまで上昇できるか？ チャートが示すアルトシーズン到来の可能性",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2IxOTktM2E2ZC03MzdhLWJhMGYtNWNlYTc1MmQzMDVm.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2IxOTktM2E2ZC03MzdhLWJhMGYtNWNlYTc1MmQzMDVm.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/ethereum-chart-signals-altseason-as-analysts-predict-10k-eth-price-top",
-          "author": "Cointelegraph  Nancy Lubale",
-          "description": "イーサリアム（ETH）のテクニカル指標は、今後数週間から数カ月の間に急騰が起き、いわゆる「アルトシーズン」の始まりとなる可能性を示している。",
-          "link": "https://jp.cointelegraph.com/news/ethereum-chart-signals-altseason-as-analysts-predict-10k-eth-price-top?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-06-27T15:57:09.000Z",
-          "wordCount": null,
-          "title": "イーサリアム、1万ドルまで上昇できるか？ チャートが示すアルトシーズン到来の可能性",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2IxOTktM2E2ZC03MzdhLWJhMGYtNWNlYTc1MmQzMDVm.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2IxOTktM2E2ZC03MzdhLWJhMGYtNWNlYTc1MmQzMDVm.jpg"
         }
       ]
     },
@@ -2595,6 +2735,86 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=138904",
+          "author": "よきょい",
+          "description": "米国証券取引委員会（SEC）は7月1日、グレイスケール社の暗号資産ファンド「グレイスケールデジタルラージキャップファンド(GDLC)」をETFへ転換する申請を承認しました。これにより、複数の暗号資産を組み合わせたバスケッ […]\n投稿 米国初、暗号資産バスケットETFが承認｜BTC・ETH・SOLにまとめて投資 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-first-cryptocurrency-basket-etf-approved-in-the-u-s-invest-in-btc-eth-and-sol-all-at-once/",
+          "publishedOn": "2025-07-02T06:21:23.000Z",
+          "wordCount": 546,
+          "title": "米国初、暗号資産バスケットETFが承認｜BTC・ETH・SOLにまとめて投資",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_2253092361.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=138903",
+          "author": "よきょい",
+          "description": "米国証券取引委員会（SEC）が暗号資産ETFの承認プロセスを迅速化する新しい上場基準を検討していることが明らかになりました。この動きは市場の透明性を高め投資家にとっての選択肢を広げるものとして、関係者から大きな期待が寄せ […]\n投稿 アルトコインETFの新時代到来か？SECが承認プロセス簡素化へ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-a-new-era-for-altcoin-etfs-sec-to-streamline-approval-process/",
+          "publishedOn": "2025-07-02T05:40:20.000Z",
+          "wordCount": 652,
+          "title": "アルトコインETFの新時代到来か？SECが承認プロセス簡素化へ",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_2426153703.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=138907",
+          "author": "よきょい",
+          "description": "Web3決済ソリューションを開発するSlash Vision Labsは、国内初となる非カストディ型の暗号資産クレジットカード「Slash Card」を今秋に提供開始することを発表しました。利用者は自身のウォレットに資産 […]\n投稿 次世代暗号資産クレカ登場！1分登録で総額1.5万ドル獲得キャンペーンも は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-introducing-the-next-generation-cryptocurrency-credit-card-sign-up-in-1-minute-and-get-15000-in-total-with-this-campaign/",
+          "publishedOn": "2025-07-02T04:48:18.000Z",
+          "wordCount": 580,
+          "title": "次世代暗号資産クレカ登場！1分登録で総額1.5万ドル獲得キャンペーンも",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/GuscbI2XsAAMOYt.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=138908",
+          "author": "よきょい",
+          "description": "2025年上半期において、上場企業によるビットコイン（BTC）の購入量が同期間の上場投資信託（ETF）による購入量を2倍以上も上回ったことが明らかになりました。この動向は企業の取締役会レベルでビットコインを戦略的な準備資 […]\n投稿 企業のビットコイン購入、ETFの2倍超｜投機から「戦略的準備資産」へ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-corporate-bitcoin-purchases-more-than-etfs-from-speculation-to-strategic-reserve-asset/",
+          "publishedOn": "2025-07-02T04:19:56.000Z",
+          "wordCount": 542,
+          "title": "企業のビットコイン購入、ETFの2倍超｜投機から「戦略的準備資産」へ",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_2431016787.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=138909",
+          "author": "よきょい",
+          "description": "7月1日の第3四半期開始の取引で、暗号資産市場は前日のビットコイン（BTC）の月間終値が記録的であったにもかかわらず、大幅な下落を記録しました。ビットコインは10万5000ドル台を維持しましたが、アルトコインは急落し一部 […]\n投稿 2億ドル超のロング清算、暗号資産市場に異変か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-over-200-million-in-long-liquidation-is-something-wrong-with-the-cryptocurrency-market/",
+          "publishedOn": "2025-07-02T04:14:16.000Z",
+          "wordCount": 542,
+          "title": "2億ドル超のロング清算、暗号資産市場に異変か",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_2142319699.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=138910",
+          "author": "よきょい",
+          "description": "ビットコイン（BTC）の含み益がネットワーク全体で1兆ドルを超えているにもかかわらず、多くの投資家は利益確定を急がず保有を続けていることが明らかになりました。 レポートによると、ビットコインの市場全体の含み益は約1.2兆 […]\n投稿 なぜ売らない？ビットコイン含み益1.2兆ドルでも保有続く理由 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-why-not-sell-the-reason-why-bitcoin-continues-to-be-held-even-with-unrealized-gains-of-1-2-trillion/",
+          "publishedOn": "2025-07-02T03:58:01.000Z",
+          "wordCount": 541,
+          "title": "なぜ売らない？ビットコイン含み益1.2兆ドルでも保有続く理由",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_1888907947.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=138911",
+          "author": "よきょい",
+          "description": "デザインソフトウェア大手のFigmaが新規株式公開（IPO）の申請書類において、約7000万ドル相当のビットコイン（BTC）を保有していることを明らかにしました。同社はさらに3000万ドルの追加投資も計画しています。 な […]\n投稿 デザイン大手Figma、7000万ドルのビットコイン投資が判明 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-design-giant-figma-reveals-70-million-in-bitcoin-investment/",
+          "publishedOn": "2025-07-02T03:50:07.000Z",
+          "wordCount": 546,
+          "title": "デザイン大手Figma、7000万ドルのビットコイン投資が判明",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_2361884845.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=138912",
+          "author": "よきょい",
+          "description": "2012年に500ドルで購入された物理ビットコインが換金され、その価値が1000万ドル以上に達したことが明らかになりました。これは約13年間で200万パーセントに迫る驚異的な投資収益です。換金されたのは100ビットコイン […]\n投稿 500ドルが1000万ドルに、13年眠った物理ビットコインが換金 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-500-becomes-10-million-as-physical-bitcoin-that-has-been-dormant-for-13-years-is-converted-into-cash/",
+          "publishedOn": "2025-07-02T03:45:30.000Z",
+          "wordCount": 543,
+          "title": "500ドルが1000万ドルに、13年眠った物理ビットコインが換金",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_1924347944-scaled.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=138892",
           "author": "Crypto Times 編集部",

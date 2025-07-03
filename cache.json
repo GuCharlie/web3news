@@ -635,6 +635,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=630088",
+          "author": "A.Yamada",
+          "description": "米コインベースがトークン管理プラットフォーム「LiquiFi」を買収。トークン発行者を初期段階から支援するプラットフォームであり将来的に機関投資家向けサービスにも統合予定だ。",
+          "link": "https://coinpost.jp/?p=630088",
+          "publishedOn": "2025-07-03T07:14:11.000Z",
+          "wordCount": 3204,
+          "title": "米仮想通貨取引所コインベース、「LiquiFi」買収でトークン発行支援事業強化へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/coinbase-media.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/coinbase-media.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=629485",
+          "author": "hiroto.yoshii",
+          "description": "三井物産デジタル・アセットマネジメントは、デジタル証券特化の信託会社「オルタナ信託」を設立。Progmatと協業し、ST発行・管理基盤を導入。ST市場の効率化と拡大を目指す。",
+          "link": "https://coinpost.jp/?p=629485",
+          "publishedOn": "2025-07-03T07:02:19.000Z",
+          "wordCount": 3201,
+          "title": "オルタナ信託設立とProgmat・ALTERNAの協業深化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/alternasamuneiru.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/alternasamuneiru.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=630070",
           "author": "S.Ninomiya",
           "description": "仮想通貨取引所ビットコインは前日比+2.6%の108,733ドルまで上昇。Bitfinexレポートによると、4月安値から50%反発後は10-11万ドルのレンジ相場に移行し、第3四半期の季節性要因で平均リターン6%の「最弱四半期」を警戒する。一方、米国初のソラナステーキングETFが取引開始し初日3,300万ドルの好調なスタートを記録。",
@@ -2068,6 +2098,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/first-solana-staking-etf-hits-12m-on-debut-trading-day",
+          "author": "Cointelegraph  Martin Young",
+          "description": "米国で初めてとなるソラナのステーキング対応ETFが取引初日を迎え、1200万ドルの資金流入を記録した。仮想通貨ステーキング対応ETFとしては好調な滑り出しとなった。",
+          "link": "https://jp.cointelegraph.com/news/first-solana-staking-etf-hits-12m-on-debut-trading-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-03T07:16:54.000Z",
+          "wordCount": null,
+          "title": "米国でソラナ・ステーキングETFがデビュー　初日に1200万ドルの資金流入",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2NkZmUtNGNmOC03ODcyLWIzYTMtN2U4Mjg1MTUwYWY5.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2NkZmUtNGNmOC03ODcyLWIzYTMtN2U4Mjg1MTUwYWY5.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/blackrock-bitcoin-etf-outearns-annual-fees-s-and-p-500-fund",
           "author": "Cointelegraph  Ciaran Lyons",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-03T06:24:58.096Z</updated>
+    <updated>2025-07-03T06:51:52.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブラックロックのビットコインETF、看板ファンドのS&amp;P500 ETFを年間手数料収入で上回る]]></title>
+        <id>https://jp.cointelegraph.com/news/blackrock-bitcoin-etf-outearns-annual-fees-s-and-p-500-fund</id>
+        <link href="https://jp.cointelegraph.com/news/blackrock-bitcoin-etf-outearns-annual-fees-s-and-p-500-fund?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-07-03T06:44:14.000Z</updated>
+        <summary type="html"><![CDATA[世界最大の資産運用会社ブラックロックが手がける現物ビットコイン上場投資信託（ETF）の「IBIT」が、年間の手数料収入において同社の看板商品であるS&P500連動型ETF「IVV」を上回ったと報じられた。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[クリプタクト、インドで暗号資産の確定申告支援──海外展開第2弾]]></title>
         <id>https://www.coindeskjapan.com/?p=301301</id>

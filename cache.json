@@ -1968,36 +1968,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/Crypto-0630.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/Crypto-0630.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=629128",
-          "author": "AKIRA.H",
-          "description": "仮想通貨に対する5つの誤解を、初心者向けにわかりやすく解説。簡単な答えと詳細な背景で正しい理解をサポートします。",
-          "link": "https://coinpost.jp/?p=629128",
-          "publishedOn": "2025-06-30T02:30:41.000Z",
-          "wordCount": 2795,
-          "title": "仮想通貨の誤解を解く5つの真実｜初心者が知っておきたい基本と本質",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/%E8%AA%A4%E8%A7%A3-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/%E8%AA%A4%E8%A7%A3-1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=629108",
-          "author": "S.Ninomiya",
-          "description": "仮想通貨市況暗号資産（仮想通貨）市場では、ビットコイン（BTC）は前日比+1.1%の1BTC=108,590ドルに。過去最高値は、今年5月に記録した112,000ドル。BTC/USD日足先週末は、イスラエル・イランと米国の軍事行動をめぐる中...",
-          "link": "https://coinpost.jp/?p=629108",
-          "publishedOn": "2025-06-30T02:21:44.000Z",
-          "wordCount": 3272,
-          "title": "堅調推移のビットコイン過去最高値に迫る、米株指数上昇で強気ムード継続",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-czar-criticize.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-czar-criticize.jpg"
         }
       ]
     },
@@ -2633,6 +2603,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/multi-billion-dollar-hodl-bitcoin-whales-awaken-after-14-years",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "14年間眠っていたビットコインのクジラが再び動き出し、数十億ドル規模の資産移動が確認された。",
+          "link": "https://jp.cointelegraph.com/news/multi-billion-dollar-hodl-bitcoin-whales-awaken-after-14-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-04T14:34:27.000Z",
+          "wordCount": null,
+          "title": "ビットコインのクジラが14年ぶりに覚醒　10億ドル相当が移動　初期保有者が利益確定の動きか",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzg0MGYtMmZiOC03MTFmLThiNWMtMGYyY2Y1MDkxNDc5.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzg0MGYtMmZiOC03MTFmLThiNWMtMGYyY2Y1MDkxNDc5.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-third-flop-110k-puts-bulls-at-risk-btc-price-levels",
           "author": "Cointelegraph  Nancy Lubale",

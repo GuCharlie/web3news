@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-04T14:15:35.509Z</updated>
+    <updated>2025-07-04T14:43:09.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインのクジラが14年ぶりに覚醒　10億ドル相当が移動　初期保有者が利益確定の動きか]]></title>
+        <id>https://jp.cointelegraph.com/news/multi-billion-dollar-hodl-bitcoin-whales-awaken-after-14-years</id>
+        <link href="https://jp.cointelegraph.com/news/multi-billion-dollar-hodl-bitcoin-whales-awaken-after-14-years?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-07-04T14:34:27.000Z</updated>
+        <summary type="html"><![CDATA[14年間眠っていたビットコインのクジラが再び動き出し、数十億ドル規模の資産移動が確認された。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン　11万ドルの壁に再び跳ね返される　10万7500ドル割れなら一段安のリスクも]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-third-flop-110k-puts-bulls-at-risk-btc-price-levels</id>
@@ -3628,26 +3638,6 @@ DEXのビットコイントレーダーはプットオプションで下落に�
 メタプラネット、1万BTC突破し保有量世界7位に──ビットコインは企業財務の新潮流か？【ビットコイン保有企業news：6月】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>橋本 祐樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨の誤解を解く5つの真実｜初心者が知っておきたい基本と本質]]></title>
-        <id>https://coinpost.jp/?p=629128</id>
-        <link href="https://coinpost.jp/?p=629128"/>
-        <updated>2025-06-30T02:30:41.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨に対する5つの誤解を、初心者向けにわかりやすく解説。簡単な答えと詳細な背景で正しい理解をサポートします。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[堅調推移のビットコイン過去最高値に迫る、米株指数上昇で強気ムード継続]]></title>
-        <id>https://coinpost.jp/?p=629108</id>
-        <link href="https://coinpost.jp/?p=629108"/>
-        <updated>2025-06-30T02:21:44.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨市況暗号資産（仮想通貨）市場では、ビットコイン（BTC）は前日比+1.1%の1BTC=108,590ドルに。過去最高値は、今年5月に記録した112,000ドル。BTC/USD日足先週末は、イスラエル・イランと米国の軍事行動をめぐる中...]]></summary>
-        <author>
-            <name>S.Ninomiya</name>
         </author>
     </entry>
 </feed>

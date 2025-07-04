@@ -1972,6 +1972,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=481034",
+          "author": "HitomotoToshikazu",
+          "description": "ビットスタンプがシンガポールのMPIライセンス取得 暗号資産（仮想通貨）取引所ビットスタンプ（Bitstamp）が、シンガポール金融管理局（MAS）から主要決済機関（MPI）ライセンスを正式に取得した。ビットスタンプが7 […]",
+          "link": "https://www.neweconomy.jp/posts/481034",
+          "publishedOn": "2025-07-04T07:39:07.000Z",
+          "wordCount": 741,
+          "title": "ロビンフッド傘下のBitstamp、シンガポールの主要決済機関（MPI）ライセンス取得",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/04163840/32f19f48bc9e993c92c92b26dc321378.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=481026",
           "author": "gentosha_takahashi",
           "description": "Ondo、RWAインフラ拡張を加速 機関投資家向けのDeFi（分散型金融）プロトコル「オンドファイナンス（Ondo Finance）」と、暗号資産（仮想通貨）特化の資産運用会社「パンテラキャピタル（Pantera Cap […]",
@@ -2608,6 +2618,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-price-hold-108k-bearish-reversal-risk-crypto-analyst",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "ビットコインが史上最高値に迫る中、この勢いを維持できずに10万8000ドルを割る展開となれば、弱気トレンドに転じる可能性があるとトレーダーが警鐘を鳴らしている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-price-hold-108k-bearish-reversal-risk-crypto-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-04T07:31:27.000Z",
+          "wordCount": null,
+          "title": "ビットコイン　史上最高値を目前に正念場　10万8000ドル割れなら下落トレンド入りの懸念も",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2QzMGItM2M0YS03MTU1LWI0ZmItODYzNzgwYTQ0OWIy.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2QzMGItM2M0YS03MTU1LWI0ZmItODYzNzgwYTQ0OWIy.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-miner-production-falls-june-power-curtailment-weather",
+          "author": "Cointelegraph  Martin Young",
+          "description": "ビットコイン（BTC）マイニング企業の多くが、2025年6月のBTC生産量が前月比で減少したと報告している。テキサス州における電力抑制策が影響したとみられる。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-miner-production-falls-june-power-curtailment-weather?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-04T07:16:49.000Z",
+          "wordCount": null,
+          "title": "6月のビットコイン採掘量が軒並み減少、テキサスの電力抑制政策が影響",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2QzMGMtZGVhZi03ZjA3LWIzNjktNGYzNDIyYWYxMTIx.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2QzMGMtZGVhZi03ZjA3LWIzNjktNGYzNDIyYWYxMTIx.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/nano-labs-first-move-toward-1-billion-bnb-treasury",
           "author": "Cointelegraph  Stephen Katte",

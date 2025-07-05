@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-05T13:04:32.211Z</updated>
+    <updated>2025-07-05T13:42:50.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン財務戦略、賞味期限切れは近い？ アナリストが警鐘]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-treasury-strategy-plan-limited-lifespan-forecast-crypto-analyst</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-treasury-strategy-plan-limited-lifespan-forecast-crypto-analyst?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-07-05T13:29:40.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨アナリストのジェームズ・チェック氏が、企業によるビットコイン財務（トレジャリー）戦略について、その寿命は世間が想定するほど長くはないかもしれないと指摘する。特に新たにこの戦略を採用する企業にとっては、すでに「上昇余地」は限られている可能性があるという。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[86億ドル相当のビットコインが14年ぶりに移動　コインベース幹部はハッキングの可能性に言及]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-whale-transfer-hack-possibility-coinbase-exec-speculates</id>
@@ -3239,37 +3249,6 @@ CoinDesk JAPANを運営するN.Avenueが2023年7月より展開している「N.
         <summary type="html"><![CDATA[世界第2位の仮想通貨取引所BybitがBacked社のトークン化株式サービス「xStocks」を取り扱う。Apple、Amazon、Microsoft等60銘柄超をソラナブロックチェーン上で24時間365日取引可能に。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ氏関連のミームコイン「TRUMP」、BITPOINTが口座開設キャンペーンで配布]]></title>
-        <id>https://coinpost.jp/?p=629451</id>
-        <link href="https://coinpost.jp/?p=629451"/>
-        <updated>2025-07-01T01:40:46.000Z</updated>
-        <summary type="html"><![CDATA[ドナルド・トランプ氏が公認とされるミームコイン「TRUMP」がもらえるキャンペーンがBITPOINTで7月末まで開催中。特典内容や条件を詳しく解説します。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国内Web3関連企業BACKSEAT、組み込み型Web3体験でブロックチェーン社会実装目指す]]></title>
-        <id>https://coinpost.jp/?p=629441</id>
-        <link href="https://coinpost.jp/?p=629441"/>
-        <updated>2025-07-01T01:20:14.000Z</updated>
-        <summary type="html"><![CDATA[BACKSEAT株式会社が第三者割当増資により累計14億円の資金調達を完了。Spiral CapitalとHeadline Asiaが共同リード投資家として参画し、組み込み型Web3体験の実現に向けサービスローンチを本格化。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネットは日本版ストラテジー、「買い」格付けでカバレッジ開始：ベンチマーク]]></title>
-        <id>https://www.coindeskjapan.com/?p=300931</id>
-        <link href="https://www.coindeskjapan.com/300931/"/>
-        <updated>2025-07-01T01:15:00.000Z</updated>
-        <summary type="html"><![CDATA[ベンチマーク（Benchmark）のアナリスト、マーク・パーマー（Mark Palmer）氏はメタプラネット（Metaplanet）のカバレッジを開始し、「買い ...
-メタプラネットは日本版ストラテジー、「買い」格付けでカバレッジ開始：ベンチマーク first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
         </author>
     </entry>
 </feed>

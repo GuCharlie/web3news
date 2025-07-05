@@ -720,16 +720,6 @@
           "wordCount": 1336,
           "title": "初のSOLステーキングETF、今週登場へ──SOL価格は5%上昇",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/a0960959924e83fdd5a6830730becceb4a41278e-914x514-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=300898",
-          "author": "栃山直樹",
-          "description": "暗号資産（仮想通貨）取引所を運営するBACKSEATは6月30日、シードラウンドの資金調達を実施し、創業1年での累計調達額が約14億円に達したことを発表した。本 ...\ncoinbook買収の暗号資産取引所BACKSEAT、累計14億円を調達 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/300898/",
-          "publishedOn": "2025-06-30T13:41:23.000Z",
-          "wordCount": 1285,
-          "title": "coinbook買収の暗号資産取引所BACKSEAT、累計14億円を調達",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/ダウンロード-51.jpeg"
         }
       ]
     },
@@ -744,6 +734,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=630837",
+          "author": "菊谷ルイス",
+          "description": "14年以上動かなかった8万ビットコイン（約1.2兆円）が8個のアドレスから移動。仮想通貨取引所への売却ではなくOTC取引との見方も。",
+          "link": "https://coinpost.jp/?p=630837",
+          "publishedOn": "2025-07-05T01:20:57.000Z",
+          "wordCount": 3223,
+          "title": "1兆円相当ビットコインが移動も、構造的売り圧力は限定的か＝Bitcoin Vector分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/galaxy-digital-new-suit-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/galaxy-digital-new-suit-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=630831",
+          "author": "A.Yamada",
+          "description": "ロシア国営企業ロステックがルーブル建てステーブルコインRUBxを年内に発行する予定だ。決済プラットフォームRT-Payも立ち上げる。経済制裁回避の意図もあるとみられる。",
+          "link": "https://coinpost.jp/?p=630831",
+          "publishedOn": "2025-07-05T00:45:26.000Z",
+          "wordCount": 3226,
+          "title": "ロシア国営ロステック、トロンでステーブルコインRUBx発行へ　制裁回避狙いも",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/russiaruble2341-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/russiaruble2341-1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=630818",
           "author": "菊谷ルイス",
@@ -2458,6 +2478,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-is-facing-a-hurdle-at-110-500-but-bnb-sol-link-and-aave-show-promise",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "BTC、BNB、SOL、LINK、AAVEのテクニカル分析。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-is-facing-a-hurdle-at-110-500-but-bnb-sol-link-and-aave-show-promise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-05T02:35:54.000Z",
+          "wordCount": null,
+          "title": "ビットコインは反発できるか：仮想通貨テクニカル分析 BTC、BNB、SOL、LINK、AAVE",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Q2ODUtYzFjOC03MTBhLWJjNjctZDVhMDFmZGFhODYz.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Q2ODUtYzFjOC03MTBhLWJjNjctZDVhMDFmZGFhODYz.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-benefit-trump-big-beautiful-bill",
+          "author": "Cointelegraph  Aaron Wood",
+          "description": "米国議会は「大きくて美しい法案（One Big Beautiful Bill Act）」を可決した。トランプ大統領が推進するこの予算法案は仮想通貨業界に直接的な恩恵をもたらすものではないが、結果的にビットコインには好影響を与える可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-benefit-trump-big-beautiful-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-05T01:41:08.000Z",
+          "wordCount": null,
+          "title": "トランプ政権の「大きくて美しい法案」成立　ビットコインに追い風か？ 仮想通貨税制改正は見送りに",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzgzODEtMDcxNS03YWY4LWI4OWYtYWNhYmVhYjU3NTVi.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzgzODEtMDcxNS03YWY4LWI4OWYtYWNhYmVhYjU3NTVi.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-price-falls-to-dollar107k-despite-dollar1b-btc-etf-inflow",
           "author": "Cointelegraph  Marcel Pechman",

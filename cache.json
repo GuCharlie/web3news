@@ -510,16 +510,6 @@
           "wordCount": 1325,
           "title": "ビットコインの購入量、上場企業が3四半期連続でETFを上回る",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/shutterstock_2527574775.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=301273",
-          "author": "Omkar Godbole",
-          "description": "アメリカの通貨流通を包括的に測る指標であるM2が過去最高値を更新した。これは経済成長の兆候であると同時に、ビットコインの今後の動向については矛盾したメッセージを ...\nアメリカのM2マネーサプライが過去最高の約22兆ドルを記録──歴史的にはインフレに影響 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/301273/",
-          "publishedOn": "2025-07-02T10:20:00.000Z",
-          "wordCount": 1321,
-          "title": "アメリカのM2マネーサプライが過去最高の約22兆ドルを記録──歴史的にはインフレに影響",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/c7db40cbfe1933333cf20b490c15de58d2d43013-1500x1000-1-990x660-1.jpg"
         }
       ]
     },
@@ -1554,6 +1544,51 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/cz-questions-ton-uae-golden-visa-crypto-residency",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "TONによる「ステーキングでUAEゴールデンビザ取得」プログラムに対し、バイナンス前CEOのCZ氏が懐疑的な見方を示している。",
+          "link": "https://jp.cointelegraph.com/news/cz-questions-ton-uae-golden-visa-crypto-residency?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-06T22:40:15.000Z",
+          "wordCount": null,
+          "title": "「本当なのか？」TONのUAEゴールデンビザ発表にCZが疑問｜政府当局は沈黙",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2UxMTgtNGExYi03MTEwLWEyNjQtZTAxOWY1ODNkNDgz.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2UxMTgtNGExYi03MTEwLWEyNjQtZTAxOWY1ODNkNDgz.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-cup-and-handle-breakout-230k-target-sol-2800-gain",
+          "author": "Cointelegraph  William Suberg",
+          "description": "月足チャートの分析によると、ビットコインとソラナがともに「カップ・アンド・ハンドル型」のブレイクアウトを達成すれば、天文学的な上昇が見込まれる。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-cup-and-handle-breakout-230k-target-sol-2800-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-06T22:32:18.000Z",
+          "wordCount": null,
+          "title": "ビットコイン「カップ・アンド・ハンドル」型で23万ドル視野、ソラナは2800％上昇の可能性",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2RmYmEtOTkwOS03MWYxLWJkNDYtYzdkMGY3N2IzMWZi.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2RmYmEtOTkwOS03MWYxLWJkNDYtYzdkMGY3N2IzMWZi.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/secret-service-seizes-400m-crypto-cold-wallet",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "米シークレットサービスが過去10年で4億ドル相当の仮想通貨を押収し、世界最大級のコールドウォレットを保有していることが明らかになった。ブロックチェーン分析やVPNの接続記録などを手がかりに、巧妙な詐欺の手口を突き止めている。",
+          "link": "https://jp.cointelegraph.com/news/secret-service-seizes-400m-crypto-cold-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-06T22:23:07.000Z",
+          "wordCount": null,
+          "title": "米シークレットサービス、仮想通貨4億ドルを押収｜世界最大級のコールドウォレットを保有",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2RlODQtNmJmMi03MzQzLTllZGMtZWE0YTczYzM5MDVm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2RlODQtNmJmMi03MzQzLTllZGMtZWE0YTczYzM5MDVm.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/toncoin-uae-golden-visa-staking-offer",
           "author": "Cointelegraph  Amin Haqshanas",
           "description": "TONがUAEゴールデンビザプログラムを開始、ステーキング額を10万ドルに抑え、従来よりも80％安い条件で提供。",
@@ -2257,21 +2292,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2NjNjgtNTk0OC03MmVkLTg3MzItNTUyMjI3MTFhMjY5.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-profit-taking-makes-140k-key-btc-price-point-new-research",
-          "author": "Cointelegraph  William Suberg",
-          "description": "ビットコイン（BTC）が本格的な強気相場の頂点を迎えるには、BTC価格が14万ドルに達する必要がある。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-profit-taking-makes-140k-key-btc-price-point-new-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-02T10:16:13.000Z",
-          "wordCount": null,
-          "title": "ビットコインは14万ドル到達で真の強気相場へ　長期保有者の含み益は依然ピークに届かず",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2NhMzktZGFlNy03OTlkLTg2YzYtYWExYzdhYTlkYzEz.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2NhMzktZGFlNy03OTlkLTg2YzYtYWExYzdhYTlkYzEz.jpg"
         }
       ]
     },

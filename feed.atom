@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-07T08:23:50.671Z</updated>
+    <updated>2025-07-07T08:50:00.492Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブロックチェーン・グループが約18億円分のBTCを取得、総保有数は1904BTCに]]></title>
+        <id>https://www.coindeskjapan.com/?p=302331</id>
+        <link href="https://www.coindeskjapan.com/302331/"/>
+        <updated>2025-07-07T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーン・グループ（Blockchain Group）は、116BTCを約1070万ユーロ（約18億1900万円、1ユーロ=170円換算）で取得したの発 ...
+ブロックチェーン・グループが約18億円分のBTCを取得、総保有数は1904BTCに first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>James Van Straten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本初のUSDC対応決済カード「SlashCard」、事前登録の紹介プログラム開始]]></title>
+        <id>https://www.neweconomy.jp/?p=481270</id>
+        <link href="https://www.neweconomy.jp/posts/481270"/>
+        <updated>2025-07-07T08:27:59.000Z</updated>
+        <summary type="html"><![CDATA[SlashCardの紹介プログラムが開始 米ドル建てステーブルコイン「USDC」を担保として利用できる国際ブランドカード「SlashCard（スラッシュカード）」クローズドβ版の事前登録に関する紹介プログラムが開始した。 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サッカーJ1「アビスパDAO」、Web3型ロイヤリティプログラムのNewLoとパートナー契約]]></title>
         <id>https://www.coindeskjapan.com/?p=302325</id>
@@ -2478,16 +2499,6 @@ ETFと企業のトレジャリー購入に牽引され、ビットコインの20
         <link href="https://coinpost.jp/?p=630016"/>
         <updated>2025-07-02T20:50:05.000Z</updated>
         <summary type="html"><![CDATA[OpenAIがロビンフッドの株式トークンサービスへの関与を公式否定。未上場企業トークン化における先買権問題が浮き彫りに。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米SEC、グレースケール仮想通貨ETF転換承認を再検討]]></title>
-        <id>https://coinpost.jp/?p=630010</id>
-        <link href="https://coinpost.jp/?p=630010"/>
-        <updated>2025-07-02T20:35:51.000Z</updated>
-        <summary type="html"><![CDATA[米証券取引委員会がグレースケールの仮想通貨信託「Digital Large Cap Fund」のETF転換承認決定を再検討。NYSE Arca上場承認が一時停止状態に。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-07T22:15:55.468Z</updated>
+    <updated>2025-07-07T22:41:15.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米国の仮想通貨現物ETF、次の商品のローンチは秋の初めか＝報道]]></title>
+        <id>https://coinpost.jp/?p=631260</id>
+        <link href="https://coinpost.jp/?p=631260"/>
+        <updated>2025-07-07T22:15:22.000Z</updated>
+        <summary type="html"><![CDATA[米SECが新たに仮想通貨のETFを承認するのは、秋の初めごろになる可能性があるとの見方が上がった。SECは現在、XRPやドージコインなどの複数の現物ETFの承認判断を延期している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ジャック・ドーシー氏、インターネット不要の分散型メッセージアプリ「Bitchat」をテスト]]></title>
         <id>https://jp.cointelegraph.com/news/jack-dorsey-launches-bluetooth-relayed-decentralized-messaging-app-bitchat</id>
@@ -1960,17 +1970,6 @@ BOOSTRY（ブーストリー）とALTERNA（オルタナ）も協業深化を発
         <updated>2025-07-03T10:45:00.000Z</updated>
         <summary type="html"><![CDATA[ビットコイン（BTC）は、7月2日にアメリカのビットコイン現物ETF（上場投資信託）に4億778万ドル（約591億2810万円、1ドル=145円換算）を超える資 ...
 ビットコインが11万ドルを突破──BONKとFARTCOINは20%以上上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRPの行使価格3ドルのコールオプションが人気──XRP/BTC日足チャートは上昇を示唆]]></title>
-        <id>https://www.coindeskjapan.com/?p=301463</id>
-        <link href="https://www.coindeskjapan.com/301463/"/>
-        <updated>2025-07-03T10:25:00.000Z</updated>
-        <summary type="html"><![CDATA[決済に特化した暗号資産（仮想通貨）エックス・アール・ピー（XRP）は過去24時間で3.5%以上上昇しており、デリビット（Deribit）に上場されたオプションの ...
-XRPの行使価格3ドルのコールオプションが人気──XRP/BTC日足チャートは上昇を示唆 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Omkar Godbole</name>
         </author>

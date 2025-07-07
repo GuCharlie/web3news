@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-07T19:14:16.771Z</updated>
+    <updated>2025-07-07T19:37:27.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、10万8000ドルを割り込み、週末の値上がり分を消失──トランプ関税の新展開を受け]]></title>
+        <id>https://www.coindeskjapan.com/?p=302404</id>
+        <link href="https://www.coindeskjapan.com/302404/"/>
+        <updated>2025-07-07T19:22:11.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）の週末のごく控えめな上昇は7月7日、トランプ米大統領の関税政策が再び注目される中で、やや反転した。 ビットコインは、米国時間7日午後の取引 ...
+ビットコイン、10万8000ドルを割り込み、週末の値上がり分を消失──トランプ関税の新展開を受け first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Krisztian Sandor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【7/7話題】メタプラが約344億円でBTC追加購入、SlashCardの紹介プログラム、JPYCがJVCEAの第二種会員など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=481284</id>
@@ -2065,26 +2076,6 @@ XRPの行使価格3ドルのコールオプションが人気──XRP/BTC日足
         <summary type="html"><![CDATA[オーストラリア出身の仮想通貨億万長者ティム・ヒース氏が、2024年にエストニアで誘拐されそうになった際、襲撃犯の指を噛みちぎって逃れたことが、現地の裁判で明らかになった。]]></summary>
         <author>
             <name>Cointelegraph  Stephen Katte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国でソラナ・ステーキングETFがデビュー　初日に1200万ドルの資金流入]]></title>
-        <id>https://jp.cointelegraph.com/news/first-solana-staking-etf-hits-12m-on-debut-trading-day</id>
-        <link href="https://jp.cointelegraph.com/news/first-solana-staking-etf-hits-12m-on-debut-trading-day?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-07-03T07:16:54.000Z</updated>
-        <summary type="html"><![CDATA[米国で初めてとなるソラナのステーキング対応ETFが取引初日を迎え、1200万ドルの資金流入を記録した。仮想通貨ステーキング対応ETFとしては好調な滑り出しとなった。]]></summary>
-        <author>
-            <name>Cointelegraph  Martin Young</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米仮想通貨取引所コインベース、「LiquiFi」買収でトークン発行支援事業強化へ]]></title>
-        <id>https://coinpost.jp/?p=630088</id>
-        <link href="https://coinpost.jp/?p=630088"/>
-        <updated>2025-07-03T07:14:11.000Z</updated>
-        <summary type="html"><![CDATA[米コインベースがトークン管理プラットフォーム「LiquiFi」を買収。トークン発行者を初期段階から支援するプラットフォームであり将来的に機関投資家向けサービスにも統合予定だ。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>

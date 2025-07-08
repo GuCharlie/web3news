@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=302657",
+          "author": "Stephen Alpher",
+          "description": "コラボレーションデザインツールを手がけるFigmaは先週、新規株式公開（IPO）を通じた上場申請を行った。 フォーチュン500企業の95%が利用し、直近12カ月 ...\n価格が横ばいを続ける中、ビットコイン強気派は新たな企業財務戦略に注目 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/302657/",
+          "publishedOn": "2025-07-08T23:30:00.000Z",
+          "wordCount": 1351,
+          "title": "価格が横ばいを続ける中、ビットコイン強気派は新たな企業財務戦略に注目",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/shutterstock_1916988761.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=302652",
           "author": "Oliver Knight",
           "description": "NFT（ノン・ファンジブル・トークン）取引プラットフォームのオープンシーは、ラリーウォレットを運営するラリー社を買収した。これは、同社がトークン取引への事業転換 ...\nオープンシー、トークン取引へと軸足を移す中、ラリーを買収 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -380,16 +390,6 @@
           "wordCount": 1244,
           "title": "衣料品のマックハウス、暗号資産マイニング事業に参入へ──17億円ビットコイン購入計画に続き",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/マックハウス.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=302048",
-          "author": "Jamie Crawley",
-          "description": "ロイターは7月4日、中国の中国eコマース大手のJD.com（京東商城）とアント・グループ（Ant Group）が、米ドル連動型暗号資産（仮想通貨）の台頭に対抗す ...\nJD.comとアント・グループ、ドル支配に対抗するため人民元建てのステーブルコインの導入を推進：ロイター first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/302048/",
-          "publishedOn": "2025-07-04T11:30:00.000Z",
-          "wordCount": 1341,
-          "title": "JD.comとアント・グループ、ドル支配に対抗するため人民元建てのステーブルコインの導入を推進：ロイター",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2020/10/Yuan.jpg"
         }
       ]
     },
@@ -1398,6 +1398,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-vc-funding-q2-2025-surge",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "2025年第2四半期の仮想通貨VC投資額は100億3,000万ドルに達し、6月単月でも51億4,000万ドルを記録。2022年初以来の最高水準となった。",
+          "link": "https://jp.cointelegraph.com/news/crypto-vc-funding-q2-2025-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-08T23:32:51.000Z",
+          "wordCount": null,
+          "title": "仮想通貨業界の資金調達、Q2で100億ドル突破｜2022年Q1以来の最高水準に",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWI1MTgtZGRhMS03MGFmLWFiOGQtYjZhNDk1NjkyNmU1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWI1MTgtZGRhMS03MGFmLWFiOGQtYjZhNDk1NjkyNmU1.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/dollar31b-stablecoin-surge-at-binance-revives-traders-altseason-hopes",
           "author": "Cointelegraph  Biraajmaan Tamuly",

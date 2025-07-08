@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=302595",
+          "author": "James Van Straten",
+          "description": "Glassnodeのデータによると、ブラックロック（BlackRock）のiシェアーズ・ビットコイン・トラスト（iShares Bitcoin Trust：IB ...\nブラックロックのビットコイン現物ETF、保有量が70万BTCを突破 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/302595/",
+          "publishedOn": "2025-07-08T09:40:00.000Z",
+          "wordCount": 1408,
+          "title": "ブラックロックのビットコイン現物ETF、保有量が70万BTCを突破",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/shutterstock_1858889497.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=302547",
           "author": "Omkar Godbole",
           "description": "TradingViewのデータによると、暗号資産（仮想通貨）取引所コインベース（Coinbase）の株価は最近380ドルまで上昇し、2021年4月15日のナスダ ...\nコインベース株、逆三尊パターンをブレイクアウトして上場時の価格水準に：テクニカル分析 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -440,16 +450,6 @@
           "wordCount": 1322,
           "title": "アブダビ、HSBCとFABと協力し、債券のトークン化に参入",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/ff5f1aaf98ef45648e973ff157121546d18d58ee-5472x3078-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=301515",
-          "author": "Krisztian Sandor",
-          "description": "時価総額最大のステーブルコインUSDTを手がけるデジタル資産企業のテザー社は、南米の農業企業アデコアグロと共に、ブラジルで再生可能エネルギーを活用したビットコイ ...\nテザー、余剰再生可能エネルギーを利用したブラジルでのビットコインマイニングのためにアデコアグロと提携 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/301515/",
-          "publishedOn": "2025-07-03T21:30:00.000Z",
-          "wordCount": 1326,
-          "title": "テザー、余剰再生可能エネルギーを利用したブラジルでのビットコインマイニングのためにアデコアグロと提携",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/6f1edb0a547c81239e492cf7970c92989e22d03b-1800x1200-1.jpeg"
         }
       ]
     },
@@ -464,6 +464,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=631464",
+          "author": "幸田直子",
+          "description": "企業がビットコインを財務資産として保有するビットコイントレジャリー戦略が注目される理由と、専門家が指摘するリスクを詳しく解説する。投資制約の回避や効率的なレバレッジ活用のメリットがある一方で、企業がビットコイン利回りのみに頼りすぎることはリスクとなる。",
+          "link": "https://coinpost.jp/?p=631464",
+          "publishedOn": "2025-07-08T09:15:59.000Z",
+          "wordCount": 3232,
+          "title": "ビットコイントレジャリー戦略の魅力と落とし穴──投資家の視点で読み解く",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-2.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=631452",
           "author": "Ritsuki.Kumazawa",
@@ -1258,21 +1273,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/citedal-new-ceo-for-crypto.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/citedal-new-ceo-for-crypto.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=630335",
-          "author": "菊谷ルイス",
-          "description": "「REXオスプレイ・ソラナ・ステーキングETF」が7月3日に取引開始。米国初のステーキング機能付き仮想通貨現物ETFとして約100万ドルの運用資産で滑り出し。",
-          "link": "https://coinpost.jp/?p=630335",
-          "publishedOn": "2025-07-03T21:30:56.000Z",
-          "wordCount": 3185,
-          "title": "米国初のソラナ現物ETF、取引開始初日で出来高約48億円の好スタート",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/solana-south-koerea.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/solana-south-koerea.png"
         }
       ]
     },
@@ -1281,6 +1281,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=481531",
+          "author": "NewEconomyPodcast",
+          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/481531",
+          "publishedOn": "2025-07-08T09:38:40.000Z",
+          "wordCount": 772,
+          "title": "【7/8話題】リミポ社長報酬が全額ビットコイン、TRUMPがトロン対応、トルネードキャッシュ制裁訴訟が終結へなど（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/08161730/323ff716f8f8d5c004122e74207fb708.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=481587",
+          "author": "OtsugaShinya",
+          "description": "クレカポイントとBTC・ETH・XRPが交換可能に SBI新生銀行グループのアプラスが発行するクレジットカードのポイントサービス「アプラスポイント」の交換賞品として、国内暗号資産（仮想通貨）取引所SBI VCトレードが取 […]",
+          "link": "https://www.neweconomy.jp/posts/481587",
+          "publishedOn": "2025-07-08T09:18:41.000Z",
+          "wordCount": 742,
+          "title": "アプラスのクレカポイントとBTC・ETH・XRPが交換可能に、SBI VCトレードと連携で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/08181835/SBI-250708Yellow-duck.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=481565",
           "author": "OtsugaShinya",
@@ -2370,6 +2390,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=139404",
+          "author": "Crypto Times 編集部",
+          "description": "7月8日、米国証券取引委員会 (SEC) がドナルド・トランプ大統領が関与するTrump Media & Technology Group (TMTG) が手掛けるビットコインとイーサリアムへ投資する現物型ETF […]\n投稿 トランプ氏率いるTMTGのビットコイン・イーサリアムETF、SECが受理 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-truth-social-bitcoin-and-ethereum-etf-sec/",
+          "publishedOn": "2025-07-08T09:27:51.000Z",
+          "wordCount": 631,
+          "title": "トランプ氏率いるTMTGのビットコイン・イーサリアムETF、SECが受理",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2551951931.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=139400",
           "author": "Crypto Times 編集部",

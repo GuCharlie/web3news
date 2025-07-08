@@ -455,6 +455,51 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=631277",
+          "author": "K.Kobayashi",
+          "description": "『金持ち父さん貧乏父さん』の著者ロバート・キヨサキ氏は、仮想通貨ビットコインに対して改めて強気な見方を示した。暴落した時は買い増しの好機だとXに投稿している。",
+          "link": "https://coinpost.jp/?p=631277",
+          "publishedOn": "2025-07-08T00:55:40.000Z",
+          "wordCount": 3227,
+          "title": "「ビットコインが暴落した時は買い増しの好機」金持ち父さん著者キヨサキ、強気姿勢を維持",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/bitcoin-bull-glassnode.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/bitcoin-bull-glassnode.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=631276",
+          "author": "菊谷ルイス",
+          "description": "ジャック・ドーシー氏が先週末にビットチャットを開発。Bluetoothメッシュネットワークで完全分散型通信を実現。インターネット不要で検閲耐性を持つ。",
+          "link": "https://coinpost.jp/?p=631276",
+          "publishedOn": "2025-07-08T00:35:16.000Z",
+          "wordCount": 3210,
+          "title": "ジャック・ドーシー、ビットコイン送信対応のオフグリッドメッセージアプリ「Bitchat」を発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/jack-bitcoin-node.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/jack-bitcoin-node.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=631271",
+          "author": "菊谷ルイス",
+          "description": "TON財団がゴールデンビザプログラムをUAE政府に否定された後、マーケティング担当副社長を募集。10万ドルステーキングプログラムは政府の認可を受けていないと判明。",
+          "link": "https://coinpost.jp/?p=631271",
+          "publishedOn": "2025-07-07T23:25:46.000Z",
+          "wordCount": 3208,
+          "title": "TON財団、UAE「ゴールデンビザ」プログラム否定後にマーケティング担当VPを急募",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/ton-network-animoca.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/ton-network-animoca.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=631268",
           "author": "菊谷ルイス",
           "description": "ソラナ系ミームコイン工場パンプ・ファンが7月12日にPUMPトークンを上場予定。一方、競合のレッツボンクが24時間取引量でパンプ・ファンを初めて上回った。",
@@ -1197,6 +1242,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=481445",
+          "author": "HitomotoToshikazu",
+          "description": "Bit DigitalがBTCをETHに変換 米デジタル資産プラットフォーム提供のビットデジタル（Bit Digital）が、暗号資産（仮想通貨）イーサリアム（ETH）を中心としたトレジャリー（財務資産）戦略への完全な移 […]",
+          "link": "https://www.neweconomy.jp/posts/481445",
+          "publishedOn": "2025-07-07T23:47:14.000Z",
+          "wordCount": 729,
+          "title": "ビットデジタルがETH財務戦略に完全移行、公募とBTC売却で保有総数約10万ETHに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/08084659/ETH-250708PIXTA.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=481284",
           "author": "NewEconomyPodcast",
           "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
@@ -1435,26 +1490,6 @@
           "wordCount": 747,
           "title": "SEC、グレースケールの暗号資産ファンド「GDLC」のETF承認を一時停止",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/04112042/6839765b8ccf1ea8714ca380342e79c7.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=480825",
-          "author": "NewEconomyPodcast",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/480825",
-          "publishedOn": "2025-07-03T12:29:01.000Z",
-          "wordCount": 656,
-          "title": "【7/3話題】リップルが全米銀行免許を申請、米国初のステーキング対応ソラナ現物ETF取引開始など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/03183800/ebe49d522f0b5efe40d456bdbb0a6874.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=480931",
-          "author": "gentosha_takahashi",
-          "description": "炭素クレジットのトークン化を試験、透明性と標準化を目指す 米銀行大手J.P.モルガン・チェース（JPMorgan Chase）のブロックチェーン部門「Kinexys（キネクシス） ※旧Onyx」が、S&Pグローバ […]",
-          "link": "https://www.neweconomy.jp/posts/480931",
-          "publishedOn": "2025-07-03T11:54:03.000Z",
-          "wordCount": 741,
-          "title": "JPモルガンのKinexysとS＆P、炭素市場でブロックチェーン実証へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/03205347/105b18d903a326e2a2947b1940ab1eae.jpg"
         }
       ]
     },

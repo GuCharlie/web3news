@@ -430,16 +430,6 @@
           "wordCount": 1546,
           "title": "オープンAI、ロビンフッド提供のトークン化株式は無許可だと警告",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/5a122415610cceab78062fc6c02a35b1a575c94e-2639x1485-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=301510",
-          "author": "Oliver Knight",
-          "description": "ビットコイン（BTC）が11万ドルを上回り、11万2000ドルを超える新たな史上最高値を狙っているにもかかわらず、暗号資産（仮想通貨）トレーダーは弱気な行動を見 ...\nビットコインが史上最高値に迫る中、トレーダーはショートポジションを積み増し first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/301510/",
-          "publishedOn": "2025-07-03T17:42:54.000Z",
-          "wordCount": 1361,
-          "title": "ビットコインが史上最高値に迫る中、トレーダーはショートポジションを積み増し",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/shutterstock_2128554767.jpg"
         }
       ]
     },
@@ -454,6 +444,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=631306",
+          "author": "A.Yamada",
+          "description": "CoinSharesは、仮想通貨投資商品のAUMが過去最高の27兆円を記録したと報告。先週は1,520億円が流入し、12週連続で流入超過。ビットコイン・イーサリアム商品が牽引している。",
+          "link": "https://coinpost.jp/?p=631306",
+          "publishedOn": "2025-07-08T04:00:19.000Z",
+          "wordCount": 3224,
+          "title": "仮想通貨投資商品のAUM、過去最高27兆円を記録もビットコイン投資家は慎重姿勢か＝CoinShares",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/CoinShares.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/CoinShares.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=631293",
           "author": "S.Ninomiya",
@@ -1287,6 +1292,36 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=481511",
+          "author": "HitomotoToshikazu",
+          "description": "暗号化メッセージングアプリ「bitchat」公開 米決済企業ブロック（Block）社を率いるジャック・ドーシー（Jack Dorsey）氏が、分散型P2P（ピアツーピア）メッセージングアプリ「ビットチャット（bitcha […]",
+          "link": "https://www.neweconomy.jp/posts/481511",
+          "publishedOn": "2025-07-08T05:58:28.000Z",
+          "wordCount": 772,
+          "title": "ジャック・ドーシー、P2Pオフラインメッセージングアプリ「bitchat」リリース",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/08142441/a0f4468872da24810c431e3de6fe6f4b.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=481500",
+          "author": "gentosha_takahashi",
+          "description": "業界団体の異議申し立てが正式に終結 米財務省とワシントンDC拠点の業界支援団体「コインセンター（Coin Center）」が、暗号資産（仮想通貨）ミキシングプラットフォーム「トルネードキャッシュ（Tornado Cash […]",
+          "link": "https://www.neweconomy.jp/posts/481500",
+          "publishedOn": "2025-07-08T04:44:12.000Z",
+          "wordCount": 785,
+          "title": "米財務省とCoin Center、「トルネードキャッシュ制裁」めぐる訴訟終結に合意",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/08134406/503107cc3cbafd7a44a3317ae1cbc3d0.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=481493",
+          "author": "OtsugaShinya",
+          "description": "TRUMPがトロン上で発行へ ドナルド・トランプ（Donald Trump）米大統領の公式ミームコイン「OFFICIAL TRUMP：オフィシャルトランプ（TRUMP）」が、新たにトロン（Tron）ネットワーク上で発行さ […]",
+          "link": "https://www.neweconomy.jp/posts/481493",
+          "publishedOn": "2025-07-08T04:21:57.000Z",
+          "wordCount": 658,
+          "title": "トランプコイン（TRUMP）、トロン上で発行へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/08132137/f45f9a0f13a148e6c713053d5e420f18.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=481451",
           "author": "HitomotoToshikazu",
           "description": "TOPの企業評価額10億ドルに 暗号資産（仮想通貨）ウォレット「ウォレットインテレグラム（Wallet in Telegram）」を開発するオープンプラットフォーム（The Open Platform：TOP）が、シリー […]",
@@ -1553,6 +1588,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/elon-musk-confirms-new-america-party-will-embrace-bitcoin",
+          "author": "Cointelegraph  Tarang Khaitan",
+          "description": "テスラCEOでありテック起業家のイーロン・マスク氏が、自身が立ち上げた新たな政党「アメリカ党」がビットコインを受け入れる方針であることを明かした。",
+          "link": "https://jp.cointelegraph.com/news/elon-musk-confirms-new-america-party-will-embrace-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-08T05:59:04.000Z",
+          "wordCount": null,
+          "title": "イーロン・マスク氏、新党「アメリカ党」でビットコイン受け入れを表明",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2UyYzUtMjJlMS03MTU5LWEyYmYtNGRhNjk4MTgxZjhl.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2UyYzUtMjJlMS03MTU5LWEyYmYtNGRhNjk4MTgxZjhl.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/strategy-14-billion-bitcoin-unrealized-gains-skips-buy",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "世界最大のビットコイン（BTC）保有企業であるマイケル・セイラー氏率いるストラテジーが、2025年第2四半期に保有資産において140億ドルの含み益を計上した。",
+          "link": "https://jp.cointelegraph.com/news/strategy-14-billion-bitcoin-unrealized-gains-skips-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-08T05:16:35.000Z",
+          "wordCount": null,
+          "title": "ビットコイン保有企業ストラテジー　2025年第2四半期に含み益140億ドルを計上　新たに資金調達プログラムも",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2U0YzgtOTU1MC03ZjEzLTkyYWYtYTdmYWZkNzEwYjBl.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2U0YzgtOTU1MC03ZjEzLTkyYWYtYTdmYWZkNzEwYjBl.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/metaplanet-buys-2-204-btc-for-237m",
+          "author": "Cointelegraph  Adrian Zmudzinski",
+          "description": "日本を代表するビットコイン（BTC）トレジャリー企業であるメタプラネットが月曜に2204BTC（2億3700万ドル相当）を追加取得した。",
+          "link": "https://jp.cointelegraph.com/news/metaplanet-buys-2-204-btc-for-237m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-08T04:31:48.000Z",
+          "wordCount": null,
+          "title": "メタプラネットのビットコイン保有量は1万5555BTCに　テスラやクリーンスパークを上回る",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGYxMDQtYjM4Yi03ZGQxLThiNTktYjk3ZjQxMjJlNjlh.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGYxMDQtYjM4Yi03ZGQxLThiNTktYjk3ZjQxMjJlNjlh.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/4-signs-ethereum-price-uptrend-5k-back-in-play",
           "author": "Cointelegraph  Nancy Lubale",
@@ -2175,6 +2255,26 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=139409",
+          "author": "Crypto Times 編集部",
+          "description": "レイヤー2プロジェクトAbstractがK-POPエンターテインメント会社のModhausと戦略的提携を発表しました。この提携により、tripleS、ARTMS、idnttなどのK-POPグループのファンエンゲージメント […]\n投稿 AbstractがModhausと提携、K-POPファンエンゲージメントを強化 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-abstract-modhaus/",
+          "publishedOn": "2025-07-08T05:15:18.000Z",
+          "wordCount": 614,
+          "title": "AbstractがModhausと提携、K-POPファンエンゲージメントを強化",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_1991991878.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=139401",
+          "author": "Crypto Times 編集部",
+          "description": "Solanaブロックチェーン上で誰でも簡単にミームコインを作成できるプラットフォーム「Pump.fun」が独自トークン「PUMP」を2025年7月12日に上場させる予定であると一部で報告されています。 この情報は暗号資産 […]\n投稿 ミームコイン大手Pump.fun、トークン発行可能性が再浮上 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-pump-fun-token-gate/",
+          "publishedOn": "2025-07-08T04:46:46.000Z",
+          "wordCount": 576,
+          "title": "ミームコイン大手Pump.fun、トークン発行可能性が再浮上",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_2555454697.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=139394",
           "author": "Crypto Times 編集部",

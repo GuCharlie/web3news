@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=302423",
+          "author": "Sam Reynolds",
+          "description": "イーロン・マスク（Elon Musk）氏の「アメリカ党」は、ビットコインを重視する予定だと同氏がXで述べた。 Fiat is hopeless, so yes  ...\nイーロン・マスク氏、アメリカ党はビットコインを活用──「法定通貨には希望がない」 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/302423/",
+          "publishedOn": "2025-07-08T02:55:00.000Z",
+          "wordCount": 1381,
+          "title": "イーロン・マスク氏、アメリカ党はビットコインを活用──「法定通貨には希望がない」",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/image-22.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=302412",
           "author": "Will Canny",
           "description": "AIインフラ企業コアウィーブは、ビットコイン（BTC）マイナーのコア・サイエンティフィックを、最近の終値を基に1株当たり20.40ドルで評価する株式交換方式の取 ...\nコアウィーブによる買収でコア・サイエンティフィック株、さらにビットコインマイナー株が急落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -430,16 +440,6 @@
           "wordCount": 1361,
           "title": "ビットコインが史上最高値に迫る中、トレーダーはショートポジションを積み増し",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/shutterstock_2128554767.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=301498",
-          "author": "CoinDesk JAPAN",
-          "description": "三井物産デジタル・アセットマネジメント（MDM）が提供するセキュリティ・トークン（デジタル証券、以下ST）を活用した資産運用サービス「ALTERNA（オルタナ） ...\nBOOSTRY（ブーストリー）とALTERNA（オルタナ）も協業深化を発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/301498/",
-          "publishedOn": "2025-07-03T14:00:27.000Z",
-          "wordCount": 1270,
-          "title": "BOOSTRY（ブーストリー）とALTERNA（オルタナ）も協業深化を発表",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/boostry0703.jpg"
         }
       ]
     },
@@ -454,6 +454,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=631293",
+          "author": "S.Ninomiya",
+          "description": "ビットコインは前日比-0.67%の117,767ドルで推移。機関投資家の資金流入は12週連続で10億3,000万ドルを記録し、運用資産残高は過去最高の1,880億ドルに達した。米7月14日からは米議会で「仮想通貨ウィーク」が開始され、市場構造法案とGENIUS法案の採決が予定されている。",
+          "link": "https://coinpost.jp/?p=631293",
+          "publishedOn": "2025-07-08T02:44:06.000Z",
+          "wordCount": 3235,
+          "title": "ビットコイン最高値更新ならず小幅下落、米議会「仮想通貨ウィーク」で重要法案採決へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/bitcoin-lightning-network.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/bitcoin-lightning-network.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=631305",
+          "author": "菊谷ルイス",
+          "description": "公式トランプミームコインがトロンネットワークに拡大。USD1ステーブルコインとの取引ペアを開始。プロジェクト内部者による売却とトークンアンロックで価格圧迫。",
+          "link": "https://coinpost.jp/?p=631305",
+          "publishedOn": "2025-07-08T02:20:15.000Z",
+          "wordCount": 3216,
+          "title": "トランプミームコイン、トロンネットワークに展開　アンロック予定も",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/trump-coin-tron.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/trump-coin-tron.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=631283",
+          "author": "A.Yamada",
+          "description": "AI特化クラウドプロバイダーのコアウィーブが、仮想通貨マイニング企業コア・サイエンティフィックを買収する計画だ。1.3GWの発電能力を獲得し、AIとHPCワークロードを強化していく。",
+          "link": "https://coinpost.jp/?p=631283",
+          "publishedOn": "2025-07-08T01:40:09.000Z",
+          "wordCount": 3227,
+          "title": "AI企業コアウィーブ、約1.3兆円でビットコイン採掘大手コア・サイエンティフィックを買収へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/mergerandacquisition032921.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/mergerandacquisition032921.png"
+        },
         {
           "id": "https://coinpost.jp/?p=631277",
           "author": "K.Kobayashi",
@@ -1242,6 +1287,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=481451",
+          "author": "HitomotoToshikazu",
+          "description": "TOPの企業評価額10億ドルに 暗号資産（仮想通貨）ウォレット「ウォレットインテレグラム（Wallet in Telegram）」を開発するオープンプラットフォーム（The Open Platform：TOP）が、シリー […]",
+          "link": "https://www.neweconomy.jp/posts/481451",
+          "publishedOn": "2025-07-08T01:50:54.000Z",
+          "wordCount": 766,
+          "title": "テレグラム内ウォレット開発の「TOP」がユニコーンに、シリーズA28.5Mドル調達で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/08105022/05091150eab6aa1ee83d7fee310dfbdf.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=481445",
           "author": "HitomotoToshikazu",
           "description": "Bit DigitalがBTCをETHに変換 米デジタル資産プラットフォーム提供のビットデジタル（Bit Digital）が、暗号資産（仮想通貨）イーサリアム（ETH）を中心としたトレジャリー（財務資産）戦略への完全な移 […]",
@@ -1498,6 +1553,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/4-signs-ethereum-price-uptrend-5k-back-in-play",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "イーサリアム（ETH）は、4月に付けた安値1400ドルから2800ドルまで100％超の反発を見せた後、ここ約8週間は400ドル幅の狭いレンジ内で推移している。夏の停滞局面にもかかわらず、複数のデータは、ETH価格が2025年に5000ドルへと上昇する可能性を示唆している。",
+          "link": "https://jp.cointelegraph.com/news/4-signs-ethereum-price-uptrend-5k-back-in-play?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-08T02:58:29.000Z",
+          "wordCount": null,
+          "title": "イーサリアム　2025年に5000ドルへ到達するか？ 4つの強気サインが上昇トレンド再開",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2U1OGYtMzE3OC03NDlhLWFjODUtYjQxMTZiNjAwMzk4.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2U1OGYtMzE3OC03NDlhLWFjODUtYjQxMTZiNjAwMzk4.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/ethereum-genesis-wallets-wake-move-eth",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "約10年間休眠していた2つのイーサリアム（ETH）ウォレットが7月7日に稼働し、合計1140ETH（約290万ドル相当）を移動した。",
+          "link": "https://jp.cointelegraph.com/news/ethereum-genesis-wallets-wake-move-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-08T02:18:47.000Z",
+          "wordCount": null,
+          "title": "約10年ぶりに休眠ウォレットが動き出す　2つのイーサリアムウォレットが1140ETHを移動",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2U2YjUtNTUyZC03NDNkLWI2NjItZmQ5YWRiODVlYmM4.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2U2YjUtNTUyZC03NDNkLWI2NjItZmQ5YWRiODVlYmM4.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bhutan-crypto-tourism-binance-adoption",
           "author": "Cointelegraph  Ezra Reguerra",
@@ -2082,21 +2167,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2QxMjMtYzY4ZC03M2JkLWFhYmUtNWNlYjc3MGEzMDFk.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/why-cant-bitcoin-price-break-112k-all-time-highs-btc-analysts-explain",
-          "author": "Cointelegraph  Nancy Lubale",
-          "description": "ビットコイン（BTC）は7月2日に3週間ぶりの高値となる11万300ドルに到達したが、1時間足ではそれ以降、安値・高値ともに切り下がる展開となっている。",
-          "link": "https://jp.cointelegraph.com/news/why-cant-bitcoin-price-break-112k-all-time-highs-btc-analysts-explain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-03T13:23:47.000Z",
-          "wordCount": null,
-          "title": "ビットコイン　11万2000ドルの壁越えならず　買い圧力不足と季節要因が重しに",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjgwYTUtYjY1Mi03YTYwLWIxYzItNGE5Y2MwMzJjNzZh.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjgwYTUtYjY1Mi03YTYwLWIxYzItNGE5Y2MwMzJjNzZh.jpg"
         }
       ]
     },
@@ -2105,6 +2175,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=139394",
+          "author": "Crypto Times 編集部",
+          "description": "トランプ政権は本日未明、日本を含む10カ国以上に対して8月1日から適用される関税通告を発表しました。日本や韓国に対して25%の関税が設定されています。 今回発表された関税率（一部） 日本（25％） 韓国（25％） 南アフ […]\n投稿 トランプ政権、8月1日から日本に25%関税適用｜仮想通貨市場は無風 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-trump-announces-25-tariffs-on-japan-starting-august-1-cryptocurrency-market-remains-unaffected/",
+          "publishedOn": "2025-07-08T01:20:49.000Z",
+          "wordCount": 600,
+          "title": "トランプ政権、8月1日から日本に25%関税適用｜仮想通貨市場は無風",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_2559561517.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=139385",
           "author": "Crypto Times 編集部",

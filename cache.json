@@ -1233,21 +1233,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/Sweden-Bitcoin.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/Sweden-Bitcoin.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=630791",
-          "author": "菊谷ルイス",
-          "description": "個人ビットコインマイナーが7月4日にブロック903,883を単独採掘し、3.173BTC（約5000万円）の報酬を獲得。ネットワーク全体の0.00026%のハッシュレートで成功。",
-          "link": "https://coinpost.jp/?p=630791",
-          "publishedOn": "2025-07-04T20:40:32.000Z",
-          "wordCount": 3205,
-          "title": "個人マイナーが再びビットコインブロック採掘に成功、3.17BTC獲得",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/BTCMining0505211.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/BTCMining0505211.png"
         }
       ]
     },
@@ -1256,6 +1241,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=481836",
+          "author": "TamuraSeiji",
+          "description": "Polygonが7月10日に大型アップグレード「Heimdall v2」を実装 ポリゴン（Polygon）の大型アップグレード「ヘイムダル v2（Heimdall v2）」が7月10日に実装される予定だ。ポリゴン財団（P […]",
+          "link": "https://www.neweconomy.jp/posts/481836",
+          "publishedOn": "2025-07-09T08:30:32.000Z",
+          "wordCount": 671,
+          "title": "Polygonが「Heimdall v2」アップグレード実施へ、取引の確定時間が5秒に短縮",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/09173022/36941927d7726bdd8f283d1fadcc2d8c.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=481812",
           "author": "HitomotoToshikazu",
@@ -1693,6 +1688,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-price-rallied-72-84-the-last-two-times-btc-hodlers-did-this",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "ビットコイン（BTC）の供給のうち、80％以上が長期保有者（LTH）によって保持されている状況は過去に2度しかなく、そのたびにBTC価格は72％および84％上昇した。現在も、再び同様のパターンが現れており、強烈な供給ショックと価格上昇の可能性を示唆している。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-price-rallied-72-84-the-last-two-times-btc-hodlers-did-this?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-09T08:28:49.000Z",
+          "wordCount": null,
+          "title": "ビットコインの供給ショックが再び到来か　長期保有者の保有率80％超で15万ドル突破の可能性も",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2VhODYtNWFkYy03NmJkLTg2NWQtZjY2OWQ5MjU1N2Nm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2VhODYtNWFkYy03NmJkLTg2NWQtZjY2OWQ5MjU1N2Nm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/ethereum-mega-whales-stacking-harder-than-pre-95-percent-rally-2002",
           "author": "Cointelegraph  Yashu Gola",
@@ -2919,6 +2929,16 @@
           "wordCount": 629,
           "title": "ゲーム会社がETH大量購入、株価急騰が示す「新常識」",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_2543732567.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=139504",
+          "author": "Crypto Times 編集部",
+          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 Telegram（テレグラム）を活用した取引ボットを提供するボンク（$ […]\n投稿 BONK 仮想通貨が60%急騰、同じ取引ボット銘柄Snorterにも波及か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/press-snorter-bonk/",
+          "publishedOn": "2025-07-09T03:31:55.000Z",
+          "wordCount": 579,
+          "title": "BONK 仮想通貨が60%急騰、同じ取引ボット銘柄Snorterにも波及か",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/AD_4nXdqjr-ymSyii6Q17gv7uI0luDk-w25Z8BTQQZWBtTHAvwbbp2rM4JAT4FnI64QzNOvlKmQNRiKyqlt2uRYXZMLMsHWDbxuztCR06tvbG90nXjc9JbFAsUqC.jpg"
         },
         {
           "id": "https://crypto-times.jp/?p=139429",

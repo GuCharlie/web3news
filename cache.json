@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=302856",
+          "author": "Krisztian Sandor",
+          "description": "ビットコイン（BTC）は米国時間7月9日午後、最近の非常に狭い取引レンジを突破し、5月に記録した11万2000ドルの史上最高値を突破する目前まで値上がりした。  ...\nビットコイン、11万ドル突破で史上最高値更新目前──6%急騰のイーサリアムが主要暗号資産をリード first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/302856/",
+          "publishedOn": "2025-07-09T22:20:46.000Z",
+          "wordCount": 1380,
+          "title": "ビットコイン、11万ドル突破で史上最高値更新目前──6%急騰のイーサリアムが主要暗号資産をリード",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/82278b028619a821b8a3519a3302e962a11db375-2228x1214-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=302840",
           "author": "Siamak Masnavi",
           "description": "CoinDesk Researchのテクニカル分析モデルによると、ビットコイン（BTC）は7月9日、10万9343ドルまで急騰し、過去24時間比で0.8%上昇し ...\nビットコイン、11万ドルに向けて急騰──トランプ氏、FRB金利は「3ポイント高すぎる」と発言：テクニカル分析 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -1648,6 +1658,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/will-xrp-hit-new-highs-as-ripple-participates-in-us-senate-web3-summit",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "XRPのチャートは新たな高値を示唆している。来週の「ウォール街からWeb3へ」サミットへのリップルの参加が、XRP価格を押し上げる可能性はあるのか。",
+          "link": "https://jp.cointelegraph.com/news/will-xrp-hit-new-highs-as-ripple-participates-in-us-senate-web3-summit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-09T22:32:04.000Z",
+          "wordCount": null,
+          "title": "リップルが米上院のWeb3サミットに参加｜XRPは過去最高値を更新するか？",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2FiZjItYzhmOC03ZDhkLTgzMTUtZmNkYjE4OTFkODQ4.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2FiZjItYzhmOC03ZDhkLTgzMTUtZmNkYjE4OTFkODQ4.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/eth-treasuries-are-criticical-for-the-ecosystem-ethereum-co-founder-joseph-lubin",
+          "author": "Cointelegraph  Adrian Zmudzinski",
+          "description": "イーサリアム共同創設者のジョセフ・ルービン氏は、ETHトレジャリーがエコシステムの成長にとって極めて重要だと語った。",
+          "link": "https://jp.cointelegraph.com/news/eth-treasuries-are-criticical-for-the-ecosystem-ethereum-co-founder-joseph-lubin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-09T22:22:04.000Z",
+          "wordCount": null,
+          "title": "イーサ企業のトレジャリーはエコシステムに不可欠＝ジョセフ・ルービン氏",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2VlYTAtOTc4NS03NDI4LTlmMDYtNWJhYjE4NzdiYTg2.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2VlYTAtOTc4NS03NDI4LTlmMDYtNWJhYjE4NzdiYTg2.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-hits-new-high-above-dollar112k-as-traders-liquidate-shorts",
           "author": "Cointelegraph  Zoltan Vardai",

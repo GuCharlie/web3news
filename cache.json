@@ -430,16 +430,6 @@
           "wordCount": 1302,
           "title": "ナノ・ラボ、5000万ドル相当のBNBを購入──供給量の最大10%保有を目指す10億ドル規模の計画の一環",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/ac5a3a2f506a6623bbcb165eff86a9bd8f3aee55-1500x1000-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=302078",
-          "author": "林 理南",
-          "description": "グラスノード（Glassnode）の定義では、長期保有者とはビットコイン（BTC）を155日以上保有している投資家を指す。CoinDesk Researchは、 ...\nビットコイン長期保有者、市場における忍耐を示す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/302078/",
-          "publishedOn": "2025-07-04T21:00:00.000Z",
-          "wordCount": 1309,
-          "title": "ビットコイン長期保有者、市場における忍耐を示す",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/aaa68de3ebb52d07967a858154c5cb7b00cddf7f-3200x1800-1-scaled.jpg"
         }
       ]
     },
@@ -1218,21 +1208,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/KYC_07.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/KYC_07.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=630799",
-          "author": "菊谷ルイス",
-          "description": "スウェーデンのストレマー司法相が警察や税務当局に仮想通貨を含む犯罪収益の押収強化を指示。昨年11月導入の欧州最厳格な没収法により840万ドル相当を押収済み。",
-          "link": "https://coinpost.jp/?p=630799",
-          "publishedOn": "2025-07-04T21:10:06.000Z",
-          "wordCount": 3197,
-          "title": "スウェーデン、違法収益による仮想通貨の押収を強化",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/Sweden-Bitcoin.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/Sweden-Bitcoin.jpg"
         }
       ]
     },
@@ -1688,6 +1663,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-traders-bitcoin-bullish-comments-surge-hopes-110k-btc-price",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "仮想通貨トレーダーの間で、ビットコインが再び11万ドルを突破するとの期待が高まっている。しかし、このような楽観的なムードは必ずしも好材料とは言えないと、ブロックチェーン分析プラットフォームのサンティメントが警告している。",
+          "link": "https://jp.cointelegraph.com/news/crypto-traders-bitcoin-bullish-comments-surge-hopes-110k-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-09T09:15:02.000Z",
+          "wordCount": null,
+          "title": "ビットコイン11万ドル再突破に高まる期待　SNS上では強気コメントが増加　過熱する楽観ムードに警鐘も",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2VjN2UtMDYyOC03ZDcwLWE2NWItYTdjOWJiYWFlYzUx.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2VjN2UtMDYyOC03ZDcwLWE2NWItYTdjOWJiYWFlYzUx.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-price-rallied-72-84-the-last-two-times-btc-hodlers-did-this",
           "author": "Cointelegraph  Nancy Lubale",
@@ -2797,21 +2787,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Q3NzYtZmM4OC03MDc5LWJmYTAtNjY2MzRhZDViOGUx.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/world-liberty-financial-vote-wlfl-token-tradable-live",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "米国のトランプ大統領の親族が設立に関与した分散型金融プロトコル「ワールド・リバティ・ファイナンシャル（WLFI）」は、ガバナンストークンWLFIの譲渡と取引を仮想通貨市場全体で可能にするためのコミュニティ提案を開始した。",
-          "link": "https://jp.cointelegraph.com/news/world-liberty-financial-vote-wlfl-token-tradable-live?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-04T21:00:00.000Z",
-          "wordCount": null,
-          "title": "トランプ氏の親族が関与するWLFI、ガバナンストークンの取引解禁を提案",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FiMjQtN2RiYi03ZmIxLWI4ZTktOThjOWExZGNiMDA5.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FiMjQtN2RiYi03ZmIxLWI4ZTktOThjOWExZGNiMDA5.jpg"
         }
       ]
     },

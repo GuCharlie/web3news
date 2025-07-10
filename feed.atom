@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-10T22:42:56.652Z</updated>
+    <updated>2025-07-10T23:16:05.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米上院、元ビットフューリー幹部のゴールド氏を通貨監督庁長官に承認]]></title>
+        <id>https://jp.cointelegraph.com/news/us-senate-confirms-jonathan-gould-lead-occ</id>
+        <link href="https://jp.cointelegraph.com/news/us-senate-confirms-jonathan-gould-lead-occ?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-07-10T23:10:57.000Z</updated>
+        <summary type="html"><![CDATA[ジョナサン・ゴールド氏がトランプ大統領の指名を受け、通貨監督庁（OCC）の長官として5年の任期で復帰する。]]></summary>
+        <author>
+            <name>Cointelegraph  Turner Wright</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シグナム「米国はドル基軸維持の鍵としてステーブルコインを重視」]]></title>
+        <id>https://jp.cointelegraph.com/news/us-administration-stablecoins-reversing-usd-falling-reserve-status-sygnum</id>
+        <link href="https://jp.cointelegraph.com/news/us-administration-stablecoins-reversing-usd-falling-reserve-status-sygnum?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-07-10T23:01:48.000Z</updated>
+        <summary type="html"><![CDATA[ドナルド・トランプ米大統領と政権幹部は、米国におけるステーブルコインを規制するGENIUS法案の可決を推進している。]]></summary>
+        <author>
+            <name>Cointelegraph  Christopher Tepedino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブータン政府、2週間で計50億円超相当のビットコインをバイナンスに送金]]></title>
+        <id>https://coinpost.jp/?p=632456</id>
+        <link href="https://coinpost.jp/?p=632456"/>
+        <updated>2025-07-10T23:00:53.000Z</updated>
+        <summary type="html"><![CDATA[ブータン政府は先週から今週にかけて、ビットコインを仮想通貨取引所バイナンスに送金。送金のタイミングが相場の上昇と一致していることから、売却の可能性を指摘する見方が上がった。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン供給ショック、次の急騰で15万ドル到達可能か　利確警戒も]]></title>
+        <id>https://coinpost.jp/?p=632463</id>
+        <link href="https://coinpost.jp/?p=632463"/>
+        <updated>2025-07-10T22:45:39.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコインの流通量の8割以上が長期保有者に集中し、企業による保有も加速。供給逼迫と新たな需要が重なり、価格は連日過去最高値を更新した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ジャック・マー氏支援のアントグループ、USDCの独自ブロックチェーン統合を検討か＝報道]]></title>
         <id>https://jp.cointelegraph.com/news/ant-group-circle-usdc-blockchain-integration</id>

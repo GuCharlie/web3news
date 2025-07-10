@@ -540,16 +540,6 @@
           "wordCount": 1409,
           "title": "AIとWeb3を使った開発、思ったより簡単",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/AI2Web3-scaled.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=301695",
-          "author": "橋本 祐樹",
-          "description": "ビットコインの実現利益は24億ドルに増加し、7日間平均は15億2000万ドルと5月以来の高水準となった。アメリカ上場のビットコイン現物ETFへの流入が続く中、長 ...\nビットコインの利益確定が加速、実現利益が24億ドルに急増／ビットコイン財務戦略は一時的な流行で、まもなく勢いを失う【日曜日に読みたい厳選10本】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/301695/",
-          "publishedOn": "2025-07-05T23:00:00.000Z",
-          "wordCount": 1582,
-          "title": "ビットコインの利益確定が加速、実現利益が24億ドルに急増／ビットコイン財務戦略は一時的な流行で、まもなく勢いを失う【日曜日に読みたい厳選10本】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/shutterstock_395413507-990x660-1.jpg"
         }
       ]
     },
@@ -2049,6 +2039,21 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-treasury-record-159107-btc-q2",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "2025年第2四半期、企業によるビットコインへの関心は新たな高まりを見せ、15万9107BTC（現在の価格で176億ドル超）が新たに企業のバランスシートに追加された。これは過去最高の四半期取得量であり、前四半期比で23.13％の増加となった。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-treasury-record-159107-btc-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-10T11:04:14.000Z",
+          "wordCount": null,
+          "title": "ビットコイン・トレジャリー企業による新規取得　第2四半期で15万9107BTCに　前四半期比で23％増",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzg3OGItOWIyNi03Y2NlLTg1ZTctMTJhYWUzNTE1OGY1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzg3OGItOWIyNi03Y2NlLTg1ZTctMTJhYWUzNTE1OGY1.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0710",
           "author": "Cointelegraph  ビットバンク　長谷川友哉",
           "description": "9日のビットコイン（BTC）円は1598万5円から取引が始まった。",
@@ -3375,6 +3380,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=139519",
+          "author": "よきょい",
+          "description": "7月17日、ビットコイン（BTC）の価格は101,000ドル前後で推移しており、イーサリアム（ETH）は約2,780ドル、ソラナ（SOL）は約157ドルで取引されています。世界の暗号資産時価総額は3.53兆ドルで、ビット […]\n投稿 【今日の暗号資産ニュース】ビットコイン史上最高値更新、米民主党がエルサルバドル大統領に制裁法案を提出 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitcoin-hits-new-all-time-high-as-us-democrats-submit-sanctions-bill-to-el-salvadors-president/",
+          "publishedOn": "2025-07-10T11:07:41.000Z",
+          "wordCount": 588,
+          "title": "【今日の暗号資産ニュース】ビットコイン史上最高値更新、米民主党がエルサルバドル大統領に制裁法案を提出",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_740407774.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=139557",
           "author": "Crypto Times 編集部",

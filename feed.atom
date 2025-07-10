@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-10T11:38:23.530Z</updated>
+    <updated>2025-07-10T12:34:52.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[リップル、「RLUSD」準備金のカストディアンとしてBNYメロンを選定]]></title>
+        <id>https://www.coindeskjapan.com/?p=302985</id>
+        <link href="https://www.coindeskjapan.com/302985/"/>
+        <updated>2025-07-10T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[決済に特化したデジタル資産企業のリップル（Ripple）社は9日、米ドル建てステーブルコイン「リップルUSD（RLUSD）」の準備金の主要カストディアンとして、 ...
+リップル、「RLUSD」準備金のカストディアンとしてBNYメロンを選定 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>廣瀬 優香</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分散型デリバティブ取引所「GMX」で約42億円の資金流出、GLP流動性プールが標的に]]></title>
         <id>https://www.neweconomy.jp/?p=482249</id>
@@ -3098,38 +3109,6 @@ BTC、DOGE、XRPが上昇──米財務長官が関税期限前の貿易合意�
 8つのウォレットが「サトシ時代」の8万ビットコイン、1.2兆円相当を移動 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIとWeb3を使った開発、思ったより簡単]]></title>
-        <id>https://www.coindeskjapan.com/?p=290952</id>
-        <link href="https://www.coindeskjapan.com/290952/"/>
-        <updated>2025-07-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI（人工知能）とWeb3を組み合わせれば、誰もが開発者になれるかもしれないと、Coinbase（コインベース）主催のブートキャンプに参加したベイリー・ロイツェ ...
-AIとWeb3を使った開発、思ったより簡単 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Bailey Reutzel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPモルガン、DeFiと伝統的金融の融合を推進　ブロックチェーンによる決済インフラが現実味]]></title>
-        <id>https://jp.cointelegraph.com/news/jpmorgan-defi-tradfi-convergence-closer</id>
-        <link href="https://jp.cointelegraph.com/news/jpmorgan-defi-tradfi-convergence-closer?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-07-05T23:58:06.000Z</updated>
-        <summary type="html"><![CDATA[JPモルガンのキネクシス（Kinexys）でブロックチェーン決済のイノベーションを率いるネリ・ザルツマン氏は、分散型金融（DeFi）と伝統的金融（TradFi）との間の境界線が、今後数年のうちに消える可能性があると述べた。]]></summary>
-        <author>
-            <name>Cointelegraph  Amin Haqshanas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港、8月1日からステーブルコイン新ライセンス制度を開始]]></title>
-        <id>https://crypto-times.jp/?p=139310</id>
-        <link href="https://crypto-times.jp/news-hong-kong-to-launch-new-stablecoin-licensing-regime-from-august-1/"/>
-        <updated>2025-07-05T23:44:30.000Z</updated>
-        <summary type="html"><![CDATA[香港は、8月1日から新たなステーブルコインのライセンス制度を開始することを発表しました。 新制度の下では、香港で法定通貨を参照するステーブルコインを発行する全ての事業体は香港金融管理局（HKMA）からライセンスを取得する […]
-投稿 香港、8月1日からステーブルコイン新ライセンス制度を開始 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
         </author>
     </entry>
 </feed>

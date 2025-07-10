@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-10T21:16:57.490Z</updated>
+    <updated>2025-07-10T21:40:18.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[株価前日比2倍急騰、BIT Miningがビットコインからソラナへ戦略転換]]></title>
+        <id>https://coinpost.jp/?p=632455</id>
+        <link href="https://coinpost.jp/?p=632455"/>
+        <updated>2025-07-10T21:35:06.000Z</updated>
+        <summary type="html"><![CDATA[NYSE上場のBITマイニングがソラナエコシステムへの戦略転換を発表。最大3億ドル調達でSOL蓄積計画を明らかにし、保有仮想通貨の全額転換とバリデーター運営を予定。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi業界に朗報、米国税庁が仮想通貨ブローカー規則を正式撤廃]]></title>
+        <id>https://coinpost.jp/?p=632453</id>
+        <link href="https://coinpost.jp/?p=632453"/>
+        <updated>2025-07-10T21:15:08.000Z</updated>
+        <summary type="html"><![CDATA[米財務省とIRSが分散型取引所への顧客情報提出義務を課すDeFiブローカー規則を正式撤廃。議会決議とトランプ大統領の署名を受け、連邦税法から完全削除された。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ミームコイン急騰、PENGUやWIFが市場を牽引]]></title>
         <id>https://coinpost.jp/?p=632449</id>

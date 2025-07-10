@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-10T06:25:19.340Z</updated>
+    <updated>2025-07-10T06:52:23.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ニュージーランド、マネロン対策を大幅強化。暗号資産ATM禁止や送金上限設定も]]></title>
+        <id>https://www.neweconomy.jp/?p=482056</id>
+        <link href="https://www.neweconomy.jp/posts/482056"/>
+        <updated>2025-07-10T06:41:23.000Z</updated>
+        <summary type="html"><![CDATA[取締り権限の強化も検討 ニュージーランドは、マネーロンダリングの防止や犯罪資金撲滅を目的として、暗号資産（仮想通貨）ATMの使用禁止や国際送金における現金の上限を1回あたり5,000ドルに設定する方針を示した。同国の司法 […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[堅調なロビンフッド株　ブロックチェーンとトークン化戦略が新たな成長原動力に]]></title>
+        <id>https://jp.cointelegraph.com/news/robinhood-stock-rises-crypto-tokenization</id>
+        <link href="https://jp.cointelegraph.com/news/robinhood-stock-rises-crypto-tokenization?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-07-10T06:25:40.000Z</updated>
+        <summary type="html"><![CDATA[ロビンフッドが進めるブロックチェーン技術とトークン化への戦略的な取り組みが、同社の株価を過去1か月で約30％押し上げ、新たな成長ドライバーとして注目を集めている。一方で、一部のプロダクトをめぐっては規制当局の監視も強まっている。]]></summary>
+        <author>
+            <name>Cointelegraph  Sam Bourgi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[主流メディアのビットコイン報道　3つの「物語」に分岐　媒体でトピックにも偏り＝レポート]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-lacked-coverage-mass-media-q2-report</id>

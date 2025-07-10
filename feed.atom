@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-10T12:34:52.254Z</updated>
+    <updated>2025-07-10T13:31:43.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[独取引所Bullishがソラナ財団と提携、Solana基盤ステーブルコインを取引・決済に採用へ]]></title>
+        <id>https://www.neweconomy.jp/?p=482283</id>
+        <link href="https://www.neweconomy.jp/posts/482283"/>
+        <updated>2025-07-10T13:03:53.000Z</updated>
+        <summary type="html"><![CDATA[Bullishとソラナ財団が提携 機関投資家向けに特化した独暗号資産（仮想通貨）取引所ブリッシュ（Bullish）が、ソラナ財団（Solana Foundation）と提携し、ソラナ（Solana）基盤のステーブルコイン […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リップル、「RLUSD」準備金のカストディアンとしてBNYメロンを選定]]></title>
         <id>https://www.coindeskjapan.com/?p=302985</id>
@@ -3088,27 +3098,6 @@ BTC、DOGE、XRPが上昇──米財務長官が関税期限前の貿易合意�
         <summary type="html"><![CDATA[今週は金融アドバイザーの推奨ポートフォリオ、Bitwiseのビットコイン20万ドル到達予測維持、アリゾナ州知事による押収仮想通貨の準備基金法案への拒否権行使に関するニュースが最も関心を集めた。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トルコ金融当局、パンケーキスワップなど46の仮想通貨関連サイトへのアクセスを遮断]]></title>
-        <id>https://jp.cointelegraph.com/news/turkey-blocks-pancakeswap-crypto-websites</id>
-        <link href="https://jp.cointelegraph.com/news/turkey-blocks-pancakeswap-crypto-websites?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-07-06T01:06:57.000Z</updated>
-        <summary type="html"><![CDATA[トルコの金融規制機関である資本市場委員会（CMB）は、無許可で仮想通貨関連サービスを提供しているとして、複数のウェブサイトへのアクセスを遮断したと発表した。]]></summary>
-        <author>
-            <name>Cointelegraph  Turner Wright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8つのウォレットが「サトシ時代」の8万ビットコイン、1.2兆円相当を移動]]></title>
-        <id>https://www.coindeskjapan.com/?p=302146</id>
-        <link href="https://www.coindeskjapan.com/302146/"/>
-        <updated>2025-07-06T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン・ネットワークの初期、いわゆる「サトシ時代（Satoshi era）」にマイニングされた80億ドル（約1兆1600億円、1ドル145円換算）相当のビ ...
-8つのウォレットが「サトシ時代」の8万ビットコイン、1.2兆円相当を移動 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>

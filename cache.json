@@ -530,16 +530,6 @@
           "wordCount": 1381,
           "title": "80億ドル相当のビットコイン移動、先にビットコインキャッシュで秘密裏にテストか",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/shutterstock_2503814957.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=302146",
-          "author": "Shaurya Malwa",
-          "description": "ビットコイン・ネットワークの初期、いわゆる「サトシ時代（Satoshi era）」にマイニングされた80億ドル（約1兆1600億円、1ドル145円換算）相当のビ ...\n8つのウォレットが「サトシ時代」の8万ビットコイン、1.2兆円相当を移動 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/302146/",
-          "publishedOn": "2025-07-06T01:00:00.000Z",
-          "wordCount": 1438,
-          "title": "8つのウォレットが「サトシ時代」の8万ビットコイン、1.2兆円相当を移動",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/image-19.jpg"
         }
       ]
     },
@@ -1461,6 +1451,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=482283",
+          "author": "HitomotoToshikazu",
+          "description": "Bullishとソラナ財団が提携 機関投資家向けに特化した独暗号資産（仮想通貨）取引所ブリッシュ（Bullish）が、ソラナ財団（Solana Foundation）と提携し、ソラナ（Solana）基盤のステーブルコイン […]",
+          "link": "https://www.neweconomy.jp/posts/482283",
+          "publishedOn": "2025-07-10T13:03:53.000Z",
+          "wordCount": 754,
+          "title": "独取引所Bullishがソラナ財団と提携、Solana基盤ステーブルコインを取引・決済に採用へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/10220342/6936a7b221d1599d4173006aa5800b6b.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=482249",
           "author": "TamuraSeiji",
@@ -3352,21 +3352,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2RjMGItN2E5MS03MzgyLWI4NDItMDViZDI2MjYyZWU0.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/turkey-blocks-pancakeswap-crypto-websites",
-          "author": "Cointelegraph  Turner Wright",
-          "description": "トルコの金融規制機関である資本市場委員会（CMB）は、無許可で仮想通貨関連サービスを提供しているとして、複数のウェブサイトへのアクセスを遮断したと発表した。",
-          "link": "https://jp.cointelegraph.com/news/turkey-blocks-pancakeswap-crypto-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-06T01:06:57.000Z",
-          "wordCount": null,
-          "title": "トルコ金融当局、パンケーキスワップなど46の仮想通貨関連サイトへのアクセスを遮断",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTViYjctNDBkNS03OTJhLWE0ZjktNDYwODg3OGM4MjI5.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTViYjctNDBkNS03OTJhLWE0ZjktNDYwODg3OGM4MjI5.jpg"
         }
       ]
     },

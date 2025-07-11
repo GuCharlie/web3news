@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-11T14:43:58.676Z</updated>
+    <updated>2025-07-11T15:17:38.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン上昇はドル安を反映──他の資産との比較では今後の障壁が浮き彫りに]]></title>
+        <id>https://www.coindeskjapan.com/?p=303170</id>
+        <link href="https://www.coindeskjapan.com/303170/"/>
+        <updated>2025-07-11T15:00:07.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は11日に史上最高値に達し、現在は11万7000ドル（約1697万円、1ドル145円換算）を超える水準で価格発見局面にある。しかし、ビット ...
+ビットコイン上昇はドル安を反映──他の資産との比較では今後の障壁が浮き彫りに first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アリババ傘下のアント・グループ、サークル「USDC」を独自チェーンに統合か＝報道]]></title>
         <id>https://www.neweconomy.jp/?p=482579</id>
@@ -3692,58 +3703,6 @@ RWA（現実資産）の次の進化が暗号資産の真の強みとなる理�
         <updated>2025-07-07T03:19:13.000Z</updated>
         <summary type="html"><![CDATA[7月4日、14年間休眠状態だったウォレットから約86億ドル相当のビットコイン（BTC）が移動され、暗号資産市場で大きな憶測を呼んでいます。コインベースのプロダクト責任者であるコナー・グローガン氏は、これが史上最大の不正送 […]
 投稿 史上最大の不正送金か？8万BTCの送金にハッキング疑惑 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UAE当局、トンコインによるゴールデンビザ取得プログラムを否定＝報道]]></title>
-        <id>https://coinpost.jp/?p=631033</id>
-        <link href="https://coinpost.jp/?p=631033"/>
-        <updated>2025-07-07T03:15:53.000Z</updated>
-        <summary type="html"><![CDATA[アラブ首長国連邦当局がトンコインのステーキングでゴールデンビザを取得できるプログラムを否定した。当ビザの要件で仮想通貨投資家は対象外と表明している。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国半導体が世界最大へ、2030年に暗号資産マイニングに激震か？]]></title>
-        <id>https://crypto-times.jp/?p=139343</id>
-        <link href="https://crypto-times.jp/news-chinas-semiconductors-to-become-the-worlds-largest-will-this-lead-to-a-major-shock-to-cryptocurrency-mining-in-2030/"/>
-        <updated>2025-07-07T03:13:36.000Z</updated>
-        <summary type="html"><![CDATA[中国の半導体製造能力が急速に拡大し、2030年までに台湾を抜いて世界最大のファウンドリ拠点となる見通しです。調査会社Yole Groupの最新予測によると、この動きは米国の輸出規制強化に対抗し中国が技術的自給自足を目指す […]
-投稿 中国半導体が世界最大へ、2030年に暗号資産マイニングに激震か？ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン高値圏で推移、取引所の流入・流出比率は3年ぶり低水準に]]></title>
-        <id>https://coinpost.jp/?p=631021</id>
-        <link href="https://coinpost.jp/?p=631021"/>
-        <updated>2025-07-07T03:07:11.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインは109,060ドルで小幅上昇。取引所流入・流出比率が0.9まで低下し、2023年弱気相場以来の最低水準を記録。昨年11月の米大統領選以降、約20万BTCが取引所から流出し、残高は280万BTCと7年ぶりの低水準となった。これは投資家の長期保有志向の強まりを示しており、短期投機から長期価値投資へのシフトが鮮明になっている。]]></summary>
-        <author>
-            <name>S.Ninomiya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPYC、資金移動業でJVCEAの第二種会員に]]></title>
-        <id>https://www.neweconomy.jp/?p=481170</id>
-        <link href="https://www.neweconomy.jp/posts/481170"/>
-        <updated>2025-07-07T03:05:27.000Z</updated>
-        <summary type="html"><![CDATA[JPYCがJVCEAの第二種会員（資金移動業）に 第1号電子決済手段として日本円ステーブルコイン「JPYC」の発行を目指すJPYC社が、JVCEA（日本暗号資産等取引業協会）に第二種会員（資金移動業）として入会したことが […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10万ドルでUAE居住権？TONステーキングでビザ取得可能に]]></title>
-        <id>https://crypto-times.jp/?p=139342</id>
-        <link href="https://crypto-times.jp/news-uae-residency-for-100000-ton-staking-allows-you-to-obtain-a-visa/"/>
-        <updated>2025-07-07T02:57:29.000Z</updated>
-        <summary type="html"><![CDATA[テレグラムのオープンネットワーク（TON）は、暗号資産を利用した新たな居住権取得プログラムを発表しました。10万ドル相当のトンコイン（TON）を3年間ステーキングすることで、アラブ首長国連邦（UAE）の10年間のゴールデ […]
-投稿 10万ドルでUAE居住権？TONステーキングでビザ取得可能に は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>よきょい</name>
         </author>

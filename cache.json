@@ -1842,6 +1842,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=482510",
+          "author": "OtsugaShinya",
+          "description": "化粧品販売のフォーシーズHDがビットコイン購入へ 化粧品・健康食品を軸とした通信販売事業を展開する福岡市拠点の東証スタンダード上場企業フォーシーズHDが、新たに開始する金融サービス事業にて、ビットコインを購入することを決 […]",
+          "link": "https://www.neweconomy.jp/posts/482510",
+          "publishedOn": "2025-07-11T10:32:28.000Z",
+          "wordCount": 600,
+          "title": "化粧品販売のフォーシーズHDがビットコイン購入へ、再生可能エネルギー事業にweb3活用も",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/11185632/BTC-250711PIXTA.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=482502",
           "author": "OtsugaShinya",
           "description": "リミポがビットコイン追加購入 東証スタンダード上場企業のリミックスポイントが、ビットコインの追加購入実施を7月11日に発表した。 発表によると同社は今回、7月11日に20億円で116.72016341BTCを購入。平均取 […]",
@@ -4017,51 +4027,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/cz-questions-ton-uae-golden-visa-crypto-residency",
-          "author": "Cointelegraph  Sam Bourgi",
-          "description": "TONによる「ステーキングでUAEゴールデンビザ取得」プログラムに対し、バイナンス前CEOのCZ氏が懐疑的な見方を示している。",
-          "link": "https://jp.cointelegraph.com/news/cz-questions-ton-uae-golden-visa-crypto-residency?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-06T22:40:15.000Z",
-          "wordCount": null,
-          "title": "「本当なのか？」TONのUAEゴールデンビザ発表にCZが疑問｜政府当局は沈黙",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2UxMTgtNGExYi03MTEwLWEyNjQtZTAxOWY1ODNkNDgz.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2UxMTgtNGExYi03MTEwLWEyNjQtZTAxOWY1ODNkNDgz.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-cup-and-handle-breakout-230k-target-sol-2800-gain",
-          "author": "Cointelegraph  William Suberg",
-          "description": "月足チャートの分析によると、ビットコインとソラナがともに「カップ・アンド・ハンドル型」のブレイクアウトを達成すれば、天文学的な上昇が見込まれる。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-cup-and-handle-breakout-230k-target-sol-2800-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-06T22:32:18.000Z",
-          "wordCount": null,
-          "title": "ビットコイン「カップ・アンド・ハンドル」型で23万ドル視野、ソラナは2800％上昇の可能性",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2RmYmEtOTkwOS03MWYxLWJkNDYtYzdkMGY3N2IzMWZi.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2RmYmEtOTkwOS03MWYxLWJkNDYtYzdkMGY3N2IzMWZi.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/secret-service-seizes-400m-crypto-cold-wallet",
-          "author": "Cointelegraph  Amin Haqshanas",
-          "description": "米シークレットサービスが過去10年で4億ドル相当の仮想通貨を押収し、世界最大級のコールドウォレットを保有していることが明らかになった。ブロックチェーン分析やVPNの接続記録などを手がかりに、巧妙な詐欺の手口を突き止めている。",
-          "link": "https://jp.cointelegraph.com/news/secret-service-seizes-400m-crypto-cold-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-06T22:23:07.000Z",
-          "wordCount": null,
-          "title": "米シークレットサービス、仮想通貨4億ドルを押収｜世界最大級のコールドウォレットを保有",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2RlODQtNmJmMi03MzQzLTllZGMtZWE0YTczYzM5MDVm.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2RlODQtNmJmMi03MzQzLTllZGMtZWE0YTczYzM5MDVm.jpg"
         }
       ]
     },

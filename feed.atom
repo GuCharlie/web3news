@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-11T08:48:47.166Z</updated>
+    <updated>2025-07-11T09:18:24.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「金持ち父さん」著者がビットコインを選ぶ理由とは？“いまさら聞けない”投資哲学も解説]]></title>
+        <id>https://coinpost.jp/?p=630086</id>
+        <link href="https://coinpost.jp/?p=630086"/>
+        <updated>2025-07-11T09:03:42.000Z</updated>
+        <summary type="html"><![CDATA[『金持ち父さん貧乏父さん』著者のロバート・キヨサキ氏が、仮想通貨投資家から大きな注目を集めています。本記事では、キヨサキ氏の主張から仮想通貨投資のポイントや経済的自由を獲得する手段を探ります。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BAYC関連イベント「ApeFest 2025」ラスベガスで開催決定]]></title>
         <id>https://crypto-times.jp/?p=139600</id>
@@ -3715,17 +3725,6 @@ BTC、DOGE、XRPが上昇──米財務長官が関税期限前の貿易合意�
         <summary type="html"><![CDATA[アーカムは、この大規模なビットコイン移動はウォレットのアップグレードによる可能性があるとするが、業界内では他の見方も出ている。]]></summary>
         <author>
             <name>Cointelegraph  Ciaran Lyons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーブルコインを支援しなければ、金融における存在感を失う：ECB元理事が警告]]></title>
-        <id>https://www.coindeskjapan.com/?p=302153</id>
-        <link href="https://www.coindeskjapan.com/302153/"/>
-        <updated>2025-07-06T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ステーブルコインは急速に成長している。だがRWA.xyzのデータによると、2550億ドル（約37兆円、1ドル145円換算）規模のステーブルコイン市場の大部分は現 ...
-ステーブルコインを支援しなければ、金融における存在感を失う：ECB元理事が警告 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Francisco Rodrigues</name>
         </author>
     </entry>
 </feed>

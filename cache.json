@@ -560,16 +560,6 @@
           "wordCount": 1323,
           "title": "ビットコインのクジラは史上最高値付近でも買い増しを続けている",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2020/12/whales-feeding.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=302362",
-          "author": "Omkar Godbole",
-          "description": "ビットコイン（BTC）市場のコンセンサスは、価格が過去2カ月間のうち1日を除いて10万ドルを上回っているにもかかわらず、依然として強気な見方が支配的だ。アナリス ...\nビットコインの強気相場における潜在的な抵抗線は11万5000ドルか、それとも22万3000ドルか：テクニカル分析 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/302362/",
-          "publishedOn": "2025-07-07T10:10:00.000Z",
-          "wordCount": 1380,
-          "title": "ビットコインの強気相場における潜在的な抵抗線は11万5000ドルか、それとも22万3000ドルか：テクニカル分析",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2019/10/Bull.jpg"
         }
       ]
     },
@@ -584,6 +574,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=632873",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨ビットコインが史上最高値11万8000ドルを更新する中、取引所流入量は2015年以来最低水準に。グラスノードとクリプトクアントが売り圧力減少の実態を分析。",
+          "link": "https://coinpost.jp/?p=632873",
+          "publishedOn": "2025-07-11T22:10:56.000Z",
+          "wordCount": 3223,
+          "title": "ビットコイン11.8万ドル突破も売り圧力低下、長期保有者は静観か＝グラスノード",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/bitcoin-big-jump-no-sell.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/bitcoin-big-jump-no-sell.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=632867",
+          "author": "菊谷ルイス",
+          "description": "ナスダック上場のeコマース企業ウペクシが2億ドルの私募調達を発表。ビッグブレイン・ホールディングスが主導し、ソラナ保有量を73万6000枚から165万枚に倍増へ。",
+          "link": "https://coinpost.jp/?p=632867",
+          "publishedOn": "2025-07-11T21:20:32.000Z",
+          "wordCount": 3222,
+          "title": "Upexi、2億ドル調達でソラナ保有量を165万SOLに拡大予定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/solana-google-cloud.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/solana-google-cloud.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=632863",
+          "author": "菊谷ルイス",
+          "description": "ナスダック上場のシャープリンク・ゲーミングが、イーサリアム財団から1万ETH（約37億円）を直接購入。同社のETH保有量は215,634枚となり、世界第2位の企業保有量を拡大。",
+          "link": "https://coinpost.jp/?p=632863",
+          "publishedOn": "2025-07-11T20:55:39.000Z",
+          "wordCount": 3225,
+          "title": "シャープリンク、イーサリアム財団から1万ETH直接購入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/sharplink.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/sharplink.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=632743",
           "author": "Ritsuki.Kumazawa",
@@ -2313,6 +2348,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/sp500-record-high-bitcoin-etf-inflows-2025",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "4月以降、米株式市場はV字回復を遂げ、S&P500指数は過去最高値を更新した。しかし、ビットコイン建で見ると、依然として同指数は大幅な下落となっており、ビットコインの力強いパフォーマンスが際立っている。",
+          "link": "https://jp.cointelegraph.com/news/sp500-record-high-bitcoin-etf-inflows-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-11T21:42:29.000Z",
+          "wordCount": null,
+          "title": "ビットコインがS&amp;P500を圧倒　デジタル資産の優位が浮き彫りに",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2ZhNGMtNzgxZS03MjE5LThhMjItZjcyMTAxNWU5YmJi.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2ZhNGMtNzgxZS03MjE5LThhMjItZjcyMTAxNWU5YmJi.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/sharplink-gaming-buys-10-000-eth-from-ethereum-foundation-as-ether-reclaims-3k",
           "author": "Cointelegraph  Adrian Zmudzinski",
@@ -4184,16 +4234,6 @@
           "wordCount": 600,
           "title": "トランプ政権、8月1日から日本に25%関税適用｜仮想通貨市場は無風",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_2559561517.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=139385",
-          "author": "Crypto Times 編集部",
-          "description": "株式会社メタプラネットは2025年7月7日、344億8700万円相当のビットコイン（2,205BTC）を追加購入したことを発表しました。これにより、同社のビットコイン総保有枚数は15,555BTCとなり、市場の注目を集め […]\n投稿 止まらぬビットコイン買いのメタプラネット、株価の方向性に注目 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-metaplanet-stock-7-7/",
-          "publishedOn": "2025-07-07T09:56:48.000Z",
-          "wordCount": 580,
-          "title": "止まらぬビットコイン買いのメタプラネット、株価の方向性に注目",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2087444185.jpg"
         }
       ]
     }

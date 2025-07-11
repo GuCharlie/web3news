@@ -550,16 +550,6 @@
           "wordCount": 1244,
           "title": "メタプラネット、過去最大2205ビットコインを追加購入──総保有量は15555BTCに",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/メタプラネット-2025-05-07-16.45.47-990x660-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=302378",
-          "author": "James Van Straten",
-          "description": "ビットコイン（BTC）のクジラ、つまり1万BTC以上を保有する投資家たちは、価格が過去最高値の約11万2000ドルをわずか数%下回る水準で推移しているにもかかわ ...\nビットコインのクジラは史上最高値付近でも買い増しを続けている first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/302378/",
-          "publishedOn": "2025-07-07T10:35:00.000Z",
-          "wordCount": 1323,
-          "title": "ビットコインのクジラは史上最高値付近でも買い増しを続けている",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2020/12/whales-feeding.jpg"
         }
       ]
     },
@@ -574,6 +564,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=632874",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨イーサリアムの価格は節目となる3,000ドルを約5カ月ぶりに突破した。価格上昇の要因には、ETFへの資金流入や企業購入の増加などが挙げられる。",
+          "link": "https://coinpost.jp/?p=632874",
+          "publishedOn": "2025-07-11T22:30:39.000Z",
+          "wordCount": 3243,
+          "title": "イーサリアム、5カ月ぶりに3000ドル突破　ETFの資金流入や企業購入などが相場を後押し",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/ethereum254.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/ethereum254.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=632873",
           "author": "菊谷ルイス",
@@ -2348,6 +2353,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/is-the-crypto-market-entering-a-new-supercycle-here-are-5-ways-to-know",
+          "author": "Cointelegraph  Marcel Pechman",
+          "description": "仮想通貨トレーダーたちは常に、ビットコイン（BTC）の半減期ごとに発生してきた4年周期の上昇パターンを超える「スーパーサイクル」の始まりを待ち望んでいる。",
+          "link": "https://jp.cointelegraph.com/news/is-the-crypto-market-entering-a-new-supercycle-here-are-5-ways-to-know?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-11T22:13:28.000Z",
+          "wordCount": null,
+          "title": "仮想通貨市場は新たな「スーパーサイクル」に突入しているか？ ドル安・ETF・ビットコイン備蓄がカギに",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2ZhZDktZjliYy03NDBjLWI4NjgtOTJlYTFkMmEyZmMx.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2ZhZDktZjliYy03NDBjLWI4NjgtOTJlYTFkMmEyZmMx.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/sp500-record-high-bitcoin-etf-inflows-2025",
           "author": "Cointelegraph  Sam Bourgi",

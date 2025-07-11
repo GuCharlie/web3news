@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-11T22:15:36.249Z</updated>
+    <updated>2025-07-11T22:43:13.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム、5カ月ぶりに3000ドル突破　ETFの資金流入や企業購入などが相場を後押し]]></title>
+        <id>https://coinpost.jp/?p=632874</id>
+        <link href="https://coinpost.jp/?p=632874"/>
+        <updated>2025-07-11T22:30:39.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムの価格は節目となる3,000ドルを約5カ月ぶりに突破した。価格上昇の要因には、ETFへの資金流入や企業購入の増加などが挙げられる。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨市場は新たな「スーパーサイクル」に突入しているか？ ドル安・ETF・ビットコイン備蓄がカギに]]></title>
+        <id>https://jp.cointelegraph.com/news/is-the-crypto-market-entering-a-new-supercycle-here-are-5-ways-to-know</id>
+        <link href="https://jp.cointelegraph.com/news/is-the-crypto-market-entering-a-new-supercycle-here-are-5-ways-to-know?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-07-11T22:13:28.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨トレーダーたちは常に、ビットコイン（BTC）の半減期ごとに発生してきた4年周期の上昇パターンを超える「スーパーサイクル」の始まりを待ち望んでいる。]]></summary>
+        <author>
+            <name>Cointelegraph  Marcel Pechman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン11.8万ドル突破も売り圧力低下、長期保有者は静観か＝グラスノード]]></title>
         <id>https://coinpost.jp/?p=632873</id>
@@ -3422,17 +3442,6 @@ RWA（現実資産）の次の進化が暗号資産の真の強みとなる理�
 メタプラネット、過去最大2205ビットコインを追加購入──総保有量は15555BTCに first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインのクジラは史上最高値付近でも買い増しを続けている]]></title>
-        <id>https://www.coindeskjapan.com/?p=302378</id>
-        <link href="https://www.coindeskjapan.com/302378/"/>
-        <updated>2025-07-07T10:35:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）のクジラ、つまり1万BTC以上を保有する投資家たちは、価格が過去最高値の約11万2000ドルをわずか数%下回る水準で推移しているにもかかわ ...
-ビットコインのクジラは史上最高値付近でも買い増しを続けている first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>James Van Straten</name>
         </author>
     </entry>
 </feed>

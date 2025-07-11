@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=303188",
+          "author": "Helene Braun",
+          "description": "ビットコイン（BTC）が11万7000ドルを超える記録的な高値で取引される中、最大規模の保有企業の一部は莫大な含み益を抱えている。しかし、彼らがビットコインを売 ...\nストラテジーやメタプラネット、莫大なビットコインの含み益でも、売却はせず first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/303188/",
+          "publishedOn": "2025-07-11T23:30:00.000Z",
+          "wordCount": 1441,
+          "title": "ストラテジーやメタプラネット、莫大なビットコインの含み益でも、売却はせず",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/shutterstock_745128472.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=303180",
           "author": "Helene Braun",
           "description": "ビットコイン（BTC）現物ETFは7月10日、10億ドル（約1470億円、1ドル＝147円換算）を超える資金流入を記録し、上場以来最も多くの流入を記録した日のひ ...\nビットコイン現物ETFに1日で約1470億円の資金流入──IBITは運用資産残高800億ドルを最速で達成 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -550,16 +560,6 @@
           "wordCount": 1324,
           "title": "ビットコイン、10万8000ドルを割り込み、週末の値上がり分を消失──トランプ関税の新展開を受け",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/16655f048d7ecb520fc2d371a200a91a7fc9360e-2396x1334-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=302393",
-          "author": "栃山直樹",
-          "description": "メタプラネットは7月7日、ビットコイン（BTC）トレジャリー事業の一環として過去最大規模となる2205BTCの追加購入を実施し、総保有量が1万5555BTCに達 ...\nメタプラネット、過去最大2205ビットコインを追加購入──総保有量は15555BTCに first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/302393/",
-          "publishedOn": "2025-07-07T11:38:28.000Z",
-          "wordCount": 1244,
-          "title": "メタプラネット、過去最大2205ビットコインを追加購入──総保有量は15555BTCに",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/メタプラネット-2025-05-07-16.45.47-990x660-1.jpg"
         }
       ]
     },
@@ -2363,6 +2363,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/us-democrats-crypto-bills-anti-corruption-week",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "米議会におけるデジタル資産をめぐる政治的対立がさらに深まっている。共和党が仮想通貨関連の3法案を来週から審議入りさせるなか、下院民主党の主要メンバーはこれに対抗する方針を明らかにした。",
+          "link": "https://jp.cointelegraph.com/news/us-democrats-crypto-bills-anti-corruption-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-11T23:16:56.000Z",
+          "wordCount": null,
+          "title": "仮想通貨規制をめぐり米議会で対立　民主党が共和党主導の法案に反発",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2ZhNmMtODU3OS03Y2VmLWFkZTQtMjI3MTkwZjIwZDBm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2ZhNmMtODU3OS03Y2VmLWFkZTQtMjI3MTkwZjIwZDBm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/is-the-crypto-market-entering-a-new-supercycle-here-are-5-ways-to-know",
           "author": "Cointelegraph  Marcel Pechman",

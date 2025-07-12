@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-12T09:16:06.070Z</updated>
+    <updated>2025-07-12T09:39:35.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米国のビットコインETF　2日連続で10億ドル超の資金流入　昨年1月のローンチ以来で初]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-etf-1b-inflows-btc-price-surge-blackrock-ibit</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-etf-1b-inflows-btc-price-surge-blackrock-ibit?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-07-12T09:23:16.000Z</updated>
+        <summary type="html"><![CDATA[米国で取引されている現物ビットコイン上場投資信託（ETF）への資金流入が勢いを増している。1日あたりの流入額が10億ドルを超える日が2日連続で続いたのは、2024年1月のローンチ以来初めてとなった。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【今日の暗号資産ニュース】ビットコインETF「IBIT」が史上最速で800億ドル達成、イーサリアム3000ドル突破]]></title>
         <id>https://crypto-times.jp/?p=139681</id>
@@ -3664,16 +3674,6 @@ SEC、ソラナ現物ETFの再申請の期限を7月末に設定──10月前�
         <summary type="html"><![CDATA[ビットコインは11万500ドルのレジスタンスを突破できなかったが、チャートはBTCおよびアルトコインで押し目買いが続く可能性を示している。]]></summary>
         <author>
             <name>Cointelegraph  Rakesh Upadhyay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[売却ではなくアドレス更新か、14年以上動かなかった1兆円相当のビットコイン移動の謎]]></title>
-        <id>https://coinpost.jp/?p=631251</id>
-        <link href="https://coinpost.jp/?p=631251"/>
-        <updated>2025-07-07T21:25:48.000Z</updated>
-        <summary type="html"><![CDATA[14年間動かなかった8万BTC超（1兆円相当）が先週末に移動。アーカムや有識者は単純なアドレス更新の可能性を指摘。売却の兆候は確認されていない。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

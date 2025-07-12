@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=303198",
+          "author": "Krisztian Sandor",
+          "description": "時価総額で第2位の暗号資産（仮想通貨）であるイーサリアム（ETH）に対する投資家の関心が高まっており、米国上場のETH現物ETFは、登場から1年間で最も強い上昇 ...\nイーサリアムETFへの資金流入が急増──ブラックロックのETHAには1日で過去最高の440億円超が流入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/303198/",
+          "publishedOn": "2025-07-12T01:11:17.000Z",
+          "wordCount": 1392,
+          "title": "イーサリアムETFへの資金流入が急増──ブラックロックのETHAには1日で過去最高の440億円超が流入",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/shutterstock_2472008131.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=302988",
+          "author": "蓮田光則",
+          "description": "ニュージーランド政府は、マネーロンダリング対策およびテロ資金供与対策（AML/CFT）制度の見直しの一環として、暗号資産（仮想通貨）ATMの禁止を計画している。 ...\n暗号資産ATMを禁止へ──ニュージーランド、マネロン対策の一環で first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/302988/",
+          "publishedOn": "2025-07-12T00:00:00.000Z",
+          "wordCount": 1305,
+          "title": "暗号資産ATMを禁止へ──ニュージーランド、マネロン対策の一環で",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/New-Zealand-Wants-to-Ban-Crypto-ATMs-in-Anti-Money-Laundering-Overhaul.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=303188",
           "author": "Helene Braun",
           "description": "ビットコイン（BTC）が11万7000ドルを超える記録的な高値で取引される中、最大規模の保有企業の一部は莫大な含み益を抱えている。しかし、彼らがビットコインを売 ...\nストラテジーやメタプラネット、莫大なビットコインの含み益でも、売却はせず first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -574,6 +594,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=632906",
+          "author": "A.Yamada",
+          "description": "イーサリアム財団が1年以内にメインネットへzkEVMを導入するロードマップを発表した。ゼロ知識証明技術でスケーラビリティとプライバシー保護を強化する計画である。",
+          "link": "https://coinpost.jp/?p=632906",
+          "publishedOn": "2025-07-12T01:10:48.000Z",
+          "wordCount": 3234,
+          "title": "イーサリアム、「世界最大のZKアプリ」に　メインネットにゼロ知識証明を導入へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/ethereum-network-value.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/ethereum-network-value.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=632904",
+          "author": "菊谷ルイス",
+          "description": "カリフォルニア州のAB1180法案が上院委員会で修正され、ビットコインなど仮想通貨を除外しステーブルコインのみの決済受け入れに変更。可決されれば2029年施行予定となる。",
+          "link": "https://coinpost.jp/?p=632904",
+          "publishedOn": "2025-07-12T00:40:39.000Z",
+          "wordCount": 3212,
+          "title": "カリフォルニア州仮想通貨決済法案、ビットコイン除外でステーブルコインに限定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/california_bitcoin1-scaled.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/california_bitcoin1-scaled.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=632638",
+          "author": "幸田直子",
+          "description": "ビットコインが史上最高値を更新する中、スタンダード・チャータード銀行、ARKインベストなど主要機関・専門家による2025年末〜2030年の価格予測をまとめた。",
+          "link": "https://coinpost.jp/?p=632638",
+          "publishedOn": "2025-07-12T00:00:21.000Z",
+          "wordCount": 3248,
+          "title": "史上最高値更新のビットコイン、今後の価格はどうなる？【価格予測まとめ】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/coinshare-bad-news-strong.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/coinshare-bad-news-strong.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=632892",
+          "author": "菊谷ルイス",
+          "description": "グレースケールが米SECによる仮想通貨ファンドETF化承認停止に反発。240日期限切れによる自動承認を主張し、投資家への損害を指摘。",
+          "link": "https://coinpost.jp/?p=632892",
+          "publishedOn": "2025-07-11T23:30:43.000Z",
+          "wordCount": 3216,
+          "title": "グレースケール、仮想通貨投信のETF申請は「自動承認された」と主張",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/sec-criticism.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/sec-criticism.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=632874",
           "author": "K.Kobayashi",
@@ -2363,6 +2443,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/binance-world-liberty-financial-stablecoin",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "仮想通貨取引所バイナンスが、トランプ大統領と関係のある仮想通貨企業ワールド・リバティ・ファイナンシャル（WLFI）のステーブルコイン「USD1」のコード開発に関与していた。複数の関係者の証言をもとにブルームバーグが報じた。",
+          "link": "https://jp.cointelegraph.com/news/binance-world-liberty-financial-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-12T00:28:32.000Z",
+          "wordCount": null,
+          "title": "仮想通貨取引所バイナンス　トランプ関連のステーブルコイン「USD1」開発に関与か＝報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Y5ZmEtNjlhMS03YTdjLTg0OGYtOGMyZDM3OWFlNDEz.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Y5ZmEtNjlhMS03YTdjLTg0OGYtOGMyZDM3OWFlNDEz.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/tether-discontinue-usdt-redemptions-five-legacy-blockchains",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "ステーブルコイン大手テザーは、2025年9月1日をもって5つのブロックチェーン上でのUSDTの償還サポートを終了すると発表した。",
+          "link": "https://jp.cointelegraph.com/news/tether-discontinue-usdt-redemptions-five-legacy-blockchains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-11T23:39:35.000Z",
+          "wordCount": null,
+          "title": "テザー、9月1日で5つのブロックチェーン上のUSDT償還を終了へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2ZhYWYtOGIwNS03OTVlLWIxNzYtZTFhNDE2MmRhOTdi.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2ZhYWYtOGIwNS03OTVlLWIxNzYtZTFhNDE2MmRhOTdi.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/us-democrats-crypto-bills-anti-corruption-week",
           "author": "Cointelegraph  Turner Wright",

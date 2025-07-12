@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-12T20:40:43.021Z</updated>
+    <updated>2025-07-12T21:14:24.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国　ステーブルコイン政策に軟化の兆し　上海での会合が転機になるか？]]></title>
+        <id>https://jp.cointelegraph.com/news/shanghai-mulls-stablecoin-despite-china-crypto-ban-report</id>
+        <link href="https://jp.cointelegraph.com/news/shanghai-mulls-stablecoin-despite-china-crypto-ban-report?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-07-12T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[中国本土は世界でも有数の仮想通貨規制国とされるが、上海では新たな動きが出ており、ステーブルコインに対する姿勢に変化の兆しが見え始めている。]]></summary>
+        <author>
+            <name>Cointelegraph  Helen Partz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンス創業者CZ氏　トランプ関連のステーブルコインに関与との報道を否定　「競合が仕掛けた中傷記事」]]></title>
         <id>https://jp.cointelegraph.com/news/binance-cz-sue-bloomberg-trump-stablecoin-report</id>
@@ -3041,26 +3051,6 @@ XRP先物市場で強気のシグナル──しかし現物価格は比較的�
         <summary type="html"><![CDATA[企業がビットコインを財務資産として保有するビットコイントレジャリー戦略が注目される理由と、専門家が指摘するリスクを詳しく解説する。投資制約の回避や効率的なレバレッジ活用のメリットがある一方で、企業がビットコイン利回りのみに頼りすぎることはリスクとなる。]]></summary>
         <author>
             <name>幸田直子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTC円はドル円上昇で売り買い相殺　底堅い展開続くか【ビットバンク仮想通貨分析】]]></title>
-        <id>https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0708</id>
-        <link href="https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0708?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-07-08T08:51:39.000Z</updated>
-        <summary type="html"><![CDATA[7日のビットコイン（BTC）円は1580万1円から取引が始まった。]]></summary>
-        <author>
-            <name>Cointelegraph  ビットバンク　長谷川友哉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTC円はドル円上昇で売り買い相殺　底堅い展開続くか【ビットバンク仮想通貨分析】]]></title>
-        <id>https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0708</id>
-        <link href="https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0708?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-07-08T08:51:39.000Z</updated>
-        <summary type="html"><![CDATA[7日のビットコイン（BTC）円は1580万1円から取引が始まった。]]></summary>
-        <author>
-            <name>Cointelegraph  ビットバンク　長谷川友哉</name>
         </author>
     </entry>
 </feed>

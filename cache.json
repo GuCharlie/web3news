@@ -2210,26 +2210,6 @@
           "wordCount": 772,
           "title": "ジャック・ドーシー、P2Pオフラインメッセージングアプリ「bitchat」リリース",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/08142441/a0f4468872da24810c431e3de6fe6f4b.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=481500",
-          "author": "gentosha_takahashi",
-          "description": "業界団体の異議申し立てが正式に終結 米財務省とワシントンDC拠点の業界支援団体「コインセンター（Coin Center）」が、暗号資産（仮想通貨）ミキシングプラットフォーム「トルネードキャッシュ（Tornado Cash […]",
-          "link": "https://www.neweconomy.jp/posts/481500",
-          "publishedOn": "2025-07-08T04:44:12.000Z",
-          "wordCount": 785,
-          "title": "米財務省とCoin Center、「トルネードキャッシュ制裁」めぐる訴訟終結に合意",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/08134406/503107cc3cbafd7a44a3317ae1cbc3d0.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=481493",
-          "author": "OtsugaShinya",
-          "description": "TRUMPがトロン上で発行へ ドナルド・トランプ（Donald Trump）米大統領の公式ミームコイン「OFFICIAL TRUMP：オフィシャルトランプ（TRUMP）」が、新たにトロン（Tron）ネットワーク上で発行さ […]",
-          "link": "https://www.neweconomy.jp/posts/481493",
-          "publishedOn": "2025-07-08T04:21:57.000Z",
-          "wordCount": 658,
-          "title": "トランプコイン（TRUMP）、トロン上で発行へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/08132137/f45f9a0f13a148e6c713053d5e420f18.jpg"
         }
       ]
     },
@@ -2238,6 +2218,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/altcoin-crypto-market-surging-bitcoin-dominance-analyst",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "現在の相場でアルトコインは上昇しているものの、ビットコインから市場シェアを奪わまでには至っていない。仮想通貨アナリストらによれば、アルトコインにはさらなる上昇余地の可能性があるという。",
+          "link": "https://jp.cointelegraph.com/news/altcoin-crypto-market-surging-bitcoin-dominance-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-12T16:34:10.000Z",
+          "wordCount": null,
+          "title": "アルトコイン上昇も…ビットコインのドミナンスに変化なし",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2ZjOTYtNjg4Ni03YTZjLTkwZGItMzM0ZjcxOWU4MWMx.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2ZjOTYtNjg4Ni03YTZjLTkwZGItMzM0ZjcxOWU4MWMx.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-etf-1b-inflows-btc-price-surge-blackrock-ibit",
           "author": "Cointelegraph  Ciaran Lyons",
@@ -3542,36 +3537,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2U0YzgtOTU1MC03ZjEzLTkyYWYtYTdmYWZkNzEwYjBl.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/metaplanet-buys-2-204-btc-for-237m",
-          "author": "Cointelegraph  Adrian Zmudzinski",
-          "description": "日本を代表するビットコイン（BTC）トレジャリー企業であるメタプラネットが月曜に2204BTC（2億3700万ドル相当）を追加取得した。",
-          "link": "https://jp.cointelegraph.com/news/metaplanet-buys-2-204-btc-for-237m?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-08T04:31:48.000Z",
-          "wordCount": null,
-          "title": "メタプラネットのビットコイン保有量は1万5555BTCに　テスラやクリーンスパークを上回る",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGYxMDQtYjM4Yi03ZGQxLThiNTktYjk3ZjQxMjJlNjlh.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGYxMDQtYjM4Yi03ZGQxLThiNTktYjk3ZjQxMjJlNjlh.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/metaplanet-buys-2-204-btc-for-237m",
-          "author": "Cointelegraph  Adrian Zmudzinski",
-          "description": "日本を代表するビットコイン（BTC）トレジャリー企業であるメタプラネットが月曜に2204BTC（2億3700万ドル相当）を追加取得した。",
-          "link": "https://jp.cointelegraph.com/news/metaplanet-buys-2-204-btc-for-237m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-08T04:31:48.000Z",
-          "wordCount": null,
-          "title": "メタプラネットのビットコイン保有量は1万5555BTCに　テスラやクリーンスパークを上回る",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGYxMDQtYjM4Yi03ZGQxLThiNTktYjk3ZjQxMjJlNjlh.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGYxMDQtYjM4Yi03ZGQxLThiNTktYjk3ZjQxMjJlNjlh.jpg"
         }
       ]
     },

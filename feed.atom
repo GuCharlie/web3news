@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-12T16:18:40.130Z</updated>
+    <updated>2025-07-12T16:45:21.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アルトコイン上昇も…ビットコインのドミナンスに変化なし]]></title>
+        <id>https://jp.cointelegraph.com/news/altcoin-crypto-market-surging-bitcoin-dominance-analyst</id>
+        <link href="https://jp.cointelegraph.com/news/altcoin-crypto-market-surging-bitcoin-dominance-analyst?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-07-12T16:34:10.000Z</updated>
+        <summary type="html"><![CDATA[現在の相場でアルトコインは上昇しているものの、ビットコインから市場シェアを奪わまでには至っていない。仮想通貨アナリストらによれば、アルトコインにはさらなる上昇余地の可能性があるという。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米国のビットコインETF　2日連続で10億ドル超の資金流入　昨年1月のローンチ以来で初]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-etf-1b-inflows-btc-price-surge-blackrock-ibit</id>
@@ -3330,46 +3340,6 @@ XRP先物市場で強気のシグナル──しかし現物価格は比較的�
 投稿 ミームコイン大手Pump.fun、トークン発行可能性が再浮上 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米財務省とCoin Center、「トルネードキャッシュ制裁」めぐる訴訟終結に合意]]></title>
-        <id>https://www.neweconomy.jp/?p=481500</id>
-        <link href="https://www.neweconomy.jp/posts/481500"/>
-        <updated>2025-07-08T04:44:12.000Z</updated>
-        <summary type="html"><![CDATA[業界団体の異議申し立てが正式に終結 米財務省とワシントンDC拠点の業界支援団体「コインセンター（Coin Center）」が、暗号資産（仮想通貨）ミキシングプラットフォーム「トルネードキャッシュ（Tornado Cash […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネットのビットコイン保有量は1万5555BTCに　テスラやクリーンスパークを上回る]]></title>
-        <id>https://jp.cointelegraph.com/news/metaplanet-buys-2-204-btc-for-237m</id>
-        <link href="https://jp.cointelegraph.com/news/metaplanet-buys-2-204-btc-for-237m?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-07-08T04:31:48.000Z</updated>
-        <summary type="html"><![CDATA[日本を代表するビットコイン（BTC）トレジャリー企業であるメタプラネットが月曜に2204BTC（2億3700万ドル相当）を追加取得した。]]></summary>
-        <author>
-            <name>Cointelegraph  Adrian Zmudzinski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネットのビットコイン保有量は1万5555BTCに　テスラやクリーンスパークを上回る]]></title>
-        <id>https://jp.cointelegraph.com/news/metaplanet-buys-2-204-btc-for-237m</id>
-        <link href="https://jp.cointelegraph.com/news/metaplanet-buys-2-204-btc-for-237m?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-07-08T04:31:48.000Z</updated>
-        <summary type="html"><![CDATA[日本を代表するビットコイン（BTC）トレジャリー企業であるメタプラネットが月曜に2204BTC（2億3700万ドル相当）を追加取得した。]]></summary>
-        <author>
-            <name>Cointelegraph  Adrian Zmudzinski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプコイン（TRUMP）、トロン上で発行へ]]></title>
-        <id>https://www.neweconomy.jp/?p=481493</id>
-        <link href="https://www.neweconomy.jp/posts/481493"/>
-        <updated>2025-07-08T04:21:57.000Z</updated>
-        <summary type="html"><![CDATA[TRUMPがトロン上で発行へ ドナルド・トランプ（Donald Trump）米大統領の公式ミームコイン「OFFICIAL TRUMP：オフィシャルトランプ（TRUMP）」が、新たにトロン（Tron）ネットワーク上で発行さ […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>

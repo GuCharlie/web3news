@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=303376",
+          "author": "Shaurya Malwa",
+          "description": "ビットコイン（BTC）の匿名の創始者、サトシ・ナカモト氏は現在、世界で最も裕福な個人の一人だ。彼は、その資産を1ドルたりとも動かしておらず、身元を特定できる情報 ...\nサトシ・ナカモトの資産が世界第10位に迫る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/303376/",
+          "publishedOn": "2025-07-14T09:55:00.000Z",
+          "wordCount": 1345,
+          "title": "サトシ・ナカモトの資産が世界第10位に迫る",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/04/Satoshi_Nakamoto-t.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=303365",
           "author": "James Van Straten",
           "description": "ビットコイン（BTC）は前週の週次終値が過去最高の11万9500ドルを記録したのに続き、12万2000ドルを超えて史上最高値を更新した。年初来では、ビットコイン ...\nビットコイン、上昇率でゴールド（金）を上回る──「非生産的資産」に資金が流入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -430,16 +440,6 @@
           "wordCount": 1380,
           "title": "ビットコイン、11万ドル突破で史上最高値更新目前──6%急騰のイーサリアムが主要暗号資産をリード",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/82278b028619a821b8a3519a3302e962a11db375-2228x1214-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=302840",
-          "author": "Siamak Masnavi",
-          "description": "CoinDesk Researchのテクニカル分析モデルによると、ビットコイン（BTC）は7月9日、10万9343ドルまで急騰し、過去24時間比で0.8%上昇し ...\nビットコイン、11万ドルに向けて急騰──トランプ氏、FRB金利は「3ポイント高すぎる」と発言：テクニカル分析 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/302840/",
-          "publishedOn": "2025-07-09T21:49:45.000Z",
-          "wordCount": 1384,
-          "title": "ビットコイン、11万ドルに向けて急騰──トランプ氏、FRB金利は「3ポイント高すぎる」と発言：テクニカル分析",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/faf208c30f4dc09a37efe253e374fca5ec43fae2-1580x984-1.jpeg"
         }
       ]
     },
@@ -1308,36 +1308,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/pectra-fusaka-ethereum.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/pectra-fusaka-ethereum.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=632013",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨取引所クラーケンとBackedは、BNBチェーンと戦略的パートナーシップを締結。ソラナ対応のトークン化株式のxStocksをBNBチェーンに拡大する。",
-          "link": "https://coinpost.jp/?p=632013",
-          "publishedOn": "2025-07-09T22:05:33.000Z",
-          "wordCount": 3209,
-          "title": "ソラナ対応のトークン化株式「xStocks」、BNBチェーンに拡大へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/xStocks-BNB-Chain.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/xStocks-BNB-Chain.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=632019",
-          "author": "菊谷ルイス",
-          "description": "仮想通貨取引所GMXのV1版GLPプールがハッキング被害に遭い61億円が流出。影響の範囲や運営の対応、今後の対応方針が明らかに。",
-          "link": "https://coinpost.jp/?p=632019",
-          "publishedOn": "2025-07-09T21:55:45.000Z",
-          "wordCount": 3203,
-          "title": "分散型取引所GMX、約60億円の仮想通貨不正流出発生　V1版GLPプールに脆弱性か",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/hack-tober.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/hack-tober.png"
         }
       ]
     },
@@ -2522,21 +2492,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2VlYTAtOTc4NS03NDI4LTlmMDYtNWJhYjE4NzdiYTg2.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-hits-new-high-above-dollar112k-as-traders-liquidate-shorts",
-          "author": "Cointelegraph  Zoltan Vardai",
-          "description": "ビットコインの価格が11万2,000ドルを突破して過去最高値を更新した。コインテレグラフがその背景を解説する。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-hits-new-high-above-dollar112k-as-traders-liquidate-shorts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-09T22:06:37.000Z",
-          "wordCount": null,
-          "title": "ビットコインが過去最高値の11万2,000ドル超に急騰、ショート清算が引き金に",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmY3NjctOGJiMi03Y2M2LWE1YzMtYWQ5M2FhZWMxOTll.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmY3NjctOGJiMi03Y2M2LWE1YzMtYWQ5M2FhZWMxOTll.jpg"
         }
       ]
     },

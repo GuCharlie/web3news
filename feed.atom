@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-14T10:47:47.258Z</updated>
+    <updated>2025-07-14T11:15:05.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ヘルスケア・リサイクル繊維の北紡、仮想通貨事業に10億円投資　マイニング事業も開始]]></title>
+        <id>https://coinpost.jp/?p=633181</id>
+        <link href="https://coinpost.jp/?p=633181"/>
+        <updated>2025-07-14T10:10:05.000Z</updated>
+        <summary type="html"><![CDATA[繊維メーカーの北紡が暗号資産事業に参入。調達資金から10億円を新規事業に充当し、ビットコイン購入8億円、再生可能エネルギーを活用したマイニング事業に2億円を投資する。]]></summary>
+        <author>
+            <name>Ritsuki.Kumazawa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サトシ・ナカモトの資産が世界第10位に迫る]]></title>
         <id>https://www.coindeskjapan.com/?p=303376</id>
@@ -2412,26 +2422,6 @@ SBI VCトレード、アプラスポイントをBTC・ETH・XRPに交換する�
         <summary type="html"><![CDATA[Thumzup Media Corporationは、インフルエンサーがSNS上で商品を宣伝して収益を得るためのプラットフォームを提供している。]]></summary>
         <author>
             <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SECの「クリプトマム」、ピアース委員が明言「トークン化証券も依然として証券」]]></title>
-        <id>https://jp.cointelegraph.com/news/hester-peirce-tokenized-securities</id>
-        <link href="https://jp.cointelegraph.com/news/hester-peirce-tokenized-securities?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-07-09T23:02:05.000Z</updated>
-        <summary type="html"><![CDATA[米証券取引委員会（SEC）のヘスター・ピアース委員は、元委員長ゲーリー・ゲンスラー氏に倣い、市場参加者に「SECおよびそのスタッフとの面談を検討するように」と呼びかけた。]]></summary>
-        <author>
-            <name>Cointelegraph  Turner Wright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムの買い方｜初心者向け取引所比較とリスク・税金まで解説]]></title>
-        <id>https://coinpost.jp/?p=516165</id>
-        <link href="https://coinpost.jp/?p=516165"/>
-        <updated>2025-07-09T23:00:10.000Z</updated>
-        <summary type="html"><![CDATA[米国初のビットコインETF承認の影響でBTC価格が過去最高値を更新し、仮想通貨投資による資産運用の注目度が急上昇しています。本記事では初心者向けに高騰するイーサリアム（ETH）の買い方、アルトコイン投資のメリットやデメリット、リスクなどを解説しています。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>

@@ -1373,21 +1373,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/trumpcoin-pic.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/trumpcoin-pic.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=631969",
-          "author": "菊谷ルイス",
-          "description": "BNYメロンを主要保管業者として選定リップルは7月9日、企業向けステーブルコイン「リップルUSD（RLUSD）」の準備金管理において、大手金融サービス企業のBNYメロンを主要保管業者として選定したと発表した。両社は従来の金融システムと仮想通...",
-          "link": "https://coinpost.jp/?p=631969",
-          "publishedOn": "2025-07-09T20:35:19.000Z",
-          "wordCount": 3199,
-          "title": "リップル、ステーブルコインRLUSDの準備金管理でBNYメロン採用",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103003.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103003.jpg"
         }
       ]
     },
@@ -1823,6 +1808,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0714",
+          "author": "Cointelegraph  ビットバンク　長谷川友哉",
+          "description": "7日〜13日のビットコイン（BTC）対円相場の週足終値は、前週比170万5050円（10.79%）高の1750万5174円と大幅に上昇し、史上最高値を更新した。",
+          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0714?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-14T08:43:11.000Z",
+          "wordCount": null,
+          "title": "BTCは連日の史上最高値更新　ボラティリティ復活で活気を取り戻すか【ビットバンク仮想通貨分析】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-hits-new-all-time-high-120k",
           "author": "Cointelegraph  Biraajmaan Tamuly",

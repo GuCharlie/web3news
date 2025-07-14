@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=303402",
+          "author": "廣瀬 優香",
+          "description": "アーク・インベスト（ARK Invest）は先週末、暗号資産（仮想通貨）取引所コインベース（Coinbase）の株価が史上最高値に急騰する中、860万ドル（約1 ...\n米アーク、コインベース株の史上最高値更新を受けて864万ドル分を売却 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/303402/",
+          "publishedOn": "2025-07-14T21:00:00.000Z",
+          "wordCount": 1311,
+          "title": "米アーク、コインベース株の史上最高値更新を受けて864万ドル分を売却",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/3368f7cc14c0de20f29ff85c4fcfad1114ab729e-2080x1170-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=303354",
           "author": "廣瀬 優香",
           "description": "12分。 これは、Pump.funのトークン・オファリングがバイビット（Bybit）、クラーケン（Kraken）、クーコイン（KuCoin）を含むさまざまな取引 ...\nPump.fun、独自トークン「PUMP」が即完売で5億ドル調達──時価総額は40億ドル first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -394,6 +404,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=633236",
+          "author": "菊谷ルイス",
+          "description": "ナスダック上場のシャープリンク・ゲーミングが月曜日に16,374イーサリアムを追加取得。仮想通貨ETHの保有量は21.6万に拡大。",
+          "link": "https://coinpost.jp/?p=633236",
+          "publishedOn": "2025-07-14T21:05:51.000Z",
+          "wordCount": 3255,
+          "title": "シャープリンク、イーサリアム追加取得で保有量21.6万ETHに拡大",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/pectra-fusaka-ethereum.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/pectra-fusaka-ethereum.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=631144",
+          "author": "菊谷ルイス",
+          "description": "マイケル・セイラー氏のストラテジー社は14日夜、7月7日から13月日の間に総額700億円を投じて4,225 BTCを購入したことを報告した。仮想通貨ビットコインの購入を再開し、60万BTCを突破した。",
+          "link": "https://coinpost.jp/?p=631144",
+          "publishedOn": "2025-07-14T20:30:46.000Z",
+          "wordCount": 3260,
+          "title": "ストラテジー社、ビットコイン購入再開で保有数60万BTC突破",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/strategy-lawsuit.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/strategy-lawsuit.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=633181",
           "author": "Ritsuki.Kumazawa",
@@ -1937,36 +1977,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzg3OGItOWIyNi03Y2NlLTg1ZTctMTJhYWUzNTE1OGY1.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0710",
-          "author": "Cointelegraph  ビットバンク　長谷川友哉",
-          "description": "9日のビットコイン（BTC）円は1598万5円から取引が始まった。",
-          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0710?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-10T09:12:28.000Z",
-          "wordCount": null,
-          "title": "FOMC議事要旨でBTC上伸　夏以降の利下げ期待高まる【ビットバンク仮想通貨分析】",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2ExMTktYjgzNC03ZWUxLWE2ZDgtYzk2ZTQ2Y2Q4ZGM4.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2ExMTktYjgzNC03ZWUxLWE2ZDgtYzk2ZTQ2Y2Q4ZGM4.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-price-traders-not-prepared-surge-september-analyst-forecasts",
-          "author": "Cointelegraph  Ciaran Lyons",
-          "description": "10xリサーチの責任者であるマーカス・ティーレン氏によると、現在の仮想通貨投資家はビットコインへのエクスポージャーが不足している可能性がある。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-price-traders-not-prepared-surge-september-analyst-forecasts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-10T08:43:32.000Z",
-          "wordCount": null,
-          "title": "ビットコイン　次の急騰ステージへ転換なるか　13万3000ドル到達の可能性も",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5Njc5YjEtMzljZi03MmFkLTgyYzYtMTE3MTY4MDM2ZGRl.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5Njc5YjEtMzljZi03MmFkLTgyYzYtMTE3MTY4MDM2ZGRl.jpg"
         }
       ]
     },

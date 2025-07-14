@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-13T23:40:56.025Z</updated>
+    <updated>2025-07-14T01:24:19.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[XRP上昇を牽引したのは韓国市場か　Upbitが7割占めるとアナリストが分析]]></title>
+        <id>https://coinpost.jp/?p=633037</id>
+        <link href="https://coinpost.jp/?p=633037"/>
+        <updated>2025-07-14T00:43:35.000Z</updated>
+        <summary type="html"><![CDATA[リップル社の発行するエックスアールピー（XRP）価格が急騰した背景に韓国投資家の動きがあったと指摘されている。アップビットが買い圧力の70%を占めていた。韓国は仮想通貨への課税を2027年まで延期する見込みだ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マイケル・セイラー氏、1週間ぶりにビットコイン購入再開を示唆]]></title>
         <id>https://jp.cointelegraph.com/news/saylor-signals-btc-buy-after-week-break</id>
@@ -2211,16 +2221,6 @@ SBI VCトレード、アプラスポイントをBTC・ETH・XRPに交換する�
 XRPが45日ぶりの高値──GMMAがさらなる上昇を示唆 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【7/9話題】マックハウスはドルコスト平均法でビットコイン取得へ、PhantomがEU向けパーペチュアル先物取引など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=481830</id>
-        <link href="https://www.neweconomy.jp/posts/481830"/>
-        <updated>2025-07-09T11:44:03.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
         </author>
     </entry>
 </feed>

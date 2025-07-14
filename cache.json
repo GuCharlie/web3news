@@ -405,6 +405,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=633037",
+          "author": "A.Yamada",
+          "description": "リップル社の発行するエックスアールピー（XRP）価格が急騰した背景に韓国投資家の動きがあったと指摘されている。アップビットが買い圧力の70%を占めていた。韓国は仮想通貨への課税を2027年まで延期する見込みだ。",
+          "link": "https://coinpost.jp/?p=633037",
+          "publishedOn": "2025-07-14T00:43:35.000Z",
+          "wordCount": 3313,
+          "title": "XRP上昇を牽引したのは韓国市場か　Upbitが7割占めるとアナリストが分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/xrp-new-new-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/xrp-new-new-1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=632540",
           "author": "CoinPost編集部",
           "description": "前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナなど主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。",
@@ -1560,16 +1575,6 @@
           "wordCount": 728,
           "title": "ビットコイン（BTC）が史上最高値を更新、11万2,000ドル突破",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/10092717/BTC10PIXTA.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=481830",
-          "author": "NewEconomyPodcast",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/481830",
-          "publishedOn": "2025-07-09T11:44:03.000Z",
-          "wordCount": 787,
-          "title": "【7/9話題】マックハウスはドルコスト平均法でビットコイン取得へ、PhantomがEU向けパーペチュアル先物取引など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/09165726/5b0642fb6d13f651541b5adf69fc015a.jpg"
         }
       ]
     },

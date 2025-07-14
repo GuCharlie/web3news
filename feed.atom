@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-14T12:35:37.137Z</updated>
+    <updated>2025-07-14T13:33:17.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ストラテジーがビットコイン追加購入、総保有数60万1,550BTCに]]></title>
+        <id>https://www.neweconomy.jp/?p=482842</id>
+        <link href="https://www.neweconomy.jp/posts/482842"/>
+        <updated>2025-07-14T12:55:53.000Z</updated>
+        <summary type="html"><![CDATA[ストラテジーがBTC追加購入 ビットコイン（BTC）の購入を積極的に進めている米ナスダック上場企業ストラテジー（Strategy）が、BTCの追加購入を7月14日に発表した。 ストラテジーは、7月7日から7月13日までの […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pump.fun、独自トークン「PUMP」が即完売で5億ドル調達──時価総額は40億ドル]]></title>
         <id>https://www.coindeskjapan.com/?p=303354</id>
@@ -2351,26 +2361,6 @@ SBI VCトレード、預かり資産5000億円突破──DMM資産移管やUSDC
         <summary type="html"><![CDATA[YZiラボ（元バイナンスラボ）が10Xキャピタルと連携し、BNBトレジャリー会社設立を発表。米取引所での上場を目指し、BNBチェーンエコシステムに焦点を当てた投資機会を提供する。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米SEC、PENGU現物ETF申請を受理　ミームコインETFに追い風か]]></title>
-        <id>https://coinpost.jp/?p=632102</id>
-        <link href="https://coinpost.jp/?p=632102"/>
-        <updated>2025-07-10T01:11:01.000Z</updated>
-        <summary type="html"><![CDATA[米証券取引委員会がカナリーPENGU現物ETF申請を受理。新ルール整備により秋頃に多くの仮想通貨現物ETF承認の見通し。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ギリシャ、Bybitハッキングで盗まれた仮想通貨の一部を回収　同国初]]></title>
-        <id>https://coinpost.jp/?p=632089</id>
-        <link href="https://coinpost.jp/?p=632089"/>
-        <updated>2025-07-10T00:40:01.000Z</updated>
-        <summary type="html"><![CDATA[ギリシャ当局がBybitハッキング事件で盗まれた仮想通貨の一部を回収した。北朝鮮ハッカー集団「ラザルス」が盗んだ資金の追跡でブロックチェーン分析技術を活用している。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>

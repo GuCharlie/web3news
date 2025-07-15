@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-15T20:18:50.046Z</updated>
+    <updated>2025-07-15T20:43:47.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【7/15話題】グレースケールが米SECにIPO申請、ストラテジーがビットコイン追加購入など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=483011</id>
+        <link href="https://www.neweconomy.jp/posts/483011"/>
+        <updated>2025-07-15T20:20:08.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サトシ時代のクジラが9000BTCを10億ドル以上で売却──ビットコインは11万7000ドル割れ]]></title>
         <id>https://www.coindeskjapan.com/?p=303646</id>
@@ -1881,28 +1891,6 @@ AIとWeb3が変える音楽の形──分散型プラットフォーム「DMC�
         <summary type="html"><![CDATA[『金持ち父さん貧乏父さん』著者のロバート・キヨサキ氏が、仮想通貨投資家から大きな注目を集めています。本記事では、キヨサキ氏の主張から仮想通貨投資のポイントや経済的自由を獲得する手段を探ります。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BAYC関連イベント「ApeFest 2025」ラスベガスで開催決定]]></title>
-        <id>https://crypto-times.jp/?p=139600</id>
-        <link href="https://crypto-times.jp/news-ape-fest-2025/"/>
-        <updated>2025-07-11T08:36:39.000Z</updated>
-        <summary type="html"><![CDATA[人気NFTプロジェクト「Bored Ape Yacht Club（BAYC）」が手掛けるイベント「ApeFest」が、2025年10月にアメリカ・ラスベガスで開催されることが正式に発表されました。 ApeFest Veg […]
-投稿 BAYC関連イベント「ApeFest 2025」ラスベガスで開催決定 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[企業のビットコイン採用、第2四半期に劇的に加速：ビットワイズ]]></title>
-        <id>https://www.coindeskjapan.com/?p=303116</id>
-        <link href="https://www.coindeskjapan.com/303116/"/>
-        <updated>2025-07-11T08:32:05.000Z</updated>
-        <summary type="html"><![CDATA[ビットワイズ（Bitwise）によると、企業によるビットコイン（BTC）の採用は第2四半期に劇的に加速し、上場企業は15万9107BTCを購入。総保有量は84万 ...
-企業のビットコイン採用、第2四半期に劇的に加速：ビットワイズ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
         </author>
     </entry>
 </feed>

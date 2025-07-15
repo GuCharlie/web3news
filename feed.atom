@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-15T23:15:29.524Z</updated>
+    <updated>2025-07-15T23:40:01.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[シティステーブルコインの発行を検討中：シティグループCEO]]></title>
+        <id>https://www.coindeskjapan.com/?p=303672</id>
+        <link href="https://www.coindeskjapan.com/303672/"/>
+        <updated>2025-07-15T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[シティグループのCEOであるジェーン・フレイザー氏は、自社独自のステーブルコイン発行の可能性も含め、同社がデジタル資産関連の開発を積極的に進めていると述べた。  ...
+シティステーブルコインの発行を検討中：シティグループCEO first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Siamak Masnavi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ユニスワップ社長のメアリー＝キャサリン・レーダー氏が退任　4年間の在任に幕]]></title>
+        <id>https://jp.cointelegraph.com/news/uniswap-president-mary-catherine-lader-steps-down</id>
+        <link href="https://jp.cointelegraph.com/news/uniswap-president-mary-catherine-lader-steps-down?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-07-15T23:19:32.000Z</updated>
+        <summary type="html"><![CDATA[レーダー氏は、伝統的金融業界から仮想通貨業界へと早期に転身した著名人の一人として知られていた。]]></summary>
+        <author>
+            <name>Cointelegraph  Nate Kostar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン懐疑派のヴァンガード、ストラテジー社の筆頭株主に]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-bear-vanguard-largest-shareholder-of-strategy</id>
@@ -1911,16 +1932,6 @@ AIとWeb3が変える音楽の形──分散型プラットフォーム「DMC�
         <summary type="html"><![CDATA[アントチェーンにUSDC統合か 中国のテクノロジー・コングロマリットであるアリババグループ（Alibaba）のフィンテック関連企業であるアント・グループ（Ant Group）が、独自チェーン「アントチェーン（AntCha […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【7/11話題】ビットコインが円建てで最高値更新、Oasysが不動産投資GATESとRWA領域で提携など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=482453</id>
-        <link href="https://www.neweconomy.jp/posts/482453"/>
-        <updated>2025-07-11T11:36:19.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
         </author>
     </entry>
 </feed>

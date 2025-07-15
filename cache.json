@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=303672",
+          "author": "Siamak Masnavi",
+          "description": "シティグループのCEOであるジェーン・フレイザー氏は、自社独自のステーブルコイン発行の可能性も含め、同社がデジタル資産関連の開発を積極的に進めていると述べた。  ...\nシティステーブルコインの発行を検討中：シティグループCEO first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/303672/",
+          "publishedOn": "2025-07-15T23:30:00.000Z",
+          "wordCount": 1381,
+          "title": "シティステーブルコインの発行を検討中：シティグループCEO",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/shutterstock_2191618345.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=303654",
           "author": "Will Canny",
           "description": "ビットコイン（BTC）のボラティリティは、主流による受け入れが進み、企業や個人投資家、政府がビットコインを採用するにつれ、さらに低下する可能性があると、ドイツ銀 ...\nビットコインのボラティリティ、普及に伴いさらに低下していく見込み：ドイツ銀行 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -1445,16 +1455,6 @@
           "wordCount": 596,
           "title": "アリババ傘下のアント・グループ、サークル「USDC」を独自チェーンに統合か＝報道",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/11212740/9035a4e13bdedfc9023bd5d3a4c46dec.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=482453",
-          "author": "NewEconomyPodcast",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/482453",
-          "publishedOn": "2025-07-11T11:36:19.000Z",
-          "wordCount": 780,
-          "title": "【7/11話題】ビットコインが円建てで最高値更新、Oasysが不動産投資GATESとRWA領域で提携など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/11170646/b8d099055b1b39d2c1aab4c7892cc2df.jpg"
         }
       ]
     },
@@ -1463,6 +1463,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/uniswap-president-mary-catherine-lader-steps-down",
+          "author": "Cointelegraph  Nate Kostar",
+          "description": "レーダー氏は、伝統的金融業界から仮想通貨業界へと早期に転身した著名人の一人として知られていた。",
+          "link": "https://jp.cointelegraph.com/news/uniswap-president-mary-catherine-lader-steps-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-15T23:19:32.000Z",
+          "wordCount": null,
+          "title": "ユニスワップ社長のメアリー＝キャサリン・レーダー氏が退任　4年間の在任に幕",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODBmOGUtZmYwOS03Mzk4LTkxNzgtN2U0N2I0NjVlYzU5.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODBmOGUtZmYwOS03Mzk4LTkxNzgtN2U0N2I0NjVlYzU5.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-bear-vanguard-largest-shareholder-of-strategy",
           "author": "Cointelegraph  Nate Kostar",

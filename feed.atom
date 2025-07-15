@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-15T16:21:27.458Z</updated>
+    <updated>2025-07-15T16:50:39.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[6月米CPIは予想通り0.3%上昇──コア指数は予想をやや下回る0.2%上昇]]></title>
+        <id>https://www.coindeskjapan.com/?p=303639</id>
+        <link href="https://www.coindeskjapan.com/303639/"/>
+        <updated>2025-07-15T16:33:50.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのインフレ率は6月に上昇したが、ほぼ予想通りだった。このことは、早ければ9月にも米連邦準備制度理事会（FRB）が追加利下げを行う道を開く可能性がある。  ...
+6月米CPIは予想通り0.3%上昇──コア指数は予想をやや下回る0.2%上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米銀行監督当局、暗号資産カストディに関する声明を発表──新たな政策推進ではないと明言]]></title>
         <id>https://www.coindeskjapan.com/?p=303572</id>
@@ -2112,26 +2123,6 @@ ETH、SOL、XRPなど、主要トークンの今後の動きは？──ビッ�
         <summary type="html"><![CDATA[2025年上半期における世界の非代替性トークン（NFT）の販売額は28億2000万ドルとなり、2024年下半期の29億6000万ドルから4.61%の微減となった。]]></summary>
         <author>
             <name>Cointelegraph  Ezra Reguerra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ミームコインローンチパッドのPump.funが初の買収　トレード追跡ツール「コルスキャン」を取得]]></title>
-        <id>https://jp.cointelegraph.com/news/pumpfun-acquires-kolscan-for-first-acquisition</id>
-        <link href="https://jp.cointelegraph.com/news/pumpfun-acquires-kolscan-for-first-acquisition?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-07-11T04:40:46.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨のミームコイン生成プラットフォームであるPump.funが、ウォレット追跡プラットフォーム「コルスキャン（Kolscan）」を買収した。Pump.fun創業者は、今後の成長に向けて取引のゲーミフィケーションを鍵と見ている。]]></summary>
-        <author>
-            <name>Cointelegraph  Jesse Coghlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アルトシーズン期待強まる、ビットコインATH更新で上昇の兆し＝Swissblock分析]]></title>
-        <id>https://coinpost.jp/?p=632651</id>
-        <link href="https://coinpost.jp/?p=632651"/>
-        <updated>2025-07-11T04:35:21.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコインが史上最高値を更新し、アルトコイン上昇局面「アルトシーズン」の前兆は遂に現れたか。イーサリアム主導のサイクルが始まり、BONKやWIFなど主要アルトコインが上昇トレンドに突入。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

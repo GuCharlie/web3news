@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-15T22:16:50.278Z</updated>
+    <updated>2025-07-15T22:44:32.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサ、3,000ドル回復で大相場の兆し　最大1,100％上昇も視野に]]></title>
+        <id>https://jp.cointelegraph.com/news/ether-holding-dollar3k-opens-door-to-1100percent-vertical-phase-rally-analyst</id>
+        <link href="https://jp.cointelegraph.com/news/ether-holding-dollar3k-opens-door-to-1100percent-vertical-phase-rally-analyst?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-07-15T22:34:39.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムは3,000ドルを再び上回り、重要なテクニカル水準を突破。最大1,110％の上昇局面に入る可能性があるとする見方も出ている。]]></summary>
+        <author>
+            <name>Cointelegraph  Biraajmaan Tamuly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブラックロックの仮想通貨流入、Q2に370％急増｜ETF全体では純流入額が減少]]></title>
         <id>https://jp.cointelegraph.com/news/blackrock-crypto-inflows-q2-total-flows-slump</id>
@@ -1881,16 +1891,6 @@ AIとWeb3が変える音楽の形──分散型プラットフォーム「DMC�
         <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[化粧品販売のフォーシーズHDがビットコイン購入へ、再生可能エネルギー事業にweb3活用も]]></title>
-        <id>https://www.neweconomy.jp/?p=482510</id>
-        <link href="https://www.neweconomy.jp/posts/482510"/>
-        <updated>2025-07-11T10:32:28.000Z</updated>
-        <summary type="html"><![CDATA[化粧品販売のフォーシーズHDがビットコイン購入へ 化粧品・健康食品を軸とした通信販売事業を展開する福岡市拠点の東証スタンダード上場企業フォーシーズHDが、新たに開始する金融サービス事業にて、ビットコインを購入することを決 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>

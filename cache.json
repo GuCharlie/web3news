@@ -475,6 +475,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=633654",
+          "author": "A.Yamada",
+          "description": "米司法省とCFTCが仮想通貨USDCで賭けに参加できるポリマーケットに対する調査を打ち切ったと伝えられる。米国ユーザーへのサービス提供疑惑を調査していた。",
+          "link": "https://coinpost.jp/?p=633654",
+          "publishedOn": "2025-07-16T04:50:32.000Z",
+          "wordCount": 3228,
+          "title": "米司法省とCFTC、ポリマーケットへの調査打ち切り＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/doj-framework.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/doj-framework.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=633700",
+          "author": "幸田直子",
+          "description": "米民主党のマキシン・ウォーターズ議員が、仮想通貨法案CLARITY法・GENIUS法について「大規模詐欺と経済破綻につながる」と警鐘を鳴らした。またトランプ大統領とその家族の利益相反を強調し、「危険で意図的な欠点」があると批判した。",
+          "link": "https://coinpost.jp/?p=633700",
+          "publishedOn": "2025-07-16T04:40:03.000Z",
+          "wordCount": 3236,
+          "title": "民主党幹部、審議中の仮想通貨法案めぐり「金融危機招くリスク」と警告",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/congress-stable-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/congress-stable-1.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=633643",
           "author": "菊谷ルイス",
           "description": "仮想通貨ビットコインが12万3000ドルの史上最高値を記録後、取引所への流入が急増し利益確定売りが活発化。14年間休眠していたウォレットが2万BTC売却開始、クジラ活動も活発化で市場調整の可能性。",
@@ -1232,6 +1262,56 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=483243",
+          "author": "OtsugaShinya",
+          "description": "クラーケンが米国でデリバティブ取引を提供開始 米サンフランシスコ拠点の大手暗号資産（仮想通貨）取引所クラーケン（Kraken）が、米国規制下のデリバティブ取引サービス「クラーケン・デリバティブUS（Kraken Deri […]",
+          "link": "https://www.neweconomy.jp/posts/483243",
+          "publishedOn": "2025-07-16T06:15:05.000Z",
+          "wordCount": 778,
+          "title": "クラーケン、米国規制下のデリバティブ取引サービス「Kraken Derivatives US」ローンチ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/16151455/4f92c0b98928cd49941cd87182a59d14.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=483229",
+          "author": "HitomotoToshikazu",
+          "description": "SharpLink GamingがETH取得 暗号資産（仮想通貨）イーサリアム（ETH）を主要財務準備資産として採用する米ナスダック上場企業シャープリンクゲーミング（SharpLink Gaming：以下シャープリンク） […]",
+          "link": "https://www.neweconomy.jp/posts/483229",
+          "publishedOn": "2025-07-16T05:17:23.000Z",
+          "wordCount": 657,
+          "title": "シャープリンクのイーサリアム保有数28万706ETHに、財団の保有量を上回る",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/16141305/2595af834b85018cfa81d52fff7123c8.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=483221",
+          "author": "OtsugaShinya",
+          "description": "USDT0がルートストックに対応へ オムニチェーン対応ステーブルコイン「USDT0」が、EVM互換のビットコインレイヤー2「ルートストック（Rootstock）」に対応開始したことが7月15日に発表された。 「USDT0 […]",
+          "link": "https://www.neweconomy.jp/posts/483221",
+          "publishedOn": "2025-07-16T04:41:23.000Z",
+          "wordCount": 761,
+          "title": "オムニチェーン対応ステーブルコイン「USDT0」、ビットコインL2ルートストックに対応へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/16134118/becacbce833a8d3af11309e298e711cc.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=483206",
+          "author": "HitomotoToshikazu",
+          "description": "HSBCがe-HKDの試験運用完了 香港大手銀行のHSBCが、「プロジェクト・デジタル香港ドルプラス（Project e-HKD+）」の下で実施された試験運用の結果を7月9日に発表した。 「プロジェクト・デジタル香港ドル […]",
+          "link": "https://www.neweconomy.jp/posts/483206",
+          "publishedOn": "2025-07-16T03:35:17.000Z",
+          "wordCount": 733,
+          "title": "HSBCが「e-HKD」の試験運用の第2段階完了、パブリック・プライベートDLT活用",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/16123455/HSBC-20240328Moussa81.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=483210",
+          "author": "TamuraSeiji",
+          "description": "Sonnet BioTherapeuticsが米国初のHYPE保有上場企業へ ナスダック上場のバイオテクノロジー企業ソネットバイオセラピューティクス（Sonnet BioTherapeutics）が、暗号資産「HYPE」 […]",
+          "link": "https://www.neweconomy.jp/posts/483210",
+          "publishedOn": "2025-07-16T03:29:19.000Z",
+          "wordCount": 617,
+          "title": "ナスダック上場企業ソネットバイオ、HYPE財務戦略で新会社「ハイパーリキッドストラテジーズ」設立へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/16122912/2a4ddbcf91613c644d5fa54816bea6d9.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=483201",
           "author": "gentosha_takahashi",
           "description": "「クリプト・ウィーク」失速か 米下院の本会議にて、議員らは196対223で反対票を投じ、今週審議入り予定だった3つの法案の採択手続き動議を、現地時間7月15日に否決した。 この投票は、「クリプト・ウィーク（暗号資産週間） […]",
@@ -1578,6 +1658,66 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-pac-141m-funding-influence-us-elections-2025",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "米国の政治活動委員会（PAC）であるフェアシェイクは、コインベースやリップルラボなどの仮想通貨企業からの拠出を受けて設立され、2025年後半の選挙に向けて1億4100万ドルの資産を保有していると報告した。",
+          "link": "https://jp.cointelegraph.com/news/crypto-pac-141m-funding-influence-us-elections-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-16T06:07:41.000Z",
+          "wordCount": null,
+          "title": "仮想通貨業界が支援するPAC「フェアシェイク」、米中間選挙に向け1億4100万ドルを確保",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Q0NDUtZWJiZi03MTc1LTlhZWMtN2NjZDc3NTk4NDY4.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Q0NDUtZWJiZi03MTc1LTlhZWMtN2NjZDc3NTk4NDY4.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-most-reliable-reversal-pattern-btc-price-rally-160k",
+          "author": "Cointelegraph  Yashu Gola",
+          "description": "ビットコイン（BTC）は現在、チャート専門家が「最も信頼性の高い反転パターンのひとつ」と位置づけるテクニカル構造のブレイクアウト段階に入りつつあり、今後の価格上昇が16万ドルに達する可能性があると注目されている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-most-reliable-reversal-pattern-btc-price-rally-160k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-16T05:20:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン　チャートパターンは16万ドルへの上昇を示唆　一時的に11万5000ドルへの調整の可能性も",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzMwYmQtN2RhMS03NmYwLWJmZTgtN2FkMzEwYzlhYWQ3.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzMwYmQtN2RhMS03NmYwLWJmZTgtN2FkMzEwYzlhYWQ3.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/xrp-news-update-uptick-in-whale-volumes-could-catalyze-rally-to-dollar4",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "XRPは金曜日に長期のレンジを上抜けし、月曜日には一時3.03ドルまで急騰した。その後は一部の利益確定売りにより上昇分の一分を失っている。",
+          "link": "https://jp.cointelegraph.com/news/xrp-news-update-uptick-in-whale-volumes-could-catalyze-rally-to-dollar4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-16T04:42:47.000Z",
+          "wordCount": null,
+          "title": "XRP価格、3ドル突破も一服　次のターゲットは4ドル超か",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzg3MTUtNGYwNS03MDE5LTlhNzAtNGIzN2U2YmY3NDU0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzg3MTUtNGYwNS03MDE5LTlhNzAtNGIzN2U2YmY3NDU0.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-profit-taking-sets-traders-buy-target-at-113k",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "ビットコイン（BTC）は過去最高値となる12万3218ドルを記録したのち、利益確定売りにより反落した。今回の下落はテクニカルな調整とみられ、基調としての需要は依然として強い。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-profit-taking-sets-traders-buy-target-at-113k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-16T03:25:59.000Z",
+          "wordCount": null,
+          "title": "12万ドルから反落したビットコイン、15万ドルを試す前の踊り場か？ 投資家需要は依然強く",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzU0MzItZDQyYS03YjE4LWJiYjUtODI3MGI4NDA2NGE2.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzU0MzItZDQyYS03YjE4LWJiYjUtODI3MGI4NDA2NGE2.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-dips-as-june-cpi-confirms-sticky-inflation-trend-are-btc-dips-for-buying",
           "author": "Cointelegraph  Biraajmaan Tamuly",
@@ -2050,6 +2190,86 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=139849",
+          "author": "よきょい",
+          "description": "米金融大手JPモルガンは決済の高速化を目指し、ステーブルコインと独自の預金トークンを活用したサービスの試験運用を開始する計画を明らかにしました。 JPモルガンのジェイミー・ダイモン（Jamie Dimon）CEOは、7月 […]\n投稿 JPモルガン、ステーブルコイン事業へ参入 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-jp-morgan-enters-stablecoin-business/",
+          "publishedOn": "2025-07-16T06:25:08.000Z",
+          "wordCount": 572,
+          "title": "JPモルガン、ステーブルコイン事業へ参入",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_2303666991.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=139848",
+          "author": "よきょい",
+          "description": "米国の資産運用会社プロシェアーズは、ソラナ（SOL）とリップル（XRP）の日々の値動きに対して2倍のレバレッジをかけたリターンを目指す2つの新しい上場投資信託（ETF）の提供を開始したと発表しました。 新たに設定されたの […]\n投稿 ソラナとリップルの2倍レバレッジETFが登場 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-solana-and-xrp-2x-leveraged-etf-launches/",
+          "publishedOn": "2025-07-16T06:10:49.000Z",
+          "wordCount": 565,
+          "title": "ソラナとリップルの2倍レバレッジETFが登場",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_2137913341.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=139843",
+          "author": "よきょい",
+          "description": "米国の小売大手ゲームストップのCEOは同社がビットコインに対して慎重なアプローチを取っており、他の企業のような積極的な戦略は模倣しない方針を明らかにしました。一方で、トレーディングカードの決済手段として暗号資産の導入を検 […]\n投稿 ゲームストップ社、ビットコイン投資に慎重姿勢 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-gamestop-takes-a-cautious-stance-on-bitcoin-investment/",
+          "publishedOn": "2025-07-16T06:01:33.000Z",
+          "wordCount": 566,
+          "title": "ゲームストップ社、ビットコイン投資に慎重姿勢",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_1966580488.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=139847",
+          "author": "よきょい",
+          "description": "米国の金融大手フィデリティの子会社が、日本の株式会社メタプラネットの筆頭株主になったことが明らかになりました。メタプラネットの積極的なビットコイン戦略が、海外の機関投資家からの高い関心を集めています。 Metaplane […]\n投稿 米フィデリティ子会社、メタプラネットの筆頭株主に浮上 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-fidelity-subsidiary-becomes-metaplanets-largest-shareholder/",
+          "publishedOn": "2025-07-16T05:45:29.000Z",
+          "wordCount": 615,
+          "title": "米フィデリティ子会社、メタプラネットの筆頭株主に浮上",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_2143698533.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=139846",
+          "author": "よきょい",
+          "description": "暗号資産の推進派を支援する米国の政治活動委員会「フェアシェイク」が、1億4,100万ドルの資金を確保したと発表しました。この発表は、議会で重要な暗号資産関連法案が審議される「クリプト・ウィーク」の最中に行われ、議員への圧 […]\n投稿 米政治を動かす1.4億ドル、暗号資産団体の狙いと議員の反応 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-the-140-million-that-will-move-us-politics-cryptocurrency-groups-aims-and-lawmakers-reactions/",
+          "publishedOn": "2025-07-16T05:38:47.000Z",
+          "wordCount": 614,
+          "title": "米政治を動かす1.4億ドル、暗号資産団体の狙いと議員の反応",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_2517604077.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=139845",
+          "author": "よきょい",
+          "description": "投資銀行キャンター・フィッツジェラルドの関連会社が35億ドルを超えるビットコイン（BTC）を取得するため、ブロックストリーム・キャピタルと最終段階の交渉に入っていることが分かりました。 交渉を進めているのは、キャンター・ […]\n投稿 次のストラテジー社か？35億ドル相当のBTC取得で巨大企業誕生へ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-the-next-strategy-corp-acquiring-3-5-billion-worth-of-btc-will-create-a-megacorporation/",
+          "publishedOn": "2025-07-16T05:30:42.000Z",
+          "wordCount": 572,
+          "title": "次のストラテジー社か？35億ドル相当のBTC取得で巨大企業誕生へ",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_2297915225.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=139844",
+          "author": "よきょい",
+          "description": "米下院は7月15日、3つの暗号資産関連法案の審議を進めるための手続き上の動議を否決しました。 この動議は下院の「クリプト・ウィーク」に合わせて提出されたものです。可決されれば、「GENIUS法（GENIUS Act）」、 […]\n投稿 米下院「クリプト・ウィーク」、重要法案が頓挫｜再投票の動きも は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-u-s-house-of-representatives-crypto-week-sees-major-bill-stall/",
+          "publishedOn": "2025-07-16T05:23:05.000Z",
+          "wordCount": 629,
+          "title": "米下院「クリプト・ウィーク」、重要法案が頓挫｜再投票の動きも",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_2465401345.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=139852",
+          "author": "よきょい",
+          "description": "カリフォルニア州が州政府の業務効率化を目指す新プロジェクトに、暗号資産大手のコインベースやリップルの役員を起用しました。 カリフォルニア州のギャビン・ニューサム（Gavin Newsom）知事は7月15日、「カリフォルニ […]\n投稿 カリフォルニア州、政府改革にリップル役員ら招聘 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-california-invites-ripple-executives-to-join-government-reforms/",
+          "publishedOn": "2025-07-16T05:14:24.000Z",
+          "wordCount": 568,
+          "title": "カリフォルニア州、政府改革にリップル役員ら招聘",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_2277660089.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=139839",
           "author": "Crypto Times 編集部",

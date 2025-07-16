@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-16T10:18:22.671Z</updated>
+    <updated>2025-07-16T10:47:33.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オンドファイナンスがブロックチェーン開発ストレンジラブ買収、RWAスタック開発促進へ]]></title>
+        <id>https://www.neweconomy.jp/?p=483312</id>
+        <link href="https://www.neweconomy.jp/posts/483312"/>
+        <updated>2025-07-16T10:24:00.000Z</updated>
+        <summary type="html"><![CDATA[オンドファイナンスがストレンジラブ買収 RWA（現実資産）のトークン化プラットフォーム提供オンドファイナンス（Ondo Finance）が、ブロックチェーン開発企業兼バリデーターのストレンジラブ（Strangelove） […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CMEのXRP先物の出来高、過去最高の2億3500万ドルを記録]]></title>
         <id>https://www.coindeskjapan.com/?p=303726</id>
@@ -2370,16 +2380,6 @@ AIとWeb3が変える音楽の形──分散型プラットフォーム「DMC�
 ビットコイン現物ETFに1日で約1470億円の資金流入──IBITは運用資産残高800億ドルを最速で達成 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Helene Braun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム、5カ月ぶりに3000ドル突破　ETFの資金流入や企業購入などが相場を後押し]]></title>
-        <id>https://coinpost.jp/?p=632874</id>
-        <link href="https://coinpost.jp/?p=632874"/>
-        <updated>2025-07-11T22:30:39.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨イーサリアムの価格は節目となる3,000ドルを約5カ月ぶりに突破した。価格上昇の要因には、ETFへの資金流入や企業購入の増加などが挙げられる。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>

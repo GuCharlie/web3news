@@ -485,6 +485,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=633912",
+          "author": "菊谷ルイス",
+          "description": "情報公開法に基づく調査で、米国政府の仮想通貨ビットコイン保有量は約2万8988 BTCと判明。従来予想の19万8000 BTCを大幅に下回る結果となった。",
+          "link": "https://coinpost.jp/?p=633912",
+          "publishedOn": "2025-07-16T21:50:27.000Z",
+          "wordCount": 3257,
+          "title": "米国政府のビットコイン保有量は約2.9万BTCか、従来予想の15%程度に＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-we-trust-debt-us-.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-we-trust-debt-us-.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=633893",
           "author": "菊谷ルイス",
           "description": "米下院が仮想通貨関連3法案の2回目手続き投票で膠着。共和党保守派が法案統合要求、民主党はトランプ家族の利益相反を批判し全面反対。",
@@ -1613,6 +1628,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-bills-procedural-vote-house-representatives",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "米国下院は3本の仮想通貨法案の審議再開に向けて動き出したが、ドナルド・トランプ大統領の働きかけにもかかわらず、共和党議員の足並みは完全には揃わなかった。",
+          "link": "https://jp.cointelegraph.com/news/crypto-bills-procedural-vote-house-representatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-16T22:12:21.000Z",
+          "wordCount": null,
+          "title": "米下院、仮想通貨関連法案3本の審議再開を可決　初回否決から復活",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDZhNWMtZGYzMS03MzA4LTkzZjUtNzJmYjY2MmMwMTM0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDZhNWMtZGYzMS03MzA4LTkzZjUtNzJmYjY2MmMwMTM0.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-dominance-high-chance-ceiling-ether-price-surge-crypto-analyst",
           "author": "Cointelegraph  Ciaran Lyons",

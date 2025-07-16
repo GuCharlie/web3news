@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-16T09:21:45.753Z</updated>
+    <updated>2025-07-16T09:46:36.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインのドミナンスはピークに達したか？ イーサリアムの台頭で転機]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-dominance-high-chance-ceiling-ether-price-surge-crypto-analyst</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-dominance-high-chance-ceiling-ether-price-surge-crypto-analyst?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-07-16T09:35:55.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨アナリストのマシュー・ハイランド氏は、イーサリアム（ETH）の上昇トレンドが続く限り、ビットコイン（BTC）の市場ドミナンスはすでにピークに達した可能性が高いとの見方を示している。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETHがBTCに対して6%上昇、その理由はGENIUS法：アナリストが指摘]]></title>
+        <id>https://www.coindeskjapan.com/?p=303718</id>
+        <link href="https://www.coindeskjapan.com/303718/"/>
+        <updated>2025-07-16T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[10xリサーチ（10x Research）の創設者、マーカス・ティーレン（Markus Thielen）氏によると、まもなく施行されるGENIUS法案により、金 ...
+ETHがBTCに対して6%上昇、その理由はGENIUS法：アナリストが指摘 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sei（セイ）とは｜行政・企業で注目集まる理由と将来性をやさしく解説]]></title>
+        <id>https://coinpost.jp/?p=631668</id>
+        <link href="https://coinpost.jp/?p=631668"/>
+        <updated>2025-07-16T09:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Seiは高速処理に特化したL1ブロックチェーン。特徴や将来性に加え、行政機関や機関投資家からの関心、エアドロップなど注目の話題をわかりやすく紹介します。]]></summary>
+        <author>
+            <name>hiroto.yoshii</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米CPI発表後もビットコインは11万8000ドルを維持──ETH、DOGEが小幅な上昇をリード]]></title>
         <id>https://www.coindeskjapan.com/?p=303703</id>
@@ -2358,16 +2389,6 @@ AIとWeb3が変える音楽の形──分散型プラットフォーム「DMC�
         <summary type="html"><![CDATA[仮想通貨ビットコインが史上最高値11万8000ドルを更新する中、取引所流入量は2015年以来最低水準に。グラスノードとクリプトクアントが売り圧力減少の実態を分析。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインがS&amp;P500を圧倒　デジタル資産の優位が浮き彫りに]]></title>
-        <id>https://jp.cointelegraph.com/news/sp500-record-high-bitcoin-etf-inflows-2025</id>
-        <link href="https://jp.cointelegraph.com/news/sp500-record-high-bitcoin-etf-inflows-2025?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-07-11T21:42:29.000Z</updated>
-        <summary type="html"><![CDATA[4月以降、米株式市場はV字回復を遂げ、S&P500指数は過去最高値を更新した。しかし、ビットコイン建で見ると、依然として同指数は大幅な下落となっており、ビットコインの力強いパフォーマンスが際立っている。]]></summary>
-        <author>
-            <name>Cointelegraph  Sam Bourgi</name>
         </author>
     </entry>
 </feed>

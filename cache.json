@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=303718",
+          "author": "Omkar Godbole",
+          "description": "10xリサーチ（10x Research）の創設者、マーカス・ティーレン（Markus Thielen）氏によると、まもなく施行されるGENIUS法案により、金 ...\nETHがBTCに対して6%上昇、その理由はGENIUS法：アナリストが指摘 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/303718/",
+          "publishedOn": "2025-07-16T09:30:00.000Z",
+          "wordCount": 1374,
+          "title": "ETHがBTCに対して6%上昇、その理由はGENIUS法：アナリストが指摘",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/shutterstock_2311195385.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=303703",
           "author": "Shaurya Malwa",
           "description": "ビットコイン（BTC）は7月16日のアジア取引時間中に11万8000ドル近辺で推移し、6月のアメリカ消費者物価指数（CPI）データがさらなるディスインフレを示唆 ...\n米CPI発表後もビットコインは11万8000ドルを維持──ETH、DOGEが小幅な上昇をリード first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -480,10 +490,25 @@
       "articles": []
     },
     {
-      "title": "Litecoin(LTC)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=631668",
+          "author": "hiroto.yoshii",
+          "description": "Seiは高速処理に特化したL1ブロックチェーン。特徴や将来性に加え、行政機関や機関投資家からの関心、エアドロップなど注目の話題をわかりやすく紹介します。",
+          "link": "https://coinpost.jp/?p=631668",
+          "publishedOn": "2025-07-16T09:00:28.000Z",
+          "wordCount": 2446,
+          "title": "Sei（セイ）とは｜行政・企業で注目集まる理由と将来性をやさしく解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/seisamune0709-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/seisamune0709-1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=633654",
           "author": "A.Yamada",
@@ -1689,6 +1714,21 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-dominance-high-chance-ceiling-ether-price-surge-crypto-analyst",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "仮想通貨アナリストのマシュー・ハイランド氏は、イーサリアム（ETH）の上昇トレンドが続く限り、ビットコイン（BTC）の市場ドミナンスはすでにピークに達した可能性が高いとの見方を示している。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-dominance-high-chance-ceiling-ether-price-surge-crypto-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-16T09:35:55.000Z",
+          "wordCount": null,
+          "title": "ビットコインのドミナンスはピークに達したか？ イーサリアムの台頭で転機",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGY1ZDUtMzNlMy03ZjhlLTliNTQtMTc3YTBhZDRjZDUw.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGY1ZDUtMzNlMy03ZjhlLTliNTQtMTc3YTBhZDRjZDUw.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/bitcoin-price-correction-unlikely-strong-fundamentals-21shares-crypto-analyst",
           "author": "Cointelegraph  Ciaran Lyons",
           "description": "仮想通貨投資商品のプロバイダーである21シェアーズのリサーチストラテジスト、マット・メナ氏によれば、ビットコイン（BTC）は、強固なファンダメンタルズに支えられ、当面のあいだ下落トレンドに入る可能性は低い。",
@@ -2257,21 +2297,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2ZhZDktZjliYy03NDBjLWI4NjgtOTJlYTFkMmEyZmMx.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/sp500-record-high-bitcoin-etf-inflows-2025",
-          "author": "Cointelegraph  Sam Bourgi",
-          "description": "4月以降、米株式市場はV字回復を遂げ、S&P500指数は過去最高値を更新した。しかし、ビットコイン建で見ると、依然として同指数は大幅な下落となっており、ビットコインの力強いパフォーマンスが際立っている。",
-          "link": "https://jp.cointelegraph.com/news/sp500-record-high-bitcoin-etf-inflows-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-11T21:42:29.000Z",
-          "wordCount": null,
-          "title": "ビットコインがS&amp;P500を圧倒　デジタル資産の優位が浮き彫りに",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2ZhNGMtNzgxZS03MjE5LThhMjItZjcyMTAxNWU5YmJi.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2ZhNGMtNzgxZS03MjE5LThhMjItZjcyMTAxNWU5YmJi.jpg"
         }
       ]
     },

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-16T09:46:36.419Z</updated>
+    <updated>2025-07-16T10:18:22.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CMEのXRP先物の出来高、過去最高の2億3500万ドルを記録]]></title>
+        <id>https://www.coindeskjapan.com/?p=303726</id>
+        <link href="https://www.coindeskjapan.com/303726/"/>
+        <updated>2025-07-16T10:10:00.000Z</updated>
+        <summary type="html"><![CDATA[シカゴ・マーカンタイル取引所（CME）の新興市場であるエックス・アール・ピー（XRP）先物市場は、決済に特化したこの暗号資産（仮想通貨）に洗練された投資家が惹き ...
+CMEのXRP先物の出来高、過去最高の2億3500万ドルを記録 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインのドミナンスはピークに達したか？ イーサリアムの台頭で転機]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-dominance-high-chance-ceiling-ether-price-surge-crypto-analyst</id>
@@ -2369,26 +2380,6 @@ AIとWeb3が変える音楽の形──分散型プラットフォーム「DMC�
         <summary type="html"><![CDATA[仮想通貨イーサリアムの価格は節目となる3,000ドルを約5カ月ぶりに突破した。価格上昇の要因には、ETFへの資金流入や企業購入の増加などが挙げられる。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨市場は新たな「スーパーサイクル」に突入しているか？ ドル安・ETF・ビットコイン備蓄がカギに]]></title>
-        <id>https://jp.cointelegraph.com/news/is-the-crypto-market-entering-a-new-supercycle-here-are-5-ways-to-know</id>
-        <link href="https://jp.cointelegraph.com/news/is-the-crypto-market-entering-a-new-supercycle-here-are-5-ways-to-know?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-07-11T22:13:28.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨トレーダーたちは常に、ビットコイン（BTC）の半減期ごとに発生してきた4年周期の上昇パターンを超える「スーパーサイクル」の始まりを待ち望んでいる。]]></summary>
-        <author>
-            <name>Cointelegraph  Marcel Pechman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン11.8万ドル突破も売り圧力低下、長期保有者は静観か＝グラスノード]]></title>
-        <id>https://coinpost.jp/?p=632873</id>
-        <link href="https://coinpost.jp/?p=632873"/>
-        <updated>2025-07-11T22:10:56.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコインが史上最高値11万8000ドルを更新する中、取引所流入量は2015年以来最低水準に。グラスノードとクリプトクアントが売り圧力減少の実態を分析。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

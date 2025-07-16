@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-16T11:14:47.548Z</updated>
+    <updated>2025-07-16T11:39:07.691Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【7/16話題】シティが独自ステーブルコイン発行検討、スタンダードチャータードがグローバル銀行で初の暗号資産現物取引を提供など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=483296</id>
+        <link href="https://www.neweconomy.jp/posts/483296"/>
+        <updated>2025-07-16T11:38:40.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メタプラネット、米フィデリティ子会社が筆頭株主に]]></title>
         <id>https://www.neweconomy.jp/?p=483421</id>
@@ -2370,37 +2380,6 @@ AIとWeb3が変える音楽の形──分散型プラットフォーム「DMC�
         <summary type="html"><![CDATA[ステーブルコイン大手テザーは、2025年9月1日をもって5つのブロックチェーン上でのUSDTの償還サポートを終了すると発表した。]]></summary>
         <author>
             <name>Cointelegraph  Christopher Tepedino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グレースケール、仮想通貨投信のETF申請は「自動承認された」と主張]]></title>
-        <id>https://coinpost.jp/?p=632892</id>
-        <link href="https://coinpost.jp/?p=632892"/>
-        <updated>2025-07-11T23:30:43.000Z</updated>
-        <summary type="html"><![CDATA[グレースケールが米SECによる仮想通貨ファンドETF化承認停止に反発。240日期限切れによる自動承認を主張し、投資家への損害を指摘。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ストラテジーやメタプラネット、莫大なビットコインの含み益でも、売却はせず]]></title>
-        <id>https://www.coindeskjapan.com/?p=303188</id>
-        <link href="https://www.coindeskjapan.com/303188/"/>
-        <updated>2025-07-11T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）が11万7000ドルを超える記録的な高値で取引される中、最大規模の保有企業の一部は莫大な含み益を抱えている。しかし、彼らがビットコインを売 ...
-ストラテジーやメタプラネット、莫大なビットコインの含み益でも、売却はせず first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Helene Braun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨規制をめぐり米議会で対立　民主党が共和党主導の法案に反発]]></title>
-        <id>https://jp.cointelegraph.com/news/us-democrats-crypto-bills-anti-corruption-week</id>
-        <link href="https://jp.cointelegraph.com/news/us-democrats-crypto-bills-anti-corruption-week?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-07-11T23:16:56.000Z</updated>
-        <summary type="html"><![CDATA[米議会におけるデジタル資産をめぐる政治的対立がさらに深まっている。共和党が仮想通貨関連の3法案を来週から審議入りさせるなか、下院民主党の主要メンバーはこれに対抗する方針を明らかにした。]]></summary>
-        <author>
-            <name>Cointelegraph  Turner Wright</name>
         </author>
     </entry>
 </feed>

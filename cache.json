@@ -730,7 +730,7 @@
       "articles": []
     },
     {
-      "title": "コインチェックハッキング事件の記者会見内容まとめ",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -2299,6 +2299,21 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/sec-tokenization-exemption-genius-act-passes",
+          "author": "Cointelegraph  Lyne Qian",
+          "description": "米証券取引委員会（SEC）は、仮想通貨業界におけるトークン化を促進するため、規制枠組みに「イノベーション免除」を新設する可能性を検討している。SECのポール・アトキンス委員長が金曜の記者会見で語った。",
+          "link": "https://jp.cointelegraph.com/news/sec-tokenization-exemption-genius-act-passes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-18T21:00:00.000Z",
+          "wordCount": null,
+          "title": "米SEC　「トークン化促進」のための新たな規制緩和を検討　イノベーション免除の創設も視野に",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWZiZmYtZDExMy03ODA5LTgwMDMtZTQ0YmRhMTYxZDNl.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWZiZmYtZDExMy03ODA5LTgwMDMtZTQ0YmRhMTYxZDNl.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/dollar5-trillion-altcoin-season-pending-as-total2-market-cap-hits-dollar1-5t",
           "author": "Cointelegraph  Biraajmaan Tamuly",
           "description": "ビットコイン（BTC）からアルトコインへの資金回転が続く中、BTCを除いた仮想通貨の時価総額を示すTOTAL2は7月18日、1.5兆ドルに達した。この水準は、2025年1月以来の水準だ。",
@@ -3092,21 +3107,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODA5ZmEtOWIxYi03NTM0LWJjNTUtNDM1MGZkZWM5YjQw.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0714",
-          "author": "Cointelegraph  ビットバンク　長谷川友哉",
-          "description": "7日〜13日のビットコイン（BTC）対円相場の週足終値は、前週比170万5050円（10.79%）高の1750万5174円と大幅に上昇し、史上最高値を更新した。",
-          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0714?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-14T08:43:11.000Z",
-          "wordCount": null,
-          "title": "BTCは連日の史上最高値更新　ボラティリティ復活で活気を取り戻すか【ビットバンク仮想通貨分析】",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg"
         }
       ]
     },

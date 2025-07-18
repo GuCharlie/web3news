@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-18T20:42:51.301Z</updated>
+    <updated>2025-07-18T21:16:15.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SEC　「トークン化促進」のための新たな規制緩和を検討　イノベーション免除の創設も視野に]]></title>
+        <id>https://jp.cointelegraph.com/news/sec-tokenization-exemption-genius-act-passes</id>
+        <link href="https://jp.cointelegraph.com/news/sec-tokenization-exemption-genius-act-passes?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-07-18T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会（SEC）は、仮想通貨業界におけるトークン化を促進するため、規制枠組みに「イノベーション免除」を新設する可能性を検討している。SECのポール・アトキンス委員長が金曜の記者会見で語った。]]></summary>
+        <author>
+            <name>Cointelegraph  Lyne Qian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、11万8000ドル割り込む──「ラリーは依然として堅固な基盤を維持」とコインベース]]></title>
         <id>https://www.coindeskjapan.com/?p=304363</id>
@@ -3062,16 +3072,6 @@ Pump.fun、独自トークン「PUMP」が即完売で5億ドル調達──時�
 ビットコイン、上昇率でゴールド（金）を上回る──「非生産的資産」に資金が流入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>James Van Straten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCは連日の史上最高値更新　ボラティリティ復活で活気を取り戻すか【ビットバンク仮想通貨分析】]]></title>
-        <id>https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0714</id>
-        <link href="https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0714?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-07-14T08:43:11.000Z</updated>
-        <summary type="html"><![CDATA[7日〜13日のビットコイン（BTC）対円相場の週足終値は、前週比170万5050円（10.79%）高の1750万5174円と大幅に上昇し、史上最高値を更新した。]]></summary>
-        <author>
-            <name>Cointelegraph  ビットバンク　長谷川友哉</name>
         </author>
     </entry>
 </feed>

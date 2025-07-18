@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-18T14:45:21.267Z</updated>
+    <updated>2025-07-18T15:17:08.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[カルダノ（ADA）  20週ぶり高値を更新　強気相場再来で3ドルまで到達できるか]]></title>
+        <id>https://jp.cointelegraph.com/news/ada-to-2-70-cardano-greenlit-for-further-upside-after-surprise-75-price-rally</id>
+        <link href="https://jp.cointelegraph.com/news/ada-to-2-70-cardano-greenlit-for-further-upside-after-surprise-75-price-rally?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-07-18T15:14:52.000Z</updated>
+        <summary type="html"><![CDATA[カルダノのネイティブトークンであるADAは、6月22日から7月18日にかけて75％の急騰をみせ、6月に付けた0.50ドルの底値を起点とする数カ月にわたる下落トレンドに終止符を打った可能性がある。]]></summary>
+        <author>
+            <name>Cointelegraph  Nancy Lubale</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号資産に55%課税は「重すぎる」──JBAが分離課税など5項目要望、税制の「ねじれ」懸念も]]></title>
         <id>https://www.coindeskjapan.com/?p=304104</id>
@@ -3303,26 +3313,6 @@ Pump.fun、独自トークン「PUMP」が即完売で5億ドル調達──時�
         <summary type="html"><![CDATA[仮想通貨ソラナ基盤のPump.funが独自トークン「PUMP」セールを行い12分で完売、730億円を調達した。ミームコイン市場への投資家の関心が依然として高いことを示している。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『メディア×金融 革命前夜』WebX 2025で北尾吉孝×堀江貴文の特別対談決定]]></title>
-        <id>https://coinpost.jp/?p=631523</id>
-        <link href="https://coinpost.jp/?p=631523"/>
-        <updated>2025-07-14T03:00:21.000Z</updated>
-        <summary type="html"><![CDATA[アジア最大級のWeb3カンファレンス「WebX 2025」で、SBIホールディングス北尾吉孝会長と堀江貴文（ホリエモン）氏による特別対談が決定した。8月25日・26日にザ・プリンスパークタワー東京で開催され、「メディア×金融 革命前夜：情報とマネーはどこに向かうか」をテーマに議論する。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン最高値更新の裏で進む個人投資家離れ、Google検索トレンドが示す市場構造の変化]]></title>
-        <id>https://coinpost.jp/?p=633034</id>
-        <link href="https://coinpost.jp/?p=633034"/>
-        <updated>2025-07-14T02:46:17.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン価格が過去最高値を更新する中、市場構造に大きな変化が起きている。ビットワイズ欧州調査責任者は「最近の上昇は主に機関投資家によるもの」と分析。個人投資家のGoogle検索関心度は大幅に低下した。米下院で審議される暗号資産規制3法案の行方にも注目。]]></summary>
-        <author>
-            <name>S.Ninomiya</name>
         </author>
     </entry>
 </feed>

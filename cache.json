@@ -1778,36 +1778,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/Pumpfun-1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/Pumpfun-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=631523",
-          "author": "CoinPost編集部",
-          "description": "アジア最大級のWeb3カンファレンス「WebX 2025」で、SBIホールディングス北尾吉孝会長と堀江貴文（ホリエモン）氏による特別対談が決定した。8月25日・26日にザ・プリンスパークタワー東京で開催され、「メディア×金融 革命前夜：情報とマネーはどこに向かうか」をテーマに議論する。",
-          "link": "https://coinpost.jp/?p=631523",
-          "publishedOn": "2025-07-14T03:00:21.000Z",
-          "wordCount": 3303,
-          "title": "『メディア×金融 革命前夜』WebX 2025で北尾吉孝×堀江貴文の特別対談決定",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/0707_horie_kitao01.1200x630.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/0707_horie_kitao01.1200x630.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=633034",
-          "author": "S.Ninomiya",
-          "description": "ビットコイン価格が過去最高値を更新する中、市場構造に大きな変化が起きている。ビットワイズ欧州調査責任者は「最近の上昇は主に機関投資家によるもの」と分析。個人投資家のGoogle検索関心度は大幅に低下した。米下院で審議される暗号資産規制3法案の行方にも注目。",
-          "link": "https://coinpost.jp/?p=633034",
-          "publishedOn": "2025-07-14T02:46:17.000Z",
-          "wordCount": 3332,
-          "title": "ビットコイン最高値更新の裏で進む個人投資家離れ、Google検索トレンドが示す市場構造の変化",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/bitcoin-lightning-network.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/bitcoin-lightning-network.jpeg"
         }
       ]
     },
@@ -2513,6 +2483,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/ada-to-2-70-cardano-greenlit-for-further-upside-after-surprise-75-price-rally",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "カルダノのネイティブトークンであるADAは、6月22日から7月18日にかけて75％の急騰をみせ、6月に付けた0.50ドルの底値を起点とする数カ月にわたる下落トレンドに終止符を打った可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/ada-to-2-70-cardano-greenlit-for-further-upside-after-surprise-75-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-18T15:14:52.000Z",
+          "wordCount": null,
+          "title": "カルダノ（ADA）  20週ぶり高値を更新　強気相場再来で3ドルまで到達できるか",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTVkNzYtYmY5ZS03Y2ZiLWE3M2YtYTdiYzljZGRhMDdk.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTVkNzYtYmY5ZS03Y2ZiLWE3M2YtYTdiYzljZGRhMDdk.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/genius-act-heads-donald-trump-signing-what-will-change",
           "author": "Cointelegraph  Jesse Coghlan",

@@ -1822,6 +1822,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=483837",
+          "author": "NewEconomyPodcast",
+          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/483837",
+          "publishedOn": "2025-07-18T11:05:07.000Z",
+          "wordCount": 823,
+          "title": "【7/18話題】XRPが史上最高値を更新、SBI VCトレードの預かり総資産が6,000億円突破など（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/18175307/1120f4ef01bb25f08f23aece7f5c463d.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=483803",
           "author": "OtsugaShinya",
           "description": "ライトニングネットワークで「Kyashギフトコード」購入可能に Kyash（キャッシュ）発行の「Kyashギフトコード」が、ビットコインレイヤー2のライトニングネットワーク（Lightning Network）決済で購入 […]",
@@ -3297,36 +3307,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzBhY2QtOTdmYi03MzhkLWIxNzAtMTMyNWQ4NjIzZTVm.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/saylor-signals-btc-buy-after-week-break",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "ストラテジーは負債と株式の両面で資金を調達し、ビットコイン準備資産企業の首位を維持している。",
-          "link": "https://jp.cointelegraph.com/news/saylor-signals-btc-buy-after-week-break?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-13T22:56:14.000Z",
-          "wordCount": null,
-          "title": "マイケル・セイラー氏、1週間ぶりにビットコイン購入再開を示唆",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTFhZmEtMjVhNC03MDBhLThmY2YtMTRiOTYyYmM2NzVm.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTFhZmEtMjVhNC03MDBhLThmY2YtMTRiOTYyYmM2NzVm.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/real-world-asset-tokens-new-etfs-coinfund",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "トークンは1993年に米国取引所で上場した上場投資信託（ETF）に匹敵する新しい金融ラッパーである、とコインファンドのクリストファー・パーキンス氏は述べた。",
-          "link": "https://jp.cointelegraph.com/news/real-world-asset-tokens-new-etfs-coinfund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-13T22:48:41.000Z",
-          "wordCount": null,
-          "title": "現実世界資産トークンは新たなETF＝コインファンド社長",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGNiYjgtNTc5ZS03Nzk5LWJkMzktZDNmOThlMGZkOGY5.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGNiYjgtNTc5ZS03Nzk5LWJkMzktZDNmOThlMGZkOGY5.jpg"
         }
       ]
     },

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-18T10:47:37.322Z</updated>
+    <updated>2025-07-18T11:14:21.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【7/18話題】XRPが史上最高値を更新、SBI VCトレードの預かり総資産が6,000億円突破など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=483837</id>
+        <link href="https://www.neweconomy.jp/posts/483837"/>
+        <updated>2025-07-18T11:05:07.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFTコレクション「Sappy Seals」、Robloxに正式に進出]]></title>
         <id>https://crypto-times.jp/?p=140015</id>
@@ -3322,26 +3332,6 @@ AIとWeb3が変える音楽の形──分散型プラットフォーム「DMC�
         <summary type="html"><![CDATA[リップル社の発行するエックスアールピー（XRP）価格が急騰した背景に韓国投資家の動きがあったと指摘されている。アップビットが買い圧力の70%を占めていた。韓国は仮想通貨への課税を2027年まで延期する見込みだ。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイケル・セイラー氏、1週間ぶりにビットコイン購入再開を示唆]]></title>
-        <id>https://jp.cointelegraph.com/news/saylor-signals-btc-buy-after-week-break</id>
-        <link href="https://jp.cointelegraph.com/news/saylor-signals-btc-buy-after-week-break?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-07-13T22:56:14.000Z</updated>
-        <summary type="html"><![CDATA[ストラテジーは負債と株式の両面で資金を調達し、ビットコイン準備資産企業の首位を維持している。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[現実世界資産トークンは新たなETF＝コインファンド社長]]></title>
-        <id>https://jp.cointelegraph.com/news/real-world-asset-tokens-new-etfs-coinfund</id>
-        <link href="https://jp.cointelegraph.com/news/real-world-asset-tokens-new-etfs-coinfund?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-07-13T22:48:41.000Z</updated>
-        <summary type="html"><![CDATA[トークンは1993年に米国取引所で上場した上場投資信託（ETF）に匹敵する新しい金融ラッパーである、とコインファンドのクリストファー・パーキンス氏は述べた。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
         </author>
     </entry>
 </feed>

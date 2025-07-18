@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-18T22:16:24.137Z</updated>
+    <updated>2025-07-18T22:43:53.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「米SECはトークン化の規制例外措置を検討中」アトキンス委員長が明かす＝ブルームバーグ]]></title>
+        <id>https://coinpost.jp/?p=634803</id>
+        <link href="https://coinpost.jp/?p=634803"/>
+        <updated>2025-07-18T22:30:25.000Z</updated>
+        <summary type="html"><![CDATA[米SECのアトキンス委員長が、SECは証券のトークン化における規制の例外措置を検討していると明かした。RWAのトークン化は仮想通貨・ブロックチェーン領域で大きなトレンドになっている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「保有していれば国家債務削減できたか」ブルガリア政府が2018年に手放した21万ビットコインの現在価値]]></title>
+        <id>https://coinpost.jp/?p=634800</id>
+        <link href="https://coinpost.jp/?p=634800"/>
+        <updated>2025-07-18T22:00:48.000Z</updated>
+        <summary type="html"><![CDATA[ブルガリア政府が2018年に売却した21万3500BTCの仮想通貨ビットコインの現在価値は250億ドル超。同国債務の約8割に相当する巨額損失として話題に。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ大統領、ステーブルコイン規制のGENIUS法に署名　政権の仮想通貨政策が前進]]></title>
         <id>https://jp.cointelegraph.com/news/donald-trump-stablecoin-law-signed</id>

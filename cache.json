@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=304080",
+          "author": "蓮田光則",
+          "description": "ビットコイン（BTC）の開発初期に深く関与したアダム・バック（Adam Back）氏と米金融大手キャンター・フィッツジェラルド（Cantor Fitzgeral ...\nアダム・バック氏のビットコイン・トレジャリー企業、3万BTCを保有してSPAC上場へ──15億ドルの資金調達も予定 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/304080/",
+          "publishedOn": "2025-07-18T04:00:53.000Z",
+          "wordCount": 1357,
+          "title": "アダム・バック氏のビットコイン・トレジャリー企業、3万BTCを保有してSPAC上場へ──15億ドルの資金調達も予定",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/eb1213d697ee4f34dc50df438335bf53f4cf7d50-4498x3000-1-scaled.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=304061",
           "author": "蓮田光則",
           "description": "ワイオミング州は、ブロックチェーンスタートアップ企業ハッシュファイア（Hashfire）と共同で、同州が発行を予定する米ドル建てステーブルコイン「ワイオミング・ ...\nワイオミング州、独自ステーブルコインでの即時決済をテスト──アバランチベースのプロトコルを使用 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -694,6 +704,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=634571",
+          "author": "菊谷ルイス",
+          "description": "米上場のサムザップメディアが17日、取締役会で仮想通貨投資枠を2.5億ドルに拡大と発表。イーサリアム、ソラナ、XRP、ドージコイン、ライトコイン、USDCを新たに投資対象に追加。",
+          "link": "https://coinpost.jp/?p=634571",
+          "publishedOn": "2025-07-18T04:55:25.000Z",
+          "wordCount": 3226,
+          "title": "米サムザップ、仮想通貨投資枠370億円に拡大　XRPやDOGEなど6銘柄追加承認",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/trump-jr.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/trump-jr.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=634443",
+          "author": "A.Yamada",
+          "description": "資産運用大手ハミルトン・レーンのプライベートクレジットファンド「SCOPE」がイーサリアムとオプティミズムでマルチチェーン化した。セキュリタイズとワームホールが提携し実現している。",
+          "link": "https://coinpost.jp/?p=634443",
+          "publishedOn": "2025-07-18T04:30:22.000Z",
+          "wordCount": 3238,
+          "title": "ハミルトン・レーンのSCOPEファンド、マルチチェーン化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/rwa-head.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/rwa-head.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=634449",
+          "author": "Ritsuki.Kumazawa",
+          "description": "東証グロース上場のコンヴァノが総額4億円のビットコイン購入を決議。インフレヘッジと財務基盤強化を目的に暗号資産保有事業を開始。専門部署「ビットコイン保有戦略室」を新設し、7月末までに購入完了予定。",
+          "link": "https://coinpost.jp/?p=634449",
+          "publishedOn": "2025-07-18T04:20:11.000Z",
+          "wordCount": 3240,
+          "title": "美容企業コンヴァノ、総額4億円のビットコイン購入を決議",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/Crypto-0630.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/Crypto-0630.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=611272",
+          "author": "AKIRA.H",
+          "description": "Walrus（WAL）は分散型ストレージであり、暗号資産（仮想通貨）です。Sui Networkを活用した高度な技術、将来性、買い方、投資リスクまで徹底解説。",
+          "link": "https://coinpost.jp/?p=611272",
+          "publishedOn": "2025-07-18T03:26:42.000Z",
+          "wordCount": 2472,
+          "title": "スイの注目プロジェクト「Walrus（WAL）」、将来性・購入方法を解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/Walrus_wal.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/Walrus_wal.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=634407",
           "author": "菊谷ルイス",
@@ -1662,6 +1732,36 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=483759",
+          "author": "OtsugaShinya",
+          "description": "SBI VCトレードの預かり総資産が8日で1,000億円増に 国内暗号資産（仮想通貨）取引所SBI VCトレードが、7月17日時点で顧客預かり総資産が6,000億円を突破したことを同日発表した。 なお同取引所は先日7月9 […]",
+          "link": "https://www.neweconomy.jp/posts/483759",
+          "publishedOn": "2025-07-18T05:21:34.000Z",
+          "wordCount": 764,
+          "title": "SBI VCトレード、預かり総資産6,000億円突破、わずか8日で1,000億円増",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/18142309/e8aae72b97c6b542d06905952f09ee59.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=483742",
+          "author": "HitomotoToshikazu",
+          "description": "CANARY STAKED INJ ETFを米SECに申請 暗号資産（仮想通貨）投資企業カナリー（Canary）が、暗号資産インジェクティブ（INJ）の現物価格に連動するETF（上場投資信託）に関する登録届出書「S-1申 […]",
+          "link": "https://www.neweconomy.jp/posts/483742",
+          "publishedOn": "2025-07-18T04:21:48.000Z",
+          "wordCount": 765,
+          "title": "カナリー、ステーキング対応「インジェクティブ（INJ）現物ETF」を米SECに申請",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/18131849/87ce10cbfba45e72115940d014a3a62c.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=483737",
+          "author": "OtsugaShinya",
+          "description": "ビットコイン・スタンダードがSPAC上場で世界4位のBTC保有企業へ 米暗号資産企業ビットコインスタンダードトレジャリーカンパニー（Bitcoin Standard Treasury Company）が、米金融大手キャン […]",
+          "link": "https://www.neweconomy.jp/posts/483737",
+          "publishedOn": "2025-07-18T03:57:27.000Z",
+          "wordCount": 650,
+          "title": "3万BTC保有のビットコイン・スタンダード、キャンター支援のSPACと合併でナスダック上場へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/18125720/6f746554f678f587d854d3296acfcf8e.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=483719",
           "author": "HitomotoToshikazu",
           "description": "Bit OriginがDOGE取得へ 米ナスダック上場の暗号資産（仮想通貨）マイニング企業ビットオリジン（Bit Origin）が、暗号資産ドージコイン（DOGE）のトレジャリー（財務資産）戦略を開始する予定であると7月 […]",
@@ -2298,6 +2398,66 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0718",
+          "author": "Cointelegraph  ビットバンク　長谷川友哉",
+          "description": "17日のビットコイン（BTC）円は1755万7357円から取引が始まった。",
+          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0718?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-18T06:21:05.000Z",
+          "wordCount": null,
+          "title": "クリプトウィークに進展でBTC小幅続伸　アルトターン収束待ちか【ビットバンク仮想通貨分析】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-market-cap-nears-4-trillion-amid-rally-crypto-legislation",
+          "author": "Cointelegraph  Martin Young",
+          "description": "仮想通貨の時価総額が、ビットコインやイーサリアム、XRPなどの急騰を背景に4兆ドルの大台に迫っている。米議会下院で仮想通貨に関する主要な法案3本が可決されたことが、この急伸の直接的なきっかけとなった。",
+          "link": "https://jp.cointelegraph.com/news/crypto-market-cap-nears-4-trillion-amid-rally-crypto-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-18T05:58:45.000Z",
+          "wordCount": null,
+          "title": "仮想通貨時価総額が4兆ドル目前　米下院で主要法案可決が材料に　イーサリアムやXRPが急騰",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODFiOWYtNmI3Zi03NjMyLWExZTMtMjliZmM4ZmZjMmE4.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODFiOWYtNmI3Zi03NjMyLWExZTMtMjliZmM4ZmZjMmE4.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/donald-trump-executive-order-401k-crypto-investments",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "米国のトランプ大統領が、株式や債券以外のオルタナティブ資産──たとえば仮想通貨など──への投資を、401(k)退職年金制度で可能にする大統領令に署名する見通しだと報じられている。",
+          "link": "https://jp.cointelegraph.com/news/donald-trump-executive-order-401k-crypto-investments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-18T05:39:51.000Z",
+          "wordCount": null,
+          "title": "トランプ氏、退職金積立で仮想通貨投資を可能にする大統領令を検討＝報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2E1NTktYjA1Yi03YTZhLWExYTUtNzhhMTY0ZWMyOGI0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2E1NTktYjA1Yi03YTZhLWExYTUtNzhhMTY0ZWMyOGI0.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/ether-price-correction-unlikely-macro-catalysts-hedge-fund-forecast",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "イーサリアム（ETH）は3600ドルまで急騰したが、この上昇はすぐには終わらない可能性が高いと、暗号資産ヘッジファンドZXスクエアード・キャピタルのパートナーであるフェリックス・シュー氏は語った。",
+          "link": "https://jp.cointelegraph.com/news/ether-price-correction-unlikely-macro-catalysts-hedge-fund-forecast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-18T03:17:35.000Z",
+          "wordCount": null,
+          "title": "1ヶ月で47％急騰のイーサリアム　1万ドル到達はあるのか　ETF資金流入とマクロ環境が追い風に",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODFiNjctZDM5YS03MTZhLWJhNjgtYWU5ZjU3NjBiZDlh.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODFiNjctZDM5YS03MTZhLWJhNjgtYWU5ZjU3NjBiZDlh.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-smack-dab-in-the-middle-of-its-adoption-curve-fidelity-analyst",
           "author": "Cointelegraph  Biraajmaan Tamuly",
@@ -3070,6 +3230,66 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=140025",
+          "author": "Crypto Times 編集部",
+          "description": "2011年頃からビットコイン (BTC) を保有していた、いわゆる「クジラ」と呼ばれる大口保有者が14年間の沈黙を破り、保有する約8万BTC（約95億ドル、日本円で約1.4兆円）をすべて移動させたことが明らかになりました […]\n投稿 72,000倍の利益、1.4兆円分の大口ビットコインが移動完了 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-whale-80000-btc-move/",
+          "publishedOn": "2025-07-18T06:12:02.000Z",
+          "wordCount": 591,
+          "title": "72,000倍の利益、1.4兆円分の大口ビットコインが移動完了",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_2118178433.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=139923",
+          "author": "boarding bridge",
+          "description": "執筆：summerchon 累計取引高が3兆ドルを超え、Ethereumをはじめとする12以上のブロックチェーン上で展開されている分散型取引所「Uniswap Protocol」の開発元「Uniswap Labs」のAM […]\n投稿 累積取引高3兆ドル超の世界最大DEX「Uniswap Labs」AMAレポート は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/ama-uniswap/",
+          "publishedOn": "2025-07-18T05:35:58.000Z",
+          "wordCount": 749,
+          "title": "累積取引高3兆ドル超の世界最大DEX「Uniswap Labs」AMAレポート",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2024/07/Uniswap-3.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=140024",
+          "author": "Crypto Times 編集部",
+          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 OSL Group（本社：香港、CEO：Kevin Cui、香港証券取 […]\n投稿 OSL GroupがCNBC「2025年世界フィンテックトップ企業」に選出 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/press-osl-group-the-worlds-top-fintech-companies-2025/",
+          "publishedOn": "2025-07-18T05:34:11.000Z",
+          "wordCount": 639,
+          "title": "OSL GroupがCNBC「2025年世界フィンテックトップ企業」に選出",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/106332-8-ccb823f7a3a94e339b93c1bbbddbdb7b-2500x1313-1.webp"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=140020",
+          "author": "Crypto Times 編集部",
+          "description": "2025年7月17日に取引された現物型イーサリアムETF（上場投資信託）への資金流入額が現物型ビットコインETFの流入額を上回ったことが明らかになりました。この動きは機関投資家や個人投資家の関心がビットコインから第二の規 […]\n投稿 イーサリアムが流入額でビットコイン上回る｜ETFで6億ドルが流入 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-ethereum-etfs-surpass-bitcoin-etfs-in-terms-of-capital-inflows/",
+          "publishedOn": "2025-07-18T05:05:22.000Z",
+          "wordCount": 603,
+          "title": "イーサリアムが流入額でビットコイン上回る｜ETFで6億ドルが流入",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_1873268185.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=140016",
+          "author": "Crypto Times 編集部",
+          "description": "人気NFTプロジェクト「Pudgy Penguins」のおもちゃシリーズ「Pudgy Toys」がドン・キホーテの店舗で販売開始されたことが明らかになりました。この動きはNFTから派生したブランドが日本の主要な実店舗市場 […]\n投稿 人気NFT「Pudgy Penguins」、ドン・キホーテで玩具販売 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-pudgy-penguins-don-quijote/",
+          "publishedOn": "2025-07-18T04:46:05.000Z",
+          "wordCount": 641,
+          "title": "人気NFT「Pudgy Penguins」、ドン・キホーテで玩具販売",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_1546545473.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=140012",
+          "author": "Crypto Times 編集部",
+          "description": "2025年7月18日、仮想通貨市場全体の時価総額が史上初めて一時4兆ドルに到達したことが、大手仮想通貨データサイトCoinGeckoの発表により明らかになりました。 JUST IN: The total crypto m […]\n投稿 仮想通貨市場、過去最高の4兆ドルを記録｜アルトシーズン到来か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-crypto-mcap-4t/",
+          "publishedOn": "2025-07-18T03:49:45.000Z",
+          "wordCount": 654,
+          "title": "仮想通貨市場、過去最高の4兆ドルを記録｜アルトシーズン到来か",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2412108725.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=140009",
           "author": "Crypto Times 編集部",

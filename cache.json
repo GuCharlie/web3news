@@ -735,6 +735,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=634865",
+          "author": "菊谷ルイス",
+          "description": "ワールド・リバティ・フィナンシャルが861ETHを新規購入し、総保有量は70,143ETHに到達。仮想通貨法案可決が追い風に。",
+          "link": "https://coinpost.jp/?p=634865",
+          "publishedOn": "2025-07-19T04:50:55.000Z",
+          "wordCount": 3241,
+          "title": "トランプ一族関連のWLFI、4.5億円分のイーサリアムを追加購入　総額370億円超に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/trump-jr.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/trump-jr.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=634853",
+          "author": "A.Yamada",
+          "description": "ジャック・ドーシー率いるブロック社がS&P 500指数に追加される。株価は時間外取引で10%以上上昇した。同社は米国製の新ビットコインマイニングチップを年内発売予定だ。",
+          "link": "https://coinpost.jp/?p=634853",
+          "publishedOn": "2025-07-19T04:20:40.000Z",
+          "wordCount": 3261,
+          "title": "ジャック・ドーシーのブロック社、S&P500指数に追加へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/08/sp500-bitcoin-no-more.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/08/sp500-bitcoin-no-more.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=634850",
           "author": "菊谷ルイス",
           "description": "元NYSE社長トム・ファーレイ率いるブリッシュが証券取引委員会にIPOを申請。コインデスク買収実績を持つ同社の上場計画と業界動向を報告。",
@@ -2380,16 +2410,6 @@
           "wordCount": 726,
           "title": "バリュークリエーション、1億円相当のビットコイン追加購入を予告",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/15111540/BTC1-250714-PIXTA.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=482850",
-          "author": "TamuraSeiji",
-          "description": "イーサリアム財団がL1 zkEVMの1年以内実装を目指す イーサリアム（Ethereum）財団のプロトコルエンジニアであるソフィア・ゴールド（Sophia Gold）氏が、レイヤー1（L1：イーサリアム）へのゼロ知識証明 […]",
-          "link": "https://www.neweconomy.jp/posts/482850",
-          "publishedOn": "2025-07-14T15:15:25.000Z",
-          "wordCount": 736,
-          "title": "イーサリアムがzkEVMの1年以内の実装目指す。財団がリアルタイム証明の要件公開",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/15001519/2a5d47464afa6b9cf68c71997d642eb1.jpg"
         }
       ]
     },
@@ -3260,6 +3280,46 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=140059",
+          "author": "よきょい",
+          "description": "イーサリアム（ETH）が2025年第2四半期に好調な指標を示しました。米国の現物ETF（上場投資信託）への記録的な資金流入が確認されたほか、ネットワーク手数料が大幅に低下しており第3四半期に向けた明るい見通しを支えていま […]\n投稿 イーサリアム、第3四半期に「買い」のシグナルか｜機関マネー流入加速 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-ethereum-q3-may-be-a-buy-signal-as-institutional-money-flows-accelerate/",
+          "publishedOn": "2025-07-19T05:45:08.000Z",
+          "wordCount": 575,
+          "title": "イーサリアム、第3四半期に「買い」のシグナルか｜機関マネー流入加速",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_2543732567-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=140050",
+          "author": "よきょい",
+          "description": "大手証券会社のチャールズ・シュワブが、ビットコイン（BTC）とイーサリアム（ETH）の現物取引サービスを間もなく開始します。同社のCEO、リック・ウースター（Rick Wurster）氏がインタビューで明らかにしたもので […]\n投稿 米証券最大手シュワブ、BTC現物取引でコインベースに対抗 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-schwab-the-largest-us-securities-firm-takes-on-coinbase-with-spot-btc-trading/",
+          "publishedOn": "2025-07-19T05:34:37.000Z",
+          "wordCount": 576,
+          "title": "米証券最大手シュワブ、BTC現物取引でコインベースに対抗",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_1503471581.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=140060",
+          "author": "よきょい",
+          "description": "大手暗号資産取引所コインベースの株価が7月18日に一時444ドルに到達し、史上最高値を更新しました。この株価上昇により同社の時価総額は1000億ドルの大台を突破しました。 この力強い値動きの背景には米国の立法府における進 […]\n投稿 コインベース株、買いか？最高値更新も経営陣は売り継続 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-should-i-buy-coinbase-stocks-management-continues-selling-even-after-the-highest-price-has-been-set/",
+          "publishedOn": "2025-07-19T05:25:59.000Z",
+          "wordCount": 616,
+          "title": "コインベース株、買いか？最高値更新も経営陣は売り継続",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_2455276455.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=140061",
+          "author": "よきょい",
+          "description": "トランプ大統領が米国の代表的な退職年金制度である401(k)プランの投資対象に仮想通貨、金、プライベートエクイティ等を加える大統領令を加えるだけでなく、少額の暗号資産取引に対する税金免除措置を検討していることが判明しまし […]\n投稿 トランプ氏、BTC少額取引を非課税に？決済利用加速か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-will-trump-make-small-btc-transactions-tax-free-will-this-accelerate-the-use-of-the-cryptocurrency-for-payments/",
+          "publishedOn": "2025-07-19T05:17:02.000Z",
+          "wordCount": 579,
+          "title": "トランプ氏、BTC少額取引を非課税に？決済利用加速か",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_2586170839.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=140015",
           "author": "Crypto Times 編集部",

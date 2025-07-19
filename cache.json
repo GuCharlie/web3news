@@ -2060,26 +2060,6 @@
           "wordCount": 734,
           "title": "AIフュージョンがWeb3事業本格展開に向け組織再編、元OKJ八角COOが子会社社長に就任",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/15133847/036387a05c0d83855a781f5e98b69c8a.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=482923",
-          "author": "gentosha_takahashi",
-          "description": "サービス提供者に登録手続き義務付け ガーナ中央銀行（BOG）は、同国で事業を行うすべての暗号資産（仮想通貨）サービス提供者（VASPs）に対し、強制的な登録手続きを義務付ける公的通知を7月10日に発出した。 公告によると […]",
-          "link": "https://www.neweconomy.jp/posts/482923",
-          "publishedOn": "2025-07-15T03:57:54.000Z",
-          "wordCount": 717,
-          "title": "ガーナ中銀、全ての暗号資産事業者に登録義務化",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/15125714/a3d96f07b6300608803e0e3f0438c360.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=482918",
-          "author": "gentosha_takahashi",
-          "description": "最長8年の懲役刑も ハンガリーで7月1日より施行された新たな法律により、同国における無許可での暗号資産（仮想通貨）取引やサービス提供に対して、懲役刑を含む厳罰が科されるようになった。 この法律は、2025年6月17日にハ […]",
-          "link": "https://www.neweconomy.jp/posts/482918",
-          "publishedOn": "2025-07-15T03:49:58.000Z",
-          "wordCount": 593,
-          "title": "ハンガリー、無許可の暗号資産取引に個人・事業者に厳しい罰則設ける",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/15124952/76af8aeb601b837dcceb7376b737bbdb.jpg"
         }
       ]
     },
@@ -2088,6 +2068,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/spot-bitcoin-etfs-363m-inflow-12-day-streak",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "ビットコイン上場投資信託（ETF）には、7月18日に3億6300万ドルの純流入が記録され、12日連続で資金が流入する展開となった。投資家の関心の高まりが鮮明になっている。",
+          "link": "https://jp.cointelegraph.com/news/spot-bitcoin-etfs-363m-inflow-12-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-19T16:09:04.000Z",
+          "wordCount": null,
+          "title": "ビットコインETFが12日連続で資金流入　ブラックロックが主導　累計流入額は66億ドル超に",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzAzZTEtZWJhZS03Yzg2LTk1NTMtMTA3YzA3MGQzZWM3.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzAzZTEtZWJhZS03Yzg2LTk1NTMtMTA3YzA3MGQzZWM3.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/genius-ban-stablecoin-yield-ethereum-defi-analysts",
           "author": "Cointelegraph  Vince Quill",

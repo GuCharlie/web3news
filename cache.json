@@ -560,26 +560,6 @@
           "wordCount": 1313,
           "title": "FSB議長、G20会合を前にステーブルコインを優先事項に",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/shutterstock_1174442221.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=303646",
-          "author": "林 理南",
-          "description": "8万BTC以上を保有するビットコイン（BTC）のクジラは、14日にビットコインが史上最高値の約12万3000ドル（約1784万円、1ドル145円換算）まで上昇し ...\nサトシ時代のクジラが9000BTCを10億ドル以上で売却──ビットコインは11万7000ドル割れ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/303646/",
-          "publishedOn": "2025-07-15T17:04:41.000Z",
-          "wordCount": 1318,
-          "title": "サトシ時代のクジラが9000BTCを10億ドル以上で売却──ビットコインは11万7000ドル割れ",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/588e1b5049867e0679af9a52407a1bac4fed8873-1496x841-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=303639",
-          "author": "林 理南",
-          "description": "アメリカのインフレ率は6月に上昇したが、ほぼ予想通りだった。このことは、早ければ9月にも米連邦準備制度理事会（FRB）が追加利下げを行う道を開く可能性がある。  ...\n6月米CPIは予想通り0.3%上昇──コア指数は予想をやや下回る0.2%上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/303639/",
-          "publishedOn": "2025-07-15T16:33:50.000Z",
-          "wordCount": 1332,
-          "title": "6月米CPIは予想通り0.3%上昇──コア指数は予想をやや下回る0.2%上昇",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/shutterstock_2596052607.jpg"
         }
       ]
     },
@@ -594,6 +574,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=634353",
+          "author": "CoinPost編集部",
+          "description": "前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナなど主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。",
+          "link": "https://coinpost.jp/?p=634353",
+          "publishedOn": "2025-07-20T05:00:14.000Z",
+          "wordCount": 3313,
+          "title": "今週の主要仮想通貨材料まとめ、投資会社創設者によるETH1万ドル到達予測やXRPの最高値更新など",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/altcoin-materials-new-buy-sell.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/altcoin-materials-new-buy-sell.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=634637",
+          "author": "CoinPost編集部",
+          "description": "ビットコイン（BTC）対円相場が1800万円を窺う展開。史上最高値更新後の高値揉み合いが続く中、米下院でのジーニアス法案可決など規制緩和の進展が相場を支援。トランプ政権の仮想通貨政策レポート公表を22日に控え、戦略的ビットコイン備蓄の具体策にも注目。",
+          "link": "https://coinpost.jp/?p=634637",
+          "publishedOn": "2025-07-20T02:30:11.000Z",
+          "wordCount": 3258,
+          "title": "ビットコイン1800万円目前で揉み合い、米規制緩和進展が下値支え｜bitbankアナリスト寄稿",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=634813",
+          "author": "CoinPost編集部",
+          "description": "今週は、ビットコインの価格予想、古参ビットコイン大口保有者の動向、トランプ大統領による米初の仮想通貨包括規制法への署名に関する記事が最も関心を集めた。",
+          "link": "https://coinpost.jp/?p=634813",
+          "publishedOn": "2025-07-20T02:00:24.000Z",
+          "wordCount": 3276,
+          "title": "週刊仮想通貨ニュース｜トランプ大統領による米初の仮想通貨包括規制法署名やビットコイン価格予測に高い関心",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=634865",
           "author": "菊谷ルイス",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-20T22:15:33.855Z</updated>
+    <updated>2025-07-20T22:43:24.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GENIUS法案、テック大手と銀行によるステーブルコイン支配を阻止＝サークル幹部]]></title>
+        <id>https://jp.cointelegraph.com/news/genius-act-clause-limits-big-tech-stablecoin-power</id>
+        <link href="https://jp.cointelegraph.com/news/genius-act-clause-limits-big-tech-stablecoin-power?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-07-20T22:28:35.000Z</updated>
+        <summary type="html"><![CDATA[サークルのダンテ・ディスパルテ氏は、GENIUS法案によりテクノロジー企業や銀行がステーブルコイン市場を支配できないよう、厳格な構造・規制上の障壁が設けられていると述べた。]]></summary>
+        <author>
+            <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインのSNS言及率43%、次なる「重要な買い場」を示唆か]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-social-dominance-spikes-local-top-btc-price-buying-santiment</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-social-dominance-spikes-local-top-btc-price-buying-santiment?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-07-20T22:21:12.000Z</updated>
+        <summary type="html"><![CDATA[サンティメントは、「歴史的なソーシャルドミナンスの急騰」がビットコインにとって再び買い場となる可能性を示していると述べた。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、12万5,000ドルが目標に｜イーサは3,750ドルに到達]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-gets-125k-target-trader-big-move-next-eth-hits-3750</id>
@@ -2305,16 +2325,6 @@ BTC、12万ドルを回復──ETHは10%高騰で、年初比でも値上がり
 リップルとCtrl Altが提携、ドバイの不動産トークン化にXRPレジャーを採用 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オンドファイナンスがブロックチェーン開発ストレンジラブ買収、RWAスタック開発促進へ]]></title>
-        <id>https://www.neweconomy.jp/?p=483312</id>
-        <link href="https://www.neweconomy.jp/posts/483312"/>
-        <updated>2025-07-16T10:24:00.000Z</updated>
-        <summary type="html"><![CDATA[オンドファイナンスがストレンジラブ買収 RWA（現実資産）のトークン化プラットフォーム提供オンドファイナンス（Ondo Finance）が、ブロックチェーン開発企業兼バリデーターのストレンジラブ（Strangelove） […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
 </feed>

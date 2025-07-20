@@ -1430,16 +1430,6 @@
           "wordCount": 798,
           "title": "メタプラネット、米フィデリティ子会社が筆頭株主に",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/16200505/d48d082bbf513dd8a43b175d39d42cf8.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=483312",
-          "author": "HitomotoToshikazu",
-          "description": "オンドファイナンスがストレンジラブ買収 RWA（現実資産）のトークン化プラットフォーム提供オンドファイナンス（Ondo Finance）が、ブロックチェーン開発企業兼バリデーターのストレンジラブ（Strangelove） […]",
-          "link": "https://www.neweconomy.jp/posts/483312",
-          "publishedOn": "2025-07-16T10:24:00.000Z",
-          "wordCount": 748,
-          "title": "オンドファイナンスがブロックチェーン開発ストレンジラブ買収、RWAスタック開発促進へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/16182243/2c199c6f8556ea5db425b706aaae5723.jpg"
         }
       ]
     },
@@ -1448,6 +1438,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/genius-act-clause-limits-big-tech-stablecoin-power",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "サークルのダンテ・ディスパルテ氏は、GENIUS法案によりテクノロジー企業や銀行がステーブルコイン市場を支配できないよう、厳格な構造・規制上の障壁が設けられていると述べた。",
+          "link": "https://jp.cointelegraph.com/news/genius-act-clause-limits-big-tech-stablecoin-power?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-20T22:28:35.000Z",
+          "wordCount": null,
+          "title": "GENIUS法案、テック大手と銀行によるステーブルコイン支配を阻止＝サークル幹部",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FkMTYtMzU5NC03OTk4LWIxZGUtNWI2ODcwOTUzM2My.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FkMTYtMzU5NC03OTk4LWIxZGUtNWI2ODcwOTUzM2My.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-social-dominance-spikes-local-top-btc-price-buying-santiment",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "サンティメントは、「歴史的なソーシャルドミナンスの急騰」がビットコインにとって再び買い場となる可能性を示していると述べた。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-social-dominance-spikes-local-top-btc-price-buying-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-20T22:21:12.000Z",
+          "wordCount": null,
+          "title": "ビットコインのSNS言及率43%、次なる「重要な買い場」を示唆か",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODI1Y2UtZjA4My03ODNlLTlkYjUtMTc2ZjI3NWQ0OTcx.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODI1Y2UtZjA4My03ODNlLTlkYjUtMTc2ZjI3NWQ0OTcx.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-gets-125k-target-trader-big-move-next-eth-hits-3750",
           "author": "Cointelegraph  William Suberg",

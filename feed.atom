@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-20T10:45:28.477Z</updated>
+    <updated>2025-07-20T11:13:48.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム、3700ドル突破｜3年の低迷を経て逆襲開始か]]></title>
+        <id>https://crypto-times.jp/?p=140114</id>
+        <link href="https://crypto-times.jp/news-ethereum-breaks-through-3700-after-three-years-of-stagnation-could-it-be-the-start-of-a-comeback/"/>
+        <updated>2025-07-20T11:11:14.000Z</updated>
+        <summary type="html"><![CDATA[長年の低迷を経てイーサリアム（ETH）の価格が過去7日間で25%高騰し、3700ドルを突破しました。 この急騰を受けトレーダーやコミュニティの間で楽観的な見方が急速に広がっており、CoinGeckoによるとコミュニティの […]
+投稿 イーサリアム、3700ドル突破｜3年の低迷を経て逆襲開始か は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日銀のドル供給、BTC強気相場の引き金になるか？]]></title>
+        <id>https://crypto-times.jp/?p=140117</id>
+        <link href="https://crypto-times.jp/news-will-the-bank-of-japans-dollar-supply-trigger-a-btc-bull-market/"/>
+        <updated>2025-07-20T10:49:34.000Z</updated>
+        <summary type="html"><![CDATA[日本銀行（日銀）が米ドルの資金供給を開始したことが、市場に波紋を広げています。2025年7月15日に発表されたこの措置は、世界的なドル不足と金融市場の緊張の高まりを示す重要な兆候であると専門家は指摘しています。 ビットコ […]
+投稿 日銀のドル供給、BTC強気相場の引き金になるか？ は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「毎日1BTC購入」は虚偽？IMFが暴くエルサルバドルの実態]]></title>
         <id>https://crypto-times.jp/?p=140118</id>
@@ -2832,26 +2854,6 @@ JPモルガン、ステーブルコインへの関与を強化：ジェイミー
         <summary type="html"><![CDATA[レーダー氏は、伝統的金融業界から仮想通貨業界へと早期に転身した著名人の一人として知られていた。]]></summary>
         <author>
             <name>Cointelegraph  Nate Kostar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン懐疑派のヴァンガード、ストラテジー社の筆頭株主に]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-bear-vanguard-largest-shareholder-of-strategy</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-bear-vanguard-largest-shareholder-of-strategy?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-07-15T22:54:11.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨に否定的な立場をとってきたヴァンガードが、世界最大級のビットコイン保有企業「ストラテジー」の最大の機関投資家となった。]]></summary>
-        <author>
-            <name>Cointelegraph  Nate Kostar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米フィデリティの子会社、メタプラネットの筆頭株主に]]></title>
-        <id>https://coinpost.jp/?p=633609</id>
-        <link href="https://coinpost.jp/?p=633609"/>
-        <updated>2025-07-15T22:50:45.000Z</updated>
-        <summary type="html"><![CDATA[東京上場のメタプラネットにフィデリティ・インベストメンツ子会社が筆頭株主として12.9%出資。ビットコイン財務戦略を評価し海外投資家の関心高まる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

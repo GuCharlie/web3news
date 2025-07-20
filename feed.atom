@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-20T21:38:47.022Z</updated>
+    <updated>2025-07-20T22:15:33.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、12万5,000ドルが目標に｜イーサは3,750ドルに到達]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-gets-125k-target-trader-big-move-next-eth-hits-3750</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-gets-125k-target-trader-big-move-next-eth-hits-3750?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-07-20T22:12:59.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインとイーサのトレーダーは週末の終値に向けて節目となる価格に注目している。BTC強気派の前には、史上最高値への上昇を阻むレジスタンスのトレンドラインが立ちはだかっている。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【今日の暗号資産ニュース】エルサルバドルの毎日1BTC購入は虚偽？日銀のドル供給がBTC相場に与える影響とは]]></title>
         <id>https://crypto-times.jp/?p=140116</id>
@@ -2305,17 +2315,6 @@ BTC、12万ドルを回復──ETHは10%高騰で、年初比でも値上がり
         <summary type="html"><![CDATA[オンドファイナンスがストレンジラブ買収 RWA（現実資産）のトークン化プラットフォーム提供オンドファイナンス（Ondo Finance）が、ブロックチェーン開発企業兼バリデーターのストレンジラブ（Strangelove） […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CMEのXRP先物の出来高、過去最高の2億3500万ドルを記録]]></title>
-        <id>https://www.coindeskjapan.com/?p=303726</id>
-        <link href="https://www.coindeskjapan.com/303726/"/>
-        <updated>2025-07-16T10:10:00.000Z</updated>
-        <summary type="html"><![CDATA[シカゴ・マーカンタイル取引所（CME）の新興市場であるエックス・アール・ピー（XRP）先物市場は、決済に特化したこの暗号資産（仮想通貨）に洗練された投資家が惹き ...
-CMEのXRP先物の出来高、過去最高の2億3500万ドルを記録 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>

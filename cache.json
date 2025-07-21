@@ -340,16 +340,6 @@
           "wordCount": 1316,
           "title": "ビットコイン、小口投資家からクジラまで誰もが買い増し──史上最高値を下回る水準で保ち合い",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/N9eb5bc30333f656f9f9331d528ba6e601fdaac81-2342x986-1.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=303990",
-          "author": "栃山直樹",
-          "description": "ネイルサロン「FASTNAIL」を運営する東証グロース上場企業のコンヴァノは7月17日、取締役会において総額4億円を上限とするビットコイン（BTC）の購入を決議 ...\nネイルサロン「FASTNAIL」運営企業、総額4億円のビットコイン購入へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/303990/",
-          "publishedOn": "2025-07-17T10:20:55.000Z",
-          "wordCount": 1257,
-          "title": "ネイルサロン「FASTNAIL」運営企業、総額4億円のビットコイン購入へ",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/スクリーンショット-2025-07-17-18.54.31-scaled.jpg"
         }
       ]
     },
@@ -867,6 +857,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=484067",
+          "author": "OtsugaShinya",
+          "description": "ストラテジーがBTC追加購入 ビットコイン（BTC）の購入を積極的に進めている米ナスダック上場企業ストラテジー（Strategy）が、BTCの追加購入を7月21日に発表した。 ストラテジーは、7月14日から7月20日まで […]",
+          "link": "https://www.neweconomy.jp/posts/484067",
+          "publishedOn": "2025-07-21T22:18:42.000Z",
+          "wordCount": 785,
+          "title": "ストラテジーがビットコイン追加購入、総保有数60万7,770BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/22071806/02f5a1de08de51be64b877416a69d6a6.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=484002",
           "author": "NewEconomy",
           "description": "早くもジーニアス法準拠のステーブルコインが誕生 ソラナ基盤でステーブルコインを開発するペレナ（Perena）が、米ジーニアス法に準拠したステーブルコイン「USD’（ユーエスディープライム）」を立ち上げたことを7月19日発 […]",
@@ -1003,6 +1003,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/rich-dad-poor-dad-author-bitcoin-and-gold-bubble-could-bust-soon",
+          "author": "Cointelegraph  Martin Young",
+          "description": "ロバート・キヨサキ氏は「資産バブルはまもなく崩壊する」と述べ、その際には「金、銀、ビットコインも同様に崩壊する可能性が高い」と警鐘を鳴らした。",
+          "link": "https://jp.cointelegraph.com/news/rich-dad-poor-dad-author-bitcoin-and-gold-bubble-could-bust-soon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-21T22:32:04.000Z",
+          "wordCount": null,
+          "title": "『金持ち父さん 貧乏父さん』著者、ビットコインの「バブル崩壊が近い」と警告",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmI5NDQtMmFiZS03OWQzLWE3NzEtMDMzMTg3ZmRkY2Rm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmI5NDQtMmFiZS03OWQzLWE3NzEtMDMzMTg3ZmRkY2Rm.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/donald-trump-media-company-bitcoin-crypto-bills",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "25億ドルの資金調達を受けたトランプ氏のメディア企業が、事前に公表していた投資戦略に基づきビットコインの取得を開始した。",
+          "link": "https://jp.cointelegraph.com/news/donald-trump-media-company-bitcoin-crypto-bills?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-21T22:24:13.000Z",
+          "wordCount": null,
+          "title": "トランプ氏のメディア企業、仮想通貨法案通過後に20億ドル相当のビットコイン保有を報告",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzFhNDItODZjMC03ZGMxLWJhNjItZjFlYzdhNmVhN2Zm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzFhNDItODZjMC03ZGMxLWJhNjItZjFlYzdhNmVhN2Zm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/david-bailey-trump-bitcoin-210k-capital-crypto-returns",
           "author": "Cointelegraph  Sam Bourgi",

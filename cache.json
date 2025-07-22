@@ -370,10 +370,25 @@
       "articles": []
     },
     {
-      "title": "Aeternity(AE)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=635334",
+          "author": "CoinPost編集部",
+          "description": "米規制準拠の次世代ステーブルコイン「USD’」がソラナチェーン上でローンチした。米国債100％担保でBraleが発行、金融機関対応の設計が注目されている。",
+          "link": "https://coinpost.jp/?p=635334",
+          "publishedOn": "2025-07-22T09:15:10.000Z",
+          "wordCount": 3242,
+          "title": "ソラナで新ステーブルコイン「USD’」ローンチへ、GENIUS法準拠でBraleが発行",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/Perena0722.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/Perena0722.png"
+        },
         {
           "id": "https://coinpost.jp/?p=635197",
           "author": "A.Yamada",
@@ -883,21 +898,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/base-family.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/base-family.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=634294",
-          "author": "菊谷ルイス",
-          "description": "トランプ大統領が401k退職金制度への仮想通貨、金、プライベートエクイティ投資を解禁する大統領令を準備。9兆ドル規模の退職金市場開放で投資選択肢が大幅拡大される見込み。",
-          "link": "https://coinpost.jp/?p=634294",
-          "publishedOn": "2025-07-17T21:55:42.000Z",
-          "wordCount": 3256,
-          "title": "9兆ドルの年金市場に仮想通貨投資解禁へ、トランプが大統領令準備＝報道",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/trump-coin-dinner.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/trump-coin-dinner.jpg"
         }
       ]
     },
@@ -1153,6 +1153,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/spot-bitcoin-etfs-end-12-day-inflow-streak",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "ビットコイン上場投資信託（ETF）は7月21日、1億3135万ドルの純流出を記録し、12営業日連続で続いていた累計66億ドルの資金流入ラリーが途切れた。",
+          "link": "https://jp.cointelegraph.com/news/spot-bitcoin-etfs-end-12-day-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-22T10:14:40.000Z",
+          "wordCount": null,
+          "title": "ビットコインETFが1億3100万ドル流出　12日連続流入がストップ　イーサリアムETFは記録更新中",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzAzZTEtZWJhZS03Yzg2LTk1NTMtMTA3YzA3MGQzZWM3.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzAzZTEtZWJhZS03Yzg2LTk1NTMtMTA3YzA3MGQzZWM3.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/cathie-wood-sells-coinbase-roblox-shares-for-eth-treasury-firm",
+          "author": "Cointelegraph  Martin Young",
+          "description": "ARKインベストの創業者兼CEOであるキャシー・ウッド氏は、同社のファンドポートフォリオを調整し、仮想通貨およびフィンテック株の一部を売却。代わって、ファンドストラットのトム・リー氏が会長を務めるイーサリアム・トレジャリー企業への投資を拡大した。",
+          "link": "https://jp.cointelegraph.com/news/cathie-wood-sells-coinbase-roblox-shares-for-eth-treasury-firm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-22T09:48:34.000Z",
+          "wordCount": null,
+          "title": "キャシー・ウッド氏のARKインベスト　イーサリアム・トレジャリー企業ビットマイン株を1.74億ドル分取得",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzkzZmUtMGI4OC03MDZmLTgwZTMtMTYxM2YxODE0NzQx.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzkzZmUtMGI4OC03MDZmLTgwZTMtMTYxM2YxODE0NzQx.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/ether-machine-founder-claims-eth-outperformed-btc-over-past-10-years",
           "author": "Cointelegraph  Martin Young",
@@ -2135,6 +2165,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=140166",
+          "author": "Crypto Times 編集部",
+          "description": "eスポーツとデジタルメディアを手掛ける米上場企業GameSquare Holdings社は2025年7月21日、同社の暗号資産財務プログラムの承認額をこれまでの1億ドルから2億5000万ドルへと大幅に引き上げたことを発表 […]\n投稿 米上場企業、約44億円のイーサリアムを追加購入 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-gamesquare-holdings-eth/",
+          "publishedOn": "2025-07-22T10:11:28.000Z",
+          "wordCount": 672,
+          "title": "米上場企業、約44億円のイーサリアムを追加購入",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2024/04/shutterstock_1682134492.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=140158",
           "author": "Crypto Times 編集部",

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=304594",
+          "author": "廣瀬 優香",
+          "description": "DEXの暗号資産スポット取引量は、バイナンス（Binance）などのCEXの取引量が第2四半期に減少する中、過去最高の市場シェアを記録したとCoinGeckoが ...\nDEXの市場シェアが過去最高に、CEXのスポット取引量は減少：CoinGecko第2四半期レポート first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/304594/",
+          "publishedOn": "2025-07-22T08:45:00.000Z",
+          "wordCount": 1385,
+          "title": "DEXの市場シェアが過去最高に、CEXのスポット取引量は減少：CoinGecko第2四半期レポート",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/d4b847c1d7df82e31ae6292e7fca1d2c858ea570-1920x1280-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=304596",
           "author": "Parikshit Mishra",
           "description": "JPモルガン（JPMorgan）は、暗号資産（仮想通貨）を担保とした貸付事業の大規模な拡大を検討しており、顧客の持つ、ビットコイン（BTC）やイーサリアム（ET ...\nJPモルガン、暗号資産担保ローンの提供を計画：報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -364,6 +374,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=635197",
+          "author": "A.Yamada",
+          "description": "エテナ財団が仮想通貨ENAの財務戦略企業StablecoinXを設立し、530億円相当のENAトークンを購入する計画だ。ナスダック上場を計画している。",
+          "link": "https://coinpost.jp/?p=635197",
+          "publishedOn": "2025-07-22T08:51:33.000Z",
+          "wordCount": 3257,
+          "title": "エテナ財団、ENA財務戦略企業『StablecoinX』設立を計画　約530億円分のENA購入へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/Stablecoin_1201-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/Stablecoin_1201-1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=635136",
           "author": "S.Ninomiya",
@@ -903,21 +928,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/eth-50-lower-chance-etf-approval.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/eth-50-lower-chance-etf-approval.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=634283",
-          "author": "菊谷ルイス",
-          "description": "米下院はGENIUS法案、CLARITY法案、反CBDC法案の仮想通貨規制3法案を可決。ステーブルコイン規制と市場透明化で包括的枠組み構築を実現。",
-          "link": "https://coinpost.jp/?p=634283",
-          "publishedOn": "2025-07-17T20:35:30.000Z",
-          "wordCount": 3260,
-          "title": "仮想通貨規制に歴史的進展　米下院が3法案を可決",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/congressman-doge-ada-eth.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/congressman-doge-ada-eth.png"
         }
       ]
     },
@@ -1173,6 +1183,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitbank-bitcoin-daily-analysis-22th-july-2025",
+          "author": "Cointelegraph  ビットバンク　長谷川友哉",
+          "description": "21日のビットコイン（BTC）円は1743万4353円から取引が始まった。東京時間序盤は主要アルトコイン相場の上昇に連れて1770万円まで上昇するも、海外時間に入ると米国がEUに対して15%〜20%の関税を課す方針との報道や、ドル円相場の下落を受けて上げ幅を吐き出した。",
+          "link": "https://jp.cointelegraph.com/news/bitbank-bitcoin-daily-analysis-22th-july-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-22T08:43:35.000Z",
+          "wordCount": null,
+          "title": "BTCは足踏みが続く　次の切っ掛けは米仮想通貨政策レポートか【ビットバンク仮想通貨分析】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2ExMTktYjgzNC03ZWUxLWE2ZDgtYzk2ZTQ2Y2Q4ZGM4.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2ExMTktYjgzNC03ZWUxLWE2ZDgtYzk2ZTQ2Y2Q4ZGM4.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bit-origin-dogecoin-crypto-treasury-pivot",
           "author": "Cointelegraph  Stephen Katte",

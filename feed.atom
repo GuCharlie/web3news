@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-23T11:15:27.038Z</updated>
+    <updated>2025-07-23T11:39:56.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【7/23話題】BNBが史上最高値、ANAPがビットコイン建て増資、米銀行PNCがコインベースと提携など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=484541</id>
+        <link href="https://www.neweconomy.jp/posts/484541"/>
+        <updated>2025-07-23T11:17:32.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コスモス開発者、「Cosmos Hub」へのEVM実装を中止し戦略転換]]></title>
         <id>https://www.neweconomy.jp/?p=484608</id>
@@ -2183,16 +2193,6 @@ HashPort開発の「EXPO2025デジタルウォレット」、AppStoreランキ�
         <summary type="html"><![CDATA[今週の仮想通貨市場は、米下院で開催された「仮想通貨週間」において、ビットコインが史上最高値となる12万ドルを超える展開となった。アルトコイン市場においても大幅な上昇が見られた。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップル発行のRLUSD、ブルーチップから最高評価獲得]]></title>
-        <id>https://coinpost.jp/?p=634821</id>
-        <link href="https://coinpost.jp/?p=634821"/>
-        <updated>2025-07-18T23:30:20.000Z</updated>
-        <summary type="html"><![CDATA[独立の格付け機関ブルーチップがリップルのRLUSDステーブルコインにA評価を付与。BNYメロンでの準備金管理と堅牢なコンプライアンス体制などが評価された。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

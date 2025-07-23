@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=304867",
+          "author": "Helene Braun",
+          "description": "テスラの決算報告書によると、同社のビットコイン（BTC）保有高は、今年第2四半期にビットコイン価格が30%上昇したことで、現在約12億ドル（約1760億円、1ド ...\nテスラのビットコイン保有高、約1760億円に──第2四半期でのビットコイン価格の30%高騰を受けて first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/304867/",
+          "publishedOn": "2025-07-23T22:00:00.000Z",
+          "wordCount": 1389,
+          "title": "テスラのビットコイン保有高、約1760億円に──第2四半期でのビットコイン価格の30%高騰を受けて",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/shutterstock_2599030323.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=304861",
           "author": "Krisztian Sandor",
           "description": "バンク・オブ・ニューヨーク・メロン（BNYメロン）とゴールドマン・サックスは、デジタル資産の採用が加速する中、顧客向けにトークン化されたマネーマーケットファンド ...\nゴールドマン・サックスとBNYメロン、マネーマーケットファンドのトークン化で提携 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -364,6 +374,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=635820",
+          "author": "菊谷ルイス",
+          "description": "トランプ政権が人工知能分野で中国に対抗する28ページのAI行動計画を発表した。90以上の政策措置を含み、仮想通貨担当サックス氏がAI競争での勝利を宣言している。",
+          "link": "https://coinpost.jp/?p=635820",
+          "publishedOn": "2025-07-23T22:10:52.000Z",
+          "wordCount": 3189,
+          "title": "トランプ政権、「人工知能行動計画」発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/trump-genius-act-pure-genius.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/trump-genius-act-pure-genius.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=635810",
+          "author": "菊谷ルイス",
+          "description": "著名仮想通貨アナリストのアーサー・ヘイズ氏が年末ビットコイン25万ドル、イーサリアム1万ドル予測を発表した。トランプ政権の信用拡大政策とイーサリアム主導アルトシーズンを分析。",
+          "link": "https://coinpost.jp/?p=635810",
+          "publishedOn": "2025-07-23T21:35:17.000Z",
+          "wordCount": 4548,
+          "title": "アーサー・ヘイズの年末予測：イーサリアム1万ドル、ビットコイン25万ドル",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/0522_arthur_B.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/0522_arthur_B.png"
+        },
         {
           "id": "https://coinpost.jp/?p=635805",
           "author": "菊谷ルイス",
@@ -1108,6 +1148,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-payments-ai-adoption-2025-reown-yougov",
+          "author": "Cointelegraph  Ezra Reguerra",
+          "description": "調査参加者の37％が、人工知能（AI）と決済を2025年の仮想通貨普及の主な推進要因として挙げた。",
+          "link": "https://jp.cointelegraph.com/news/crypto-payments-ai-adoption-2025-reown-yougov?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-23T22:11:36.000Z",
+          "wordCount": null,
+          "title": "2025年の仮想通貨普及、決済とAIが原動力に＝調査",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzM1ODItYmE2Yy03YmI2LWJmNWMtOWY3NjBhZDYwODk5.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzM1ODItYmE2Yy03YmI2LWJmNWMtOWY3NjBhZDYwODk5.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/us-forfeiture-7-million-crypto-oil-gas-investment-scam",
           "author": "Cointelegraph  Tarang Khaitan",

@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=304801",
+          "author": "Omkar Godbole",
+          "description": "オンチェーン上での株式取引への需要は現実のものになっている。 スイスに拠点を置くバックド・ファイナンス（Backed Finance）のトークン化された米国株式 ...\nバックド・ファイナンスのトークン化株式「xStocks」の取引高が3億ドルを突破 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/304801/",
+          "publishedOn": "2025-07-23T09:10:00.000Z",
+          "wordCount": 1422,
+          "title": "バックド・ファイナンスのトークン化株式「xStocks」の取引高が3億ドルを突破",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/shutterstock_1089991652.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=304786",
+          "author": "廣瀬 優香",
+          "description": "ムーディーズ・レーティングス（Moody’s Ratings）の最近のレポートによると、ブロックチェーン技術はカバードボンド（債権担保付き社債）の発 ...\nブロックチェーンはカバードボンドを後押しする可能性、だが導入には大きなハードル：ムーディーズ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/304786/",
+          "publishedOn": "2025-07-23T09:00:00.000Z",
+          "wordCount": 1330,
+          "title": "ブロックチェーンはカバードボンドを後押しする可能性、だが導入には大きなハードル：ムーディーズ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/af5533562893e00a029eaace0996b96eacade301-1905x1072-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=304787",
           "author": "栃山直樹",
           "description": "デジタルガレージ共同創業者の伊藤穰一氏と、後払いサービスPaidy創業者ラッセル・カマー氏が共同で立ち上げたAltX Researchは7月23日、同社が開発を ...\n日本発L1「Japan Smart Chain」、通信大手KDDIと提携──バリデータ事業参画へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -833,21 +853,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/bulgaria-bitcoin.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/bulgaria-bitcoin.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=634798",
-          "author": "菊谷ルイス",
-          "description": "米ナスダック上場のビットデジタル社が18日、6730万ドルの資金調達で19683ETHの仮想通貨イーサリアムを追加購入。総保有量は120,306ETHで、時価4.24億ドルに拡大。",
-          "link": "https://coinpost.jp/?p=634798",
-          "publishedOn": "2025-07-18T21:20:30.000Z",
-          "wordCount": 3240,
-          "title": "米上場ビットデジタル、イーサリアム保有量12万ETHに拡大",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/eth-prediction-down-60.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/eth-prediction-down-60.jpg"
         }
       ]
     },
@@ -1173,6 +1178,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-traders-historical-patterns-repeat-this-cycle-coinstash-founder-forecast",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "機関投資家の影響力が強まる中でも、過去の仮想通貨サイクルに従う戦略は、個人投資家にとって有効であり続ける可能性があると、仮想通貨業界幹部が語っている。",
+          "link": "https://jp.cointelegraph.com/news/crypto-traders-historical-patterns-repeat-this-cycle-coinstash-founder-forecast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-23T09:06:50.000Z",
+          "wordCount": null,
+          "title": "ビットコイン減速でアルトコイン急浮上か　繰り返される仮想通貨サイクルの波",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODM1OTctODZlOS03OGJjLTg3MzgtNzI1NGEwMDdlNzBh.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODM1OTctODZlOS03OGJjLTg3MzgtNzI1NGEwMDdlNzBh.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/spot-ether-etfs-hit-533m-inflows-extend-13-day-streak",
           "author": "Cointelegraph  Amin Haqshanas",
@@ -1892,66 +1912,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDk4MTUtMWQyOC03ZGUyLTk4ZWYtY2Q5ODNhY2RkNmFi.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/donald-trump-stablecoin-law-signed",
-          "author": "Cointelegraph  Turner Wright",
-          "description": "米国のトランプ大統領は7月18日、政権発足後初となる仮想通貨関連法案のひとつ「米国におけるステーブルコインの国家的イノベーションの指導と確立（GENIUS）法」に署名した。",
-          "link": "https://jp.cointelegraph.com/news/donald-trump-stablecoin-law-signed?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-18T21:23:06.000Z",
-          "wordCount": null,
-          "title": "トランプ大統領、ステーブルコイン規制のGENIUS法に署名　政権の仮想通貨政策が前進",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODFlZWMtNTNhZS03N2E3LTgxMTctZjY5NTliYjU1MTFi.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODFlZWMtNTNhZS03N2E3LTgxMTctZjY5NTliYjU1MTFi.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/donald-trump-stablecoin-law-signed",
-          "author": "Cointelegraph  Turner Wright",
-          "description": "米国のトランプ大統領は7月18日、政権発足後初となる仮想通貨関連法案のひとつ「米国におけるステーブルコインの国家的イノベーションの指導と確立（GENIUS）法」に署名した。",
-          "link": "https://jp.cointelegraph.com/news/donald-trump-stablecoin-law-signed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-18T21:23:06.000Z",
-          "wordCount": null,
-          "title": "トランプ大統領、ステーブルコイン規制のGENIUS法に署名　政権の仮想通貨政策が前進",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODFlZWMtNTNhZS03N2E3LTgxMTctZjY5NTliYjU1MTFi.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODFlZWMtNTNhZS03N2E3LTgxMTctZjY5NTliYjU1MTFi.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/sec-tokenization-exemption-genius-act-passes",
-          "author": "Cointelegraph  Lyne Qian",
-          "description": "米証券取引委員会（SEC）は、仮想通貨業界におけるトークン化を促進するため、規制枠組みに「イノベーション免除」を新設する可能性を検討している。SECのポール・アトキンス委員長が金曜の記者会見で語った。",
-          "link": "https://jp.cointelegraph.com/news/sec-tokenization-exemption-genius-act-passes?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-18T21:00:00.000Z",
-          "wordCount": null,
-          "title": "米SEC　「トークン化促進」のための新たな規制緩和を検討　イノベーション免除の創設も視野に",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWZiZmYtZDExMy03ODA5LTgwMDMtZTQ0YmRhMTYxZDNl.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWZiZmYtZDExMy03ODA5LTgwMDMtZTQ0YmRhMTYxZDNl.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/sec-tokenization-exemption-genius-act-passes",
-          "author": "Cointelegraph  Lyne Qian",
-          "description": "米証券取引委員会（SEC）は、仮想通貨業界におけるトークン化を促進するため、規制枠組みに「イノベーション免除」を新設する可能性を検討している。SECのポール・アトキンス委員長が金曜の記者会見で語った。",
-          "link": "https://jp.cointelegraph.com/news/sec-tokenization-exemption-genius-act-passes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-18T21:00:00.000Z",
-          "wordCount": null,
-          "title": "米SEC　「トークン化促進」のための新たな規制緩和を検討　イノベーション免除の創設も視野に",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWZiZmYtZDExMy03ODA5LTgwMDMtZTQ0YmRhMTYxZDNl.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWZiZmYtZDExMy03ODA5LTgwMDMtZTQ0YmRhMTYxZDNl.jpg"
         }
       ]
     },
@@ -1960,6 +1920,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=140272",
+          "author": "Crypto Times 編集部",
+          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 AI主導の取引ツールと戦略は、暗号資産投資家にとってゲームチェンジャー […]\n投稿 BYDFiのユーザー第一主義：革新的な機能とAI主導の暗号資産取引で暗号資産取引に革命を は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/press-bydfi/",
+          "publishedOn": "2025-07-23T09:04:47.000Z",
+          "wordCount": 577,
+          "title": "BYDFiのユーザー第一主義：革新的な機能とAI主導の暗号資産取引で暗号資産取引に革命を",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/bydfi.png"
+        },
         {
           "id": "https://crypto-times.jp/?p=140178",
           "author": "よきょい",

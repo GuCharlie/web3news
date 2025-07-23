@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-22T23:41:03.420Z</updated>
+    <updated>2025-07-23T01:23:50.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「SECで前向きな動きがある可能性」米国の仮想通貨ETF、現物設定・償還の申請続く]]></title>
+        <id>https://coinpost.jp/?p=635466</id>
+        <link href="https://coinpost.jp/?p=635466"/>
+        <updated>2025-07-23T01:10:05.000Z</updated>
+        <summary type="html"><![CDATA[米国で複数の仮想通貨ETFの現物設定・償還の申請書が新たにSECに提出された。この変更はビットコインやイーサリアムのETFに適用する目的で申請されている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[シャープリンク、ETH追加購入で保有総額は1900億円超え]]></title>
         <id>https://www.coindeskjapan.com/?p=304717</id>
@@ -1429,17 +1439,6 @@ HashPort開発の「EXPO2025デジタルウォレット」、AppStoreランキ�
         <summary type="html"><![CDATA[カルダノのネイティブトークンであるADAは、6月22日から7月18日にかけて75％の急騰をみせ、6月に付けた0.50ドルの底値を起点とする数カ月にわたる下落トレンドに終止符を打った可能性がある。]]></summary>
         <author>
             <name>Cointelegraph  Nancy Lubale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産に55%課税は「重すぎる」──JBAが分離課税など5項目要望、税制の「ねじれ」懸念も]]></title>
-        <id>https://www.coindeskjapan.com/?p=304104</id>
-        <link href="https://www.coindeskjapan.com/304104/"/>
-        <updated>2025-07-18T12:57:22.000Z</updated>
-        <summary type="html"><![CDATA[日本ブロックチェーン協会（JBA）は7月18日、2026年度の「暗号資産に関する税制改正要望」を金融庁に提出し、都内で記者会見を開いた。登壇したのは、JBA代表 ...
-暗号資産に55%課税は「重すぎる」──JBAが分離課税など5項目要望、税制の「ねじれ」懸念も first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>橋本 祐樹</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-23T23:41:10.642Z</updated>
+    <updated>2025-07-24T01:23:11.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ドーシー氏が率いるスクエア、ビットコイン決済の導入を開始]]></title>
+        <id>https://coinpost.jp/?p=635836</id>
+        <link href="https://coinpost.jp/?p=635836"/>
+        <updated>2025-07-24T00:50:03.000Z</updated>
+        <summary type="html"><![CDATA[ジャック・ドーシー氏が率いる決済プラットフォームのスクエアは、一部の小売店に仮想通貨ビットコインの決済を導入。2026年には資格を満たした全ての小売店で利用できるようにする計画である。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テザー、米国市場再参入へ　ジーニアス法案成立を受け]]></title>
+        <id>https://coinpost.jp/?p=635830</id>
+        <link href="https://coinpost.jp/?p=635830"/>
+        <updated>2025-07-23T23:44:25.000Z</updated>
+        <summary type="html"><![CDATA[ステーブルコイン最大手テザー社のアルドイーノCEOは米国市場再参入計画を発表。トランプ政権のジーニアス法成立を背景に、機関投資家向けステーブルコイン事業を展開する。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゴールドマン・サックスとBNY、顧客向けにトークン化マネー・マーケット・ファンドを提供へ]]></title>
+        <id>https://jp.cointelegraph.com/news/goldman-bny-tokenized-money-market-funds-launch</id>
+        <link href="https://jp.cointelegraph.com/news/goldman-bny-tokenized-money-market-funds-launch?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-07-23T23:40:34.000Z</updated>
+        <summary type="html"><![CDATA[ゴールドマン・サックスとBNYは、24時間365日の決済とブロックチェーンによる所有権追跡が可能なトークン化マネー・マーケット・ファンドへの機関投資家のアクセスを可能にする。]]></summary>
+        <author>
+            <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伝統的企業が仮想通貨準備資産戦略に参入｜ビットコイン、XRP、ソラナを購入]]></title>
         <id>https://jp.cointelegraph.com/news/companies-crypto-treasury-nature-miracle-kitabo-upexi</id>

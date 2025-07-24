@@ -385,6 +385,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=635836",
+          "author": "K.Kobayashi",
+          "description": "ジャック・ドーシー氏が率いる決済プラットフォームのスクエアは、一部の小売店に仮想通貨ビットコインの決済を導入。2026年には資格を満たした全ての小売店で利用できるようにする計画である。",
+          "link": "https://coinpost.jp/?p=635836",
+          "publishedOn": "2025-07-24T00:50:03.000Z",
+          "wordCount": 3216,
+          "title": "ドーシー氏が率いるスクエア、ビットコイン決済の導入を開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/square293847632-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/square293847632-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=635830",
+          "author": "菊谷ルイス",
+          "description": "ステーブルコイン最大手テザー社のアルドイーノCEOは米国市場再参入計画を発表。トランプ政権のジーニアス法成立を背景に、機関投資家向けステーブルコイン事業を展開する。",
+          "link": "https://coinpost.jp/?p=635830",
+          "publishedOn": "2025-07-23T23:44:25.000Z",
+          "wordCount": 3199,
+          "title": "テザー、米国市場再参入へ　ジーニアス法案成立を受け",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/tether-usdt-reenter-the-US.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/tether-usdt-reenter-the-US.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=635827",
           "author": "菊谷ルイス",
           "description": "米OTCマーケット上場のネイチャーズミラクルが最大20億円のXRPトレジャリーを発表。トランプ政権のジーニアス法成立を背景に、仮想通貨を長期戦略資産として活用する。",
@@ -1188,6 +1218,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/goldman-bny-tokenized-money-market-funds-launch",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "ゴールドマン・サックスとBNYは、24時間365日の決済とブロックチェーンによる所有権追跡が可能なトークン化マネー・マーケット・ファンドへの機関投資家のアクセスを可能にする。",
+          "link": "https://jp.cointelegraph.com/news/goldman-bny-tokenized-money-market-funds-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-23T23:40:34.000Z",
+          "wordCount": null,
+          "title": "ゴールドマン・サックスとBNY、顧客向けにトークン化マネー・マーケット・ファンドを提供へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljNGItYzY0Yy03ODc4LTlmNmMtMTNkOTU4ZDcyMzA5.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljNGItYzY0Yy03ODc4LTlmNmMtMTNkOTU4ZDcyMzA5.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/companies-crypto-treasury-nature-miracle-kitabo-upexi",
           "author": "Cointelegraph  Vince Quill",

@@ -465,6 +465,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=635975",
+          "author": "Ritsuki.Kumazawa",
+          "description": "NOT A HOTELがジェットやヘリ、クルーザーを必要な分だけ所有できる新サービスを発表。1つ購入で陸海空の複数の乗り物が利用可能。",
+          "link": "https://coinpost.jp/?p=635975",
+          "publishedOn": "2025-07-24T09:05:14.000Z",
+          "wordCount": 3299,
+          "title": "NOT A HOTEL、クルーザーから始まるモビリティシェア購入サービス『NOT A GARAGE』開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/notagarage.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/notagarage.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=631032",
           "author": "CoinPost編集部",
           "description": "革新的なガス支払いモデルとアカウントアブストラクション技術を強みに、Web3の実用化を目指す次世代EVM「NERO Chain」が、アジア最大級のカンファレンス「WebX 2025」にプラチナスポンサーとして出展。CEOのJake Stolarski氏が、日本市場進出の狙いやグローバル戦略を語る。",
@@ -2762,36 +2777,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODI4N2UtNWZiMC03YzVmLTllYTQtNjBmZmU4MWY5YzYw.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/charles-schwab-launches-bitcoin-ether-spot-trading",
-          "author": "Cointelegraph  Amin Haqshanas",
-          "description": "チャールズ・シュワブは、ビットコイン（BTC）およびイーサリアム（ETH）の現物取引サービスの提供に向けた準備を進めている。最高経営責任者（CEO）のリック・ワースター氏がCNBCのインタビューで明らかにした。",
-          "link": "https://jp.cointelegraph.com/news/charles-schwab-launches-bitcoin-ether-spot-trading?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-19T21:00:00.000Z",
-          "wordCount": null,
-          "title": "米金融大手チャールズ・シュワブ、ビットコインとイーサリアムの現物取引導入へ　大手証券が仮想通貨サービスを拡大",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODBjZjYtNmUzMi03ZDFhLWE0YjAtYjFiZjM5MTZmNzdm.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODBjZjYtNmUzMi03ZDFhLWE0YjAtYjFiZjM5MTZmNzdm.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/charles-schwab-launches-bitcoin-ether-spot-trading",
-          "author": "Cointelegraph  Amin Haqshanas",
-          "description": "チャールズ・シュワブは、ビットコイン（BTC）およびイーサリアム（ETH）の現物取引サービスの提供に向けた準備を進めている。最高経営責任者（CEO）のリック・ワースター氏がCNBCのインタビューで明らかにした。",
-          "link": "https://jp.cointelegraph.com/news/charles-schwab-launches-bitcoin-ether-spot-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-19T21:00:00.000Z",
-          "wordCount": null,
-          "title": "米金融大手チャールズ・シュワブ、ビットコインとイーサリアムの現物取引導入へ　大手証券が仮想通貨サービスを拡大",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODBjZjYtNmUzMi03ZDFhLWE0YjAtYjFiZjM5MTZmNzdm.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODBjZjYtNmUzMi03ZDFhLWE0YjAtYjFiZjM5MTZmNzdm.jpg"
         }
       ]
     },
@@ -2800,6 +2785,36 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=140350",
+          "author": "よきょい",
+          "description": "7月17日、ビットコイン（BTC）の価格は118,800ドル前後で推移しており、イーサリアム（ETH）は約$3,630ドル、ソラナ（SOL）は約185ドルで取引されています。世界の暗号資産時価総額は3.93兆ドルで、ビッ […]\n投稿 【今日の暗号資産ニュース】ビットコイン100万ドルは2029年？イーサリアム年末1万ドル予測 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-will-bitcoin-hit-1-million-in-2029-ethereum-predicted-to-hit-10000-by-the-end-of-the-year/",
+          "publishedOn": "2025-07-24T09:06:17.000Z",
+          "wordCount": 584,
+          "title": "【今日の暗号資産ニュース】ビットコイン100万ドルは2029年？イーサリアム年末1万ドル予測",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_1343503910.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=140312",
+          "author": "Crypto Times 編集部",
+          "description": "AIとブロックチェーン技術の融合を目指す新プロジェクト「Theoriq」が自律型AIエージェントが経済活動を行う「エージェントエコノミー」の実現に向けた詳細な計画とその基盤となる独自トークン「$THQ」のトークノミクスを […]\n投稿 【仮想通貨】AI銘柄「$THQ」明日からトークンセールを開始 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-thq-launchpad/",
+          "publishedOn": "2025-07-24T09:01:10.000Z",
+          "wordCount": 626,
+          "title": "【仮想通貨】AI銘柄「$THQ」明日からトークンセールを開始",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/Gemini_Generated_Image_a5wunga5wunga5wu.jpeg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=140306",
+          "author": "よきょい",
+          "description": "米証券取引委員会（SEC）が、承認したはずの暗号資産ETF（上場投資信託）を一時的に停止する動きが相次ぎ、その意図を巡って専門家の間で議論が起きています。 SECは資産運用会社ビットワイズの暗号資産インデックスファンドを […]\n投稿 SECは時間稼ぎか？ETF承認遅延に専門家らが見解 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-is-the-sec-stalling-out-on-etf-approvals-experts-say/",
+          "publishedOn": "2025-07-24T08:54:49.000Z",
+          "wordCount": 624,
+          "title": "SECは時間稼ぎか？ETF承認遅延に専門家らが見解",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_2426097137-1.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=140305",
           "author": "よきょい",
@@ -2889,6 +2904,16 @@
           "wordCount": 592,
           "title": "イーサリアム、年末1万ドルへ？ETFに資金集中",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_2042292893.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=140364",
+          "author": "Crypto Times 編集部",
+          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 2025年に実施されたFXEmpireによる包括的な暗号資産取引所の評 […]\n投稿 BTCC取引所、FXEmpireの2025年業界総合調査で3冠を達成 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/press-btcc-fxempire-2025/",
+          "publishedOn": "2025-07-24T03:12:49.000Z",
+          "wordCount": 589,
+          "title": "BTCC取引所、FXEmpireの2025年業界総合調査で3冠を達成",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/AD_4nXf7dLpmIKlGQBQMYIugKAyz1TXCBwurxPQuIBcKPQXK4NxKx3foB-AzzJc5abSTOYnnncFZz-2HZyq8hRoMT3ycvCISfC6FCs-MUCXVCFXGp86LU9O5Iv16.jpg"
         },
         {
           "id": "https://crypto-times.jp/?p=140284",

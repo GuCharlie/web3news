@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=305080",
+          "author": "廣瀬 優香",
+          "description": "分散型金融（DeFi）プラットフォームのエセナ（Ethena）は、15億ドル（約2205億円）規模のステーブルコインを米国市場に導入する予定で、暗号資産（仮想通 ...\nジーニアス法成立で、エセナが米ステーブルコイン市場参入──15億ドル規模「USDtb」を発行へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/305080/",
+          "publishedOn": "2025-07-25T06:00:00.000Z",
+          "wordCount": 1324,
+          "title": "ジーニアス法成立で、エセナが米ステーブルコイン市場参入──15億ドル規模「USDtb」を発行へ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/12aadf777b36dc32a0cd75e657cfee15fdcd5e22-1893x1065-2.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=305094",
+          "author": "栃山直樹",
+          "description": "トークン発行プラットフォーム「FiNANCiE」を提供するフィナンシェは7月25日、Solana（ソラナ）ブロックチェーン上で最大規模のDEX（分散型取引所）ア ...\nフィナンシェ、Solana最大DEXアグリゲーター「Jupiter」と接続 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/305094/",
+          "publishedOn": "2025-07-25T04:20:13.000Z",
+          "wordCount": 1262,
+          "title": "フィナンシェ、Solana最大DEXアグリゲーター「Jupiter」と接続",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/ダウンロード-70.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=305048",
           "author": "廣瀬 優香",
           "description": "イーロン・マスク（Elon Musk）氏の人工知能（AI）スタートアップであるxAI は、規制された予測市場のカルシ（Kalshi）と提携し、チャットボットGr ...\nイーロン・マスク氏のxAI、予測市場Kalshiと提携──チャットボット「Grok」を導入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -524,6 +544,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=636242",
+          "author": "hiroto.yoshii",
+          "description": "ソラナの利回り報酬に対応した米国初のETF「SSK」にJitoSOLが正式採用。ウォレット不要でステーキング収益へアクセス可能に。",
+          "link": "https://coinpost.jp/?p=636242",
+          "publishedOn": "2025-07-25T04:50:10.000Z",
+          "wordCount": 3234,
+          "title": "利回り提供のJitoSOLを採用、米国初のソラナステーキングETF『SSK』発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/Jitoetf0725.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/Jitoetf0725.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=636360",
+          "author": "Ritsuki.Kumazawa",
+          "description": "フィナンシェがSolana最大級DEXのJupiterエコシステムに連携。日本の仮想通貨IPトークンをグローバル市場へ展開する新たな取り組みで、第一弾としてGACHIHOトークンをローンチ予定。",
+          "link": "https://coinpost.jp/?p=636360",
+          "publishedOn": "2025-07-25T04:20:26.000Z",
+          "wordCount": 3291,
+          "title": "フィナンシェ、Jupiter連携で日本発IPトークンをグローバル展開へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/financejupiterthumbnail0725.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/financejupiterthumbnail0725.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=636349",
+          "author": "A.Yamada",
+          "description": "インジェクティブが仮想通貨イーサリアム保有戦略を取るシャープリンクの株式をトークン化する。このトークンはステーキングやDeFi戦略、担保などに活用できるようになる見込みだ。",
+          "link": "https://coinpost.jp/?p=636349",
+          "publishedOn": "2025-07-25T03:55:00.000Z",
+          "wordCount": 3293,
+          "title": "インジェクティブ、イーサリアム財務戦略企業シャープリンクの株式をトークン化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/20220121.INJECTIVE.p2.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/20220121.INJECTIVE.p2.png"
+        },
         {
           "id": "https://coinpost.jp/?p=636251",
           "author": "S.Ninomiya",
@@ -1267,6 +1332,46 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=484900",
+          "author": "gentosha_takahashi",
+          "description": "中銀主導で暗号資産にルール整備 アフリカのガーナ共和国が、国内における暗号資産（仮想通貨）の普及を背景に、暗号資産プラットフォームへの規制導入とライセンス制度の整備を計画している。ブルームバーグが7月24日に報じた。 ガ […]",
+          "link": "https://www.neweconomy.jp/posts/484900",
+          "publishedOn": "2025-07-25T05:40:09.000Z",
+          "wordCount": 745,
+          "title": "ガーナが暗号資産規制を計画。ライセンス制度整備へ＝ブルームバーグ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/25144002/6a1e10d7477472f62560f247dbdadf45.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=484892",
+          "author": "OtsugaShinya",
+          "description": "インクの独自トークン「INK」エアドロへ 海外大手暗号資産（仮想通貨）取引所クラーケン（Kraken）が、独自チェーンの「インク（Ink）」および同チェーンのネイティブトークン「INK」を、既存の製品群に導入する計画だと […]",
+          "link": "https://www.neweconomy.jp/posts/484892",
+          "publishedOn": "2025-07-25T04:49:24.000Z",
+          "wordCount": 791,
+          "title": "クラーケンのイーサL2「インク」、独自トークン「INK」エアドロへ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/25134918/4997c20d2a644883bbeac965019e52aa.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=484884",
+          "author": "OtsugaShinya",
+          "description": "ネイティブUSDCがセイに対応開始 米サークル（Circle Internet Financial）発行の米ドル建てステーブルコイン「USDC」のネイティブ型トークンが、レイヤー1ブロックチェーンのセイ（Sei）に対応を […]",
+          "link": "https://www.neweconomy.jp/posts/484884",
+          "publishedOn": "2025-07-25T03:59:34.000Z",
+          "wordCount": 764,
+          "title": "米サークル「USDC」、L1チェーンのセイにネイティブ対応開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/25125923/1aff4de56886c5cc2399d23953d81894.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=484880",
+          "author": "gentosha_takahashi",
+          "description": "機関投資家向けサービスを強化 暗号資産（仮想通貨）取引所バイナンス（Binance）が、機関投資家向けのオフエクスチェンジ（取引所外）決済サービスに、トークン化された現実資産（RWA）であるUSYCおよびcUSDOのサポ […]",
+          "link": "https://www.neweconomy.jp/posts/484880",
+          "publishedOn": "2025-07-25T03:46:56.000Z",
+          "wordCount": 750,
+          "title": "USYCとcUSDOがバイナンス担保資産に追加。機関投資家向けにオフエクスチェンジ活用拡大へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/25124639/efe0be1a87e9d298a31bcd5e30e1a166.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=484865",
           "author": "OtsugaShinya",
           "description": "メタプラが米子会社の持株会社を新設 上場企業によるビットコイン保有数で世界第5位の東証スタンダード上場企業メタプラネットが、米国フロリダ州に完全子会社である持株会社メタプラネット・ホールディングス（Metaplanet  […]",
@@ -1753,6 +1858,81 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/granbury-texas-mara-bitcoin-mining",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "テキサス州ダラス南西に位置する町グランベリーの住民の多くが、仮想通貨マイニング施設による騒音と健康被害に苦しんでいる。",
+          "link": "https://jp.cointelegraph.com/news/granbury-texas-mara-bitcoin-mining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-25T06:18:05.000Z",
+          "wordCount": null,
+          "title": "米テキサス州の町でビットコインマイニング騒音問題、住民が健康被害を訴え訴訟に発展",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJhMjAtM2Y1NS03MGNmLTgwMzctZjAwYzA2OGRkOTc4.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJhMjAtM2Y1NS03MGNmLTgwMzctZjAwYzA2OGRkOTc4.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/lightning-network-5-percent-stablecoin-volume-voltage-ceo",
+          "author": "Cointelegraph  Martin Young",
+          "description": "ビットコインのレイヤー2スケーリングプラットフォームであるライトニングネットワーク（LN）は、今後数年間でステーブルコイン取引量の急増を迎える可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/lightning-network-5-percent-stablecoin-volume-voltage-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-25T05:50:21.000Z",
+          "wordCount": null,
+          "title": "ライトニングネットワークとステーブルコイン取引　2028年までに世界取引量の5％を処理＝業界関係者が予測",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODNmODEtODNiZi03M2JlLWIyMTMtYjE4ZmVlNjUwZmQ4.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODNmODEtODNiZi03M2JlLWIyMTMtYjE4ZmVlNjUwZmQ4.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/us-crypto-legislation-4b-surge-stablecoin-supply",
+          "author": "Cointelegraph  Nate Kostar",
+          "description": "GENIUS法が正式に成立して間もないが、その影響はすでに仮想通貨業界に波及している。成立からわずか7日で、ステーブルコイン市場の時価総額は40億ドル近く拡大し、2640億ドルを突破。企業による関連分野への関心も高まっている。",
+          "link": "https://jp.cointelegraph.com/news/us-crypto-legislation-4b-surge-stablecoin-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-25T04:44:37.000Z",
+          "wordCount": null,
+          "title": "GENIUS法成立でステーブルコイン市場に追い風　わずか7日で時価総額が40億ドル増加",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODNkZTktYzYxMC03MTY0LThlYmMtMjE4ZmVmOGNiYTIy.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODNkZTktYzYxMC03MTY0LThlYmMtMjE4ZmVmOGNiYTIy.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/doge-news-update-treasury-purchases-may-kickstart-rally-to-dollar0-29",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "ドージコインは現在、0.14ドルから0.29ドルのレンジ内で推移しており、サポート付近では買い、レジスタンス付近では売りが見られる状況だ。",
+          "link": "https://jp.cointelegraph.com/news/doge-news-update-treasury-purchases-may-kickstart-rally-to-dollar0-29?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-25T03:56:27.000Z",
+          "wordCount": null,
+          "title": "ドージコイン　レンジ相場を脱することができるか　0.29ドル突破なら0.44ドルも視野",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzU3ZGEtYjYxYS03NTgzLTllOTgtYTZiZmUyNDhlZDY1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzU3ZGEtYjYxYS03NTgzLTllOTgtYTZiZmUyNDhlZDY1.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/ether-price-vulnerable-unwinding-weth-borrowing-crypto-analyst",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "ラップド・イーサ（wETH）の借入コストが急上昇し、テクニカル指標も過熱感を示すなか、イーサリアム（ETH）は短期的に不安定な局面を迎える可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/ether-price-vulnerable-unwinding-weth-borrowing-crypto-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-25T03:23:47.000Z",
+          "wordCount": null,
+          "title": "イーサリアムに短期的な下振れリスク　「テクニカル指標は買われ過ぎのシグナル」＝仮想通貨アナリスト",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MmZlOWMtYWFjNC03ZjM4LTkzYWUtMDExZTlkNGVkNGQ0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MmZlOWMtYWFjNC03ZjM4LTkzYWUtMDExZTlkNGVkNGQ0.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/xrp-vs-eth-which-token-is-quietly-outperforming-in-whale-fueled-rallies",
           "author": "Cointelegraph  Biraajmaan Tamuly",
@@ -3110,6 +3290,46 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=140399",
+          "author": "Crypto Times 編集部",
+          "description": "人気NFTプロジェクト「Bored Ape Yacht Club」を手がけるYuga Labsが開発するメタバースプロジェクト「Otherside」にて現地時間7月25日午前10時より大規模なオンライン交流イベントが開催 […]\n投稿 メタバース「Otherside」で誰でも参加可能な交流イベントが開催 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-otherside-meet-at-the-clubhouse/",
+          "publishedOn": "2025-07-25T05:44:24.000Z",
+          "wordCount": 635,
+          "title": "メタバース「Otherside」で誰でも参加可能な交流イベントが開催",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_2147935137.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=140335",
+          "author": "Crypto Times 編集部",
+          "description": "アーティスト村上隆氏の作品「108 Flowers」がこの夏、最新のデジタルコレクティブルとして生まれ変わります。この新しい試みはブロックチェーン技術を活用した大規模イベント「Onchain Summer」の一環として発 […]\n投稿 村上隆氏の「108 Flowers」がNFTで登場｜8月1日から販売開始 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-takashi-murakami-108-flowers-nft/",
+          "publishedOn": "2025-07-25T05:33:49.000Z",
+          "wordCount": 643,
+          "title": "村上隆氏の「108 Flowers」がNFTで登場｜8月1日から販売開始",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_2168616121.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=140377",
+          "author": "Crypto Times 編集部",
+          "description": "米国の農業技術企業であるNature’s Miracle Holding Inc.が最大で2,000万ドル（約30億円）に上るXRP（リップル）を企業の財務資産として購入するプログラムを設立したことを発表しま […]\n投稿 約30億円のリップル購入計画、米農業技術企業が発表｜株価は急騰 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-natures-miracle-buy-xrp/",
+          "publishedOn": "2025-07-25T05:21:39.000Z",
+          "wordCount": 633,
+          "title": "約30億円のリップル購入計画、米農業技術企業が発表｜株価は急騰",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2577626213.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=140376",
+          "author": "Crypto Times 編集部",
+          "description": "仮想通貨XRP（エックスアールピー）を手掛けるリップル社共同創設者クリス・ラーセン氏に関連するアドレスから直近1週間で現在価格で約226億円分のXRPが移動され、そのうちの8割が取引所や関連サービスに紐づくアドレスに送ら […]\n投稿 リップル共同創設者が約226億円分のXRPを移動｜売却が目的か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-chris-larsen-transferred-out-50m-xrp/",
+          "publishedOn": "2025-07-25T04:48:04.000Z",
+          "wordCount": 635,
+          "title": "リップル共同創設者が約226億円分のXRPを移動｜売却が目的か",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_1370408690.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=140387",
           "author": "Crypto Times 編集部",

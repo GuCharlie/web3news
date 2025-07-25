@@ -595,6 +595,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=636644",
+          "author": "菊谷ルイス",
+          "description": "CNBCによると、テスラが2022年に保有ビットコインの75%を売却した結果、その後の価格急騰で数十億ドルの機会損失となった。現在の保有資産は12億4000万ドルだが、継続保有していれば50億ドル相当に達していたと推定される。",
+          "link": "https://coinpost.jp/?p=636644",
+          "publishedOn": "2025-07-25T20:55:51.000Z",
+          "wordCount": 3217,
+          "title": "テスラ、ビットコインを売らなければ50億ドルの価値に＝CNBC報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/teslabitcoin020921.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/teslabitcoin020921.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=636427",
           "author": "CoinPost編集部",
           "description": "本記事では、仮想通貨などに関する米Web3の制度整備や企業参入を俯瞰します。トランプ政権下で進む制度整備の目的や主要法案、注目領域、日本との違いについて解説しています。",
@@ -1973,6 +1988,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/xrp-issuer-ripple-rlusd-stablecoin-retail-adoption-enterprise-focus",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "XRP発行元であるリップルが手がけるステーブルコイン「リップルUSD（RLUSD）」は、当初企業向けを掲げていたが、現在では個人ユーザーの間でも存在感を強めている。",
+          "link": "https://jp.cointelegraph.com/news/xrp-issuer-ripple-rlusd-stablecoin-retail-adoption-enterprise-focus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-25T21:00:00.000Z",
+          "wordCount": null,
+          "title": "リップル発行のステーブルコインRLUSD　当初の企業向け路線から個人利用へと拡大",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODQwZGItYTQ5ZS03YmZmLWE1YTgtMWE4MDBlNzM0NjI5.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODQwZGItYTQ5ZS03YmZmLWE1YTgtMWE4MDBlNzM0NjI5.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/robert-kiyosaki-warns-risk-paper-btc-gold-silver",
           "author": "Cointelegraph  Vince Quill",

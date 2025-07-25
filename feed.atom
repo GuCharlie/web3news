@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-25T20:43:34.003Z</updated>
+    <updated>2025-07-25T21:16:11.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[リップル発行のステーブルコインRLUSD　当初の企業向け路線から個人利用へと拡大]]></title>
+        <id>https://jp.cointelegraph.com/news/xrp-issuer-ripple-rlusd-stablecoin-retail-adoption-enterprise-focus</id>
+        <link href="https://jp.cointelegraph.com/news/xrp-issuer-ripple-rlusd-stablecoin-retail-adoption-enterprise-focus?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-07-25T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[XRP発行元であるリップルが手がけるステーブルコイン「リップルUSD（RLUSD）」は、当初企業向けを掲げていたが、現在では個人ユーザーの間でも存在感を強めている。]]></summary>
+        <author>
+            <name>Cointelegraph  Helen Partz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テスラ、ビットコインを売らなければ50億ドルの価値に＝CNBC報道]]></title>
+        <id>https://coinpost.jp/?p=636644</id>
+        <link href="https://coinpost.jp/?p=636644"/>
+        <updated>2025-07-25T20:55:51.000Z</updated>
+        <summary type="html"><![CDATA[CNBCによると、テスラが2022年に保有ビットコインの75%を売却した結果、その後の価格急騰で数十億ドルの機会損失となった。現在の保有資産は12億4000万ドルだが、継続保有していれば50億ドル相当に達していたと推定される。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[『金持ち父さん』のロバート・キヨサキ氏　ETFは「紙のビットコイン」と警鐘]]></title>
         <id>https://jp.cointelegraph.com/news/robert-kiyosaki-warns-risk-paper-btc-gold-silver</id>

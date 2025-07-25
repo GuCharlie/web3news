@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-24T23:40:39.176Z</updated>
+    <updated>2025-07-25T01:22:54.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨で高級不動産を購入可能に、米クリスティーズ＝報道]]></title>
+        <id>https://coinpost.jp/?p=636234</id>
+        <link href="https://coinpost.jp/?p=636234"/>
+        <updated>2025-07-25T01:00:12.000Z</updated>
+        <summary type="html"><![CDATA[米クリスティーズの不動産部門が仮想通貨による取引専門チームを設立する。仮想通貨決済による売買物件のポートフォリオは総額10億ドルを超えている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムとアルトコインへ資金シフトの兆候＝クリプトクアント分析]]></title>
+        <id>https://coinpost.jp/?p=636227</id>
+        <link href="https://coinpost.jp/?p=636227"/>
+        <updated>2025-07-25T00:40:46.000Z</updated>
+        <summary type="html"><![CDATA[クリプトクアントの分析で仮想通貨イーサリアムがビットコインを72%上回る。週間取引量も1年ぶりに逆転、アルトコイン取引高は3月以来最高水準に。機関投資家が主導する相場展開が継続するとの分析も。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETHトレジャリー企業ゲームスクエア、7.5億円でクリプトパンクNFT購入]]></title>
+        <id>https://coinpost.jp/?p=636218</id>
+        <link href="https://coinpost.jp/?p=636218"/>
+        <updated>2025-07-24T23:40:53.000Z</updated>
+        <summary type="html"><![CDATA[米上場のゲームスクエアがCompound創設者からカウボーイエイプ・クリプトパンクを515万ドルで購入。NFT利回り戦略で年6-10%リターン目標、イーサリアム保有額は約76億円に。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[豪フィンテック企業ファインダー、仮想通貨利回り商品をめぐる訴訟で勝訴]]></title>
         <id>https://jp.cointelegraph.com/news/finder-wins-asic-crypto-yield-case</id>

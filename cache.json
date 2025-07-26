@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=305236",
+          "author": "Benjamin Schiller",
+          "description": "信じがたいことだが、4月、イーサリアム（ETH）は1500ドルを下回って低迷していた。今は3800ドルを超えている。 イーサリアムの復活は、この夏の主役だ。イー ...\nWeekly Recap：イーサリアム、復活の夏 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/305236/",
+          "publishedOn": "2025-07-26T01:50:00.000Z",
+          "wordCount": 1333,
+          "title": "Weekly Recap：イーサリアム、復活の夏",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/shutterstock_1597769794.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=305235",
           "author": "Helene Braun",
           "description": "公開データによると、米国上場のイーサリアム（ETH）現物ETFは、2024年7月23日の上場以来、市場参入初年度で純流入額が約87億ドル（約1兆3000億円、1 ...\nイーサリアムETF、初年は約1兆3000億円の純流入──その約半分がここ2週間に集中 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -580,16 +590,6 @@
           "wordCount": 1341,
           "title": "イーサリアムのバリデーターら、ガスリミットを4500万に引き上げる意向示す",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/shutterstock_2485844277.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=304519",
-          "author": "林 理南",
-          "description": "トランプ・メディア・アンド・テクノロジー・グループ（Trump Media and Technology Group）は20日午前、約20億ドル（約2900億円 ...\nトランプ・メディア、20億ドル相当のビットコイン保有を発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/304519/",
-          "publishedOn": "2025-07-21T14:48:06.000Z",
-          "wordCount": 1305,
-          "title": "トランプ・メディア、20億ドル相当のビットコイン保有を発表",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/281901322361b7d8258c97ec4548c5cc388b626d-4641x2611-1-scaled.jpg"
         }
       ]
     },
@@ -604,6 +604,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=636691",
+          "author": "菊谷ルイス",
+          "description": "シティグループがビットコイン年末目標価格13万5000ドルを発表。ETF資金流入とネットワーク価値分析に基づく評価モデルで、仮想通貨市場の成長を予測。",
+          "link": "https://coinpost.jp/?p=636691",
+          "publishedOn": "2025-07-26T02:05:07.000Z",
+          "wordCount": 3236,
+          "title": "シティ、ビットコイン13.5万ドル予測　ETF資金流入が影響",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/bitcoin-halving-buy-from-miners.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/bitcoin-halving-buy-from-miners.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=636679",
           "author": "A.Yamada",

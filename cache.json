@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=305074",
+          "author": "橋本 祐樹",
+          "description": "複数の主要なアルトコインは7月23日、急落し、いわゆる「アルトコインシーズン」の少なくとも一時的な停滞を示唆した。2億ドルを超えるロングポジションが清算され、そ ...\nSOL、XRP、TONなど大幅値下がり──アルトコインシーズン小休止／ETH、年末までに1万5000ドルも──イーサリアムはウォール街の人気ブロックチェーンに：トム・リー氏【日曜日に読みたい厳選10本】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/305074/",
+          "publishedOn": "2025-07-26T23:00:00.000Z",
+          "wordCount": 1565,
+          "title": "SOL、XRP、TONなど大幅値下がり──アルトコインシーズン小休止／ETH、年末までに1万5000ドルも──イーサリアムはウォール街の人気ブロックチェーンに：トム・リー氏【日曜日に読みたい厳選10本】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/日曜日に読みたい10選.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=305326",
           "author": "林 理南",
           "description": "ロサンゼルスに拠点を置くクリスティーズ傘下のクリスティーズ・インターナショナル・リアル・エステート（Christie’s International Real  ...\nクリスティーズ関連会社、暗号資産での不動産購入を可能に：ニューヨーク・タイムズ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -1845,16 +1855,6 @@
           "wordCount": 728,
           "title": "ネイルサロン運営のコンヴァノが4億円でビットコイン購入、月内に10億円で追加取得へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/22203841/BTC40-250714-PIXTA.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=484380",
-          "author": "OtsugaShinya",
-          "description": "AMNがビットコイン追加購入 インターネット広告業を展開する東証グロース上場企業のアジャイルメディア・ネットワーク（AMN）が、ビットコインの追加購入実施を7月22日に発表した。 AMNは今回、1千万円で0.561735 […]",
-          "link": "https://www.neweconomy.jp/posts/484380",
-          "publishedOn": "2025-07-22T11:06:39.000Z",
-          "wordCount": 600,
-          "title": "アジャイルメディア・ネットワークがビットコイン追加購入、合計保有数は約1.1BTC",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/22200627/BTC37-250714-PIXTA.jpg"
         }
       ]
     },
@@ -1863,6 +1863,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/tokenized-money-market-funds-vs-stablecoins-jpmorgan",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "マネー・マーケット・ファンドのトークン化は、「資産としての現金」の魅力を維持するうえで重要な一歩となる。ステーブルコインの普及が従来型のファンドの魅力を損なう可能性がある中、JPモルガンのストラテジストであるテレサ・ホー氏はこう指摘している。",
+          "link": "https://jp.cointelegraph.com/news/tokenized-money-market-funds-vs-stablecoins-jpmorgan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-26T23:00:00.000Z",
+          "wordCount": null,
+          "title": "ステーブルコインに対抗　マネー・マーケット・ファンドのトークン化が進行＝JPモルガンのストラテジストが指摘",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODQyNmMtNDVlZi03MmZkLWIxY2MtYmJmYWY2NjhkNThm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODQyNmMtNDVlZi03MmZkLWIxY2MtYmJmYWY2NjhkNThm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/eth-price-still-on-track-for-dollar4k-even-as-bitcoin-altcoins-sell-off",
           "author": "Cointelegraph  Biraajmaan Tamuly",

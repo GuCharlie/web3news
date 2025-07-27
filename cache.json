@@ -440,16 +440,6 @@
           "wordCount": 1319,
           "title": "ジェフリーズ、ギャラクシーを「買い」推奨──有利な規制環境の恩恵を受けると指摘",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/09/XB3PCRPY4FHKPOELOXCRX5DCSU.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=304832",
-          "author": "Omkar Godbole",
-          "description": "投機家の熱狂の証拠だ。Coinglassの暗号資産デリバティブのリーダーボードを見れば、ソラナ（Solana）ベースのミームコインであるファートコイン（FART ...\nFARTCOINが先物建玉でトップ10入り──このミームコインへの投機の高まりを示唆 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/304832/",
-          "publishedOn": "2025-07-23T10:25:00.000Z",
-          "wordCount": 1376,
-          "title": "FARTCOINが先物建玉でトップ10入り──このミームコインへの投機の高まりを示唆",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/shutterstock_2313031831.jpg"
         }
       ]
     },
@@ -1440,16 +1430,6 @@
           "wordCount": 762,
           "title": "コスモス開発者、「Cosmos Hub」へのEVM実装を中止し戦略転換",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/23195912/a757c4896e08045cf9c6620a4d324093.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=484558",
-          "author": "OtsugaShinya",
-          "description": "SBI VCトレードがNIGHTエアドロ対応検討 国内暗号資産（仮想通貨）取引所SBI VCトレードが、「ナイト（NIGHT）」のエアドロップ参加に向けて、ミッドナイト財団（Midnight Foundation）と連携 […]",
-          "link": "https://www.neweconomy.jp/posts/484558",
-          "publishedOn": "2025-07-23T10:30:09.000Z",
-          "wordCount": 761,
-          "title": "SBI VCトレード、「ナイト（NIGHT）」エアドロ対応の検討開始",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/23193003/NIGHT-250723Ninja-Studio.jpg"
         }
       ]
     },
@@ -1458,6 +1438,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/divine-research-issues-30000-unbacked-crypto-loans-world-id",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "ディバイン・リサーチは、サム・アルトマン氏が関与する認証プラットフォーム「ワールドID」を用いて借り手を認証し、3万件の無担保USDCローンを提供。金融サービスの届きにくいユーザーを対象とする。",
+          "link": "https://jp.cointelegraph.com/news/divine-research-issues-30000-unbacked-crypto-loans-world-id?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-27T22:38:16.000Z",
+          "wordCount": null,
+          "title": "ワールドIDを活用し、ディバイン・リサーチが無担保の仮想通貨ローンを提供",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDY1NjEtZDI4ZS03NDcwLWI3YTAtMTVkYzBkMWZmZGEx.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDY1NjEtZDI4ZS03NDcwLWI3YTAtMTVkYzBkMWZmZGEx.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-nears-120k-as-analysis-predicts-larger-price-swings-next",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコインは日曜日の週足終値に向けて突如ボラティリティを高めた。清算の節目が注目される中、今後さらに大きな価格変動が予想されている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-nears-120k-as-analysis-predicts-larger-price-swings-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-27T22:20:23.000Z",
+          "wordCount": null,
+          "title": "ビットコイン12万ドル間近　アナリストは「さらなる価格変動」を予測",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODRjY2UtYjZjZi03NjViLWJjOTYtNjQ3YzVlYzY1Yjhi.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODRjY2UtYjZjZi03NjViLWJjOTYtNjQ3YzVlYzY1Yjhi.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/tether-gold-xaut-market-cap-gold-rally-2025",
           "author": "Cointelegraph  Sam Bourgi",
@@ -2529,16 +2539,6 @@
           "wordCount": 602,
           "title": "$WEPE 600％急騰、ぺぺ系ミームがソラナ対応で投資家から再注目",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/AD_4nXeg0ADHrPHsQbVCi6vJgHlDTk2Au0mJgXu701_r4_gD1WmRbeFzKy0RTzDn0Gu1rDheToLjzw-aA7rV6o6-pM_YW0Rugi6wKTllpTfD_nvy85aoCRSpdo-G.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=140284",
-          "author": "Crypto Times 編集部",
-          "description": "ペンギンをモチーフにした人気のNFTプロジェクト「Pudgy Penguins」が2025年7月23日に誕生から4周年を迎えました。この記念すべき日を祝うとともに関連する暗号資産の価格が著しく高騰しており、市場から大きな […]\n投稿 Pudgy Penguins、4周年を迎え多方面で躍進｜トークン価格も高騰続く は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-pudgy-penguins-4th-anniversary/",
-          "publishedOn": "2025-07-23T10:18:57.000Z",
-          "wordCount": 643,
-          "title": "Pudgy Penguins、4周年を迎え多方面で躍進｜トークン価格も高騰続く",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2024/12/shutterstock_2343758045-scaled.jpg"
         }
       ]
     }

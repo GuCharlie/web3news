@@ -1400,16 +1400,6 @@
           "wordCount": 764,
           "title": "伊藤穰一らのJapan Smart Chain、KDDIとビジョンパートナー契約",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/24111459/KDDI-250723ttawit.21.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=484541",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/484541",
-          "publishedOn": "2025-07-23T11:17:32.000Z",
-          "wordCount": 815,
-          "title": "【7/23話題】BNBが史上最高値、ANAPがビットコイン建て増資、米銀行PNCがコインベースと提携など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/23172217/1f3b43be1b6f9dd226f6db8eae99776e.jpg"
         }
       ]
     },
@@ -1418,6 +1408,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-upside-2026-four-year-cycle-dead-bitwise-invest-cio",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "ビットワイズ・インベストの幹部は「間違っているかもしれない」としながらも、2025年がビットコインの上昇局面の終わりとは見ていない。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-upside-2026-four-year-cycle-dead-bitwise-invest-cio?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-27T23:35:39.000Z",
+          "wordCount": null,
+          "title": "ビットコインが上昇するのは2026年、4年周期は終焉＝ビットワイズ幹部",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODQ5OTUtYTI2YS03ZWY1LTgyMmItOTNmZDFiOWNmYWM1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODQ5OTUtYTI2YS03ZWY1LTgyMmItOTNmZDFiOWNmYWM1.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/genius-act-stablecoin-shift-payment-utility",
           "author": "Cointelegraph  Amin Haqshanas",

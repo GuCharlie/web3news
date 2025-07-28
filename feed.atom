@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-28T23:17:18.241Z</updated>
+    <updated>2025-07-28T23:43:32.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ペイパル、仮想通貨決済サービス「Pay with Crypto」を発表]]></title>
+        <id>https://coinpost.jp/?p=637345</id>
+        <link href="https://coinpost.jp/?p=637345"/>
+        <updated>2025-07-28T23:05:43.000Z</updated>
+        <summary type="html"><![CDATA[ペイパルが100銘柄以上の仮想通貨に対応した新決済サービス「Pay with Crypto」を発表。取引手数料を最大90%削減し、米国の加盟店・事業者向けに数週間以内に提供開始予定。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTCマイナーのマラ、「オーバーウェイト」に格上げ、アイレンとライオットは格下げ：JPモルガン]]></title>
         <id>https://www.coindeskjapan.com/?p=305564</id>
@@ -25,6 +35,16 @@ BTCマイナーのマラ、「オーバーウェイト」に格上げ、アイ�
         <summary type="html"><![CDATA[ソラナ共同創設者のアナトリー・ヤコブレンコ氏が、ミームコインをスマホゲームの「ガチャ」に例えたことで、仮想通貨コミュニティから批判を招いている。]]></summary>
         <author>
             <name>Cointelegraph  Brayden Lindrea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナのステーキングインフラを移行　ARKがソル・ストラテジーズと提携]]></title>
+        <id>https://coinpost.jp/?p=637335</id>
+        <link href="https://coinpost.jp/?p=637335"/>
+        <updated>2025-07-28T22:50:50.000Z</updated>
+        <summary type="html"><![CDATA[ソル・ストラテジーズは、ARKのファンドがソラナのステーキングプロバイダーに同社を選んだと発表。ARKはソラナのバリデータ運営をソル・ストラテジーズのインフラに移行する。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
         </author>
     </entry>
     <entry>
@@ -76,6 +96,16 @@ BTCマイナーのマラ、「オーバーウェイト」に格上げ、アイ�
         <summary type="html"><![CDATA[元ペニー株の同社は、合併後の1,300％上昇を背景に、10億ドルの資金調達で仮想通貨準備戦略を強化しようとしている。]]></summary>
         <author>
             <name>Cointelegraph  Sam Bourgi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[著名投資家ダリオ、ビットコインと金を15%配分すべきと推奨]]></title>
+        <id>https://coinpost.jp/?p=637334</id>
+        <link href="https://coinpost.jp/?p=637334"/>
+        <updated>2025-07-28T22:20:34.000Z</updated>
+        <summary type="html"><![CDATA[ブリッジウォーター創設者レイ・ダリオ氏が投資家にポートフォリオの15%を仮想通貨ビットコインと金に配分推奨。米国債務危機とインフレリスクへの対策として分散投資を提案。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>

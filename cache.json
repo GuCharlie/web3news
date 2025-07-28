@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=305528",
+          "author": "林 理南",
+          "description": "投資銀行ジェフリーズ（Jefferies）のレポートによれば、ビットコイン（BTC）のマイニング収益性は6月に5.3%上昇した。これは、ビットコイン価格が1.2 ...\n6月のマイニング収益性は5%以上上昇──ハッシュレート低下とビットコイン価格上昇で first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/305528/",
+          "publishedOn": "2025-07-28T21:00:00.000Z",
+          "wordCount": 1331,
+          "title": "6月のマイニング収益性は5%以上上昇──ハッシュレート低下とビットコイン価格上昇で",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/e7982f2cd16aaa896fdd1b231cf766d18f1f1cc2-1440x1080-3.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=305516",
           "author": "Francisco Rodrigues",
           "description": "暗号資産（仮想通貨）はかつてないほど簡単に購入できるようになったかもしれないが、ほとんどのアメリカ人は依然として手を出そうとしていない。 ギャラップ（Gallu ...\n暗号資産の保有率は2018年から8倍に急増──しかしアメリカの投資家は依然として「リスクが高い」と見ている：調査 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -400,16 +410,6 @@
           "wordCount": 1323,
           "title": "ジャック・ドーシー氏のスクエア、ビットコイン決済導入──来年までに全加盟店への展開目指す",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/3ef891a3e5f94795af5e969c8924d934daa6fa59-1920x1280-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=304953",
-          "author": "栃山直樹",
-          "description": "AIソリューション事業を手掛ける東証スタンダード上場のクオンタムソリューションズは7月23日、今後12カ月で最大3000BTC（同日レート換算で約538.5億円 ...\nAI企業のクオンタム、500億円超のビットコイン投資計画を発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/304953/",
-          "publishedOn": "2025-07-24T08:46:53.000Z",
-          "wordCount": 1265,
-          "title": "AI企業のクオンタム、500億円超のビットコイン投資計画を発表",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/スクリーンショット-2025-07-24-17.41.55.jpg"
         }
       ]
     },
@@ -424,6 +424,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=637327",
+          "author": "菊谷ルイス",
+          "description": "米SECが28日、トランプメディア運営のトゥルースソーシャルが申請したビットコインETFの承認判断を9月18日まで延期すると発表。",
+          "link": "https://coinpost.jp/?p=637327",
+          "publishedOn": "2025-07-28T20:55:56.000Z",
+          "wordCount": 3209,
+          "title": "米SEC、トランプメディアのビットコインETF審査を延期",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/sec-gensler-new-ask-for-budget.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/sec-gensler-new-ask-for-budget.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=637319",
           "author": "菊谷ルイス",
@@ -1023,21 +1038,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/bitcoin-whale-making-more-purchase-.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/bitcoin-whale-making-more-purchase-.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=635975",
-          "author": "Ritsuki.Kumazawa",
-          "description": "NOT A HOTELがジェットやヘリ、クルーザーを必要な分だけ所有できる新サービスを発表。1つ購入で陸海空の複数の乗り物が利用可能。",
-          "link": "https://coinpost.jp/?p=635975",
-          "publishedOn": "2025-07-24T09:05:14.000Z",
-          "wordCount": 3299,
-          "title": "NOT A HOTEL、クルーザーから始まるモビリティシェア購入サービス『NOT A GARAGE』開始",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/notagarage.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/notagarage.png"
         }
       ]
     },
@@ -2204,46 +2204,6 @@
           "wordCount": 589,
           "title": "フィナンシェ、”Jupiterエコシステム”へ接続。日本発IPトークンのグローバル市場展開を本格化",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/42665-561-121ce25d323c2e0aee0d436c3cc04877-1600x1108-2.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=140350",
-          "author": "よきょい",
-          "description": "7月17日、ビットコイン（BTC）の価格は118,800ドル前後で推移しており、イーサリアム（ETH）は約$3,630ドル、ソラナ（SOL）は約185ドルで取引されています。世界の暗号資産時価総額は3.93兆ドルで、ビッ […]\n投稿 【今日の暗号資産ニュース】ビットコイン100万ドルは2029年？イーサリアム年末1万ドル予測 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-will-bitcoin-hit-1-million-in-2029-ethereum-predicted-to-hit-10000-by-the-end-of-the-year/",
-          "publishedOn": "2025-07-24T09:06:17.000Z",
-          "wordCount": 584,
-          "title": "【今日の暗号資産ニュース】ビットコイン100万ドルは2029年？イーサリアム年末1万ドル予測",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_1343503910.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=140312",
-          "author": "Crypto Times 編集部",
-          "description": "AIとブロックチェーン技術の融合を目指す新プロジェクト「Theoriq」が自律型AIエージェントが経済活動を行う「エージェントエコノミー」の実現に向けた詳細な計画とその基盤となる独自トークン「$THQ」のトークノミクスを […]\n投稿 【仮想通貨】AI銘柄「$THQ」明日からトークンセールを開始 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-thq-launchpad/",
-          "publishedOn": "2025-07-24T09:01:10.000Z",
-          "wordCount": 626,
-          "title": "【仮想通貨】AI銘柄「$THQ」明日からトークンセールを開始",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/Gemini_Generated_Image_a5wunga5wunga5wu.jpeg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=140306",
-          "author": "よきょい",
-          "description": "米証券取引委員会（SEC）が、承認したはずの暗号資産ETF（上場投資信託）を一時的に停止する動きが相次ぎ、その意図を巡って専門家の間で議論が起きています。 SECは資産運用会社ビットワイズの暗号資産インデックスファンドを […]\n投稿 SECは時間稼ぎか？ETF承認遅延に専門家らが見解 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-is-the-sec-stalling-out-on-etf-approvals-experts-say/",
-          "publishedOn": "2025-07-24T08:54:49.000Z",
-          "wordCount": 624,
-          "title": "SECは時間稼ぎか？ETF承認遅延に専門家らが見解",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_2426097137-1.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=140305",
-          "author": "よきょい",
-          "description": "暗号資産取引所BitMEXの元CEOであるアーサー・ヘイズ氏が、イーサリアム（ETH）に対する強気な見通しを明らかにしました。同氏は、イーサリアムが年末までに過去最高値となる1万ドルに達する可能性があると予測しています。 […]\n投稿 「イーサリアムは年末1万ドル、利益はNFTへ」著名投資家が強気予測 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-ethereum-will-hit-10000-by-the-end-of-the-year-profits-will-go-to-nfts-prominent-investor-bullishly-predicts/",
-          "publishedOn": "2025-07-24T08:50:14.000Z",
-          "wordCount": 566,
-          "title": "「イーサリアムは年末1万ドル、利益はNFTへ」著名投資家が強気予測",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_1933655423.jpg"
         }
       ]
     }

@@ -500,7 +500,7 @@
       "articles": []
     },
     {
-      "title": "リップル社Hyperledger事業参入｜価値のインターネット実現へ大きな一歩",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -1276,6 +1276,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=485240",
+          "author": "OtsugaShinya",
+          "description": "PayPayポイント運用でETHコース開始 キャッシュレス決済サービス「PayPay」のアプリ内で提供されている「PayPayポイント運用」にて、「イーサリアムコース」が開始された。PayPay証券の完全子会社であるPP […]",
+          "link": "https://www.neweconomy.jp/posts/485240",
+          "publishedOn": "2025-07-28T10:49:40.000Z",
+          "wordCount": 605,
+          "title": "PayPayポイント運用に「イーサリアムコース」追加、ETH運用の疑似体験が可能に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/28194935/PAYPAY-ETH250728PIXTA.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=485195",
           "author": "TamuraSeiji",
@@ -2307,21 +2317,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODM4YTItODY0OS03NGZiLWIzN2ItNjI5YjI5MjZiNWJj.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/block-joins-sp500-bitcoin-exposure-equity-index",
-          "author": "Cointelegraph  Christopher Tepedino",
-          "description": "ブロックのS&P500採用により、株式投資家のビットコインへの間接的なエクスポージャーが拡大し、資産としての一般的な受容も進む可能性がある。",
-          "link": "https://jp.cointelegraph.com/news/block-joins-sp500-bitcoin-exposure-equity-index?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-23T22:54:29.000Z",
-          "wordCount": null,
-          "title": "ブロックがS&amp;P500に加わり、株式指数にビットコインへのエクスポージャーが拡大",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmQyNjgtMzY3NC03MzQ5LTliNDAtZjFlYTBlOGEzOGRi.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmQyNjgtMzY3NC03MzQ5LTliNDAtZjFlYTBlOGEzOGRi.jpg"
         }
       ]
     },

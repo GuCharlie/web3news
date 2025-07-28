@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-28T10:48:51.311Z</updated>
+    <updated>2025-07-28T11:15:10.608Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PayPayポイント運用に「イーサリアムコース」追加、ETH運用の疑似体験が可能に]]></title>
+        <id>https://www.neweconomy.jp/?p=485240</id>
+        <link href="https://www.neweconomy.jp/posts/485240"/>
+        <updated>2025-07-28T10:49:40.000Z</updated>
+        <summary type="html"><![CDATA[PayPayポイント運用でETHコース開始 キャッシュレス決済サービス「PayPay」のアプリ内で提供されている「PayPayポイント運用」にて、「イーサリアムコース」が開始された。PayPay証券の完全子会社であるPP […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号資産の保有率は2018年から8倍に急増──しかしアメリカの投資家は依然として「リスクが高い」と見ている：調査]]></title>
         <id>https://www.coindeskjapan.com/?p=305516</id>
@@ -2395,16 +2405,6 @@ KDDI、産学官連携で学生NFTアーティストを育成──秋田公立�
         <summary type="html"><![CDATA[米OTCマーケット上場のネイチャーズミラクルが最大20億円のXRPトレジャリーを発表。トランプ政権のジーニアス法成立を背景に、仮想通貨を長期戦略資産として活用する。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブロックがS&amp;P500に加わり、株式指数にビットコインへのエクスポージャーが拡大]]></title>
-        <id>https://jp.cointelegraph.com/news/block-joins-sp500-bitcoin-exposure-equity-index</id>
-        <link href="https://jp.cointelegraph.com/news/block-joins-sp500-bitcoin-exposure-equity-index?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-07-23T22:54:29.000Z</updated>
-        <summary type="html"><![CDATA[ブロックのS&P500採用により、株式投資家のビットコインへの間接的なエクスポージャーが拡大し、資産としての一般的な受容も進む可能性がある。]]></summary>
-        <author>
-            <name>Cointelegraph  Christopher Tepedino</name>
         </author>
     </entry>
 </feed>

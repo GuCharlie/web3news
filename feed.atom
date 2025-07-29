@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-29T10:18:34.181Z</updated>
+    <updated>2025-07-29T10:48:02.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブロックチェーンRPG「Guild of Guardians」で新イベントが7月30日より開始]]></title>
+        <id>https://crypto-times.jp/?p=140626</id>
+        <link href="https://crypto-times.jp/news-guild-of-guardians/"/>
+        <updated>2025-07-29T10:26:56.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーンRPG「Guild of Guardians」にて、新イベント「Festival of Flames」が2025年7月30日から8月28日までの4週間にわたり開催されることが発表されました。 ǵ […]
+投稿 ブロックチェーンRPG「Guild of Guardians」で新イベントが7月30日より開始 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世界最大級ヘッジファンド創設者、ビットコインや金に15%の配分を推奨]]></title>
         <id>https://crypto-times.jp/?p=140628</id>
@@ -2184,47 +2195,6 @@ XRP、DOGE、SOLが暗号資産の急落を主導──アルトコインシー�
         <summary type="html"><![CDATA[クリス・ラーセン氏がXRP価格のピーク時に5,000万XRPを取引所へ移動し、「売り浴びせ」の疑惑が浮上している。]]></summary>
         <author>
             <name>Cointelegraph  Amin Haqshanas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナ処理能力のさらなる向上へ　新たなブロックリミット引き上げ提案を提出]]></title>
-        <id>https://coinpost.jp/?p=636206</id>
-        <link href="https://coinpost.jp/?p=636206"/>
-        <updated>2025-07-24T22:40:06.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ソラナのブロックチェーンについて、処理能力を向上させる新たな改善提案が行われた。1つのブロックにより多くのトランザクションを入れられるようにして処理能力を向上させる狙いである。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナ、インターネット資本市場の主導目指す2027年ロードマップを発表]]></title>
-        <id>https://jp.cointelegraph.com/news/solana-internet-capital-markets-roadmap-2027</id>
-        <link href="https://jp.cointelegraph.com/news/solana-internet-capital-markets-roadmap-2027?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-07-24T22:40:06.000Z</updated>
-        <summary type="html"><![CDATA[ソラナ財団の2027年ロードマップは、市場のミクロ構造を「現在のソラナにおける最重要課題」と位置づけている。]]></summary>
-        <author>
-            <name>Cointelegraph  Zoltan Vardai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[個人XRP保有者、最大5%のAPY獲得が可能に]]></title>
-        <id>https://www.coindeskjapan.com/?p=305037</id>
-        <link href="https://www.coindeskjapan.com/305037/"/>
-        <updated>2025-07-24T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[DeFiプロトコルのMoreMarketsは、長い間機関投資家向けに限定されていた利回り戦略に個人投資家がアクセスできるようにする、新たな「XRP Earn A ...
-個人XRP保有者、最大5%のAPY獲得が可能に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインのもみ合い、13万5,000ドルへの急騰で決着か【データ分析】]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-consolidation-expected-to-end-with-impulse-move-to-dollar135k-data</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-consolidation-expected-to-end-with-impulse-move-to-dollar135k-data?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-07-24T22:22:20.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインの狭い取引レンジが、13万5,000ドルへの跳躍につながる可能性がある。]]></summary>
-        <author>
-            <name>Cointelegraph  Rakesh Upadhyay</name>
         </author>
     </entry>
 </feed>

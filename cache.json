@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=305729",
+          "author": "Helene Braun",
+          "description": "アメリカ証券取引委員会（SEC）は、ドナルド・トランプ（Donald Trump）大統領と提携するソーシャルメディアプラットフォーム「トゥルース・ソーシャル（T ...\nSEC、トランプ氏関連のトゥルース・ソーシャル・ビットコインETFに関する決定を9月まで延期 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/305729/",
+          "publishedOn": "2025-07-29T09:30:00.000Z",
+          "wordCount": 1450,
+          "title": "SEC、トランプ氏関連のトゥルース・ソーシャル・ビットコインETFに関する決定を9月まで延期",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/shutterstock_2426097137-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=305734",
           "author": "栃山直樹",
           "description": "G.U.Groupは、日本企業が共同運営するパブリックブロックチェーン「Japan Open Chain」上で、一般財団法人こどもたちの財団によるNFTプロジェ ...\n「妖怪NFT」で子ども支援、Japan Open Chainで新チャリティプロジェクト first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -470,16 +480,6 @@
           "wordCount": 1318,
           "title": "ストラテジー社、BTC購入資金確保のための優先株発行を約2900億円規模に拡大：ブルームバーグ",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/a57323d92b3fa599df2ee442af800248477423c0-6000x3376-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=305029",
-          "author": "Will Canny",
-          "description": "バンク・オブ・アメリカ（BofA）は、7月18日にドナルド・トランプ米大統領が署名したジーニアス法が、米国のステーブルコイン規制の転換点となり、インフラ開発とト ...\nステーブルコインの供給高、ジーニアス法成立を受けて最大11兆円増加の見込み：バンク・オブ・アメリカ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/305029/",
-          "publishedOn": "2025-07-24T21:30:00.000Z",
-          "wordCount": 1377,
-          "title": "ステーブルコインの供給高、ジーニアス法成立を受けて最大11兆円増加の見込み：バンク・オブ・アメリカ",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/shutterstock_762743737.jpg"
         }
       ]
     },
@@ -494,6 +494,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=637528",
+          "author": "CoinPost編集部",
+          "description": "暗号資産（仮想通貨）プラットフォームを運営するBakkt Holdings（NYSE: BKKT）は29日、株式公募により約7,500万ドルの資金調達を発表した。注目すべきは、調達資金をビットコインをはじめとするデジタル資産の直接購入に充当する方針を明確にした点だ。",
+          "link": "https://coinpost.jp/?p=637528",
+          "publishedOn": "2025-07-29T09:31:03.000Z",
+          "wordCount": 3235,
+          "title": "米NY証取（NYSE）親会社設立のBakkt、7500万ドル調達でビットコイン購入へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/bakkt_20190912.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/bakkt_20190912.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=637469",
           "author": "幸田直子",
@@ -1243,21 +1258,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/Microstrategy0730211.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/Microstrategy0730211.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=636203",
-          "author": "菊谷ルイス",
-          "description": "機関投資家向け担保の選択肢を増やす世界最大手仮想通貨取引所バイナンスは7月24日、機関投資家向けオフエクスチェンジ（off-exchange）決済サービスにトークン化実物資産（RWA）2種類の対応を発表した。利回り付きステーブル資産のUSY...",
-          "link": "https://coinpost.jp/?p=636203",
-          "publishedOn": "2025-07-24T21:30:12.000Z",
-          "wordCount": 3226,
-          "title": "バイナンス、サークルのUSYCなどを機関投資家向け担保に追加",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/binance-rebuke.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/binance-rebuke.jpeg"
         }
       ]
     },

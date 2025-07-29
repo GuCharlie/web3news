@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-29T21:41:54.762Z</updated>
+    <updated>2025-07-29T22:17:00.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、11万7,500ドルを下回る　さらなる下落警戒の声も]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-slides-below-117-5k-warnings-further-btc-price-drops-next</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-slides-below-117-5k-warnings-further-btc-price-drops-next?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-07-29T22:14:56.000Z</updated>
+        <summary type="html"><![CDATA[ウォール街の取引開始後、ビットコインの値動きは弱含みに。米国の好調なマクロ経済指標にもかかわらず、市場参加者はさらなる下落に備えている。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eToro、イーサリアム上でトークン化株式の提供を計画]]></title>
+        <id>https://www.coindeskjapan.com/?p=305816</id>
+        <link href="https://www.coindeskjapan.com/305816/"/>
+        <updated>2025-07-29T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[デジタル取引プラットフォームのeToroは7月29日、イーサリアムブロックチェーン上で米国上場株式をトークン化する計画を発表し、競合他社に並んで、ブロックチェー ...
+eToro、イーサリアム上でトークン化株式の提供を計画 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Krisztian Sandor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[シャープリンク、7万7000ETH以上を取得──保有額は16億ドル超]]></title>
         <id>https://www.coindeskjapan.com/?p=305809</id>
@@ -1603,60 +1624,6 @@ XRP、DOGE、SOLが暗号資産の急落を主導──アルトコインシー�
         <summary type="html"><![CDATA[REX-Osprey Solana + Staking ETFにJitoSOL統合 レックスオスプレイ（REX-Osprey）が、同社運用のステーキング対応型ソラナ（SOL）現物ETFのポートフォリオに、ソラナ上のリキッ […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【今日の暗号資産ニュース】ストラテジー社20億ドル相当のBTC買い増しへ、BTC需要が供給の10倍に]]></title>
-        <id>https://crypto-times.jp/?p=140471</id>
-        <link href="https://crypto-times.jp/news-strategy-to-buy-2-billion-worth-of-btc-and-btc-demand-is-10-times-higher-than-supply/"/>
-        <updated>2025-07-25T10:09:46.000Z</updated>
-        <summary type="html"><![CDATA[7月25日、ビットコイン（BTC）の価格は115,800ドル前後で推移しており、イーサリアム（ETH）は約3,710ドル、ソラナ（SOL）は約180ドルで取引されています。世界の暗号資産時価総額は3.87兆ドルで、ビット […]
-投稿 【今日の暗号資産ニュース】ストラテジー社20億ドル相当のBTC買い増しへ、BTC需要が供給の10倍に は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産取引所OSLグループ、3億ドルを調達──香港のステーブルコイン発行許可を前に]]></title>
-        <id>https://www.coindeskjapan.com/?p=305195</id>
-        <link href="https://www.coindeskjapan.com/305195/"/>
-        <updated>2025-07-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[香港を拠点とする暗号資産（仮想通貨）取引所OSLグループ（OSL Group）は、株式売却により3億ドル（約435億円、1ドル=145円換算）を調達した。 香港 ...
-暗号資産取引所OSLグループ、3億ドルを調達──香港のステーブルコイン発行許可を前に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Jamie Crawley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米下院休会、暗号資産の税制改革は9月まで中断]]></title>
-        <id>https://crypto-times.jp/?p=140381</id>
-        <link href="https://crypto-times.jp/news-us-house-of-representatives-recess-cryptocurrency-tax-reform-put-on-hold-until-september/"/>
-        <updated>2025-07-25T09:52:14.000Z</updated>
-        <summary type="html"><![CDATA[米国下院はジェフリー・エプスタイン関連ファイルの公開を巡る対立が激化したため、予定より1週間早い7月24日に休会に入りました。この決定により、暗号資産に関する新たな税制法案やブロックチェーン技術の活用を目指す法案の審議は […]
-投稿 米下院休会、暗号資産の税制改革は9月まで中断 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港OSL Group、株式で3億ドルの資金調達]]></title>
-        <id>https://www.neweconomy.jp/?p=484935</id>
-        <link href="https://www.neweconomy.jp/posts/484935"/>
-        <updated>2025-07-25T09:46:35.000Z</updated>
-        <summary type="html"><![CDATA[OSL Groupが3億ドルの資金調達 デジタル資産（暗号資産）分野に特化した香港上場のフィンテック企業OSLグループ（OSL Group）が、エクイティ（株式）による3億ドル（約443億円）の資金調達が完了したと7月2 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GameSquare社、希少NFTを株式で取得｜その狙いは？]]></title>
-        <id>https://crypto-times.jp/?p=140382</id>
-        <link href="https://crypto-times.jp/news-gamesquare-acquires-rare-nfts-for-stock/"/>
-        <updated>2025-07-25T09:45:45.000Z</updated>
-        <summary type="html"><![CDATA[メディア・エンターテインメント企業のGameSquareは、NFT「Cowboy Ape CryptoPunk」を取得したと発表しました。 このNFTはDeFiプロトコルのCompound創設者であるロバート・レシュナー […]
-投稿 GameSquare社、希少NFTを株式で取得｜その狙いは？ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
         </author>
     </entry>
 </feed>

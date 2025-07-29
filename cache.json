@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=305816",
+          "author": "Krisztian Sandor",
+          "description": "デジタル取引プラットフォームのeToroは7月29日、イーサリアムブロックチェーン上で米国上場株式をトークン化する計画を発表し、競合他社に並んで、ブロックチェー ...\neToro、イーサリアム上でトークン化株式の提供を計画 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/305816/",
+          "publishedOn": "2025-07-29T22:00:00.000Z",
+          "wordCount": 1303,
+          "title": "eToro、イーサリアム上でトークン化株式の提供を計画",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/2ea6631534772ae8a68c4ab1e2a2d5ae6c900b5f-2560x1655-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=305809",
           "author": "林 理南",
           "description": "イーサリアムブロックチェーンの共同創設者でコンセンシス（ConsenSys）のCEOであるジョセフ・ルービン（Joseph Lubin）氏が率いるナスダック上場 ...\nシャープリンク、7万7000ETH以上を取得──保有額は16億ドル超 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -390,16 +400,6 @@
           "wordCount": 1419,
           "title": "ビットコインは年末までに13万5000ドルに達する──強気シナリオでは19万9000ドルに：シティが予測",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/shutterstock_2191618345.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=305195",
-          "author": "Jamie Crawley",
-          "description": "香港を拠点とする暗号資産（仮想通貨）取引所OSLグループ（OSL Group）は、株式売却により3億ドル（約435億円、1ドル=145円換算）を調達した。 香港 ...\n暗号資産取引所OSLグループ、3億ドルを調達──香港のステーブルコイン発行許可を前に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/305195/",
-          "publishedOn": "2025-07-25T10:00:00.000Z",
-          "wordCount": 1308,
-          "title": "暗号資産取引所OSLグループ、3億ドルを調達──香港のステーブルコイン発行許可を前に",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/02/hongkong1.jpeg"
         }
       ]
     },
@@ -1225,16 +1225,6 @@
           "wordCount": 761,
           "title": "レックスオスプレイ、米国初のステーキング対応型ソラナ（SOL）現物ETF「SSK」に「JitoSOL」統合",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/25192544/ae43e3ccfb75c062e06a00b70ac0424d.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=484935",
-          "author": "OtsugaShinya",
-          "description": "OSL Groupが3億ドルの資金調達 デジタル資産（暗号資産）分野に特化した香港上場のフィンテック企業OSLグループ（OSL Group）が、エクイティ（株式）による3億ドル（約443億円）の資金調達が完了したと7月2 […]",
-          "link": "https://www.neweconomy.jp/posts/484935",
-          "publishedOn": "2025-07-25T09:46:35.000Z",
-          "wordCount": 612,
-          "title": "香港OSL Group、株式で3億ドルの資金調達",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/25184627/311a6fcd0e89140f181a839a846dcc4c.jpg"
         }
       ]
     },
@@ -1243,6 +1233,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-slides-below-117-5k-warnings-further-btc-price-drops-next",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ウォール街の取引開始後、ビットコインの値動きは弱含みに。米国の好調なマクロ経済指標にもかかわらず、市場参加者はさらなる下落に備えている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-slides-below-117-5k-warnings-further-btc-price-drops-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-29T22:14:56.000Z",
+          "wordCount": null,
+          "title": "ビットコイン、11万7,500ドルを下回る　さらなる下落警戒の声も",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODU2YzMtZDExMi03MzcwLWFhNzItZWViZTBjYzUwZDAx.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODU2YzMtZDExMi03MzcwLWFhNzItZWViZTBjYzUwZDAx.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0729",
           "author": "Cointelegraph  ビットバンク　長谷川友哉",
@@ -1899,36 +1904,6 @@
           "wordCount": 633,
           "title": "KaiaとOKXウォレットが提携、ポイント10%ブースト開始",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/GwCgDjWbcAA_bMt.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=140471",
-          "author": "よきょい",
-          "description": "7月25日、ビットコイン（BTC）の価格は115,800ドル前後で推移しており、イーサリアム（ETH）は約3,710ドル、ソラナ（SOL）は約180ドルで取引されています。世界の暗号資産時価総額は3.87兆ドルで、ビット […]\n投稿 【今日の暗号資産ニュース】ストラテジー社20億ドル相当のBTC買い増しへ、BTC需要が供給の10倍に は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-strategy-to-buy-2-billion-worth-of-btc-and-btc-demand-is-10-times-higher-than-supply/",
-          "publishedOn": "2025-07-25T10:09:46.000Z",
-          "wordCount": 586,
-          "title": "【今日の暗号資産ニュース】ストラテジー社20億ドル相当のBTC買い増しへ、BTC需要が供給の10倍に",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_2491707365.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=140381",
-          "author": "よきょい",
-          "description": "米国下院はジェフリー・エプスタイン関連ファイルの公開を巡る対立が激化したため、予定より1週間早い7月24日に休会に入りました。この決定により、暗号資産に関する新たな税制法案やブロックチェーン技術の活用を目指す法案の審議は […]\n投稿 米下院休会、暗号資産の税制改革は9月まで中断 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-us-house-of-representatives-recess-cryptocurrency-tax-reform-put-on-hold-until-september/",
-          "publishedOn": "2025-07-25T09:52:14.000Z",
-          "wordCount": 573,
-          "title": "米下院休会、暗号資産の税制改革は9月まで中断",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_2465401337-1.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=140382",
-          "author": "よきょい",
-          "description": "メディア・エンターテインメント企業のGameSquareは、NFT「Cowboy Ape CryptoPunk」を取得したと発表しました。 このNFTはDeFiプロトコルのCompound創設者であるロバート・レシュナー […]\n投稿 GameSquare社、希少NFTを株式で取得｜その狙いは？ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-gamesquare-acquires-rare-nfts-for-stock/",
-          "publishedOn": "2025-07-25T09:45:45.000Z",
-          "wordCount": 618,
-          "title": "GameSquare社、希少NFTを株式で取得｜その狙いは？",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_2386613895.jpg"
         }
       ]
     }

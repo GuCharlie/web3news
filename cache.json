@@ -1227,6 +1227,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=485402",
+          "author": "NewEconomyPodcast",
+          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/485402",
+          "publishedOn": "2025-07-29T11:39:08.000Z",
+          "wordCount": 826,
+          "title": "【7/29話題】ペイパルが米国で暗号資産決済を提供へ、メタマスクのステーブルコインアーン、PayPayポイント運用にETHなど（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/29171105/a7ab9dcd28eb2571b554261a5f1f03a2.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=485383",
           "author": "OtsugaShinya",
           "description": "グラブのフィリピンユーザーが暗号資産チャージ可能に 東南アジアの配車アプリ運営のグラブ（Grab）が、同アプリにてフィリピンユーザーが暗号資産（仮想通貨）をチャージ（Cash‑in）可能になったと7月28日に発表した。  […]",
@@ -2112,21 +2122,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjFiMGMtZGRjYi03NTlkLTg0MmItZDkyYzZlYzUzYmUw.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/finder-wins-asic-crypto-yield-case",
-          "author": "Cointelegraph  Zoltan Vardai",
-          "description": "オーストラリア連邦裁判所は、ファインダーの「Earn」商品が金融商品に該当しないとの判断を下し、ASICの控訴を退けた。これは同国フィンテック業界にとって大きな勝利となった。",
-          "link": "https://jp.cointelegraph.com/news/finder-wins-asic-crypto-yield-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-24T23:19:50.000Z",
-          "wordCount": null,
-          "title": "豪フィンテック企業ファインダー、仮想通貨利回り商品をめぐる訴訟で勝訴",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODNiOWYtY2M1NC03NzY3LTgwNmItNDM0MzJkOGRjOWY5.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODNiOWYtY2M1NC03NzY3LTgwNmItNDM0MzJkOGRjOWY5.jpg"
         }
       ]
     },

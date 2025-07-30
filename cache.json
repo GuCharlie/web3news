@@ -460,10 +460,40 @@
       "articles": []
     },
     {
-      "title": "ビットコイン送金手数料が大きく減少｜BCHの立場はどう変化するか？",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=637768",
+          "author": "Ritsuki.Kumazawa",
+          "description": "日本暗号資産ビジネス協会と日本暗号資産取引業協会が2026年度税制改正要望書を提出。暗号資産取引の税率を現行の最高55％から20％の申告分離課税への変更を要望し、取引所やウォレット、現物・デリバティブを問わずすべての暗号資産取引を一律に対象とすることを要望した。",
+          "link": "https://coinpost.jp/?p=637768",
+          "publishedOn": "2025-07-30T07:57:14.000Z",
+          "wordCount": 3250,
+          "title": "JCBAとJVCEA、暗号資産の20％申告分離課税と3年間の損失繰越控除を要望",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/10/kinyuchou1001-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/10/kinyuchou1001-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=637652",
+          "author": "K.Kobayashi",
+          "description": "ソフトバンクが出資する21キャピタルは、テザー社から仮想通貨ビットコインを約5,800BTC取得する計画。この取得が完了すればビットコインの合計保有量が4万3,500BTC超になる。",
+          "link": "https://coinpost.jp/?p=637652",
+          "publishedOn": "2025-07-30T07:48:47.000Z",
+          "wordCount": 3231,
+          "title": "21キャピタル、テザー社からビットコイン5800BTC取得へ ソフトバンクなどが出資",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/bitcoin-ab-port.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/bitcoin-ab-port.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=612324",
           "author": "CoinPost編集部",
@@ -478,6 +508,21 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/webx2025_keyvisual-.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/webx2025_keyvisual-.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=637647",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨イーサリアムの財務戦略を進めるビットマインは、最大10億ドル規模の自社株買いを承認したことを発表。イーサリアム保有量は62.5万ETHであるとも説明した。",
+          "link": "https://coinpost.jp/?p=637647",
+          "publishedOn": "2025-07-30T03:00:31.000Z",
+          "wordCount": 3228,
+          "title": "ビットマイン、最大10億ドルの自社株買いプログラム承認　イーサリアム保有量62.5万ETHに到達",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/06/ethereum_0520.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/06/ethereum_0520.jpg"
         },
         {
           "id": "https://coinpost.jp/?p=637528",
@@ -1369,6 +1414,36 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/twenty-one-capital-bitcoin-stash-bigger-expected",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "キャンター・フィッツジェラルドの支援を受けるトゥエンティワン・キャピタルが、当初発表していた以上のビットコイン（BTC）を保有するに至り、仮想通貨の蓄積競争がさらに激化している。",
+          "link": "https://jp.cointelegraph.com/news/twenty-one-capital-bitcoin-stash-bigger-expected?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-30T08:18:41.000Z",
+          "wordCount": null,
+          "title": "トゥエンティワン・キャピタルがビットコイン保有を拡大　テザーから5800BTCを取得　企業間での蓄積競争が加速",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGUyZDQtNGM3Ni03NzgzLTljZTAtOWFmNTYxOGJkZGFi.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGUyZDQtNGM3Ni03NzgzLTljZTAtOWFmNTYxOGJkZGFi.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/largest-volume-skew-for-eth-confirms-pivot-to-altcoins-glassnode",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "過去数週間、イーサリアム（ETH）への注目が一段と高まっている。時価総額で最大のアルトコインであるETHは、1か月で50％超上昇し、ビットコイン（BTC）からの資金移動が明確に進んでいることを示すデータが出てきた。",
+          "link": "https://jp.cointelegraph.com/news/largest-volume-skew-for-eth-confirms-pivot-to-altcoins-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-30T07:56:39.000Z",
+          "wordCount": null,
+          "title": "イーサリアムに資金が集中　ETH建て先物がビットコイン超え　アルトコインシーズン本格化の兆し",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODU2YjAtYjAxZC03NjI2LThmYzQtYTIxMTJmZWIzYmJj.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODU2YjAtYjAxZC03NjI2LThmYzQtYTIxMTJmZWIzYmJj.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/kraken-seeks-500m-raise-15b-valuation-the-information",
           "author": "Cointelegraph  Martin Young",
           "description": "米国の仮想通貨取引所クラーケンが、株式上場の可能性を視野に入れ、企業評価額150億ドルで5億ドル規模の資金調達を計画していると報じられている。",
@@ -1832,21 +1907,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODQwZGItYTQ5ZS03YmZmLWE1YTgtMWE4MDBlNzM0NjI5.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/robert-kiyosaki-warns-risk-paper-btc-gold-silver",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "『金持ち父さん貧乏父さん』で知られる投資家・金融教育者でもあるロバート・キヨサキ氏は、ビットコイン（BTC）や貴金属を上場投資信託（ETF）などを通じて保有することの潜在的リスクについて警告した。",
-          "link": "https://jp.cointelegraph.com/news/robert-kiyosaki-warns-risk-paper-btc-gold-silver?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-25T20:21:54.000Z",
-          "wordCount": null,
-          "title": "『金持ち父さん』のロバート・キヨサキ氏　ETFは「紙のビットコイン」と警鐘",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODQyZGQtMjU0Mi03YWJkLTgyMWItYzk4N2I0ZjIzNmM4.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODQyZGQtMjU0Mi03YWJkLTgyMWItYzk4N2I0ZjIzNmM4.jpg"
         }
       ]
     },
@@ -1855,6 +1915,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=140677",
+          "author": "よきょい",
+          "description": "アルジェリア政府はビットコイン（BTC）を含む全ての暗号資産活動を禁止し、犯罪化する広範な法改正を行いました。 新しい法律では暗号資産の取引や所有だけでなく関連するサービスの提供も禁止となり、暗号資産取引所の運営、ウォレ […]\n投稿 アルジェリア、ビットコインを含む全ての暗号資産活動を禁止 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-algeria-bans-all-cryptocurrency-activities-including-bitcoin/",
+          "publishedOn": "2025-07-30T08:15:39.000Z",
+          "wordCount": 570,
+          "title": "アルジェリア、ビットコインを含む全ての暗号資産活動を禁止",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/07/shutterstock_1936472899.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=140678",
           "author": "よきょい",

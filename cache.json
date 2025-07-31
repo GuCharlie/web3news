@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=306212",
+          "author": "Helene Braun",
+          "description": "暗号資産取引所コインベースは7月31日、予想を下回る第2四半期決算を発表し、時間外取引で株価が7%下落した。 コインベースは、第2四半期の総収益が15億ドル（約 ...\nコインベース株、期待外れの第2四半期決算を受け7%急落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/306212/",
+          "publishedOn": "2025-07-31T21:52:37.000Z",
+          "wordCount": 1358,
+          "title": "コインベース株、期待外れの第2四半期決算を受け7%急落",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/shutterstock_2569554851.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=306208",
           "author": "Krisztian Sandor",
           "description": "時価総額最大のステーブルコインUSDTを発行するテザー・インターナショナルは、第2四半期の純利益が49億ドル（約7400億円、1ドル＝151円換算）に達したと発 ...\nテザー、第2四半期に約7400億円の純利益を計上──米国事業への投資は約6000億円 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -594,6 +604,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=638459",
+          "author": "K.Kobayashi",
+          "description": "リップル社は、Swellにナスダックのアデナ・フリードマン会長兼CEOが登壇することと話すトピックを発表。今年のSwellは11月4日から5日に米ニューヨークで開催される。",
+          "link": "https://coinpost.jp/?p=638459",
+          "publishedOn": "2025-07-31T22:02:18.000Z",
+          "wordCount": 3224,
+          "title": "リップル社の年次イベント「Swell」、ナスダックCEOなどが登壇予定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103003.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103003.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=638458",
           "author": "菊谷ルイス",
@@ -1358,21 +1383,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/ethereum-code-poc.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/ethereum-code-poc.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=601235",
-          "author": "M.Somekawa",
-          "description": "Grayscaleが注目する2025年の暗号資産（仮想通貨）20銘柄を紹介。RWA・DePINなど注目テーマや投資リスクも解説。",
-          "link": "https://coinpost.jp/?p=601235",
-          "publishedOn": "2025-07-27T09:50:52.000Z",
-          "wordCount": 6949,
-          "title": "2025年注目の仮想通貨20選｜Grayscale選定の成長銘柄とテーマを解説",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/2024pickup.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/2024pickup.jpg"
         }
       ]
     },
@@ -1848,6 +1858,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/appeals-court-overturns-conviction-opensea-insider-trading-case",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "オープンシーの元従業員ネイサニエル・チャステイン氏が、有線通信詐欺とマネーロンダリングの有罪判決を不服として行った控訴で勝訴した。",
+          "link": "https://jp.cointelegraph.com/news/appeals-court-overturns-conviction-opensea-insider-trading-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-07-31T22:09:11.000Z",
+          "wordCount": null,
+          "title": "米控訴裁判所、オープンシーのインサイダー取引事件でチャステイン氏の有罪判決を破棄",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5NDE0ZjEtOWQ1My03YTNkLThkNzUtYTVjMDc3NDM4OTA5.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5NDE0ZjEtOWQ1My03YTNkLThkNzUtYTVjMDc3NDM4OTA5.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/ether-90s-tech-stock-ends-july-biggest-monthly-gain-3-years",
           "author": "Cointelegraph  Tarang Khaitan",

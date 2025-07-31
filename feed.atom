@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-31T12:35:21.568Z</updated>
+    <updated>2025-07-31T13:35:48.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【7/31話題】トランプ政権が暗号資産の包括規制を議会に要請、JVCEAとJCBAが金融庁に要望書提出など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=485819</id>
+        <link href="https://www.neweconomy.jp/posts/485819"/>
+        <updated>2025-07-31T13:19:29.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ストラテジー株は4月以来最も強い下落リスクを示唆]]></title>
         <id>https://www.coindeskjapan.com/?p=306172</id>
@@ -2584,16 +2594,6 @@ Zircuit、超高速クロスチェーン取引を実現するAIトレーディ�
         <summary type="html"><![CDATA[今週は、サトシ・ナカモトのものとされるビットコイン保有資産、日本ブロックチェーン協会のアンケート結果公表、トランプ政権の仮想通貨政策報告書公表計画に関するニュースが最も関心を集めた。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「熱狂的な強気相場」と「壊滅的な弱気市場」は過去のものに　ビットコインETFの影響で市場構造が恒久的に変化]]></title>
-        <id>https://jp.cointelegraph.com/news/parabolic-btc-bull-markets-devastating-bear-markets-over</id>
-        <link href="https://jp.cointelegraph.com/news/parabolic-btc-bull-markets-devastating-bear-markets-over?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-07-27T00:43:29.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は今後、「パラボリック（放物線的）」な価格急騰や「壊滅的」な弱気市場を経験しなくなるだろう ── その理由は、米国で上場されたビットコイン上場投資信託（ETF）がボラティリティを恒久的に抑制し、市場の構造自体を変えてしまったからだ。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
         </author>
     </entry>
 </feed>

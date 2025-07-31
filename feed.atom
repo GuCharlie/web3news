@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-31T01:24:09.776Z</updated>
+    <updated>2025-07-31T03:17:55.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WebX 2025で体現する、コンビニ感覚のWeb3｜WebXスポンサーインタビュー]]></title>
+        <id>https://coinpost.jp/?p=622580</id>
+        <link href="https://coinpost.jp/?p=622580"/>
+        <updated>2025-07-31T03:00:32.000Z</updated>
+        <summary type="html"><![CDATA[大規模カンファレンス「WebX 2025」のプラチナスポンサーとしてブース出展を決めた、創業10年のZaif、大島卓也社長が語る次世代戦略。「暗号資産で資産形成ならZaif」をコンセプトに、初心者からシニアまで幅広い層を支援する戦略を聞く]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FOMC金利据え置き、ビットコイン市場は方向感失う]]></title>
+        <id>https://coinpost.jp/?p=638068</id>
+        <link href="https://coinpost.jp/?p=638068"/>
+        <updated>2025-07-31T02:58:01.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）市場はFRBパウエル議長が9月利下げに慎重姿勢を示し一時急落する場面も。コインベース・プレミアム指数がマイナス圏に転落する中、ビットコインは強気のペナントパターン形成により143,550ドルへの上昇期待も浮上する。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム　1万6000ドルへの上昇なるか　チャートと資金流入が示す次の展開]]></title>
+        <id>https://jp.cointelegraph.com/news/why-some-ethereum-traders-expect-eth-price-to-hit-16k-this-cycle</id>
+        <link href="https://jp.cointelegraph.com/news/why-some-ethereum-traders-expect-eth-price-to-hit-16k-this-cycle?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-07-31T02:37:12.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム（ETH）は現在、2021年11月に記録した過去最高値5000ドルから約23％下落した水準で推移しており、4000ドルが主要なレジスタンスとして立ちはだかっている。]]></summary>
+        <author>
+            <name>Cointelegraph  Nancy Lubale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ナスダック上場予定のThe Ether Machine、85億円でイーサリアム追加購入]]></title>
+        <id>https://coinpost.jp/?p=638169</id>
+        <link href="https://coinpost.jp/?p=638169"/>
+        <updated>2025-07-31T02:35:52.000Z</updated>
+        <summary type="html"><![CDATA[ナスダック上場予定のジ・イーサ・マシンがイーサリアム10周年記念に際し1万5000ETHの大規模購入を実行。保有総数33万4757ETHに拡大。4億ドルの追加購入余力が残る。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨ZORAが過去2週間で5倍超高騰　コインベース「Base App」への統合が要因か]]></title>
+        <id>https://coinpost.jp/?p=638071</id>
+        <link href="https://coinpost.jp/?p=638071"/>
+        <updated>2025-07-31T02:10:20.000Z</updated>
+        <summary type="html"><![CDATA[トークン発行プロトコルの仮想通貨ZORAの価格が7月20日以降高騰。背景には、コインベースが2週間前に行った次世代アプリBase Appの発表があるとの見方が多い。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XRPがパフォーマンスで苦戦　創業者の大量送金と利益確定売りが重荷に]]></title>
+        <id>https://jp.cointelegraph.com/news/3-price-at-risk-why-xrp-was-one-of-the-worst-peformers-this-week</id>
+        <link href="https://jp.cointelegraph.com/news/3-price-at-risk-why-xrp-was-one-of-the-worst-peformers-this-week?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-07-31T02:06:08.000Z</updated>
+        <summary type="html"><![CDATA[この1週間、XRP（XRP）は主要仮想通貨の中で最もパフォーマンスが悪かった銘柄のひとつとなった。過去7日間で最大13.50％下落し、同期間のビットコイン（BTC）の2.25％減、イーサリアム（ETH）の0.50％減と比べても際立った下落ぶりとなっている。]]></summary>
+        <author>
+            <name>Cointelegraph  Yashu Gola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[環境フレンドリーHD、太陽光発電活用でビットコインマイニング事業開始]]></title>
+        <id>https://coinpost.jp/?p=638070</id>
+        <link href="https://coinpost.jp/?p=638070"/>
+        <updated>2025-07-31T01:45:02.000Z</updated>
+        <summary type="html"><![CDATA[東証上場環境フレンドリーホールディングスが太陽光発電所にBESS併設してビットコインマイニング事業開始を決議。系統連系待機期間活用の新収益モデルを構築へ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ政権　仮想通貨規制の包括的報告書を公表　ステーブルコインや税制、銀行規制にも提言]]></title>
+        <id>https://jp.cointelegraph.com/news/trump-admin-releases-promised-crypto-report</id>
+        <link href="https://jp.cointelegraph.com/news/trump-admin-releases-promised-crypto-report?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-07-31T01:35:19.000Z</updated>
+        <summary type="html"><![CDATA[米トランプ政権の「デジタル資産に関する作業部会」は、かねてより予告されていた仮想通貨に関する包括的な政策提言レポートを公表した。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロビンフッド4～6月期決算発表　仮想通貨売上高98%増で240億円達成]]></title>
         <id>https://coinpost.jp/?p=638052</id>

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=306401",
+          "author": "林 理南",
+          "description": "ビットコイン（BTC）マイナーは7月も収益性が高く、半減期以来の最高水準となった。ウォール街の銀行であるJPモルガン（JPMorgan）が1日の調査レポートで指 ...\nビットコインマイニングの収益性、7月は半減期以来の最高水準を記録：JPモルガン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/306401/",
+          "publishedOn": "2025-08-01T21:00:00.000Z",
+          "wordCount": 1326,
+          "title": "ビットコインマイニングの収益性、7月は半減期以来の最高水準を記録：JPモルガン",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/e7982f2cd16aaa896fdd1b231cf766d18f1f1cc2-1440x1080-4.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=306387",
           "author": "林 理南",
           "description": "アメリカの雇用市場の成長は、先月だけでなく、5月と6月にも大きく鈍化している。このことは、FRB（米連邦準備制度理事会）による利下げを求める声をさらに強める可能 ...\n7月米雇用統計、雇用者数はわずか7万3000人増──失業率は4.2%に上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -640,16 +650,6 @@
           "wordCount": 1354,
           "title": "コインベース、自社ウォレットを「Base App」にリブランド──無名トークンが440%急騰",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/868ae20c7c05b3aab1825f55f45b74a9484fd851-1920x1280-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=305486",
-          "author": "栃山直樹",
-          "description": "キャッシュレス決済サービスPayPayアプリが、ポイント運用サービスに「イーサリアムコース」を追加した。PayPay証券の子会社であるPPSCインベストメントサ ...\nPayPayポイント運用、新たに「イーサリアムコース」追加──高騰ETHに疑似投資 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/305486/",
-          "publishedOn": "2025-07-28T08:53:00.000Z",
-          "wordCount": 1289,
-          "title": "PayPayポイント運用、新たに「イーサリアムコース」追加──高騰ETHに疑似投資",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/ダウンロード-75.jpeg"
         }
       ]
     },
@@ -664,6 +664,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=638888",
+          "author": "菊谷ルイス",
+          "description": "世界最大のビットコイン保有企業ストラテジーの第2四半期決算を受け、ベンチマークとキャンター・フィッツジェラルドが目標株価を上方修正。新優先株STRCを「iPhoneモーメント」と評価し長期成長を予想。",
+          "link": "https://coinpost.jp/?p=638888",
+          "publishedOn": "2025-08-01T21:00:38.000Z",
+          "wordCount": 3209,
+          "title": "ストラテジーの「iPhoneモーメント」か、アナリストが目標株価を大幅引き上げ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/strategy-new-bitcoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/strategy-new-bitcoin.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=637701",
           "author": "CoinPost編集部",
@@ -2025,16 +2040,6 @@
           "wordCount": 605,
           "title": "PayPayポイント運用に「イーサリアムコース」追加、ETH運用の疑似体験が可能に",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/28194935/PAYPAY-ETH250728PIXTA.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=485195",
-          "author": "TamuraSeiji",
-          "description": "ソラナが2027年ロードマップを発表 ソラナ（Solana）の開発を担うソラナラボ（Solana Labs）とアンザ（Anza）などの主要開発チームが、2027年までにソラナをインターネット資本市場（ICM：Intern […]",
-          "link": "https://www.neweconomy.jp/posts/485195",
-          "publishedOn": "2025-07-28T09:12:17.000Z",
-          "wordCount": 614,
-          "title": "ソラナの2027年ロードマップが公開、インターネット資本市場の基盤構築目指す",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/28181209/23775fe11f643ada3304f69f62f4c560.jpg"
         }
       ]
     },
@@ -2043,6 +2048,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/uk-regulator-lifts-ban-on-crypto-etns-by-retail-investors",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "英国の金融行動規制機構（FCA）は、個人投資家による仮想通貨上場投資証券（cETN）へのアクセス制限を解除すると発表した。",
+          "link": "https://jp.cointelegraph.com/news/uk-regulator-lifts-ban-on-crypto-etns-by-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-01T21:00:00.000Z",
+          "wordCount": null,
+          "title": "英国　個人投資家向け仮想通貨ETNの提供を解禁へ　10月から有効に",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODY1YjYtOWY5My03NWU0LWFiN2UtMmVhMDM5YzQ4YTlk.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODY1YjYtOWY5My03NWU0LWFiN2UtMmVhMDM5YzQ4YTlk.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/spot-ether-etfs-record-5-43b-inflows-july-2025",
           "author": "Cointelegraph  Ezra Reguerra",

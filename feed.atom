@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-01T10:18:56.133Z</updated>
+    <updated>2025-08-01T10:48:30.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは関税懸念で急落　11万4000ドルのCMEギャップを埋めるも市場は神経質に]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-fills-july-cme-gap-to-the-dollar-104k-btc-price-target</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-fills-july-cme-gap-to-the-dollar-104k-btc-price-target?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-01T10:22:37.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は8月1日、米国の貿易関税への懸念から投資家心理が悪化し、直近3週間での最安値を記録した。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トレーダーはイーサリアムを見限った？──オプション市場では、ETHの下落リスクはBTCよりも高い]]></title>
         <id>https://www.coindeskjapan.com/?p=306316</id>
@@ -3176,26 +3186,6 @@ Zircuit、超高速クロスチェーン取引を実現するAIトレーディ�
         <summary type="html"><![CDATA[GENIUS法によって米国はステーブルコイン規制における国際的合意に近づき、現実世界でのユースケース実現への道が開かれると、シグナムのファビアン・ドリ氏は述べた。]]></summary>
         <author>
             <name>Cointelegraph  Amin Haqshanas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワールドIDを活用し、ディバイン・リサーチが無担保の仮想通貨ローンを提供]]></title>
-        <id>https://jp.cointelegraph.com/news/divine-research-issues-30000-unbacked-crypto-loans-world-id</id>
-        <link href="https://jp.cointelegraph.com/news/divine-research-issues-30000-unbacked-crypto-loans-world-id?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-07-27T22:38:16.000Z</updated>
-        <summary type="html"><![CDATA[ディバイン・リサーチは、サム・アルトマン氏が関与する認証プラットフォーム「ワールドID」を用いて借り手を認証し、3万件の無担保USDCローンを提供。金融サービスの届きにくいユーザーを対象とする。]]></summary>
-        <author>
-            <name>Cointelegraph  Amin Haqshanas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン12万ドル間近　アナリストは「さらなる価格変動」を予測]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-nears-120k-as-analysis-predicts-larger-price-swings-next</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-nears-120k-as-analysis-predicts-larger-price-swings-next?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-07-27T22:20:23.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインは日曜日の週足終値に向けて突如ボラティリティを高めた。清算の節目が注目される中、今後さらに大きな価格変動が予想されている。]]></summary>
-        <author>
-            <name>Cointelegraph  William Suberg</name>
         </author>
     </entry>
 </feed>

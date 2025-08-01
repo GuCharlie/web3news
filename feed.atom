@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-01T15:18:23.229Z</updated>
+    <updated>2025-08-01T15:44:33.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン　11万6000ドルで反落　米雇用統計で利下げ期待が再燃も]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-rejects-116k-us-jobs-win-fed-rate-cut-bets-pass-75</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-rejects-116k-us-jobs-win-fed-rate-cut-bets-pass-75?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-01T15:41:27.000Z</updated>
+        <summary type="html"><![CDATA[米国の貿易関税をめぐる懸念が相場を押し下げる中、金曜日のウォール街オープンと同時に、ビットコイン（BTC）は11万6000ドル付近まで反落した。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[教育支援からまちづくりまで──島根発、デジタル公共財とメタバースが描く新しい地域のカタチ【セミナー現地レポート】]]></title>
         <id>https://www.coindeskjapan.com/?p=306268</id>
@@ -3135,39 +3145,6 @@ Zircuit、超高速クロスチェーン取引を実現するAIトレーディ�
         <summary type="html"><![CDATA[メタプラのビットコイン総保有数が17,132BTCに ビットコイン（BTC）の購入を積極的に進めている東証スタンダード上場企業メタプラネットが、ビットコインの追加購入実施を7月28日に発表した。 今回メタプラネットが追加 […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[家も車も暗号資産に？あなたの財産を守るブロックチェーン経済圏とは]]></title>
-        <id>https://crypto-times.jp/?p=140548</id>
-        <link href="https://crypto-times.jp/news-will-your-house-and-car-be-converted-into-crypto-assets-what-is-the-blockchain-economy-that-protects-your-assets/"/>
-        <updated>2025-07-28T03:44:12.000Z</updated>
-        <summary type="html"><![CDATA[『The Network State』の著者バラジ・スリニヴァサン氏は「全ての財産は暗号資産になる」と提唱しました。 All property becomes cryptography. Let me explain w […]
-投稿 家も車も暗号資産に？あなたの財産を守るブロックチェーン経済圏とは は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MEXC、ソラナエコシステム月間イベントを開催：$100万の賞金プール]]></title>
-        <id>https://crypto-times.jp/?p=140588</id>
-        <link href="https://crypto-times.jp/press-mexc-solana-1m/"/>
-        <updated>2025-07-28T03:40:07.000Z</updated>
-        <summary type="html"><![CDATA[Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 ビクトリア、セーシェル、2025/7/21 – 世界有数の暗号資産取引 […]
-投稿 MEXC、ソラナエコシステム月間イベントを開催：$100万の賞金プール は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アルトコインシーズン到来か、次に注目したい仮想通貨5つを紹介]]></title>
-        <id>https://crypto-times.jp/?p=140589</id>
-        <link href="https://crypto-times.jp/press-five-memecoins/"/>
-        <updated>2025-07-28T03:31:19.000Z</updated>
-        <summary type="html"><![CDATA[Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 仮想通貨市場において、「アルトコインシーズン」という言葉を耳にする機会 […]
-投稿 アルトコインシーズン到来か、次に注目したい仮想通貨5つを紹介 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
 </feed>

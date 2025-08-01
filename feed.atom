@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-01T17:45:15.043Z</updated>
+    <updated>2025-08-01T18:24:23.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コインベースやマイニング企業など…仮想通貨関連株が急落　米経済指標の不調と関税リスクが影響]]></title>
+        <id>https://jp.cointelegraph.com/news/crypto-stocks-tumble-alongside-btc-equities-as-tariff-fears-resurface</id>
+        <link href="https://jp.cointelegraph.com/news/crypto-stocks-tumble-alongside-btc-equities-as-tariff-fears-resurface?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-01T17:52:44.000Z</updated>
+        <summary type="html"><![CDATA[経済指標の悪化と米国政府による関税の脅威が再浮上したことを受け、米国株式市場で、仮想通貨関連企業の株価が金曜日に大きく下落した。]]></summary>
+        <author>
+            <name>Cointelegraph  Sam Bourgi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7月米雇用統計、雇用者数はわずか7万3000人増──失業率は4.2%に上昇]]></title>
         <id>https://www.coindeskjapan.com/?p=306387</id>
@@ -2975,27 +2985,6 @@ BTCは12万ドル、ETHは4000ドルに迫る──米・EU関税合意でリス
         <summary type="html"><![CDATA[NERO Chainが独自トークン「NERO」をローンチし、Bitget、Gate、MEXCの仮想通貨取引所への上場を発表した。NERO Chainは開発者に手数料収益を分配する新たなブロックチェーンモデルとして注目されている。]]></summary>
         <author>
             <name>Ritsuki.Kumazawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨ZORAが1ヶ月で10倍｜新たな市場の誕生なるか]]></title>
-        <id>https://crypto-times.jp/?p=140597</id>
-        <link href="https://crypto-times.jp/news-zora-1000/"/>
-        <updated>2025-07-28T05:59:18.000Z</updated>
-        <summary type="html"><![CDATA[クリエイターエコノミーに関連する仮想通貨「$ZORA」が驚異的な上昇を見せており市場の注目を集めています。$ZORAは記事執筆時過去24時間で25%の急騰、さらに過去1ヶ月間では実に1000%という大幅な上昇を記録してい […]
-投稿 仮想通貨ZORAが1ヶ月で10倍｜新たな市場の誕生なるか は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[環境フレンドリーHD、ビットコインのマイニング事業展開へ、国内取引所で売却や運用も]]></title>
-        <id>https://www.neweconomy.jp/?p=485147</id>
-        <link href="https://www.neweconomy.jp/posts/485147"/>
-        <updated>2025-07-28T05:57:32.000Z</updated>
-        <summary type="html"><![CDATA[環境フレンドリーHDがマイニング事業展開へ 資源エネルギーや環境に関する事業を展開する東証グロース上場企業の環境フレンドリーホールディングスが、新事業としてグリーンコイン・マイニング事業を開始すると7月28日に発表した。 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>

@@ -1622,6 +1622,26 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=486071",
+          "author": "OtsugaShinya",
+          "description": "ネイティブUSDCがハイリキに対応へ 米サークル（Circle Internet Financial）発行の米ドル建てステーブルコイン「USDC」のネイティブ型トークンが、「ハイパーリキッド（Hyperliquid）」へ […]",
+          "link": "https://www.neweconomy.jp/posts/486071",
+          "publishedOn": "2025-08-01T07:27:32.000Z",
+          "wordCount": 690,
+          "title": "米サークル「USDC」、Hyperliquidにネイティブ対応へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/01162711/USDC-250801Vit_Mar.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=486069",
+          "author": "gentosha_takahashi",
+          "description": "ドイツ初のBaFin認可ユーロ建てステーブルコイン 資産運用会社のDWS、マーケットメイカーのフロートレーダーズ（Flow Traders）、デジタル資産企業のギャラクシー（Galaxy Digital）の3社によるジョ […]",
+          "link": "https://www.neweconomy.jp/posts/486069",
+          "publishedOn": "2025-08-01T07:27:31.000Z",
+          "wordCount": 613,
+          "title": "ギャラクシーらのジョイントベンチャー「AllUnity」、ドイツ初のBaFin認可ユーロ建てステーブルコイン「EURAU」ローンチ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/01162717/cdf743ab1cdbfde48bd0d5a407f81cd7.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=486058",
           "author": "OtsugaShinya",
           "description": "コンヴァノが約15億円でビットコイン購入 ネイルサロン「FASTNAIL」運営の東証グロース上場企業コンヴァノが、ビットコインの購入実施を7月31日に発表した。 同社は14億9,999万9,982円にて、85.0035B […]",
@@ -2158,6 +2178,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/tether-posts-49b-profit-q2-stablecoins-mainstream",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "テザーは、米国で仮想通貨規制が明確化する中、ステーブルコインの需要が拡大していることを背景に、好調な四半期決算を発表した。2025年第2四半期の利益は49億ドルで、前年同期比277％の増加となった。",
+          "link": "https://jp.cointelegraph.com/news/tether-posts-49b-profit-q2-stablecoins-mainstream?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-01T07:02:32.000Z",
+          "wordCount": null,
+          "title": "テザー　2025年第2四半期に49億ドルの利益　米国の規制明確化でステーブルコイン需要が拡大",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODYxN2EtMDg3MC03Njg2LWIyZDgtYzc2OGZlZTk4OTgx.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODYxN2EtMDg3MC03Njg2LWIyZDgtYzc2OGZlZTk4OTgx.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/white-house-crypto-report-bitcoin-reserve",
           "author": "Cointelegraph  Aaron Wood",

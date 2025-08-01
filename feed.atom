@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-01T10:48:30.781Z</updated>
+    <updated>2025-08-01T11:15:03.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムのジャスティン・ドレイク氏、量子コンピューターの脅威を阻止するためのロードマップを発表]]></title>
+        <id>https://www.coindeskjapan.com/?p=306334</id>
+        <link href="https://www.coindeskjapan.com/306334/"/>
+        <updated>2025-08-01T11:10:00.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム財団（Ethereum Foundation）の研究員であるジャスティン・ドレイク（Justin Drake）氏がネットワークの長期的な開発に向けた ...
+イーサリアムのジャスティン・ドレイク氏、量子コンピューターの脅威を阻止するためのロードマップを発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Margaux Nijkerk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインは関税懸念で急落　11万4000ドルのCMEギャップを埋めるも市場は神経質に]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-fills-july-cme-gap-to-the-dollar-104k-btc-price-target</id>
@@ -3176,16 +3187,6 @@ Zircuit、超高速クロスチェーン取引を実現するAIトレーディ�
         <summary type="html"><![CDATA[ビットワイズ・インベストの幹部は「間違っているかもしれない」としながらも、2025年がビットコインの上昇局面の終わりとは見ていない。]]></summary>
         <author>
             <name>Cointelegraph  Ciaran Lyons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GENIUS法が「キラーアプリ」と新たな決済サービスの波を引き起こすとシグナムが指摘]]></title>
-        <id>https://jp.cointelegraph.com/news/genius-act-stablecoin-shift-payment-utility</id>
-        <link href="https://jp.cointelegraph.com/news/genius-act-stablecoin-shift-payment-utility?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-07-27T22:50:05.000Z</updated>
-        <summary type="html"><![CDATA[GENIUS法によって米国はステーブルコイン規制における国際的合意に近づき、現実世界でのユースケース実現への道が開かれると、シグナムのファビアン・ドリ氏は述べた。]]></summary>
-        <author>
-            <name>Cointelegraph  Amin Haqshanas</name>
         </author>
     </entry>
 </feed>

@@ -1667,6 +1667,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=486086",
+          "author": "NewEconomyPodcast",
+          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/486086",
+          "publishedOn": "2025-08-01T11:37:12.000Z",
+          "wordCount": 809,
+          "title": "【8/1話題】米SECが「プロジェクト・クリプト」開始、ストラテジーの2025年Q2純利益は約10Bドルになど（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/01165440/d87eb5d4de8f3b4d51d9ae33ff52ecf3.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=486071",
           "author": "OtsugaShinya",
           "description": "ネイティブUSDCがハイリキに対応へ 米サークル（Circle Internet Financial）発行の米ドル建てステーブルコイン「USDC」のネイティブ型トークンが、「ハイパーリキッド（Hyperliquid）」へ […]",
@@ -3047,21 +3057,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-upside-2026-four-year-cycle-dead-bitwise-invest-cio",
-          "author": "Cointelegraph  Ciaran Lyons",
-          "description": "ビットワイズ・インベストの幹部は「間違っているかもしれない」としながらも、2025年がビットコインの上昇局面の終わりとは見ていない。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-upside-2026-four-year-cycle-dead-bitwise-invest-cio?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-27T23:35:39.000Z",
-          "wordCount": null,
-          "title": "ビットコインが上昇するのは2026年、4年周期は終焉＝ビットワイズ幹部",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODQ5OTUtYTI2YS03ZWY1LTgyMmItOTNmZDFiOWNmYWM1.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODQ5OTUtYTI2YS03ZWY1LTgyMmItOTNmZDFiOWNmYWM1.jpg"
         }
       ]
     },

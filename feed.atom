@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-01T11:15:03.815Z</updated>
+    <updated>2025-08-01T11:39:38.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【8/1話題】米SECが「プロジェクト・クリプト」開始、ストラテジーの2025年Q2純利益は約10Bドルになど（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=486086</id>
+        <link href="https://www.neweconomy.jp/posts/486086"/>
+        <updated>2025-08-01T11:37:12.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアムのジャスティン・ドレイク氏、量子コンピューターの脅威を阻止するためのロードマップを発表]]></title>
         <id>https://www.coindeskjapan.com/?p=306334</id>
@@ -3177,16 +3187,6 @@ Zircuit、超高速クロスチェーン取引を実現するAIトレーディ�
         <summary type="html"><![CDATA[米仮想通貨取引所コインベースがユーザーミスなどにより5,070億円相当のイーサリアムが永久に失われていると分析した。流通供給量の0.76%に相当する量だ。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインが上昇するのは2026年、4年周期は終焉＝ビットワイズ幹部]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-upside-2026-four-year-cycle-dead-bitwise-invest-cio</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-upside-2026-four-year-cycle-dead-bitwise-invest-cio?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-07-27T23:35:39.000Z</updated>
-        <summary type="html"><![CDATA[ビットワイズ・インベストの幹部は「間違っているかもしれない」としながらも、2025年がビットコインの上昇局面の終わりとは見ていない。]]></summary>
-        <author>
-            <name>Cointelegraph  Ciaran Lyons</name>
         </author>
     </entry>
 </feed>

@@ -440,16 +440,6 @@
           "wordCount": 1327,
           "title": "ビットコインは11万8000ドル割れ、ドルインデックスは5週間ぶりの高値──米GDPは第2四半期に3%成長",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/f2e16f6f36ec6db779ac152cbb276564d7f05c43-1420x799-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=305930",
-          "author": "Omkar Godbole",
-          "description": "アメリカの暗号資産（仮想通貨）取引所クラーケン（Kraken）に上場されているエックス・アール・ピー（XRP）の永久先物の人気が、初めてソラナ（SOL）を上回っ ...\nクラーケンのXRP先物取引高が初めてSOLを上回る──価格も記録的な急上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/305930/",
-          "publishedOn": "2025-07-30T10:45:00.000Z",
-          "wordCount": 1344,
-          "title": "クラーケンのXRP先物取引高が初めてSOLを上回る──価格も記録的な急上昇",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/shutterstock_2236802793.jpg"
         }
       ]
     },
@@ -1177,6 +1167,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=486199",
+          "author": "HitomotoToshikazu",
+          "description": "テザーが利益を再投資に活用 テザー（Tether）社の2025年第2四半期（6月30日時点）の純利益が49億ドル（約7,378億円）となり、上半期合計では57億ドル（約8,583億円）に達したとのこと。テザー社が財務情報 […]",
+          "link": "https://www.neweconomy.jp/posts/486199",
+          "publishedOn": "2025-08-03T22:52:47.000Z",
+          "wordCount": 612,
+          "title": "テザー、Q2純利益は過去最高49億ドル、米国債保有額1,270億ドル超に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/04075105/1caa23be631923a6d7d7ce5267add553.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=486086",
           "author": "NewEconomyPodcast",
           "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
@@ -1413,6 +1413,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-dip-making-perfect-bottom-says-analyst-will-btc-rally-to-148k",
+          "author": "Cointelegraph  Yashu Gola",
+          "description": "BTC価格は、過去に25％の反発を引き起こした重要サポートを再び試しており、新たな史上最高値に向けた動きが再現される可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-dip-making-perfect-bottom-says-analyst-will-btc-rally-to-148k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-03T22:55:42.000Z",
+          "wordCount": null,
+          "title": "アナリスト「ビットコインは理想的な底形成」　BTCは14万8,000ドルへ上昇か",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjExYmUtNmUxYy03MzZjLTg2YTAtYmY1MjgzZTU1YzE3.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjExYmUtNmUxYy03MzZjLTg2YTAtYmY1MjgzZTU1YzE3.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/iconic-satoshi-nakamoto-statue-recovered-lugano",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "ビットコインの匿名創設者サトシ・ナカモトを象った象徴的な像は、世界的なビットコイン運動の象徴として広く知られている。",
+          "link": "https://jp.cointelegraph.com/news/iconic-satoshi-nakamoto-statue-recovered-lugano?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-03T22:45:28.000Z",
+          "wordCount": null,
+          "title": "ルガーノ市、盗まれていたサトシ・ナカモト像を回収",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjY5ODUtZDM2My03ODY4LWE2NTEtN2Y1N2E3MzIxZmY2.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjY5ODUtZDM2My03ODY4LWE2NTEtN2Y1N2E3MzIxZmY2.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/citigroup-jpmorgan-goldman-lead-blockchain-investment-ripple",
           "author": "Cointelegraph  Amin Haqshanas",
@@ -2072,21 +2102,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODVjMDgtYWM1My03ZjBiLTg5NmUtNTk1MTIwNTIwYTE0.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/altseason-signals-grow-as-regulatory-clarity-and-liquidity-surge",
-          "author": "Cointelegraph  Amin Haqshanas",
-          "description": "仮想通貨市場において、長らく待望されていたアルトコインへの資金回帰が本格化しつつある可能性がある。",
-          "link": "https://jp.cointelegraph.com/news/altseason-signals-grow-as-regulatory-clarity-and-liquidity-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-30T10:50:57.000Z",
-          "wordCount": null,
-          "title": "アルトシーズン到来か　規制明確化と資金流入でETHとDeFiに追い風＝シグナムがレポート",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzkyZjgtYWZkMi03MWJiLWEwMmEtOTEzMGNjYmY2NDQ2.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzkyZjgtYWZkMi03MWJiLWEwMmEtOTEzMGNjYmY2NDQ2.jpg"
         }
       ]
     },

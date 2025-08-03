@@ -1405,16 +1405,6 @@
           "wordCount": 777,
           "title": "トランプ政権、暗号資産の包括規制を議会に要請、取引所カストディ解禁とDeFi公認を提言",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/31122635/861ceca3d095a8dd8bdfee4b0d7563d8.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=485633",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/485633",
-          "publishedOn": "2025-07-30T10:24:39.000Z",
-          "wordCount": 796,
-          "title": "【7/30話題】米SECがBTCとETHのETF現物償還を承認、香港でステーブルコイン規制8/1施行へなど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/30192357/6e01ef978b1c62e3d1decca5f5286ae9.jpg"
         }
       ]
     },
@@ -1423,6 +1413,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/citigroup-jpmorgan-goldman-lead-blockchain-investment-ripple",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "2020〜2024年に伝統金融大手はブロックチェーン分野で345件の投資を実施。G-SIBはトークン化、カストディ、決済で100件超の取引を主導。",
+          "link": "https://jp.cointelegraph.com/news/citigroup-jpmorgan-goldman-lead-blockchain-investment-ripple?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-03T22:24:37.000Z",
+          "wordCount": null,
+          "title": "シティグループ、JPモルガン、ゴールドマンが牽引　伝統金融のブロックチェーン進出＝リップル",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODcwMWMtYjBjMS03MTJiLTgxYTAtMjU3MzgyM2IyNGE1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODcwMWMtYjBjMS03MTJiLTgxYTAtMjU3MzgyM2IyNGE1.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/arthur-hayes-says-bitcoin-may-fall-amid-macro-concerns",
+          "author": "Cointelegraph  Brayden Lindrea",
+          "description": "関税引き上げ懸念、信用市場の低迷、雇用創出の鈍化を背景に、ビットコインとイーサはそれぞれ10万ドルと3,000ドル近辺まで下落する可能性があるとアーサー・ヘイズ氏が指摘した。",
+          "link": "https://jp.cointelegraph.com/news/arthur-hayes-says-bitcoin-may-fall-amid-macro-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-03T22:13:32.000Z",
+          "wordCount": null,
+          "title": "弱気姿勢のアーサー・ヘイズ氏、ビットコインは10万ドルまで反落の可能性を指摘",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmQzYzQtNGE1Ny03ZjQxLWIzNTYtMmQ3NzQ2OGE0ZTc1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmQzYzQtNGE1Ny03ZjQxLWIzNTYtMmQ3NzQ2OGE0ZTc1.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/genius-new-stablecoin-rules-remains-vague-foreign-issuers",
           "author": "Cointelegraph  Andrew Singer",

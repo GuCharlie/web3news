@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-04T22:17:29.575Z</updated>
+    <updated>2025-08-04T22:46:02.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金持ち父さん著者キヨサキ、『ビットコインの8月の呪い』を指摘]]></title>
+        <id>https://coinpost.jp/?p=639454</id>
+        <link href="https://coinpost.jp/?p=639454"/>
+        <updated>2025-08-04T22:40:03.000Z</updated>
+        <summary type="html"><![CDATA[金持ち父さん著者ロバート・キヨサキ氏は、仮想通貨ビットコインの価格が8月に暴落する可能性を指摘。暴落の本当の原因はビットコインにはないと主張している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ・メディア、SEC書類でTruthトークンとウォレット計画明かす]]></title>
+        <id>https://coinpost.jp/?p=639453</id>
+        <link href="https://coinpost.jp/?p=639453"/>
+        <updated>2025-08-04T22:25:26.000Z</updated>
+        <summary type="html"><![CDATA[トランプメディアがSEC提出書類でTruthブランドの仮想通貨トークンとデジタルウォレットの開発計画を正式に明記。Truth+サブスクリプション決済から開始予定。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コインベース、英国でのロビー活動を強化　辛辣な寄稿文を発表]]></title>
         <id>https://jp.cointelegraph.com/news/coinbase-lobbying-uk-op-ed-george-osborne</id>
@@ -1699,17 +1719,6 @@ Wi-FiルーターだけでソラナのDePINプロジェクトに参加できる�
         <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ストラテジー株は4月以来最も強い下落リスクを示唆]]></title>
-        <id>https://www.coindeskjapan.com/?p=306172</id>
-        <link href="https://www.coindeskjapan.com/306172/"/>
-        <updated>2025-07-31T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ナスダック上場のストラテジー（Strategy）の株価が下落を続ける中、ビットコイン（BTC）保有企業である同社の株価下落リスク回避への需要は数カ月ぶりの高水準 ...
-ストラテジー株は4月以来最も強い下落リスクを示唆 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>

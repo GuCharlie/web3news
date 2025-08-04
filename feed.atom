@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-04T20:44:56.657Z</updated>
+    <updated>2025-08-04T21:17:00.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バーブ、820億円調達で上場企業初のTON戦略へ転換]]></title>
+        <id>https://coinpost.jp/?p=639442</id>
+        <link href="https://coinpost.jp/?p=639442"/>
+        <updated>2025-08-04T20:55:06.000Z</updated>
+        <summary type="html"><![CDATA[ナスダック上場のバーブ・テクノロジーが約5.6億ドルを調達し、仮想通貨トンコイン（TON）財庫戦略で世界初の上場企業へ転換。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米ビットマイン、イーサリアム保有額4500億円超]]></title>
+        <id>https://coinpost.jp/?p=639440</id>
+        <link href="https://coinpost.jp/?p=639440"/>
+        <updated>2025-08-04T20:40:51.000Z</updated>
+        <summary type="html"><![CDATA[米上場企業ビットマインが83万3137ETH（29億ドル相当）保有で世界最大のイーサリアム企業財庫に。35日間でゼロから急拡大、著名投資家ビル・ミラー3世も投資参加。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FedEx、JPモルガンのブロックチェーン決済基盤「Kinexys」導入]]></title>
         <id>https://www.neweconomy.jp/?p=486442</id>
@@ -1670,36 +1690,6 @@ Wi-FiルーターだけでソラナのDePINプロジェクトに参加できる�
         <summary type="html"><![CDATA[イーサリアム（ETH）は7月、56％の上昇を記録し、過去3年間で最も好調な月間リターンとなった。あるアナリストはこの動きを「90年代のテック株」にたとえ、ETFへの強い資金流入が背景にあると指摘した。]]></summary>
         <author>
             <name>Cointelegraph  Tarang Khaitan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCはFOMCで下げるも仮想通貨レポートで反発　下降チャネルのブレイク窺う【ビットバンク仮想通貨分析】]]></title>
-        <id>https://jp.cointelegraph.com/news/bitbank-bitcoin-daily-analysis-31th-july-2025</id>
-        <link href="https://jp.cointelegraph.com/news/bitbank-bitcoin-daily-analysis-31th-july-2025?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-07-31T09:00:36.000Z</updated>
-        <summary type="html"><![CDATA[FOMCは5会合連続の政策金利据え置きを決定し、パウエル議長が、米国経済が堅調であることとインフレが高止まりしていることを引き合いに、利下げに慎重姿勢を示したことで、タカ派的な金利据え置きとなった。]]></summary>
-        <author>
-            <name>Cointelegraph  ビットバンク　長谷川友哉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットフライヤー｜国内最大級の実績・信頼性の高い仮想通貨取引所]]></title>
-        <id>https://coinpost.jp/?p=206659</id>
-        <link href="https://coinpost.jp/?p=206659"/>
-        <updated>2025-07-31T08:55:35.000Z</updated>
-        <summary type="html"><![CDATA[国内大手仮想通貨取引所bitFlyerについて、投資家目線でおすすめする3つの注目ポイントを紹介。中でもビットコインFXトレードでは、世界有数の圧倒的なシェアを誇っています。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムETF、ステーキング承認がもたらす機関投資家の大流入＝専門家らが予測]]></title>
-        <id>https://jp.cointelegraph.com/news/ethereum-etf-staking-approval-institutional-demand</id>
-        <link href="https://jp.cointelegraph.com/news/ethereum-etf-staking-approval-institutional-demand?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-07-31T08:47:39.000Z</updated>
-        <summary type="html"><![CDATA[米国でイーサリアム上場投資信託（ETF）にステーキングが認められれば、機関投資家の資金が大規模に流入し、ビットコインETFの存在感を脅かす可能性がある――アナリストらはそう予測している。]]></summary>
-        <author>
-            <name>Cointelegraph  Stephen Katte</name>
         </author>
     </entry>
 </feed>

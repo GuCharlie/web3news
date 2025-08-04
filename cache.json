@@ -400,10 +400,40 @@
       "articles": []
     },
     {
-      "title": "企業  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=639442",
+          "author": "菊谷ルイス",
+          "description": "ナスダック上場のバーブ・テクノロジーが約5.6億ドルを調達し、仮想通貨トンコイン（TON）財庫戦略で世界初の上場企業へ転換。",
+          "link": "https://coinpost.jp/?p=639442",
+          "publishedOn": "2025-08-04T20:55:06.000Z",
+          "wordCount": 3226,
+          "title": "バーブ、820億円調達で上場企業初のTON戦略へ転換",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/notcoin-ton.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/notcoin-ton.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=639440",
+          "author": "菊谷ルイス",
+          "description": "米上場企業ビットマインが83万3137ETH（29億ドル相当）保有で世界最大のイーサリアム企業財庫に。35日間でゼロから急拡大、著名投資家ビル・ミラー3世も投資参加。",
+          "link": "https://coinpost.jp/?p=639440",
+          "publishedOn": "2025-08-04T20:40:51.000Z",
+          "wordCount": 3227,
+          "title": "米ビットマイン、イーサリアム保有額4500億円超",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/ethereum-new-vitalik.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/ethereum-new-vitalik.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=639233",
           "author": "幸田直子",
@@ -898,21 +928,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/sec-fight-back.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/sec-fight-back.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=206659",
-          "author": "CoinPost編集部",
-          "description": "国内大手仮想通貨取引所bitFlyerについて、投資家目線でおすすめする3つの注目ポイントを紹介。中でもビットコインFXトレードでは、世界有数の圧倒的なシェアを誇っています。",
-          "link": "https://coinpost.jp/?p=206659",
-          "publishedOn": "2025-07-31T08:55:35.000Z",
-          "wordCount": 2459,
-          "title": "ビットフライヤー｜国内最大級の実績・信頼性の高い仮想通貨取引所",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/202507.bitFlyer.1200x630_02-2.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/202507.bitFlyer.1200x630_02-2.png"
         }
       ]
     },
@@ -1702,36 +1717,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjYxM2ItMjU4NS03N2Y4LTk4NGUtZGQ3NzIyMzM4NDY0.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitbank-bitcoin-daily-analysis-31th-july-2025",
-          "author": "Cointelegraph  ビットバンク　長谷川友哉",
-          "description": "FOMCは5会合連続の政策金利据え置きを決定し、パウエル議長が、米国経済が堅調であることとインフレが高止まりしていることを引き合いに、利下げに慎重姿勢を示したことで、タカ派的な金利据え置きとなった。",
-          "link": "https://jp.cointelegraph.com/news/bitbank-bitcoin-daily-analysis-31th-july-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-31T09:00:36.000Z",
-          "wordCount": null,
-          "title": "BTCはFOMCで下げるも仮想通貨レポートで反発　下降チャネルのブレイク窺う【ビットバンク仮想通貨分析】",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2ExMTktYjgzNC03ZWUxLWE2ZDgtYzk2ZTQ2Y2Q4ZGM4.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2ExMTktYjgzNC03ZWUxLWE2ZDgtYzk2ZTQ2Y2Q4ZGM4.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/ethereum-etf-staking-approval-institutional-demand",
-          "author": "Cointelegraph  Stephen Katte",
-          "description": "米国でイーサリアム上場投資信託（ETF）にステーキングが認められれば、機関投資家の資金が大規模に流入し、ビットコインETFの存在感を脅かす可能性がある――アナリストらはそう予測している。",
-          "link": "https://jp.cointelegraph.com/news/ethereum-etf-staking-approval-institutional-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-07-31T08:47:39.000Z",
-          "wordCount": null,
-          "title": "イーサリアムETF、ステーキング承認がもたらす機関投資家の大流入＝専門家らが予測",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODVlNDAtNDIwNC03M2ZiLWFlZjAtNTc0Mzc5NzBmOWUx.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODVlNDAtNDIwNC03M2ZiLWFlZjAtNTc0Mzc5NzBmOWUx.jpg"
         }
       ]
     },

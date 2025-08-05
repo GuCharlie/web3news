@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-05T20:43:48.415Z</updated>
+    <updated>2025-08-05T21:16:59.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コインベース、約3000億円の転換社債発行を発表]]></title>
+        <id>https://coinpost.jp/?p=639764</id>
+        <link href="https://coinpost.jp/?p=639764"/>
+        <updated>2025-08-05T20:50:54.000Z</updated>
+        <summary type="html"><![CDATA[米仮想通貨取引所コインベースが8月5日、10億ドルずつ2029年・2032年満期の転換社債20億ドル発行計画を発表。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米SEC、「リキッドステーキング活動は有価証券に該当せず」]]></title>
         <id>https://coinpost.jp/?p=639760</id>
@@ -1753,16 +1763,6 @@ Visa、ステーブルコイン決済をアバランチ、ステラに拡大 fir
 Wi-FiルーターだけでソラナのDePINプロジェクトに参加できる「ヘリウム・プラス」を提供開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Margaux Nijkerk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年、ビットコインとイーサリアムの最高値は？ 予測市場が示す価格予想と注目トピック]]></title>
-        <id>https://coinpost.jp/?p=637701</id>
-        <link href="https://coinpost.jp/?p=637701"/>
-        <updated>2025-08-01T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨市場の未来について、現在もポリマーケットなどで予測が活発に行われている。本記事では、2024年に精度で注目を集めた予測市場が示す2025年後半の仮想通貨相場展望をまとめた。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>

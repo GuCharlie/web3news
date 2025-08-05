@@ -450,16 +450,6 @@
           "wordCount": 1323,
           "title": "Wi-FiルーターだけでソラナのDePINプロジェクトに参加できる「ヘリウム・プラス」を提供開始",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/shutterstock_1421446100-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=306287",
-          "author": "Helene Braun",
-          "description": "コインベース（Coinbase）は、ビットコイン（BTC）保有量を増やしており、今後数カ月以内にトークン化された米国株と予測市場を立ち上げる計画を発表した。これ ...\nコインベース、BTCの保有量を増やす──トークン化株式と予測市場の立ち上げも発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/306287/",
-          "publishedOn": "2025-08-01T08:35:00.000Z",
-          "wordCount": 1369,
-          "title": "コインベース、BTCの保有量を増やす──トークン化株式と予測市場の立ち上げも発表",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/shutterstock_2451429289.jpg"
         }
       ]
     },
@@ -474,6 +464,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=639760",
+          "author": "菊谷ルイス",
+          "description": "米証券取引委員会が8月5日、仮想通貨リキッドステーキング活動と受領トークンは証券法の適用外とする新ガイダンスを発表。リド（LIDO）等の登録義務を免除。",
+          "link": "https://coinpost.jp/?p=639760",
+          "publishedOn": "2025-08-05T20:30:27.000Z",
+          "wordCount": 3246,
+          "title": "米SEC、「リキッドステーキング活動は有価証券に該当せず」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/SECUSAFLAG.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/SECUSAFLAG.png"
+        },
         {
           "id": "https://coinpost.jp/?p=639646",
           "author": "AKIRA.H",

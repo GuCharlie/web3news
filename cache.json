@@ -440,16 +440,6 @@
           "wordCount": 1432,
           "title": "トレーダーはイーサリアムを見限った？──オプション市場では、ETHの下落リスクはBTCよりも高い",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/shutterstock_2161258283.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=306295",
-          "author": "Margaux Nijkerk",
-          "description": "ソラナ（Solana）で最も有名なDePIN（分散型物理インフラネットワーク）プロジェクトの一つであるヘリウム（Helium）は、企業がヘリウム・ネットワーク（ ...\nWi-FiルーターだけでソラナのDePINプロジェクトに参加できる「ヘリウム・プラス」を提供開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/306295/",
-          "publishedOn": "2025-08-01T09:20:00.000Z",
-          "wordCount": 1323,
-          "title": "Wi-FiルーターだけでソラナのDePINプロジェクトに参加できる「ヘリウム・プラス」を提供開始",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/shutterstock_1421446100-scaled.jpg"
         }
       ]
     },
@@ -464,6 +454,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=639768",
+          "author": "菊谷ルイス",
+          "description": "ナスダック上場のシャープリンクゲーミングが8月5日、7月28日-8月3日に8.3万ETHを平均3634ドルで購入し総保有量52.1万ETHに拡大と発表。ETHトレジャリー企業で世界2位。",
+          "link": "https://coinpost.jp/?p=639768",
+          "publishedOn": "2025-08-05T21:20:13.000Z",
+          "wordCount": 3256,
+          "title": "米シャープリンク、イーサリアム保有量を52万ETHに拡大",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/eth-accumu.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/eth-accumu.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=639764",
           "author": "菊谷ルイス",
@@ -1827,21 +1832,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODAzOTItZDI5Mi03YTdkLThiMWEtMDRiZGY4ZDkxZjE0.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-whales-sell-new-buyers-enter-market",
-          "author": "Cointelegraph  Stephen Katte",
-          "description": "Old Bitcoin being sold to new institutions is a sign of its “integration with the financial system,\" Ryan McMillin, chief investment officer at Merkle Tree Capital told Cointelegraph.",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-whales-sell-new-buyers-enter-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-08-01T09:40:02.000Z",
-          "wordCount": null,
-          "title": "古参クジラの売却が示すビットコイン市場の成熟　機関投資家が台頭　資産は次のステージへ",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQ0ZGEtZGFiNy03NzY3LWE5MmUtMGI4NGFkZDA4NzFm.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQ0ZGEtZGFiNy03NzY3LWE5MmUtMGI4NGFkZDA4NzFm.jpg"
         }
       ]
     },

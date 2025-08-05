@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-05T22:17:43.578Z</updated>
+    <updated>2025-08-05T22:45:50.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ大統領、仮想通貨および政治的デバンキング疑惑の調査を指示へ＝WSJ報道]]></title>
+        <id>https://jp.cointelegraph.com/news/trump-order-probe-crypto-political-debanking-report</id>
+        <link href="https://jp.cointelegraph.com/news/trump-order-probe-crypto-political-debanking-report?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-05T22:35:31.000Z</updated>
+        <summary type="html"><![CDATA[ウォール・ストリート・ジャーナルによると、ホワイトハウスは仮想通貨業界関係者や保守派によるデバンキングの主張について、銀行規制当局に調査を命じる大統領令を発令する可能性がある。]]></summary>
+        <author>
+            <name>Cointelegraph  Jesse Coghlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブロックチェーン特化のフィギュア・テクノロジー、SECにIPO申請]]></title>
+        <id>https://jp.cointelegraph.com/news/blockchain-lender-figure-technology-ipo-filing</id>
+        <link href="https://jp.cointelegraph.com/news/blockchain-lender-figure-technology-ipo-filing?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-05T22:16:03.000Z</updated>
+        <summary type="html"><![CDATA[公開市場は、ブロックチェーン企業に新たな資金調達手段を提供し、従来の市場から資本を引き込む道を開く。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[二代目ソラナスマホのSeeker、50超の国へ出荷を開始　モバイルWeb3の新時代へ]]></title>
         <id>https://coinpost.jp/?p=639775</id>
@@ -565,6 +585,16 @@ Baseが稼働開始以来初のダウンタイムに見舞われ、29分間の�
         <summary type="html"><![CDATA[ソーシャルコマース企業の バーブ・テクノロジー・カンパニーの株価が月曜、一時200％超の急騰を見せた。同社が5億5800万ドル規模の資金調達と仮想通貨TONの保有戦略を発表したことが背景にある。]]></summary>
         <author>
             <name>Cointelegraph  Nate Kostar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナ（SOL）のおすすめ取引所｜将来性・買い方・リスクも総まとめ]]></title>
+        <id>https://coinpost.jp/?p=516831</id>
+        <link href="https://coinpost.jp/?p=516831"/>
+        <updated>2025-08-05T03:00:17.000Z</updated>
+        <summary type="html"><![CDATA[トランプ新政権で今後のソラナ（SOL）の価格分析。買い方やおすすめ取引所、投資の注意点を初心者にもわかりやすく解説します。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
         </author>
     </entry>
     <entry>
@@ -1772,16 +1802,6 @@ Visa、ステーブルコイン決済をアバランチ、ステラに拡大 fir
 イーサリアムのジャスティン・ドレイク氏、量子コンピューターの脅威を阻止するためのロードマップを発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Margaux Nijkerk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインは関税懸念で急落　11万4000ドルのCMEギャップを埋めるも市場は神経質に]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-fills-july-cme-gap-to-the-dollar-104k-btc-price-target</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-fills-july-cme-gap-to-the-dollar-104k-btc-price-target?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-08-01T10:22:37.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は8月1日、米国の貿易関税への懸念から投資家心理が悪化し、直近3週間での最安値を記録した。]]></summary>
-        <author>
-            <name>Cointelegraph  William Suberg</name>
         </author>
     </entry>
 </feed>

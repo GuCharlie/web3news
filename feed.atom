@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-05T13:38:50.765Z</updated>
+    <updated>2025-08-05T14:21:34.513Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【8/5話題】メルコインとコインチェックが提携、Solana Seeker出荷開始、CFTCがクリプト・スプリント開始など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=486546</id>
+        <link href="https://www.neweconomy.jp/posts/486546"/>
+        <updated>2025-08-05T13:58:05.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[グレースケール、TAO・NEAR・RENDER・FIL・GRTを含む分散型AIファンド提供開始]]></title>
         <id>https://www.neweconomy.jp/?p=486590</id>
@@ -2138,37 +2148,6 @@ Wi-FiルーターだけでソラナのDePINプロジェクトに参加できる�
 イーサリアム、2022年以来最大の月間上昇率に──ETFと企業財務戦略が後押し first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米上場ミル・シティ、688億円調達成功でスイ（SUI）財務戦略を開始]]></title>
-        <id>https://coinpost.jp/?p=638553</id>
-        <link href="https://coinpost.jp/?p=638553"/>
-        <updated>2025-08-01T02:20:54.000Z</updated>
-        <summary type="html"><![CDATA[米上場ミル・シティ・ベンチャーズが688億円の私募を完了し、仮想通貨SUIの財務戦略を開始。スイ財団支援を受けた初の上場SUI財務企業として76,271,187枚のスイを取得。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【独自】NTT Digitalが明かす「scramberry WALLET」サービス終了の理由──「NTTグループのWeb3撤退ではない」]]></title>
-        <id>https://www.coindeskjapan.com/?p=306231</id>
-        <link href="https://www.coindeskjapan.com/306231/"/>
-        <updated>2025-08-01T01:46:55.000Z</updated>
-        <summary type="html"><![CDATA[NTTグループでWeb3を推進するNTT Digitalが7月30日、同社が提供するWeb3ウォレット「scramberry WALLET」のサービスを2025 ...
-【独自】NTT Digitalが明かす「scramberry WALLET」サービス終了の理由──「NTTグループのWeb3撤退ではない」 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サークル、HyperliquidにネイティブUSDC導入へ　ブリッジのリスクを排除]]></title>
-        <id>https://coinpost.jp/?p=638485</id>
-        <link href="https://coinpost.jp/?p=638485"/>
-        <updated>2025-08-01T01:40:03.000Z</updated>
-        <summary type="html"><![CDATA[サークルは、HyperliquidのブロックチェーンでステーブルコインのネイティブUSDCを近くローンチすると発表。ブリッジのリスクをなくしたり、ユーザー体験を向上させたりできるメリットを提供する。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>

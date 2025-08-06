@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=306976",
+          "author": "栃山直樹",
+          "description": "日本音楽著作権協会（JASRAC）は8月5日、ブロックチェーン技術を活用した楽曲情報管理システム「KENDRIX」のアップデートを発表した。 今回の更新で新たに ...\nJASRAC、ブロックチェーン楽曲管理システム「KENDRIX」に新機能──寄与度に応じた分配に対応 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/306976/",
+          "publishedOn": "2025-08-06T04:20:08.000Z",
+          "wordCount": 1267,
+          "title": "JASRAC、ブロックチェーン楽曲管理システム「KENDRIX」に新機能──寄与度に応じた分配に対応",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/ダウンロード-92.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=306766",
           "author": "CoinDesk JAPAN",
           "description": "CoinDesk JAPANを運営するN.Avenueが2023年7月より展開している「N.Avenue club」は、Web3をリサーチ・推進する企業リーダー ...\n【N.Avenue club 3期2回ラウンドテーブル】DeFiと銀行の融合がもたらす新しい金融のかたち──世界最大「Aave」創業者が登壇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -420,16 +430,6 @@
           "wordCount": 1326,
           "title": "ビットコインマイニングの収益性、7月は半減期以来の最高水準を記録：JPモルガン",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/e7982f2cd16aaa896fdd1b231cf766d18f1f1cc2-1440x1080-4.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=306387",
-          "author": "林 理南",
-          "description": "アメリカの雇用市場の成長は、先月だけでなく、5月と6月にも大きく鈍化している。このことは、FRB（米連邦準備制度理事会）による利下げを求める声をさらに強める可能 ...\n7月米雇用統計、雇用者数はわずか7万3000人増──失業率は4.2%に上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/306387/",
-          "publishedOn": "2025-08-01T16:39:23.000Z",
-          "wordCount": 1324,
-          "title": "7月米雇用統計、雇用者数はわずか7万3000人増──失業率は4.2%に上昇",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/shutterstock_2153706577.jpg"
         }
       ]
     },
@@ -444,6 +444,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=639902",
+          "author": "幸田直子",
+          "description": "2013年に8000ビットコイン（約1344億円相当）を保存したハードディスクを誤って廃棄した英国人男性が、12年に及ぶ回収戦略を新たな方向へ転換。ハードディスクの物理的な回収は諦める一方で、保存されたビットコインの法的所有権をトークン化する計画を発表した。",
+          "link": "https://coinpost.jp/?p=639902",
+          "publishedOn": "2025-08-06T05:30:28.000Z",
+          "wordCount": 3254,
+          "title": "12年間にわたる8000BTC回収戦略に新展開、英男性　失われたビットコインの所有権をトークン化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/bitcoin-dominance-catch22.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/bitcoin-dominance-catch22.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=639919",
+          "author": "菊谷ルイス",
+          "description": "CeDeFiプラットフォームのバウンスビットがフランクリン・テンプルトンのトークン化米国債ファンドBENJIをBBプライムに統合。米国債利回り4.5%と仮想通貨戦略を組み合わせた構造化商品を提供開始。",
+          "link": "https://coinpost.jp/?p=639919",
+          "publishedOn": "2025-08-06T04:55:17.000Z",
+          "wordCount": 3234,
+          "title": "バウンスビット、F・テンプルトンのトークン化マネーファンドをBBプライムに統合",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/bouncebit-frank.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/bouncebit-frank.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=639860",
+          "author": "菊谷ルイス",
+          "description": "世界初PayFiネットワークのヒューマファイナンス創設者カラマン氏が日本円ステーブルコインの役割を語る。米ドルとの相互補完で貿易決済やサプライチェーンファイナンス革新を目指す。8月末のWebXカンファレンスへ参加予定。",
+          "link": "https://coinpost.jp/?p=639860",
+          "publishedOn": "2025-08-06T04:18:43.000Z",
+          "wordCount": 4582,
+          "title": "ヒューマファイナンス創設者「日本円ステーブルコインは米ドルと相互補完的」、PayFiで貿易決済革新目指す",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/solanalogo.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/solanalogo.png"
+        },
         {
           "id": "https://coinpost.jp/?p=639858",
           "author": "A.Yamada",
@@ -1172,6 +1217,56 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=486777",
+          "author": "OtsugaShinya",
+          "description": "コンヴァノがビットコイン・インカム事業を開始 ネイルサロン「FASTNAIL」運営の東証グロース上場企業コンヴァノが、ビットコイン（BTC）を対象とした機関投資家向けインカム戦略「ビットコイン・インカム事業」を開始すると […]",
+          "link": "https://www.neweconomy.jp/posts/486777",
+          "publishedOn": "2025-08-06T04:37:32.000Z",
+          "wordCount": 752,
+          "title": "ネイルサロン運営のコンヴァノ、オプション取引による「ビットコイン・インカム事業」開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/06133727/70fc8584cc35d0d48cfa311547c6f447.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=486769",
+          "author": "HitomotoToshikazu",
+          "description": "AMINA BankがSUI取引・保管サービス開始 スイスの暗号資産（仮想通貨）銀行アミナバンク（AMINA Bank：以下アミナ）が、暗号資産スイ（SUI）の取引およびカストディ（保管）サービスの提供開始を8月5日に発 […]",
+          "link": "https://www.neweconomy.jp/posts/486769",
+          "publishedOn": "2025-08-06T04:06:00.000Z",
+          "wordCount": 747,
+          "title": "スイスのアミナバンク、「スイ（SUI）」取引・保管サービス提供開始、規制準拠銀行で世界初",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/06130550/94921910860a08e4c83197d9c4b22bea.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=486704",
+          "author": "HitomotoToshikazu",
+          "description": "BTC Options writing提供開始 米大手暗号資産取引所バイナンス（Binance）が、ビットコイン（BTC）オプション売却（ライティング）機能「BTCオプションズライティング（BTC Options wri […]",
+          "link": "https://www.neweconomy.jp/posts/486704",
+          "publishedOn": "2025-08-06T03:47:16.000Z",
+          "wordCount": 777,
+          "title": "バイナンス、BTCオプション売却機能を全ユーザーに提供開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/06124652/e4d84c0b8ee784d02abe9ddc41a13e21.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=486749",
+          "author": "OtsugaShinya",
+          "description": "カシェイとDMMが提携 国内ビットコイン（Bitcoin）関連企業カシェイが、DMM.comとの業務提携を8月6日に発表した。 この提携により、カシェイ運営のビットコイン決済専用ECサイト「ユーズビットコイン（UseBi […]",
+          "link": "https://www.neweconomy.jp/posts/486749",
+          "publishedOn": "2025-08-06T03:38:08.000Z",
+          "wordCount": 603,
+          "title": "ビットコインでDMMポイント購入可能に、カシェイがDMMと提携で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/06123803/DMM-BTC-250806PIXTA.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=486740",
+          "author": "gentosha_takahashi",
+          "description": "リキッドステーキングに関する見解を公表 米証券取引委員会（SEC）の企業金融部門が、暗号資産（仮想通貨）の特定のリキッドステーキングは、連邦証券法上の「証券」に該当しないとの公式見解を8月5日発表した。 リキッドステーキ […]",
+          "link": "https://www.neweconomy.jp/posts/486740",
+          "publishedOn": "2025-08-06T03:24:53.000Z",
+          "wordCount": 740,
+          "title": "米SEC、「特定のリキッドステーキングは証券取引に該当せず」と見解、一部委員は懸念も",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/06122448/SEC-250806-Reuters.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=486546",
           "author": "NewEconomyPodcast",
           "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
@@ -1438,6 +1533,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/sec-crypto-pivot-not-priced-in-bitwise-matt-hougan",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "ビットワイズの最高投資責任者マット・ホーガン氏によると、米証券取引委員会（SEC）の新たな仮想通貨政策が市場で過小評価されており、仮想通貨価格にはまだ上昇余地があるという。",
+          "link": "https://jp.cointelegraph.com/news/sec-crypto-pivot-not-priced-in-bitwise-matt-hougan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-06T05:29:55.000Z",
+          "wordCount": null,
+          "title": "SECアトキンス委員長の演説　仮想通貨市場に新たな追い風　ビットワイズ幹部「強気すぎて度肝を抜かれた」",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzNmZDktYmRiZS03OTA5LTkzMjgtOGQzZjRkNjBjYzhi.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzNmZDktYmRiZS03OTA5LTkzMjgtOGQzZjRkNjBjYzhi.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/michigan-pension-fund-bitcoin-arkb-etf-investment",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "ミシガン州の州職員年金基金が、ARK21シェアーズのビットコイン上場投資信託（ETF）「ARKB」を通じてビットコイン（BTC）への投資を大幅に増やした。",
+          "link": "https://jp.cointelegraph.com/news/michigan-pension-fund-bitcoin-arkb-etf-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-06T04:33:38.000Z",
+          "wordCount": null,
+          "title": "ミシガン州年金基金　ビットコインETFへの投資を大幅拡大",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2JiZTItMGY2NC03Nzc3LTgzMWQtNTMwMzE3YTEyNWNm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2JiZTItMGY2NC03Nzc3LTgzMWQtNTMwMzE3YTEyNWNm.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/galaxy-digital-q2-2025-profit-bitcoin-holdings-rise",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "仮想通貨企業ギャラクシーデジタルは、2025年第2四半期に3070万ドルの純利益を計上し、前四半期の2億9500万ドルの赤字から黒字へと転じた。",
+          "link": "https://jp.cointelegraph.com/news/galaxy-digital-q2-2025-profit-bitcoin-holdings-rise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-06T04:07:06.000Z",
+          "wordCount": null,
+          "title": "仮想通貨企業ギャラクシー　第2四半期に黒字転換　ビットコイン保有も拡大",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODdhNGItYzZhMy03MWZkLWI2YTktNmVlZWQ4NjRhYTQ0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODdhNGItYzZhMy03MWZkLWI2YTktNmVlZWQ4NjRhYTQ0.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/will-xrp-repeat-70-percent-rally-classic-breakout",
           "author": "Cointelegraph  Yashu Gola",
@@ -1977,51 +2117,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU0ZDItOGRlMC03YzJhLThlYjQtMGU5YzVlMTAwNWMy.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/crypto-stocks-tumble-alongside-btc-equities-as-tariff-fears-resurface",
-          "author": "Cointelegraph  Sam Bourgi",
-          "description": "経済指標の悪化と米国政府による関税の脅威が再浮上したことを受け、米国株式市場で、仮想通貨関連企業の株価が金曜日に大きく下落した。",
-          "link": "https://jp.cointelegraph.com/news/crypto-stocks-tumble-alongside-btc-equities-as-tariff-fears-resurface?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-08-01T17:52:44.000Z",
-          "wordCount": null,
-          "title": "コインベースやマイニング企業など…仮想通貨関連株が急落　米経済指標の不調と関税リスクが影響",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODVkNTUtYWExZS03OWQzLThjNjgtZTgzM2I3ZWM3ODY4.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODVkNTUtYWExZS03OWQzLThjNjgtZTgzM2I3ZWM3ODY4.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-traders-warn-123k-top-how-low-can-btc-price-go",
-          "author": "Cointelegraph  Nancy Lubale",
-          "description": "ビットコイン（BTC）は金曜日の取引で下落し、7月25日以来初めて11万5000ドルを下回った。3週間以上にわたって12万ドルのレジスタンスを突破できずにいることから、短期的な価格上昇トレンドに疑問が生じている。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-traders-warn-123k-top-how-low-can-btc-price-go?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-08-01T16:09:22.000Z",
-          "wordCount": null,
-          "title": "ビットコイン、11万5000ドルのサポートを守れるか？ 強気トレンドに黄信号",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODY1ZDAtMWVkYi03MmYzLTkzMWEtZDNjMmRhNjdlZWU1.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODY1ZDAtMWVkYi03MmYzLTkzMWEtZDNjMmRhNjdlZWU1.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-rejects-116k-us-jobs-win-fed-rate-cut-bets-pass-75",
-          "author": "Cointelegraph  William Suberg",
-          "description": "米国の貿易関税をめぐる懸念が相場を押し下げる中、金曜日のウォール街オープンと同時に、ビットコイン（BTC）は11万6000ドル付近まで反落した。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-rejects-116k-us-jobs-win-fed-rate-cut-bets-pass-75?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-08-01T15:41:27.000Z",
-          "wordCount": null,
-          "title": "ビットコイン　11万6000ドルで反落　米雇用統計で利下げ期待が再燃も",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODY1ZTMtODJiMy03YzA0LTljMTQtMWYwMDRlYWQxODg4.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODY1ZTMtODJiMy03YzA0LTljMTQtMWYwMDRlYWQxODg4.jpg"
         }
       ]
     },
@@ -2030,6 +2125,46 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=141075",
+          "author": "よきょい",
+          "description": "7月末から8月初旬にかけて米国の現物ビットコイン上場投資信託（ETF）から大規模な資金流出が見られた一方で、上場企業が大量のビットコイン（BTC）を購入し市場の売り圧力を一部吸収する動きがありました。 調査会社Farsi […]\n投稿 ビットコイン、ETF売り圧を企業が吸収する新展開 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-new-developments-as-companies-absorb-bitcoin-and-etf-selling-pressure/",
+          "publishedOn": "2025-08-06T06:15:27.000Z",
+          "wordCount": 574,
+          "title": "ビットコイン、ETF売り圧を企業が吸収する新展開",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/shutterstock_2491707327-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=141077",
+          "author": "よきょい",
+          "description": "インドネシア政府関係者が、国の準備資産としてビットコイン（BTC）を組み入れる検討を開始しました。副大統領室と国内の暗号資産コミュニティとの会合で、インフレや世界的な金融不安に対するヘッジとしてのビットコインの役割が議論 […]\n投稿 インドネシア、ビットコインを準備資産に検討か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-indonesia-considering-bitcoin-as-a-reserve-asset/",
+          "publishedOn": "2025-08-06T06:07:39.000Z",
+          "wordCount": 612,
+          "title": "インドネシア、ビットコインを準備資産に検討か",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/shutterstock_2008449380.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=141076",
+          "author": "よきょい",
+          "description": "米暗号資産取引大手のコインベースは、開発者向けの新ウォレット「CDP Embedded Wallets」を発表しました。このウォレットの最大の特徴は預け入れられたUSDCの残高に対し年率4.1%の報酬が自動で付与される点 […]\n投稿 コインベース、年利4.1%が自動付与の新ウォレットを発表 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-coinbase-launches-new-wallet-offering-automatic-4-1-annual-interest/",
+          "publishedOn": "2025-08-06T06:01:56.000Z",
+          "wordCount": 622,
+          "title": "コインベース、年利4.1%が自動付与の新ウォレットを発表",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/shutterstock_2165014267.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=141064",
+          "author": "よきょい",
+          "description": "米国証券取引委員会の企業金融部門は、特定の構造下におけるリキッドステーキング活動は証券の募集や販売に該当しないとの見解を示しました。 SEC says certain liquid staking tokens are  […]\n投稿 SEC新見解発表、イーサリアムETFステーキングが現実味 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-secs-new-opinion-makes-ethereum-etf-staking-a-reality/",
+          "publishedOn": "2025-08-06T05:15:45.000Z",
+          "wordCount": 625,
+          "title": "SEC新見解発表、イーサリアムETFステーキングが現実味",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/shutterstock_2519976117.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=141039",
           "author": "Crypto Times 編集部",

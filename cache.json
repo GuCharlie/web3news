@@ -545,6 +545,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=640193",
+          "author": "菊谷ルイス",
+          "description": "ファンドストラットのトム・リー氏がビットコイン価格25万ドル到達の予測を維持。機関投資家の関心高まりと市場懐疑論を根拠に強気見通しを示すが、アナリスト間で意見分かれる。",
+          "link": "https://coinpost.jp/?p=640193",
+          "publishedOn": "2025-08-06T23:35:23.000Z",
+          "wordCount": 3301,
+          "title": "ビットコイン、年末に最大25万ドル到達の可能性＝トム・リー予測",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427h-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427h-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=640189",
+          "author": "菊谷ルイス",
+          "description": "中国が人民元の国際化とドル対抗を目的に、初のステーブルコイン発行を検討。香港でライセンス制導入も、資本流出への警戒から慎重な運用方針を採用。FTが報じた。",
+          "link": "https://coinpost.jp/?p=640189",
+          "publishedOn": "2025-08-06T22:40:59.000Z",
+          "wordCount": 3229,
+          "title": "中国、ステーブルコイン解禁を検討か＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/china-digital-exchange-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/china-digital-exchange-1.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=640183",
           "author": "菊谷ルイス",
           "description": "グリフォンデジタルマイニング株主がトランプ家支援のアメリカンビットコインとの合併案採決を開始。9月初旬の取引完了後、ナスダック「ABTC」で上場予定。",
@@ -1608,6 +1638,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/tokenized-stocks-rise-220-of-early-defi-boom",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "トークン化株式が転換点に近づいており、最大1.3兆ドル規模の市場機会が到来する可能性があると、バイナンスリサーチが指摘した",
+          "link": "https://jp.cointelegraph.com/news/tokenized-stocks-rise-220-of-early-defi-boom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-06T23:21:25.000Z",
+          "wordCount": null,
+          "title": "トークン化株式、7月に220％上昇　「初期DeFiブーム」の再来との声も",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODQyNmMtNDVlZi03MmZkLWIxY2MtYmJmYWY2NjhkNThm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODQyNmMtNDVlZi03MmZkLWIxY2MtYmJmYWY2NjhkNThm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/crypto-salaries-triple-2024-stablecoins-payrolls-report",
           "author": "Cointelegraph  Nate Kostar",

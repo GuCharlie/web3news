@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=307069",
+          "author": "Ian Allison",
+          "description": "野村ホールディングスの子会社で暗号資産（仮想通貨）サービス事業を展開するレーザー・デジタル（Laser Digital）は、ドバイの仮想資産規制庁（VARA）の ...\n野村HD子会社のレーザー・デジタル、ドバイで暗号資産デリバティブ取引の認可を取得 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/307069/",
+          "publishedOn": "2025-08-06T10:05:00.000Z",
+          "wordCount": 1331,
+          "title": "野村HD子会社のレーザー・デジタル、ドバイで暗号資産デリバティブ取引の認可を取得",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/shutterstock_773204917.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=307040",
           "author": "Omkar Godbole",
           "description": "ストラテジー（Strategy）の株式にレバレッジをかけた弱気なエクスポージャーを提供するアメリカ上場のETF（上場投資信託）が先週急騰し、ビットコイン（BTC ...\nストラテジー株に弱気なレバレッジETFが急騰──ビットコインとストラテジーの先行きに暗雲 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -1203,21 +1213,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-3.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-3.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=638901",
-          "author": "菊谷ルイス",
-          "description": "ベッセント財務長官が仮想通貨黄金時代の到来を宣言。トランプ政権が168ページの包括的報告書を公開し、ビットコイン戦略的準備金やDeFi規制緩和を明記。",
-          "link": "https://coinpost.jp/?p=638901",
-          "publishedOn": "2025-08-01T22:15:51.000Z",
-          "wordCount": 3211,
-          "title": "ベッセント財務長官、「仮想通貨黄金時代」宣言",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-budget-neutral-way.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-budget-neutral-way.jpg"
         }
       ]
     },
@@ -1603,6 +1598,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/hyperliquid-blockchain-revenue-surges-poaches-users-from-solana-vaneck",
+          "author": "Cointelegraph  Martin Young",
+          "description": "分散型デリバティブ取引所ハイパーリキッドの大規模な採用が、2025年7月のネットワーク収益を大幅に押し上げた。これは主にソラナのシェアを奪った結果だと、米資産運用会社ヴァンエックが指摘している。",
+          "link": "https://jp.cointelegraph.com/news/hyperliquid-blockchain-revenue-surges-poaches-users-from-solana-vaneck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-06T09:51:35.000Z",
+          "wordCount": null,
+          "title": "ハイパーリキッドが急成長　7月のネットワーク収益シェアで首位に　ソラナからユーザーを奪う＝ヴァンエック",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODdkZGQtZGY1OS03NmYxLWIzYjEtZTAxMmY5OGExNzc3.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODdkZGQtZGY1OS03NmYxLWIzYjEtZTAxMmY5OGExNzc3.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-price-prediction-250k-still-possible-fundstrat-tom-lee",
           "author": "Cointelegraph  Ciaran Lyons",

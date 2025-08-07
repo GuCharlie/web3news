@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-07T20:18:58.634Z</updated>
+    <updated>2025-08-07T20:44:54.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ、401k退職金制度での仮想通貨投資解禁を大統領令で指示]]></title>
+        <id>https://coinpost.jp/?p=640485</id>
+        <link href="https://coinpost.jp/?p=640485"/>
+        <updated>2025-08-07T20:35:25.000Z</updated>
+        <summary type="html"><![CDATA[トランプ米大統領が401k退職金制度での仮想通貨やプライベートエクイティ投資を解禁する大統領令に署名。9兆ドル規模の退職金市場開放でビットワイズは最大8000億ドルの資金流入を試算。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【今日の暗号資産ニュース】マックハウスがビットコイン事業へ参入、米新法案にリップルが警鐘]]></title>
         <id>https://crypto-times.jp/?p=141174</id>
@@ -2763,17 +2773,6 @@ Web3とAIが交差する未来──すでに激化する開発競争【N.Avenue
 ホワイトハウスの暗号資産レポート、ビットコイン備蓄には触れず first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Jesse Hamilton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNBトレジャリー戦略を採用するナスダック上場企業が登場、クラーケンがサポート]]></title>
-        <id>https://www.coindeskjapan.com/?p=304740</id>
-        <link href="https://www.coindeskjapan.com/304740/"/>
-        <updated>2025-08-03T08:40:00.000Z</updated>
-        <summary type="html"><![CDATA[ナスダック上場の米バイオテクノロジー企業、ウィンドツリー・セラピューティクス（Windtree Therapeutics）は米暗号資産（仮想通貨）取引所クラーケ ...
-BNBトレジャリー戦略を採用するナスダック上場企業が登場、クラーケンがサポート first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>蓮田光則</name>
         </author>
     </entry>
 </feed>

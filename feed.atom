@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-07T09:48:13.533Z</updated>
+    <updated>2025-08-07T10:18:50.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインDeFiプロジェクトのBOBがインフラ構築のために、さらに950万ドルを調達]]></title>
+        <id>https://www.coindeskjapan.com/?p=307301</id>
+        <link href="https://www.coindeskjapan.com/307301/"/>
+        <updated>2025-08-07T10:10:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（Bitcoin）のセキュリティとイーサリアム（Ethereum）の分散型金融（DeFi）機能を組み合わせたビットコインDeFiプロトコルであるBO ...
+ビットコインDeFiプロジェクトのBOBがインフラ構築のために、さらに950万ドルを調達 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バビロンが「Trustless Bitcoin Vaults」発表、BTCをDeFiで担保として活用可能に]]></title>
         <id>https://www.neweconomy.jp/?p=487111</id>
@@ -2676,16 +2687,6 @@ Visa、ステーブルコイン決済をアバランチ、ステラに拡大 fir
 金融庁、初代「暗号資産・ブロックチェーン・イノベーション参事官」の第一声入手【今泉参事官インタビュー】／DOGE、SOL、XRPを筆頭にアルトコインが大幅下落──FRBの金利決定に対する不安とレバレッジ解消が暗号資産市場に影響【日曜日に読みたい厳選10本】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>橋本 祐樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国でステーブルコイン法が成立：GENIUS法がもたらす影響とは？【専門家らに聞く】]]></title>
-        <id>https://jp.cointelegraph.com/news/genius-new-stablecoin-rules-remains-vague-foreign-issuers</id>
-        <link href="https://jp.cointelegraph.com/news/genius-new-stablecoin-rules-remains-vague-foreign-issuers?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-08-02T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米国において初めて包括的なステーブルコイン規制を定めた「GENIUS法」が成立した。支持者らは、この法律が信頼性を高め、ステーブルコインの一般的な普及を促進し、米ドルの基軸通貨としての地位を強化するものだと主張している。]]></summary>
-        <author>
-            <name>Cointelegraph  Andrew Singer</name>
         </author>
     </entry>
 </feed>

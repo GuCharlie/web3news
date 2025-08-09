@@ -735,6 +735,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=640953",
+          "author": "A.Yamada",
+          "description": "ミームコインWIFのアイコンで有名なピンクのニット帽が80万ドルで落札された。ソラナ系ローンチパッド創設者が購入し、コミュニティへの還元を示唆している。",
+          "link": "https://coinpost.jp/?p=640953",
+          "publishedOn": "2025-08-09T11:15:47.000Z",
+          "wordCount": 3231,
+          "title": "ミームコイン「ドッグウィズハット（WIF）」のニット帽、1.2億円で落札",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/auction-2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/auction-2.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=640946",
           "author": "A.Yamada",
           "description": "米トランプ政権が輸入金への関税を課さない方針を明確化する計画だと伝えられる。米税関・国境警備局（CBP）の発表でゴールド市場が混乱していたことが背景だ。",
@@ -3057,36 +3072,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODc1YmYtN2Y0Ni03YTg0LWE2MGItYmMxZTE0YWU2NDA4.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/grayscale-wall-street-veterans-barry-silbert-chair",
-          "author": "Cointelegraph  Nate Kostar",
-          "description": "グレースケールはETF収益の優位を守り、機関投資家向け事業を強化するため、創業者バリー・シルバート氏を会長に再任し、ウォール街の有力人材を幹部に迎え入れた。",
-          "link": "https://jp.cointelegraph.com/news/grayscale-wall-street-veterans-barry-silbert-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-08-04T23:27:07.000Z",
-          "wordCount": null,
-          "title": "グレースケール、創業者バリー・シルバート氏が会長に復帰",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODc2ZDMtM2ZlNC03NzczLTgzZDAtZjgxMWE3OTYxNWI2.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODc2ZDMtM2ZlNC03NzczLTgzZDAtZjgxMWE3OTYxNWI2.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/pump-fun-revenue-drops-2025-solana-memecoins",
-          "author": "Cointelegraph  Ezra Reguerra",
-          "description": "ソラナ基盤のミームコインプラットフォームPump.funの7月収益は2,496万ドルと、1月のピークから80％減少した。",
-          "link": "https://jp.cointelegraph.com/news/pump-fun-revenue-drops-2025-solana-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-08-04T23:15:41.000Z",
-          "wordCount": null,
-          "title": "Pump.fun、2025年最低の月間収益　ミームコイン市場の減速鮮明に",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDI1OGMtMDFmNC03YTM2LTlmMDgtZTQxNzUxYTdiNmVj.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDI1OGMtMDFmNC03YTM2LTlmMDgtZTQxNzUxYTdiNmVj.jpg"
         }
       ]
     },

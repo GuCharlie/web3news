@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-09T17:39:54.844Z</updated>
+    <updated>2025-08-09T18:22:12.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[4000ドルを突破したイーサリアム　超強気予想で新ターゲットは2万ドル]]></title>
+        <id>https://jp.cointelegraph.com/news/ether-price-target-now-20k-eth-preps-all-time-high-in-1-2-weeks</id>
+        <link href="https://jp.cointelegraph.com/news/ether-price-target-now-20k-eth-preps-all-time-high-in-1-2-weeks?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-09T18:01:20.000Z</updated>
+        <summary type="html"><![CDATA[7か月ぶりの高値をマークしたイーサリアム（ETH）を巡り、2万ドルという新たな価格目標が議論されている。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットメックス共同創業者アーサー・ヘイズ氏、売却からわずか1週間で再びイーサリアムを大量購入]]></title>
         <id>https://jp.cointelegraph.com/news/arthur-hayes-eth-buyback-higher-price</id>
@@ -2951,27 +2961,6 @@ Baseが稼働開始以来初のダウンタイムに見舞われ、29分間の�
         <summary type="html"><![CDATA[起業家であり、トランプ大統領のビットコイン政策アドバイザーを務めるデイビッド・ベイリー氏が、ビットコインの政策的優先事項を推進するための政治行動委員会（PAC）設立を計画している。調達目標は1億～2億ドルとされ、仮想通貨業界の政治的影響力強化を目指している。]]></summary>
         <author>
             <name>Cointelegraph  Stephen Katte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFTCが仮想通貨の現物契約取引に向けた新制度を提案　ホワイトハウス報告を受け 規制整備を加速]]></title>
-        <id>https://jp.cointelegraph.com/news/cftc-spot-crypto-contracts-trading-initiative</id>
-        <link href="https://jp.cointelegraph.com/news/cftc-spot-crypto-contracts-trading-initiative?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-08-05T05:53:55.000Z</updated>
-        <summary type="html"><![CDATA[米商品先物取引委員会（CFTC）は、CFTCに登録された先物取引所において「仮想通貨の現物契約」を取引可能にする新たな枠組みの検討を開始した。]]></summary>
-        <author>
-            <name>Cointelegraph  Brayden Lindrea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムETF、過去最大の資金流出｜680億円規模]]></title>
-        <id>https://crypto-times.jp/?p=141024</id>
-        <link href="https://crypto-times.jp/news-ethereum-spot-etf-outflow/"/>
-        <updated>2025-08-05T05:45:36.000Z</updated>
-        <summary type="html"><![CDATA[米市場のイーサリアム現物ETFが昨日8月4日、過去最大となる総額4億6500万米ドル（約680億円）の純資金流出を記録したことが明らかになりました。これは、2024年7月に米国でイーサリアム現物ETFの取引が開始されて以 […]
-投稿 イーサリアムETF、過去最大の資金流出｜680億円規模 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
 </feed>

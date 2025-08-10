@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-10T12:32:34.839Z</updated>
+    <updated>2025-08-10T13:26:41.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ氏関連プロジェクト、15億ドル規模の「仮想通貨」財務会社設立へ]]></title>
+        <id>https://crypto-times.jp/?p=141421</id>
+        <link href="https://crypto-times.jp/news-world-liberty-financial-plans-launch-of-public-company/"/>
+        <updated>2025-08-10T12:53:11.000Z</updated>
+        <summary type="html"><![CDATA[トランプ大統領を含めたトランプ一族が関与するDeFi（分散型金融）プロジェクト「World Liberty Financial」が、WLFIトークンを保有する上場財務会社の設立に向けて15億ドルの資金調達を進めていること […]
+投稿 トランプ氏関連プロジェクト、15億ドル規模の「仮想通貨」財務会社設立へ は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今週の主要仮想通貨材料まとめ、リップル裁判終結やイーサリアム関連の投資根拠分析など]]></title>
         <id>https://coinpost.jp/?p=640594</id>
@@ -2621,16 +2632,6 @@ JASRAC、ブロックチェーン楽曲管理システム「KENDRIX」に新機�
         <summary type="html"><![CDATA[米SECへスター・パース委員が、仮想通貨・ブロックチェーン技術によるプライバシー保護の重要性を強調した。米国ではトルネード・キャッシュ創設者の裁判が進められているところだ。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[インドネシア政府、ビットコイン準備金の創設を検討　マイニング実施か]]></title>
-        <id>https://coinpost.jp/?p=639812</id>
-        <link href="https://coinpost.jp/?p=639812"/>
-        <updated>2025-08-06T01:12:19.000Z</updated>
-        <summary type="html"><![CDATA[インドネシア政府が、仮想通貨ビットコインの準備金創設を検討していることがわかった。マイニングを行う案が上がっていることなど、政府にプレゼンを行ったコミュニティ団体が明かしている。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>

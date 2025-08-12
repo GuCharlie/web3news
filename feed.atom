@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-12T22:15:31.015Z</updated>
+    <updated>2025-08-12T22:42:02.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[サークル、ステーブルコイン特化のL1チェーン「Arc」ローンチへ　25年2Qの決算発表も]]></title>
+        <id>https://coinpost.jp/?p=641598</id>
+        <link href="https://coinpost.jp/?p=641598"/>
+        <updated>2025-08-12T22:35:44.000Z</updated>
+        <summary type="html"><![CDATA[ステーブルコインUSDCを発行するサークルは、独自のL1ブロックチェーン「Arc」を発表。ローンチに向けたスケジュールや機能などに加え、同日に25年2Qの決算も発表している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ストライプ、決済特化型ブロックチェーン「Tempo」開発中：報道]]></title>
+        <id>https://www.coindeskjapan.com/?p=307960</id>
+        <link href="https://www.coindeskjapan.com/307960/"/>
+        <updated>2025-08-12T22:28:32.000Z</updated>
+        <summary type="html"><![CDATA[米決済大手ストライプ（Stripe）が、暗号資産ベンチャーのParadigmと共同で「テンポ（Tempo）」と名付けられたブロックチェーンを開発していることが、 ...
+ストライプ、決済特化型ブロックチェーン「Tempo」開発中：報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Francisco Rodrigues</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[決済大手ストライプ、ステーブルコイン特化ブロックチェーン「テンポ」を開発＝報道]]></title>
+        <id>https://coinpost.jp/?p=641597</id>
+        <link href="https://coinpost.jp/?p=641597"/>
+        <updated>2025-08-12T22:20:28.000Z</updated>
+        <summary type="html"><![CDATA[決済大手ストライプが独自ブロックチェーン「テンポ」を開発中。ブリッジ買収に続くステーブルコイン戦略の一環で、サークルの「アーク」チェーンと競合激化。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ米大統領　仮想通貨関連ビジネスで推定24億ドルの利益　規制監督を巡る利益相反懸念も]]></title>
         <id>https://jp.cointelegraph.com/news/trump-crypto-gains-2-4b-since-2022-report</id>
@@ -1508,27 +1539,6 @@ DeFiレンダーCrediX、450万ドルのハッキング被害後に失踪 first 
 投稿 ミームコインか革命か？Baseのコンテンツコイン収集計画 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットバンク　8月14日にSUI（スイ）上場へ]]></title>
-        <id>https://coinpost.jp/?p=640824</id>
-        <link href="https://coinpost.jp/?p=640824"/>
-        <updated>2025-08-08T10:19:48.000Z</updated>
-        <summary type="html"><![CDATA[ビットバンクが8月14日からSUI（スイ）の取扱いを開始。元Meta開発陣による次世代ブロックチェーンで、並列処理技術により高速取引を実現。現物取引、販売所、レンディングサービスに対応し、9月11日まで取引手数料無料キャンペーンを実施中。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volo、BTCボールトをローンチ]]></title>
-        <id>https://crypto-times.jp/?p=141332</id>
-        <link href="https://crypto-times.jp/press-volo-btc-vault/"/>
-        <updated>2025-08-08T10:16:52.000Z</updated>
-        <summary type="html"><![CDATA[Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 ニューヨーク州ニューヨーク、2025年8月7日 – Suiの主要なリキ […]
-投稿 Volo、BTCボールトをローンチ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
 </feed>

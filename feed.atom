@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-12T22:42:02.959Z</updated>
+    <updated>2025-08-12T23:15:48.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米金融機関、カントン・ネットワークでの初めてのトークン化米国債24時間365日取引を完了]]></title>
+        <id>https://www.coindeskjapan.com/?p=307971</id>
+        <link href="https://www.coindeskjapan.com/307971/"/>
+        <updated>2025-08-12T23:10:09.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーン企業のデジタルアセット（Digital Asset）と複数の米大手金融機関が、デジタルアセットが手がけるカントン・ネットワーク（Canton N ...
+米金融機関、カントン・ネットワークでの初めてのトークン化米国債24時間365日取引を完了 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Krisztian Sandor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サークル、ステーブルコイン特化のL1チェーン「Arc」ローンチへ　25年2Qの決算発表も]]></title>
         <id>https://coinpost.jp/?p=641598</id>
@@ -1517,28 +1528,6 @@ DeFiレンダーCrediX、450万ドルのハッキング被害後に失踪 first 
         <summary type="html"><![CDATA[Animoca BrandsがRWAマーケットプレイス提供へ ブロックチェーンゲーム開発やNFT分野への投資を行う香港拠点のアニモカブランズ（Animoca Brands）が、RWA（現実資産）の管理を手がけるプロヴィナ […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム次期アプデに遅延リスク？財団幹部が異例の警告]]></title>
-        <id>https://crypto-times.jp/?p=141286</id>
-        <link href="https://crypto-times.jp/news-ethereums-next-update-is-at-risk-of-delay-foundation-executive-issues-unusual-warning/"/>
-        <updated>2025-08-08T11:10:03.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム財団の幹部が、2025年第4四半期に予定されている次期大型アップグレード「Fusaka」に開発者の注意を集中させるよう呼びかけました。2026年以降に計画されている「Glamsterdam」アップグレードへの […]
-投稿 イーサリアム次期アプデに遅延リスク？財団幹部が異例の警告 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ミームコインか革命か？Baseのコンテンツコイン収集計画]]></title>
-        <id>https://crypto-times.jp/?p=141287</id>
-        <link href="https://crypto-times.jp/news-meme-coin-or-revolution-bases-content-coin-collection-plan/"/>
-        <updated>2025-08-08T11:01:34.000Z</updated>
-        <summary type="html"><![CDATA[米暗号資産大手コインベースが開発するレイヤー2ネットワークのBaseは、クリエイターエコノミー支援の一環としてコンテンツに紐づくデジタルトークンを収集し永久に保有する計画を発表しました。 On @baseapp, cre […]
-投稿 ミームコインか革命か？Baseのコンテンツコイン収集計画 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
         </author>
     </entry>
 </feed>

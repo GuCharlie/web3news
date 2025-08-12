@@ -350,26 +350,6 @@
           "wordCount": 1356,
           "title": "香港上場のIVDメディカル、イーサリアムに約30億円を投資──医療資産などのトークン化に活用",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/09/EFHVWYXFAFGUNORHBBZ7JW5E7I.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=307539",
-          "author": "Jamie Crawley",
-          "description": "Web3の主要な投資家であるアニモカブランズ（Animoca Brands）は、多国籍銀行スタンダードチャータード（Standard Chartered）の香港 ...\nアニモカブランズとスタンダード・チャータード、香港でステーブルコイン発行会社を設立 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/307539/",
-          "publishedOn": "2025-08-08T10:05:00.000Z",
-          "wordCount": 1391,
-          "title": "アニモカブランズとスタンダード・チャータード、香港でステーブルコイン発行会社を設立",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/40c3874bfee602491e7a5567cd05a90f8dbb9567-1920x1080-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=307423",
-          "author": "松田康生",
-          "description": "本稿ではビットコイン相場を①パターン分析 ②移動平均線（9MA・25MA） ③一目均衡表 ④ボリンジャーバンド ⑤MACD ⑥RSIの代表的な6種類のテクニカル ...\nマトリックス法によるテクニカル分析（2025/8/8）やはり下抜け、調整は終わった？【楽天ウォレット】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/307423/",
-          "publishedOn": "2025-08-08T09:49:24.000Z",
-          "wordCount": 1364,
-          "title": "マトリックス法によるテクニカル分析（2025/8/8）やはり下抜け、調整は終わった？【楽天ウォレット】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/tr-thumb_250808.jpg"
         }
       ]
     },
@@ -943,6 +923,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/trump-crypto-gains-2-4b-since-2022-report",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "米誌ニューヨーカーの推計によれば、米国のトランプ大統領は、2022年に仮想通貨分野に参入して以来、関連事業から約24億ドルの利益を得ている。",
+          "link": "https://jp.cointelegraph.com/news/trump-crypto-gains-2-4b-since-2022-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-12T22:00:00.000Z",
+          "wordCount": null,
+          "title": "トランプ米大統領　仮想通貨関連ビジネスで推定24億ドルの利益　規制監督を巡る利益相反懸念も",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODlmMTYtODdjNi03NjNiLWIyYmMtNTFmZjk2ZTQzNDRi.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODlmMTYtODdjNi03NjNiLWIyYmMtNTFmZjk2ZTQzNDRi.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/do-kwon-guilty-fraud-terraform-labs",
           "author": "Cointelegraph  Turner Wright",

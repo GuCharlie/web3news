@@ -838,21 +838,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/03/Crypto-start-_0227.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/03/Crypto-start-_0227.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=640672",
-          "author": "幸田直子",
-          "description": "ブロックチェーン分析企業Glassnodeは週次市場レポートで、ビットコイン市場は現在、最高値更新後の「優柔不断な」調整局面にあり、価格は「エアギャップ」と呼ばれる流動性の低い領域に留まっていると分析した。",
-          "link": "https://coinpost.jp/?p=640672",
-          "publishedOn": "2025-08-08T04:40:24.000Z",
-          "wordCount": 3235,
-          "title": "ビットコイン市場、最高値更新後「優柔不断」な局面に＝Glassnode分析",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/bitcoin-hash-highest.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/bitcoin-hash-highest.jpeg"
         }
       ]
     },
@@ -1030,16 +1015,6 @@
           "wordCount": 769,
           "title": "NYDFS、バイナンス関連不正でパクソスに約48Mドルの和解金支払い命令",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/08140145/14398a756b8c8a873e67fcb89b2f359a.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=487295",
-          "author": "NewEconomy",
-          "description": "オープンAIがGPT5発表 米オープンAI（OpenAI）が、新たな人工知能（AI）モデル「GPT-5」を8月7日に発表した。対話型の生成AI「チャットGPT（ChatGPT）」のユーザー7億人全員が利用可能になる予定だ […]",
-          "link": "https://www.neweconomy.jp/posts/487295",
-          "publishedOn": "2025-08-08T04:21:19.000Z",
-          "wordCount": 752,
-          "title": "オープンAIが「GPT5」発表、ソフト開発や文章機能を強化",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/08132115/GPT5.jpg"
         }
       ]
     },
@@ -1048,6 +1023,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/is-30-xrp-price-realistic-in-this-bull-cycle",
+          "author": "Cointelegraph  Yashu Gola",
+          "description": "XRP（XRP）は昨年11月以降、550％以上の上昇をみせ、火曜日には3ドルを突破した。この急伸を受け、テクニカルアナリストのガート・ファン・ラーゲン氏は、今回の強気サイクルで最大34ドルまで上昇する可能性があると予測している。",
+          "link": "https://jp.cointelegraph.com/news/is-30-xrp-price-realistic-in-this-bull-cycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-12T16:22:50.000Z",
+          "wordCount": null,
+          "title": "XRP 30ドルまで上昇することができるか？ 7年ぶりのダブルボトム突破　強気派は34ドル到達を予測",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzg3MTUtNGYwNS03MDE5LTlhNzAtNGIzN2U2YmY3NDU0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzg3MTUtNGYwNS03MDE5LTlhNzAtNGIzN2U2YmY3NDU0.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/strategy-purchase-155-bitcoin-celebrate-five-years-btc-adoption",
           "author": "Cointelegraph  Helen Partz",

@@ -445,6 +445,51 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=641231",
+          "author": "K.Kobayashi",
+          "description": "Shift4は、ジェフ・ベゾス氏の米宇宙開発会社ブルーオリジンのニューシェパードへの搭乗に仮想通貨決済を導入したことを発表。ビットコインやイーサリアムなど対応銘柄の例も挙げた。",
+          "link": "https://coinpost.jp/?p=641231",
+          "publishedOn": "2025-08-12T00:51:23.000Z",
+          "wordCount": 3232,
+          "title": "仮想通貨でブルーオリジンの宇宙船「ニューシェパード」の搭乗予約が可能に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/Blue-Origin-Jeff-Bezos.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/Blue-Origin-Jeff-Bezos.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=641217",
+          "author": "K.Kobayashi",
+          "description": "トランプ一族関連のWLFIトークンの財務戦略を開始することを仮想通貨フィンテック企業ALT5が発表。資金調達を行い、総供給量の約7.5%を保有する計画だと述べている。",
+          "link": "https://coinpost.jp/?p=641217",
+          "publishedOn": "2025-08-11T23:57:29.000Z",
+          "wordCount": 3228,
+          "title": "ALT5 Sigma、トランプ関連WLFIトークンで15億ドル調達の財務戦略を開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/world-liberty-ondo.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/world-liberty-ondo.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=641221",
+          "author": "CoinPost編集部",
+          "description": "アナリスト仮想NISHIのビットコイン最新相場分析。過去最高値から反落の背景と今後の展望。米CPI発表前の市場心理、イーサリアムとの連動性、オプション市場動向を専門アナリストが解説した。",
+          "link": "https://coinpost.jp/?p=641221",
+          "publishedOn": "2025-08-11T23:52:26.000Z",
+          "wordCount": 3299,
+          "title": "ビットコイン最高値圏から反落、米CPI発表を前に警戒感強まる｜仮想NISHI",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0556.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0556.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=641069",
           "author": "幸田直子",
           "description": "エルサルバドルが投資銀行法を可決し、機関投資家向けビットコイン投資サービスが解禁となる。投資銀行の設立条件は、最低資本金5000万ドルで、25万ドル以上の資産保有者がサービスの対象となる。",
@@ -1125,26 +1170,6 @@
           "wordCount": 740,
           "title": "ビットトレードと北紡、暗号資産関連ビジネスでMoU締結、環境関連トークン発行を検討",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/08124810/379e0d5f24917013a7aeeb86b52f63ae.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=487217",
-          "author": "HitomotoToshikazu",
-          "description": "BIT Miningが約2.7万SOL取得 暗号資産（仮想通貨）マイニング特化のテクノロジー企業ビットマイニング（BIT Mining）が、ソラナ（Solana：SOL）トレジャリー（財務資産）構築の一環として、SOL取 […]",
-          "link": "https://www.neweconomy.jp/posts/487217",
-          "publishedOn": "2025-08-07T12:06:38.000Z",
-          "wordCount": 738,
-          "title": "ビットマイニングが「ソラナ（SOL）」初取得、自社バリデータでステーキングも",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/07210625/SOL-250807PIXTA.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=487219",
-          "author": "HitomotoToshikazu",
-          "description": "Stableが約41.2億円調達 米ドル建てステーブルコイン「USDT」特化のレイヤー1ブロックチェーン「ステーブル（Stable）」が、シード資金調達ラウンドで2,800万ドル（約41.2億円）を調達したと7月31日に […]",
-          "link": "https://www.neweconomy.jp/posts/487219",
-          "publishedOn": "2025-08-07T12:02:48.000Z",
-          "wordCount": 758,
-          "title": "USDT特化レイヤー1ブロックチェーン「ステーブル」が28Mドル調達、ビットフィネックスら主導",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/07210217/ec4af4915387f99d8ec6e36f2712e9ff.jpg"
         }
       ]
     },
@@ -1854,26 +1879,6 @@
           "wordCount": 849,
           "title": "2000兆円の退職金マネーが生み出す巨大インパクト！トランプ政権が仕掛ける「401(k)暗号通貨革命」に潜む3つの危険",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/1fc27b4b23a7f70e3b492c26adc1340a.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=141175",
-          "author": "よきょい",
-          "description": "中国の国家安全部は外国の暗号資産企業がトークン配布を名目に個人の虹彩データを収集しているとして、国家安全保障上のリスクに繋がる強い警告を発しました。名指しは避けられたものの、その手法からワールド（World）が念頭にある […]\n投稿 中国、虹彩データ収集に強い懸念｜ワールドを事実上名指し は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-china-has-serious-concerns-about-iris-data-collection-effectively-naming-world/",
-          "publishedOn": "2025-08-07T11:50:58.000Z",
-          "wordCount": 588,
-          "title": "中国、虹彩データ収集に強い懸念｜ワールドを事実上名指し",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/shutterstock_2431361679.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=141171",
-          "author": "よきょい",
-          "description": "資産運用大手のVanEckは、イーサリアム（ETH）が価値の保存手段としてビットコイン（BTC）の強力な対抗馬になっているとの分析を発表しました。 主な理由としてインフレ率、収益機会、ガバナンスモデルの違いを挙げています […]\n投稿 イーサリアムはビットコインを超える？VanEckが示す3つの理由 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-will-ethereum-surpass-bitcoin-vaneck-shows-3-reasons/",
-          "publishedOn": "2025-08-07T11:44:00.000Z",
-          "wordCount": 584,
-          "title": "イーサリアムはビットコインを超える？VanEckが示す3つの理由",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/shutterstock_2123817968.jpg"
         }
       ]
     }

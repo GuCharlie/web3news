@@ -945,16 +945,6 @@
           "wordCount": 602,
           "title": "スタンダードチャータード・アニモカ・HKTがJV設立、ステーブルコイン発行ライセンス申請意向を届出",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/08170959/JV-250808LuckyStep48.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=487342",
-          "author": "OtsugaShinya",
-          "description": "ビットバンクがSUI取り扱いへ 国内暗号資産（仮想通貨）取引所ビットバンク（bitbank）が、暗号資産スイ（SUI）の取り扱い予定を8月8日に発表した。8月14日より取り扱い開始するとのこと。 予定通り上場すれば国内暗 […]",
-          "link": "https://www.neweconomy.jp/posts/487342",
-          "publishedOn": "2025-08-08T06:36:37.000Z",
-          "wordCount": 770,
-          "title": "【取材追記】ビットバンクにスイ（SUI）上場へ、国内5例目",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/08153633/49fdf81dd32b70b5c535dc8942b46a30.jpg"
         }
       ]
     },
@@ -963,6 +953,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/trump-crypto-adviser-planning-buy-1b-of-bitcoin-this-week",
+          "author": "Cointelegraph  Martin Young",
+          "description": "ビットコイン支持者であり、米国のトランプ大統領に仮想通貨政策を助言してきたデイビッド・ベイリー氏が、7億6200万ドル相当のビットコインを購入する計画を発表した。",
+          "link": "https://jp.cointelegraph.com/news/trump-crypto-adviser-planning-buy-1b-of-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-12T18:47:18.000Z",
+          "wordCount": null,
+          "title": "トランプ氏の仮想通貨アドバイザー　7億6200万ドル規模のビットコイン購入計画を発表",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTY1YjMtN2FjOC03MDEwLWFiNWEtNTcyZTM0YmRmMTE1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTY1YjMtN2FjOC03MDEwLWFiNWEtNTcyZTM0YmRmMTE1.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/ether-hits-new-multiyear-high-as-tom-lee-s-bitmine-plans-20b-eth-raise",
           "author": "Cointelegraph  William Suberg",

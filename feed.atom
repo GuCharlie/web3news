@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-12T18:25:20.561Z</updated>
+    <updated>2025-08-12T18:52:03.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ氏の仮想通貨アドバイザー　7億6200万ドル規模のビットコイン購入計画を発表]]></title>
+        <id>https://jp.cointelegraph.com/news/trump-crypto-adviser-planning-buy-1b-of-bitcoin-this-week</id>
+        <link href="https://jp.cointelegraph.com/news/trump-crypto-adviser-planning-buy-1b-of-bitcoin-this-week?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-12T18:47:18.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン支持者であり、米国のトランプ大統領に仮想通貨政策を助言してきたデイビッド・ベイリー氏が、7億6200万ドル相当のビットコインを購入する計画を発表した。]]></summary>
+        <author>
+            <name>Cointelegraph  Martin Young</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム 4500ドル目前に迫る　ETHトレジャリー企業の大量購入計画が材料に]]></title>
         <id>https://jp.cointelegraph.com/news/ether-hits-new-multiyear-high-as-tom-lee-s-bitmine-plans-20b-eth-raise</id>
@@ -1597,16 +1607,6 @@ XRPが12%急騰──トレーダーは「ストラドル」戦略で大きな�
 投稿 【先着順】Bitgetの簡単なタスクで最大50USDT相当の特典を獲得しよう！ は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【取材追記】ビットバンクにスイ（SUI）上場へ、国内5例目]]></title>
-        <id>https://www.neweconomy.jp/?p=487342</id>
-        <link href="https://www.neweconomy.jp/posts/487342"/>
-        <updated>2025-08-08T06:36:37.000Z</updated>
-        <summary type="html"><![CDATA[ビットバンクがSUI取り扱いへ 国内暗号資産（仮想通貨）取引所ビットバンク（bitbank）が、暗号資産スイ（SUI）の取り扱い予定を8月8日に発表した。8月14日より取り扱い開始するとのこと。 予定通り上場すれば国内暗 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>

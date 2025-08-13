@@ -405,6 +405,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=641865",
+          "author": "AKIRA.H",
+          "description": "OKXが仮想通貨OKBの総発行量を2100万枚に固定し、約2割を一括バーン。X Layer強化やPPアップグレードも実施。",
+          "link": "https://coinpost.jp/?p=641865",
+          "publishedOn": "2025-08-13T09:10:21.000Z",
+          "wordCount": 3257,
+          "title": "仮想通貨OKB　経済モデル刷新とX Layer戦略発表、価格一時急騰",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/Xlayer.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/Xlayer.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=641799",
           "author": "hiroto.yoshii",
           "description": "NFTカメラアプリ「SNPIT」が人気アニメ「進撃の巨人」とコラボ。写真撮影で仮想通貨を稼ぐ「Snap to Earn」機能と限定スキンガチャ、10日連続ログイン特典を実装した。",
@@ -958,36 +973,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/etf-new-pic.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/etf-new-pic.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=640917",
-          "author": "菊谷ルイス",
-          "description": "世界最大の仮想通貨取引所バイナンスがスペインの大手銀行BBVAと提携し、顧客資産の独立保管サービスを提供開始。FTX破綻後の投資家不安解消が狙いか。",
-          "link": "https://coinpost.jp/?p=640917",
-          "publishedOn": "2025-08-08T21:10:49.000Z",
-          "wordCount": 3209,
-          "title": "バイナンス、スペイン大手銀行BBVAと提携",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/binance-more-office.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/binance-more-office.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=640911",
-          "author": "菊谷ルイス",
-          "description": "イーサリアムが8日に8カ月ぶりに4000ドルを突破し最高4070ドルを記録。企業による数十億ドル規模の買い集めが価格上昇を後押ししているようだ。",
-          "link": "https://coinpost.jp/?p=640911",
-          "publishedOn": "2025-08-08T20:50:42.000Z",
-          "wordCount": 3218,
-          "title": "イーサリアムが8カ月ぶりに4000ドル突破、上場企業のETH財務戦略が背景に",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/eth-new-eth.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/eth-new-eth.jpg"
         }
       ]
     },
@@ -1760,6 +1745,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=141480",
+          "author": "Crypto Times 編集部",
+          "description": "Web3メディアのCrypto Timesは、8月25日に完全招待制のサイドイベント「Summer Sweets & Networking」を開催します。 このイベントはアジア最大級のWeb3カンファレンス「We […]\n投稿 8月25日に完全招待制のサイドイベント「Summer Sweets & Networking」を開催 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-crypto-times-to-host-top-secret-sweets-networking-event-to-enhance-webx/",
+          "publishedOn": "2025-08-13T09:00:32.000Z",
+          "wordCount": 625,
+          "title": "8月25日に完全招待制のサイドイベント「Summer Sweets & Networking」を開催",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/Networking-1.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=141512",
           "author": "Crypto Times 編集部",

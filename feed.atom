@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-13T22:16:27.026Z</updated>
+    <updated>2025-08-13T22:40:40.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムのコア開発者、悪意あるAI拡張機能でウォレットを流出]]></title>
+        <id>https://jp.cointelegraph.com/news/core-ethereum-devs-crypto-wallet-drained-ai-extension</id>
+        <link href="https://jp.cointelegraph.com/news/core-ethereum-devs-crypto-wallet-drained-ai-extension?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-13T22:37:52.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムのコア開発者ザック・コール氏が、悪意あるCursor拡張機能によって秘密鍵を盗まれ、ウォレットドレイナー攻撃の脅威が開発者にも広がっていることが浮き彫りになった。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グーグルプレイ、仮想通貨ウォレット開発者に新たなライセンス要件]]></title>
+        <id>https://jp.cointelegraph.com/news/google-play-store-sets-new-licensing-rules-crypto-wallet-developers</id>
+        <link href="https://jp.cointelegraph.com/news/google-play-store-sets-new-licensing-rules-crypto-wallet-developers?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-13T22:22:33.000Z</updated>
+        <summary type="html"><![CDATA[10月29日に発効するグーグルプレイの新ポリシーにより、一部の国では仮想通貨ウォレットアプリに特定のライセンス取得が義務付けられる。]]></summary>
+        <author>
+            <name>Cointelegraph  Christopher Tepedino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上昇するアルトコインは？　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ]]></title>
         <id>https://jp.cointelegraph.com/news/price-predictions-8-13-btc-eth-xrp-bnb-sol-doge-ada-link-hype-xlm</id>

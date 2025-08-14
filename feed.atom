@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-13T23:39:13.500Z</updated>
+    <updated>2025-08-14T01:19:27.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ノルウェー政府系ファンド、ビットコイン間接保有量が7161BTCに増加　過去最大数量に]]></title>
+        <id>https://coinpost.jp/?p=642020</id>
+        <link href="https://coinpost.jp/?p=642020"/>
+        <updated>2025-08-14T00:33:13.000Z</updated>
+        <summary type="html"><![CDATA[K33のリサーチ部門のトップは、ノルウェーの政府系ファンドNBIMが2025年6月末時点で間接的に仮想通貨ビットコインを7,161BTC保有していると公表。この保有量は過去最大数量だと説明した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所Bullish、NYSEに上場　取引初日は株価が83%超上昇]]></title>
+        <id>https://coinpost.jp/?p=642032</id>
+        <link href="https://coinpost.jp/?p=642032"/>
+        <updated>2025-08-14T00:27:14.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所Bullishがニューヨーク証券取引所に上場した。IPO価格が37ドルだったのに対し、株価は一時118ドルまで上がり、終値は68ドルだった。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米利下げ期待とステーブルコイン規制でビットコイン最高値、イーサリアム主導の上昇続く ｜仮想NISHI]]></title>
+        <id>https://coinpost.jp/?p=642029</id>
+        <link href="https://coinpost.jp/?p=642029"/>
+        <updated>2025-08-14T00:10:30.000Z</updated>
+        <summary type="html"><![CDATA[BTC史上最高値更新の背景を解説。米雇用統計悪化とCPI結果を受けた利下げ期待、GENIUS法成立によるステーブルコイン規制明確化がイーサリアム上昇をけん引。オプション市場で14万ドルコール増加、年末上昇期待が高まる。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[機関投資家の熱狂でイーサリアムのDEX取引高がソラナを上回る]]></title>
+        <id>https://www.coindeskjapan.com/?p=308162</id>
+        <link href="https://www.coindeskjapan.com/308162/"/>
+        <updated>2025-08-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムブロックチェーン上の分散型取引所（DEX）の取引高は4月以来で初めてソラナブロックチェーンを上回った。機関投資家の活動が増える中、ソラナブロックチェ ...
+機関投資家の熱狂でイーサリアムのDEX取引高がソラナを上回る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グレースケール、カルダノ・ヘデラETF法定信託をデラウェア州に登録]]></title>
+        <id>https://coinpost.jp/?p=641780</id>
+        <link href="https://coinpost.jp/?p=641780"/>
+        <updated>2025-08-13T23:40:27.000Z</updated>
+        <summary type="html"><![CDATA[米大手運用会社グレースケールがカルダノ・ヘデラETFの法定信託をデラウェア州で登録。米SEC申請に向けた動きとして注目を集める。]]></summary>
+        <author>
+            <name>hiroto.yoshii</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨取引所ブリッシュ、NYSE上場初日に218％急騰　ウォール街で存在感拡大]]></title>
         <id>https://jp.cointelegraph.com/news/bullish-nyse-ipo-crypto-demand</id>
@@ -1451,72 +1502,6 @@ XRP、強気派に警戒シグナル──ビットコインはブレイク待�
 トランプ氏と関係するワールド・リバティ・ファイナンシャル、上場暗号資産保有会社設立のため15億ドルの資金調達を目指す：ブルームバーグ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベース、米プラットフォームにDEX取引を追加──万能アプリを目指す]]></title>
-        <id>https://www.coindeskjapan.com/?p=307681</id>
-        <link href="https://www.coindeskjapan.com/307681/"/>
-        <updated>2025-08-09T12:20:16.000Z</updated>
-        <summary type="html"><![CDATA[コインベース（Coinbase）は8日、ニューヨーク州を除くアメリカ全域の顧客向けに、メインアプリ内で分散型取引所（DEX）の取引を提供すると発表した。これは、 ...
-コインベース、米プラットフォームにDEX取引を追加──万能アプリを目指す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム4200ドル突破、機関投資家マネー流入で年末5000ドルなるか]]></title>
-        <id>https://crypto-times.jp/?p=141367</id>
-        <link href="https://crypto-times.jp/news-ethereum-surpasses-4200-with-institutional-investors-likely-to-push-it-to-5000-by-the-end-of-the-year/"/>
-        <updated>2025-08-09T12:02:16.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムの価格が4200ドルを突破し今年最高値を更新しました。過去1ヶ月で50%近く上昇する力強いラリーを見せており、この背景には機関投資家による旺盛な需要があります。 この数ヶ月、シャープリンク（SharpLink […]
-投稿 イーサリアム4200ドル突破、機関投資家マネー流入で年末5000ドルなるか は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国大手銀、半数が暗号資産参入へ｜金融業界に地殻変動か]]></title>
-        <id>https://crypto-times.jp/?p=141371</id>
-        <link href="https://crypto-times.jp/news-half-of-major-us-banks-to-enter-cryptocurrency-markets/"/>
-        <updated>2025-08-09T11:54:06.000Z</updated>
-        <summary type="html"><![CDATA[米国の大手銀行上位25行のうち半数以上が暗号資産関連の商品の導入を検討または実行していることが明らかになりました。これは米国の金融大手が暗号資産を単に監視する段階から、具体的な事業計画やサービス展開の段階へと移行している […]
-投稿 米国大手銀、半数が暗号資産参入へ｜金融業界に地殻変動か は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パナマ運河、ビットコイン払いで通行料割引か｜市長が支持を表明]]></title>
-        <id>https://crypto-times.jp/?p=141366</id>
-        <link href="https://crypto-times.jp/news-panama-canal-toll-discounts-for-bitcoin-payments-mayor-expresses-support/"/>
-        <updated>2025-08-09T11:49:33.000Z</updated>
-        <summary type="html"><![CDATA[パナマ市のメイヤー・ミズラチ市長は、世界の主要な海上交通路であるパナマ運河の通行料をビットコイン（BTC）で支払う場合に割引を適用する提案を強く支持する考えを表明しました。 Brilliant idea. Hopeful […]
-投稿 パナマ運河、ビットコイン払いで通行料割引か｜市長が支持を表明 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【今日の暗号資産ニュース】ハーバード大が1億ドル超のBTCを保有、エルサルバドルがビットコイン銀行設立か]]></title>
-        <id>https://crypto-times.jp/?p=141373</id>
-        <link href="https://crypto-times.jp/news-harvard-university-holds-over-100-million-in-bitcoin-and-el-salvador-may-be-opening-a-bitcoin-bank/"/>
-        <updated>2025-08-09T11:45:59.000Z</updated>
-        <summary type="html"><![CDATA[8月9日、ビットコイン（BTC）の価格は116,800ドル前後で推移しており、イーサリアム（ETH）は約4,170ドル、ソラナ（SOL）は約180ドルで取引されています。世界の暗号資産時価総額は4.01兆ドルで、ビットコ […]
-投稿 【今日の暗号資産ニュース】ハーバード大が1億ドル超のBTCを保有、エルサルバドルがビットコイン銀行設立か は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エルサルバドル、次の一手は「ビットコイン銀行」設立か]]></title>
-        <id>https://crypto-times.jp/?p=141281</id>
-        <link href="https://crypto-times.jp/news-el-salvadors-next-move-establishing-a-bitcoin-bank/"/>
-        <updated>2025-08-09T11:42:17.000Z</updated>
-        <summary type="html"><![CDATA[2021年に世界で初めてビットコイン（BTC）を法定通貨とした中米の国エルサルバドルが、次なる一手として「ビットコイン銀行」の設立を計画していることを示唆しました。 🇸🇻🚀 […]
-投稿 エルサルバドル、次の一手は「ビットコイン銀行」設立か は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
         </author>
     </entry>
 </feed>

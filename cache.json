@@ -540,10 +540,25 @@
       "articles": []
     },
     {
-      "title": "NANJCOIN(NANJ)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=636727",
+          "author": "M.Somekawa",
+          "description": "CoinbaseのBase Appの特徴、始め方、エアドロップの可能性を詳しく解説。Web3スーパーアプリとして進化するBase Appで、ソーシャル・決済・DeFi機能を一つのアプリで体験。国内取引所からの送金方法も完全ガイド。",
+          "link": "https://coinpost.jp/?p=636727",
+          "publishedOn": "2025-08-15T08:21:39.000Z",
+          "wordCount": 2553,
+          "title": "Base Appとは？コインベースのWeb3アプリの使い方を徹底解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/basesamune0815.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/basesamune0815.png"
+        },
         {
           "id": "https://coinpost.jp/?p=626587",
           "author": "Ritsuki.Kumazawa",
@@ -1422,6 +1437,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=488309",
+          "author": "HitomotoToshikazu",
+          "description": "ユニスワップ財団が新法人の設立提案 ユニスワップ財団（Uniswap Foundation）が、米ワイオミング州のDAO（自律分散型組織）向け法的枠組み「DUNA」に基づき、分散型取引所（DEX）ユニスワップ（Unisw […]",
+          "link": "https://www.neweconomy.jp/posts/488309",
+          "publishedOn": "2025-08-15T08:40:26.000Z",
+          "wordCount": 775,
+          "title": "ユニスワップ財団、ワイオミング州「DUNA」枠組みで新法人「DUNI」設立計画を提案",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/15173009/2ccc759d5675a8e856544034582ac9ca.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=488360",
           "author": "gentosha_takahashi",
           "description": "BTC収入事業が売上の91％占める ビットコイン（BTC）の購入を積極的に進めている東証スタンダード上場企業メタプラネットが、2025年第2四半期の連結決算を8月13日に発表した。 資料によれば、メタプラネットの売上高は […]",
@@ -1698,6 +1723,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0815",
+          "author": "Cointelegraph  ビットバンク　長谷川友哉",
+          "description": "14日のビットコイン（BTC）円は1813万8050円から取引が始まった。",
+          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0815?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-15T08:25:43.000Z",
+          "wordCount": null,
+          "title": "PPIサプライズでBTC急反落　FRBによる大幅利下げ観測後退【ビットバンク仮想通貨分析】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/trump-american-bitcoin-orders-16k-bitmain-asics-trade-war",
           "author": "Cointelegraph  Vince Quill",
@@ -2245,6 +2285,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=141782",
+          "author": "よきょい",
+          "description": "ビットコイン（BTC）が史上最高値を更新したことで、積極的にBTCを購入してきた企業ストラテジー（Strategy）と国家エルサルバドルが巨額の含み益を得ていることが分かりました。当初は懐疑的な見方もあった両者の戦略が、 […]\n投稿 ビットコイン戦略が的中、企業と国家に巨額の利益 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitcoin-strategy-pays-off-bringing-huge-profits-to-companies-and-nations/",
+          "publishedOn": "2025-08-15T08:46:11.000Z",
+          "wordCount": 599,
+          "title": "ビットコイン戦略が的中、企業と国家に巨額の利益",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/shutterstock_2660875911.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=141763",
           "author": "よきょい",

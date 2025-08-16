@@ -1695,26 +1695,6 @@
           "wordCount": 761,
           "title": "米決済ストライプ、暗号資産VCパラダイムと共同で「Tempo」ブロックチェーン構築へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/12124348/1bfc26d9eb419a2b081a20a1dbaa6aff.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=487758",
-          "author": "OtsugaShinya",
-          "description": "パクソスが全米信託銀行ライセンス申請 ペイパル（PayPal）のステーブルコインの裏側を支える暗号資産企業パクソス・トラスト・カンパニー（Paxos Trust Company、以下パクソス）は、米国で全米信託銀行（Na […]",
-          "link": "https://www.neweconomy.jp/posts/487758",
-          "publishedOn": "2025-08-12T03:04:23.000Z",
-          "wordCount": 634,
-          "title": "パクソスが全米信託銀行ライセンス申請、リップル・サークルに続き",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/12120418/dc327e35e657f1b40edbc13630e65cd2.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=487754",
-          "author": "HitomotoToshikazu",
-          "description": "BinanceがBBVAと連携 海外大手暗号資産（仮想通貨）取引所バイナンス（Binance）が、スペインで第3位の規模を持つビルバオ・ビスカヤ・アルヘンタリア銀行（BBVA）と提携したと、英「フィナンシャルタイムズ（F […]",
-          "link": "https://www.neweconomy.jp/posts/487754",
-          "publishedOn": "2025-08-12T03:01:52.000Z",
-          "wordCount": 731,
-          "title": "バイナンスがスペインBBVAと連携、顧客資産を米国債で保管し取引所外管理へ＝報道",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/12120059/21bd3c971ff695acfd4fe60ad0b3af9f.jpg"
         }
       ]
     },
@@ -1723,6 +1703,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/ether-bitcoin-social-chatter-sentiment-dip-buying-santiment-data",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "仮想通貨のセンチメント分析プラットフォームのサンティメントによると、短期的にはイーサリアム（ETH）がビットコイン（BTC）よりわずかに優位にあるという。",
+          "link": "https://jp.cointelegraph.com/news/ether-bitcoin-social-chatter-sentiment-dip-buying-santiment-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-16T15:11:27.000Z",
+          "wordCount": null,
+          "title": "イーサリアム、短期にビットコインを上回る可能性＝サンティメント",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2QzMGItM2M0YS03MTU1LWI0ZmItODYzNzgwYTQ0OWIy.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2QzMGItM2M0YS03MTU1LWI0ZmItODYzNzgwYTQ0OWIy.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/winklevoss-gemini-nasdaq-listing-strong-bullish-debut",
           "author": "Cointelegraph  Amin Haqshanas",
@@ -2659,16 +2654,6 @@
           "wordCount": 677,
           "title": "BTCの次は「ETH」ブーム｜米上場企業が約7300億円分を保有",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/shutterstock_2659906139.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=141437",
-          "author": "Crypto Times 編集部",
-          "description": "米シャープリンク・ゲーミング社（ナスダック：$SBET）は5つのグローバル機関投資家と総額4億ドルの証券購入契約を締結したと発表しました。これにより同社のイーサリアム（ETH）保有額は30億ドル（約4450億円）を超える […]\n投稿 シャープリンク社のイーサリアム保有量、4450億円規模になる見込み は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-sharplink-ethereum/",
-          "publishedOn": "2025-08-12T02:53:21.000Z",
-          "wordCount": 617,
-          "title": "シャープリンク社のイーサリアム保有量、4450億円規模になる見込み",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2238459509.jpg"
         }
       ]
     }

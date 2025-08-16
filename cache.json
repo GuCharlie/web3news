@@ -1333,21 +1333,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/trump-coin-dinner.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/trump-coin-dinner.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=641425",
-          "author": "AKIRA.H",
-          "description": "仮想通貨取引所ビットフライヤーがイーサリアム（ETH）ステーキングサービスを開始。年利2.03%で毎週報酬付与、資産ロック不要でいつでも売却・送付可能となっている。",
-          "link": "https://coinpost.jp/?p=641425",
-          "publishedOn": "2025-08-12T08:54:17.000Z",
-          "wordCount": 3223,
-          "title": "ビットフライヤー、イーサリアムのステーキングサービスを開始",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/20220328.bitflyer.1200x630.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/20220328.bitflyer.1200x630.png"
         }
       ]
     },
@@ -1593,6 +1578,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bis-crypto-compliance-scores-aml-offramps",
+          "author": "Cointelegraph  Adrian Zmudzinski",
+          "description": "国際決済銀行（BIS）は、仮想通貨から法定通貨へのオフランプ（現金化）に関する新たなマネーロンダリング対策として、来歴に基づいたリスクスコア制度を導入すべきだとする提案を発表した。",
+          "link": "https://jp.cointelegraph.com/news/bis-crypto-compliance-scores-aml-offramps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-16T21:00:00.000Z",
+          "wordCount": null,
+          "title": "仮想通貨のマネロン対策　取引履歴に基づいたリスクスコア導入案＝BIS専門家が議論",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGFkMjQtZTgyYy03ZGU2LTk3ZDQtZDhiZWRjOTdmYzRj.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGFkMjQtZTgyYy03ZGU2LTk3ZDQtZDhiZWRjOTdmYzRj.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/ether-accumulation-heats-up-882m-in-eth-snapped-up-by-bitmine-whale",
           "author": "Cointelegraph  Amin Haqshanas",
@@ -2499,16 +2499,6 @@
           "wordCount": 598,
           "title": "【参加無料】WebX参加者必見！Sei、UXLINK共催の夏祭り開催",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/c0368041-cae0-42ed-be82-5428c40cdba4.jpeg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=141457",
-          "author": "Crypto Times 編集部",
-          "description": "仮想通貨CYBERが数分で1.88ドルから最大5.32ドルへ2.8倍の暴騰を記録しました。現在は売り圧力が発生し直近24時間で約+80％の価格パフォーマンスとなっています。 価格上昇の最大の要因は韓国最大級の仮想通貨取引 […]\n投稿 仮想通貨CYBER、数分で2.8倍に｜韓国Upbit上場後に急騰 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-cyber-listing-upbit/",
-          "publishedOn": "2025-08-12T09:07:28.000Z",
-          "wordCount": 702,
-          "title": "仮想通貨CYBER、数分で2.8倍に｜韓国Upbit上場後に急騰",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_2069810474.jpg"
         }
       ]
     }

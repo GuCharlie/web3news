@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-16T16:44:11.570Z</updated>
+    <updated>2025-08-16T17:13:03.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムに機関投資家の関心集中　ビットマインとクジラが約8.8億ドル分を購入]]></title>
+        <id>https://jp.cointelegraph.com/news/ether-accumulation-heats-up-882m-in-eth-snapped-up-by-bitmine-whale</id>
+        <link href="https://jp.cointelegraph.com/news/ether-accumulation-heats-up-882m-in-eth-snapped-up-by-bitmine-whale?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-16T16:44:29.000Z</updated>
+        <summary type="html"><![CDATA[機関投資家によるイーサリアム（ETH）への関心が冷める気配を見せていない。ブロックチェーンデータによれば、直近で2つの大口投資家が計約8億8200万ドル相当のETHを購入したことが明らかとなった。]]></summary>
+        <author>
+            <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム、短期にビットコインを上回る可能性＝サンティメント]]></title>
         <id>https://jp.cointelegraph.com/news/ether-bitcoin-social-chatter-sentiment-dip-buying-santiment-data</id>

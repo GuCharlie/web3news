@@ -485,6 +485,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=642560",
+          "author": "CoinPost編集部",
+          "description": "前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナといった主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。",
+          "link": "https://coinpost.jp/?p=642560",
+          "publishedOn": "2025-08-17T05:00:47.000Z",
+          "wordCount": 3267,
+          "title": "今週の主要材料まとめ、ビットコイン6年以内1000万ドル到達の可能性やリップル訴訟終了発表など",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/altcoin-materials-new-buy-sell.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/altcoin-materials-new-buy-sell.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=642711",
           "author": "CoinPost編集部",
           "description": "ビットコイン（BTC）対円相場が1750万円周辺で方向感を欠く展開。米CPI下振れで利下げ期待が高まるも、PPI上振れで大幅利下げ観測が後退。来週のジャクソンホール会議とパウエルFRB議長発言が相場の鍵を握る。テクニカルサポートも豊富な現在の市況を詳しく分析。",
@@ -2032,36 +2047,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTY1YjMtN2FjOC03MDEwLWFiNWEtNTcyZTM0YmRmMTE1.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/ether-hits-new-multiyear-high-as-tom-lee-s-bitmine-plans-20b-eth-raise",
-          "author": "Cointelegraph  William Suberg",
-          "description": "イーサリアム（ETH）は火曜日、4500ドルに接近し、主要企業による大規模な購入計画が最大のアルトコインにさらなる追い風となった。",
-          "link": "https://jp.cointelegraph.com/news/ether-hits-new-multiyear-high-as-tom-lee-s-bitmine-plans-20b-eth-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-08-12T16:56:49.000Z",
-          "wordCount": null,
-          "title": "イーサリアム 4500ドル目前に迫る　ETHトレジャリー企業の大量購入計画が材料に",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODllZWYtNzQwOS03YTNmLTkzZTgtOGM0NWI5ODAyOWIy.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODllZWYtNzQwOS03YTNmLTkzZTgtOGM0NWI5ODAyOWIy.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/is-30-xrp-price-realistic-in-this-bull-cycle",
-          "author": "Cointelegraph  Yashu Gola",
-          "description": "XRP（XRP）は昨年11月以降、550％以上の上昇をみせ、火曜日には3ドルを突破した。この急伸を受け、テクニカルアナリストのガート・ファン・ラーゲン氏は、今回の強気サイクルで最大34ドルまで上昇する可能性があると予測している。",
-          "link": "https://jp.cointelegraph.com/news/is-30-xrp-price-realistic-in-this-bull-cycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-08-12T16:22:50.000Z",
-          "wordCount": null,
-          "title": "XRP 30ドルまで上昇することができるか？ 7年ぶりのダブルボトム突破　強気派は34ドル到達を予測",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzg3MTUtNGYwNS03MDE5LTlhNzAtNGIzN2U2YmY3NDU0.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzg3MTUtNGYwNS03MDE5LTlhNzAtNGIzN2U2YmY3NDU0.jpg"
         }
       ]
     },

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-17T22:41:44.625Z</updated>
+    <updated>2025-08-17T23:15:15.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日本金融庁、今秋に初の円連動ステーブルコインを承認へ]]></title>
+        <id>https://jp.cointelegraph.com/news/japan-approves-first-yen-stablecoin-jpyc</id>
+        <link href="https://jp.cointelegraph.com/news/japan-approves-first-yen-stablecoin-jpyc?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-17T22:56:32.000Z</updated>
+        <summary type="html"><![CDATA[金融庁がJPYCを国内初の円連動ステーブルコインとして承認する見通しだ。日本国債需要を変える可能性がある。]]></summary>
+        <author>
+            <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qubicコミュニティ、モネロに続き次の51％攻撃対象にドージコインを選択]]></title>
+        <id>https://jp.cointelegraph.com/news/qubic-monero-51percent-attacker-target-doge-next</id>
+        <link href="https://jp.cointelegraph.com/news/qubic-monero-51percent-attacker-target-doge-next?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-17T22:46:43.000Z</updated>
+        <summary type="html"><![CDATA[AIに特化したブロックチェーンプロジェクトQubicのコミュニティが、ジーキャッシュやカスパではなくドージコインを標的とすることを大差で決定した。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、BTC価格の上昇トレンドが7週目入りで2025年の新たな調整リスク]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-risks-2025-correction-btc-price-uptrend-starts-7th-week</id>

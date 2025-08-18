@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=308691",
+          "author": "Krisztian Sandor",
+          "description": "Fundstratのトム・リー（Tom Lee）氏が率いる、イーサリアム（ETH）に特化したデジタル資産トレジャリー戦略を持つ上場企業のビットマイン・イマージョ ...\nビットマイン、イーサリアム保有高が約9800億円を突破──株価はETHの急落に伴い7%下落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/308691/",
+          "publishedOn": "2025-08-18T22:30:00.000Z",
+          "wordCount": 1324,
+          "title": "ビットマイン、イーサリアム保有高が約9800億円を突破──株価はETHの急落に伴い7%下落",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/67329aa9da55971a233a2da7702075c646669b15-2728x1535-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=308686",
           "author": "Oliver Knight",
           "description": "先週の熱狂的な史上最高値更新や、ビットコイン（BTC）の価格目標30万ドルという興奮から一転し、暗号資産市場で最も注目されている一部のトレーダーは現在、ビットコ ...\n複数の著名暗号資産トレーダー、BTCとETHに対して弱気に転換──センチメントが大きくシフト first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -1455,16 +1465,6 @@
           "wordCount": 762,
           "title": "グレースケール、カルダノ（ADA）とヘデラ（HBAR）のETFを米デラウェア州で法定信託として登録",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/14200516/268f9c26830fe5721f8aaae2f857ccf5.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=488085",
-          "author": "OtsugaShinya",
-          "description": "ド・クォンが米国詐欺罪で有罪を認める 2022年に推定400億ドルを失わせた2つのデジタル通貨の仕掛け人である韓国の暗号資産（仮想通貨）起業家、ド・クォン（Do Kwon）氏が、米国での詐欺を目的とする共謀および電信詐欺 […]",
-          "link": "https://www.neweconomy.jp/posts/488085",
-          "publishedOn": "2025-08-14T10:36:19.000Z",
-          "wordCount": 645,
-          "title": "テラ創業者ド・クォン、米国で詐欺罪を認める、最長25年の禁錮刑",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/14193612/219ca84a9afd220d88194a466cdeb27a.jpg"
         }
       ]
     },
@@ -1473,6 +1473,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitmine-eth-holdings-reach-6-6b-share-price-tumbles",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "ETHを最も多く保有する2社、ビットマインとシャープリンクが、エコシステムへの関心の高まりを受けてイーサの買い増しを急いでいる。",
+          "link": "https://jp.cointelegraph.com/news/bitmine-eth-holdings-reach-6-6b-share-price-tumbles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-18T22:36:39.000Z",
+          "wordCount": null,
+          "title": "ビットマイン、ETH保有額が66億ドルに拡大　株価は1週間で14％下落",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGJlMTctNmVhMi03OTE1LWI1MmUtYWIwM2E4NDliMTYy.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGJlMTctNmVhMi03OTE1LWI1MmUtYWIwM2E4NDliMTYy.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/ether-trader-turns-125k-43m-market-downturn",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "ある投資家が12万5,000ドルの投資をピーク時には約4,300万ドルにまで増やした後、市場下落でロングポジションが減少するなかで約700万ドルの利益を確定した。",
+          "link": "https://jp.cointelegraph.com/news/ether-trader-turns-125k-43m-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-18T22:25:16.000Z",
+          "wordCount": null,
+          "title": "イーサ投資家、12万5,000ドルを4,300万ドルに　市場下落後に700万ドルを確定",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzBhNmQtY2Y1ZC03MWY3LTkxNTQtNzY3Nzc0YzRhNzU0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzBhNmQtY2Y1ZC03MWY3LTkxNTQtNzY3Nzc0YzRhNzU0.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/price-predictions-8-18-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-link",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "ビットコインは息切れの兆候を示しており、11万530ドルのサポートに向けてより深い調整に入る可能性がある。アルトコインも追随するのか。",
+          "link": "https://jp.cointelegraph.com/news/price-predictions-8-18-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-18T22:18:18.000Z",
+          "wordCount": null,
+          "title": "深い調整に入るか　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGJlMjYtNzgxNy03MTNlLTg0MGEtOTNkYmRjODc4ZTg2.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGJlMjYtNzgxNy03MTNlLTg0MGEtOTNkYmRjODc4ZTg2.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0818",
           "author": "Cointelegraph  ビットバンク　長谷川友哉",
@@ -2084,26 +2129,6 @@
           "wordCount": 646,
           "title": "「次のメタプラ」はイーサリアム財務？注目企業2選",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/shutterstock_2022017582-1.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=141664",
-          "author": "よきょい",
-          "description": "イーサリアム（ETH）の力強い上昇トレンドを背景に、短期売買を試みた大口投資家（クジラ）が売却時よりも大幅に高い価格でETHを買い戻す動きが観測されました。 この取引は市場の予想を上回るイーサリアムの勢いを象徴する出来事 […]\n投稿 ETHクジラ、短期売買で大失敗｜高値買い戻しで市場の強さを証明 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-eth-whales-fail-in-short-term-trading/",
-          "publishedOn": "2025-08-14T10:24:40.000Z",
-          "wordCount": 619,
-          "title": "ETHクジラ、短期売買で大失敗｜高値買い戻しで市場の強さを証明",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/shutterstock_1842481867.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=141659",
-          "author": "よきょい",
-          "description": "著名な暗号資産アナリストがビットコイン（BTC）の今後の価格動向について新たな分析を発表しました。 9月の米連邦公開市場委員会（FOMC）に向けて、市場の利下げ期待を背景にビットコインは14万ドル台まで上昇する可能性があ […]\n投稿 ビットコイン、9月FOMCまでに14万ドルへ？アナリストが新予測を発表 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-bitcoin-to-hit-140000-by-september-fomc-meeting-analyst-issues-new-prediction/",
-          "publishedOn": "2025-08-14T10:19:30.000Z",
-          "wordCount": 649,
-          "title": "ビットコイン、9月FOMCまでに14万ドルへ？アナリストが新予測を発表",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/shutterstock_2431016787.jpg"
         }
       ]
     }

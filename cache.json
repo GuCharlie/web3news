@@ -425,6 +425,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=643189",
+          "author": "Ritsuki.Kumazawa",
+          "description": "Web3マーケティング企業のNewLoは8月18日、「NewLo Quest」でポイントを暗号資産ETHに交換できる機能を開始。企業向けサービスも展開し、既存ポイントプログラムのブロックチェーン拡張を支援。",
+          "link": "https://coinpost.jp/?p=643189",
+          "publishedOn": "2025-08-18T06:50:38.000Z",
+          "wordCount": 3244,
+          "title": "NewLo、リワードプログラム上のポイントを暗号資産に交換できる新機能をリリース",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/newloquestpoint0818.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/newloquestpoint0818.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=643153",
           "author": "幸田直子",
           "description": "スイスの大手スーパーマーケットチェーン「SPAR」が全国100店舗で仮想通貨決済を開始した。Binance PayとDFX.swissとの提携により、100種類以上の仮想通貨とステーブルコインでの支払いが可能になる。",
@@ -1226,6 +1241,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=488806",
+          "author": "HitomotoToshikazu",
+          "description": "Bitwiseと21SharesのソラナETF判断延長 米証券取引委員会（SEC）が、暗号資産（仮想通貨）ソラナ（SOL）の現物価格に基づくETF（上場投資信託）「Bitwise Solana ETF」と「21Share […]",
+          "link": "https://www.neweconomy.jp/posts/488806",
+          "publishedOn": "2025-08-18T06:50:12.000Z",
+          "wordCount": 785,
+          "title": "米SEC、ビットワイズと21シェアーズの「ソラナ（SOL）現物ETF」の最終判断10/16に延期",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/18154831/99ee750447c2cb99b81675f562c92e9e.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=488785",
+          "author": "gentosha_takahashi",
+          "description": "顧客資産保護の強化策を提示 香港で認可を受けた暗号資産（仮想通貨）取引所（VATP）における顧客資産のカストディ実務を強化する基準と実践例が香港証券先物委員会（SFC）より8月15日に発表された。 SFCは発表にて、「海 […]",
+          "link": "https://www.neweconomy.jp/posts/488785",
+          "publishedOn": "2025-08-18T06:29:55.000Z",
+          "wordCount": 727,
+          "title": "香港SFC、認可暗号資産取引所にカストディ基準を提示",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/18152946/fbf1081cd2db9a161cbe5bffcafec42a.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=488719",
           "author": "OtsugaShinya",

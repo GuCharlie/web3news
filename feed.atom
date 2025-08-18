@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-18T23:14:56.812Z</updated>
+    <updated>2025-08-18T23:37:23.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国大手銀招商銀行傘下のCMB、香港で仮想通貨取引サービス開始]]></title>
+        <id>https://coinpost.jp/?p=643368</id>
+        <link href="https://coinpost.jp/?p=643368"/>
+        <updated>2025-08-18T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[中国系銀行系証券会社として初中国の大手銀行「招商銀行」傘下の招銀国際証券（CMB）は18日、香港で仮想通貨取引サービスを正式に開始したと発表した。同社は7月11日に香港証監会から既存証券取引ライセンスの仮想通貨取引サービス対応への格上げ承認...]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサETFが記録更新、仮想通貨商品への流入額は37億5,000万ドル]]></title>
+        <id>https://jp.cointelegraph.com/news/crypto-funds-inflows-3-75-billion-ether-etf-trading-volume-record</id>
+        <link href="https://jp.cointelegraph.com/news/crypto-funds-inflows-3-75-billion-ether-etf-trading-volume-record?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-18T23:12:39.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインが12万4,000ドル超の最高値を記録したにもかかわらず、イーサは依然としてETP流入を主導し、史上最高値に迫る水準まで上昇した。]]></summary>
+        <author>
+            <name>Cointelegraph  Helen Partz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国招商銀行系子会社、香港で仮想通貨取引所を開設]]></title>
         <id>https://jp.cointelegraph.com/news/china-merchants-bank-hong-kong-crypto-exchange</id>
@@ -1768,16 +1788,6 @@ Binance Academy、Web3出張授業ツアーを全国7都市で開催 first appea
 投稿 イーサリアムETF、取引高31億ドル達成｜4ヶ月でETF資産9倍増 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産取引所ブリッシュ、米市場上場で初値2倍以上に上昇]]></title>
-        <id>https://www.neweconomy.jp/?p=488207</id>
-        <link href="https://www.neweconomy.jp/posts/488207"/>
-        <updated>2025-08-14T11:15:35.000Z</updated>
-        <summary type="html"><![CDATA[ブリッシュが米市場上場で初値2倍以上に 暗号資産（仮想通貨）取引所を運営するブリッシュ（Bullish）が、ニューヨーク証券取引所（NYSE）に8月13日に新規上場した。初値は90ドルと、公開価格（37ドル）の2倍以上と […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>

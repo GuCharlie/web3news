@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-18T10:18:52.452Z</updated>
+    <updated>2025-08-18T10:46:40.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ApeChainのNFT「NightGlyders」フロアプライスが4日間で約3倍以上に]]></title>
+        <id>https://crypto-times.jp/?p=141896</id>
+        <link href="https://crypto-times.jp/news-nightglyders/"/>
+        <updated>2025-08-18T10:33:17.000Z</updated>
+        <summary type="html"><![CDATA[ApeChain上で展開されているNFTコレクション「NightGlyders」のフロアプライスが急激な上昇を見せています。 Coingeckoのデータによると、8月14日時点で約31.5 APEだったフロアプライスは記 […]
+投稿 ApeChainのNFT「NightGlyders」フロアプライスが4日間で約3倍以上に は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナ、ストレス負荷下で一時的に10万TPSを達成──SOLの魅力をさらに高める]]></title>
+        <id>https://www.coindeskjapan.com/?p=308652</id>
+        <link href="https://www.coindeskjapan.com/308652/"/>
+        <updated>2025-08-18T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ブロックデータによると、ソラナ（Solana）は週末にメインネット上で1秒あたり10万件を超えるトランザクションを一時的に記録した。 ブロックは4万3016件の ...
+ソラナ、ストレス負荷下で一時的に10万TPSを達成──SOLの魅力をさらに高める first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[シャープリンクのイーサリアム保有量72万8,804ETHに、ステーキングで1,326ETH獲得も]]></title>
         <id>https://www.neweconomy.jp/?p=488880</id>
@@ -2114,26 +2136,6 @@ Binance Academy、Web3出張授業ツアーを全国7都市で開催 first appea
         <summary type="html"><![CDATA[「アルトコイン」や「イーサリアム」のGoogle検索件数が数年ぶりの高水準に達しており、アルトコインETFの申請ラッシュやビットコイン以外への企業財務戦略の広がりと時期を同じくしている。]]></summary>
         <author>
             <name>Cointelegraph  Nate Kostar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムのコア開発者、悪意あるAI拡張機能でウォレットを流出]]></title>
-        <id>https://jp.cointelegraph.com/news/core-ethereum-devs-crypto-wallet-drained-ai-extension</id>
-        <link href="https://jp.cointelegraph.com/news/core-ethereum-devs-crypto-wallet-drained-ai-extension?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-08-13T22:37:52.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムのコア開発者ザック・コール氏が、悪意あるCursor拡張機能によって秘密鍵を盗まれ、ウォレットドレイナー攻撃の脅威が開発者にも広がっていることが浮き彫りになった。]]></summary>
-        <author>
-            <name>Cointelegraph  Zoltan Vardai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グーグルプレイ、仮想通貨ウォレット開発者に新たなライセンス要件]]></title>
-        <id>https://jp.cointelegraph.com/news/google-play-store-sets-new-licensing-rules-crypto-wallet-developers</id>
-        <link href="https://jp.cointelegraph.com/news/google-play-store-sets-new-licensing-rules-crypto-wallet-developers?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-08-13T22:22:33.000Z</updated>
-        <summary type="html"><![CDATA[10月29日に発効するグーグルプレイの新ポリシーにより、一部の国では仮想通貨ウォレットアプリに特定のライセンス取得が義務付けられる。]]></summary>
-        <author>
-            <name>Cointelegraph  Christopher Tepedino</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-19T17:14:10.270Z</updated>
+    <updated>2025-08-19T17:39:29.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[カルダノ　1ドル突破で始まる本格ラリー　1.8ドルがターゲットに]]></title>
+        <id>https://jp.cointelegraph.com/news/cardano-massive-rally-one-dollar-breaks-how-high-can-ada-price-go</id>
+        <link href="https://jp.cointelegraph.com/news/cardano-massive-rally-one-dollar-breaks-how-high-can-ada-price-go?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-19T17:27:43.000Z</updated>
+        <summary type="html"><![CDATA[カルダノ（ADA）は8月に一時37％上昇した後、やや反落したが、複数の強気シグナルが示す通り、1ドル突破は時間の問題とみられている。]]></summary>
+        <author>
+            <name>Cointelegraph  Nancy Lubale</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン　年末に20万ドル到達も　401(k)年金から仮想通貨への資金流入に期待＝アナリスト]]></title>
         <id>https://jp.cointelegraph.com/news/401-k-crypto-retirement-plans-bitcoin-etf-analyst</id>
@@ -1916,16 +1926,6 @@ FRB、銀行の暗号資産関連活動監督を目的とした特別プログ�
         <summary type="html"><![CDATA[スタンダードチャータード銀行がETHの年末価格予想を引き上げ 英銀行スタンダードチャータード（Standard Chartered）は8月13日、暗号資産（仮想通貨）イーサリアム（ETH）の年末目標価格を4,000ドルか […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベース、メタマスクユーザーのUSDC手数料をBase上で半額に]]></title>
-        <id>https://coinpost.jp/?p=642682</id>
-        <link href="https://coinpost.jp/?p=642682"/>
-        <updated>2025-08-15T05:20:50.000Z</updated>
-        <summary type="html"><![CDATA[米大手取引所コインベースは、決済プラットフォームMercuryoと提携し、MetaMaskユーザーのUSDC購入手数料を50%削減する。また、USDCを発行するCircle社はステーブルコインに特化したL1ブロックチェーンの開発計画を発表。USDCのエコシステム拡大につながると期待されている。]]></summary>
-        <author>
-            <name>幸田直子</name>
         </author>
     </entry>
 </feed>

@@ -1098,21 +1098,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/xstock0814.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/xstock0814.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=642682",
-          "author": "幸田直子",
-          "description": "米大手取引所コインベースは、決済プラットフォームMercuryoと提携し、MetaMaskユーザーのUSDC購入手数料を50%削減する。また、USDCを発行するCircle社はステーブルコインに特化したL1ブロックチェーンの開発計画を発表。USDCのエコシステム拡大につながると期待されている。",
-          "link": "https://coinpost.jp/?p=642682",
-          "publishedOn": "2025-08-15T05:20:50.000Z",
-          "wordCount": 3219,
-          "title": "コインベース、メタマスクユーザーのUSDC手数料をBase上で半額に",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/usdc2.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/usdc2.png"
         }
       ]
     },
@@ -1488,6 +1473,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/cardano-massive-rally-one-dollar-breaks-how-high-can-ada-price-go",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "カルダノ（ADA）は8月に一時37％上昇した後、やや反落したが、複数の強気シグナルが示す通り、1ドル突破は時間の問題とみられている。",
+          "link": "https://jp.cointelegraph.com/news/cardano-massive-rally-one-dollar-breaks-how-high-can-ada-price-go?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-19T17:27:43.000Z",
+          "wordCount": null,
+          "title": "カルダノ　1ドル突破で始まる本格ラリー　1.8ドルがターゲットに",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGMyYTItNmYyOS03MDZiLWIxYjQtYzMyZDVkZjc1Njlh.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGMyYTItNmYyOS03MDZiLWIxYjQtYzMyZDVkZjc1Njlh.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/401-k-crypto-retirement-plans-bitcoin-etf-analyst",
           "author": "Cointelegraph  Zoltan Vardai",

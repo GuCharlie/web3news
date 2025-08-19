@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-19T08:47:02.398Z</updated>
+    <updated>2025-08-19T09:17:05.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインに追い風となるか　パウエル氏の後任とFRBのハト派転換に市場注目]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-price-factor-top-federal-reserve-chair-september-rate-cuts</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-price-factor-top-federal-reserve-chair-september-rate-cuts?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-19T09:13:04.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）投資家は、米連邦準備制度理事会（FRB）が今後よりハト派（金融緩和寄り）に傾く可能性をまだ織り込んでいないかもしれない]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインネットワークのハッシュレート、8月最初の2週間で4%上昇：JPモルガン]]></title>
         <id>https://www.coindeskjapan.com/?p=308759</id>
@@ -2238,27 +2248,6 @@ Binance Academy、Web3出張授業ツアーを全国7都市で開催 first appea
 アーク・インベスト、Bullish株をニューヨーク証券取引所上場初日に250万株強購入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Helene Braun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グーグル、BTCマイニング企業テラウルフの株式を8%取得へ]]></title>
-        <id>https://coinpost.jp/?p=642486</id>
-        <link href="https://coinpost.jp/?p=642486"/>
-        <updated>2025-08-14T21:10:25.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインマイニング企業テラウルフがフルイドスタックと10年契約を締結し、グーグルが18億ドル保証で8%株式取得へ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テラウルフ、37億ドルのAIホスティング契約で株価が22％上昇──グーグルが8％の株式を取得]]></title>
-        <id>https://www.coindeskjapan.com/?p=308253</id>
-        <link href="https://www.coindeskjapan.com/308253/"/>
-        <updated>2025-08-14T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[テラウルフ（TeraWulf）は、AIクラウドプラットフォームであるフルイドスタック（Fluidstack）と、10年間のハイパフォーマンスコンピューティング（ ...
-テラウルフ、37億ドルのAIホスティング契約で株価が22％上昇──グーグルが8％の株式を取得 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
         </author>
     </entry>
 </feed>

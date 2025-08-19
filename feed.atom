@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-19T17:39:29.819Z</updated>
+    <updated>2025-08-19T18:21:27.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BTCは11万4000ドルを割り込み、ETHは4200ドル割れ──ジャクソンホールでのタカ派的サプライズに身構える投資家たち]]></title>
+        <id>https://www.coindeskjapan.com/?p=308825</id>
+        <link href="https://www.coindeskjapan.com/308825/"/>
+        <updated>2025-08-19T18:06:26.000Z</updated>
+        <summary type="html"><![CDATA[投資家たちは、8月22日にジャクソンホールで行われるFRBのパウエル議長の講演にタカ派的なサプライズがあるかもしれないと慎重になり、ビットコイン（BTC）が11 ...
+BTCは11万4000ドルを割り込み、ETHは4200ドル割れ──ジャクソンホールでのタカ派的サプライズに身構える投資家たち first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Krisztian Sandor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[カルダノ　1ドル突破で始まる本格ラリー　1.8ドルがターゲットに]]></title>
         <id>https://jp.cointelegraph.com/news/cardano-massive-rally-one-dollar-breaks-how-high-can-ada-price-go</id>
@@ -1916,16 +1927,6 @@ FRB、銀行の暗号資産関連活動監督を目的とした特別プログ�
         <summary type="html"><![CDATA[xStocks（エックスストックス）はAppleやTeslaなど米国株をブロックチェーン上でトークン化し、24時間365日取引可能にした革新的サービス。DEXでの購入方法、リスク、税務上の注意点まで初心者向けに詳しく解説します。]]></summary>
         <author>
             <name>M.Somekawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スタンダードチャータード銀行、イーサリアムの年末価格予想を7500ドルに引き上げ]]></title>
-        <id>https://www.neweconomy.jp/?p=488328</id>
-        <link href="https://www.neweconomy.jp/posts/488328"/>
-        <updated>2025-08-15T05:46:07.000Z</updated>
-        <summary type="html"><![CDATA[スタンダードチャータード銀行がETHの年末価格予想を引き上げ 英銀行スタンダードチャータード（Standard Chartered）は8月13日、暗号資産（仮想通貨）イーサリアム（ETH）の年末目標価格を4,000ドルか […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>

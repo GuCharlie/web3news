@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-19T20:17:45.044Z</updated>
+    <updated>2025-08-19T20:38:41.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所Bullish、IPO調達資金11.5億ドルをステーブルコインで受領]]></title>
+        <id>https://coinpost.jp/?p=643664</id>
+        <link href="https://coinpost.jp/?p=643664"/>
+        <updated>2025-08-19T20:30:27.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所ブリッシュがIPO調達資金11.5億ドルを全てステーブルコインで受け取り、米国IPO史上初の事例を達成。ソラナネットワークを活用しコインベースが保管。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアムのクジラ　1600万ドルのロングポジションを構築　反発開始に賭ける]]></title>
         <id>https://jp.cointelegraph.com/news/ethereum-whale-opens-16-3m-long-as-eth-price-eyes-bounce</id>
@@ -2145,26 +2155,6 @@ FRB、銀行の暗号資産関連活動監督を目的とした特別プログ�
         <summary type="html"><![CDATA[ユニスワップ財団が新法人の設立提案 ユニスワップ財団（Uniswap Foundation）が、米ワイオミング州のDAO（自律分散型組織）向け法的枠組み「DUNA」に基づき、分散型取引所（DEX）ユニスワップ（Unisw […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PPIサプライズでBTC急反落　FRBによる大幅利下げ観測後退【ビットバンク仮想通貨分析】]]></title>
-        <id>https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0815</id>
-        <link href="https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0815?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-08-15T08:25:43.000Z</updated>
-        <summary type="html"><![CDATA[14日のビットコイン（BTC）円は1813万8050円から取引が始まった。]]></summary>
-        <author>
-            <name>Cointelegraph  ビットバンク　長谷川友哉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Base Appとは？コインベースのWeb3アプリの使い方を徹底解説]]></title>
-        <id>https://coinpost.jp/?p=636727</id>
-        <link href="https://coinpost.jp/?p=636727"/>
-        <updated>2025-08-15T08:21:39.000Z</updated>
-        <summary type="html"><![CDATA[CoinbaseのBase Appの特徴、始め方、エアドロップの可能性を詳しく解説。Web3スーパーアプリとして進化するBase Appで、ソーシャル・決済・DeFi機能を一つのアプリで体験。国内取引所からの送金方法も完全ガイド。]]></summary>
-        <author>
-            <name>M.Somekawa</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-19T21:14:35.570Z</updated>
+    <updated>2025-08-19T21:37:09.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[シャープリンクのETH保有高、約4700億円に──獲得ペースではビットマインに後れ]]></title>
+        <id>https://www.coindeskjapan.com/?p=308833</id>
+        <link href="https://www.coindeskjapan.com/308833/"/>
+        <updated>2025-08-19T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムの共同創設者であるジョー・ルービン（Joe Lubin）氏が率いる、ナスダック上場のイーサリアム（ETH）トレジャリー企業であるシャープリンク・ゲー ...
+シャープリンクのETH保有高、約4700億円に──獲得ペースではビットマインに後れ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Krisztian Sandor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号資産強気相場、2027年まで続く可能性：バーンスタイン]]></title>
         <id>https://www.coindeskjapan.com/?p=308829</id>
@@ -2124,16 +2135,6 @@ FRB、銀行の暗号資産関連活動監督を目的とした特別プログ�
 香港規制当局、認可を受けた暗号資産取引所の保管基準を厳格化 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Sam Reynolds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TISとgC Labsのヒノデテクノロジーズ、機関投資家向けブロックチェーン「Canton Network」のノード運営開始]]></title>
-        <id>https://www.neweconomy.jp/?p=488399</id>
-        <link href="https://www.neweconomy.jp/posts/488399"/>
-        <updated>2025-08-15T09:28:32.000Z</updated>
-        <summary type="html"><![CDATA[Hinode TechnologiesがCanton Networkのノード運営参加 ヒノデテクノロジーズ（Hinode Technologies）によるカントンネットワーク（Canton Network）のノード運営開 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>

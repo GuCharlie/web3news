@@ -1078,36 +1078,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/basesamune0815.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/basesamune0815.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=626587",
-          "author": "Ritsuki.Kumazawa",
-          "description": "大規模カンファレンス「WebX 2025」のタイトルスポンサーとしてブース出展を決めた、TRONのジャスティン・サン（Justin Sun）独占インタビュー。80億人の金融自由実現に向けたビジョンと、日本のWeb3市場への期待、WebX 2025参画について聞く。",
-          "link": "https://coinpost.jp/?p=626587",
-          "publishedOn": "2025-08-15T07:00:19.000Z",
-          "wordCount": 4576,
-          "title": "TRON創設者ジャスティン・サンが語るWeb3の未来｜WebXスポンサーインタビュー",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/1200%C3%97600_sponsor_TRON-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/1200%C3%97600_sponsor_TRON-1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=632786",
-          "author": "M.Somekawa",
-          "description": "xStocks（エックスストックス）はAppleやTeslaなど米国株をブロックチェーン上でトークン化し、24時間365日取引可能にした革新的サービス。DEXでの購入方法、リスク、税務上の注意点まで初心者向けに詳しく解説します。",
-          "link": "https://coinpost.jp/?p=632786",
-          "publishedOn": "2025-08-15T07:00:17.000Z",
-          "wordCount": 2568,
-          "title": "xStocksとは？仕組みと活用例をわかりやすく解説",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/xstock0814.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/xstock0814.png"
         }
       ]
     },
@@ -1455,16 +1425,6 @@
           "wordCount": 738,
           "title": "Google Playストア、暗号資産取引サービスやウォレットにライセンス取得を義務化、日米含む15の地域で対象",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/15162546/cf2cd13c2701cba8b7f476eea2c5ca94.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=488345",
-          "author": "OtsugaShinya",
-          "description": "ソラミツCBDCのCBDC実証事業が経産省の補助金に採択 ソラミツCBDCによる、パプアニューギニア独立国、ソロモン諸島、パキスタン・イスラム共和国、パラオ共和国における中央銀行デジタル通貨および貯蓄国債システム実証事業 […]",
-          "link": "https://www.neweconomy.jp/posts/488345",
-          "publishedOn": "2025-08-15T07:09:44.000Z",
-          "wordCount": 735,
-          "title": "ソラミツCBDC、パプアニューギニア等の中銀デジタル通貨の実証事業が経産省の小規模実証・FS事業に採択",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/15160937/0babc89ba718c227f69ff901dbf4a36a.jpg"
         }
       ]
     },
@@ -1473,6 +1433,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/cardano-massive-rally-one-dollar-breaks-how-high-can-ada-price-go",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "カルダノ（ADA）は8月に一時37％上昇した後、やや反落したが、複数の強気シグナルが示す通り、1ドル突破は時間の問題とみられている。",
+          "link": "https://jp.cointelegraph.com/news/cardano-massive-rally-one-dollar-breaks-how-high-can-ada-price-go?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-19T17:27:43.000Z",
+          "wordCount": null,
+          "title": "カルダノ　1ドル突破で始まる本格ラリー　1.8ドルがターゲットに",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGMyYTItNmYyOS03MDZiLWIxYjQtYzMyZDVkZjc1Njlh.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGMyYTItNmYyOS03MDZiLWIxYjQtYzMyZDVkZjc1Njlh.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/cardano-massive-rally-one-dollar-breaks-how-high-can-ada-price-go",
           "author": "Cointelegraph  Nancy Lubale",
@@ -1487,6 +1462,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGMyYTItNmYyOS03MDZiLWIxYjQtYzMyZDVkZjc1Njlh.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/401-k-crypto-retirement-plans-bitcoin-etf-analyst",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "米国で仮想通貨が退職年金制度に組み入れられたことが、ビットコインに数千億ドル規模の新たな資金流入を引き起こし、2025年末までにビットコイン価格が20万ドルに引き上げる可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/401-k-crypto-retirement-plans-bitcoin-etf-analyst?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-19T15:26:26.000Z",
+          "wordCount": null,
+          "title": "ビットコイン　年末に20万ドル到達も　401(k)年金から仮想通貨への資金流入に期待＝アナリスト",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGMxYzctOGNiOC03NTJkLTgyODQtZDM0NjZhNWQ1ODQz.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGMxYzctOGNiOC03NTJkLTgyODQtZDM0NjZhNWQ1ODQz.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/401-k-crypto-retirement-plans-bitcoin-etf-analyst",
@@ -1507,6 +1497,21 @@
           "id": "https://jp.cointelegraph.com/news/will-bitcoin-price-fall-to-110k-short-term-holders-sell-22k-btc-at-a-loss",
           "author": "Cointelegraph  Nancy Lubale",
           "description": "ビットコイン（BTC）の価格は、11万6000ドルを下回る水準まで調整している。ジャクソンホール会合での米連邦準備制度理事会（FRB）のジェローム・パウエル議長の講演を控え、市場の不透明感が強まり、投資家やトレーダーがリスク評価を見直す動きが広がった。",
+          "link": "https://jp.cointelegraph.com/news/will-bitcoin-price-fall-to-110k-short-term-holders-sell-22k-btc-at-a-loss?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-19T15:00:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン　一時11万5000ドル割れ　短期保有者の損失確定売りが再燃",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGMxYmQtNjQ3Zi03YTAzLThmMzAtMjQ0ZTA3YTk3M2M5.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGMxYmQtNjQ3Zi03YTAzLThmMzAtMjQ0ZTA3YTk3M2M5.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/will-bitcoin-price-fall-to-110k-short-term-holders-sell-22k-btc-at-a-loss",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "ビットコイン（BTC）の価格は、11万6000ドルを下回る水準まで調整している。ジャクソンホール会合での米連邦準備制度理事会（FRB）のジェローム・パウエル議長の講演を控え、市場の不透明感が強まり、投資家やトレーダーがリスク評価を見直す動きが広がった。",
           "link": "https://jp.cointelegraph.com/news/will-bitcoin-price-fall-to-110k-short-term-holders-sell-22k-btc-at-a-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-08-19T15:00:00.000Z",
           "wordCount": null,
@@ -1517,6 +1522,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGMxYmQtNjQ3Zi03YTAzLThmMzAtMjQ0ZTA3YTk3M2M5.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-price-factor-top-federal-reserve-chair-september-rate-cuts",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "ビットコイン（BTC）投資家は、米連邦準備制度理事会（FRB）が今後よりハト派（金融緩和寄り）に傾く可能性をまだ織り込んでいないかもしれない",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-price-factor-top-federal-reserve-chair-september-rate-cuts?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-19T09:13:04.000Z",
+          "wordCount": null,
+          "title": "ビットコインに追い風となるか　パウエル氏の後任とFRBのハト派転換に市場注目",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjI2MzQtZmQwZS03YWY3LTkzMzctNDM0YjNjZDM3NzM4.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjI2MzQtZmQwZS03YWY3LTkzMzctNDM0YjNjZDM3NzM4.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-price-factor-top-federal-reserve-chair-september-rate-cuts",
@@ -1537,6 +1557,21 @@
           "id": "https://jp.cointelegraph.com/news/bitbank-s-bitcoin-daily-analysis-19th-august",
           "author": "Cointelegraph  ビットバンク　長谷川友哉",
           "description": "18日のビットコイン（BTC）円は1734万5001円から取引が始まった。東京時間は、21日から始まるジャクソンホール会議への警戒感に加え、アルトコイン相場の下げに連れて売り優勢で取引が始まり、中盤には1700万円割れを窺う展開となった。",
+          "link": "https://jp.cointelegraph.com/news/bitbank-s-bitcoin-daily-analysis-19th-august?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-19T07:57:26.000Z",
+          "wordCount": null,
+          "title": "BTCは売り一服も上値の重い展開　11.5万ドル巡る攻防続くか【ビットバンク仮想通貨分析】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2ExMTktYjgzNC03ZWUxLWE2ZDgtYzk2ZTQ2Y2Q4ZGM4.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2ExMTktYjgzNC03ZWUxLWE2ZDgtYzk2ZTQ2Y2Q4ZGM4.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitbank-s-bitcoin-daily-analysis-19th-august",
+          "author": "Cointelegraph  ビットバンク　長谷川友哉",
+          "description": "18日のビットコイン（BTC）円は1734万5001円から取引が始まった。東京時間は、21日から始まるジャクソンホール会議への警戒感に加え、アルトコイン相場の下げに連れて売り優勢で取引が始まり、中盤には1700万円割れを窺う展開となった。",
           "link": "https://jp.cointelegraph.com/news/bitbank-s-bitcoin-daily-analysis-19th-august?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-08-19T07:57:26.000Z",
           "wordCount": null,
@@ -1547,6 +1582,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2ExMTktYjgzNC03ZWUxLWE2ZDgtYzk2ZTQ2Y2Q4ZGM4.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-price-danger-zone-consolidation-profit-takers-analysts",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "ビットコイン（BTC）は、短期的に保ち合いの展開となる可能性が高まっている。過熱感を測る主要指標のひとつ「MVRV比率」が警戒ゾーンに達しており、保有者による利益確定売りが増えるとの見方が広がっている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-price-danger-zone-consolidation-profit-takers-analysts?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-19T07:46:34.000Z",
+          "wordCount": null,
+          "title": "ビットコイン投資家は利益確定に動くか？ MVRV指標が警戒ゾーンに",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzcxYzItN2ZmNS03NGRhLTliZmMtNmUxYjQyNzEwZTdl.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzcxYzItN2ZmNS03NGRhLTliZmMtNmUxYjQyNzEwZTdl.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-price-danger-zone-consolidation-profit-takers-analysts",
@@ -1567,6 +1617,21 @@
           "id": "https://jp.cointelegraph.com/news/google-largest-shareholder-terawulf-ai-data-center-fluidstack",
           "author": "Cointelegraph  Stephen Katte",
           "description": "テック大手グーグルが、ビットコインマイニング企業テラウルフの筆頭株主になる見込みとなった。これは、テラウルフとAIインフラ企業フルイドスタックとのリース契約において、グーグルが金融保証を拡大し、その見返りとしてテラウルフ株の新株予約権（ワラント）を受け取った。",
+          "link": "https://jp.cointelegraph.com/news/google-largest-shareholder-terawulf-ai-data-center-fluidstack?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-19T06:21:19.000Z",
+          "wordCount": null,
+          "title": "グーグル、ビットコインマイニング企業テラウルフの新株予約権を取得",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWY5ZjAtOWE4My03NjAxLTkyN2ItNDA0ZGJiZmQ5MmRi.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWY5ZjAtOWE4My03NjAxLTkyN2ItNDA0ZGJiZmQ5MmRi.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/google-largest-shareholder-terawulf-ai-data-center-fluidstack",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "テック大手グーグルが、ビットコインマイニング企業テラウルフの筆頭株主になる見込みとなった。これは、テラウルフとAIインフラ企業フルイドスタックとのリース契約において、グーグルが金融保証を拡大し、その見返りとしてテラウルフ株の新株予約権（ワラント）を受け取った。",
           "link": "https://jp.cointelegraph.com/news/google-largest-shareholder-terawulf-ai-data-center-fluidstack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-08-19T06:21:19.000Z",
           "wordCount": null,
@@ -1577,6 +1642,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWY5ZjAtOWE4My03NjAxLTkyN2ItNDA0ZGJiZmQ5MmRi.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/btcs-inc-pay-ethereum-dividend-loyalty-payment",
+          "author": "Cointelegraph  Brayden Lindrea",
+          "description": "イーサリアム・トレジャリー企業BTCSは、株主への報酬として、1株あたり合計0.40ドル相当のイーサリアム（ETH）による一時的な配当金とロイヤルティ支払いを行うと発表した。長期保有株主を優遇する方針を示し、短期的な売り圧力を抑え込む狙いだ。。",
+          "link": "https://jp.cointelegraph.com/news/btcs-inc-pay-ethereum-dividend-loyalty-payment?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-19T05:27:01.000Z",
+          "wordCount": null,
+          "title": "イーサリアム保有企業BTCS、ETHによる配当支払いを発表　売り圧力を抑え込む狙い",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGJmMzctMWRjYy03OTYzLWFiNzYtNzQ2ZDIzYjI1MzE5.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGJmMzctMWRjYy03OTYzLWFiNzYtNzQ2ZDIzYjI1MzE5.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/btcs-inc-pay-ethereum-dividend-loyalty-payment",
@@ -1597,6 +1677,21 @@
           "id": "https://jp.cointelegraph.com/news/sec-pushes-back-decisions-truth-social-solana-xrp-crypto-etfs",
           "author": "Cointelegraph  Nate Kostar",
           "description": "米証券取引委員会（SEC）は、注目を集める3つの仮想通貨上場投資信託（ETF）の判断を延期し、審査期限を10月に延長した。",
+          "link": "https://jp.cointelegraph.com/news/sec-pushes-back-decisions-truth-social-solana-xrp-crypto-etfs?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-19T04:54:50.000Z",
+          "wordCount": null,
+          "title": "SEC　ソラナやXRPなどの仮想通貨ETFの判断を再延期　10月に集中審査の見通し",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2UxM2EtYTIzNS03MmJmLTg1ODUtNWZlMjlkZjM3NzU0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2UxM2EtYTIzNS03MmJmLTg1ODUtNWZlMjlkZjM3NzU0.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/sec-pushes-back-decisions-truth-social-solana-xrp-crypto-etfs",
+          "author": "Cointelegraph  Nate Kostar",
+          "description": "米証券取引委員会（SEC）は、注目を集める3つの仮想通貨上場投資信託（ETF）の判断を延期し、審査期限を10月に延長した。",
           "link": "https://jp.cointelegraph.com/news/sec-pushes-back-decisions-truth-social-solana-xrp-crypto-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-08-19T04:54:50.000Z",
           "wordCount": null,
@@ -1607,6 +1702,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2UxM2EtYTIzNS03MmJmLTg1ODUtNWZlMjlkZjM3NzU0.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/xrp-price-analysis-bulls-are-in-trouble-and-must-quickly-reclaim-3",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "XRP（XRP）は月曜日に5％下落し、2.97ドルまで値を下げた。複数のテクニカルおよびオンチェーン指標は、XRPが3ドルの水準を回復できなければ2.24ドルまで調整する可能性があることを示唆している。",
+          "link": "https://jp.cointelegraph.com/news/xrp-price-analysis-bulls-are-in-trouble-and-must-quickly-reclaim-3?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-19T04:08:29.000Z",
+          "wordCount": null,
+          "title": "XRPに再び売り圧力　3ドル割れなら2.2ドル台への下落リスクも",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5Njg4NzUtNmYwYS03YmYzLTkwOWEtNzNjMDQxMDA2YWFj.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5Njg4NzUtNmYwYS03YmYzLTkwOWEtNzNjMDQxMDA2YWFj.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/xrp-price-analysis-bulls-are-in-trouble-and-must-quickly-reclaim-3",
@@ -1627,6 +1737,21 @@
           "id": "https://jp.cointelegraph.com/news/bitcoin-liquidity-zones-swept-but-uptick-in-open-interest-hints-at-btc-recovery",
           "author": "Cointelegraph  Big Smokey",
           "description": "ビットコイン（BTC）が史上最高値である12万4474ドルから急落した動きは、典型的な利確によるものに見えた。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-liquidity-zones-swept-but-uptick-in-open-interest-hints-at-btc-recovery?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-19T03:14:05.000Z",
+          "wordCount": null,
+          "title": "ビットコイン　一時的な調整も機関投資家の買い意欲は継続",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDVkZTAtMTRkMC03NzQ2LTkxYWUtZWM2N2RiMmUwMDM3.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDVkZTAtMTRkMC03NzQ2LTkxYWUtZWM2N2RiMmUwMDM3.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-liquidity-zones-swept-but-uptick-in-open-interest-hints-at-btc-recovery",
+          "author": "Cointelegraph  Big Smokey",
+          "description": "ビットコイン（BTC）が史上最高値である12万4474ドルから急落した動きは、典型的な利確によるものに見えた。",
           "link": "https://jp.cointelegraph.com/news/bitcoin-liquidity-zones-swept-but-uptick-in-open-interest-hints-at-btc-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-08-19T03:14:05.000Z",
           "wordCount": null,
@@ -1637,6 +1762,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDVkZTAtMTRkMC03NzQ2LTkxYWUtZWM2N2RiMmUwMDM3.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/eth-charts-predict-dollar3-9k-retest-then-a-100percent-rally-to-new-highs",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "イーサリアム（ETH）は、過去4年で最高の週足終値を記録し、新たな節目を迎えている。現在の相場は上下の主要な流動性ゾーンに挟まれ、11％を超える価格変動を引き起こしている。",
+          "link": "https://jp.cointelegraph.com/news/eth-charts-predict-dollar3-9k-retest-then-a-100percent-rally-to-new-highs?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-19T02:41:39.000Z",
+          "wordCount": null,
+          "title": "イーサリアム、最高値更新を巡る攻防へ　流動性とテクニカル指標が示す展開とは？",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODNhM2ItYjhmOC03ZjI0LWJhOWMtZjNlNjZlMTQ5NTA0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODNhM2ItYjhmOC03ZjI0LWJhOWMtZjNlNjZlMTQ5NTA0.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/eth-charts-predict-dollar3-9k-retest-then-a-100percent-rally-to-new-highs",
@@ -1657,6 +1797,21 @@
           "id": "https://jp.cointelegraph.com/news/next-bitcoin-buy-signal-could-come-from-bond-market-stress-analyst",
           "author": "Cointelegraph  Biraajmaan Tamuly",
           "description": "ビットコイン（BTC）は第4四半期に向けて再び強い上昇局面を迎える可能性があるが、その前に押し目となる局面が訪れるかもしれない。",
+          "link": "https://jp.cointelegraph.com/news/next-bitcoin-buy-signal-could-come-from-bond-market-stress-analyst?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-19T02:14:52.000Z",
+          "wordCount": null,
+          "title": "次のビットコインの押し目買いシグナル　債券市場がカギ握る＝アナリスト",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjFiMGMtZGRjYi03NTlkLTg0MmItZDkyYzZlYzUzYmUw.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjFiMGMtZGRjYi03NTlkLTg0MmItZDkyYzZlYzUzYmUw.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/next-bitcoin-buy-signal-could-come-from-bond-market-stress-analyst",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "ビットコイン（BTC）は第4四半期に向けて再び強い上昇局面を迎える可能性があるが、その前に押し目となる局面が訪れるかもしれない。",
           "link": "https://jp.cointelegraph.com/news/next-bitcoin-buy-signal-could-come-from-bond-market-stress-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-08-19T02:14:52.000Z",
           "wordCount": null,
@@ -1667,6 +1822,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjFiMGMtZGRjYi03NTlkLTg0MmItZDkyYzZlYzUzYmUw.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-funds-inflows-3-75-billion-ether-etf-trading-volume-record",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "ビットコインが12万4,000ドル超の最高値を記録したにもかかわらず、イーサは依然としてETP流入を主導し、史上最高値に迫る水準まで上昇した。",
+          "link": "https://jp.cointelegraph.com/news/crypto-funds-inflows-3-75-billion-ether-etf-trading-volume-record?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-18T23:12:39.000Z",
+          "wordCount": null,
+          "title": "イーサETFが記録更新、仮想通貨商品への流入額は37億5,000万ドル",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDc0M2EtNGJhOC03ZDEyLTkzODctYWEzOWRjNGM4ZTc3.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDc0M2EtNGJhOC03ZDEyLTkzODctYWEzOWRjNGM4ZTc3.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/crypto-funds-inflows-3-75-billion-ether-etf-trading-volume-record",
@@ -1687,6 +1857,21 @@
           "id": "https://jp.cointelegraph.com/news/china-merchants-bank-hong-kong-crypto-exchange",
           "author": "Cointelegraph  Adrian Zmudzinski",
           "description": "中国招商銀行の子会社が、仮想資産サービスプロバイダーライセンスを取得し、香港でプロ投資家向けの仮想通貨取引所を開設した。",
+          "link": "https://jp.cointelegraph.com/news/china-merchants-bank-hong-kong-crypto-exchange?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-18T22:53:51.000Z",
+          "wordCount": null,
+          "title": "中国招商銀行系子会社、香港で仮想通貨取引所を開設",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGJjOTItMDY5OS03Y2MyLWIyNTQtNDA4ZDk0ZTJhZTc1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGJjOTItMDY5OS03Y2MyLWIyNTQtNDA4ZDk0ZTJhZTc1.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/china-merchants-bank-hong-kong-crypto-exchange",
+          "author": "Cointelegraph  Adrian Zmudzinski",
+          "description": "中国招商銀行の子会社が、仮想資産サービスプロバイダーライセンスを取得し、香港でプロ投資家向けの仮想通貨取引所を開設した。",
           "link": "https://jp.cointelegraph.com/news/china-merchants-bank-hong-kong-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-08-18T22:53:51.000Z",
           "wordCount": null,
@@ -1697,6 +1882,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGJjOTItMDY5OS03Y2MyLWIyNTQtNDA4ZDk0ZTJhZTc1.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitmine-eth-holdings-reach-6-6b-share-price-tumbles",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "ETHを最も多く保有する2社、ビットマインとシャープリンクが、エコシステムへの関心の高まりを受けてイーサの買い増しを急いでいる。",
+          "link": "https://jp.cointelegraph.com/news/bitmine-eth-holdings-reach-6-6b-share-price-tumbles?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-18T22:36:39.000Z",
+          "wordCount": null,
+          "title": "ビットマイン、ETH保有額が66億ドルに拡大　株価は1週間で14％下落",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGJlMTctNmVhMi03OTE1LWI1MmUtYWIwM2E4NDliMTYy.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGJlMTctNmVhMi03OTE1LWI1MmUtYWIwM2E4NDliMTYy.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/bitmine-eth-holdings-reach-6-6b-share-price-tumbles",
@@ -1717,6 +1917,21 @@
           "id": "https://jp.cointelegraph.com/news/ether-trader-turns-125k-43m-market-downturn",
           "author": "Cointelegraph  Zoltan Vardai",
           "description": "ある投資家が12万5,000ドルの投資をピーク時には約4,300万ドルにまで増やした後、市場下落でロングポジションが減少するなかで約700万ドルの利益を確定した。",
+          "link": "https://jp.cointelegraph.com/news/ether-trader-turns-125k-43m-market-downturn?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-18T22:25:16.000Z",
+          "wordCount": null,
+          "title": "イーサ投資家、12万5,000ドルを4,300万ドルに　市場下落後に700万ドルを確定",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzBhNmQtY2Y1ZC03MWY3LTkxNTQtNzY3Nzc0YzRhNzU0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzBhNmQtY2Y1ZC03MWY3LTkxNTQtNzY3Nzc0YzRhNzU0.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/ether-trader-turns-125k-43m-market-downturn",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "ある投資家が12万5,000ドルの投資をピーク時には約4,300万ドルにまで増やした後、市場下落でロングポジションが減少するなかで約700万ドルの利益を確定した。",
           "link": "https://jp.cointelegraph.com/news/ether-trader-turns-125k-43m-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-08-18T22:25:16.000Z",
           "wordCount": null,
@@ -1727,6 +1942,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzBhNmQtY2Y1ZC03MWY3LTkxNTQtNzY3Nzc0YzRhNzU0.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/price-predictions-8-18-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-link",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "ビットコインは息切れの兆候を示しており、11万530ドルのサポートに向けてより深い調整に入る可能性がある。アルトコインも追随するのか。",
+          "link": "https://jp.cointelegraph.com/news/price-predictions-8-18-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-link?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-18T22:18:18.000Z",
+          "wordCount": null,
+          "title": "深い調整に入るか　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGJlMjYtNzgxNy03MTNlLTg0MGEtOTNkYmRjODc4ZTg2.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGJlMjYtNzgxNy03MTNlLTg0MGEtOTNkYmRjODc4ZTg2.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/price-predictions-8-18-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-link",
@@ -1747,6 +1977,21 @@
           "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0818",
           "author": "Cointelegraph  ビットバンク　長谷川友哉",
           "description": "11日〜17日のビットコイン（BTC）対円相場の週足終値は、前週比264,999円（1.50%）安の1734万5001円と反落した。",
+          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0818?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-18T09:02:03.000Z",
+          "wordCount": null,
+          "title": "ジャクソンホール控えBTC軟化　パウエルFRB議長はどう出るか？【ビットバンク仮想通貨分析】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0818",
+          "author": "Cointelegraph  ビットバンク　長谷川友哉",
+          "description": "11日〜17日のビットコイン（BTC）対円相場の週足終値は、前週比264,999円（1.50%）安の1734万5001円と反落した。",
           "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0818?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-08-18T09:02:03.000Z",
           "wordCount": null,
@@ -1757,6 +2002,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/japan-approves-first-yen-stablecoin-jpyc",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "金融庁がJPYCを国内初の円連動ステーブルコインとして承認する見通しだ。日本国債需要を変える可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/japan-approves-first-yen-stablecoin-jpyc?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-17T22:56:32.000Z",
+          "wordCount": null,
+          "title": "日本金融庁、今秋に初の円連動ステーブルコインを承認へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGI4MzgtMGFjNC03Nzg4LWJjMmMtYjczZWZmNGM1MGRi.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGI4MzgtMGFjNC03Nzg4LWJjMmMtYjczZWZmNGM1MGRi.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/japan-approves-first-yen-stablecoin-jpyc",
@@ -1777,6 +2037,21 @@
           "id": "https://jp.cointelegraph.com/news/qubic-monero-51percent-attacker-target-doge-next",
           "author": "Cointelegraph  Vince Quill",
           "description": "AIに特化したブロックチェーンプロジェクトQubicのコミュニティが、ジーキャッシュやカスパではなくドージコインを標的とすることを大差で決定した。",
+          "link": "https://jp.cointelegraph.com/news/qubic-monero-51percent-attacker-target-doge-next?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-17T22:46:43.000Z",
+          "wordCount": null,
+          "title": "Qubicコミュニティ、モネロに続き次の51％攻撃対象にドージコインを選択",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGI5Y2UtY2JmZi03N2QyLTlhMTQtZWU3Mzk1MmJjYWNi.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGI5Y2UtY2JmZi03N2QyLTlhMTQtZWU3Mzk1MmJjYWNi.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/qubic-monero-51percent-attacker-target-doge-next",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "AIに特化したブロックチェーンプロジェクトQubicのコミュニティが、ジーキャッシュやカスパではなくドージコインを標的とすることを大差で決定した。",
           "link": "https://jp.cointelegraph.com/news/qubic-monero-51percent-attacker-target-doge-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-08-17T22:46:43.000Z",
           "wordCount": null,
@@ -1787,6 +2062,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGI5Y2UtY2JmZi03N2QyLTlhMTQtZWU3Mzk1MmJjYWNi.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-risks-2025-correction-btc-price-uptrend-starts-7th-week",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコインは6週連続の上昇後、「価格発見調整」がほぼ避けられない状況にある。過去の動きは繰り返されるのか。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-risks-2025-correction-btc-price-uptrend-starts-7th-week?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-17T22:26:42.000Z",
+          "wordCount": null,
+          "title": "ビットコイン、BTC価格の上昇トレンドが7週目入りで2025年の新たな調整リスク",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGI4ZjktYWVmNS03YmQyLWI1NTAtYjcxNzU2NTI1NWFh.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGI4ZjktYWVmNS03YmQyLWI1NTAtYjcxNzU2NTI1NWFh.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-risks-2025-correction-btc-price-uptrend-starts-7th-week",
@@ -1807,6 +2097,21 @@
           "id": "https://jp.cointelegraph.com/news/us-fund-bitcoin-strategic-reserve-tariff-surplus",
           "author": "Cointelegraph  Vince Quill",
           "description": "提案には、安全な自己保管のための地理的に分散したマルチシグのコールドストレージ、準備金証明、予算上限が含まれている。",
+          "link": "https://jp.cointelegraph.com/news/us-fund-bitcoin-strategic-reserve-tariff-surplus?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-17T22:15:51.000Z",
+          "wordCount": null,
+          "title": "関税収入の余りでビットコイン戦略備蓄を拡充すべき＝アダム・リビングストン氏",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODVlZWItY2YyMi03NjgxLWIzNjMtNTRlNDNjYTYyYzhh.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODVlZWItY2YyMi03NjgxLWIzNjMtNTRlNDNjYTYyYzhh.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/us-fund-bitcoin-strategic-reserve-tariff-surplus",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "提案には、安全な自己保管のための地理的に分散したマルチシグのコールドストレージ、準備金証明、予算上限が含まれている。",
           "link": "https://jp.cointelegraph.com/news/us-fund-bitcoin-strategic-reserve-tariff-surplus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-08-17T22:15:51.000Z",
           "wordCount": null,
@@ -1817,6 +2122,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODVlZWItY2YyMi03NjgxLWIzNjMtNTRlNDNjYTYyYzhh.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bis-crypto-compliance-scores-aml-offramps",
+          "author": "Cointelegraph  Adrian Zmudzinski",
+          "description": "国際決済銀行（BIS）は、仮想通貨から法定通貨へのオフランプ（現金化）に関する新たなマネーロンダリング対策として、来歴に基づいたリスクスコア制度を導入すべきだとする提案を発表した。",
+          "link": "https://jp.cointelegraph.com/news/bis-crypto-compliance-scores-aml-offramps?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-16T21:00:00.000Z",
+          "wordCount": null,
+          "title": "仮想通貨のマネロン対策　取引履歴に基づいたリスクスコア導入案＝BIS専門家が議論",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGFkMjQtZTgyYy03ZGU2LTk3ZDQtZDhiZWRjOTdmYzRj.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGFkMjQtZTgyYy03ZGU2LTk3ZDQtZDhiZWRjOTdmYzRj.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/bis-crypto-compliance-scores-aml-offramps",
@@ -1837,6 +2157,21 @@
           "id": "https://jp.cointelegraph.com/news/ether-accumulation-heats-up-882m-in-eth-snapped-up-by-bitmine-whale",
           "author": "Cointelegraph  Amin Haqshanas",
           "description": "機関投資家によるイーサリアム（ETH）への関心が冷める気配を見せていない。ブロックチェーンデータによれば、直近で2つの大口投資家が計約8億8200万ドル相当のETHを購入したことが明らかとなった。",
+          "link": "https://jp.cointelegraph.com/news/ether-accumulation-heats-up-882m-in-eth-snapped-up-by-bitmine-whale?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-16T16:44:29.000Z",
+          "wordCount": null,
+          "title": "イーサリアムに機関投資家の関心集中　ビットマインとクジラが約8.8億ドル分を購入",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWMzMmItZDU3ZS03NzcxLWE1ZDctMjRhMDRmNDJhZTY5.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWMzMmItZDU3ZS03NzcxLWE1ZDctMjRhMDRmNDJhZTY5.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/ether-accumulation-heats-up-882m-in-eth-snapped-up-by-bitmine-whale",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "機関投資家によるイーサリアム（ETH）への関心が冷める気配を見せていない。ブロックチェーンデータによれば、直近で2つの大口投資家が計約8億8200万ドル相当のETHを購入したことが明らかとなった。",
           "link": "https://jp.cointelegraph.com/news/ether-accumulation-heats-up-882m-in-eth-snapped-up-by-bitmine-whale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-08-16T16:44:29.000Z",
           "wordCount": null,
@@ -1847,6 +2182,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWMzMmItZDU3ZS03NzcxLWE1ZDctMjRhMDRmNDJhZTY5.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/ether-bitcoin-social-chatter-sentiment-dip-buying-santiment-data",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "仮想通貨のセンチメント分析プラットフォームのサンティメントによると、短期的にはイーサリアム（ETH）がビットコイン（BTC）よりわずかに優位にあるという。",
+          "link": "https://jp.cointelegraph.com/news/ether-bitcoin-social-chatter-sentiment-dip-buying-santiment-data?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-16T15:11:27.000Z",
+          "wordCount": null,
+          "title": "イーサリアム、短期にビットコインを上回る可能性＝サンティメント",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2QzMGItM2M0YS03MTU1LWI0ZmItODYzNzgwYTQ0OWIy.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2QzMGItM2M0YS03MTU1LWI0ZmItODYzNzgwYTQ0OWIy.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/ether-bitcoin-social-chatter-sentiment-dip-buying-santiment-data",
@@ -1867,6 +2217,21 @@
           "id": "https://jp.cointelegraph.com/news/winklevoss-gemini-nasdaq-listing-strong-bullish-debut",
           "author": "Cointelegraph  Amin Haqshanas",
           "description": "仮想通貨取引所およびカストディサービスを展開するジェミナイ・スペース・ステーションが、米証券取引委員会（SEC）にクラスA普通株式のナスダック・グローバル・セレクト・マーケットへの上場申請を提出した。",
+          "link": "https://jp.cointelegraph.com/news/winklevoss-gemini-nasdaq-listing-strong-bullish-debut?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-16T09:41:06.000Z",
+          "wordCount": null,
+          "title": "ウィンクルボス兄弟の仮想通貨企業ジェミナイ　ナスダック上場を申請　GEMIのティッカーでIPOへ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzI0YzQtNTVmMi03OGM2LTg1MjUtMTAxN2VjNTYzNWUy.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzI0YzQtNTVmMi03OGM2LTg1MjUtMTAxN2VjNTYzNWUy.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/winklevoss-gemini-nasdaq-listing-strong-bullish-debut",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "仮想通貨取引所およびカストディサービスを展開するジェミナイ・スペース・ステーションが、米証券取引委員会（SEC）にクラスA普通株式のナスダック・グローバル・セレクト・マーケットへの上場申請を提出した。",
           "link": "https://jp.cointelegraph.com/news/winklevoss-gemini-nasdaq-listing-strong-bullish-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-08-16T09:41:06.000Z",
           "wordCount": null,
@@ -1877,6 +2242,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzI0YzQtNTVmMi03OGM2LTg1MjUtMTAxN2VjNTYzNWUy.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/trump-linked-american-bitcoin-asia-acquisitions-btc",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "米仮想通貨マイニング企業アメリカン・ビットコインが、ビットコイン（BTC）の購入をさらに進めるため、日本および香港での上場企業買収を検討していると報じられている。",
+          "link": "https://jp.cointelegraph.com/news/trump-linked-american-bitcoin-asia-acquisitions-btc?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-16T08:44:40.000Z",
+          "wordCount": null,
+          "title": "トランプ家関与の仮想通貨企業アメリカン・ビットコイン　日本企業の買収を模索　戦略的BTC蓄積を加速へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzg3OGItOWIyNi03Y2NlLTg1ZTctMTJhYWUzNTE1OGY1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzg3OGItOWIyNi03Y2NlLTg1ZTctMTJhYWUzNTE1OGY1.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/trump-linked-american-bitcoin-asia-acquisitions-btc",
@@ -1897,6 +2277,21 @@
           "id": "https://jp.cointelegraph.com/news/price-predictions-8-15-btc-eth-xrp-bnb-sol-doge-ada-link-hype-xlm",
           "author": "Cointelegraph  Rakesh Upadhyay",
           "description": "ビットコイン（BTC）は20日間指数移動平均線（EMA、11万7485ドル）まで下落しており、ここは短期的に重要なサポート水準になる。",
+          "link": "https://jp.cointelegraph.com/news/price-predictions-8-15-btc-eth-xrp-bnb-sol-doge-ada-link-hype-xlm?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-15T21:00:00.000Z",
+          "wordCount": null,
+          "title": "重要なサポートラインはどこか？ 仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGFlYmItMmEyOC03OGM3LTg0NmUtNGJlYWU3ZmRmODNk.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGFlYmItMmEyOC03OGM3LTg0NmUtNGJlYWU3ZmRmODNk.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/price-predictions-8-15-btc-eth-xrp-bnb-sol-doge-ada-link-hype-xlm",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "ビットコイン（BTC）は20日間指数移動平均線（EMA、11万7485ドル）まで下落しており、ここは短期的に重要なサポート水準になる。",
           "link": "https://jp.cointelegraph.com/news/price-predictions-8-15-btc-eth-xrp-bnb-sol-doge-ada-link-hype-xlm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "publishedOn": "2025-08-15T21:00:00.000Z",
           "wordCount": null,
@@ -1907,6 +2302,21 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGFlYmItMmEyOC03OGM3LTg0NmUtNGJlYWU3ZmRmODNk.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/ether-bull-flag-targets-dollar6k-as-eth-supply-on-exchanges-falls-to-12percent",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "イーサリアム（ETH）は木曜日、8月3日の安値3354ドルから45％上昇し、4792ドルと数年ぶりの高値を記録した。現在は史上最高値4867ドルの手前で保ち合いに入っている。",
+          "link": "https://jp.cointelegraph.com/news/ether-bull-flag-targets-dollar6k-as-eth-supply-on-exchanges-falls-to-12percent?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-15T18:43:11.000Z",
+          "wordCount": null,
+          "title": "イーサリアム　強気パターン確認で6000ドル到達の可能性も",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGFlMzgtMmMzOS03YTFjLWFjMjYtN2I0MjUzZjkwZWJm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGFlMzgtMmMzOS03YTFjLWFjMjYtN2I0MjUzZjkwZWJm.jpg"
         },
         {
           "id": "https://jp.cointelegraph.com/news/ether-bull-flag-targets-dollar6k-as-eth-supply-on-exchanges-falls-to-12percent",

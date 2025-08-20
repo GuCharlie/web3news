@@ -1268,21 +1268,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/sharplink-Q2.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/sharplink-Q2.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=642876",
-          "author": "菊谷ルイス",
-          "description": "拡大する規制緩和米連邦準備制度理事会（FRB）が8月15日、仮想通貨・フィンテック関連業務を監督する特別プログラムを終了すると発表した。同プログラムの知見を通常の監督プロセスに統合し、2023年に作成した監督レターを撤回する。中央銀行による...",
-          "link": "https://coinpost.jp/?p=642876",
-          "publishedOn": "2025-08-15T20:35:43.000Z",
-          "wordCount": 3221,
-          "title": "米FRB、仮想通貨監督の特別プログラムを終了　トランプ政権の規制緩和受け",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/FRB0429211.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/FRB0429211.png"
         }
       ]
     },
@@ -1688,6 +1673,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0820",
+          "author": "Cointelegraph  ビットバンク　長谷川友哉",
+          "description": "19日のビットコイン（BTC）円は1721万6154円から取引が始まった。",
+          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0820?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-20T08:39:01.000Z",
+          "wordCount": null,
+          "title": "11.5万ドルの攻防は弱気筋に軍配　ETH先物の窓埋め完了で下げ止まるか【ビットバンク仮想通貨分析】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/retail-flips-ultra-bearish-bitcoin-dips-113k-santiment",
           "author": "Cointelegraph  Martin Young",

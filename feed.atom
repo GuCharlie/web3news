@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-21T07:18:49.219Z</updated>
+    <updated>2025-08-21T07:39:15.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[クラーケン、ノーコード自動取引プラットフォーム「Capitalise[.]ai」買収]]></title>
+        <id>https://www.neweconomy.jp/?p=489494</id>
+        <link href="https://www.neweconomy.jp/posts/489494"/>
+        <updated>2025-08-21T07:28:17.000Z</updated>
+        <summary type="html"><![CDATA[Kraken Proにノーコード自動取引導入へ 海外大手暗号資産（仮想通貨）取引所クラーケン（Kraken）が、イスラエル拠点のノーコード型自動取引プラットフォーム「キャピタライズドットエーアイ（Capitalise.a […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ポルカドット、キャピタルマーケット部門「Polkadot Capital Group」設立]]></title>
         <id>https://www.neweconomy.jp/?p=489482</id>
@@ -19,9 +29,29 @@
     <entry>
         <title type="html"><![CDATA[ビットコインは依然として「4年周期」に従っているのか？ グラスノードが最新分析を公表]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-price-4-year-old-cycle-not-dead-crypto-analysts</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-price-4-year-old-cycle-not-dead-crypto-analysts?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-21T07:13:29.000Z</updated>
+        <summary type="html"><![CDATA[オンチェーン分析企業グラスノードは最新レポートにおいて、ビットコインが4年周期（半減期サイクル）に今もなお沿っている可能性が高いとの見解を示した。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは依然として「4年周期」に従っているのか？ グラスノードが最新分析を公表]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-price-4-year-old-cycle-not-dead-crypto-analysts</id>
         <link href="https://jp.cointelegraph.com/news/bitcoin-price-4-year-old-cycle-not-dead-crypto-analysts?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
         <updated>2025-08-21T07:13:29.000Z</updated>
         <summary type="html"><![CDATA[オンチェーン分析企業グラスノードは最新レポートにおいて、ビットコインが4年周期（半減期サイクル）に今もなお沿っている可能性が高いとの見解を示した。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン 「2030年までに100万ドルに到達」　コインベースCEOが予測]]></title>
+        <id>https://jp.cointelegraph.com/news/coinbase-brian-armstrong-bitcoin-price-million-analysts-caution</id>
+        <link href="https://jp.cointelegraph.com/news/coinbase-brian-armstrong-bitcoin-price-million-analysts-caution?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-21T06:47:00.000Z</updated>
+        <summary type="html"><![CDATA[米コインベースのブライアン・アームストロング最高経営責任者（CEO）は、2030年までにビットコイン価格が100万ドルに到達するとの予測を明らかにした。]]></summary>
         <author>
             <name>Cointelegraph  Ciaran Lyons</name>
         </author>

@@ -1542,6 +1542,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=489695",
+          "author": "HitomotoToshikazu",
+          "description": "MetaMaskがステーブルコイン発行へ Web3ウォレット「メタマスク（MetaMask）」が、独自ステーブルコイン「メタマスクUSD（mUSD）」の提供開始予定を8月21日に発表した。セルフカストディ（自己保管）型ウ […]",
+          "link": "https://www.neweconomy.jp/posts/489695",
+          "publishedOn": "2025-08-21T22:47:14.000Z",
+          "wordCount": 780,
+          "title": "メタマスクが米ドルステーブルコイン「mUSD」発行へ、イーサリアムとリネアで、自己保管型ウォレットで初",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/22074253/7fcd2ea50632bc20f668da5a24b648e8.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=489680",
           "author": "OtsugaShinya",
           "description": "シンプレクスとアバラボがステーブルコインネットワークの共同検証 金融機関向けにコンサルからシステム開発・運用まで提供するシンプレクスが、レイヤー1ブロックチェーン「アバランチ（Avalanche）」開発元のアバラボ（Av […]",
@@ -2048,6 +2058,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/metamask-musd-stablecoin-launch-ethereum-linea-2025",
+          "author": "Cointelegraph  Ezra Reguerra",
+          "description": "メタマスクは2025年に独自のステーブルコインmUSDを展開し、まずイーサリアムとコンセンシスのレイヤー2ネットワークLineaでローンチ、Web3アプリ全体での利用を目指す。",
+          "link": "https://jp.cointelegraph.com/news/metamask-musd-stablecoin-launch-ethereum-linea-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-21T23:00:41.000Z",
+          "wordCount": null,
+          "title": "メタマスク、ウォレット統合型ドル連動ステーブルコイン「mUSD」を導入へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODUyZDQtNjdlYy03N2Q0LTliOWItZWE1NzU4YzZiZmU2.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODUyZDQtNjdlYy03N2Q0LTliOWItZWE1NzU4YzZiZmU2.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/hong-kong-construction-firm-ming-shiung-to-buy-484m-of-bitcoin",
+          "author": "Cointelegraph  Adrian Zmudzinski",
+          "description": "ナスダック上場の香港建設会社ミンシン・グループ・ホールディングスが、株式発行を通じて42,50ビットコインを取得する4億8,300万ドルの契約を締結した。",
+          "link": "https://jp.cointelegraph.com/news/hong-kong-construction-firm-ming-shiung-to-buy-484m-of-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-21T22:45:47.000Z",
+          "wordCount": null,
+          "title": "香港建設会社ミンシン株急騰　4億8,300万ドルでビットコイン財務投資へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGNiZjQtZGE5OS03MGVjLTgyNDYtOTljMmZkZDVkODkw.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGNiZjQtZGE5OS03MGVjLTgyNDYtOTljMmZkZDVkODkw.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/tether-and-circle-to-meet-top-south-korean-bank-ceos-report",
           "author": "Cointelegraph  Adrian Zmudzinski",

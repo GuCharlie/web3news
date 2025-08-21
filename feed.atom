@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-21T22:40:30.768Z</updated>
+    <updated>2025-08-21T23:14:37.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メタマスク、ウォレット統合型ドル連動ステーブルコイン「mUSD」を導入へ]]></title>
+        <id>https://jp.cointelegraph.com/news/metamask-musd-stablecoin-launch-ethereum-linea-2025</id>
+        <link href="https://jp.cointelegraph.com/news/metamask-musd-stablecoin-launch-ethereum-linea-2025?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-21T23:00:41.000Z</updated>
+        <summary type="html"><![CDATA[メタマスクは2025年に独自のステーブルコインmUSDを展開し、まずイーサリアムとコンセンシスのレイヤー2ネットワークLineaでローンチ、Web3アプリ全体での利用を目指す。]]></summary>
+        <author>
+            <name>Cointelegraph  Ezra Reguerra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メタマスクが米ドルステーブルコイン「mUSD」発行へ、イーサリアムとリネアで、自己保管型ウォレットで初]]></title>
+        <id>https://www.neweconomy.jp/?p=489695</id>
+        <link href="https://www.neweconomy.jp/posts/489695"/>
+        <updated>2025-08-21T22:47:14.000Z</updated>
+        <summary type="html"><![CDATA[MetaMaskがステーブルコイン発行へ Web3ウォレット「メタマスク（MetaMask）」が、独自ステーブルコイン「メタマスクUSD（mUSD）」の提供開始予定を8月21日に発表した。セルフカストディ（自己保管）型ウ […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港建設会社ミンシン株急騰　4億8,300万ドルでビットコイン財務投資へ]]></title>
+        <id>https://jp.cointelegraph.com/news/hong-kong-construction-firm-ming-shiung-to-buy-484m-of-bitcoin</id>
+        <link href="https://jp.cointelegraph.com/news/hong-kong-construction-firm-ming-shiung-to-buy-484m-of-bitcoin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-21T22:45:47.000Z</updated>
+        <summary type="html"><![CDATA[ナスダック上場の香港建設会社ミンシン・グループ・ホールディングスが、株式発行を通じて42,50ビットコインを取得する4億8,300万ドルの契約を締結した。]]></summary>
+        <author>
+            <name>Cointelegraph  Adrian Zmudzinski</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メタマスク、独自ステーブルコイン「mUSD」を正式発表　25年内にローンチ予定]]></title>
         <id>https://coinpost.jp/?p=644621</id>

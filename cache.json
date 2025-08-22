@@ -660,16 +660,6 @@
           "wordCount": 1403,
           "title": "タイ、旅行者向けデジタルウォレットを導入──暗号資産の使用は規制当局の審査待ち",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/04/shutterstock_1979631941.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=308634",
-          "author": "栃山直樹",
-          "description": "JPYC社は8月18日、資金決済法に基づく資金移動業者としての登録を完了したと発表した。 同社代表取締役の岡部典孝氏が明らかにしたところによると、同日、金融庁か ...\n【速報】金融庁、JPYCを資金移動業者として登録──国内初の円建てステーブルコインへ、岡部代表「早期発行」を表明 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/308634/",
-          "publishedOn": "2025-08-18T08:36:01.000Z",
-          "wordCount": 1258,
-          "title": "【速報】金融庁、JPYCを資金移動業者として登録──国内初の円建てステーブルコインへ、岡部代表「早期発行」を表明",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/12/shutterstock_1685258881-1-710x45-1.jpg"
         }
       ]
     },
@@ -2388,6 +2378,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/eth-gains-10percent-after-fed-s-jackson-hole-etfs-hold-6-4m-eth",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "イーサリアム（ETH）は、米連邦準備制度理事会（FRB）のジェローム・パウエル議長のジャクソンホールでの講演を受け、4350ドルのレジスタンスを突破した。その後、4550ドルから4650ドルの供給ゾーンを上抜け、足元では4800ドルを試す展開となっている。",
+          "link": "https://jp.cointelegraph.com/news/eth-gains-10percent-after-fed-s-jackson-hole-etfs-hold-6-4m-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-22T20:17:57.000Z",
+          "wordCount": null,
+          "title": "イーサリアム　パウエル氏発言を受け急騰　12％上昇で4800ドル突破",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGQxYzktNzYzYi03OTYxLTlmMDQtNTc2YjkxMzkwYWMz.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGQxYzktNzYzYi03OTYxLTlmMDQtNTc2YjkxMzkwYWMz.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-hits-dollar116k-after-fed-s-powell-floats-rate-cut",
           "author": "Cointelegraph  William Suberg",

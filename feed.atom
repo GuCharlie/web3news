@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-22T14:41:08.302Z</updated>
+    <updated>2025-08-22T15:16:09.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[パウエルFRB議長が利下げ示唆　ビットコインは急反発　11万6000ドル突破]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-hits-dollar116k-after-fed-s-powell-floats-rate-cut</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-hits-dollar116k-after-fed-s-powell-floats-rate-cut?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-22T15:14:50.000Z</updated>
+        <summary type="html"><![CDATA[米連邦準備制度理事会（FRB）が利下げの可能性を示唆したことで、ビットコイン（BTC）は金曜日に11万6000ドルまで急騰した。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】ジャクソンホール会合：パウエル議長が利下げ示唆、 $ETH は1時間で+6.5%の上昇]]></title>
         <id>https://crypto-times.jp/?p=142407</id>
@@ -3718,37 +3728,6 @@ SOLとXRPが利益確定売りで5%下落──ビットコイントレーダー
 投稿 Webseaが描く未来：単なる取引所から「次世代の暗号資産エコシステム」へ は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネット、137億円でビットコインを追加購入]]></title>
-        <id>https://coinpost.jp/?p=643145</id>
-        <link href="https://coinpost.jp/?p=643145"/>
-        <updated>2025-08-18T03:11:49.000Z</updated>
-        <summary type="html"><![CDATA[メタプラネットは137億円で仮想通貨ビットコイン 775BTCを追加購入し、累計18,888BTCを保有。通算取得額は2,840億円超に到達し、戦略的なBTC投資を継続している。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTC保有企業は「買い」か？市場が気づかぬ巨大な投資機会とは]]></title>
-        <id>https://crypto-times.jp/?p=141840</id>
-        <link href="https://crypto-times.jp/news-is-it-a-good-idea-to-buy-companies-that-hold-bitcoin-a-huge-investment-opportunity-the-market-is-unaware-of/"/>
-        <updated>2025-08-18T03:05:37.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）を大量に保有する企業は旧来の金融システムを活用して未来のデジタル資産へ投資していると、アナリストのマーク・モス氏が指摘しました。 History’s biggest wealth tra […]
-投稿 BTC保有企業は「買い」か？市場が気づかぬ巨大な投資機会とは は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインETF好調も個人投資家は利益確定売り先行、ジャクソンホール会議控える中]]></title>
-        <id>https://coinpost.jp/?p=643073</id>
-        <link href="https://coinpost.jp/?p=643073"/>
-        <updated>2025-08-18T02:59:23.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨市場ではビットコインETFやイーサリアムETFに過去最高水準の資金流入が続く中、BTC価格は調整中。ジャクソンホール会議でパウエルFRB議長の利下げ示唆に期待が高まる一方、機関投資家の買いと個人の利益確定売りが交錯している。]]></summary>
-        <author>
-            <name>S.Ninomiya</name>
         </author>
     </entry>
 </feed>

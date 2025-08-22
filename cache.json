@@ -1863,36 +1863,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/07/ethereum-phase-0-delay.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/07/ethereum-phase-0-delay.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=643145",
-          "author": "AKIRA.H",
-          "description": "メタプラネットは137億円で仮想通貨ビットコイン 775BTCを追加購入し、累計18,888BTCを保有。通算取得額は2,840億円超に到達し、戦略的なBTC投資を継続している。",
-          "link": "https://coinpost.jp/?p=643145",
-          "publishedOn": "2025-08-18T03:11:49.000Z",
-          "wordCount": 3231,
-          "title": "メタプラネット、137億円でビットコインを追加購入",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/bitcoin_0918-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/bitcoin_0918-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=643073",
-          "author": "S.Ninomiya",
-          "description": "仮想通貨市場ではビットコインETFやイーサリアムETFに過去最高水準の資金流入が続く中、BTC価格は調整中。ジャクソンホール会議でパウエルFRB議長の利下げ示唆に期待が高まる一方、機関投資家の買いと個人の利益確定売りが交錯している。",
-          "link": "https://coinpost.jp/?p=643073",
-          "publishedOn": "2025-08-18T02:59:23.000Z",
-          "wordCount": 4556,
-          "title": "ビットコインETF好調も個人投資家は利益確定売り先行、ジャクソンホール会議控える中",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/health-care-bitcoin.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/health-care-bitcoin.jpeg"
         }
       ]
     },
@@ -2558,6 +2528,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-hits-dollar116k-after-fed-s-powell-floats-rate-cut",
+          "author": "Cointelegraph  William Suberg",
+          "description": "米連邦準備制度理事会（FRB）が利下げの可能性を示唆したことで、ビットコイン（BTC）は金曜日に11万6000ドルまで急騰した。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-hits-dollar116k-after-fed-s-powell-floats-rate-cut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-22T15:14:50.000Z",
+          "wordCount": null,
+          "title": "パウエルFRB議長が利下げ示唆　ビットコインは急反発　11万6000ドル突破",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmFkNDItMTExZS03ZjU3LWI1NGItZjg1YzllYTA2MzE2.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmFkNDItMTExZS03ZjU3LWI1NGItZjg1YzllYTA2MzE2.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/spot-ether-etfs-287m-inflows-blackrock-fidelity-eth-reserves",
           "author": "Cointelegraph  Ezra Reguerra",
@@ -4514,16 +4499,6 @@
           "wordCount": 629,
           "title": "Webseaが描く未来：単なる取引所から「次世代の暗号資産エコシステム」へ",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/0b351a449a6b1106e69681d2125aa37f.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=141840",
-          "author": "よきょい",
-          "description": "ビットコイン（BTC）を大量に保有する企業は旧来の金融システムを活用して未来のデジタル資産へ投資していると、アナリストのマーク・モス氏が指摘しました。 History’s biggest wealth tra […]\n投稿 BTC保有企業は「買い」か？市場が気づかぬ巨大な投資機会とは は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-is-it-a-good-idea-to-buy-companies-that-hold-bitcoin-a-huge-investment-opportunity-the-market-is-unaware-of/",
-          "publishedOn": "2025-08-18T03:05:37.000Z",
-          "wordCount": 627,
-          "title": "BTC保有企業は「買い」か？市場が気づかぬ巨大な投資機会とは",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/shutterstock_2536516493.jpg"
         }
       ]
     }

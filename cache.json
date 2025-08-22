@@ -695,6 +695,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=644996",
+          "author": "Ritsuki.Kumazawa",
+          "description": "WebX大阪で開催されたトークセッションで、片山さつき議員（自民党金融調査会長）とJPYC社外取締役の三根公博氏が日本のステーブルコイン市場について議論。片山議員はトランプ政権の仮想通貨推進政策が日本市場に与える影響を説明し、円ステーブルコインを「国際金融都市への新デバイス」と評価した。",
+          "link": "https://coinpost.jp/?p=644996",
+          "publishedOn": "2025-08-22T12:24:29.000Z",
+          "wordCount": 4629,
+          "title": "片山さつき議員「トランプ政権の暗号資産推進が日本市場に影響」円ステーブルコイン普及へ規制緩和議論｜WebX Fintech EXPO powered by SBI Group",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/katayama_jpyc_thumbnail.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/katayama_jpyc_thumbnail.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=644863",
           "author": "CoinPost編集部",
           "description": "平将明デジタル大臣が22日、WebX大阪で暗号資産の譲渡所得課税問題について「資金決済法から金商法への転換で分離課税20%を実現」と発表。年末の税制大綱で方針決定し、来年の通常国会で法案提出予定。円建てステーブルコインの本格普及やWeb3・AI分野での日本独自路線についても言及した。",
@@ -1878,21 +1893,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/health-care-bitcoin.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/health-care-bitcoin.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=643075",
-          "author": "A.Yamada",
-          "description": "タイ政府が外国人観光客向けに仮想通貨をバーツに交換して決済できる新システムを導入する。マネロン対策などで安全性を確保しつつ、観光業活性化を目指す。",
-          "link": "https://coinpost.jp/?p=643075",
-          "publishedOn": "2025-08-18T00:56:34.000Z",
-          "wordCount": 4580,
-          "title": "タイ政府、外国人観光客に仮想通貨決済システム「TouristDigiPay」を提供開始",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/thailand435985-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/thailand435985-1.jpg"
         }
       ]
     },
@@ -2550,26 +2550,6 @@
           "wordCount": 730,
           "title": "米FRB、暗号資産銀行への特別監督を撤回。通常プロセスへ移行へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/18105200/5a956e181723cfd1173709235956428c.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=488640",
-          "author": "HitomotoToshikazu",
-          "description": "Grayscale Dogecoin TrustをETF化へ 暗号資産（仮想通貨）運用会社グレースケール（Grayscale）による暗号資産ドージコイン（DOGE）の投資信託「Grayscale Dogecoin Tru […]",
-          "link": "https://www.neweconomy.jp/posts/488640",
-          "publishedOn": "2025-08-18T00:39:52.000Z",
-          "wordCount": 749,
-          "title": "NYSEアーカ、グレースケールの「ドージコイン（DOGE）投資信託」をETFとして上場申請",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/18093904/b79b673cbc29c158bc94e1478737dd35.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=488635",
-          "author": "HitomotoToshikazu",
-          "description": "CoinbaseがDeribit買収完了 米大手暗号資産（仮想通貨）取引所コインベース（Coinbase）が、暗号資産デリバティブ取引所デリビット（Deribit）の買収完了を8月14日に発表した。 今回の買収により、コ […]",
-          "link": "https://www.neweconomy.jp/posts/488635",
-          "publishedOn": "2025-08-18T00:38:00.000Z",
-          "wordCount": 735,
-          "title": "コインベース、暗号資産デリバティブ取引所デリビット買収完了",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/18093714/80a091a6d6a614968be3d8def4f04722.jpg"
         }
       ]
     },

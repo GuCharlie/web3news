@@ -675,6 +675,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=645103",
+          "author": "菊谷ルイス",
+          "description": "No.2のイーサリアム保有企業シャープリンクが15億ドルの自社株買いプログラムを発表。ビットマインに続く動きで、株価が純資産価値を下回る際の希薄化防止策として導入。",
+          "link": "https://coinpost.jp/?p=645103",
+          "publishedOn": "2025-08-22T21:05:42.000Z",
+          "wordCount": 4602,
+          "title": "ETHトレジャリー企業シャープリンク、15億ドルの自社株買いプログラム承認",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/sharplink-new-thumb.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/sharplink-new-thumb.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=645100",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨市場の時価総額が4兆ドル水準を回復。パウエルFRB議長がジャクソンホール会議で9月の利下げを強く示唆し、ビットコインやイーサリアムなど主要銘柄が全面高となった。",
+          "link": "https://coinpost.jp/?p=645100",
+          "publishedOn": "2025-08-22T20:50:07.000Z",
+          "wordCount": 4604,
+          "title": "仮想通貨全体時価総額が4兆ドル回復、パウエル議長の利下げ示唆で大幅反発",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=644996",
           "author": "Ritsuki.Kumazawa",
           "description": "WebX大阪で開催されたトークセッションで、片山さつき議員（自民党金融調査会長）とJPYC社外取締役の三根公博氏が日本のステーブルコイン市場について議論。片山議員はトランプ政権の仮想通貨推進政策が日本市場に与える影響を説明し、円ステーブルコインを「国際金融都市への新デバイス」と評価した。",
@@ -1768,21 +1798,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/GyoS6mrXQAAc5f4.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/GyoS6mrXQAAc5f4.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=538761",
-          "author": "CoinPost編集部",
-          "description": "暗号資産（仮想通貨）チェーンリンク（LINK）の特徴、最新価格、将来性、購入方法について詳しく解説。多様な用途と採用事例で注目されるLINKの成長の背景を探ります。",
-          "link": "https://coinpost.jp/?p=538761",
-          "publishedOn": "2025-08-18T09:00:29.000Z",
-          "wordCount": 2839,
-          "title": "チェーンリンク（LINK）とは？特徴・買い方・おすすめ取引所を徹底解説",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/241119_coinpost_538761_1200.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/241119_coinpost_538761_1200.png"
         }
       ]
     },
@@ -2360,16 +2375,6 @@
           "wordCount": 745,
           "title": "シャープリンクのイーサリアム保有量72万8,804ETHに、ステーキングで1,326ETH獲得も",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/18184722/aa5c9cf7a7935da5e50d5e4ae8c8e070.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=488862",
-          "author": "HitomotoToshikazu",
-          "description": "リミポがビットコイン追加購入 東証スタンダード上場企業のリミックスポイントが、ビットコイン（BTC）の追加購入実施を8月15日に発表した。なお同社のビットコイン追加購入は、7月11日以来となる。 発表によると同社は今回、 […]",
-          "link": "https://www.neweconomy.jp/posts/488862",
-          "publishedOn": "2025-08-18T09:00:33.000Z",
-          "wordCount": 741,
-          "title": "リミックスポイントが11.4億円でビットコイン追加購入、総保有数約1,231BTCに",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/18180013/BTC-250818PIXTA.jpg"
         }
       ]
     },
@@ -2378,6 +2383,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/eth-god-candle-emerges-amid-fed-rate-cut-hopes-is-dollar6k-ether-next",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "イーサリアム（ETH）は金曜日、ウォール街の取引開始とともに力強い値動きを見せ、米連邦準備制度理事会（FRB）のジェローム・パウエル議長のジャクソンホールでの講演を受けて13％上昇し4788ドルに達した。",
+          "link": "https://jp.cointelegraph.com/news/eth-god-candle-emerges-amid-fed-rate-cut-hopes-is-dollar6k-ether-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-22T20:57:26.000Z",
+          "wordCount": null,
+          "title": "パウエル発言で急騰したイーサリアム、次の目標は6000ドルか？",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGQyNGMtNmEzMS03ODg1LTkwZjAtMDhlOWY4YWFlNDRj.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGQyNGMtNmEzMS03ODg1LTkwZjAtMDhlOWY4YWFlNDRj.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/eth-gains-10percent-after-fed-s-jackson-hole-etfs-hold-6-4m-eth",
           "author": "Cointelegraph  Biraajmaan Tamuly",
@@ -3757,36 +3777,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGJlMjYtNzgxNy03MTNlLTg0MGEtOTNkYmRjODc4ZTg2.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0818",
-          "author": "Cointelegraph  ビットバンク　長谷川友哉",
-          "description": "11日〜17日のビットコイン（BTC）対円相場の週足終値は、前週比264,999円（1.50%）安の1734万5001円と反落した。",
-          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0818?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-08-18T09:02:03.000Z",
-          "wordCount": null,
-          "title": "ジャクソンホール控えBTC軟化　パウエルFRB議長はどう出るか？【ビットバンク仮想通貨分析】",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0818",
-          "author": "Cointelegraph  ビットバンク　長谷川友哉",
-          "description": "11日〜17日のビットコイン（BTC）対円相場の週足終値は、前週比264,999円（1.50%）安の1734万5001円と反落した。",
-          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0818?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-08-18T09:02:03.000Z",
-          "wordCount": null,
-          "title": "ジャクソンホール控えBTC軟化　パウエルFRB議長はどう出るか？【ビットバンク仮想通貨分析】",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg"
         }
       ]
     },

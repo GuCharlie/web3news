@@ -1628,21 +1628,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/OLNJrwFk.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/OLNJrwFk.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=641235",
-          "author": "hiroto.yoshii",
-          "description": "2025年8月、OKXがOKBを大規模バーンし発行量を2,100万枚に固定。価格は2.5倍に急騰した。OKBの特徴・買い方・将来性を詳しく解説します。",
-          "link": "https://coinpost.jp/?p=641235",
-          "publishedOn": "2025-08-19T09:37:08.000Z",
-          "wordCount": 2374,
-          "title": "OKBとは？｜OKXの取引所トークンの将来性・買い方・リスクを徹底解説",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/OKB_0818.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/OKB_0818.png"
         }
       ]
     },
@@ -2108,6 +2093,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-treasuries-lifeline-or-last-resort",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "企業による仮想通貨採用が急速に進んでいる。K33リサーチのレポートによれば、2025年前半にビットコイン（BTC）を保有する上場企業の数はほぼ倍増した。",
+          "link": "https://jp.cointelegraph.com/news/crypto-treasuries-lifeline-or-last-resort?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-23T22:00:00.000Z",
+          "wordCount": null,
+          "title": "企業による仮想通貨トレジャリー戦略採用が急増　ビットコイン保有企業は半年で倍増",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGQ2ZjktMDVkNy03YTUwLTg1NDctZjQyYmUzMTgyOWE2.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGQ2ZjktMDVkNy03YTUwLTg1NDctZjQyYmUzMTgyOWE2.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/china-s-stablecoin-push-raises-questions-on-dollar-dominance-and-market-trust",
           "author": "Cointelegraph  Savannah Fortis",

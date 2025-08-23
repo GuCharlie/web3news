@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-23T21:35:22.942Z</updated>
+    <updated>2025-08-23T22:13:56.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[企業による仮想通貨トレジャリー戦略採用が急増　ビットコイン保有企業は半年で倍増]]></title>
+        <id>https://jp.cointelegraph.com/news/crypto-treasuries-lifeline-or-last-resort</id>
+        <link href="https://jp.cointelegraph.com/news/crypto-treasuries-lifeline-or-last-resort?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-23T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[企業による仮想通貨採用が急速に進んでいる。K33リサーチのレポートによれば、2025年前半にビットコイン（BTC）を保有する上場企業の数はほぼ倍増した。]]></summary>
+        <author>
+            <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国による人民元ステーブルコイン　米国のドル支配への挑戦となるか【専門家に聞く】]]></title>
         <id>https://jp.cointelegraph.com/news/china-s-stablecoin-push-raises-questions-on-dollar-dominance-and-market-trust</id>
@@ -2918,16 +2928,6 @@ BTCは11万4000ドルを割り込み、ETHは4200ドル割れ──ジャクソ�
 リップル、IPOを目指すジェミナイに7500万ドルの信用枠を提供 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKBとは？｜OKXの取引所トークンの将来性・買い方・リスクを徹底解説]]></title>
-        <id>https://coinpost.jp/?p=641235</id>
-        <link href="https://coinpost.jp/?p=641235"/>
-        <updated>2025-08-19T09:37:08.000Z</updated>
-        <summary type="html"><![CDATA[2025年8月、OKXがOKBを大規模バーンし発行量を2,100万枚に固定。価格は2.5倍に急騰した。OKBの特徴・買い方・将来性を詳しく解説します。]]></summary>
-        <author>
-            <name>hiroto.yoshii</name>
         </author>
     </entry>
 </feed>

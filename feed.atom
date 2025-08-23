@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-23T20:37:53.217Z</updated>
+    <updated>2025-08-23T21:13:07.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国による人民元ステーブルコイン　米国のドル支配への挑戦となるか【専門家に聞く】]]></title>
+        <id>https://jp.cointelegraph.com/news/china-s-stablecoin-push-raises-questions-on-dollar-dominance-and-market-trust</id>
+        <link href="https://jp.cointelegraph.com/news/china-s-stablecoin-push-raises-questions-on-dollar-dominance-and-market-trust?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-23T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[コインテレグラフのポッドキャスト番組「Byte-Sized Insight」では、中国のステーブルコイン進出の可能性について、ピーターソン国際経済研究所のシニアフェロー、マーティン・チョルゼンパ氏と、ブロックチェーン調査企業チェーンアルゴスのパトリック・タンCEOに話を聞いた。]]></summary>
+        <author>
+            <name>Cointelegraph  Savannah Fortis</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン　世界のマネー供給の1.7％に到達]]></title>
         <id>https://jp.cointelegraph.com/news/btc-1-7-global-money-fed-chair-signals-rate-cut</id>
@@ -2949,27 +2959,6 @@ BTCは11万4000ドルを割り込み、ETHは4200ドル割れ──ジャクソ�
         <summary type="html"><![CDATA[ビットコイン（BTC）投資家は、米連邦準備制度理事会（FRB）が今後よりハト派（金融緩和寄り）に傾く可能性をまだ織り込んでいないかもしれない]]></summary>
         <author>
             <name>Cointelegraph  Ciaran Lyons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインネットワークのハッシュレート、8月最初の2週間で4%上昇：JPモルガン]]></title>
-        <id>https://www.coindeskjapan.com/?p=308759</id>
-        <link href="https://www.coindeskjapan.com/308759/"/>
-        <updated>2025-08-19T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[ウォール街の銀行JPモルガン（JPMorgan）は18日のリサーチレポートで、ビットコインネットワークのハッシュレートが今月最初の2週間で4%上昇し、平均937 ...
-ビットコインネットワークのハッシュレート、8月最初の2週間で4%上昇：JPモルガン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バックパック、ゼロ知識証明を活用した日次準備金証明を開始]]></title>
-        <id>https://www.neweconomy.jp/?p=489086</id>
-        <link href="https://www.neweconomy.jp/posts/489086"/>
-        <updated>2025-08-19T08:44:11.000Z</updated>
-        <summary type="html"><![CDATA[Backpackが日次準備金証明を開始 海外暗号資産（仮想通貨）取引所のバックパック（Backpack）が、ゼロ知識証明（zero-knowledge proof：ZKP）技術を活用したリアルタイムの準備金証明（Proo […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
         </author>
     </entry>
 </feed>

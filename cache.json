@@ -530,16 +530,6 @@
           "wordCount": 1404,
           "title": "ビットコインの強気相場は勢いを失った？ ──暗号資産とナスダックの共通点が示唆するもの",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/shutterstock_709775887.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=308759",
-          "author": "廣瀬 優香",
-          "description": "ウォール街の銀行JPモルガン（JPMorgan）は18日のリサーチレポートで、ビットコインネットワークのハッシュレートが今月最初の2週間で4%上昇し、平均937 ...\nビットコインネットワークのハッシュレート、8月最初の2週間で4%上昇：JPモルガン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/308759/",
-          "publishedOn": "2025-08-19T08:45:00.000Z",
-          "wordCount": 1319,
-          "title": "ビットコインネットワークのハッシュレート、8月最初の2週間で4%上昇：JPモルガン",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/6f41512d29c2e3148af14242564c9576524e7861.jpg"
         }
       ]
     },
@@ -2120,16 +2110,6 @@
           "wordCount": 722,
           "title": "【8/19話題】DAMSが電算システム社のステーブルコイン決済送金基盤を構築支援、BackpackがZKP活用の日次準備金証明など（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/19183339/113087229007a35d4bdd1a1be0eaaebb.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=489086",
-          "author": "TamuraSeiji",
-          "description": "Backpackが日次準備金証明を開始 海外暗号資産（仮想通貨）取引所のバックパック（Backpack）が、ゼロ知識証明（zero-knowledge proof：ZKP）技術を活用したリアルタイムの準備金証明（Proo […]",
-          "link": "https://www.neweconomy.jp/posts/489086",
-          "publishedOn": "2025-08-19T08:44:11.000Z",
-          "wordCount": 825,
-          "title": "バックパック、ゼロ知識証明を活用した日次準備金証明を開始",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/19174404/763cc963f933d377a1535b4408fc87ea.jpg"
         }
       ]
     },
@@ -2138,6 +2118,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/china-s-stablecoin-push-raises-questions-on-dollar-dominance-and-market-trust",
+          "author": "Cointelegraph  Savannah Fortis",
+          "description": "コインテレグラフのポッドキャスト番組「Byte-Sized Insight」では、中国のステーブルコイン進出の可能性について、ピーターソン国際経済研究所のシニアフェロー、マーティン・チョルゼンパ氏と、ブロックチェーン調査企業チェーンアルゴスのパトリック・タンCEOに話を聞いた。",
+          "link": "https://jp.cointelegraph.com/news/china-s-stablecoin-push-raises-questions-on-dollar-dominance-and-market-trust?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-23T21:00:00.000Z",
+          "wordCount": null,
+          "title": "中国による人民元ステーブルコイン　米国のドル支配への挑戦となるか【専門家に聞く】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODU1Y2QtOWRmOS03M2FlLTgyOGUtYjFkYzNlZGE5MjE1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODU1Y2QtOWRmOS03M2FlLTgyOGUtYjFkYzNlZGE5MjE1.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/btc-1-7-global-money-fed-chair-signals-rate-cut",
           "author": "Cointelegraph  Vince Quill",

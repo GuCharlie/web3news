@@ -525,6 +525,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=645315",
+          "author": "Ritsuki.Kumazawa",
+          "description": "NASDAQ上場のDeFi Development Corp（DFDV）がSuperTokyo 2025で発表したSolanaトレジャリー戦略を解説。バリデーター運営による10%利回りの実現、3ヶ月で60%の成長実績、日本市場への展開計画について詳しく紹介。",
+          "link": "https://coinpost.jp/?p=645315",
+          "publishedOn": "2025-08-24T07:45:17.000Z",
+          "wordCount": 3279,
+          "title": "DeFi Development Corpの最高執行責任者、ソラナトレジャリー企業戦略を解説｜SuperTokyo 2025",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/solanaevents_newthumbnail0824.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/solanaevents_newthumbnail0824.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=644927",
           "author": "Ritsuki.Kumazawa",
           "description": "WebX Fintech EXPO 2025で、VISA、日本銀行、Ant Internationalが国際決済の課題を議論。高い手数料、長い決済時間、透明性の欠如という3大課題に対し、CBDCやステーブルコインなどデジタル通貨による解決策を提示した。",
@@ -3087,36 +3102,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODU2MzktNWU3Mi03NmY4LTk0MjktOGIxNDdlZjIyYTE5.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/ethereum-whale-opens-16-3m-long-as-eth-price-eyes-bounce",
-          "author": "Cointelegraph  Yashu Gola",
-          "description": "あるイーサリアム（ETH）クジラが、最新の調整局面が終了したとの見方から、1600万ドル超のロングポジションを25倍のレバレッジで建てた。これは、相場の反発を狙った大胆なトレードと見られている。",
-          "link": "https://jp.cointelegraph.com/news/ethereum-whale-opens-16-3m-long-as-eth-price-eyes-bounce?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-08-19T19:48:05.000Z",
-          "wordCount": null,
-          "title": "イーサリアムのクジラ　1600万ドルのロングポジションを構築　反発開始に賭ける",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGMyYzgtNDhjOC03MDE4LTg5MTMtY2Q3ZjA2YThjZWRm.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGMyYzgtNDhjOC03MDE4LTg5MTMtY2Q3ZjA2YThjZWRm.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/ethereum-whale-opens-16-3m-long-as-eth-price-eyes-bounce",
-          "author": "Cointelegraph  Yashu Gola",
-          "description": "あるイーサリアム（ETH）クジラが、最新の調整局面が終了したとの見方から、1600万ドル超のロングポジションを25倍のレバレッジで建てた。これは、相場の反発を狙った大胆なトレードと見られている。",
-          "link": "https://jp.cointelegraph.com/news/ethereum-whale-opens-16-3m-long-as-eth-price-eyes-bounce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-08-19T19:48:05.000Z",
-          "wordCount": null,
-          "title": "イーサリアムのクジラ　1600万ドルのロングポジションを構築　反発開始に賭ける",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGMyYzgtNDhjOC03MDE4LTg5MTMtY2Q3ZjA2YThjZWRm.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGMyYzgtNDhjOC03MDE4LTg5MTMtY2Q3ZjA2YThjZWRm.jpg"
         }
       ]
     },

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=309401",
+          "author": "増田 隆幸",
+          "description": "8月25日・26日の日程で開幕したWebX2025。初日の25日には主催者によるオープニングの後、石破首相、武藤経産大臣、加藤財務大臣が続けて登壇した。 石破首 ...\n「どういう世界を作るのか」「世界の潮流に乗り遅れない」WebX2025に石破首相、武藤大臣、加藤大臣が登壇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/309401/",
+          "publishedOn": "2025-08-25T06:10:19.000Z",
+          "wordCount": 1406,
+          "title": "「どういう世界を作るのか」「世界の潮流に乗り遅れない」WebX2025に石破首相、武藤大臣、加藤大臣が登壇",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/DSC_5332のコピー.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=309391",
           "author": "廣瀬 優香",
           "description": "イーサリアム（ETH）は24日に未知の領域に突入し、協定世界時（UTC）17時40分にコインベース（Coinbase）で4900ドルを突破して、2021年11月 ...\nETHが4900ドルを突破──「BTCは疲弊しているが、ETHはそうではない」とアナリスト first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -400,16 +410,6 @@
           "wordCount": 1371,
           "title": "タカ派的なFOMC議事要旨、暗号資産の反発を打ち砕く",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/shutterstock_2615221165.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=308978",
-          "author": "James Van Straten",
-          "description": "ビットコイン（BTC）は、12万4000ドル強の史上最高値から10%下落し、次のサポートレベルは、短期保有者の実現価格（STH RP）である約10万8600ドル ...\nビットコイン、10%の調整局面で重要な強気相場のサポートを形成 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/308978/",
-          "publishedOn": "2025-08-20T17:41:02.000Z",
-          "wordCount": 1338,
-          "title": "ビットコイン、10%の調整局面で重要な強気相場のサポートを形成",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/b7a344f0035ec7514ae691c082663d0ba917b119-1500x1000-1.jpeg"
         }
       ]
     },
@@ -424,6 +424,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=645497",
+          "author": "hiroto.yoshii",
+          "description": "石破首相がWebXで挨拶。スタートアップ育成5か年計画やWeb3・AI産業支援を強調し、日本の成長戦略と人口減少課題への対応を語った。",
+          "link": "https://coinpost.jp/?p=645497",
+          "publishedOn": "2025-08-25T06:11:44.000Z",
+          "wordCount": 3307,
+          "title": "石破首相が語るスタートアップ戦略とWeb3・AIによる社会課題解決｜WebX2025",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/IMG_6875.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/IMG_6875.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=645552",
+          "author": "菊谷ルイス",
+          "description": "株式会社メタプラネットは25日、仮想通貨ビットコインのトレジャリー事業の一環として103 BTCを追加購入したと発表した。",
+          "link": "https://coinpost.jp/?p=645552",
+          "publishedOn": "2025-08-25T06:07:24.000Z",
+          "wordCount": 3263,
+          "title": "メタプラネット、17億超相当ビットコインを追加購入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/0605_metaplanet-A.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/0605_metaplanet-A.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=645492",
+          "author": "CoinPost編集部",
+          "description": "WebX2025特別対談でSBIホールディングス北尾吉孝会長と実業家・堀江貴文氏が暗号資産（仮想通貨）・ブロックチェーン技術について対談。従来の広告依存型ビジネスモデルからの脱却と、ブロックチェーン技術を核とした新たな収益構造の必要性について一致した見解を示した。",
+          "link": "https://coinpost.jp/?p=645492",
+          "publishedOn": "2025-08-25T04:32:00.000Z",
+          "wordCount": 3266,
+          "title": "SBI北尾会長×堀江貴文氏対談：ステーブルコイン決済とWeb3メディア変革への展望｜WebX2025",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/kitao_horiemonWebX-2025-114628-6181_web2k-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/kitao_horiemonWebX-2025-114628-6181_web2k-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=645493",
+          "author": "hiroto.yoshii",
+          "description": "WebXで武藤経産大臣が日本のWeb3戦略を表明。税制改正やスタートアップ支援、起業家誘致を通じ経済成長を目指す。",
+          "link": "https://coinpost.jp/?p=645493",
+          "publishedOn": "2025-08-25T03:52:25.000Z",
+          "wordCount": 3282,
+          "title": "武藤経産大臣、Web3政策を強調　アニメ・地方創生から世界展開へ｜WebX2025",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/IMG_6883.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/IMG_6883.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=645482",
           "author": "A.Yamada",
@@ -1421,6 +1481,56 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=490364",
+          "author": "gentosha_takahashi",
+          "description": "テザー社、サークル社と会合か 韓国の大手金融グループ4社が、大手ステーブルコイン発行企業のテザー（Tether）社と米サークル（Circle）社と会合を行う予定だと「聯合ニュース」が業界関係者の話として8月21日に報じた […]",
+          "link": "https://www.neweconomy.jp/posts/490364",
+          "publishedOn": "2025-08-25T06:23:54.000Z",
+          "wordCount": 732,
+          "title": "韓国大手金融グループら、ステーブルコイン流通・発行でテザー・サークルと会合か＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/25152326/a5bae3d6bce25b651844ef820dd5ff70.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=490355",
+          "author": "gentosha_takahashi",
+          "description": "パブリックブロックチェーン上での運用を検討 EU（欧州連合）は、米国で成立されたステーブルコインを規制する「ジーニアス法（GENIUS Act）」の影響を受けて、デジタルユーロの計画を加速させているようだ。フィナンシャル […]",
+          "link": "https://www.neweconomy.jp/posts/490355",
+          "publishedOn": "2025-08-25T05:58:48.000Z",
+          "wordCount": 728,
+          "title": "EUがデジタルユーロ計画を加速、米GENIUS法の影響で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/25145842/5fc983aebd0406eb5c739c356dfeb848.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=490329",
+          "author": "OtsugaShinya",
+          "description": "メタプラのビットコイン総保有数が18,991BTCに ビットコイン（BTC）の購入を積極的に進めている東証スタンダード上場企業メタプラネットが、ビットコインの追加購入実施を8月25日に発表した。 今回メタプラネットが追加 […]",
+          "link": "https://www.neweconomy.jp/posts/490329",
+          "publishedOn": "2025-08-25T03:26:03.000Z",
+          "wordCount": 757,
+          "title": "メタプラが約17億円でビットコイン追加購入、総保有数18,991BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/25122537/BTC13-250714-PIXTA.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=490292",
+          "author": "HitomotoToshikazu",
+          "description": "WLFI取引開始へ ワールド・リバティ・ファイナンシャル（World Liberty Financial：WLFI）の独自トークン「WLFI」が、イーサリアム（Ethereum）上で取引開始される予定であると公式Xで8月 […]",
+          "link": "https://www.neweconomy.jp/posts/490292",
+          "publishedOn": "2025-08-25T03:12:18.000Z",
+          "wordCount": 627,
+          "title": "トランプ大統領の親族関与のWLFIトークン、イーサリアム上で取引開始へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/25110530/cad573550809027f9a9b306a820cd108.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=490310",
+          "author": "OtsugaShinya",
+          "description": "ビットポイントが「ゼロつみたて」提供へ 国内暗号資産（仮想通貨）取引所ビットポイントが、積立購入にかかるコストを完全にゼロとしたビットコイン積立投資サービス「ゼロつみたて」の提供予定を8月25日に発表した。 「ゼロつみた […]",
+          "link": "https://www.neweconomy.jp/posts/490310",
+          "publishedOn": "2025-08-25T03:03:03.000Z",
+          "wordCount": 729,
+          "title": "ビットポイント、「スプレッド・手数料ゼロ」のビットコイン積立投資サービス提供へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/25120256/448c7a765c1fd1bbbd532581961ffdf1.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=490282",
           "author": "HitomotoToshikazu",
@@ -2590,6 +2700,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=142472",
+          "author": "Crypto Times 編集部",
+          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 AMマネジメントは25日、韓国のサイバーセキュリティ専門企業クアッドマ […]\n投稿 AMマネジメントとクアッドマイナー、デジタル資産セキュリティ強化に向け業務提携（MOU）を締結 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/press-am-management-quad-miners/",
+          "publishedOn": "2025-08-25T04:00:22.000Z",
+          "wordCount": 610,
+          "title": "AMマネジメントとクアッドマイナー、デジタル資産セキュリティ強化に向け業務提携（MOU）を締結",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/Quad-Miners.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=142477",
           "author": "Crypto Times 編集部",

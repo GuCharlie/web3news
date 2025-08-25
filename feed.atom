@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-24T23:37:27.399Z</updated>
+    <updated>2025-08-25T01:16:50.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットフライヤー買収のカストディエム（旧FTX JP）、顧客情報漏えいか]]></title>
+        <id>https://www.neweconomy.jp/?p=490251</id>
+        <link href="https://www.neweconomy.jp/posts/490251"/>
+        <updated>2025-08-25T00:03:14.000Z</updated>
+        <summary type="html"><![CDATA[旧FTX JPが顧客情報漏えいか 国内暗号資産（仮想通貨）取引所ビットフライヤーの関連会社であるカストディエム（Custodiem）より、同社からの顧客情報漏えいの可能性について8月23日に発表された。 ビットフライヤー […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTC急落で巨額清算発生、ジャクソンホール後の上昇相場が一転]]></title>
         <id>https://crypto-times.jp/?p=142477</id>
@@ -2275,16 +2285,6 @@ ETH、SOL、BNBがBTCを上回る上昇──暗号資産市場が反発 first a
 ビットコイン、10%の調整局面で重要な強気相場のサポートを形成 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>James Van Straten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【8/20話題】「漫画全巻ドットコム」TORICOと幻冬舎が提携でWeb3領域新規事業創出へ、ブリッシュがIPO収益をステーブルコインで取得など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=489374</id>
-        <link href="https://www.neweconomy.jp/posts/489374"/>
-        <updated>2025-08-20T12:20:46.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
         </author>
     </entry>
 </feed>

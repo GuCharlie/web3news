@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-25T08:48:23.781Z</updated>
+    <updated>2025-08-25T09:18:15.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[シンガポールから日本へ──「ピクトレ」のDEAが本社を移転、東証上場を計画]]></title>
+        <id>https://www.coindeskjapan.com/?p=309480</id>
+        <link href="https://www.coindeskjapan.com/309480/"/>
+        <updated>2025-08-25T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[有望なWeb3スタートアップがビジネス環境の厳しさから「日本を脱出」する事例が懸念されたが、規制整備の進展を受けて日本への「Uターン」が始まるかもしれない。 シ ...
+シンガポールから日本へ──「ピクトレ」のDEAが本社を移転、東証上場を計画 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>増田 隆幸</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東証上場Defコンサルティング、約50億円調達でビットコイントレジャリー事業開始へ]]></title>
         <id>https://coinpost.jp/?p=645610</id>
@@ -2521,17 +2532,6 @@ ETH、SOL、BNBがBTCを上回る上昇──暗号資産市場が反発 first a
         <summary type="html"><![CDATA[米国の仮想通貨ビットコインETFから1日で5.23億ドル、イーサETFから4.22億ドルの大量資金流出。FRB利下げ期待後退とインフレ懸念で機関投資家がポジション調整か。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムの回復、現物ETFの需要とオンチェーンの成長を背景に勢いを増す：シティ]]></title>
-        <id>https://www.coindeskjapan.com/?p=308989</id>
-        <link href="https://www.coindeskjapan.com/308989/"/>
-        <updated>2025-08-20T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ウォール街の銀行シティは8月19日発表のリサーチレポートで、今年前半に55%以上の下落を経験し、トランプ関税が引き起こしたリスクオフセンチメントの中で他の暗号資 ...
-イーサリアムの回復、現物ETFの需要とオンチェーンの成長を背景に勢いを増す：シティ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Will Canny</name>
         </author>
     </entry>
 </feed>

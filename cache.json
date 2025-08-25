@@ -470,16 +470,6 @@
           "wordCount": 1325,
           "title": "スターゲートに新たな買収提案──ワームホールがレイヤーゼロの1億1000万ドルを上回る提案",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/shutterstock_783133393.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=309058",
-          "author": "Omkar Godbole",
-          "description": "トレーダーがジャクソンホールでのジェローム・パウエル（Jerome Powell）連邦準備制度理事会（FRB）議長の発言を待つ中、ビットコイン（BTC）の主要指 ...\nジャクソンホール会議を控え、主要なビットコイン指標は弱気相場への転換を示唆：テクニカル分析 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/309058/",
-          "publishedOn": "2025-08-21T10:20:00.000Z",
-          "wordCount": 1476,
-          "title": "ジャクソンホール会議を控え、主要なビットコイン指標は弱気相場への転換を示唆：テクニカル分析",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/2f137081c41aecda3fa4afe4dc43fe90dae3fbf4-1909x1570-1.jpeg"
         }
       ]
     },
@@ -1748,6 +1738,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/strategy-buys-357-million-bitcoin-btc-price-drops-112k",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "マイケル・セイラー氏率いるストラテジーが先週3億5690万ドル相当のビットコインを購入し、8月の取得量はわずか3666BTCにとどまった。",
+          "link": "https://jp.cointelegraph.com/news/strategy-buys-357-million-bitcoin-btc-price-drops-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-25T22:34:40.000Z",
+          "wordCount": null,
+          "title": "ストラテジー、ビットコイン価格下落時に3億5690万ドル分を購入　保有総量63万BTC超に",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODJjYzYtNjM3ZS03NTBlLTgyZWUtYTRiNTc2MDg4Njc4.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODJjYzYtNjM3ZS03NTBlLTgyZWUtYTRiNTc2MDg4Njc4.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/price-predictions-8-25-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-link",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "ビットコインは週明けに11万530ドルまで下落したが、BTCやアルトコインのチャートは、平均的な取引レンジへの早期回復の可能性を示している。",
+          "link": "https://jp.cointelegraph.com/news/price-predictions-8-25-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-25T22:12:56.000Z",
+          "wordCount": null,
+          "title": "反発なるか　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGUyMTQtOTQ0Yi03NzM1LThhNDEtNmI2NDNmN2U0Nzhk.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGUyMTQtOTQ0Yi03NzM1LThhNDEtNmI2NDNmN2U0Nzhk.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/saylor-third-strategy-bitcoin-buy-august",
           "author": "Cointelegraph  Vince Quill",

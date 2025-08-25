@@ -485,6 +485,51 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=645548",
+          "author": "hiroto.yoshii",
+          "description": "WebX2025で財務省・TOYOTA・LayerXが次世代決済を議論。AIエージェント決済、預金トークン、CBDC戦略、米国法案への対応など最新動向を詳報。",
+          "link": "https://coinpost.jp/?p=645548",
+          "publishedOn": "2025-08-25T22:50:18.000Z",
+          "wordCount": 3300,
+          "title": "財務省・トヨタ・LayerXが見据える次世代決済、AIエージェント・預金トークン等｜WebX2025",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/WebX-2025-154731-0749_web2k.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/WebX-2025-154731-0749_web2k.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=645738",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨イーサリアムトレジャリー企業ビットマインは25日、イーサリアムの保有量が24日時点で1.2兆円相当に達したと発表。先週は19万0,500ETHを買い増しした。",
+          "link": "https://coinpost.jp/?p=645738",
+          "publishedOn": "2025-08-25T22:35:28.000Z",
+          "wordCount": 4552,
+          "title": "ビットマイン、イーサリアム約19万ETHを買い増し　保有量が計1.2兆円相当に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/06/ethereum_0520.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/06/ethereum_0520.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=645507",
+          "author": "hiroto.yoshii",
+          "description": "WebX2025で日米の暗号資産規制専門家が討論。ジーニアス法成立、日本の55%税率問題、ステーブルコイン普及の課題と展望を詳報。規制調和への道筋を解説。",
+          "link": "https://coinpost.jp/?p=645507",
+          "publishedOn": "2025-08-25T22:12:20.000Z",
+          "wordCount": 3299,
+          "title": "日米における暗号資産規制とステーブルコインの普及｜WebX2025",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/WebX-2025-135828-0634_web2k.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/WebX-2025-135828-0634_web2k.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=645409",
           "author": "AKIRA.H",
           "description": "Binance創設者CZ氏がWebXで特別講演。「AIの通貨は暗号資産」発言、トランプ政権評価、Giggle Academy構想など業界の未来を徹底解説。",
@@ -1738,6 +1783,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/binance-cz-family-office-bnb-treasury-launch-us",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "B Strategyは、最近YZi Labsの支援を受けてBNB財務を立ち上げた10X Capitalの手法を踏襲する計画だ。",
+          "link": "https://jp.cointelegraph.com/news/binance-cz-family-office-bnb-treasury-launch-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-25T23:10:42.000Z",
+          "wordCount": null,
+          "title": "バイナンス創業者CZのファミリーオフィス、米国で新たなBNB財務戦略を支援",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGUyYTMtODM1Mi03Mjg3LWJmMTUtMjczYmRjYmNjMjNk.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGUyYTMtODM1Mi03Mjg3LWJmMTUtMjczYmRjYmNjMjNk.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/global-regulators-crackdown-tokenized-stocks",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "欧州証券市場監督局（ESMA）、証券監督者国際機構（IOSCO）、世界取引所連盟（WFE）がSECに対し、トークン化株式の監督強化を求め、ウォール街大手が参入を狙う市場で投資家リスクが高まっていると警告した。",
+          "link": "https://jp.cointelegraph.com/news/global-regulators-crackdown-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-25T22:59:14.000Z",
+          "wordCount": null,
+          "title": "世界の規制当局と取引所団体、SECにトークン化株式の規制強化を要請",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2QxNTktNmNlNC03NmE1LTk1NjktMjQ0NDNmYTYwZjUw.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2QxNTktNmNlNC03NmE1LTk1NjktMjQ0NDNmYTYwZjUw.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/eth-treasury-eyes-stock-buyback-ethzilla-leverage-risks",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "ETHZillaの2億5000万ドル規模の自社株買いは、企業が仮想通貨の利益を流動性源として活用する動きを示す。一方でアナリストは、レバレッジ依存が財務を「時限爆弾」に変える可能性を警告している。",
+          "link": "https://jp.cointelegraph.com/news/eth-treasury-eyes-stock-buyback-ethzilla-leverage-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-25T22:44:19.000Z",
+          "wordCount": null,
+          "title": "4億ドル超のETH購入後、ETHZillaが自社株買いを発表　レバレッジ懸念も",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5Mzc2ODAtNjNhYi03M2I3LTkxNDMtYTI3M2IyOWMyMTNj.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5Mzc2ODAtNjNhYi03M2I3LTkxNDMtYTI3M2IyOWMyMTNj.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/strategy-buys-357-million-bitcoin-btc-price-drops-112k",
           "author": "Cointelegraph  Helen Partz",

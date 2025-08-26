@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-26T20:17:21.468Z</updated>
+    <updated>2025-08-26T20:39:10.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[4年ぶりに動いたイーサリアムのクジラ、2800万ドル相当のETHを購入]]></title>
+        <id>https://jp.cointelegraph.com/news/dormant-ethereum-whale-buys-28m-eth-v-recovery</id>
+        <link href="https://jp.cointelegraph.com/news/dormant-ethereum-whale-buys-28m-eth-v-recovery?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-26T20:29:29.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム（ETH）の大口保有者が4年ぶりに動きを見せ、2800万ドル相当を買い増したことで、市場では強気の声が広がっている。]]></summary>
+        <author>
+            <name>Cointelegraph  Yashu Gola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ラトニック米商務長官「GDPなどの統計データをオンチェーンに」]]></title>
+        <id>https://coinpost.jp/?p=646151</id>
+        <link href="https://coinpost.jp/?p=646151"/>
+        <updated>2025-08-26T20:25:13.000Z</updated>
+        <summary type="html"><![CDATA[ハワード・ラトニック米商務長官が26日の閣議でトランプ大統領に対し商務省統計データのブロックチェーン発行を宣言。GDPやPCE等経済データの透明性向上を目指す新政策を表明した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン　12万4000ドルが天井だったのか？ アナリストは強気継続を主張]]></title>
         <id>https://jp.cointelegraph.com/news/was-124k-the-top-bitcoin-price-peak-signals-different-story</id>
@@ -2179,17 +2199,6 @@ VanEck、JitoSOL ETFをSECに申請──リキッドステーキングを伝統
         <summary type="html"><![CDATA[三井住友銀行・電算システム・Ava Labsがステーブルコインサービスの共同検討 三井住友銀行、電算システム、米アバラボ（Ava Labs）の3社が、将来的なステーブルコインの決済・流通・運用に関する新サービス創出を見据 […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パウエルFRB議長のジャクソンホール講演はビットコインにどれほどのボラティリティをもたらすのか]]></title>
-        <id>https://www.coindeskjapan.com/?p=309210</id>
-        <link href="https://www.coindeskjapan.com/309210/"/>
-        <updated>2025-08-22T08:35:00.000Z</updated>
-        <summary type="html"><![CDATA[アメリカ連邦準備制度理事会（FRB）のジェローム・パウエル（Jerome Powell）議長によるジャクソンホールでの講演が近づくにつれ、誰もが抱く重要な疑問は ...
-パウエルFRB議長のジャクソンホール講演はビットコインにどれほどのボラティリティをもたらすのか first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>

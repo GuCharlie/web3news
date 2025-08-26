@@ -530,16 +530,6 @@
           "wordCount": 1245,
           "title": "中国、人民元連動ステーブルコインの発行承認を検討──ロイター報道",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/shutterstock_2418357071-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=308900",
-          "author": "増田 隆幸",
-          "description": "CoinDesk JAPANを運営するN.Avenueの代表取締役社長である神本侑季が編集著者を担当した書籍『Web3・暗号資産　13人の未来予測　ーブロックチ ...\n渡辺創太氏×廣末紀之氏×齊藤達哉氏、ステーブルコインから米国最新事情まで──「Web3本出版記念トーク in X space」ダイジェスト first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/308900/",
-          "publishedOn": "2025-08-22T01:45:00.000Z",
-          "wordCount": 1472,
-          "title": "渡辺創太氏×廣末紀之氏×齊藤達哉氏、ステーブルコインから米国最新事情まで──「Web3本出版記念トーク in X space」ダイジェスト",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/47016-49-75e8b3a89be7b6b1bb90e2d.jpg"
         }
       ]
     },
@@ -554,6 +544,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=645791",
+          "author": "菊谷ルイス",
+          "description": "WebXカンファレンスでオードリー・タン氏、渡辺創太氏、大西基文氏がAIとWeb3技術の融合による産業変革について討論。プルラリティ技術やステーブルコイン活用事例を紹介。",
+          "link": "https://coinpost.jp/?p=645791",
+          "publishedOn": "2025-08-26T13:03:21.000Z",
+          "wordCount": 4588,
+          "title": "オードリー・タン、渡辺創太、大西基文がAI・Web3産業変革を議論｜WebX2025",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/audy-tang-webx-2025.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/audy-tang-webx-2025.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=645963",
           "author": "Ritsuki.Kumazawa",
@@ -1573,51 +1578,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/DBS0514211.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/DBS0514211.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=644634",
-          "author": "A.Yamada",
-          "description": "米司法省が分散型ソフトウェア開発者に対する無認可送金での訴追停止を表明した。8月初め、仮想通貨ミキサー「トルネードキャッシュ」創設者に有罪判決が出たところだ。",
-          "link": "https://coinpost.jp/?p=644634",
-          "publishedOn": "2025-08-22T01:35:17.000Z",
-          "wordCount": 4555,
-          "title": "米司法省高官「悪意なくコードを書くことは犯罪ではない」　トルネードキャッシュ有罪判決後に",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/usdt-doj-docu.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/usdt-doj-docu.jpg"
-        },
-        {
-          "id": "http://coinpost.jp/?p=37551",
-          "author": "CoinPost編集部",
-          "description": "テゾス（XTZ）の特徴、将来性、国内取引所での購入方法を分かりやすく解説。年利3%のステーキング報酬、スマートコントラクトの数学的検証、RWA分野での採用事例、注目のTezos Xプロジェクトまで、投資前に知っておきたい情報を網羅的にご紹介します。",
-          "link": "https://coinpost.jp/?p=37551",
-          "publishedOn": "2025-08-22T01:30:03.000Z",
-          "wordCount": 2764,
-          "title": "テゾス（XTZ）とは？特徴・将来性・取引所での買い方を徹底解説【2025年最新】",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/05/tezos_20200501_1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/05/tezos_20200501_1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=644646",
-          "author": "菊谷ルイス",
-          "description": "クリプトクアント最新分析で仮想通貨ビットコイン需要が7月ピーク17万4000BTCから5万9000BTCへ大幅減少。ETF購入も4月以来最低水準で利確フェーズ継続。",
-          "link": "https://coinpost.jp/?p=644646",
-          "publishedOn": "2025-08-22T01:00:37.000Z",
-          "wordCount": 4569,
-          "title": "ビットコイン需要3分の2減少、利確フェーズ継続＝クリプトクアント週次分析",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/germna-bitcoin-return-6.07.34.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/germna-bitcoin-return-6.07.34.jpg"
         }
       ]
     },
@@ -1945,16 +1905,6 @@
           "wordCount": 752,
           "title": "メルカリとソニーグループ、NFTやデジタルコンテンツ普及促進に向け基本合意",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/22110607/09285b7513befc3a6f1b8aceff4550b1.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=489777",
-          "author": "OtsugaShinya",
-          "description": "ANAPがビットコイン追加購入 東証スタンダード上場企業のANAPホールディングスが、同社子会社のANAPライトニングキャピタルによるビットコインの追加取得を8月22日に発表した。 ANAPホールディングスは、若年層女性 […]",
-          "link": "https://www.neweconomy.jp/posts/489777",
-          "publishedOn": "2025-08-22T01:47:18.000Z",
-          "wordCount": 753,
-          "title": "ANAPが約1億円でビットコイン追加購入、11/24に東京で「BITCOIN JAPAN 2025」の主催決定",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/22104713/BTC41-250714-PIXTA.jpg"
         }
       ]
     },

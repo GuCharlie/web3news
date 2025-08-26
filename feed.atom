@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-26T09:41:37.959Z</updated>
+    <updated>2025-08-26T10:17:27.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pudgy Penguins、モバイルゲーム早期参加者にSBTを配布]]></title>
+        <id>https://crypto-times.jp/?p=142506</id>
+        <link href="https://crypto-times.jp/news-pudgy-penguins-distributes-sbt-to-early-mobile-game-participants/"/>
+        <updated>2025-08-26T10:16:52.000Z</updated>
+        <summary type="html"><![CDATA[人気NFTプロジェクト「Pudgy Penguins」がモバイルゲーム「Pudgy Party」の早期参加者に対してソウルバウンドトークン（SBT）を配布することを発表しました。 Introducing the Earl […]
+投稿 Pudgy Penguins、モバイルゲーム早期参加者にSBTを配布 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットパンダ、株式上場を検討中。ただしロンドンは除外：フィナンシャル・タイムズ]]></title>
         <id>https://www.coindeskjapan.com/?p=309742</id>
@@ -2670,46 +2681,6 @@ SBIとスターテイル、合弁会社を設立──あらゆる価値のオ�
         <summary type="html"><![CDATA[シンプレクスとアバラボがステーブルコインネットワークの共同検証 金融機関向けにコンサルからシステム開発・運用まで提供するシンプレクスが、レイヤー1ブロックチェーン「アバランチ（Avalanche）」開発元のアバラボ（Av […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金融庁、政府へ暗号資産取引の分離課税を要望＝日経]]></title>
-        <id>https://www.neweconomy.jp/?p=489660</id>
-        <link href="https://www.neweconomy.jp/posts/489660"/>
-        <updated>2025-08-21T22:15:49.000Z</updated>
-        <summary type="html"><![CDATA[金融庁が暗号資産の課税見直し要望か 金融庁が、2026年度の税制改正要望で暗号資産（仮想通貨）取引について課税制度の見直しを求めると日経新聞が8月21日に報じた。 また報道によると暗号資産のETF（上場投資信託）について […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、米欧通商合意を無視　価格下落の分岐点は11万4,000ドル]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-price-dip-hinges-on-114k-as-markets-shrug-off-us-eu-trade-deal</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-price-dip-hinges-on-114k-as-markets-shrug-off-us-eu-trade-deal?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-08-21T22:15:17.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインは米国株とともに米欧通商合意を無視し、トレーダーの関心はFRBのジャクソンホール会合と、重要な価格支持・抵抗水準に向かっている。]]></summary>
-        <author>
-            <name>Cointelegraph  William Suberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アジアの富裕層投資家、ポートフォリオの5％を仮想通貨に配分へ]]></title>
-        <id>https://jp.cointelegraph.com/news/wealthy-asian-investors-target-crypto-adoption-broadens</id>
-        <link href="https://jp.cointelegraph.com/news/wealthy-asian-investors-target-crypto-adoption-broadens?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-08-21T21:59:49.000Z</updated>
-        <summary type="html"><![CDATA[アジアの富裕層投資家が仮想通貨に資金を投じ始めており、これまでインド、インドネシア、ベトナムなどで小口投資家が主導してきた市場に変化が広がっている。]]></summary>
-        <author>
-            <name>Cointelegraph  Nate Kostar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステートストリート、JPモルガンのデジタル債務サービス初のサードパーティー保管機関に]]></title>
-        <id>https://coinpost.jp/?p=644620</id>
-        <link href="https://coinpost.jp/?p=644620"/>
-        <updated>2025-08-21T21:55:45.000Z</updated>
-        <summary type="html"><![CDATA[金融大手ステートストリートがJPモルガンのブロックチェーン債券保管サービスに参加。OCBC発行1億ドルのコマーシャルペーパー取引でキネクシス基盤のT+0決済を実現。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

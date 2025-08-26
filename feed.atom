@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-26T22:39:06.776Z</updated>
+    <updated>2025-08-26T23:13:53.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム　強気トレンドへの反転なるか？ 次の焦点は4700ドル突破]]></title>
+        <id>https://jp.cointelegraph.com/news/eth-rallies-against-bitcoin-but-dollar4-7k-must-flip-to-support</id>
+        <link href="https://jp.cointelegraph.com/news/eth-rallies-against-bitcoin-but-dollar4-7k-must-flip-to-support?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-26T22:40:06.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム（ETH）は、週明けに繰り返し発生する「月曜の罠」──週末の楽観ムードで積み上がったレバレッジロングが週初に大量清算されるパターン──を振り払い、ビットコイン（BTC）に対して強さを見せている。]]></summary>
+        <author>
+            <name>Cointelegraph  Biraajmaan Tamuly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[シャープリンク、イーサリアム保有量約80万ETHに増加]]></title>
         <id>https://coinpost.jp/?p=646170</id>
@@ -2113,17 +2123,6 @@ VanEck、JitoSOL ETFをSECに申請──リキッドステーキングを伝統
 投稿 【今日の暗号資産ニュース】BTC100万ドルは2030年？ビットコインは秋に停滞？ は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アメリカのステーブルコイン法、EUにデジタルユーロ戦略の見直しを迫る：フィナンシャル・タイムズ]]></title>
-        <id>https://www.coindeskjapan.com/?p=309241</id>
-        <link href="https://www.coindeskjapan.com/309241/"/>
-        <updated>2025-08-22T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[フィナンシャル・タイムズによると、欧州連合（EU）の政策立案者は、アメリカが新たなステーブルコイン法を成立させたことで、急速な進化に対応するため、デジタルユーロ ...
-アメリカのステーブルコイン法、EUにデジタルユーロ戦略の見直しを迫る：フィナンシャル・タイムズ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Margaux Nijkerk</name>
         </author>
     </entry>
 </feed>

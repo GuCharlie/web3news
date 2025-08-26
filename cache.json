@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=309652",
+          "author": "CoinDesk JAPAN",
+          "description": "Next Finance Techは8月26日、40を超える世界有数の金融機関およびサービスプロバイダーによってガバナンスされているプライバシー対応型オープンブ ...\nNext Finance Tech、機関投資家特化の「Canton Network」にバリデーターとして参画──伝統的金融とDeFiをつなぐ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/309652/",
+          "publishedOn": "2025-08-26T06:00:00.000Z",
+          "wordCount": 1324,
+          "title": "Next Finance Tech、機関投資家特化の「Canton Network」にバリデーターとして参画──伝統的金融とDeFiをつなぐ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/canton0826-2.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=309643",
+          "author": "廣瀬 優香",
+          "description": "プレスリリースによると、デジタル資産投資会社B Strategyは、ビルドアンドビルド（BNB）トレジャリーおよび投資ビークルとして機能する米国上場企業を設立す ...\nバイナンス創業者CZ氏のファミリーオフィス、BNBトレジャリー企業の設立を支援 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/309643/",
+          "publishedOn": "2025-08-26T04:00:00.000Z",
+          "wordCount": 1410,
+          "title": "バイナンス創業者CZ氏のファミリーオフィス、BNBトレジャリー企業の設立を支援",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/5ZYMENRFKNCVVO34PF5CS2P27Q.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=309636",
           "author": "廣瀬 優香",
           "description": "暗号資産（仮想通貨）フレンドリーな銀行Xapo Bankは、ロンドンを拠点とするリレーションシップ・マネジメント責任者としてトミー・ドイル（Tommy Doyl ...\n暗号資産フレンドリーなXapo Bank、ファルコンX元幹部をリレーションシップ・マネジメント責任者に採用 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -480,16 +500,6 @@
           "wordCount": 1345,
           "title": "ステーブルコイン市場、2028年までに約180兆円規模に達し、米国債利回りに影響を与える可能性：コインベース",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/shutterstock_1397815727.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=309100",
-          "author": "Stephen Alpher",
-          "description": "カンザスシティ連銀がジャクソンホールで開催する経済シンポジウムに人々が集まる中、市場は利下げに対する、以前の行き過ぎた期待を急速に再調整している。 クリーブラン ...\nビットコイン、11万3000ドルを割り込む──クリーブランド連銀総裁、利下げに「ノー」 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/309100/",
-          "publishedOn": "2025-08-21T17:51:14.000Z",
-          "wordCount": 1327,
-          "title": "ビットコイン、11万3000ドルを割り込む──クリーブランド連銀総裁、利下げに「ノー」",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/364436aa571b541226677b550755663af0c6f8fd-480x296-1.jpeg"
         }
       ]
     },
@@ -504,6 +514,81 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=645888",
+          "author": "幸田直子",
+          "description": "国際取引所連合（WFE）は、公式書簡でトークン化株式の拡大に懸念を表明し、米証券取引委員会（SEC）、欧州証券市場監督機構（ESMA）、証券監督者国際機構（IOSCO）など証券規制当局にトークン化株式への監督強化を要請した。",
+          "link": "https://coinpost.jp/?p=645888",
+          "publishedOn": "2025-08-26T05:45:41.000Z",
+          "wordCount": 3257,
+          "title": "トークン化株式のリスクに警鐘、国際取引所連合が規制強化を要請＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/future-tech-new-sum.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/future-tech-new-sum.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=645868",
+          "author": "K.Kobayashi",
+          "description": "米上場の医薬企業シャープス・テクノロジーは、仮想通貨ソラナの財務戦略を開始する計画を発表。580億円超の資金を調達することも発表した。",
+          "link": "https://coinpost.jp/?p=645868",
+          "publishedOn": "2025-08-26T04:50:59.000Z",
+          "wordCount": 3257,
+          "title": "ソラナに新たな財務戦略事例　米上場の医療企業が580億円超の資金調達発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/solana-ftx-new-auction-good-for-market.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/solana-ftx-new-auction-good-for-market.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=645844",
+          "author": "A.Yamada",
+          "description": "仮想通貨イーサリアムのヴィタリック・ブテリン共同創設者が分散型予測市場の金利不在問題を指摘した。ヘッジ手段として利用する魅力に欠けると分析している。",
+          "link": "https://coinpost.jp/?p=645844",
+          "publishedOn": "2025-08-26T03:20:23.000Z",
+          "wordCount": 4556,
+          "title": "ヴィタリック、分散型予測市場に「金利欠如でヘッジ手段としての魅力低め」と指摘",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/betting-polymarket.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/betting-polymarket.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=645774",
+          "author": "菊谷ルイス",
+          "description": "WebX 2025でマネックス松本大会長とギャラクシー・デジタルのノボグラッツCEOが対談。仮想通貨業界の現状、IPO動向、イーサリアム価格急騰の背景、規制展望について議論した。",
+          "link": "https://coinpost.jp/?p=645774",
+          "publishedOn": "2025-08-26T01:16:23.000Z",
+          "wordCount": 4568,
+          "title": "「次世代金融は4〜5年で実用化へ」マネックス松本会長とギャラクシーのノボグラッツCEOが予測｜WebX2025",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/motomatu-novo.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/motomatu-novo.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=645796",
+          "author": "AKIRA.H",
+          "description": "WebX2025で元ゴールドマン・サックス田中渓氏が「暗号資産投資家はアーリーアダプター段階」と分析。伝統金融業界の認識変化（10年前95:5→現在7:3）や「99%の人はまだ投資していない」現状を指摘。bitFlyer加納CEOとの対談で日本円1%の資産配分など具体戦略も言及。",
+          "link": "https://coinpost.jp/?p=645796",
+          "publishedOn": "2025-08-26T00:52:39.000Z",
+          "wordCount": 3283,
+          "title": "田中渓「暗号資産はアーリーアダプター段階」、伝統金融業界の認識変化を語る｜WebX2025",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/WebX-2025-104616-1040494_web2k.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/WebX-2025-104616-1040494_web2k.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=645782",
           "author": "CoinPost編集部",
@@ -1517,6 +1602,26 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=490669",
+          "author": "OtsugaShinya",
+          "description": "SBIがチェーンリンクと提携 SBI デジタルアセットホールディングス（SBI DAH）とチェーンリンクラボ（Chainlink Labs）が、日本およびアジア市場等における事業展開を目的とした戦略的パートナーシップを8 […]",
+          "link": "https://www.neweconomy.jp/posts/490669",
+          "publishedOn": "2025-08-26T04:25:31.000Z",
+          "wordCount": 612,
+          "title": "SBIとチェーンリンクが提携、アジア市場へのデジタルアセット事業展開目的に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/26132527/SBI-250826ttawit.21.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=490643",
+          "author": "HitomotoToshikazu",
+          "description": "BitMineのETH保有171万枚に 世界最大のイーサリアム（ETH）保有企業ビットマインイマージョンテクノロジーズ（BitMine Immersion Technologies：以下、ビットマイン）が、同社の暗号資産 […]",
+          "link": "https://www.neweconomy.jp/posts/490643",
+          "publishedOn": "2025-08-26T03:42:11.000Z",
+          "wordCount": 735,
+          "title": "世界最大のイーサリアム保有企業ビットマイン、保有量171万ETHに、総資産88億ドル突破",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/26114420/c5e637d588c7b8a047b581ef627c1223.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=490595",
           "author": "gentosha_takahashi",
           "description": "ソラナ特化のトレジャリー企業設立目指す 暗号資産（仮想通貨）投資会社のギャラクシー・デジタル（Galaxy Digital）、大手暗号資産投資企業マルチコイン・キャピタル（Multicoin Capital）、ブロックチ […]",
@@ -1883,6 +1988,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/altcoins-help-bitcoin-grow-tim-draper",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "ドレイパー・アソシエイツの創業パートナーでベンチャーキャピタリストのティム・ドレイパー氏は、アルトコインは最終的にビットコインを強化する役割を果たす可能性があると述べた。",
+          "link": "https://jp.cointelegraph.com/news/altcoins-help-bitcoin-grow-tim-draper?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-26T05:47:57.000Z",
+          "wordCount": null,
+          "title": "「アルトコインはビットコインを強化する実験場になる」 ティム・ドレイパー氏",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODIzYzctNjExOC03NmE3LThiMzUtNTU4MDEyY2YwN2I0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODIzYzctNjExOC03NmE3LThiMzUtNTU4MDEyY2YwN2I0.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/etf-issuers-be-picky-most-crypto-pretty-sketchy-rex-ceo",
+          "author": "Cointelegraph  Jesse Coghlan",
+          "description": "仮想通貨上場投資信託（ETF）の発行者は、どの仮想通貨にエクスポージャーを提供するか慎重に考える必要があると、REXフィナンシャルのグレッグ・キングCEOが警告した。",
+          "link": "https://jp.cointelegraph.com/news/etf-issuers-be-picky-most-crypto-pretty-sketchy-rex-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-26T04:50:29.000Z",
+          "wordCount": null,
+          "title": "「仮想通貨ETFの対象は慎重に選定すべき」　REXフィナンシャルCEO",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTk2OTAtMGM4OS03Zjg5LTkwZWYtNGQ4ZGFiY2ExZGNk.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTk2OTAtMGM4OS03Zjg5LTkwZWYtNGQ4ZGFiY2ExZGNk.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/canary-capital-files-american-made-crypto-etf",
+          "author": "Cointelegraph  Nate Kostar",
+          "description": "米国のデジタル資産投資企業カナリー・キャピタル・グループが、米証券取引委員会（SEC）に「カナリー・アメリカン・メイド・クリプトETF（MRCA）」の申請を行った。",
+          "link": "https://jp.cointelegraph.com/news/canary-capital-files-american-made-crypto-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-26T03:36:31.000Z",
+          "wordCount": null,
+          "title": "カナリー・キャピタル、「メイド・イン・アメリカ」仮想通貨ETFをSECに申請",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTNkOTUtOTEyYi03MTE4LWE3NTEtNDRjNDExZWUzNmMy.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTNkOTUtOTEyYi03MTE4LWE3NTEtNDRjNDExZWUzNmMy.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/crypto-liquidations-hit-900m-bitcoin-sheds-jackson-hole-gains",
           "author": "Cointelegraph  Martin Young",
@@ -2460,6 +2610,26 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=142500",
+          "author": "Crypto Times 編集部",
+          "description": "医療機器メーカーのシャープス・テクノロジー（ナスダック：STSS）は8月25日、ソラナ/$SOLを主要保有資産とするデジタル資産財務戦略の確立に向けて、4億ドルを超える私募増資による資金調達を発表しました。今回の資金調達 […]\n投稿 米医療系企業が「仮想通貨財務企業」へ｜ソラナ取得へ向け資金調達 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-sharps-technology-sol/",
+          "publishedOn": "2025-08-26T06:16:08.000Z",
+          "wordCount": 611,
+          "title": "米医療系企業が「仮想通貨財務企業」へ｜ソラナ取得へ向け資金調達",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/shutterstock_2512256857-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=142492",
+          "author": "よきょい",
+          "description": "暗号資産市場で価格調整が続く中「bc1qgf」で始まるウォレットアドレスを持つ特定の大口保有者、通称「クジラ」が、ビットコイン（BTC）の買い増しを続けていることが明らかになりました。 Whale bc1qgf boug […]\n投稿 BTC大口投資家、含み損23億円も押し目買いを継続 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitcoin-whales-continue-buying-dips-despite-16-million-in-unrealized-losses/",
+          "publishedOn": "2025-08-26T02:54:05.000Z",
+          "wordCount": 630,
+          "title": "BTC大口投資家、含み損23億円も押し目買いを継続",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/shutterstock_2067437456-1.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=142487",
           "author": "よきょい",

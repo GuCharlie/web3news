@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-25T23:37:34.329Z</updated>
+    <updated>2025-08-26T01:14:52.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「暗号資産は次世代産業」加藤財務大臣、WebXで国際競争力強化と制度整備を語る｜WebX 2025]]></title>
+        <id>https://coinpost.jp/?p=645782</id>
+        <link href="https://coinpost.jp/?p=645782"/>
+        <updated>2025-08-26T00:41:23.000Z</updated>
+        <summary type="html"><![CDATA[WebX 2025で講演した加藤財務大臣は、日本の暗号資産（仮想通貨）市場が口座数1,200万を突破し着実に成長していることを強調。トランプ大統領率いるアメリカなど各国が次世代産業として暗号資産を重視する中、日本も税制改正や規制整備で国際競争力を高める方針を示した。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサジラ、最大370億円の自社株買いを承認　イーサリアム保有額720億円に到達]]></title>
+        <id>https://coinpost.jp/?p=645776</id>
+        <link href="https://coinpost.jp/?p=645776"/>
+        <updated>2025-08-26T00:00:42.000Z</updated>
+        <summary type="html"><![CDATA[ETHトレジャリー企業イーサジラが最大約370億円の自社株買いプログラムを承認した。仮想通貨イーサリアム保有額は720億円に達しており、株主価値向上を目指す。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グレースケール、アバランチ現物ETF申請　ナスダック上場目指す]]></title>
+        <id>https://coinpost.jp/?p=645775</id>
+        <link href="https://coinpost.jp/?p=645775"/>
+        <updated>2025-08-25T23:45:51.000Z</updated>
+        <summary type="html"><![CDATA[グレースケールが8月22日にSECへアバランチ現物ETF申請を提出。既存投資信託をナスダック上場ETFに転換し、大衆向けの投資機会を提供目指す。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ストラテジー、3081BTC買い増し　ビットコイン循環供給量の約3.2%に]]></title>
         <id>https://coinpost.jp/?p=645757</id>
@@ -2028,26 +2058,6 @@ SBIとスターテイル、合弁会社を設立──あらゆる価値のオ�
 ビットコイン、11万3000ドルを割り込む──クリーブランド連銀総裁、利下げに「ノー」 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Stephen Alpher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プログマが金融領域の新規コンサル事業開始、パシフィックメタ、イグニション・ポイント、3Dライフワークスと提携で]]></title>
-        <id>https://www.neweconomy.jp/?p=489592</id>
-        <link href="https://www.neweconomy.jp/posts/489592"/>
-        <updated>2025-08-21T11:58:17.000Z</updated>
-        <summary type="html"><![CDATA[Progmatがコンサル事業開始 デジタルアセット発行・管理基盤提供プログマ（Progmat）社が、パシフィックメタ（Pacific Meta）、イグニション・ポイント、3Dライフワークス（3D life Works）と […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【8/21話題】中国が人民元ステーブルコイン承認検討か、ウィンクルボス兄弟がトランプ支持PACにビットコイン寄付など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=489538</id>
-        <link href="https://www.neweconomy.jp/posts/489538"/>
-        <updated>2025-08-21T11:45:29.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
         </author>
     </entry>
 </feed>

@@ -1567,6 +1567,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=490862",
+          "author": "gentosha_takahashi",
+          "description": "上場先としてNYかフランクフルトを模索 欧州の大手暗号資産（仮想通貨）プラットフォームのビットパンダ（Bitpanda）が、ロンドン証券取引所（LSE）での上場を断念したと、フィナンシャル・タイムズ（FT）が8月26日に […]",
+          "link": "https://www.neweconomy.jp/posts/490862",
+          "publishedOn": "2025-08-27T08:26:56.000Z",
+          "wordCount": 740,
+          "title": "豪暗号資産取引所ビットパンダ、ロンドン証券取引所での上場断念＝FT",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/27172649/9d48be33559cfb219ee2a3ae32a77452.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=490853",
           "author": "gentosha_takahashi",
           "description": "CRO特化のトレジャリー企業設立も ドナルド・トランプ（Donald Trump）米大統領のメディア企業、トランプ・メディア・アンド・テクノロジー・グループ（Trump Media & Technology Gr […]",
@@ -1813,6 +1823,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-market-cycles-not-anchored-halvings-analyst",
+          "author": "Cointelegraph  Martin Young",
+          "description": "ビットコインの市場サイクルは半減期を基軸にしていない──アナリストのジェームズ・チェック氏が広く信じられている説に異議を唱えた。同氏によれば、強気市場と弱気市場を動かすのは他の要因であるという。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-market-cycles-not-anchored-halvings-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-27T08:21:48.000Z",
+          "wordCount": null,
+          "title": "ビットコインの市場サイクルは半減期に依存せず？ アナリストらが議論",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTU2MjQtZDcxNy03ZjAwLWIwNzktNDZmNDljZDE4ODhj.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTU2MjQtZDcxNy03ZjAwLWIwNzktNDZmNDljZDE4ODhj.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/polymarket-secures-1789-capital-investment-trump-jr-joins-board",
           "author": "Cointelegraph  Nate Kostar",

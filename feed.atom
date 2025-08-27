@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-27T21:14:26.360Z</updated>
+    <updated>2025-08-27T21:36:19.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブラックロックのイーサリアムETF　ETH保有量が拡大　世界第2位のコインベースに迫る]]></title>
+        <id>https://jp.cointelegraph.com/news/blackrock-btc-etf-balance-flips-coinbase-is-eth-next</id>
+        <link href="https://jp.cointelegraph.com/news/blackrock-btc-etf-balance-flips-coinbase-is-eth-next?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-27T21:32:07.000Z</updated>
+        <summary type="html"><![CDATA[ブラックロックのiシェアーズ・イーサリアムETFが、コインベースを抜き世界第2位のイーサリアム（ETH）カストディアンになる可能性が浮上している。]]></summary>
+        <author>
+            <name>Cointelegraph  Biraajmaan Tamuly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン　11万7000ドルまで上昇できるか？ 弱気派と強気派の攻防が激化]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-trader-sees-117k-coming-btc-price-reclaims-key-trend-line</id>

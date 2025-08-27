@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=309782",
+          "author": "廣瀬 優香",
+          "description": "トランプ・メディア・アンド・テクノロジー・グループ（Trump Media and Technology Group、ティッカー：DJT）は、暗号資産（仮想通貨 ...\nトランプ・メディア、64億ドル規模のCROストラテジー企業を設立へ──CROは25%急騰 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/309782/",
+          "publishedOn": "2025-08-27T02:15:00.000Z",
+          "wordCount": 1462,
+          "title": "トランプ・メディア、64億ドル規模のCROストラテジー企業を設立へ──CROは25%急騰",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/841ac31fb4e72ea7f68c4ff1293a8c535f8c28c.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=309783",
+          "author": "栃山直樹",
+          "description": "マネックスグループが、日本国債などを裏付け資産とする円建てステーブルコインの国内発行を検討していると、8月26日にテレビ東京が報じた。 同グループの松本大会長は ...\nマネックスグループ、国内での円建てステーブルコイン発行を検討──報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/309783/",
+          "publishedOn": "2025-08-27T01:40:10.000Z",
+          "wordCount": 1253,
+          "title": "マネックスグループ、国内での円建てステーブルコイン発行を検討──報道",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/shutterstock_1439627582.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=309777",
           "author": "Helene Braun",
           "description": "アルトコインは8月26日、それまでの48時間で起こった急激な下落の後、力強く反発した。トレーダーは低価格を、市場に再参入する機会として捉えたようだ。 エックス・ ...\nXRP、6%高で暗号資産の反発を主導──ビットコインは11万1000ドルを回復 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -454,6 +474,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=646234",
+          "author": "A.Yamada",
+          "description": "SBIグループが仮想通貨チェーンリンクとの戦略的提携を発表。トークン化資産、規制対象ステーブルコイン事業などを日本・アジア市場に焦点を当てて展開していく計画だ。",
+          "link": "https://coinpost.jp/?p=646234",
+          "publishedOn": "2025-08-27T02:25:58.000Z",
+          "wordCount": 3237,
+          "title": "SBIとチェーンリンク、RWAとステーブルコインで戦略的パートナーシップ締結",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/sbi-chainlink.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/sbi-chainlink.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=646203",
+          "author": "K.Kobayashi",
+          "description": "ビットマインの会長のトム・リー氏は、仮想通貨イーサリアムの価格分析をXで引用。この分析によるとイーサリアムは4,300ドル付近で底を打ち、5,450ドル近くまで上昇する可能性がある。",
+          "link": "https://coinpost.jp/?p=646203",
+          "publishedOn": "2025-08-27T01:55:13.000Z",
+          "wordCount": 3251,
+          "title": "「イーサリアムはすでに底打ちして5400ドル台まで上昇の可能性」トム・リー引用の価格分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/ethereum-network-value.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/ethereum-network-value.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=646190",
+          "author": "A.Yamada",
+          "description": "カナリーキャピタルがトランプ大統領のミームコイン「TRUMP」の現物ETFを申請した。完全直接投資型は初となる。SEC承認のハードル、他社との違いを解説する。",
+          "link": "https://coinpost.jp/?p=646190",
+          "publishedOn": "2025-08-27T01:35:20.000Z",
+          "wordCount": 3240,
+          "title": "カナリーキャピタル、初のトランプコイン（TRUMP）現物ETFを申請",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/trumpcoin-pic.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/trumpcoin-pic.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=645750",
           "author": "hiroto.yoshii",
@@ -1635,16 +1700,6 @@
           "wordCount": 732,
           "title": "エックスモバイル、通信料に応じて「ビットコイン価格連動ポイント」が貯まる「BTCモバイル」提供へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/24161948/btcsp_head.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=489974",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/489974",
-          "publishedOn": "2025-08-22T13:37:31.000Z",
-          "wordCount": 830,
-          "title": "【8/22話題】SBIとスターテイルがトークン化株式の取引基盤を共同開発、金融庁、政府へ暗号資産取引の分離課税を要望など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/22181650/c8853b00ebb16d5dd72eef30180024b8.jpg"
         }
       ]
     },
@@ -2651,6 +2706,26 @@
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
         {
+          "id": "https://crypto-times.jp/?p=142511",
+          "author": "Crypto Times 編集部",
+          "description": "Pudgy Penguinsは8月27日、コレクティブルフォトカードが日本の主要コンビニエンスストアで販売開始されたことを発表しました。 Pudgy Penguins collectible photo cards ar […]\n投稿 Pudgy Penguins、コレクティブルフォトカードを日本のコンビニで販売開始 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-pudgy-penguins-collectible-photo-cards/",
+          "publishedOn": "2025-08-27T02:26:16.000Z",
+          "wordCount": 659,
+          "title": "Pudgy Penguins、コレクティブルフォトカードを日本のコンビニで販売開始",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/shutterstock_2559379067.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=142512",
+          "author": "よきょい",
+          "description": "スタンダードチャータード銀行は、イーサリアム（ETH）とその保有企業が依然として過小評価されているとの分析を発表しました。 機関投資家によるイーサリアムの急速な蓄積が進んでいることから同行は年末までに価格が7,500ドル […]\n投稿 イーサリアムは今絶好の買い場？大手銀による年末7500ドル予測 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-is-now-the-best-time-to-buy-ethereum-major-bank-predicts-year-end-price-at-7500/",
+          "publishedOn": "2025-08-27T02:24:03.000Z",
+          "wordCount": 592,
+          "title": "イーサリアムは今絶好の買い場？大手銀による年末7500ドル予測",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/shutterstock_2116842221.jpg"
+        },
+        {
           "id": "https://crypto-times.jp/?p=142506",
           "author": "Crypto Times 編集部",
           "description": "人気NFTプロジェクト「Pudgy Penguins」がモバイルゲーム「Pudgy Party」の早期参加者に対してソウルバウンドトークン（SBT）を配布することを発表しました。 Introducing the Earl […]\n投稿 Pudgy Penguins、モバイルゲーム早期参加者にSBTを配布 は CRYPTO TIMES に最初に表示されました。",
@@ -2769,16 +2844,6 @@
           "wordCount": 655,
           "title": "イーサリアム (ETH) 、約4年ぶりに史上最高値更新｜利下げ期待で強気ムード",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/Gemini_Generated_Image_on2tlxon2tlxon2t.jpeg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=142407",
-          "author": "Crypto Times 編集部",
-          "description": "9月の政策転換に向け地ならし、雇用リスクの増大を強調 米ワイオミング州ジャクソンホールで開催中の連邦準備制度理事会（FRB）年次経済シンポジウムで、ジェローム・パウエルFRB議長が8/22 23:00から基調講演を行い、 […]\n投稿 【速報】ジャクソンホール会合：パウエル議長が利下げ示唆、 $ETH は1時間で+6.5%の上昇 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-powell-jackson-hall/",
-          "publishedOn": "2025-08-22T14:35:58.000Z",
-          "wordCount": 614,
-          "title": "【速報】ジャクソンホール会合：パウエル議長が利下げ示唆、 $ETH は1時間で+6.5%の上昇",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/598812722327f78577186a47298d4800.jpg"
         }
       ]
     }

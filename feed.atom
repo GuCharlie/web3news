@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-28T16:44:32.336Z</updated>
+    <updated>2025-08-28T17:13:35.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米政府が経済データをオンチェーン化　チェーンリンクとパイスを採用　関連トークンも急騰]]></title>
+        <id>https://jp.cointelegraph.com/news/us-government-chainlink-pyth-economic-data-onchain</id>
+        <link href="https://jp.cointelegraph.com/news/us-government-chainlink-pyth-economic-data-onchain?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-28T16:55:39.000Z</updated>
+        <summary type="html"><![CDATA[米政府は、ブロックチェーン・オラクルプロバイダーであるチェーンリンクとパイスを起用し、経済データをオンチェーンで公開する取り組みを開始した。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン　強気のメガホン型パターン形成　26万ドル到達の可能性も]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-megaphone-pattern-targets-260k-abtc-price-screams-oversold</id>
@@ -2637,16 +2647,6 @@ ETHが4900ドルを突破──「BTCは疲弊しているが、ETHはそうで�
         <summary type="html"><![CDATA[WebX Fintech EXPO 2025で、VISA、日本銀行、Ant Internationalが国際決済の課題を議論。高い手数料、長い決済時間、透明性の欠如という3大課題に対し、CBDCやステーブルコインなどデジタル通貨による解決策を提示した。]]></summary>
         <author>
             <name>Ritsuki.Kumazawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今週の主要仮想通貨材料まとめ、BTCの次の上昇タイミングやETHのパフォーマンス向上要因など]]></title>
-        <id>https://coinpost.jp/?p=644714</id>
-        <link href="https://coinpost.jp/?p=644714"/>
-        <updated>2025-08-24T05:00:51.000Z</updated>
-        <summary type="html"><![CDATA[前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナなど主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>

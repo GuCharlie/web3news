@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=310073",
+          "author": "廣瀬 優香",
+          "description": "ロンドンに拠点を置き、世界最大級の銀行に金融テクノロジーを提供するFinastraは27日、自社の決済ハブをサークル（Circle）のステーブルコイン、USDコ ...\nサークル、世界的大手フィンテック企業と提携──USDC決済を5兆ドル規模の国際送金に導入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/310073/",
+          "publishedOn": "2025-08-28T01:30:00.000Z",
+          "wordCount": 1330,
+          "title": "サークル、世界的大手フィンテック企業と提携──USDC決済を5兆ドル規模の国際送金に導入",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/278d2d78dc415a98d2a0580582666d0cde922ad5-2132x1416-2.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=310045",
           "author": "Margaux Nijkerk",
           "description": "ユニバーサル・ステーキング・プロトコルであり、アイゲンレイヤー（EigenLayer）の競合であるシンビオティック（Symbiotic）は、「External  ...\nシンビオティック、共有セキュリティ強化のための外部報酬機能を発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -564,6 +574,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=646509",
+          "author": "K.Kobayashi",
+          "description": "Aaveは、仮想通貨イーサリアムのブロックチェーン上にレンディング市場Horizonをローンチしたことを発表。RWAトークンを担保にした機関によるステーブルコイン借入が可能になった。",
+          "link": "https://coinpost.jp/?p=646509",
+          "publishedOn": "2025-08-28T02:30:46.000Z",
+          "wordCount": 3219,
+          "title": "RWAトークン担保の機関によるステーブルコイン借入が可能に　AaveがHorizonをローンチ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/Aave-Horizon.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/Aave-Horizon.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=645885",
+          "author": "CoinPost編集部",
+          "description": "WebX2025の最注目セッションの一つ「投資ポートフォリオに仮想通貨（ビットコイン）は必要か」では、累計利益100億円の株式投資家のテスタ氏、Web3業界に精通するbitFlyer加納裕三CEO、仮想通貨YouTuberのJoe Takayama氏が登壇。ビットコインの価値根拠、税制改正の影響、従来資産との比較を巡り、多角的な議論が展開され、仮想通貨投資の可能性と課題に迫った。",
+          "link": "https://coinpost.jp/?p=645885",
+          "publishedOn": "2025-08-28T02:17:35.000Z",
+          "wordCount": 3255,
+          "title": "「投資ポートフォリオに仮想通貨は必要か」テスタ×加納裕三×Joe Takayama特別対談レポート｜WebX2025",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/WebX-2025-160108-1050522_web2k-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/WebX-2025-160108-1050522_web2k-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=646515",
+          "author": "AKIRA.H",
+          "description": "ビットポイントは国内暗号資産交換業者として日本初となる積立時のスプレッド・手数料を完全無料にしたビットコイン積立サービス「ゼロつみたて」を開始。投資金額の100％がそのまま購入資金に充当される画期的なサービスで、初回積立日は2025年10月10日予定。",
+          "link": "https://coinpost.jp/?p=646515",
+          "publishedOn": "2025-08-28T01:14:01.000Z",
+          "wordCount": 3201,
+          "title": "ビットポイント　完全無料の「ビットコイン積立」を開始　初回期限は9月16日",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/bnr_1468x825.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/bnr_1468x825.png"
+        },
         {
           "id": "https://coinpost.jp/?p=646498",
           "author": "A.Yamada",
@@ -1463,21 +1518,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=645242",
-          "author": "Ritsuki.Kumazawa",
-          "description": "UPCX、ペイクル、NTT Digitalの3社が、UPCXブロックチェーンを基盤とした次世代分散型決済システムの共同研究・技術開発で基本合意書を締結。金融機関向けインフラ構築と日本市場での実装を推進。",
-          "link": "https://coinpost.jp/?p=645242",
-          "publishedOn": "2025-08-23T13:13:07.000Z",
-          "wordCount": 3229,
-          "title": "UPCX、ペイクル、NTT Digitalが分散型決済システムの社会実装で基本合意",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/upcx0823-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/upcx0823-1.png"
         }
       ]
     },
@@ -1773,6 +1813,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-can-still-hit-160k-by-christmas-average-q4-comeback",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコイン（BTC）は、年末にかけて平均44％の上昇が見込まれる可能性があると指摘されている。アナリストらは深い価格調整の影響は軽微と考え、依然として強気の見方を崩していない。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-can-still-hit-160k-by-christmas-average-q4-comeback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-28T01:23:46.000Z",
+          "wordCount": null,
+          "title": "ビットコイン　クリスマスまでに16万ドル到達なるか？ 過去データは平均44％上昇を示唆",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2JhZDAtNDkwMC03YjMwLTljNGQtN2Q1NjljZmU0OWE5.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2JhZDAtNDkwMC03YjMwLTljNGQtN2Q1NjljZmU0OWE5.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/cronos-surge-40-trump-media-group-cro-strategy",
           "author": "Cointelegraph  Helen Partz",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-28T19:35:43.783Z</updated>
+    <updated>2025-08-28T20:17:20.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ一家が支援するマイナーのアメリカン・ビットコイン、9月にナスダック上場を目指す]]></title>
+        <id>https://www.coindeskjapan.com/?p=310237</id>
+        <link href="https://www.coindeskjapan.com/310237/"/>
+        <updated>2025-08-28T19:37:09.000Z</updated>
+        <summary type="html"><![CDATA[ドナルド・トランプ（Donald Trump）大統領の息子2人が20%を所有するビットコイン（BTC）マイナー、アメリカン・ビットコイン（American Bi ...
+トランプ一家が支援するマイナーのアメリカン・ビットコイン、9月にナスダック上場を目指す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨PYTHが70％急騰　米商務省がパイス・ネットワーク採用　政府プロセスへのブロックチェーン組み込みを好感]]></title>
         <id>https://jp.cointelegraph.com/news/pyth-network-token-surges-us-commerce-onchain-data</id>
@@ -2627,16 +2638,6 @@ ETHが4900ドルを突破──「BTCは疲弊しているが、ETHはそうで�
         <summary type="html"><![CDATA[State StreetがJPMorganのカストディアンに 米金融サービスプロバイダーのステートストリート（State Street）が、米銀行大手JPモルガン（JPMorgan）の債務証券トークン化サービスにおける初 […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Development Corpの最高執行責任者、ソラナトレジャリー企業戦略を解説｜SuperTokyo 2025]]></title>
-        <id>https://coinpost.jp/?p=645315</id>
-        <link href="https://coinpost.jp/?p=645315"/>
-        <updated>2025-08-24T07:45:17.000Z</updated>
-        <summary type="html"><![CDATA[NASDAQ上場のDeFi Development Corp（DFDV）がSuperTokyo 2025で発表したSolanaトレジャリー戦略を解説。バリデーター運営による10%利回りの実現、3ヶ月で60%の成長実績、日本市場への展開計画について詳しく紹介。]]></summary>
-        <author>
-            <name>Ritsuki.Kumazawa</name>
         </author>
     </entry>
 </feed>

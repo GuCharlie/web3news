@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-28T15:39:52.255Z</updated>
+    <updated>2025-08-28T16:19:57.143Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム　史上最大のバリデーター離脱　100万ETH超が引き出し待機中]]></title>
+        <id>https://jp.cointelegraph.com/news/ethereum-exit-queue-record-5b-eth-sell-pressure-concerns</id>
+        <link href="https://jp.cointelegraph.com/news/ethereum-exit-queue-record-5b-eth-sell-pressure-concerns?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-28T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムは史上最大規模のバリデーター離脱に直面しており、現在100万ETH超がプルーフ・オブ・ステーク（PoS）ネットワークを通じてステーキング解除待機中となっている。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRP　調整後に再上昇の兆し　アナリストは「次のターゲットは20ドル」と指摘]]></title>
         <id>https://jp.cointelegraph.com/news/xrp-distribution-phase-doesnt-change-20-dollar-price-target</id>

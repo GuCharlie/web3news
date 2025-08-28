@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-28T06:23:28.061Z</updated>
+    <updated>2025-08-28T06:48:53.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ジェイフロンティア、オンライン診療・服薬アプリ「SOKUYAKU」にビットコイン決済導入へ]]></title>
+        <id>https://www.coindeskjapan.com/?p=310110</id>
+        <link href="https://www.coindeskjapan.com/310110/"/>
+        <updated>2025-08-28T06:38:02.000Z</updated>
+        <summary type="html"><![CDATA[オンライン診療・服薬指導アプリ「SOKUYAKU（ソクヤク）」を提供する東証グロース市場上場のジェイフロンティアは8月28日、同アプリにビットコイン（BTC）決 ...
+ジェイフロンティア、オンライン診療・服薬アプリ「SOKUYAKU」にビットコイン決済導入へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>栃山直樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レイヤーゼロ財団、スターゲートDAOから買収承認を獲得]]></title>
+        <id>https://www.neweconomy.jp/?p=491103</id>
+        <link href="https://www.neweconomy.jp/posts/491103"/>
+        <updated>2025-08-28T06:29:42.000Z</updated>
+        <summary type="html"><![CDATA[LayerZero財団がStargate DAO買収を承認獲得 クロスチェーンブリッジ「スターゲート（Stargate）」の分散型自律組織（DAO）が、相互運用性プロトコル「レイヤーゼロ（LayerZero）」の運営団体 […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム財団、セキュリティ強化PJの第2段階を開始、ウォレット安全基準策定へ]]></title>
         <id>https://www.neweconomy.jp/?p=491092</id>
@@ -2470,26 +2491,6 @@ ETHが4900ドルを突破──「BTCは疲弊しているが、ETHはそうで�
         <summary type="html"><![CDATA[コインテレグラフのポッドキャスト番組「Byte-Sized Insight」では、中国のステーブルコイン進出の可能性について、ピーターソン国際経済研究所のシニアフェロー、マーティン・チョルゼンパ氏と、ブロックチェーン調査企業チェーンアルゴスのパトリック・タンCEOに話を聞いた。]]></summary>
         <author>
             <name>Cointelegraph  Savannah Fortis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン　世界のマネー供給の1.7％に到達]]></title>
-        <id>https://jp.cointelegraph.com/news/btc-1-7-global-money-fed-chair-signals-rate-cut</id>
-        <link href="https://jp.cointelegraph.com/news/btc-1-7-global-money-fed-chair-signals-rate-cut?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-08-23T18:40:23.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）が世界のマネー供給の約1.7％を占めるまでに成長した。ビットコイン金融サービス企業リバーによれば、この数値には主要な法定通貨のM2供給量に加え、主要な小規模通貨、さらに金の時価総額が含まれている。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン　世界のマネー供給の1.7％に到達]]></title>
-        <id>https://jp.cointelegraph.com/news/btc-1-7-global-money-fed-chair-signals-rate-cut</id>
-        <link href="https://jp.cointelegraph.com/news/btc-1-7-global-money-fed-chair-signals-rate-cut?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-08-23T18:40:23.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）が世界のマネー供給の約1.7％を占めるまでに成長した。ビットコイン金融サービス企業リバーによれば、この数値には主要な法定通貨のM2供給量に加え、主要な小規模通貨、さらに金の時価総額が含まれている。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
         </author>
     </entry>
 </feed>

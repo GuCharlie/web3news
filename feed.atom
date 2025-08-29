@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-29T14:40:24.584Z</updated>
+    <updated>2025-08-29T15:13:50.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[XRP 1か月で22%下落　9月にはさらなる調整リスクの恐れも]]></title>
+        <id>https://jp.cointelegraph.com/news/is-xrp-going-to-crash-in-september</id>
+        <link href="https://jp.cointelegraph.com/news/is-xrp-going-to-crash-in-september?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-29T15:08:24.000Z</updated>
+        <summary type="html"><![CDATA[XRP（XRP）は7月に3.66ドル付近でピークをつけた後、過去1か月で22.30%下落し、8月はマイナスで終える見込みとなっている。9月も下落は続くのか、オンチェーンデータとテクニカル指標を検証する。]]></summary>
+        <author>
+            <name>Cointelegraph  Yashu Gola</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、重要な実現価格を下回る圧力に直面──10万7440ドルがサポートに]]></title>
         <id>https://www.coindeskjapan.com/?p=310456</id>
@@ -3401,37 +3411,6 @@ EXPOウォレット、ドル・円のステーブルコイン利用可能に─�
         <summary type="html"><![CDATA[メタプラのビットコイン総保有数が18,991BTCに ビットコイン（BTC）の購入を積極的に進めている東証スタンダード上場企業メタプラネットが、ビットコインの追加購入実施を8月25日に発表した。 今回メタプラネットが追加 […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ大統領の親族関与のWLFIトークン、イーサリアム上で取引開始へ]]></title>
-        <id>https://www.neweconomy.jp/?p=490292</id>
-        <link href="https://www.neweconomy.jp/posts/490292"/>
-        <updated>2025-08-25T03:12:18.000Z</updated>
-        <summary type="html"><![CDATA[WLFI取引開始へ ワールド・リバティ・ファイナンシャル（World Liberty Financial：WLFI）の独自トークン「WLFI」が、イーサリアム（Ethereum）上で取引開始される予定であると公式Xで8月 […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットポイント、「スプレッド・手数料ゼロ」のビットコイン積立投資サービス提供へ]]></title>
-        <id>https://www.neweconomy.jp/?p=490310</id>
-        <link href="https://www.neweconomy.jp/posts/490310"/>
-        <updated>2025-08-25T03:03:03.000Z</updated>
-        <summary type="html"><![CDATA[ビットポイントが「ゼロつみたて」提供へ 国内暗号資産（仮想通貨）取引所ビットポイントが、積立購入にかかるコストを完全にゼロとしたビットコイン積立投資サービス「ゼロつみたて」の提供予定を8月25日に発表した。 「ゼロつみた […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETHが4900ドルを突破──「BTCは疲弊しているが、ETHはそうではない」とアナリスト]]></title>
-        <id>https://www.coindeskjapan.com/?p=309391</id>
-        <link href="https://www.coindeskjapan.com/309391/"/>
-        <updated>2025-08-25T02:45:00.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム（ETH）は24日に未知の領域に突入し、協定世界時（UTC）17時40分にコインベース（Coinbase）で4900ドルを突破して、2021年11月 ...
-ETHが4900ドルを突破──「BTCは疲弊しているが、ETHはそうではない」とアナリスト first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
         </author>
     </entry>
 </feed>

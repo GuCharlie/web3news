@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-29T10:40:53.918Z</updated>
+    <updated>2025-08-29T11:12:46.686Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【8/29話題】金融庁が暗号資産取引の課税見直し正式要望、gumiが25億円でXRP、SBI VCトレードがリブワーク支援など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=491814</id>
+        <link href="https://www.neweconomy.jp/posts/491814"/>
+        <updated>2025-08-29T11:08:14.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナ、Alpenglowアップグレード提案が投票段階に]]></title>
+        <id>https://www.neweconomy.jp/?p=491818</id>
+        <link href="https://www.neweconomy.jp/posts/491818"/>
+        <updated>2025-08-29T11:01:52.000Z</updated>
+        <summary type="html"><![CDATA[Alpenglowコンセンサス機能改善提案が投票段階に ソラナ（Solana）ネットワークのコンセンサス機能を大幅に改善する提案「Alpenglow（アルペングロー）」が8月28日、コミュニティ投票段階に入った。同提案は […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[gumi、25億円相当のXRP購入へ──筆頭株主SBIとの連携強化]]></title>
         <id>https://www.coindeskjapan.com/?p=310427</id>
@@ -3149,17 +3169,6 @@ ETHが4900ドルを突破──「BTCは疲弊しているが、ETHはそうで�
         <summary type="html"><![CDATA[旧FTX JPが顧客情報漏えいか 国内暗号資産（仮想通貨）取引所ビットフライヤーの関連会社であるカストディエム（Custodiem）より、同社からの顧客情報漏えいの可能性について8月23日に発表された。 ビットフライヤー […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTC急落で巨額清算発生、ジャクソンホール後の上昇相場が一転]]></title>
-        <id>https://crypto-times.jp/?p=142477</id>
-        <link href="https://crypto-times.jp/news-btc-liquidation-8-25/"/>
-        <updated>2025-08-24T23:09:13.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産先物市場で大規模な清算が発生し、過去4時間でビットコイン（BTC）だけで2.1億ドルの清算が記録されました。その9割以上がロングポジションとなっています。 ビットコインは今朝4時頃114,600ドル付近から一時1 […]
-投稿 BTC急落で巨額清算発生、ジャクソンホール後の上昇相場が一転 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
 </feed>

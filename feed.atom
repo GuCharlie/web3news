@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-29T11:36:12.559Z</updated>
+    <updated>2025-08-29T12:31:04.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米不動産上場企業、仮想通貨ソラナを約110億円分購入]]></title>
+        <id>https://crypto-times.jp/?p=142703</id>
+        <link href="https://crypto-times.jp/news-defi-development-buy-sol/"/>
+        <updated>2025-08-29T12:11:31.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ソラナ ($SOL) を財務戦略として取得するDeFi Development Corp.（ティッカー：DFDV）が、407,247 SOLを7,700万ドル（約110億円）で新たに購入したと発表しました。1トー […]
+投稿 米不動産上場企業、仮想通貨ソラナを約110億円分購入 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【8/29話題】金融庁が暗号資産取引の課税見直し正式要望、gumiが25億円でXRP、SBI VCトレードがリブワーク支援など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=491814</id>
@@ -3159,16 +3170,6 @@ ETHが4900ドルを突破──「BTCは疲弊しているが、ETHはそうで�
         <summary type="html"><![CDATA[アーサーが語る「現在の強気相場サイクルは2028年まで」大型Web3カンファレンス「WebX」では25日、著名暗号資産（仮想通貨）アナリストのアーサー・ヘイズ氏がオープニングセッションに登壇した。米国政府がステーブルコインを国家政策として推...]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットフライヤー買収のカストディエム（旧FTX JP）、顧客情報漏えいか]]></title>
-        <id>https://www.neweconomy.jp/?p=490251</id>
-        <link href="https://www.neweconomy.jp/posts/490251"/>
-        <updated>2025-08-25T00:03:14.000Z</updated>
-        <summary type="html"><![CDATA[旧FTX JPが顧客情報漏えいか 国内暗号資産（仮想通貨）取引所ビットフライヤーの関連会社であるカストディエム（Custodiem）より、同社からの顧客情報漏えいの可能性について8月23日に発表された。 ビットフライヤー […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>

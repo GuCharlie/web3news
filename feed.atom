@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-29T15:37:10.633Z</updated>
+    <updated>2025-08-29T16:18:52.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン　10万8000ドル台まで下落　マクロ要因と弱気圧力で7月以来の安値]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-price-dips-lowest-since-july-8-sell-off-liquidates-530m</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-price-dips-lowest-since-july-8-sell-off-liquidates-530m?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-29T15:59:27.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は金曜日のウォール街の取引開始後に数週間ぶりの安値を更新した。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRP 1か月で22%下落　9月にはさらなる調整リスクの恐れも]]></title>
         <id>https://jp.cointelegraph.com/news/is-xrp-going-to-crash-in-september</id>
@@ -3380,27 +3390,6 @@ EXPOウォレット、ドル・円のステーブルコイン利用可能に─�
         <summary type="html"><![CDATA[WebX2025特別対談でSBIホールディングス北尾吉孝会長と実業家・堀江貴文氏が暗号資産（仮想通貨）・ブロックチェーン技術について対談。従来の広告依存型ビジネスモデルからの脱却と、ブロックチェーン技術を核とした新たな収益構造の必要性について一致した見解を示した。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMマネジメントとクアッドマイナー、デジタル資産セキュリティ強化に向け業務提携（MOU）を締結]]></title>
-        <id>https://crypto-times.jp/?p=142472</id>
-        <link href="https://crypto-times.jp/press-am-management-quad-miners/"/>
-        <updated>2025-08-25T04:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 AMマネジメントは25日、韓国のサイバーセキュリティ専門企業クアッドマ […]
-投稿 AMマネジメントとクアッドマイナー、デジタル資産セキュリティ強化に向け業務提携（MOU）を締結 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[武藤経産大臣、Web3政策を強調　アニメ・地方創生から世界展開へ｜WebX2025]]></title>
-        <id>https://coinpost.jp/?p=645493</id>
-        <link href="https://coinpost.jp/?p=645493"/>
-        <updated>2025-08-25T03:52:25.000Z</updated>
-        <summary type="html"><![CDATA[WebXで武藤経産大臣が日本のWeb3戦略を表明。税制改正やスタートアップ支援、起業家誘致を通じ経済成長を目指す。]]></summary>
-        <author>
-            <name>hiroto.yoshii</name>
         </author>
     </entry>
 </feed>

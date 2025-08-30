@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-30T09:35:48.041Z</updated>
+    <updated>2025-08-30T10:13:47.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインとイーサリアムのETFで資金流出　トランプ政権の関税政策でインフレ懸念が加速]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-ether-etfs-see-outflows-fed-inflation-trump-tariffs</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-ether-etfs-see-outflows-fed-inflation-trump-tariffs?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-08-30T10:12:14.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）とイーサリアム（ETH）の上場投資信託（ETF）は金曜日に流出を記録した。米連邦準備制度理事会（FRB）が発表した物価指標が、トランプ政権の関税政策の下でインフレ圧力が強まっていることを示したためだ。]]></summary>
+        <author>
+            <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーロン・マスクの顧問弁護士、ドージコイントトレジャリー会社の会長就任へ　2億ドル調達計画]]></title>
         <id>https://coinpost.jp/?p=647170</id>
@@ -3339,36 +3349,6 @@ ETHZilla、イーサリアム保有高を4億8900万ドルに拡大──最大2
         <summary type="html"><![CDATA[マイケル・セイラー氏率いるストラテジーが先週3億5690万ドル相当のビットコインを購入し、8月の取得量はわずか3666BTCにとどまった。]]></summary>
         <author>
             <name>Cointelegraph  Helen Partz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反発なるか　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）]]></title>
-        <id>https://jp.cointelegraph.com/news/price-predictions-8-25-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-link</id>
-        <link href="https://jp.cointelegraph.com/news/price-predictions-8-25-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-link?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-08-25T22:12:56.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインは週明けに11万530ドルまで下落したが、BTCやアルトコインのチャートは、平均的な取引レンジへの早期回復の可能性を示している。]]></summary>
-        <author>
-            <name>Cointelegraph  Rakesh Upadhyay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反発なるか　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）]]></title>
-        <id>https://jp.cointelegraph.com/news/price-predictions-8-25-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-link</id>
-        <link href="https://jp.cointelegraph.com/news/price-predictions-8-25-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-link?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-08-25T22:12:56.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインは週明けに11万530ドルまで下落したが、BTCやアルトコインのチャートは、平均的な取引レンジへの早期回復の可能性を示している。]]></summary>
-        <author>
-            <name>Cointelegraph  Rakesh Upadhyay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日米における暗号資産規制とステーブルコインの普及｜WebX2025]]></title>
-        <id>https://coinpost.jp/?p=645507</id>
-        <link href="https://coinpost.jp/?p=645507"/>
-        <updated>2025-08-25T22:12:20.000Z</updated>
-        <summary type="html"><![CDATA[WebX2025で日米の暗号資産規制専門家が討論。ジーニアス法成立、日本の55%税率問題、ステーブルコイン普及の課題と展望を詳報。規制調和への道筋を解説。]]></summary>
-        <author>
-            <name>hiroto.yoshii</name>
         </author>
     </entry>
 </feed>

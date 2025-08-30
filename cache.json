@@ -1783,21 +1783,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/06/ethereum_0520.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/06/ethereum_0520.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=645507",
-          "author": "hiroto.yoshii",
-          "description": "WebX2025で日米の暗号資産規制専門家が討論。ジーニアス法成立、日本の55%税率問題、ステーブルコイン普及の課題と展望を詳報。規制調和への道筋を解説。",
-          "link": "https://coinpost.jp/?p=645507",
-          "publishedOn": "2025-08-25T22:12:20.000Z",
-          "wordCount": 3299,
-          "title": "日米における暗号資産規制とステーブルコインの普及｜WebX2025",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/WebX-2025-135828-0634_web2k.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/WebX-2025-135828-0634_web2k.jpg"
         }
       ]
     },
@@ -2203,6 +2188,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-ether-etfs-see-outflows-fed-inflation-trump-tariffs",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "ビットコイン（BTC）とイーサリアム（ETH）の上場投資信託（ETF）は金曜日に流出を記録した。米連邦準備制度理事会（FRB）が発表した物価指標が、トランプ政権の関税政策の下でインフレ圧力が強まっていることを示したためだ。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-ether-etfs-see-outflows-fed-inflation-trump-tariffs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-30T10:12:14.000Z",
+          "wordCount": null,
+          "title": "ビットコインとイーサリアムのETFで資金流出　トランプ政権の関税政策でインフレ懸念が加速",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGM2NTQtZDVjMC03MjQxLTljZDEtNjRhYmNjZjcyMTZl.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGM2NTQtZDVjMC03MjQxLTljZDEtNjRhYmNjZjcyMTZl.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/hyperliquid-token-institutional-europe-new-21shares-etp",
           "author": "Cointelegraph  Nate Kostar",
@@ -3627,36 +3627,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODJjYzYtNjM3ZS03NTBlLTgyZWUtYTRiNTc2MDg4Njc4.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/price-predictions-8-25-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-link",
-          "author": "Cointelegraph  Rakesh Upadhyay",
-          "description": "ビットコインは週明けに11万530ドルまで下落したが、BTCやアルトコインのチャートは、平均的な取引レンジへの早期回復の可能性を示している。",
-          "link": "https://jp.cointelegraph.com/news/price-predictions-8-25-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-link?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-08-25T22:12:56.000Z",
-          "wordCount": null,
-          "title": "反発なるか　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGUyMTQtOTQ0Yi03NzM1LThhNDEtNmI2NDNmN2U0Nzhk.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGUyMTQtOTQ0Yi03NzM1LThhNDEtNmI2NDNmN2U0Nzhk.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/price-predictions-8-25-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-link",
-          "author": "Cointelegraph  Rakesh Upadhyay",
-          "description": "ビットコインは週明けに11万530ドルまで下落したが、BTCやアルトコインのチャートは、平均的な取引レンジへの早期回復の可能性を示している。",
-          "link": "https://jp.cointelegraph.com/news/price-predictions-8-25-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-08-25T22:12:56.000Z",
-          "wordCount": null,
-          "title": "反発なるか　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGUyMTQtOTQ0Yi03NzM1LThhNDEtNmI2NDNmN2U0Nzhk.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGUyMTQtOTQ0Yi03NzM1LThhNDEtNmI2NDNmN2U0Nzhk.jpg"
         }
       ]
     },

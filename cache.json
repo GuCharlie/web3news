@@ -545,16 +545,6 @@
           "wordCount": 1388,
           "title": "ハイパーリキッドのXPL先物、1億3000万ドルが一夜にして消滅──クジラによって数分で200%上昇",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/01/shutterstock_1803009601.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=309940",
-          "author": "James Van Straten",
-          "description": "オンチェーン分析プラットフォームGlassnodeのデータによると、ビットコイン（BTC）の長期保有者（LTH）は今回のサイクルで、過去すべてのサイクルのうち、 ...\nビットコインの売り圧力高まる──長期保有者は今回のサイクルで327万BTCの利益を確定 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/309940/",
-          "publishedOn": "2025-08-27T11:05:00.000Z",
-          "wordCount": 1414,
-          "title": "ビットコインの売り圧力高まる──長期保有者は今回のサイクルで327万BTCの利益を確定",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/e052e1de721924e40d9ee33f1002e46096526b04-2400x1350-1.png"
         }
       ]
     },
@@ -1433,6 +1423,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/eth-transactions-hit-high-bitcoin-whale-august-charts",
+          "author": "Cointelegraph  Aaron Wood",
+          "description": "ビットコインは月末に低迷したが、ストラテジーとメタプラネットは8月に5,000BTC超を買い増した。",
+          "link": "https://jp.cointelegraph.com/news/eth-transactions-hit-high-bitcoin-whale-august-charts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-31T22:43:28.000Z",
+          "wordCount": null,
+          "title": "ETH取引が年間最高を記録、27億ドル規模のBTCクジラ売却で市場急落　8月の動向を図表で振り返る",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODY2OTktNGNjZC03NmM1LTk5MmMtOTkyMWI3MzdkYzEx.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODY2OTktNGNjZC03NmM1LTk5MmMtOTkyMWI3MzdkYzEx.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/metaplanet-bitcoin-fundraising-flywheel-breaks",
           "author": "Cointelegraph  Amin Haqshanas",

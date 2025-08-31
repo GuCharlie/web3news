@@ -1405,16 +1405,6 @@
           "wordCount": 660,
           "title": "【8/27話題】コンヴァノがステーブルコイン発行へ、LINKとTRUMPの現物ETFがSECに申請など（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/27231330/1d91aea164a2f78224378cba6ebce076.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=491006",
-          "author": "HitomotoToshikazu",
-          "description": "NTTデジタル・UPCX・ペイクルが提携 NTTドコモのWeb3推進子会社NTTデジタル（NTT Digital）、UPCXプラットフォームズ（UPCX-Platforms）、ペイクルが、UPCXブロックチェーンを基盤と […]",
-          "link": "https://www.neweconomy.jp/posts/491006",
-          "publishedOn": "2025-08-27T11:24:38.000Z",
-          "wordCount": 739,
-          "title": "NTTデジタル・UPCX・ペイクル、ブロックチェーン等の共同研究で連携",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/27202402/7a9d0a6f386519df6baabcb76b457040.jpg"
         }
       ]
     },
@@ -1423,6 +1413,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/ai-stocks-obsolete-driving-investors-bitcoin",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "人工知能はイノベーションを指数関数的に加速させ、動きの遅い上場企業を将来の投資対象として不適切なものにする。",
+          "link": "https://jp.cointelegraph.com/news/ai-stocks-obsolete-driving-investors-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-08-31T23:25:22.000Z",
+          "wordCount": null,
+          "title": "AIが株式を時代遅れにし、投資家をビットコインに向かわせる＝アナリスト",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODk4ODAtNjU1MS03YjZkLTg4ZTctY2FjMGU4ZTIyZDk2.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODk4ODAtNjU1MS03YjZkLTg4ZTctY2FjMGU4ZTIyZDk2.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/eth-transactions-hit-high-bitcoin-whale-august-charts",
           "author": "Cointelegraph  Aaron Wood",

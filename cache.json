@@ -525,26 +525,6 @@
           "wordCount": 1320,
           "title": "エヌビディアの決算が近づき、ビットコイントレーダーは相関性に注目",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/shutterstock_2567997995.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=309988",
-          "author": "James Van Straten",
-          "description": "メタプラネットは8月27日、外国人投資家への株式売却計画を発表して、最近の資本政策に関する最新情報を提供、さらにワラントの行使を一時停止すると発表したことを受け ...\nメタプラネット、海外での公募増資を発表──社債の早期償還などで株価は6%上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/309988/",
-          "publishedOn": "2025-08-27T12:30:00.000Z",
-          "wordCount": 1384,
-          "title": "メタプラネット、海外での公募増資を発表──社債の早期償還などで株価は6%上昇",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/01/shutterstock_1697879809.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=309976",
-          "author": "Oliver Knight",
-          "description": "分散型暗号資産（仮想通貨）取引所（DEX）のハイパーリキッド（Hyperliquid）におけるプラズマ（Plasma）の未公開トークンXPLの先物市場は、一夜に ...\nハイパーリキッドのXPL先物、1億3000万ドルが一夜にして消滅──クジラによって数分で200%上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/309976/",
-          "publishedOn": "2025-08-27T12:05:00.000Z",
-          "wordCount": 1388,
-          "title": "ハイパーリキッドのXPL先物、1億3000万ドルが一夜にして消滅──クジラによって数分で200%上昇",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/01/shutterstock_1803009601.jpg"
         }
       ]
     },
@@ -559,6 +539,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=647301",
+          "author": "A.Yamada",
+          "description": "ゆうちょ銀行が2026年度から貯金者向けにデジタル通貨「DCJPY」を発行する見込みだ。トークン化した預金により、デジタル証券やNFT売買が可能になる。",
+          "link": "https://coinpost.jp/?p=647301",
+          "publishedOn": "2025-09-01T01:00:36.000Z",
+          "wordCount": 3187,
+          "title": "ゆうちょ銀行、2026年度にデジタル通貨「DCJPY」発行計画　デジタル証券取引など対応へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/japan4_0419.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/japan4_0419.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=646897",
           "author": "CoinPost編集部",
@@ -1413,6 +1408,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/businesses-absorbing-btc-4x-faster-mined",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "企業がマイナーの供給を大幅に上回っており、取引所準備金の減少が続けば供給ショックを引き起こす可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/businesses-absorbing-btc-4x-faster-mined?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-01T00:04:24.000Z",
+          "wordCount": null,
+          "title": "企業がビットコインをマイニング速度の4倍で吸収：レポート",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZmODItNzc2OS03Y2EzLTk4NWUtMjcwZjYyNWE0MTBl.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZmODItNzc2OS03Y2EzLTk4NWUtMjcwZjYyNWE0MTBl.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/ai-stocks-obsolete-driving-investors-bitcoin",
           "author": "Cointelegraph  Vince Quill",

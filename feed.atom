@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-01T22:38:06.527Z</updated>
+    <updated>2025-09-01T23:13:57.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウォーレン・バフェットの現金積み上げ、株式とビットコインに悪影響か]]></title>
+        <id>https://jp.cointelegraph.com/news/is-warren-buffett-growing-cash-pile-bad-sign-stocks-bitcoin</id>
+        <link href="https://jp.cointelegraph.com/news/is-warren-buffett-growing-cash-pile-bad-sign-stocks-bitcoin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-01T22:51:54.000Z</updated>
+        <summary type="html"><![CDATA[ウォーレン・バフェット氏率いるバークシャー・ハサウェイは、他が貪欲になる中で恐怖心を強めているように見える。これは歴史的に株式市場の大暴落に先行してきた。]]></summary>
+        <author>
+            <name>Cointelegraph  Yashu Gola</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ一家のワールドリバティ持分、トークン解禁で50億ドルに急騰]]></title>
         <id>https://jp.cointelegraph.com/news/trump-family-world-liberty-financial-token-unlock</id>
@@ -1949,36 +1959,6 @@ LN Trends 2025年8月（vol.10） first appeared on CoinDesk JAPAN（コイン�
         <summary type="html"><![CDATA[Aave LabsがRWA担保型レンディングマーケット公開 DeFi（分散型金融）レンディングプラットフォーム「アーベ（Aave）」開発元アーベラボ（Aave Labs）が、レンディングマーケット「ホライゾン（Horiz […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨プロジェクト、9月に45億ドル相当のトークンをアンロックへ]]></title>
-        <id>https://jp.cointelegraph.com/news/crypto-token-unlocks-september-2025</id>
-        <link href="https://jp.cointelegraph.com/news/crypto-token-unlocks-september-2025?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-08-28T10:58:12.000Z</updated>
-        <summary type="html"><![CDATA[データトラッカーのトークノミストによると、仮想通貨プロジェクトは9月に約45億ドル相当の権利確定済みトークンをアンロックする予定だ。]]></summary>
-        <author>
-            <name>Cointelegraph  Ezra Reguerra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨プロジェクト、9月に45億ドル相当のトークンをアンロックへ]]></title>
-        <id>https://jp.cointelegraph.com/news/crypto-token-unlocks-september-2025</id>
-        <link href="https://jp.cointelegraph.com/news/crypto-token-unlocks-september-2025?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-08-28T10:58:12.000Z</updated>
-        <summary type="html"><![CDATA[データトラッカーのトークノミストによると、仮想通貨プロジェクトは9月に約45億ドル相当の権利確定済みトークンをアンロックする予定だ。]]></summary>
-        <author>
-            <name>Cointelegraph  Ezra Reguerra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【8/28話題】「SOKUYAKU」のジェイフロンティアがビットコイン購入とマイニング事業、メタプラが海外募集による新株発行へなど（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=491146</id>
-        <link href="https://www.neweconomy.jp/posts/491146"/>
-        <updated>2025-08-28T10:57:22.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
         </author>
     </entry>
 </feed>

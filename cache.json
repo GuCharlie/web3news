@@ -525,16 +525,6 @@
           "wordCount": 1374,
           "title": "ハイパーリキッドのHYPE、50ドル超えの史上最高値を記録──取引急増と買い戻しで",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/af962f2c12f64023c2e9db4ce005f9808db80d18-2270x1178-1.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=310013",
-          "author": "林 理南",
-          "description": "時価総額が4兆4000億ドル（約638兆円）で世界最大の会社であるエヌビディア（NVIDIA）は、27日のアメリカ市場閉場後に決算を発表する。 Bitcoind ...\nエヌビディアの決算が近づき、ビットコイントレーダーは相関性に注目 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/310013/",
-          "publishedOn": "2025-08-27T15:25:00.000Z",
-          "wordCount": 1320,
-          "title": "エヌビディアの決算が近づき、ビットコイントレーダーは相関性に注目",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/shutterstock_2567997995.jpg"
         }
       ]
     },
@@ -549,6 +539,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=647351",
+          "author": "幸田直子",
+          "description": "イーサリアム共同創設者ジョセフ・ルービン氏が、暗号資産（仮想通貨）ETH価格が将来的に100倍上昇する可能性があると強気の主張を展開した。その理由として、ウォール街での大量採用およびデジタル経済における信頼の基盤としてイーサリアムが果たす役割を強調した。",
+          "link": "https://coinpost.jp/?p=647351",
+          "publishedOn": "2025-09-01T05:01:18.000Z",
+          "wordCount": 3198,
+          "title": "イーサリアム価格100倍の可能性？ 共同創設者ルービン氏の強気予測と根拠を解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/new-eth-pic.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/new-eth-pic.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=647344",
+          "author": "AKIRA.H",
+          "description": "メタプラネットは9月1日、1,009BTCを追加購入し累計保有量が2万BTCに到達。総取得額は3,023億円を突破し、世界上場企業ランキングでも上位水準に浮上。",
+          "link": "https://coinpost.jp/?p=647344",
+          "publishedOn": "2025-09-01T03:22:35.000Z",
+          "wordCount": 3180,
+          "title": "メタプラネット、ビットコイン保有量2万BTCに到達",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/bitcoin_0918-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/bitcoin_0918-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=647320",
           "author": "A.Yamada",
@@ -1216,6 +1236,46 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=492006",
+          "author": "gentosha_takahashi",
+          "description": "14アドレスに分割 エルサルバドル国立ビットコイン局は、国家準備金の保有BTCを14アドレスに分割すると8月29日発表した。発表後、1アドレスあたり最大500BTCまでに制限されている。量子計算時代の脅威を見据えたセキュ […]",
+          "link": "https://www.neweconomy.jp/posts/492006",
+          "publishedOn": "2025-09-01T06:09:30.000Z",
+          "wordCount": 770,
+          "title": "エルサルバドルがビットコイン準備金を分割、量子コンピューター対策で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/01150922/a78c3e87a04fb36d3555d4e0cbfa5c43.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=491984",
+          "author": "OtsugaShinya",
+          "description": "5つのブロックチェーン上の「USDT」凍結が撤回 5つのブロックチェーン上で流通する米ドル建てステーブルコイン「USDT」の凍結計画が撤回された。USDT発行元のテザー（Tether）社が8月29日に発表した。 テザー社 […]",
+          "link": "https://www.neweconomy.jp/posts/491984",
+          "publishedOn": "2025-09-01T05:21:55.000Z",
+          "wordCount": 608,
+          "title": "テザー、5つのブロックチェーン上の「USDT」凍結を撤回、償還は停止に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/01142151/ed08554f7511fcb1abbb6978ab967d27.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=491968",
+          "author": "OtsugaShinya",
+          "description": "トランプ次男がビットコイン価格を予測 ドナルド・トランプ（Donald Trump）米大統領の次男であるエリック・トランプ（Eric Trump）氏が、8月29日に香港で開かれたカンファレンスで、「ビットコインは数年以内 […]",
+          "link": "https://www.neweconomy.jp/posts/491968",
+          "publishedOn": "2025-09-01T04:39:29.000Z",
+          "wordCount": 777,
+          "title": "エリック・トランプ、「ビットコインは数年で100万ドルに達する」と予想",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/01133923/1fd7504089d1a5c950b02aa2ff1ab1c2.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=491954",
+          "author": "OtsugaShinya",
+          "description": "ビットコインでビットキャッシュ購入可能に ビットコイン決済専用ECサイト「ユーズビットコイン（UseBitcoin）」が、電子マネー「ビットキャッシュ」の販売を開始した。同サイト運営の国内ビットコイン（Bitcoin）関 […]",
+          "link": "https://www.neweconomy.jp/posts/491954",
+          "publishedOn": "2025-09-01T03:28:28.000Z",
+          "wordCount": 720,
+          "title": "ビットコインのライトニングネットワーク決済で「ビットキャッシュ」購入可能に、カシェイのUseBitcoinで",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/01122820/e0816affc74810066745c32c17025937.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=491941",
           "author": "OtsugaShinya",
@@ -2370,6 +2430,26 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=142791",
+          "author": "Crypto Times 編集部",
+          "description": "ドナルド・トランプ大統領とその家族が共同創設者として参画するDeFi（分散型金融）プロジェクト「World Liberty Financial」のトークン「WLFI」が本日夜に公開され主要取引所やDEX（分散型取引所）で […]\n投稿 トランプ一族の仮想通貨「WLFI」本日夜に公開｜市場への影響に注目 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-wlfi-launch/",
+          "publishedOn": "2025-09-01T03:52:17.000Z",
+          "wordCount": 647,
+          "title": "トランプ一族の仮想通貨「WLFI」本日夜に公開｜市場への影響に注目",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/shutterstock_2644556105.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=142788",
+          "author": "Crypto Times 編集部",
+          "description": "ゆうちょ銀行が2026年度から貯金者向けにデジタル通貨「DCJPY」を発行する見込みであることが日本経済新聞の報道で明らかになりました。 DCJPYは、インターネットイニシアティブ（IIJ）グループのディーカレットDCP […]\n投稿 ゆうちょ銀行、2026年度からデジタル通貨「DCJPY」発行へ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-japan-post-bank-dcjpy/",
+          "publishedOn": "2025-09-01T03:28:28.000Z",
+          "wordCount": 599,
+          "title": "ゆうちょ銀行、2026年度からデジタル通貨「DCJPY」発行へ",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/shutterstock_1572079957.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=142730",
           "author": "よきょい",

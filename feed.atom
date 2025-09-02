@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-02T22:13:11.803Z</updated>
+    <updated>2025-09-02T22:36:39.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ストラテジー、先週4048BTCを4億5000万ドルで追加取得]]></title>
+        <id>https://www.coindeskjapan.com/?p=311188</id>
+        <link href="https://www.coindeskjapan.com/311188/"/>
+        <updated>2025-09-02T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ストラテジー（Strategy）はビットコイン（BTC）の絶え間ない購入を続けている。先週は新たに4048BTCを取得し、保有ビットコインは63万6505BTC ...
+ストラテジー、先週4048BTCを4億5000万ドルで追加取得 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所Crypto.com、スポーツの予測市場を米企業Underdogとローンチへ]]></title>
+        <id>https://coinpost.jp/?p=648013</id>
+        <link href="https://coinpost.jp/?p=648013"/>
+        <updated>2025-09-02T22:25:56.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所Crypto.comとスポーツゲーム企業Underdogは、スポーツの予測市場のローンチを発表。NFL、NBA、MLBなどの試合に賭けることができるようにするとした。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインベース、株式・仮想通貨複合指数先物を9月22日より提供開始]]></title>
+        <id>https://coinpost.jp/?p=648012</id>
+        <link href="https://coinpost.jp/?p=648012"/>
+        <updated>2025-09-02T22:15:58.000Z</updated>
+        <summary type="html"><![CDATA[コインベースが9月22日にMag7＋クリプト・エクイティ指数先物の取引開始を発表。米国初の株式と仮想通貨ETFを組み合わせた革新的なデリバティブ商品を提供。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインの7日間平均ハッシュレート、初めて1ゼタハッシュに到達]]></title>
         <id>https://www.coindeskjapan.com/?p=311179</id>
@@ -38,6 +69,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[イーサリアムトレジャリー投資が加速、上場3社が数十億ドル規模でETH取得・運用]]></title>
+        <id>https://coinpost.jp/?p=648009</id>
+        <link href="https://coinpost.jp/?p=648009"/>
+        <updated>2025-09-02T21:40:08.000Z</updated>
+        <summary type="html"><![CDATA[シャープリンクゲーミングが39,008ETH、イーサマシンが15万ETH追加取得。ETHジラも1億ドル相当のETHをリキッドリステーキングに配備。企業のイーサリアム投資および運用が加速する。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[金価格が史上最高値更新　ビットコインも「デジタルゴールド」として追随できるか？]]></title>
         <id>https://jp.cointelegraph.com/news/how-high-can-bitcoin-price-go-gold-hits-3-5k-record-high</id>
         <link href="https://jp.cointelegraph.com/news/how-high-can-bitcoin-price-go-gold-hits-3-5k-record-high?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
@@ -45,6 +86,16 @@
         <summary type="html"><![CDATA[金価格（XAU）は1オンスあたり3500ドルを突破し、史上最高値を更新した。過去のパターンに基づけば、安全資産のライバルであるビットコイン（BTC）は、今後1年以内により強力な上昇の動きを見せる可能性がある。]]></summary>
         <author>
             <name>Cointelegraph  Yashu Gola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米SEC・CFTC、仮想通貨の取引所上場促進で規制明確化]]></title>
+        <id>https://coinpost.jp/?p=648004</id>
+        <link href="https://coinpost.jp/?p=648004"/>
+        <updated>2025-09-02T21:15:45.000Z</updated>
+        <summary type="html"><![CDATA[米SECとCFTCが仮想通貨市場に関する共同声明を発表。現行法は仮想通貨現物の商品取引を禁止せず、登録取引所での上場を促進する方針を明確化した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -66,6 +117,26 @@
         <summary type="html"><![CDATA[ビットコインマイニング企業であり、イーサリアム保有戦略を推進する上場企業ビットマイン・イマージョン・テクノロジーズは、190万ETH近くを保有していると発表した。これは流通するイーサリアム供給量の1.5%以上に相当する。]]></summary>
         <author>
             <name>Cointelegraph  Adrian Zmudzinski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ジャック・マー関連企業ユンフェン、1万イーサリアムを65億円で取得]]></title>
+        <id>https://coinpost.jp/?p=647999</id>
+        <link href="https://coinpost.jp/?p=647999"/>
+        <updated>2025-09-02T20:50:42.000Z</updated>
+        <summary type="html"><![CDATA[アリババ創設者ジャック・マー氏と関係の深い香港上場企業ユンフェン・フィナンシャルがイーサリアム1万枚を取得。アジア上場企業による今年最大級の購入規模に。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ストラテジー、666億円でビットコインを追加購入　S&P500指数編入の可能性も]]></title>
+        <id>https://coinpost.jp/?p=647997</id>
+        <link href="https://coinpost.jp/?p=647997"/>
+        <updated>2025-09-02T20:30:23.000Z</updated>
+        <summary type="html"><![CDATA[米ストラテジー社が仮想通貨ビットコインを4,048枚追加購入し、保有量は636,505 BTCに達した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -1949,26 +2020,6 @@ gumi、25億円相当のXRP購入へ──筆頭株主SBIとの連携強化 firs
 世界最大の取引所バイナンス、「システムの問題」が発生して先物取引を一時停止 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国のビットコインETF　BTCスポット取引におけるシェア増加　機関投資家の存在感拡大]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-etfs-take-share-spot-trading-volume</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-etfs-take-share-spot-trading-volume?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-08-29T10:14:44.000Z</updated>
-        <summary type="html"><![CDATA[米国の現物ビットコイン上場投資信託（ETF）が、日々のスポット取引において重要なシェアを担うようになっており、機関投資家の存在感が拡大している。]]></summary>
-        <author>
-            <name>Cointelegraph  Martin Young</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国のビットコインETF　BTCスポット取引におけるシェア増加　機関投資家の存在感拡大]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-etfs-take-share-spot-trading-volume</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-etfs-take-share-spot-trading-volume?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-08-29T10:14:44.000Z</updated>
-        <summary type="html"><![CDATA[米国の現物ビットコイン上場投資信託（ETF）が、日々のスポット取引において重要なシェアを担うようになっており、機関投資家の存在感が拡大している。]]></summary>
-        <author>
-            <name>Cointelegraph  Martin Young</name>
         </author>
     </entry>
 </feed>

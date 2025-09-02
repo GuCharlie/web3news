@@ -1308,21 +1308,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/jpmorgan_bitcoin1.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/jpmorgan_bitcoin1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=646841",
-          "author": "菊谷ルイス",
-          "description": "米商務省が連邦政府機関として初めて経済統計データをブロックチェーンに公開した。ビットコインやイーサリアムなど9つのチェーンで配信し、データの不変性と透明性を確保した。",
-          "link": "https://coinpost.jp/?p=646841",
-          "publishedOn": "2025-08-28T20:30:55.000Z",
-          "wordCount": 3209,
-          "title": "米商務省が経済統計データを9つのチェーンで配信　PythとChainlinkを利用",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/pyth-chainlink-US-gov.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/pyth-chainlink-US-gov.jpeg"
         }
       ]
     },
@@ -1688,6 +1673,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-price-million-slower-gradual-growth-analyst-speculates",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "匿名アナリストのPlanC氏によれば、ビットコイン（BTC）が1BTCあたり100万ドルに到達する道のりは、市場参加者が想定するほど劇的ではなく、より緩やかに進む可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-price-million-slower-gradual-growth-analyst-speculates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-02T08:35:06.000Z",
+          "wordCount": null,
+          "title": "ビットコイン 100万ドルへの道は「劇的展開がなく退屈」な可能性も　アナリストのPlanC氏が指摘",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDJjM2ItMWE2NS03MTk0LTgzOGYtNzAyN2RhNzllZjBj.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDJjM2ItMWE2NS03MTk0LTgzOGYtNzAyN2RhNzllZjBj.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/ether-headed-biggest-bear-trap-september-analysts",
           "author": "Cointelegraph  Martin Young",

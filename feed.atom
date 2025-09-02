@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-02T08:21:20.822Z</updated>
+    <updated>2025-09-02T08:45:44.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン 100万ドルへの道は「劇的展開がなく退屈」な可能性も　アナリストのPlanC氏が指摘]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-price-million-slower-gradual-growth-analyst-speculates</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-price-million-slower-gradual-growth-analyst-speculates?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-02T08:35:06.000Z</updated>
+        <summary type="html"><![CDATA[匿名アナリストのPlanC氏によれば、ビットコイン（BTC）が1BTCあたり100万ドルに到達する道のりは、市場参加者が想定するほど劇的ではなく、より緩やかに進む可能性がある。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pudgy Penguins、日本で大型イベント開催｜MEXC Venturesとの連携で世界展開を加速]]></title>
         <id>https://crypto-times.jp/?p=142832</id>
@@ -2231,16 +2241,6 @@ LN Trends 2025年8月（vol.10） first appeared on CoinDesk JAPAN（コイン�
         <link href="https://coinpost.jp/?p=646844"/>
         <updated>2025-08-28T20:50:13.000Z</updated>
         <summary type="html"><![CDATA[JPモルガンのアナリストが仮想通貨ビットコインの適正価格を12万6000ドルと分析した。ボラティリティが過去最低の30%まで低下し、金との投資リスク格差が史上最小となっている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米商務省が経済統計データを9つのチェーンで配信　PythとChainlinkを利用]]></title>
-        <id>https://coinpost.jp/?p=646841</id>
-        <link href="https://coinpost.jp/?p=646841"/>
-        <updated>2025-08-28T20:30:55.000Z</updated>
-        <summary type="html"><![CDATA[米商務省が連邦政府機関として初めて経済統計データをブロックチェーンに公開した。ビットコインやイーサリアムなど9つのチェーンで配信し、データの不変性と透明性を確保した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>

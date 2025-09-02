@@ -1088,21 +1088,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/fsa-new.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/fsa-new.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=647000",
-          "author": "AKIRA.H",
-          "description": "金融庁が令和8年度税制改正要望で暗号資産の分離課税導入を含む課税見直しを正式要望。現行の総合課税（最大55%）から分離課税への転換により税負担軽減の可能性。暗号資産ETF組成促進も。",
-          "link": "https://coinpost.jp/?p=647000",
-          "publishedOn": "2025-08-29T07:21:18.000Z",
-          "wordCount": 3181,
-          "title": "金融庁、暗号資産の税制見直しを正式要望　分離課税導入も検討対象に",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/fsa-new.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/fsa-new.jpg"
         }
       ]
     },
@@ -1410,16 +1395,6 @@
           "wordCount": 728,
           "title": "中国リンクロジスがXRPレジャーと戦略的提携、サプライチェーンファイナンスをブロックチェーン展開",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/29165429/742bdc33967e8bd13a3d30f0f5b2df96.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=491449",
-          "author": "OtsugaShinya",
-          "description": "金融庁が「令和8年度税制改正要望」公開 金融庁が「令和8年度税制改正要望」を取りまとめ、その内容を8月29日に公開した。主な要望項目のひとつに「暗号資産取引に係る課税の見直し」が挙げられた。 金融庁による要望には、暗号資 […]",
-          "link": "https://www.neweconomy.jp/posts/491449",
-          "publishedOn": "2025-08-29T07:24:11.000Z",
-          "wordCount": 753,
-          "title": "金融庁、暗号資産の「取引課税見直し」と「ETF組成検討」を正式要望、26年度税制改正で",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/29162407/c510720e77d810f5389560b29b906657.jpg"
         }
       ]
     },
@@ -1428,6 +1403,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/ethereum-whales-buy-260k-eth-fueling-5k-recovery-hopes",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "価格下落にもかかわらず、イーサリアム（ETH）の大口投資家（クジラ）が数十万ETHを買い増ししており、過去最高値への回復期待が広がっている。",
+          "link": "https://jp.cointelegraph.com/news/ethereum-whales-buy-260k-eth-fueling-5k-recovery-hopes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-02T19:27:09.000Z",
+          "wordCount": null,
+          "title": "イーサリアムのクジラ　価格調整の中で26万ETHを追加取得　最高値への回復期待高まる",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWMzMmItZDU3ZS03NzcxLWE1ZDctMjRhMDRmNDJhZTY5.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWMzMmItZDU3ZS03NzcxLWE1ZDctMjRhMDRmNDJhZTY5.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/coincheck-parent-acquires-french-regulated-crypto-firm-for-europe-expansion",
           "author": "Cointelegraph  Adrian Zmudzinski",

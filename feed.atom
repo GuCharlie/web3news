@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-02T09:17:02.895Z</updated>
+    <updated>2025-09-02T09:39:56.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインETPの保有量が147万BTCを突破、BTC総供給の7%を占有]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-etps-hold-7-percent-bitcoin-total-supply</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-etps-hold-7-percent-bitcoin-total-supply?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-02T09:38:31.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインに連動する上場投資商品（ETP）の保有量が147万BTCを突破し、ビットコインの最大供給量2100万枚のおよそ7%に達した。]]></summary>
+        <author>
+            <name>Cointelegraph  Tarang Khaitan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアムのテストネット「Holesky」、サポート終了へ]]></title>
         <id>https://www.neweconomy.jp/?p=492448</id>
@@ -2212,27 +2222,6 @@ LN Trends 2025年8月（vol.10） first appeared on CoinDesk JAPAN（コイン�
         <summary type="html"><![CDATA[東証上場の自動車部品製造のイクヨが27日、米ギャラクティック・ホールディングスに3億円出資を発表。ステーブルコインを活用したB2B越境決済で自動車部品業界のデジタル化を推進。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFTC、海外仮想通貨取引所の米国市場参入を明確化]]></title>
-        <id>https://coinpost.jp/?p=646853</id>
-        <link href="https://coinpost.jp/?p=646853"/>
-        <updated>2025-08-28T21:30:09.000Z</updated>
-        <summary type="html"><![CDATA[米商品先物取引委員会が28日、海外仮想通貨取引所向けFBOT登録制度を明確化。トランプ政権下で仮想通貨規制を緩和し、米国から撤退した取引所の復帰を促進する新方針を発表。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ボラティリティ低下でビットコインは金より過小評価されている：JPモルガン]]></title>
-        <id>https://www.coindeskjapan.com/?p=310218</id>
-        <link href="https://www.coindeskjapan.com/310218/"/>
-        <updated>2025-08-28T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ウォール街の銀行JPモルガン（JPMorgan）は28日の調査レポートで、ビットコイン（BTC）のボラティリティが歴史的低水準まで低下する中、ビットコインは金と ...
-ボラティリティ低下でビットコインは金より過小評価されている：JPモルガン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
         </author>
     </entry>
 </feed>

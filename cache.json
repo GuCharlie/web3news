@@ -535,16 +535,6 @@
           "wordCount": 1339,
           "title": "米政府、経済データをブロックチェーンで公開する概念実証を開始",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/f0cd5012c7046e7b21f68ba979d473f69f203acc-4482x2521-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=310218",
-          "author": "林 理南",
-          "description": "ウォール街の銀行JPモルガン（JPMorgan）は28日の調査レポートで、ビットコイン（BTC）のボラティリティが歴史的低水準まで低下する中、ビットコインは金と ...\nボラティリティ低下でビットコインは金より過小評価されている：JPモルガン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/310218/",
-          "publishedOn": "2025-08-28T21:30:00.000Z",
-          "wordCount": 1331,
-          "title": "ボラティリティ低下でビットコインは金より過小評価されている：JPモルガン",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/06459a5f278c79f4095c8d3c6c664bcc7185d1c5-6000x4000-1-scaled.jpg"
         }
       ]
     },
@@ -1263,21 +1253,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/Stablecoin_1201.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/Stablecoin_1201.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=646853",
-          "author": "菊谷ルイス",
-          "description": "米商品先物取引委員会が28日、海外仮想通貨取引所向けFBOT登録制度を明確化。トランプ政権下で仮想通貨規制を緩和し、米国から撤退した取引所の復帰を促進する新方針を発表。",
-          "link": "https://coinpost.jp/?p=646853",
-          "publishedOn": "2025-08-28T21:30:09.000Z",
-          "wordCount": 3193,
-          "title": "CFTC、海外仮想通貨取引所の米国市場参入を明確化",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/cftc-eth-finalized.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/cftc-eth-finalized.jpg"
         }
       ]
     },
@@ -1663,6 +1638,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-etps-hold-7-percent-bitcoin-total-supply",
+          "author": "Cointelegraph  Tarang Khaitan",
+          "description": "ビットコインに連動する上場投資商品（ETP）の保有量が147万BTCを突破し、ビットコインの最大供給量2100万枚のおよそ7%に達した。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-etps-hold-7-percent-bitcoin-total-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-02T09:38:31.000Z",
+          "wordCount": null,
+          "title": "ビットコインETPの保有量が147万BTCを突破、BTC総供給の7%を占有",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ3NzUtNWMwZi03MjQ3LWI5Y2YtZWM4Yjg2NDgyM2Ux.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ3NzUtNWMwZi03MjQ3LWI5Y2YtZWM4Yjg2NDgyM2Ux.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0902",
           "author": "Cointelegraph  ビットバンク　長谷川友哉",

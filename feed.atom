@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-02T16:45:13.212Z</updated>
+    <updated>2025-09-02T17:13:24.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ジャック・マー氏の香港金融大手、約65億円分のイーサリアムを購入]]></title>
+        <id>https://crypto-times.jp/?p=142865</id>
+        <link href="https://crypto-times.jp/news-yunfeng-financial-group-limited/"/>
+        <updated>2025-09-02T17:04:34.000Z</updated>
+        <summary type="html"><![CDATA[アリババグループ創業者のジャック・マー氏が共同創業者である香港の金融大手Yunfeng Financial Group Limitedは仮想通貨イーサリアム（ETH）を1万枚取得したことを発表しました。取得総額は手数料な […]
+投稿 ジャック・マー氏の香港金融大手、約65億円分のイーサリアムを購入 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コインチェックが欧州進出へ　仏デジタル資産ブローカーAploの買収で合意]]></title>
         <id>https://jp.cointelegraph.com/news/coincheck-parent-acquires-french-regulated-crypto-firm-for-europe-expansion</id>
@@ -2160,27 +2171,6 @@ SBI VCトレード、3Dプリンター住宅NFTのLib Workと連携──ビッ�
         <summary type="html"><![CDATA[Jupiter Lend公開 ソラナ（Solana）基盤のDEX（分散型取引所）アグリゲーター「ジュピターエクスチェンジ（Jupiter Exchange）」による、DeFi（分散型金融）レンディングプロトコル「ジュピタ […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米商務省、GDPデータをブロックチェーンで公開｜関連通貨が急騰]]></title>
-        <id>https://crypto-times.jp/?p=142679</id>
-        <link href="https://crypto-times.jp/news-u-s-department-of-commerce-publishes-gdp-data-on-blockchain-for-the-first-time/"/>
-        <updated>2025-08-29T05:05:30.000Z</updated>
-        <summary type="html"><![CDATA[米商務省は2025年7月分から実質国内総生産（GDP）データをブロックチェーン上に公開すると発表しました。連邦政府機関がこのような経済統計データをブロックチェーン上で公開するのは今回が初めてとなります。 米国経済分析局（ […]
-投稿 米商務省、GDPデータをブロックチェーンで公開｜関連通貨が急騰 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テザーの「USDT」、ビットコインのネットワーク上でローンチへ、RGBプロトコル採用で]]></title>
-        <id>https://www.neweconomy.jp/?p=491365</id>
-        <link href="https://www.neweconomy.jp/posts/491365"/>
-        <updated>2025-08-29T04:54:27.000Z</updated>
-        <summary type="html"><![CDATA[RGBプロトコル上で「USDT」ローンチへ 米ドル建てステーブルコイン「USDT」が、ビットコイン上でデジタル資産を発行するためのプロトコル「RGB」上でローンチする計画が8月28日に発表された。 USDT発行元のテザー […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>

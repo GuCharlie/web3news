@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=310845",
+          "author": "増田 隆幸",
+          "description": "マネックスグループ（マネックスG）は9月1日、事業戦略発表会を開催。代表執行役社長CEOの清明祐子氏以下、グループ会社トップが各セグメントごとに事業戦略を発表し ...\n「伝統的金融とDeFiを掛け合わせる」マネックスG清明社長──円ステーブルコイン発行は報道を否定 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/310845/",
+          "publishedOn": "2025-09-02T00:31:15.000Z",
+          "wordCount": 1337,
+          "title": "「伝統的金融とDeFiを掛け合わせる」マネックスG清明社長──円ステーブルコイン発行は報道を否定",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/DSC_5489のコピー.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=310840",
+          "author": "Krisztian Sandor",
+          "description": "金が4月に記録した史上最高値に迫る中、金連動型トークンの市場規模は、すでに過去最高水準に達した。 CoinGeckoのデータによると、トークン化された金の全体的 ...\n金連動型トークンの時価総額、約3800億円を突破──金は史上最高値に迫る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/310840/",
+          "publishedOn": "2025-09-02T00:01:23.000Z",
+          "wordCount": 1346,
+          "title": "金連動型トークンの時価総額、約3800億円を突破──金は史上最高値に迫る",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/f90caaf4b82ef4b0227b9980c47eb796e7e87c0a-1920x1280-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=310834",
           "author": "Omkar Godbole",
           "description": "金価格は4月以来の最高水準に急騰しており、米財務省短期証券イールドカーブのスティープ化という、しばしば見過ごされがちな要素が勢いを増していることから、さらなる上 ...\n金価格の上昇を支える大きな要因、ビットコインにも追い風となる可能性 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -499,6 +519,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=647639",
+          "author": "A.Yamada",
+          "description": "アラブ首長国連邦の大手不動産開発企業RAK Propertiesが仮想通貨決済を導入した。ビットコイン、イーサリアム、USDTなどで不動産購入が可能になる。",
+          "link": "https://coinpost.jp/?p=647639",
+          "publishedOn": "2025-09-02T01:05:20.000Z",
+          "wordCount": 3190,
+          "title": "中東大手不動産開発会社、ビットコインなど仮想通貨決済導入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/06/building-blockchain_20190604.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/06/building-blockchain_20190604.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=647635",
           "author": "菊谷ルイス",
@@ -1450,16 +1485,6 @@
           "wordCount": 637,
           "title": "フェンブシJP、国内上場の暗号資産への投資特化「Fenbushi Japan Fund 1号」運用開始",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/29115200/f9d557d7b8d09729ecd44491eeeeeb50.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=491288",
-          "author": "HitomotoToshikazu",
-          "description": "Aave LabsがRWA担保型レンディングマーケット公開 DeFi（分散型金融）レンディングプラットフォーム「アーベ（Aave）」開発元アーベラボ（Aave Labs）が、レンディングマーケット「ホライゾン（Horiz […]",
-          "link": "https://www.neweconomy.jp/posts/491288",
-          "publishedOn": "2025-08-28T11:57:45.000Z",
-          "wordCount": 753,
-          "title": "アーベラボ、RWA担保型レンディングマーケット「Horizon」ローンチ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/28205723/AAVE-250828Maksim-Tkachenko.jpg"
         }
       ]
     },
@@ -1468,6 +1493,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-split-personality-gold-new-record-analyst",
+          "author": "Cointelegraph  Martin Young",
+          "description": "金価格が史上最高値を更新する一方で、ビットコイン（BTC）は逆行する動きを見せ、投資家の注目を集めている。きっかけとなったのは、米国のトランプ大統領が自身のSNSでインフレに言及したことだった。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-split-personality-gold-new-record-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-02T01:00:01.000Z",
+          "wordCount": null,
+          "title": "金が最高値更新の一方　ビットコインは苦戦　BTCの「二重人格」的性質が浮き彫りに",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTAzZTctNzEyMS03ZDQ2LWJjOTMtYTNmZGIyMWY1YzE1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTAzZTctNzEyMS03ZDQ2LWJjOTMtYTNmZGIyMWY1YzE1.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/will-xrp-price-drop-toward-2-dollars-or-reverse-course",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "XRP（XRP）は先週の急落に続き、下落を拡大した。広範な仮想通貨市場でリスク回避ムードが強まっていることや、オンチェーン活動の低下が重なり、XRPは今後1〜2週間にわたり下落トレンドに留まる可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/will-xrp-price-drop-toward-2-dollars-or-reverse-course?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-02T00:36:02.000Z",
+          "wordCount": null,
+          "title": "下落基調続くXRP　2.70ドルが重要な攻防ラインに",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTA1M2UtMTM5Ni03YTgzLWFlNjItYjdmMmZhOWRkMGYz.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTA1M2UtMTM5Ni03YTgzLWFlNjItYjdmMmZhOWRkMGYz.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/is-warren-buffett-growing-cash-pile-bad-sign-stocks-bitcoin",
           "author": "Cointelegraph  Yashu Gola",
@@ -2135,6 +2190,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=142806",
+          "author": "Crypto Times 編集部",
+          "description": "国内暗号資産市場は拡大を続けており口座開設者数は1200万人を超え、利用者預託残高は5兆円に達しています。また、アンケート調査によると投資経験者の約7.3%が暗号資産を保有しており、FXや社債などよりも高い保有率を示して […]\n投稿 金融庁、金商法での暗号資産規制を検討｜資金決済法から移行方針 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-fsa-financial-instruments-and-exchange-act/",
+          "publishedOn": "2025-09-02T00:26:18.000Z",
+          "wordCount": 593,
+          "title": "金融庁、金商法での暗号資産規制を検討｜資金決済法から移行方針",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/shutterstock_2421604711.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=142803",
           "author": "Crypto Times 編集部",

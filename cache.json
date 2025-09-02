@@ -535,16 +535,6 @@
           "wordCount": 1310,
           "title": "ソラナ、即時に近いファイナリティを目指す──「アルペングロー」アップグレードが投票中",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/6c87b1b23d0b9319f2284d176faabd7f73b0c03e-1920x1280-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=310237",
-          "author": "林 理南",
-          "description": "ドナルド・トランプ（Donald Trump）大統領の息子2人が20%を所有するビットコイン（BTC）マイナー、アメリカン・ビットコイン（American Bi ...\nトランプ一家が支援するマイナーのアメリカン・ビットコイン、9月にナスダック上場を目指す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/310237/",
-          "publishedOn": "2025-08-28T19:37:09.000Z",
-          "wordCount": 1368,
-          "title": "トランプ一家が支援するマイナーのアメリカン・ビットコイン、9月にナスダック上場を目指す",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/shutterstock_797467363-scaled.jpg"
         }
       ]
     },
@@ -1332,6 +1322,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=492399",
+          "author": "NewEconomy",
+          "description": "ネイティブUSD1がソラナに対応 米ワールドリバティ・フィナンシャル（World Liberty Financial：WLFI）発行の米ドル建てステーブルコイン「USD1」のネイティブ型トークンが、レイヤー1ブロックチェ […]",
+          "link": "https://www.neweconomy.jp/posts/492399",
+          "publishedOn": "2025-09-02T07:37:11.000Z",
+          "wordCount": 706,
+          "title": "ワールドリバティの米ドルステーブルコイン「USD1」、ソラナに対応開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/02163646/USD1-250901-LeoTroyanski.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=492365",
           "author": "HitomotoToshikazu",
           "description": "WormholeがHyperEVM対応開始 クロスチェーン相互運用プロトコルのワームホール（Wormhole）が、ハイパーEVM（HyperEVM）に対応したと8月29日にブログで発表した。　　 これによりユーザーは、ハ […]",
@@ -1668,6 +1668,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/investors-misunderstand-tokenized-stocks-eu-markets-watchdog",
+          "author": "Cointelegraph  Jesse Coghlan",
+          "description": "欧州連合（EU）の市場規制当局は、株式の価格に連動する仮想通貨トークンについて、通常の株主と同じ権利を付与しないため投資家に誤解を与える恐れがあると警告した。",
+          "link": "https://jp.cointelegraph.com/news/investors-misunderstand-tokenized-stocks-eu-markets-watchdog?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-02T07:15:14.000Z",
+          "wordCount": null,
+          "title": "EU規制当局　トークン化株式に警鐘　「株主権利なく投資家に誤解を与える恐れ」",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTA3OWEtZjBhZS03ZjFhLTgyOTEtZTY4MWRmNWYxYmM5.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTA3OWEtZjBhZS03ZjFhLTgyOTEtZTY4MWRmNWYxYmM5.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/world-liberty-financial-proposes-token-buyback-and-burn-program-using-fees",
           "author": "Cointelegraph  Martin Young",

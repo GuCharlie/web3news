@@ -1355,16 +1355,6 @@
           "wordCount": 734,
           "title": "gumiが25億円で「エックスアールピー（XRP）」購入決議、ビットコインと両軸の資産戦略へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/29175408/68fd780f5b204f1d3e4f378d967d6d21.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=491472",
-          "author": "OtsugaShinya",
-          "description": "金融庁が「令和8年度予算、機構・定員要求」公開 金融庁が「令和8年度予算、機構・定員要求」を8月29日に公開。「暗号資産・イノベーション課」の設置が要求された。 公開書類によると同課は、「AI等の活用による金融分野のイノ […]",
-          "link": "https://www.neweconomy.jp/posts/491472",
-          "publishedOn": "2025-08-29T08:20:46.000Z",
-          "wordCount": 590,
-          "title": "金融庁、「暗号資産・イノベーション課」設置を要求",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/29172039/dd169cdd799f85ead6e6a5c62eedecbe.jpg"
         }
       ]
     },
@@ -1373,6 +1363,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/yunfeng-financial-10000-eth-web3-expansion",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "アリババ創業者ジャック・マー氏と関わりのある香港上場企業ユンフェン・ファイナンシャル・グループが、イーサリアム（ETH）を1万ETH（4400万ドル相当）を購入したことが明らかになった。",
+          "link": "https://jp.cointelegraph.com/news/yunfeng-financial-10000-eth-web3-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-02T20:30:04.000Z",
+          "wordCount": null,
+          "title": "アリババ創業者ジャック・マー氏関係のユンフェン　イーサリアムを1万ETH購入　Web3展開を加速",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGI4ZDQtNmRiOC03ZmY0LWFmMWUtYWFmMWQwYWYwZGE0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGI4ZDQtNmRiOC03ZmY0LWFmMWUtYWFmMWQwYWYwZGE0.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/ethereum-whales-buy-260k-eth-fueling-5k-recovery-hopes",
           "author": "Cointelegraph  Nancy Lubale",

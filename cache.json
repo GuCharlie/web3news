@@ -570,7 +570,7 @@
       "articles": []
     },
     {
-      "title": "A.Sakamoto  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -1173,21 +1173,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/DOGE_0911a.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/DOGE_0911a.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=647164",
-          "author": "A.Yamada",
-          "description": "仮想通貨ビットコイン財務戦略をめぐる米ストラテジー社への集団訴訟が取り下げられた。一方で、同社の株価は今月に入ってから約16％下落しており、この背景を解説する。",
-          "link": "https://coinpost.jp/?p=647164",
-          "publishedOn": "2025-08-30T02:40:02.000Z",
-          "wordCount": 3198,
-          "title": "ビットコイン財務戦略めぐるストラテジー社への集団訴訟取り下げ　株価は下落傾向",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/strategy-new-bitcoin.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/strategy-new-bitcoin.jpg"
         }
       ]
     },
@@ -1603,6 +1588,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/citi-tokenized-assets-stablecoins-genai-2030-trading-forecast",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "シティが発表したレポートによれば、世界のポストトレード市場の取引高の約1割が、今後5年以内にステーブルコインとトークン化証券を通じて処理される見込みであるという。",
+          "link": "https://jp.cointelegraph.com/news/citi-tokenized-assets-stablecoins-genai-2030-trading-forecast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-03T14:30:07.000Z",
+          "wordCount": null,
+          "title": "シティ、デジタル資産の浸透を予測：ポストトレード市場の1割、5年以内にステーブルコインとトークン化証券が担う",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTBkM2ItYmQyZi03Y2RiLWE0ZWEtYzBjNzcwNmRlMGY1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTBkM2ItYmQyZi03Y2RiLWE0ZWEtYzBjNzcwNmRlMGY1.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/spot-bitcoin-etfs-lead-332m-inflows-ethereum-funds-bleed",
           "author": "Cointelegraph  Amin Haqshanas",
@@ -2489,46 +2489,6 @@
           "wordCount": 592,
           "title": "パウエル発言が追い風か？ビットコインETF、4日連続の純流入",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/shutterstock_2434326743-2.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=142733",
-          "author": "よきょい",
-          "description": "トロン（Tron）は、コミュニティの投票を経てネットワークの取引手数料を60%引き下げることを決定しました。この変更はオンチェーン活動のさらなる活性化を目的としています。 On August 26, 2025, the  […]\n投稿 トロン、手数料60%引き下げ｜オンチェーン活動の活性化なるか は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-tron-cuts-fees-by-60/",
-          "publishedOn": "2025-08-30T02:30:55.000Z",
-          "wordCount": 647,
-          "title": "トロン、手数料60%引き下げ｜オンチェーン活動の活性化なるか",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/shutterstock_2432285881.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=142734",
-          "author": "よきょい",
-          "description": "イーサリアム財団は開発者支援を目的とした「エコシステム支援プログラム（ESP）」への新規助成金申請の受付を一時停止したと発表しました。財団は現在資金提供のアプローチを再構築しており、長期的な優先事項に沿った支援体制への移 […]\n投稿 イーサリアム財団、開発者向け助成金を一時停止 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-ethereum-foundation-suspends-developer-grants/",
-          "publishedOn": "2025-08-30T02:25:41.000Z",
-          "wordCount": 585,
-          "title": "イーサリアム財団、開発者向け助成金を一時停止",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/shutterstock_1138369577.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=142735",
-          "author": "よきょい",
-          "description": "暗号資産運用会社ビットワイズ（Bitwise）の最高投資責任者（CIO）であるマット・ホーガン氏は、ソラナ（SOL）が近く史上最高値を更新する可能性があるとの見方を示しました。ホーガン氏はビットコイン（BTC）やイーサリ […]\n投稿 「ソラナは近く最高値更新する可能性」ビットワイズCIO｜3つの成功法則に注目 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-solana-may-soon-reach-a-new-record-high-says-bitwise-cio/",
-          "publishedOn": "2025-08-30T02:21:43.000Z",
-          "wordCount": 586,
-          "title": "「ソラナは近く最高値更新する可能性」ビットワイズCIO｜3つの成功法則に注目",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/shutterstock_2048643299.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=142728",
-          "author": "よきょい",
-          "description": "ビットコイン（BTC）の長期保有者の動向を分析した結果、2025年9月下旬から上昇トレンドが再開する可能性が示唆されています。 CryptoQuantのアナリストは現在の強気相場が過去のサイクルとは異なると指摘。現物ET […]\n投稿 ビットコインの9月相場はどうなる？3つの好材料に注目 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-what-will-bitcoins-market-price-be-like-in-september-focus-on-three-positive-factors/",
-          "publishedOn": "2025-08-30T02:17:55.000Z",
-          "wordCount": 583,
-          "title": "ビットコインの9月相場はどうなる？3つの好材料に注目",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/08/shutterstock_2491707327-2.jpg"
         }
       ]
     }

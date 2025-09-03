@@ -575,6 +575,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=601804",
+          "author": "AKIRA.H",
+          "description": "ビットコインやイーサリアムに続き、ソラナやリップルなど多数のアルトコインETF申請が進行中。2025年の米国規制環境で加速するETF審査状況を整理しました",
+          "link": "https://coinpost.jp/?p=601804",
+          "publishedOn": "2025-09-03T09:30:39.000Z",
+          "wordCount": 2968,
+          "title": "米国アルトコインETFの審査状況一覧　ソラナやXRP・ドージなど",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/20250421_coinpost_52-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/20250421_coinpost_52-1.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=648113",
           "author": "幸田直子",
           "description": "ソラナの大型アップグレード「アルペングロー」が98%の圧倒的支持で承認された。ファイナリティが12秒から0.15秒へ短縮され、従来のインターネット・インフラのスピードと同等水準になると期待されている。MEXCアナリストは年末までに37,000円到達を予測した。",
@@ -1573,6 +1588,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-bulls-still-in-control-btc-price-passes-112k-analysis",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコイン（BTC）は水曜の米ウォール街での取引開始後に11万2500ドルを付け、トレーダーの間で強気転換の兆しが広がっている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-bulls-still-in-control-btc-price-passes-112k-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-03T18:57:58.000Z",
+          "wordCount": null,
+          "title": "ビットコイン　一時11万2500ドルまで上昇　FRB利下げ観測と金の最高値更新で強気転換の兆し",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJlMzEtYjY0Yi03NmM1LWJkYTUtMWFjZjA4NzFkZTEx.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJlMzEtYjY0Yi03NmM1LWJkYTUtMWFjZjA4NzFkZTEx.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/what-happens-to-bitcoin-price-amid-collapse-global-g7-bond-markets",
           "author": "Cointelegraph  Yashu Gola",

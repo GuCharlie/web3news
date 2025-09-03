@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-03T13:24:23.703Z</updated>
+    <updated>2025-09-03T13:42:01.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインETFに資金流入進む　「デジタルゴールド」のナラティブ復活か]]></title>
+        <id>https://jp.cointelegraph.com/news/spot-bitcoin-etfs-lead-332m-inflows-ethereum-funds-bleed</id>
+        <link href="https://jp.cointelegraph.com/news/spot-bitcoin-etfs-lead-332m-inflows-ethereum-funds-bleed?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-03T13:33:07.000Z</updated>
+        <summary type="html"><![CDATA[SoSoValueのデータによれば、現物ビットコイン上場投資信託（ETF）は火曜日に3億3270万ドルの純流入を記録し、1億3530万ドルの純流出となったイーサリアムETFを大きく上回った。]]></summary>
+        <author>
+            <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナの新コンセンサス「Alpenglow」移行決定、ファイナリティ時間が大幅短縮へ]]></title>
         <id>https://www.neweconomy.jp/?p=492978</id>
@@ -2211,16 +2221,6 @@ Pump.funの買い戻しがPUMP回復を後押し──暗号資産市場が低�
 投稿 ステーブルコインプロジェクトPlasma、EtherFiと5億ドル超の提携 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン相場、古参クジラ売却で高リスク領域入り＝Bitcoin Vector分析]]></title>
-        <id>https://coinpost.jp/?p=647156</id>
-        <link href="https://coinpost.jp/?p=647156"/>
-        <updated>2025-08-30T01:40:54.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインベクターの最新分析によると、仮想通貨ビットコイン価格が10万7千ドルを下回れば高リスク領域に突入し10万ドル台をテストする可能性がある。現在10万7750ドルで推移し、構造的安定性の重要な局面を迎えている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

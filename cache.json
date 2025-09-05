@@ -715,6 +715,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=649117",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨ビットコイン保有最大手のストラテジーのS&P500指数組み入れが見送られ、証券取引アプリのロビンフッドが新規採用された。失望売りを受けビットコインが反落。",
+          "link": "https://coinpost.jp/?p=649117",
+          "publishedOn": "2025-09-05T21:55:10.000Z",
+          "wordCount": 3189,
+          "title": "ストラテジー、S&P500編入されず　ビットコイン小幅反落",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/strategy-new-bitcoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/strategy-new-bitcoin.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=649113",
           "author": "菊谷ルイス",
           "description": "上院銀行委員会が仮想通貨市場構造法案（クラリティ法案）の最新版を発表。ステーキング、エアドロップ、NFTを証券から除外し、DePIN免除とSEC-CFTC連携枠組みを追加した。",
@@ -2268,6 +2283,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-breakout-fizzles-after-weak-us-jobs-data-raises-alarm",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "ビットコイン（BTC）は金曜日の米雇用統計の発表前後に大きく乱高下した。果たしてBTC価格は強気トレンドを維持できているのか？",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-breakout-fizzles-after-weak-us-jobs-data-raises-alarm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-05T22:11:46.000Z",
+          "wordCount": null,
+          "title": "ビットコイン 11万ドルの攻防、強気トレンドは維持できるか？",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTdiYTUtODAwZS03ZGRhLWJkMDItODUxYmFhZDYwOGFm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTdiYTUtODAwZS03ZGRhLWJkMDItODUxYmFhZDYwOGFm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/ethereum-bull-run-eth-exchange-flux-turns-negative-for-the-first-time",
           "author": "Cointelegraph  Nancy Lubale",

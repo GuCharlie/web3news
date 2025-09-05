@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-05T21:35:37.726Z</updated>
+    <updated>2025-09-05T22:13:51.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン 11万ドルの攻防、強気トレンドは維持できるか？]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-breakout-fizzles-after-weak-us-jobs-data-raises-alarm</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-breakout-fizzles-after-weak-us-jobs-data-raises-alarm?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-05T22:11:46.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は金曜日の米雇用統計の発表前後に大きく乱高下した。果たしてBTC価格は強気トレンドを維持できているのか？]]></summary>
+        <author>
+            <name>Cointelegraph  Biraajmaan Tamuly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ストラテジー、S&P500編入されず　ビットコイン小幅反落]]></title>
+        <id>https://coinpost.jp/?p=649117</id>
+        <link href="https://coinpost.jp/?p=649117"/>
+        <updated>2025-09-05T21:55:10.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコイン保有最大手のストラテジーのS&P500指数組み入れが見送られ、証券取引アプリのロビンフッドが新規採用された。失望売りを受けビットコインが反落。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米上院、クラリティ法案の最新版でステーキングやNFTを証券分類から除外]]></title>
         <id>https://coinpost.jp/?p=649113</id>

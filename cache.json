@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=311958",
+          "author": "橋本 祐樹",
+          "description": "9月12日～15日に渋谷で行われるイーサリアムのカンファレンスとハッカソンの祭典「ETHTokyo 2025」の初日、イーサリアム創設者のヴィタリック・ブテリン ...\n日本でのイーサリアム活用の現状を議論──「ETHTokyo 2025」内で9月12日、特別AMAセッション開催 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/311958/",
+          "publishedOn": "2025-09-05T06:22:16.000Z",
+          "wordCount": 1821,
+          "title": "日本でのイーサリアム活用の現状を議論──「ETHTokyo 2025」内で9月12日、特別AMAセッション開催",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/ETHTokyoLogoコピー.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=311828",
           "author": "廣瀬 優香",
           "description": "購入発表は依然として相次いでいるが、暗号資産（仮想通貨）トレジャリー企業のバブルは少し前に弾けており、ナスダックが限界に達したと報じられたことで、4日にさらに収 ...\n暗号資産トレジャリー企業にさらなる打撃──ナスダックが監視強化との報道で first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -680,16 +690,6 @@
           "wordCount": 1385,
           "title": "サークル、ストライプ……なぜ多くの企業が独自ブロックチェーンを立ち上げるのか？",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/shutterstock_2599740173.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=310608",
-          "author": "林 理南",
-          "description": "アメリカ拠点のビットコイン金融サービス企業リバー（River）によれば、ビットコイン（BTC）の大部分は依然として個人が保有している。 リバーはX（旧Twitt ...\nビットコインの大部分は依然として個人が保有しているが、機関投資家も追い上げている：調査 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/310608/",
-          "publishedOn": "2025-08-31T14:44:43.000Z",
-          "wordCount": 1345,
-          "title": "ビットコインの大部分は依然として個人が保有しているが、機関投資家も追い上げている：調査",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/b73e82209ea9da04e634e047a9475b2273c006d6-3665x2516-1-scaled.jpg"
         }
       ]
     },
@@ -704,6 +704,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=648886",
+          "author": "A.Yamada",
+          "description": "WebX2025で渡辺創太氏が株式トークン化の可能性とSBIとの合弁事業の展望について語った。米国で新たな取引プラットフォームを可能にする動きが生まれていることにも言及している。",
+          "link": "https://coinpost.jp/?p=648886",
+          "publishedOn": "2025-09-05T04:20:08.000Z",
+          "wordCount": 3201,
+          "title": "スターテイルの渡辺創太CEO、SBIとの新事業やトークン化革命を展望｜WebX2025",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/Japan-yen_1653947077.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/Japan-yen_1653947077.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=648926",
+          "author": "菊谷ルイス",
+          "description": "トロン創設者ジャスティン・サン氏が5日、ワールド・リバティ・ファイナンシャルに対しトークン凍結解除を要求。ブロックチェーンの基本価値観を主張。",
+          "link": "https://coinpost.jp/?p=648926",
+          "publishedOn": "2025-09-05T03:50:25.000Z",
+          "wordCount": 3162,
+          "title": "ジャスティン・サン、900万ドル相当のWLFIトークン凍結解除を運営チームに要求",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/Unlocks_0531.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/Unlocks_0531.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=648884",
           "author": "菊谷ルイス",
@@ -1671,6 +1701,66 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=493528",
+          "author": "OtsugaShinya",
+          "description": "ユニスワップのDUNA採用に関する投票開始 米ワイオミング州の「DUNA（分散型非法人非営利団体）」を、DEX（分散型取引所）ユニスワップ（Uniswap）のガバナンスプロトコルの法的組織として採用する提案について可否を […]",
+          "link": "https://www.neweconomy.jp/posts/493528",
+          "publishedOn": "2025-09-05T05:59:49.000Z",
+          "wordCount": 737,
+          "title": "ユニスワップ財団が新法人「DUNI」設立にワイオミング州「DUNA」採用の投票開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/05145945/8e8d946bafbe5e7d7040e7f5ad9d4900.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=493482",
+          "author": "HitomotoToshikazu",
+          "description": "Grayscale Ethereum Covered Call ETF公開 米暗号資産（仮想通貨）運用会社グレースケール（Grayscale）が、暗号資産（仮想通貨）イーサリアム（ETH）関連のカバードコール戦略ETF（ […]",
+          "link": "https://www.neweconomy.jp/posts/493482",
+          "publishedOn": "2025-09-05T05:29:29.000Z",
+          "wordCount": 800,
+          "title": "グレースケール、イーサリアム（ETH）関連のカバードコールETF「ETCO」ローンチ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/05142914/ETH-250905PIXTA.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=493437",
+          "author": "gentosha_takahashi",
+          "description": "統一アジェンダ公表で前政権下の規制案を撤回 米行政管理予算局（OMB）傘下の規制情報局（OIRA）が「2025年春季統一アジェンダ（Unified Agenda of Regulatory and Deregulator […]",
+          "link": "https://www.neweconomy.jp/posts/493437",
+          "publishedOn": "2025-09-05T03:58:34.000Z",
+          "wordCount": 746,
+          "title": "米SEC、暗号資産規制の明確化と規制緩和を推進へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/05125826/SEC-250905PIXTA.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=493419",
+          "author": "NewEconomy",
+          "description": "Robot Consulting、10億円相当イーサリアム購入予定を発表 米ナスダック（NASDAQ）上場の国内リーガルテック企業 Robot Consulting（ロボットコンサルティング：LAWR） が、10億円相当 […]",
+          "link": "https://www.neweconomy.jp/posts/493419",
+          "publishedOn": "2025-09-05T03:29:39.000Z",
+          "wordCount": 769,
+          "title": "ナスダック上場Robot Consulting、10億円相当のイーサリアム購入予定を発表。戦略備蓄とAIエージェント型「ロボット弁護士」開発に活用",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/05122752/news_robotc20250905.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=493414",
+          "author": "OtsugaShinya",
+          "description": "アンカレッジがSTRKのステーキングサポート開始 暗号資産（仮想通貨）銀行アンカレッジ・デジタル・バンク（Anchorage Digital Bank）が、スタークネット（Starknet）のネイティブトークン「STRK […]",
+          "link": "https://www.neweconomy.jp/posts/493414",
+          "publishedOn": "2025-09-05T03:19:00.000Z",
+          "wordCount": 800,
+          "title": "アンカレッジデジタルバンク、機関投資家向けの「STRK」ステーキングサポート開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/05121854/4e19f8df29f38cd38f13a02922b1abaf.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=493374",
+          "author": "HitomotoToshikazu",
+          "description": "トロン社のTRX保有額が2.2億ドル超 暗号資産（仮想通貨）トロン（TRX）の財務戦略企業トロン社（Tron Inc.、ティッカー：TRON）が、TRXの保有額が2億2,000万ドル（約326億円）を超えたと9月2日に発 […]",
+          "link": "https://www.neweconomy.jp/posts/493374",
+          "publishedOn": "2025-09-05T02:58:53.000Z",
+          "wordCount": 738,
+          "title": "ナスダック上場企業トロン、TRX保有額が2.2億ドル超、筆頭株主Bravemorningが追加投資",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/04212038/e0b0204e450cdc0a8fbf3cf1f4c03da6.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=493167",
           "author": "NewEconomyPodcast",
@@ -3475,6 +3565,26 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=143005",
+          "author": "Crypto Times 編集部",
+          "description": "BOUNTYKINDS SOLUTIONS INC.は9月4日、戦略的カードバトルとリアルタイムアクションを融合した新作ブロックチェーンゲーム『EXE ARENA』を2026年にiOS・Android向けにリリースするこ […]\n投稿 『ファイナルファンタジー』シリーズの中谷幸夫氏も参画｜新作ブロックチェーンゲーム『EXE ARENA』が2026年に登場 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-exe-arena-2026/",
+          "publishedOn": "2025-09-05T04:48:23.000Z",
+          "wordCount": 610,
+          "title": "『ファイナルファンタジー』シリーズの中谷幸夫氏も参画｜新作ブロックチェーンゲーム『EXE ARENA』が2026年に登場",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/kv-main.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=143000",
+          "author": "Crypto Times 編集部",
+          "description": "トランプ大統領を含むトランプ一族が共同創設者として参画するDeFiプロジェクト「World Liberty Financial」のガバナンストークン「WLFI」の価格下落が続いています。 WLFIは昨年10月から今年3月 […]\n投稿 「トランプ一族」の仮想通貨、下落止まらず｜1週間で-55% は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-trump-familys-cryptocurrency-continues-to-plummet%ef%bd%9cdown-55-in-one-week/",
+          "publishedOn": "2025-09-05T03:24:52.000Z",
+          "wordCount": 637,
+          "title": "「トランプ一族」の仮想通貨、下落止まらず｜1週間で-55%",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/02/shutterstock_2566520813-1.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=142983",
           "author": "Crypto Times 編集部",

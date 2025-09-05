@@ -690,16 +690,6 @@
           "wordCount": 1316,
           "title": "Web3資金調達額、第2四半期に96億ドルに到達──取引件数は減少",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/7459baedafb5b582d8c435ac876acfd31b91d452-1152x648-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=310577",
-          "author": "増田 隆幸",
-          "description": "ゆうちょ銀行が2026年度にも貯金者向けにデジタル通貨を導入すると日経新聞が報じた。セキュリティ・トークン（デジタル証券）などの金融商品の決済に使うほか、将来的 ...\nゆうちょ銀行、デジタル通貨発行へ──DCJPYに参加：報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/310577/",
-          "publishedOn": "2025-08-31T11:42:43.000Z",
-          "wordCount": 1269,
-          "title": "ゆうちょ銀行、デジタル通貨発行へ──DCJPYに参加：報道",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/shutterstock_1572079957.jpg"
         }
       ]
     },
@@ -714,6 +704,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=648834",
+          "author": "A.Yamada",
+          "description": "Glassnodeが週間レポートで仮想通貨ビットコイン市場を分析。相場の分岐点となる価格帯について論じている。ビットコインとイーサリアムに対する需要の違いについても指摘した。",
+          "link": "https://coinpost.jp/?p=648834",
+          "publishedOn": "2025-09-05T01:00:15.000Z",
+          "wordCount": 3189,
+          "title": "ビットコイン市場の分岐点となる価格は？　Glassnode分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/morning-market-days-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/morning-market-days-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=648831",
+          "author": "菊谷ルイス",
+          "description": "レックス・シェアーズとオスプレー・ファンドがドージコイン直接投資ETF「DOJE」を9月第2週にも上場予定。",
+          "link": "https://coinpost.jp/?p=648831",
+          "publishedOn": "2025-09-05T00:02:31.000Z",
+          "wordCount": 3174,
+          "title": "米国初のドージコインETF、来週にも上場か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/03/elon-doge-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/03/elon-doge-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=648828",
+          "author": "菊谷ルイス",
+          "description": "上場企業のビットコイン保有総量が9月4日に100万枚を突破。マイケル・セイラー氏のストラテジー主導で半年間に80社から150社超へ急拡大。",
+          "link": "https://coinpost.jp/?p=648828",
+          "publishedOn": "2025-09-04T23:05:15.000Z",
+          "wordCount": 3166,
+          "title": "上場企業のビットコイン保有量100万BTC突破、半年で150社超に急拡大",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/bitcoinsupply0913211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/bitcoinsupply0913211.png"
+        },
         {
           "id": "https://coinpost.jp/?p=648815",
           "author": "K.Kobayashi",
@@ -2143,6 +2178,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/race-global-stablecoin-rails-stripe-fireblocks",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "世界的なステーブルコイン決済システム構築の競争が加速している。従来型の金融機関と仮想通貨インフラ企業が、国際的な資金フローを巡ってしのぎを削っている。",
+          "link": "https://jp.cointelegraph.com/news/race-global-stablecoin-rails-stripe-fireblocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-05T00:31:15.000Z",
+          "wordCount": null,
+          "title": "ステーブルコイン決済網の構築競争が加速　金融機関と仮想通貨企業が世界送金を狙う",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTE2MDQtNjAxNC03MjJkLWExOTYtNTk1MWM0OWM3ZjI3.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTE2MDQtNjAxNC03MjJkLWExOTYtNTk1MWM0OWM3ZjI3.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/xrp-downtrend-extends-but-data-predicts-85percent-bounce",
           "author": "Cointelegraph  Biraajmaan Tamuly",

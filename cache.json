@@ -3697,21 +3697,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/businesses-absorbing-btc-4x-faster-mined",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "企業がマイナーの供給を大幅に上回っており、取引所準備金の減少が続けば供給ショックを引き起こす可能性がある。",
-          "link": "https://jp.cointelegraph.com/news/businesses-absorbing-btc-4x-faster-mined?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-09-01T00:04:24.000Z",
-          "wordCount": null,
-          "title": "企業がビットコインをマイニング速度の4倍で吸収：レポート",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZmODItNzc2OS03Y2EzLTk4NWUtMjcwZjYyNWE0MTBl.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzZmODItNzc2OS03Y2EzLTk4NWUtMjcwZjYyNWE0MTBl.jpg"
         }
       ]
     },
@@ -3720,6 +3705,26 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=143031",
+          "author": "Crypto Times 編集部",
+          "description": "YugaLabsが開発したNFTコレクション「HV-MTL」の所有権が、実業家のAdam Weitsman氏とGabe8bit氏に引き継がれることが発表されました。 Honored to partner with my  […]\n投稿 HV-MTLコレクション、所有権が移行｜Yuga Labsから2度目の移行に は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-hv-mtl-collection-ownership-transfers%ef%bd%9csecond-transfer-from-yuga-labs/",
+          "publishedOn": "2025-09-05T12:25:25.000Z",
+          "wordCount": 672,
+          "title": "HV-MTLコレクション、所有権が移行｜Yuga Labsから2度目の移行に",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/shutterstock_1949414893-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=143029",
+          "author": "Crypto Times 編集部",
+          "description": "ステーブルコイン「USDT」を発行するテザー社が金（ゴールド）産業への投資を協議していることが英フィナンシャル・タイムズの報道で明らかになりました。今年上半期だけで57億ドルの利益を上げた同社がその豊富な資金を伝統的な実 […]\n投稿 ステーブルコイン大手テザー社、「金」産業への投資を検討か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-major-stablecoin-issuer-tether-reportedly-considering-investment-in-the-gold-industry/",
+          "publishedOn": "2025-09-05T12:17:01.000Z",
+          "wordCount": 594,
+          "title": "ステーブルコイン大手テザー社、「金」産業への投資を検討か",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_2075742718.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=143024",
           "author": "Crypto Times 編集部",

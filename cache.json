@@ -725,6 +725,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=649156",
+          "author": "菊谷ルイス",
+          "description": "TLGYアクイジション・コープとステーブルコインXアセッツが追加5.3億ドルのPIPE資金調達を完了。Ethena財団は3.1億のENA買い戻しプログラムを開始する。",
+          "link": "https://coinpost.jp/?p=649156",
+          "publishedOn": "2025-09-06T00:10:59.000Z",
+          "wordCount": 3175,
+          "title": "ステーブルコインX、5.3億ドル追加調達完了でENA購入拡大",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/stablex-ena.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/stablex-ena.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=649143",
           "author": "K.Kobayashi",
           "description": "韓国の金融委員会は仮想通貨のレンディングに関するガイドラインを発表。サービス対象銘柄を時価総額上位20位などのルールで制限することなど、規制を明確化した。",
@@ -2278,6 +2293,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/trump-media-company-crypto-com-treasury-deal",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "トランプ・メディアは、仮想通貨トレジャリー設立に向けたジョイントベンチャーに続き、クリプト・ドットコムとの契約の一環として6億8440万CROトークンを購入すると発表した。",
+          "link": "https://jp.cointelegraph.com/news/trump-media-company-crypto-com-treasury-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-06T00:51:45.000Z",
+          "wordCount": null,
+          "title": "トランプ・メディア　クリプト・ドットコムと正式契約　6億8440万CROを約1億500万ドルで購入へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTFiNjMtYWIzOC03MjVlLTk5MjQtNmQxMjY5YTdkYmZl.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTFiNjMtYWIzOC03MjVlLTk5MjQtNmQxMjY5YTdkYmZl.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/nasdaq-sol-strategies-listing-shares",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "カナダのブロックチェーン企業SOLストラテジーズは、ナスダック上場の承認を得て来週にもデビューする予定だ。",
+          "link": "https://jp.cointelegraph.com/news/nasdaq-sol-strategies-listing-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-05T23:53:20.000Z",
+          "wordCount": null,
+          "title": "カナダのブロックチェーン企業SOLストラテジーズ、来週ナスダック上場へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTFiNzUtODAzOS03ZWI0LTg0ZGItNmMyZjExMGIxNmZk.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTFiNzUtODAzOS03ZWI0LTg0ZGItNmMyZjExMGIxNmZk.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/price-predictions-9-5-btc-eth-xrp-bnb-sol-doge-ada-link-hype-sui",
           "author": "Cointelegraph  Rakesh Upadhyay",

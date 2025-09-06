@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-06T01:08:21.240Z</updated>
+    <updated>2025-09-06T02:37:30.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨の暗号基盤に量子リスク　2035年移行計画を米SECに提案]]></title>
+        <id>https://coinpost.jp/?p=649180</id>
+        <link href="https://coinpost.jp/?p=649180"/>
+        <updated>2025-09-06T02:25:40.000Z</updated>
+        <summary type="html"><![CDATA[量子コンピュータが主要仮想通貨の暗号基盤を破る可能性について、米SECに提出された報告書で警告。2034年までの脅威確率や対策フレームワークを解説。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ステーブルコイン発行企業テザー、金供給網への投資を検討　採掘から精製・取引まで視野＝報道]]></title>
+        <id>https://jp.cointelegraph.com/news/tether-invest-across-gold-supply-chain-report</id>
+        <link href="https://jp.cointelegraph.com/news/tether-invest-across-gold-supply-chain-report?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-06T01:35:03.000Z</updated>
+        <summary type="html"><![CDATA[フィナンシャルタイムズによれば、米ドル連動型ステーブルコイン「USDT」の発行者であるテザーは、金の供給網全体にわたり資本を投入することを検討している。]]></summary>
+        <author>
+            <name>Cointelegraph  Christopher Tepedino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トークン化ポケモンカード市場「Collector Crypt」、独自トークンCARDSが10倍上昇]]></title>
+        <id>https://coinpost.jp/?p=649162</id>
+        <link href="https://coinpost.jp/?p=649162"/>
+        <updated>2025-09-06T01:25:05.000Z</updated>
+        <summary type="html"><![CDATA[ポケモンカードをトークン化する「Collector Crypt」の仮想通貨CARDSが1週間で10倍上昇した。ガチャ需要が24億円に達し、NFT市場に新風が吹いている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ・メディア　クリプト・ドットコムと正式契約　6億8440万CROを約1億500万ドルで購入へ]]></title>
         <id>https://jp.cointelegraph.com/news/trump-media-company-crypto-com-treasury-deal</id>

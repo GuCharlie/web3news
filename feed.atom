@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-07T22:36:53.093Z</updated>
+    <updated>2025-09-07T23:12:57.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[エルサルバドル、ビットコイン法施行4周年を祝賀　実験の成果は賛否両論]]></title>
+        <id>https://jp.cointelegraph.com/news/el-salvador-bitcoin-anniversary-mixed-results-4-years</id>
+        <link href="https://jp.cointelegraph.com/news/el-salvador-bitcoin-anniversary-mixed-results-4-years?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-07T22:58:25.000Z</updated>
+        <summary type="html"><![CDATA[エルサルバドルは世界で初めてビットコインを法定通貨とした国だが、その後はビットコイン関連法や公共部門での取り組みを縮小している。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム収益、ETH最高値下でも8月に44％減少]]></title>
+        <id>https://jp.cointelegraph.com/news/ethereum-revenue-drops-44-percent-august-all-time-high</id>
+        <link href="https://jp.cointelegraph.com/news/ethereum-revenue-drops-44-percent-august-all-time-high?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-07T22:48:35.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムの収益とネットワーク手数料が縮小を続け、レイヤー1ブロックチェーンの財務基盤を巡る議論を呼んでいる。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[テザー、ビットコイン売却の噂を否定　BTC・金・土地への投資継続を確認]]></title>
         <id>https://jp.cointelegraph.com/news/tether-denies-bitcoin-sell-off-invests-btc-gold-land</id>
@@ -2197,17 +2217,6 @@ Etherealize、ウォール街にイーサリアムを導入するため4000万�
         <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインネットワークのハッシュレート、8月に過去最高水準を回復：JPモルガン]]></title>
-        <id>https://www.coindeskjapan.com/?p=311471</id>
-        <link href="https://www.coindeskjapan.com/311471/"/>
-        <updated>2025-09-03T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインネットワークのハッシュレートは先月、過去最高水準に回復した。JPモルガン（JPMorgan）が9月2日に発表した調査報告書によると、約50エクサハッ ...
-ビットコインネットワークのハッシュレート、8月に過去最高水準を回復：JPモルガン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Will Canny</name>
         </author>
     </entry>
 </feed>

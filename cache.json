@@ -425,6 +425,51 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=649610",
+          "author": "菊谷ルイス",
+          "description": "報告義務化5日に米下院に提出された歳出法案（H.R.5166）により、財務省に対して戦略的ビットコイン準備金に関する詳細報告の提出を義務付けることがわかった。同法案は2026年9月30日終了会計年度の金融サービスと一般政府向け歳出を扱ってお...",
+          "link": "https://coinpost.jp/?p=649610",
+          "publishedOn": "2025-09-08T23:15:30.000Z",
+          "wordCount": 3162,
+          "title": "米歳出法案、財務省に戦略的ビットコイン準備金の報告を指示",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/stablecoin-congress-vote-next-week.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/stablecoin-congress-vote-next-week.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=649603",
+          "author": "K.Kobayashi",
+          "description": "NFT電子市場オープンシーは、独自仮想通貨SEAトークンの生成イベントについて、10月初めにオープンシー財団が詳細を発表すると説明。100万ドル規模のNFT保有プログラムも発表した。",
+          "link": "https://coinpost.jp/?p=649603",
+          "publishedOn": "2025-09-08T22:55:34.000Z",
+          "wordCount": 3169,
+          "title": "オープンシー、10月にSEAトークン発行の詳細公表へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/OpenSea0830211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/OpenSea0830211.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=649601",
+          "author": "菊谷ルイス",
+          "description": "取引プラットフォーム運営のライオン・グループは仮想通貨ソラナとスイ資産をHYPEに戦略的に転換。HYPEトークンの価格上昇も一因か。",
+          "link": "https://coinpost.jp/?p=649601",
+          "publishedOn": "2025-09-08T22:20:34.000Z",
+          "wordCount": 3150,
+          "title": "米上場ライオン・グループ、SOLとSUIをハイパーリキッド（HYPE）に転換",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/hyper-liquid-binance-us.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/hyper-liquid-binance-us.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=649599",
           "author": "菊谷ルイス",
           "description": "スイス仮想通貨プラットフォームのスイスボーグがパートナーAPI侵害により約19万3000SOL（4100万ドル）流出。自社のソラナ資金で利用者補償を計画。",
@@ -1350,16 +1395,6 @@
           "wordCount": 742,
           "title": "トンストラテジーが2.5億ドルの自社株を買戻へ、アルファトンキャピタルもTON取得へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/04191133/TON-250829PIXTA.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=493354",
-          "author": "TamuraSeiji",
-          "description": "Starknetが数時間のネットワーク障害から復旧 イーサリアム（Ethereum）のレイヤー2スケーリングソリューション「スタークネット（Starknet）」が数時間にわたるネットワーク障害から復旧し、ブロック生成を正 […]",
-          "link": "https://www.neweconomy.jp/posts/493354",
-          "publishedOn": "2025-09-04T11:16:28.000Z",
-          "wordCount": 784,
-          "title": "イーサL2のスタークネット、数時間のネットワーク障害から復旧",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/04201611/5f864245f35885f2cb83eae871d5a892.jpg"
         }
       ]
     },
@@ -1368,6 +1403,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/hsbc-icbc-hong-kong-stablecoin-license",
+          "author": "Cointelegraph  Adrian Zmudzinski",
+          "description": "HSBCと総資産で世界最大の銀行である中国工商銀行（ICBC）が、香港の新たな規制制度の施行に伴い、ステーブルコイン免許の取得を申請する計画を進めていると報じられた。",
+          "link": "https://jp.cointelegraph.com/news/hsbc-icbc-hong-kong-stablecoin-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-08T23:29:48.000Z",
+          "wordCount": null,
+          "title": "HSBCと中国工商銀行、香港でステーブルコイン免許取得を検討か＝報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2EwNjYtODg3Ni03YjkzLTlmYTktMzcyOWM3YWJkZjUz.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2EwNjYtODg3Ni03YjkzLTlmYTktMzcyOWM3YWJkZjUz.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/coinshares-us-1-2b-merger-vine-hill",
           "author": "Cointelegraph  Ezra Reguerra",

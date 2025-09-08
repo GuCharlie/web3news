@@ -460,10 +460,40 @@
       "articles": []
     },
     {
-      "title": "TRON(TRX)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=649337",
+          "author": "A.Yamada",
+          "description": "ビットコイン財務戦略で知られるストラテジー社の会長が億万長者ランキング入りした。その資産は1兆円を突破している。仮想通貨業界の富豪動向も紹介する。",
+          "link": "https://coinpost.jp/?p=649337",
+          "publishedOn": "2025-09-08T04:54:29.000Z",
+          "wordCount": 3183,
+          "title": "ストラテジーのマイケル・セイラー会長、世界の億万長者トップ500ランキング入り",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/saylor-not-selling-bitcoin.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/saylor-not-selling-bitcoin.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=649354",
+          "author": "AKIRA.H",
+          "description": "メタプラネットが9月に136BTCを追加購入し、累計保有量は20,136BTCへ。総取得額は3,045億円超に到達し、積極的なトレジャリー戦略を継続。",
+          "link": "https://coinpost.jp/?p=649354",
+          "publishedOn": "2025-09-08T03:26:42.000Z",
+          "wordCount": 3180,
+          "title": "メタプラネット、ビットコイン22億円分を追加購入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/bitcoin_0918-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/bitcoin_0918-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=649317",
           "author": "A.Yamada",
@@ -2147,36 +2177,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTQyYTAtM2Q5OC03ODdiLWE1MmMtZDZlNzExZWM1MTQ1.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-bulls-still-in-control-btc-price-passes-112k-analysis",
-          "author": "Cointelegraph  William Suberg",
-          "description": "ビットコイン（BTC）は水曜の米ウォール街での取引開始後に11万2500ドルを付け、トレーダーの間で強気転換の兆しが広がっている。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-bulls-still-in-control-btc-price-passes-112k-analysis?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-09-03T18:57:58.000Z",
-          "wordCount": null,
-          "title": "ビットコイン　一時11万2500ドルまで上昇　FRB利下げ観測と金の最高値更新で強気転換の兆し",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJlMzEtYjY0Yi03NmM1LWJkYTUtMWFjZjA4NzFkZTEx.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJlMzEtYjY0Yi03NmM1LWJkYTUtMWFjZjA4NzFkZTEx.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-bulls-still-in-control-btc-price-passes-112k-analysis",
-          "author": "Cointelegraph  William Suberg",
-          "description": "ビットコイン（BTC）は水曜の米ウォール街での取引開始後に11万2500ドルを付け、トレーダーの間で強気転換の兆しが広がっている。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-bulls-still-in-control-btc-price-passes-112k-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-09-03T18:57:58.000Z",
-          "wordCount": null,
-          "title": "ビットコイン　一時11万2500ドルまで上昇　FRB利下げ観測と金の最高値更新で強気転換の兆し",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJlMzEtYjY0Yi03NmM1LWJkYTUtMWFjZjA4NzFkZTEx.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJlMzEtYjY0Yi03NmM1LWJkYTUtMWFjZjA4NzFkZTEx.jpg"
         }
       ]
     },

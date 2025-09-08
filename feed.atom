@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-08T22:38:07.280Z</updated>
+    <updated>2025-09-08T23:14:13.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨ETF発行企業コインシェアーズ　SPAC合併で米ナスダック上場へ]]></title>
+        <id>https://jp.cointelegraph.com/news/coinshares-us-1-2b-merger-vine-hill</id>
+        <link href="https://jp.cointelegraph.com/news/coinshares-us-1-2b-merger-vine-hill?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-08T22:49:44.000Z</updated>
+        <summary type="html"><![CDATA[欧州の資産運用会社コインシェアーズは、上場企業である特別買収目的会社（SPAC）ヴァインヒル・キャピタル・インベストメントと最終的な事業統合契約を締結した。]]></summary>
+        <author>
+            <name>Cointelegraph  Ezra Reguerra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[強気派が勢い取り戻す　仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ]]></title>
         <id>https://jp.cointelegraph.com/news/price-predictions-9-8-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-hype</id>
@@ -1881,28 +1891,6 @@ SECのアトキンス委員長、暗号資産関連の取り組みが多数含�
         <summary type="html"><![CDATA[Starknetが数時間のネットワーク障害から復旧 イーサリアム（Ethereum）のレイヤー2スケーリングソリューション「スタークネット（Starknet）」が数時間にわたるネットワーク障害から復旧し、ブロック生成を正 […]]]></summary>
         <author>
             <name>TamuraSeiji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GameSquare、Web3飲料ブランドRektと200万ドルのエージェンシー契約締結]]></title>
-        <id>https://crypto-times.jp/?p=142978</id>
-        <link href="https://crypto-times.jp/news-gamesquare-rekt/"/>
-        <updated>2025-09-04T10:58:58.000Z</updated>
-        <summary type="html"><![CDATA[ゲーミングメディア企業のGameSquare Holdings（NASDAQ: GAME）がWeb3発の飲料ブランドRekt Brands Inc.との200万ドルのエージェンシー契約を発表しました。 GameSquar […]
-投稿 GameSquare、Web3飲料ブランドRektと200万ドルのエージェンシー契約締結 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pudgy Penguinsのモバイルゲーム、リリース数日で25万ダウンロード突破]]></title>
-        <id>https://crypto-times.jp/?p=142973</id>
-        <link href="https://crypto-times.jp/news-pudgy-party-dl-250000/"/>
-        <updated>2025-09-04T10:42:40.000Z</updated>
-        <summary type="html"><![CDATA[モバイルゲーム「Pudgy Party」が8月30日のリリースからわずか数日で25万ダウンロードを突破しました。 250,000+ 🔥 That’s how many have downloa […]
-投稿 Pudgy Penguinsのモバイルゲーム、リリース数日で25万ダウンロード突破 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
 </feed>

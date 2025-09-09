@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=312752",
+          "author": "林 理南",
+          "description": "キャメロン・ウィンクルボス（Cameron Winklevoss）氏とタイラー・ウィンクルボス（Tyler Winklevoss）氏が設立した暗号資産（仮想通貨 ...\nナスダック、ウィンクルボス兄弟の暗号資産取引所ジェミナイに5000万ドルを投資へ：ロイター first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/312752/",
+          "publishedOn": "2025-09-09T21:30:00.000Z",
+          "wordCount": 1334,
+          "title": "ナスダック、ウィンクルボス兄弟の暗号資産取引所ジェミナイに5000万ドルを投資へ：ロイター",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/shutterstock_2305793579.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=312744",
           "author": "林 理南",
           "description": "シカゴ・オプション取引所で知られるデリバティブ取引所のCboeは、規制当局の承認が得られれば、11月10日にビットコイン（BTC）とイーサリアム（ETH）の「継 ...\n米国で永久先物に似た暗号資産先物が開始へ──Cboeは11月を見込む first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -414,6 +424,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=649969",
+          "author": "菊谷ルイス",
+          "description": "メタプラネットが10日に海外募集による増資を決議した。調達資金2041億円のうち1800億円以上をビットコイン購入に充当し、トレジャリー戦略を強化する。",
+          "link": "https://coinpost.jp/?p=649969",
+          "publishedOn": "2025-09-09T21:25:12.000Z",
+          "wordCount": 3134,
+          "title": "メタプラネット、海外募集でビットコイン追加購入に1800億円超充当予定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/0605_metaplanetB.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/0605_metaplanetB.png"
+        },
         {
           "id": "https://coinpost.jp/?p=649966",
           "author": "菊谷ルイス",
@@ -1285,16 +1310,6 @@
           "wordCount": 800,
           "title": "米ストライプ、決済特化ブロックチェーン「Tempo」の開発支援へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/05190519/db37a8d219b7f8b4e0fe9f1515409a30.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=493648",
-          "author": "NewEconomy",
-          "description": "独大手取引所グループがトークン化資産の決済基盤ローンチ ドイツの大手証券取引所ベールゼ・シュトゥットガルト・グループ（Boerse Stuttgart Group：以下シュトゥットガルト）が、欧州全域対応のトークン化資産 […]",
-          "link": "https://www.neweconomy.jp/posts/493648",
-          "publishedOn": "2025-09-05T09:25:11.000Z",
-          "wordCount": 615,
-          "title": "独大手証券取引所シュトゥットガルト、欧州全域対象のトークン化資産決済基盤「セチュリオン」ローンチ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/05182506/cd1bc8c14239c15592ed36e036b92222.jpg"
         }
       ]
     },

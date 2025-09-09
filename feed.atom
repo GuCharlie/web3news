@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-09T15:40:28.176Z</updated>
+    <updated>2025-09-09T16:19:04.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナ　TVLとミームコイン市場の拡大で強気継続　300ドル突破なるか]]></title>
+        <id>https://jp.cointelegraph.com/news/solana-following-ethereum-v-shaped-chart-pattern-targets-300-sol-price</id>
+        <link href="https://jp.cointelegraph.com/news/solana-following-ethereum-v-shaped-chart-pattern-targets-300-sol-price?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-09T16:17:45.000Z</updated>
+        <summary type="html"><![CDATA[ソラナ（SOL）は6月22日から8月29日にかけて70％上昇し、イーサリアム（ETH）が4950ドル超の史上最高値を更新したアルトコイン市場のラリーに追随した。しかし、SOL価格は220ドルを突破できず、9月1日には200ドルを割り込んだ。]]></summary>
+        <author>
+            <name>Cointelegraph  Nancy Lubale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米雇用者数の基準改定で過去最大の91万1000人下方修正]]></title>
+        <id>https://www.coindeskjapan.com/?p=312731</id>
+        <link href="https://www.coindeskjapan.com/312731/"/>
+        <updated>2025-09-09T16:07:27.000Z</updated>
+        <summary type="html"><![CDATA[アメリカの予備的な雇用者数の基準改定で、2025年3月までの1年間について91万1000人の下方修正が明らかになった。これは過去最大の数値だ。 このニュースは、 ...
+米雇用者数の基準改定で過去最大の91万1000人下方修正 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドージコイン　米国でのETF上場期待で上昇　1ドル突破の現実味は？]]></title>
+        <id>https://jp.cointelegraph.com/news/how-high-can-doge-price-go-when-dogecoin-etf-is-approved</id>
+        <link href="https://jp.cointelegraph.com/news/how-high-can-doge-price-go-when-dogecoin-etf-is-approved?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-09T15:48:32.000Z</updated>
+        <summary type="html"><![CDATA[ドージコイン（DOGE）の価格は火曜日に0.24ドルで取引され、9月1日に記録した局地的安値0.2047ドルから20％上昇した。回復の背景には、今週にも米国で初のドージコインETFが上場する可能性への期待が高まっていることがある。]]></summary>
+        <author>
+            <name>Cointelegraph  Nancy Lubale</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロビンフッドのS&amp;P500入り　仮想通貨の存在感拡大＝業界関係者]]></title>
         <id>https://jp.cointelegraph.com/news/robinhood-joins-sp500-crypto-exposure-coinbase</id>
@@ -2129,26 +2160,6 @@ SBI VCトレードとコンヴァノが提携──ビットコイン取引・�
         <summary type="html"><![CDATA[WebX2025で渡辺創太氏が株式トークン化の可能性とSBIとの合弁事業の展望について語った。米国で新たな取引プラットフォームを可能にする動きが生まれていることにも言及している。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米SEC、暗号資産規制の明確化と規制緩和を推進へ]]></title>
-        <id>https://www.neweconomy.jp/?p=493437</id>
-        <link href="https://www.neweconomy.jp/posts/493437"/>
-        <updated>2025-09-05T03:58:34.000Z</updated>
-        <summary type="html"><![CDATA[統一アジェンダ公表で前政権下の規制案を撤回 米行政管理予算局（OMB）傘下の規制情報局（OIRA）が「2025年春季統一アジェンダ（Unified Agenda of Regulatory and Deregulator […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジャスティン・サン、900万ドル相当のWLFIトークン凍結解除を運営チームに要求]]></title>
-        <id>https://coinpost.jp/?p=648926</id>
-        <link href="https://coinpost.jp/?p=648926"/>
-        <updated>2025-09-05T03:50:25.000Z</updated>
-        <summary type="html"><![CDATA[トロン創設者ジャスティン・サン氏が5日、ワールド・リバティ・ファイナンシャルに対しトークン凍結解除を要求。ブロックチェーンの基本価値観を主張。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

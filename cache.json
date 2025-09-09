@@ -420,7 +420,7 @@
       "articles": []
     },
     {
-      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "S.Ninomiya  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -1107,6 +1107,26 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=494404",
+          "author": "HitomotoToshikazu",
+          "description": "SharpLinkがLineaでETHをステーキングか 米ナスダック（Nasdaq）上場シャープリンクゲーミング（SharpLink Gaming：以下、シャープリンク）が、自社保有する36億ドル（約5,302億円）相当 […]",
+          "link": "https://www.neweconomy.jp/posts/494404",
+          "publishedOn": "2025-09-09T00:51:36.000Z",
+          "wordCount": 747,
+          "title": "シャープリンクゲーミング、約36億ドルのイーサリアム（ETH）を「リネア」上でステーキングか＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/09093630/a73e831f00c48c1ba0a5926ec769a5d1.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=494395",
+          "author": "HitomotoToshikazu",
+          "description": "Canary Staked SEI ETFのパブコメ開始 米証券取引委員会（SEC）が、米シーボーBZX取引所（Cboe BZX exchange）提出の「Canary Staked SEI ETF」の株式を上場・取引さ […]",
+          "link": "https://www.neweconomy.jp/posts/494395",
+          "publishedOn": "2025-09-09T00:49:33.000Z",
+          "wordCount": 808,
+          "title": "米SECがカナリーのステーキング対応「セイ（SEI）現物ETF」の規則変更案を受理、パブコメ開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/09093804/e0bda3072f54240029a5f2936052171a.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=494069",
           "author": "NewEconomyPodcast",
           "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
@@ -1385,16 +1405,6 @@
           "wordCount": 670,
           "title": "【9/4話題】ポリマーケットが米国市場に再参入へ、USバンクが暗号資産カストディ再開、Ondo Global Marketsが公開など（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/04175448/ad9386251951c551c278a6af478eb617.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=493205",
-          "author": "HitomotoToshikazu",
-          "description": "TON Strategy自社株買い、AlphaTONがTON取得へ 米ナスダック上場のTONストラテジー（TON Strategy）が、普通株式を最大2億5,000万ドル（約370億円）分まで買い戻すと9月3日に発表した […]",
-          "link": "https://www.neweconomy.jp/posts/493205",
-          "publishedOn": "2025-09-04T11:46:09.000Z",
-          "wordCount": 742,
-          "title": "トンストラテジーが2.5億ドルの自社株を買戻へ、アルファトンキャピタルもTON取得へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/04191133/TON-250829PIXTA.jpg"
         }
       ]
     },
@@ -1403,6 +1413,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/kazakhstan-president-crypto-reserve-plans",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "カザフスタンのトカエフ大統領は、人工知能（AI）とデジタル資産に関する国家戦略を打ち出し、その一環として戦略的な仮想通貨準備基金の設立を提案した。",
+          "link": "https://jp.cointelegraph.com/news/kazakhstan-president-crypto-reserve-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-09T00:22:28.000Z",
+          "wordCount": null,
+          "title": "カザフスタン大統領　仮想通貨準備基金設立を提案　「クリプトシティ」構想も進展",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmNlNDUtMWYyNS03YjVkLTgwZWItM2ZhNTBjOTkxZjk0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmNlNDUtMWYyNS03YjVkLTgwZWItM2ZhNTBjOTkxZjk0.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/hsbc-icbc-hong-kong-stablecoin-license",
           "author": "Cointelegraph  Adrian Zmudzinski",
@@ -2264,16 +2289,6 @@
           "wordCount": 637,
           "title": "「トランプ一族」の仮想通貨、下落止まらず｜1週間で-55%",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/02/shutterstock_2566520813-1.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=142983",
-          "author": "Crypto Times 編集部",
-          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 ―100以上のトークン化された株式およびETFの取引を提供し、24時間 […]\n投稿 BitgetとBitget WalletがOndo Finance経由で100以上のトークン化された資産の取引をサポート は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/press-bitget-ondo-finance/",
-          "publishedOn": "2025-09-04T12:58:09.000Z",
-          "wordCount": 659,
-          "title": "BitgetとBitget WalletがOndo Finance経由で100以上のトークン化された資産の取引をサポート",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/D-Bitget-Wallet.jpg"
         }
       ]
     }

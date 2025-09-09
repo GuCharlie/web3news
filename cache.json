@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=312774",
+          "author": "林 理南",
+          "description": "ドージコイン（DOGE）は今週、ETF（上場投資信託）時代に突入する見通しだ。レックス-オスプレイ・ドージコインETF（Rex-Osprey DOGE ETF、 ...\nドージコインETF、米国で11日に開始か first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/312774/",
+          "publishedOn": "2025-09-09T22:30:00.000Z",
+          "wordCount": 1388,
+          "title": "ドージコインETF、米国で11日に開始か",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/2da47252f94b6178d17c7a84fa44a06322d70883-2400x1597-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=312763",
           "author": "林 理南",
           "description": "BNPパリバ（BNP Paribas）とHSBCは、銀行や大手金融機関に人気の高いパーミッション型でプライバシー重視のブロックチェーン、カントン・ネットワーク（ ...\nBNPパリバとHSBC、プライバシー重視のブロックチェーン・カントンに参加 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -390,16 +400,6 @@
           "wordCount": 1414,
           "title": "イーサリアム、暗号資産の下落を主導──序盤の上昇からの驚くべき反落",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/shutterstock_1978917599.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=312105",
-          "author": "Shaurya Malwa",
-          "description": "ビットコイン（BTC）は9月5日夜に、11万2000ドル付近で安定し、マクロ経済の先行き不安から世界的にリスク資産が下落する中でも相対的に底堅い動きを見せた。イ ...\n雇用統計発表を前に利下げ期待が続く中、ビットコインは11万2000ドル台で安定 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/312105/",
-          "publishedOn": "2025-09-05T10:20:00.000Z",
-          "wordCount": 1340,
-          "title": "雇用統計発表を前に利下げ期待が続く中、ビットコインは11万2000ドル台で安定",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/GW4Q74SXVRF5PET75YU224HDGI-768x512-1.jpg"
         }
       ]
     },
@@ -1280,16 +1280,6 @@
           "wordCount": 787,
           "title": "アービトラム、4000万ドルのDeFiインセンティブプログラム「DRIP」開始",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/05213931/9afba3cb2f2985c5369d1b6008798e7c.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=493622",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/493622",
-          "publishedOn": "2025-09-05T10:24:02.000Z",
-          "wordCount": 802,
-          "title": "【9/5話題】SBI VCトレードがコンヴァノの支援開始、米SECが暗号資産規制の明確化と規制緩和を推進へなど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/05170354/82086f0f0ea6d975fecb01bb3a618b0b.jpg"
         }
       ]
     },
@@ -1298,6 +1288,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-bulls-cut-risk-over-macro-red-flag-is-dollar120k-realistic",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "ビットコイン（BTC）は直近で11万3000ドルを下回る形で保ち合いが続いており、トレーダーはリスクを抑制している。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-bulls-cut-risk-over-macro-red-flag-is-dollar120k-realistic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-09T22:20:20.000Z",
+          "wordCount": null,
+          "title": "ビットコイン　強気の逆三尊パターンを形成　ターゲットは12万ドル突破",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTZhZmYtYThmNS03MzY1LWE1MmEtYjQwZDE2OWVhMGRl.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTZhZmYtYThmNS03MzY1LWE1MmEtYjQwZDE2OWVhMGRl.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-wobbles-after-shocking-us-jobs-revision-what-s-next-for-btc",
           "author": "Cointelegraph  Yashu Gola",

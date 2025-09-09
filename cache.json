@@ -1218,21 +1218,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/sec-criticism.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/sec-criticism.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=648797",
-          "author": "菊谷ルイス",
-          "description": "ナスダックが仮想通貨トレジャリー企業への監督を強化。株主投票義務化や情報開示要求で、複数企業の株価が急落。",
-          "link": "https://coinpost.jp/?p=648797",
-          "publishedOn": "2025-09-04T20:40:18.000Z",
-          "wordCount": 3171,
-          "title": "ナスダックが仮想通貨保有上場企業への監視を強化、株価に打撃",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/nasdaq-defi-data-transfer-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/nasdaq-defi-data-transfer-1.png"
         }
       ]
     },
@@ -1608,6 +1593,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/auction-christies-shuts-digital-art-nft-division",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "英国のオークション大手クリスティーズが、世界的なアート市場の低迷を受け、非代替性トークン（NFT）を扱う部門を閉鎖し、より広い部門に統合する方針であると報じられている。",
+          "link": "https://jp.cointelegraph.com/news/auction-christies-shuts-digital-art-nft-division?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-09T08:36:36.000Z",
+          "wordCount": null,
+          "title": "オークション大手クリスティーズ　NFT部門を閉鎖へ　アート市場低迷で方針転換か＝報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDczNzQtMjk4MC03OWY5LThmYzAtODQwM2ZjMmFmZjM1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDczNzQtMjk4MC03OWY5LThmYzAtODQwM2ZjMmFmZjM1.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0909",
           "author": "Cointelegraph  ビットバンク　長谷川友哉",
@@ -2204,6 +2204,16 @@
           "wordCount": 635,
           "title": "「米のステーブルコインは債務帳消しの罠」プーチン顧問の主張とは",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/shutterstock_2597128759.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=143235",
+          "author": "Crypto Times 編集部",
+          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 2025年9月、仮想通貨市場ではDogecoin（$DOGE、ドージコ […]\n投稿 ドージコインは更に跳ね上がる？同時に注目されている次なるDOGEとは は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/press-maxi-doge/",
+          "publishedOn": "2025-09-09T03:35:27.000Z",
+          "wordCount": 595,
+          "title": "ドージコインは更に跳ね上がる？同時に注目されている次なるDOGEとは",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/unknown-1-5.jpg"
         },
         {
           "id": "https://crypto-times.jp/?p=143186",

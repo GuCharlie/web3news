@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-09T08:21:33.103Z</updated>
+    <updated>2025-09-09T08:45:37.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オークション大手クリスティーズ　NFT部門を閉鎖へ　アート市場低迷で方針転換か＝報道]]></title>
+        <id>https://jp.cointelegraph.com/news/auction-christies-shuts-digital-art-nft-division</id>
+        <link href="https://jp.cointelegraph.com/news/auction-christies-shuts-digital-art-nft-division?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-09T08:36:36.000Z</updated>
+        <summary type="html"><![CDATA[英国のオークション大手クリスティーズが、世界的なアート市場の低迷を受け、非代替性トークン（NFT）を扱う部門を閉鎖し、より広い部門に統合する方針であると報じられている。]]></summary>
+        <author>
+            <name>Cointelegraph  Stephen Katte</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米ナスダック上場エイトコHD、ワールドコイン（WLD）財務戦略で最大2.7億ドル調達]]></title>
         <id>https://www.neweconomy.jp/?p=494629</id>
@@ -235,6 +245,17 @@ NEXCO中日本、NFTトレカ活用で高速道路の渋滞緩和へ first appea
         <summary type="html"><![CDATA[ロシアのプーチン大統領顧問が米国のステーブルコイン戦略を批判した。国家債務を減少させるために金融ルールを変更していると主張している。]]></summary>
         <author>
             <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドージコインは更に跳ね上がる？同時に注目されている次なるDOGEとは]]></title>
+        <id>https://crypto-times.jp/?p=143235</id>
+        <link href="https://crypto-times.jp/press-maxi-doge/"/>
+        <updated>2025-09-09T03:35:27.000Z</updated>
+        <summary type="html"><![CDATA[Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 2025年9月、仮想通貨市場ではDogecoin（$DOGE、ドージコ […]
+投稿 ドージコインは更に跳ね上がる？同時に注目されている次なるDOGEとは は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
         </author>
     </entry>
     <entry>
@@ -2195,16 +2216,6 @@ SECのアトキンス委員長、暗号資産関連の取り組みが多数含�
         <summary type="html"><![CDATA[バイナンスにおけるビットコイン/ステーブルコイン比率が、歴史的に相場の底と一致してきた水準に接近している。この指標はバイナンスのビットコイン準備金とステーブルコイン準備金のバランスを追跡するもので、現在は1に近づいている。]]></summary>
         <author>
             <name>Cointelegraph  Biraajmaan Tamuly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ナスダックが仮想通貨保有上場企業への監視を強化、株価に打撃]]></title>
-        <id>https://coinpost.jp/?p=648797</id>
-        <link href="https://coinpost.jp/?p=648797"/>
-        <updated>2025-09-04T20:40:18.000Z</updated>
-        <summary type="html"><![CDATA[ナスダックが仮想通貨トレジャリー企業への監督を強化。株主投票義務化や情報開示要求で、複数企業の株価が急落。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

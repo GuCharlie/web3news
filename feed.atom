@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-10T09:38:08.005Z</updated>
+    <updated>2025-09-10T10:15:41.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新経済連盟が「仮想通貨税制改正」提言を公表、分離課税や損失繰越控除など優遇措置を要求]]></title>
+        <id>https://coinpost.jp/?p=650228</id>
+        <link href="https://coinpost.jp/?p=650228"/>
+        <updated>2025-09-10T09:54:54.000Z</updated>
+        <summary type="html"><![CDATA[新経済連盟が2026年度税制改正で暗号資産税制の大幅優遇を提言。現在最大55%の税率を株式と同様の分離課税20%に変更、損失繰越控除導入、暗号資産間交換の課税タイミング見直しなどを要求。Web3企業海外流出に危機感を示し、日本の競争力向上を訴える。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインが11万2000ドルを突破、トレーダーは経済指標の発表に備える]]></title>
+        <id>https://www.coindeskjapan.com/?p=312905</id>
+        <link href="https://www.coindeskjapan.com/312905/"/>
+        <updated>2025-09-10T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は9月8日に11万2000ドル前後で推移し、トレーダーがマクロ要因をポジション調整の指針として検討する中、狭いレンジ内での動きが続いた。  ...
+ビットコインが11万2000ドルを突破、トレーダーは経済指標の発表に備える first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[クラーケン、トークン化株式「xStocks」をヨーロッパに拡大]]></title>
         <id>https://www.coindeskjapan.com/?p=312882</id>
@@ -2303,26 +2324,6 @@ AIエージェントには信頼できるネットワークが必要 first appea
 イーサリアム熱、冷める──ETFから4日間で約740億円流出 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Helene Braun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン 11万ドルの攻防、強気トレンドは維持できるか？]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-breakout-fizzles-after-weak-us-jobs-data-raises-alarm</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-breakout-fizzles-after-weak-us-jobs-data-raises-alarm?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-09-05T22:11:46.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は金曜日の米雇用統計の発表前後に大きく乱高下した。果たしてBTC価格は強気トレンドを維持できているのか？]]></summary>
-        <author>
-            <name>Cointelegraph  Biraajmaan Tamuly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ストラテジー、S&P500編入されず　ビットコイン小幅反落]]></title>
-        <id>https://coinpost.jp/?p=649117</id>
-        <link href="https://coinpost.jp/?p=649117"/>
-        <updated>2025-09-05T21:55:10.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコイン保有最大手のストラテジーのS&P500指数組み入れが見送られ、証券取引アプリのロビンフッドが新規採用された。失望売りを受けビットコインが反落。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

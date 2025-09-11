@@ -620,16 +620,6 @@
           "wordCount": 1355,
           "title": "暗号資産の普及、インドと米国がリード：チェイナリシス",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/shutterstock_2415267825.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=312280",
-          "author": "T. Minamoto",
-          "description": "スポットのイーサリアム上場投資信託（ETF）は5日連続で資金流出を記録し、総額9億5200万ドル（約1400億円）を失った。 SoSoValueのデータによると ...\nスポットイーサリアムETF、5日間で約1400億円流出──景気後退の懸念が影響 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/312280/",
-          "publishedOn": "2025-09-07T11:09:55.000Z",
-          "wordCount": 1373,
-          "title": "スポットイーサリアムETF、5日間で約1400億円流出──景気後退の懸念が影響",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/shutterstock_2506434927.jpg"
         }
       ]
     },
@@ -1903,6 +1893,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/web3-ipos-gemini-oversubscribed-figure-debut",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "仮想通貨取引所は新規注文を停止し、調達額を4億2500万ドルに制限したと報じられている。投資家にはナスダックも含まれる。",
+          "link": "https://jp.cointelegraph.com/news/web3-ipos-gemini-oversubscribed-figure-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-11T23:09:46.000Z",
+          "wordCount": null,
+          "title": "Web3のIPOに熱視線｜ジェミナイは20倍の応募超過、フィギュアは24％急騰",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTNhOTMtM2E3ZS03NWVjLTlkOGQtY2E4NGJlOTMwMzBm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTNhOTMtM2E3ZS03NWVjLTlkOGQtY2E4NGJlOTMwMzBm.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-eyes-115k-cpi-data-traders-diverge-on-new-btc-price-dip",
+          "author": "Cointelegraph  William Suberg",
+          "description": "米国のCPIデータが市場の予想に一致し、ビットコインの価格動向が活発化している。しかし、短期的な価格目標については、トレーダーの間で意見が分かれている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-eyes-115k-cpi-data-traders-diverge-on-new-btc-price-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-11T22:58:42.000Z",
+          "wordCount": null,
+          "title": "CPIデータ受けビットコインが11.5万ドル視野に、トレーダー間で価格動向見解分かれる",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTM5NTUtZWM0ZS03MWM4LThlN2QtNGQ5Y2RhZmQxNTNh.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTM5NTUtZWM0ZS03MWM4LThlN2QtNGQ5Y2RhZmQxNTNh.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/blackrock-tokenized-etfs-bitcoin-success",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "ブラックロックはビットコインファンドの成功を受け、トークン化されたETFを検討していると報じられている。ウォール街の巨大金融機関はトークン化を金融界のゲームチェンジャーとして喧伝している。",
+          "link": "https://jp.cointelegraph.com/news/blackrock-tokenized-etfs-bitcoin-success?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-11T22:42:47.000Z",
+          "wordCount": null,
+          "title": "ブラックロック、ETFトークン化を検討中か　JPモルガンも業界のシフトを指摘",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmI4ZDItNzUzYi03ZDIyLTkxOTEtYzM2MjRhYWZhMjhk.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmI4ZDItNzUzYi03ZDIyLTkxOTEtYzM2MjRhYWZhMjhk.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-supercycle-ignition-hints-360k-new-btc-price-analysis",
           "author": "Cointelegraph  Nancy Lubale",

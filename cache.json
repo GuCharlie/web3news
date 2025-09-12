@@ -685,6 +685,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=650872",
+          "author": "菊谷ルイス",
+          "description": "予測市場プラットフォームのポリマーケットが90億ドル評価での資金調達を検討している。競合のカルシも50億ドル評価での調達を進めており、両社の成長が加速している。",
+          "link": "https://coinpost.jp/?p=650872",
+          "publishedOn": "2025-09-12T22:10:02.000Z",
+          "wordCount": 3175,
+          "title": "ポリマーケット、90億ドル評価で資金調達検討　チェーンリンク提携も",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/polymarket-valuation.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/polymarket-valuation.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=650870",
           "author": "菊谷ルイス",
           "description": "ワールド・リバティ・フィナンシャルがWLFIトークンの買い戻し・バーン提案を発表した。現在99.57%の賛成票を獲得し、流通量減少によるパフォーマンス改善が期待される。",
@@ -2148,6 +2163,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-consolidation-altcoin-treasury-growth-2025",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "資産運用会社ギャラクシーデジタルのマイク・ノボグラッツCEOによれば、ビットコインは横ばいで推移し続けているが、年末にかけて上昇の可能性があるという。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-consolidation-altcoin-treasury-growth-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-12T22:14:01.000Z",
+          "wordCount": null,
+          "title": "ビットコインは「年末にかけて再び大幅上昇の可能性」　ギャラクシーデジタルのノボグラッツCEO",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODNmOTctODhlOC03MWE5LWIzZTktNzE2YmQ5MmZjODgz.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODNmOTctODhlOC03MWE5LWIzZTktNzE2YmQ5MmZjODgz.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/stablecoins-hit-300b-on-coinmarketcap-are-we-there-yet",
           "author": "Cointelegraph  Helen Partz",

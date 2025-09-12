@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-12T22:13:15.222Z</updated>
+    <updated>2025-09-12T22:37:07.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは「年末にかけて再び大幅上昇の可能性」　ギャラクシーデジタルのノボグラッツCEO]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-consolidation-altcoin-treasury-growth-2025</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-consolidation-altcoin-treasury-growth-2025?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-12T22:14:01.000Z</updated>
+        <summary type="html"><![CDATA[資産運用会社ギャラクシーデジタルのマイク・ノボグラッツCEOによれば、ビットコインは横ばいで推移し続けているが、年末にかけて上昇の可能性があるという。]]></summary>
+        <author>
+            <name>Cointelegraph  Stephen Katte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ポリマーケット、90億ドル評価で資金調達検討　チェーンリンク提携も]]></title>
+        <id>https://coinpost.jp/?p=650872</id>
+        <link href="https://coinpost.jp/?p=650872"/>
+        <updated>2025-09-12T22:10:02.000Z</updated>
+        <summary type="html"><![CDATA[予測市場プラットフォームのポリマーケットが90億ドル評価での資金調達を検討している。競合のカルシも50億ドル評価での調達を進めており、両社の成長が加速している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ステーブルコイン市場　時価総額3000億ドルに接近　算出方法の違いでデータにばらつき]]></title>
         <id>https://jp.cointelegraph.com/news/stablecoins-hit-300b-on-coinmarketcap-are-we-there-yet</id>

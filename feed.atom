@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-11T23:35:12.043Z</updated>
+    <updated>2025-09-12T01:08:14.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DigiFT・チェーンリンク・UBS、香港でトークン化ファンドの自動運用を開始]]></title>
+        <id>https://coinpost.jp/?p=650618</id>
+        <link href="https://coinpost.jp/?p=650618"/>
+        <updated>2025-09-12T00:35:25.000Z</updated>
+        <summary type="html"><![CDATA[香港サイバーポートの支援制度でDigiFT、チェーンリンク、UBSが共同プロジェクト承認。トークン化ファンドの配信・決済・ライフサイクル管理を自動化へ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chainlink Data StreamsがSeiで稼働、米商務省データのオンチェーン化も発表]]></title>
+        <id>https://coinpost.jp/?p=650377</id>
+        <link href="https://coinpost.jp/?p=650377"/>
+        <updated>2025-09-12T00:00:28.000Z</updated>
+        <summary type="html"><![CDATA[ChainlinkのData StreamsがSeiで本格稼働。市場価格データを1秒未満で更新・提供。米商務省との提携で経済指標のオンチェーン化も発表され、機関投資家向けインフラが大幅強化された。]]></summary>
+        <author>
+            <name>Ritsuki.Kumazawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JPモルガン分析、ストラテジーのS&P500編入見送りで「仮想通貨トレジャリー企業に打撃」]]></title>
+        <id>https://coinpost.jp/?p=650612</id>
+        <link href="https://coinpost.jp/?p=650612"/>
+        <updated>2025-09-11T23:35:48.000Z</updated>
+        <summary type="html"><![CDATA[JPモルガンのアナリストは、ストラテジーのS&P500指数編入見送りは仮想通貨財務戦略企業全体への打撃と分析。他の指数提供会社の方針変更リスクも指摘。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3のIPOに熱視線｜ジェミナイは20倍の応募超過、フィギュアは24％急騰]]></title>
         <id>https://jp.cointelegraph.com/news/web3-ipos-gemini-oversubscribed-figure-debut</id>
@@ -37,6 +67,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NYSE上場のクリーンコア、187億円相当ドージコインを取得]]></title>
+        <id>https://coinpost.jp/?p=650604</id>
+        <link href="https://coinpost.jp/?p=650604"/>
+        <updated>2025-09-11T22:35:42.000Z</updated>
+        <summary type="html"><![CDATA[クリーンコア・ソリューションズがドージコイン財務戦略で5億トークン超を取得。ドージコイン財団と連携し、流通量5%獲得を長期目標に設定。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ビットコインの「スーパーサイクル点火」、36万ドルを示唆：新たな価格分析]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-supercycle-ignition-hints-360k-new-btc-price-analysis</id>
         <link href="https://jp.cointelegraph.com/news/bitcoin-supercycle-ignition-hints-360k-new-btc-price-analysis?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
@@ -54,6 +94,16 @@
         <summary type="html"><![CDATA[予測市場はネイティブマーケッツを圧倒的に支持する状況となったが、投票を前に公平性を巡る疑問は残っている。]]></summary>
         <author>
             <name>Cointelegraph  Nate Kostar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アニモカ・ブランズ・ジャパン、上場企業の仮想通貨戦略の支援事業を本格始動]]></title>
+        <id>https://coinpost.jp/?p=650597</id>
+        <link href="https://coinpost.jp/?p=650597"/>
+        <updated>2025-09-11T22:10:27.000Z</updated>
+        <summary type="html"><![CDATA[Animoca Brands Japanは、上場企業への仮想通貨トレジャリー戦略支援を本格開始すると発表。親会社を含めた知見とネットワークを活かし、企業価値向上を多角的にサポートするとしている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
         </author>
     </entry>
     <entry>

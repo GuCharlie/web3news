@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-12T22:37:07.316Z</updated>
+    <updated>2025-09-12T23:13:11.492Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テザー　新たなドル連動ステーブルコイン「USAT」を発表　米国規制に対応　元ホワイトハウス顧問がCEOに就任]]></title>
+        <id>https://jp.cointelegraph.com/news/bo-hines-tether-usa-ceo-stablecoin</id>
+        <link href="https://jp.cointelegraph.com/news/bo-hines-tether-usa-ceo-stablecoin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-12T23:03:15.000Z</updated>
+        <summary type="html"><![CDATA[テザーは新たにドルに裏付けられたステーブルコインを発表し、ホワイトハウスの元仮想通貨アドバイザーのボー・ハインズ氏がテザーUSATのCEOに就任すると明らかにした。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインは「年末にかけて再び大幅上昇の可能性」　ギャラクシーデジタルのノボグラッツCEO]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-consolidation-altcoin-treasury-growth-2025</id>
@@ -2831,26 +2841,6 @@ NEXCO中日本、NFTトレカ活用で高速道路の渋滞緩和へ first appea
         <link href="https://www.neweconomy.jp/posts/494270"/>
         <updated>2025-09-08T11:14:48.000Z</updated>
         <summary type="html"><![CDATA[マイケル・セイラーが総資産73億ドルでトップ500入り ブルームバーグが9月8日に公開した「ブルームバーグ・ビリオネア・インデックス（Bloomberg Billionaires Index）」の世界長者番付に、米ストラ […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カイアとタイワンモバイルがMoU、台湾のWeb3市場を共同開拓へ]]></title>
-        <id>https://www.neweconomy.jp/?p=494257</id>
-        <link href="https://www.neweconomy.jp/posts/494257"/>
-        <updated>2025-09-08T11:01:53.000Z</updated>
-        <summary type="html"><![CDATA[カイアとタイワンモバイルがMOU締結 カイアDLT財団（KAIA DLT Foundation）が、台湾の大手通信事業者タイワンモバイル（Taiwan Mobile）との覚書（MOU）締結を9月8日に発表した。 このMo […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バックパックEUが始動、規制準拠の無期限先物を提供開始]]></title>
-        <id>https://www.neweconomy.jp/?p=494240</id>
-        <link href="https://www.neweconomy.jp/posts/494240"/>
-        <updated>2025-09-08T10:58:38.000Z</updated>
-        <summary type="html"><![CDATA[バックパックEUが欧州で無期限先物取引を開始 海外暗号資産（仮想通貨）取引のバックパック・エクスチェンジ（Backpack Exchange）が、欧州連合（EU）でのパーペチュアル（無期限）先物取引サービス提供開始を9月 […]]]></summary>
         <author>
             <name>NewEconomy</name>
         </author>

@@ -2135,26 +2135,6 @@
           "wordCount": 747,
           "title": "ストラテジー創設者マイケル・セイラー、ブルームバーグ長者番付に初のランクイン",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/08201207/b7e706aaa2a2614237daad3b6880ee95.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=494257",
-          "author": "NewEconomy",
-          "description": "カイアとタイワンモバイルがMOU締結 カイアDLT財団（KAIA DLT Foundation）が、台湾の大手通信事業者タイワンモバイル（Taiwan Mobile）との覚書（MOU）締結を9月8日に発表した。 このMo […]",
-          "link": "https://www.neweconomy.jp/posts/494257",
-          "publishedOn": "2025-09-08T11:01:53.000Z",
-          "wordCount": 782,
-          "title": "カイアとタイワンモバイルがMoU、台湾のWeb3市場を共同開拓へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/08200116/2ff231ca13c220270f515175c8ac652e.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=494240",
-          "author": "NewEconomy",
-          "description": "バックパックEUが欧州で無期限先物取引を開始 海外暗号資産（仮想通貨）取引のバックパック・エクスチェンジ（Backpack Exchange）が、欧州連合（EU）でのパーペチュアル（無期限）先物取引サービス提供開始を9月 […]",
-          "link": "https://www.neweconomy.jp/posts/494240",
-          "publishedOn": "2025-09-08T10:58:38.000Z",
-          "wordCount": 792,
-          "title": "バックパックEUが始動、規制準拠の無期限先物を提供開始",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/08195023/0e3ea71709e9190e7889f30b45a6b3e7.jpg"
         }
       ]
     },
@@ -2163,6 +2143,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bo-hines-tether-usa-ceo-stablecoin",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "テザーは新たにドルに裏付けられたステーブルコインを発表し、ホワイトハウスの元仮想通貨アドバイザーのボー・ハインズ氏がテザーUSATのCEOに就任すると明らかにした。",
+          "link": "https://jp.cointelegraph.com/news/bo-hines-tether-usa-ceo-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-12T23:03:15.000Z",
+          "wordCount": null,
+          "title": "テザー　新たなドル連動ステーブルコイン「USAT」を発表　米国規制に対応　元ホワイトハウス顧問がCEOに就任",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJiYTQtNmZiYS03MDFlLWI5ZTMtMjM2MzI2YjM5MTU1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJiYTQtNmZiYS03MDFlLWI5ZTMtMjM2MzI2YjM5MTU1.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-consolidation-altcoin-treasury-growth-2025",
           "author": "Cointelegraph  Stephen Katte",

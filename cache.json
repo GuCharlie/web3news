@@ -590,7 +590,7 @@
       "articles": []
     },
     {
-      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "NEO(NEO)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -1828,6 +1828,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/dogecoin-targets-60-cents-doge-price-gains-40-percent-one-week",
+          "author": "Cointelegraph  Yashu Gola",
+          "description": "ドージコイン（DOGE）の価格は過去7日間で約40％上昇し、同期間に約8％の上昇にとどまった仮想通貨市場全体を大きく上回った。",
+          "link": "https://jp.cointelegraph.com/news/dogecoin-targets-60-cents-doge-price-gains-40-percent-one-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-13T17:58:53.000Z",
+          "wordCount": null,
+          "title": "ドージコインが7日間で40％急騰　テクニカル分析はさらなる上昇を示唆",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQyNTUtZDFkMS03OGM3LWFiYTQtZGFiMDRlNzU5YjE2.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQyNTUtZDFkMS03OGM3LWFiYTQtZGFiMDRlNzU5YjE2.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/us-government-strategic-bitcoin-reserve-chances-high-alex-thorn",
           "author": "Cointelegraph  Ciaran Lyons",

@@ -580,7 +580,7 @@
       "articles": []
     },
     {
-      "title": "NEO(NEO)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -1809,6 +1809,21 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-all-time-highs-in-2-3-weeks-price-fills-117k-futures-gap",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコイン（BTC）は14日、重要な価格水準に到達し、複数のアナリストが新たな史上最高値（ATH）の可能性を示唆した。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-all-time-highs-in-2-3-weeks-price-fills-117k-futures-gap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-13T18:56:31.000Z",
+          "wordCount": null,
+          "title": "ビットコインはCMEギャップを解消　史上最高値更新は「2〜3週間以内」との分析も",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2QwYzgtMTFmZS03NjEzLWIzNzItODJmOWJjMmY5Yjc3.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2QwYzgtMTFmZS03NjEzLWIzNzItODJmOWJjMmY5Yjc3.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/dogecoin-targets-60-cents-doge-price-gains-40-percent-one-week",
           "author": "Cointelegraph  Yashu Gola",
           "description": "ドージコイン（DOGE）の価格は過去7日間で約40％上昇し、同期間に約8％の上昇にとどまった仮想通貨市場全体を大きく上回った。",
@@ -2979,36 +2994,6 @@
           "wordCount": 575,
           "title": "メタプラネット株、下落止まらず｜600円割れが目前に",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/shutterstock_2179447083.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=143194",
-          "author": "よきょい",
-          "description": "Global Macro Investor社のマクロ調査責任者であるジュリアン・ビッテル（Julien Bittel）氏は暗号資産市場の強気相場はまだ初期段階にあるとの分析を示しました。 I’ve been seeing […]\n投稿 仮想通貨バブルはまだ序章？専門家が示す「マクロの春」 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-is-the-cryptocurrency-bubble-just-beginning-experts-point-to-a-macro-spring/",
-          "publishedOn": "2025-09-09T06:51:03.000Z",
-          "wordCount": 641,
-          "title": "仮想通貨バブルはまだ序章？専門家が示す「マクロの春」",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/shutterstock_2527574775.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=143193",
-          "author": "よきょい",
-          "description": "米国のストラテジー社と日本の株式会社メタプラネットが、先週新たに採掘されたビットコイン（BTC）の約3分の2を取得したことが明らかになりました。上場企業2社による大規模な購入はビットコインの需給バランスをさらに引き締める […]\n投稿 メタプラネットとストラテジー、新規BTCの2/3を買占め は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-metaplanet-and-strategy-buy-up-two-thirds-of-new-btc/",
-          "publishedOn": "2025-09-09T06:45:47.000Z",
-          "wordCount": 633,
-          "title": "メタプラネットとストラテジー、新規BTCの2/3を買占め",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/shutterstock_2673454331.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=143192",
-          "author": "よきょい",
-          "description": "米国証券取引委員会（SEC）のヘスター・パース（Hester Peirce）委員は、中央集権的なシーケンサーを運用するレイヤー2ブロックチェーンが証券取引所としての登録義務を負う可能性があると警告しました。 NEW GW […]\n投稿 レイヤー2に激震、SECパース委員が「登録義務」に言及 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-layer-2-shock-sec-commissioner-peirce-discusses-registration-requirements/",
-          "publishedOn": "2025-09-09T06:40:29.000Z",
-          "wordCount": 632,
-          "title": "レイヤー2に激震、SECパース委員が「登録義務」に言及",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/shutterstock_2426097137-1.jpg"
         }
       ]
     }

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-13T11:35:45.826Z</updated>
+    <updated>2025-09-13T12:27:21.661Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[誰が最もビットコインを持っているのか？個人や企業の保有状況]]></title>
+        <id>https://crypto-times.jp/?p=143496</id>
+        <link href="https://crypto-times.jp/column-btc-hold-data/"/>
+        <updated>2025-09-13T12:11:45.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインの保有状況について最新のデータから個人投資家、企業、政府機関まで幅広い保有者の実態が明らかとなっています。 創設者とされるサトシ・ナカモト（個人と仮定）が依然として最大の個人保有者である一方、機関投資家や各国 […]
+投稿 誰が最もビットコインを持っているのか？個人や企業の保有状況 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[440億円以上を盗んだハッカー、28億円分のイーサリアムを購入か]]></title>
         <id>https://crypto-times.jp/?p=143492</id>
@@ -2775,16 +2786,6 @@ NEXCO中日本、NFTトレカ活用で高速道路の渋滞緩和へ first appea
         <summary type="html"><![CDATA[Canary Staked SEI ETFのパブコメ開始 米証券取引委員会（SEC）が、米シーボーBZX取引所（Cboe BZX exchange）提出の「Canary Staked SEI ETF」の株式を上場・取引さ […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カザフスタン大統領　仮想通貨準備基金設立を提案　「クリプトシティ」構想も進展]]></title>
-        <id>https://jp.cointelegraph.com/news/kazakhstan-president-crypto-reserve-plans</id>
-        <link href="https://jp.cointelegraph.com/news/kazakhstan-president-crypto-reserve-plans?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-09-09T00:22:28.000Z</updated>
-        <summary type="html"><![CDATA[カザフスタンのトカエフ大統領は、人工知能（AI）とデジタル資産に関する国家戦略を打ち出し、その一環として戦略的な仮想通貨準備基金の設立を提案した。]]></summary>
-        <author>
-            <name>Cointelegraph  Turner Wright</name>
         </author>
     </entry>
 </feed>

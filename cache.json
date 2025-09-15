@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=314188",
+          "author": "林 理南",
+          "description": "決済会社ペイパル（PayPal）は15日のプレスリリースで、自社の支払いフローに暗号資産（仮想通貨）送金を追加することで、ピアツーピア（P2P）サービスを拡大す ...\nペイパル、P2P決済に暗号資産を追加──ビットコインやイーサリアムなどの直接送金が可能に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/314188/",
+          "publishedOn": "2025-09-15T23:00:00.000Z",
+          "wordCount": 1344,
+          "title": "ペイパル、P2P決済に暗号資産を追加──ビットコインやイーサリアムなどの直接送金が可能に",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/f8b3037764125a46ab06b577815db521cfab14f5-1920x1080-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=314189",
           "author": "Helene Braun",
           "description": "ミームコインを中心とする初のETF（上場投資信託）が、度重なる遅延と多くの憶測を経て、今週市場に登場するかもしれない。 正式名称をレックス・シェアーズ-オスプレ ...\nドージコイン、今週上場予定のETFでウォール街に一歩近づく first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -330,16 +340,6 @@
           "wordCount": 1327,
           "title": "香港、銀行の暗号資産保有規制を緩和する方針：報道",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/d9b5e8fe0adea15f0d4fe506268671ec5d690a12-1919x1080-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=313451",
-          "author": "James Van Straten",
-          "description": "ビットコイン（BTC）のボラティリティ低下は、アナリストのCheckmate氏が「Choppiness Index（不安定指数）」と呼ぶ、横ばいの価格安定度を測 ...\nビットコインの不安定指数は上昇を続ける──CPI発表でブレイクアウトの可能性も first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/313451/",
-          "publishedOn": "2025-09-11T10:55:00.000Z",
-          "wordCount": 1356,
-          "title": "ビットコインの不安定指数は上昇を続ける──CPI発表でブレイクアウトの可能性も",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/shutterstock_1020592798.jpg"
         }
       ]
     },
@@ -1054,6 +1054,36 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/paypal-crypto-p2p-links-stablecoin-transfers",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "決済大手のペイパルは、「ペイパル・リンク」と暗号資産の直接送金を展開し、ユーザーが友人や家族、外部ウォレットにビットコイン、イーサ、PYUSDを送金できるようにする。",
+          "link": "https://jp.cointelegraph.com/news/paypal-crypto-p2p-links-stablecoin-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-15T23:01:00.000Z",
+          "wordCount": null,
+          "title": "ペイパル、P2P決済推進でBTC、ETH、PYSDを統合へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODk5OWQtOTkwOC03MGE5LWIzOTktYTFlNDZlMDIzNTIz.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODk5OWQtOTkwOC03MGE5LWIzOTktYTFlNDZlMDIzNTIz.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/digital-asset-treasuries-mnav-collapse-standard-chartered",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "スタンダードチャータードは、ビットコイン、イーサリアム、ソラナを保有する財務企業が評価額の圧迫に直面する中、そのリスクについて警告している。",
+          "link": "https://jp.cointelegraph.com/news/digital-asset-treasuries-mnav-collapse-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-15T22:51:10.000Z",
+          "wordCount": null,
+          "title": "デジタル資産財務のmNAVが暴落、強者のみが生き残る＝ スタンダードチャータード",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2VkYzYtOGM5NC03NDU4LWFjMzItNmY0OTdlMTExMDBi.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2VkYzYtOGM5NC03NDU4LWFjMzItNmY0OTdlMTExMDBi.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/price-predictions-9-15-spx-dxy-btc-eth-xrp-sol-bnb-doge-ada-hype",
           "author": "Cointelegraph  Rakesh Upadhyay",
           "description": "ビットコインは117,500ドルで強固なレジスタンスに直面しているが、価格が移動平均線を上回っている限り、124,474ドルへの上昇の可能性は依然として高い。",
@@ -1435,6 +1465,36 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=143517",
+          "author": "よきょい",
+          "description": "フランスが、欧州連合（EU）の他国でライセンスを取得した一部の暗号資産企業に対し、国内での事業展開を阻止する可能性を示しました。EUの新たな暗号資産市場規制法（MiCA）の下で一部の国における監督基準が緩いことへの懸念が […]\n投稿 EU暗号資産市場に激震、フランスが一部企業を排除か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-eu-cryptocurrency-market-shakes-up-as-france-bans-some-companies/",
+          "publishedOn": "2025-09-15T23:09:44.000Z",
+          "wordCount": 574,
+          "title": "EU暗号資産市場に激震、フランスが一部企業を排除か",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/shutterstock_1110008288.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=143516",
+          "author": "よきょい",
+          "description": "ベンチャーキャピタルのDragonflyでマネージングパートナーを務めるハシーブ・クレシ（Haseeb Qureshi）氏が、現在のエアドロップに代わる新しいトークン配布モデルを提案しました。 この新モデルはユーザーの過 […]\n投稿 「エアドロ稼ぎ」は終焉か？新トークン配布モデルとは は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-is-this-the-end-of-airdrop-earning-what-is-the-new-token-distribution-model/",
+          "publishedOn": "2025-09-15T23:05:46.000Z",
+          "wordCount": 624,
+          "title": "「エアドロ稼ぎ」は終焉か？新トークン配布モデルとは",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/shutterstock_1406288363.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=143515",
+          "author": "よきょい",
+          "description": "米連邦公開市場委員会（FOMC）を9月17日に控え、暗号資産市場が重要な局面を迎えています。ビットコイン（BTC）の価格は会合で示される米連邦準備制度理事会（FRB）の金融政策に関するメッセージ次第で大きく変動する可能性 […]\n投稿 ビットコイン、FOMC後の下落に警戒｜鍵は10.7万ドル は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitcoin-beware-of-a-post-fomc-drop-107000-is-key/",
+          "publishedOn": "2025-09-15T23:01:11.000Z",
+          "wordCount": 599,
+          "title": "ビットコイン、FOMC後の下落に警戒｜鍵は10.7万ドル",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/shutterstock_775084753.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=143507",
           "author": "Crypto Times 編集部",

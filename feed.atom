@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-15T17:13:12.317Z</updated>
+    <updated>2025-09-15T17:37:39.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[エヌビディア株価が3%下落──中国が独占禁止法違反と発表]]></title>
+        <id>https://www.coindeskjapan.com/?p=314162</id>
+        <link href="https://www.coindeskjapan.com/314162/"/>
+        <updated>2025-09-15T17:31:31.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）価格が本記事執筆時点で過去2時間下落している理由について疑問を持つ人もいるだろう。その原因はウォール街のプレマーケット取引である可能性があ ...
+エヌビディア株価が3%下落──中国が独占禁止法違反と発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、保有量別の全グループで売り超過に戻る──市場は保ち合いが続く]]></title>
         <id>https://www.coindeskjapan.com/?p=314138</id>
@@ -1511,17 +1522,6 @@ NFT市場の停滞を受け、クリスティーズがデジタルアート部�
         <summary type="html"><![CDATA[米国初となるドージコインETFが木曜にもローンチされる見込みだが、仮想通貨のコミュニティ主導の正統性を示す画期的な進歩と捉える声と、新しい装いをしただけの投機だと批判する声に分かれている。]]></summary>
         <author>
             <name>Cointelegraph  Yohan Yun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[会社資産の8割をステーブルコイン運用、「9％で回している」と明かす：パシフィックメタ]]></title>
-        <id>https://www.coindeskjapan.com/?p=313156</id>
-        <link href="https://www.coindeskjapan.com/313156/"/>
-        <updated>2025-09-11T05:25:54.000Z</updated>
-        <summary type="html"><![CDATA[10日、都内でステーブルコイン関連のイベントを開催したWeb3支援のPacific Meta（パシフィックメタ）。同社は壇上で保有する資産、いわゆるトレジャリー ...
-会社資産の8割をステーブルコイン運用、「9％で回している」と明かす：パシフィックメタ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>増田 隆幸</name>
         </author>
     </entry>
 </feed>

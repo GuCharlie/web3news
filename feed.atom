@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-16T09:39:42.631Z</updated>
+    <updated>2025-09-16T10:16:05.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pudgy Penguins CEO、ミームコイン関連イベントでPENGUの日本戦略発表]]></title>
+        <id>https://coinpost.jp/?p=651368</id>
+        <link href="https://coinpost.jp/?p=651368"/>
+        <updated>2025-09-16T10:12:23.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産取引所MEXCのベンチャー部門であるMEXCVenturesは7日、「FromDogetoPengu:TheEvolutionofMemes」を開催した。人気NFTプロジェクトPudgyPenguinsのルカ・ネッツ最高経営責任者（...]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインベースCPO、ステーブルコインが預金を脅かすとの銀行の主張に反論「決済手数料収入を守りたいだけ」]]></title>
+        <id>https://www.coindeskjapan.com/?p=314365</id>
+        <link href="https://www.coindeskjapan.com/314365/"/>
+        <updated>2025-09-16T10:10:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカの銀行業界の主張とは反対に、ステーブルコインは金融システムにリスクをもたらさない。暗号資産（仮想通貨）取引所コインベース（コインベース）の最高政策責任者 ...
+コインベースCPO、ステーブルコインが預金を脅かすとの銀行の主張に反論「決済手数料収入を守りたいだけ」 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Siamak Masnavi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ストラテジー、525BTCを購入──保有量は63万8985BTCに]]></title>
         <id>https://www.coindeskjapan.com/?p=314350</id>
@@ -1819,26 +1840,6 @@ NFT市場の停滞を受け、クリスティーズがデジタルアート部�
         <summary type="html"><![CDATA[予測市場はネイティブマーケッツを圧倒的に支持する状況となったが、投票を前に公平性を巡る疑問は残っている。]]></summary>
         <author>
             <name>Cointelegraph  Nate Kostar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニモカ・ブランズ・ジャパン、上場企業の仮想通貨戦略の支援事業を本格始動]]></title>
-        <id>https://coinpost.jp/?p=650597</id>
-        <link href="https://coinpost.jp/?p=650597"/>
-        <updated>2025-09-11T22:10:27.000Z</updated>
-        <summary type="html"><![CDATA[Animoca Brands Japanは、上場企業への仮想通貨トレジャリー戦略支援を本格開始すると発表。親会社を含めた知見とネットワークを活かし、企業価値向上を多角的にサポートするとしている。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米上場のセーフティー・ショット、BONK特化子会社設立で90億円超のトレジャリー構築]]></title>
-        <id>https://coinpost.jp/?p=650596</id>
-        <link href="https://coinpost.jp/?p=650596"/>
-        <updated>2025-09-11T21:55:40.000Z</updated>
-        <summary type="html"><![CDATA[セーフティー・ショットがBONKホールディングス設立を発表。500万ドル追加購入でBONK財務を6300万ドル超に拡大、総流通量の2.5%超を保有。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

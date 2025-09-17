@@ -410,26 +410,6 @@
           "wordCount": 1376,
           "title": "ジェミナイ株、IPO後取引開始早々で45％急騰",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/shutterstock_2195406051.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=313700",
-          "author": "林 理南",
-          "description": "過去のデータに照らせば、ビットコイン（BTC）は1日に約10万7000ドル（約1552万円、1ドル145円換算）で2025年9月の月間最安値を記録した可能性が高 ...\nビットコインの歴史的な9月の安値はすでに織り込まれている可能性 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/313700/",
-          "publishedOn": "2025-09-12T16:09:49.000Z",
-          "wordCount": 1319,
-          "title": "ビットコインの歴史的な9月の安値はすでに織り込まれている可能性",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/N１a9df8c44228ea94c45eaf4620ab70b3f590e1010-2650x1611-1.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=313688",
-          "author": "林 理南",
-          "description": "トレーダーらはレバレッジを利用してビットコイン（BTC）を史上最高値に押し戻そうとしている。これによって、価格が反転し始めた場合に下方向へのデリバティブ取引の巻 ...\n9桁のビットコイン強気ポジションが積み上がる──清算リスクが高まる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/313688/",
-          "publishedOn": "2025-09-12T15:36:50.000Z",
-          "wordCount": 1348,
-          "title": "9桁のビットコイン強気ポジションが積み上がる──清算リスクが高まる",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/3d6cbc368f271c431397dfd30836e0ea4ab5114c-1786x1334-1.jpg"
         }
       ]
     },
@@ -444,6 +424,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=651633",
+          "author": "幸田直子",
+          "description": "ビットコイン・スタンダード著者のサファディーン・アモス氏が、アルゼンチンのミレイ政権の経済政策を「国家規模のポンジスキーム」と痛烈に批判。キャリートレードによる金融システムの崩壊リスクと、自由主義政策の矛盾を解説した。",
+          "link": "https://coinpost.jp/?p=651633",
+          "publishedOn": "2025-09-17T06:15:45.000Z",
+          "wordCount": 3199,
+          "title": "ビットコイン・スタンダード著者、アルゼンチン・ミレイ政権の経済政策を「ポンジスキーム」と指摘",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/07/argentina-1-satoshi.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/07/argentina-1-satoshi.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=651610",
+          "author": "菊谷ルイス",
+          "description": "11年以上休眠していたビットコインクジラが17日朝、1000BTCを4つの新しいアドレスに移動したことがオンチェーンデータで判明した。",
+          "link": "https://coinpost.jp/?p=651610",
+          "publishedOn": "2025-09-17T04:30:53.000Z",
+          "wordCount": 3176,
+          "title": "11年間休眠のビットコインクジラが1000BTC移動、170億円相当",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/bitcoin-whale-making-more-purchase-.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/bitcoin-whale-making-more-purchase-.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=651577",
+          "author": "菊谷ルイス",
+          "description": "米仮想通貨取引所大手コインベースが銀行業界のステーブルコイン規制変更要求に対し、預金流出は根拠のない神話だとする反論文書を発表した。",
+          "link": "https://coinpost.jp/?p=651577",
+          "publishedOn": "2025-09-17T02:40:04.000Z",
+          "wordCount": 3166,
+          "title": "コインベース、銀行の「預金流出」懸念を否定　ステーブルコイン規制めぐり反論",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/Stablecoin_1201.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/Stablecoin_1201.png"
+        },
         {
           "id": "https://coinpost.jp/?p=651552",
           "author": "K.Kobayashi",
@@ -1022,6 +1047,36 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=497298",
+          "author": "NewEconomy",
+          "description": "アメックスが旅行者向け新サービスをNFTで開始 米アメリカン・エキスプレス（American Express）が、旅行履歴をNFTとして記録する新サービス「アメックス・パスポート（Amex Passport）」の提供開始 […]",
+          "link": "https://www.neweconomy.jp/posts/497298",
+          "publishedOn": "2025-09-17T04:35:27.000Z",
+          "wordCount": 754,
+          "title": "アメックスがNFT旅行スタンプ「Amex Passport」提供開始、イーサL2「Base」とFireblocks採用で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/17133521/da0d4849cfc0ab1e9ed9c2ac3c33c370.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=497286",
+          "author": "NewEconomy",
+          "description": "ベースが独自トークン発行を検討 米大手暗号資産（仮想通貨）取引所コインベース（Coinbase）開発のイーサリアム（Ethereum）レイヤー2「ベース（Base）」のネットワークトークン発行が検討開始された。ベース公式 […]",
+          "link": "https://www.neweconomy.jp/posts/497286",
+          "publishedOn": "2025-09-17T03:54:41.000Z",
+          "wordCount": 800,
+          "title": "コインベース開発のL2「Base」、ネットワークトークン発行の検討開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/17125436/405b174f729e5ab4b1eeb7c55735eadb.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=497272",
+          "author": "NewEconomy",
+          "description": "メタマスクの独自ステーブルコインがローンチ Web3ウォレット「メタマスク（MetaMask）」の独自ステーブルコイン「メタマスクUSD（mUSD）」がローンチした。メタマスクのブログおよび公式Xより9月16日に発表され […]",
+          "link": "https://www.neweconomy.jp/posts/497272",
+          "publishedOn": "2025-09-17T02:57:41.000Z",
+          "wordCount": 822,
+          "title": "メタマスク、独自ステーブルコイン「mUSD」ローンチ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/17115737/7490b2cc16d7b65c9d6cf9d15c1c5ada.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=497258",
           "author": "HitomotoToshikazu",
           "description": "LSEGがプライベートファンドの取引実施 ロンドン証券取引所グループ（LSEG）が、ブロックチェーン活用の「DMI（デジタル・マーケッツ・インフラストラクチャー）」を立ち上げ、プライベートファンドを対象とした初回取引を実 […]",
@@ -1198,6 +1253,81 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/coinbase-stablecoins-myth-of-deposit-erosion",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "コインベースはステーブルコインが米国の銀行システムを脅かすとの見方に反論し、ステーブルコインが預金流出を招くとの懸念は「神話だ」と主張した。",
+          "link": "https://jp.cointelegraph.com/news/coinbase-stablecoins-myth-of-deposit-erosion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-17T06:17:44.000Z",
+          "wordCount": null,
+          "title": "仮想通貨取引所コインベース、ステーブルコインが銀行業界を脅かすとの主張に反論",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWIyODEtODVlNy03NWFmLTlhMjctZDg2ZjlkMWYxNjRh.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWIyODEtODVlNy03NWFmLTlhMjctZDg2ZjlkMWYxNjRh.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-etfs-launching-inflows-skeptical-altcoin-season-bitwise",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "米証券取引委員会（SEC）が仮想通貨の上場投資商品（ETP）の承認プロセスを簡素化することで、新たな商品が次々と登場する可能性がある。しかし、それが必ずしも成功につながるわけではないと、仮想通貨業界幹部が警告している。",
+          "link": "https://jp.cointelegraph.com/news/crypto-etfs-launching-inflows-skeptical-altcoin-season-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-17T05:24:19.000Z",
+          "wordCount": null,
+          "title": "SECのETF承認プロセス見直し　仮想通貨市場に追い風となるか？ ビットワイズ幹部が分析",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGYyZGMtMjhhMC03MmEwLTk5NmItMjA0YzVjOWIyNmY2.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGYyZGMtMjhhMC03MmEwLTk5NmItMjA0YzVjOWIyNmY2.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/ethereum-ai-lead-ecosystem-demand-driving-ai-push-interview",
+          "author": "Cointelegraph  Christopher Tepedino",
+          "description": "イーサリアム財団のAIチームのリーダーを務めるダビデ・クラピス氏によれば、同財団による人工知能（AI）分野への新たな取り組みは、当初のロードマップには含まれていなかったが、エコシステム内のプロジェクトからの需要に応じて立ち上がったものだ。",
+          "link": "https://jp.cointelegraph.com/news/ethereum-ai-lead-ecosystem-demand-driving-ai-push-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-17T04:40:27.000Z",
+          "wordCount": null,
+          "title": "イーサリアム財団　エコシステムからの需要がAI推進の原動力に【AIチーム責任者に聞く】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTU0NWUtYmE0OC03NmUzLThkNzQtNDNlYzViNmU3OGI1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTU0NWUtYmE0OC03NmUzLThkNzQtNDNlYzViNmU3OGI1.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/binance-doj-compliance-monitor-settlement",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "バイナンスが米司法省（DOJ）と協議し、2023年の和解合意で課された監視措置の撤廃を求めていると報じられた。この変更が承認されれば、バイナンス以外の仮想通貨取引所に対する規制・コンプライアンス上の圧力も緩和される可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/binance-doj-compliance-monitor-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-17T04:06:17.000Z",
+          "wordCount": null,
+          "title": "バイナンス、米司法省と監視解除を協議か　2023年和解条件の緩和で規制圧力軽減の可能性",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTU0MzEtYzQxNy03ZTNjLWFhYTUtMzFkNjM2NzFjMzE3.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTU0MzEtYzQxNy03ZTNjLWFhYTUtMzFkNjM2NzFjMzE3.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/uk-strengthen-ties-us-crypto-matters-financial-times",
+          "author": "Cointelegraph  Brayden Lindrea",
+          "description": "英国と米国が仮想通貨に関する協力を深める準備を進めている。英国はイノベーション促進のため、トランプ政権下での親クリプト政策に追随しようとしているようだ。",
+          "link": "https://jp.cointelegraph.com/news/uk-strengthen-ties-us-crypto-matters-financial-times?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-17T04:00:00.000Z",
+          "wordCount": null,
+          "title": "英国と米国、仮想通貨分野での協力強化へ　トランプ政権の親クリプト路線を追随か＝報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTU0OWQtNjU0NC03MTBjLTg4NmQtMzVlOTQ0ZTU2YjQ4.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTU0OWQtNjU0NC03MTBjLTg4NmQtMzVlOTQ0ZTU2YjQ4.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-analyst-predicts-35percent-rally-after-9th-bullish-rsi-signal-fires",
           "author": "Cointelegraph  Biraajmaan Tamuly",
@@ -1625,6 +1755,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=143676",
+          "author": "Crypto Times 編集部",
+          "description": "Yuga Labsが手がけるメタバースプロジェクト「Otherside」において、新しいゲームモード「Otherside Outbreak」の3週間限定ベータテストが開始されました。このゲームモードは感染拡大をテーマにし […]\n投稿 Otherside、感染サバイバルの新たなゲームモードが登場 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-otherside-outbreak/",
+          "publishedOn": "2025-09-17T04:27:54.000Z",
+          "wordCount": 621,
+          "title": "Otherside、感染サバイバルの新たなゲームモードが登場",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/shutterstock_2144108693.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=143619",
           "author": "よきょい",

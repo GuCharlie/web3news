@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-17T11:35:56.876Z</updated>
+    <updated>2025-09-17T12:31:56.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【9/17話題】ANAPの保有ビットコインが約1,053BTCに、SBI新生銀行が円建てトークン化預金「DCJPY」導入検討開始など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=497386</id>
+        <link href="https://www.neweconomy.jp/posts/497386"/>
+        <updated>2025-09-17T12:19:37.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TOKEN2049シンガポール、前例のない需要の中、25,000人の参加者を集め世界最大のWeb3イベントとしてすべての記録を更新]]></title>
         <id>https://crypto-times.jp/?p=143731</id>
@@ -1991,26 +2001,6 @@ TONストラテジー、株価40%急落後に自社株買いとトレジャリ�
         <summary type="html"><![CDATA[仮想通貨ビットコインのインフラ開発企業Blockstreamらは東京で非公開のイベントを開催。テーマは「ビットコインとRWAでアジアの金融変革を推進する」である。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アルトコイン主導の展開となるか　仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ]]></title>
-        <id>https://jp.cointelegraph.com/news/price-predictions-9-12-btc-eth-xrp-bnb-sol-doge-ada-link-hype-sui</id>
-        <link href="https://jp.cointelegraph.com/news/price-predictions-9-12-btc-eth-xrp-bnb-sol-doge-ada-link-hype-sui?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-09-12T23:59:25.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインは11万7500ドルのレジスタンスを突破できるだろうか。そしてアルトコインもこれに続くのだろうか。]]></summary>
-        <author>
-            <name>Cointelegraph  Rakesh Upadhyay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム、機関投資家需要拡大でオンチェーン活動が過去最高水準到達]]></title>
-        <id>https://coinpost.jp/?p=650891</id>
-        <link href="https://coinpost.jp/?p=650891"/>
-        <updated>2025-09-12T23:40:33.000Z</updated>
-        <summary type="html"><![CDATA[Cryptoquantの最新レポートによると、イーサリアムは機関投資家の需要拡大により強固な上昇サイクルを示している。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

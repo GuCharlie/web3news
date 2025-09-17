@@ -1033,21 +1033,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/japan5_0419.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/japan5_0419.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=650891",
-          "author": "菊谷ルイス",
-          "description": "Cryptoquantの最新レポートによると、イーサリアムは機関投資家の需要拡大により強固な上昇サイクルを示している。",
-          "link": "https://coinpost.jp/?p=650891",
-          "publishedOn": "2025-09-12T23:40:33.000Z",
-          "wordCount": 3181,
-          "title": "イーサリアム、機関投資家需要拡大でオンチェーン活動が過去最高水準到達",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/Ethereum_0513-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/Ethereum_0513-1.jpg"
         }
       ]
     },
@@ -1056,6 +1041,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=497386",
+          "author": "NewEconomyPodcast",
+          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/497386",
+          "publishedOn": "2025-09-17T12:19:37.000Z",
+          "wordCount": 802,
+          "title": "【9/17話題】ANAPの保有ビットコインが約1,053BTCに、SBI新生銀行が円建てトークン化預金「DCJPY」導入検討開始など（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/17192008/d97482ecf130a5d46fe125c3efdd080e.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=497356",
           "author": "gentosha_takahashi",
@@ -1787,21 +1782,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDdmOTEtNjhlNi03NzdlLWFjZWUtNmU4YmE0N2I3NDhk.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/price-predictions-9-12-btc-eth-xrp-bnb-sol-doge-ada-link-hype-sui",
-          "author": "Cointelegraph  Rakesh Upadhyay",
-          "description": "ビットコインは11万7500ドルのレジスタンスを突破できるだろうか。そしてアルトコインもこれに続くのだろうか。",
-          "link": "https://jp.cointelegraph.com/news/price-predictions-9-12-btc-eth-xrp-bnb-sol-doge-ada-link-hype-sui?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-09-12T23:59:25.000Z",
-          "wordCount": null,
-          "title": "アルトコイン主導の展開となるか　仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTNlZDctNDY3MC03YWUzLWI4NTAtOWQwOTRjYjJiMDk3.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTNlZDctNDY3MC03YWUzLWI4NTAtOWQwOTRjYjJiMDk3.jpg"
         }
       ]
     },

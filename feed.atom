@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-17T10:40:11.468Z</updated>
+    <updated>2025-09-17T11:12:33.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
@@ -123,6 +123,16 @@
 投稿 メタプラネット社、「Bitcoin.jp」取得｜国内事業が本格始動 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本でステーブルコイン普及のハードルと可能性は？｜WebX2025トークセッション]]></title>
+        <id>https://coinpost.jp/?p=651606</id>
+        <link href="https://coinpost.jp/?p=651606"/>
+        <updated>2025-09-17T09:00:08.000Z</updated>
+        <summary type="html"><![CDATA[WebX2025で日本円建てステーブルコインの普及をめぐるパネルセッションが開催された。専門家がステーブルコインの課題やユースケース創出をめぐって徹底議論した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
         </author>
     </entry>
     <entry>
@@ -1990,16 +2000,6 @@ TONストラテジー、株価40%急落後に自社株買いとトレジャリ�
         <summary type="html"><![CDATA[Cryptoquantの最新レポートによると、イーサリアムは機関投資家の需要拡大により強固な上昇サイクルを示している。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テザー　新たなドル連動ステーブルコイン「USAT」を発表　米国規制に対応　元ホワイトハウス顧問がCEOに就任]]></title>
-        <id>https://jp.cointelegraph.com/news/bo-hines-tether-usa-ceo-stablecoin</id>
-        <link href="https://jp.cointelegraph.com/news/bo-hines-tether-usa-ceo-stablecoin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-09-12T23:03:15.000Z</updated>
-        <summary type="html"><![CDATA[テザーは新たにドルに裏付けられたステーブルコインを発表し、ホワイトハウスの元仮想通貨アドバイザーのボー・ハインズ氏がテザーUSATのCEOに就任すると明らかにした。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
         </author>
     </entry>
 </feed>

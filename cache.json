@@ -465,6 +465,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=651606",
+          "author": "A.Yamada",
+          "description": "WebX2025で日本円建てステーブルコインの普及をめぐるパネルセッションが開催された。専門家がステーブルコインの課題やユースケース創出をめぐって徹底議論した。",
+          "link": "https://coinpost.jp/?p=651606",
+          "publishedOn": "2025-09-17T09:00:08.000Z",
+          "wordCount": 3188,
+          "title": "日本でステーブルコイン普及のハードルと可能性は？｜WebX2025トークセッション",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/web3-finance-aoki.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/web3-finance-aoki.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=651689",
           "author": "AKIRA.H",
           "description": "メタプラネットは「Bitcoin.jp」を戦略的に取得し、新会社を設立。国内ビットコイン事業の拡大と収益基盤強化を目指す。",
@@ -1787,21 +1802,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTNlZDctNDY3MC03YWUzLWI4NTAtOWQwOTRjYjJiMDk3.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bo-hines-tether-usa-ceo-stablecoin",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "テザーは新たにドルに裏付けられたステーブルコインを発表し、ホワイトハウスの元仮想通貨アドバイザーのボー・ハインズ氏がテザーUSATのCEOに就任すると明らかにした。",
-          "link": "https://jp.cointelegraph.com/news/bo-hines-tether-usa-ceo-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-09-12T23:03:15.000Z",
-          "wordCount": null,
-          "title": "テザー　新たなドル連動ステーブルコイン「USAT」を発表　米国規制に対応　元ホワイトハウス顧問がCEOに就任",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJiYTQtNmZiYS03MDFlLWI5ZTMtMjM2MzI2YjM5MTU1.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJiYTQtNmZiYS03MDFlLWI5ZTMtMjM2MzI2YjM5MTU1.jpg"
         }
       ]
     },

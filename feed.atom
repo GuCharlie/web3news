@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-17T09:38:17.310Z</updated>
+    <updated>2025-09-17T10:15:44.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ヘックス・トラスト、リドのstETHのカストディとステーキングをサポート──機関投資家にDeFiへのアクセスを提供]]></title>
+        <id>https://www.coindeskjapan.com/?p=314575</id>
+        <link href="https://www.coindeskjapan.com/314575/"/>
+        <updated>2025-09-17T09:55:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）カストディアンのヘックス・トラスト（Hex Trust）は、リド（Lido）が発行する流動性ステーキングトークンstETHのカストディとステ ...
+ヘックス・トラスト、リドのstETHのカストディとステーキングをサポート──機関投資家にDeFiへのアクセスを提供 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Ian Allison</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スペイン最大手銀行、暗号資産取引サービス導入──株式やETFと並んで利用可能に]]></title>
         <id>https://www.coindeskjapan.com/?p=314540</id>
@@ -58,6 +69,17 @@
         <summary type="html"><![CDATA[ロンドン拠点のフィンテック企業LMAXグループが、ビットコイン（BTC）とイーサリアム（ETH）に連動した無期限先物契約を発表し、機関投資家向けのレバレッジ型の仮想通貨デリバティブ市場に参入した。]]></summary>
         <author>
             <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国、2026年に暗号資産規制を本格化へ]]></title>
+        <id>https://crypto-times.jp/?p=143728</id>
+        <link href="https://crypto-times.jp/news-uk-crypto-regulation-2026/"/>
+        <updated>2025-09-17T09:12:55.000Z</updated>
+        <summary type="html"><![CDATA[英国の金融行動監視機構（FCA）が来年（2026年）から暗号資産（仮想通貨）関連企業に対する本格的な規制を導入する計画を明らかにしました。この新制度はイノベーションを阻害しないよう、暗号資産の特殊性を考慮し、伝統的な金融 […]
+投稿 英国、2026年に暗号資産規制を本格化へ は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
         </author>
     </entry>
     <entry>
@@ -1967,36 +1989,6 @@ TONストラテジー、株価40%急落後に自社株買いとトレジャリ�
         <summary type="html"><![CDATA[テザーは新たにドルに裏付けられたステーブルコインを発表し、ホワイトハウスの元仮想通貨アドバイザーのボー・ハインズ氏がテザーUSATのCEOに就任すると明らかにした。]]></summary>
         <author>
             <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインは「年末にかけて再び大幅上昇の可能性」　ギャラクシーデジタルのノボグラッツCEO]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-consolidation-altcoin-treasury-growth-2025</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-consolidation-altcoin-treasury-growth-2025?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-09-12T22:14:01.000Z</updated>
-        <summary type="html"><![CDATA[資産運用会社ギャラクシーデジタルのマイク・ノボグラッツCEOによれば、ビットコインは横ばいで推移し続けているが、年末にかけて上昇の可能性があるという。]]></summary>
-        <author>
-            <name>Cointelegraph  Stephen Katte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ポリマーケット、90億ドル評価で資金調達検討　チェーンリンク提携も]]></title>
-        <id>https://coinpost.jp/?p=650872</id>
-        <link href="https://coinpost.jp/?p=650872"/>
-        <updated>2025-09-12T22:10:02.000Z</updated>
-        <summary type="html"><![CDATA[予測市場プラットフォームのポリマーケットが90億ドル評価での資金調達を検討している。競合のカルシも50億ドル評価での調達を進めており、両社の成長が加速している。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーブルコイン市場　時価総額3000億ドルに接近　算出方法の違いでデータにばらつき]]></title>
-        <id>https://jp.cointelegraph.com/news/stablecoins-hit-300b-on-coinmarketcap-are-we-there-yet</id>
-        <link href="https://jp.cointelegraph.com/news/stablecoins-hit-300b-on-coinmarketcap-are-we-there-yet?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-09-12T21:52:07.000Z</updated>
-        <summary type="html"><![CDATA[ステーブルコイン市場は時価総額3000億ドルに迫っている。ただ主要な仮想通貨データプラットフォーム間で数値に大きな差が見られ、この急成長分野の計測の難しさが浮き彫りとなっている。]]></summary>
-        <author>
-            <name>Cointelegraph  Helen Partz</name>
         </author>
     </entry>
 </feed>

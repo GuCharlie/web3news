@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-18T22:37:16.571Z</updated>
+    <updated>2025-09-18T23:13:46.806Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[カナダ銀行「ステーブルコイン規制枠組みを導入せよ、さもなくば置き去りにされる」]]></title>
+        <id>https://jp.cointelegraph.com/news/bank-of-canada-calls-stablecoin-regulation</id>
+        <link href="https://jp.cointelegraph.com/news/bank-of-canada-calls-stablecoin-regulation?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-18T22:52:49.000Z</updated>
+        <summary type="html"><![CDATA[カナダ銀行の決済部門トップ、ロン・モロウ氏は、規制当局に対しステーブルコインの枠組みを整備するよう求め、さもなくば取り残されると警告した。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインベース、USDC保有で最大10.8％利回り　DeFiを活用]]></title>
+        <id>https://jp.cointelegraph.com/news/coinbase-defi-offer-yield-usdc-holdings</id>
+        <link href="https://jp.cointelegraph.com/news/coinbase-defi-offer-yield-usdc-holdings?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-18T22:41:01.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所がモルフォのレンディングをアプリに統合、USDCユーザーは最大10.8％のDeFi利回りを得られるようになった。]]></summary>
+        <author>
+            <name>Cointelegraph  Sam Bourgi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[グレースケール、イーサ保有分のステーキング準備　SEC姿勢の変化を背景に＝アーカム]]></title>
         <id>https://jp.cointelegraph.com/news/grayscale-prepares-stake-ether-holdings-sec-arkham</id>

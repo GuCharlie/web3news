@@ -585,6 +585,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=652044",
+          "author": "菊谷ルイス",
+          "description": "ミシガン州議会で仮想通貨準備金法案HB4087が2月以来初めて進展した。州資金の10%投資を認める内容だが、ミシガンビットコイン貿易評議会は全仮想通貨対象のため反対を表明している。",
+          "link": "https://coinpost.jp/?p=652044",
+          "publishedOn": "2025-09-18T23:30:52.000Z",
+          "wordCount": 3153,
+          "title": "ミシガン州の仮想通貨準備金法案が前進、ビットコイン団体は反対表明",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=652035",
+          "author": "K.Kobayashi",
+          "description": "リップル社は、DBSとフランクリン・テンプルトンとRWA領域でパートナーシップを締結。適格投資家や機関投資家に取引と融資のソリューションを提供することが目的である。",
+          "link": "https://coinpost.jp/?p=652035",
+          "publishedOn": "2025-09-18T22:50:40.000Z",
+          "wordCount": 3161,
+          "title": "リップル社、DBS・フランクリンテンプルトンの2社とRWA領域で提携　RLUSDを活用",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103003.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103003.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=652034",
           "author": "菊谷ルイス",
           "description": "コインベースが仮想通貨USDCの貸出サービスを開始し、年10.8%の高利回りを提供すると発表した。モルフォプロトコルとの連携により、従来の4.1%を大幅に上回る収益機会を提供する。",
@@ -1708,6 +1738,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/polymarket-changpeng-zhao-pardon-binance",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "2023年に米当局との合意の一環で退任し、その後収監されたジャオ・チャンポン氏は、当時「バイナンスCEO職に復帰する予定はない」と述べていた。",
+          "link": "https://jp.cointelegraph.com/news/polymarket-changpeng-zhao-pardon-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-18T23:17:13.000Z",
+          "wordCount": null,
+          "title": "ポリマーケットでCZ恩赦予想が急騰　Xプロフィール変更を受け",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQzMTEtNDEyNy03ZTNhLTkxODEtZTMwMzIwNDEyNWJm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQzMTEtNDEyNy03ZTNhLTkxODEtZTMwMzIwNDEyNWJm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bank-of-canada-calls-stablecoin-regulation",
           "author": "Cointelegraph  Vince Quill",

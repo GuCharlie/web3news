@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-19T11:12:42.537Z</updated>
+    <updated>2025-09-19T11:35:56.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン　2030年までに量子攻撃への備えをするべき＝ソラナ共同創設者ヤコベンコ氏が警鐘]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-quantum-computing-breakthrough-2030-prediction-solana-founder</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-quantum-computing-breakthrough-2030-prediction-solana-founder?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-19T11:28:26.000Z</updated>
+        <summary type="html"><![CDATA[ソラナの共同創設者アナトリー・ヤコベンコ氏が、ビットコインコミュニティに対し量子攻撃への対策を急ぐよう呼びかけた。量子コンピュータの大きな進展は予想以上に早く訪れる可能性があると主張している。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【9/19話題】米国初のドージコインとXRPの現物ETF上場、ANAPとリミポがビットコイン追加購入など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=498186</id>
@@ -3241,16 +3251,6 @@ TONストラテジー、株価40%急落後に自社株買いとトレジャリ�
 次の金融フロンティアは「プライベート・マーケット（未公開市場）のトークン化」 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Jonathan Shaffer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨はWeb3ではなく「資本主義2.0」＝仮想通貨企業CEO]]></title>
-        <id>https://jp.cointelegraph.com/news/crypto-not-web-3-0-its-capitalism-2-0</id>
-        <link href="https://jp.cointelegraph.com/news/crypto-not-web-3-0-its-capitalism-2-0?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-09-14T23:12:44.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨とブロックチェーン技術は、インターネット上の一部領域にとどまらず、資本主義そのものを現代化させる可能性を持つ。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
         </author>
     </entry>
 </feed>

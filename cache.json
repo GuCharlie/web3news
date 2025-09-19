@@ -1668,21 +1668,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/impera-1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/impera-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=650928",
-          "author": "A.Yamada",
-          "description": "WebX2025で専門家が人工知能エージェントの可能性について徹底議論。創造性や、人間の仕事を消滅させる可能性、安全性や開発上の課題などを多角的に話し合った。",
-          "link": "https://coinpost.jp/?p=650928",
-          "publishedOn": "2025-09-15T06:00:52.000Z",
-          "wordCount": 3197,
-          "title": "人工知能と人間の創造性、消費者アプリの活用事例｜WebX2025トークセッション",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/ai-agent-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/ai-agent-1.png"
         }
       ]
     },
@@ -2168,6 +2153,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/xrp-revisits-dollar3-support-but-data-shows-bulls-still-in-control",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "XRP（XRP）は9月前半に18％上昇し、2.70ドルから3.18ドルへと上昇した。しかし、3.20ドルの突破には失敗し、4時間足でのフェアバリューギャップで拒否され、再び3ドル水準を試す展開となった。",
+          "link": "https://jp.cointelegraph.com/news/xrp-revisits-dollar3-support-but-data-shows-bulls-still-in-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-19T17:41:20.000Z",
+          "wordCount": null,
+          "title": "3ドルで攻防続くXRP　3.30ドル突破が次の上昇トリガーに",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWViZTAtYjgzNC03MmY1LWFhNDAtZjI2Y2QyYjBhYmY5.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWViZTAtYjgzNC03MmY1LWFhNDAtZjI2Y2QyYjBhYmY5.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bhutan-bitcoin-transfer-fed-rate-cut",
           "author": "Cointelegraph  Zoltan Vardai",

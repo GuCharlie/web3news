@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-19T17:12:52.325Z</updated>
+    <updated>2025-09-19T17:37:10.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブータン政府　1億ドル相当のビットコインに動き　市場に売り圧力懸念]]></title>
+        <id>https://jp.cointelegraph.com/news/bhutan-bitcoin-transfer-fed-rate-cut</id>
+        <link href="https://jp.cointelegraph.com/news/bhutan-bitcoin-transfer-fed-rate-cut?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-19T17:15:35.000Z</updated>
+        <summary type="html"><![CDATA[ブータン政府が今週、1億ドル以上に相当するビットコイン（BTC）を移動させた。このタイミングが、米連邦準備制度理事会（FRB）による利下げと重なったことで、市場への売り圧力懸念が広がっている。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ家関与の仮想通貨プロジェクト「ワールド・リバティ」、買い戻し・バーン提案を可決]]></title>
         <id>https://jp.cointelegraph.com/news/trump-wlfi-passes-vote-token-buybacks-burns</id>

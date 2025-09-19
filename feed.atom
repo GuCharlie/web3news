@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-19T20:37:16.810Z</updated>
+    <updated>2025-09-19T21:13:15.492Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインの「非流動供給」が過去最高に　長期保有者とクジラが市場を支配]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-illiquid-supply-hits-record-14-3m-btc-investors-accumulate</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-illiquid-supply-hits-record-14-3m-btc-investors-accumulate?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-19T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）の「非流動供給」、すなわち売却履歴がほとんどない長期保有者による保有量が過去最高を更新した。]]></summary>
+        <author>
+            <name>Cointelegraph  Nancy Lubale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米財務省、ステーブルコイン法実装でパブリックコメント募集開始]]></title>
+        <id>https://coinpost.jp/?p=652289</id>
+        <link href="https://coinpost.jp/?p=652289"/>
+        <updated>2025-09-19T20:55:02.000Z</updated>
+        <summary type="html"><![CDATA[米財務省がステーブルコイン規制法ジーニアス法の実装に関してパブリックコメントを30日間募集すると発表した。消費者保護と金融安定性リスクが焦点に。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム次期アップグレード「フサカ」、12月にメインネット実装予定]]></title>
+        <id>https://coinpost.jp/?p=652285</id>
+        <link href="https://coinpost.jp/?p=652285"/>
+        <updated>2025-09-19T20:40:28.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムの次期アップグレード「フサカ」が12月にメインネット実装予定と発表された。ブロブ容量の2倍拡大やガス上限増加などスケーラビリティ向上を目指す。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3ドルで攻防続くXRP　3.30ドル突破が次の上昇トリガーに]]></title>
         <id>https://jp.cointelegraph.com/news/xrp-revisits-dollar3-support-but-data-shows-bulls-still-in-control</id>
@@ -3240,16 +3270,6 @@ GPUゴールドラッシュ：ビットコインマイナーがAIの隆盛を牽
 ビットコイン、保有量別の全グループで売り超過に戻る──市場は保ち合いが続く first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3インフラの進化はグローバル取引を変える｜WebX2025]]></title>
-        <id>https://coinpost.jp/?p=651077</id>
-        <link href="https://coinpost.jp/?p=651077"/>
-        <updated>2025-09-15T08:40:21.000Z</updated>
-        <summary type="html"><![CDATA[大型Web3カンファレンス「WebX」で「グローバル取引の絶対基盤: 世界を繋ぐインフラ戦略」をテーマとしたパネルセッションが開催され、Web3インフラの重要性と発展に向けた課題、そして10年後のグローバル取引の展望について活発な議論が交わされた。]]></summary>
-        <author>
-            <name>幸田直子</name>
         </author>
     </entry>
 </feed>

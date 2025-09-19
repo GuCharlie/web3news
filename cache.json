@@ -810,16 +810,6 @@
           "wordCount": 1392,
           "title": "次の金融フロンティアは「プライベート・マーケット（未公開市場）のトークン化」",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/image-43.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=313770",
-          "author": "Siamak Masnavi",
-          "description": "ポール・アトキンス（Paul Atkins）米SEC委員長は「暗号資産の時代が来た」と述べ、米国の証券規制をアップデートし、市場をオンチェーン化するために「Pr ...\n「暗号資産の時代が来た」SEC委員長がパリで講演──オンチェーン市場とAIエージェント金融の未来を語る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/313770/",
-          "publishedOn": "2025-09-14T23:00:00.000Z",
-          "wordCount": 1356,
-          "title": "「暗号資産の時代が来た」SEC委員長がパリで講演──オンチェーン市場とAIエージェント金融の未来を語る",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/image-40.jpg"
         }
       ]
     },
@@ -1787,6 +1777,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=498186",
+          "author": "NewEconomyPodcast",
+          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/498186",
+          "publishedOn": "2025-09-19T11:00:01.000Z",
+          "wordCount": 784,
+          "title": "【9/19話題】米国初のドージコインとXRPの現物ETF上場、ANAPとリミポがビットコイン追加購入など（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/19180730/2f73ad0b86bb294c40bad9b2b3bf708b.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=498189",
           "author": "HitomotoToshikazu",
           "description": "CboeでDOGEとXRPの現物ETF上場 レックスオスプレイ（REX-Osprey）が提供する暗号資産（仮想通貨）ドージコイン（DOGE）および、エックスアールピー（XRP）の現物ETF（上場投資信託）が米シーボーBZ […]",
@@ -2253,6 +2253,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/ethereum-fusaka-upgrade-moves-december-blob-capacity-doubling",
+          "author": "Cointelegraph  Tarang Khaitan",
+          "description": "イーサリアムのコア開発者たちは、スケーラビリティの拡大と効率性の向上を目的としたネットワークの次期大型ハードフォーク「Fusaka」を12月初旬に実施する計画を明らかにした。",
+          "link": "https://jp.cointelegraph.com/news/ethereum-fusaka-upgrade-moves-december-blob-capacity-doubling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-19T10:50:58.000Z",
+          "wordCount": null,
+          "title": "イーサリアム　12月にアップデート「Fusaka」実施へ　ブロブ容量倍増で効率性向上を目指す",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTVmZmQtNDc0Mi03NDQ3LWI4MDYtOTkzNTk5OGJhZWJh.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTVmZmQtNDc0Mi03NDQ3LWI4MDYtOTkzNTk5OGJhZWJh.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-price-drawdown-bear-market-buying-dip-benjamin-cowen",
           "author": "Cointelegraph  Ciaran Lyons",
@@ -3062,36 +3077,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTcyMDctZWEwMi03NzM1LTljZjMtODYzZDZlOWJjOWVl.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/capital-group-grows-bitcoin-bet-to-6b",
-          "author": "Cointelegraph  Amin Haqshanas",
-          "description": "キャピタル・グループは、ストラテジーやメタプラネットへの主要投資を通じ、ビットコイン関連株への10億ドルの投資を60億ドルに増やした。",
-          "link": "https://jp.cointelegraph.com/news/capital-group-grows-bitcoin-bet-to-6b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-09-14T22:59:54.000Z",
-          "wordCount": null,
-          "title": "投資大手キャピタル・グループ、10億ドルのビットコイン投資が60億ドルに拡大",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTQ3ZGEtYjc5MC03ZWM4LWE3MGEtNWY4YmRlODAzZDkw.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTQ3ZGEtYjc5MC03ZWM4LWE3MGEtNWY4YmRlODAzZDkw.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-trader-time-to-pay-attention-115k-btc-price",
-          "author": "Cointelegraph  William Suberg",
-          "description": "米連邦準備制度理事会（FRB）の利下げ決定を控え、週末のビットコイン相場は勢いを欠いたまま。トレーダーは「いまこそ注目すべき時」と警告している。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-trader-time-to-pay-attention-115k-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-09-14T22:41:02.000Z",
-          "wordCount": null,
-          "title": "ビットコイン11万5000ドルでトレーダー「注目すべき時」と指摘",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTQ5MmQtM2E1YS03NjExLTgzOTgtNTNmYzEyZWFjNzhk.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTQ5MmQtM2E1YS03NjExLTgzOTgtNTNmYzEyZWFjNzhk.jpg"
         }
       ]
     },

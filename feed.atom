@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-19T10:40:36.855Z</updated>
+    <updated>2025-09-19T11:12:42.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【9/19話題】米国初のドージコインとXRPの現物ETF上場、ANAPとリミポがビットコイン追加購入など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=498186</id>
+        <link href="https://www.neweconomy.jp/posts/498186"/>
+        <updated>2025-09-19T11:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム　12月にアップデート「Fusaka」実施へ　ブロブ容量倍増で効率性向上を目指す]]></title>
+        <id>https://jp.cointelegraph.com/news/ethereum-fusaka-upgrade-moves-december-blob-capacity-doubling</id>
+        <link href="https://jp.cointelegraph.com/news/ethereum-fusaka-upgrade-moves-december-blob-capacity-doubling?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-19T10:50:58.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムのコア開発者たちは、スケーラビリティの拡大と効率性の向上を目的としたネットワークの次期大型ハードフォーク「Fusaka」を12月初旬に実施する計画を明らかにした。]]></summary>
+        <author>
+            <name>Cointelegraph  Tarang Khaitan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTCC取引所、2025年9月のPoR報告書で準備金率143%を維持し、財務的強固さを継続して実証]]></title>
         <id>https://crypto-times.jp/?p=143963</id>
@@ -3231,37 +3251,6 @@ TONストラテジー、株価40%急落後に自社株買いとトレジャリ�
         <summary type="html"><![CDATA[仮想通貨とブロックチェーン技術は、インターネット上の一部領域にとどまらず、資本主義そのものを現代化させる可能性を持つ。]]></summary>
         <author>
             <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「暗号資産の時代が来た」SEC委員長がパリで講演──オンチェーン市場とAIエージェント金融の未来を語る]]></title>
-        <id>https://www.coindeskjapan.com/?p=313770</id>
-        <link href="https://www.coindeskjapan.com/313770/"/>
-        <updated>2025-09-14T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ポール・アトキンス（Paul Atkins）米SEC委員長は「暗号資産の時代が来た」と述べ、米国の証券規制をアップデートし、市場をオンチェーン化するために「Pr ...
-「暗号資産の時代が来た」SEC委員長がパリで講演──オンチェーン市場とAIエージェント金融の未来を語る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Siamak Masnavi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[投資大手キャピタル・グループ、10億ドルのビットコイン投資が60億ドルに拡大]]></title>
-        <id>https://jp.cointelegraph.com/news/capital-group-grows-bitcoin-bet-to-6b</id>
-        <link href="https://jp.cointelegraph.com/news/capital-group-grows-bitcoin-bet-to-6b?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-09-14T22:59:54.000Z</updated>
-        <summary type="html"><![CDATA[キャピタル・グループは、ストラテジーやメタプラネットへの主要投資を通じ、ビットコイン関連株への10億ドルの投資を60億ドルに増やした。]]></summary>
-        <author>
-            <name>Cointelegraph  Amin Haqshanas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン11万5000ドルでトレーダー「注目すべき時」と指摘]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-trader-time-to-pay-attention-115k-btc-price</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-trader-time-to-pay-attention-115k-btc-price?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-09-14T22:41:02.000Z</updated>
-        <summary type="html"><![CDATA[米連邦準備制度理事会（FRB）の利下げ決定を控え、週末のビットコイン相場は勢いを欠いたまま。トレーダーは「いまこそ注目すべき時」と警告している。]]></summary>
-        <author>
-            <name>Cointelegraph  William Suberg</name>
         </author>
     </entry>
 </feed>

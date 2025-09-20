@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-20T02:37:05.084Z</updated>
+    <updated>2025-09-20T06:20:31.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[xAI、100億ドル資金調達か　イーロン・マスクは否定]]></title>
+        <id>https://coinpost.jp/?p=652407</id>
+        <link href="https://coinpost.jp/?p=652407"/>
+        <updated>2025-09-20T04:35:18.000Z</updated>
+        <summary type="html"><![CDATA[CNBCがマスク氏のAI企業xAIが企業価値2000億ドルで100億ドルを調達中と報じた。マスク氏はX上で「フェイクニュース」として報道を否定している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FRBによるサプライズはあるか？ 「ビットコインとアルトコインを大きく押し上げる可能性」＝エコノミストが指摘]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-altcoins-price-surge-federal-reserve-united-states-economist</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-altcoins-price-surge-federal-reserve-united-states-economist?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-20T03:57:37.000Z</updated>
+        <summary type="html"><![CDATA[エコノミストのティモシー・ピーターソン氏は、米連邦準備制度理事会（FRB）の今後の行動によって「ビットコインとアルトコインが大きく押し上げられる可能性が高い」と述べた。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTXリカバリートラスト　第三弾の弁済を発表　9月末に16億ドルを配分予定]]></title>
+        <id>https://jp.cointelegraph.com/news/ftx-recovery-trust-unlock-1-6b-creditors-september-disbursement</id>
+        <link href="https://jp.cointelegraph.com/news/ftx-recovery-trust-unlock-1-6b-creditors-september-disbursement?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-20T03:35:16.000Z</updated>
+        <summary type="html"><![CDATA[破綻した仮想通貨取引所FTXの資金配分を監督するFTXリカバリートラストは、第三弾となる債権者への弁済を発表した。総額は約16億ドルにのぼる。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上場医薬品企業フローラ、分散型AI「0G」トークンのトレジャリー企業に　590億円調達]]></title>
+        <id>https://coinpost.jp/?p=652398</id>
+        <link href="https://coinpost.jp/?p=652398"/>
+        <updated>2025-09-20T02:30:10.000Z</updated>
+        <summary type="html"><![CDATA[ナスダック上場の医薬品企業フローラが仮想通貨0Gコインのトレジャリー企業となることを発表した。ZeroStackにブランド変更し590億円を資金調達する。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゲンスラー米SEC前委員長、仮想通貨批判もビットコインは例外視か]]></title>
+        <id>https://coinpost.jp/?p=652358</id>
+        <link href="https://coinpost.jp/?p=652358"/>
+        <updated>2025-09-20T01:55:23.000Z</updated>
+        <summary type="html"><![CDATA[ゲンスラー前SEC委員長が仮想通貨について発言した。大部分のトークンはファンダメンタルズに結びつかず投機的だと改めて強調した。一方で、ビットコインは例外だとも示唆している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨カストディ大手ビットゴー、収益4倍増でIPO申請]]></title>
+        <id>https://coinpost.jp/?p=652383</id>
+        <link href="https://coinpost.jp/?p=652383"/>
+        <updated>2025-09-20T01:10:33.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨カストディ企業ビットゴーが米国IPO申請書類で2025年上半期収益が前年同期比約4倍の41.9億ドルに拡大したと発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[地方創生の実例と導入・活用を議論：「Web3で加速する地方創生」8月・9月開催オンラインセミナーレポート]]></title>
         <id>https://www.coindeskjapan.com/?p=314964</id>
@@ -3330,28 +3390,6 @@ FRBの利下げを前に下落懸念が和らぐ中、ビットコインとイ�
 GPUゴールドラッシュ：ビットコインマイナーがAIの隆盛を牽引する理由 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>T. Minamoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エヌビディア株価が3%下落──中国が独占禁止法違反と発表]]></title>
-        <id>https://www.coindeskjapan.com/?p=314162</id>
-        <link href="https://www.coindeskjapan.com/314162/"/>
-        <updated>2025-09-15T17:31:31.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）価格が本記事執筆時点で過去2時間下落している理由について疑問を持つ人もいるだろう。その原因はウォール街のプレマーケット取引である可能性があ ...
-エヌビディア株価が3%下落──中国が独占禁止法違反と発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、保有量別の全グループで売り超過に戻る──市場は保ち合いが続く]]></title>
-        <id>https://www.coindeskjapan.com/?p=314138</id>
-        <link href="https://www.coindeskjapan.com/314138/"/>
-        <updated>2025-09-15T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[グラスノード（Glassnode）のウォレットグループ別の蓄積トレンドスコア（Accumulation Trend Score）では、すべてのウォレットグループ ...
-ビットコイン、保有量別の全グループで売り超過に戻る──市場は保ち合いが続く first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
         </author>
     </entry>
 </feed>

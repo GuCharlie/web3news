@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-20T21:35:28.706Z</updated>
+    <updated>2025-09-20T22:12:54.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットゴー　米国でのIPOを申請　トランプ政権下で高まる機関投資家需要に対応]]></title>
+        <id>https://jp.cointelegraph.com/news/bitgo-us-ipo-crypto-custody-90b-assets</id>
+        <link href="https://jp.cointelegraph.com/news/bitgo-us-ipo-crypto-custody-90b-assets?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-20T21:59:36.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨カストディ企業ビットゴーが米国で新規株式公開（IPO）を申請した。トランプ政権下でデジタル資産インフラへの機関投資家需要が再燃する中、それを取り込む狙いがある。]]></summary>
+        <author>
+            <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メタプラネット株価、2.4倍の可能性？米投資銀行が強気レポート]]></title>
         <id>https://crypto-times.jp/?p=143999</id>
@@ -2797,27 +2807,6 @@ JPYC、電算システムと基本合意──全国コンビニでステーブ�
 アメックス、ブロックチェーンベースの「トラベルスタンプ」提供開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Ian Allison</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pudgy Penguins CEO、ミームコイン関連イベントでPENGUの日本戦略発表]]></title>
-        <id>https://coinpost.jp/?p=651368</id>
-        <link href="https://coinpost.jp/?p=651368"/>
-        <updated>2025-09-16T10:12:23.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産取引所MEXCのベンチャー部門であるMEXCVenturesは7日、「FromDogetoPengu:TheEvolutionofMemes」を開催した。人気NFTプロジェクトPudgyPenguinsのルカ・ネッツ最高経営責任者（...]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベースCPO、ステーブルコインが預金を脅かすとの銀行の主張に反論「決済手数料収入を守りたいだけ」]]></title>
-        <id>https://www.coindeskjapan.com/?p=314365</id>
-        <link href="https://www.coindeskjapan.com/314365/"/>
-        <updated>2025-09-16T10:10:00.000Z</updated>
-        <summary type="html"><![CDATA[アメリカの銀行業界の主張とは反対に、ステーブルコインは金融システムにリスクをもたらさない。暗号資産（仮想通貨）取引所コインベース（コインベース）の最高政策責任者 ...
-コインベースCPO、ステーブルコインが預金を脅かすとの銀行の主張に反論「決済手数料収入を守りたいだけ」 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Siamak Masnavi</name>
         </author>
     </entry>
 </feed>

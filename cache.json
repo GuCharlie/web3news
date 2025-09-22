@@ -520,16 +520,6 @@
           "wordCount": 1342,
           "title": "ビットコインキャッシュ、650ドル近くまで上昇──2024年4月以来の高値",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/N3990cfa3b343c37727960afa2c0305104ba6c1dd-1920x1080-1.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=314776",
-          "author": "Francisco Rodrigues",
-          "description": "ナスダック上場企業であるフォワード・インダストリーズ（Forward Industries）は、ソラナ（SOL）財務の構築を進める設計・製造会社で、アメリカ証券 ...\nフォワード・インダストリーズ、ソラナ財務拡大に向けて株式のATM発行で40億ドルを調達へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/314776/",
-          "publishedOn": "2025-09-18T10:20:00.000Z",
-          "wordCount": 1304,
-          "title": "フォワード・インダストリーズ、ソラナ財務拡大に向けて株式のATM発行で40億ドルを調達へ",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/0146c86a000386032904ec8cb63b1037c1235358-3840x2160-1.png"
         }
       ]
     },
@@ -1418,6 +1408,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/argentina-peso-us-offers-lifeline-bitcoiner-skeptical",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "米国が金融支援に乗り出す中、アルゼンチンはペソの混乱、投資家の資本流出、ハビエル・ミレイ大統領の信頼低下に直面している。仮想通貨の採用は急増している。",
+          "link": "https://jp.cointelegraph.com/news/argentina-peso-us-offers-lifeline-bitcoiner-skeptical?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-22T22:35:28.000Z",
+          "wordCount": null,
+          "title": "ペソ急落　米国の金融支援にビットコイナーは懐疑的",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTcyODctYTBhMC03NTNlLWE1YmEtMmNjZWM0ZGViYjBj.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTcyODctYTBhMC03NTNlLWE1YmEtMmNjZWM0ZGViYjBj.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/price-predictions-9-22-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-hype",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "ビットコインの急落により過去24時間で最大規模のロングポジション清算が発生し、この売りが多くのアルトコインを直近のサポート水準割れへと押し下げた。",
+          "link": "https://jp.cointelegraph.com/news/price-predictions-9-22-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-22T22:24:33.000Z",
+          "wordCount": null,
+          "title": "最大規模のロング清算　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTcyNzgtMzFlOC03YzUzLTg1YmEtZTA1MjZhOTMzZDcx.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTcyNzgtMzFlOC03YzUzLTg1YmEtZTA1MjZhOTMzZDcx.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/maelstrom-warns-hype-token-pressure-11-9b-unlocks",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "アーサー・ヘイズ氏のメイルストーム・ファンドは、ハイパーリキッドのHYPEトークンが権利確定スケジュールにより毎月4億1,000万ドルの供給超過に直面すると警告した。",
+          "link": "https://jp.cointelegraph.com/news/maelstrom-warns-hype-token-pressure-11-9b-unlocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-22T22:16:26.000Z",
+          "wordCount": null,
+          "title": "メイルストローム、HYPEトークンが119億ドルのアンロックを控え圧力に直面と警告",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDdmOTEtNjhlNi03NzdlLWFjZWUtNmU4YmE0N2I3NDhk.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDdmOTEtNjhlNi03NzdlLWFjZWUtNmU4YmE0N2I3NDhk.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/btc-zhou-zuha-shangge-fuwo-suo-xiao-tekunikaru-dena-zhong-yaopointowo-si-shoudekizu",
           "author": "Cointelegraph  ビットバンク　長谷川友哉",
@@ -2654,16 +2689,6 @@
           "wordCount": 667,
           "title": "Grvt、プライバシーファーストのオンチェーンファイナンスを開拓し、数兆ドル規模の市場を解放するために1900万ドルを調達",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/7966bae78213db11914ad7af893f8431.png"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=143799",
-          "author": "Crypto Times 編集部",
-          "description": "Web3インフラ開発を手がけるSyndicate.ioがネイティブトークンである$SYNDをBaseネットワーク上のDEX（分散型取引所）Aerodromeで公開しました。今回のトークンローンチは従来の中央集権型取引所や […]\n投稿 $SYND、Aerodromeでコミュニティローンチが実施 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-syndicate-tge/",
-          "publishedOn": "2025-09-18T10:24:28.000Z",
-          "wordCount": 626,
-          "title": "$SYND、Aerodromeでコミュニティローンチが実施",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/shutterstock_2393856077.jpg"
         }
       ]
     }

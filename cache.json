@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=315294",
+          "author": "廣瀬 優香",
+          "description": "バイナンス（Binance）の共同創業者である「CZ」ことチャンポン・ジャオ（Changpeng Zhao）氏とイー・ヘ（Yi He）氏によって設立されたファミ ...\nバイナンス創業者CZ氏のファミリーオフィス、エセナへの投資拡大──USDe供給量が130億ドル突破 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/315294/",
+          "publishedOn": "2025-09-22T08:10:00.000Z",
+          "wordCount": 1389,
+          "title": "バイナンス創業者CZ氏のファミリーオフィス、エセナへの投資拡大──USDe供給量が130億ドル突破",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/7d888d8c5d73b93f4169191f7bd500f0555d83bf-3840x2160-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=315308",
           "author": "Omkar Godbole",
           "description": "最も歴史の長い暗号資産（仮想通貨）取引所の一つであるビットフィネックス（Bitfinex）におけるビットコイン強気の賭けは、ここ数週間で著しく増加しており、重要 ...\nビットフィネックスのBTCロングポジションが20%増加──歴史的には価格下落に先行 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -564,6 +574,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=647205",
+          "author": "CoinPost編集部",
+          "description": "スイ（SUI）のリキッドステーキングは、ステーキングによる安定した報酬を得ながら、さらにDeFiで追加利回りを狙える点が大きな魅力です。特に、スイの代表的なリキッドステーキングを担うHaedalと、レンディングを提供するNaviProtoc...",
+          "link": "https://coinpost.jp/?p=647205",
+          "publishedOn": "2025-09-22T07:00:45.000Z",
+          "wordCount": 2424,
+          "title": "スイ（SUI）リキッドステーキング解説｜二重収益を狙う運用方法",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/suiliquidstaking0903.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/suiliquidstaking0903.png"
+        },
         {
           "id": "https://coinpost.jp/?p=652554",
           "author": "CoinPost編集部",
@@ -1426,6 +1451,46 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=498766",
+          "author": "NewEconomy",
+          "description": "南米ボリビアのトヨタ代理店がUSDTの決済導入 南米ボリビアのトヨタ（TOYOTA）等の正規販売代理店であるトヨサ（Toyosa）、BYDの正規販売代理店であるクラウン（Crown）が、米ドル建てステーブルコイン「USD […]",
+          "link": "https://www.neweconomy.jp/posts/498766",
+          "publishedOn": "2025-09-22T07:55:58.000Z",
+          "wordCount": 785,
+          "title": "ボリビアのトヨタ正規販売代理店ら、USDT決済導入開始か＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/22165552/fe18117f01856aaaad82a9ddc31206a9.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=498758",
+          "author": "NewEconomy",
+          "description": "ウォン建てステーブルコイン「KRW1」がローンチ 機関投資家向けにデジタル資産カストディを提供する韓国ビデクス（BDACS）が、韓国ウォンに裏付けられたステーブルコイン「KRW1」の概念実証（PoC）完了と正式ローンチを […]",
+          "link": "https://www.neweconomy.jp/posts/498758",
+          "publishedOn": "2025-09-22T07:49:03.000Z",
+          "wordCount": 778,
+          "title": "韓国BDACS、ウォン建てステーブルコイン「KRW1」正式ローンチ、アバランチで",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/22164854/bca684b1c8969557848ca071ef8c03b5.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=498751",
+          "author": "NewEconomy",
+          "description": "コインベース、年利10.8%のUSDC貸出サービス開始 米大手暗号資産（仮想通貨）取引所コインベース（Coinbase）が、米ドル建てステーブルコインUSDCのレンディングサービス開始を9月18日に発表した。 同サービス […]",
+          "link": "https://www.neweconomy.jp/posts/498751",
+          "publishedOn": "2025-09-22T07:43:19.000Z",
+          "wordCount": 778,
+          "title": "コインベースがUSDCレンディングサービス開始、年10.8%の利回り提供",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/22164313/9aeb7c4ce7d73444bf1243131ec4552e.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=498744",
+          "author": "NewEconomy",
+          "description": "ヒノデテクノロジーズがPlasmaと戦略パートナーに ヒノデテクノロジーズ（Hinode Technologies）とレイヤー1ブロックチェーン「プラズマ（Plasma）」の日本市場における戦略パートナー契約締結が9月1 […]",
+          "link": "https://www.neweconomy.jp/posts/498744",
+          "publishedOn": "2025-09-22T07:38:28.000Z",
+          "wordCount": 778,
+          "title": "TISとgC Labsのヒノデテクノロジーズ、L1チェーン「Plasma」と戦略パートナー契約",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/22163811/a73911ce53b00864626cb57957249bb5.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=498728",
           "author": "NewEconomy",

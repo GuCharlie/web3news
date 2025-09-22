@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-22T14:16:31.829Z</updated>
+    <updated>2025-09-22T14:42:26.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国、香港のRWA事業にブレーキ：ロイター通信]]></title>
+        <id>https://www.coindeskjapan.com/?p=315693</id>
+        <link href="https://www.coindeskjapan.com/315693/"/>
+        <updated>2025-09-22T14:19:42.000Z</updated>
+        <summary type="html"><![CDATA[中国証券監督管理委員会は、一部の証券会社に対し、香港における現実資産（RWA）トークン化事業の一時停止を指示した。ロイター通信が22日に報じた。 関係者の話とし ...
+中国、香港のRWA事業にブレーキ：ロイター通信 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTC週足は上げ幅を縮小　テクニカル的な重要ポイントを死守できず【ビットバンク仮想通貨分析】]]></title>
         <id>https://jp.cointelegraph.com/news/btc-zhou-zuha-shangge-fuwo-suo-xiao-tekunikaru-dena-zhong-yaopointowo-si-shoudekizu</id>
@@ -2461,67 +2472,6 @@ Japan Smart Chain、電算システムとビジョンパートナー契約 first
         <summary type="html"><![CDATA[マネーグラムのデジタル決済アプリがコロンビアで始動する。現地住民は、コロンビアペソが下落し続ける中、米ドル建てのステーブルコインで資産を保有できるようになる。]]></summary>
         <author>
             <name>Cointelegraph  Brayden Lindrea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スイス銀行協会、トークン化した銀行預金をパブリックチェーンで検証、シグナムやUBSら参加]]></title>
-        <id>https://www.neweconomy.jp/?p=497656</id>
-        <link href="https://www.neweconomy.jp/posts/497656"/>
-        <updated>2025-09-18T02:41:34.000Z</updated>
-        <summary type="html"><![CDATA[SBAがデポジットトークンの検証で有効性確認 SBA（スイス銀行協会）が、トークン化された銀行預金「デポジットトークン」をパブリックブロックチェーンにて法令準拠で利用できることを確認したと9月16日に発表した。 この取り […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットワイズ、ステーブルコインとトークン化に連動する「Bitwise Stablecoin & Tokenization ETF」を米SECに申請]]></title>
-        <id>https://www.neweconomy.jp/?p=497641</id>
-        <link href="https://www.neweconomy.jp/posts/497641"/>
-        <updated>2025-09-18T02:34:06.000Z</updated>
-        <summary type="html"><![CDATA[Bitwise Stablecoin & Tokenization ETFが申請 米暗号資産（仮想通貨）運用会社ビットワイズ（Bitwise）が、「Bitwise Stablecoin & Tokeniz […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム財団、AI経済のベースレイヤー構築に向け「dAI」チーム設立]]></title>
-        <id>https://www.neweconomy.jp/?p=497640</id>
-        <link href="https://www.neweconomy.jp/posts/497640"/>
-        <updated>2025-09-18T02:30:51.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム財団がAI経済向けの新チーム設立 イーサリアム財団（Ethereum Foundation）が、AIとブロックチェーンを組みあわせた技術の研究開発作業を加速するため、コア開発者のダビデ・クラピス（Davide […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Cloudがエージェント向けステーブルコイン決済公開、コインベース・イーサリアム財団・メタマスクなど連携で]]></title>
-        <id>https://www.neweconomy.jp/?p=497600</id>
-        <link href="https://www.neweconomy.jp/posts/497600"/>
-        <updated>2025-09-18T02:27:08.000Z</updated>
-        <summary type="html"><![CDATA[Google Cloudがエージェント向け決済プロトコル公開 米グーグルクラウド（Google Cloud）が、ステーブルコイン対応のエージェント向け決済プロトコル「AP2（エージェント・ペイメンツ・プロトコル）」を9月 […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFTマーケットプレイス「SBINFT Market」、Japan Open Chainに対応]]></title>
-        <id>https://www.coindeskjapan.com/?p=314650</id>
-        <link href="https://www.coindeskjapan.com/314650/"/>
-        <updated>2025-09-18T02:17:58.000Z</updated>
-        <summary type="html"><![CDATA[SBINFTは9月17日、同社が運営するNFTマーケットプレイス「SBINFT Market」が、日本ブロックチェーン基盤が管理する「Japan Open Ch ...
-NFTマーケットプレイス「SBINFT Market」、Japan Open Chainに対応 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォワード・インダストリーズ　ソラナ準備金戦略を強化へ　最大40億ドルの株式発行プログラムを申請]]></title>
-        <id>https://jp.cointelegraph.com/news/forward-industries-4b-atm-share-sale-solana-treasury</id>
-        <link href="https://jp.cointelegraph.com/news/forward-industries-4b-atm-share-sale-solana-treasury?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-09-18T02:16:27.000Z</updated>
-        <summary type="html"><![CDATA[ナスダック上場企業フォワード・インダストリーズは、最大40億ドルの株式を段階的に売却するアット・ザ・マーケット（ATM）株式発行プログラムを米証券取引委員会（SEC）に申請した。]]></summary>
-        <author>
-            <name>Cointelegraph  Ezra Reguerra</name>
         </author>
     </entry>
 </feed>

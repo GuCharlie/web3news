@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-23T23:13:16.528Z</updated>
+    <updated>2025-09-23T23:35:35.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テザー、評価額5000億ドルで最大200億ドルの資金調達を検討か＝報道]]></title>
+        <id>https://coinpost.jp/?p=652916</id>
+        <link href="https://coinpost.jp/?p=652916"/>
+        <updated>2025-09-23T23:15:13.000Z</updated>
+        <summary type="html"><![CDATA[ブルームバーグがステーブルコイン最大手テザーが企業価値5000億ドルで最大200億ドルの資金調達を検討していると報じた。同社戦略顧問は資金調達予定を否定。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヴィタリック、BaseなどのイーサリアムL2の安全性を強調]]></title>
+        <id>https://coinpost.jp/?p=652909</id>
+        <link href="https://coinpost.jp/?p=652909"/>
+        <updated>2025-09-23T22:45:35.000Z</updated>
+        <summary type="html"><![CDATA[ヴィタリック・ブテリン氏は、コインベース支援のL2「Base」は正しく開発が行われているとの見方を示した。L2の資産は、仮想通貨イーサリアムのブロックチェーンに管理される設計になっていると説明している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モルガン・スタンレー、E-tradeで仮想通貨取引開始へ]]></title>
+        <id>https://coinpost.jp/?p=652906</id>
+        <link href="https://coinpost.jp/?p=652906"/>
+        <updated>2025-09-23T22:00:40.000Z</updated>
+        <summary type="html"><![CDATA[モルガン・スタンレーが仮想通貨インフラ企業ゼロハッシュと提携し、Eトレード顧客向けに来年前半から仮想通貨取引サービスを開始すると発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米SEC　年内に「イノベーション免除」導入を検討　新規デジタル資産商品の承認を加速へ]]></title>
         <id>https://jp.cointelegraph.com/news/sec-innovation-exemption-track-digital-asset-products-chair-atkins</id>
@@ -1414,26 +1444,6 @@ BNBチェーン最大のDEX・パンケーキスワップ、DeFiの裾野を広�
 投稿 イーサリアム次期アップグレード「Fusaka」、2025年12月に実施予定 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン　2030年までに量子攻撃への備えをするべき＝ソラナ共同創設者ヤコベンコ氏が警鐘]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-quantum-computing-breakthrough-2030-prediction-solana-founder</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-quantum-computing-breakthrough-2030-prediction-solana-founder?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-09-19T11:28:26.000Z</updated>
-        <summary type="html"><![CDATA[ソラナの共同創設者アナトリー・ヤコベンコ氏が、ビットコインコミュニティに対し量子攻撃への対策を急ぐよう呼びかけた。量子コンピュータの大きな進展は予想以上に早く訪れる可能性があると主張している。]]></summary>
-        <author>
-            <name>Cointelegraph  Ciaran Lyons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン　2030年までに量子攻撃への備えをするべき＝ソラナ共同創設者ヤコベンコ氏が警鐘]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-quantum-computing-breakthrough-2030-prediction-solana-founder</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-quantum-computing-breakthrough-2030-prediction-solana-founder?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-09-19T11:28:26.000Z</updated>
-        <summary type="html"><![CDATA[ソラナの共同創設者アナトリー・ヤコベンコ氏が、ビットコインコミュニティに対し量子攻撃への対策を急ぐよう呼びかけた。量子コンピュータの大きな進展は予想以上に早く訪れる可能性があると主張している。]]></summary>
-        <author>
-            <name>Cointelegraph  Ciaran Lyons</name>
         </author>
     </entry>
 </feed>

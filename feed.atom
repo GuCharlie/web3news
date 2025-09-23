@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-23T15:39:41.665Z</updated>
+    <updated>2025-09-23T16:19:36.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは11万3000ドルの攻防　下落なら10万8000ドルも視野]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-struggles-113k-fed-bowman-hints-faster-rate-cuts</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-struggles-113k-fed-bowman-hints-faster-rate-cuts?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-23T15:56:36.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は水曜、11万3000ドルをサポートへ転換しようとしたが、トレーダーらは第4四半期に向けて価格の弱含みに備えている。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、第38週は下落──平均リターンは3番目に低い]]></title>
         <id>https://www.coindeskjapan.com/?p=315746</id>
@@ -1839,28 +1849,6 @@ BigBossの評判は実際どうだろうか？【2025年最新】500件の口コ
         <summary type="html"><![CDATA[イーサマシンがSECに S-4を非公開提出 イーサリアム（Ethereum）関連事業を展開予定のイーサマシン（Ether Machine）が、米SEC（米証券取引委員会）に「フォームS-4（Form S-4）」の非公開登 […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STBL、フランクリン・テンプルトンと提携｜1億ドル規模でステーブルコイン「USST」発行へ]]></title>
-        <id>https://crypto-times.jp/?p=143819</id>
-        <link href="https://crypto-times.jp/news-stbl/"/>
-        <updated>2025-09-19T04:19:26.000Z</updated>
-        <summary type="html"><![CDATA[ステーブルコイン2.0として注目されるSTBLが資産運用会社大手フランクリン・テンプルトンとの提携を発表しました。STBLはフランクリン・テンプルトンが手掛ける「BENJI」を利用し、1億ドル規模で新たなステーブルコイン […]
-投稿 STBL、フランクリン・テンプルトンと提携｜1億ドル規模でステーブルコイン「USST」発行へ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[予測市場Limitless、9月の取引ボリュームが急増]]></title>
-        <id>https://crypto-times.jp/?p=143849</id>
-        <link href="https://crypto-times.jp/news-limitless-volume/"/>
-        <updated>2025-09-19T03:57:38.000Z</updated>
-        <summary type="html"><![CDATA[Baseチェーン上で展開される予測市場プラットフォーム「Limitless」の取引ボリュームが9月に入って急増しています。 Duneのデータによると、同プラットフォームの8月の取引ボリュームは247万ドルでしたが9月は既 […]
-投稿 予測市場Limitless、9月の取引ボリュームが急増 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
 </feed>

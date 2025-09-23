@@ -470,16 +470,6 @@
           "wordCount": 1363,
           "title": "ペイパルのステーブルコイン、新たに9つのブロックチェーンに拡大",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/f8b3037764125a46ab06b577815db521cfab14f5-1920x1080-2.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=314898",
-          "author": "栃山直樹",
-          "description": "国内初の日本円建てステーブルコイン「JPYC」の発行を控えるJPYC社は9月19日、ブロックチェーンゲーム開発のdouble jump.tokyoが提供する法人 ...\n日本円ステーブルコイン「JPYC」に法人向けウォレット「N Suite」が対応──国内初 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/314898/",
-          "publishedOn": "2025-09-19T05:22:21.000Z",
-          "wordCount": 1337,
-          "title": "日本円ステーブルコイン「JPYC」に法人向けウォレット「N Suite」が対応──国内初",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/ダウンロード-2025-09-19T141610.337.jpeg"
         }
       ]
     },
@@ -1120,26 +1110,6 @@
           "wordCount": 794,
           "title": "マントルが「OP Succinct」へのメインネット移行完了、ZKロールアップでTVL世界最大に",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/19173904/abf34854b869ef719f4f5865183b9af1.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=498132",
-          "author": "HitomotoToshikazu",
-          "description": "eToro EUがドイツで暗号資産サービス提供へ 米小売取引プラットフォームのイートロ（eToro）が、MiCA規制下でドイツにおける暗号資産（仮想通貨）サービスの提供が認可されたと9月16日に発表した。 イートロは2月 […]",
-          "link": "https://www.neweconomy.jp/posts/498132",
-          "publishedOn": "2025-09-19T05:24:35.000Z",
-          "wordCount": 740,
-          "title": "イートロEU、ドイツでMiCA規制下の暗号資産サービス提供へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/19142428/cac8ee2dbd98a56036396d56a6f29306-1.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=498125",
-          "author": "HitomotoToshikazu",
-          "description": "Ripple・DBS・Franklin Templetonが提携 米リップル（Ripple）社、ディービーエス（DBS）銀行、フランクリン・テンプルトン（Franklin Templeton）の3社が、トークン化マネーマ […]",
-          "link": "https://www.neweconomy.jp/posts/498125",
-          "publishedOn": "2025-09-19T05:21:22.000Z",
-          "wordCount": 784,
-          "title": "リップル・DBS・フランクリンテンプルトン、米国債トークン化ファンド活用で覚書締結",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/19142054/2645e33d1a8be4c86a97dfd65615f35e.jpg"
         }
       ]
     },
@@ -1148,6 +1118,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/avalanche-bucks-crypto-market-drop-10-avax-price-pump",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "アバランチのAVAXトークンは火曜日に10％急騰し、33ドルを突破した。仮想通貨市場全体が下落する中での逆行高となった。AVAX価格は直近の安値29ドルから21.5％上昇しており、機関投資家による買いが勢いを生み、AVAXへの信頼が回復したことを示している。",
+          "link": "https://jp.cointelegraph.com/news/avalanche-bucks-crypto-market-drop-10-avax-price-pump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-23T17:06:40.000Z",
+          "wordCount": null,
+          "title": "アバランチ（AVAX）が下落相場の中で逆行高　機関投資家需要とオンチェーン成長が追い風",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTc2ZjUtMmJkMC03MjE1LTk2ODAtNGYzODNiYzBhOTI0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTc2ZjUtMmJkMC03MjE1LTk2ODAtNGYzODNiYzBhOTI0.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-struggles-113k-fed-bowman-hints-faster-rate-cuts",
           "author": "Cointelegraph  William Suberg",

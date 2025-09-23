@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-23T17:11:41.325Z</updated>
+    <updated>2025-09-23T17:36:48.807Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アバランチ（AVAX）が下落相場の中で逆行高　機関投資家需要とオンチェーン成長が追い風]]></title>
+        <id>https://jp.cointelegraph.com/news/avalanche-bucks-crypto-market-drop-10-avax-price-pump</id>
+        <link href="https://jp.cointelegraph.com/news/avalanche-bucks-crypto-market-drop-10-avax-price-pump?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-23T17:06:40.000Z</updated>
+        <summary type="html"><![CDATA[アバランチのAVAXトークンは火曜日に10％急騰し、33ドルを突破した。仮想通貨市場全体が下落する中での逆行高となった。AVAX価格は直近の安値29ドルから21.5％上昇しており、機関投資家による買いが勢いを生み、AVAXへの信頼が回復したことを示している。]]></summary>
+        <author>
+            <name>Cointelegraph  Nancy Lubale</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインは11万3000ドルの攻防　下落なら10万8000ドルも視野]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-struggles-113k-fed-bowman-hints-faster-rate-cuts</id>
@@ -1767,37 +1777,6 @@ BigBossの評判は実際どうだろうか？【2025年最新】500件の口コ
         <summary type="html"><![CDATA[米決済大手ペイパルは、自社のステーブルコイン「ペイパルUSD（PYUSD）」を8つの新しいブロックチェーンに拡大すると発表した。そのうち7つは、レイヤーゼロのスターゲート・ハイドラ・ブリッジとの統合を通じて実現する。]]></summary>
         <author>
             <name>Cointelegraph  Brayden Lindrea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イートロEU、ドイツでMiCA規制下の暗号資産サービス提供へ]]></title>
-        <id>https://www.neweconomy.jp/?p=498132</id>
-        <link href="https://www.neweconomy.jp/posts/498132"/>
-        <updated>2025-09-19T05:24:35.000Z</updated>
-        <summary type="html"><![CDATA[eToro EUがドイツで暗号資産サービス提供へ 米小売取引プラットフォームのイートロ（eToro）が、MiCA規制下でドイツにおける暗号資産（仮想通貨）サービスの提供が認可されたと9月16日に発表した。 イートロは2月 […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本円ステーブルコイン「JPYC」に法人向けウォレット「N Suite」が対応──国内初]]></title>
-        <id>https://www.coindeskjapan.com/?p=314898</id>
-        <link href="https://www.coindeskjapan.com/314898/"/>
-        <updated>2025-09-19T05:22:21.000Z</updated>
-        <summary type="html"><![CDATA[国内初の日本円建てステーブルコイン「JPYC」の発行を控えるJPYC社は9月19日、ブロックチェーンゲーム開発のdouble jump.tokyoが提供する法人 ...
-日本円ステーブルコイン「JPYC」に法人向けウォレット「N Suite」が対応──国内初 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップル・DBS・フランクリンテンプルトン、米国債トークン化ファンド活用で覚書締結]]></title>
-        <id>https://www.neweconomy.jp/?p=498125</id>
-        <link href="https://www.neweconomy.jp/posts/498125"/>
-        <updated>2025-09-19T05:21:22.000Z</updated>
-        <summary type="html"><![CDATA[Ripple・DBS・Franklin Templetonが提携 米リップル（Ripple）社、ディービーエス（DBS）銀行、フランクリン・テンプルトン（Franklin Templeton）の3社が、トークン化マネーマ […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
 </feed>

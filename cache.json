@@ -982,6 +982,36 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=499346",
+          "author": "NewEconomy",
+          "description": "中国当局が香港RWA事業者に停止要請か 中国証券監督管理委員会（CSRC）が一部の中国系証券会社に対し、香港での実世界資産（RWA）トークン化事業を一時停止するよう非公式に要請したようだ。「ロイター（Reuters）」が […]",
+          "link": "https://www.neweconomy.jp/posts/499346",
+          "publishedOn": "2025-09-24T08:17:31.000Z",
+          "wordCount": 759,
+          "title": "中国証券当局、香港RWA事業者に一時停止要請か＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/24171721/8692c1e76c0a3d96f14c16641431dee0.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=499339",
+          "author": "NewEconomy",
+          "description": "テザーが5000億ドルの評価額目指す 米ドル建てステーブルコイン「USDT」発行元のテザー（Tether）社が、最大200億ドル（約2兆9,400億円）の資金調達を計画しているようだ。「ブルームバーグ（Bloombarg […]",
+          "link": "https://www.neweconomy.jp/posts/499339",
+          "publishedOn": "2025-09-24T07:52:26.000Z",
+          "wordCount": 787,
+          "title": "テザー、最大200億ドルの調達計画。評価額5000億ドル目指す＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/24165222/d403e179b2b0a80c97eae021a81802be.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=499322",
+          "author": "OtsugaShinya",
+          "description": "旧マックハウスがビットコイン追加購入 衣料品の販売店舗を全国に展開する東証スタンダード上場企業のジーイエット（旧マックハウス）が、ビットコインの追加購入を9月24日に発表した。 発表によると同社は9月24日に4億円で23 […]",
+          "link": "https://www.neweconomy.jp/posts/499322",
+          "publishedOn": "2025-09-24T07:43:25.000Z",
+          "wordCount": 604,
+          "title": "ジーイエット（旧マックハウス）がビットコイン追加購入、4億円で約24BTC取得",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/24163910/BTC6-250714-PIXTA.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=499305",
           "author": "gentosha_takahashi",
           "description": "デジタル資産と資本市場に焦点 米国と英国が、「未来の市場のための大西洋横断タスクフォース（Transatlantic Taskforce for Markets of the Future）」の設立を決定した。米財務省が […]",
@@ -1218,6 +1248,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-price-surge-etf-corporate-demand-outpaces-supply",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "世界最大のビットコイン保有企業ストラテジーのマイケル・セイラー会長は、年末にかけてビットコイン（BTC）が再び上昇に転じると述べた。同氏によれば、企業や機関投資家の関心拡大が価格に上昇圧力を与えているという。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-price-surge-etf-corporate-demand-outpaces-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-24T07:55:46.000Z",
+          "wordCount": null,
+          "title": "マイケル・セイラー氏「年末にかけてビットコインは再び上昇へ」　企業・ETFの買い圧力が供給を上回る",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzQ2ZDUtMGZhNi03NDRkLWJlMWItM2JhM2M4NmFjYmU5.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzQ2ZDUtMGZhNi03NDRkLWJlMWItM2JhM2M4NmFjYmU5.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-bollinger-bands-tightest-in-history-calm-before-the-storm-say-analysts",
           "author": "Cointelegraph  Martin Young",

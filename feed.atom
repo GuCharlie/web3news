@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-24T09:39:29.980Z</updated>
+    <updated>2025-09-24T10:16:04.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは11万2500ドル付近で停滞─クジラが積極的に売却している]]></title>
+        <id>https://www.coindeskjapan.com/?p=315877</id>
+        <link href="https://www.coindeskjapan.com/315877/"/>
+        <updated>2025-09-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は11万ドルから12万ドルのレンジで停滞する一方、ゴールド（金）と米国株は史上最高値付近で推移している。 Glassnodeのコホート別蓄 ...
+ビットコインは11万2500ドル付近で停滞─クジラが積極的に売却している first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>James Van Straten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025-09-24 Hana Network、1,700万ドルのコミットメント獲得｜TGE間近で注目集める]]></title>
+        <id>https://crypto-times.jp/news-hana-network-secures-17-million-commitment-gathers-attention-ahead-of-tge/#p144116</id>
+        <link href="https://crypto-times.jp/news-hana-network-secures-17-million-commitment-gathers-attention-ahead-of-tge/"/>
+        <updated>2025-09-24T09:45:43.000Z</updated>
+        <summary type="html"><![CDATA[エンターテイメントと金融の融合を目指すHana Networkが現在実施中のローンチパッドで募集額の…]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTCは弱含みに推移するも11.2万ドル台を維持　材料待ちで方向感欠くか【ビットバンク仮想通貨分析】]]></title>
         <id>https://jp.cointelegraph.com/news/bitbank-s-bitcoin-daily-analysis-24th-september-2025</id>
@@ -1658,36 +1679,6 @@ BNBチェーン最大のDEX・パンケーキスワップ、DeFiの裾野を広�
         <summary type="html"><![CDATA[トランプ一族が支援するDeFiプロトコル、ワールド・リバティ・フィナンシャルがWLFIトークンの買い戻しとバーン提案がガバナンス投票で正式に承認されたと発表した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パンテラ・キャピタル、ソラナの機関投資家採用が転換点と分析]]></title>
-        <id>https://coinpost.jp/?p=652314</id>
-        <link href="https://coinpost.jp/?p=652314"/>
-        <updated>2025-09-19T22:10:34.000Z</updated>
-        <summary type="html"><![CDATA[投資会社パンテラ・キャピタルがソラナの機関投資家による採用が転換点を迎えていると分析した。2025年第4四半期のETF承認で本格普及が始まると予想した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反発のトリガーはどこに？ 仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ]]></title>
-        <id>https://jp.cointelegraph.com/news/price-predictions-9-19-btc-eth-xrp-bnb-sol-doge-ada-hype-link-avax</id>
-        <link href="https://jp.cointelegraph.com/news/price-predictions-9-19-btc-eth-xrp-bnb-sol-doge-ada-hype-link-avax?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-09-19T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインは11万7500ドルで強い売り圧力に直面したが、焦点は強気派がBTC価格を11万5500ドル以上で維持できるかどうかにある。]]></summary>
-        <author>
-            <name>Cointelegraph  Rakesh Upadhyay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反発のトリガーはどこに？ 仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ]]></title>
-        <id>https://jp.cointelegraph.com/news/price-predictions-9-19-btc-eth-xrp-bnb-sol-doge-ada-hype-link-avax</id>
-        <link href="https://jp.cointelegraph.com/news/price-predictions-9-19-btc-eth-xrp-bnb-sol-doge-ada-hype-link-avax?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-09-19T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインは11万7500ドルで強い売り圧力に直面したが、焦点は強気派がBTC価格を11万5500ドル以上で維持できるかどうかにある。]]></summary>
-        <author>
-            <name>Cointelegraph  Rakesh Upadhyay</name>
         </author>
     </entry>
 </feed>

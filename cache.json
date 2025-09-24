@@ -355,6 +355,51 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=653038",
+          "author": "幸田直子",
+          "description": "JPモルガンのジェイミー・ダイモンCEOが、FRBの追加利下げはインフレ次第と発言した。米国経済の見通しについて語るとともに、ブロックチェーンとAIの現実性を強調し、ビットコインやステーブルコインについての考え方を明らかにした。",
+          "link": "https://coinpost.jp/?p=653038",
+          "publishedOn": "2025-09-24T05:35:02.000Z",
+          "wordCount": 3247,
+          "title": "JPモルガンCEO、FRBの追加利下げに慎重論　インフレと米国経済の展望を語る",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/JPMorgan-Logo.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/JPMorgan-Logo.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=653024",
+          "author": "菊谷ルイス",
+          "description": "テザーのパオロ・アルドイーノCEOがトヨタ、BYD、ヤマハの自動車大手3社のディーラーがボリビアでUSDT決済受け入れを開始したと明かした。",
+          "link": "https://coinpost.jp/?p=653024",
+          "publishedOn": "2025-09-24T04:45:31.000Z",
+          "wordCount": 3146,
+          "title": "トヨタやBYDなどの販売業者、ボリビアでステーブルコインUSDT決済受け入れ開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/toyota-byd-usdt.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/toyota-byd-usdt.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=652979",
+          "author": "A.Yamada",
+          "description": "著名仮想通貨アナリストのヘイズ氏がトランプ政権下の量的緩和政策を分析。15兆ドル規模の信用拡大でビットコインが大幅上昇すると予測している。",
+          "link": "https://coinpost.jp/?p=652979",
+          "publishedOn": "2025-09-24T02:55:25.000Z",
+          "wordCount": 3158,
+          "title": "アーサー・ヘイズ、トランプ政権の金融緩和でビットコイン340万ドルのシナリオを試算",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/0522_arthur.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/0522_arthur.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=652971",
           "author": "菊谷ルイス",
           "description": "カザフスタン中央銀行がマスターカードやユーラシアン銀行と連携し、ソラナブロックチェーン上で法定通貨「テンゲ」連動ステーブルコインKZTEのパイロット事業を開始した。",
@@ -917,6 +962,76 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=499294",
+          "author": "HitomotoToshikazu",
+          "description": "PYUSDが9チェーンで導入へ 米決済大手ペイパル（PayPal）による米ドル建てステーブルコイン「ペイパルUSD（PYUSD）」が、新たにステラネットワーク（Stellar Network）上で発行開始された。9月19 […]",
+          "link": "https://www.neweconomy.jp/posts/499294",
+          "publishedOn": "2025-09-24T06:01:28.000Z",
+          "wordCount": 815,
+          "title": "ペイパルのステーブルコイン「PYUSD」がステラに対応、レイヤーゼロ対応「PYUSD0」で9チェーン導入も",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/24150001/22db4719cb156a647e20941dc26d3af7.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=499276",
+          "author": "HitomotoToshikazu",
+          "description": "ビットマインの総保有資産額が約1.6兆円超に ビットマインイマージョンテクノロジーズ（BitMine Immersion Technologies：以下、ビットマイン）の保有資産額が、114億ドル（約1.6兆円）に達した […]",
+          "link": "https://www.neweconomy.jp/posts/499276",
+          "publishedOn": "2025-09-24T05:27:30.000Z",
+          "wordCount": 729,
+          "title": "ビットマインの総保有資産が114億ドルに、イーサリアムは241万ETH超える",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/24142724/32a22c8023d8ec5d74df617de550c881.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=499238",
+          "author": "HitomotoToshikazu",
+          "description": "BUIDL・VBILL保有者向けRLUSD交換スマコン導入 米リップル（Ripple）社とセキュリタイズ（Securitize）が、トークン化ファンド「BUIDL」・「VBILL」の持分をリップルUSD（RLUSD）に交 […]",
+          "link": "https://www.neweconomy.jp/posts/499238",
+          "publishedOn": "2025-09-24T05:24:03.000Z",
+          "wordCount": 769,
+          "title": "リップル社、ステーブルコイン「RLUSD」とトークン化ファンド「BUIDL」・「VBILL」が交換可能に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/24142334/8490d027b047309d237a72554c904270.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=499248",
+          "author": "gentosha_takahashi",
+          "description": "米CFTCが新イニシアチブ発表 米商品先物取引委員会（CFTC）が、デリバティブ市場におけるステーブルコインを含むトークン化担保の利用に関するイニシアチブを開始すると9月23日に発表した。 この動きは、CFTCが推進する […]",
+          "link": "https://www.neweconomy.jp/posts/499248",
+          "publishedOn": "2025-09-24T05:07:45.000Z",
+          "wordCount": 734,
+          "title": "米CFTC、デリバティブ市場でトークン化担保利用を推進。ステーブルコインも対象に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/24140737/7f65b9fef98521a0ba6fa3d3311467da.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=499229",
+          "author": "HitomotoToshikazu",
+          "description": "BTC現物ステーキングETPが英LSEに上場 ヴァラー・デジタル・セキュリティーズ（Valour Digital Securities：以下、ヴァラー）発行のビットコイン（BTC）ステーキングETP（上場投資商品）が、英 […]",
+          "link": "https://www.neweconomy.jp/posts/499229",
+          "publishedOn": "2025-09-24T04:47:19.000Z",
+          "wordCount": 734,
+          "title": "ヴァラーの「ビットコイン現物ステーキングETP」、英LSEに上場",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/24134711/471d253af0f12b4f20fc25cbae4f6769.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=499208",
+          "author": "TamuraSeiji",
+          "description": "オプティミズムでメンテナンスアップグレードが提案 イーサリアム（Ethereum）のレイヤー2ネットワーク「OP mainnet（OPメインネット）」を開発するOP Labs（OPラボ）が、「アップグレード16a（U16 […]",
+          "link": "https://www.neweconomy.jp/posts/499208",
+          "publishedOn": "2025-09-24T03:48:51.000Z",
+          "wordCount": 788,
+          "title": "オプティミズム、メンテナンスアップグレード「U16a」提案",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/24124848/862c680c991a5d8c3501bcbaf8f13efb.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=499198",
+          "author": "gentosha_takahashi",
+          "description": "従来の金融規制を暗号資産業務に適用 英国の金融行動監視機構（FCA）が、暗号資産（仮想通貨）事業者への包括的な規制適用に向けた協議文書「CP25/25」を9月17日に公表した。 今回の提案は、英財務省（HM Treasu […]",
+          "link": "https://www.neweconomy.jp/posts/499198",
+          "publishedOn": "2025-09-24T02:52:54.000Z",
+          "wordCount": 592,
+          "title": "英FCA、暗号資産事業者に包括的規制案。2026年施行へ向け協議",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/24115248/FCA-250922Reuters.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=499189",
           "author": "HitomotoToshikazu",
           "description": "ストラテジーがビットコイン追加購入 上場企業によるビットコイン（BTC）の保有数で世界第1位のストラテジー（Strategy）が、ビットコインの追加購入を9月22日に発表した。 ストラテジーは9月15日から9月21日まで […]",
@@ -1073,6 +1188,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-millionaire-count-rises-40-percent-in-2025",
+          "author": "Cointelegraph  Brayden Lindrea",
+          "description": "ビットコインの価格上昇と仮想通貨市場全体の時価総額が2025年半ばに3.3兆ドルを突破したことを背景に、仮想通貨で資産を築いたミリオネアの数が前年比40％増の24万1700人に達した。",
+          "link": "https://jp.cointelegraph.com/news/crypto-millionaire-count-rises-40-percent-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-24T05:03:27.000Z",
+          "wordCount": null,
+          "title": "仮想通貨ミリオネアが急増　ビットコインの上昇で40％増の24万人以上に＝ヘンリー＆パートナーズ調査",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzRlNzYtZmYxMi03ZjgyLTk0ZmEtZDJiZDQ1ZWQ5ZDQz.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzRlNzYtZmYxMi03ZjgyLTk0ZmEtZDJiZDQ1ZWQ5ZDQz.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/novogratz-predicts-cycle-cycle-breaking-new-wave-of-crypto-participation",
+          "author": "Cointelegraph  Martin Young",
+          "description": "米国で2つの重要な仮想通貨法案が成立したことにより、従来の4年サイクルを揺るがす新たな投資参加の波が訪れる可能性があると、ギャラクシーデジタルのマイク・ノボグラッツCEOが述べた。",
+          "link": "https://jp.cointelegraph.com/news/novogratz-predicts-cycle-cycle-breaking-new-wave-of-crypto-participation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-24T04:35:01.000Z",
+          "wordCount": null,
+          "title": "米国の仮想通貨規制法成立、新たな投資参加の波で市場サイクルを変える可能性──ギャラクシーデジタルCEO",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTc5OTctOGYxMC03Y2FlLThkOWQtMDQ3OGNiODliZGJk.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTc5OTctOGYxMC03Y2FlLThkOWQtMDQ3OGNiODliZGJk.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/tether-20b-fundraise-500b-valuation-report",
           "author": "Cointelegraph  Sam Bourgi",
@@ -1552,126 +1697,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGMxYmQtNjQ3Zi03YTAzLThmMzAtMjQ0ZTA3YTk3M2M5.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/xrp-revisits-dollar3-support-but-data-shows-bulls-still-in-control",
-          "author": "Cointelegraph  Biraajmaan Tamuly",
-          "description": "XRP（XRP）は9月前半に18％上昇し、2.70ドルから3.18ドルへと上昇した。しかし、3.20ドルの突破には失敗し、4時間足でのフェアバリューギャップで拒否され、再び3ドル水準を試す展開となった。",
-          "link": "https://jp.cointelegraph.com/news/xrp-revisits-dollar3-support-but-data-shows-bulls-still-in-control?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-09-19T17:41:20.000Z",
-          "wordCount": null,
-          "title": "3ドルで攻防続くXRP　3.30ドル突破が次の上昇トリガーに",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWViZTAtYjgzNC03MmY1LWFhNDAtZjI2Y2QyYjBhYmY5.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWViZTAtYjgzNC03MmY1LWFhNDAtZjI2Y2QyYjBhYmY5.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/xrp-revisits-dollar3-support-but-data-shows-bulls-still-in-control",
-          "author": "Cointelegraph  Biraajmaan Tamuly",
-          "description": "XRP（XRP）は9月前半に18％上昇し、2.70ドルから3.18ドルへと上昇した。しかし、3.20ドルの突破には失敗し、4時間足でのフェアバリューギャップで拒否され、再び3ドル水準を試す展開となった。",
-          "link": "https://jp.cointelegraph.com/news/xrp-revisits-dollar3-support-but-data-shows-bulls-still-in-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-09-19T17:41:20.000Z",
-          "wordCount": null,
-          "title": "3ドルで攻防続くXRP　3.30ドル突破が次の上昇トリガーに",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWViZTAtYjgzNC03MmY1LWFhNDAtZjI2Y2QyYjBhYmY5.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWViZTAtYjgzNC03MmY1LWFhNDAtZjI2Y2QyYjBhYmY5.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bhutan-bitcoin-transfer-fed-rate-cut",
-          "author": "Cointelegraph  Zoltan Vardai",
-          "description": "ブータン政府が今週、1億ドル以上に相当するビットコイン（BTC）を移動させた。このタイミングが、米連邦準備制度理事会（FRB）による利下げと重なったことで、市場への売り圧力懸念が広がっている。",
-          "link": "https://jp.cointelegraph.com/news/bhutan-bitcoin-transfer-fed-rate-cut?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-09-19T17:15:35.000Z",
-          "wordCount": null,
-          "title": "ブータン政府　1億ドル相当のビットコインに動き　市場に売り圧力懸念",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTYxZjYtMzgzOS03NzVmLWJkNDAtMjJmNTg5ODgwYzM0.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTYxZjYtMzgzOS03NzVmLWJkNDAtMjJmNTg5ODgwYzM0.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bhutan-bitcoin-transfer-fed-rate-cut",
-          "author": "Cointelegraph  Zoltan Vardai",
-          "description": "ブータン政府が今週、1億ドル以上に相当するビットコイン（BTC）を移動させた。このタイミングが、米連邦準備制度理事会（FRB）による利下げと重なったことで、市場への売り圧力懸念が広がっている。",
-          "link": "https://jp.cointelegraph.com/news/bhutan-bitcoin-transfer-fed-rate-cut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-09-19T17:15:35.000Z",
-          "wordCount": null,
-          "title": "ブータン政府　1億ドル相当のビットコインに動き　市場に売り圧力懸念",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTYxZjYtMzgzOS03NzVmLWJkNDAtMjJmNTg5ODgwYzM0.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTYxZjYtMzgzOS03NzVmLWJkNDAtMjJmNTg5ODgwYzM0.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/trump-wlfi-passes-vote-token-buybacks-burns",
-          "author": "Cointelegraph  Zoltan Vardai",
-          "description": "米国のトランプ大統領が支援する仮想通貨プロジェクト「ワールド・リバティ・フィナンシャル（WLFI）」は、価格低迷を受け、供給削減とトークン価値向上を目的とするガバナンス提案を可決した。",
-          "link": "https://jp.cointelegraph.com/news/trump-wlfi-passes-vote-token-buybacks-burns?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-09-19T16:43:51.000Z",
-          "wordCount": null,
-          "title": "トランプ家関与の仮想通貨プロジェクト「ワールド・リバティ」、買い戻し・バーン提案を可決",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTYxNjAtZTA0ZS03NDgzLThmMTktZjk5ZjFkYTVmZWIw.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTYxNjAtZTA0ZS03NDgzLThmMTktZjk5ZjFkYTVmZWIw.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/trump-wlfi-passes-vote-token-buybacks-burns",
-          "author": "Cointelegraph  Zoltan Vardai",
-          "description": "米国のトランプ大統領が支援する仮想通貨プロジェクト「ワールド・リバティ・フィナンシャル（WLFI）」は、価格低迷を受け、供給削減とトークン価値向上を目的とするガバナンス提案を可決した。",
-          "link": "https://jp.cointelegraph.com/news/trump-wlfi-passes-vote-token-buybacks-burns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-09-19T16:43:51.000Z",
-          "wordCount": null,
-          "title": "トランプ家関与の仮想通貨プロジェクト「ワールド・リバティ」、買い戻し・バーン提案を可決",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTYxNjAtZTA0ZS03NDgzLThmMTktZjk5ZjFkYTVmZWIw.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTYxNjAtZTA0ZS03NDgzLThmMTktZjk5ZjFkYTVmZWIw.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/these-3-cardano-charts-say-ada-price-shooting-for-1-25-next",
-          "author": "Cointelegraph  Nancy Lubale",
-          "description": "カルダノ（ADA）は複数のテクニカルおよびオンチェーン指標で強気のサインを示しており、今後数日から数週間で1.25ドルまで上昇する可能性がある。",
-          "link": "https://jp.cointelegraph.com/news/these-3-cardano-charts-say-ada-price-shooting-for-1-25-next?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-09-19T16:21:12.000Z",
-          "wordCount": null,
-          "title": "カルダノに強気シグナル点灯　1.25ドル突破への展開となるか",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTVkNzYtYmY5ZS03Y2ZiLWE3M2YtYTdiYzljZGRhMDdk.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTVkNzYtYmY5ZS03Y2ZiLWE3M2YtYTdiYzljZGRhMDdk.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/these-3-cardano-charts-say-ada-price-shooting-for-1-25-next",
-          "author": "Cointelegraph  Nancy Lubale",
-          "description": "カルダノ（ADA）は複数のテクニカルおよびオンチェーン指標で強気のサインを示しており、今後数日から数週間で1.25ドルまで上昇する可能性がある。",
-          "link": "https://jp.cointelegraph.com/news/these-3-cardano-charts-say-ada-price-shooting-for-1-25-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-09-19T16:21:12.000Z",
-          "wordCount": null,
-          "title": "カルダノに強気シグナル点灯　1.25ドル突破への展開となるか",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTVkNzYtYmY5ZS03Y2ZiLWE3M2YtYTdiYzljZGRhMDdk.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTVkNzYtYmY5ZS03Y2ZiLWE3M2YtYTdiYzljZGRhMDdk.jpg"
         }
       ]
     },
@@ -1680,6 +1705,56 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/news-bless-listing/#p144103",
+          "author": "Crypto Times 編集部",
+          "description": "分散型コンピューティングプロトコルBless Networkの$BLESSトークンがBinance（…",
+          "link": "https://crypto-times.jp/news-bless-listing/",
+          "publishedOn": "2025-09-24T04:24:10.000Z",
+          "wordCount": 591,
+          "title": "2025-09-24 分散型コンピューティング$BLESS、上場後底値から一時2倍以上に",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/shutterstock_2624365825.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/news-rural-revitalization-saji/#p143887",
+          "author": "よきょい",
+          "description": "現在、DAOやNFTといったブロックチェーンを活用するプロジェクトが、Web3分野に対する関心の高ま…",
+          "link": "https://crypto-times.jp/news-rural-revitalization-saji/",
+          "publishedOn": "2025-09-24T04:19:12.000Z",
+          "wordCount": 602,
+          "title": "2025-09-24 【地方創生】鳥取市佐治町で実施される『にんケットぷち in 鳥取・佐治 2025』とは",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/281fe9461af52ae2770a9e741284736f.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/news-hemi-binance-token/#p144083",
+          "author": "Crypto Times 編集部",
+          "description": "BitcoinとEthereumのエコシステムを橋渡しするモジュラー型レイヤー2プロトコルのHemi…",
+          "link": "https://crypto-times.jp/news-hemi-binance-token/",
+          "publishedOn": "2025-09-24T03:19:26.000Z",
+          "wordCount": 602,
+          "title": "2025-09-24 仮想通貨HEMI、Binance上場で価格101%急騰",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/shutterstock_1938721840.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/press-pepe-two-memecoins/#p144092",
+          "author": "Crypto Times 編集部",
+          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利…",
+          "link": "https://crypto-times.jp/press-pepe-two-memecoins/",
+          "publishedOn": "2025-09-24T03:10:33.000Z",
+          "wordCount": 598,
+          "title": "2025-09-24 ペペコイン 今後は？次の投資先として台頭する2つの新しい仮想通貨も紹介",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/unknown-3-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/press-neura-ne-yo/#p144088",
+          "author": "Crypto Times 編集部",
+          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利…",
+          "link": "https://crypto-times.jp/press-neura-ne-yo/",
+          "publishedOn": "2025-09-24T03:01:37.000Z",
+          "wordCount": 600,
+          "title": "2025-09-24 Neura（ニューラ）が世界的投資家やNe-Yoなど文化的リーダーからの支援を獲得",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/unknown-3.jpg"
+        },
         {
           "id": "https://crypto-times.jp/press-bitget-4-chains/#p144084",
           "author": "Crypto Times 編集部",

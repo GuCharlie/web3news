@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-25T22:12:45.898Z</updated>
+    <updated>2025-09-25T22:37:22.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米ドルが3週間ぶり高値の中、ビットコインは11万ドルへの「差し迫った」再テストに直面]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-faces-imminent-110k-retest-us-dollar-three-week-high</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-faces-imminent-110k-retest-us-dollar-three-week-high?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-25T22:27:20.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインは好調な米雇用統計を受けて直近安値を更新し、株や金とともにアナリストが「当然の」調整と呼ぶ動きに加わった。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グーグル、30億ドルの取引でビットコインマイニング企業サイファー・マイニングの株式5.4%を取得]]></title>
+        <id>https://jp.cointelegraph.com/news/google-acquires-5-4-stake-in-bitcoin-mining-company-cipher-mining-in-ai-deal</id>
+        <link href="https://jp.cointelegraph.com/news/google-acquires-5-4-stake-in-bitcoin-mining-company-cipher-mining-in-ai-deal?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-25T22:17:11.000Z</updated>
+        <summary type="html"><![CDATA[グーグルは、30億ドル規模、10年契約のAIデータセンター取引において、フルイドスタックの14億ドルの債務を保証することで、ビットコインマイナーであるサイファー・マイニングの株式5.4%を取得した。]]></summary>
+        <author>
+            <name>Cointelegraph  Adrian Zmudzinski</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ハッシュデックス、SECの包括的リスティング基準に基づき仮想通貨インデックス米国ETFを拡大]]></title>
         <id>https://jp.cointelegraph.com/news/hashdex-expand-crypto-index-etf-sec-generic-standards</id>

@@ -505,6 +505,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=653330",
+          "author": "幸田直子",
+          "description": "バイナンス創設者CZ氏は、DAT企業が仮想通貨エコシステムにもたらす影響について語り、その仕組みを構築したストラテジー社のマイケル・セイラー会長の功績を高く評価した。",
+          "link": "https://coinpost.jp/?p=653330",
+          "publishedOn": "2025-09-25T06:56:02.000Z",
+          "wordCount": 3178,
+          "title": "CZがマイケル・セイラーを絶賛、仮想通貨トレジャリー企業が市場に与える影響とは",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-czar-criticize.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-czar-criticize.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=653290",
           "author": "A.Yamada",
           "description": "仮想通貨財務戦略を開始したサムザップが15億円の自社株買いプログラムを承認した。ドージコイン750万枚を購入しており、マイニング企業買収も予定している。",
@@ -1484,6 +1499,21 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/market-maker-gsr-files-5-crypto-etfs",
+          "author": "Cointelegraph  Jesse Coghlan",
+          "description": "ウォール街に新たな上場投資信託（ETF）が登場する可能性がある。仮想通貨トレーディングおよびマーケットメイキング企業GSRが、仮想通貨トレジャリー企業を束ねたETFを含む5本のETFを米国で申請した。",
+          "link": "https://jp.cointelegraph.com/news/market-maker-gsr-files-5-crypto-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-25T06:59:08.000Z",
+          "wordCount": null,
+          "title": "ウォール街に仮想通貨トレジャリーETF登場か　仮想通貨トレーディング企業GSRが申請",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJmZDAtNGNmYi03Y2M4LWFkZDUtMDA3MzgyYTFlY2U3.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJmZDAtNGNmYi03Y2M4LWFkZDUtMDA3MzgyYTFlY2U3.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/ethereum-s-peerdas-key-l2-scaling-vitalik-buterin",
           "author": "Cointelegraph  Martin Young",
           "description": "イーサリアム共同創設者ヴィタリック・ブテリン氏は、12月に予定されている「Fusaka」アップグレードによって、ノードがブロックチェーン全体をダウンロードせずにデータの可用性を検証できるようになり、拡張性が向上すると述べた。",
@@ -2090,6 +2120,26 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/news-bitcoin-predicted-to-reach-1-million-by-2030-coinbase-ceo/#p144171",
+          "author": "Crypto Times 編集部",
+          "description": "大手仮想通貨取引所Coinbase（コインベース）のブライアン・アームストロングCEOは、ビットコイ…",
+          "link": "https://crypto-times.jp/news-bitcoin-predicted-to-reach-1-million-by-2030-coinbase-ceo/",
+          "publishedOn": "2025-09-25T07:15:24.000Z",
+          "wordCount": 622,
+          "title": "2025-09-25 ビットコイン、2030年までに100万ドルの予測｜Coinbase CEO",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/shutterstock_2629484225.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/news-tether-reportedly-considering-massive-fundraising-at-a-valuation-of-approximately-500-billion/#p144167",
+          "author": "Crypto Times 編集部",
+          "description": "世界最大のステーブルコイン発行企業であるテザー社が最大200億ドル規模の資金調達を検討していることが…",
+          "link": "https://crypto-times.jp/news-tether-reportedly-considering-massive-fundraising-at-a-valuation-of-approximately-500-billion/",
+          "publishedOn": "2025-09-25T06:58:26.000Z",
+          "wordCount": 633,
+          "title": "2025-09-25 テザー社、約5000億ドル評価額で大規模資金調達を検討か",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/shutterstock_2453966719.jpg"
+        },
         {
           "id": "https://crypto-times.jp/news-popular-dex-grvt-introduces-8-cryptocurrencies-including-aster-with-a-fee-of-0-01/#p144160",
           "author": "よきょい",

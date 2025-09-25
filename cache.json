@@ -1484,6 +1484,21 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/ethereum-s-peerdas-key-l2-scaling-vitalik-buterin",
+          "author": "Cointelegraph  Martin Young",
+          "description": "イーサリアム共同創設者ヴィタリック・ブテリン氏は、12月に予定されている「Fusaka」アップグレードによって、ノードがブロックチェーン全体をダウンロードせずにデータの可用性を検証できるようになり、拡張性が向上すると述べた。",
+          "link": "https://jp.cointelegraph.com/news/ethereum-s-peerdas-key-l2-scaling-vitalik-buterin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-25T06:23:56.000Z",
+          "wordCount": null,
+          "title": "イーサリアム共同創設者ブテリン氏、12月の「Fusaka」アップグレードによる拡張性向上を強調",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTdmNDctYjcxNS03OWY5LThkN2ItNjY0N2JlYzRjNWY4.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTdmNDctYjcxNS03OWY5LThkN2ItNjY0N2JlYzRjNWY4.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/ethereum-balance-exchanges-hits-9-year-low-what-it-means",
           "author": "Cointelegraph  Martin Young",
           "description": "機関投資家による積極的な買い集めを背景に、イーサリアム（ETH）の中央集権型取引所での保有量が2016年以来の最低水準に落ち込んでいる。",
@@ -2075,6 +2090,26 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/news-popular-dex-grvt-introduces-8-cryptocurrencies-including-aster-with-a-fee-of-0-01/#p144160",
+          "author": "よきょい",
+          "description": "ゼロ知識（ZK）技術を活用した分散型取引所（DEX）のGrvt（グラビティ）が、トレーダーの選択肢を…",
+          "link": "https://crypto-times.jp/news-popular-dex-grvt-introduces-8-cryptocurrencies-including-aster-with-a-fee-of-0-01/",
+          "publishedOn": "2025-09-25T06:35:12.000Z",
+          "wordCount": 620,
+          "title": "2025-09-25 注目DEX「Grvt」、手数料-0.01%でASTERなど8銘柄導入",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/7966bae78213db11914ad7af893f8431-1.png"
+        },
+        {
+          "id": "https://crypto-times.jp/news-is-the-ethereum-bull-case-valid-analyst-criticizes/#p144157",
+          "author": "Crypto Times 編集部",
+          "description": "ベンチャーキャピタルの創設者で投資家のアンドリュー・カン氏は著名アナリストのトム・リー氏のイーサリア…",
+          "link": "https://crypto-times.jp/news-is-the-ethereum-bull-case-valid-analyst-criticizes/",
+          "publishedOn": "2025-09-25T06:27:22.000Z",
+          "wordCount": 598,
+          "title": "2025-09-25 イーサリアム強気論は正しいのか｜アナリストが批判",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/shutterstock_2577626423.jpg"
+        },
         {
           "id": "https://crypto-times.jp/press-btcc-jaren-jackson-jr-nba/#p144153",
           "author": "Crypto Times 編集部",

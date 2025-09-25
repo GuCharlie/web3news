@@ -535,6 +535,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=653382",
+          "author": "AKIRA.H",
+          "description": "CoinTradeがSUIとIOTXの取扱いを開始。積立サービスに対応し、今後はステーキング機能の提供も予定。取扱銘柄は25種類に拡大。",
+          "link": "https://coinpost.jp/?p=653382",
+          "publishedOn": "2025-09-25T07:56:09.000Z",
+          "wordCount": 3164,
+          "title": "コイントレード、仮想通貨スイ（SUI）とIOTXを追加　ステーキングは近日予定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/CoinTrade-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/CoinTrade-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=653375",
+          "author": "AKIRA.H",
+          "description": "韓国大手Naverが暗号資産取引所Upbit買収交渉と報道。暗号資産と金融融合に期待、株価急伸。政府のステーブルコイン政策とも連動。",
+          "link": "https://coinpost.jp/?p=653375",
+          "publishedOn": "2025-09-25T07:22:23.000Z",
+          "wordCount": 3161,
+          "title": "韓国ネイバー、暗号資産取引所アップビット買収へ　株価急伸",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/upbit0925.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/upbit0925.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=653330",
           "author": "幸田直子",
           "description": "バイナンス創設者CZ氏は、DAT企業が仮想通貨エコシステムにもたらす影響について語り、その仕組みを構築したストラテジー社のマイケル・セイラー会長の功績を高く評価した。",
@@ -1112,6 +1142,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=499781",
+          "author": "OtsugaShinya",
+          "description": "ソニー銀行のweb3関連事業子会社が事業開始へ ソニー銀行のweb3関連事業子会社「BlockBloom（ブロックブルーム）株式会社」が、10月1日より事業を開始する。ソニー銀行が9月25日に発表した。 新会社設立の目的 […]",
+          "link": "https://www.neweconomy.jp/posts/499781",
+          "publishedOn": "2025-09-25T08:53:43.000Z",
+          "wordCount": 741,
+          "title": "ソニー銀行、web3関連事業子会社「BlockBloom」事業開始へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/25175333/2941dbcff1a6db57007f64d600c2c7b6.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=499723",
           "author": "HitomotoToshikazu",
           "description": "Benji Technology PlatformがBNB Chainに統合 米大手資産運用企業フランクリン・テンプルトン（Franklin Templeton）が、独自のトークン化基盤「ベンジ・テクノロジー・プラットフ […]",
@@ -1548,6 +1588,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0925",
+          "author": "Cointelegraph  ビットバンク　長谷川友哉",
+          "description": "24日のビットコイン（BTC）円は1658万1円から取引が始まった。",
+          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0925?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-25T08:51:28.000Z",
+          "wordCount": null,
+          "title": "BTCは窓埋め達成で反発　勢いは今一つ？【ビットバンク仮想通貨分析】",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2ExMTktYjgzNC03ZWUxLWE2ZDgtYzk2ZTQ2Y2Q4ZGM4.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2ExMTktYjgzNC03ZWUxLWE2ZDgtYzk2ZTQ2Y2Q4ZGM4.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/market-maker-gsr-files-5-crypto-etfs",
           "author": "Cointelegraph  Jesse Coghlan",
@@ -2170,6 +2225,36 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/news-south-park-sparks-a-meta-situation-where-prediction-markets-are-bets-on-prediction-markets/#p144140",
+          "author": "よきょい",
+          "description": "人気アニメシリーズ「サウスパーク」が9月24日に放送した最新エピソードで「予測市場」を取り上げ、暗号…",
+          "link": "https://crypto-times.jp/news-south-park-sparks-a-meta-situation-where-prediction-markets-are-bets-on-prediction-markets/",
+          "publishedOn": "2025-09-25T09:10:43.000Z",
+          "wordCount": 589,
+          "title": "2025-09-25 サウスパークが火付け役。「予測市場」を予測市場で賭けるメタな事態に",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/shutterstock_2675795011.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/news-metaplanets-stock-price-falls-more-than-4-despite-the-arrival-of-a-major-us-investor/#p144144",
+          "author": "よきょい",
+          "description": "株式会社メタプラネットの株価が25日の東京株式市場で大幅に反落し、前日比23円安（-4.10%）の5…",
+          "link": "https://crypto-times.jp/news-metaplanets-stock-price-falls-more-than-4-despite-the-arrival-of-a-major-us-investor/",
+          "publishedOn": "2025-09-25T08:53:38.000Z",
+          "wordCount": 571,
+          "title": "2025-09-25 メタプラネット、米大手株主登場も株価は4%超の下落",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/shutterstock_1713378805-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/news-metaplanets-largest-shareholder-changes-major-us-company-suddenly-emerges/#p144143",
+          "author": "よきょい",
+          "description": "株式会社メタプラネットは9月25日、同社の筆頭株主が異動したことを発表しました。米国の投資顧問会社で…",
+          "link": "https://crypto-times.jp/news-metaplanets-largest-shareholder-changes-major-us-company-suddenly-emerges/",
+          "publishedOn": "2025-09-25T08:45:35.000Z",
+          "wordCount": 594,
+          "title": "2025-09-25 メタプラネット筆頭株主が交代。米大手企業が急浮上",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/shutterstock_2673462071.jpg"
+        },
         {
           "id": "https://crypto-times.jp/news-ethereum-briefly-dips-below-4000-hits-lowest-level-in-seven-weeks/#p144197",
           "author": "Crypto Times 編集部",

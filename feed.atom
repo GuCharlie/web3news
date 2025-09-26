@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-26T07:15:23.297Z</updated>
+    <updated>2025-09-26T07:36:29.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム財団、「Ethereum Everywhere」発足。コミュニティ支援強化へ]]></title>
+        <id>https://www.neweconomy.jp/?p=500207</id>
+        <link href="https://www.neweconomy.jp/posts/500207"/>
+        <updated>2025-09-26T07:32:37.000Z</updated>
+        <summary type="html"><![CDATA[グローバルなコミュニティ支援を強化 イーサリアム財団（Ethereum Foundation：EF）が、世界中のイーサリアムコミュニティのつながりを強化する取り組み「イーサリアム・エブリウェア（Ethereum Ever […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金融業界向けブロックチェーン「カントン」、チェーンリンクのCCIP導入]]></title>
+        <id>https://www.neweconomy.jp/?p=500197</id>
+        <link href="https://www.neweconomy.jp/posts/500197"/>
+        <updated>2025-09-26T07:25:07.000Z</updated>
+        <summary type="html"><![CDATA[Canton NetworkにCCIP導入 金融業界向け分散型ネットワーク「カントンネットワーク（Canton Network）」が、分散型オラクルネットワーク「チェーンリンク（Chainlink）」との戦略的提携を9月 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットワイズ、「ハイパーリキッド（HYPE）現物ETF」を米SECにS1申請]]></title>
+        <id>https://www.neweconomy.jp/?p=500183</id>
+        <link href="https://www.neweconomy.jp/posts/500183"/>
+        <updated>2025-09-26T07:20:56.000Z</updated>
+        <summary type="html"><![CDATA[Bitwise Hyperliquid ETF申請 米暗号資産（仮想通貨）運用会社ビットワイズ（Bitwise）が、暗号資産ハイパーリキッド（HYPE）の現物ETF（上場投資信託）に関する登録届出書「S-1申請書（For […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゲート、独自L2「Gate Layer」ローンチとGTトークノミクス刷新]]></title>
+        <id>https://www.neweconomy.jp/?p=500182</id>
+        <link href="https://www.neweconomy.jp/posts/500182"/>
+        <updated>2025-09-26T07:17:43.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産取引所ゲートが独自レイヤー2発表 海外暗号資産（仮想通貨）取引所ゲート（Gate）が、EVM互換の独自レイヤー2ネットワーク「ゲートレイヤー（Gate Layer）」のローンチを9月25日に発表した。また同チェー […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨マイニング企業テラウルフ　30億ドル規模の資金調達へ　データセンター建設を加速＝報道]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-miner-terawulf-raise-3b-google-backed-data-center</id>

@@ -565,6 +565,81 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=653550",
+          "author": "A.Yamada",
+          "description": "Glassnodeが仮想通貨市場の最新分析レポートを発表。ビットコインは長期保有者の利益確定と、ETFなどへの流入鈍化により市場冷え込みリスクが高まっていると分析した。",
+          "link": "https://coinpost.jp/?p=653550",
+          "publishedOn": "2025-09-26T00:55:03.000Z",
+          "wordCount": 3160,
+          "title": "「ビットコイン市場が冷え込むリスク依然高い」Glassnode市場分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/bitcoin1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/bitcoin1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=653543",
+          "author": "菊谷ルイス",
+          "description": "世界2位のステーブルコイン発行企業サークルが詐欺や紛争時にステーブルコイン送金を取り消せる仕組みの導入を検討していることをフィナンシャル・タイムズが報じた。",
+          "link": "https://coinpost.jp/?p=653543",
+          "publishedOn": "2025-09-26T00:10:46.000Z",
+          "wordCount": 3151,
+          "title": "サークル、不正対策で取引無効化可能なステーブルコイン仕組みを検討か＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/circle3.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/circle3.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=653535",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨イーサリアムの共同創設者ヴィタリック・ブテリン氏は、ブロブの利用急増などに関する課題についてフサカで改善できるとXに投稿。PeerDASがブロブの拡張性向上に貢献できると説明している。",
+          "link": "https://coinpost.jp/?p=653535",
+          "publishedOn": "2025-09-25T23:35:32.000Z",
+          "wordCount": 3166,
+          "title": "ヴィタリック「イーサリアムの拡張性向上にフサカのPeerDAS導入は重要」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/vitalik-eth_0524.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/vitalik-eth_0524.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=653534",
+          "author": "菊谷ルイス",
+          "description": "世界最大の運用会社ブラックロックがカバードコール戦略を用いるビットコイン・プレミアム・インカムETFの申請を準備していることが明らかになった。",
+          "link": "https://coinpost.jp/?p=653534",
+          "publishedOn": "2025-09-25T22:50:17.000Z",
+          "wordCount": 3148,
+          "title": "ブラックロック、利回り提供のビットコインETF商品を申請へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/blackrock-bitcoin.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/blackrock-bitcoin.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=653532",
+          "author": "菊谷ルイス",
+          "description": "米資産運用会社ビットワイズがハイパーリキッドETFの申請をSECに提出したことが明らかになった。バイナンス支援のAsterが高騰する中、分散型デリバティブ取引所への投資商品として注目を集めている。",
+          "link": "https://coinpost.jp/?p=653532",
+          "publishedOn": "2025-09-25T22:15:30.000Z",
+          "wordCount": 3149,
+          "title": "ビットワイズ、ハイパーリキッド現物ETFの上場をSECに申請",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/hyperliquid-token-all-time-high.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/hyperliquid-token-all-time-high.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=653526",
           "author": "菊谷ルイス",
           "description": "オランダのINGなど欧州主要銀行9行がMiCAR規制準拠のユーロ建てステーブルコインを共同発行すると発表した。2026年後半の発行開始を予定。",

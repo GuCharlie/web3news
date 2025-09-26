@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-25T23:35:46.061Z</updated>
+    <updated>2025-09-26T01:10:55.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ビットコイン市場が冷え込むリスク依然高い」Glassnode市場分析]]></title>
+        <id>https://coinpost.jp/?p=653550</id>
+        <link href="https://coinpost.jp/?p=653550"/>
+        <updated>2025-09-26T00:55:03.000Z</updated>
+        <summary type="html"><![CDATA[Glassnodeが仮想通貨市場の最新分析レポートを発表。ビットコインは長期保有者の利益確定と、ETFなどへの流入鈍化により市場冷え込みリスクが高まっていると分析した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サークル、不正対策で取引無効化可能なステーブルコイン仕組みを検討か＝報道]]></title>
+        <id>https://coinpost.jp/?p=653543</id>
+        <link href="https://coinpost.jp/?p=653543"/>
+        <updated>2025-09-26T00:10:46.000Z</updated>
+        <summary type="html"><![CDATA[世界2位のステーブルコイン発行企業サークルが詐欺や紛争時にステーブルコイン送金を取り消せる仕組みの導入を検討していることをフィナンシャル・タイムズが報じた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヴィタリック「イーサリアムの拡張性向上にフサカのPeerDAS導入は重要」]]></title>
+        <id>https://coinpost.jp/?p=653535</id>
+        <link href="https://coinpost.jp/?p=653535"/>
+        <updated>2025-09-25T23:35:32.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムの共同創設者ヴィタリック・ブテリン氏は、ブロブの利用急増などに関する課題についてフサカで改善できるとXに投稿。PeerDASがブロブの拡張性向上に貢献できると説明している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[シャープリンク、スーパーステートと提携しSBET株をイーサリアム上でトークン化へ]]></title>
         <id>https://jp.cointelegraph.com/news/sharplink-superstate-tokenized-sbet-ethereum-sec</id>
@@ -14,6 +44,16 @@
         <summary type="html"><![CDATA[世界最大級のETH保有上場企業であるシャープリンクは、スーパーステートの「オープンベル」トークン化プラットフォーム上で自社の普通株をトークン化する計画をSECに通知した。]]></summary>
         <author>
             <name>Cointelegraph  Helen Partz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブラックロック、利回り提供のビットコインETF商品を申請へ]]></title>
+        <id>https://coinpost.jp/?p=653534</id>
+        <link href="https://coinpost.jp/?p=653534"/>
+        <updated>2025-09-25T22:50:17.000Z</updated>
+        <summary type="html"><![CDATA[世界最大の運用会社ブラックロックがカバードコール戦略を用いるビットコイン・プレミアム・インカムETFの申請を準備していることが明らかになった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -44,6 +84,16 @@
         <summary type="html"><![CDATA[グーグルは、30億ドル規模、10年契約のAIデータセンター取引において、フルイドスタックの14億ドルの債務を保証することで、ビットコインマイナーであるサイファー・マイニングの株式5.4%を取得した。]]></summary>
         <author>
             <name>Cointelegraph  Adrian Zmudzinski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットワイズ、ハイパーリキッド現物ETFの上場をSECに申請]]></title>
+        <id>https://coinpost.jp/?p=653532</id>
+        <link href="https://coinpost.jp/?p=653532"/>
+        <updated>2025-09-25T22:15:30.000Z</updated>
+        <summary type="html"><![CDATA[米資産運用会社ビットワイズがハイパーリキッドETFの申請をSECに提出したことが明らかになった。バイナンス支援のAsterが高騰する中、分散型デリバティブ取引所への投資商品として注目を集めている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>

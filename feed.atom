@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-26T15:38:15.324Z</updated>
+    <updated>2025-09-26T16:19:05.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは一時10万9000ドル割れ　インフレ指標も支えにならず]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-price-ignores-pce-inflation-bears-eat-109k-support</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-price-ignores-pce-inflation-bears-eat-109k-support?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-26T16:10:57.000Z</updated>
+        <summary type="html"><![CDATA[米国のインフレ指標発表後も強気派の後押しとはならず、ビットコイン（BTC）は金曜のウォール街での取引開始後に9月の安値を更新しそうな展開となった。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[クリプト・ドットコムのクロノス　トランプ・メディアのCRO戦略発表後の上昇を帳消し]]></title>
         <id>https://jp.cointelegraph.com/news/cro-erases-trump-pump-gains-community-questions-demand</id>
@@ -2701,38 +2711,6 @@ XRPのリキッドステーキングトークンを発表──保有者が最�
         <summary type="html"><![CDATA[デフコンサルティングがイーサリアム財務戦略に方針転換 東証グロース上場のコンサルティング企業であるデフコンサルティング（Def consulting ）が、トレジャリーの対象資産をビットコイン（BTC）からイーサリアム（ […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グレースケールのマルチアセット型暗号資産ETP「GDLC」、NYSEアーカ上場]]></title>
-        <id>https://www.neweconomy.jp/?p=498577</id>
-        <link href="https://www.neweconomy.jp/posts/498577"/>
-        <updated>2025-09-22T03:57:26.000Z</updated>
-        <summary type="html"><![CDATA[Grayscaleの複数暗号資産に分散投資するETP上場承認 「Grayscale CoinDesk Crypto 5 ETF（GDLC）」が、米国の証券取引所NYSEアーカ（NYSE Arca）で9月19日に上場・取引 […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネット、約936億円でビットコイン追加購入──総保有2万5555BTC、世界5位に]]></title>
-        <id>https://www.coindeskjapan.com/?p=315274</id>
-        <link href="https://www.coindeskjapan.com/315274/"/>
-        <updated>2025-09-22T03:51:28.000Z</updated>
-        <summary type="html"><![CDATA[メタプラネットは9月22日、購入総額936億4600万円で5419ビットコイン（BTC）を追加取得したことを発表した。 今回の取得における平均購入価格は1BTC ...
-メタプラネット、約936億円でビットコイン追加購入──総保有2万5555BTC、世界5位に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネット、936億円分のBTC買い増し｜保有量TOP5位に]]></title>
-        <id>https://crypto-times.jp/?p=144019</id>
-        <link href="https://crypto-times.jp/news-metaplanet-buys-additional-btc-worth-93-6-billion-ranks-5th-in-holdings/"/>
-        <updated>2025-09-22T03:43:58.000Z</updated>
-        <summary type="html"><![CDATA[株式会社メタプラネットは新たに5,419 BTC（ビットコイン）を追加購入したことを発表しました。これにより同社のビットコイン総保有量は25,555BTC（約4340億円）に達しました。 メタプラネット、ビットコインをさ […]
-投稿 メタプラネット、936億円分のBTC買い増し｜保有量TOP5位に は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
 </feed>

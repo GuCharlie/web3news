@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-26T09:38:30.254Z</updated>
+    <updated>2025-09-26T10:15:52.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025-09-26 巨額イーサリアム購入の大口、23億円の含み損抱える]]></title>
+        <id>https://crypto-times.jp/news-major-buyer-of-large-scale-ethereum-purchases-faces-2-3-billion-yen-unrealized-loss/#p144270</id>
+        <link href="https://crypto-times.jp/news-major-buyer-of-large-scale-ethereum-purchases-faces-2-3-billion-yen-unrealized-loss/"/>
+        <updated>2025-09-26T10:07:46.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーン分析プラットフォームlookonchainの報告によると、あるOTC市場の大口投資家…]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025-09-26 OpenSea、ApeCoinのHyperEVM対応スワップを開始]]></title>
+        <id>https://crypto-times.jp/news-opensea-launches-hyperevm-compatible-swap-for-apecoin/#p144267</id>
+        <link href="https://crypto-times.jp/news-opensea-launches-hyperevm-compatible-swap-for-apecoin/"/>
+        <updated>2025-09-26T09:45:34.000Z</updated>
+        <summary type="html"><![CDATA[NFTマーケットプレイス大手のOpenSeaがApeCoinとの提携を発表し、プラットフォーム上でH…]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025-09-26 Azuki、世界初のアニメストリーミングプラットフォームを発表]]></title>
         <id>https://crypto-times.jp/news-azuki-announces-worlds-first-anime-streaming-platform/#p144264</id>
@@ -2794,17 +2814,6 @@ BNBチェーン最大のDEX・パンケーキスワップ、DeFiの裾野を広�
         <summary type="html"><![CDATA[ヴィタリック・ブテリン氏は、低リスクのDeFiプロトコルがイーサリアムに安定した収益をもたらし、グーグル検索がグーグルを支えるのと同様の役割を果たす一方で、イーサリアムの中核的な価値を守ることができると述べた。]]></summary>
         <author>
             <name>Cointelegraph  Brayden Lindrea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米ステーブルコイン市場「ゼロサムゲーム」となるか：JPモルガン]]></title>
-        <id>https://www.coindeskjapan.com/?p=315152</id>
-        <link href="https://www.coindeskjapan.com/315152/"/>
-        <updated>2025-09-21T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[JPモルガンのレポートによると、2700億ドル（約40兆円）規模のステーブルコイン市場は大幅に拡大しているものの、依然として暗号資産（仮想通貨）市場全体の時価総 ...
-米ステーブルコイン市場「ゼロサムゲーム」となるか：JPモルガン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Will Canny</name>
         </author>
     </entry>
 </feed>

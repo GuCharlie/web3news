@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-26T22:13:36.161Z</updated>
+    <updated>2025-09-26T22:36:55.286Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SWIFT、イーサリアムL2「Linea」でメッセージングシステムの移行実験か＝報道]]></title>
+        <id>https://coinpost.jp/?p=653856</id>
+        <link href="https://coinpost.jp/?p=653856"/>
+        <updated>2025-09-26T22:10:37.000Z</updated>
+        <summary type="html"><![CDATA[BNPパリバやBNYなど十数社の金融機関が参加ザ・ビッグ・ホエールは26日、国際銀行間決済ネットワークSWIFTがイーサリアムレイヤー2のリネア（Linea）でメッセージングシステムのオンチェーン移行実験を行っていると報じた。BNPパリバや...]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨取引所クラーケン　150億ドル評価で5億ドル調達か＝報道]]></title>
         <id>https://jp.cointelegraph.com/news/kraken-500m-raise-15b-valuation-ipo-speculation</id>
@@ -2573,17 +2583,6 @@ Gate Japan、今期中のサービス開始を目指す──グローバルで�
         <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインが下落した1時間後にゴールド（金）が上昇──利益確定資金のローテーションを示唆]]></title>
-        <id>https://www.coindeskjapan.com/?p=315662</id>
-        <link href="https://www.coindeskjapan.com/315662/"/>
-        <updated>2025-09-22T10:25:00.000Z</updated>
-        <summary type="html"><![CDATA[健全な通貨の類似物としばしば見なされるゴールド（金）は、9月22日に1%上昇し、過去最高値を更新し、2025年の上昇率は43%となった。 一部の支持者からデジタ ...
-ビットコインが下落した1時間後にゴールド（金）が上昇──利益確定資金のローテーションを示唆 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>James Van Straten</name>
         </author>
     </entry>
 </feed>

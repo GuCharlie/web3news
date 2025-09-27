@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-27T21:35:38.458Z</updated>
+    <updated>2025-09-27T22:13:12.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ステーブルコイン普及が新興国の金融安定にリスク　ムーディーズが「クリプト化」を警告]]></title>
+        <id>https://jp.cointelegraph.com/news/stablecoin-risks-cryptoization-rules-economies-moodys</id>
+        <link href="https://jp.cointelegraph.com/news/stablecoin-risks-cryptoization-rules-economies-moodys?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-27T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ムーディーズ・レーティングスの新しいレポートによれば、ステーブルコインや仮想通貨の採用が世界的に加速するなか、新興市場は通貨主権と金融安定に対するリスクが高まっている。]]></summary>
+        <author>
+            <name>Cointelegraph  Nate Kostar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ステーブルコイン市場　2030年に最大4兆ドル規模に　シティが予測を上方修正]]></title>
         <id>https://jp.cointelegraph.com/news/citi-forecasts-4-trillion-stablecoin-2030</id>

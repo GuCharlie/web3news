@@ -1425,16 +1425,6 @@
           "wordCount": 826,
           "title": "クラーケン、トークンローンチ機能「Kraken Launch」提供開始、第1弾はイールドベーシスの「YB」",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/24204652/7862692b6b0fc91afa513283ce38caef.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=499393",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/499393",
-          "publishedOn": "2025-09-24T10:53:20.000Z",
-          "wordCount": 801,
-          "title": "【9/24話題】テザーが評価額5000億ドル目指す、旧マックハウスがビットコイン追加購入、OKJにLINK上場へなど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/24180252/3877fd94af82b786816fd621f0b9737e.jpg"
         }
       ]
     },
@@ -1443,6 +1433,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/pavel-durov-asked-censor-moldova-election",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "テレグラム共同創業者パヴェル・デュロフ氏は、フランスの情報機関が政治的コンテンツの検閲を要求したが、応じなかったと明らかにした。",
+          "link": "https://jp.cointelegraph.com/news/pavel-durov-asked-censor-moldova-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-28T22:56:51.000Z",
+          "wordCount": null,
+          "title": "フランス当局が選挙投稿の検閲をテレグラムに要求｜デュロフ氏が拒否",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTlhMWEtYzIzZi03MzA0LTlmNmMtNTkxMzBhZTMyOTk0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTlhMWEtYzIzZi03MzA0LTlmNmMtNTkxMzBhZTMyOTk0.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/will-xrp-price-rally-restart-in-october",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "XRP価格は2.75ドル以上を維持する必要があり、現物ETF承認や機関投資家資金の流入が回復の引き金となる可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/will-xrp-price-rally-restart-in-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-28T22:44:14.000Z",
+          "wordCount": null,
+          "title": "XRP価格の上昇は10月に再開するのか？",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTkwYTAtYTZhZi03YTVlLTkyYzAtMGVmMjIyMTM4ZmM2.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTkwYTAtYTZhZi03YTVlLTkyYzAtMGVmMjIyMTM4ZmM2.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/singapore-uae-top-global-crypto-obsession-rankings",
           "author": "Cointelegraph  Amin Haqshanas",

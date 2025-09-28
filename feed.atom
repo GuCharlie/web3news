@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-28T22:36:53.196Z</updated>
+    <updated>2025-09-28T23:13:24.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フランス当局が選挙投稿の検閲をテレグラムに要求｜デュロフ氏が拒否]]></title>
+        <id>https://jp.cointelegraph.com/news/pavel-durov-asked-censor-moldova-election</id>
+        <link href="https://jp.cointelegraph.com/news/pavel-durov-asked-censor-moldova-election?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-28T22:56:51.000Z</updated>
+        <summary type="html"><![CDATA[テレグラム共同創業者パヴェル・デュロフ氏は、フランスの情報機関が政治的コンテンツの検閲を要求したが、応じなかったと明らかにした。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XRP価格の上昇は10月に再開するのか？]]></title>
+        <id>https://jp.cointelegraph.com/news/will-xrp-price-rally-restart-in-october</id>
+        <link href="https://jp.cointelegraph.com/news/will-xrp-price-rally-restart-in-october?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-28T22:44:14.000Z</updated>
+        <summary type="html"><![CDATA[XRP価格は2.75ドル以上を維持する必要があり、現物ETF承認や機関投資家資金の流入が回復の引き金となる可能性がある。]]></summary>
+        <author>
+            <name>Cointelegraph  Nancy Lubale</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[シンガポールとUAE、世界で最も仮想通貨に熱中する国に＝レポート]]></title>
         <id>https://jp.cointelegraph.com/news/singapore-uae-top-global-crypto-obsession-rankings</id>
@@ -2086,16 +2106,6 @@ UPC国内上場から半年、「誰でも使える決済インフラをつく�
         <summary type="html"><![CDATA[クラーケン新サービスを発表 米暗号資産（仮想通貨）取引所クラーケン（Kraken）が、ICOや初期トークン販売に参加可能となる新機能「クラーケン・ローンチ（Kraken Launch）」の提供開始を9月18日に発表した。 […]]]></summary>
         <author>
             <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【9/24話題】テザーが評価額5000億ドル目指す、旧マックハウスがビットコイン追加購入、OKJにLINK上場へなど（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=499393</id>
-        <link href="https://www.neweconomy.jp/posts/499393"/>
-        <updated>2025-09-24T10:53:20.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
         </author>
     </entry>
 </feed>

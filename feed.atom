@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-29T17:36:06.949Z</updated>
+    <updated>2025-09-29T18:22:33.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【9/29話題】イオレがスラッシュと提携し暗号資産投資・運用新会社、SWIFTがリネアで銀行間メッセージング移行試験など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=500850</id>
+        <link href="https://www.neweconomy.jp/posts/500850"/>
+        <updated>2025-09-29T17:50:56.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[レバレッジをかけたビットコインのロングポジションが勢いを取り戻す：QCPキャピタル]]></title>
         <id>https://www.coindeskjapan.com/?p=316578</id>
@@ -2025,37 +2035,6 @@ Web3時代のVisaを目指すPlatON──創立者が語る伝統金融とデジ
         <summary type="html"><![CDATA[イーサリアム共同創設者ヴィタリック・ブテリン氏は、12月に予定されている「Fusaka」アップグレードによって、ノードがブロックチェーン全体をダウンロードせずにデータの可用性を検証できるようになり、拡張性が向上すると述べた。]]></summary>
         <author>
             <name>Cointelegraph  Martin Young</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国最大の暗号資産取引所アップビット、ネイバーが買収へ：報道]]></title>
-        <id>https://www.coindeskjapan.com/?p=316075</id>
-        <link href="https://www.coindeskjapan.com/316075/"/>
-        <updated>2025-09-25T06:10:00.000Z</updated>
-        <summary type="html"><![CDATA[報道によると、韓国の暗号資産（仮想通貨）取引所アップビット（Upbit）が、インターネット大手ネイバー（Naver）に買収される見通しだ。 この取引により、アッ ...
-韓国最大の暗号資産取引所アップビット、ネイバーが買収へ：報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムの取引所保有残高が2016年以来の低水準に　機関投資家による積み上げ加速]]></title>
-        <id>https://jp.cointelegraph.com/news/ethereum-balance-exchanges-hits-9-year-low-what-it-means</id>
-        <link href="https://jp.cointelegraph.com/news/ethereum-balance-exchanges-hits-9-year-low-what-it-means?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-09-25T05:57:45.000Z</updated>
-        <summary type="html"><![CDATA[機関投資家による積極的な買い集めを背景に、イーサリアム（ETH）の中央集権型取引所での保有量が2016年以来の最低水準に落ち込んでいる。]]></summary>
-        <author>
-            <name>Cointelegraph  Martin Young</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米ナスダック上場のスイグループHD、5000万ドル規模の自社株買い実施]]></title>
-        <id>https://www.neweconomy.jp/?p=499714</id>
-        <link href="https://www.neweconomy.jp/posts/499714"/>
-        <updated>2025-09-25T05:53:27.000Z</updated>
-        <summary type="html"><![CDATA[SUIトレジャリー企業が27.6万株を買い戻し 暗号資産（仮想通貨）スイ（SUI）の財務資産（トレジャリー）戦略を進める米ナスダック（Nasdaq）上場のスイグループホールディングス（SUI Group Holdings […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>

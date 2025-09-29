@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-29T10:17:31.263Z</updated>
+    <updated>2025-09-29T10:43:02.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フィンテック大手Revolut、ロンドンとニューヨークで750億ドル規模の同時上場を検討：報道]]></title>
+        <id>https://www.coindeskjapan.com/?p=316546</id>
+        <link href="https://www.coindeskjapan.com/316546/"/>
+        <updated>2025-09-29T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[欧州で最も価値のあるスタートアップの一つであるレボリュート（Revolut）が、大型新規株式公開（IPO）に向けロンドンとニューヨークでの二重上場を検討している ...
+フィンテック大手Revolut、ロンドンとニューヨークで750億ドル規模の同時上場を検討：報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Francisco Rodrigues</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メープル、エルウッドと提携し、機関投資家向けクレジット戦略をオンチェーンで実現]]></title>
         <id>https://www.coindeskjapan.com/?p=316518</id>
@@ -2309,36 +2320,6 @@ UPC国内上場から半年、「誰でも使える決済インフラをつく�
         <summary type="html"><![CDATA[ウィンクルボス兄弟がトランプ氏の最初の指名者ブライアン・クインテンツ氏に不満を示したとされ、少なくとも3人の候補者がCFTC委員長の座を争う可能性が浮上している。]]></summary>
         <author>
             <name>Cointelegraph  Turner Wright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハイパーリキッドのステーブルコイン、発行権を巡る激しい入札を経て稼働開始]]></title>
-        <id>https://jp.cointelegraph.com/news/hyperliquid-stablecoin-goes-live-after-fierce-bidding-issuance-rights</id>
-        <link href="https://jp.cointelegraph.com/news/hyperliquid-stablecoin-goes-live-after-fierce-bidding-issuance-rights?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-09-24T22:36:07.000Z</updated>
-        <summary type="html"><![CDATA[ステーブルコインUSDHが稼働を開始し、ネイティブ・マーケッツがバリデーター投票で発行権を獲得したことで、デリバティブ取引所は初のドル連動資産を手にした。]]></summary>
-        <author>
-            <name>Cointelegraph  Nate Kostar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国アルトコインETFの審査状況一覧　ソラナやXRP・ドージなど]]></title>
-        <id>https://coinpost.jp/?p=601804</id>
-        <link href="https://coinpost.jp/?p=601804"/>
-        <updated>2025-09-24T22:30:39.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインやイーサリアムに続き、ソラナやリップルなど多数のアルトコインETF申請が進行中。2025年の米国規制環境で加速するETF審査状況を整理しました]]></summary>
-        <author>
-            <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCは主導権を握れるか　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ]]></title>
-        <id>https://jp.cointelegraph.com/news/price-predictions-9-24-btc-eth-xrp-bnb-sol-doge-ada-hype-link-avax</id>
-        <link href="https://jp.cointelegraph.com/news/price-predictions-9-24-btc-eth-xrp-bnb-sol-doge-ada-hype-link-avax?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-09-24T22:27:21.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン強気派が主導権を握ろうとしているが、11万7500ドルで強い売り圧力に直面すると予想されている。アルトコインはビットコインのレンジ相場の可能性を利用できるか。]]></summary>
-        <author>
-            <name>Cointelegraph  Rakesh Upadhyay</name>
         </author>
     </entry>
 </feed>

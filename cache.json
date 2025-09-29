@@ -415,6 +415,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=654400",
+          "author": "菊谷ルイス",
+          "description": "米証券取引委員会が仮想通貨ETF発行体に19b-4申請の撤回を要請したと報じられた。包括的上場基準の承認により個別申請が不要となり、今週中にも撤回が始まる見通しだ。",
+          "link": "https://coinpost.jp/?p=654400",
+          "publishedOn": "2025-09-29T21:12:26.000Z",
+          "wordCount": 3171,
+          "title": "米SECがXRPやDOGEなどの仮想通貨ETF申請撤回を要請、包括基準で個別申請が不要に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/sec-criticism.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/sec-criticism.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=654391",
           "author": "菊谷ルイス",
           "description": "カザフスタン政府が初の仮想通貨準備基金「アレム・クリプト・ファンド」を設立したと発表した。デジタル資産への長期投資を目的とし、バイナンスと提携して最初の投資としてBNBを取得。",
@@ -518,6 +533,21 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/ark-invest-tokenization.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/ark-invest-tokenization.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=538309",
+          "author": "CoinPost編集部",
+          "description": "暗号資産（仮想通貨）XRPの特徴から買い方、将来性、リップル社の最新動向や取引所の選び方も紹介します。ドナルド・トランプ次期米大統領の思惑やSECゲンスラー委員長交代による規制環境の変化、価格への影響を分析。",
+          "link": "https://coinpost.jp/?p=538309",
+          "publishedOn": "2025-09-29T03:00:58.000Z",
+          "wordCount": 12559,
+          "title": "XRPの買い方・リップル社の今後の注目点・将来性を初心者向けに徹底解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/10/241016_coinpost_538309_1200.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/10/241016_coinpost_538309_1200.png"
         },
         {
           "id": "https://coinpost.jp/?p=516831",
@@ -2644,26 +2674,6 @@
           "wordCount": 595,
           "title": "2025-09-25 ビットコインは金融緩和への「史上最高のパフォーマンス資産」BitMex創業者の見解",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/shutterstock_1042648933.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/news-one-sixth-of-the-worlds-countries-will-adopt-btc-eth-temporarily-falls-below-4000/#p144217",
-          "author": "よきょい",
-          "description": "9月25日、ビットコイン（BTC）の価格は112,700ドル前後で推移しており、イーサリアム（ETH…",
-          "link": "https://crypto-times.jp/news-one-sixth-of-the-worlds-countries-will-adopt-btc-eth-temporarily-falls-below-4000/",
-          "publishedOn": "2025-09-25T09:22:05.000Z",
-          "wordCount": 592,
-          "title": "2025-09-25 【今日の暗号資産ニュース】世界の6分の1の国家がBTC導入へ。ETH一時4000ドル割れ",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/shutterstock_2522234131-1.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/news-is-bitcoins-four-year-cycle-collapsing-is-the-cryptocurrency-winter-over/#p144145",
-          "author": "よきょい",
-          "description": "ETFや現実世界資産（RWA）のトークン化、ステーブルコインの普及により、暗号資産市場の伝統的な4年…",
-          "link": "https://crypto-times.jp/news-is-bitcoins-four-year-cycle-collapsing-is-the-cryptocurrency-winter-over/",
-          "publishedOn": "2025-09-25T09:16:34.000Z",
-          "wordCount": 571,
-          "title": "2025-09-25 ビットコインの“4年周期”が崩壊か。暗号資産の“冬の時代”はもう来ない？",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/shutterstock_794561740.jpg"
         }
       ]
     }

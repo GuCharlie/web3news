@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-29T21:12:45.539Z</updated>
+    <updated>2025-09-29T21:35:10.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SECがXRPやDOGEなどの仮想通貨ETF申請撤回を要請、包括基準で個別申請が不要に]]></title>
+        <id>https://coinpost.jp/?p=654400</id>
+        <link href="https://coinpost.jp/?p=654400"/>
+        <updated>2025-09-29T21:12:26.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会が仮想通貨ETF発行体に19b-4申請の撤回を要請したと報じられた。包括的上場基準の承認により個別申請が不要となり、今週中にも撤回が始まる見通しだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BNBを長期保有資産に選定、カザフが初の仮想通貨準備基金を設立]]></title>
         <id>https://coinpost.jp/?p=654391</id>
@@ -345,6 +355,16 @@ NYDIG、「誤解を招く」としてビットコイン財務企業にmNAV指�
         <summary type="html"><![CDATA[資産運用会社アーク・インベストのキャシー・ウッドCEOが、ハイパーリキッド（HYPE）への高い関心示した。また、「仮想通貨ビッグ3」を挙げ、ゴールドの上昇についても意見した。]]></summary>
         <author>
             <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XRPの買い方・リップル社の今後の注目点・将来性を初心者向けに徹底解説]]></title>
+        <id>https://coinpost.jp/?p=538309</id>
+        <link href="https://coinpost.jp/?p=538309"/>
+        <updated>2025-09-29T03:00:58.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）XRPの特徴から買い方、将来性、リップル社の最新動向や取引所の選び方も紹介します。ドナルド・トランプ次期米大統領の思惑やSECゲンスラー委員長交代による規制環境の変化、価格への影響を分析。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
         </author>
     </entry>
     <entry>
@@ -2093,26 +2113,6 @@ Web3時代のVisaを目指すPlatON──創立者が語る伝統金融とデジ
         <summary type="html"><![CDATA[韓国のテック大手ネイバーのフィンテック部門ネイバーフィナンシャルが、同国最大の仮想通貨取引所アップビットを運営するドゥナムを買収する計画を進めていると報じられた。買収後はステーブルコイン事業やデジタル金融分野への拡大を目指す。]]></summary>
         <author>
             <name>Cointelegraph  Stephen Katte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025-09-25 【今日の暗号資産ニュース】世界の6分の1の国家がBTC導入へ。ETH一時4000ドル割れ]]></title>
-        <id>https://crypto-times.jp/news-one-sixth-of-the-worlds-countries-will-adopt-btc-eth-temporarily-falls-below-4000/#p144217</id>
-        <link href="https://crypto-times.jp/news-one-sixth-of-the-worlds-countries-will-adopt-btc-eth-temporarily-falls-below-4000/"/>
-        <updated>2025-09-25T09:22:05.000Z</updated>
-        <summary type="html"><![CDATA[9月25日、ビットコイン（BTC）の価格は112,700ドル前後で推移しており、イーサリアム（ETH…]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025-09-25 ビットコインの“4年周期”が崩壊か。暗号資産の“冬の時代”はもう来ない？]]></title>
-        <id>https://crypto-times.jp/news-is-bitcoins-four-year-cycle-collapsing-is-the-cryptocurrency-winter-over/#p144145</id>
-        <link href="https://crypto-times.jp/news-is-bitcoins-four-year-cycle-collapsing-is-the-cryptocurrency-winter-over/"/>
-        <updated>2025-09-25T09:16:34.000Z</updated>
-        <summary type="html"><![CDATA[ETFや現実世界資産（RWA）のトークン化、ステーブルコインの普及により、暗号資産市場の伝統的な4年…]]></summary>
-        <author>
-            <name>よきょい</name>
         </author>
     </entry>
 </feed>

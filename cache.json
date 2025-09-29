@@ -380,16 +380,6 @@
           "wordCount": 1413,
           "title": "ビットコイン、11万1000ドル割れ、暗号資産株急落──米GDP改定値で利下げ期待後退",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/shutterstock_2214995821.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=316136",
-          "author": "Francisco Rodrigues",
-          "description": "香港金融管理局（HKMA）は、いかなるステーブルコイン発行体もまだ承認しておらず、こうした商品の販売は違法だと投資家に警告したとサウスチャイナ・モーニング・ポス ...\n香港金融管理局、規制に準拠しないステーブルコイン発行に警告 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/316136/",
-          "publishedOn": "2025-09-25T10:30:00.000Z",
-          "wordCount": 1368,
-          "title": "香港金融管理局、規制に準拠しないステーブルコイン発行に警告",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/hongkong1.jpg"
         }
       ]
     },
@@ -404,6 +394,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=654415",
+          "author": "K.Kobayashi",
+          "description": "Jump Cryptoで仮想通貨ソラナのファイアダンサーの開発を担当するチームは、ソラナブロックチェーンの速度をさらに速める提案を行なった。提案の背景や内容を説明している。",
+          "link": "https://coinpost.jp/?p=654415",
+          "publishedOn": "2025-09-29T22:20:32.000Z",
+          "wordCount": 3189,
+          "title": "ソラナのさらなる高速化へ　ファイアダンサー開発チームが計算リソース上限の撤廃を提案",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/solana.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/solana.png"
+        },
         {
           "id": "https://coinpost.jp/?p=654412",
           "author": "菊谷ルイス",
@@ -1394,6 +1399,36 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/price-predictions-9-29-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-hype",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "ビットコインが安定推移する中、強気派は短期的な価格目標を11万7,500ドルに引き上げ、複数のアルトコインが暴落前の取引水準を回復した。",
+          "link": "https://jp.cointelegraph.com/news/price-predictions-9-29-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-29T22:34:53.000Z",
+          "wordCount": null,
+          "title": "アルトコインが回復傾向　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTk2ODUtOGU4NS03MzY2LWIwNjQtY2Q0NGIwZGY3YTYy.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTk2ODUtOGU4NS03MzY2LWIwNjQtY2Q0NGIwZGY3YTYy.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/us-government-shutdown-digital-asset-market-structure",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "数日から数週間に及ぶ米政府閉鎖は、7月に下院を通過した仮想通貨市場構造法案の上院での審議をさらに遅らせる可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/us-government-shutdown-digital-asset-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-29T22:14:24.000Z",
+          "wordCount": null,
+          "title": "米政府機関閉鎖の可能性　仮想通貨市場構造法案に影響か",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MmZlMWItOTY1YS03MmE4LTkxZjMtYThmZmE2MDdkNWVi.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MmZlMWItOTY1YS03MmE4LTkxZjMtYThmZmE2MDdkNWVi.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0929",
           "author": "Cointelegraph  ビットバンク　長谷川友哉",
           "description": "22日〜28日のビットコイン（BTC）対円相場の週足終値は、前週比32万440円（1.88%）安の1676万9559円と反落した。",
@@ -2367,21 +2402,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzM0OGYtMzM1ZS03NWJjLTlmY2YtNjBlNDMyMWFmODkz.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/circle-examines-reversible-stablecoin-transactions",
-          "author": "Cointelegraph  Zoltan Vardai",
-          "description": "世界第2位のステーブルコイン発行企業サークルが、詐欺やハッキングで失われた資金を回収するために、取引を巻き戻す「可逆性」の仕組みを検討していると報じられた。これは「取引は最終的かつ中央集権的に管理されない」という仮想通貨の基本理念の1つに反する動きともなる。",
-          "link": "https://jp.cointelegraph.com/news/circle-examines-reversible-stablecoin-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-09-25T10:20:34.000Z",
-          "wordCount": null,
-          "title": "ステーブルコイン発行企業サークル　取引の「可逆性」導入を検討　詐欺・ハッキング被害の資金回収を想定",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjZjNGYtODdhMi03NjhjLWExYzMtMjZhMjk0ZDBiNTI5.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjZjNGYtODdhMi03NjhjLWExYzMtMjZhMjk0ZDBiNTI5.jpg"
         }
       ]
     },

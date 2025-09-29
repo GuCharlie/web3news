@@ -405,6 +405,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=654427",
+          "author": "菊谷ルイス",
+          "description": "12年間休眠していたビットコインウォレットが29日に400BTCを移動したとアーカム・インテリジェンスが報告した。2013年11月以来初めての取引で、当時の取得価格から約16000%上昇している。",
+          "link": "https://coinpost.jp/?p=654427",
+          "publishedOn": "2025-09-29T23:30:40.000Z",
+          "wordCount": 3175,
+          "title": "12年間休眠のビットコインウォレットが活動再開、65億円相当BTCを移動",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/whale-how-many.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/whale-how-many.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=654421",
+          "author": "菊谷ルイス",
+          "description": "国際銀行間決済ネットワークSWIFTがブロックチェーン基盤の共有台帳をインフラに追加すると発表した。30以上の金融機関と協力し、24時間365日のリアルタイム国際決済を目指す。",
+          "link": "https://coinpost.jp/?p=654421",
+          "publishedOn": "2025-09-29T22:55:05.000Z",
+          "wordCount": 3172,
+          "title": "SWIFTがコンセンシスと提携しブロックチェーンを開発　30超の金融機関が参加",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/Consensys_Symbol_Gray__16x9_.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/Consensys_Symbol_Gray__16x9_.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=654415",
           "author": "K.Kobayashi",
           "description": "Jump Cryptoで仮想通貨ソラナのファイアダンサーの開発を担当するチームは、ソラナブロックチェーンの速度をさらに速める提案を行なった。提案の背景や内容を説明している。",
@@ -1388,6 +1418,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/october-etf-month-16-crypto-etfs-final-sec-deadlines",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "ノヴァディウス・ウェルス・マネジメントのネイト・ジェラシ社長は、SECが16件の申請を審査するため、「現物型仮想通貨ETFにとって非常に重要な数週間になる」と述べた。",
+          "link": "https://jp.cointelegraph.com/news/october-etf-month-16-crypto-etfs-final-sec-deadlines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-29T23:15:52.000Z",
+          "wordCount": null,
+          "title": "10月は「ETF月間」　仮想通貨ファンド16本が最終判断を待つ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmNmY2ItZDc0OS03ZjFhLTk3ZDEtMDMzNWFlZDdiMTM3.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmNmY2ItZDc0OS03ZjFhLTk3ZDEtMDMzNWFlZDdiMTM3.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/cftc-acting-chair-fud-crypto-enforcement",
           "author": "Cointelegraph  Turner Wright",

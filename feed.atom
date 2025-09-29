@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-29T21:35:10.456Z</updated>
+    <updated>2025-09-29T22:13:21.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米マサチューセッツ州、ビットコイン準備金法案の公聴会を来週開催]]></title>
+        <id>https://coinpost.jp/?p=654412</id>
+        <link href="https://coinpost.jp/?p=654412"/>
+        <updated>2025-09-29T21:50:23.000Z</updated>
+        <summary type="html"><![CDATA[マサチューセッツ州議会が10月7日にビットコイン戦略準備金法案の公聴会を開催すると現地メディアが報じた。アンチ仮想通貨の民主党が優勢な州議会で仮想通貨準備金法案が審議される初事例となる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米SECがXRPやDOGEなどの仮想通貨ETF申請撤回を要請、包括基準で個別申請が不要に]]></title>
         <id>https://coinpost.jp/?p=654400</id>
@@ -2082,37 +2092,6 @@ Web3時代のVisaを目指すPlatON──創立者が語る伝統金融とデジ
         <summary type="html"><![CDATA[世界第2位のステーブルコイン発行企業サークルが、詐欺やハッキングで失われた資金を回収するために、取引を巻き戻す「可逆性」の仕組みを検討していると報じられた。これは「取引は最終的かつ中央集権的に管理されない」という仮想通貨の基本理念の1つに反する動きともなる。]]></summary>
         <author>
             <name>Cointelegraph  Zoltan Vardai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーブルコイン決済企業リドットペイ、4700万ドル調達でユニコーン入り]]></title>
-        <id>https://jp.cointelegraph.com/news/redotpay-joins-unicorn-club-with-47m-raise</id>
-        <link href="https://jp.cointelegraph.com/news/redotpay-joins-unicorn-club-with-47m-raise?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-09-25T09:59:44.000Z</updated>
-        <summary type="html"><![CDATA[ステーブルコイン決済企業リドットペイは、戦略的投資ラウンドで4700万ドルを調達し、フィンテック・ユニコーンの仲間入りを果たしたと発表した。]]></summary>
-        <author>
-            <name>Cointelegraph  Amin Haqshanas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧州の銀行9行がMiCA準拠のユーロ建てステーブルコインで協力──2026年後半に発行予定]]></title>
-        <id>https://www.coindeskjapan.com/?p=316120</id>
-        <link href="https://www.coindeskjapan.com/316120/"/>
-        <updated>2025-09-25T09:50:00.000Z</updated>
-        <summary type="html"><![CDATA[ヨーロッパの主要銀行9行が連携し、欧州連合（EU）の暗号資産市場規制（MiCA）下で規制されるユーロ建てステーブルコインを発行する。 参加する銀行はING（オラ ...
-欧州の銀行9行がMiCA準拠のユーロ建てステーブルコインで協力──2026年後半に発行予定 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Ian Allison</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国ネイバー　仮想通貨取引所アップビット運営のドゥナム買収へ　ステーブルコイン事業にも着手＝現地報道]]></title>
-        <id>https://jp.cointelegraph.com/news/naver-financial-dunamu-upbit-acquisition-stablecoin</id>
-        <link href="https://jp.cointelegraph.com/news/naver-financial-dunamu-upbit-acquisition-stablecoin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-09-25T09:43:22.000Z</updated>
-        <summary type="html"><![CDATA[韓国のテック大手ネイバーのフィンテック部門ネイバーフィナンシャルが、同国最大の仮想通貨取引所アップビットを運営するドゥナムを買収する計画を進めていると報じられた。買収後はステーブルコイン事業やデジタル金融分野への拡大を目指す。]]></summary>
-        <author>
-            <name>Cointelegraph  Stephen Katte</name>
         </author>
     </entry>
 </feed>

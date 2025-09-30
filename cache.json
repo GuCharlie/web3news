@@ -1203,21 +1203,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/suiliquidstaking0903.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/suiliquidstaking0903.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=653641",
-          "author": "幸田直子",
-          "description": "ヘンリー&パートナーズのレポートによると、世界の仮想通貨億万長者数が24万人を突破し、前年比40%の驚異的増加を見せた。利確リスクは高まっている。",
-          "link": "https://coinpost.jp/?p=653641",
-          "publishedOn": "2025-09-26T04:55:10.000Z",
-          "wordCount": 3256,
-          "title": "世界の仮想通貨億万長者が24万人突破、1年で40%増加　利確リスクも＝レポート",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/private-equity-money-game.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/private-equity-money-game.jpg"
         }
       ]
     },
@@ -1555,16 +1540,6 @@
           "wordCount": 748,
           "title": "豪州のステーブルコイン仲介業者は免許免除へ、暗号資産交換業者には取得を義務付け提案",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/26145601/f0d189a3711a5bcb1a61b6b0edfe9a08.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=500097",
-          "author": "OtsugaShinya",
-          "description": "メタプラの筆頭株主が米キャピタルグループ子会社に異動 国内上場企業で最もビットコインを保有するメタプラネットの筆頭株主が、米投資顧問会社のキャピタル・リサーチ・アンド・マネジメント・カンパニー（Capital Resea […]",
-          "link": "https://www.neweconomy.jp/posts/500097",
-          "publishedOn": "2025-09-26T04:53:17.000Z",
-          "wordCount": 755,
-          "title": "メタプラの筆頭株主が異動、米キャピタルグループの投資顧問子会社に",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/26135310/acf1d9b742b58c21223b02b527203884.jpg"
         }
       ]
     },
@@ -1573,6 +1548,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/did-bitcoin-price-bottom-108k-these-3-data-points-suggest-the-worst-is-over",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "ビットコイン（BTC）の価格はローカル安値である10万8650ドルから5％上昇し、複数の指標がこの水準が底値だった可能性を示唆している。",
+          "link": "https://jp.cointelegraph.com/news/did-bitcoin-price-bottom-108k-these-3-data-points-suggest-the-worst-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-09-30T16:54:06.000Z",
+          "wordCount": null,
+          "title": "ビットコイン、10万8650ドルで底を打ったか？ 複数指標が最悪期脱出を示唆",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTlhMGUtMTEzNS03YzBkLTkwNWMtNWM0ZjE4MmM3ZjVm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTlhMGUtMTEzNS03YzBkLTkwNWMtNWM0ZjE4MmM3ZjVm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-0930",
           "author": "Cointelegraph  ビットバンク　長谷川友哉",
@@ -2442,36 +2432,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTgzOGMtNzRmYy03NDIzLWEyMjctM2MxZTdmOTJiNmRj.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/spark-paypal-usd-stablecoin-lending-markets",
-          "author": "Cointelegraph  Nate Kostar",
-          "description": "ペイパルは分散型金融（DeFi）プロトコルのスパークと提携し、米ドル建てステーブルコイン「ペイパルUSD（PYUSD）」の流動性拡大に乗り出した。",
-          "link": "https://jp.cointelegraph.com/news/spark-paypal-usd-stablecoin-lending-markets?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-09-26T04:49:35.000Z",
-          "wordCount": null,
-          "title": "DeFiプロトコルのスパーク　ペイパルのPYUSDをステーブルコインレンディングに統合",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTgxMTAtYmFlYy03OTBkLWEyNjEtOTg2NDBhMmY2MWRk.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTgxMTAtYmFlYy03OTBkLWEyNjEtOTg2NDBhMmY2MWRk.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/spark-paypal-usd-stablecoin-lending-markets",
-          "author": "Cointelegraph  Nate Kostar",
-          "description": "ペイパルは分散型金融（DeFi）プロトコルのスパークと提携し、米ドル建てステーブルコイン「ペイパルUSD（PYUSD）」の流動性拡大に乗り出した。",
-          "link": "https://jp.cointelegraph.com/news/spark-paypal-usd-stablecoin-lending-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-09-26T04:49:35.000Z",
-          "wordCount": null,
-          "title": "DeFiプロトコルのスパーク　ペイパルのPYUSDをステーブルコインレンディングに統合",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTgxMTAtYmFlYy03OTBkLWEyNjEtOTg2NDBhMmY2MWRk.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTgxMTAtYmFlYy03OTBkLWEyNjEtOTg2NDBhMmY2MWRk.jpg"
         }
       ]
     },

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-30T16:44:10.383Z</updated>
+    <updated>2025-09-30T17:13:52.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、10万8650ドルで底を打ったか？ 複数指標が最悪期脱出を示唆]]></title>
+        <id>https://jp.cointelegraph.com/news/did-bitcoin-price-bottom-108k-these-3-data-points-suggest-the-worst-is-over</id>
+        <link href="https://jp.cointelegraph.com/news/did-bitcoin-price-bottom-108k-these-3-data-points-suggest-the-worst-is-over?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-30T16:54:06.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）の価格はローカル安値である10万8650ドルから5％上昇し、複数の指標がこの水準が底値だった可能性を示唆している。]]></summary>
+        <author>
+            <name>Cointelegraph  Nancy Lubale</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインDeFiプロジェクトBOBとレイザーゼロ、11の主要ブロックチェーンでビットコイン送金を実現]]></title>
         <id>https://www.coindeskjapan.com/?p=316869</id>
@@ -2250,46 +2260,6 @@ XRPのリキッドステーキングトークンを発表──保有者が最�
         <summary type="html"><![CDATA[資産運用会社ビットワイズが、仮想通貨の永久先物プロトコル兼ブロックチェーンであるハイパーリキッドのトークンに連動する上場投資信託（ETF）を申請した。]]></summary>
         <author>
             <name>Cointelegraph  Jesse Coghlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界の仮想通貨億万長者が24万人突破、1年で40%増加　利確リスクも＝レポート]]></title>
-        <id>https://coinpost.jp/?p=653641</id>
-        <link href="https://coinpost.jp/?p=653641"/>
-        <updated>2025-09-26T04:55:10.000Z</updated>
-        <summary type="html"><![CDATA[ヘンリー&パートナーズのレポートによると、世界の仮想通貨億万長者数が24万人を突破し、前年比40%の驚異的増加を見せた。利確リスクは高まっている。]]></summary>
-        <author>
-            <name>幸田直子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラの筆頭株主が異動、米キャピタルグループの投資顧問子会社に]]></title>
-        <id>https://www.neweconomy.jp/?p=500097</id>
-        <link href="https://www.neweconomy.jp/posts/500097"/>
-        <updated>2025-09-26T04:53:17.000Z</updated>
-        <summary type="html"><![CDATA[メタプラの筆頭株主が米キャピタルグループ子会社に異動 国内上場企業で最もビットコインを保有するメタプラネットの筆頭株主が、米投資顧問会社のキャピタル・リサーチ・アンド・マネジメント・カンパニー（Capital Resea […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFiプロトコルのスパーク　ペイパルのPYUSDをステーブルコインレンディングに統合]]></title>
-        <id>https://jp.cointelegraph.com/news/spark-paypal-usd-stablecoin-lending-markets</id>
-        <link href="https://jp.cointelegraph.com/news/spark-paypal-usd-stablecoin-lending-markets?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-09-26T04:49:35.000Z</updated>
-        <summary type="html"><![CDATA[ペイパルは分散型金融（DeFi）プロトコルのスパークと提携し、米ドル建てステーブルコイン「ペイパルUSD（PYUSD）」の流動性拡大に乗り出した。]]></summary>
-        <author>
-            <name>Cointelegraph  Nate Kostar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFiプロトコルのスパーク　ペイパルのPYUSDをステーブルコインレンディングに統合]]></title>
-        <id>https://jp.cointelegraph.com/news/spark-paypal-usd-stablecoin-lending-markets</id>
-        <link href="https://jp.cointelegraph.com/news/spark-paypal-usd-stablecoin-lending-markets?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-09-26T04:49:35.000Z</updated>
-        <summary type="html"><![CDATA[ペイパルは分散型金融（DeFi）プロトコルのスパークと提携し、米ドル建てステーブルコイン「ペイパルUSD（PYUSD）」の流動性拡大に乗り出した。]]></summary>
-        <author>
-            <name>Cointelegraph  Nate Kostar</name>
         </author>
     </entry>
 </feed>

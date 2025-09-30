@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-30T22:13:48.576Z</updated>
+    <updated>2025-09-30T22:37:43.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナ　一時急落も持ち直し　米政府閉鎖懸念の影響を吸収か]]></title>
+        <id>https://jp.cointelegraph.com/news/sol-retail-longs-briefly-flushed-but-traders-bullish-forecast-unchanged</id>
+        <link href="https://jp.cointelegraph.com/news/sol-retail-longs-briefly-flushed-but-traders-bullish-forecast-unchanged?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-30T22:10:02.000Z</updated>
+        <summary type="html"><![CDATA[ソラナ（SOL）の価格は火曜日に204.17ドルまで急落した。米国で民主党と共和党が政府予算をめぐる合意に失敗し、10月1日から政府閉鎖に突入する見通しが強まったことが背景にある。]]></summary>
+        <author>
+            <name>Cointelegraph  Big Smokey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロビンフッド、米国に続き予測市場のグローバル展開を視野に：ブルームバーグ]]></title>
         <id>https://www.coindeskjapan.com/?p=316881</id>
@@ -1996,28 +2006,6 @@ XRPのリキッドステーキングトークンを発表──保有者が最�
         <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新興市場における暗号資産の普及は、金融の回復力にリスクをもたらす：ムーディーズ]]></title>
-        <id>https://www.coindeskjapan.com/?p=316328</id>
-        <link href="https://www.coindeskjapan.com/316328/"/>
-        <updated>2025-09-26T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[新興市場における暗号資産（仮想通貨）の普及は、通貨主権と金融の回復力に対するリスクをもたらすと、信用格付け大手ムーディーズ・レーティングス（Moody̵ ...
-新興市場における暗号資産の普及は、金融の回復力にリスクをもたらす：ムーディーズ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Jamie Crawley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マトリックス法によるテクニカル分析（2025/9/26）トレンド転換？トレンド内での小休止？【楽天ウォレット】]]></title>
-        <id>https://www.coindeskjapan.com/?p=316332</id>
-        <link href="https://www.coindeskjapan.com/316332/"/>
-        <updated>2025-09-26T10:23:16.000Z</updated>
-        <summary type="html"><![CDATA[本稿ではビットコイン相場を①パターン分析 ②移動平均線（9MA・25MA） ③一目均衡表 ④ボリンジャーバンド ⑤MACD ⑥RSIの代表的な6種類のテクニカル ...
-マトリックス法によるテクニカル分析（2025/9/26）トレンド転換？トレンド内での小休止？【楽天ウォレット】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>松田康生</name>
         </author>
     </entry>
 </feed>

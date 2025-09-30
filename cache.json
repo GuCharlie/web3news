@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=316598",
+          "author": "James Van Straten",
+          "description": "アナリストのジェームズ・チェック（James Check）氏と、ビットコイン金融サービスを提供するアンチェインド（Unchained）社が作成した現在のビットコ ...\nIBITのオプション市場、ビットコインETF分野での優位性を後押し：レポート first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/316598/",
+          "publishedOn": "2025-09-30T02:00:00.000Z",
+          "wordCount": 1341,
+          "title": "IBITのオプション市場、ビットコインETF分野での優位性を後押し：レポート",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/92db263951b666a087c63041e9d277b81647b271-1920x1080-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=316594",
           "author": "Helene Braun",
           "description": "米証券取引委員会（SEC）は、暗号資産ETFの発行会社に対し、「19b-4」申請を取り下げるよう要請した。これは、新しい規則によって主要な規制上のハードルが取り ...\n暗号資産ETF、「異例の速さで」承認の可能性──SECが発行企業に「19b-4」の撤回を指示 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -404,6 +414,81 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=654431",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨取引所バイナンスは、従来の金融企業向けにインフラソリューション「Crypto-as-a-Service（CaaS）」をローンチすると発表。ローンチの背景や内容を説明した。",
+          "link": "https://coinpost.jp/?p=654431",
+          "publishedOn": "2025-09-30T02:30:24.000Z",
+          "wordCount": 3180,
+          "title": "「伝統金融と仮想通貨の架け橋に」バイナンス、企業向け「CaaS」をローンチへ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/Binance-Crypto-as-a-Service.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/Binance-Crypto-as-a-Service.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=654468",
+          "author": "菊谷ルイス",
+          "description": "米SECがデジタル広告企業QMMMホールディングスの株式取引を強制停止した。仮想通貨購入計画発表後に株価が暴騰し、SNSを通じた価格操作の疑いが指摘されている。",
+          "link": "https://coinpost.jp/?p=654468",
+          "publishedOn": "2025-09-30T02:05:16.000Z",
+          "wordCount": 3163,
+          "title": "仮想通貨購入発表で株価22倍暴騰のQMMM、米SECが株取引を停止",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/insider-trading-DAT.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/insider-trading-DAT.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=654436",
+          "author": "A.Yamada",
+          "description": "分散型デリバティブ取引所Asterが独自仮想通貨ASTERのベスティング方式エアドロップを検討している。Asterは前バイナンスCEOであるCZ氏の支持も背景に躍進している。",
+          "link": "https://coinpost.jp/?p=654436",
+          "publishedOn": "2025-09-30T01:50:33.000Z",
+          "wordCount": 3178,
+          "title": "急成長の分散型取引所Aster、トークンの分割エアドロップを検討　CZとの関係性も明らかに",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/DEX1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/DEX1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=654445",
+          "author": "CoinPost編集部",
+          "description": "仮想通貨ビットコイン市場は28日から30日朝にかけて急騰した。BTCは法定通貨や国家に依存しない無国籍資産であり、政府機能や金融システムが不安定化する局面において上昇する傾向を持つ。",
+          "link": "https://coinpost.jp/?p=654445",
+          "publishedOn": "2025-09-30T01:15:36.000Z",
+          "wordCount": 3262,
+          "title": "ビットコイン急騰、米政府閉鎖リスクで「無国籍資産」への逃避資金流入｜仮想NISHI",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0555.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0555.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=654435",
+          "author": "菊谷ルイス",
+          "description": "米SECが仮想通貨ETFの包括的上場基準を承認し、原則上個別審査が不要となった。ブルームバーグのETFアナリストは承認確率が事実上100%と予測している。",
+          "link": "https://coinpost.jp/?p=654435",
+          "publishedOn": "2025-09-30T00:55:46.000Z",
+          "wordCount": 3162,
+          "title": "ブルームバーグETF専門家予測、SEC包括基準でアルトコインETF承認確率「ほぼ100%」に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/FT-index-etf.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/FT-index-etf.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=654427",
           "author": "菊谷ルイス",

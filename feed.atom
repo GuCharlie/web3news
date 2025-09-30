@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-29T23:35:40.946Z</updated>
+    <updated>2025-09-30T01:11:47.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ストラテジーがビットコイン追加購入、総保有数64万31BTCに]]></title>
+        <id>https://www.neweconomy.jp/?p=501201</id>
+        <link href="https://www.neweconomy.jp/posts/501201"/>
+        <updated>2025-09-30T00:12:57.000Z</updated>
+        <summary type="html"><![CDATA[ストラテジーがビットコイン追加購入 上場企業によるビットコイン（BTC）の保有数で世界第1位のストラテジー（Strategy）が、ビットコインの追加購入を9月30日に発表した。 ストラテジーは9月22日から9月28日まで […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12年間休眠のビットコインウォレットが活動再開、65億円相当BTCを移動]]></title>
         <id>https://coinpost.jp/?p=654427</id>
@@ -2102,26 +2112,6 @@ Web3時代のVisaを目指すPlatON──創立者が語る伝統金融とデジ
 ビットコイン、11万1000ドル割れ、暗号資産株急落──米GDP改定値で利下げ期待後退 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【9/25話題】ソニー銀行のweb3子会社「BlockBloom」、FTX創業者SBFの「gm」投稿、イクヨがステーブルコイン決済協会など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=499791</id>
-        <link href="https://www.neweconomy.jp/posts/499791"/>
-        <updated>2025-09-25T12:11:23.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lib Workが株主優待にビットコイン提供追加、SBI VCトレードと連携で]]></title>
-        <id>https://www.neweconomy.jp/?p=500037</id>
-        <link href="https://www.neweconomy.jp/posts/500037"/>
-        <updated>2025-09-25T11:37:17.000Z</updated>
-        <summary type="html"><![CDATA[リブワークが株主優待でビットコイン提供 リブワーク（Lib Work）が、現行の株主優待制度を拡充し、新たにビットコインを提供すると9月24日に発表した。 リブワークは、インターネットやVRを活用した戸建て・住宅・不動産 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-30T09:39:11.477Z</updated>
+    <updated>2025-09-30T10:16:52.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[USDHはなぜハイパーリキッドを強化するのか？仕組み・収益、HYPEへの影響までわかりやすく解説]]></title>
+        <id>https://coinpost.jp/?p=654451</id>
+        <link href="https://coinpost.jp/?p=654451"/>
+        <updated>2025-09-30T10:11:16.000Z</updated>
+        <summary type="html"><![CDATA[USDHはなぜハイパーリキッドを強化するのか？仕組みから収益循環、HYPEへの影響までわかりやすく解説します。]]></summary>
+        <author>
+            <name>M.Somekawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソシエテ・ジェネラルの暗号資産部門、ユニスワップとモルフォにユーロとドル建てステーブルコインを上場]]></title>
+        <id>https://www.coindeskjapan.com/?p=316754</id>
+        <link href="https://www.coindeskjapan.com/316754/"/>
+        <updated>2025-09-30T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ソシエテ・ジェネラル（Societe Generale）の暗号資産子会社SG-FORGEは、ユーロ建ておよびドル建てステーブルコインを分散型金融（DeFi）に導 ...
+ソシエテ・ジェネラルの暗号資産部門、ユニスワップとモルフォにユーロとドル建てステーブルコインを上場 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Ian Allison</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リミックスポイント、就任わずか3カ月で社長交代──田代氏が辞任、高橋氏が復帰]]></title>
         <id>https://www.coindeskjapan.com/?p=316775</id>
@@ -2470,36 +2491,6 @@ Web3時代のVisaを目指すPlatON──創立者が語る伝統金融とデジ
         <summary type="html"><![CDATA[グーグルは、30億ドル規模、10年契約のAIデータセンター取引において、フルイドスタックの14億ドルの債務を保証することで、ビットコインマイナーであるサイファー・マイニングの株式5.4%を取得した。]]></summary>
         <author>
             <name>Cointelegraph  Adrian Zmudzinski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットワイズ、ハイパーリキッド現物ETFの上場をSECに申請]]></title>
-        <id>https://coinpost.jp/?p=653532</id>
-        <link href="https://coinpost.jp/?p=653532"/>
-        <updated>2025-09-25T22:15:30.000Z</updated>
-        <summary type="html"><![CDATA[米資産運用会社ビットワイズがハイパーリキッドETFの申請をSECに提出したことが明らかになった。バイナンス支援のAsterが高騰する中、分散型デリバティブ取引所への投資商品として注目を集めている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハッシュデックス、SECの包括的リスティング基準に基づき仮想通貨インデックス米国ETFを拡大]]></title>
-        <id>https://jp.cointelegraph.com/news/hashdex-expand-crypto-index-etf-sec-generic-standards</id>
-        <link href="https://jp.cointelegraph.com/news/hashdex-expand-crypto-index-etf-sec-generic-standards?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-09-25T22:01:13.000Z</updated>
-        <summary type="html"><![CDATA[この上場投資信託（ETF）は、米国で取引が承認された2番目の複数資産型仮想通貨投資ビークルである。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧州主要銀行9社、ユーロステーブルコイン発行へ]]></title>
-        <id>https://coinpost.jp/?p=653526</id>
-        <link href="https://coinpost.jp/?p=653526"/>
-        <updated>2025-09-25T21:40:44.000Z</updated>
-        <summary type="html"><![CDATA[オランダのINGなど欧州主要銀行9行がMiCAR規制準拠のユーロ建てステーブルコインを共同発行すると発表した。2026年後半の発行開始を予定。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

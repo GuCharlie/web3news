@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-30T19:12:21.464Z</updated>
+    <updated>2025-09-30T19:35:58.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アスター（ASTER）　10月に再上昇できるか？ トークンアンロックが焦点に]]></title>
+        <id>https://jp.cointelegraph.com/news/can-aster-price-rise-in-october</id>
+        <link href="https://jp.cointelegraph.com/news/can-aster-price-rise-in-october?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-09-30T19:23:45.000Z</updated>
+        <summary type="html"><![CDATA[バイナンス関連のDEXトークンであるアスター（ASTER）は、過去最高値の2.43ドル付近を記録した1週間後に25％下落し、火曜日時点で1.80ドルで取引されている。果たして10月に反発できるのか。]]></summary>
+        <author>
+            <name>Cointelegraph  Yashu Gola</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、金の最高値更新に追随できるか？ 11万ドルのCMEギャップに警戒感も]]></title>
         <id>https://jp.cointelegraph.com/news/did-bitcoin-just-finish-its-8-week-delay-copying-gold-all-time-highs</id>
@@ -2130,46 +2140,6 @@ XRPのリキッドステーキングトークンを発表──保有者が最�
 ハイパーリキッドで約3000万ドル相当のイーサリアムが清算──暗号資産市場では10億ドル超の清算 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム財団、「Ethereum Everywhere」発足。コミュニティ支援強化へ]]></title>
-        <id>https://www.neweconomy.jp/?p=500207</id>
-        <link href="https://www.neweconomy.jp/posts/500207"/>
-        <updated>2025-09-26T07:32:37.000Z</updated>
-        <summary type="html"><![CDATA[グローバルなコミュニティ支援を強化 イーサリアム財団（Ethereum Foundation：EF）が、世界中のイーサリアムコミュニティのつながりを強化する取り組み「イーサリアム・エブリウェア（Ethereum Ever […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金融業界向けブロックチェーン「カントン」、チェーンリンクのCCIP導入]]></title>
-        <id>https://www.neweconomy.jp/?p=500197</id>
-        <link href="https://www.neweconomy.jp/posts/500197"/>
-        <updated>2025-09-26T07:25:07.000Z</updated>
-        <summary type="html"><![CDATA[Canton NetworkにCCIP導入 金融業界向け分散型ネットワーク「カントンネットワーク（Canton Network）」が、分散型オラクルネットワーク「チェーンリンク（Chainlink）」との戦略的提携を9月 […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットワイズ、「ハイパーリキッド（HYPE）現物ETF」を米SECにS1申請]]></title>
-        <id>https://www.neweconomy.jp/?p=500183</id>
-        <link href="https://www.neweconomy.jp/posts/500183"/>
-        <updated>2025-09-26T07:20:56.000Z</updated>
-        <summary type="html"><![CDATA[Bitwise Hyperliquid ETF申請 米暗号資産（仮想通貨）運用会社ビットワイズ（Bitwise）が、暗号資産ハイパーリキッド（HYPE）の現物ETF（上場投資信託）に関する登録届出書「S-1申請書（For […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゲート、独自L2「Gate Layer」ローンチとGTトークノミクス刷新]]></title>
-        <id>https://www.neweconomy.jp/?p=500182</id>
-        <link href="https://www.neweconomy.jp/posts/500182"/>
-        <updated>2025-09-26T07:17:43.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産取引所ゲートが独自レイヤー2発表 海外暗号資産（仮想通貨）取引所ゲート（Gate）が、EVM互換の独自レイヤー2ネットワーク「ゲートレイヤー（Gate Layer）」のローンチを9月25日に発表した。また同チェー […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>

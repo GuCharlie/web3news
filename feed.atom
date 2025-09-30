@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-30T14:15:35.851Z</updated>
+    <updated>2025-09-30T14:39:34.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインDeFiプロジェクトBOBとレイザーゼロ、11の主要ブロックチェーンでビットコイン送金を実現]]></title>
+        <id>https://www.coindeskjapan.com/?p=316869</id>
+        <link href="https://www.coindeskjapan.com/316869/"/>
+        <updated>2025-09-30T14:16:11.000Z</updated>
+        <summary type="html"><![CDATA[分散型金融（DeFi）プロトコルブルのビルド・オン・ビットコイン（BOB：Build on Bitcoin）は、ビットコイン（BTC）保有者がワンクリックで資産 ...
+ビットコインDeFiプロジェクトBOBとレイザーゼロ、11の主要ブロックチェーンでビットコイン送金を実現 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビザ、クロスボーダー決済向けのステーブルコイン事前入金型試験運用を開始]]></title>
         <id>https://www.coindeskjapan.com/?p=316861</id>
@@ -2360,16 +2371,6 @@ CoinTradeが新たに「SUI」「IOTX」の取り扱いを開始 first appeared 
         <summary type="html"><![CDATA[Orderly Oneで独自パーペチュアルDEX構築可能に オーダリーネットワーク（Orderly Network）が、コード不要で独自のパーペチュアル（永久先物）DEXを構築できるプラットフォーム「オーダリー・ワン（O […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025-09-26 【地方創生】Adam byGMOで販売「車多酒造主催の特別酒蔵ツアー参加権利付きNFTチケット」とは]]></title>
-        <id>https://crypto-times.jp/news-rural-revitalization-adam-bygmo-tengumai/#p143904</id>
-        <link href="https://crypto-times.jp/news-rural-revitalization-adam-bygmo-tengumai/"/>
-        <updated>2025-09-26T02:27:34.000Z</updated>
-        <summary type="html"><![CDATA[現在、DAOやNFTといったブロックチェーンを活用するプロジェクトが、Web3分野に対する関心の高ま…]]></summary>
-        <author>
-            <name>よきょい</name>
         </author>
     </entry>
 </feed>

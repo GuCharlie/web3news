@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-30T11:36:30.262Z</updated>
+    <updated>2025-09-30T12:33:20.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビザ、クロスボーダー決済向けのステーブルコイン事前入金型試験運用を開始]]></title>
+        <id>https://www.coindeskjapan.com/?p=316861</id>
+        <link href="https://www.coindeskjapan.com/316861/"/>
+        <updated>2025-09-30T12:29:36.000Z</updated>
+        <summary type="html"><![CDATA[ビザ（Visa）は、リアルタイム決済プラットフォーム「ビザ・ダイレクト（Visa Direct）」を通じて、ステーブルコイン利用に向けた事前入金型の試験運用を開 ...
+ビザ、クロスボーダー決済向けのステーブルコイン事前入金型試験運用を開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[チェーンリンク、伝統的金融のブロックチェーン移行を後押しする用意ができている：ジェフリーズ]]></title>
+        <id>https://www.coindeskjapan.com/?p=316774</id>
+        <link href="https://www.coindeskjapan.com/316774/"/>
+        <updated>2025-09-30T12:01:41.000Z</updated>
+        <summary type="html"><![CDATA[投資銀行ジェフリーズ（Jefferies）がチェーンリンク（Chainlink）の共同創業者セルゲイ・ナザロフ（Sergey Nazarov）氏との電話後に発表 ...
+チェーンリンク、伝統的金融のブロックチェーン移行を後押しする用意ができている：ジェフリーズ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ドイツ取引所とサークル、ステーブルコインのヨーロッパ市場インフラへの統合で提携]]></title>
         <id>https://www.coindeskjapan.com/?p=316826</id>
@@ -15,6 +37,16 @@
 ドイツ取引所とサークル、ステーブルコインのヨーロッパ市場インフラへの統合で提携 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Ian Allison</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインで利回りを狙う｜Lombard（ロンバード）・LBTCの始め方と注意点]]></title>
+        <id>https://coinpost.jp/?p=650055</id>
+        <link href="https://coinpost.jp/?p=650055"/>
+        <updated>2025-09-30T10:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Lombardを通じてビットコインを利回り資産として活用する方法を解説。LBTCの仕組みや始め方に加え、注意点やリスクも整理しました。]]></summary>
+        <author>
+            <name>M.Somekawa</name>
         </author>
     </entry>
     <entry>
@@ -2422,16 +2454,6 @@ Web3時代のVisaを目指すPlatON──創立者が語る伝統金融とデジ
         <summary type="html"><![CDATA[Glassnodeが仮想通貨市場の最新分析レポートを発表。ビットコインは長期保有者の利益確定と、ETFなどへの流入鈍化により市場冷え込みリスクが高まっていると分析した。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サークル、不正対策で取引無効化可能なステーブルコイン仕組みを検討か＝報道]]></title>
-        <id>https://coinpost.jp/?p=653543</id>
-        <link href="https://coinpost.jp/?p=653543"/>
-        <updated>2025-09-26T00:10:46.000Z</updated>
-        <summary type="html"><![CDATA[世界2位のステーブルコイン発行企業サークルが詐欺や紛争時にステーブルコイン送金を取り消せる仕組みの導入を検討していることをフィナンシャル・タイムズが報じた。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

@@ -560,7 +560,7 @@
       "articles": []
     },
     {
-      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "Zcash(ZEC)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -1283,21 +1283,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/pipe-dat-sotck-price-down.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/pipe-dat-sotck-price-down.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=653894",
-          "author": "菊谷ルイス",
-          "description": "「キャプテン翼RIVALS」の運営チームが2025年11月28日でのサービス終了を発表。長期運営を目指もゲームエコシステムの継続が困難になったと説明。",
-          "link": "https://coinpost.jp/?p=653894",
-          "publishedOn": "2025-09-27T00:20:32.000Z",
-          "wordCount": 3160,
-          "title": "ブロックチェーンゲーム「キャプテン翼RIVALS Polygon/Oasys」、11月28日にサービス終了",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/cap-tsuba-rival-shut-down.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/cap-tsuba-rival-shut-down.jpg"
         }
       ]
     },
@@ -1306,6 +1291,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=501984",
+          "author": "OtsugaShinya",
+          "description": "イオレがJ-CAMと提携 東証グロース上場企業のイオレが、暗号資産（仮想通貨）金融事業において、J-CAM（ジェイカム）と戦略的提携したことを10月1日に発表した。 J-CAMは、暗号資産レンディングサービス「ビットレン […]",
+          "link": "https://www.neweconomy.jp/posts/501984",
+          "publishedOn": "2025-10-01T11:55:05.000Z",
+          "wordCount": 733,
+          "title": "イオレ、暗号資産レンディング提供のJ-CAMと提携",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/01205456/205dc78323638e9a7cf3906efd2c6893.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=501974",
           "author": "TamuraSeiji",
@@ -2340,6 +2335,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/news-parallel-tcgs-expansion-pack-deception-drop-sold-out-immediately/#p144550",
+          "author": "Crypto Times 編集部",
+          "description": "Sci-Fi世界を舞台にしたブロックチェーンゲーム「Parallel TCG」が、OpenSea上で…",
+          "link": "https://crypto-times.jp/news-parallel-tcgs-expansion-pack-deception-drop-sold-out-immediately/",
+          "publishedOn": "2025-10-01T11:45:06.000Z",
+          "wordCount": 594,
+          "title": "2025-10-01 Parallel TCGの拡張パック「Deception Drop」が即完売",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_1847784037.jpg"
+        },
         {
           "id": "https://crypto-times.jp/news-special-edition-froot-loops-and-doodles-box-set-now-available-for-a-limited-time/#p144547",
           "author": "Crypto Times 編集部",

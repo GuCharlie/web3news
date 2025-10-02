@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-02T20:16:26.024Z</updated>
+    <updated>2025-10-02T20:38:20.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米CME、仮想通貨先物とオプションの24時間取引を2026年初頭に開始]]></title>
+        <id>https://coinpost.jp/?p=655410</id>
+        <link href="https://coinpost.jp/?p=655410"/>
+        <updated>2025-10-02T20:35:22.000Z</updated>
+        <summary type="html"><![CDATA[米CMEグループが仮想通貨先物とオプション取引を週7日24時間体制で提供すると発表した。規制審査を経て2026年初頭に開始予定で、高まる顧客需要に対応。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインが12万ドル突破　長期保有者の売り圧力緩和で蓄積局面入りの兆し]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-clears-dollar120k-as-onchain-data-points-to-a-new-btc-accumulation-phase</id>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-02T09:37:56.948Z</updated>
+    <updated>2025-10-02T10:15:10.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日本の暗号資産投資家67%が長期保有を選択ーBinance Japan調査]]></title>
+        <id>https://coinpost.jp/?p=655322</id>
+        <link href="https://coinpost.jp/?p=655322"/>
+        <updated>2025-10-02T09:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Binance Japanが実施した1,076名への調査で、日本の暗号資産投資家の67.1%が長期保有を選択していることが判明。収益性を最重視し、XRPが人気1位に。税制の影響で短期売買より長期投資が有利な日本独自の投資傾向を詳しく解説。]]></summary>
+        <author>
+            <name>Ritsuki.Kumazawa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米政府閉鎖と利下げ期待でBTC上伸　ダブルボトムが完成【ビットバンク仮想通貨分析】]]></title>
         <id>https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-1002</id>
@@ -76,6 +86,16 @@ LINE NEXT、ステーブルコイン決済伸びゲームアイテム月間取�
         <summary type="html"><![CDATA[10月2日の東京株式市場で暗号資産関連事業を手がける株式会社メタプラネットの株価が急反発しました。終…]]></summary>
         <author>
             <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブロックチェーンゲーム開発のDJT、魁 三国志大戦など2作品のサービス終了と事業転換を発表]]></title>
+        <id>https://coinpost.jp/?p=655292</id>
+        <link href="https://coinpost.jp/?p=655292"/>
+        <updated>2025-10-02T08:48:33.000Z</updated>
+        <summary type="html"><![CDATA[double jump.tokyoが創業以来の主力事業だったブロックチェーンゲーム開発からの事業転換を表明した。新規流入が伸び悩んだ際に崩壊するトークン経済圏の限界が露呈する中、OASトークンを軸としたトレジャリー事業とN Suite事業に注力し、Web3の基盤整備企業への転身を目指す。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
         </author>
     </entry>
     <entry>
@@ -2835,26 +2855,6 @@ NYDIG、「誤解を招く」としてビットコイン財務企業にmNAV指�
 XRPのリキッドステーキングトークンを発表──保有者が最大8%の利益を獲得できるようになる／暗号資産関連株、プレマーケット取引で急落──ビットコインは11万2000ドルに急落【日曜日に読みたい厳選10本】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>橋本 祐樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーブルコイン普及が新興国の金融安定にリスク　ムーディーズが「クリプト化」を警告]]></title>
-        <id>https://jp.cointelegraph.com/news/stablecoin-risks-cryptoization-rules-economies-moodys</id>
-        <link href="https://jp.cointelegraph.com/news/stablecoin-risks-cryptoization-rules-economies-moodys?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-09-27T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ムーディーズ・レーティングスの新しいレポートによれば、ステーブルコインや仮想通貨の採用が世界的に加速するなか、新興市場は通貨主権と金融安定に対するリスクが高まっている。]]></summary>
-        <author>
-            <name>Cointelegraph  Nate Kostar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーブルコイン普及が新興国の金融安定にリスク　ムーディーズが「クリプト化」を警告]]></title>
-        <id>https://jp.cointelegraph.com/news/stablecoin-risks-cryptoization-rules-economies-moodys</id>
-        <link href="https://jp.cointelegraph.com/news/stablecoin-risks-cryptoization-rules-economies-moodys?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-09-27T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ムーディーズ・レーティングスの新しいレポートによれば、ステーブルコインや仮想通貨の採用が世界的に加速するなか、新興市場は通貨主権と金融安定に対するリスクが高まっている。]]></summary>
-        <author>
-            <name>Cointelegraph  Nate Kostar</name>
         </author>
     </entry>
 </feed>

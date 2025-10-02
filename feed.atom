@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-02T10:15:10.819Z</updated>
+    <updated>2025-10-02T10:39:11.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[急騰したビットコイン、短期的には反落か？ RSIは「買われすぎ」水準]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-hits-119-5k-but-rsi-warns-btc-price-pullback-next</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-hits-119-5k-but-rsi-warns-btc-price-pullback-next?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-10-02T10:36:42.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は、複数の価格指標が「買われすぎ」を示しており、短期的に調整とサポート再テストに向かう可能性があるとの見方が強まっている。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025-10-02 【総額約2400ドル】暗号資産等がもらえる無料キャンペーンが開始]]></title>
+        <id>https://crypto-times.jp/news-candydrops-tria-campaign/#p144631</id>
+        <link href="https://crypto-times.jp/news-candydrops-tria-campaign/"/>
+        <updated>2025-10-02T10:27:07.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産版ポイ活情報サイト「Candy Drops」が暗号資産ウォレットサービス「Tria」とのコラ…]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインのマイニング難易度は過去最高水準に──ハッシュ価格は下落]]></title>
+        <id>https://www.coindeskjapan.com/?p=317314</id>
+        <link href="https://www.coindeskjapan.com/317314/"/>
+        <updated>2025-10-02T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインのマイニング難易度が10月1日に5％上昇し、過去最高の150兆8400億に達した。グラスノードによると、これで7回連続の上昇となった。 難易度は20 ...
+ビットコインのマイニング難易度は過去最高水準に──ハッシュ価格は下落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>James Van Straten</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本の暗号資産投資家67%が長期保有を選択ーBinance Japan調査]]></title>
         <id>https://coinpost.jp/?p=655322</id>

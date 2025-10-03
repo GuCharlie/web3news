@@ -2680,16 +2680,6 @@
           "wordCount": 652,
           "title": "ハイパーリキッド上のレンディングプロトコルで不正アクセス発生、約78.2万ドル損失",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/29133022/770df552254f164852121bb569d3bb11.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=500658",
-          "author": "OtsugaShinya",
-          "description": "旧マックハウスがビットコイン追加購入 衣料品の販売店舗を全国に展開する東証スタンダード上場企業のジーイエット（旧マックハウス）が、ビットコインの追加購入を9月26日に発表した。同社は前日25日および24日にもビットコイン […]",
-          "link": "https://www.neweconomy.jp/posts/500658",
-          "publishedOn": "2025-09-29T03:31:14.000Z",
-          "wordCount": 755,
-          "title": "ジーイエット（旧マックハウス）、3日連続でビットコイン追加購入",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/29123058/BTC4-250714-PIXTA-1.jpg"
         }
       ]
     },
@@ -2698,6 +2688,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-futures-aggressively-long-whale-chase-121k-btc-price-highs",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコイン（BTC）のデリバティブ取引において、トレーダーが「積極的にロング」に傾きつつあり、価格が史上最高値に迫る中で強気姿勢が強まっている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-futures-aggressively-long-whale-chase-121k-btc-price-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-03T15:18:17.000Z",
+          "wordCount": null,
+          "title": "ビットコイン先物市場　強気姿勢を鮮明に　ETF資金流入も加速",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzk4MGEtM2IyOC03ZjU0LTg4NGEtNzJkMWVjNDZkZTkz.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzk4MGEtM2IyOC03ZjU0LTg4NGEtNzJkMWVjNDZkZTkz.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/all-currency-will-be-stablecoin-before-2030-reeve-collins",
           "author": "Cointelegraph  Brian Quarmby",

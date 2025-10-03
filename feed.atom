@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-03T12:31:04.139Z</updated>
+    <updated>2025-10-03T13:22:40.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【10/3話題】野村HDが日本法人向けの暗号資産取引を提供か、BNBが1100ドルの史上最高値など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=502968</id>
+        <link href="https://www.neweconomy.jp/posts/502968"/>
+        <updated>2025-10-03T12:47:01.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OKJ、「クオンタム（QTUM）」のステーキングサービス提供へ]]></title>
         <id>https://www.neweconomy.jp/?p=502957</id>
@@ -3451,36 +3461,6 @@ NYDIG、「誤解を招く」としてビットコイン財務企業にmNAV指�
         <summary type="html"><![CDATA[高い利回りを提供する「合成ステーブルコイン」が暗号資産市場で注目を集めています。 合成ステーブルコイ…]]></summary>
         <author>
             <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025-09-29 10月相場に暗雲。米政府閉鎖リスクが暗号資産市場を直撃か]]></title>
-        <id>https://crypto-times.jp/news-dark-clouds-over-october-market-risk-of-us-government-shutdown-could-hit-cryptocurrency-market-hard/#p144274</id>
-        <link href="https://crypto-times.jp/news-dark-clouds-over-october-market-risk-of-us-government-shutdown-could-hit-cryptocurrency-market-hard/"/>
-        <updated>2025-09-29T01:07:16.000Z</updated>
-        <summary type="html"><![CDATA[米国の政治的対立により10月の期限までに予算案が成立せず政府機関が閉鎖される可能性が過去最高水準に達…]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025-09-29 BTC年末20万ドルは幻か？専門家が予測を大幅に下方修正]]></title>
-        <id>https://crypto-times.jp/news-is-the-200000-btc-year-end-price-target-a-fantasy-experts-drastically-lower-their-predictions/#p144275</id>
-        <link href="https://crypto-times.jp/news-is-the-200000-btc-year-end-price-target-a-fantasy-experts-drastically-lower-their-predictions/"/>
-        <updated>2025-09-29T00:59:56.000Z</updated>
-        <summary type="html"><![CDATA[2025年も残り100日を切る中、多くの機関投資家が予測したビットコイン（BTC）の年末20万ドル到…]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国の大手資産運用会社「チャイナAMC香港」、イーサリアム上MMFの総資産額750億円規模に]]></title>
-        <id>https://coinpost.jp/?p=654063</id>
-        <link href="https://coinpost.jp/?p=654063"/>
-        <updated>2025-09-29T00:55:44.000Z</updated>
-        <summary type="html"><![CDATA[中国最大級の資産運用会社チャイナAMCが運用するイーサリアム上トークン化MMFが750億円規模に達している。一方で中国当局はRWA製品について監視強化していると伝えられる。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>

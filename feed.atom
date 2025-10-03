@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-03T11:36:01.486Z</updated>
+    <updated>2025-10-03T12:31:04.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OKJ、「クオンタム（QTUM）」のステーキングサービス提供へ]]></title>
+        <id>https://www.neweconomy.jp/?p=502957</id>
+        <link href="https://www.neweconomy.jp/posts/502957"/>
+        <updated>2025-10-03T12:28:45.000Z</updated>
+        <summary type="html"><![CDATA[OKJがQTUMのステーキングサービス対応へ 国内暗号資産（仮想通貨）取引所OKJが、ステーキングサービスの対応銘柄にクオンタム（QTUM）を追加すると9月30日に発表した。 発表によるとOKJのQTUMステーキングサー […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東証グロース上場モブキャスト、財務戦略でソラナ（SOL）購入へ]]></title>
         <id>https://www.neweconomy.jp/?p=502939</id>
@@ -3471,16 +3481,6 @@ NYDIG、「誤解を招く」としてビットコイン財務企業にmNAV指�
         <summary type="html"><![CDATA[中国最大級の資産運用会社チャイナAMCが運用するイーサリアム上トークン化MMFが750億円規模に達している。一方で中国当局はRWA製品について監視強化していると伝えられる。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025-09-29 ドル売り急増で「ショートスクイーズ」発生の懸念。市場混乱でビットコインはどうなる？]]></title>
-        <id>https://crypto-times.jp/news-a-surge-in-dollar-selling-raises-concerns-about-a-short-squeeze-what-will-happen-to-bitcoin-amid-market-turmoil/#p144276</id>
-        <link href="https://crypto-times.jp/news-a-surge-in-dollar-selling-raises-concerns-about-a-short-squeeze-what-will-happen-to-bitcoin-amid-market-turmoil/"/>
-        <updated>2025-09-29T00:28:37.000Z</updated>
-        <summary type="html"><![CDATA[投資家の間で米ドルを空売りする動きが急増し市場の不安定化に対する懸念が強まっています。米連邦準備制度…]]></summary>
-        <author>
-            <name>よきょい</name>
         </author>
     </entry>
 </feed>

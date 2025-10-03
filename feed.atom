@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-03T16:18:23.706Z</updated>
+    <updated>2025-10-03T16:42:29.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン　12万3000ドル以上に上昇　次のショートスクイーズに備え]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-squeeze-record-88-billion-open-interest-flush-worries</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-squeeze-record-88-billion-open-interest-flush-worries?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-10-03T16:30:27.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は金曜日のウォール街の取引開始時に12万ドルのサポート水準を維持し、新たなショートスクイーズに向けた地盤を固めつつある。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRPが3ドル台回復　RSIゴールデンクロスで30～40％上昇の可能性]]></title>
         <id>https://jp.cointelegraph.com/news/xrp-price-reclaims-3-dollars-opening-40-percent-gains-october</id>
@@ -3369,16 +3379,6 @@ NYDIG、「誤解を招く」としてビットコイン財務企業にmNAV指�
         <link href="https://www.neweconomy.jp/posts/500749"/>
         <updated>2025-09-29T04:49:53.000Z</updated>
         <summary type="html"><![CDATA[大手企業3社から3億円の出資獲得 不動産STO（セキュリティ・トークン・オファリング）事業を手がけるデジタル証券株式会社（以下、DS社）が、シリーズAラウンドの2ndクローズを実施し総額3億円の資金調達を完了したと9月2 […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハイパーリキッド上のレンディングプロトコルで不正アクセス発生、約78.2万ドル損失]]></title>
-        <id>https://www.neweconomy.jp/?p=500739</id>
-        <link href="https://www.neweconomy.jp/posts/500739"/>
-        <updated>2025-09-29T04:30:30.000Z</updated>
-        <summary type="html"><![CDATA[ハイパードライブで不正アクセス発生 DEX（分散型取引所）向けに構築されたレイヤー1ブロックチェーン「ハイパーリキッド（Hyperliquid）」上で稼働するレンディングプロトコル「ハイパードライブ（Hyperdrive […]]]></summary>
         <author>
             <name>NewEconomy</name>
         </author>

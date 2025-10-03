@@ -2670,16 +2670,6 @@
           "wordCount": 743,
           "title": "デジタル証券株式会社、SBIや三菱UFJなどから3億円の資金調達達成",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/29134950/5afc5435fa8f973a1481865bc5b74bbc.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=500739",
-          "author": "NewEconomy",
-          "description": "ハイパードライブで不正アクセス発生 DEX（分散型取引所）向けに構築されたレイヤー1ブロックチェーン「ハイパーリキッド（Hyperliquid）」上で稼働するレンディングプロトコル「ハイパードライブ（Hyperdrive […]",
-          "link": "https://www.neweconomy.jp/posts/500739",
-          "publishedOn": "2025-09-29T04:30:30.000Z",
-          "wordCount": 652,
-          "title": "ハイパーリキッド上のレンディングプロトコルで不正アクセス発生、約78.2万ドル損失",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/29133022/770df552254f164852121bb569d3bb11.jpg"
         }
       ]
     },
@@ -2688,6 +2678,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-squeeze-record-88-billion-open-interest-flush-worries",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコイン（BTC）は金曜日のウォール街の取引開始時に12万ドルのサポート水準を維持し、新たなショートスクイーズに向けた地盤を固めつつある。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-squeeze-record-88-billion-open-interest-flush-worries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-03T16:30:27.000Z",
+          "wordCount": null,
+          "title": "ビットコイン　12万3000ドル以上に上昇　次のショートスクイーズに備え",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2RmMzUtOTlkYi03ZTk5LWIzZWQtNDM0ZTFhYzQyZjM0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2RmMzUtOTlkYi03ZTk5LWIzZWQtNDM0ZTFhYzQyZjM0.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/xrp-price-reclaims-3-dollars-opening-40-percent-gains-october",
           "author": "Cointelegraph  Yashu Gola",

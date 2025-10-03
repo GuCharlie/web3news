@@ -830,7 +830,7 @@
       "articles": []
     },
     {
-      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "Ethereum(ETH)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -1907,6 +1907,76 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=502586",
+          "author": "HitomotoToshikazu",
+          "description": "Crypto.comがSOLトレジャリーの管理支援 海外暗号資産（仮想通貨）取引所クリプトドットコム（Crypto.com）が、米ナスダック（Nasdaq）上場医療器具メーカーであるシャープステクノロジー（Sharps  […]",
+          "link": "https://www.neweconomy.jp/posts/502586",
+          "publishedOn": "2025-10-03T06:22:20.000Z",
+          "wordCount": 739,
+          "title": "クリプトドットコム、ナスダック上場医療器具メーカー「Sharps Technology」のソラナ（SOL）トレジャリー管理支援",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/03151410/5763e738a481920f77eada826b57ad2a.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=502590",
+          "author": "gentosha_takahashi",
+          "description": "株式希薄化を抑えBTC備蓄能力強化へ ビットコイン（BTC）の購入を積極的に進めている東証スタンダード上場企業・メタプラネットが、同社の成長戦略「PHASE II」を10月1日に公表した。 メタプラネットはすでに「555 […]",
+          "link": "https://www.neweconomy.jp/posts/502590",
+          "publishedOn": "2025-10-03T06:21:28.000Z",
+          "wordCount": 741,
+          "title": "メタプラネットがPHASE II戦略を公表。永久型優先株式でBTC長期蓄積へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/03152123/92c0c9e41d07920e1724d421faaac32e.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=502531",
+          "author": "HitomotoToshikazu",
+          "description": "Avalanche TreasuryがSPAC上場へ アバランチトレジャリー（Avalanche Treasury：AVAT）が、SPAC（上場特別目的買収会社）のマウンテンレイクアクイジション（Mountain Lak […]",
+          "link": "https://www.neweconomy.jp/posts/502531",
+          "publishedOn": "2025-10-03T05:32:50.000Z",
+          "wordCount": 804,
+          "title": "アバランチトレジャリーが米ナスダックにSPAC上場へ、10億ドル超の「AVAX」保有に向け",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/03130414/bdf4a9a0b481cbfd106146798edc4e1f.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=502545",
+          "author": "OtsugaShinya",
+          "description": "SBI証券の対象商品取引でXRP付与 SBI証券で対象商品を取引すると、抽選で3,000名に1,000円相当の暗号資産（仮想通貨）エックスアールピー（XRP）が付与される取り組みが10月1日より開始した。 同取り組みは、 […]",
+          "link": "https://www.neweconomy.jp/posts/502545",
+          "publishedOn": "2025-10-03T04:06:53.000Z",
+          "wordCount": 745,
+          "title": "SBI VCトレード、SBI証券の対象商品取引で1,000円相当の「XRP」付与へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/03130645/a67005cf11b6ca2a58a7d97727a4ce93.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=502533",
+          "author": "OtsugaShinya",
+          "description": "BNBが史上最高値を更新 暗号資産（仮想通貨）ビルドアンドビルド（BNB）の価格が1,100ドルを突破し、史上最高値を更新した。 BNB価格は10月3日6:00頃、9月21日に記録した1,087ドルを更新。そのまま上昇を […]",
+          "link": "https://www.neweconomy.jp/posts/502533",
+          "publishedOn": "2025-10-03T03:58:10.000Z",
+          "wordCount": 748,
+          "title": "ビルドアンドビルド（BNB）が史上最高値を更新、1,100ドル突破",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/03125800/BNB-251003-Butsaya.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=502523",
+          "author": "gentosha_takahashi",
+          "description": "グローバルとの差が鮮明に 国内暗号資産（仮想通貨）取引所バイナンスジャパン（Binance Japan）は、10月4日の「投資の日」に先立ち、暗号資産投資に関する意識調査の結果を10月2日に公表した。 調査はバイナンスジ […]",
+          "link": "https://www.neweconomy.jp/posts/502523",
+          "publishedOn": "2025-10-03T03:40:45.000Z",
+          "wordCount": 748,
+          "title": "国内投資家は暗号資産の長期保有志向。人気銘柄は「XRP」がトップに＝Binance Japan調査",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/03124030/4c3c530fcef04857854f78afe4a7a863.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=502499",
+          "author": "OtsugaShinya",
+          "description": "EUでテーブルコインの緊急安全対策が要求される EU（欧州連合）の金融リスク監視機関が、域内での発行割合が一部にとどまるステーブルコインに対し、緊急のセーフガード（安全策）を講じるよう10月2日に要請した。このことはEC […]",
+          "link": "https://www.neweconomy.jp/posts/502499",
+          "publishedOn": "2025-10-03T02:40:57.000Z",
+          "wordCount": 751,
+          "title": "EUのリスク監視機関、ステーブルコインの緊急安全対策を要求",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/03114052/551da52dea83199660405b9aae2b49b5.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=502198",
           "author": "NewEconomyPodcast",
           "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
@@ -2493,6 +2563,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/exchanges-will-become-dex-frontends-in-5-to-10-years-1inch-dex-aggregator-cofounder",
+          "author": "Cointelegraph  Adrian Zmudzinski",
+          "description": "中央集権型の仮想通貨取引所は、今後10年以内に分散型金融（DeFi）のアグリゲーターに取って代わられる可能性があると、1inch共同創業者のセルゲイ・クンツ氏が語った。",
+          "link": "https://jp.cointelegraph.com/news/exchanges-will-become-dex-frontends-in-5-to-10-years-1inch-dex-aggregator-cofounder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-03T04:00:00.000Z",
+          "wordCount": null,
+          "title": "中央集権型取引所は10年以内に消滅か　1inch共同創業者がDeFiの台頭を予測",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWE0ZGEtNGYzOS03NTg3LTkyMGQtYzY1MDVjNzI3OTI5.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWE0ZGEtNGYzOS03NTg3LTkyMGQtYzY1MDVjNzI3OTI5.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/stablecoin-duopoly-ends-usdt-usdc-dominance-decline-analyst",
           "author": "Cointelegraph  Helen Partz",
@@ -3310,6 +3395,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/news-pancakeswap-sets-new-all-time-high-with-quarterly-trading-volume-of-772-billion/#p144679",
+          "author": "Crypto Times 編集部",
+          "description": "BNBチェーン最大の分散型取引所 (DEX) であるPancakeSwapが2025年第3四半期に取…",
+          "link": "https://crypto-times.jp/news-pancakeswap-sets-new-all-time-high-with-quarterly-trading-volume-of-772-billion/",
+          "publishedOn": "2025-10-03T05:15:42.000Z",
+          "wordCount": 691,
+          "title": "2025-10-03 PancakeSwap、四半期取引高7720億ドルで史上最高を更新",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_2028384575.jpg"
+        },
         {
           "id": "https://crypto-times.jp/news-candydrops-tria-campaign/#p144631",
           "author": "Crypto Times 編集部",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-04T09:35:22.727Z</updated>
+    <updated>2025-10-04T10:14:12.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025-10-04 【今日の暗号資産ニュース】BTC最高値更新が目前？リップルETF承認で価格はどうなる？]]></title>
+        <id>https://crypto-times.jp/news-is-a-new-record-high-for-btc-imminent-what-will-happen-to-the-price-with-the-approval-of-ripple-etf/#p144782</id>
+        <link href="https://crypto-times.jp/news-is-a-new-record-high-for-btc-imminent-what-will-happen-to-the-price-with-the-approval-of-ripple-etf/"/>
+        <updated>2025-10-04T09:38:18.000Z</updated>
+        <summary type="html"><![CDATA[10月4日、ビットコイン（BTC）の価格は122,400ドル前後で推移しており、イーサリアム（ETH…]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025-10-04 メインネット稼働！AIのオンチェーン化「0G Labs」AMAレポート]]></title>
         <id>https://crypto-times.jp/ama-0g-2/#p144554</id>
@@ -3324,16 +3334,6 @@ IBITのオプション市場、ビットコインETF分野での優位性を後�
         <summary type="html"><![CDATA[数日から数週間に及ぶ米政府閉鎖は、7月に下院を通過した仮想通貨市場構造法案の上院での審議をさらに遅らせる可能性がある。]]></summary>
         <author>
             <name>Cointelegraph  Turner Wright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米マサチューセッツ州、ビットコイン準備金法案の公聴会を来週開催]]></title>
-        <id>https://coinpost.jp/?p=654412</id>
-        <link href="https://coinpost.jp/?p=654412"/>
-        <updated>2025-09-29T21:50:23.000Z</updated>
-        <summary type="html"><![CDATA[マサチューセッツ州議会が10月7日にビットコイン戦略準備金法案の公聴会を開催すると現地メディアが報じた。アンチ仮想通貨の民主党が優勢な州議会で仮想通貨準備金法案が審議される初事例となる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

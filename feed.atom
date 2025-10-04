@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-04T21:35:23.308Z</updated>
+    <updated>2025-10-04T22:12:57.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインの4年周期説は死んでいない？ 仮想通貨業界幹部「何らかの形で今後も続く」]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-four-year-cycle-crypto-exchange-gemini-saad-ahmed</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-four-year-cycle-crypto-exchange-gemini-saad-ahmed?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-10-04T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨業界の幹部によれば、ビットコイン（BTC）の4年周期は過去とまったく同じ形で展開しない可能性があるが、それが完全に無意味になったわけではない。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨ベンチャーキャピタル　投資姿勢を厳格化　ナラティブ頼みから実需重視へ]]></title>
         <id>https://jp.cointelegraph.com/news/crypto-venture-capital-bullish-capital-investment-slowing</id>
@@ -2823,27 +2833,6 @@ bitFlyer、後藤真希さん起用の新テレビCMを全国放映 first appear
         <summary type="html"><![CDATA[Lombardを通じてビットコインを利回り資産として活用する方法を解説。LBTCの仕組みや始め方に加え、注意点やリスクも整理しました。]]></summary>
         <author>
             <name>M.Somekawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USDHはなぜハイパーリキッドを強化するのか？仕組み・収益、HYPEへの影響までわかりやすく解説]]></title>
-        <id>https://coinpost.jp/?p=654451</id>
-        <link href="https://coinpost.jp/?p=654451"/>
-        <updated>2025-09-30T10:11:16.000Z</updated>
-        <summary type="html"><![CDATA[USDHはなぜハイパーリキッドを強化するのか？仕組みから収益循環、HYPEへの影響までわかりやすく解説します。]]></summary>
-        <author>
-            <name>M.Somekawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソシエテ・ジェネラルの暗号資産部門、ユニスワップとモルフォにユーロとドル建てステーブルコインを上場]]></title>
-        <id>https://www.coindeskjapan.com/?p=316754</id>
-        <link href="https://www.coindeskjapan.com/316754/"/>
-        <updated>2025-09-30T09:45:00.000Z</updated>
-        <summary type="html"><![CDATA[ソシエテ・ジェネラル（Societe Generale）の暗号資産子会社SG-FORGEは、ユーロ建ておよびドル建てステーブルコインを分散型金融（DeFi）に導 ...
-ソシエテ・ジェネラルの暗号資産部門、ユニスワップとモルフォにユーロとドル建てステーブルコインを上場 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Ian Allison</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-05T07:12:55.242Z</updated>
+    <updated>2025-10-05T07:35:18.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025-10-05 ビットコインETF週間流入32.4億ドル、史上2番目の規模を記録]]></title>
+        <id>https://crypto-times.jp/news-bitcoin-etfs-see-3-24-billion-weekly-inflows-marking-second-largest-weekly-inflow-on-record/#p144798</id>
+        <link href="https://crypto-times.jp/news-bitcoin-etfs-see-3-24-billion-weekly-inflows-marking-second-largest-weekly-inflow-on-record/"/>
+        <updated>2025-10-05T07:13:18.000Z</updated>
+        <summary type="html"><![CDATA[米国の現物型ビットコインETFへの先週の資金流入が32.4億ドル(約4,777億円)を記録し、202…]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025-10-05 ビットコイン、史上最高値を更新｜年末20万ドル突破の可能性も？]]></title>
         <id>https://crypto-times.jp/news-bitcoin-hits-all-time-high-could-it-surpass-200000-by-year-end/#p144793</id>
@@ -2823,16 +2833,6 @@ bitFlyer、後藤真希さん起用の新テレビCMを全国放映 first appear
         <summary type="html"><![CDATA[ビットコイン（BTC）は9月の最終取引日を迎え、月間で4.5％上昇し約11万3100ドルとなった。歴史的に、9月をプラス（グリーンキャンドル）で終えた場合、その後の第4四半期に強い上昇をもたらす傾向がある。]]></summary>
         <author>
             <name>Cointelegraph  Biraajmaan Tamuly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アスター（ASTER）　10月に再上昇できるか？ トークンアンロックが焦点に]]></title>
-        <id>https://jp.cointelegraph.com/news/can-aster-price-rise-in-october</id>
-        <link href="https://jp.cointelegraph.com/news/can-aster-price-rise-in-october?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-09-30T19:23:45.000Z</updated>
-        <summary type="html"><![CDATA[バイナンス関連のDEXトークンであるアスター（ASTER）は、過去最高値の2.43ドル付近を記録した1週間後に25％下落し、火曜日時点で1.80ドルで取引されている。果たして10月に反発できるのか。]]></summary>
-        <author>
-            <name>Cointelegraph  Yashu Gola</name>
         </author>
     </entry>
 </feed>

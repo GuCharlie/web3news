@@ -2872,21 +2872,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTlhZDQtMGNiYS03YjI5LWI2MWMtNzFhYTZiZDUzMThk.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/can-aster-price-rise-in-october",
-          "author": "Cointelegraph  Yashu Gola",
-          "description": "バイナンス関連のDEXトークンであるアスター（ASTER）は、過去最高値の2.43ドル付近を記録した1週間後に25％下落し、火曜日時点で1.80ドルで取引されている。果たして10月に反発できるのか。",
-          "link": "https://jp.cointelegraph.com/news/can-aster-price-rise-in-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-09-30T19:23:45.000Z",
-          "wordCount": null,
-          "title": "アスター（ASTER）　10月に再上昇できるか？ トークンアンロックが焦点に",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTlhOGYtMjU4Zi03ZGUyLWJlODktYzhkOGM3ZGVjMWE4.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTlhOGYtMjU4Zi03ZGUyLWJlODktYzhkOGM3ZGVjMWE4.jpg"
         }
       ]
     },
@@ -2895,6 +2880,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/news-bitcoin-etfs-see-3-24-billion-weekly-inflows-marking-second-largest-weekly-inflow-on-record/#p144798",
+          "author": "Crypto Times 編集部",
+          "description": "米国の現物型ビットコインETFへの先週の資金流入が32.4億ドル(約4,777億円)を記録し、202…",
+          "link": "https://crypto-times.jp/news-bitcoin-etfs-see-3-24-billion-weekly-inflows-marking-second-largest-weekly-inflow-on-record/",
+          "publishedOn": "2025-10-05T07:13:18.000Z",
+          "wordCount": 564,
+          "title": "2025-10-05 ビットコインETF週間流入32.4億ドル、史上2番目の規模を記録",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2024/12/shutterstock_1520302160.jpg"
+        },
         {
           "id": "https://crypto-times.jp/news-bitcoin-hits-all-time-high-could-it-surpass-200000-by-year-end/#p144793",
           "author": "Crypto Times 編集部",

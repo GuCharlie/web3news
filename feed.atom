@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-05T06:20:22.668Z</updated>
+    <updated>2025-10-05T06:43:44.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025-10-05 ビットコイン、史上最高値を更新｜年末20万ドル突破の可能性も？]]></title>
+        <id>https://crypto-times.jp/news-bitcoin-hits-all-time-high-could-it-surpass-200000-by-year-end/#p144793</id>
+        <link href="https://crypto-times.jp/news-bitcoin-hits-all-time-high-could-it-surpass-200000-by-year-end/"/>
+        <updated>2025-10-05T06:23:03.000Z</updated>
+        <summary type="html"><![CDATA[2025年10月5日、ビットコイン (BTC) が今年8月の過去最高値を再び更新しました。同通貨は一…]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、史上最高値更新──12万5000ドル超をETFへの32億ドルの流入が後押し]]></title>
         <id>https://www.coindeskjapan.com/?p=317728</id>
@@ -2823,16 +2833,6 @@ bitFlyer、後藤真希さん起用の新テレビCMを全国放映 first appear
         <summary type="html"><![CDATA[バイナンス関連のDEXトークンであるアスター（ASTER）は、過去最高値の2.43ドル付近を記録した1週間後に25％下落し、火曜日時点で1.80ドルで取引されている。果たして10月に反発できるのか。]]></summary>
         <author>
             <name>Cointelegraph  Yashu Gola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、金の最高値更新に追随できるか？ 11万ドルのCMEギャップに警戒感も]]></title>
-        <id>https://jp.cointelegraph.com/news/did-bitcoin-just-finish-its-8-week-delay-copying-gold-all-time-highs</id>
-        <link href="https://jp.cointelegraph.com/news/did-bitcoin-just-finish-its-8-week-delay-copying-gold-all-time-highs?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-09-30T18:29:41.000Z</updated>
-        <summary type="html"><![CDATA[金が史上最高値を更新したことで、ビットコイン（BTC）も追随するのではないかとの期待が高まっている。]]></summary>
-        <author>
-            <name>Cointelegraph  William Suberg</name>
         </author>
     </entry>
 </feed>

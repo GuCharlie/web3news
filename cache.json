@@ -560,16 +560,6 @@
           "wordCount": 1389,
           "title": "暗号資産の価値は、数兆ドル規模の巨大市場をターゲットしていることにある：ビットワイズ",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/11/18172463a019e513e643fd2ed9ab0e0806baf68b-1440x810-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=317091",
-          "author": "大谷 惇途",
-          "description": "bitFlyerは、10月8日13時頃より販売所でスカイ（SKY）の取り扱いを開始する。かんたん積立の初回積立日は10月9日を予定している。 スカイ（SKY）は ...\nbitFlyer、スカイ（ SKY ）の取り扱いを10月8日に開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/317091/",
-          "publishedOn": "2025-10-01T10:42:29.000Z",
-          "wordCount": 1276,
-          "title": "bitFlyer、スカイ（ SKY ）の取り扱いを10月8日に開始",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/47991-126-1d7132a1bf2c2b02dc367250fa520000-2560x1440-1.webp"
         }
       ]
     },
@@ -1683,6 +1673,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-125k-rise-us-gov-t-shutdown-macro-factors-analysts",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "オンチェーンの動向は新たな蓄積局面入りを示しており、2025年末までにビットコインが15万ドルを超える可能性があると市場アナリストが分析している。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-125k-rise-us-gov-t-shutdown-macro-factors-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-05T23:04:27.000Z",
+          "wordCount": null,
+          "title": "ビットコイン、12万5000ドルまで上昇　政府閉鎖とマクロ要因が後押し＝アナリスト",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWI0YWYtOTNmOS03OWZkLWE4NzgtODYyODE2N2VhNzQz.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWI0YWYtOTNmOS03OWZkLWE4NzgtODYyODE2N2VhNzQz.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/aging-wealth-fuels-crypto-demand-until-2100",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "世界的な高齢化と富の増加がビットコインなどの資産需要を支える要因となり、FRBは2100年まで投資拡大が続くと予測している。",
+          "link": "https://jp.cointelegraph.com/news/aging-wealth-fuels-crypto-demand-until-2100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-05T22:47:51.000Z",
+          "wordCount": null,
+          "title": "高齢化と富の拡大が2100年まで仮想通貨需要を押し上げる見通し",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWI0MDYtMGRhZi03OWUzLTg4ODAtNTdmZWY1ODc2NWJk.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWI0MDYtMGRhZi03OWUzLTg4ODAtNTdmZWY1ODc2NWJk.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/defillama-delist-aster-perp-data-integrity",
           "author": "Cointelegraph  Vince Quill",

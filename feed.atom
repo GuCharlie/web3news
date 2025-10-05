@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-05T22:36:44.233Z</updated>
+    <updated>2025-10-05T23:12:15.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、12万5000ドルまで上昇　政府閉鎖とマクロ要因が後押し＝アナリスト]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-125k-rise-us-gov-t-shutdown-macro-factors-analysts</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-125k-rise-us-gov-t-shutdown-macro-factors-analysts?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-10-05T23:04:27.000Z</updated>
+        <summary type="html"><![CDATA[オンチェーンの動向は新たな蓄積局面入りを示しており、2025年末までにビットコインが15万ドルを超える可能性があると市場アナリストが分析している。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高齢化と富の拡大が2100年まで仮想通貨需要を押し上げる見通し]]></title>
+        <id>https://jp.cointelegraph.com/news/aging-wealth-fuels-crypto-demand-until-2100</id>
+        <link href="https://jp.cointelegraph.com/news/aging-wealth-fuels-crypto-demand-until-2100?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-10-05T22:47:51.000Z</updated>
+        <summary type="html"><![CDATA[世界的な高齢化と富の増加がビットコインなどの資産需要を支える要因となり、FRBは2100年まで投資拡大が続くと予測している。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[デファイラマ、アスターの永久取引量データを削除　データの信頼性に懸念]]></title>
         <id>https://jp.cointelegraph.com/news/defillama-delist-aster-perp-data-integrity</id>
@@ -2239,17 +2259,6 @@ SBI Crypto、2100万ドル（31.5億円）のハッキング被害か──北�
         <summary type="html"><![CDATA[Phiがガバナンストークン「PHI」を発表 オンチェーンアイデンティティを構築するプラットフォーム「Phi（ファイ）」のガバナンストークン「PHI」が、10月10日にローンチする予定だ。公式Xより10月1日に発表された。 […]]]></summary>
         <author>
             <name>TamuraSeiji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bitFlyer、スカイ（ SKY ）の取り扱いを10月8日に開始]]></title>
-        <id>https://www.coindeskjapan.com/?p=317091</id>
-        <link href="https://www.coindeskjapan.com/317091/"/>
-        <updated>2025-10-01T10:42:29.000Z</updated>
-        <summary type="html"><![CDATA[bitFlyerは、10月8日13時頃より販売所でスカイ（SKY）の取り扱いを開始する。かんたん積立の初回積立日は10月9日を予定している。 スカイ（SKY）は ...
-bitFlyer、スカイ（ SKY ）の取り扱いを10月8日に開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>大谷 惇途</name>
         </author>
     </entry>
 </feed>

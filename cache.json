@@ -595,6 +595,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=655842",
+          "author": "幸田直子",
+          "description": "VanEckは最新レポートでDAT企業の保有資産が20兆円規模に拡大したと報告した。ブームが継続する中、レポートはボラティリティ依存型のDAT企業の戦略の持続可能性に懸念を表明した。",
+          "link": "https://coinpost.jp/?p=655842",
+          "publishedOn": "2025-10-06T04:25:24.000Z",
+          "wordCount": 3169,
+          "title": "DAT企業資産が20兆円規模に拡大も懸念浮上、ボラティリティ依存が課題＝VanEckレポート",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/bitcoin-dominance-catch22.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/bitcoin-dominance-catch22.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=655838",
+          "author": "A.Yamada",
+          "description": "スタンダード・チャータード銀行が仮想通貨ビットコインの2025年末価格を20万ドルと予想している。ETF流入と米政府閉鎖を上昇要因に挙げた。",
+          "link": "https://coinpost.jp/?p=655838",
+          "publishedOn": "2025-10-06T04:15:00.000Z",
+          "wordCount": 3225,
+          "title": "スタンダードチャータード銀、2025年末にビットコイン20万ドル予想を維持",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-onchain-activities.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-onchain-activities.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=655829",
           "author": "CoinPost編集部",
           "description": "仮想通貨ビットコインは5日、史上最高値を更新した。金融市場全体における「脱中央集権的リスクヘッジ資産」としてのBTC存在感を際立たせている。",
@@ -1366,6 +1396,96 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=503255",
+          "author": "OtsugaShinya",
+          "description": "俺だけレベルアップな件のIPがStoryでトークン化へ 韓国発の人気IP（知的財産）「俺だけレベルアップな件（Solo Leveling）」のウェブトゥーンを製作したレッドアイス・スタジオ（Redice Studio）が […]",
+          "link": "https://www.neweconomy.jp/posts/503255",
+          "publishedOn": "2025-10-06T06:08:30.000Z",
+          "wordCount": 742,
+          "title": "「俺だけレベルアップな件（Solo Leveling）」、L1チェーン「Story」でIPをトークン化で管理へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/06150826/3b7777f963f9cbbe2fdbe902aba2657f.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=503227",
+          "author": "gentosha_takahashi",
+          "description": "ZeroHashと提携で 米小売大手のウォルマート（Walmart）が出資するフィンテック企業ワンペイ（OnePay）は、今年後半にアプリ上で暗号資産（仮想通貨）の取引とカストディサービスを開始する予定だと、CNBCが関 […]",
+          "link": "https://www.neweconomy.jp/posts/503227",
+          "publishedOn": "2025-10-06T05:30:13.000Z",
+          "wordCount": 740,
+          "title": "ウォルマート出資のOnePay、暗号資産取引とカストディ開始へ＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/06143132/8c0191fa4a17ba01c972a2636d5011fc.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=503210",
+          "author": "OtsugaShinya",
+          "description": "リミポがビットコイン追加購入 東証スタンダード上場企業のリミックスポイントが、ビットコイン（BTC）の追加取得を10月6日に発表した。 発表によると同社は、10月3日に3億3,000万円で18.53932584BTCを購 […]",
+          "link": "https://www.neweconomy.jp/posts/503210",
+          "publishedOn": "2025-10-06T04:41:25.000Z",
+          "wordCount": 732,
+          "title": "リミックスポイントがビットコイン追加購入、総保有数約1,368BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/06134113/13ffce453314d9bdd7185d53f18328b4.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=503189",
+          "author": "HitomotoToshikazu",
+          "description": "AlloyXがPolygon上でトークン化MMF公開 香港拠点のステーブルコインインフラ企業アロイX（AlloyX）が、トークン化MMF「リアル・イールド・トークン（RYT）」をポリゴン（Polygon）上でローンチした […]",
+          "link": "https://www.neweconomy.jp/posts/503189",
+          "publishedOn": "2025-10-06T04:25:50.000Z",
+          "wordCount": 600,
+          "title": "香港ステーブルコイン企業アロイX、ポリゴン上でトークン化MMF「リアル・イールド・トークン（RYT）」公開",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/06132528/70b3e6cb98d3f946a6d7f376c6f43914.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=503190",
+          "author": "gentosha_takahashi",
+          "description": "市場は賛否の声 イーサリアム財団（Ethereum Foundation：EF）が、保有するイーサリアムのうち1,000ETH（記事執筆時点10/612:13で約6.7億円相当）をステーブルコインに換金すると10月4日に […]",
+          "link": "https://www.neweconomy.jp/posts/503190",
+          "publishedOn": "2025-10-06T04:23:28.000Z",
+          "wordCount": 641,
+          "title": "イーサリアム財団、1,000ETHをステーブルコインに換金へ。運営資金確保で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/06132320/e0632af9fbd1177e7a40b4c3290946ed.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=503157",
+          "author": "NewEconomy",
+          "description": "リップル社の重役が退任を発表 米リップル（Ripple）の最高技術責任者（CTO）であるデビッド・シュワルツ（David Schwartz）氏が、2025年末をもって同職を退任する。10月1日にシュワルツ氏が自身のX投稿 […]",
+          "link": "https://www.neweconomy.jp/posts/503157",
+          "publishedOn": "2025-10-06T03:55:39.000Z",
+          "wordCount": 674,
+          "title": "米リップル社のデビッド・シュワルツCTOが年末退任へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/06132052/cf4ae59824fde223521883778e4f0a1a.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=503144",
+          "author": "NewEconomy",
+          "description": "ブリッシュの現物取引サービスが米国20州で開始 機関投資家向けに特化した独暗号資産（仮想通貨）取引所ブリッシュ（Bullish）が、米国において機関投資家および上級トレーダー向けの現物取引サービスを正式に開始したと10月 […]",
+          "link": "https://www.neweconomy.jp/posts/503144",
+          "publishedOn": "2025-10-06T03:34:46.000Z",
+          "wordCount": 778,
+          "title": "ブリッシュ、機関投資家向け現物取引サービスを米国で提供開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/06123440/faaf0289fdf042cc2a9b612b5fef1f17.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=503133",
+          "author": "NewEconomy",
+          "description": "コインベースとサムスンが提携 米大手暗号資産（仮想通貨）取引所コインベース（Coinbase）が、韓国サムスン電子（Samsung Electronics）との提携を10月3日に発表した。発表に合わせ、両社はサムスンが提 […]",
+          "link": "https://www.neweconomy.jp/posts/503133",
+          "publishedOn": "2025-10-06T03:25:35.000Z",
+          "wordCount": 761,
+          "title": "コインベースとサムスン、Galaxyの米ユーザーに暗号資産アクセス提供開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/06122531/60c3eb3bcec19f8967a9d94a2dfe8669.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=503091",
+          "author": "OtsugaShinya",
+          "description": "BTCが史上最高値を更新 暗号資産（仮想通貨）ビットコインの価格が、ドル建ておよび円建てで、史上最高値を更新した。 ドル建てでは、10月5日13:45頃に125,750ドルの高値を付け、最高値を更新。これまでの最高値は8 […]",
+          "link": "https://www.neweconomy.jp/posts/503091",
+          "publishedOn": "2025-10-06T03:05:21.000Z",
+          "wordCount": 734,
+          "title": "ビットコイン（BTC）、ドル・円建てで史上最高値更新",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/06120515/BTC41-250714-PIXTA.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=502968",
           "author": "NewEconomyPodcast",
@@ -2370,6 +2490,36 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=144710",
+          "author": "よきょい",
+          "description": "暗号資産データ分析の大手プラットフォームであるDefiLlamaは、デリバティブ取引所「Aster」の取引高データにウォッシュトレーディングの強い疑惑があるとし同取引所の無期限先物に関するデータを非表示にする措置を取りま […]\n投稿 Asterにウォッシュトレード疑惑浮上、DefiLlamaが不正を指摘 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-aster-faces-wash-trading-allegations-defillama-accuses-it-of-fraud/",
+          "publishedOn": "2025-10-06T05:32:39.000Z",
+          "wordCount": 601,
+          "title": "Asterにウォッシュトレード疑惑浮上、DefiLlamaが不正を指摘",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_1720647151.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=144707",
+          "author": "よきょい",
+          "description": "ビットコイン（BTC）が、史上最高値を更新する中、過去の強気相場で見られたような熱狂や個人投資家のFOMO（取り残される恐怖）はほとんど見られず市場は異例の落ち着きを保っています。この「静かなラリー」の背景には機関投資家 […]\n投稿 ビットコイン、静かな最高値更新｜熱狂なき高騰の本当の理由 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitcoin-quietly-hits-new-highs-the-real-reason-for-its-unenthusiastic-rise/",
+          "publishedOn": "2025-10-06T04:56:16.000Z",
+          "wordCount": 580,
+          "title": "ビットコイン、静かな最高値更新｜熱狂なき高騰の本当の理由",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_2514288951.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=144708",
+          "author": "よきょい",
+          "description": "ビットコイン（BTC）が12万5700ドルという史上最高値を更新したことは、単なる資産価値の上昇に留まらず米ドルをはじめとする法定通貨の価値が下落していることを示す重要な指標と見なされています。 一見好調に見える株式や不 […]\n投稿 あなたの資産は大丈夫？BTC最高値更新が暴く「通貨崩壊」の現実 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-is-your-asset-safe-bitcoins-record-high-exposes-the-reality-of-a-currency-collapse/",
+          "publishedOn": "2025-10-06T03:54:25.000Z",
+          "wordCount": 600,
+          "title": "あなたの資産は大丈夫？BTC最高値更新が暴く「通貨崩壊」の現実",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_2622907783.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=144491",
           "author": "Crypto Times 編集部",

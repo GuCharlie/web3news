@@ -390,16 +390,6 @@
           "wordCount": 1375,
           "title": "アルトコイン急騰か？──トランプ大統領、アメリカ国民に2000ドルの関税還付を検討",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/image-38-990x660-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=317610",
-          "author": "James Van Straten",
-          "description": "ビットコイン（BTC）は今週10%上昇した。これは、複数のウォレット保有者層が8月以来初めて、売却から蓄積へと切り替えたためだ。CoinDeskのデータによると ...\nビットコイン価格が12万ドルを突破し、蓄積トレンドが強まる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/317610/",
-          "publishedOn": "2025-10-03T10:25:00.000Z",
-          "wordCount": 1384,
-          "title": "ビットコイン価格が12万ドルを突破し、蓄積トレンドが強まる",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/05/shutterstock_1063157072.jpg"
         }
       ]
     },
@@ -410,10 +400,40 @@
       "articles": []
     },
     {
-      "title": "コインチェックハッキング事件の記者会見内容まとめ",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=656147",
+          "author": "菊谷ルイス",
+          "description": "ナスダック上場のシャープリンクが7日、イーサリアム・トレジャリー戦略開始以来の未実現利益が9億ドルを超えたと発表した。ライバルのビットマインは総保有額134億ドルに達している。",
+          "link": "https://coinpost.jp/?p=656147",
+          "publishedOn": "2025-10-07T22:35:49.000Z",
+          "wordCount": 3153,
+          "title": "シャープリンク、イーサリアム戦略で含み益9億ドル超",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/ethereum-new-vitalik.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/ethereum-new-vitalik.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=656143",
+          "author": "菊谷ルイス",
+          "description": "大手予測市場ポリマーケットはニューヨーク証券取引所の親会社ICEから20億ドルの戦略的投資を獲得したと発表した。同日ビットコイン入金機能も開始した。",
+          "link": "https://coinpost.jp/?p=656143",
+          "publishedOn": "2025-10-07T21:55:52.000Z",
+          "wordCount": 3150,
+          "title": "予測大手ポリマーケット、Bakktの親会社ICEから3000億円の戦略的出資を獲得",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/G2p88XbWEAEST4k.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/G2p88XbWEAEST4k.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=656125",
           "author": "菊谷ルイス",
@@ -1258,6 +1278,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-leads-record-breaking-inflows-as-investors-chase-the-debasement-trade",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "ビットコインが12万6200ドルに急伸し、世界の仮想通貨関連投資商品への資金流入が過去最高の56億7000万ドルを記録した。財政および地政学的リスクの高まりを背景に、投資家の信頼が再び強まっている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-leads-record-breaking-inflows-as-investors-chase-the-debasement-trade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-07T22:36:37.000Z",
+          "wordCount": null,
+          "title": "ビットコインの過去最高値更新　投資家が「通貨価値切り下げトレード」に殺到",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWJlZmMtZTI4Yi03MjA3LWJmOTEtZDE2NTZiNzNmMDM2.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWJlZmMtZTI4Yi03MjA3LWJmOTEtZDE2NTZiNzNmMDM2.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bnb-flips-xrp-third-largest-crypto-asset-market-cap",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "バイナンスが支援するBNBは過去7日間で時価総額が28％増加し、仮想通貨市場全体の上昇を上回る伸びを示したことで、コミュニティ内に疑問の声が上がっている。",
+          "link": "https://jp.cointelegraph.com/news/bnb-flips-xrp-third-largest-crypto-asset-market-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-07T22:29:16.000Z",
+          "wordCount": null,
+          "title": "BNB、時価総額でXRPを抜き第3位の仮想通貨に浮上｜上昇の要因は？",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWY1YjQtZTg2Ni03MjcxLTk3YzctNmUwY2NjMWEwMThm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NWY1YjQtZTg2Ni03MjcxLTk3YzctNmUwY2NjMWEwMThm.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/sp-digital-markets-50-index-cryptos-blockchain-stocks",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "新たなS&P指数は15の仮想通貨と35のブロックチェーン関連株を追跡し、デジタル資産のグローバル市場への統合が一段と進んでいることを示している。",
+          "link": "https://jp.cointelegraph.com/news/sp-digital-markets-50-index-cryptos-blockchain-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-07T22:16:27.000Z",
+          "wordCount": null,
+          "title": "S&amp;P、仮想通貨とブロックチェーン株を追跡する「デジタル・マーケッツ50指数」を発表",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmNjYzYtNGY3Yi03YWM0LThlNWQtYmZiMmM0MjJjNWY5.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmNjYzYtNGY3Yi03YWM0LThlNWQtYmZiMmM0MjJjNWY5.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/investors-havent-missed-the-boat-as-bitcoin-hits-new-high",
           "author": "Cointelegraph  Stephen Katte",
@@ -2119,16 +2184,6 @@
           "wordCount": 559,
           "title": "2025-10-03 JPモルガン、ビットコイン年末価格を16万5000ドルと予測",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_2531644459.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/news-metaplanets-bitcoin-strategy-yields-strong-results-but-stock-price-remains-sluggish-ceo-stresses-long-term-perspective/#p144700",
-          "author": "Crypto Times 編集部",
-          "description": "ビットコイン財務戦略を進めるメタプラネットのCEO、サイモン・ゲロビッチ氏は自身のXにて同社の現状に…",
-          "link": "https://crypto-times.jp/news-metaplanets-bitcoin-strategy-yields-strong-results-but-stock-price-remains-sluggish-ceo-stresses-long-term-perspective/",
-          "publishedOn": "2025-10-03T10:21:15.000Z",
-          "wordCount": 624,
-          "title": "2025-10-03 メタプラネット、ビットコイン戦略で好調も株価は低迷 &#8211; CEOが長期視点を強調",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_2671694635.jpg"
         }
       ]
     }

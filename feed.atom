@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-07T22:37:14.007Z</updated>
+    <updated>2025-10-07T23:13:35.778Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナの年間収益28億5000万ドル、イーサリアム初期の成長を上回る＝21シェアーズ]]></title>
+        <id>https://jp.cointelegraph.com/news/solana-economy-matures-annual-revenue-21shares</id>
+        <link href="https://jp.cointelegraph.com/news/solana-economy-matures-annual-revenue-21shares?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-10-07T23:08:38.000Z</updated>
+        <summary type="html"><![CDATA[ソラナはDeFi、AI、取引アプリ全体で年間28億5000万ドルの収益を上げ、機関投資家の参入によってネットワークは本格的に金融分野へ拡大している。]]></summary>
+        <author>
+            <name>Cointelegraph  Nate Kostar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XRP、「トランプ関税」以来で最大の個人投資家FUD　大規模売りが迫るのか]]></title>
+        <id>https://jp.cointelegraph.com/news/xrp-sees-highest-retail-fud-since-trump-tariffs-is-a-major-sell-off-next</id>
+        <link href="https://jp.cointelegraph.com/news/xrp-sees-highest-retail-fud-since-trump-tariffs-is-a-major-sell-off-next?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-10-07T22:49:30.000Z</updated>
+        <summary type="html"><![CDATA[XRPの価格上昇は、個人投資家の不安拡大とは対照的に、クジラ（大口投資家）の買い集めとETFへの期待が支えとなり、45％の上昇局面に発展する可能性がある。]]></summary>
+        <author>
+            <name>Cointelegraph  Yashu Gola</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインの過去最高値更新　投資家が「通貨価値切り下げトレード」に殺到]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-leads-record-breaking-inflows-as-investors-chase-the-debasement-trade</id>
@@ -1803,37 +1823,6 @@ DefiLlama、アスターの永久先物取引データを削除──市場の�
         <summary type="html"><![CDATA[株式会社モブキャストホールディングスは2025年10月3日、新たな事業として「ソラナ・トレジャリー事…]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アルトコイン急騰か？──トランプ大統領、アメリカ国民に2000ドルの関税還付を検討]]></title>
-        <id>https://www.coindeskjapan.com/?p=317621</id>
-        <link href="https://www.coindeskjapan.com/317621/"/>
-        <updated>2025-10-03T11:10:00.000Z</updated>
-        <summary type="html"><![CDATA[待望の「アルトコインの季節」、つまり、アルトコインがビットコイン（BTC）を上回る強気相場がまもなく到来するかもしれない。ドナルド・トランプ（Donald Tr ...
-アルトコイン急騰か？──トランプ大統領、アメリカ国民に2000ドルの関税還付を検討 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025-10-03 JPモルガン、ビットコイン年末価格を16万5000ドルと予測]]></title>
-        <id>https://crypto-times.jp/news-jp-morgan-predicts-bitcoin-year-end-price-at-165000/#p144703</id>
-        <link href="https://crypto-times.jp/news-jp-morgan-predicts-bitcoin-year-end-price-at-165000/"/>
-        <updated>2025-10-03T10:46:12.000Z</updated>
-        <summary type="html"><![CDATA[大手金融機関JPモルガンはビットコインが年末までに16万5000ドルに達する可能性があるとの最新の分…]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム次期アップグレード「Fusaka」、Holeskyテストネットで稼働開始]]></title>
-        <id>https://www.neweconomy.jp/?p=502721</id>
-        <link href="https://www.neweconomy.jp/posts/502721"/>
-        <updated>2025-10-03T10:44:55.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムの「Fusaka」がHoleskyで稼働 イーサリアム（Ethereum）の次期大型アップグレード「フサカ（Fusaka）」のホレスキー（Holesky）テストネットでの稼働開始を開発者コミュニティethPa […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
         </author>
     </entry>
 </feed>

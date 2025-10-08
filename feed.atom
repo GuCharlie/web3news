@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-08T08:45:16.023Z</updated>
+    <updated>2025-10-08T09:16:49.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン　12万2000ドルでの攻防続く　調整局面でのサポートラインは？]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-risks-new-114k-plunge-predatory-traders-squeeze-btc-longs</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-risks-new-114k-plunge-predatory-traders-squeeze-btc-longs?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-10-08T08:54:43.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は水曜、12万2000ドルの水準での攻防が続いており、取引所では新たなボラティリティ（価格変動）に備える動きが強まっている。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゴールド（金）が4000ドルを突破──ビットコインはドル指数が高値圏に入り、下落傾向]]></title>
         <id>https://www.coindeskjapan.com/?p=318124</id>
@@ -2270,36 +2280,6 @@ DefiLlama、アスターの永久先物取引データを削除──市場の�
 ビットコイン、12万3000ドルを突破し最高値に迫る──第4四半期の強気心理が週間ラリーを後押し first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Helene Braun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNBが1100ドル突破でBNBチェーン銘柄大幅高、ASTERやCAKEなど]]></title>
-        <id>https://coinpost.jp/?p=655654</id>
-        <link href="https://coinpost.jp/?p=655654"/>
-        <updated>2025-10-03T21:10:04.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨BNBが3日に1,100ドルを突破したことでBNBチェーンのネイティブプロトコルへの投資家関心が再び高まった。パンケーキスワップのCAKEトークンは24時間で約30%上昇。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーブルコイン市場　時価総額3000億ドルを突破　年初来で47％の成長]]></title>
-        <id>https://jp.cointelegraph.com/news/stablecoins-300-billion-market-cap-47-growth-ytd</id>
-        <link href="https://jp.cointelegraph.com/news/stablecoins-300-billion-market-cap-47-growth-ytd?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-10-03T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[法定通貨やコモディティに連動する仮想通貨であるステーブルコインの時価総額が初めて3000億ドルを超え、採用拡大の大きなトレンドを浮き彫りにした。]]></summary>
-        <author>
-            <name>Cointelegraph  Helen Partz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム財団、6.6億円相当ETHをステーブルコインに換金予定]]></title>
-        <id>https://coinpost.jp/?p=655651</id>
-        <link href="https://coinpost.jp/?p=655651"/>
-        <updated>2025-10-03T20:45:46.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム財団が4日に1000ETH（6.6億円相当）を売却すると発表した。CoWSwapのTWAP機能を使用し、研究開発や助成金、寄付の資金調達を目的としている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

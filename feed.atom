@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-08T09:16:49.221Z</updated>
+    <updated>2025-10-08T09:39:32.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ大統領の公式ミームコイン　買い戻し資金調達へ　TRUMPは最高値から90％暴落]]></title>
+        <id>https://jp.cointelegraph.com/news/trump-memecoin-issuer-raises-200m-to-build-buyback-treasury</id>
+        <link href="https://jp.cointelegraph.com/news/trump-memecoin-issuer-raises-200m-to-build-buyback-treasury?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-10-08T09:25:02.000Z</updated>
+        <summary type="html"><![CDATA[トランプ米大統領の公式ミームコインを手掛けるスタートアップが、暴落したトークンの買い戻しに向け、少なくとも2億ドルの資金調達を目指している。コインの価格はピーク時から約90％下落している。]]></summary>
+        <author>
+            <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン　12万2000ドルでの攻防続く　調整局面でのサポートラインは？]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-risks-new-114k-plunge-predatory-traders-squeeze-btc-longs</id>
@@ -2269,17 +2279,6 @@ DefiLlama、アスターの永久先物取引データを削除──市場の�
         <summary type="html"><![CDATA[様々な投資運用会社が3日に24銘柄以上の仮想通貨ETFを新規申請したと報じられた。しかし米国政府閉鎖によりSECの審査プロセスが停止し、承認時期が不透明になっている。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、12万3000ドルを突破し最高値に迫る──第4四半期の強気心理が週間ラリーを後押し]]></title>
-        <id>https://www.coindeskjapan.com/?p=317648</id>
-        <link href="https://www.coindeskjapan.com/317648/"/>
-        <updated>2025-10-03T21:20:30.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は、12万4500ドルを超える史上最高値に迫る水準まで上昇し、5日連続の上昇で記録上最も好調な10月のスタートの一つを締めくくった。 先週 ...
-ビットコイン、12万3000ドルを突破し最高値に迫る──第4四半期の強気心理が週間ラリーを後押し first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Helene Braun</name>
         </author>
     </entry>
 </feed>

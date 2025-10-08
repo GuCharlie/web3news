@@ -1142,6 +1142,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=504301",
+          "author": "OtsugaShinya",
+          "description": "RBIが預金トークン化の試験運用開始へ インドの中央銀行であるインド準備銀行（RBI）が、「預金のトークン化」に関するパイロットを10月8日に開始する。同中銀の当局者が明らかにした。 デジタルトークン化とは、預金・株式・ […]",
+          "link": "https://www.neweconomy.jp/posts/504301",
+          "publishedOn": "2025-10-08T06:56:15.000Z",
+          "wordCount": 761,
+          "title": "インド中央銀行、預金トークン化の試験運用開始へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/08155613/61a01826547d1f9cd1871702c1a30c3f.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=504294",
           "author": "gentosha_takahashi",
           "description": "トークン化で投資アクセス拡大へ 世界最大手の格付け機関S&Pグローバル（S&P Global）が、暗号資産（仮想通貨）15銘柄とブロックチェーン関連企業35社を対象とする、新たな株価指数「S&P  […]",
@@ -1538,6 +1548,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/this-spooky-ethereum-correlation-suggests-breakout-is-imminent",
+          "author": "Cointelegraph  Martin Young",
+          "description": "イーサリアム（ETH）は、金利変動に敏感な中小型株式指数と強い相関を示しており、アナリストは今後の利下げを背景に両者が同時に上昇する可能性が高いとみている。",
+          "link": "https://jp.cointelegraph.com/news/this-spooky-ethereum-correlation-suggests-breakout-is-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-08T07:13:42.000Z",
+          "wordCount": null,
+          "title": "イーサリアム　中小型株式指数ラッセル2000と高い相関関係　利下げ局面で共に上昇の可能性",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGRiZmYtNmFiZS03MDg5LWIwYmQtODYyMDI1ODU5NWU0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGRiZmYtNmFiZS03MDg5LWIwYmQtODYyMDI1ODU5NWU0.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/cleancore-solutions-dogecoin-crypto-digital-assets-treasury",
           "author": "Cointelegraph  Ciaran Lyons",
@@ -2145,6 +2170,36 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=144945",
+          "author": "よきょい",
+          "description": "著名な金支持者として知られるPeter Schiff氏は金の価格が4,000ドルの大台に迫る一方で、ビットコインをはじめとする暗号資産市場が急落するとの見解を示しました。 Wall Street is so bullis […]\n投稿 「金4000ドルでBTC暴落」著名投資家が警告 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-prominent-investor-warns-that-bitcoin-will-crash-if-gold-hits-4000/",
+          "publishedOn": "2025-10-08T07:12:56.000Z",
+          "wordCount": 606,
+          "title": "「金4000ドルでBTC暴落」著名投資家が警告",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_2114879588.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=144947",
+          "author": "よきょい",
+          "description": "資産運用大手のヴァンエック（VanEck）はビットコイン（BTC）が将来、金の時価総額の半分に達し、価格が1枚あたり64万4000ドルに達する可能性があるとの予測を発表しました。 今年ビットコインと金は他の主要な資産を上 […]\n投稿 ビットコインは金を超える？64万ドル到達予測 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitcoin-to-surpass-gold-predicted-to-reach-640000/",
+          "publishedOn": "2025-10-08T07:06:17.000Z",
+          "wordCount": 600,
+          "title": "ビットコインは金を超える？64万ドル到達予測",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_1925632316.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=144946",
+          "author": "よきょい",
+          "description": "ZKsyncスタック上に構築された次世代分散型取引所（DEX）であるGrvt（グラビティ）は、報酬プログラムのシーズン1に参加したユーザーに対しエアドロップの割り当てが確認可能になったと発表しました。 The wait  […]\n投稿 Grvt、シーズン1のエアドロップ割り当てを発表｜TGEは来年Q1を予定 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-grvt-announces-season-1-airdrop-allocation/",
+          "publishedOn": "2025-10-08T07:00:11.000Z",
+          "wordCount": 591,
+          "title": "Grvt、シーズン1のエアドロップ割り当てを発表｜TGEは来年Q1を予定",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/7966bae78213db11914ad7af893f8431-1.png"
+        },
         {
           "id": "https://crypto-times.jp/?p=144948",
           "author": "よきょい",

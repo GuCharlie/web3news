@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=318275",
+          "author": "廣瀬 優香",
+          "description": "ビットコイン（BTC）とイーサリアム（ETH）の価格は7日火曜日に急落したが、投資家は暗号資産（仮想通貨）ファンドへの資金投入を止めなかった。 ファーサイド・イ ...\nビットコインおよびイーサリアムETF、大規模な資金流入──投資家が押し目買い first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/318275/",
+          "publishedOn": "2025-10-09T00:40:00.000Z",
+          "wordCount": 1325,
+          "title": "ビットコインおよびイーサリアムETF、大規模な資金流入──投資家が押し目買い",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/shutterstock_2408123725.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=318236",
           "author": "増田 隆幸",
           "description": "Solana（ソラナ）財団公認の日本コミュニティ「Superteam Japan」は10月9日、暗号資産ソラナ（SOL）に特化したトレジャリー事業「DFDV J ...\nSuperteam Japan、日本でのソラナ（SOL）トレジャリー事業立ち上げへ──ナスダック上場のDeFi Development（DFDV）と提携 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -460,16 +470,6 @@
           "wordCount": 1321,
           "title": "フロキ、23%急騰──ヴァラーが欧州初のフロキETPを発売",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/ba459284254df1763c7b162f0abf94b8571f3c63-1920x1440-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=317697",
-          "author": "林 理南",
-          "description": "マラ・ホールディングス（MARA）は9月に736BTCを産出した。これは8月比4％増であり、ビットコインネットワークで218ブロックを獲得した。同社が3日のアッ ...\nマラ・ホールディングス、9月に736BTCを産出──5万2850BTCをトレジャリーに保有 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/317697/",
-          "publishedOn": "2025-10-04T12:35:43.000Z",
-          "wordCount": 1301,
-          "title": "マラ・ホールディングス、9月に736BTCを産出──5万2850BTCをトレジャリーに保有",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/shutterstock_772693789.jpg"
         }
       ]
     },
@@ -484,6 +484,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=656415",
+          "author": "A.Yamada",
+          "description": "バイナンス前CEOのCZ氏率いるYZiラボが、10億ドル規模のBNBチェーン開発者支援ファンドを発表した。仮想通貨BNBは急上昇しており、ミームコイン取引も活発化している。",
+          "link": "https://coinpost.jp/?p=656415",
+          "publishedOn": "2025-10-09T00:55:35.000Z",
+          "wordCount": 3150,
+          "title": "CZ氏率いるYZiラボ、BNB開発者支援で1,500億円のファンド設立　ミームコイン取引も活発",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/bnbchain1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/bnbchain1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=656398",
+          "author": "K.Kobayashi",
+          "description": "イーサリアムなどのブロックチェーンに対応する仮想通貨ウォレットのメタマスクは永続契約取引機能をローンチしたと発表。ポリマーケットへの対応計画や報酬プログラムについても説明した。",
+          "link": "https://coinpost.jp/?p=656398",
+          "publishedOn": "2025-10-09T00:41:41.000Z",
+          "wordCount": 3150,
+          "title": "メタマスク、仮想通貨の永続契約取引機能をローンチ　予測市場ポリマーケットへの対応計画も",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/MetaMask-Perps-.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/MetaMask-Perps-.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=656295",
           "author": "AKIRA.H",
@@ -2192,21 +2222,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTBmNTItZTNiYS03ODc4LTk2Y2MtMmExOGVhMTRhNDI1.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/jpmorgan-citi-bitcoin-q4-boom-btc-price-targets",
-          "author": "Cointelegraph  Yashu Gola",
-          "description": "ビットコイン（BTC）は過去7日間で13％以上反発し、史上最高値12万4500ドルに迫っている。ウォール街や英国の大手金融機関の間では、2025年末までにビットコインが新たな最高値を更新するとの見方が強まっている。",
-          "link": "https://jp.cointelegraph.com/news/jpmorgan-citi-bitcoin-q4-boom-btc-price-targets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-10-04T12:33:15.000Z",
-          "wordCount": null,
-          "title": "ビットコイン　2025年にどこまで上昇するか？ シティやJPモルガンなど大手金融機関が予測",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2JlZjAtM2EyOC03YjdmLWE1NWQtMmM0NGI4ZTBiY2U2.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2JlZjAtM2EyOC03YjdmLWE1NWQtMmM0NGI4ZTBiY2U2.jpg"
         }
       ]
     },

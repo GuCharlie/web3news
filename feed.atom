@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-10T15:37:30.407Z</updated>
+    <updated>2025-10-10T16:19:01.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン　短期的に11万8000ドルを再テストか]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-drop-118k-likely-futures-reset-means-dip-wont-last</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-drop-118k-likely-futures-reset-means-dip-wont-last?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-10-10T15:43:37.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は史上最高値の12万6000ドルから3.7％下落し、今後数日で11万8000ドル水準を再テストする可能性がある。ただし、データによれば、同水準を下回る期間は短期的なものにとどまる可能性が高い。]]></summary>
+        <author>
+            <name>Cointelegraph  Nancy Lubale</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRP、2.8ドルの重要局面続く｜中東・欧州で事業拡大の中]]></title>
         <id>https://crypto-times.jp/?p=145213</id>
@@ -3159,37 +3169,6 @@ DefiLlama、アスターの永久先物取引データを削除──市場の�
         <summary type="html"><![CDATA[市場は賛否の声 イーサリアム財団（Ethereum Foundation：EF）が、保有するイーサリアムのうち1,000ETH（記事執筆時点10/612:13で約6.7億円相当）をステーブルコインに換金すると10月4日に […]]]></summary>
         <author>
             <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スタンダードチャータード銀、2025年末にビットコイン20万ドル予想を維持]]></title>
-        <id>https://coinpost.jp/?p=655838</id>
-        <link href="https://coinpost.jp/?p=655838"/>
-        <updated>2025-10-06T04:15:00.000Z</updated>
-        <summary type="html"><![CDATA[スタンダード・チャータード銀行が仮想通貨ビットコインの2025年末価格を20万ドルと予想している。ETF流入と米政府閉鎖を上昇要因に挙げた。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米リップル社のデビッド・シュワルツCTOが年末退任へ]]></title>
-        <id>https://www.neweconomy.jp/?p=503157</id>
-        <link href="https://www.neweconomy.jp/posts/503157"/>
-        <updated>2025-10-06T03:55:39.000Z</updated>
-        <summary type="html"><![CDATA[リップル社の重役が退任を発表 米リップル（Ripple）の最高技術責任者（CTO）であるデビッド・シュワルツ（David Schwartz）氏が、2025年末をもって同職を退任する。10月1日にシュワルツ氏が自身のX投稿 […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[あなたの資産は大丈夫？BTC最高値更新が暴く「通貨崩壊」の現実]]></title>
-        <id>https://crypto-times.jp/?p=144708</id>
-        <link href="https://crypto-times.jp/news-is-your-asset-safe-bitcoins-record-high-exposes-the-reality-of-a-currency-collapse/"/>
-        <updated>2025-10-06T03:54:25.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）が12万5700ドルという史上最高値を更新したことは、単なる資産価値の上昇に留まらず米ドルをはじめとする法定通貨の価値が下落していることを示す重要な指標と見なされています。 一見好調に見える株式や不 […]
-投稿 あなたの資産は大丈夫？BTC最高値更新が暴く「通貨崩壊」の現実 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-10T14:41:16.729Z</updated>
+    <updated>2025-10-10T15:15:13.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[XRPクジラが大量売却？ 価格は一時2.8ドル割れ　さらなる調整リスクも]]></title>
+        <id>https://jp.cointelegraph.com/news/xrp-whales-dump-50m-per-day-will-it-crash-price</id>
+        <link href="https://jp.cointelegraph.com/news/xrp-whales-dump-50m-per-day-will-it-crash-price?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-10-10T15:04:10.000Z</updated>
+        <summary type="html"><![CDATA[XRP（XRP）の価格が2.8ドルまで下落する前、保有量の多い大口投資家（クジラ）による大規模なトークン移動が確認されていた。一部のアナリストは、この動きがより深い価格調整を招く可能性があると指摘している。]]></summary>
+        <author>
+            <name>Cointelegraph  Nancy Lubale</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メタプラネット、株式取得権の一時停止を発表｜BTC戦略を最適化]]></title>
         <id>https://crypto-times.jp/?p=145209</id>
@@ -3189,16 +3199,6 @@ DefiLlama、アスターの永久先物取引データを削除──市場の�
         <summary type="html"><![CDATA[コインベースとサムスンが提携 米大手暗号資産（仮想通貨）取引所コインベース（Coinbase）が、韓国サムスン電子（Samsung Electronics）との提携を10月3日に発表した。発表に合わせ、両社はサムスンが提 […]]]></summary>
         <author>
             <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン（BTC）、ドル・円建てで史上最高値更新]]></title>
-        <id>https://www.neweconomy.jp/?p=503091</id>
-        <link href="https://www.neweconomy.jp/posts/503091"/>
-        <updated>2025-10-06T03:05:21.000Z</updated>
-        <summary type="html"><![CDATA[BTCが史上最高値を更新 暗号資産（仮想通貨）ビットコインの価格が、ドル建ておよび円建てで、史上最高値を更新した。 ドル建てでは、10月5日13:45頃に125,750ドルの高値を付け、最高値を更新。これまでの最高値は8 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>

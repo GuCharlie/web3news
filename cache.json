@@ -2150,16 +2150,6 @@
           "wordCount": 761,
           "title": "コインベースとサムスン、Galaxyの米ユーザーに暗号資産アクセス提供開始",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/06122531/60c3eb3bcec19f8967a9d94a2dfe8669.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=503091",
-          "author": "OtsugaShinya",
-          "description": "BTCが史上最高値を更新 暗号資産（仮想通貨）ビットコインの価格が、ドル建ておよび円建てで、史上最高値を更新した。 ドル建てでは、10月5日13:45頃に125,750ドルの高値を付け、最高値を更新。これまでの最高値は8 […]",
-          "link": "https://www.neweconomy.jp/posts/503091",
-          "publishedOn": "2025-10-06T03:05:21.000Z",
-          "wordCount": 734,
-          "title": "ビットコイン（BTC）、ドル・円建てで史上最高値更新",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/06120515/BTC41-250714-PIXTA.jpg"
         }
       ]
     },
@@ -2168,6 +2158,22 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/xrp-whales-dump-50m-per-day-will-it-crash-price",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "XRP（XRP）の価格が2.8ドルまで下落する前、保有量の多い大口投資家（クジラ）による大規模なトークン移動が確認されていた。一部のアナリストは、この動きがより深い価格調整を招く可能性があると指摘している。",
+          "link": "https://jp.cointelegraph.com/news/xrp-whales-dump-50m-per-day-will-it-crash-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-10T15:04:10.000Z",
+          "wordCount": null,
+          "title": "XRPクジラが大量売却？ 価格は一時2.8ドル割れ　さらなる調整リスクも",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWNkODMtNmI5OS03ZWNhLTg3YjgtOWVhNzNjYzI1OWY1.jpg",
+            "length": "528",
+            "type": "image/jpg",
+            "caption": "XRPクジラが大量売却？ 価格は一時2.8ドル割れ　さらなる調整リスクも"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWNkODMtNmI5OS03ZWNhLTg3YjgtOWVhNzNjYzI1OWY1.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-mayer-multiple-btc-price-can-180k-before-overbought",
           "author": "Cointelegraph  William Suberg",

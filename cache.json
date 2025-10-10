@@ -600,16 +600,6 @@
           "wordCount": 1311,
           "title": "香港上場の中国金融リースグループ、暗号資産投資プラットフォーム構築を表明",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/09/EFHVWYXFAFGUNORHBBZ7JW5E7I.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=317845",
-          "author": "Shaurya Malwa",
-          "description": "暗号資産（仮想通貨）データ大手のDefiLlamaは10月6日、分散型取引所（DEX）のアスター（Aster）の永久先物データを追跡ページから削除した。エックス ...\nDefiLlama、アスターの永久先物取引データを削除──市場の熱狂に疑問符 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/317845/",
-          "publishedOn": "2025-10-06T10:00:00.000Z",
-          "wordCount": 1500,
-          "title": "DefiLlama、アスターの永久先物取引データを削除──市場の熱狂に疑問符",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/07/shutterstock_1998903110.jpg"
         }
       ]
     },
@@ -624,6 +614,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=656981",
+          "author": "菊谷ルイス",
+          "description": "米キャナリー・キャピタルがXRPとソラナETFの登録届出書を更新し手数料を0.50%に設定。SEC承認に向け前進するも政府閉鎖で承認プロセスが不透明な状況にとどまる。",
+          "link": "https://coinpost.jp/?p=656981",
+          "publishedOn": "2025-10-10T22:00:49.000Z",
+          "wordCount": 3152,
+          "title": "キャナリー、XRPとソラナETFの申請を更新も長引く政府閉鎖が影響",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/etf-new-pic.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/etf-new-pic.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=656962",
           "author": "菊谷ルイス",
@@ -2053,6 +2058,38 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/trump100-tariffs-china-bitcoin-plummets-110k",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "米国のトランプ大統領は金曜日、中国に対して100％の関税を課すと発表した。この発表を受け、ビットコイン（BTC）価格は11万ドルを割り込み急落した。",
+          "link": "https://jp.cointelegraph.com/news/trump100-tariffs-china-bitcoin-plummets-110k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-10T22:11:16.000Z",
+          "wordCount": null,
+          "title": "トランプ米大統領、中国に100％関税を発表　仮想通貨市場が暴落　ビットコイン価格は11万ドル割れ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWQwMGItNzMyNy03M2M5LTg1NzgtMTdkMDhmNDI0M2U4.jpg",
+            "length": "528",
+            "type": "image/jpg",
+            "caption": "トランプ米大統領、中国に100％関税を発表　仮想通貨市場が暴落　ビットコイン価格は11万ドル割れ"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWQwMGItNzMyNy03M2M5LTg1NzgtMTdkMDhmNDI0M2U4.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/gold-buying-rise-mirror-bitcoin-momentum-deutsche-bank",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "ドイツ銀行の最新レポートによれば、世界の中央銀行がここ数年、金（ゴールド）の保有量を急速に増やしており、この動きがビットコイン（BTC）にも大きな影響を及ぼす可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/gold-buying-rise-mirror-bitcoin-momentum-deutsche-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-10T22:00:00.000Z",
+          "wordCount": null,
+          "title": "中央銀行による金購入が過去最高水準に　ドイツ銀行「ビットコインにも波及の可能性」",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODI0YjQtMmU5Ny03OTA0LWI0MWMtYTRjZWVmNmRmMmU1.jpg",
+            "length": "528",
+            "type": "image/jpg",
+            "caption": "中央銀行による金購入が過去最高水準に　ドイツ銀行「ビットコインにも波及の可能性」"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODI0YjQtMmU5Ny03OTA0LWI0MWMtYTRjZWVmNmRmMmU1.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/hashkey-crypto-exchange-considers-hong-kong-listing-this-year",
           "author": "Cointelegraph  Adrian Zmudzinski",
@@ -3672,26 +3709,6 @@
           "wordCount": 571,
           "title": "メタプラ株、適正価値は1600円？来年5月には3300円の予測も",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_1044968062.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=144368",
-          "author": "よきょい",
-          "description": "「HyperliquidやAsterのエアドロップを逃して悔しい思いをした…」 「PerpDEXが盛り上がってるし、次の爆益チャンスは絶対に掴みたい…」 そう考えているあなたに朗報です。 2024年に行われたHyperl […]\n投稿 数万円から億り人を狙える！？超穴場PerpDEX「What Exchange」とは は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/what-exchange/",
-          "publishedOn": "2025-10-06T10:00:54.000Z",
-          "wordCount": 601,
-          "title": "数万円から億り人を狙える！？超穴場PerpDEX「What Exchange」とは",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/09/thumbnail.png"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=144833",
-          "author": "Crypto Times 編集部",
-          "description": "人気NFTプロジェクトのDoodlesが「Doodles AI」と呼ばれる新たな取り組みを発表しました。 future loading.. pic.twitter.com/faHNN2MYpJ — doodles (@d […]\n投稿 DoodlesがDoodles AIを発表、9月の活発な動きに続く新展開 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-doodles-announces-doodles-ai-a-new-development-following-its-active-moves-in-september/",
-          "publishedOn": "2025-10-06T09:49:52.000Z",
-          "wordCount": 622,
-          "title": "DoodlesがDoodles AIを発表、9月の活発な動きに続く新展開",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/03/shutterstock_1931510018.jpg"
         }
       ]
     }

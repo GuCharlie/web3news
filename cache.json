@@ -615,6 +615,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=656989",
+          "author": "K.Kobayashi",
+          "description": "Peckshieldは、Hyperliquidのユーザーが32億円相当の仮想通貨を盗難されたことを報告。原因は秘密鍵の漏洩であると分析している。",
+          "link": "https://coinpost.jp/?p=656989",
+          "publishedOn": "2025-10-10T22:30:11.000Z",
+          "wordCount": 3156,
+          "title": "32億円相当の仮想通貨を盗難か　Hyperliquidのユーザーが被害者に＝Peckshield",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/01/hacker0129-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/01/hacker0129-1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=656981",
           "author": "菊谷ルイス",
           "description": "米キャナリー・キャピタルがXRPとソラナETFの登録届出書を更新し手数料を0.50%に設定。SEC承認に向け前進するも政府閉鎖で承認プロセスが不透明な状況にとどまる。",
@@ -2040,16 +2055,6 @@
           "wordCount": 786,
           "title": "【10/6話題】ビットコインとBNBが史上最高値、リミポとリブワークがBTC追加取得、モブキャストがSOL購入へ（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/06221920/b572b33f875ce6255e33ea701f0f5924.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=503377",
-          "author": "TamuraSeiji",
-          "description": "ライターがメインネットローンチ イーサリアム（Ethereum）レイヤー2のパーペチュアル（無期限先物）DEX（分散型取引所）「ライター（Lighter）」が、約8ヶ月間のプライベートベータテストを経て、パブリックメイン […]",
-          "link": "https://www.neweconomy.jp/posts/503377",
-          "publishedOn": "2025-10-06T10:14:32.000Z",
-          "wordCount": 779,
-          "title": "イーサL2のパーペチュアルDEX「Lighter」がパブリックメインネットをローンチ、8ヶ月のテスト経て",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/06191423/b93d4cc5caf6e53ff8294be010253969.jpg"
         }
       ]
     },

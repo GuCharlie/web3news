@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-10T22:13:53.845Z</updated>
+    <updated>2025-10-10T22:37:38.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[32億円相当の仮想通貨を盗難か　Hyperliquidのユーザーが被害者に＝Peckshield]]></title>
+        <id>https://coinpost.jp/?p=656989</id>
+        <link href="https://coinpost.jp/?p=656989"/>
+        <updated>2025-10-10T22:30:11.000Z</updated>
+        <summary type="html"><![CDATA[Peckshieldは、Hyperliquidのユーザーが32億円相当の仮想通貨を盗難されたことを報告。原因は秘密鍵の漏洩であると分析している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ米大統領、中国に100％関税を発表　仮想通貨市場が暴落　ビットコイン価格は11万ドル割れ]]></title>
         <id>https://jp.cointelegraph.com/news/trump100-tariffs-china-bitcoin-plummets-110k</id>
@@ -3084,16 +3094,6 @@ OpenAIとの契約で、AMD株が30%急騰──AIやHPC関連のビットコイ
 香港上場の中国金融リースグループ、暗号資産投資プラットフォーム構築を表明 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Jamie Crawley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサL2のパーペチュアルDEX「Lighter」がパブリックメインネットをローンチ、8ヶ月のテスト経て]]></title>
-        <id>https://www.neweconomy.jp/?p=503377</id>
-        <link href="https://www.neweconomy.jp/posts/503377"/>
-        <updated>2025-10-06T10:14:32.000Z</updated>
-        <summary type="html"><![CDATA[ライターがメインネットローンチ イーサリアム（Ethereum）レイヤー2のパーペチュアル（無期限先物）DEX（分散型取引所）「ライター（Lighter）」が、約8ヶ月間のプライベートベータテストを経て、パブリックメイン […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
         </author>
     </entry>
 </feed>

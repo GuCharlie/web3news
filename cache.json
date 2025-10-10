@@ -620,7 +620,7 @@
       "articles": []
     },
     {
-      "title": "仮想通貨価格上昇  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -1403,21 +1403,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/eth-new-eth.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/eth-new-eth.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=655842",
-          "author": "幸田直子",
-          "description": "VanEckは最新レポートでDAT企業の保有資産が20兆円規模に拡大したと報告した。ブームが継続する中、レポートはボラティリティ依存型のDAT企業の戦略の持続可能性に懸念を表明した。",
-          "link": "https://coinpost.jp/?p=655842",
-          "publishedOn": "2025-10-06T04:25:24.000Z",
-          "wordCount": 3169,
-          "title": "DAT企業資産が20兆円規模に拡大も懸念浮上、ボラティリティ依存が課題＝VanEckレポート",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/bitcoin-dominance-catch22.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/bitcoin-dominance-catch22.jpg"
         }
       ]
     },
@@ -2075,36 +2060,6 @@
           "wordCount": 740,
           "title": "ウォルマート出資のOnePay、暗号資産取引とカストディ開始へ＝報道",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/06143132/8c0191fa4a17ba01c972a2636d5011fc.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=503210",
-          "author": "OtsugaShinya",
-          "description": "リミポがビットコイン追加購入 東証スタンダード上場企業のリミックスポイントが、ビットコイン（BTC）の追加取得を10月6日に発表した。 発表によると同社は、10月3日に3億3,000万円で18.53932584BTCを購 […]",
-          "link": "https://www.neweconomy.jp/posts/503210",
-          "publishedOn": "2025-10-06T04:41:25.000Z",
-          "wordCount": 732,
-          "title": "リミックスポイントがビットコイン追加購入、総保有数約1,368BTCに",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/06134113/13ffce453314d9bdd7185d53f18328b4.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=503189",
-          "author": "HitomotoToshikazu",
-          "description": "AlloyXがPolygon上でトークン化MMF公開 香港拠点のステーブルコインインフラ企業アロイX（AlloyX）が、トークン化MMF「リアル・イールド・トークン（RYT）」をポリゴン（Polygon）上でローンチした […]",
-          "link": "https://www.neweconomy.jp/posts/503189",
-          "publishedOn": "2025-10-06T04:25:50.000Z",
-          "wordCount": 600,
-          "title": "香港ステーブルコイン企業アロイX、ポリゴン上でトークン化MMF「リアル・イールド・トークン（RYT）」公開",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/06132528/70b3e6cb98d3f946a6d7f376c6f43914.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=503190",
-          "author": "gentosha_takahashi",
-          "description": "市場は賛否の声 イーサリアム財団（Ethereum Foundation：EF）が、保有するイーサリアムのうち1,000ETH（記事執筆時点10/612:13で約6.7億円相当）をステーブルコインに換金すると10月4日に […]",
-          "link": "https://www.neweconomy.jp/posts/503190",
-          "publishedOn": "2025-10-06T04:23:28.000Z",
-          "wordCount": 641,
-          "title": "イーサリアム財団、1,000ETHをステーブルコインに換金へ。運営資金確保で",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/06132320/e0632af9fbd1177e7a40b4c3290946ed.jpg"
         }
       ]
     },
@@ -2113,6 +2068,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/ai-bubble-bitcoin-high-correlation-nvidia-80-percent-btc-crash-warning",
+          "author": "Cointelegraph  Yashu Gola",
+          "description": "ビットコイン（BTC）とエヌビディア株（NVDA）の値動きが、過去1年間で最も高い相関を示している。市場関係者の間では、1990年代後半のドットコムバブル（ITバブル）に匹敵する暴落リスクを懸念する声が強まっている。",
+          "link": "https://jp.cointelegraph.com/news/ai-bubble-bitcoin-high-correlation-nvidia-80-percent-btc-crash-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-10T16:40:55.000Z",
+          "wordCount": null,
+          "title": "AIと仮想通貨のダブルバブル？ ビットコインとエヌビディア株の相関が過去最高に　暴落リスクの指摘も",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MmZlODUtYTFkZi03YzQ4LWE4ZWItODEwNTg5MGVkNmFk.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MmZlODUtYTFkZi03YzQ4LWE4ZWItODEwNTg5MGVkNmFk.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-drop-118k-likely-futures-reset-means-dip-wont-last",
           "author": "Cointelegraph  Nancy Lubale",

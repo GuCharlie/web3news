@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=318704",
+          "author": "栃山直樹",
+          "description": "SBIホールディングスは10月9日、大阪・関西万博で提供するNFTサービス「EXPO2025 デジタルウォレットNFT（ミャクーン！）」が、ギネス世界記録「単一 ...\nSBIの万博NFT、818万枚超でギネス記録達成──閉幕後はWeb3ウォレットへ移行 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/318704/",
+          "publishedOn": "2025-10-10T02:53:37.000Z",
+          "wordCount": 1273,
+          "title": "SBIの万博NFT、818万枚超でギネス記録達成──閉幕後はWeb3ウォレットへ移行",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/スクリーンショット-2025-10-10-11.45.58-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=313025",
           "author": "CoinDesk JAPAN 広告制作チーム",
           "description": "日本発の暗号資産（仮想通貨）レンディングサービス「BitLending」（ビットレンディング）は、業界最高水準となる最大10%の料率と、Fireblocksを活 ...\nBitLendingが最高料率10%を出せる理由──J-CAM運営メディアIolite編集長に聞いた暗号資産レンディングの未来 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -590,16 +600,6 @@
           "wordCount": 1319,
           "title": "ビットコインの重要トレンド、まだ十分な上昇余地があることを示唆",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/N3b98e669fcdc76a54de026e6044941bd42974b24-3200x1800-1.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=317772",
-          "author": "林 理南",
-          "description": "ビットコイン（BTC）が史上最高値付近の未知の領域で取引される中、トレーダーらは次に何が起こるかの手がかり、特に価格が引き付けられたりレジスタンスとなったりする ...\nビットコイン史上最高値圏で注目すべき3つの重要水準 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/317772/",
-          "publishedOn": "2025-10-05T17:14:21.000Z",
-          "wordCount": 1399,
-          "title": "ビットコイン史上最高値圏で注目すべき3つの重要水準",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/d5646c439de12ffa75596d174196acfefaedd782-1919x1080-1.jpg"
         }
       ]
     },
@@ -614,6 +614,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=656726",
+          "author": "Enzo",
+          "description": "コインベースとマスターカードがステーブルコイン企業BVNK買収で競合している。過去最大規模の20億ドル案件となる可能性。ステーブルコインブームが本格化か。",
+          "link": "https://coinpost.jp/?p=656726",
+          "publishedOn": "2025-10-10T03:05:40.000Z",
+          "wordCount": 3162,
+          "title": "ステーブルコイン史上最大の買収案件か、コインベース・マスターカードが買収競合＝フォーチュン誌",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/mastercard-3q-crypto-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/mastercard-3q-crypto-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=656756",
+          "author": "S.Ninomiya",
+          "description": "暗号資産（仮想通貨）市場では、大口投資家が4.2億ドルのビットコインのショートポジションを構築し市場に警戒感。一方で現物ETFへの資金流入は8日連続で継続。ビットコインは121,000ドル台で推移し、短期的な値動きに注目が集まる。",
+          "link": "https://coinpost.jp/?p=656756",
+          "publishedOn": "2025-10-10T02:57:28.000Z",
+          "wordCount": 3246,
+          "title": "大口投資家が4億ドル超のビットコインショート、市場は冷静な反応",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/health-care-bitcoin.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/health-care-bitcoin.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=656599",
           "author": "CoinPost編集部",
@@ -1387,6 +1417,46 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=505247",
+          "author": "HitomotoToshikazu",
+          "description": "YZI LabsがBNB Chain上の開発者向けにファンド設立 投資・インキュベーション組織のYZiラボ（YZI Labs：旧 Binance Labs）が、BNBチェーン（BNB Chain）上の開発者向けに、10億 […]",
+          "link": "https://www.neweconomy.jp/posts/505247",
+          "publishedOn": "2025-10-10T06:06:34.000Z",
+          "wordCount": 751,
+          "title": "YZiラボ、10億ドル規模のBNBチェーン開発者支援ファンド立ち上げ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/10150622/YZI-251010PIXTA.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=505221",
+          "author": "gentosha_takahashi",
+          "description": "トークン化ドル決済への関心高まる 米金融大手シティグループの投資部門「シティ・ベンチャーズ（Citi Ventures）」が、企業向けステーブルコイン基盤を提供するBVNKへの戦略的出資を10月9日に発表した。 なお具体 […]",
+          "link": "https://www.neweconomy.jp/posts/505221",
+          "publishedOn": "2025-10-10T04:56:50.000Z",
+          "wordCount": 741,
+          "title": "米シティ、ステーブルコイン基盤提供のBVNKへ戦略的出資。コインベースらは買収協議か",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/10135639/e86babeba1986baac00ec16c81630937.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=505207",
+          "author": "OtsugaShinya",
+          "description": "カルビーがSNPITとコラボ カルビーが、日本発のSnap to Earnブロックチェーンゲーム「SNPIT」とのコラボレーション実施予定を10月10日に発表した。 SNPITは、カメラNFTを活用してスマートフォンで写 […]",
+          "link": "https://www.neweconomy.jp/posts/505207",
+          "publishedOn": "2025-10-10T04:31:35.000Z",
+          "wordCount": 746,
+          "title": "カルビーがSNPITとコラボ、「じゃがりこ」デザインのゲーム内NFT販売へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/10133130/9a7c14ba375ebada02b325d3634be017.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=505193",
+          "author": "OtsugaShinya",
+          "description": "バイビットがUAEで運営フルライセンス取得 取引量で世界第2位の暗号資産（仮想通貨）取引所バイビット（Bybit）が、アラブ首長国連邦（UAE）の証券商品庁（SCA）から仮想資産プラットフォーム運営者の完全ライセンスを取 […]",
+          "link": "https://www.neweconomy.jp/posts/505193",
+          "publishedOn": "2025-10-10T04:18:57.000Z",
+          "wordCount": 781,
+          "title": "バイビット、UAEで暗号資産プラットフォーム運営の完全ライセンス取得",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/10131849/7a8b38d1f3933979a7d32a330cfe5bb4.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=505164",
           "author": "OtsugaShinya",
           "description": "Nonagon Capitalがステーブルコイン「USDe」を財務戦略に 東証グロース上場のホットリンクのグループ企業ノナゴン・キャピタル（Nonagon Capital）が、DeFi（分散型金融）プロジェクトへの流動性 […]",
@@ -2013,6 +2083,22 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/three-signs-the-bitcoin-supercycle-is-unfolding",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "アナリストらによれば、オンチェーンおよびテクニカル指標の両面から、ビットコイン（BTC）の「スーパーサイクル」はむしろ始まったばかりだという。",
+          "link": "https://jp.cointelegraph.com/news/three-signs-the-bitcoin-supercycle-is-unfolding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-10T02:59:17.000Z",
+          "wordCount": null,
+          "title": "ビットコイン　ETF流入とクジラ買いで強気継続　アナリストは「スーパーサイクル」入りを指摘",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmZjOWItNDU1Zi03NmYzLThlNzktOTc3ZmQ4Zjk5NWRi.jpg",
+            "length": "528",
+            "type": "image/jpg",
+            "caption": "ビットコイン　ETF流入とクジラ買いで強気継続　アナリストは「スーパーサイクル」入りを指摘"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmZjOWItNDU1Zi03NmYzLThlNzktOTc3ZmQ4Zjk5NWRi.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bnb-chain-memecoins-take-30-tumble-is-binance-s-meme-rush-over",
           "author": "Cointelegraph  Marcel Pechman",
@@ -2991,6 +3077,46 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=145160",
+          "author": "Crypto Times 編集部",
+          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 2025年10月6日、グローバル暗号資産取引所のMEXCは、シンガポー […]\n投稿 MEXC、TOKEN2049でエコシステム構想を発表─体験型ブースも展開 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/press-mexc-unveils-ecosystem-vision-at-token2049-features-interactive-booth-experience/",
+          "publishedOn": "2025-10-10T06:12:56.000Z",
+          "wordCount": 596,
+          "title": "MEXC、TOKEN2049でエコシステム構想を発表─体験型ブースも展開",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/image3.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=145145",
+          "author": "Crypto Times 編集部",
+          "description": "プライバシー分野の暗号資産が市場で大きな注目を集めています。Zcash ($ZEC) は直近24時間で価格が約43%上昇し、246ドルに達しました。 過去1ヶ月間で価格は約400%上昇し、1年間では約730%の上昇を見せ […]\n投稿 プライバシー系仮想通貨が急騰、ZcashとRailgunが市場を牽引 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-privacy-focused-cryptocurrencies-surge-with-zcash-and-railgun-leading-the-market/",
+          "publishedOn": "2025-10-10T05:58:01.000Z",
+          "wordCount": 652,
+          "title": "プライバシー系仮想通貨が急騰、ZcashとRailgunが市場を牽引",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_2517566697.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=145111",
+          "author": "Henry",
+          "description": "はじめに KBW（Korea Blockchain Week）期間中に開催された 「 Pantera x Multipli | KBW Liquid VIP Dinner Table 」に参加した。 今回の招待は、ETH […]\n投稿 Pantera x Multipli | KBW Liquid VIP Dinner Table — 参加レポート は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/pantera-multipli-kbw-2025-report/",
+          "publishedOn": "2025-10-10T05:38:22.000Z",
+          "wordCount": 718,
+          "title": "Pantera x Multipli | KBW Liquid VIP Dinner Table — 参加レポート",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/IMG_1107.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=145147",
+          "author": "Crypto Times 編集部",
+          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 2025年10月10日 – パナマ、パナマシティ R […]\n投稿 Grvt、資本効率を向上させる世界初の取引向け年利10%金利プログラム「Earn on Equity」を発表 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/press-grvt-earn-on-equity/",
+          "publishedOn": "2025-10-10T05:26:52.000Z",
+          "wordCount": 615,
+          "title": "Grvt、資本効率を向上させる世界初の取引向け年利10%金利プログラム「Earn on Equity」を発表",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/Best-Yield.png"
+        },
         {
           "id": "https://crypto-times.jp/?p=145141",
           "author": "Crypto Times 編集部",

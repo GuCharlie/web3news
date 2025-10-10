@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-10T10:41:19.817Z</updated>
+    <updated>2025-10-10T11:13:11.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインに巨額資金流入、9日で約9110億円｜高値維持は継続]]></title>
+        <id>https://crypto-times.jp/?p=145194</id>
+        <link href="https://crypto-times.jp/news-bitcoin-sees-massive-capital-inflows-totaling-approximately-%c2%a5911-billion-over-9-days-continues-to-hold-high-prices/"/>
+        <updated>2025-10-10T10:55:42.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインは直近24時間で小幅下落し、121,300ドル台で推移しています。10月6日に記録した史上最高値の126,000ドル付近からやや調整を見せていますが過去1ヶ月間では約8%上昇しており、依然として堅調な推移を維 […]
+投稿 ビットコインに巨額資金流入、9日で約9110億円｜高値維持は継続 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ハイパーリキッド、ライブストリーミング機能「Based Streams」を公開]]></title>
         <id>https://www.coindeskjapan.com/?p=318785</id>
@@ -3220,26 +3231,6 @@ DefiLlama、アスターの永久先物取引データを削除──市場の�
 【墨汁うまい氏寄稿】イーサリアムはビットコインを超える無限の可能性を持つ理由 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>墨汁うまい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、12万5000ドルまで上昇　政府閉鎖とマクロ要因が後押し＝アナリスト]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-125k-rise-us-gov-t-shutdown-macro-factors-analysts</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-125k-rise-us-gov-t-shutdown-macro-factors-analysts?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-10-05T23:04:27.000Z</updated>
-        <summary type="html"><![CDATA[オンチェーンの動向は新たな蓄積局面入りを示しており、2025年末までにビットコインが15万ドルを超える可能性があると市場アナリストが分析している。]]></summary>
-        <author>
-            <name>Cointelegraph  Zoltan Vardai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高齢化と富の拡大が2100年まで仮想通貨需要を押し上げる見通し]]></title>
-        <id>https://jp.cointelegraph.com/news/aging-wealth-fuels-crypto-demand-until-2100</id>
-        <link href="https://jp.cointelegraph.com/news/aging-wealth-fuels-crypto-demand-until-2100?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-10-05T22:47:51.000Z</updated>
-        <summary type="html"><![CDATA[世界的な高齢化と富の増加がビットコインなどの資産需要を支える要因となり、FRBは2100年まで投資拡大が続くと予測している。]]></summary>
-        <author>
-            <name>Cointelegraph  Zoltan Vardai</name>
         </author>
     </entry>
 </feed>

@@ -590,16 +590,6 @@
           "wordCount": 1351,
           "title": "「新たなウォール街」としてのソラナ：ビットワイズCIOマット・ホーガン氏",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/shutterstock_2187510541.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=317787",
-          "author": "林 理南",
-          "description": "多くの投資家は現在、ビットコイン（BTC）をサイクル終焉の視点から捉えており、第4四半期が現在の市場サイクルの終焉となる可能性を示唆している。しかし、二つの重要 ...\nビットコインの重要トレンド、まだ十分な上昇余地があることを示唆 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/317787/",
-          "publishedOn": "2025-10-05T18:45:57.000Z",
-          "wordCount": 1319,
-          "title": "ビットコインの重要トレンド、まだ十分な上昇余地があることを示唆",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/N3b98e669fcdc76a54de026e6044941bd42974b24-3200x1800-1.png"
         }
       ]
     },
@@ -614,6 +604,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=656763",
+          "author": "Enzo",
+          "description": "ブロックチェーンゲームSNPITとカルビーが「じゃがりこ」NFTコラボを開始。10月15日から段階的に販売。ミントスクロールを使って新カメラBOXを生成可能。価格や販売スケジュールの詳細を解説。",
+          "link": "https://coinpost.jp/?p=656763",
+          "publishedOn": "2025-10-10T06:23:40.000Z",
+          "wordCount": 3176,
+          "title": "カルビー×SNPIT「じゃがりこ」NFTコラボ発表　10月15日から販売開始へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/%E6%88%AA%E5%B1%8F2025-10-10-11.34.31.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/%E6%88%AA%E5%B1%8F2025-10-10-11.34.31.png"
+        },
         {
           "id": "https://coinpost.jp/?p=656726",
           "author": "Enzo",
@@ -3077,6 +3082,36 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=145174",
+          "author": "Crypto Times 編集部",
+          "description": "MeebitsのNFTプロジェクトが展開するPinsシリーズから新たにラスベガスをテーマにしたセットが現地時間10月9日に販売され、完売となりました。 The Las Vegas pins are now availab […]\n投稿 MeebitsのPins、ラスベガスセットが完売 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-meebits-pins-las-vegas-set-sold-out/",
+          "publishedOn": "2025-10-10T06:46:56.000Z",
+          "wordCount": 616,
+          "title": "MeebitsのPins、ラスベガスセットが完売",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_2427085701.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=145170",
+          "author": "Crypto Times 編集部",
+          "description": "NFTプロジェクトのDoodlesはユニバーサルホラーとの提携を発表しました。Doodlesの公式Twitterアカウント（@doodles）が公開した投稿ではホラーをテーマにしたDoodlesの再想像として今月のテーマ […]\n投稿 Doodles、ユニバーサルホラーとのコラボレーションを発表 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-doodles-announces-collaboration-with-universal-horror/",
+          "publishedOn": "2025-10-10T06:42:42.000Z",
+          "wordCount": 595,
+          "title": "Doodles、ユニバーサルホラーとのコラボレーションを発表",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_2213615225-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=145167",
+          "author": "Crypto Times 編集部",
+          "description": "複数の関係者の話によると、香港最大の暗号通貨取引所運営会社であるHashKey Groupが香港で新規株式公開（IPO）を密かに申請していることが明らかになりました。 HashKeyは早ければ年内の株式公開を目指す可能性 […]\n投稿 香港最大の暗号通貨取引所HashKeyが密かに上場申請 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-hong-kongs-largest-cryptocurrency-exchange-hashkey-quietly-files-for-listing/",
+          "publishedOn": "2025-10-10T06:32:45.000Z",
+          "wordCount": 581,
+          "title": "香港最大の暗号通貨取引所HashKeyが密かに上場申請",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_2068526156.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=145160",
           "author": "Crypto Times 編集部",

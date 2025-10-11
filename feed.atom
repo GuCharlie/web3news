@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-11T11:11:35.918Z</updated>
+    <updated>2025-10-11T11:35:56.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AIに「パスポート」を。イーサリアム新規格ERC-8004とは]]></title>
+        <id>https://crypto-times.jp/?p=145231</id>
+        <link href="https://crypto-times.jp/news-a-passport-for-ai-what-is-ethereums-new-erc-8004-standard/"/>
+        <updated>2025-10-11T11:30:40.000Z</updated>
+        <summary type="html"><![CDATA[自律的に交渉や決済を行うAIエージェントの市場が急速に拡大する中、イーサリアム上でAIエージェント間の信頼と協力を実現するための新しい技術標準「ERC-8004」が発表されました。 AI市場は2031年までに1兆ドル規模 […]
+投稿 AIに「パスポート」を。イーサリアム新規格ERC-8004とは は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[歴史的暴落でも無傷。次世代DEX「Grvt」が示した実力]]></title>
         <id>https://crypto-times.jp/?p=145232</id>
@@ -3119,16 +3130,6 @@ OpenAIとの契約で、AMD株が30%急騰──AIやHPC関連のビットコイ
         <summary type="html"><![CDATA[12万ドル超での週足終値更新により、ビットコインは価格発見の新たな局面に入ったことが確認された。オンチェーンおよび先物指標はいずれも、強気派が市場を主導していることを示している]]></summary>
         <author>
             <name>Cointelegraph  Biraajmaan Tamuly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「鉄の女」高市早苗氏が次期首相就任へ　仮想通貨市場に追い風となるか]]></title>
-        <id>https://jp.cointelegraph.com/news/japan-new-pm-boon-risk-assets-crypto-markets</id>
-        <link href="https://jp.cointelegraph.com/news/japan-new-pm-boon-risk-assets-crypto-markets?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-10-06T23:15:46.000Z</updated>
-        <summary type="html"><![CDATA[自民党の新総裁に選出された高市早苗氏が、仮想通貨を含むリスク資産に新たな勢いをもたらす可能性がある。総裁選勝利後、日本の代表的株価指数である日経平均は史上最高値を更新している。]]></summary>
-        <author>
-            <name>Cointelegraph  Zoltan Vardai</name>
         </author>
     </entry>
 </feed>

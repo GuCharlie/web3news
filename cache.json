@@ -430,16 +430,6 @@
           "wordCount": 1258,
           "title": "ホットリンクグループ、DeFi運用を開始──ステーブルコインUSDe活用",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/ダウンロード-3-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=318173",
-          "author": "James Van Straten",
-          "description": "わずか数日間で状況は大きく変化する。ビットコイン（BTC）は最近、米ドル建てでも円建てでも史上最高値を更新した。これは、高市早苗新総裁の超金融緩和のアベノミクス ...\n日本国債の利回りが17年ぶりの高水準に──円安が進み、ビットコインに圧力 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/318173/",
-          "publishedOn": "2025-10-08T10:15:00.000Z",
-          "wordCount": 1421,
-          "title": "日本国債の利回りが17年ぶりの高水準に──円安が進み、ビットコインに圧力",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/shutterstock_2178321981-768x512-2.jpg"
         }
       ]
     },
@@ -1293,6 +1283,22 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/usde-depeg-oracle-issues-ethena-founder",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "イーサナ（Ethena）創業者のガイ・ヤング氏は、USDeがバイナンス上で0.65ドルまで下落したデペッグについて、基礎的要因とは無関係の一時的な問題だと説明した。",
+          "link": "https://jp.cointelegraph.com/news/usde-depeg-oracle-issues-ethena-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-12T22:21:58.000Z",
+          "wordCount": null,
+          "title": "バイナンスで発生したUSDe「デペッグ」の原因をめぐり、協調攻撃説とオラクル問題が浮上",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NjhhZjAtMWI5MC03MjQ5LWFjMDktYjMxMDI2NGRjYWU0.jpg",
+            "length": "528",
+            "type": "image/jpg",
+            "caption": "バイナンスで発生したUSDe「デペッグ」の原因をめぐり、協調攻撃説とオラクル問題が浮上"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NjhhZjAtMWI5MC03MjQ5LWFjMDktYjMxMDI2NGRjYWU0.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-altcoin-market-sell-off-continues-what-was-the-cause-and-when-will-it-end",
           "author": "Cointelegraph  Ray Salmond",

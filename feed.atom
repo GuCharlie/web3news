@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-13T02:52:25.632Z</updated>
+    <updated>2025-10-13T06:25:26.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[430億円規模に、バイナンスが「異例の補償」実施　トランプ・ショックに関する価格異変で]]></title>
+        <id>https://coinpost.jp/?p=657352</id>
+        <link href="https://coinpost.jp/?p=657352"/>
+        <updated>2025-10-13T03:25:27.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所バイナンスがトランプ関税による市場下落時の不具合で損失補償を発表した。USDe、BNSOLなどのディペッグで強制清算が発生した背景がある。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トム・リー氏「イーサリアム下落は一時的」、相場を支える3要因とは]]></title>
+        <id>https://coinpost.jp/?p=657340</id>
+        <link href="https://coinpost.jp/?p=657340"/>
+        <updated>2025-10-13T01:15:59.000Z</updated>
+        <summary type="html"><![CDATA[ビットマインが市場下落時に730億円相当のイーサリアムを買い増したとみられる。トム・リー会長は3つの構造的要因が変化しない限り市場の追い風になると強気の見解を示している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[強気相場の始まりである“非常に高い可能性”＝トレーダー]]></title>
         <id>https://jp.cointelegraph.com/news/crypto-market-bull-run-start-trader-forecasts</id>
@@ -1957,16 +1977,6 @@ Superteam Japan、日本でのソラナ（SOL）トレジャリー事業立ち�
         <summary type="html"><![CDATA[スクエアの新たなビットコインサービスで、米国の小売業者がビットコインの取り扱いが可能になった。ビットコインの受け取りやウォレットでの保有のほかに2027年までは手数料が無料になる。]]></summary>
         <author>
             <name>Cointelegraph  Sam Bourgi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【10/8話題】暗号資産の無登録交換疑いで大学生摘発、リミポとイオレがビットコイン購入、BNB時価総額3位になど（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=504430</id>
-        <link href="https://www.neweconomy.jp/posts/504430"/>
-        <updated>2025-10-08T15:20:06.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
         </author>
     </entry>
 </feed>

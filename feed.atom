@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-13T22:37:39.776Z</updated>
+    <updated>2025-10-13T23:13:13.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[市場急落で損失を被ったミームコイントレーダーに、バイナンスが4,500万ドル相当のBNBをエアドロップ]]></title>
+        <id>https://jp.cointelegraph.com/news/binance-45m-reload-airdrop-memecoin-traders-market-volatility</id>
+        <link href="https://jp.cointelegraph.com/news/binance-45m-reload-airdrop-memecoin-traders-market-volatility?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-10-13T23:09:42.000Z</updated>
+        <summary type="html"><![CDATA[この補償策は、約200億ドル規模の市場暴落後としては、バイナンス・エコシステムにおける最大規模のユーザー救済となる。]]></summary>
+        <author>
+            <name>Cointelegraph  Nate Kostar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ノーベル平和賞をめぐるポリマーケットでの賭けに調査の目＝報道]]></title>
+        <id>https://jp.cointelegraph.com/news/nobel-peace-prize-polymarket-investigation</id>
+        <link href="https://jp.cointelegraph.com/news/nobel-peace-prize-polymarket-investigation?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-10-13T22:52:12.000Z</updated>
+        <summary type="html"><![CDATA[ポリマーケットのデータによると、最近開設されたアカウントを持つ1人のユーザーが、平和賞受賞者への賭けだけで3万ドル以上を得ていた。]]></summary>
+        <author>
+            <name>Cointelegraph  Turner Wright</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインクジラが3500BTCのショートを公開　注目すべき主要サポート水準は？]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-whale-reveals-3-5k-btc-short-levels-watch-next</id>
@@ -1409,38 +1429,6 @@ BGINが示す「国際標準」の行方──日本の金融規制とセキュ�
         <summary type="html"><![CDATA[Forward IndustriesがSolana上でバリデータ立ち上げ 米ナスダック（Nasdaq）上場フォワード・インダストリーズ（Forward Industries）が、ソラナ（Solana）上で機関投資家向けバ […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベースが米NY州でステーキング提供開始、ETHやSOLなど獲得可能に]]></title>
-        <id>https://www.neweconomy.jp/?p=505114</id>
-        <link href="https://www.neweconomy.jp/posts/505114"/>
-        <updated>2025-10-09T11:09:09.000Z</updated>
-        <summary type="html"><![CDATA[ニューヨーク州がステーキング許可 米大手暗号資産（仮想通貨）取引所コインベース（Coinbase）が、米ニューヨーク州の居住者が同社プラットフォームで暗号資産のステーキングが可能になったと10月8日に発表した。 ニューヨ […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YZi Labs、BNBエコシステム支援に10億ドルのビルダーファンドを発表]]></title>
-        <id>https://crypto-times.jp/?p=145141</id>
-        <link href="https://crypto-times.jp/news-yzi-labs-announces-1-billion-builder-fund-to-support-bnb-ecosystem/"/>
-        <updated>2025-10-09T10:54:29.000Z</updated>
-        <summary type="html"><![CDATA[YZi Labsは、BNBエコシステム、特にBNB Chain上での開発の注力を倍増させるため、10億ドルのビルダーファンドを発表しました。ビルダーは、BNB Chainの高性能かつ低コストのインフラストラクチャー、強化 […]
-投稿 YZi Labs、BNBエコシステム支援に10億ドルのビルダーファンドを発表 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パウエル議長の講演を前にドル高が進み、ビットコインは主要な支持線を下回る]]></title>
-        <id>https://www.coindeskjapan.com/?p=318485</id>
-        <link href="https://www.coindeskjapan.com/318485/"/>
-        <updated>2025-10-09T10:40:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）が10月9日に重要なサポートレベルを下回り、ジェローム・パウエル（Jerome Powell’）連邦準備制度理事会（FRB）議長の講演を前 ...
-パウエル議長の講演を前にドル高が進み、ビットコインは主要な支持線を下回る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>James Van Straten</name>
         </author>
     </entry>
 </feed>

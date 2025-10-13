@@ -280,16 +280,6 @@
           "wordCount": 1401,
           "title": "ビットコイン、12万1000ドル下回る──金と銀の高騰には一服感",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/20906a093fa5e5fa5736ae49dcd7c986f3491d30-1920x1080-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=318485",
-          "author": "James Van Straten",
-          "description": "ビットコイン（BTC）が10月9日に重要なサポートレベルを下回り、ジェローム・パウエル（Jerome Powell’）連邦準備制度理事会（FRB）議長の講演を前 ...\nパウエル議長の講演を前にドル高が進み、ビットコインは主要な支持線を下回る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/318485/",
-          "publishedOn": "2025-10-09T10:40:00.000Z",
-          "wordCount": 1448,
-          "title": "パウエル議長の講演を前にドル高が進み、ビットコインは主要な支持線を下回る",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/shutterstock_2142319699.jpg"
         }
       ]
     },
@@ -870,16 +860,6 @@
           "wordCount": 636,
           "title": "SOLトレジャリー企業の米フォワード・インダストリーズ、ソラナ上で機関投資家向けバリデータ立ち上げ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/09202236/ab65d9e205dd1126f4d50f549059c5f3.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=505114",
-          "author": "HitomotoToshikazu",
-          "description": "ニューヨーク州がステーキング許可 米大手暗号資産（仮想通貨）取引所コインベース（Coinbase）が、米ニューヨーク州の居住者が同社プラットフォームで暗号資産のステーキングが可能になったと10月8日に発表した。 ニューヨ […]",
-          "link": "https://www.neweconomy.jp/posts/505114",
-          "publishedOn": "2025-10-09T11:09:09.000Z",
-          "wordCount": 730,
-          "title": "コインベースが米NY州でステーキング提供開始、ETHやSOLなど獲得可能に",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/09200849/0b16e3e38e18505dff3692a8ec45b028.jpg"
         }
       ]
     },
@@ -888,6 +868,38 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/binance-45m-reload-airdrop-memecoin-traders-market-volatility",
+          "author": "Cointelegraph  Nate Kostar",
+          "description": "この補償策は、約200億ドル規模の市場暴落後としては、バイナンス・エコシステムにおける最大規模のユーザー救済となる。",
+          "link": "https://jp.cointelegraph.com/news/binance-45m-reload-airdrop-memecoin-traders-market-volatility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-13T23:09:42.000Z",
+          "wordCount": null,
+          "title": "市場急落で損失を被ったミームコイントレーダーに、バイナンスが4,500万ドル相当のBNBをエアドロップ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDI1ODAtN2ExNC03Y2M3LTlmMDItZDlhZWVjNDIwNjFi.jpg",
+            "length": "528",
+            "type": "image/jpg",
+            "caption": "市場急落で損失を被ったミームコイントレーダーに、バイナンスが4,500万ドル相当のBNBをエアドロップ"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDI1ODAtN2ExNC03Y2M3LTlmMDItZDlhZWVjNDIwNjFi.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/nobel-peace-prize-polymarket-investigation",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "ポリマーケットのデータによると、最近開設されたアカウントを持つ1人のユーザーが、平和賞受賞者への賭けだけで3万ドル以上を得ていた。",
+          "link": "https://jp.cointelegraph.com/news/nobel-peace-prize-polymarket-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-13T22:52:12.000Z",
+          "wordCount": null,
+          "title": "ノーベル平和賞をめぐるポリマーケットでの賭けに調査の目＝報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzBkOWMtMDcxZS03YTRmLTgzNWUtMjk1ZTllZWJjYWZl.jpg",
+            "length": "528",
+            "type": "image/jpg",
+            "caption": "ノーベル平和賞をめぐるポリマーケットでの賭けに調査の目＝報道"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzBkOWMtMDcxZS03YTRmLTgzNWUtMjk1ZTllZWJjYWZl.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-whale-reveals-3-5k-btc-short-levels-watch-next",
           "author": "Cointelegraph  William Suberg",
@@ -1776,16 +1788,6 @@
           "wordCount": 615,
           "title": "Grvt、資本効率を向上させる世界初の取引向け年利10%金利プログラム「Earn on Equity」を発表",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/Best-Yield.png"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=145141",
-          "author": "Crypto Times 編集部",
-          "description": "YZi Labsは、BNBエコシステム、特にBNB Chain上での開発の注力を倍増させるため、10億ドルのビルダーファンドを発表しました。ビルダーは、BNB Chainの高性能かつ低コストのインフラストラクチャー、強化 […]\n投稿 YZi Labs、BNBエコシステム支援に10億ドルのビルダーファンドを発表 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-yzi-labs-announces-1-billion-builder-fund-to-support-bnb-ecosystem/",
-          "publishedOn": "2025-10-09T10:54:29.000Z",
-          "wordCount": 638,
-          "title": "YZi Labs、BNBエコシステム支援に10億ドルのビルダーファンドを発表",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_2619066819-1.jpg"
         }
       ]
     }

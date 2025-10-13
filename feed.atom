@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-13T21:34:44.953Z</updated>
+    <updated>2025-10-13T22:14:14.840Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ氏の関税発言で市場が混乱する中、ビットコインマイニング関連株が反発]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-miners-rally-trump-china-tariff-fears</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-miners-rally-trump-china-tariff-fears?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-10-13T22:09:23.000Z</updated>
+        <summary type="html"><![CDATA[アナリストによると、中国の輸出規制をめぐる混乱が一時的に市場を揺るがせたが、月曜日にはビットコイン採掘企業が主導して急速な回復を見せた。]]></summary>
+        <author>
+            <name>Cointelegraph  Sam Bourgi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム「Fusaka」アップグレードがゲームチェンジャーになる理由：VanEck]]></title>
         <id>https://www.coindeskjapan.com/?p=318342</id>
@@ -1411,38 +1421,6 @@ BGINが示す「国際標準」の行方──日本の金融規制とセキュ�
 パウエル議長の講演を前にドル高が進み、ビットコインは主要な支持線を下回る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>James Van Straten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シティ、ステーブルコインインフラ企業BVNKに出資　ウォール街で進む「ステーブルコイン時代」への布石]]></title>
-        <id>https://jp.cointelegraph.com/news/citi-invests-in-bvnk-stablecoin-infrastructure-expansion</id>
-        <link href="https://jp.cointelegraph.com/news/citi-invests-in-bvnk-stablecoin-infrastructure-expansion?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-10-09T10:10:29.000Z</updated>
-        <summary type="html"><![CDATA[シティグループのベンチャー投資部門であるシティ・ベンチャーズが、ロンドン拠点のステーブルコインインフラ企業BVNKに出資した。同社はデジタル資産向けのグローバル決済ネットワークを構築している。]]></summary>
-        <author>
-            <name>Cointelegraph  Amin Haqshanas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英規制当局、暗号資産ETNの個人投資家向け販売禁止を解除──貯蓄口座・年金口座からの投資が可能に]]></title>
-        <id>https://www.coindeskjapan.com/?p=318457</id>
-        <link href="https://www.coindeskjapan.com/318457/"/>
-        <updated>2025-10-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[イギリスは個人投資家向けの暗号資産（仮想通貨）ETN（上場投資証券）に対する複数年にわたる禁止措置を正式に解除した。暗号資産市場は規制対象商品を通じた個人投資が ...
-英規制当局、暗号資産ETNの個人投資家向け販売禁止を解除──貯蓄口座・年金口座からの投資が可能に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Siamak Masnavi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【XRPチャート分析】トライアングル突破は上か下か｜正念場の価格帯を推移]]></title>
-        <id>https://crypto-times.jp/?p=145136</id>
-        <link href="https://crypto-times.jp/news-xrp-chart-analysis-triangle-breakout-down-or-up-price-moves-through-critical-range/"/>
-        <updated>2025-10-09T09:37:25.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産XRPの対USDT日足チャートが今後の方向性を占う重要な局面を迎えています。現在の価格は25日移動平均線と50日移動平均線の近辺で推移しており、明確な上昇トレンドというよりディセンディングトライアングル内での値動 […]
-投稿 【XRPチャート分析】トライアングル突破は上か下か｜正念場の価格帯を推移 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
 </feed>

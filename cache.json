@@ -270,16 +270,6 @@
           "wordCount": 1451,
           "title": "ビットコイン、11万9000ドルを割り込む──トランプ大統領による対中関税引き上げ示唆を受け",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/shutterstock_2082587002.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=318785",
-          "author": "Jamie Crawley",
-          "description": "オンチェーン分散型取引所（DEX）のハイパーリキッド（Hyperliquid）は、クリエイターのコンテンツとリアルタイムの取引インタラクションを融合させたライブ ...\nハイパーリキッド、ライブストリーミング機能「Based Streams」を公開 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/318785/",
-          "publishedOn": "2025-10-10T10:30:00.000Z",
-          "wordCount": 1328,
-          "title": "ハイパーリキッド、ライブストリーミング機能「Based Streams」を公開",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/shutterstock_2552692341.jpg"
         }
       ]
     },
@@ -294,6 +284,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=657915",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨ビットコインの財務戦略企業メタプラネットは、mNAVが一時的に初めて1を下回った。これは、市場がメタプラネットを保有するビットコインの価値よりも低く評価していることを意味する。",
+          "link": "https://coinpost.jp/?p=657915",
+          "publishedOn": "2025-10-14T22:10:39.000Z",
+          "wordCount": 3240,
+          "title": "メタプラネットの企業価値、初めて保有ビットコインの価値を下回る　mNAVが一時0.99に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/0605_metaplanet-A.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/0605_metaplanet-A.png"
+        },
         {
           "id": "https://coinpost.jp/?p=657917",
           "author": "菊谷ルイス",
@@ -1089,6 +1094,54 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/blackrock-etfs-record-inflows-institutional-bitcoin-demand",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "ブラックロックの仮想通貨ETFへの資金流入が過去最高を記録し、機関投資家がビットコインとイーサリアムへの投資を拡大する中、同社の市場支配力をさらに強固なものとした。",
+          "link": "https://jp.cointelegraph.com/news/blackrock-etfs-record-inflows-institutional-bitcoin-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-14T22:37:29.000Z",
+          "wordCount": null,
+          "title": "ビットコインとイーサリアム需要急増で、ブラックロックのiシェアーズETFが過去最高の四半期を記録",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWUzNmUtODkxNS03ZTE4LWE0MzEtOTQ4MjVkMmI3ZjEw.jpg",
+            "length": "528",
+            "type": "image/jpg",
+            "caption": "ビットコインとイーサリアム需要急増で、ブラックロックのiシェアーズETFが過去最高の四半期を記録"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWUzNmUtODkxNS03ZTE4LWE0MzEtOTQ4MjVkMmI3ZjEw.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/tether-celsius-299m-settlement-stablecoin-liability",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "テザーによる2億9,950万ドルのセルシウス和解は、ステーブルコインの説明責任や、今後の仮想通貨破綻案件で発行体が直面する法的リスクをめぐる議論を再燃させる可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/tether-celsius-299m-settlement-stablecoin-liability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-14T22:29:21.000Z",
+          "wordCount": null,
+          "title": "テザー、セルシウスの債権を3億ドルで和解　ステーブルコインの責任問題に懸念",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWU0MGMtZjNlNi03ODAzLWFlYzItYWY0NDhjZDBjZTk2.jpg",
+            "length": "528",
+            "type": "image/jpg",
+            "caption": "テザー、セルシウスの債権を3億ドルで和解　ステーブルコインの責任問題に懸念"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWU0MGMtZjNlNi03ODAzLWFlYzItYWY0NDhjZDBjZTk2.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/nyc-mayor-eric-adams-executive-order-digital-assets-blockchain-office",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "ニューヨーク市政府の下に「デジタル資産・ブロックチェーン技術局」を設立する行政命令が出されたのは、エリック・アダムス市長の退任まで残り3か月という時期だった。",
+          "link": "https://jp.cointelegraph.com/news/nyc-mayor-eric-adams-executive-order-digital-assets-blockchain-office?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-14T22:16:21.000Z",
+          "wordCount": null,
+          "title": "ニューヨーク市長、デジタル資産・ブロックチェーン局を設立",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzMwOGMtZDM5Mi03ZDUxLTkzMmMtNWFhNWY1NTg2OGMx.jpg",
+            "length": "528",
+            "type": "image/jpg",
+            "caption": "ニューヨーク市長、デジタル資産・ブロックチェーン局を設立"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzMwOGMtZDM5Mi03ZDUxLTkzMmMtNWFhNWY1NTg2OGMx.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/united-states-roger-ver-tax-case-deal",
           "author": "Cointelegraph  Turner Wright",
           "description": "「ビットコイン・ジーザス」と呼ばれるロジャー・バー氏と米国当局の間で合意が報じられてから1週間も経たないうちに、バー氏の2024年の刑事脱税事件が終結に近づいている可能性がある。",
@@ -1639,22 +1692,6 @@
             "caption": "XRPクジラが大量売却？ 価格は一時2.8ドル割れ　さらなる調整リスクも"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWNkODMtNmI5OS03ZWNhLTg3YjgtOWVhNzNjYzI1OWY1.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-mayer-multiple-btc-price-can-180k-before-overbought",
-          "author": "Cointelegraph  William Suberg",
-          "description": "ビットコイン（BTC）は史上最高値圏にありながらも、「氷のように冷え切っている」という。ビットコインの典型的な価格指標であるマイヤー・マルチプルによれば、ビットコインはまだ過熱には程遠く、18万ドルまで上昇の余地がある。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-mayer-multiple-btc-price-can-180k-before-overbought?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-10-10T10:22:09.000Z",
-          "wordCount": null,
-          "title": "ビットコイン、最高値圏でも「まだ過熱してない」　マイヤー・マルチプルが示す18万ドルへの上昇余地",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2IwNWMtZjhmMy03ZTk5LTg4NmItMjU3YTg2MmU2Yzcx.jpg",
-            "length": "528",
-            "type": "image/jpg",
-            "caption": "ビットコイン、最高値圏でも「まだ過熱してない」　マイヤー・マルチプルが示す18万ドルへの上昇余地"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2IwNWMtZjhmMy03ZTk5LTg4NmItMjU3YTg2MmU2Yzcx.jpg"
         }
       ]
     },

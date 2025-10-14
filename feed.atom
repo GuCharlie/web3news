@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-14T21:13:20.943Z</updated>
+    <updated>2025-10-14T21:35:32.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブラックロックのラリー・フィンクCEO、トークン化分野での役割拡大を目指す]]></title>
+        <id>https://www.coindeskjapan.com/?p=319135</id>
+        <link href="https://www.coindeskjapan.com/319135/"/>
+        <updated>2025-10-14T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[13兆ドル（約1970兆円、1ドル＝152円換算）以上の資産を管理する資産運用大手のブラックロックは、伝統的金融（TradiFi）をオンチェーン化する取り組みを ...
+ブラックロックのラリー・フィンクCEO、トークン化分野での役割拡大を目指す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Helene Braun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サークルは「最も重要な」ステーブルコイン企業：投資銀行ウィリアム・ブレア]]></title>
         <id>https://www.coindeskjapan.com/?p=319131</id>
@@ -1620,16 +1631,6 @@ OKJ、スカイ（SKY）の取り扱いを開始、メイカー（MKR）は出�
         <summary type="html"><![CDATA[ビットコイン（BTC）保有者は、2025年の価格目標を見直す必要があるかもしれない。アナリストのジェームズ・チェック氏は、11万ドルが「新たな底値」として明確に確立されたと主張している。]]></summary>
         <author>
             <name>Cointelegraph  Ciaran Lyons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムの調整局面は間もなく終了か　「一時4200ドルまで下落も最終的に5500ドルに反発」＝ファンドストラット分析]]></title>
-        <id>https://jp.cointelegraph.com/news/ether-poised-for-all-time-high-despite-recent-weakness-fundstrat-says</id>
-        <link href="https://jp.cointelegraph.com/news/ether-poised-for-all-time-high-despite-recent-weakness-fundstrat-says?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-10-10T09:27:02.000Z</updated>
-        <summary type="html"><![CDATA[金融リサーチ会社ファンドストラットは、イーサリアム（ETH）が今後数日で4200ドルまで下落した後、上昇に転じ、最終的には5500ドル付近まで反発する可能性があると分析している。]]></summary>
-        <author>
-            <name>Cointelegraph  Martin Young</name>
         </author>
     </entry>
 </feed>

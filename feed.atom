@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-15T21:35:55.632Z</updated>
+    <updated>2025-10-15T22:12:47.925Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コインベース・プレミアムがビットコインを11万ドル超に維持、この水準は保てるか]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-coinbase-premium-keeps-btc-above-dollar110k-will-this-level-hold</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-coinbase-premium-keeps-btc-above-dollar110k-will-this-level-hold?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-10-15T22:11:47.000Z</updated>
+        <summary type="html"><![CDATA[米国勢による強い需要がビットコインを11万ドル超に支えているが、長期保有コインの移動とデリバティブ取引の活発化が、今後の波乱を示唆している。]]></summary>
+        <author>
+            <name>Cointelegraph  Biraajmaan Tamuly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[パクソスが誤ってPYUSDを300兆発行、その後すぐ焼却]]></title>
+        <id>https://jp.cointelegraph.com/news/aave-freezes-pyusd-markets-after-unprecedented-300t-mint-and-burn</id>
+        <link href="https://jp.cointelegraph.com/news/aave-freezes-pyusd-markets-after-unprecedented-300t-mint-and-burn?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-10-15T21:58:22.000Z</updated>
+        <summary type="html"><![CDATA[パクソスがペイパルのステーブルコインPYUSDを300兆枚発行し、その全額をバーンアドレスに送付したことで、仮想通貨ユーザーの間に混乱が広がった。]]></summary>
+        <author>
+            <name>Cointelegraph  Turner Wright</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、10月の減速の裏には強さが潜む──アナリストは金に追いつくと予測]]></title>
         <id>https://www.coindeskjapan.com/?p=319339</id>
@@ -1966,28 +1986,6 @@ Coincheck、ファンプラ（FPL）のIEOの申し込みを10月21日より開�
 投稿 歴史的暴落でも無傷。次世代DEX「Grvt」が示した実力 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCC取引所、第3四半期取引量1.15兆ドルを達成！ユーザー数1,000万人の大台を突破 – グローバル展開を加速]]></title>
-        <id>https://crypto-times.jp/?p=145267</id>
-        <link href="https://crypto-times.jp/press-btcc-third-quarter-trading-volume/"/>
-        <updated>2025-10-11T10:01:23.000Z</updated>
-        <summary type="html"><![CDATA[Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 暗号資産取引所BTCCは本日、2025年第3四半期において、世界の登録 […]
-投稿 BTCC取引所、第3四半期取引量1.15兆ドルを達成！ユーザー数1,000万人の大台を突破 – グローバル展開を加速 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCC取引所、TOKEN2049シンガポールサイドイベント「Poolside Sync Party」を開催 – 暗号資産業界のエリートが集結]]></title>
-        <id>https://crypto-times.jp/?p=145268</id>
-        <link href="https://crypto-times.jp/press-btcc-poolside-sync-party/"/>
-        <updated>2025-10-11T09:53:11.000Z</updated>
-        <summary type="html"><![CDATA[Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 暗号資産（仮想通貨）取引所であるBTCCは、2025年10月3日、シン […]
-投稿 BTCC取引所、TOKEN2049シンガポールサイドイベント「Poolside Sync Party」を開催 – 暗号資産業界のエリートが集結 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
 </feed>

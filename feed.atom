@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-15T06:23:58.866Z</updated>
+    <updated>2025-10-15T06:48:19.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CME、ソラナ（SOL）とエックスアールピー（XRP）の先物オプション取引開始]]></title>
+        <id>https://www.neweconomy.jp/?p=506462</id>
+        <link href="https://www.neweconomy.jp/posts/506462"/>
+        <updated>2025-10-15T06:39:08.000Z</updated>
+        <summary type="html"><![CDATA[CMEがSOLとXRPの先物オプション取引開始 北米最大の金融・商品デリバティブ取引市場CMEグループ（CME Group）が、暗号資産（仮想通貨）ソラナ（SOL）とエックスアールピー（XRP）の先物オプション取引を開始 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブラックロックCEO　資産のトークン化が「次の成長機会に」　伝統的金融資産がデジタル化すると予想]]></title>
         <id>https://jp.cointelegraph.com/news/blackrock-tokenization-digital-assets-crypto-shift</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[世界最大の資産運用会社ブラックロックのラリー・フィンクCEOは、今後数十年にわたり伝統的な金融資産がトークン化された形へと移行すると予想している。]]></summary>
         <author>
             <name>Cointelegraph  Stephen Katte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブラックロックCEO、資産トークン化を次の成長戦略に　620兆円市場狙う]]></title>
+        <id>https://coinpost.jp/?p=658018</id>
+        <link href="https://coinpost.jp/?p=658018"/>
+        <updated>2025-10-15T06:00:56.000Z</updated>
+        <summary type="html"><![CDATA[ブラックロックのラリー・フィンクCEOが、不動産から株式・債券まであらゆる資産のトークン化を次なる成長戦略と位置づけた。世界のデジタルウォレットに保管された約620兆円の資金に着目し、ETFのトークン化を視野に入れている。]]></summary>
+        <author>
+            <name>幸田直子</name>
         </author>
     </entry>
     <entry>
@@ -79,6 +99,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ソルメイトが75億円相当ソラナを購入、キャシー・ウッドのアークが主要株主に]]></title>
+        <id>https://coinpost.jp/?p=657991</id>
+        <link href="https://coinpost.jp/?p=657991"/>
+        <updated>2025-10-15T05:15:44.000Z</updated>
+        <summary type="html"><![CDATA[ナスダック上場のソルメイト・インフラストラクチャーがソラナ財団から75億円相当のSOLを15%割引で購入。米大手ヘッジファンドアーク・インベストが11.5%の同社株を保有している。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hinode TechnologiesがIOTAのノード運営に参加]]></title>
         <id>https://crypto-times.jp/?p=145487</id>
         <link href="https://crypto-times.jp/press-hinode-technologies-iota/"/>
@@ -100,6 +130,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[バイナンス、仮想通貨の上場費用告発を否定]]></title>
+        <id>https://coinpost.jp/?p=658041</id>
+        <link href="https://coinpost.jp/?p=658041"/>
+        <updated>2025-10-15T04:45:57.000Z</updated>
+        <summary type="html"><![CDATA[バイナンスはリミットレス・ラボのヘザリントンCEOがトークン供給量の8%要求を告発したことに対し、虚偽で名誉毀損的だと反論。取引所は上場手数料を請求していないと表明した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[仮想通貨市場の週末の暴落　マーケットメイカーによる「流動性の真空」が助長か]]></title>
         <id>https://jp.cointelegraph.com/news/19b-crypto-market-crash-controlled-deleveraging-cascade-analyst</id>
         <link href="https://jp.cointelegraph.com/news/19b-crypto-market-crash-controlled-deleveraging-cascade-analyst?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
@@ -107,6 +147,16 @@
         <summary type="html"><![CDATA[先週末に発生した仮想通貨市場での190億ドル規模の清算イベントを受け、投資家の間で意見が割れている。一部ではマーケットメイカーによる協調的な売り浴びせを指摘する声がある一方で、アナリストの中には自然なレバレッジ解消のサイクルだとみる向きもある。]]></summary>
         <author>
             <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ニューヨーク市、全米初の自治体仮想通貨専門局を設立]]></title>
+        <id>https://coinpost.jp/?p=658015</id>
+        <link href="https://coinpost.jp/?p=658015"/>
+        <updated>2025-10-15T04:20:00.000Z</updated>
+        <summary type="html"><![CDATA[ニューヨーク市のアダムス市長が行政命令に署名し、全米初となる自治体の仮想通貨・ブロックチェーン局を設立した。モイセス・レンドン氏が局長に任命され、責任ある仮想通貨の利用を促進する。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-16T12:34:35.218Z</updated>
+    <updated>2025-10-16T13:28:05.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オムニチェーン対応ステーブルコイン「USDT0」と「XAUt0」、ソラナ上で利用可能に]]></title>
+        <id>https://www.neweconomy.jp/?p=507217</id>
+        <link href="https://www.neweconomy.jp/posts/507217"/>
+        <updated>2025-10-16T12:45:24.000Z</updated>
+        <summary type="html"><![CDATA[USDT0とXAUt0がソラナで利用可能に ソラナ（Solana）ブロックチェーン上に、オムニチェーン対応ステーブルコイン「USDT0」および「XAUt0」が利用可能になった。USDT0の公式ブログより10月15日に発表 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンスが韓国の仮想通貨取引所Gopaxを買収　4年ぶりの韓国市場復帰へ]]></title>
+        <id>https://coinpost.jp/?p=658459</id>
+        <link href="https://coinpost.jp/?p=658459"/>
+        <updated>2025-10-16T12:37:26.000Z</updated>
+        <summary type="html"><![CDATA[バイナンスが韓国の仮想通貨取引所Gopaxの買収を完了。2年半の規制審査を経て承認され、2021年の撤退以来、4年ぶりに韓国市場へ復帰。流動性危機の救済として始まった買収が実現。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[クラーケンのイーサL2「Ink」、Aave v3のホワイトラベル版「Tydro」ローンチ]]></title>
         <id>https://www.neweconomy.jp/?p=506998</id>
@@ -2381,27 +2401,6 @@ Coincheck、ファンプラ（FPL）のIEOの申し込みを10月21日より開�
         <summary type="html"><![CDATA[仮想通貨市場は、金曜に発生した過去最大規模の急落の余波に揺れている。中央集権型取引所（CEX）では200億ドル超のポジションが清算され、分散型金融（DeFi）市場でも数億ドル規模の清算が発生した。]]></summary>
         <author>
             <name>Cointelegraph  Ray Salmond</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国家規模のCBDC実績を国内へ、ソラミツがステーブルコイン発行支援サービスを開始]]></title>
-        <id>https://www.coindeskjapan.com/?p=318933</id>
-        <link href="https://www.coindeskjapan.com/318933/"/>
-        <updated>2025-10-12T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ブロックチェーン開発企業のソラミツは10月10日、日本国内の事業者向けにステーブルコイン発行支援サービスを開始したと発表した。 同社が世界各国で培ってきた中央銀 ...
-国家規模のCBDC実績を国内へ、ソラミツがステーブルコイン発行支援サービスを開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨市場の暴落　「長期的なファンダメンタルズには影響せず」＝アナリスト]]></title>
-        <id>https://jp.cointelegraph.com/news/market-crash-no-long-term-fundamental-implications</id>
-        <link href="https://jp.cointelegraph.com/news/market-crash-no-long-term-fundamental-implications?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-10-12T00:51:54.000Z</updated>
-        <summary type="html"><![CDATA[投資調査を手掛けるコベイシレターによれば、金曜に発生した仮想通貨市場の急落では、一部の銘柄が24時間以内に最大95％下落したが、長期的な弱気転換やファンダメンタルズの悪化を示すものではないという。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-16T16:20:23.450Z</updated>
+    <updated>2025-10-16T16:45:34.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム　週足MACDで弱気シグナル点灯　過去には最大60％の下落局面も]]></title>
+        <id>https://jp.cointelegraph.com/news/ether-confirms-bearish-signal-last-time-60-percent-eth-price-drop</id>
+        <link href="https://jp.cointelegraph.com/news/ether-confirms-bearish-signal-last-time-60-percent-eth-price-drop?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-10-16T16:33:37.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム（ETH）の週足チャートで、移動平均線収束拡散（MACD）指標が「売りシグナル」を点灯した。過去のデータでは、このシグナル出現後に大幅な価格下落が繰り返し発生している。]]></summary>
+        <author>
+            <name>Cointelegraph  Nancy Lubale</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、11万ドル割れで買い圧力が再び強まるか？ RSIに強気シグナルも]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-trader-says-lock-in-dip-buyers-enter-below-110k</id>

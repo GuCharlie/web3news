@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=319369",
+          "author": "Shaurya Malwa",
+          "description": "香港取引時間の10月16日午後、ビットコイン（BTC）は11万1000ドル前後で推移した。中国がアメリカに対して新たな報復的貿易措置を発動したことで世界市場にリ ...\nトレーダーが中国の報復措置を懸念してリスク選好が冷める中、ビットコインは11万1000ドル付近で推移 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/319369/",
+          "publishedOn": "2025-10-16T08:10:00.000Z",
+          "wordCount": 1367,
+          "title": "トレーダーが中国の報復措置を懸念してリスク選好が冷める中、ビットコインは11万1000ドル付近で推移",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/01/shutterstock_1979306522.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=319344",
           "author": "廣瀬 優香",
           "description": "米政府閉鎖が続いているため、トレーダーは最新の経済指標の発表を得られず、市場に方向性の不確実性が生じている。こうした状況では、過去の政府閉鎖時に市場がどのように ...\n前回の米政府閉鎖は、ビットコインの底打ちとタイミングが一致 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -360,10 +370,25 @@
       "articles": []
     },
     {
-      "title": "サイバーエージェントビットコイン(CA bitcoin)に独占インタビュー",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=658387",
+          "author": "Enzo",
+          "description": "PayPalステーブルコインPYUSDの発行元Paxosが300兆ドルを誤発行後、約20分で全量焼却した。内部技術エラーが原因で、セキュリティ侵害や顧客資金への影響はないと発表。",
+          "link": "https://coinpost.jp/?p=658387",
+          "publishedOn": "2025-10-16T07:52:39.000Z",
+          "wordCount": 3311,
+          "title": "Paxos、PYUSD300兆ドル誤発行で緊急対応　セキュリティ被害はなし",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/Paxos-Logo-04-07.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/Paxos-Logo-04-07.png"
+        },
         {
           "id": "https://coinpost.jp/?p=658349",
           "author": "Ritsuki.Kumazawa",
@@ -1107,6 +1132,26 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=506948",
+          "author": "HitomotoToshikazu",
+          "description": "イーサリアム財団がMorphoで運用開始 イーサリアム財団（Ethereum Foundation）が、分散型レンディングプロトコル「モルフォ（Morpho）」で、イーサリアム（ETH）とステーブルコインを運用開始したと […]",
+          "link": "https://www.neweconomy.jp/posts/506948",
+          "publishedOn": "2025-10-16T08:22:05.000Z",
+          "wordCount": 772,
+          "title": "イーサリアム財団、DeFi「モルフォ」で2,400ETHと約6Mドル相当のステーブルコイン運用開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/16172145/f2f5275fab5f244001ebde0359cbfbf6.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=506939",
+          "author": "OtsugaShinya",
+          "description": "コインベースがCoinDCXに追加出資 米大手暗号資産（仮想通貨）取引所コインベース（Coinbase）が、インドの大手暗号資産取引所コインディーシーエックス（CoinDCX）への追加投資を10月15日に発表した。なお出 […]",
+          "link": "https://www.neweconomy.jp/posts/506939",
+          "publishedOn": "2025-10-16T08:02:10.000Z",
+          "wordCount": 726,
+          "title": "米コインベース、インドの暗号資産取引所「CoinDCX」に追加出資",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/16170207/ea8bb5e479e472a21c58ae5890746920.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=506925",
           "author": "gentosha_takahashi",
           "description": "BRICが訴訟終結を報告 ステーブルコイン発行会社テザー（Tether）が、暗号資産（仮想通貨）レンディング企業セルシウス・ネットワーク（Celsius Network）の破産管財人に2億9,950万ドル（約442億円） […]",
@@ -1573,6 +1618,22 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/ethereum-corporate-adoption-surged-eth-price-predictions",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "最新データによると、これまでに上場企業が保有するイーサリアム（ETH）のほとんどは、7月から9月のわずか3か月間に取得されたものであることが明らかになった。",
+          "link": "https://jp.cointelegraph.com/news/ethereum-corporate-adoption-surged-eth-price-predictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-16T08:03:03.000Z",
+          "wordCount": null,
+          "title": "上場企業によるイーサリアム購入　第3四半期に購入全体の95％を占める　第4四半期は上昇局面となるか",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTM1YjgtN2M2ZC03ODM4LTkzNzItYjVlNTVhYTdjNWRm.jpg",
+            "length": "528",
+            "type": "image/jpg",
+            "caption": "上場企業によるイーサリアム購入　第3四半期に購入全体の95％を占める　第4四半期は上昇局面となるか"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTM1YjgtN2M2ZC03ODM4LTkzNzItYjVlNTVhYTdjNWRm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitmine-appears-buy-the-dip-while-eth-down-from-peak",
           "author": "Cointelegraph  Martin Young",

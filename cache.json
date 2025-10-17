@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=319244",
+          "author": "橋本 祐樹",
+          "description": "暗号資産（仮想通貨）取引所bitbankを運営するビットバンクが公開した「LN Trends」最新号を転載してお届けします（LN：Lightning Netwo ...\nLN Trends 2025年9月（vol.11） first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/319244/",
+          "publishedOn": "2025-10-17T03:00:00.000Z",
+          "wordCount": 1504,
+          "title": "LN Trends 2025年9月（vol.11）",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/IMG_0997-768x512-1-768x512-1-768x512-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=319511",
           "author": "廣瀬 優香",
           "description": "複数の資産クラスでボラティリティ指数が急上昇する中、ビットコイン（BTC）価格は重要なサポートゾーンで不安定に推移している。 時価総額が世界最大の暗号資産（仮想 ...\nビットコイン、重要なサポートゾーンで苦戦──BTC、株式、金のボラティリティ指数が急上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -444,6 +454,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=658711",
+          "author": "Enzo",
+          "description": "コインベースが企業向けステーブルコイン決済プラットフォーム「Coinbase Business」を発表。USDC保有で年利4.1%、低手数料・即時決済でB2B決済の課題を解決。会計ソフト連携も対応。",
+          "link": "https://coinpost.jp/?p=658711",
+          "publishedOn": "2025-10-17T04:35:45.000Z",
+          "wordCount": 3248,
+          "title": "コインベース、ステーブルコイン決済プラットフォームを開始　USDC保有で年利4.1%",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/coinbase-thumbnail0.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/coinbase-thumbnail0.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=658732",
+          "author": "菊谷ルイス",
+          "description": "ユニスワップが非EVMネットワークとして初めてソラナに対応し、ウェブアプリでSOLトークンの直接スワップが可能になった。100万以上のトークンにアクセスでき、今後はブリッジングやクロスチェーン機能も予定している。",
+          "link": "https://coinpost.jp/?p=658732",
+          "publishedOn": "2025-10-17T04:20:41.000Z",
+          "wordCount": 3242,
+          "title": "ユニスワップがソラナ対応開始、非EVMチェーン初の統合実現",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/uniswap-solana-finally-got-int.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/uniswap-solana-finally-got-int.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=658681",
+          "author": "A.Yamada",
+          "description": "CryptoQuantが仮想通貨ビットコイン市場の近況を分析。短期的な上昇の勢いが弱化しているがデータは大口投資家の買い増しを示唆していると指摘。上昇再開の水準などを分析した。",
+          "link": "https://coinpost.jp/?p=658681",
+          "publishedOn": "2025-10-17T03:50:57.000Z",
+          "wordCount": 3158,
+          "title": "ビットコイン価格モメンタム弱まるも、クジラの買いは堅調＝CryptoQuant",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/07/big-whale-loosing-money-now.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/07/big-whale-loosing-money-now.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=658659",
+          "author": "S.Ninomiya",
+          "description": "ビットコインは前日比2.39%安の108,800ドルに下落。トランプ大統領が中国との貿易戦争継続を認め、月内の米中首脳会談を控える中で市場に緊張感が広がっている。VIX指数は5カ月ぶり高水準に急騰し、地銀の融資問題も重なり市場心理が悪化。一方で金価格高騰を背景にトークン化された金の時価総額が34億ドルに達するなど、リスク回避の動きが鮮明となっている。",
+          "link": "https://coinpost.jp/?p=658659",
+          "publishedOn": "2025-10-17T02:46:30.000Z",
+          "wordCount": 3193,
+          "title": "ビットコイン11万ドルを割り込み続落、米中首脳会談控え市場の緊張高まる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/gold-bitcoin-large-extent.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/gold-bitcoin-large-extent.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=658653",
           "author": "Enzo",
@@ -1412,6 +1482,76 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=507387",
+          "author": "OtsugaShinya",
+          "description": "JOC初のネイティブステーブルコイン発行へ 日本企業が運営するEVM（イーサリアムバーチャルマシン）互換の国産ブロックチェーン「ジャパンオープンチェーン（Japan Open Chain：JOC）」のネイティブステーブル […]",
+          "link": "https://www.neweconomy.jp/posts/507387",
+          "publishedOn": "2025-10-17T05:46:02.000Z",
+          "wordCount": 746,
+          "title": "JOC初のネイティブステーブルコイン「USDA」「JPYA」「EURA」発行へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/17144558/6ae88b61bd3b8ae79ade275c87c44e36.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=507348",
+          "author": "gentosha_takahashi",
+          "description": "インフレ対策としてBTC活用へ フロリダ州議会は2026年立法会期において、州の公的資金をデジタル資産に投資可能とする「下院法案183（HB 183）」を提出した。法案は、連邦政府による「戦略的ビットコイン準備金（Str […]",
+          "link": "https://www.neweconomy.jp/posts/507348",
+          "publishedOn": "2025-10-17T04:30:26.000Z",
+          "wordCount": 802,
+          "title": "フロリダ州、ビットコインなどデジタル資産を州財政に組み込む法案を提出",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/17133011/a3ddbe57cbea302057d81bc30a3db7a8.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=507337",
+          "author": "OtsugaShinya",
+          "description": "ユニスワップがソラナ対応開始 大手DEX（分散型取引所）のユニスワップ（Uniswap）が、レイヤー1ブロックチェーン「ソラナ（Solana）のサポートを開始した。ユニスワップ開発元のユニスワップラボ（Uniswap L […]",
+          "link": "https://www.neweconomy.jp/posts/507337",
+          "publishedOn": "2025-10-17T04:17:57.000Z",
+          "wordCount": 803,
+          "title": "ユニスワップがソラナ対応開始、ジュピターの「Jupiter Ultra API」採用で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/17131751/bed2eb1ddfac78dfbcfad67cf4cf559c.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=507322",
+          "author": "HitomotoToshikazu",
+          "description": "Ripple社がAbsa Bankと提携 米リップル（Ripple）社が、南アフリカ拠点の大手銀行グループ「アブサ・バンク（Absa Bank）」と戦略的パートナーシップを締結し、南アフリカの顧客向けにデジタル資産カスト […]",
+          "link": "https://www.neweconomy.jp/posts/507322",
+          "publishedOn": "2025-10-17T03:57:43.000Z",
+          "wordCount": 786,
+          "title": "リップルが南アフリカでデジタル資産カストディ提供へ、Absa Bankと提携で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/17125733/d29804dc73644be023c4126fc7df2540.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=507289",
+          "author": "OtsugaShinya",
+          "description": "ブレヒロがサービス継続決定 ブロックチェーンゲーム「ブレイブ フロンティア ヒーローズ：以下、ブレヒロ」のサービス継続が決定した。公式Xより10月17日に発表された。 ブレヒロは、開発・運営をおこなっていた国内ブロックチ […]",
+          "link": "https://www.neweconomy.jp/posts/507289",
+          "publishedOn": "2025-10-17T03:32:28.000Z",
+          "wordCount": 758,
+          "title": "ブレヒロがサービス継続決定、クラファンの目標金額5万ドル達成で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/17123219/dc8d11d4f05c7af283e11e3609c99df2.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=507282",
+          "author": "HitomotoToshikazu",
+          "description": "Ripple社がトレジャリーマネジメントGTreasury買収へ リップル（Ripple）社が、米大手トレジャリーマネジメント会社Gトレジャリー（GTreasury）を10億ドル（約1,501億円）で買収予定であると10 […]",
+          "link": "https://www.neweconomy.jp/posts/507282",
+          "publishedOn": "2025-10-17T03:30:36.000Z",
+          "wordCount": 773,
+          "title": "リップル社、米大手トレジャリーマネジメント会社GTreasuryを10億ドルで買収へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/17123000/226244c2045f350d6a2de22e17fbb145.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=507277",
+          "author": "HitomotoToshikazu",
+          "description": "Rootstock LabsがビットコインDeFiプログラム開始 ルートストックラボ（Rootstock Labs）が、機関投資家のビットコイン（Bitcoin）基盤のDeFi（分散型金融）アクセス拡大を目的とした新プロ […]",
+          "link": "https://www.neweconomy.jp/posts/507277",
+          "publishedOn": "2025-10-17T03:10:29.000Z",
+          "wordCount": 754,
+          "title": "ルートストックラボ、機関投資家向け「ビットコインDeFiプログラム」開始＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/17120951/BTC-251017PIXTA.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=507213",
           "author": "HitomotoToshikazu",
           "description": "BackpackがOpening Bell統合 海外暗号資産（仮想通貨）取引所バックパック（Backpack）が、米SEC（証券取引委員会）登録済み株式をソラナ（Solana）チェーン上で上場する初のCEX（中央集権取引 […]",
@@ -1938,6 +2078,22 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/gold-market-cap-soars-30-trillion-dwarfing-bitcoin-and-tech-giants",
+          "author": "Cointelegraph  Martin Young",
+          "description": "金（ゴールド）が1オンスあたり4357ドルの史上最高値をつけ、時価総額は過去最高の30兆ドルに達した。",
+          "link": "https://jp.cointelegraph.com/news/gold-market-cap-soars-30-trillion-dwarfing-bitcoin-and-tech-giants?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-17T04:59:08.000Z",
+          "wordCount": null,
+          "title": "金の時価総額が過去最高の30兆ドルに　ビットコインは追随できるか？",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzM0OGYtMzM1ZS03NWJjLTlmY2YtNjBlNDMyMWFmODkz.jpg",
+            "length": "528",
+            "type": "image/jpg",
+            "caption": "金の時価総額が過去最高の30兆ドルに　ビットコインは追随できるか？"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzM0OGYtMzM1ZS03NWJjLTlmY2YtNjBlNDMyMWFmODkz.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/ripple-acquisition-gtreasury-1b",
           "author": "Cointelegraph  Vince Quill",
@@ -2867,6 +3023,26 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=145682",
+          "author": "Crypto Times 編集部",
+          "description": "現在約300万ETH（約1.7兆円）以上を保有する米上場企業BitMineの会長トム・リー氏は、デジタル資産財務（DAT）企業のバブルはすでに弾けた可能性があるとの見解を示しました。デジタル資産財務企業とは、特定の仮想通 […]\n投稿 仮想通貨財務企業バブルは終焉？1.7兆円分のETH保有企業会長が指摘 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-is-the-crypto-finance-firm-bubble-over-chairman-of-worlds-largest-eth-holder-points-it-out/",
+          "publishedOn": "2025-10-17T06:11:19.000Z",
+          "wordCount": 571,
+          "title": "仮想通貨財務企業バブルは終焉？1.7兆円分のETH保有企業会長が指摘",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2024/02/shutterstock_2499348183.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=145679",
+          "author": "Crypto Times 編集部",
+          "description": "Aria Protocolは、音楽業界における新たな取り組みとして「リミックス可能なIP」の導入を発表しました。 Aria’s next chapter: Remixable IP. We started by brin […]\n投稿 AriaがRemixable IPを発表｜音楽IPのオンチェーン経済圏を拡大 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-aria-announces-remixable-ip-expanding-the-on-chain-economy-for-music-ip/",
+          "publishedOn": "2025-10-17T05:55:44.000Z",
+          "wordCount": 620,
+          "title": "AriaがRemixable IPを発表｜音楽IPのオンチェーン経済圏を拡大",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_1067793527.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=145656",
           "author": "よきょい",

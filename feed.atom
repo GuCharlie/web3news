@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-17T20:38:44.970Z</updated>
+    <updated>2025-10-17T21:13:37.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仏当局、バイナンス含む数十の仮想通貨取引所にマネロン検査]]></title>
+        <id>https://coinpost.jp/?p=658883</id>
+        <link href="https://coinpost.jp/?p=658883"/>
+        <updated>2025-10-17T20:40:21.000Z</updated>
+        <summary type="html"><![CDATA[フランスの監督当局ACPRがバイナンスなど数十の仮想通貨取引所にマネーロンダリング対策の検査を実施。EU全域での営業許可付与に向け、登録条件への準拠状況を確認する狙いだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、強気相場の終焉は間近か？ 「中期的には最大50％の下落調整が起こる可能性」]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-bull-run-over-traders-50-percent-btc-price-crash-warning</id>

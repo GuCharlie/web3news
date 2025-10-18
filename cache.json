@@ -565,6 +565,51 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=658988",
+          "author": "菊谷ルイス",
+          "description": "ワンキーがリブビットコイン・エクスプローラー3.xの脆弱性により約12万件のビットコイン秘密鍵がクラッキング可能になると報告した。トラストウォレットなど複数の製品が影響を受けている模様。",
+          "link": "https://coinpost.jp/?p=658988",
+          "publishedOn": "2025-10-18T04:55:05.000Z",
+          "wordCount": 3240,
+          "title": "OneKeyが12万件のビットコイン秘密鍵脆弱性を報告、トラストウォレットに影響か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/security0930-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/security0930-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=658983",
+          "author": "菊谷ルイス",
+          "description": "オープンシーCEOが2026年第1四半期のSEAトークン発行を発表した。総供給量の50%がコミュニティに配分され、収益の50%が買い戻しに使用される。ステーキング機能も実装予定だ。",
+          "link": "https://coinpost.jp/?p=658983",
+          "publishedOn": "2025-10-18T04:50:38.000Z",
+          "wordCount": 3233,
+          "title": "オープンシーが2026年1QにSEAトークン発行予定、供給量の50%をコミュニティへ配布",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/opensea-opt.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/opensea-opt.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=658972",
+          "author": "A.Yamada",
+          "description": "国際的な金融監督機関FSBが、ビットコインなど仮想通貨の規制実施状況を評価する報告書を発表。各国規制の断片化と一貫性の欠如を指摘し、ステーブルコイン監督の課題も述べた。",
+          "link": "https://coinpost.jp/?p=658972",
+          "publishedOn": "2025-10-18T04:05:44.000Z",
+          "wordCount": 3159,
+          "title": "G20、グローバルな仮想通貨規制の不足を指摘　ステーブルコインの課題も",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/g202_0412.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/g202_0412.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=658970",
           "author": "菊谷ルイス",
           "description": "登録者4億4600万人のユーチューバー、ミスタービーストが仮想通貨取引やDEX運営を含む金融プラットフォームの商標を申請した。バンキングや投資サービスも提供する計画だ。",
@@ -2444,6 +2489,22 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/price-predictions-10-17-btc-eth-bnb-xrp-sol-doge-ada-hype-link-xlm",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "米国の地方銀行ショックでビットコイン、イーサリアムをはじめ主要アルトコインが続落。10月のアップトーバー相場は再開できるか？",
+          "link": "https://jp.cointelegraph.com/news/price-predictions-10-17-btc-eth-bnb-xrp-sol-doge-ada-hype-link-xlm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-18T02:38:38.000Z",
+          "wordCount": null,
+          "title": "重要なサポートラインは？ 仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWYzMzQtMWY3Yy03OGYxLWIyMTEtMzI5N2RlMzhiZjFh.jpg",
+            "length": "528",
+            "type": "image/jpg",
+            "caption": "重要なサポートラインは？ 仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWYzMzQtMWY3Yy03OGYxLWIyMTEtMzI5N2RlMzhiZjFh.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/public-companies-hold-dollar110b-btc-but-which-are-profiting-from-the-bitcoin-standard",
           "author": "Cointelegraph  Biraajmaan Tamuly",
           "description": "上場企業による大規模なビットコイン（BTC）保有が、トレジャリー戦略の新たなモデルを形成しつつある。2025年10月17日時点で、これらの企業が管理するBTCは合計104万5887BTC、評価額にして約1100億ドルに達した。",
@@ -3437,6 +3498,66 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=145794",
+          "author": "よきょい",
+          "description": "リップル社は財務管理システム大手のGTreasuryを10億ドルで買収したことを発表しました。 We’re proud to announce @Ripple is acquiring treasury manageme […]\n投稿 リップル社、大手システム管理会社を10億ドルで買収。XRPの利用拡大なるか は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-ripple-acquires-major-system-management-company-for-1-billion-will-this-lead-to-increased-use-of-xrp/",
+          "publishedOn": "2025-10-18T06:04:54.000Z",
+          "wordCount": 597,
+          "title": "リップル社、大手システム管理会社を10億ドルで買収。XRPの利用拡大なるか",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_2146078207.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=145796",
+          "author": "よきょい",
+          "description": "ビットコイン（BTC）のマイニング事業者の収益性が悪化する中、多くの事業者がAIホスティング事業への転換を模索しています。 Binance Data Indicates That Since October 9, Min […]\n投稿 マイニング企業、AI事業へ大転換？54億ドル相当のBTC売り圧か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-mining-companies-shift-to-ai-business-selling-5-4-billion-worth-of-btc/",
+          "publishedOn": "2025-10-18T05:57:21.000Z",
+          "wordCount": 601,
+          "title": "マイニング企業、AI事業へ大転換？54億ドル相当のBTC売り圧か",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_2592459645.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=145790",
+          "author": "よきょい",
+          "description": "決済大手Visaはステーブルコインを基盤とする「プログラマブルマネー」が世界の金融の未来を形作るとの見解を示す包括的なレポートを発表しました。 レポートによると、この市場は急速に機関投資家の利用が拡大。2025年8月単月 […]\n投稿 伝統金融は「破壊される側」に？Visaが示す生き残りの道とは は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-will-traditional-finance-be-disrupted-visa-shows-us-the-path-to-survival/",
+          "publishedOn": "2025-10-18T05:50:45.000Z",
+          "wordCount": 562,
+          "title": "伝統金融は「破壊される側」に？Visaが示す生き残りの道とは",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_2529896335.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=145797",
+          "author": "よきょい",
+          "description": "フロリダ州で州が管理する年金基金などの公的資金の最大10%をビットコイン（BTC）を含むデジタル資産に投資することを可能にする法案が再び提出されました。 今回の法案は昨年の失敗を踏まえ資産の保管方法や管理体制を具体的に定 […]\n投稿 公的資金でBTC購入へ？米国でBTC投資法案が再提出 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-will-public-funds-be-used-to-purchase-bitcoin-us-resubmits-bitcoin-investment-bill/",
+          "publishedOn": "2025-10-18T05:40:25.000Z",
+          "wordCount": 558,
+          "title": "公的資金でBTC購入へ？米国でBTC投資法案が再提出",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_2314240133.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=145798",
+          "author": "よきょい",
+          "description": "決済ソリューション大手のリップル社が最大10億ドル規模のデジタル資産財務（DAT）を設立し暗号資産リップル（XRP）の長期的な準備資産として蓄積・管理する計画を準備していることが明らかになりました。 この取り組みはSPA […]\n投稿 リップル（XRP）に巨大な買い圧力。10億ドル財務計画が始動 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-huge-buying-pressure-on-xrp-as-1-billion-treasury-plan-kicks-off/",
+          "publishedOn": "2025-10-18T05:36:16.000Z",
+          "wordCount": 562,
+          "title": "リップル（XRP）に巨大な買い圧力。10億ドル財務計画が始動",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_1227211039.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=145799",
+          "author": "よきょい",
+          "description": "ビットコイン（BTC）のマイニング業界はネットワークの総計算能力を示すハッシュレートが史上初めて1ゼタハッシュを超える「ゼタハッシュ時代」に突入しました。これによりマイニング難易度は過去最高水準に達し、マイナーの収益性を […]\n投稿 マイニング収益悪化も株価は倍増。鍵はAIインフラか は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-stock-prices-double-despite-declining-mining-profits-is-ai-infrastructure-the-key/",
+          "publishedOn": "2025-10-18T05:30:28.000Z",
+          "wordCount": 559,
+          "title": "マイニング収益悪化も株価は倍増。鍵はAIインフラか",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_1008073765.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=145693",
           "author": "Crypto Times 編集部",

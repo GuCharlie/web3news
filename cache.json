@@ -510,10 +510,55 @@
       "articles": []
     },
     {
-      "title": "中国  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=659284",
+          "author": "AKIRA.H",
+          "description": "コンヴァノ（6574）はBTC高値売却・安値買戻しのトレーディング戦略で約7億円の利益を確保。保有量は665BTCに増加し、累計投資額は約114億円へ拡大。",
+          "link": "https://coinpost.jp/?p=659284",
+          "publishedOn": "2025-10-20T07:13:24.000Z",
+          "wordCount": 3259,
+          "title": "コンヴァノ、ビットコイン売買で7億円の利益確保　ディーリング戦略で保有BTC拡大",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/Convano0805.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/Convano0805.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=659255",
+          "author": "Enzo",
+          "description": "ニューヨーク市長選候補のクオモ氏が暗号資産振興へ新ポスト創設を公約。最高技術革新責任者とイノベーション評議会を設置し、AI・ブロックチェーン・バイオテクノロジーの3分野で市を先導する方針を表明。ウォール街を擁するニューヨークの暗号資産政策に注目集まる。",
+          "link": "https://coinpost.jp/?p=659255",
+          "publishedOn": "2025-10-20T05:25:04.000Z",
+          "wordCount": 3242,
+          "title": "NY市長選クオモ候補、仮想通貨振興へ新ポスト創設を公約",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/newyorkoffice030921.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/newyorkoffice030921.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=659179",
+          "author": "A.Yamada",
+          "description": "仮想通貨マイニング企業のパフォーマンスが年初来2.5倍超上昇しビットコインを上回っている。アイリスエナジーやサイファーマイニングなどAI・HPC事業への転換が株価上昇の背景だ。",
+          "link": "https://coinpost.jp/?p=659179",
+          "publishedOn": "2025-10-20T03:04:31.000Z",
+          "wordCount": 3256,
+          "title": "仮想通貨マイナー株価、ビットコイン上回る上昇　AIシフト背景に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/solo-mining-bitcoin.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/solo-mining-bitcoin.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=659130",
           "author": "Enzo",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-20T23:13:49.350Z</updated>
+    <updated>2025-10-20T23:35:23.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コインベース、米財務省にマネロン対策規則の全面見直しを要請]]></title>
+        <id>https://coinpost.jp/?p=659469</id>
+        <link href="https://coinpost.jp/?p=659469"/>
+        <updated>2025-10-20T23:30:18.000Z</updated>
+        <summary type="html"><![CDATA[米財務省に仮想通貨規制改革を要請コインベースが先週、米国財務省に対し、数十年前のマネーロンダリング対策規則の全面見直しを求めた。同社は、仮想通貨における不正資金対策には強化された取り締まりではなく、イノベーションが鍵だと主張している。コイン...]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イギリスで仮想通貨ETP解禁、ブラックロックなど個人投資家向けに上場]]></title>
+        <id>https://coinpost.jp/?p=659463</id>
+        <link href="https://coinpost.jp/?p=659463"/>
+        <updated>2025-10-20T23:10:33.000Z</updated>
+        <summary type="html"><![CDATA[21シェアーズ、ビットワイズ、ウィズダムツリーがビットコインとイーサリアムの上場投資商品を英国の個人投資家向けに初めて開放した。当局が4年間の販売禁止を解除。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[X、非アクティブアカウントのユーザー名を売買する新市場を開設　デジタルIDの収益化を加速]]></title>
         <id>https://jp.cointelegraph.com/news/x-inactive-handle-marketplace-digital-identity-assets</id>
@@ -2197,16 +2217,6 @@ G.U.Group、ステーブルコイン発行へ──円建てなど3種類 first 
 投稿 【今日の暗号資産ニュース】BTC下落は買い増しチャンス？ナスダック企業がリップル採用。 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クラーケンのイーサL2「Ink」、Aave v3のホワイトラベル版「Tydro」ローンチ]]></title>
-        <id>https://www.neweconomy.jp/?p=506998</id>
-        <link href="https://www.neweconomy.jp/posts/506998"/>
-        <updated>2025-10-16T11:14:52.000Z</updated>
-        <summary type="html"><![CDATA[InkがTydroローンチ 海外大手暗号資産（仮想通貨）取引所クラーケン（Kraken）とインク財団（Ink Foundation）がインキュベートするイーサリアム（Ethereum）レイヤー2ソリューション「インク（I […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
         </author>
     </entry>
 </feed>

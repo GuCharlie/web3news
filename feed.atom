@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-20T20:41:09.982Z</updated>
+    <updated>2025-10-20T21:14:31.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンスが600超のアカウント禁止、違反ツール使用で永久資格剥奪へ]]></title>
+        <id>https://coinpost.jp/?p=659435</id>
+        <link href="https://coinpost.jp/?p=659435"/>
+        <updated>2025-10-20T20:58:05.000Z</updated>
+        <summary type="html"><![CDATA[違反ツール使用で永久資格剥奪へ仮想通貨取引所バイナンスは、無許可のサードパーティツールを使用した600以上のアカウントを禁止したと19日に中国語のX公式アカウントで発表した。声明によると、先週チームの審査により違反ツールを使用したアカウント...]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットマインが先週大規模なイーサリアム押し目買いを実施、株価8%反発]]></title>
+        <id>https://coinpost.jp/?p=659422</id>
+        <link href="https://coinpost.jp/?p=659422"/>
+        <updated>2025-10-20T20:45:55.000Z</updated>
+        <summary type="html"><![CDATA[ビットマインがETH保有量323万枚、総資産2兆円に到達したと発表。過去1週間で20万枚以上のETHを取得し、供給量の5%取得目標に向けて半分を超えた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SBIやリップルが出資、エバーノースが1500億円超調達でXRP保有企業として上場へ]]></title>
         <id>https://coinpost.jp/?p=659418</id>
@@ -2117,37 +2137,6 @@ G.U.Group、ステーブルコイン発行へ──円建てなど3種類 first 
 パクソス、誤操作でペイパルのステーブルコインPYUSDを300兆ドル分発行 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[セムラー・サイエンティフィック株主、ビットコイン保有企業ストライブとの合併差し止めを求め提訴]]></title>
-        <id>https://jp.cointelegraph.com/news/shareholder-sues-semler-scientific-to-block-strive-merger</id>
-        <link href="https://jp.cointelegraph.com/news/shareholder-sues-semler-scientific-to-block-strive-merger?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-10-16T08:58:53.000Z</updated>
-        <summary type="html"><![CDATA[医療テクノロジー企業セムラー・サイエンティフィックの株主が、ヴィヴェック・ラマスワミ氏が率いるビットコイントレジャリー企業ストライブとの合併を阻止するため、訴訟を起こした。]]></summary>
-        <author>
-            <name>Cointelegraph  Amin Haqshanas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本円建てステーブルコイン「JPYC」の発行迫る、N.Avenueが事業導入講座を11月5日開催]]></title>
-        <id>https://www.coindeskjapan.com/?p=319365</id>
-        <link href="https://www.coindeskjapan.com/319365/"/>
-        <updated>2025-10-16T08:53:40.000Z</updated>
-        <summary type="html"><![CDATA[2023年に施行された改正資金決済法により「電子決済手段」としての規制が明確化され、国内でのステーブルコイン発行・利用に向けた環境が整いました。今秋にはいよいよ ...
-日本円建てステーブルコイン「JPYC」の発行迫る、N.Avenueが事業導入講座を11月5日開催 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>CoinDesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン　「上昇維持には新たな材料が必要」＝グラスノード分析]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-price-forecast-uncertain-crypto-analysts-divided</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-price-forecast-uncertain-crypto-analysts-divided?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-10-16T08:43:12.000Z</updated>
-        <summary type="html"><![CDATA[グラスノードによれば、ビットコイン（BTC）は、投資家の関心を再び引きつけるような新たな材料が出てこない限り、上昇トレンドを維持するのは難しいという。]]></summary>
-        <author>
-            <name>Cointelegraph  Ciaran Lyons</name>
         </author>
     </entry>
 </feed>

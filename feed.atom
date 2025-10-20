@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-20T20:18:33.812Z</updated>
+    <updated>2025-10-20T20:41:09.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SBIやリップルが出資、エバーノースが1500億円超調達でXRP保有企業として上場へ]]></title>
+        <id>https://coinpost.jp/?p=659418</id>
+        <link href="https://coinpost.jp/?p=659418"/>
+        <updated>2025-10-20T20:30:23.000Z</updated>
+        <summary type="html"><![CDATA[新設企業エバーノースがSPACとの統合により10億ドル超を調達し、XRP保有企業としてナスダックに上場予定。SBIから2億ドル、リップルやパンテラ・キャピタルなどが出資し、機関向け融資やDeFi収益事業に参加する。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2025年最新版】カルダノ（ADA）の買い方完全ガイド｜初心者向けおすすめ取引所と購入手順を徹底解説]]></title>
         <id>https://www.coindeskjapan.com/?p=317754</id>
@@ -2138,38 +2148,6 @@ G.U.Group、ステーブルコイン発行へ──円建てなど3種類 first 
         <summary type="html"><![CDATA[グラスノードによれば、ビットコイン（BTC）は、投資家の関心を再び引きつけるような新たな材料が出てこない限り、上昇トレンドを維持するのは難しいという。]]></summary>
         <author>
             <name>Cointelegraph  Ciaran Lyons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10万7000ドルから11万ドルの支持帯を守れなかった場合、ビットコインはどこまで暴落する？：テクニカル分析]]></title>
-        <id>https://www.coindeskjapan.com/?p=319374</id>
-        <link href="https://www.coindeskjapan.com/319374/"/>
-        <updated>2025-10-16T08:35:00.000Z</updated>
-        <summary type="html"><![CDATA[10月10日の暴落後のビットコイン（BTC）価格の回復は微妙なもので、価格は重要な支持ゾーンに危険なほど接近したままとなっている。ここでの結果が大きな動きの舞台 ...
-10万7000ドルから11万ドルの支持帯を守れなかった場合、ビットコインはどこまで暴落する？：テクニカル分析 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リミックスポイント、社長交代後ビットコイン購入ペース加速──10月5度目の報告]]></title>
-        <id>https://www.coindeskjapan.com/?p=319378</id>
-        <link href="https://www.coindeskjapan.com/319378/"/>
-        <updated>2025-10-16T08:32:36.000Z</updated>
-        <summary type="html"><![CDATA[リミックスポイントは10月15日、同14日にビットコイン（BTC）を追加取得したことを発表した。10月に入ってから同社がビットコインの購入を報告するのは、今回で ...
-リミックスポイント、社長交代後ビットコイン購入ペース加速──10月5度目の報告 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム財団、DeFi「モルフォ」で2,400ETHと約6Mドル相当のステーブルコイン運用開始]]></title>
-        <id>https://www.neweconomy.jp/?p=506948</id>
-        <link href="https://www.neweconomy.jp/posts/506948"/>
-        <updated>2025-10-16T08:22:05.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム財団がMorphoで運用開始 イーサリアム財団（Ethereum Foundation）が、分散型レンディングプロトコル「モルフォ（Morpho）」で、イーサリアム（ETH）とステーブルコインを運用開始したと […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
 </feed>

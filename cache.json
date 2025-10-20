@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=319994",
+          "author": "Will Canny",
+          "description": "ビリオネアの双子ウィンクルボス（Winklevoss）兄弟が創設した暗号資産取引所のジェミナイは、ソラナ（SOL）報酬の自動ステーキング機能を備えたジェミナイク ...\n暗号資産取引所ジェミナイ、自動ステーキング機能付きソラナクレジットカードをリリース first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/319994/",
+          "publishedOn": "2025-10-20T22:30:00.000Z",
+          "wordCount": 1331,
+          "title": "暗号資産取引所ジェミナイ、自動ステーキング機能付きソラナクレジットカードをリリース",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/f8973989ef6f990ba087bd3cb595fec84fdbe807-1920x1080-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=319983",
           "author": "林 理南",
           "description": "投資銀行ジェフリーズ（Jefferies）によると、ビットコイン（BTC）価格が2%下落してネットワークのハッシュレートが約9%上昇したことにより、ビットコイン ...\nビットコインマイニングの収益性、9月に7%以上低下：ジェフリーズ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -574,6 +584,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=659443",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨取引所Geminiは、ソラナ版クレジットカードのローンチを発表。同社としては初めて、カード利用によって獲得したSOL報酬を希望者が自動的にステーキングできる機能を提供する。",
+          "link": "https://coinpost.jp/?p=659443",
+          "publishedOn": "2025-10-20T22:30:25.000Z",
+          "wordCount": 3266,
+          "title": "Gemini、ソラナ版クレジットカードをローンチ　キャッシュバックの自動ステーキング機能を提供",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/Gemini-SOL-Card.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/Gemini-SOL-Card.png"
+        },
         {
           "id": "https://coinpost.jp/?p=659442",
           "author": "菊谷ルイス",
@@ -1728,6 +1753,22 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/us-shutdown-third-week-senate-democrats-plan-crypto-roundtable",
+          "author": "Cointelegraph  Nate Kostar",
+          "description": "政府閉鎖が長期化するなか、米上院は閉鎖を終わらせるための採決を準備している。一方で、議員らは水曜日に仮想通貨業界のリーダーらと会合を開き、停滞している市場構造法案について協議する予定だ。",
+          "link": "https://jp.cointelegraph.com/news/us-shutdown-third-week-senate-democrats-plan-crypto-roundtable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-20T22:29:58.000Z",
+          "wordCount": null,
+          "title": "米政府閉鎖が4週目に突入　上院民主党が仮想通貨円卓会議を計画",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODRmMmQtMzY4OS03M2YzLTk0M2MtYTMwMDEwMWFjOWI1.jpg",
+            "length": "528",
+            "type": "image/jpg",
+            "caption": "米政府閉鎖が4週目に突入　上院民主党が仮想通貨円卓会議を計画"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODRmMmQtMzY4OS03M2YzLTk0M2MtYTMwMDEwMWFjOWI1.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/price-predictions-10-20-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-hype",
           "author": "Cointelegraph  Rakesh Upadhyay",

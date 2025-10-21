@@ -615,6 +615,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=659812",
+          "author": "菊谷ルイス",
+          "description": "金の現物価格が火曜日に5.3%以上下落し4125ドルとなった。ビットワイズは金市場からわずか3%から4%の資金移動でビットコインが2倍になる可能性があると分析。",
+          "link": "https://coinpost.jp/?p=659812",
+          "publishedOn": "2025-10-21T21:00:28.000Z",
+          "wordCount": 3272,
+          "title": "金価格、2020年以来の下落幅　ビットコインへ資金移動か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/Digitl-gold_1011.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/Digitl-gold_1011.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=659806",
+          "author": "菊谷ルイス",
+          "description": "米FRBのクリストファー・ウォーラー理事が仮想通貨関連金融機関向けに簡易版マスターアカウントを発行する構想を発表した。FRB決済システムへの直接アクセスを可能にする新たな取り組みとなる。",
+          "link": "https://coinpost.jp/?p=659806",
+          "publishedOn": "2025-10-21T20:30:10.000Z",
+          "wordCount": 3256,
+          "title": "米FRB、仮想通貨企業向けに簡易版マスターアカウント構想を発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/01/frb-new-new.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/01/frb-new-new.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=659636",
           "author": "Ritsuki.Kumazawa",
           "description": "日銀の氷見野副総裁は21日、ステーブルコインが国際決済システムの主要プレーヤーとして浮上する可能性があると指摘。世界の資産の半分がノンバンク保有で規制の枠組みが追いつかない現状に警鐘を鳴らした。",
@@ -1288,21 +1318,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/stablecoin_jpy2-1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/stablecoin_jpy2-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=658416",
-          "author": "hiroto.yoshii",
-          "description": "音楽ファンクラブ運営大手Fanplusと協業するFanplaは14日、暗号資産「Fanpla（FPL）」のIEO（InitialExchangeOffering）をコインチェックで実施すると発表した。購入申し込みは10月21日に開始され、1...",
-          "link": "https://coinpost.jp/?p=658416",
-          "publishedOn": "2025-10-17T08:56:22.000Z",
-          "wordCount": 3811,
-          "title": "ファンプラのIEO参加方法と注目ポイント｜コインチェックの実績、申込前に知るべき情報まとめ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/Fanpla-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/Fanpla-1.png"
         }
       ]
     },
@@ -1600,16 +1615,6 @@
           "wordCount": 821,
           "title": "【10/17話題】JOC初のネイティブステーブルコイン、ブレヒロがサービス継続決定、SBI VCトレードがデフコンサルティング支援など（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/17235008/e629b58e3b40164705465301e04ec378.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=507446",
-          "author": "OtsugaShinya",
-          "description": "パクソスが300兆ドル相当のステーブルコインを誤発行 ステーブルコイン「PYUSD（PayPal USD）」を発行する米パクソス（Paxos）が、約300兆ドル（約4京6,500兆円）相当のPYUSDを誤って発行したこと […]",
-          "link": "https://www.neweconomy.jp/posts/507446",
-          "publishedOn": "2025-10-17T08:53:31.000Z",
-          "wordCount": 792,
-          "title": "パクソス、誤って300兆ドル相当のPYUSD発行。その後すぐに焼却",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/17175258/4a7eebc878fe46eb32892c7fab81f3ab.jpg"
         }
       ]
     },
@@ -1618,6 +1623,22 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/spacex-moves-257m-in-bitcoin-reigniting-questions-over-its-crypto-play",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "宇宙開発企業スペースXが、2億5700万ドル相当のビットコイン（BTC）を移動させた。わずか3か月で2度目となる大規模送金であり、同社を取り巻く財務的・政治的圧力が強まる中、売却の可能性をめぐる憶測が広がっている。",
+          "link": "https://jp.cointelegraph.com/news/spacex-moves-257m-in-bitcoin-reigniting-questions-over-its-crypto-play?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-21T21:00:00.000Z",
+          "wordCount": null,
+          "title": "イーロン・マスク氏のスペースX　2億5700万ドル分のビットコインを移動　過去3か月で2度目の送金",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTA2NGItZWIxOC03MTUzLWExZGYtNjkxYzc5MDI4ZjM2.jpg",
+            "length": "528",
+            "type": "image/jpg",
+            "caption": "イーロン・マスク氏のスペースX　2億5700万ドル分のビットコインを移動　過去3か月で2度目の送金"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTA2NGItZWIxOC03MTUzLWExZGYtNjkxYzc5MDI4ZjM2.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-whales-move-into-etfs-blackrock-ibit",
           "author": "Cointelegraph  Sam Bourgi",

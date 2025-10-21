@@ -610,16 +610,6 @@
           "wordCount": 1415,
           "title": "伝統的金融界に現れた「ゴキブリ」がビットコインを痛撃、だがFRBの対応は強気材料となる可能性も",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/shutterstock_2654108343.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=319481",
-          "author": "Omkar Godbole",
-          "description": "暗号資産の強気筋にとってはあまりにもお馴染みの展開となっているが、10月16日に価格は再び急激に下落した。対照的に、金と銀は再び、史上最高値を更新した。  ビッ ...\nビットコイン、10万9000ドルを割り込む──暗号資産苦戦の背景には流動性の逼迫 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/319481/",
-          "publishedOn": "2025-10-16T20:00:07.000Z",
-          "wordCount": 1398,
-          "title": "ビットコイン、10万9000ドルを割り込む──暗号資産苦戦の背景には流動性の逼迫",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/shutterstock_2116163015.jpg"
         }
       ]
     },
@@ -634,6 +624,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=659599",
+          "author": "幸田直子",
+          "description": "イーサリアム共同創設者ヴィタリック・ブテリン氏が、ZK証明を高速化する新技術「GKRプロトコル」を解説した。従来のSTARKと比較して約10分の1のコストで検証が可能になるという。長期目標「Lean Ethereum」の実現に向けた重要技術として注目される。",
+          "link": "https://coinpost.jp/?p=659599",
+          "publishedOn": "2025-10-21T08:06:50.000Z",
+          "wordCount": 3281,
+          "title": "ヴィタリック、ゼロ知識証明を10倍高速化する新技術「GKRプロトコル」を解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": ""
+          },
+          "imageUrl": "https://coinpost.jp/wp-content/uploads/2025/08/eth-new-eth.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=659622",
           "author": "AKIRA.H",
@@ -1617,6 +1622,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=508101",
+          "author": "OtsugaShinya",
+          "description": "NOT A GARAGE購入者向けの暗号資産担保ローン 大和証券グループとクレディセゾンの合弁会社フィンターテック（Fintertech）が、「NOT A GARAGE」購入者向けのデジタルアセット担保ローン提供開始を1 […]",
+          "link": "https://www.neweconomy.jp/posts/508101",
+          "publishedOn": "2025-10-21T07:41:36.000Z",
+          "wordCount": 779,
+          "title": "フィンターテック、「NOT A GARAGE」購入者向け「デジタルアセット担保ローン」提供開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/21164132/344f459df86d176e81be63cb24984c2f.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=508018",
           "author": "HitomotoToshikazu",
           "description": "VANECK LIDO STAKED ETHEREUM ETF申請 米資産運用会社ヴァンエック（VanEck）が、リキッドステーキングプロトコル「ライド（Lido）」のLST（リキッドステーキングトークン）「stETH」 […]",
@@ -2414,22 +2429,6 @@
             "caption": "トランプ大統領　仮想通貨帝国で資産急増　一族の関連事業で年間10億ドル超の利益か"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2IwM2EtNGExYy03MjQ2LTg4OTQtNWI3YzU1NmI0ZGY2.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/dinosaur-coins-season-why-are-zcash-dash-biggest-rebounds",
-          "author": "Cointelegraph  Yashu Gola",
-          "description": "プライバシー重視の仮想通貨ジーキャッシュ（ZEC）とダッシュ（DASH）が、先週金曜から土曜にかけて発生した仮想通貨市場暴落後、最も大きく反発した銘柄の1つとなっている。",
-          "link": "https://jp.cointelegraph.com/news/dinosaur-coins-season-why-are-zcash-dash-biggest-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-10-16T19:40:59.000Z",
-          "wordCount": null,
-          "title": "古参コインの復活？ ジーキャッシュとダッシュ　プライバシー重視の仮想通貨に関心",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWVjODAtNGIyOS03M2E4LWFkYWYtMjg1ZWExNWNkY2Rj.jpg",
-            "length": "528",
-            "type": "image/jpg",
-            "caption": "古参コインの復活？ ジーキャッシュとダッシュ　プライバシー重視の仮想通貨に関心"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWVjODAtNGIyOS03M2E4LWFkYWYtMjg1ZWExNWNkY2Rj.jpg"
         }
       ]
     },
@@ -2438,6 +2437,36 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=146071",
+          "author": "よきょい",
+          "description": "2025年10月11日、大手暗号資産取引所バイナンスで発生したシステム障害により、多くのトレーダーが巨額の損失を被ったと主張しています。市場の急落時に損失を限定するための重要なリスク管理注文がシステムに拒否され続けたこと […]\n投稿 市場崩壊はバイナンスが原因？トレーダーが語る恐怖の106分間 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-is-binance-to-blame-for-the-market-crash-traders-talk-about-the-terrifying-106-minutes/",
+          "publishedOn": "2025-10-21T08:04:48.000Z",
+          "wordCount": 614,
+          "title": "市場崩壊はバイナンスが原因？トレーダーが語る恐怖の106分間",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_2174473901.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=146069",
+          "author": "よきょい",
+          "description": "金価格が歴史的な高騰を見せ法定通貨への信頼が揺らぐ中、ビットコインが世界の基軸通貨となる「ハイパービッコイニゼーション」が現実味を帯びてきたとの見方が浮上しています。 What if hyperbitcoinizatio […]\n投稿 ゴールド高騰はBTC基軸通貨化への前兆？法定通貨への不信広がる は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-is-the-rise-in-gold-prices-a-sign-that-btc-will-become-a-reserve-currency-distrust-of-fiat-currencies-is-spreading/",
+          "publishedOn": "2025-10-21T07:51:23.000Z",
+          "wordCount": 571,
+          "title": "ゴールド高騰はBTC基軸通貨化への前兆？法定通貨への不信広がる",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_2114879588-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=146072",
+          "author": "よきょい",
+          "description": "暗号資産市場が力強い回復を見せビットコイン（BTC）は11万ドル、イーサリアム（ETH）は4,000ドルの大台をそれぞれ突破しました。米中間の関税問題に端を発した下落の後、投資家の間で「押し目買い」の動きが活発化したこと […]\n投稿 ビットコイン、V字回復。買いの主役は新規資金 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitcoin-makes-a-v-shaped-recovery-new-funds-are-the-main-buyers/",
+          "publishedOn": "2025-10-21T07:38:03.000Z",
+          "wordCount": 580,
+          "title": "ビットコイン、V字回復。買いの主役は新規資金",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_2062151351.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=146074",
           "author": "よきょい",

@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-21T07:37:41.546Z</updated>
+    <updated>2025-10-21T08:22:19.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ヴィタリック、ゼロ知識証明を10倍高速化する新技術「GKRプロトコル」を解説]]></title>
+        <id>https://coinpost.jp/?p=659599</id>
+        <link href="https://coinpost.jp/?p=659599"/>
+        <updated>2025-10-21T08:06:50.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム共同創設者ヴィタリック・ブテリン氏が、ZK証明を高速化する新技術「GKRプロトコル」を解説した。従来のSTARKと比較して約10分の1のコストで検証が可能になるという。長期目標「Lean Ethereum」の実現に向けた重要技術として注目される。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[市場崩壊はバイナンスが原因？トレーダーが語る恐怖の106分間]]></title>
+        <id>https://crypto-times.jp/?p=146071</id>
+        <link href="https://crypto-times.jp/news-is-binance-to-blame-for-the-market-crash-traders-talk-about-the-terrifying-106-minutes/"/>
+        <updated>2025-10-21T08:04:48.000Z</updated>
+        <summary type="html"><![CDATA[2025年10月11日、大手暗号資産取引所バイナンスで発生したシステム障害により、多くのトレーダーが巨額の損失を被ったと主張しています。市場の急落時に損失を限定するための重要なリスク管理注文がシステムに拒否され続けたこと […]
+投稿 市場崩壊はバイナンスが原因？トレーダーが語る恐怖の106分間 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゴールド高騰はBTC基軸通貨化への前兆？法定通貨への不信広がる]]></title>
+        <id>https://crypto-times.jp/?p=146069</id>
+        <link href="https://crypto-times.jp/news-is-the-rise-in-gold-prices-a-sign-that-btc-will-become-a-reserve-currency-distrust-of-fiat-currencies-is-spreading/"/>
+        <updated>2025-10-21T07:51:23.000Z</updated>
+        <summary type="html"><![CDATA[金価格が歴史的な高騰を見せ法定通貨への信頼が揺らぐ中、ビットコインが世界の基軸通貨となる「ハイパービッコイニゼーション」が現実味を帯びてきたとの見方が浮上しています。 What if hyperbitcoinizatio […]
+投稿 ゴールド高騰はBTC基軸通貨化への前兆？法定通貨への不信広がる は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フィンターテック、「NOT A GARAGE」購入者向け「デジタルアセット担保ローン」提供開始]]></title>
+        <id>https://www.neweconomy.jp/?p=508101</id>
+        <link href="https://www.neweconomy.jp/posts/508101"/>
+        <updated>2025-10-21T07:41:36.000Z</updated>
+        <summary type="html"><![CDATA[NOT A GARAGE購入者向けの暗号資産担保ローン 大和証券グループとクレディセゾンの合弁会社フィンターテック（Fintertech）が、「NOT A GARAGE」購入者向けのデジタルアセット担保ローン提供開始を1 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、V字回復。買いの主役は新規資金]]></title>
+        <id>https://crypto-times.jp/?p=146072</id>
+        <link href="https://crypto-times.jp/news-bitcoin-makes-a-v-shaped-recovery-new-funds-are-the-main-buyers/"/>
+        <updated>2025-10-21T07:38:03.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産市場が力強い回復を見せビットコイン（BTC）は11万ドル、イーサリアム（ETH）は4,000ドルの大台をそれぞれ突破しました。米中間の関税問題に端を発した下落の後、投資家の間で「押し目買い」の動きが活発化したこと […]
+投稿 ビットコイン、V字回復。買いの主役は新規資金 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTC最高値でもアルトシーズンが来ない理由]]></title>
         <id>https://crypto-times.jp/?p=146074</id>
@@ -2382,27 +2435,6 @@ G.U.Group、ステーブルコイン発行へ──円建てなど3種類 first 
 伝統的金融界に現れた「ゴキブリ」がビットコインを痛撃、だがFRBの対応は強気材料となる可能性も first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Stephen Alpher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、10万9000ドルを割り込む──暗号資産苦戦の背景には流動性の逼迫]]></title>
-        <id>https://www.coindeskjapan.com/?p=319481</id>
-        <link href="https://www.coindeskjapan.com/319481/"/>
-        <updated>2025-10-16T20:00:07.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産の強気筋にとってはあまりにもお馴染みの展開となっているが、10月16日に価格は再び急激に下落した。対照的に、金と銀は再び、史上最高値を更新した。  ビッ ...
-ビットコイン、10万9000ドルを割り込む──暗号資産苦戦の背景には流動性の逼迫 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古参コインの復活？ ジーキャッシュとダッシュ　プライバシー重視の仮想通貨に関心]]></title>
-        <id>https://jp.cointelegraph.com/news/dinosaur-coins-season-why-are-zcash-dash-biggest-rebounds</id>
-        <link href="https://jp.cointelegraph.com/news/dinosaur-coins-season-why-are-zcash-dash-biggest-rebounds?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-10-16T19:40:59.000Z</updated>
-        <summary type="html"><![CDATA[プライバシー重視の仮想通貨ジーキャッシュ（ZEC）とダッシュ（DASH）が、先週金曜から土曜にかけて発生した仮想通貨市場暴落後、最も大きく反発した銘柄の1つとなっている。]]></summary>
-        <author>
-            <name>Cointelegraph  Yashu Gola</name>
         </author>
     </entry>
 </feed>

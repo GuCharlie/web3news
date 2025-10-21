@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=320111",
+          "author": "林 理南",
+          "description": "ビットコイン（BTC）は、「上昇の10月」と呼ばれる歴史的に最も好調な月の一つでも苦戦が続いており、現在5%以上下落して10万8000ドル（約1620万円、1ド ...\nビットコイン、重要なテクニカル水準で攻防──「上昇の10月」モメンタムが弱まる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/320111/",
+          "publishedOn": "2025-10-21T16:41:17.000Z",
+          "wordCount": 1369,
+          "title": "ビットコイン、重要なテクニカル水準で攻防──「上昇の10月」モメンタムが弱まる",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/Nd654328b70774afd296072d9f84e095a7eb8507c-3200x1800-2.png"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=320101",
           "author": "林 理南",
           "description": "ビットコイン（BTC）は、協定世界時（UTC）午前9時20分時点で10万8000ドル（約1620万円、1ドル150円換算）を下回って取引されていた。3億2000 ...\nビットコイン、10万8000ドルを割り込む──過剰レバレッジ解消で3億2000万ドルの清算 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -1338,36 +1348,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/0605_metaplanet-A.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/0605_metaplanet-A.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=658711",
-          "author": "Enzo",
-          "description": "コインベースが企業向けステーブルコイン決済プラットフォーム「Coinbase Business」を発表。USDC保有で年利4.1%、低手数料・即時決済でB2B決済の課題を解決。会計ソフト連携も対応。",
-          "link": "https://coinpost.jp/?p=658711",
-          "publishedOn": "2025-10-17T04:35:45.000Z",
-          "wordCount": 3248,
-          "title": "コインベース、ステーブルコイン決済プラットフォームを開始　USDC保有で年利4.1%",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/coinbase-thumbnail0.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/coinbase-thumbnail0.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=658732",
-          "author": "菊谷ルイス",
-          "description": "ユニスワップが非EVMネットワークとして初めてソラナに対応し、ウェブアプリでSOLトークンの直接スワップが可能になった。100万以上のトークンにアクセスでき、今後はブリッジングやクロスチェーン機能も予定している。",
-          "link": "https://coinpost.jp/?p=658732",
-          "publishedOn": "2025-10-17T04:20:41.000Z",
-          "wordCount": 3242,
-          "title": "ユニスワップがソラナ対応開始、非EVMチェーン初の統合実現",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/uniswap-solana-finally-got-int.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/uniswap-solana-finally-got-int.jpg"
         }
       ]
     },
@@ -1735,16 +1715,6 @@
           "wordCount": 746,
           "title": "JOC初のネイティブステーブルコイン「USDA」「JPYA」「EURA」発行へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/17144558/6ae88b61bd3b8ae79ade275c87c44e36.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=507348",
-          "author": "gentosha_takahashi",
-          "description": "インフレ対策としてBTC活用へ フロリダ州議会は2026年立法会期において、州の公的資金をデジタル資産に投資可能とする「下院法案183（HB 183）」を提出した。法案は、連邦政府による「戦略的ビットコイン準備金（Str […]",
-          "link": "https://www.neweconomy.jp/posts/507348",
-          "publishedOn": "2025-10-17T04:30:26.000Z",
-          "wordCount": 802,
-          "title": "フロリダ州、ビットコインなどデジタル資産を州財政に組み込む法案を提出",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/17133011/a3ddbe57cbea302057d81bc30a3db7a8.jpg"
         }
       ]
     },
@@ -1753,6 +1723,22 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/solana-price-bounce-below-180-double-bottom-hints-40-percent-rally",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "ソラナ（SOL）は日足チャートでダブルボトムのパターンを見せており、今後数週間で250ドル付近への回復が視野に入ってきた。",
+          "link": "https://jp.cointelegraph.com/news/solana-price-bounce-below-180-double-bottom-hints-40-percent-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-21T16:33:12.000Z",
+          "wordCount": null,
+          "title": "ソラナ 250ドルへの上昇なるか？ 日足チャートでダブルボトム形成",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGY2NjEtMzY3NS03ODQwLWEwYWQtYWM2YTM4NmEzMjgz.jpg",
+            "length": "528",
+            "type": "image/jpg",
+            "caption": "ソラナ 250ドルへの上昇なるか？ 日足チャートでダブルボトム形成　"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGY2NjEtMzY3NS03ODQwLWEwYWQtYWM2YTM4NmEzMjgz.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-price-taps-110k-btc-price-diverges-from-5-gold-drop",
           "author": "Cointelegraph  William Suberg",

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=320033",
+          "author": "Krisztian Sandor",
+          "description": "ファンドストラット（Fundstrat）のトム・リー（Tom Lee）氏が率いるイーサリアム（ETH）特化型暗号資産（仮想通貨）財務企業、ビットマイン・イマージ ...\nトム・リー氏のビットマイン、8億ドル相当のETHを追加購入…ETH保有額は130億ドルを超える first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/320033/",
+          "publishedOn": "2025-10-21T08:35:00.000Z",
+          "wordCount": 1338,
+          "title": "トム・リー氏のビットマイン、8億ドル相当のETHを追加購入…ETH保有額は130億ドルを超える",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/13c2f3d8f4a14835d564bac5cf5d5cdd106bdcfd-990x660-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=319995",
           "author": "廣瀬 優香",
           "description": "ネバダ州に新たに設立された企業、エバーノース・ホールディングス（Evernorth Holdings）は、ブランクチェックカンパニー（特別買収目的会社：SPAC ...\nSBIやリップル出資の企業、10億ドル調達で「世界最大の上場XRPトレジャリー企業」設立へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -600,16 +610,6 @@
           "wordCount": 1371,
           "title": "ステーブルコイン、国境を越えた決済コストを99％削減可能：KPMG",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/shutterstock_2187760611.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=319486",
-          "author": "Stephen Alpher",
-          "description": "米国株式市場は10月16日、景気減速に加え信用問題が表面化し始めたことを受け、下落している。 JPモルガンのCEOであるジェイミー・ダイモン氏は、15日に開かれ ...\n伝統的金融界に現れた「ゴキブリ」がビットコインを痛撃、だがFRBの対応は強気材料となる可能性も first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/319486/",
-          "publishedOn": "2025-10-16T20:30:07.000Z",
-          "wordCount": 1415,
-          "title": "伝統的金融界に現れた「ゴキブリ」がビットコインを痛撃、だがFRBの対応は強気材料となる可能性も",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/shutterstock_2654108343.jpg"
         }
       ]
     },
@@ -624,6 +624,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=659636",
+          "author": "Ritsuki.Kumazawa",
+          "description": "日銀の氷見野副総裁は21日、ステーブルコインが国際決済システムの主要プレーヤーとして浮上する可能性があると指摘。世界の資産の半分がノンバンク保有で規制の枠組みが追いつかない現状に警鐘を鳴らした。",
+          "link": "https://coinpost.jp/?p=659636",
+          "publishedOn": "2025-10-21T08:30:04.000Z",
+          "wordCount": 3246,
+          "title": "日銀副総裁、ステーブルコインが国際決済の中核担う可能性を指摘",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/stablecoin_jpy2-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/stablecoin_jpy2-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=659599",
           "author": "幸田直子",
@@ -1583,36 +1598,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/robinhood-wallet-1.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/robinhood-wallet-1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=658595",
-          "author": "菊谷ルイス",
-          "description": "ブラックロックはジーニアス法に対応するマネーマーケットファンドBSTBLを刷新したとCNBCが報じた。ステーブルコイン発行者向けに国債重視のマンデートで再設計された。",
-          "link": "https://coinpost.jp/?p=658595",
-          "publishedOn": "2025-10-16T20:45:30.000Z",
-          "wordCount": 3237,
-          "title": "ブラックロック、米ステーブルコイン規制対応のマネーマーケットファンドを提供へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/blackrock-bitcoin.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/blackrock-bitcoin.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=658591",
-          "author": "菊谷ルイス",
-          "description": "リップルは財務管理システムの世界的リーダーであるGトレジャリーを10億ドルで買収すると発表した。数兆ドル規模の企業財務市場（DAT）に参入し、大手企業顧客への直接アクセスを獲得する狙いだ。",
-          "link": "https://coinpost.jp/?p=658591",
-          "publishedOn": "2025-10-16T20:30:22.000Z",
-          "wordCount": 3252,
-          "title": "リップルが企業財務事業に参入、Gトレジャリーを150億円で買収",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/07/ripple-corp_20190712.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/07/ripple-corp_20190712.jpg"
         }
       ]
     },
@@ -2438,6 +2423,16 @@
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
         {
+          "id": "https://crypto-times.jp/?p=146070",
+          "author": "よきょい",
+          "description": "複数の分散型金融（DeFi）プロジェクトにおいて、エアドロップ（無償配布）に関連する新たな動きが発表されました。HyperEVMを基盤とするプロジェクトを中心にユーザーへのインセンティブ提供が活発化しています。 おはよう […]\n投稿 【今日の仮想通貨”無料”配布ニュース】HyperEVMプロジェクトを中心にインセンティブ提供が活発化 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-incentives-are-increasingly-being-offered-especially-for-the-hyperevm-project/",
+          "publishedOn": "2025-10-21T08:38:53.000Z",
+          "wordCount": 597,
+          "title": "【今日の仮想通貨”無料”配布ニュース】HyperEVMプロジェクトを中心にインセンティブ提供が活発化",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_2275581463.jpg"
+        },
+        {
           "id": "https://crypto-times.jp/?p=146071",
           "author": "よきょい",
           "description": "2025年10月11日、大手暗号資産取引所バイナンスで発生したシステム障害により、多くのトレーダーが巨額の損失を被ったと主張しています。市場の急落時に損失を限定するための重要なリスク管理注文がシステムに拒否され続けたこと […]\n投稿 市場崩壊はバイナンスが原因？トレーダーが語る恐怖の106分間 は CRYPTO TIMES に最初に表示されました。",
@@ -2506,6 +2501,16 @@
           "wordCount": 560,
           "title": "AmazonでBTC商標問題発生。大規模削除の理由とは",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_1125578261.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=146068",
+          "author": "よきょい",
+          "description": "10月21日、ビットコイン（BTC）の価格は107,800ドル前後で推移しており、イーサリアム（ETH）は約3,870ドル、ソラナ（SOL）は約184ドルで取引されています。世界の暗号資産時価総額は3.75兆ドルで、ビッ […]\n投稿 【今日の暗号資産ニュース】ゴールド高騰でBTCへの注目集まる。市場崩壊はバイナンスが原因？ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-gold-price-surge-draws-attention-to-btc-is-binance-to-blame-for-market-collapse/",
+          "publishedOn": "2025-10-21T03:42:39.000Z",
+          "wordCount": 583,
+          "title": "【今日の暗号資産ニュース】ゴールド高騰でBTCへの注目集まる。市場崩壊はバイナンスが原因？",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_2503768467.jpg"
         },
         {
           "id": "https://crypto-times.jp/?p=146058",

@@ -570,16 +570,6 @@
           "wordCount": 1330,
           "title": "暗号資産ネイティブ投資家が市場下落を牽引している可能性が高い：JPモルガン",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/c397ec470875d547d7ecf10a967c19f1a197d7fc-1919x1080-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=319685",
-          "author": "栃山直樹",
-          "description": "三菱UFJ銀行、三井住友銀行、みずほ銀行の3メガバンクが、円やドルなどの法定通貨に価値を連動させるステーブルコインを共同で発行する計画であると10月17日、日経 ...\n3メガバンク、共同で円建てステーブルコイン発行へ──日経報じる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/319685/",
-          "publishedOn": "2025-10-17T11:24:32.000Z",
-          "wordCount": 1259,
-          "title": "3メガバンク、共同で円建てステーブルコイン発行へ──日経報じる",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/shutterstock_2538380021.jpg"
         }
       ]
     },
@@ -1603,6 +1593,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/11b-bitcoin-whale-235m-btc-short-market-crash",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "110億ドル規模の資産を保有するビットコインのクジラ（大口投資家）が再び大規模なショートポジションを取った。関税問題や米政府の一部閉鎖を背景に、一部の大口投資家が仮想通貨市場のさらなる下落に備えてヘッジを進めている。",
+          "link": "https://jp.cointelegraph.com/news/11b-bitcoin-whale-235m-btc-short-market-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-21T23:19:15.000Z",
+          "wordCount": null,
+          "title": "ビットコインのクジラ　再び巨額ショートポジションを構築　関税懸念と政府閉鎖で市場下落に備え",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTA3ZWEtMTUyYy03YTk2LTliNDktY2QwMGFjNTQ0YTFj.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTA3ZWEtMTUyYy03YTk2LTliNDktY2QwMGFjNTQ0YTFj.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/sharplink-eth-holdings-35b-ethereum-treasury",
           "author": "Cointelegraph  Nate Kostar",

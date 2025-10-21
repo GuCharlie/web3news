@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-21T23:14:34.150Z</updated>
+    <updated>2025-10-21T23:36:33.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインのクジラ　再び巨額ショートポジションを構築　関税懸念と政府閉鎖で市場下落に備え]]></title>
+        <id>https://jp.cointelegraph.com/news/11b-bitcoin-whale-235m-btc-short-market-crash</id>
+        <link href="https://jp.cointelegraph.com/news/11b-bitcoin-whale-235m-btc-short-market-crash?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-10-21T23:19:15.000Z</updated>
+        <summary type="html"><![CDATA[110億ドル規模の資産を保有するビットコインのクジラ（大口投資家）が再び大規模なショートポジションを取った。関税問題や米政府の一部閉鎖を背景に、一部の大口投資家が仮想通貨市場のさらなる下落に備えてヘッジを進めている。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、11万2000ドル超えまで反発──金と銀は急落]]></title>
         <id>https://www.coindeskjapan.com/?p=320138</id>
@@ -2331,17 +2341,6 @@ XRP、SOLは強気相場に──ビットコイン、イーサリアムは低�
 投稿 トランプ関税の暴落は好機か｜ChatGPTが注目するアルトコイン3選 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3メガバンク、共同で円建てステーブルコイン発行へ──日経報じる]]></title>
-        <id>https://www.coindeskjapan.com/?p=319685</id>
-        <link href="https://www.coindeskjapan.com/319685/"/>
-        <updated>2025-10-17T11:24:32.000Z</updated>
-        <summary type="html"><![CDATA[三菱UFJ銀行、三井住友銀行、みずほ銀行の3メガバンクが、円やドルなどの法定通貨に価値を連動させるステーブルコインを共同で発行する計画であると10月17日、日経 ...
-3メガバンク、共同で円建てステーブルコイン発行へ──日経報じる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>栃山直樹</name>
         </author>
     </entry>
 </feed>

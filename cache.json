@@ -1368,21 +1368,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/uniswap-solana-finally-got-int.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/uniswap-solana-finally-got-int.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=658681",
-          "author": "A.Yamada",
-          "description": "CryptoQuantが仮想通貨ビットコイン市場の近況を分析。短期的な上昇の勢いが弱化しているがデータは大口投資家の買い増しを示唆していると指摘。上昇再開の水準などを分析した。",
-          "link": "https://coinpost.jp/?p=658681",
-          "publishedOn": "2025-10-17T03:50:57.000Z",
-          "wordCount": 3158,
-          "title": "ビットコイン価格モメンタム弱まるも、クジラの買いは堅調＝CryptoQuant",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/07/big-whale-loosing-money-now.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/07/big-whale-loosing-money-now.jpg"
         }
       ]
     },
@@ -1760,26 +1745,6 @@
           "wordCount": 802,
           "title": "フロリダ州、ビットコインなどデジタル資産を州財政に組み込む法案を提出",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/17133011/a3ddbe57cbea302057d81bc30a3db7a8.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=507337",
-          "author": "OtsugaShinya",
-          "description": "ユニスワップがソラナ対応開始 大手DEX（分散型取引所）のユニスワップ（Uniswap）が、レイヤー1ブロックチェーン「ソラナ（Solana）のサポートを開始した。ユニスワップ開発元のユニスワップラボ（Uniswap L […]",
-          "link": "https://www.neweconomy.jp/posts/507337",
-          "publishedOn": "2025-10-17T04:17:57.000Z",
-          "wordCount": 803,
-          "title": "ユニスワップがソラナ対応開始、ジュピターの「Jupiter Ultra API」採用で",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/17131751/bed2eb1ddfac78dfbcfad67cf4cf559c.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=507322",
-          "author": "HitomotoToshikazu",
-          "description": "Ripple社がAbsa Bankと提携 米リップル（Ripple）社が、南アフリカ拠点の大手銀行グループ「アブサ・バンク（Absa Bank）」と戦略的パートナーシップを締結し、南アフリカの顧客向けにデジタル資産カスト […]",
-          "link": "https://www.neweconomy.jp/posts/507322",
-          "publishedOn": "2025-10-17T03:57:43.000Z",
-          "wordCount": 786,
-          "title": "リップルが南アフリカでデジタル資産カストディ提供へ、Absa Bankと提携で",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/17125733/d29804dc73644be023c4126fc7df2540.jpg"
         }
       ]
     },
@@ -1788,6 +1753,22 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-price-taps-110k-btc-price-diverges-from-5-gold-drop",
+          "author": "Cointelegraph  William Suberg",
+          "description": "金価格が急落する中、ビットコイン（BTC）の買い手と売り手がウォール街での取引開始時から主導権を争う展開となっている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-price-taps-110k-btc-price-diverges-from-5-gold-drop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-21T15:47:00.000Z",
+          "wordCount": null,
+          "title": "ビットコイン 11万ドルを突破して反発　一方で金価格は急落",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTA3MzktMzc4Ny03MmVlLWFlNDItMGE3Y2Y2OTc4YjRl.jpg",
+            "length": "528",
+            "type": "image/jpg",
+            "caption": "ビットコイン 11万ドルを突破して反発　一方で金価格は急落"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTA3MzktMzc4Ny03MmVlLWFlNDItMGE3Y2Y2OTc4YjRl.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-1021",
           "author": "Cointelegraph  ビットバンク　長谷川友哉",

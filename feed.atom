@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-21T15:39:18.845Z</updated>
+    <updated>2025-10-21T16:20:33.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン 11万ドルを突破して反発　一方で金価格は急落]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-price-taps-110k-btc-price-diverges-from-5-gold-drop</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-price-taps-110k-btc-price-diverges-from-5-gold-drop?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-10-21T15:47:00.000Z</updated>
+        <summary type="html"><![CDATA[金価格が急落する中、ビットコイン（BTC）の買い手と売り手がウォール街での取引開始時から主導権を争う展開となっている。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、10万8000ドルを割り込む──過剰レバレッジ解消で3億2000万ドルの清算]]></title>
         <id>https://www.coindeskjapan.com/?p=320101</id>
@@ -2281,36 +2291,6 @@ XRP、SOLは強気相場に──ビットコイン、イーサリアムは低�
         <summary type="html"><![CDATA[ユニスワップが非EVMネットワークとして初めてソラナに対応し、ウェブアプリでSOLトークンの直接スワップが可能になった。100万以上のトークンにアクセスでき、今後はブリッジングやクロスチェーン機能も予定している。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ユニスワップがソラナ対応開始、ジュピターの「Jupiter Ultra API」採用で]]></title>
-        <id>https://www.neweconomy.jp/?p=507337</id>
-        <link href="https://www.neweconomy.jp/posts/507337"/>
-        <updated>2025-10-17T04:17:57.000Z</updated>
-        <summary type="html"><![CDATA[ユニスワップがソラナ対応開始 大手DEX（分散型取引所）のユニスワップ（Uniswap）が、レイヤー1ブロックチェーン「ソラナ（Solana）のサポートを開始した。ユニスワップ開発元のユニスワップラボ（Uniswap L […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップルが南アフリカでデジタル資産カストディ提供へ、Absa Bankと提携で]]></title>
-        <id>https://www.neweconomy.jp/?p=507322</id>
-        <link href="https://www.neweconomy.jp/posts/507322"/>
-        <updated>2025-10-17T03:57:43.000Z</updated>
-        <summary type="html"><![CDATA[Ripple社がAbsa Bankと提携 米リップル（Ripple）社が、南アフリカ拠点の大手銀行グループ「アブサ・バンク（Absa Bank）」と戦略的パートナーシップを締結し、南アフリカの顧客向けにデジタル資産カスト […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン価格モメンタム弱まるも、クジラの買いは堅調＝CryptoQuant]]></title>
-        <id>https://coinpost.jp/?p=658681</id>
-        <link href="https://coinpost.jp/?p=658681"/>
-        <updated>2025-10-17T03:50:57.000Z</updated>
-        <summary type="html"><![CDATA[CryptoQuantが仮想通貨ビットコイン市場の近況を分析。短期的な上昇の勢いが弱化しているがデータは大口投資家の買い増しを示唆していると指摘。上昇再開の水準などを分析した。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>

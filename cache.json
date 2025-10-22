@@ -1453,36 +1453,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=658988",
-          "author": "菊谷ルイス",
-          "description": "ワンキーがリブビットコイン・エクスプローラー3.xの脆弱性により約12万件のビットコイン秘密鍵がクラッキング可能になると報告した。トラストウォレットなど複数の製品が影響を受けている模様。",
-          "link": "https://coinpost.jp/?p=658988",
-          "publishedOn": "2025-10-18T04:55:05.000Z",
-          "wordCount": 3240,
-          "title": "OneKeyが12万件のビットコイン秘密鍵脆弱性を報告、トラストウォレットに影響か",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/security0930-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/security0930-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=658983",
-          "author": "菊谷ルイス",
-          "description": "オープンシーCEOが2026年第1四半期のSEAトークン発行を発表した。総供給量の50%がコミュニティに配分され、収益の50%が買い戻しに使用される。ステーキング機能も実装予定だ。",
-          "link": "https://coinpost.jp/?p=658983",
-          "publishedOn": "2025-10-18T04:50:38.000Z",
-          "wordCount": 3233,
-          "title": "オープンシーが2026年1QにSEAトークン発行予定、供給量の50%をコミュニティへ配布",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/opensea-opt.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/opensea-opt.jpeg"
         }
       ]
     },
@@ -1868,6 +1838,22 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/arthur-hayes-bitcoin-1m-japan-pm-economic-stimulus",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "日本の新たな首相に就任した高市早苗氏は、物価上昇の影響を緩和するための経済刺激策を指示した。一部の仮想通貨関係者は、この政策がビットコインへの資金流入を加速させる可能性があると見ている。",
+          "link": "https://jp.cointelegraph.com/news/arthur-hayes-bitcoin-1m-japan-pm-economic-stimulus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-22T17:04:17.000Z",
+          "wordCount": null,
+          "title": "高市新首相でビットコインが100万ドルに？ アーサー・ヘイズ氏が大胆予測",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTBiYWQtMTAyYy03NzlkLWI5YTctM2E4Y2Y3YWQ5ZGUz.jpg",
+            "length": "528",
+            "type": "image/jpg",
+            "caption": "高市新首相でビットコインが100万ドルに？ アーサー・ヘイズ氏が大胆予測"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTBiYWQtMTAyYy03NzlkLWI5YTctM2E4Y2Y3YWQ5ZGUz.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-1022",
           "author": "Cointelegraph  ビットバンク　長谷川友哉",

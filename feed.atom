@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-22T16:48:10.644Z</updated>
+    <updated>2025-10-22T17:14:21.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[高市新首相でビットコインが100万ドルに？ アーサー・ヘイズ氏が大胆予測]]></title>
+        <id>https://jp.cointelegraph.com/news/arthur-hayes-bitcoin-1m-japan-pm-economic-stimulus</id>
+        <link href="https://jp.cointelegraph.com/news/arthur-hayes-bitcoin-1m-japan-pm-economic-stimulus?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-10-22T17:04:17.000Z</updated>
+        <summary type="html"><![CDATA[日本の新たな首相に就任した高市早苗氏は、物価上昇の影響を緩和するための経済刺激策を指示した。一部の仮想通貨関係者は、この政策がビットコインへの資金流入を加速させる可能性があると見ている。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインの「避けられない」10万ドル割れ、その水準で買える最後のチャンスになる可能性：スタンダードチャータード]]></title>
         <id>https://www.coindeskjapan.com/?p=320398</id>
@@ -2491,26 +2501,6 @@ XRP、SOLは強気相場に──ビットコイン、イーサリアムは低�
 投稿 マイニング収益悪化も株価は倍増。鍵はAIインフラか は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OneKeyが12万件のビットコイン秘密鍵脆弱性を報告、トラストウォレットに影響か]]></title>
-        <id>https://coinpost.jp/?p=658988</id>
-        <link href="https://coinpost.jp/?p=658988"/>
-        <updated>2025-10-18T04:55:05.000Z</updated>
-        <summary type="html"><![CDATA[ワンキーがリブビットコイン・エクスプローラー3.xの脆弱性により約12万件のビットコイン秘密鍵がクラッキング可能になると報告した。トラストウォレットなど複数の製品が影響を受けている模様。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オープンシーが2026年1QにSEAトークン発行予定、供給量の50%をコミュニティへ配布]]></title>
-        <id>https://coinpost.jp/?p=658983</id>
-        <link href="https://coinpost.jp/?p=658983"/>
-        <updated>2025-10-18T04:50:38.000Z</updated>
-        <summary type="html"><![CDATA[オープンシーCEOが2026年第1四半期のSEAトークン発行を発表した。総供給量の50%がコミュニティに配分され、収益の50%が買い戻しに使用される。ステーキング機能も実装予定だ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

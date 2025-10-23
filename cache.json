@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=320441",
+          "author": "廣瀬 優香",
+          "description": "テスラ（Tesla）は引き続き1万1509BTCを保有しており、第3四半期末時点の評価額は約13億5000万ドル（約2050億円）だった（本日時点の評価額はやや ...\nテスラ、第3四半期にビットコイン保有で8000万ドルの利益計上 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/320441/",
+          "publishedOn": "2025-10-23T02:00:00.000Z",
+          "wordCount": 1361,
+          "title": "テスラ、第3四半期にビットコイン保有で8000万ドルの利益計上",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/4290d2e5ba7140f5d65f68d3183a9abb87c098a4-3840x2160-2.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=320428",
           "author": "栃山直樹",
           "description": "日本郵政キャピタルは10月22日、SUSHI TOP MARKETINGへの出資を実行したことを発表した。 SUSHI TOPは、特許取得済みの「ウォレットレス ...\n日本郵政キャピタル、ウォレットレスNFT技術のSUSHI TOPに出資 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -689,6 +699,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=660169",
+          "author": "A.Yamada",
+          "description": "米民主党議員らがウィトコフ中東特使に保有する仮想通貨などについて情報提供を求めた。トランプ一族のWLFI関連で利益相反の可能性を指摘している。",
+          "link": "https://coinpost.jp/?p=660169",
+          "publishedOn": "2025-10-23T02:15:10.000Z",
+          "wordCount": 3191,
+          "title": "米民主党議員ら、トランプ政権中東特使に仮想通貨開示要求　利益相反を指摘",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/trump-genius-act-pure-genius.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/trump-genius-act-pure-genius.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=660178",
+          "author": "Enzo",
+          "description": "ナスダック上場のハイパーリキッド・ストラテジーズが最大10億ドル（約1,500億円）の資金調達を目指すS-1をSECに提出した。HYPEトークン購入を含む。7月設立後、早くも大規模増資計画。",
+          "link": "https://coinpost.jp/?p=660178",
+          "publishedOn": "2025-10-23T01:45:00.000Z",
+          "wordCount": 3273,
+          "title": "ハイパーリキッド・ストラテジーズ、最大約1500億円調達をSECに提出　HYPEトークン購入含む",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/hyperliquid-token-all-time-high.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/hyperliquid-token-all-time-high.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=660164",
+          "author": "K.Kobayashi",
+          "description": "計2600億円超相当の仮想通貨ビットコインが、マイニングプールLuBianに関連するウォレットから移動。トランザクションは4つに分けられて別々のアドレスに送金されている。",
+          "link": "https://coinpost.jp/?p=660164",
+          "publishedOn": "2025-10-23T01:30:45.000Z",
+          "wordCount": 3187,
+          "title": "計2600億円相当のビットコイン、ハッキングされたLuBian関連のウォレットから移動",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/bitcoin-whale_0517.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/bitcoin-whale_0517.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=660173",
+          "author": "K.Kobayashi",
+          "description": "Bitwiseは、ゴールドの価格上昇は仮想通貨ビットコインにとって好材料であるとの見方を示した。ゴールドの価格上昇の要因や市況を分析した上で、ビットコインにも同様のことが起きうると予測している。",
+          "link": "https://coinpost.jp/?p=660173",
+          "publishedOn": "2025-10-23T01:16:36.000Z",
+          "wordCount": 3192,
+          "title": "「ビットコインにとって2025年のゴールド高騰は好材料」Bitwiseが市況分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/gold-bitcoin-large-extent.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/gold-bitcoin-large-extent.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=570768",
           "author": "CoinPost編集部",
@@ -2652,6 +2722,16 @@
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
         {
+          "id": "https://crypto-times.jp/?p=146248",
+          "author": "よきょい",
+          "description": "10月、ビットコイン（BTC）と金の価格はほとんど相関しない動きを見せており、BTCに対する「デジタルゴールド」という通説に疑問を投げかけています。 月の半ばまで金が約10%上昇した一方でビットコインは約6%下落。両資産 […]\n投稿 「デジタルゴールド」は幻想？BTCと金が非相関 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-is-digital-gold-a-myth-bitcoin-and-gold-are-uncorrelated/",
+          "publishedOn": "2025-10-23T02:36:24.000Z",
+          "wordCount": 569,
+          "title": "「デジタルゴールド」は幻想？BTCと金が非相関",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_1924633922.jpg"
+        },
+        {
           "id": "https://crypto-times.jp/?p=146177",
           "author": "よきょい",
           "description": "10月22日、ビットコイン（BTC）の価格は107,800ドル前後で推移しており、イーサリアム（ETH）は約3,830ドル、ソラナ（SOL）は約183ドルで取引されています。世界の暗号資産時価総額は3.75兆ドルで、ビッ […]\n投稿 【今日の暗号資産ニュース】BTC利回りが価格上昇のきっかけに？CPIに注目集まる は CRYPTO TIMES に最初に表示されました。",
@@ -2970,16 +3050,6 @@
           "wordCount": 562,
           "title": "メタプラネット株、6.5%の急落｜BTCリスク直撃で含み益大幅減",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_2435703525.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=145846",
-          "author": "よきょい",
-          "description": "株式会社メタプラネットが保有するビットコイン（BTC）の含み益が大幅に減少。ピーク時には903億円に達していましたが、記事執筆時点で62億円となっています。 現在のビットコイン価格は1,609万円。メタプラネットの平均取 […]\n投稿 BTC含み益903億円から62億円に。メタプラネットに何が？ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-bitcoin-unrealized-profits-from-90-3-billion-yen-to-6-2-billion-yen-what-happened-to-metaplanet/",
-          "publishedOn": "2025-10-18T14:26:20.000Z",
-          "wordCount": 558,
-          "title": "BTC含み益903億円から62億円に。メタプラネットに何が？",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_2156028147.jpg"
         }
       ]
     }

@@ -866,16 +866,6 @@
           "wordCount": 1414,
           "title": "ブラックロックのビットコインETP、ロンドン証券取引所で取引開始",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/07a827345ccc0e20ebc51a483d901d483c6fcf4f-1919x1080-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=319903",
-          "author": "Siamak Masnavi",
-          "description": "コインベース・インスティテューショナル（Coinbase Institutional）がグラスノード（Glassnode）と共同で作成した2025年第4四半期報 ...\nコインベース、第4四半期の見通しを発表──暗号資産市場を押し上げる可能性のある3つの要因を強調 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/319903/",
-          "publishedOn": "2025-10-20T09:10:00.000Z",
-          "wordCount": 1421,
-          "title": "コインベース、第4四半期の見通しを発表──暗号資産市場を押し上げる可能性のある3つの要因を強調",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/shutterstock_2226806119-1.jpg"
         }
       ]
     },
@@ -890,6 +880,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=660703",
+          "author": "菊谷ルイス",
+          "description": "スペースXが24日に約204億円相当のビットコインを移動したとアーカム・インテリジェンスが報告した。",
+          "link": "https://coinpost.jp/?p=660703",
+          "publishedOn": "2025-10-24T20:50:40.000Z",
+          "wordCount": 3259,
+          "title": "スペースX、今週2度目のビットコイン大量移動　ウォレット再編成か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/new-elon.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/new-elon.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=660701",
           "author": "菊谷ルイス",
@@ -2029,21 +2034,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/frb-powell.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/frb-powell.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=659291",
-          "author": "Ritsuki.Kumazawa",
-          "description": "AIフュージョンキャピタルグループがビットコイン約1億円分を追加購入。累計購入額4億円、時価評価額は5億円超に。BitGoや博報堂との提携でWEB3.0事業を本格化。",
-          "link": "https://coinpost.jp/?p=659291",
-          "publishedOn": "2025-10-20T08:47:11.000Z",
-          "wordCount": 3259,
-          "title": "AIフュージョンキャピタル、ビットコインを追加購入　保有量30 BTCに",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/bank-crypto-occ-dereg.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/bank-crypto-occ-dereg.jpg"
         }
       ]
     },
@@ -2569,6 +2559,22 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/pumpfun-acquires-padre-trading-terminal-solana-memecoins",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "ソラナベースのミームコインローンチパッド「Pump.fun」は、マルチチェーン対応の取引ターミナル「パドレ」を買収した。",
+          "link": "https://jp.cointelegraph.com/news/pumpfun-acquires-padre-trading-terminal-solana-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-24T21:00:00.000Z",
+          "wordCount": null,
+          "title": "ソラナベースのミームコインローンチパッド「Pump fun」、取引ターミナルのパドレを買収",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2UzMzYtMDZiMC03NzlkLWI4N2ItNzZkMjY0MjhkMDhj.jpg",
+            "length": "528",
+            "type": "image/jpg",
+            "caption": "ソラナベースのミームコインローンチパッド「Pump fun」、取引ターミナルのパドレを買収"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2UzMzYtMDZiMC03NzlkLWI4N2ItNzZkMjY0MjhkMDhj.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-spikes-112k-soft-us-cpi-data-sp-500-hits-record-high",
           "author": "Cointelegraph  William Suberg",

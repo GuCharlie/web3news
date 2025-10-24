@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-24T20:40:17.083Z</updated>
+    <updated>2025-10-24T21:13:42.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナベースのミームコインローンチパッド「Pump fun」、取引ターミナルのパドレを買収]]></title>
+        <id>https://jp.cointelegraph.com/news/pumpfun-acquires-padre-trading-terminal-solana-memecoins</id>
+        <link href="https://jp.cointelegraph.com/news/pumpfun-acquires-padre-trading-terminal-solana-memecoins?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-10-24T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ソラナベースのミームコインローンチパッド「Pump.fun」は、マルチチェーン対応の取引ターミナル「パドレ」を買収した。]]></summary>
+        <author>
+            <name>Cointelegraph  Sam Bourgi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スペースX、今週2度目のビットコイン大量移動　ウォレット再編成か]]></title>
+        <id>https://coinpost.jp/?p=660703</id>
+        <link href="https://coinpost.jp/?p=660703"/>
+        <updated>2025-10-24T20:50:40.000Z</updated>
+        <summary type="html"><![CDATA[スペースXが24日に約204億円相当のビットコインを移動したとアーカム・インテリジェンスが報告した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ大統領、CFTC委員長にSEC仮想通貨タスクフォースのセリグ氏を指名]]></title>
         <id>https://coinpost.jp/?p=660701</id>
@@ -3541,27 +3561,6 @@ XRPとジーキャッシュが上昇を牽引し、ビットコインの反発�
 ブラックロックのビットコインETP、ロンドン証券取引所で取引開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Francisco Rodrigues</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベース、第4四半期の見通しを発表──暗号資産市場を押し上げる可能性のある3つの要因を強調]]></title>
-        <id>https://www.coindeskjapan.com/?p=319903</id>
-        <link href="https://www.coindeskjapan.com/319903/"/>
-        <updated>2025-10-20T09:10:00.000Z</updated>
-        <summary type="html"><![CDATA[コインベース・インスティテューショナル（Coinbase Institutional）がグラスノード（Glassnode）と共同で作成した2025年第4四半期報 ...
-コインベース、第4四半期の見通しを発表──暗号資産市場を押し上げる可能性のある3つの要因を強調 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Siamak Masnavi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIフュージョンキャピタル、ビットコインを追加購入　保有量30 BTCに]]></title>
-        <id>https://coinpost.jp/?p=659291</id>
-        <link href="https://coinpost.jp/?p=659291"/>
-        <updated>2025-10-20T08:47:11.000Z</updated>
-        <summary type="html"><![CDATA[AIフュージョンキャピタルグループがビットコイン約1億円分を追加購入。累計購入額4億円、時価評価額は5億円超に。BitGoや博報堂との提携でWEB3.0事業を本格化。]]></summary>
-        <author>
-            <name>Ritsuki.Kumazawa</name>
         </author>
     </entry>
 </feed>

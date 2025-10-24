@@ -881,6 +881,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=660563",
+          "author": "幸田直子",
+          "description": "トランプ政権が量子コンピュータ企業への出資型支援を検討していると報道され、政府と協議中とされるIonQ、Rigetti、D-Waveなどの関連銘柄は最大20%上昇した。",
+          "link": "https://coinpost.jp/?p=660563",
+          "publishedOn": "2025-10-24T07:30:39.000Z",
+          "wordCount": 3201,
+          "title": "米トランプ政権、量子コンピュータ企業へ株式取得型支援検討か　関連銘柄が急騰＝WSJ報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/quantum-chip-google.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/quantum-chip-google.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=660532",
           "author": "Enzo",
           "description": "イーサリアム開発者は第223回ACDE会議で、フサカアップグレードの12月3日実装と、次期グラムステルダムの提案締切（10月30日）を決定。BAL技術導入やEIP 8058の追加など、スケーラビリティ強化に向けた計画が明らかに。",
@@ -2042,6 +2057,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=509420",
+          "author": "OtsugaShinya",
+          "description": "JPYCが正式に発行へ 日本初となる日本円建てステーブルコイン「JPYC」が、10月27日より正式に発行開始される。発行元のJPYC社が10月24日に発表した。 また同ステーブルコイン発行に合わせて、発行および償還の受付 […]",
+          "link": "https://www.neweconomy.jp/posts/509420",
+          "publishedOn": "2025-10-24T07:27:17.000Z",
+          "wordCount": 625,
+          "title": "【速報】日本円ステーブルコイン「JPYC」が10/27より発行開始、発行・償還プラットフォーム「JPYC EX」正式リリースへ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/24162715/JPYC-251024jauhari1.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=509410",
+          "author": "HitomotoToshikazu",
+          "description": "Revolut・Relai・Blockchain.comがMiCA取得 英フィンテック企業レボリュート（Revolut）、ビットコイン（Bitcoin）アプリ提供のリライ（Relai）、暗号資産（仮想通貨）ウォレット・取 […]",
+          "link": "https://www.neweconomy.jp/posts/509410",
+          "publishedOn": "2025-10-24T07:17:04.000Z",
+          "wordCount": 737,
+          "title": "レボリュート・リライ・ブロックチェーンドットコムがMiCAライセンス取得",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/24161648/d521b8ad7c9ca444670b94f1363d3533.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=509395",
           "author": "OtsugaShinya",

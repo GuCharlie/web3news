@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-24T20:17:28.596Z</updated>
+    <updated>2025-10-24T20:40:17.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ大統領、CFTC委員長にSEC仮想通貨タスクフォースのセリグ氏を指名]]></title>
+        <id>https://coinpost.jp/?p=660701</id>
+        <link href="https://coinpost.jp/?p=660701"/>
+        <updated>2025-10-24T20:35:04.000Z</updated>
+        <summary type="html"><![CDATA[トランプ大統領がCFTC委員長にSEC仮想通貨タスクフォースのメンバーを指名する方針を固めたとブルームバーグが報道した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米CPI低下でS&P500が高値更新　ビットコインは11万2000ドル到達後に反落]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-spikes-112k-soft-us-cpi-data-sp-500-hits-record-high</id>
@@ -3552,16 +3562,6 @@ XRPとジーキャッシュが上昇を牽引し、ビットコインの反発�
         <summary type="html"><![CDATA[AIフュージョンキャピタルグループがビットコイン約1億円分を追加購入。累計購入額4億円、時価評価額は5億円超に。BitGoや博報堂との提携でWEB3.0事業を本格化。]]></summary>
         <author>
             <name>Ritsuki.Kumazawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アーサー・ヘイズ、2.5億ドル規模の暗号資産企業特化のPEファンド設立へ]]></title>
-        <id>https://www.neweconomy.jp/?p=507844</id>
-        <link href="https://www.neweconomy.jp/posts/507844"/>
-        <updated>2025-10-20T08:17:40.000Z</updated>
-        <summary type="html"><![CDATA[アーサー・ヘイズのファミリーオフィスがPEファンド設立 暗号資産（仮想通貨）取引所ビットメックス（BitMEX）の共同創業者であるアーサー・ヘイズ（Arthur Hayes）氏のファミリーオフィスが、2億5,000万ドル […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-24T09:17:38.921Z</updated>
+    <updated>2025-10-24T09:39:15.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ビットコインは依然として50%下落のリスク」　ビットマインのトム・リー会長が警鐘]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-not-immune-to-slashing-50-despite-wall-street-love-bitmine-s-lee</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-not-immune-to-slashing-50-despite-wall-street-love-bitmine-s-lee?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-10-24T09:27:48.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は依然として高いボラティリティから逃れられず、状況次第では価値の半分を失う可能性があると、ビットマイン会長のトム・リー氏が警告した。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTC反発で11万ドルを回復　米CPIで大きく動くか？【ビットバンク仮想通貨分析】]]></title>
         <id>https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-1024</id>

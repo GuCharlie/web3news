@@ -63,6 +63,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=320758",
+          "author": "Will Canny",
+          "description": "暗号資産取引所ジェミナイは依然として、成果を出すのを忍耐強く待つ必要があると、シティグループは述べた。  アナリストのピーター・クリスチャンセン（Pe ...\nシティ、暗号資産取引所ジェミナイの目標株価引き下げ──ブリッシュは引き上げ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/320758/",
+          "publishedOn": "2025-10-25T00:45:00.000Z",
+          "wordCount": 1342,
+          "title": "シティ、暗号資産取引所ジェミナイの目標株価引き下げ──ブリッシュは引き上げ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/7adeb92e931ebab798e9acb4e29213a5bc3dadfd-1500x1039-1.jpeg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=320760",
+          "author": "Omkar Godbole",
+          "description": "米大手投資銀行のJPモルガン・チェースは、年末までに機関投資家に対して保有するビットコイン（BTC）とイーサ（ETH）をローン担保として利用することを求める計画 ...\nJPモルガン、ビットコインとイーサを担保として受け入れへ：報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/320760/",
+          "publishedOn": "2025-10-24T23:58:55.000Z",
+          "wordCount": 1337,
+          "title": "JPモルガン、ビットコインとイーサを担保として受け入れへ：報道",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/shutterstock_1184027227.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=320720",
           "author": "James Van Straten",
           "description": "ブルームバーグによると、史上最大規模のAI（人工知能）インフラ資金調達を受けて、AIとHPC（高性能コンピューティング）関連のマイニング株が市場前取引で上昇して ...\nAIやHPC関連のマイナー株が市場前取引で上昇──オラクルのデータセンター向け資金調達の報道で first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -2546,16 +2566,6 @@
           "wordCount": 802,
           "title": "【10/20話題】銀行の暗号資産取り扱いを金融庁が検討、3メガバンクの円ステーブルコイン、ビットコイン秘密鍵の脆弱性など（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/20174845/067913d772d14cac30119feacac1207f.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=507909",
-          "author": "HitomotoToshikazu",
-          "description": "Robinhood Stock Tokensの米国株・ETFが約500銘柄に ロビンフッドヨーロッパ（Robinhood Europe）提供の株式連動型トークンプラットフォーム「ロビンフッド・ストックトークン（Robin […]",
-          "link": "https://www.neweconomy.jp/posts/507909",
-          "publishedOn": "2025-10-20T11:43:25.000Z",
-          "wordCount": 814,
-          "title": "ロビンフッドEU部門、アービトラム上の株式・ETFトークンを80銘柄追加。合計500銘柄に",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/20203940/f1367d415b92b3bf9bf8580699bf4d37.jpg"
         }
       ]
     },
@@ -2564,6 +2574,54 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/trump-nominate-sec-michael-selig-cftc-chair",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "米国のトランプ大統領は、商品先物取引委員会（CFTC）の次期委員長として、マイケル・セリグ氏を指名する方針を固めた。元々の候補だったブライアン・クインテンツ氏の指名を撤回した後の新たな動きとなる。",
+          "link": "https://jp.cointelegraph.com/news/trump-nominate-sec-michael-selig-cftc-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-25T01:07:17.000Z",
+          "wordCount": null,
+          "title": "トランプ政権、CFTC新委員長にマイケル・セリグ氏を指名へ　SEC暗号資産タスクフォースの法律顧問＝報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTE4M2YtNDcwNi03MzNlLTkwNjQtZmRjNDQ0OWEyNjVh.jpg",
+            "length": "528",
+            "type": "image/jpg",
+            "caption": "トランプ政権、CFTC新委員長にマイケル・セリグ氏を指名へ　SEC暗号資産タスクフォースの法律顧問＝報道"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTE4M2YtNDcwNi03MzNlLTkwNjQtZmRjNDQ0OWEyNjVh.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/tether-2025-profit-forecast-stablecoin-growth",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "ステーブルコイン発行企業テザーは、2025年に過去最高となる年間利益150億ドルを見込んでいる。",
+          "link": "https://jp.cointelegraph.com/news/tether-2025-profit-forecast-stablecoin-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-25T00:29:53.000Z",
+          "wordCount": null,
+          "title": "ステーブルコイン発行企業テザー　2025年に過去最高益更新の見込み　年間利益は150億ドルに＝報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTE2ZjItZjY2NC03NmI4LTk4MTEtY2QyYzA5Mzc0YmM0.jpg",
+            "length": "528",
+            "type": "image/jpg",
+            "caption": "ステーブルコイン発行企業テザー　2025年に過去最高益更新の見込み　年間利益は150億ドルに＝報道"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTE2ZjItZjY2NC03NmI4LTk4MTEtY2QyYzA5Mzc0YmM0.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/polymarket-token-us-launch-cmo-app",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "予測市場プラットフォームのポリマーケットは、将来的に独自トークンを発行する計画を進めていることを明らかにした。ただし、当面は米国向けアプリのローンチを優先するという。",
+          "link": "https://jp.cointelegraph.com/news/polymarket-token-us-launch-cmo-app?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-25T00:01:26.000Z",
+          "wordCount": null,
+          "title": "予測市場ポリマーケット　将来的にトークン発行を計画　現状は米国版アプリのローンチを優先",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzBkOWMtMDcxZS03YTRmLTgzNWUtMjk1ZTllZWJjYWZl.jpg",
+            "length": "528",
+            "type": "image/jpg",
+            "caption": "予測市場ポリマーケット　将来的にトークン発行を計画　現状は米国版アプリのローンチを優先"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzBkOWMtMDcxZS03YTRmLTgzNWUtMjk1ZTllZWJjYWZl.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/jpmorgan-bitcoin-ether-collateral-institutional-report",
           "author": "Cointelegraph  Zoltan Vardai",

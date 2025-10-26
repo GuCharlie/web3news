@@ -63,6 +63,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=320854",
+          "author": "Ian Allison",
+          "description": "人口約4万人のヨーロッパの小国リヒテンシュタインが、国家支援のブロックチェーンを立ち上げた。国による監督とデジタルイノベーションを融合させる取り組みだ。 「Li ...\nリヒテンシュタイン、国家支援ブロックチェーンを立ち上げ──規制準拠で欧州のハブを狙う first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/320854/",
+          "publishedOn": "2025-10-26T22:00:00.000Z",
+          "wordCount": 1347,
+          "title": "リヒテンシュタイン、国家支援ブロックチェーンを立ち上げ──規制準拠で欧州のハブを狙う",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/image-70.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=320798",
           "author": "増田 隆幸",
           "description": "今日10月27日、いよいよ円建てステーブルコイン「JPYC」の発行が始まる。国内初の円建てステーブルコインの登場で、関連サービスも続々と登場しそうだ。 doub ...\n「JPYCを活用した新しいサービスを作る人が儲かります」とJPYCの岡部氏──double jump.tokyoとBifrost、JPYCを活用したDeFiレンディングの企業向け提供へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -581,26 +591,6 @@
           "wordCount": 1458,
           "title": "恐怖と強欲指数は7日連続で「恐怖」──市場の長期的な不安を示唆",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/shutterstock_2246342051.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=320367",
-          "author": "Krisztian Sandor",
-          "description": "レイヤー1ブロックチェーンのXDCネットワーク（XDC Network）のベンチャー部門は10月22日、銀行がブロックチェーン基盤で貿易金融を効率化するためのデ ...\nXDCネットワークがコントゥールを買収── 貿易金融におけるステーブルコインとトークン化の拡大を目指す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/320367/",
-          "publishedOn": "2025-10-22T10:10:00.000Z",
-          "wordCount": 1460,
-          "title": "XDCネットワークがコントゥールを買収── 貿易金融におけるステーブルコインとトークン化の拡大を目指す",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/938db58661cbafe4af4a1977534dd4a1735761d9-1920x1080-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=320337",
-          "author": "Shaurya Malwa",
-          "description": "かつてイーサリアム（Ethereum）に代わるスケーラブルなプルーフ・オブ・ワーク（PoW）の代替として売り出されていたブロックチェーンの開発チーム、カデナ財団 ...\nカデナ財団が活動停止を発表──ネイティブトークンKDAは急落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/320337/",
-          "publishedOn": "2025-10-22T09:40:00.000Z",
-          "wordCount": 1348,
-          "title": "カデナ財団が活動停止を発表──ネイティブトークンKDAは急落",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/f4d6c71e6aea04d6a06a17a7f54fa82d39718f9e-1920x1080-1.jpeg"
         }
       ]
     },
@@ -1619,6 +1609,22 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/kyrgyzstan-rolls-out-stablecoin-and-confirms-future-cbdc-launch",
+          "author": "Cointelegraph  Brayden Lindrea",
+          "description": "キルギスでステーブルコインが発行され、中央銀行デジタル通貨（CBDC）の導入と国家仮想通貨準備金の検討を進める方針が確認された。これに先立ち、戦略顧問のチャンポン・ジャオ氏との協議が行われた。",
+          "link": "https://jp.cointelegraph.com/news/kyrgyzstan-rolls-out-stablecoin-and-confirms-future-cbdc-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-10-26T22:09:45.000Z",
+          "wordCount": null,
+          "title": "キルギスがBNBチェーン上でステーブルコインを発行　CBDC導入計画も正式表明",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTFkOTAtYzg3NC03MTRlLTgzYmYtMTc3MDZlZTFiNDk1.jpg",
+            "length": "528",
+            "type": "image/jpg",
+            "caption": "キルギスがBNBチェーン上でステーブルコインを発行　CBDC導入計画も正式表明"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTFkOTAtYzg3NC03MTRlLTgzYmYtMTc3MDZlZTFiNDk1.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/crypto-spot-trading-cex-recovery-31-q3-heavy-decline",
           "author": "Cointelegraph  Helen Partz",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-26T23:36:21.244Z</updated>
+    <updated>2025-10-27T01:19:36.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新設のXRPトレジャリー企業「エバーノース」がXRP市場に与える影響は？]]></title>
+        <id>https://coinpost.jp/?p=660962</id>
+        <link href="https://coinpost.jp/?p=660962"/>
+        <updated>2025-10-27T00:53:38.000Z</updated>
+        <summary type="html"><![CDATA[ナスダック上場予定のエバーノースが仮想通貨XRP市場に与える影響をリサーチャーが分析。ストラテジー社のビットコイン戦略との類似性や機関投資家需要の高まりを解説している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「L2がETHのセキュリティを継承するという主張は誤り」＝ソラナ共同創業者]]></title>
         <id>https://jp.cointelegraph.com/news/claim-l2s-inherit-eth-security-erroneous-solana-founder</id>
@@ -90,6 +100,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[仮想通貨ニアー（NEAR）の買い方、おすすめ取引所比較　AI関連銘柄として注目]]></title>
+        <id>https://coinpost.jp/?p=563155</id>
+        <link href="https://coinpost.jp/?p=563155"/>
+        <updated>2025-10-26T09:30:18.000Z</updated>
+        <summary type="html"><![CDATA[AIとブロックチェーンの融合を目指すニアー(NEAR)の特徴と投資方法を解説。注目のAI銘柄を取り扱う暗号資産（仮想通貨）国内取引所を比較し、おすすめサービスをご紹介します。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[今週の主要仮想通貨材料まとめ、ビットマインの大規模なETH押し目買いやSOL現物ETFが香港初承認など]]></title>
         <id>https://coinpost.jp/?p=660486</id>
         <link href="https://coinpost.jp/?p=660486"/>
@@ -150,6 +170,16 @@ APACの主要証券取引所、暗号資産トレジャリー（DAT）戦略に�
 米国初のXRP ETF、デビュー1カ月で運用資産残高1億ドル突破 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Francisco Rodrigues</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plasma（プラズマ）とは？手数料ゼロのステーブルコイン送金とXPL報酬の仕組みを解説]]></title>
+        <id>https://coinpost.jp/?p=658298</id>
+        <link href="https://coinpost.jp/?p=658298"/>
+        <updated>2025-10-25T23:51:56.000Z</updated>
+        <summary type="html"><![CDATA[Plasmaのインセンティブプログラムについて、XPL報酬の獲得方法をわかりやすく解説。ブリッジからAave運用、クレームまでの手順とリスクを紹介します。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
         </author>
     </entry>
     <entry>
@@ -2284,16 +2314,6 @@ IPO準備を進めるクラーケン、第3四半期の収益が2倍以上に増
 ビットコインの「避けられない」10万ドル割れ、その水準で買える最後のチャンスになる可能性：スタンダードチャータード first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【10/22話題】金融庁が無登録暗号資産取引所の宣伝アカウントへ注意喚起、ソラナフォン「Saga」がサポート終了など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=508477</id>
-        <link href="https://www.neweconomy.jp/posts/508477"/>
-        <updated>2025-10-22T12:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
         </author>
     </entry>
 </feed>

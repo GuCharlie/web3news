@@ -606,6 +606,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=661066",
+          "author": "Enzo",
+          "description": "日本初の日本円建てステーブルコインJPYCが2025年10月27日に正式発行。アステリア、電算システムホールディングス、ユナイテッドなど出資企業の株価が急騰。インタートレード、Speee、Unbankedなど関連テーマ銘柄にも買いが波及し、デジタル金融市場拡大の兆しを示した。",
+          "link": "https://coinpost.jp/?p=661066",
+          "publishedOn": "2025-10-27T09:42:21.000Z",
+          "wordCount": 3277,
+          "title": "日本初のステーブルコインJPYC始動　関連銘柄が急騰",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/jpyc_launch1024.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/jpyc_launch1024.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=661044",
           "author": "Enzo",
           "description": "国際送金大手ウエスタン・ユニオンが2025年第3四半期決算でステーブルコイン決済システムの試験運用を発表。1億5,000万人の顧客向けにオンチェーン決済レールを活用し、コスト削減と決済時間の短縮を目指す。変革期を迎える送金業界の最新動向。",
@@ -1467,6 +1482,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=509932",
+          "author": "HitomotoToshikazu",
+          "description": "Tetherの2025年利益約2.2兆円か 米ドル建てステーブルコイン「USDT」発行元のテザー（Tether）社が、2025年の利益が約150億ドル（約2.2兆円）に達するとの見通しを示したと、ブルームバーグ（Bloo […]",
+          "link": "https://www.neweconomy.jp/posts/509932",
+          "publishedOn": "2025-10-27T10:09:05.000Z",
+          "wordCount": 740,
+          "title": "テザー、2025年利益が約150億ドルを見込む＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/27190858/5475836315fe619851eeda518b1b16c5.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=509918",
           "author": "OtsugaShinya",
@@ -2431,38 +2456,6 @@
             "caption": "ハイパーリキッド・ストラテジーズ　10億ドルの資金調達を計画　HYPEトークン買い増しへ"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTc2MjAtOTQxZC03NzcyLTgyZWItMTJiNGZlODA2YTc0.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/stablecoins-gaming-hidden-engine-bga-report",
-          "author": "Cointelegraph  Ezra Reguerra",
-          "description": "ブロックチェーン・ゲーミング・アライアンス（BGA）の最新レポートによれば、ステーブルコインが、3500億ドル規模のゲーム市場で新たな役割を担い始めている。",
-          "link": "https://jp.cointelegraph.com/news/stablecoins-gaming-hidden-engine-bga-report?utm_source=rss_feed&utm_medium=rss%3Fns&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-10-22T22:00:00.000Z",
-          "wordCount": null,
-          "title": "ステーブルコインがゲーム経済の中核へ　「次の成長サイクルを支える金融インフラに」＝BGAレポート",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTBiNjgtYjU3NS03NGZlLThhOGEtODQwNGIxMzg0ODMy.jpg",
-            "length": "528",
-            "type": "image/jpg",
-            "caption": "ステーブルコインがゲーム経済の中核へ　「次の成長サイクルを支える金融インフラに」＝BGAレポート"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTBiNjgtYjU3NS03NGZlLThhOGEtODQwNGIxMzg0ODMy.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/stablecoins-gaming-hidden-engine-bga-report",
-          "author": "Cointelegraph  Ezra Reguerra",
-          "description": "ブロックチェーン・ゲーミング・アライアンス（BGA）の最新レポートによれば、ステーブルコインが、3500億ドル規模のゲーム市場で新たな役割を担い始めている。",
-          "link": "https://jp.cointelegraph.com/news/stablecoins-gaming-hidden-engine-bga-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-10-22T22:00:00.000Z",
-          "wordCount": null,
-          "title": "ステーブルコインがゲーム経済の中核へ　「次の成長サイクルを支える金融インフラに」＝BGAレポート",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTBiNjgtYjU3NS03NGZlLThhOGEtODQwNGIxMzg0ODMy.jpg",
-            "length": "528",
-            "type": "image/jpg",
-            "caption": "ステーブルコインがゲーム経済の中核へ　「次の成長サイクルを支える金融インフラに」＝BGAレポート"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTBiNjgtYjU3NS03NGZlLThhOGEtODQwNGIxMzg0ODMy.jpg"
         }
       ]
     },
@@ -2471,6 +2464,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=146527",
+          "author": "Crypto Times 編集部",
+          "description": "仮想通貨市場で3つのセクターが強い勢いを見せています。プライバシーコイン、Hyperliquid（分散型取引所）関連、そしてx402関連です。 プライバシーコインセクターではリーダー銘柄のZcash ($ZEC) が上昇 […]\n投稿 仮想通貨で今大注目の3つの分野｜1ヶ月で価格5倍超えも は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-prices-soar-over-fivefold-in-one-month-three-cryptocurrency-sectors-draw-major-attention/",
+          "publishedOn": "2025-10-27T10:04:51.000Z",
+          "wordCount": 661,
+          "title": "仮想通貨で今大注目の3つの分野｜1ヶ月で価格5倍超えも",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_1095940121.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=146524",
           "author": "Crypto Times 編集部",

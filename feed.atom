@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-27T09:20:05.197Z</updated>
+    <updated>2025-10-27T09:43:18.850Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[送金大手ウエスタンユニオン、ステーブルコイン決済の試験運用を計画]]></title>
+        <id>https://coinpost.jp/?p=661044</id>
+        <link href="https://coinpost.jp/?p=661044"/>
+        <updated>2025-10-27T09:37:04.000Z</updated>
+        <summary type="html"><![CDATA[国際送金大手ウエスタン・ユニオンが2025年第3四半期決算でステーブルコイン決済システムの試験運用を発表。1億5,000万人の顧客向けにオンチェーン決済レールを活用し、コスト削減と決済時間の短縮を目指す。変革期を迎える送金業界の最新動向。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】国内初の円ステーブルコイン「JPYC」、発行量が1500万を突破]]></title>
+        <id>https://www.coindeskjapan.com/?p=320960</id>
+        <link href="https://www.coindeskjapan.com/320960/"/>
+        <updated>2025-10-27T09:30:14.000Z</updated>
+        <summary type="html"><![CDATA[本日10月27日13時より発行が開始された、国内初の日本円建てステーブルコイン「JPYC」の発行量が、同日17時15分時点で1500万JPYCを超えたことが確認 ...
+【速報】国内初の円ステーブルコイン「JPYC」、発行量が1500万を突破 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>栃山直樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】日本初のステーブルコイン「JPYC」、リリース初日に発行額1,500万円突破]]></title>
+        <id>https://www.neweconomy.jp/?p=509918</id>
+        <link href="https://www.neweconomy.jp/posts/509918"/>
+        <updated>2025-10-27T09:23:45.000Z</updated>
+        <summary type="html"><![CDATA[JPYCの発行額が1,500万円を突破 日本初となる日本円建てステーブルコイン「JPYC」の発行額が、リリース初日に1,500万円を突破した。 本日10月27日13:00より、JPYCの発行および償還の受付を行う専用プラ […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRP（リップル）価格暴騰の鍵？Evernorthの大量購入戦略]]></title>
         <id>https://crypto-times.jp/?p=146524</id>
@@ -29,6 +60,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[トロンの将来性は？ステーブルコイン決済に選ばれる理由]]></title>
+        <id>https://coinpost.jp/?p=660503</id>
+        <link href="https://coinpost.jp/?p=660503"/>
+        <updated>2025-10-27T09:00:31.000Z</updated>
+        <summary type="html"><![CDATA[TRON（トロン）は、2017年にジャスティン・サン氏によって創設されたブロックチェーンプラットフォームだ。イーサリアムやビットコインと比べて日本での知名度は高くないが、特にアジア、南米、アフリカなどの新興国市場において、ステーブルコイン決...]]></summary>
+        <author>
+            <name>hiroto.yoshii</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AIエージェント仮想通貨決済プロトコル「x402」が急成長]]></title>
         <id>https://crypto-times.jp/?p=146518</id>
         <link href="https://crypto-times.jp/news-ai-agent-cryptocurrency-payment-protocol-x402-experiences-rapid-growth/"/>
@@ -37,6 +78,16 @@
 投稿 AIエージェント仮想通貨決済プロトコル「x402」が急成長 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マウントゴックス、債権者返済を再延期　未返済残高は3.4万BTC（約6000億円）]]></title>
+        <id>https://coinpost.jp/?p=661076</id>
+        <link href="https://coinpost.jp/?p=661076"/>
+        <updated>2025-10-27T08:15:53.000Z</updated>
+        <summary type="html"><![CDATA[破綻した仮想通貨取引所Mt.Goxは、債権者への弁済期限を2026年10月まで再延期。19,500人に支払い完了も、依然3.4万BTC（約6,000億円）を保有している。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
         </author>
     </entry>
     <entry>
@@ -2423,47 +2474,6 @@ IPO準備を進めるクラーケン、第3四半期の収益が2倍以上に増
         <summary type="html"><![CDATA[ブロックチェーン・ゲーミング・アライアンス（BGA）の最新レポートによれば、ステーブルコインが、3500億ドル規模のゲーム市場で新たな役割を担い始めている。]]></summary>
         <author>
             <name>Cointelegraph  Ezra Reguerra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨AI関連銘柄10選｜グレースケールファンド組入れ銘柄も徹底解説]]></title>
-        <id>https://coinpost.jp/?p=570768</id>
-        <link href="https://coinpost.jp/?p=570768"/>
-        <updated>2025-10-22T21:30:11.000Z</updated>
-        <summary type="html"><![CDATA[2024年注目のAI関連仮想通貨を10銘柄、時価総額・価格・年初来高騰率とともに解説。SUI、NEAR、TAOなど、AIとブロックチェーンを融合した主要プロジェクトの特徴について網羅的に紹介。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なぜ一部のビットコインクジラが、BTCを現物ETFに転換しているのか：ブルームバーグ]]></title>
-        <id>https://www.coindeskjapan.com/?p=320422</id>
-        <link href="https://www.coindeskjapan.com/320422/"/>
-        <updated>2025-10-22T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[一部の大口のビットコイン保有者は、現物拠出を通じてビットコインを現物ETFに移動させ、プラットフォーム外のビットコインを、担保として借用したり遺産計画に組み込ん ...
-なぜ一部のビットコインクジラが、BTCを現物ETFに転換しているのか：ブルームバーグ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Siamak Masnavi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTC 10万ドル下落リスクは？ 仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ]]></title>
-        <id>https://jp.cointelegraph.com/news/price-predictions-10-22-btc-eth-bnb-xrp-sol-doge-ada-hype-link-xlm</id>
-        <link href="https://jp.cointelegraph.com/news/price-predictions-10-22-btc-eth-bnb-xrp-sol-doge-ada-hype-link-xlm?utm_source=rss_feed&amp;utm_medium=rss%3Fns&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-10-22T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインは重要な局面にある。日足終値が10万7000ドルのサポートを下回れば、心理的節目である10万ドルへの下落が現実味を帯びてくる。]]></summary>
-        <author>
-            <name>Cointelegraph  Rakesh Upadhyay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTC 10万ドル下落リスクは？ 仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ]]></title>
-        <id>https://jp.cointelegraph.com/news/price-predictions-10-22-btc-eth-bnb-xrp-sol-doge-ada-hype-link-xlm</id>
-        <link href="https://jp.cointelegraph.com/news/price-predictions-10-22-btc-eth-bnb-xrp-sol-doge-ada-hype-link-xlm?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-10-22T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインは重要な局面にある。日足終値が10万7000ドルのサポートを下回れば、心理的節目である10万ドルへの下落が現実味を帯びてくる。]]></summary>
-        <author>
-            <name>Cointelegraph  Horus Hughes</name>
         </author>
     </entry>
 </feed>

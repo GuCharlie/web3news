@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=321719",
+          "author": "Francisco Rodrigues",
+          "description": "ビットコイン（BTC）は長く「デジタル・ゴールド」と呼ばれ、金と同様にインフレヘッジとして語られてきた。しかし、デジタル資産企業NYDIG（ニューヨーク・デジタ ...\nビットコインは「インフレヘッジ」ではない：NYDIG first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/321719/",
+          "publishedOn": "2025-11-02T23:00:00.000Z",
+          "wordCount": 1314,
+          "title": "ビットコインは「インフレヘッジ」ではない：NYDIG",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/image-74.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=322108",
           "author": "栃山直樹",
           "description": "国内初の日本円建てステーブルコイン「JPYC」の発行量が、11月2日、1億JPYCを突破したことが各ブロックチェーン上のデータから確認された。 同日19時時点で ...\n【速報】JPYC、発行量1億に到達 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -194,6 +204,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=643693",
+          "author": "CoinPost編集部",
+          "description": "JPYCが資金移動業ライセンスを取得し、日本初の円建てステーブルコイン「JPYC EX」を発行へ。特徴や将来性を徹底解説。",
+          "link": "https://coinpost.jp/?p=643693",
+          "publishedOn": "2025-11-02T22:00:17.000Z",
+          "wordCount": 3449,
+          "title": "JPYCの買い方・使い方まとめ｜何ができる？今後の活用法・注意点を徹底解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/JPYC_08.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/JPYC_08.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=662386",
           "author": "CoinPost編集部",
@@ -779,6 +804,81 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-money-vessel-8b-recovery-lacks-etf",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "クリプトクオントによると、実現時価総額が80億ドル増加したにもかかわらず、ビットコインの回復はETFやマイケル・セイラー氏のマイクロストラテジーによる継続的な資金流入を欠いており、これらが主な需要の原動力として作用していない。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-money-vessel-8b-recovery-lacks-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-02T22:39:30.000Z",
+          "wordCount": null,
+          "title": "ビットコインの「資金の器」、流入額80億ドルに到達もETFからの資金流入は停滞",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTQ1YTktYmUwNC03ZWU4LTk1MTgtM2FkMDZhZmFmZjZj.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTQ1YTktYmUwNC03ZWU4LTk1MTgtM2FkMDZhZmFmZjZj.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/ftx-creditor-real-recovery-low-as-9-inflated-crypto-prices",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "FTXの債権者は、ビットコイン、イーサリアム、ソラナの現在価格で調整すると、想定よりわずかな支払いしか受け取れない可能性がある、と債権者代表のサニル氏は述べた。",
+          "link": "https://jp.cointelegraph.com/news/ftx-creditor-real-recovery-low-as-9-inflated-crypto-prices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-02T22:32:52.000Z",
+          "wordCount": null,
+          "title": "FTXの債権者代表、仮想通貨価格の高騰で実際の回収は9％にとどまると指摘",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2I2ZjYtNDcyMC03MWIyLTg4OWYtOGJiMDA4MmZjM2Nm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2I2ZjYtNDcyMC03MWIyLTg4OWYtOGJiMDA4MmZjM2Nm.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/eu-sec-supervision-stock-crypto-exchanges-startup",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "EUが、スタートアップ支援と資本市場の競争力強化を目的に、金融・仮想通貨分野の監督権限を欧州証券市場監督局（ESMA）へ移管する提案を準備していると報じられた。",
+          "link": "https://jp.cointelegraph.com/news/eu-sec-supervision-stock-crypto-exchanges-startup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-02T22:21:11.000Z",
+          "wordCount": null,
+          "title": "EU、証券取引所と仮想通貨取引所を一元監督へ　スタートアップ育成で米SEC型制度を検討",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJlZGEtYjdhNS03ODdlLTkzN2MtYWNkZDc4MDgzNGM5.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJlZGEtYjdhNS03ODdlLTkzN2MtYWNkZDc4MDgzNGM5.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/coinbase-2b-bvnk-acquisition-stablecoin-push",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "2025年第3四半期におけるステーブルコイン収益がコインベース全体の約20％を占めるなど、同社にとってステーブルコインは重要な収益源となっている。",
+          "link": "https://jp.cointelegraph.com/news/coinbase-2b-bvnk-acquisition-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-02T22:07:13.000Z",
+          "wordCount": null,
+          "title": "コインベース、20億ドル規模でBVNK買収を検討　ステーブルコイン事業を拡大へ＝報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTE3YTctNTgxOS03NDBlLTk2ZjItMzI1ZTQxYWEzNTc1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTE3YTctNTgxOS03NDBlLTk2ZjItMzI1ZTQxYWEzNTc1.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-price-hits-111k-november-high-bear-market-fears-persist",
+          "author": "Cointelegraph  William Suberg",
+          "description": "週末に上昇したビットコイン（BTC）価格について、トレーダーは持続性を疑問視した。大口投資家（クジラ）による売り圧力が週明けにかけて再び強まっている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-price-hits-111k-november-high-bear-market-fears-persist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-02T21:55:58.000Z",
+          "wordCount": null,
+          "title": "ビットコイン価格、11月の高値11万1000ドルを記録　弱気相場への懸念はなお残る",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTQ1MWQtNTFhZi03NTM0LTk1YzUtYjAzOWYwNDQ2Yjdh.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTQ1MWQtNTFhZi03NTM0LTk1YzUtYjAzOWYwNDQ2Yjdh.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/bitcoin-4-year-cycle-not-dead-70-drawdown",
           "author": "Cointelegraph  Vince Quill",
           "description": "ベンチャー企業シグマ・キャピタルのヴィニート・ブドキCEOによれば、ビットコイン（BTC）は今後も周期的なバブルと暴落を繰り返し、次の弱気局面では最大70％の下落幅を記録する可能性があるという。",
@@ -1287,66 +1387,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTJmMjQtOWExMy03NjExLTg5MzctMjcyNjVkODcyYzNh.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/south-korea-bdacs-krw1-stablecoin-circle-arc",
-          "author": "Cointelegraph  Amin Haqshanas",
-          "description": "韓国・釜山を拠点とする仮想通貨カストディ企業BDACSは、サークルが新たに立ち上げたブロックチェーン「Arc」上で、ウォン連動型ステーブルコイン「KRW1」を発行する計画を発表した。",
-          "link": "https://jp.cointelegraph.com/news/south-korea-bdacs-krw1-stablecoin-circle-arc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-10-29T11:02:49.000Z",
-          "wordCount": null,
-          "title": "韓国のウォン連動型ステーブルコインKRW1、サークルの新ブロックチェーンArcで展開",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2JlZjQtMGMzOC03ODIwLWE0ZjEtMzA1YjM4OWY3NDNk.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2JlZjQtMGMzOC03ODIwLWE0ZjEtMzA1YjM4OWY3NDNk.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/michael-saylor-strategy-70-odds-s-p-500-q3-earnings",
-          "author": "Cointelegraph  Zoltan Vardai",
-          "description": "仮想通貨市場調査会社10Xリサーチによれば、世界最大のビットコイン保有企業ストラテジーが、株価下落やビットコイン購入の減速にもかかわらず、年内にS&P500指数へ採用される確率が70％あるという。",
-          "link": "https://jp.cointelegraph.com/news/michael-saylor-strategy-70-odds-s-p-500-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-10-29T10:46:55.000Z",
-          "wordCount": null,
-          "title": "世界最大のビットコイン保有企業ストラテジー、S&amp;P500採用の可能性は70％＝10Xリサーチが予測",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTJmMmQtMTEyZS03MDY4LWFmYTEtOGVhZjY3MzdlYjdj.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTJmMmQtMTEyZS03MDY4LWFmYTEtOGVhZjY3MzdlYjdj.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/mt-gox-repayment-delay-bullish-or-bearish-btc-price",
-          "author": "Cointelegraph  Yashu Gola",
-          "description": "破綻した仮想通貨取引所マウントゴックス（Mt. Gox）は27日、債権者への弁済を1年間延期することを発表した。現在も約40億ドル相当のビットコイン（BTC）を保有している。",
-          "link": "https://jp.cointelegraph.com/news/mt-gox-repayment-delay-bullish-or-bearish-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-10-29T10:15:15.000Z",
-          "wordCount": null,
-          "title": "Mt.Goxによる弁済期限の1年延期　ビットコイン市場への影響は強気か弱気か",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTJhZGYtZjBlMi03Y2ZlLTg1ZGQtZTA2MzI2ZDQ2Nzdm.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTJhZGYtZjBlMi03Y2ZlLTg1ZGQtZTA2MzI2ZDQ2Nzdm.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-1029",
-          "author": "Cointelegraph  ビットバンク　長谷川友哉",
-          "description": "28日のビットコイン（BTC）円は1742万4130円から取引が始まった。",
-          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-1029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-10-29T09:16:44.000Z",
-          "wordCount": null,
-          "title": "BTCはアルトETFの事実売りに連れ続落　窓埋めは達成ならず【ビットバンク仮想通貨分析】",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg"
         }
       ]
     },

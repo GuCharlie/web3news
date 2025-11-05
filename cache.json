@@ -330,10 +330,250 @@
       "articles": []
     },
     {
-      "title": "価格予想・分析  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=661060",
+          "author": "Ritsuki.Kumazawa",
+          "description": "Progmatが日本版トークン化株式の検討を開始。1円から投資可能で24時間取引も視野。配当・議決権も保護される設計。大手金融26組織が参加し、2026年春から商品開発へ。",
+          "link": "https://coinpost.jp/?p=661060",
+          "publishedOn": "2025-11-05T08:08:04.000Z",
+          "wordCount": 3128,
+          "title": "Progmat、日本版トークン化株式の検討開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/progma_thumbnail1028.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/progma_thumbnail1028.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=663626",
+          "author": "Ritsuki.Kumazawa",
+          "description": "メタプラネットが保有ビットコインを担保に1億ドル(約153億円)を借入。資金はビットコインの追加取得やインカム事業に充当。同社は30,823BTCを保有しており、2027年末までに21万BTC取得を目指す。",
+          "link": "https://coinpost.jp/?p=663626",
+          "publishedOn": "2025-11-05T06:45:48.000Z",
+          "wordCount": 3125,
+          "title": "メタプラネット、保有するビットコイン担保に1億ドル調達",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/0605_metaplanetC.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/0605_metaplanetC.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=663632",
+          "author": "AKIRA.H",
+          "description": "リップル社の米ドル連動ステーブルコイン「RLUSD」が時価総額10億ドルを突破。非営利団体や米Bitnomial取引所で採用が進み、実需型ステーブルコインとして存在感を高めている。",
+          "link": "https://coinpost.jp/?p=663632",
+          "publishedOn": "2025-11-05T06:23:43.000Z",
+          "wordCount": 3127,
+          "title": "リップル社のステーブルコイン「RLUSD」　流通額10億ドル突破",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103001.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103001.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=663619",
+          "author": "菊谷ルイス",
+          "description": "ビットメックス共同創業者アーサー・ヘイズ氏は、FRBが常設レポファシリティを通じた実質的な量的緩和（QE）により、ビットコイン強気相場が再開すると分析した。米国債発行増加でSRF残高が拡大しドル供給が増加すると予測。",
+          "link": "https://coinpost.jp/?p=663619",
+          "publishedOn": "2025-11-05T04:55:57.000Z",
+          "wordCount": 3105,
+          "title": "アーサー・ヘイズ、FRBの実質QEでビットコイン強気相場再開と予測",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/0522_arthur_C.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/0522_arthur_C.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=663608",
+          "author": "幸田直子",
+          "description": "グレースケールの10月レポートによると、米政府閉鎖やマクロリスク、史上最大の3兆円ロスカットなどにより仮想通貨価格は低迷したものの、規制明確化や機関投資家参入の進展、ステーブルコイン普及などで市場基盤は着実に強化されている。",
+          "link": "https://coinpost.jp/?p=663608",
+          "publishedOn": "2025-11-05T04:30:02.000Z",
+          "wordCount": 3138,
+          "title": "米政府閉鎖を乗り切る仮想通貨市場、価格下落でも基盤強化に進展＝グレースケール報告",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/congress-stable-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/congress-stable-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=663586",
+          "author": "A.Yamada",
+          "description": "仮想通貨マイニング大手マラソンがMPLXと天然ガス供給で合意書を締結した。テキサス州に新たなデータセンターを建設しビットコインからAI事業への多角化が加速する見込みだ。",
+          "link": "https://coinpost.jp/?p=663586",
+          "publishedOn": "2025-11-05T04:15:32.000Z",
+          "wordCount": 3135,
+          "title": "ビットコイン採掘大手マラソンがAI事業強化へ、データセンターへの天然ガス供給で合意書",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/btc-mining-marathon.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/btc-mining-marathon.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=663580",
+          "author": "菊谷ルイス",
+          "description": "ウィンクルボス兄弟設立の仮想通貨取引所ジェミニが予測市場契約の提供準備を進めている。CFTCにデリバティブ取引所設立を申請中で、ポリマーケットやカルシとの競争が激化する見込みだ。",
+          "link": "https://coinpost.jp/?p=663580",
+          "publishedOn": "2025-11-05T02:15:31.000Z",
+          "wordCount": 3102,
+          "title": "仮想通貨取引所ジェミニが予測市場参入へ、カルシやポリマーケットと競合＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/gemini-www-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/gemini-www-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=663547",
+          "author": "A.Yamada",
+          "description": "プライバシー仮想通貨Zcash（ZEC）が過去1年で10倍以上上昇している。ギャラクシーデジタルが背景を分析し、ビットコインの精神的後継者として注目されていると理由を指摘した。",
+          "link": "https://coinpost.jp/?p=663547",
+          "publishedOn": "2025-11-05T01:50:02.000Z",
+          "wordCount": 3117,
+          "title": "「プライバシー銘柄ジーキャッシュは暗号化されたビットコイン」、高騰背景をギャラクシーが分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/zcash-shield-gemini.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/zcash-shield-gemini.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=663567",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨取引所FTXのサム・バンクマン＝フリード前CEOを巡る裁判で、控訴裁判所で聴聞会が行われた。トランプ米大統領がCZ氏に恩赦を与えたこともあり、サム氏の裁判の注目度が高まっている。",
+          "link": "https://coinpost.jp/?p=663567",
+          "publishedOn": "2025-11-05T01:35:39.000Z",
+          "wordCount": 3135,
+          "title": "FTXのサム前CEO巡る裁判、控訴審理に向けた聴聞会を開催　「公正な判決ではなかった」と主張",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/09/ftx-court-approve-to-dump.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/09/ftx-court-approve-to-dump.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=663546",
+          "author": "菊谷ルイス",
+          "description": "Ninjasイン・パジャマス親会社のNIPグループがビットコインマイニング事業を拡大し、計算能力11.3EH/sを達成する。月間生産量は160ビットコインに増加し、世界約12位の上場マイナーとなる見込みだ。",
+          "link": "https://coinpost.jp/?p=663546",
+          "publishedOn": "2025-11-05T01:25:36.000Z",
+          "wordCount": 3115,
+          "title": "NIPグループがビットコインマイニング拡大、月産160BTC見通し",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/ninja-bitcoin-mining.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/ninja-bitcoin-mining.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=663544",
+          "author": "CoinPost編集部",
+          "description": "仮想通貨ビットコインは一時10万ドルを下回り、円ベースでは24時間で約140万円下落した。MEXCやBalancerにおける信認性不安や米IT銘柄が失速したことが下落を後押しした。",
+          "link": "https://coinpost.jp/?p=663544",
+          "publishedOn": "2025-11-05T00:30:21.000Z",
+          "wordCount": 3299,
+          "title": "ビットコイン10万ドル割れ、MEXC不安とBalancerハッキングが相場を圧迫｜仮想NISHI",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0556.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0556.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=663543",
+          "author": "菊谷ルイス",
+          "description": "米財務省が北朝鮮によるサイバー犯罪とIT労働者詐欺から得た資金の洗浄に関与した8人と2団体を制裁指定した。過去3年間で北朝鮮関連サイバー犯罪者は主に仮想通貨で30億ドル以上を盗んでいる。",
+          "link": "https://coinpost.jp/?p=663543",
+          "publishedOn": "2025-11-04T23:45:25.000Z",
+          "wordCount": 3101,
+          "title": "米財務省、北朝鮮サイバー犯罪と仮想通貨洗浄で8人と2団体を制裁指定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/northkorea-hacking3_0405.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/northkorea-hacking3_0405.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=663540",
+          "author": "菊谷ルイス",
+          "description": "クリプトクアントの責任者はビットコインが10万ドルの水準を維持できなければ今後1~2カ月で72000ドルまで下落する可能性があると警告。10月の清算イベント後、現物需要が縮小していると分析している。",
+          "link": "https://coinpost.jp/?p=663540",
+          "publishedOn": "2025-11-04T23:02:48.000Z",
+          "wordCount": 3121,
+          "title": "ビットコイン価格、10万ドル維持できなければ72000ドルまで下落の可能性＝クリプトクアント分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/bitcoin-2025-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/bitcoin-2025-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=663528",
+          "author": "K.Kobayashi",
+          "description": "トム・リー氏が率いるビットマインは、過去1週間で400億円相当の仮想通貨イーサリアムを買い増ししたことを発表。現金についても1週間で約598億円に増加したと説明した。",
+          "link": "https://coinpost.jp/?p=663528",
+          "publishedOn": "2025-11-04T22:15:33.000Z",
+          "wordCount": 3125,
+          "title": "トム・リー率いるビットマイン、1週間で400億円相当のイーサリアムを買い増し",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/BitMine_Dark_Background___Logo-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/BitMine_Dark_Background___Logo-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=663526",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨ソラナを財務資産とするフォワード・インダストリーズが10億ドル規模の自社株買いプログラムを承認した。2027年9月まで有効で、同社のSOL戦略への確信を示すものとしている。",
+          "link": "https://coinpost.jp/?p=663526",
+          "publishedOn": "2025-11-04T21:45:08.000Z",
+          "wordCount": 3111,
+          "title": "ソラナ保有企業フォワード・インダストリーズ、10億ドルの自社株買いプログラム承認",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/G460MDwXAAErhE_-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/G460MDwXAAErhE_-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=663517",
+          "author": "菊谷ルイス",
+          "description": "株価大幅安米ナスダック上場のIoT半導体メーカーのセカンス・コミュニケーションズは4日、保有ビットコインから970BTCを売却し転換社債の50%を償還したと発表した。7月7日に発行した転換社債の削減を目的とした戦略的資産再配分と位置づけてい...",
+          "link": "https://coinpost.jp/?p=663517",
+          "publishedOn": "2025-11-04T20:55:36.000Z",
+          "wordCount": 3110,
+          "title": "米上場セカンス、保有ビットコインから970BTC売却で債務削減",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-2.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=663338",
           "author": "Ritsuki.Kumazawa",
@@ -648,21 +888,6 @@
             "url": ""
           },
           "imageUrl": "https://coinpost.jp/wp-content/uploads/2024/10/548506.thumb_.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=662757",
-          "author": "菊谷ルイス",
-          "description": "ステーブルコイン最大手テザーが2025年第3四半期報告書を公表し年初来利益が100億ドルを超えたことを明らかにした。米国債保有額は1350億ドルに達し国別ランキング17位相当。",
-          "link": "https://coinpost.jp/?p=662757",
-          "publishedOn": "2025-11-01T04:50:30.000Z",
-          "wordCount": 3159,
-          "title": "ステーブルコイン覇権争い激化　テザーが過去最高益、USDCは機関投資家採用加速",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/usdt-tether-chainswap.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/usdt-tether-chainswap.jpg"
         }
       ]
     },
@@ -1929,16 +2154,6 @@
           "wordCount": 620,
           "title": "コインベースCEOの「予測市場操作」が物議を呼ぶ",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/11/shutterstock_2660865897.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=147001",
-          "author": "よきょい",
-          "description": "ソラナ（SOL）の市場で所有権の大きな移行が進んでいます。古くからの保有者による売却の動きが見られる一方、機関投資家向けのETF（上場投資信託）への旺盛な資金流入がその供給を吸収しています。 過去1ヶ月間、初期のソラナ保 […]\n投稿 ソラナ価格安定の裏側。機関買いvs古参売りの行方 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-the-story-behind-solanas-price-stability-institutional-buying-versus-selling-by-long-time-holders/",
-          "publishedOn": "2025-11-01T04:55:54.000Z",
-          "wordCount": 570,
-          "title": "ソラナ価格安定の裏側。機関買いvs古参売りの行方",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/11/shutterstock_2676098045.jpg"
         }
       ]
     }

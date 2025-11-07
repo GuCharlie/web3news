@@ -1523,36 +1523,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bera-chain-TGE.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bera-chain-TGE.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=662984",
-          "author": "A.Yamada",
-          "description": "欧州委員会が仮想通貨・証券取引所を一元監督する機関を構想している。米証券取引委員会をモデルにしており、ESMAの権限拡大案も検討していると伝えられる。",
-          "link": "https://coinpost.jp/?p=662984",
-          "publishedOn": "2025-11-03T04:40:21.000Z",
-          "wordCount": 3149,
-          "title": "欧州が仮想通貨・証券の統一監督機関設立を検討　米SECモデルに",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/eu-defi.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/eu-defi.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=662975",
-          "author": "A.Yamada",
-          "description": "仮想通貨取引所FTXの債権者は破綻時の現金相当額で弁済されるため、債権者はビットコインなどの上昇分を受け取れないことになる。債権者代表は、実質回収率は9～46%と推算した。",
-          "link": "https://coinpost.jp/?p=662975",
-          "publishedOn": "2025-11-03T04:36:21.000Z",
-          "wordCount": 3148,
-          "title": "FTX債権者は仮想通貨上昇分の恩恵受けられずか　債権実質回収率の試算は9%～46%",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/ftx-card.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/ftx-card.png"
         }
       ]
     },
@@ -2118,6 +2088,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/four-reasons-why-ethereum-price-won-t-fall-below-3k",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "イーサリアム（ETH）は直近の売り圧力が3000ドルで止まり、強気派がこの水準を積極的に防衛した。現在は3300ドル超まで回復しており、オンチェーンデータとテクニカル指標の両面から見ても、さらなる下落の可能性は低下している。",
+          "link": "https://jp.cointelegraph.com/news/four-reasons-why-ethereum-price-won-t-fall-below-3k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-07T16:44:28.000Z",
+          "wordCount": 18123,
+          "title": "イーサリアム、3000ドルで下げ止まり　オンチェーン指標が示す強気転換の兆し",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTcyMTYtZjZiYS03OGJiLTgxNjMtOTMzZjNjNDAzMzQy.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTcyMTYtZjZiYS03OGJiLTgxNjMtOTMzZjNjNDAzMzQy.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/xrp-price-slips-despite-ripple-s-bullish-swell-announcements-is-2-next",
+          "author": "Cointelegraph  Yashu Gola",
+          "description": "リップルが看板イベント「Swell」を開催した直後、XRPの価格は急落し、イベント期間中に見られた短期的な上昇分のほとんどを失った。",
+          "link": "https://jp.cointelegraph.com/news/xrp-price-slips-despite-ripple-s-bullish-swell-announcements-is-2-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-07T16:10:32.000Z",
+          "wordCount": 18171,
+          "title": "リップルのSwell開催後にXRP急落　強気派の期待しぼむ　2ドル以下への下落となるか？",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzg3MTUtNGYwNS03MDE5LTlhNzAtNGIzN2U2YmY3NDU0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzg3MTUtNGYwNS03MDE5LTlhNzAtNGIzN2U2YmY3NDU0.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-etfs-snap-6-day-outflow-streak-key-trendline-back-focus",
           "author": "Cointelegraph  Nancy Lubale",
@@ -3026,6 +3026,16 @@
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
         {
+          "id": "https://crypto-times.jp/?p=147368",
+          "author": "Crypto Times 編集部",
+          "description": "4日前の11月3日に始まったDeFi（分散型金融）プロジェクト「Stream Finance」のステーブルコイン「xUSD」の崩壊は、87%という壊滅的な暴落を記録。その余波は瞬く間にDeFiエコシステム全体へと広がり、 […]\n投稿 【緊急対談】ステーブルコインxUSD暴落の裏に潜む「見えざる支配者」の正体 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/the-true-identity-of-the-hidden-power-behind-the-collapse-of-stablecoin-xusd/",
+          "publishedOn": "2025-11-07T16:29:11.000Z",
+          "wordCount": 611,
+          "title": "【緊急対談】ステーブルコインxUSD暴落の裏に潜む「見えざる支配者」の正体",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/11/image1511.jpg"
+        },
+        {
           "id": "https://crypto-times.jp/?p=147365",
           "author": "Crypto Times 編集部",
           "description": "仮想通貨投資会社Galaxy DigitalのCEOを務めるMike Novogratz氏は現在の市場状況について、長期にわたる強気相場の後、多くの大口保有者がポートフォリオの再調整を進めていると分析しています。 $GL […]\n投稿 仮想通貨市場の低迷は健全な調整｜Galaxy CEOは強気姿勢を維持 は CRYPTO TIMES に最初に表示されました。",
@@ -3494,16 +3504,6 @@
           "wordCount": 591,
           "title": "ビットコインの5％は大企業が保有｜$HYPERはアップデートを発表",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/11/unknown.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=147056",
-          "author": "Crypto Times 編集部",
-          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 2025年第2四半期～第3四半期の累計取引高が290億USDを突破！従 […]\n投稿 BTCCトークン化RWA先物：2025年Q2-Q3の取引高が290億米ドルを突破 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/press-btcc-rwa/",
-          "publishedOn": "2025-11-03T01:54:50.000Z",
-          "wordCount": 610,
-          "title": "BTCCトークン化RWA先物：2025年Q2-Q3の取引高が290億米ドルを突破",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/11/731bcaf347c97d769d2360502967fad4.jpg"
         }
       ]
     }

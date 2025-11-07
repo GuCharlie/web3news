@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-07T13:25:18.450Z</updated>
+    <updated>2025-11-07T18:22:28.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム、3000ドルで下げ止まり　オンチェーン指標が示す強気転換の兆し]]></title>
+        <id>https://jp.cointelegraph.com/news/four-reasons-why-ethereum-price-won-t-fall-below-3k</id>
+        <link href="https://jp.cointelegraph.com/news/four-reasons-why-ethereum-price-won-t-fall-below-3k?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-11-07T16:44:28.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム（ETH）は直近の売り圧力が3000ドルで止まり、強気派がこの水準を積極的に防衛した。現在は3300ドル超まで回復しており、オンチェーンデータとテクニカル指標の両面から見ても、さらなる下落の可能性は低下している。]]></summary>
+        <author>
+            <name>Cointelegraph  Nancy Lubale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【緊急対談】ステーブルコインxUSD暴落の裏に潜む「見えざる支配者」の正体]]></title>
+        <id>https://crypto-times.jp/?p=147368</id>
+        <link href="https://crypto-times.jp/the-true-identity-of-the-hidden-power-behind-the-collapse-of-stablecoin-xusd/"/>
+        <updated>2025-11-07T16:29:11.000Z</updated>
+        <summary type="html"><![CDATA[4日前の11月3日に始まったDeFi（分散型金融）プロジェクト「Stream Finance」のステーブルコイン「xUSD」の崩壊は、87%という壊滅的な暴落を記録。その余波は瞬く間にDeFiエコシステム全体へと広がり、 […]
+投稿 【緊急対談】ステーブルコインxUSD暴落の裏に潜む「見えざる支配者」の正体 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リップルのSwell開催後にXRP急落　強気派の期待しぼむ　2ドル以下への下落となるか？]]></title>
+        <id>https://jp.cointelegraph.com/news/xrp-price-slips-despite-ripple-s-bullish-swell-announcements-is-2-next</id>
+        <link href="https://jp.cointelegraph.com/news/xrp-price-slips-despite-ripple-s-bullish-swell-announcements-is-2-next?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-11-07T16:10:32.000Z</updated>
+        <summary type="html"><![CDATA[リップルが看板イベント「Swell」を開催した直後、XRPの価格は急落し、イベント期間中に見られた短期的な上昇分のほとんどを失った。]]></summary>
+        <author>
+            <name>Cointelegraph  Yashu Gola</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨市場の低迷は健全な調整｜Galaxy CEOは強気姿勢を維持]]></title>
         <id>https://crypto-times.jp/?p=147365</id>
@@ -2906,37 +2937,6 @@ XRPでデッドクロス発生間近──MACDも赤信号 first appeared on Coi
         <summary type="html"><![CDATA[11月初旬のビットコインとアルトコインの値動きは、過去の動きを無視して新たな安値をつけた10月の市場展開を反映している。強気派はレンジ下限の買いに関心を示すだろうか。]]></summary>
         <author>
             <name>Cointelegraph  Rakesh Upadhyay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧州が仮想通貨・証券の統一監督機関設立を検討　米SECモデルに]]></title>
-        <id>https://coinpost.jp/?p=662984</id>
-        <link href="https://coinpost.jp/?p=662984"/>
-        <updated>2025-11-03T04:40:21.000Z</updated>
-        <summary type="html"><![CDATA[欧州委員会が仮想通貨・証券取引所を一元監督する機関を構想している。米証券取引委員会をモデルにしており、ESMAの権限拡大案も検討していると伝えられる。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX債権者は仮想通貨上昇分の恩恵受けられずか　債権実質回収率の試算は9%～46%]]></title>
-        <id>https://coinpost.jp/?p=662975</id>
-        <link href="https://coinpost.jp/?p=662975"/>
-        <updated>2025-11-03T04:36:21.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所FTXの債権者は破綻時の現金相当額で弁済されるため、債権者はビットコインなどの上昇分を受け取れないことになる。債権者代表は、実質回収率は9～46%と推算した。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCCトークン化RWA先物：2025年Q2-Q3の取引高が290億米ドルを突破]]></title>
-        <id>https://crypto-times.jp/?p=147056</id>
-        <link href="https://crypto-times.jp/press-btcc-rwa/"/>
-        <updated>2025-11-03T01:54:50.000Z</updated>
-        <summary type="html"><![CDATA[Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 2025年第2四半期～第3四半期の累計取引高が290億USDを突破！従 […]
-投稿 BTCCトークン化RWA先物：2025年Q2-Q3の取引高が290億米ドルを突破 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
 </feed>

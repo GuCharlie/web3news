@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-18T13:48:51.995Z</updated>
+    <updated>2025-11-18T14:16:10.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【11/18話題】JPYCとDPが地方金融機関の業務連携を共同検討、IG証券が暗号資産ETFのCFD取引提供終了、ストラテジーがBTC追加購入など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=517690</id>
+        <link href="https://www.neweconomy.jp/posts/517690"/>
+        <updated>2025-11-18T13:53:35.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japan Smart Chain上で日本法準拠ステーブルコインを検討、AltXとGMO Trustが契約締結]]></title>
         <id>https://www.coindeskjapan.com/?p=324799</id>
@@ -1898,16 +1908,6 @@ USDTのドミナンスが4月以来の最高値に first appeared on CoinDesk JA
         <summary type="html"><![CDATA[ビットコインの最近の弱さは、より広範な経済不透明感を反映したもので、信頼性を欠く経済指標や米国の成長・政策見通しの揺らぎが投資家心理に影響を与えている。]]></summary>
         <author>
             <name>Cointelegraph  Marcel Pechman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21シェアーズ、仮想通貨指数ETF2本を米国上場　投資会社法適用は米国初]]></title>
-        <id>https://coinpost.jp/?p=666236</id>
-        <link href="https://coinpost.jp/?p=666236"/>
-        <updated>2025-11-14T02:04:07.000Z</updated>
-        <summary type="html"><![CDATA[21シェアーズが投資会社法（1940年法）準拠の仮想通貨インデックスETF2本を米国で上場。TTOPとTXBCは、ビットコイン、イーサリアム、ソラナなど主要デジタル資産への分散投資を提供。機関投資家向け「ゴールドスタンダード」のETF構造を採用。]]></summary>
-        <author>
-            <name>Enzo</name>
         </author>
     </entry>
 </feed>

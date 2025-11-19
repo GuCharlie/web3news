@@ -315,6 +315,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=667677",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨運用企業Bitwiseの最高投資責任者は、ビットコインはサービスであるとの見方を示した。マイクロソフトと比較しながら、価値の本質を説明している。",
+          "link": "https://coinpost.jp/?p=667677",
+          "publishedOn": "2025-11-19T21:48:15.000Z",
+          "wordCount": 3246,
+          "title": "「ビットコインとはサービスである」下落相場の中でBitwise幹部が価値の本質を指摘",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/bitcoin-reserve-toly-against.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/bitcoin-reserve-toly-against.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=667527",
           "author": "Enzo",
           "description": "ストラテジーのセイラー会長がフォックス・ビジネスで、機関投資家の参入によりビットコインのボラティリティが大幅に低下していると発言した。2020年の約80%から現在50%まで縮小し、今後はS&P500の1.5倍程度に収束すると予測している。",
@@ -1168,6 +1183,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/us-government-reopen-crypto-etf-floodgate",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "2026年は仮想通貨ETFの動きが本格化する見通しで、デジタル資産市場への投資家の関心を再び呼び込む可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/us-government-reopen-crypto-etf-floodgate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-19T23:04:28.000Z",
+          "wordCount": 18162,
+          "title": "米政府の再開で仮想通貨ETFが一気に拡大する可能性、アナリストが指摘",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODY1YTgtN2E1Yi03NTIwLWIxNTItNzA5YmMxYjkyZWM1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODY1YTgtN2E1Yi03NTIwLWIxNTItNzA5YmMxYjkyZWM1.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/december-rate-cut-odds-plunge-33-btc-below-89k",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "11月初旬には、12月利下げ確率は67％となっていたが、その後は投資家心理の悪化とともに急落している。",
+          "link": "https://jp.cointelegraph.com/news/december-rate-cut-odds-plunge-33-btc-below-89k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-19T22:46:56.000Z",
+          "wordCount": 18307,
+          "title": "12月の米利下げ確率が33％に低下、BTCは一時8万9,000ドル割れ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTlkZmYtNmNhYy03ZjliLWFkMjEtYmJhNjBiZDcxZmI1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTlkZmYtNmNhYy03ZjliLWFkMjEtYmJhNjBiZDcxZmI1.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/kraken-confidential-ipo-filing-us-markets",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "資産運用会社グレースケール・インベストメンツが同様の動きを発表してから1週間も経たずに、SECへの機密扱いの提出が行われた。",
+          "link": "https://jp.cointelegraph.com/news/kraken-confidential-ipo-filing-us-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-19T22:41:11.000Z",
+          "wordCount": 18006,
+          "title": "米仮想通貨取引所クラーケン、米国IPOに向けS-1を機密扱いで提出",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTljYmMtYjEwOS03ZGQwLWJhMTgtZDlhODY1YzlhYzg3.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTljYmMtYjEwOS03ZGQwLWJhMTgtZDlhODY1YzlhYzg3.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/price-predictions-11-19-btc-eth-xrp-bnb-sol-doge-ada-hype-bch-zcash",
           "author": "Cointelegraph  Rakesh Upadhyay",

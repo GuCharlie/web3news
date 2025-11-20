@@ -375,6 +375,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=668026",
+          "author": "菊谷ルイス",
+          "description": "FGネクサスが1万以上ETHのイーサリアムを売却し自社株買いに充当した。発行済み株式の8%を純資産価値を下回る価格で買い戻し、現在4万5イーサリアムと3700万ドルの現金を保有している。",
+          "link": "https://coinpost.jp/?p=668026",
+          "publishedOn": "2025-11-20T21:45:50.000Z",
+          "wordCount": 3260,
+          "title": "米上場FGネクサス、50億円相当イーサリアムを売却し自社株買いに充当",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/eth-new-eth.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/eth-new-eth.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=668015",
           "author": "菊谷ルイス",
           "description": "仮想通貨ビットコインが6カ月以上ぶりの安値86593ドルまで下落した。予想を上回る米雇用統計で12月の利下げ確率が40%に低下しBTC初期保有者ガンデン氏が13億ドル相当を売却したことが要因に。",
@@ -1513,6 +1528,66 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/us-lawmaker-bill-federal-taxes-pay-bitcoin",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "ビットコイン建ての税収は米国の戦略的BTC備蓄に回され、納税者側には課税事象が発生しない。",
+          "link": "https://jp.cointelegraph.com/news/us-lawmaker-bill-federal-taxes-pay-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-20T22:12:45.000Z",
+          "wordCount": 18168,
+          "title": "税金をビットコインで？米国法案、納税をBTCで可能にする提案",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YWEyYTAtNzQ4ZS03Y2U5LTliNTEtZGQwZWMzMzJkNGZm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YWEyYTAtNzQ4ZS03Y2U5LTliNTEtZGQwZWMzMzJkNGZm.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-og-whale-exits-institutions-rise-etf-ownership",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "ビットコインOGのオーウェン・ガンデン氏が13億ドル相当のBTCを売却し、小口投資家の不安が広がる一方、機関投資家によるビットコインETF保有比率は市場不安の中でも40％に上昇している。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-og-whale-exits-institutions-rise-etf-ownership?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-20T22:05:12.000Z",
+          "wordCount": 18083,
+          "title": "ビットコインクジラのオーウェン・ガンデン氏が13億ドル相当を全て売却",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YWExNGMtNDIxOC03MTA1LWE4Y2QtZTViZGRiNGY0YWU2.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YWExNGMtNDIxOC03MTA1LWE4Y2QtZTViZGRiNGY0YWU2.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-most-bearish-current-bull-cycle-cryptoquant",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "機関投資家の買いが細り、主要指標が悪化する中、ビットコインは弱気圏に入り、現在の市場サイクルの終了を示す可能性が出ている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-most-bearish-current-bull-cycle-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-20T21:59:14.000Z",
+          "wordCount": 18035,
+          "title": "ビットコインが「最も弱気」水準に到達　強気サイクルは終わるのか",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTNiZjktOGY3NS03YzA4LWE0NDUtMWI2NGI0NjI1YmI1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTNiZjktOGY3NS03YzA4LWE0NDUtMWI2NGI0NjI1YmI1.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/sec-enforcement-actions-dropped-paul-atkins",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "ゲーリー・ゲンスラー氏からポール・アトキンス氏への移行により、仮想通貨企業を含むあらゆる分野で執行件数が大幅に減少した。",
+          "link": "https://jp.cointelegraph.com/news/sec-enforcement-actions-dropped-paul-atkins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-20T21:49:06.000Z",
+          "wordCount": 18049,
+          "title": "SEC、ポール・アトキンス体制で執行件数が30％減少＝レポート",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTVkMTQtM2M1Zi03ZjViLWI2NTQtMGY5NThlMWVkNDQ4.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTVkMTQtM2M1Zi03ZjViLWI2NTQtMGY5NThlMWVkNDQ4.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-1120",
           "author": "Cointelegraph  ビットバンク　長谷川友哉",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-20T22:15:21.050Z</updated>
+    <updated>2025-11-20T22:37:59.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コインベース、ETH担保ローンを開始　オンチェーン融資は12億5,000万ドルを突破]]></title>
+        <id>https://jp.cointelegraph.com/news/coinbase-ether-backed-loans-us</id>
+        <link href="https://jp.cointelegraph.com/news/coinbase-ether-backed-loans-us?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-11-20T22:17:29.000Z</updated>
+        <summary type="html"><![CDATA[ユーザーはイーサを担保に最大100万USDCを借りられる。コインベースはBaseを活用したネットワークを拡大し、融資実行額は12億5,000万ドルに達している。]]></summary>
+        <author>
+            <name>Cointelegraph  Nate Kostar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[税金をビットコインで？米国法案、納税をBTCで可能にする提案]]></title>
         <id>https://jp.cointelegraph.com/news/us-lawmaker-bill-federal-taxes-pay-bitcoin</id>

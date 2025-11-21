@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-21T10:17:38.095Z</updated>
+    <updated>2025-11-21T10:42:45.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ストラテジーの株価はビットコインとともに急落]]></title>
+        <id>https://www.coindeskjapan.com/?p=325429</id>
+        <link href="https://www.coindeskjapan.com/325429/"/>
+        <updated>2025-11-21T10:35:00.000Z</updated>
+        <summary type="html"><![CDATA[1年前、企業の財務資産としてビットコイン（BTC）を購入する先駆者となったソフトウェア会社、ストラテジー（Strategy）の株価が過去最高値を記録し、最大の暗 ...
+ストラテジーの株価はビットコインとともに急落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>James Van Straten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phantom、デスクトップ向け取引ツール「Phantom Terminal」ベータ版を公開]]></title>
+        <id>https://crypto-times.jp/?p=148259</id>
+        <link href="https://crypto-times.jp/news-phantom-terminal/"/>
+        <updated>2025-11-21T10:32:06.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産ウォレットのPhantomは新たなプロ向け取引プラットフォーム「Phantom Terminal」のベータ版をリリースしました。これはデスクトップブラウザ上で動作する取引インターフェースであり、これまでモバイルア […]
+投稿 Phantom、デスクトップ向け取引ツール「Phantom Terminal」ベータ版を公開 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マトリックス法によるテクニカル分析（2025/11/21）夜明け前が一番暗い？【楽天ウォレット】]]></title>
+        <id>https://www.coindeskjapan.com/?p=325423</id>
+        <link href="https://www.coindeskjapan.com/325423/"/>
+        <updated>2025-11-21T10:20:10.000Z</updated>
+        <summary type="html"><![CDATA[本稿ではビットコイン相場を①パターン分析 ②移動平均線（9MA・25MA） ③一目均衡表 ④ボリンジャーバンド ⑤MACD ⑥RSIの代表的な6種類のテクニカル ...
+マトリックス法によるテクニカル分析（2025/11/21）夜明け前が一番暗い？【楽天ウォレット】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>松田康生</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米国のビットコインETF、大規模な流出続く　流出額で史上最悪の月になる恐れ]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-etf-outflows-hit-record-november-as-btc-falls</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-etf-outflows-hit-record-november-as-btc-falls?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-11-21T10:16:42.000Z</updated>
+        <summary type="html"><![CDATA[米国の現物ビットコイン（BTC）上場投資信託（ETF）は木曜日、再び大規模な流出を記録し、週前半に見られた短い安堵ムードは完全に打ち消された。]]></summary>
+        <author>
+            <name>Cointelegraph  Ezra Reguerra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨市場の調整局面、個人投資家のETF売却が原因との分析]]></title>
         <id>https://crypto-times.jp/?p=148253</id>
@@ -2853,16 +2896,6 @@ Cboe、ビットコインとイーサリアムの継続先物取引を12月15日
         <link href="https://jp.cointelegraph.com/news/scaramucci-invests-100m-trump-bitcoin-miner?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
         <updated>2025-11-16T22:48:54.000Z</updated>
         <summary type="html"><![CDATA[AJ・スカラムーチ氏が率いるソラリ・キャピタルが、トランプ米大統領の息子らと関係するアメリカン・ビットコインに1億ドル超を投じた。]]></summary>
-        <author>
-            <name>Cointelegraph  Amin Haqshanas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本の金融庁、仮想通貨を金融商品として分類し20％課税検討＝朝日新聞]]></title>
-        <id>https://jp.cointelegraph.com/news/japan-fsa-crypto-financial-products-20-percent-tax-reform</id>
-        <link href="https://jp.cointelegraph.com/news/japan-fsa-crypto-financial-products-20-percent-tax-reform?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-11-16T22:34:10.000Z</updated>
-        <summary type="html"><![CDATA[日本の金融庁は、仮想通貨を金融商品として再分類し、新たな開示義務とインサイダー取引規制を導入したうえで、仮想通貨の税率を55％から一律20％へ引き下げる方針だ。]]></summary>
         <author>
             <name>Cointelegraph  Amin Haqshanas</name>
         </author>

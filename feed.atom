@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-21T20:18:32.032Z</updated>
+    <updated>2025-11-21T20:40:33.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインでデッドクロスを確認　弱気市場入りの可能性が浮上]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-s-death-cross-confirmation-signals-start-of-btc-bear-market</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-s-death-cross-confirmation-signals-start-of-btc-bear-market?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-11-21T20:28:34.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は金曜日に8万ドルまで下落し、弱気市場入りを確定させた可能性が浮上している。過去の長期下落局面に先行してきた複数のテクニカル指標が同時に点灯していることが、この見方を強めている。]]></summary>
+        <author>
+            <name>Cointelegraph  Nancy Lubale</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナとXRPの現物ETF、ビットコインとイーサリアムの大量流出に逆行して資金流入を維持]]></title>
         <id>https://jp.cointelegraph.com/news/solana-xrp-etfs-defy-outflows</id>

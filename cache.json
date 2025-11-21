@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=325209",
+          "author": "廣瀬 優香",
+          "description": "エヌビディア（NVIDIA）の第3四半期決算が予想を上回り、堅調な第4四半期見通しを発表したことを受け、人工知能（AI）およびハイパフォーマンスコンピューティン ...\nAIやHPC関連のビットコインマイナー株、エヌビディア好決算を受け市場前取引で急騰 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/325209/",
+          "publishedOn": "2025-11-21T00:40:00.000Z",
+          "wordCount": 1332,
+          "title": "AIやHPC関連のビットコインマイナー株、エヌビディア好決算を受け市場前取引で急騰",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/c1aac7a4dd223ffc87790d05b0bdb32c3f243878-2946x1736-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=325217",
           "author": "栃山直樹",
           "description": "HashPort（ハッシュポート）が、ステーブルコインでの返済に対応したクレジットカードの発行を11月21日から開始すると20日、日経新聞が報じた。 新たに提供 ...\nHashPortクレカ発行、ステーブルコイン残高からの自動引き落とし実装へ──報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -384,6 +394,111 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=668068",
+          "author": "Enzo",
+          "description": "大手仮想通貨取引所コインベースがイーサリアム担保ローンサービスを開始。最大100万ドルのUSDC借入が可能に。Morphoプロトコル活用でBase上で運用。ニューヨーク州を除く米国ユーザーが利用可能。",
+          "link": "https://coinpost.jp/?p=668068",
+          "publishedOn": "2025-11-21T01:05:01.000Z",
+          "wordCount": 3254,
+          "title": "コインベース、イーサリアム担保ローンを開始　最大約1.57億円まで借入可能",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/coinbase-thumbnail0.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/coinbase-thumbnail0.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=668063",
+          "author": "A.Yamada",
+          "description": "著名投資家レイ・ダリオ氏が総資産の1%を仮想通貨ビットコインで保有していると表明した。量子コンピューターのリスクや金と比較した価値保存手段としての課題を解説している。",
+          "link": "https://coinpost.jp/?p=668063",
+          "publishedOn": "2025-11-21T00:45:08.000Z",
+          "wordCount": 3267,
+          "title": "著名投資家レイ・ダリオ、総資産の1％をビットコインで保有　量子リスクを懸念",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/bitcoin-more-up.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/bitcoin-more-up.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=668053",
+          "author": "菊谷ルイス",
+          "description": "バンエックが19日に公表したレポートで、ビットコインの売り圧力が長期大口投資家ではなく保有期間3〜5年の中期保有者に集中していると分析した。5年以上保有のビットコインは増加傾向を続けている。",
+          "link": "https://coinpost.jp/?p=668053",
+          "publishedOn": "2025-11-20T23:50:32.000Z",
+          "wordCount": 3262,
+          "title": "ビットコイン売り圧力は中期保有者が主因、長期大口は保有継続＝VanEckレポート",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/03/ethereum-whale-dumping_.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/03/ethereum-whale-dumping_.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=668039",
+          "author": "K.Kobayashi",
+          "description": "メタプラネットは、B種永久優先株式の発行を開示。調達した資金は主に仮想通貨ビットコインの財務戦略を推進するために使用すると説明した。",
+          "link": "https://coinpost.jp/?p=668039",
+          "publishedOn": "2025-11-20T23:25:31.000Z",
+          "wordCount": 3267,
+          "title": "約150億円をビットコイン追加購入に使用へ　メタプラネット、B種永久優先株式の発行を開示",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/metaplanet-bitcoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/metaplanet-bitcoin.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=667770",
+          "author": "Ritsuki.Kumazawa",
+          "description": "HashPort Walletが1inchのスワップ技術を統合。ブリッジ不要でクロスチェーンスワップが可能に。JPYCを含む暗号資産を複数のブロックチェーン間で効率的に取引できる環境が整った。",
+          "link": "https://coinpost.jp/?p=667770",
+          "publishedOn": "2025-11-20T23:00:24.000Z",
+          "wordCount": 3303,
+          "title": "HashPort Wallet、1inchのスワップ技術を統合",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/1inch_hashport.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/1inch_hashport.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=668040",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨ETF大手の21シェアーズが20日、ドージコインに2倍のレバレッジをかけた新ETF「TXXD」をナスダックに上場した。ドージコイン財団の公式組織との独占パートナーシップに基づく商品となる。",
+          "link": "https://coinpost.jp/?p=668040",
+          "publishedOn": "2025-11-20T22:55:20.000Z",
+          "wordCount": 3250,
+          "title": "21シェアーズ、ドージコイン2倍レバレッジETFをナスダック上場",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/DOGE_0911b.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/DOGE_0911b.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=668034",
+          "author": "菊谷ルイス",
+          "description": "マイケル・セイラー氏のストラテジー社が主要株価指数から除外される可能性が浮上し、最大88億ドルの資金流出が懸念されている。JPモルガンが警告を発表し、2026年1月15日にMSCIが最終判断を下す予定だ。",
+          "link": "https://coinpost.jp/?p=668034",
+          "publishedOn": "2025-11-20T22:30:29.000Z",
+          "wordCount": 3253,
+          "title": "ストラテジー社に指数除外リスクか、最大1.3兆円流出の可能性＝JPモルガン警告",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/microstrategy-back-in-action-_.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/microstrategy-back-in-action-_.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=668026",
           "author": "菊谷ルイス",

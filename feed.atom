@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-21T09:40:59.957Z</updated>
+    <updated>2025-11-21T10:17:38.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨市場の調整局面、個人投資家のETF売却が原因との分析]]></title>
+        <id>https://crypto-times.jp/?p=148253</id>
+        <link href="https://crypto-times.jp/news-analysis-points-to-retail-investors-selling-etfs/"/>
+        <updated>2025-11-21T10:06:02.000Z</updated>
+        <summary type="html"><![CDATA[JPMorganのマネージングディレクターであるNikolaos Panigirtzoglou氏が率いるアナリストチームは、11月の仮想通貨市場における調整局面について、主に個人投資家による現物ETFの売却が主導している […]
+投稿 仮想通貨市場の調整局面、個人投資家のETF売却が原因との分析 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインが8万ドルに急接近する中、暗号資産ロングで約20億ドルの清算]]></title>
         <id>https://www.coindeskjapan.com/?p=325387</id>
@@ -2854,26 +2865,6 @@ Cboe、ビットコインとイーサリアムの継続先物取引を12月15日
         <summary type="html"><![CDATA[日本の金融庁は、仮想通貨を金融商品として再分類し、新たな開示義務とインサイダー取引規制を導入したうえで、仮想通貨の税率を55％から一律20％へ引き下げる方針だ。]]></summary>
         <author>
             <name>Cointelegraph  Amin Haqshanas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン対ジーキャッシュの議論が激化、ZECが700ドル台を回復]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-zcash-debate-intensify-zec-reclaim-700</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-zcash-debate-intensify-zec-reclaim-700?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-11-16T22:16:48.000Z</updated>
-        <summary type="html"><![CDATA[プライバシーや中央集権性、市場操作を巡って双方のコミュニティの個人が応酬し、ZECが議論を主導し続けている。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRPとソラナの投資家関心には「非常に大きな隔たり」]]></title>
-        <id>https://jp.cointelegraph.com/news/crypto-market-investor-xrp-solana-bitcoin-ethereum-coinbase-exec</id>
-        <link href="https://jp.cointelegraph.com/news/crypto-market-investor-xrp-solana-bitcoin-ethereum-coinbase-exec?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-11-16T22:06:25.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨市場は依然として、ビットコインとイーサリアム以外のどの資産を支持すべきか「非常に不確実な」状況にある、とある幹部が述べた。]]></summary>
-        <author>
-            <name>Cointelegraph  Ciaran Lyons</name>
         </author>
     </entry>
 </feed>

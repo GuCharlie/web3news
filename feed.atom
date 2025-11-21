@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-21T16:20:26.114Z</updated>
+    <updated>2025-11-21T16:44:28.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは8万3000ドルへ急落　短期保有者の損切りがFTX崩壊時以来の規模に]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-realized-losses-reach-ftx-crash-levels</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-realized-losses-reach-ftx-crash-levels?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-11-21T16:35:33.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は8万3000ドル前後まで下落し、売り圧力の強まりによって多くの投資家が損失を抱えたまま売却する展開となっている。これは過去の市場崩壊を想起させる動きとなっている。]]></summary>
+        <author>
+            <name>Cointelegraph  Helen Partz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ミームコイン 時価総額が今年最低水準に急落　NFT市場も4月以来の低水準に]]></title>
         <id>https://jp.cointelegraph.com/news/memecoins-nfts-hit-lowest-2025-crypto-market-selloff</id>
@@ -2884,28 +2894,6 @@ Cboe、ビットコインとイーサリアムの継続先物取引を12月15日
 投稿 主要DEXのLPボールト戦略を徹底比較：Grvtが示す最適解 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金融庁、暗号資産に金商法適用へ。業界は猛反発]]></title>
-        <id>https://crypto-times.jp/?p=147952</id>
-        <link href="https://crypto-times.jp/news-the-financial-services-agency-will-apply-the-financial-instruments-and-exchange-act-to-crypto-assets-the-industry-is-strongly-opposed/"/>
-        <updated>2025-11-17T04:29:11.000Z</updated>
-        <summary type="html"><![CDATA[金融庁が暗号資産を金融商品取引法（金商法）の対象とする方針を固めました。この規制は国内の暗号資産交換業者が扱うビットコイン（BTC）やイーサリアム（ETH）など105銘柄に適用される見通しです。 情報開示では交換業者が詳 […]
-投稿 金融庁、暗号資産に金商法適用へ。業界は猛反発 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインETFはメタプラネットに逆風？CEOが反論]]></title>
-        <id>https://crypto-times.jp/?p=147947</id>
-        <link href="https://crypto-times.jp/news-is-bitcoin-etf-a-headwind-for-metaplanet-ceo-refutes/"/>
-        <updated>2025-11-17T04:26:03.000Z</updated>
-        <summary type="html"><![CDATA[株式会社メタプラネットのCEOであるSimon Gerovich氏は、ビットコインETFの登場が同社にとって逆風になるとの見解に反論しました。 Gerovich氏は、ETFと同社ではビットコイン（BTC）へのエクスポージ […]
-投稿 ビットコインETFはメタプラネットに逆風？CEOが反論 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
         </author>
     </entry>
 </feed>

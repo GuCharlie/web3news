@@ -455,6 +455,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=665838",
+          "author": "Ritsuki.Kumazawa",
+          "description": "金融庁独占取材。暗号資産規制の金商法移行について、銀行グループ子会社の参入、インサイダー取引規制導入、分散型取引所(DEX)対応の狙いを詳しく聞く。投資家保護と健全なイノベーション両立への取り組みを解説。",
+          "link": "https://coinpost.jp/?p=665838",
+          "publishedOn": "2025-11-21T06:44:12.000Z",
+          "wordCount": 3271,
+          "title": "金融庁が語る暗号資産規制改革の全貌──銀行参入、インサイダー規制、DEX対応の狙い｜独占取材",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/10/kinyuchou1001-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/10/kinyuchou1001-1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=668163",
           "author": "幸田直子",
           "description": "ビットコインの基盤ソフトウェアBitcoin Coreが16年の歴史で初となる第三者セキュリティ監査を完了した。Quarkslabによる4ヶ月間の徹底調査で致命的な脆弱性は発見されず、300兆円規模のネットワークの安全性が裏付けられた。",
@@ -1933,6 +1948,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-bar-washington-pubkey-scott-bessent-us-treasury-secretary",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "米国のスコット・ベッセント財務長官が木曜日、ワシントンで新たにオープンしたビットコイン（BTC）テーマのバー「Pubkey」のローンチイベントに予告なしで姿を見せ、ビットコインコミュニティが騒然となった。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-bar-washington-pubkey-scott-bessent-us-treasury-secretary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-21T06:44:47.000Z",
+          "wordCount": 18073,
+          "title": "米国のベッセント財務長官　ビットコインバーにサプライズ登場　コミュニティは「強烈なシグナル」と熱狂",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ0OTEtYzk2My03ZDIzLWI1NjAtNWFjMWZhZWJjYmRl.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGQ0OTEtYzk2My03ZDIzLWI1NjAtNWFjMWZhZWJjYmRl.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/crypto-traders-bitcoin-sentiment-dip-buy-fear",
           "author": "Cointelegraph  Stephen Katte",

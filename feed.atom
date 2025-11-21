@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-21T16:44:28.213Z</updated>
+    <updated>2025-11-21T17:14:24.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナとXRPの現物ETF、ビットコインとイーサリアムの大量流出に逆行して資金流入を維持]]></title>
+        <id>https://jp.cointelegraph.com/news/solana-xrp-etfs-defy-outflows</id>
+        <link href="https://jp.cointelegraph.com/news/solana-xrp-etfs-defy-outflows?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-11-21T17:05:59.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）およびイーサリアム（ETH）の上場投資信託（ETF）が過去最大規模の資金流出に直面するなか、2つのアルトコインETFが市場全体のトレンドに逆らっている。]]></summary>
+        <author>
+            <name>Cointelegraph  Ezra Reguerra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインは8万3000ドルへ急落　短期保有者の損切りがFTX崩壊時以来の規模に]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-realized-losses-reach-ftx-crash-levels</id>

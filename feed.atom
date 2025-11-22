@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-22T20:39:10.631Z</updated>
+    <updated>2025-11-22T21:13:47.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインが一晩で15万ドル上昇？ 「唯一のトリガーは国家レベルの採用」＝プロキャップCIO]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-sovereign-adoption-upside-candle-catalyst-jeff-park</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-sovereign-adoption-upside-candle-catalyst-jeff-park?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-11-22T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）の上昇を引き起こす要因について議論が続くなか、プロキャップの最高投資責任者ジェフ・パク氏は、「鍵となるのは1つだけ」だと語った。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[約120万分の1の確率？ ビットコインのソロマイナーがブロック報酬を単独獲得]]></title>
         <id>https://jp.cointelegraph.com/news/solo-bitcoin-miner-wins-266k-after-beating-million-to-one-odds</id>
@@ -2663,47 +2673,6 @@ Japan Smart Chain上で日本法準拠ステーブルコインを検討、AltX�
 エルサルバドル、価格下落とIMFからの圧力の中、約1000BTCを追加購入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Sam Reynolds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ一族、世界初のトークン化ホテル開発プロジェクト参画を発表]]></title>
-        <id>https://coinpost.jp/?p=667242</id>
-        <link href="https://coinpost.jp/?p=667242"/>
-        <updated>2025-11-18T09:06:11.000Z</updated>
-        <summary type="html"><![CDATA[トランプ・オーガニゼーションとDAR Globalが世界初のトークン化ホテル開発をモルディブで発表。ブロックチェーン技術を活用した新たな不動産投資モデルとして注目される。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave、米国で高利回り貯蓄アプリ「Aave App」開始へ　銀行入金・残高保護に対応]]></title>
-        <id>https://coinpost.jp/?p=667265</id>
-        <link href="https://coinpost.jp/?p=667265"/>
-        <updated>2025-11-18T09:03:42.000Z</updated>
-        <summary type="html"><![CDATA[DeFi大手Aaveが一般ユーザー向け貯蓄アプリ「Aave App」を米国で提供開始予定。最大100万ドルの残高保護、自動積立機能など、従来の銀行預金（平均0.4%）を上回る利便性を提供する。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽天、乃木坂46公演でNFTチケットのリセール実施へ]]></title>
-        <id>https://www.coindeskjapan.com/?p=324768</id>
-        <link href="https://www.coindeskjapan.com/324768/"/>
-        <updated>2025-11-18T08:56:52.000Z</updated>
-        <summary type="html"><![CDATA[楽天は11月17日、同社が運営するNFTチケットのリセールプラットフォーム「みんなのチケット」において、アイドルグループ乃木坂46の公演チケットを対象とした公式 ...
-楽天、乃木坂46公演でNFTチケットのリセール実施へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ユニスワップ、新プロトコル「CCA」を公開。新トークンの流動性形成を支援]]></title>
-        <id>https://www.neweconomy.jp/?p=517666</id>
-        <link href="https://www.neweconomy.jp/posts/517666"/>
-        <updated>2025-11-18T08:53:39.000Z</updated>
-        <summary type="html"><![CDATA[ユニスワップが新トークンの流動性形成を支援へ 分散型取引所（DEX）ユニスワップ（Uniswap）が、新規トークンの価格形成と流動性供給をオンチェーンで実施するプロトコル「コンティニュアス・クリアリング・オークション（C […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>

@@ -570,16 +570,6 @@
           "wordCount": 1316,
           "title": "価格が急落する中、マウントゴックスが約10億ドル相当のビットコインを移動",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2021/06/shutterstock_1340484080-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=324685",
-          "author": "廣瀬 優香",
-          "description": "世界最大規模の分散型暗号資産（仮想通貨）レンディングプラットフォームのアーベ（Aave）は、「貯金口座」に似た消費者向け利回りアプリ「Aave App」を展開し ...\nDeFi大手アーベ、最大利回り6.5%の貯蓄アプリを発表──App Storeで提供へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/324685/",
-          "publishedOn": "2025-11-18T06:40:00.000Z",
-          "wordCount": 1321,
-          "title": "DeFi大手アーベ、最大利回り6.5%の貯蓄アプリを発表──App Storeで提供へ",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/f4155656b1fb2de2f9cbccd873863e4eb98410ed-3840x2160-1.jpg"
         }
       ]
     },
@@ -2120,26 +2110,6 @@
           "wordCount": 793,
           "title": "ビットマイン、イーサリアム総保有数は約356万ETHに",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/18160919/5fa108bf39bad0f6e8261647664410f4.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=517588",
-          "author": "NewEconomy",
-          "description": "「Aqua」を開発者向けに公開 分散型取引所（DEX）アグリゲーターの「1インチ・ネットワーク（1inch Network）」が、新プロトコル「アクア（Aqua）」の開発者向けリリースを11月17日に発表した。 アクアは […]",
-          "link": "https://www.neweconomy.jp/posts/517588",
-          "publishedOn": "2025-11-18T06:43:19.000Z",
-          "wordCount": 788,
-          "title": "1inchが新プロトコル「Aqua」を開発者向けに公開、ウォレット資産を複数同時運用が可能に",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/18154214/750353199c8d2ff7ec7de85962eed51a.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=517568",
-          "author": "OtsugaShinya",
-          "description": "JPYCとDPが地方金融機関の業務連携で共同検討を開始 JPYC社とデジタルプラットフォーマー（DP）が、円建てステーブルコイン（電子決済手段）「JPYC」と北國銀行の預金型トークン「トチカ」との相互連携、および地方金融 […]",
-          "link": "https://www.neweconomy.jp/posts/517568",
-          "publishedOn": "2025-11-18T06:30:38.000Z",
-          "wordCount": 600,
-          "title": "JPYCとデジタルプラットフォーマー、地方金融機関の業務連携に向け共同検討を開始",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/18152942/d095e5508e627b7477090337ed6a1c8f.jpg"
         }
       ]
     },
@@ -2148,6 +2118,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/spot-crypto-etfs-rebound-as-bitcoin-pulls-238m-and-ether-snaps-outflow-streak",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "仮想通貨の現物型上場投資信託（ETF）は週末にかけて反発を見せ、ビットコイン、イーサリアム、ソラナのすべてのファンドが、ボラティリティと下落が続いた1週間の後に資金流入へと転じた。",
+          "link": "https://jp.cointelegraph.com/news/spot-crypto-etfs-rebound-as-bitcoin-pulls-238m-and-ether-snaps-outflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-22T18:24:27.000Z",
+          "wordCount": 18051,
+          "title": "仮想通貨ETFで資金流入が復活　ビットコイン・イーサリアムで反発",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzAzZTEtZWJhZS03Yzg2LTk1NTMtMTA3YzA3MGQzZWM3.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzAzZTEtZWJhZS03Yzg2LTk1NTMtMTA3YzA3MGQzZWM3.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/rich-dad-poor-dad-robert-kiyosaki-sells-btc",
           "author": "Cointelegraph  Vince Quill",

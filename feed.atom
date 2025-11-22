@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-22T18:20:59.137Z</updated>
+    <updated>2025-11-22T18:45:21.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨ETFで資金流入が復活　ビットコイン・イーサリアムで反発]]></title>
+        <id>https://jp.cointelegraph.com/news/spot-crypto-etfs-rebound-as-bitcoin-pulls-238m-and-ether-snaps-outflow-streak</id>
+        <link href="https://jp.cointelegraph.com/news/spot-crypto-etfs-rebound-as-bitcoin-pulls-238m-and-ether-snaps-outflow-streak?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-11-22T18:24:27.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨の現物型上場投資信託（ETF）は週末にかけて反発を見せ、ビットコイン、イーサリアム、ソラナのすべてのファンドが、ボラティリティと下落が続いた1週間の後に資金流入へと転じた。]]></summary>
+        <author>
+            <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインの強欲・恐怖指数は極度の悲観主義を示す──テクニカル的な底が近い可能性]]></title>
         <id>https://www.coindeskjapan.com/?p=325548</id>
@@ -2818,37 +2828,6 @@ JPYC、Digital Platformerと共同検討を開始──地方金融機関との�
         <summary type="html"><![CDATA[ビットコイン価格が今週低迷し、火曜日には8万9550ドルまで下落する中、ビットコインのクジラ（大口投資家）の数が急増している。]]></summary>
         <author>
             <name>Cointelegraph  Brian Quarmby</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1inchが新プロトコル「Aqua」を開発者向けに公開、ウォレット資産を複数同時運用が可能に]]></title>
-        <id>https://www.neweconomy.jp/?p=517588</id>
-        <link href="https://www.neweconomy.jp/posts/517588"/>
-        <updated>2025-11-18T06:43:19.000Z</updated>
-        <summary type="html"><![CDATA[「Aqua」を開発者向けに公開 分散型取引所（DEX）アグリゲーターの「1インチ・ネットワーク（1inch Network）」が、新プロトコル「アクア（Aqua）」の開発者向けリリースを11月17日に発表した。 アクアは […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi大手アーベ、最大利回り6.5%の貯蓄アプリを発表──App Storeで提供へ]]></title>
-        <id>https://www.coindeskjapan.com/?p=324685</id>
-        <link href="https://www.coindeskjapan.com/324685/"/>
-        <updated>2025-11-18T06:40:00.000Z</updated>
-        <summary type="html"><![CDATA[世界最大規模の分散型暗号資産（仮想通貨）レンディングプラットフォームのアーベ（Aave）は、「貯金口座」に似た消費者向け利回りアプリ「Aave App」を展開し ...
-DeFi大手アーベ、最大利回り6.5%の貯蓄アプリを発表──App Storeで提供へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPYCとデジタルプラットフォーマー、地方金融機関の業務連携に向け共同検討を開始]]></title>
-        <id>https://www.neweconomy.jp/?p=517568</id>
-        <link href="https://www.neweconomy.jp/posts/517568"/>
-        <updated>2025-11-18T06:30:38.000Z</updated>
-        <summary type="html"><![CDATA[JPYCとDPが地方金融機関の業務連携で共同検討を開始 JPYC社とデジタルプラットフォーマー（DP）が、円建てステーブルコイン（電子決済手段）「JPYC」と北國銀行の預金型トークン「トチカ」との相互連携、および地方金融 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>

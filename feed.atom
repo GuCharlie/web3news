@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-24T22:15:16.334Z</updated>
+    <updated>2025-11-24T22:40:33.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[XRPが8%上昇、フランクリン・テンプルトンとグレイスケールのETFが取引開始]]></title>
+        <id>https://jp.cointelegraph.com/news/franklin-templeton-xrp-etf-nyse</id>
+        <link href="https://jp.cointelegraph.com/news/franklin-templeton-xrp-etf-nyse?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-11-24T22:35:08.000Z</updated>
+        <summary type="html"><![CDATA[XRPに連動する投資商品が、グレイスケール、ビットワイズ・アセット・マネジメント、カナリー・キャピタルによる他の提供と並んでローンチされた。]]></summary>
+        <author>
+            <name>Cointelegraph  Turner Wright</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ondo、トークン化ファンドの裏付けとしてFigureのステーブルコインに2,500万ドルを投じる]]></title>
+        <id>https://jp.cointelegraph.com/news/ondo-finance-figure-stablecoin-25m-investment-tokenized-fund</id>
+        <link href="https://jp.cointelegraph.com/news/ondo-finance-figure-stablecoin-25m-investment-tokenized-fund?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-11-24T22:29:58.000Z</updated>
+        <summary type="html"><![CDATA[この投資は、Ondo Financeのオンチェーン財務省証券（Treasury）準備資産を拡大するもので、フィンテック企業や貸金業者、取引所でクリプト担保融資への動きが再び活発化する中で実施された。]]></summary>
+        <author>
+            <name>Cointelegraph  Nate Kostar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8万ドルで底か　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ]]></title>
         <id>https://jp.cointelegraph.com/news/price-predictions-11-24-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-bch</id>
@@ -1615,17 +1635,6 @@ HashPortクレカ発行、ステーブルコイン残高からの自動引き落
         <summary type="html"><![CDATA[Aptosのグローバルリーダーが語る、エコシステムの成長戦略と日本市場への本格参入。DeFi、AI、クリエイターエコノミーなど注目分野や、10億ユーザー規模を見据えた技術開発について聞いた。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米アーク、市場の下落を受けて暗号資産関連株を4000万ドル分買い増し]]></title>
-        <id>https://www.coindeskjapan.com/?p=325179</id>
-        <link href="https://www.coindeskjapan.com/325179/"/>
-        <updated>2025-11-20T10:35:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産市場全体が下落する中、アーク・インベスト（Ark Invest）は11月19日に3つの暗号資産（仮想通貨）関連企業の株式を3960万ドル分追加購入した。 ...
-米アーク、市場の下落を受けて暗号資産関連株を4000万ドル分買い増し first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Jamie Crawley</name>
         </author>
     </entry>
 </feed>

@@ -410,16 +410,6 @@
           "wordCount": 1322,
           "title": "ビットコイン、8万8000ドルまで急落──エヌビディアの決算報告受けた反発は短命に終わる",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/dc25ea4fdb3eca3b5ebe7a37e04160796e32a8df-2162x1200-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=325179",
-          "author": "Jamie Crawley",
-          "description": "暗号資産市場全体が下落する中、アーク・インベスト（Ark Invest）は11月19日に3つの暗号資産（仮想通貨）関連企業の株式を3960万ドル分追加購入した。 ...\n米アーク、市場の下落を受けて暗号資産関連株を4000万ドル分買い増し first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/325179/",
-          "publishedOn": "2025-11-20T10:35:00.000Z",
-          "wordCount": 1311,
-          "title": "米アーク、市場の下落を受けて暗号資産関連株を4000万ドル分買い増し",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/EAWKDMFIRREVFJRDIZGCJ3UDHA.jpeg"
         }
       ]
     },
@@ -1268,6 +1258,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/franklin-templeton-xrp-etf-nyse",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "XRPに連動する投資商品が、グレイスケール、ビットワイズ・アセット・マネジメント、カナリー・キャピタルによる他の提供と並んでローンチされた。",
+          "link": "https://jp.cointelegraph.com/news/franklin-templeton-xrp-etf-nyse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-24T22:35:08.000Z",
+          "wordCount": 18020,
+          "title": "XRPが8%上昇、フランクリン・テンプルトンとグレイスケールのETFが取引開始",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDc3OTgtYzdmNy03MGU0LTkyOWUtMDBiZjgyODQ4Y2Uy.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDc3OTgtYzdmNy03MGU0LTkyOWUtMDBiZjgyODQ4Y2Uy.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/ondo-finance-figure-stablecoin-25m-investment-tokenized-fund",
+          "author": "Cointelegraph  Nate Kostar",
+          "description": "この投資は、Ondo Financeのオンチェーン財務省証券（Treasury）準備資産を拡大するもので、フィンテック企業や貸金業者、取引所でクリプト担保融資への動きが再び活発化する中で実施された。",
+          "link": "https://jp.cointelegraph.com/news/ondo-finance-figure-stablecoin-25m-investment-tokenized-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-24T22:29:58.000Z",
+          "wordCount": 18144,
+          "title": "Ondo、トークン化ファンドの裏付けとしてFigureのステーブルコインに2,500万ドルを投じる",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzI2MDktMDMxYi03YWRhLWIzZDItMGNhMWJmODEwNmRi.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzI2MDktMDMxYi03YWRhLWIzZDItMGNhMWJmODEwNmRi.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/price-predictions-11-24-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-bch",
           "author": "Cointelegraph  Rakesh Upadhyay",

@@ -2212,36 +2212,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjRlMjYtNWQzYy03ODVhLWI3ZGUtOGU4YzY2MDM4MmU4.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/us-government-reopen-crypto-etf-floodgate",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "2026年は仮想通貨ETFの動きが本格化する見通しで、デジタル資産市場への投資家の関心を再び呼び込む可能性がある。",
-          "link": "https://jp.cointelegraph.com/news/us-government-reopen-crypto-etf-floodgate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-11-19T23:04:28.000Z",
-          "wordCount": 18162,
-          "title": "米政府の再開で仮想通貨ETFが一気に拡大する可能性、アナリストが指摘",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODY1YTgtN2E1Yi03NTIwLWIxNTItNzA5YmMxYjkyZWM1.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODY1YTgtN2E1Yi03NTIwLWIxNTItNzA5YmMxYjkyZWM1.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/december-rate-cut-odds-plunge-33-btc-below-89k",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "11月初旬には、12月利下げ確率は67％となっていたが、その後は投資家心理の悪化とともに急落している。",
-          "link": "https://jp.cointelegraph.com/news/december-rate-cut-odds-plunge-33-btc-below-89k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-11-19T22:46:56.000Z",
-          "wordCount": 18307,
-          "title": "12月の米利下げ確率が33％に低下、BTCは一時8万9,000ドル割れ",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTlkZmYtNmNhYy03ZjliLWFkMjEtYmJhNjBiZDcxZmI1.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTlkZmYtNmNhYy03ZjliLWFkMjEtYmJhNjBiZDcxZmI1.jpg"
         }
       ]
     },
@@ -2250,6 +2220,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=148351",
+          "author": "boarding bridge",
+          "description": "執筆：Talus Japan AIエージェントが自律的に経済活動を行うための分散型インフラ「Talus Network」のAMAを、boarding bridge（bb）にて開催しました。 今回のAMAでは、Talusが […]\n投稿 スマートコントラクトに「脳」と「手」を。分散型AIインフラ「Talus Network」AMAレポート は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/ama-talus/",
+          "publishedOn": "2025-11-24T11:07:45.000Z",
+          "wordCount": 765,
+          "title": "スマートコントラクトに「脳」と「手」を。分散型AIインフラ「Talus Network」AMAレポート",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/11/Talus_AMA.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=148347",
           "author": "Crypto Times 編集部",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-24T10:45:58.778Z</updated>
+    <updated>2025-11-24T11:14:50.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スマートコントラクトに「脳」と「手」を。分散型AIインフラ「Talus Network」AMAレポート]]></title>
+        <id>https://crypto-times.jp/?p=148351</id>
+        <link href="https://crypto-times.jp/ama-talus/"/>
+        <updated>2025-11-24T11:07:45.000Z</updated>
+        <summary type="html"><![CDATA[執筆：Talus Japan AIエージェントが自律的に経済活動を行うための分散型インフラ「Talus Network」のAMAを、boarding bridge（bb）にて開催しました。 今回のAMAでは、Talusが […]
+投稿 スマートコントラクトに「脳」と「手」を。分散型AIインフラ「Talus Network」AMAレポート は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>boarding bridge</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブラックロック、ビットコイン投資の本質は「デジタルゴールド」　機関投資家が重視する“真の価値”とは？]]></title>
         <id>https://coinpost.jp/?p=668609</id>
@@ -2098,26 +2109,6 @@ FRBの12月利下げ確率、30％に急落 first appeared on CoinDesk JAPAN（�
         <summary type="html"><![CDATA[現在の調整局面は強気相場で最大の下落幅となっているが、データは投げ売り領域に近づいていることを示している。]]></summary>
         <author>
             <name>Cointelegraph  Biraajmaan Tamuly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米政府の再開で仮想通貨ETFが一気に拡大する可能性、アナリストが指摘]]></title>
-        <id>https://jp.cointelegraph.com/news/us-government-reopen-crypto-etf-floodgate</id>
-        <link href="https://jp.cointelegraph.com/news/us-government-reopen-crypto-etf-floodgate?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-11-19T23:04:28.000Z</updated>
-        <summary type="html"><![CDATA[2026年は仮想通貨ETFの動きが本格化する見通しで、デジタル資産市場への投資家の関心を再び呼び込む可能性がある。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12月の米利下げ確率が33％に低下、BTCは一時8万9,000ドル割れ]]></title>
-        <id>https://jp.cointelegraph.com/news/december-rate-cut-odds-plunge-33-btc-below-89k</id>
-        <link href="https://jp.cointelegraph.com/news/december-rate-cut-odds-plunge-33-btc-below-89k?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-11-19T22:46:56.000Z</updated>
-        <summary type="html"><![CDATA[11月初旬には、12月利下げ確率は67％となっていたが、その後は投資家心理の悪化とともに急落している。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-24T22:40:33.868Z</updated>
+    <updated>2025-11-24T23:15:38.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブテリン氏、Xの新しい位置情報機能を「リスクがある」と指摘　仮想通貨ユーザーからプライバシー懸念が噴出]]></title>
+        <id>https://jp.cointelegraph.com/news/crypto-privacy-concerns-x-country-feature</id>
+        <link href="https://jp.cointelegraph.com/news/crypto-privacy-concerns-x-country-feature?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-11-24T23:09:52.000Z</updated>
+        <summary type="html"><![CDATA[ユニスワップ創業者ヘイデン・アダムス氏は、アカウントの所在国を表示するXの新機能を「強制的なドクシング」だと述べた。]]></summary>
+        <author>
+            <name>Cointelegraph  Stephen Katte</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRPが8%上昇、フランクリン・テンプルトンとグレイスケールのETFが取引開始]]></title>
         <id>https://jp.cointelegraph.com/news/franklin-templeton-xrp-etf-nyse</id>
@@ -34,6 +44,16 @@
         <summary type="html"><![CDATA[複数のアナリストが、ビットコインは8万ドルで底入れし、市場はリセットされたと主張している。BTCとアルトコインのチャートはこれに同意しているのか、それとも別の事実を示しているのか。]]></summary>
         <author>
             <name>Cointelegraph  Rakesh Upadhyay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金融庁、仮想通貨交換業者の責任準備金積立を義務化へ　投資家保護を強化＝日経]]></title>
+        <id>https://coinpost.jp/?p=668676</id>
+        <link href="https://coinpost.jp/?p=668676"/>
+        <updated>2025-11-24T21:50:24.000Z</updated>
+        <summary type="html"><![CDATA[金融庁は仮想通貨交換業者に対し、不正流出などの事案に備えて責任準備金の積み立てを義務付けることがわかった。金商法適用の議論が進む中、投資家保護を強化する。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
         </author>
     </entry>
     <entry>
@@ -657,6 +677,16 @@ DeFi流動性120億ドルが遊休状態の「流動性危機」──資本の9
         <summary type="html"><![CDATA[スコット・ベセント米財務長官がビットコインバー「Pubkey DC」を訪問し、仮想通貨コミュニティで話題になっている。業界関係者の反応と今後の影響を解説する。]]></summary>
         <author>
             <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインの買い方｜初心者の不安をまるごと解消【図解・2025最新】]]></title>
+        <id>https://coinpost.jp/?p=512830</id>
+        <link href="https://coinpost.jp/?p=512830"/>
+        <updated>2025-11-21T23:54:30.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインの買い方（始め方）を徹底解説。SBI VCトレード・bitbank・Coincheckなど主要取引所を比較し、安全な購入方法や投資メリットを初心者向けに解説します。最適な取引所選びで失敗しないコツも紹介]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
         </author>
     </entry>
     <entry>
@@ -1625,16 +1655,6 @@ HashPortクレカ発行、ステーブルコイン残高からの自動引き落
         <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aptosのエコシステム責任者が語るエコシステム戦略｜独占インタビュー]]></title>
-        <id>https://coinpost.jp/?p=660657</id>
-        <link href="https://coinpost.jp/?p=660657"/>
-        <updated>2025-11-20T11:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Aptosのグローバルリーダーが語る、エコシステムの成長戦略と日本市場への本格参入。DeFi、AI、クリエイターエコノミーなど注目分野や、10億ユーザー規模を見据えた技術開発について聞いた。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>

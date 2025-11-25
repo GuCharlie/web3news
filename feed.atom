@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-25T22:41:09.542Z</updated>
+    <updated>2025-11-25T23:15:08.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン9万ドルへのショートスクイーズに現実味、資金調達率がマイナス転落]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-short-squeeze-to-dollar90k-possible-as-funding-rates-turn-negative</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-short-squeeze-to-dollar90k-possible-as-funding-rates-turn-negative?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-11-25T23:10:18.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインのマイナス資金調達率と、大量のショート流動性ゾーンは、9万ドル、さらにはそれ以上へのショートスクイーズ発生の可能性を示している。]]></summary>
+        <author>
+            <name>Cointelegraph  Biraajmaan Tamuly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインの8％超が1週間で移動、市場は「際どい局面」に]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-supply-migration-fed-rate-decision</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-supply-migration-fed-rate-decision?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-11-25T22:56:02.000Z</updated>
+        <summary type="html"><![CDATA[米連邦準備制度理事会（FRB）の12月利下げ判断と、利下げを巡る期待変動を見据え、ビットコインは歴史的規模の供給移動を記録した。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025年の仮想通貨投資は「ポートフォリオ分散」が主因に＝シグナム]]></title>
         <id>https://jp.cointelegraph.com/news/crypto-investment-diversification-2025-sygnum-report</id>
@@ -1632,27 +1652,6 @@ Coin Estate、11月25日に8銘柄を同時に取り扱い開始 first appeared 
         <summary type="html"><![CDATA[ルートストック共同創業者がCEO復帰 ルートストックラボ（Rootstock Labs）の共同創業者であるディエゴ・グティエレス・ザルディバル（Diego Gutierrez Zaldivar）が、2年間務めた同社取締役 […]]]></summary>
         <author>
             <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[予測市場Kalshi、評価額110億ドルで10億ドル調達か = 報道]]></title>
-        <id>https://crypto-times.jp/?p=148262</id>
-        <link href="https://crypto-times.jp/news-kalshi-raises-1-billion-at-11-billion-valuation/"/>
-        <updated>2025-11-21T10:51:05.000Z</updated>
-        <summary type="html"><![CDATA[予測市場プラットフォームのKalshiがSequoia CapitalとCapitalGが主導するラウンドで10億ドルを調達し、企業評価額が110億ドルに達したと関係筋が報じました。同社は2ヶ月前にも評価額50億ドルで3 […]
-投稿 予測市場Kalshi、評価額110億ドルで10億ドル調達か = 報道 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RWA市場、2026年までに3倍超の成長も＝プルームCEOが急拡大を予測]]></title>
-        <id>https://jp.cointelegraph.com/news/rwa-market-growth-forecast-plume-securitize-2026</id>
-        <link href="https://jp.cointelegraph.com/news/rwa-market-growth-forecast-plume-securitize-2026?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-11-21T10:42:06.000Z</updated>
-        <summary type="html"><![CDATA[現実世界資産（RWA）の市場価値は、仮想通貨ネイティブの用途やユーティリティを超えて拡大することで、2026年までに3倍以上へと成長する可能性がある。RWA特化型レイヤー2ブロックチェーン「プルーム」の共同創業者兼CEOであるクリス・イン氏は、こう述べている。]]></summary>
-        <author>
-            <name>Cointelegraph  Stephen Katte</name>
         </author>
     </entry>
 </feed>

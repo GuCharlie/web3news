@@ -495,6 +495,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=668833",
+          "author": "Enzo",
+          "description": "CMEグループが11月21日に暗号資産先物・オプション取引で過去最高の79万4,903件を記録。年初来の平均取引高は前年比132%増となり、機関投資家の参入拡大と市場成熟を示す。",
+          "link": "https://coinpost.jp/?p=668833",
+          "publishedOn": "2025-11-25T07:33:34.000Z",
+          "wordCount": null,
+          "title": "CMEグループ、仮想通貨先物・オプション取引が過去最高を更新",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/CMEbitcoin1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/CMEbitcoin1.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=668775",
           "author": "Enzo",
           "description": "SECが英Fuse Energyの実用型トークンを証券非該当と判断し、ノーアクションレターを発行。DePIN分野の規制明確化が進む中、市場規模は190億ドル（約2.9兆円）に達し、前年比270%の急成長を記録。",
@@ -1236,6 +1251,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=520159",
+          "author": "HitomotoToshikazu",
+          "description": "AVAX OneがAVAX取得 米ナスダック（Nasdaq）上場のアバランチ（AVAX）トレジャリー（財務資産）企業エイバックス・ワン・テクノロジー（AVAX One Technology：以下、エイバックス・ワン）が、 […]",
+          "link": "https://www.neweconomy.jp/posts/520159",
+          "publishedOn": "2025-11-25T07:22:53.000Z",
+          "wordCount": 733,
+          "title": "米ナスダック上場のエイバックス・ワンがアバランチ購入、総保有数1,380万AVAXに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/25162237/AVAX-251125PIXTA.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=520158",
+          "author": "gentosha_takahashi",
+          "description": "ビットコインマイニングの復活 中国でビットコインマイニングが4年前に禁止されたにもかかわらず、ひそかに復活しつつある。複数のマイナーや業界データによれば、個人および企業のマイナーが、電力が安価な地域やデータセンター建設が […]",
+          "link": "https://www.neweconomy.jp/posts/520158",
+          "publishedOn": "2025-11-25T07:17:29.000Z",
+          "wordCount": 766,
+          "title": "中国のビットコインマイニングが回復、2021年の禁止措置を覆す動き",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/25161722/BTC-251125Reuters.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=520134",
           "author": "OtsugaShinya",

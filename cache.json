@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=326271",
+          "author": "Will Canny",
+          "description": "ロビンフッドは、ジェフ・ヤス（Jeff Yass）率いるサスケハナ・インターナショナル・グループ（ Susquehanna International Grou ...\nロビンフッド、元FTX傘下プラットフォーム「LedgerX」買収で予測市場に本格参入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/326271/",
+          "publishedOn": "2025-11-26T23:00:00.000Z",
+          "wordCount": 1335,
+          "title": "ロビンフッド、元FTX傘下プラットフォーム「LedgerX」買収で予測市場に本格参入",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/7650347e90d9708b3720120bca490f7be6c9a1b9-1920x1080-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=326265",
           "author": "Krisztian Sandor",
           "description": "S&Pグローバル・レーティングスは、ビットコイン（BTC）などのリスク資産へのエクスポージャー増加と、準備金開示の継続的な不備を理由に、テザーの主力ステ ...\nS&P、テザーのUSDT格下げ──ビットコイン価格下落をリスク要因に挙げる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -1523,6 +1533,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-analysis-89k-short-squeeze-sp500-2-percent-all-time-high",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコインは8万8,000ドルの重要レジスタンスに圧力をかけ続ける中、ショートスクイーズの新たな予測が出た。一方、米株は上昇した。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-analysis-89k-short-squeeze-sp500-2-percent-all-time-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-26T23:10:37.000Z",
+          "wordCount": 18349,
+          "title": "ビットコイン分析、S&P500が最高値まで2％の中、8万9,000ドルのショートスクイーズを予測",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YWMwYmYtMDhkNS03MzM2LThlYjItNmFlNWNiMWFiYTk1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YWMwYmYtMDhkNS03MzM2LThlYjItNmFlNWNiMWFiYTk1.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/tokenized-money-market-funds-bis-stablecoin-contagion-risks",
+          "author": "Cointelegraph  Nate Kostar",
+          "description": "オンチェーンのマネーマーケットファンドは2023年以降で約10倍に成長したが、国際決済銀行（BIS）は、その普及が新たな流動性リスクと伝播リスクをもたらすと警告した。",
+          "link": "https://jp.cointelegraph.com/news/tokenized-money-market-funds-bis-stablecoin-contagion-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-26T23:04:47.000Z",
+          "wordCount": 18067,
+          "title": "トークン化マネーマーケットファンドが90億ドルに急増、BISが新たなリスクに警鐘",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YWMxZjktY2Q2NS03ZTFlLWJmYzEtYmQ5ZWUxNDQ2OTMz.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YWMxZjktY2Q2NS03ZTFlLWJmYzEtYmQ5ZWUxNDQ2OTMz.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-usdt-performance-glassnode",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "最新の分析により、時価総額で最大の仮想通貨と最大のステーブルコインの間に新たな相関があることが明らかになった。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-usdt-performance-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-26T22:41:39.000Z",
+          "wordCount": 18065,
+          "title": "グラスノード、ビットコインとUSDTの活動に「強い負の相関」",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzM1NzctYjkzYy03ZjYxLWI2MjItNTJiMGFhYjdmYjBi.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzM1NzctYjkzYy03ZjYxLWI2MjItNTJiMGFhYjdmYjBi.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/sp-downgrade-usdt-ability-maintain-peg",
           "author": "Cointelegraph  Vince Quill",

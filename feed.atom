@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-26T15:41:25.672Z</updated>
+    <updated>2025-11-26T16:20:55.661Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、短期保有者の投げ売りで信頼される底値シグナルが点灯]]></title>
+        <id>https://www.coindeskjapan.com/?p=326232</id>
+        <link href="https://www.coindeskjapan.com/326232/"/>
+        <updated>2025-11-26T15:54:39.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）はついに、過去2年間の短期的な底値すべてに共通して見られた疲弊ゾーンに達したのかもしれない。 CryptoQuantのデータによると、短期 ...
+ビットコイン、短期保有者の投げ売りで信頼される底値シグナルが点灯 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[感謝祭期間のビットコイン価格は昨年より低い──保有者にとって恩恵は縮小]]></title>
         <id>https://www.coindeskjapan.com/?p=326221</id>
@@ -1997,60 +2008,6 @@ DeFi流動性120億ドルが遊休状態の「流動性危機」──資本の9
         <summary type="html"><![CDATA[ANAPホールディングスが企業のビットコイン活用を支援する継続型プログラム「ANAPビットコイン道場」の提供を開始した。会計や税務などの実務を専門家が包括的にサポートし、参加企業がコミュニティ形式で課題解決に取り組む仕組みを提供する。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラックロック、ステーキング付きイーサリアムETFを登録｜401kで活用なるか]]></title>
-        <id>https://crypto-times.jp/?p=148272</id>
-        <link href="https://crypto-times.jp/news-blackrock-registers-ethereum-etf-with-staking/"/>
-        <updated>2025-11-22T04:20:47.000Z</updated>
-        <summary type="html"><![CDATA[資産運用最大手のブラックロックが11月19日、デラウェア州にて「iShares Staked Ethereum Trust」の法人登録を行いました。これは米国においてステーキング報酬の分配機能を備えたイーサリアム（ETH […]
-投稿 ブラックロック、ステーキング付きイーサリアムETFを登録｜401kで活用なるか は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン納税で「税金免除」か。米国で新法案が提出]]></title>
-        <id>https://crypto-times.jp/?p=148273</id>
-        <link href="https://crypto-times.jp/news-new-us-bill-introduces-potential-tax-exemption-for-bitcoin-taxpayers/"/>
-        <updated>2025-11-22T04:08:39.000Z</updated>
-        <summary type="html"><![CDATA[米国で連邦税の支払いにビットコイン（BTC）を利用可能にし、納付された全額を国家の戦略的備蓄として積み上げる新たな法案が提出されました。 ウォーレン・デビッドソン下院議員が11月20日に提出した「Bitcoin for  […]
-投稿 ビットコイン納税で「税金免除」か。米国で新法案が提出 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コンヴァノがビットコイン戦略から本業回帰、AI・ヘルスケア事業に注力へ]]></title>
-        <id>https://coinpost.jp/?p=668446</id>
-        <link href="https://coinpost.jp/?p=668446"/>
-        <updated>2025-11-22T04:02:24.000Z</updated>
-        <summary type="html"><![CDATA[コンヴァノが仮想通貨ビットコインを最大約2万BTC取得する計画を取り下げ、成長中の事業へ軸足を移す。業績予想を上方修正しており本業成長を重視する戦略転換となる。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップル2ドル割れで露呈した脆弱性。デッドクロス点灯で危機]]></title>
-        <id>https://crypto-times.jp/?p=148274</id>
-        <link href="https://crypto-times.jp/news-ripples-vulnerability-exposed-as-it-falls-below-2-crisis-due-to-dead-cross/"/>
-        <updated>2025-11-22T03:57:46.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産市場は現在2022年後半以来となる深刻な流動性危機に直面しており、過去1か月で1兆ドル以上の価値が消失しました。この市場全体の混乱はビットコイン（BTC）の下落に端を発していますが、その影響はXRPなどの主要な大 […]
-投稿 リップル2ドル割れで露呈した脆弱性。デッドクロス点灯で危機 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IPOラッシュは天井の合図？ビットコイン最高値と連動か]]></title>
-        <id>https://crypto-times.jp/?p=148275</id>
-        <link href="https://crypto-times.jp/news-is-the-ipo-rush-a-sign-of-a-ceiling-is-it-linked-to-bitcoins-record-high/"/>
-        <updated>2025-11-22T03:46:43.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産関連企業の新規株式公開（IPO）が市場の最高値圏で集中する傾向が、2021年に続き2025年の強気相場でも鮮明となりました。 過去のデータと現在の市場動向を照らし合わせると、主要なIPOや上場申請のタイミングがビ […]
-投稿 IPOラッシュは天井の合図？ビットコイン最高値と連動か は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
         </author>
     </entry>
 </feed>

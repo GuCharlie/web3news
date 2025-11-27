@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=326498",
+          "author": "林 理南",
+          "description": "ビットワイズ（Bitwise）は米証券取引委員会（SEC）に提出した現物アバランチ（AVAX）ETF（上場投資信託）の申請を更新した。これにより、このETFは市 ...\nアバランチETFの競争が激化──ビットワイズが初めてステーキング機能を追加 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/326498/",
+          "publishedOn": "2025-11-27T22:00:00.000Z",
+          "wordCount": 1324,
+          "title": "アバランチETFの競争が激化──ビットワイズが初めてステーキング機能を追加",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/shutterstock_2606615213.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=326452",
           "author": "廣瀬 優香",
           "description": "オーストラリア政府は27日、イノベーションの促進と投資家保護を目的としたデジタル資産法案を議会に提出したと発表した。 金融サービス省（Ministry of F ...\nオーストラリア、新たなデジタル資産法案を提出──暗号資産の過去の失敗再発を防ぐ狙い first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -2003,6 +2013,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-significant-step-forward-97k-btc-price-targets-return",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコインは反発基調の継続と先物市場の好材料を受け、10万ドルに近い強気の価格目標が新たに示された。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-significant-step-forward-97k-btc-price-targets-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-27T22:14:11.000Z",
+          "wordCount": null,
+          "title": "ビットコイン9万7,000ドル到達観測が再浮上、価格回復で「前進」の兆し",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YWM1ZjQtMDY3My03OTIwLWIzYmItOThhNzVjYmI0NGMw.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YWM1ZjQtMDY3My03OTIwLWIzYmItOThhNzVjYmI0NGMw.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/trump-alt5-sigma-leadership-shakeup-wlfi-scrutiny",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "トランプ氏と関係するWorld Liberty Financial（WLFI）トークンをバランスシートに保有する仮想通貨トレジャリー企業が、上級幹部2名を交代させた。",
+          "link": "https://jp.cointelegraph.com/news/trump-alt5-sigma-leadership-shakeup-wlfi-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-27T22:04:29.000Z",
+          "wordCount": 18185,
+          "title": "トランプ氏と関係を持つALT5シグマ、WLFIへの監視強まる中で経営陣を刷新",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NjhmZTItYzhkYi03OTcyLThmMTMtOWZmY2M3NzFmMGE1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NjhmZTItYzhkYi03OTcyLThmMTMtOWZmY2M3NzFmMGE1.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/upbit-freezes-deposits-and-withdrawals-after-36m-hot-wallet-breach",
           "author": "Cointelegraph  Ezra Reguerra",

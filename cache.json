@@ -655,6 +655,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=669753",
+          "author": "菊谷ルイス",
+          "description": "ネイバーとアップビット運営のドゥナムが、AIとブロックチェーンを組み合わせた次世代金融インフラ構築に向け、今後5年間で1兆円超を投資する計画を発表した。韓国ウォン連動型ステーブルコイン発行も視野に入れている。",
+          "link": "https://coinpost.jp/?p=669753",
+          "publishedOn": "2025-11-27T22:40:42.000Z",
+          "wordCount": 3246,
+          "title": "ネイバーとアップビット親会社ドゥナム、AIとブロックチェーン融合で1兆円投資へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/naver-ai-investment.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/naver-ai-investment.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=669749",
           "author": "K.Kobayashi",
           "description": "仮想通貨イーサリアムは、ブロックのガスリミットが6000万ユニットに引き上げられた。これにより、フサカアップグレードの前にトランザクション処理能力が向上した。",
@@ -2073,6 +2088,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/solana-etfs-break-streak-xrp-etfs-shine-doge-etfs-stumble",
+          "author": "Cointelegraph  Ezra Reguerra",
+          "description": "転機をつくったのは21シェアーズのソラナETF（TSOL）で、1日で3,400万ドル超の流出が発生した。",
+          "link": "https://jp.cointelegraph.com/news/solana-etfs-break-streak-xrp-etfs-shine-doge-etfs-stumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-27T23:01:27.000Z",
+          "wordCount": 18096,
+          "title": "ソラナETF、21シェアーズのTSOLが3,400万ドル流出で“連勝”が終了",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODhjZTQtYmI0NC03YjEwLWJjNDItYzZlNTAyZjRmMDg5.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODhjZTQtYmI0NC03YjEwLWJjNDItYzZlNTAyZjRmMDg5.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoiners-accuse-jpmorgan-rigging-strategy-dats",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "金融大手がビットコイン連動のレバレッジ型金融商品を米証券取引委員会（SEC）に申請した。",
+          "link": "https://jp.cointelegraph.com/news/bitcoiners-accuse-jpmorgan-rigging-strategy-dats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-27T22:45:39.000Z",
+          "wordCount": 18128,
+          "title": "ビットコイン支持者がJPモルガンを非難、ストラテジーやDATを不利にすると主張",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2IyMDItZDUxZS03MjA3LThlYjctNGQwYTU4MmZhNWYx.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2IyMDItZDUxZS03MjA3LThlYjctNGQwYTU4MmZhNWYx.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/blackrock-etf-buyers-profit-price-90k",
           "author": "Cointelegraph  Zoltan Vardai",

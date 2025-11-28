@@ -1773,21 +1773,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/Solana_mobile_0910.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/Solana_mobile_0910.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=668584",
-          "author": "A.Yamada",
-          "description": "ビットマイン会長が仮想通貨市場の下落が続いている要因を分析した。10月10日の清算イベントがマーケットメーカーを機能不全にしていると見解を示している。",
-          "link": "https://coinpost.jp/?p=668584",
-          "publishedOn": "2025-11-24T01:25:35.000Z",
-          "wordCount": 3257,
-          "title": "「仮想通貨市場の弱体化、背景にマーケットメーカーの機能不全」トム・リーが指摘",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/tomlee2_0530.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/tomlee2_0530.jpg"
         }
       ]
     },
@@ -2553,6 +2538,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/btc-price-pauses-92k-dollars-can-bitcoin-avoid-another-crash",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "ビットコイン（BTC）が9万1400ドル付近まで反発した後、上昇の勢いは鈍りつつあるが、短期的なトレンドは「依然として上向き」との分析が示されている。",
+          "link": "https://jp.cointelegraph.com/news/btc-price-pauses-92k-dollars-can-bitcoin-avoid-another-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-28T13:13:37.000Z",
+          "wordCount": 18093,
+          "title": "ビットコイン 反発の勢いは減速も　短期トレンドは「依然上向き」＝アナリスト",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWQwYWEtNTk1NS03MTAwLTgzMTktZDRhMTU2YmRiNmE4.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWQwYWEtNTk1NS03MTAwLTgzMTktZDRhMTU2YmRiNmE4.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-likely-on-track-worst-november-in-7-years-analysts",
           "author": "Cointelegraph  Martin Young",

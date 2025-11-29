@@ -740,16 +740,6 @@
           "wordCount": 1335,
           "title": "暗号資産市場のムード、好転──アマゾンがAIインフラに約7兆8500億円を投入",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/ff04c9a769990868914d44c10bf5de857a6e081f-5472x3345-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=325736",
-          "author": "林 理南",
-          "description": "ビットコイン（BTC）を保有する最大の上場企業であるストラテジー（Strategy）は、先週ビットコインのポジションを増やしていないようだ。 エグゼクティブ・チ ...\nストラテジー、先週ビットコイン買い増しを一時停止した模様 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/325736/",
-          "publishedOn": "2025-11-24T15:28:03.000Z",
-          "wordCount": 1302,
-          "title": "ストラテジー、先週ビットコイン買い増しを一時停止した模様",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/shutterstock_2624146897.jpg"
         }
       ]
     },
@@ -764,6 +754,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=670212",
+          "author": "菊谷ルイス",
+          "description": "ブルームバーグによると米賭け市場のカルシが無免許でスポーツ賭博を運営し、マーケットメイキング手法について顧客を誤解させたとして集団訴訟を起こされた。共同創設者は主張を否定。",
+          "link": "https://coinpost.jp/?p=670212",
+          "publishedOn": "2025-11-29T04:50:56.000Z",
+          "wordCount": 3238,
+          "title": "米賭けサイトカルシ、無免許スポーツ賭博運営で提訴",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/kalshi-kalshi.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/kalshi-kalshi.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=670197",
+          "author": "A.Yamada",
+          "description": "ブラックロックが7～9月期に債券ファンドで自社ビットコインETF「IBIT」を買い増していた。9月末時点で1.5億ドル相当を保有。ビットコイン現物ETFへの流入はここ数日復活傾向だ。",
+          "link": "https://coinpost.jp/?p=670197",
+          "publishedOn": "2025-11-29T04:10:52.000Z",
+          "wordCount": 3261,
+          "title": "ブラックロック、債券ファンドでビットコインETF「IBIT」を買い増し",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/blackrock_1028.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/blackrock_1028.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=667803",
+          "author": "hiroto.yoshii",
+          "description": "2025年、仮想通貨業界で総額14億ドル規模に達したバイバック。ハイパーリキッド（HYPE）やパンプファン（PUMP）など、実際にバイバックを実施している6銘柄を徹底解説。株式の自社株買いとの違いや投資リスクもわかりやすく紹介します。",
+          "link": "https://coinpost.jp/?p=667803",
+          "publishedOn": "2025-11-29T03:03:26.000Z",
+          "wordCount": 2577,
+          "title": "仮想通貨のバイバックとは？2025年注目の6銘柄を解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/Buyback1127.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/Buyback1127.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=669522",
+          "author": "Ritsuki.Kumazawa",
+          "description": "Progmat代表・齊藤達哉氏に独占取材。1円単位・24時間取引可能な「トークン化株式」の仕組みと、議決権や優待も得られる投資家メリット、リアルタイム株主把握など発行企業メリットを聞いた。",
+          "link": "https://coinpost.jp/?p=669522",
+          "publishedOn": "2025-11-29T03:00:02.000Z",
+          "wordCount": 3306,
+          "title": "24時間・1円から取引可能に　Progmat齊藤達哉氏が語る「トークン化株式」の全貌｜独占インタビュー【前編】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/1128_progmat%EF%BC%BF1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/1128_progmat%EF%BC%BF1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=670193",
           "author": "菊谷ルイス",
@@ -2613,6 +2663,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-sentiment-index-extreme-fear-stretch-flips-fear",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "18日間にわたり主要センチメント指数の底に張り付いていた仮想通貨市場に、わずかながら改善の兆しが見られた。",
+          "link": "https://jp.cointelegraph.com/news/crypto-sentiment-index-extreme-fear-stretch-flips-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-29T05:51:22.000Z",
+          "wordCount": 18043,
+          "title": "仮想通貨市場センチメントに改善の兆し、「極度の恐怖」から18日ぶりに脱却",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTg1NzItNTk5ZC03YjM2LWJhM2UtYzYyYjlkYTEwMDc4.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTg1NzItNTk5ZC03YjM2LWJhM2UtYzYyYjlkYTEwMDc4.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/tether-confirms-bitcoin-mining-halt-uruguay",
           "author": "Cointelegraph  Helen Partz",

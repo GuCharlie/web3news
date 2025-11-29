@@ -620,16 +620,6 @@
           "wordCount": 1464,
           "title": "中国、ビットコインマイニングのシェア14％で世界第3位に返り咲き：ロイター",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/604b0fc743ca409ef9b9240c3f4446fe92e312c3-1000x667_1200.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=325887",
-          "author": "Krisztian Sandor",
-          "description": "イーサリアム（ETH）最大のトレジャリー企業であるビットマイン・イマージョン・テクノロジーズ（BitMine Immersion Technology）は、暗号 ...\nビットマイン、7万ETHを追加購入──ETH総供給量の3%を保有 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/325887/",
-          "publishedOn": "2025-11-25T08:55:00.000Z",
-          "wordCount": 1405,
-          "title": "ビットマイン、7万ETHを追加購入──ETH総供給量の3%を保有",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/13c2f3d8f4a14835d564bac5cf5d5cdd106bdcfd-1919x1080_1200.jpg"
         }
       ]
     },
@@ -1663,21 +1653,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/texas-bitcoin-bill.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/texas-bitcoin-bill.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=668809",
-          "author": "Enzo",
-          "description": "仮想通貨投資大手ギャラクシー・デジタルが予測市場プラットフォームのポリマーケットとカルシでマーケットメイカーとして流動性提供を検討。既に小規模実験を開始しており、機関投資家の参入で市場の成熟が加速する可能性。",
-          "link": "https://coinpost.jp/?p=668809",
-          "publishedOn": "2025-11-25T08:47:36.000Z",
-          "wordCount": 3255,
-          "title": "ギャラクシー・デジタル、ポリマーケットとカルシで流動性提供を検討＝ブルームバーグ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2018/07/galaxydigital0727.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2018/07/galaxydigital0727.png"
         }
       ]
     },
@@ -2195,16 +2170,6 @@
           "wordCount": 743,
           "title": "アップビット運営元ドゥナム、ネイバー傘下入りへ。統合後にナスダック上場を検討か＝報道",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/25181644/6894d1ca597007e444b85c143c7946b7.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=520245",
-          "author": "NewEconomy",
-          "description": "ワームホール、モナドの資産移転基盤を整備 相互運用プロトコルのワームホール（Wormhole）が、レイヤー1ブロックチェーン「モナド（Monad）」とイーサリアム（Ethereum）の資産移転に対応する新ブリッジ「モナド […]",
-          "link": "https://www.neweconomy.jp/posts/520245",
-          "publishedOn": "2025-11-25T08:48:09.000Z",
-          "wordCount": 774,
-          "title": "ワームホール、モナドとイーサリアム接続の「ネイティブブリッジ」発表。ソラナ向けゲートウェイ「Sunrise」も公開",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/25174742/83e2d680e73f7af80b068f5033b7cc14.jpg"
         }
       ]
     },
@@ -2213,6 +2178,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/uk-expands-crypto-reporting-rules-domestic-carf-mandate",
+          "author": "Cointelegraph  Nate Kostar",
+          "description": "英国は、2026年から国内の仮想通貨プラットフォームに対し、英国居住者のすべての取引を報告することを義務付ける方針を示した。これにより、暗号資産報告フレームワーク（CARF）の対象範囲が国内取引にも拡大される。",
+          "link": "https://jp.cointelegraph.com/news/uk-expands-crypto-reporting-rules-domestic-carf-mandate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-11-29T21:00:00.000Z",
+          "wordCount": 18043,
+          "title": "英国、2026年から国内の仮想通貨取引も報告対象に拡大　税務当局がアクセス",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTM1YTctNGY2Zi03M2M1LTkxNWQtNTA1YjMwYmVlYzg1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTM1YTctNGY2Zi03M2M1LTkxNWQtNTA1YjMwYmVlYzg1.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/spot-bitcoin-etfs-end-four-week-outflows-70m-weekly-inflows",
           "author": "Cointelegraph  Amin Haqshanas",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-30T10:15:54.164Z</updated>
+    <updated>2025-11-30T10:40:00.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北朝鮮ハッカー部隊のAI活用で暗号資産犯罪が進化]]></title>
+        <id>https://www.coindeskjapan.com/?p=326837</id>
+        <link href="https://www.coindeskjapan.com/326837/"/>
+        <updated>2025-11-30T10:36:26.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産犯罪に変化が訪れており、北朝鮮の国家的な支援を受けたハッカーたちがその先頭に立っている。 Mysten Labsの共同創設者兼チーフ暗号学者であるコスタ ...
+北朝鮮ハッカー部隊のAI活用で暗号資産犯罪が進化 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>T. Minamoto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFiの550億ドル急落を、心配し過ぎなくてよい理由]]></title>
         <id>https://www.coindeskjapan.com/?p=326826</id>
@@ -2756,36 +2767,6 @@ SGXのビットコイン・イーサリアム永久先物、約55億円の取引
         <summary type="html"><![CDATA[米連邦準備制度理事会（FRB）の12月利下げ判断と、利下げを巡る期待変動を見据え、ビットコインは歴史的規模の供給移動を記録した。]]></summary>
         <author>
             <name>Cointelegraph  Zoltan Vardai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨支持派のホワイトハウス経済顧問ハセット氏、次期FRB議長の最有力候補に浮上]]></title>
-        <id>https://coinpost.jp/?p=669032</id>
-        <link href="https://coinpost.jp/?p=669032"/>
-        <updated>2025-11-25T22:35:58.000Z</updated>
-        <summary type="html"><![CDATA[ホワイトハウス国家経済会議のケビン・ハセット委員長が次期FRB議長の最有力候補として浮上。トランプ大統領の信頼が厚く金利引き下げ方針に賛同する人物で、デジタル資産市場作業部会で中心的役割を果たしコインベース株も保有。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年の仮想通貨投資は「ポートフォリオ分散」が主因に＝シグナム]]></title>
-        <id>https://jp.cointelegraph.com/news/crypto-investment-diversification-2025-sygnum-report</id>
-        <link href="https://jp.cointelegraph.com/news/crypto-investment-diversification-2025-sygnum-report?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-11-25T22:27:42.000Z</updated>
-        <summary type="html"><![CDATA[2025年の仮想通貨投資では分散化が最も重要な動機となっており、ETF需要の高まりと依然残る規制の空白が投資家行動を左右している。]]></summary>
-        <author>
-            <name>Cointelegraph  Amin Haqshanas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21シェアーズ、仮想通貨カストディにスタンダードチャータードを採用]]></title>
-        <id>https://jp.cointelegraph.com/news/standard-chartered-21shares-crypto-custody-shift</id>
-        <link href="https://jp.cointelegraph.com/news/standard-chartered-21shares-crypto-custody-shift?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-11-25T22:22:31.000Z</updated>
-        <summary type="html"><![CDATA[スタンダードチャータードが21シェアーズにデジタル資産カストディを提供し、伝統金融の仮想通貨分野への参入が一段と進む一方で、ゾディア・カストディの役割が今後どうなるかが焦点となっている。]]></summary>
-        <author>
-            <name>Cointelegraph  Adrian Zmudzinski</name>
         </author>
     </entry>
 </feed>

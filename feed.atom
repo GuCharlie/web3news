@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-01T12:35:44.937Z</updated>
+    <updated>2025-12-01T13:32:46.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[リミックスポイント、Web3関連事業への12億円投資を中止]]></title>
+        <id>https://www.coindeskjapan.com/?p=327076</id>
+        <link href="https://www.coindeskjapan.com/327076/"/>
+        <updated>2025-12-01T13:06:26.000Z</updated>
+        <summary type="html"><![CDATA[リミックスポイントは12月1日、新株予約権の発行により調達した資金の使途を変更し、当初計画していた「Web3.0関連事業への投資」を中止すると発表した。 同社は ...
+リミックスポイント、Web3関連事業への12億円投資を中止 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>栃山直樹</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【今日の暗号資産ニュース】暗号資産が分離課税対象へ。BTC急落で9万ドル割れ]]></title>
         <id>https://crypto-times.jp/?p=148753</id>
@@ -2748,36 +2759,6 @@ UAEの新しい中央銀行法は、世界の暗号資産市場における地�
         <summary type="html"><![CDATA[ストラテジー社は、仮想通貨ビットコインの価格が同社の平均購入価格である74,000ドルまで下落しても、転換社債に対して5.9倍の資産を保有していることになると投稿。債務の安全性を強調した。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国最大級仮想通貨取引所Upbit、ネイバーと合併　約1.5兆円規模の株式交換で傘下に]]></title>
-        <id>https://coinpost.jp/?p=669430</id>
-        <link href="https://coinpost.jp/?p=669430"/>
-        <updated>2025-11-27T01:30:52.000Z</updated>
-        <summary type="html"><![CDATA[韓国IT大手ネイバーが仮想通貨取引所Upbit運営のドゥナムを1.5兆円規模で買収。韓国国内シェア7割超のUpbitとネイバーペイを統合し総合デジタル金融エコシステムを構築。2025年6月の合併発効を目指す。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCマイナーのクリーンスパーク決算発表、売上高が過去最高に　AIインフラを拡大中]]></title>
-        <id>https://coinpost.jp/?p=669418</id>
-        <link href="https://coinpost.jp/?p=669418"/>
-        <updated>2025-11-27T01:15:54.000Z</updated>
-        <summary type="html"><![CDATA[ナスダック上場のビットコインマイナー、クリーンスパークが決算報告。過去最高の売上高を記録した。AIとビットコインの両ワークロード対応の包括的プラットフォームへ進化中だ。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナ特化型ウペクシが最大35億円調達、SOL財務戦略などに利用]]></title>
-        <id>https://coinpost.jp/?p=669421</id>
-        <link href="https://coinpost.jp/?p=669421"/>
-        <updated>2025-11-27T00:55:05.000Z</updated>
-        <summary type="html"><![CDATA[ナスダック上場のウペクシが普通株式とワラントの私募により最大2300万ドルを調達すると発表した。調達資金は仮想通貨ソラナ財務戦略と運転資本に充てられる予定だ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

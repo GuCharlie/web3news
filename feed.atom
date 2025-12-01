@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-01T17:47:24.301Z</updated>
+    <updated>2025-12-01T18:27:48.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[グレースケール、米国初の現物チェーンリンクETFを今週上場へ]]></title>
+        <id>https://jp.cointelegraph.com/news/grayscale-set-launch-first-ever-spot-link-etf-via-trust-conversion</id>
+        <link href="https://jp.cointelegraph.com/news/grayscale-set-launch-first-ever-spot-link-etf-via-trust-conversion?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-12-01T18:10:57.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨資産運用会社グレースケールが、米国初の現物チェーンリンク（LINK）上場投資信託（ETF）を今週にもローンチする見通しとなった。]]></summary>
+        <author>
+            <name>Cointelegraph  Brian Quarmby</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインが一時8万4000ドル割れ　アジア発の弱気材料と米ウォール街の売りで逆風強まる]]></title>
         <id>https://jp.cointelegraph.com/news/btc-price-dips-under-84k-bitcoin-faces-pivotal-week-2025-candle</id>
@@ -2478,48 +2488,6 @@ UAEの新しい中央銀行法は、世界の暗号資産市場における地�
         <summary type="html"><![CDATA[株式トークン販売の規制緩和を取引所団体がリスク指摘 米証券取引委員会（SEC）が、暗号資産（仮想通貨）企業に対し「トークン化株式」の販売に関する規制緩和を認める可能性のある計画は、投資家に損害を与える恐れがあると、世界の […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップル社のステーブルコイン「RLUSD」、アブダビADGMが正式認定]]></title>
-        <id>https://coinpost.jp/?p=669548</id>
-        <link href="https://coinpost.jp/?p=669548"/>
-        <updated>2025-11-27T06:07:27.000Z</updated>
-        <summary type="html"><![CDATA[中東での企業利用が加速へリップル社は27日、同社の米ドル連動型ステーブルコイン「RLUSD」が、アブダビ金融サービス規制庁（FSRA）により「法定通貨参照トークン」として正式に認定されたと発表した。アブダビ国際金融センター（ADGM）の規制...]]></summary>
-        <author>
-            <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【デジタル証券フォーラム2025】地域性や先進性を生かしプレーヤーの拡大に取り組む]]></title>
-        <id>https://www.coindeskjapan.com/?p=326066</id>
-        <link href="https://www.coindeskjapan.com/326066/"/>
-        <updated>2025-11-27T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[デジタル証券「セキュリティ・トークン（ST）」の国内市場は、2020年に法制化されて以降5年で拡大した。生成AIなどデジタル技術がさらに進展する中で、STの可能 ...
-【デジタル証券フォーラム2025】地域性や先進性を生かしプレーヤーの拡大に取り組む first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>CoinDesk JAPAN 広告制作チーム</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン保有企業ストラテジー、BTC急落後の懸念払拭へ　「70年分の配当余力」と強固な財務基盤を強調]]></title>
-        <id>https://jp.cointelegraph.com/news/strategy-btc-rating-debt-safe-bitcoin-slumps</id>
-        <link href="https://jp.cointelegraph.com/news/strategy-btc-rating-debt-safe-bitcoin-slumps?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-11-27T05:53:04.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン市場の下落と、デジタル資産トレジャリー（DAT）銘柄の急反落を受け、世界最大のビットコイン保有企業であるストラテジー（旧マイクロストラテジー）が、投資家のバランスシート懸念の払拭に動いている。]]></summary>
-        <author>
-            <name>Cointelegraph  Zoltan Vardai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン底打ちのサインか？FTが悲観記事を3本立てで掲載]]></title>
-        <id>https://www.coindeskjapan.com/?p=326278</id>
-        <link href="https://www.coindeskjapan.com/326278/"/>
-        <updated>2025-11-27T05:50:00.000Z</updated>
-        <summary type="html"><![CDATA[打撃を受けたビットコイン（BTC）強気派は、最近の35%の価格急落後に、いつもの面々からこのセクターの訃報が殺到していることに勇気づけられるだろう。 実際、フィ ...
-ビットコイン底打ちのサインか？FTが悲観記事を3本立てで掲載 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
         </author>
     </entry>
 </feed>

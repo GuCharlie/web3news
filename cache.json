@@ -1845,36 +1845,6 @@
           "wordCount": 764,
           "title": "クシム、ブロックチェーン技術の研究開発組織「Kushim Labs」創設、INTMAXと提携も",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/27182228/9167dd4211e4ed47f804a0ef398b1248.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=521462",
-          "author": "NewEconomy",
-          "description": "バリュークリエーションが1億円でビットコイン追加購入 マーケティングおよび不動産のDX事業を手掛ける東証グロース上場企業のバリュークリエーションが、ビットコインの追加購入を11月25日に発表した。 発表によると今回バリュ […]",
-          "link": "https://www.neweconomy.jp/posts/521462",
-          "publishedOn": "2025-11-27T09:13:57.000Z",
-          "wordCount": 744,
-          "title": "バリュークリエーション、1億円でビットコイン追加購入",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/27181344/e288939e223d00938e4acb28c002b7fb.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=521466",
-          "author": "NewEconomy",
-          "description": "クオンタムソリューションズがETH追加取得 日本の上場企業におけるイーサリアム保有数最大の東証スタンダード上場企業クオンタムソリューションズが、暗号資産（仮想通貨）イーサリアム（ETH）の追加取得を11月25日に発表した […]",
-          "link": "https://www.neweconomy.jp/posts/521466",
-          "publishedOn": "2025-11-27T09:10:36.000Z",
-          "wordCount": 755,
-          "title": "クオンタムソリューションズ、イーサリアム総保有数は約5030ETHに",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/27181020/6988096d35df602a2829d004844842f8.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=521453",
-          "author": "HitomotoToshikazu",
-          "description": "RLUSDがアブダビで認定 リップル（Ripple）社の米ドル連動型ステーブルコイン「リップルUSD（RLUSD）」が、アブダビグローバルマーケット（ADGM）の金融サービス規制当局（FSRA）から、法定通貨参照トークン […]",
-          "link": "https://www.neweconomy.jp/posts/521453",
-          "publishedOn": "2025-11-27T08:52:08.000Z",
-          "wordCount": 787,
-          "title": "リップルの米ドルステーブルコイン「RLUSD」、ADGMで法定通貨参照トークンに認定",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/27175144/28140ff4942cee4d89d17e0786b5f910.jpg"
         }
       ]
     },
@@ -1883,6 +1853,16 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-miners-enter-harshest-margin-environment-of-all-time",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "ビットコイン・マイニング業界は、15年の歴史で最も深刻な経済的低迷期に入っている。上場している大手マイニング企業でさえ、マイニング収益の急落と債務増大の中で採算確保に苦しんでいる状況が明らかになった。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-miners-enter-harshest-margin-environment-of-all-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-01T21:00:00.000Z",
+          "wordCount": 18036,
+          "title": "ビットコイン・マイニング業界、過去15年で「最も厳しい環境に」　収益急減と債務増大が影響",
+          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019ada79-c0ab-7489-9dd8-9081567babd2"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/grayscale-set-launch-first-ever-spot-link-etf-via-trust-conversion",
           "author": "Cointelegraph  Brian Quarmby",

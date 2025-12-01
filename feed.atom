@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-01T10:19:57.842Z</updated>
+    <updated>2025-12-01T10:47:17.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
@@ -26,6 +26,16 @@
 暗号資産の所得に20％の分離課税、政府・与党が調整入る──日経報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>栃山直樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日経グループQUICK、ビットコイン指数の算出開始]]></title>
+        <id>https://coinpost.jp/?p=670484</id>
+        <link href="https://coinpost.jp/?p=670484"/>
+        <updated>2025-12-01T09:34:53.000Z</updated>
+        <summary type="html"><![CDATA[QUICKは12月1日、円建てビットコイン指数の本格公表を開始した。試験運用から更新頻度を毎日に引き上げ、12月22日からはリアルタイム指数も提供する。暗号資産ETFなどでの利用を想定。]]></summary>
+        <author>
+            <name>Ritsuki.Kumazawa</name>
         </author>
     </entry>
     <entry>
@@ -2775,26 +2785,6 @@ UAEの新しい中央銀行法は、世界の暗号資産市場における地�
 ロビンフッド、元FTX傘下プラットフォーム「LedgerX」買収で予測市場に本格参入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Will Canny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グラスノード、ビットコインとUSDTの活動に「強い負の相関」]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-usdt-performance-glassnode</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-usdt-performance-glassnode?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-11-26T22:41:39.000Z</updated>
-        <summary type="html"><![CDATA[最新の分析により、時価総額で最大の仮想通貨と最大のステーブルコインの間に新たな相関があることが明らかになった。]]></summary>
-        <author>
-            <name>Cointelegraph  Turner Wright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S&P、USDTのドルペッグ評価を最下位に引き下げ]]></title>
-        <id>https://jp.cointelegraph.com/news/sp-downgrade-usdt-ability-maintain-peg</id>
-        <link href="https://jp.cointelegraph.com/news/sp-downgrade-usdt-ability-maintain-peg?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-11-26T22:24:16.000Z</updated>
-        <summary type="html"><![CDATA[S&Pグローバル・レーティングはテザー（USDT）のドルペッグ維持力を最下位評価に引き下げ、安定性への懸念を示した。テザーはこのレポートを「誤解を招くもの」と位置付けた。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
         </author>
     </entry>
 </feed>

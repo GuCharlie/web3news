@@ -775,6 +775,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=670484",
+          "author": "Ritsuki.Kumazawa",
+          "description": "QUICKは12月1日、円建てビットコイン指数の本格公表を開始した。試験運用から更新頻度を毎日に引き上げ、12月22日からはリアルタイム指数も提供する。暗号資産ETFなどでの利用を想定。",
+          "link": "https://coinpost.jp/?p=670484",
+          "publishedOn": "2025-12-01T09:34:53.000Z",
+          "wordCount": 3272,
+          "title": "日経グループQUICK、ビットコイン指数の算出開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": ""
+          },
+          "imageUrl": "https://coinpost.jp/wp-content/uploads/2025/12/btcindicator_article1201.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=670505",
           "author": "Enzo",
           "description": "テスラCEOのイーロン・マスク氏が「エネルギーこそ真の通貨」と主張し、ビットコインはエネルギーに基づいていると説明。一方、著名経済学者やピーター・シフ氏は「本質的価値がない」と批判を続けている。",
@@ -2877,36 +2892,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YWMxZjktY2Q2NS03ZTFlLWJmYzEtYmQ5ZWUxNDQ2OTMz.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-usdt-performance-glassnode",
-          "author": "Cointelegraph  Turner Wright",
-          "description": "最新の分析により、時価総額で最大の仮想通貨と最大のステーブルコインの間に新たな相関があることが明らかになった。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-usdt-performance-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-11-26T22:41:39.000Z",
-          "wordCount": 18065,
-          "title": "グラスノード、ビットコインとUSDTの活動に「強い負の相関」",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzM1NzctYjkzYy03ZjYxLWI2MjItNTJiMGFhYjdmYjBi.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzM1NzctYjkzYy03ZjYxLWI2MjItNTJiMGFhYjdmYjBi.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/sp-downgrade-usdt-ability-maintain-peg",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "S&Pグローバル・レーティングはテザー（USDT）のドルペッグ維持力を最下位評価に引き下げ、安定性への懸念を示した。テザーはこのレポートを「誤解を招くもの」と位置付けた。",
-          "link": "https://jp.cointelegraph.com/news/sp-downgrade-usdt-ability-maintain-peg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-11-26T22:24:16.000Z",
-          "wordCount": 18189,
-          "title": "S&P、USDTのドルペッグ評価を最下位に引き下げ",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDNhYmQtZDEwMS03MjU4LTg2OGItMWM0YmIxYzk1ZjNm.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDNhYmQtZDEwMS03MjU4LTg2OGItMWM0YmIxYzk1ZjNm.jpg"
         }
       ]
     },

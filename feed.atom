@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-02T23:15:20.641Z</updated>
+    <updated>2025-12-02T23:37:45.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムのFusakaアップグレード：コアを壊さずにロールアップを拡張する]]></title>
+        <id>https://jp.cointelegraph.com/news/ethereum-fusaka-upgrade-scaling-rollups-without-breaking-the-core</id>
+        <link href="https://jp.cointelegraph.com/news/ethereum-fusaka-upgrade-scaling-rollups-without-breaking-the-core?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-12-02T23:18:46.000Z</updated>
+        <summary type="html"><![CDATA[Bitwise Onchain Solutionsは、イーサリアムのFusakaアップグレードが、大規模なハードフォークではなく、より迅速で狙いを絞った変更によってネットワークを戦略的に進化させる点を説明した。]]></summary>
+        <author>
+            <name>Cointelegraph  Christina Comben</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バンク・オブ・アメリカが仮想通貨1〜4％の配分を推奨、ビットコインETFへの道を開く]]></title>
         <id>https://jp.cointelegraph.com/news/bank-of-america-4-crypto-allocation-bitcoin-etfs</id>
@@ -211,6 +221,16 @@ AIエージェントはDeFiに対する攻撃能力がある：Anthropicの研�
 投稿 ソニー銀行、米ステーブルコイン企業と提携 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムの買い方｜初心者向け取引所比較とリスク・税金まで解説]]></title>
+        <id>https://coinpost.jp/?p=516165</id>
+        <link href="https://coinpost.jp/?p=516165"/>
+        <updated>2025-12-02T09:00:10.000Z</updated>
+        <summary type="html"><![CDATA[米国初のビットコインETF承認の影響でBTC価格が過去最高値を更新し、仮想通貨投資による資産運用の注目度が急上昇しています。本記事では初心者向けに高騰するイーサリアム（ETH）の買い方、アルトコイン投資のメリットやデメリット、リスクなどを解説しています。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
         </author>
     </entry>
     <entry>

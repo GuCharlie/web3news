@@ -770,6 +770,21 @@
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/sample_thumbnail1202.jpg"
         },
         {
+          "id": "https://coinpost.jp/?p=516165",
+          "author": "CoinPost編集部",
+          "description": "米国初のビットコインETF承認の影響でBTC価格が過去最高値を更新し、仮想通貨投資による資産運用の注目度が急上昇しています。本記事では初心者向けに高騰するイーサリアム（ETH）の買い方、アルトコイン投資のメリットやデメリット、リスクなどを解説しています。",
+          "link": "https://coinpost.jp/?p=516165",
+          "publishedOn": "2025-12-02T09:00:10.000Z",
+          "wordCount": 9667,
+          "title": "イーサリアムの買い方｜初心者向け取引所比較とリスク・税金まで解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/241010_coinpost_516165_1200.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/241010_coinpost_516165_1200.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=670846",
           "author": "Enzo",
           "description": "米FRBが12月1日、3年半にわたる量的引き締め(QT)を終了した。約2.4兆ドル規模の資産縮小後、仮想通貨市場への流動性改善が期待される。2019年QT終了時はビットコインが短期下落後に上昇した経緯があるが、専門家は政策効果の遅延やインフレ動向など不確実性に慎重な見方も示している。",
@@ -1828,6 +1843,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/ethereum-fusaka-upgrade-scaling-rollups-without-breaking-the-core",
+          "author": "Cointelegraph  Christina Comben",
+          "description": "Bitwise Onchain Solutionsは、イーサリアムのFusakaアップグレードが、大規模なハードフォークではなく、より迅速で狙いを絞った変更によってネットワークを戦略的に進化させる点を説明した。",
+          "link": "https://jp.cointelegraph.com/news/ethereum-fusaka-upgrade-scaling-rollups-without-breaking-the-core?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-02T23:18:46.000Z",
+          "wordCount": 18018,
+          "title": "イーサリアムのFusakaアップグレード：コアを壊さずにロールアップを拡張する",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlNWUtZmUwMS03ZmE4LTliYmMtZWY2NjE5NWM3Yzcy.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlNWUtZmUwMS03ZmE4LTliYmMtZWY2NjE5NWM3Yzcy.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bank-of-america-4-crypto-allocation-bitcoin-etfs",
           "author": "Cointelegraph  Zoltan Vardai",

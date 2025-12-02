@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-02T10:18:58.665Z</updated>
+    <updated>2025-12-02T10:46:37.313Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
@@ -37,6 +37,16 @@ AIエージェントはDeFiに対する攻撃能力がある：Anthropicの研�
 ビットコイン、6万5000ドル以下に下落の可能性──ETH、XRP、ADAなど主要暗号資産に悪影響か first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>廣瀬 優香</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIがスマートコントラクト脆弱性6億9000万円分を発見　防御活用にも期待＝レポート]]></title>
+        <id>https://coinpost.jp/?p=670867</id>
+        <link href="https://coinpost.jp/?p=670867"/>
+        <updated>2025-12-02T09:36:09.000Z</updated>
+        <summary type="html"><![CDATA[Anthropicの研究で、AIエージェントがスマートコントラクト脆弱性6億9000万円分を発見。2025年3月以降の34件で460万ドル相当の攻撃に成功し、新たに2件のゼロデイ脆弱性も発見。攻撃収益は1.3カ月ごとに倍増しており、防御活用が急務に。]]></summary>
+        <author>
+            <name>Enzo</name>
         </author>
     </entry>
     <entry>
@@ -2688,36 +2698,6 @@ UAEの新しい中央銀行法は、世界の暗号資産市場における地�
         <summary type="html"><![CDATA[転機をつくったのは21シェアーズのソラナETF（TSOL）で、1日で3,400万ドル超の流出が発生した。]]></summary>
         <author>
             <name>Cointelegraph  Ezra Reguerra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン支持者がJPモルガンを非難、ストラテジーやDATを不利にすると主張]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoiners-accuse-jpmorgan-rigging-strategy-dats</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoiners-accuse-jpmorgan-rigging-strategy-dats?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-11-27T22:45:39.000Z</updated>
-        <summary type="html"><![CDATA[金融大手がビットコイン連動のレバレッジ型金融商品を米証券取引委員会（SEC）に申請した。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ネイバーとアップビット親会社ドゥナム、AIとブロックチェーン融合で1兆円投資へ]]></title>
-        <id>https://coinpost.jp/?p=669753</id>
-        <link href="https://coinpost.jp/?p=669753"/>
-        <updated>2025-11-27T22:40:42.000Z</updated>
-        <summary type="html"><![CDATA[ネイバーとアップビット運営のドゥナムが、AIとブロックチェーンを組み合わせた次世代金融インフラ構築に向け、今後5年間で1兆円超を投資する計画を発表した。韓国ウォン連動型ステーブルコイン発行も視野に入れている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラックロックETF保有者が再び含み益、ビットコインが9万ドル回復]]></title>
-        <id>https://jp.cointelegraph.com/news/blackrock-etf-buyers-profit-price-90k</id>
-        <link href="https://jp.cointelegraph.com/news/blackrock-etf-buyers-profit-price-90k?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-11-27T22:20:03.000Z</updated>
-        <summary type="html"><![CDATA[2025年のビットコイン史上最高値の原動力となった投資家層が、12月の市場回復を示す好材料として、ブラックロックのビットコインETF保有者が再び含み益に戻った。]]></summary>
-        <author>
-            <name>Cointelegraph  Zoltan Vardai</name>
         </author>
     </entry>
 </feed>

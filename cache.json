@@ -775,6 +775,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=670867",
+          "author": "Enzo",
+          "description": "Anthropicの研究で、AIエージェントがスマートコントラクト脆弱性6億9000万円分を発見。2025年3月以降の34件で460万ドル相当の攻撃に成功し、新たに2件のゼロデイ脆弱性も発見。攻撃収益は1.3カ月ごとに倍増しており、防御活用が急務に。",
+          "link": "https://coinpost.jp/?p=670867",
+          "publishedOn": "2025-12-02T09:36:09.000Z",
+          "wordCount": 3245,
+          "title": "AIがスマートコントラクト脆弱性6億9000万円分を発見　防御活用にも期待＝レポート",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/sample_thumbnail1202.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/sample_thumbnail1202.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=670846",
           "author": "Enzo",
           "description": "米FRBが12月1日、3年半にわたる量的引き締め(QT)を終了した。約2.4兆ドル規模の資産縮小後、仮想通貨市場への流動性改善が期待される。2019年QT終了時はビットコインが短期下落後に上昇した経緯があるが、専門家は政策効果の遅延やインフレ動向など不確実性に慎重な見方も示している。",
@@ -1688,21 +1703,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/world-liberty-ondo.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/world-liberty-ondo.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=669753",
-          "author": "菊谷ルイス",
-          "description": "ネイバーとアップビット運営のドゥナムが、AIとブロックチェーンを組み合わせた次世代金融インフラ構築に向け、今後5年間で1兆円超を投資する計画を発表した。韓国ウォン連動型ステーブルコイン発行も視野に入れている。",
-          "link": "https://coinpost.jp/?p=669753",
-          "publishedOn": "2025-11-27T22:40:42.000Z",
-          "wordCount": 3246,
-          "title": "ネイバーとアップビット親会社ドゥナム、AIとブロックチェーン融合で1兆円投資へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/naver-ai-investment.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/naver-ai-investment.jpg"
         }
       ]
     },
@@ -2692,36 +2692,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODhjZTQtYmI0NC03YjEwLWJjNDItYzZlNTAyZjRmMDg5.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoiners-accuse-jpmorgan-rigging-strategy-dats",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "金融大手がビットコイン連動のレバレッジ型金融商品を米証券取引委員会（SEC）に申請した。",
-          "link": "https://jp.cointelegraph.com/news/bitcoiners-accuse-jpmorgan-rigging-strategy-dats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-11-27T22:45:39.000Z",
-          "wordCount": 18128,
-          "title": "ビットコイン支持者がJPモルガンを非難、ストラテジーやDATを不利にすると主張",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2IyMDItZDUxZS03MjA3LThlYjctNGQwYTU4MmZhNWYx.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2IyMDItZDUxZS03MjA3LThlYjctNGQwYTU4MmZhNWYx.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/blackrock-etf-buyers-profit-price-90k",
-          "author": "Cointelegraph  Zoltan Vardai",
-          "description": "2025年のビットコイン史上最高値の原動力となった投資家層が、12月の市場回復を示す好材料として、ブラックロックのビットコインETF保有者が再び含み益に戻った。",
-          "link": "https://jp.cointelegraph.com/news/blackrock-etf-buyers-profit-price-90k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-11-27T22:20:03.000Z",
-          "wordCount": 18178,
-          "title": "ブラックロックETF保有者が再び含み益、ビットコインが9万ドル回復",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5NDA2YTAtM2VmNy03Njg3LWJmOWYtNDY0NjJjYmI3YzVl.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5NDA2YTAtM2VmNy03Njg3LWJmOWYtNDY0NjJjYmI3YzVl.jpg"
         }
       ]
     },

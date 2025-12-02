@@ -1820,26 +1820,6 @@
           "wordCount": 752,
           "title": "ユニスワップ提供の新トークン流動性形成支援プロトコル「CCA」、ユニチェーンで利用可能に",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/01114215/CCA-251126anna.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=522281",
-          "author": "OtsugaShinya",
-          "description": "USDT0がマントルとモナドに対応開始 オムニチェーン対応ステーブルコイン「USDT0」が、イーサリアム（Ethereum）レイヤー2ネットワークのマントルネットワーク（Mantle Network）およびEVM互換のレ […]",
-          "link": "https://www.neweconomy.jp/posts/522281",
-          "publishedOn": "2025-11-28T11:09:52.000Z",
-          "wordCount": 827,
-          "title": "オムニチェーン対応ステーブルコイン「USDT0」、マントルとモナドに対応開始",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/28200940/87c3ed80d604f94ad4d39c6553c8caad.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=522089",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/522089",
-          "publishedOn": "2025-11-28T10:58:18.000Z",
-          "wordCount": 800,
-          "title": "【11/28話題】クシムがKushim Labs創設とINTMAXと提携、RLUSDがアブダビで認定、モブキャストがSFDPに採択など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/28192806/df4e662181928b7f7be29b41f32c31b7.jpg"
         }
       ]
     },
@@ -1848,6 +1828,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bank-of-america-4-crypto-allocation-bitcoin-etfs",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "バンク・オブ・アメリカの富裕層顧客がビットコインETFへアクセス可能となり、1万5,000人超のウェルスアドバイザーが初めて仮想通貨への投資を推奨できるようになると、Yahooが報じた",
+          "link": "https://jp.cointelegraph.com/news/bank-of-america-4-crypto-allocation-bitcoin-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-02T22:47:41.000Z",
+          "wordCount": 18113,
+          "title": "バンク・オブ・アメリカが仮想通貨1〜4％の配分を推奨、ビットコインETFへの道を開く",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlZjQtYzkxYy03MjNhLWE5NTYtNTNhYWU5MmFkYzFl.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlZjQtYzkxYy03MjNhLWE5NTYtNTNhYWU5MmFkYzFl.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-four-year-cycle-break-out-new-highs-2026-grayscale",
           "author": "Cointelegraph  Zoltan Vardai",

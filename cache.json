@@ -745,6 +745,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=670793",
+          "author": "Ritsuki.Kumazawa",
+          "description": "セトラスが市民のドラレコ映像を行政業務に活用し、専用暗号通貨「GARコイン」で報酬を還元する地方創生モデルを発表。実証実験に参加する自治体を3枠限定で募集している。",
+          "link": "https://coinpost.jp/?p=670793",
+          "publishedOn": "2025-12-02T07:04:42.000Z",
+          "wordCount": 3253,
+          "title": "走行映像でGARコインを還元　ドラレコアプリ「セトラス」が地方創生DXモデルを始動",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/cetras_thumbnail.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/cetras_thumbnail.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=670773",
           "author": "幸田直子",
           "description": "コインベースが2025年透明性レポートを公開し、60カ国以上から12,716件の情報開示請求を受領し、前年比19%増加となったと報告した。米国の件数がトップだが、米国外からの請求は53%を占め前年比2%増加した。",
@@ -1712,6 +1727,46 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=523206",
+          "author": "NewEconomy",
+          "description": "キルギス政府が5,000万USDKGを発行 キルギス共和国の国営企業であるOJSCバーチャル・アセット・イシューア（OJSC Virtual Asset Issuer）が、金（ゴールド）を裏付け資産とする米ドル連動型ステ […]",
+          "link": "https://www.neweconomy.jp/posts/523206",
+          "publishedOn": "2025-12-02T07:17:01.000Z",
+          "wordCount": 802,
+          "title": "キルギス政府、金裏付けの米ドル連動型ステーブルコイン「USDKG」を正式発行",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/02161625/d6f0387e98d419ffd1780d8d7c2a16ed.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=523189",
+          "author": "HitomotoToshikazu",
+          "description": "Grayscale Chainlink Trust ETF上場へ 米暗号資産（仮想通貨）運用会社グレースケール・インベストメンツ（Grayscale Investments：以下、グレースケール）組成の暗号資産チェーンリ […]",
+          "link": "https://www.neweconomy.jp/posts/523189",
+          "publishedOn": "2025-12-02T07:04:07.000Z",
+          "wordCount": 801,
+          "title": "グレースケールの「チェーンリンク（LINK）」現物ETF、NYSEアーカに上場へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/02160350/c9d38d41a0e90953a80df804242189a7.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=523172",
+          "author": "gentosha_takahashi",
+          "description": "国内金融市場への影響は限定的 カナダで進むステーブルコイン法制化の議論について、メガバンクのスコシアバンク（Scotiabank）のエコノミストが、国内金融市場への影響は限定的とする見解を示した。 スコシアバンクのエコノ […]",
+          "link": "https://www.neweconomy.jp/posts/523172",
+          "publishedOn": "2025-12-02T06:56:43.000Z",
+          "wordCount": 611,
+          "title": "カナダ、ステーブルコイン規制に本腰も市場影響は限定的か＝レポート",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/02155524/595f2935a803d2309603546c38b21a35.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=523177",
+          "author": "OtsugaShinya",
+          "description": "クリプトミキサーが閉鎖 スイスおよびドイツの複数の法執行機関が、違法行為に由来する「ビットコイン（BTC）」送金の追跡を隠すために使われてきた最大級のプラットフォームの一つであるクリプトミキサー（cryptomixer. […]",
+          "link": "https://www.neweconomy.jp/posts/523177",
+          "publishedOn": "2025-12-02T06:56:26.000Z",
+          "wordCount": 749,
+          "title": "スイスとドイツの当局、マネーロンダリング対策の一環で「cryptomixer[.]io」を閉鎖",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/02155604/8c1308e65594623915dd67e0af831fe1-1.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=523161",
           "author": "OtsugaShinya",
           "description": "政府与党が「暗号資産の分離課税」適用に向け調整入る 政府与党が、暗号資産（仮想資産）取引で得た所得に対して分離課税を適用する調整に入ったと「日経新聞」や「NHK」が12月1日に報じた。 現在、暗号資産取引によって生じた所 […]",
@@ -2138,6 +2193,16 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/ethereum-ico-wallet-moves-120m-after-a-decade-throws-it-into-staking",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "10年間眠っていたイーサリアムのクジラ（大口投資家）が再び動き出した。ただし売却ではなく、保有資産の全額をステーキングに投入した。",
+          "link": "https://jp.cointelegraph.com/news/ethereum-ico-wallet-moves-120m-after-a-decade-throws-it-into-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-02T07:13:37.000Z",
+          "wordCount": 18065,
+          "title": "10年間沈黙していたイーサリアムクジラが再始動　保有4万ETHを全額ステーキングへ",
+          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019adcc0-1a37-78b7-a713-89ad5f12afd1"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitmine-buys-eth-tom-lee-shifts-bitcoin-all-time-high-prediction-january",
           "author": "Cointelegraph  Brian Quarmby",

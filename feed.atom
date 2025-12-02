@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-02T10:46:37.313Z</updated>
+    <updated>2025-12-02T11:16:37.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ストラテジー株が下落──現金準備金と収益見通しの発表を受けて]]></title>
+        <id>https://www.coindeskjapan.com/?p=327273</id>
+        <link href="https://www.coindeskjapan.com/327273/"/>
+        <updated>2025-12-02T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ナスダック（Nasdaq）上場のストラテジー（Strategy）の出来高が12月1日に急増した。同社が新たなドル準備金の設定と通期利益見通しの修正を発表した後、 ...
+ストラテジー株が下落──現金準備金と収益見通しの発表を受けて first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIエージェントはDeFiに対する攻撃能力がある：Anthropicの研究者が警告]]></title>
         <id>https://www.coindeskjapan.com/?p=327255</id>
@@ -2688,16 +2699,6 @@ UAEの新しい中央銀行法は、世界の暗号資産市場における地�
         <summary type="html"><![CDATA[ナスダック上場のALT5シグマが、トランプ前大統領の家族が支援するワールドリバティファイナンシャル（WLFI）との提携後、株価が80%下落し内部混乱に陥っている。CEOや複数の幹部が解任され、規制当局の調査やルワンダでのマネーロンダリング有罪判決も明らかになった。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナETF、21シェアーズのTSOLが3,400万ドル流出で“連勝”が終了]]></title>
-        <id>https://jp.cointelegraph.com/news/solana-etfs-break-streak-xrp-etfs-shine-doge-etfs-stumble</id>
-        <link href="https://jp.cointelegraph.com/news/solana-etfs-break-streak-xrp-etfs-shine-doge-etfs-stumble?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-11-27T23:01:27.000Z</updated>
-        <summary type="html"><![CDATA[転機をつくったのは21シェアーズのソラナETF（TSOL）で、1日で3,400万ドル超の流出が発生した。]]></summary>
-        <author>
-            <name>Cointelegraph  Ezra Reguerra</name>
         </author>
     </entry>
 </feed>

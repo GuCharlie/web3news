@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=327255",
+          "author": "Sam Reynolds",
+          "description": "アンスロピック・フェローズ・プログラム（Anthropic Fellows Program）が発表した新たな研究によると、AI（人工知能）エージェントはスマート ...\nAIエージェントはDeFiに対する攻撃能力がある：Anthropicの研究者が警告 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/327255/",
+          "publishedOn": "2025-12-02T10:05:00.000Z",
+          "wordCount": 1393,
+          "title": "AIエージェントはDeFiに対する攻撃能力がある：Anthropicの研究者が警告",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/shutterstock_2361806135.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=327202",
           "author": "廣瀬 優香",
           "description": "ビットコイン（BTC）は12月1日終盤、流動性の低さ、日本発の週末のマクロ経済不安、MSCIの算出方法変更への懸念の高まりが重なり、急速かつ無秩序な下落によって ...\nビットコイン、6万5000ドル以下に下落の可能性──ETH、XRP、ADAなど主要暗号資産に悪影響か first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -750,16 +760,6 @@
           "wordCount": 1399,
           "title": "ビットコインの長期チャートは下落トレンド警戒示唆、一方短期は反発を期待させるテクニカルも【bitbankチャート分析】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/shutterstock_721921969-710x458-1-710x430-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=326498",
-          "author": "林 理南",
-          "description": "ビットワイズ（Bitwise）は米証券取引委員会（SEC）に提出した現物アバランチ（AVAX）ETF（上場投資信託）の申請を更新した。これにより、このETFは市 ...\nアバランチETFの競争が激化──ビットワイズが初めてステーキング機能を追加 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/326498/",
-          "publishedOn": "2025-11-27T22:00:00.000Z",
-          "wordCount": 1324,
-          "title": "アバランチETFの競争が激化──ビットワイズが初めてステーキング機能を追加",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/shutterstock_2606615213.jpg"
         }
       ]
     },
@@ -1703,21 +1703,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/naver-ai-investment.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/naver-ai-investment.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=669749",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨イーサリアムは、ブロックのガスリミットが6000万ユニットに引き上げられた。これにより、フサカアップグレードの前にトランザクション処理能力が向上した。",
-          "link": "https://coinpost.jp/?p=669749",
-          "publishedOn": "2025-11-27T22:10:45.000Z",
-          "wordCount": 3266,
-          "title": "イーサリアム、ブロックのガスリミットを6000万ユニットに引き上げ　処理能力が向上",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/ethereum-network-value.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/ethereum-network-value.jpg"
         }
       ]
     },
@@ -2737,36 +2722,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5NDA2YTAtM2VmNy03Njg3LWJmOWYtNDY0NjJjYmI3YzVl.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-significant-step-forward-97k-btc-price-targets-return",
-          "author": "Cointelegraph  William Suberg",
-          "description": "ビットコインは反発基調の継続と先物市場の好材料を受け、10万ドルに近い強気の価格目標が新たに示された。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-significant-step-forward-97k-btc-price-targets-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-11-27T22:14:11.000Z",
-          "wordCount": null,
-          "title": "ビットコイン9万7,000ドル到達観測が再浮上、価格回復で「前進」の兆し",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YWM1ZjQtMDY3My03OTIwLWIzYmItOThhNzVjYmI0NGMw.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YWM1ZjQtMDY3My03OTIwLWIzYmItOThhNzVjYmI0NGMw.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/trump-alt5-sigma-leadership-shakeup-wlfi-scrutiny",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "トランプ氏と関係するWorld Liberty Financial（WLFI）トークンをバランスシートに保有する仮想通貨トレジャリー企業が、上級幹部2名を交代させた。",
-          "link": "https://jp.cointelegraph.com/news/trump-alt5-sigma-leadership-shakeup-wlfi-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-11-27T22:04:29.000Z",
-          "wordCount": 18185,
-          "title": "トランプ氏と関係を持つALT5シグマ、WLFIへの監視強まる中で経営陣を刷新",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NjhmZTItYzhkYi03OTcyLThmMTMtOWZmY2M3NzFmMGE1.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NjhmZTItYzhkYi03OTcyLThmMTMtOWZmY2M3NzFmMGE1.jpg"
         }
       ]
     },
@@ -2775,6 +2730,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=148751",
+          "author": "よきょい",
+          "description": "英国を拠点とするブロックチェーン分析企業Ellipticは、日本円連動型ステーブルコイン「JPYC」のエコシステムにおいて、コンプライアンス遵守を支援するためのソリューション提供を開始したことを発表しました。 \u001f […]\n投稿 日本円ステーブルコイン「JPYC」、Ellipticと提携｜マネロン対策強化で安全性向上 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-japanese-yen-stablecoin-jpyc-partners-with-elliptic/",
+          "publishedOn": "2025-12-02T09:47:05.000Z",
+          "wordCount": 643,
+          "title": "日本円ステーブルコイン「JPYC」、Ellipticと提携｜マネロン対策強化で安全性向上",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_1853175994.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=148750",
           "author": "よきょい",

@@ -705,6 +705,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=671135",
+          "author": "Enzo",
+          "description": "XRP現物ETFが上場13日で8億ドル超の流入を達成し、ビットコインETFに次ぐ史上2番目の速さを記録。ソラナETFを大きく上回るペースで、アナリストは最大1兆円超の市場規模を予測。",
+          "link": "https://coinpost.jp/?p=671135",
+          "publishedOn": "2025-12-03T08:03:21.000Z",
+          "wordCount": 3281,
+          "title": "XRP ETF、13取引日で8億ドル（約1240億円）到達　仮想通貨史上2番目の速さ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/xrp-new.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/xrp-new.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=671120",
+          "author": "AKIRA.H",
+          "description": "バイナンス（海外）は流動性レビューに基づき、12月5日に現物取引ペア15種を停止すると発表。停止は特定ペアのみで、対象トークンの上場廃止を意味しない。取引ボットも同時に終了予定。",
+          "link": "https://coinpost.jp/?p=671120",
+          "publishedOn": "2025-12-03T07:25:35.000Z",
+          "wordCount": 3261,
+          "title": "バイナンス（海外）、15種類の現物取引ペアを停止へ　12月5日実施",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/binance_20210913_kk1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/binance_20210913_kk1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=671096",
           "author": "Enzo",
           "description": "ゲンスラー前SEC委員長がブルームバーグのインタビューで、ビットコインを除くすべての仮想通貨を「極めて投機的」と評価。退任後も投資家保護の重要性を強調し、規制の観点からビットコインのみをコモディティとして区別する姿勢を維持している。",
@@ -1672,6 +1702,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=523771",
+          "author": "OtsugaShinya",
+          "description": "欧州10銀行がユーロ連動ステーブルコインの新会社設立 欧州の大手銀行ING、ウニクレディト 、BNPなど10行は、ユーロに連動するステーブルコインを2026年下半期に発行する新会社「Qivalis（キバリス）」を設立した […]",
+          "link": "https://www.neweconomy.jp/posts/523771",
+          "publishedOn": "2025-12-03T07:52:04.000Z",
+          "wordCount": 620,
+          "title": "INGやBNPら欧州10銀行、ユーロ連動ステーブルコインの新会社設立",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/03165200/317ed85c485bbfe6ac298a436586abc7.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=523752",
           "author": "HitomotoToshikazu",
           "description": "Canary HBAR ETFがVanguardで取引可能に 暗号資産（仮想通貨）運用会社カナリー・キャピタル・グループ（Canary Capital Group、以下カナリー）組成の暗号資産ヘデラ（HBAR）の現物ET […]",
@@ -2128,6 +2168,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/binance-cofounder-yi-he-named-co-ceo",
+          "author": "Cointelegraph  Adrian Zmudzinski",
+          "description": "バイナンスは共同創業者イー・ヘー氏を共同CEOに任命し、リチャード・テン氏と並ぶ正式な経営トップへと引き上げた。",
+          "link": "https://jp.cointelegraph.com/news/binance-cofounder-yi-he-named-co-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-03T08:10:14.000Z",
+          "wordCount": 18041,
+          "title": "バイナンス共同創業者イー・ヘー氏が共同CEOに就任　リチャード・テン氏と二頭体制へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUyZWUtMWExZC03ZTMwLWI0Y2MtMDY2MzBiOTkxYTEw.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUyZWUtMWExZC03ZTMwLWI0Y2MtMDY2MzBiOTkxYTEw.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/crypto-treasury-companies-lead-stock-recovery-after-shaky-start-to-december",
           "author": "Cointelegraph  Martin Young",
@@ -2625,6 +2680,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=148865",
+          "author": "よきょい",
+          "description": "イーサリアムの次期大型アップグレード「Fusaka」が、12月3日21時49分（UTC）にメインネットで有効化されます。今回のアップグレードはロールアップの処理能力向上、ガス代市場の適正化、およびパスキー型署名へのネイテ […]\n投稿 イーサリアム大型アップグレードが目前、処理能力が桁違いに は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-ethereum-is-about-to-undergo-a-major-upgrade-bringing-processing-power-to-a-whole-new-level/",
+          "publishedOn": "2025-12-03T08:19:47.000Z",
+          "wordCount": 608,
+          "title": "イーサリアム大型アップグレードが目前、処理能力が桁違いに",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_1044516055.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=148911",
           "author": "Crypto Times 編集部",

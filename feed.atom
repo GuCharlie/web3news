@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-03T11:39:01.617Z</updated>
+    <updated>2025-12-03T12:36:32.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【12/3話題】ビットコインとUSDCでau PAY ギフトカード購入可能に、欧州10銀行のユーロ連動ステーブルコインの新会社など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=523796</id>
+        <link href="https://www.neweconomy.jp/posts/523796"/>
+        <updated>2025-12-03T11:47:58.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインマイニング企業に危機。収益性悪化で採算とれず]]></title>
         <id>https://crypto-times.jp/?p=148960</id>
@@ -2775,26 +2785,6 @@ DeFiの550億ドル急落を、心配し過ぎなくてよい理由 first appear
         <summary type="html"><![CDATA[ステーブルコインUSDTを発行するテザー社は、エネルギーコストの上昇を理由に、ウルグアイでのビットコイン（BTC）マイニング事業を停止した。]]></summary>
         <author>
             <name>Cointelegraph  Helen Partz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン　大きく上昇する可能性　「コロナ期以来の非対称なリスク・リワード」＝アナリスト]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-price-risk-reward-covid-19-setup-analyst</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-price-risk-reward-covid-19-setup-analyst?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-11-29T00:36:09.000Z</updated>
-        <summary type="html"><![CDATA[現在のビットコイン（BTC）価格は、将来のマクロ経済見通しとかみ合っておらず、ここから大きな上昇をみせる可能性がある。]]></summary>
-        <author>
-            <name>Cointelegraph  Ciaran Lyons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テザー、中央銀行級の116トンの金を保有　世界最大の民間保有者に]]></title>
-        <id>https://coinpost.jp/?p=670179</id>
-        <link href="https://coinpost.jp/?p=670179"/>
-        <updated>2025-11-29T00:35:11.000Z</updated>
-        <summary type="html"><![CDATA[世界最大のステーブルコイン発行企業テザーが116トンの金を保有し、中央銀行以外で世界最大の金保有者となった。第3四半期に26トンの金を購入し、韓国やハンガリーの国家準備金に匹敵する規模に。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

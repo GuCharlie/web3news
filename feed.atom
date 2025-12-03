@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-03T22:17:02.467Z</updated>
+    <updated>2025-12-03T22:42:08.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ポリマーケット、CFTCの承認後に米国アプリをウェイトリスト登録者へ公開]]></title>
+        <id>https://jp.cointelegraph.com/news/polymarket-us-relaunch-waitlisted-users</id>
+        <link href="https://jp.cointelegraph.com/news/polymarket-us-relaunch-waitlisted-users?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-12-03T22:40:43.000Z</updated>
+        <summary type="html"><![CDATA[金融規制当局の再ローンチ承認を受け、米国の一部ユーザーがスポーツイベント契約へのベットなど、予測プラットフォームへの最初のアクセスを得ることになった。]]></summary>
+        <author>
+            <name>Cointelegraph  Turner Wright</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大手銀行がコインベースとステーブルコイン・仮想通貨取引の試験運用を実施している＝アームストロング氏]]></title>
+        <id>https://jp.cointelegraph.com/news/major-banks-stablecoin-trading-coinbase-armstrong-says</id>
+        <link href="https://jp.cointelegraph.com/news/major-banks-stablecoin-trading-coinbase-armstrong-says?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-12-03T22:37:17.000Z</updated>
+        <summary type="html"><![CDATA[ディールブックサミットで、ブラックロックのラリー・フィンク氏がビットコインの実用性を認め、コインベースのブライアン・アームストロング氏は主要米銀行とパイロットを進めていると述べた。]]></summary>
+        <author>
+            <name>Cointelegraph  Nate Kostar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年の仮想通貨M&Aは過去最高を記録、累計86億ドルを突破]]></title>
+        <id>https://jp.cointelegraph.com/news/crypto-merger-acquisition-deals-8-6b-2025</id>
+        <link href="https://jp.cointelegraph.com/news/crypto-merger-acquisition-deals-8-6b-2025?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-12-03T22:15:51.000Z</updated>
+        <summary type="html"><![CDATA[市場の混乱やマクロ経済の逆風が続く中でも、仮想通貨関連のM&Aは今年、過去最高水準に急増した。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC、過剰レバレッジを狙うETF発行体に警告書]]></title>
         <id>https://jp.cointelegraph.com/news/sec-warning-letters-etf-untamed-leverage</id>

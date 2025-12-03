@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-03T10:47:47.755Z</updated>
+    <updated>2025-12-03T11:15:45.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【今日の暗号資産ニュース】12月利下げ見送りならBTC暴落か。バンガードが暗号資産に参入]]></title>
+        <id>https://crypto-times.jp/?p=148858</id>
+        <link href="https://crypto-times.jp/news-if-the-december-interest-rate-cut-is-postponed-will-btc-crash-vanguard-enters-the-cryptocurrency-market/"/>
+        <updated>2025-12-03T11:03:36.000Z</updated>
+        <summary type="html"><![CDATA[12月3日、ビットコイン（BTC）の価格は92,910ドル前後で推移しており、イーサリアム（ETH）は約3,050ドル、ソラナ（SOL）は約141ドルで取引されています。世界の暗号資産時価総額は3.23兆ドルで、ビットコ […]
+投稿 【今日の暗号資産ニュース】12月利下げ見送りならBTC暴落か。バンガードが暗号資産に参入 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本円ステーブルコインJPYC保有アドレス、1週間で2.4万増]]></title>
         <id>https://crypto-times.jp/?p=148859</id>
@@ -2762,16 +2773,6 @@ DeFiの550億ドル急落を、心配し過ぎなくてよい理由 first appear
         <summary type="html"><![CDATA[世界最大のステーブルコイン発行企業テザーが116トンの金を保有し、中央銀行以外で世界最大の金保有者となった。第3四半期に26トンの金を購入し、韓国やハンガリーの国家準備金に匹敵する規模に。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米司法委員会、トランプ大統領の仮想通貨関連事業を問題視　議会の早急な対応を要求]]></title>
-        <id>https://coinpost.jp/?p=670163</id>
-        <link href="https://coinpost.jp/?p=670163"/>
-        <updated>2025-11-28T22:55:58.000Z</updated>
-        <summary type="html"><![CDATA[米下院司法委員会は、ドナルド・トランプ大統領の仮想通貨関連事業を問題視。大統領職の責任や健全性を取り戻すために、議会による改革を早急に行う必要があると主張している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>

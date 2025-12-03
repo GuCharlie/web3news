@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=327295",
+          "author": "Olivier Acuna",
+          "description": "米国最大級の金融機関であるバンク・オブ・アメリカ（BofA）は、ウォール街の巨大企業としてビットコイン（BTC）に前向きな姿勢を示す企業の仲間入りをした。 ヤフ ...\nバンク・オブ・アメリカ、資産アドバイザーにビットコインへの最大4%の配分推奨を許可 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/327295/",
+          "publishedOn": "2025-12-03T02:45:00.000Z",
+          "wordCount": 1332,
+          "title": "バンク・オブ・アメリカ、資産アドバイザーにビットコインへの最大4%の配分推奨を許可",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/shutterstock_2307009265.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=327290",
+          "author": "James Van Straten",
+          "description": "ネットワーク経済学者ティモシー・ピーターソン（Timothy Peterson）氏によると、ビットコイン（BTC）がメトカーフ価値モデルに基づくネットワーク価値 ...\nビットコイン、2年ぶりに「適正価値」を下回る──歴史は今後12カ月で132％の上昇を示唆 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/327290/",
+          "publishedOn": "2025-12-03T01:45:00.000Z",
+          "wordCount": 1360,
+          "title": "ビットコイン、2年ぶりに「適正価値」を下回る──歴史は今後12カ月で132％の上昇を示唆",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/e0cc1e22f08aa6b8e80d65fa49ff2b2150554076-1527x797-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=327122",
           "author": "墨汁うまい",
           "description": "暗号資産（仮想通貨）専業10年目の墨汁うまい（@bokujyuumai）です。イーサリアムは5月に実装したペクトラ（Pectra）アップデートに続き、年内2回目 ...\n【墨汁うまい氏寄稿】イーサリアム次期大型アップデート「フサカ」はブロックチェーンの歴史を大きく変える first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -650,16 +670,6 @@
           "wordCount": 1375,
           "title": "ビットコイン、感謝祭後にやや上昇モード──12月のFRB金利見通しが固定",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/shutterstock_2618910933-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=326636",
-          "author": "林 理南",
-          "description": "世界最大の資産運用会社ブラックロック（BlackRock）の自社運用ミューチュアルファンドの一つである戦略的収入機会ポートフォリオ（Strategic Inco ...\nブラックロックの自社運用インカムファンド、ビットコインETF保有量を14％増加 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/326636/",
-          "publishedOn": "2025-11-28T13:28:12.000Z",
-          "wordCount": 1308,
-          "title": "ブラックロックの自社運用インカムファンド、ビットコインETF保有量を14％増加",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/Nb5b235783ef4cdcb9a525c60c26b23c8a48cea7f-1205x684-2.png"
         }
       ]
     },
@@ -674,6 +684,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=671008",
+          "author": "A.Yamada",
+          "description": "ブラックロックのフィンクCEOらが現実資産（RWA）トークン化の可能性を様々な観点から解説した。トークン化の2つの大きな利点や規制当局の役割などにも言及している。",
+          "link": "https://coinpost.jp/?p=671008",
+          "publishedOn": "2025-12-03T01:32:21.000Z",
+          "wordCount": 3258,
+          "title": "「資産トークン化が金融のあり方を変革」ブラックロックのフィンクCEOらが論説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/BlackRock-Logo.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/BlackRock-Logo.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=671009",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨ウォレットのTrust Walletは、予測市場にアクセスできる機能をローンチ。まずはMyriad、ポリマーケット、カルシの3つの予測市場に対応する。",
+          "link": "https://coinpost.jp/?p=671009",
+          "publishedOn": "2025-12-03T01:15:53.000Z",
+          "wordCount": 3283,
+          "title": "バイナンス傘下Trust Wallet、予測市場へのアクセス機能をローンチ　ポリマーケットなどに対応へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/Predictions-in-Trust-Wallet.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/Predictions-in-Trust-Wallet.png"
+        },
         {
           "id": "https://coinpost.jp/?p=671021",
           "author": "Enzo",
@@ -1537,6 +1577,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=523567",
+          "author": "gentosha_takahashi",
+          "description": "欧州デジタルID対応EUDI互換を前提に設計 イーサリアム（Ethereum）エコシステムにプライバシー技術を提供する研究開発ラボ「Privacy & Scaling Explorations（PSE）」のzkI […]",
+          "link": "https://www.neweconomy.jp/posts/523567",
+          "publishedOn": "2025-12-03T01:31:14.000Z",
+          "wordCount": 793,
+          "title": "イーサリアムPSE、ZKベースの匿名認証設計「OpenAC」公開",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/03103056/53bfa1e02d10cff0b7ce48d22652d2fa.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=523271",
           "author": "NewEconomyPodcast",
           "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
@@ -2297,21 +2347,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGVhMDEtZGQ2OS03OGZjLTgyYTMtYzdhYjkwMmVhYjc4.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/crypto-bull-market-signal-ethereum-erc-20-stablecoin-supply-185b-record",
-          "author": "Cointelegraph  William Suberg",
-          "description": "新たな調査によると、ビットコイン（BTC）は、仮想通貨市場の下落局面にもかかわらず、主要な強気サインを保っているという。",
-          "link": "https://jp.cointelegraph.com/news/crypto-bull-market-signal-ethereum-erc-20-stablecoin-supply-185b-record?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-11-28T14:00:24.000Z",
-          "wordCount": 18100,
-          "title": "ビットコインは強気シグナルを維持、ステーブルコイン供給量は最高値水準に",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YWNhNDctYzM4NS03MTYwLWI5ZGYtYjNiNGQ5ZjNmNDE4.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YWNhNDctYzM4NS03MTYwLWI5ZGYtYjNiNGQ5ZjNmNDE4.jpg"
         }
       ]
     },

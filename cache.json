@@ -820,16 +820,6 @@
           "wordCount": 1342,
           "title": "ビットコインETF、いまや最大の収益源：ブラックロック幹部",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/image-6.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=326544",
-          "author": "橋本 祐樹",
-          "description": "毎秒約6テラハッシュという、極めて小さなハッシュパワーで稼働していた単独のビットコインマイナーが10月21日、BTCブロックのマイニングに成功し、3.146BT ...\n1台の古いマシンで4200万円獲得──個人マイナーが「1億8000万分の1の確率」でBTCブロック採掘／ビットコイン急落でストラテジー保有資産が損益分岐点に近づく──重要な試金石は18ヶ月後【日曜日に読みたい厳選10本】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/326544/",
-          "publishedOn": "2025-11-29T23:00:00.000Z",
-          "wordCount": 1333,
-          "title": "1台の古いマシンで4200万円獲得──個人マイナーが「1億8000万分の1の確率」でBTCブロック採掘／ビットコイン急落でストラテジー保有資産が損益分岐点に近づく──重要な試金石は18ヶ月後【日曜日に読みたい厳選10本】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/日曜日に読みたい10選.jpg"
         }
       ]
     },
@@ -2558,6 +2548,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-community-slams-citadel-for-urging-sec-to-regulate-defi-developers",
+          "author": "Cointelegraph  Martin Young",
+          "description": "マーケットメーカーのシタデル・セキュリティーズが、トークン化株式を扱う分散型金融（DeFi）に対し、米証券取引委員会（SEC）が規制を強化すべきと提言し、仮想通貨ユーザーから強い反発を招いている。",
+          "link": "https://jp.cointelegraph.com/news/crypto-community-slams-citadel-for-urging-sec-to-regulate-defi-developers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-04T11:08:54.000Z",
+          "wordCount": 18118,
+          "title": "シタデル・セキュリティーズ、米証券取引委員会にDeFi規制強化を提言",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU3YzktNzc2OS03ZjJjLWJiNzUtMmMyMTA4ZDRjNjY2.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU3YzktNzc2OS03ZjJjLWJiNzUtMmMyMTA4ZDRjNjY2.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-price-rebound-rally-crypto-analysts",
           "author": "Cointelegraph  Ciaran Lyons",

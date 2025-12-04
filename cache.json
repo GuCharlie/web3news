@@ -1862,6 +1862,26 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=524259",
+          "author": "OtsugaShinya",
+          "description": "ネイティブUSDCがスタークネットに対応開始 米サークル（Circle Internet Financial）発行の米ドル建てステーブルコイン「USDC」のネイティブ型トークンが、「スタークネット（Starknet）」に […]",
+          "link": "https://www.neweconomy.jp/posts/524259",
+          "publishedOn": "2025-12-04T07:10:43.000Z",
+          "wordCount": 794,
+          "title": "米サークル「USDC」、イーサL2「スタークネット」にネイティブ対応開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/04161017/USDC_251204-PIXTA.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=524240",
+          "author": "OtsugaShinya",
+          "description": "NTTデジタルがソラナのバリデータに参画 NTTドコモのWeb3推進子会社NTTデジタル（NTT Digital）が、レイヤー1ブロックチェーン「ソラナ（Solana）」のバリデータノードの運営開始を12月3日に発表した […]",
+          "link": "https://www.neweconomy.jp/posts/524240",
+          "publishedOn": "2025-12-04T06:59:13.000Z",
+          "wordCount": 753,
+          "title": "NTTデジタルがソラナのバリデータに参画。Dawn Labsと協業で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/04155735/710b6a74d0a0662229bec19cdeaa8470.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=524210",
           "author": "OtsugaShinya",
           "description": "日本初のトークン化投資信託開発を目指す 三菱UFJアセットマネジメント、三菱UFJモルガン・スタンレー証券、三菱UFJ信託銀行の3社が、デジタルアセット発行・管理基盤「プログマ（Progmat）」を提供するプログマ社とと […]",
@@ -2428,6 +2448,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/solana-mobile-to-roll-out-native-taken-in-january",
+          "author": "Cointelegraph  Brian Quarmby",
+          "description": "ソラナモバイルは、最新のスマートフォン「Seeker」に紐づくネイティブトークンSKRを2026年初頭にローンチする予定で、同トークンはモバイルエコシステムのガバナンストークンとして機能すると予定だ。",
+          "link": "https://jp.cointelegraph.com/news/solana-mobile-to-roll-out-native-taken-in-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-04T07:13:20.000Z",
+          "wordCount": 18066,
+          "title": "ソラナモバイル、最新スマホに連動したネイティブトークンSKRを2026年初頭にローンチへ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU2NzUtMGQ4Yy03ZDFjLWFjMTQtYmIzM2RmYjZjNGVh.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU2NzUtMGQ4Yy03ZDFjLWFjMTQtYmIzM2RmYjZjNGVh.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/xrp-faces-now-or-never-moment-as-traders-eye-rally-to-dollar2-50",
           "author": "Cointelegraph  Biraajmaan Tamuly",
@@ -3015,6 +3050,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=148977",
+          "author": "よきょい",
+          "description": "世界最大の資産運用会社であるブラックロックと国際通貨基金（IMF）は、現実資産のトークン化に関して対照的な見解を示しており金融業界で大きな議論を呼んでいます。 ブラックロックがこれを初期のインターネットに匹敵する重要な市 […]\n投稿 ブラックロック対IMF、3000億ドルRWA市場で真っ向対立 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-blackrock-vs-imf-face-off-in-300-billion-rwa-market/",
+          "publishedOn": "2025-12-04T07:17:47.000Z",
+          "wordCount": 616,
+          "title": "ブラックロック対IMF、3000億ドルRWA市場で真っ向対立",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_2274951975.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=149003",
           "author": "Crypto Times 編集部",

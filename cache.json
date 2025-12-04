@@ -810,16 +810,6 @@
           "wordCount": 1355,
           "title": "ビットコインの「Coinbaseプレミアム」、数週間ぶりにプラスに──米国での買いの強さを示す",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/Bitcoin-Coinbase-Premium-Index-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=326777",
-          "author": "Francisco Rodrigues",
-          "description": "世界最大の資産運用会社ブラックロック（BlackRock）のビットコインETF（上場投資信託）は、同社にとって最も収益性の高いプロダクトになっていると、ブラック ...\nビットコインETF、いまや最大の収益源：ブラックロック幹部 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/326777/",
-          "publishedOn": "2025-11-29T23:30:00.000Z",
-          "wordCount": 1342,
-          "title": "ビットコインETF、いまや最大の収益源：ブラックロック幹部",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/image-6.jpg"
         }
       ]
     },
@@ -2548,6 +2538,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/first-us-chainlink-etf-41m-inflows-no-blockbuster",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "グレースケールが立ち上げた米国初のチェーンリンク上場投資信託（ETF）は、仮想通貨市場全体が低迷するなかでも強い投資家関心を集め、初日から好調なスタートを切った。",
+          "link": "https://jp.cointelegraph.com/news/first-us-chainlink-etf-41m-inflows-no-blockbuster?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-04T11:32:21.000Z",
+          "wordCount": 18189,
+          "title": "グレースケールの米国初チェーンリンクETF、初日に4100万ドル流入　アナリスト「大ヒットではないが成功」",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU4ZGQtZmMyYS03N2FlLWFiNTctNzFhOTNjNzRlMmQ4.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU4ZGQtZmMyYS03N2FlLWFiNTctNzFhOTNjNzRlMmQ4.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/crypto-community-slams-citadel-for-urging-sec-to-regulate-defi-developers",
           "author": "Cointelegraph  Martin Young",

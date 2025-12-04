@@ -790,7 +790,7 @@
       "articles": []
     },
     {
-      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "Qtum(QTUM)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -1807,6 +1807,66 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=524191",
+          "author": "HitomotoToshikazu",
+          "description": "FirelightでXRPステーキング可能に DeFi（分散型金融）プロトコル「ファイヤーライト（Firelight）」がフレアネットワーク（Flare Network）上でローンチされ、同プロトコルで暗号資産（仮想通貨 […]",
+          "link": "https://www.neweconomy.jp/posts/524191",
+          "publishedOn": "2025-12-04T06:25:31.000Z",
+          "wordCount": 830,
+          "title": "DeFi「ファイヤーライト」がフレアネットワークで公開、XRPのステーキング可能に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/04151924/236d2b1d6de120a9297bbaab86d80486.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=524150",
+          "author": "OtsugaShinya",
+          "description": "フサカのメインネット実装完了 イーサリアム（Ethereum）の次期大型アップグレード「フサカ（Fusaka）」が、世界協定時12月3日21:49:11（日本時間12月4日6:49:11）にメインネットで起動した。起動後 […]",
+          "link": "https://www.neweconomy.jp/posts/524150",
+          "publishedOn": "2025-12-04T05:13:06.000Z",
+          "wordCount": 802,
+          "title": "イーサリアム大型アップグレード「Fusaka」、メインネット実装完了",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/04141228/f97c3cfe12128559503fbfbdcbc0e7c6.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=524139",
+          "author": "OtsugaShinya",
+          "description": "バイビットがコマイヌと提携 暗号資産（仮想通貨）取引所における取引量で世界第2位のバイビット（Bybit）が、機関投資家向け暗号資産カストディ事業を展開するコマイヌ（Komainu）との提携を12月3日に発表した。 今回 […]",
+          "link": "https://www.neweconomy.jp/posts/524139",
+          "publishedOn": "2025-12-04T05:01:07.000Z",
+          "wordCount": 742,
+          "title": "バイビット、コマイヌの機関投資家向けデジタル資産担保管理サービス採用",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/04135952/d0db3a8630cebe5d112abb88cfe7a621.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=524131",
+          "author": "HitomotoToshikazu",
+          "description": "T-REXがSOLとXRPの2倍レバレッジETF公開 米暗号資産ファンド運用会社レックス・シェアーズ（REX Shares）と米資産運用会社タートル・キャピタル・マネジメント（Tuttle Capital Managem […]",
+          "link": "https://www.neweconomy.jp/posts/524131",
+          "publishedOn": "2025-12-04T04:50:01.000Z",
+          "wordCount": 831,
+          "title": "ティーレックス、「ソラナ（SOL）」と「エックスアールピー（XRP）」の2倍レバレッジETFローンチ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/04134757/a1323569c6ddc4e8d9d7176aa600fea6.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=524113",
+          "author": "NewEconomy",
+          "description": "ソニューム採用でウォレット不要の利用を実現 ヨアケエンターテインメント（YOAKE entertainment）が、アイドルイベント「アイドル・ランウェイ・コレクション2026（IDOL RUNWAY COLLECTIO […]",
+          "link": "https://www.neweconomy.jp/posts/524113",
+          "publishedOn": "2025-12-04T03:38:21.000Z",
+          "wordCount": 820,
+          "title": "YOAKE entertainment、IRC2026公式アプリ「IRC APP」公開　Soneium活用でオンチェーン投票など",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/04123734/79bd209ba4b02c89a6a9ea283ae73310.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=524079",
+          "author": "NewEconomy",
+          "description": "ハッシュキーが上場審査を通過 香港で暗号資産（仮想通貨）取引所を提供するハッシュキー（HashKey）が、香港証券取引所（HKEX）への新規株式公開（IPO）に向けた上場審査を通過したと12月1日に発表した。これにより、 […]",
+          "link": "https://www.neweconomy.jp/posts/524079",
+          "publishedOn": "2025-12-04T03:21:26.000Z",
+          "wordCount": 756,
+          "title": "ハッシュキー、香港でのIPO審査通過を発表。収益拡大を背景に上場手続き進行",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/04121959/bdb4fa24de13768ebb62a175ea09bdef.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=523796",
           "author": "NewEconomyPodcast",
           "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
@@ -2293,6 +2353,81 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/xrp-faces-now-or-never-moment-as-traders-eye-rally-to-dollar2-50",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "XRP（XRP）は今週、心理的節目の2ドルを防衛し、月曜の下落後に火曜日には約6%反発した。依然として7月から続く複数月にわたる下落トレンドの中にあるが、2.28〜2.30ドルの抵抗エリアが強気継続のための決定的な分岐点となっている。",
+          "link": "https://jp.cointelegraph.com/news/xrp-faces-now-or-never-moment-as-traders-eye-rally-to-dollar2-50?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-04T06:20:50.000Z",
+          "wordCount": 18128,
+          "title": "XRP 2ドル割れを回避し反発　強気転換の焦点は2.28〜2.30ドルの抵抗ゾーン突破",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU1YjMtOTkyNS03Yjg4LTkzNTktMTYzNDJiZTg3ZDJk.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU1YjMtOTkyNS03Yjg4LTkzNTktMTYzNDJiZTg3ZDJk.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/connecticut-robinhood-crypto-com-kalshi-cease-desist-prediction-markets",
+          "author": "Cointelegraph  Martin Young",
+          "description": "米コネチカット州が、ロビンフッド、カルシ、クリプト・ドットコム（Crypto.com）がイベント契約を通じて無免許のスポーツベッティングを提供していると主張し、停止命令を出した。",
+          "link": "https://jp.cointelegraph.com/news/connecticut-robinhood-crypto-com-kalshi-cease-desist-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-04T05:39:57.000Z",
+          "wordCount": 18131,
+          "title": "米コネチカット州がロビンフッド、カルシ、クリプト・ドットコムに停止命令　「無免許でスポーツベッティング提供」と主張",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU3NDQtYjlkOS03YTM5LWFhZjItYmEyMmI4MzJhNDg1.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU3NDQtYjlkOS03YTM5LWFhZjItYmEyMmI4MzJhNDg1.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/strategy-bitcoin-buy-collapse-bracing-bear-market",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "ストラテジーは最大のビットコイン保有企業として知られるが、2025年に入って仮想通貨の積み増しペースを大幅に落としている。オンチェーン分析企業クリプトクオントのアナリストは、この動きを「長期化する弱気市場に備えた準備」とみている。",
+          "link": "https://jp.cointelegraph.com/news/strategy-bitcoin-buy-collapse-bracing-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-04T04:57:43.000Z",
+          "wordCount": 18168,
+          "title": "ビットコイン保有企業ストラテジー、買い増しペースを減速　弱気市場入りを見据えた備えか",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU2MDEtNGJhZC03MDVmLTgzZjktZjRkMWYzMDAxNmI0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU2MDEtNGJhZC03MDVmLTgzZjktZjRkMWYzMDAxNmI0.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/blackrock-ceo-larry-fink-bitcoin-strategy-shift",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "ブラックロックの会長兼CEOであるラリー・フィンク氏が、仮想通貨を不正行為と結びつけていた過去から、現在は世界最大規模のビットコイン上場投資信託（ETF）を運用する立場への「大きな転換」について説明した。",
+          "link": "https://jp.cointelegraph.com/news/blackrock-ceo-larry-fink-bitcoin-strategy-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-04T04:30:59.000Z",
+          "wordCount": 18065,
+          "title": "ブラックロックのフィンクCEO、仮想通貨批判からビットコインETF運用への「大転換」を語る",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU1YzUtOTdiMC03ZjY3LThlOTQtNmY3NTg4NmE2ODA0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU1YzUtOTdiMC03ZjY3LThlOTQtNmY3NTg4NmE2ODA0.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/ethereum-fusaka-upgrade-goes-live-instant-feel-user-experiences",
+          "author": "Cointelegraph  Brian Quarmby",
+          "description": "イーサリアムが今年2回目となる主要アップグレード「Fusaka（フサカ）」を実施し、大幅なデータ処理能力の向上、取引コストの削減、ユーザビリティの改善が進んだ。",
+          "link": "https://jp.cointelegraph.com/news/ethereum-fusaka-upgrade-goes-live-instant-feel-user-experiences?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-04T04:05:53.000Z",
+          "wordCount": 18090,
+          "title": "イーサリアム大型アップグレード「Fusaka」が稼働　データ容量拡大・コスト削減でユーザビリティ向上へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGE3YjEtZDY4MS03MTA5LTllMTYtMTY1MWExNWI4NTcz.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGE3YjEtZDY4MS03MTA5LTllMTYtMTY1MWExNWI4NTcz.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/taiwan-stablecoin-regulations-2026-report",
           "author": "Cointelegraph  Turner Wright",
@@ -2797,21 +2932,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTM1YTctNGY2Zi03M2M1LTkxNWQtNTA1YjMwYmVlYzg1.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/spot-bitcoin-etfs-end-four-week-outflows-70m-weekly-inflows",
-          "author": "Cointelegraph  Amin Haqshanas",
-          "description": "ビットコイン上場投資信託（ETF）は、11月に続いた厳しい資金流出の末、週間でおよそ7000万ドルの純流入を記録し、小幅ながらも改善の兆しを見せた。",
-          "link": "https://jp.cointelegraph.com/news/spot-bitcoin-etfs-end-four-week-outflows-70m-weekly-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-11-29T15:33:24.000Z",
-          "wordCount": 18072,
-          "title": "ビットコインETFが4週連続の資金流出に終止符　週間で約7000万ドルの流入に反転",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5NDA2YTAtM2VmNy03Njg3LWJmOWYtNDY0NjJjYmI3YzVl.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5NDA2YTAtM2VmNy03Njg3LWJmOWYtNDY0NjJjYmI3YzVl.jpg"
         }
       ]
     },
@@ -2820,6 +2940,36 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=148988",
+          "author": "Crypto Times 編集部",
+          "description": "Dapper Labsが手掛けるDisney Pinnacleはディズニー映画の名作『ファンタジア』の公開85周年を記念して「ファンタジア 85周年記念 第1巻 限定イベント版デジタルピン」をリリースしました。このデジタ […]\n投稿 Disney Pinnacle「ファンタジア」85周年記念デジタルピンをリリース は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-disney-pinnacle-releases-fantasia-85th-anniversary-digital-pin/",
+          "publishedOn": "2025-12-04T06:23:45.000Z",
+          "wordCount": 673,
+          "title": "Disney Pinnacle「ファンタジア」85周年記念デジタルピンをリリース",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_2605548027.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=148984",
+          "author": "Crypto Times 編集部",
+          "description": "Pudgy Penguinsは世界的に有名なフィギュアシリーズ「BE@RBRICK（ベアブリック）」と提携し、限定版のPenguコレクティブルを発売することを発表しました。 Pudgy Penguins X BE@RBR […]\n投稿 Pudgy PenguinsとBE@RBRICKのコラボレーション、限定コレクティブル発売へ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-pudgy-penguins-berbrick/",
+          "publishedOn": "2025-12-04T06:18:56.000Z",
+          "wordCount": 665,
+          "title": "Pudgy PenguinsとBE@RBRICKのコラボレーション、限定コレクティブル発売へ",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_2559379069-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=148979",
+          "author": "よきょい",
+          "description": "ビットコイン（BTC）は12月の米連邦準備制度理事会（FRB）による利下げ観測の高まりとドル安を背景に、93,000ドル近辺まで反発しました。 市場では2026年に任期満了を迎えるジェローム・パウエル議長の後任人事に関す […]\n投稿 ビットコイン9.3万ドル回復。市場を動かす「影のFRB議長」とは？ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitcoin-recovers-to-93000-who-is-the-shadow-fed-chairman-who-is-moving-the-market/",
+          "publishedOn": "2025-12-04T03:17:37.000Z",
+          "wordCount": 611,
+          "title": "ビットコイン9.3万ドル回復。市場を動かす「影のFRB議長」とは？",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_2103293894.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=148960",
           "author": "よきょい",

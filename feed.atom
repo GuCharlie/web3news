@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-05T21:38:27.502Z</updated>
+    <updated>2025-12-05T22:16:01.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[予測市場ポリマーケット、利用者と取引する内部マーケットメイカー部門の立ち上げを計画＝報道]]></title>
+        <id>https://jp.cointelegraph.com/news/polymarket-in-house-market-making-desk-trade-users</id>
+        <link href="https://jp.cointelegraph.com/news/polymarket-in-house-market-making-desk-trade-users?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-12-05T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[分散型予測市場のポリマーケットが、ユーザーと相対して取引を行う内部マーケットメイカーチームの人材採用を進めている。]]></summary>
+        <author>
+            <name>Cointelegraph  Nate Kostar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、年内に10万ドル突破の可能性　FRBの政策転換と信用不安が追い風に]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-s-end-of-year-run-to-100k-heavily-depends-on-fed-pivot-outcomes</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-s-end-of-year-run-to-100k-heavily-depends-on-fed-pivot-outcomes?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-12-05T21:55:56.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は金曜日に4%下落して8万8140ドルまで沈み、11月以降の下落幅は19%に達した。一方、S&P500は史上最高値まであと1%未満にまで迫っている。この鮮明な乖離は、中央銀行による政策転換と信用不安の高まりを背景に、ビットコインの急反発という形で縮小する可能性が高い。]]></summary>
+        <author>
+            <name>Cointelegraph  Marcel Pechman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン保有企業の指数除外方針に反対、ストライブ社がMSCIに書簡]]></title>
         <id>https://coinpost.jp/?p=672025</id>
@@ -3292,28 +3312,6 @@ AIエージェントはDeFiに対する攻撃能力がある：Anthropicの研�
 投稿 テザー社が資産シフト、ゴールド・ビットコイン急落なら債務超過の危機か は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ストラテジーのセイラー氏、Xに意味深な投稿]]></title>
-        <id>https://www.coindeskjapan.com/?p=327040</id>
-        <link href="https://www.coindeskjapan.com/327040/"/>
-        <updated>2025-12-01T10:10:00.000Z</updated>
-        <summary type="html"><![CDATA[過去12カ月間、ストラテジー（Strategy）のマイケル・セイラー（Michael Saylor）会長は一貫したパターンを維持してきた。ほぼ毎週日曜日に遊び心 ...
-ストラテジーのセイラー氏、Xに意味深な投稿 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>James Van Straten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産の所得に20％の分離課税、政府・与党が調整入る──日経報道]]></title>
-        <id>https://www.coindeskjapan.com/?p=327017</id>
-        <link href="https://www.coindeskjapan.com/327017/"/>
-        <updated>2025-12-01T09:43:44.000Z</updated>
-        <summary type="html"><![CDATA[政府・与党が暗号資産（仮想通貨）の所得について、株式や投資信託と同様に一律20％の申告分離課税とする調整に入ったと12月1日、日経新聞が報じた。 報道によると、 ...
-暗号資産の所得に20％の分離課税、政府・与党が調整入る──日経報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>栃山直樹</name>
         </author>
     </entry>
 </feed>

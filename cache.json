@@ -2127,6 +2127,26 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=525045",
+          "author": "HitomotoToshikazu",
+          "description": "クラーケンとドイツ取引所が提携 海外大手暗号資産（仮想通貨）取引所クラーケン（Kraken）とドイツ取引所グループ（Deutsche Börse Group）による戦略的提携が12月4日に発表された。 発表によると今回の […]",
+          "link": "https://www.neweconomy.jp/posts/525045",
+          "publishedOn": "2025-12-05T07:15:00.000Z",
+          "wordCount": 780,
+          "title": "クラーケンとドイツ取引所が提携、デリバティブやxStocks連携で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/05160245/22c8803cce068c5e4624c68225361837.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=525019",
+          "author": "OtsugaShinya",
+          "description": "カルシがSEIおよびセイ上のUSDC取扱い開始 米予測市場プラットフォームのカルシ（Kalshi）で、レイヤー1ブロックチェーン「セイ（Sei）」のネイティブトークンSEIおよび同ネットワーク上の米ドル建てステーブルコイ […]",
+          "link": "https://www.neweconomy.jp/posts/525019",
+          "publishedOn": "2025-12-05T06:55:43.000Z",
+          "wordCount": 672,
+          "title": "カルシ、米国向けにセイネイティブの「SEI」と「USDC」入出金に対応",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/05161231/4567d75c2365744e400c90b8ac274f37.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=525006",
           "author": "NewEconomy",
           "description": "USDSCがスターテイルアプリのデフォルト通貨に スターテイル（Startale）が、イーサリアム（Ethereum）のレイヤー2ネットワーク「ソニューム（Soneium）」において、米ドル建てステーブルコイン「Star […]",
@@ -2883,6 +2903,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/coinbase-base-solana-connect-together-using-chainlink",
+          "author": "Cointelegraph  Martin Young",
+          "description": "ソラナと、コインベースが開発したイーサリアムのレイヤー2ブロックチェーン「ベース（Base）」が、チェーンリンクの技術を用いたブリッジによって接続された。これにより、両ネットワーク間の流動性を高めることが期待されている。",
+          "link": "https://jp.cointelegraph.com/news/coinbase-base-solana-connect-together-using-chainlink?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-05T06:57:45.000Z",
+          "wordCount": 18113,
+          "title": "ソラナとコインベースのBase、チェーンリンクの技術で相互接続へ　流動性拡大を狙う",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVjNDItMjBiOC03ZTk5LTg5ZmItYWFiYzE5MzE0YTRm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVjNDItMjBiOC03ZTk5LTg5ZmItYWFiYzE5MzE0YTRm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-looks-increasingly-like-it-did-in-2022-can-btc-price-avoid-68k",
           "author": "Cointelegraph  Nancy Lubale",

@@ -850,7 +850,7 @@
       "articles": []
     },
     {
-      "title": "仮想通貨関連株  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -3782,21 +3782,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzA1MmUtZjQxZi03ZjFkLWFjODktOThkYjIzOGE4MjFm.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/tether-ceo-rails-sp-tether-fud",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "S&PがUSDtのドル連動維持能力を引き下げたことを受けた発言で、テザーのビットコインと金の保有が懸念点として挙げられた。",
-          "link": "https://jp.cointelegraph.com/news/tether-ceo-rails-sp-tether-fud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-11-30T21:40:53.000Z",
-          "wordCount": 18094,
-          "title": "テザーCEO、S&Pの格付け会社とUSDtのFUDを拡散するインフルエンサーを批判",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YWQ2NTAtMWVjNC03M2ExLWJmMzktYzk1MWY4MjUzNjcx.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YWQ2NTAtMWVjNC03M2ExLWJmMzktYzk1MWY4MjUzNjcx.jpg"
         }
       ]
     },
@@ -3805,6 +3790,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=149095",
+          "author": "Crypto Times 編集部",
+          "description": "米国の予測市場プラットフォーム「Kalshi」が大手ニュース放送局CNBCとの複数年にわたるデータ提携を発表しました。これは、CNNとの同様の提携発表に続くもので、Kalshiの予測市場データが主要メディアの報道に組み込 […]\n投稿 予測市場Kalshi、CNBCと提携｜2026年からデータ掲載へ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-prediction-market-kalshi-partners-with-cnbc/",
+          "publishedOn": "2025-12-05T09:19:43.000Z",
+          "wordCount": 656,
+          "title": "予測市場Kalshi、CNBCと提携｜2026年からデータ掲載へ",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_2698644991.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=149089",
           "author": "Crypto Times 編集部",

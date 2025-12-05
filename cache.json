@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=327686",
+          "author": "廣瀬 優香",
+          "description": "カントン・ネットワーク（Canton Network）を運営するブロックチェーン企業、デジタルアセット（Digital Asset）は4日、ウォール街の暗号資産 ...\nCanton Network開発企業、ウォール街大手から戦略的投資を獲得 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/327686/",
+          "publishedOn": "2025-12-05T07:25:00.000Z",
+          "wordCount": 1323,
+          "title": "Canton Network開発企業、ウォール街大手から戦略的投資を獲得",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/19d316155e59c893ab3cb6a4acb808e6074c5ea5-1920x1080-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=327664",
           "author": "廣瀬 優香",
           "description": "米国を拠点とするエックス・アール・ピー（XRP）現物ETF（上場投資信託）は、上場後の好調な傾向を継続しており、11月14日の取引開始以来、13日連続で純流入を ...\nXRP現物ETF、暗号資産ETF史上最長13日連続の純流入──10億ドルの節目に迫る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -810,7 +820,7 @@
       "articles": []
     },
     {
-      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "Tether(USDT)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -2127,6 +2137,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=525090",
+          "author": "OtsugaShinya",
+          "description": "SBI VCトレードとサッポロビールがWeb3活用の実証実験 国内暗号資産（仮想通貨）取引所SBI VCトレードが、日本の大手ビールメーカーであるサッポロビールと連携し、Web3技術を活用した「ブランド体験の拡張」に向け […]",
+          "link": "https://www.neweconomy.jp/posts/525090",
+          "publishedOn": "2025-12-05T07:38:09.000Z",
+          "wordCount": 765,
+          "title": "SBI VCトレードとサッポロビール、Web3活用で「ブランド体験の拡張」に向けた実証実験",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/05163737/524bd94b4c3e588bb56c2bc9663210e6.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=525045",
           "author": "HitomotoToshikazu",
           "description": "クラーケンとドイツ取引所が提携 海外大手暗号資産（仮想通貨）取引所クラーケン（Kraken）とドイツ取引所グループ（Deutsche Börse Group）による戦略的提携が12月4日に発表された。 発表によると今回の […]",
@@ -2903,6 +2923,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/argentina-ypf-considers-crypto-fuel-payments",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "アルゼンチンの国営エネルギー企業ヤシミエントス・ペトロリフェロス・フィスカレス（YPF）が、ガソリンやディーゼル燃料の支払いに仮想通貨を受け入れる可能性を検討している。デジタル資産が国内で日常取引に浸透しつつある状況を受けた動きとみられる。",
+          "link": "https://jp.cointelegraph.com/news/argentina-ypf-considers-crypto-fuel-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-05T07:25:02.000Z",
+          "wordCount": 18138,
+          "title": "アルゼンチン国営エネルギー企業YPF、ガソリン代の仮想通貨決済導入を検討",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU5OGEtOWZmMy03YTBhLTk0NDMtNmM2OGE4YjA0MTdm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU5OGEtOWZmMy03YTBhLTk0NDMtNmM2OGE4YjA0MTdm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/coinbase-base-solana-connect-together-using-chainlink",
           "author": "Cointelegraph  Martin Young",

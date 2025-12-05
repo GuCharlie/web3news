@@ -600,16 +600,6 @@
           "wordCount": 1249,
           "title": "暗号資産の所得に20％の分離課税、政府・与党が調整入る──日経報道",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/shutterstock_2177727547.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=327012",
-          "author": "Sam Reynolds",
-          "description": "ハッシュキーは香港最大の認可暗号資産（仮想通貨）取引所として台頭したが、そのIPO申請書類は同社がその地位を得るために多大な代償を払っていることを明らかにしてい ...\n香港最大の取引所ハッシュキー、低手数料戦略などでIPOを前に損失が拡大 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/327012/",
-          "publishedOn": "2025-12-01T09:30:00.000Z",
-          "wordCount": 1345,
-          "title": "香港最大の取引所ハッシュキー、低手数料戦略などでIPOを前に損失が拡大",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/c5468c9a3154e4d78c3b7bd198afb0575ef515c1-936x535_1200.png"
         }
       ]
     },
@@ -624,6 +614,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=672025",
+          "author": "菊谷ルイス",
+          "description": "米ナスダック上場企業ストライブがMSCIに対し、ビットコイン保有企業を株式指数から除外する提案に反対する書簡を送付した。同社は7500BTC以上を保有する企業として、50%基準は不公平で実行不可能だと主張。",
+          "link": "https://coinpost.jp/?p=672025",
+          "publishedOn": "2025-12-05T21:30:37.000Z",
+          "wordCount": 3296,
+          "title": "ビットコイン保有企業の指数除外方針に反対、ストライブ社がMSCIに書簡",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/msci-index-no-rejection-.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/msci-index-no-rejection-.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=672020",
           "author": "菊谷ルイス",
@@ -1793,21 +1798,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-bear-hayes.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-bear-hayes.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=670484",
-          "author": "Ritsuki.Kumazawa",
-          "description": "QUICKは12月1日、円建てビットコイン指数の本格公表を開始した。試験運用から更新頻度を毎日に引き上げ、12月22日からはリアルタイム指数も提供する。暗号資産ETFなどでの利用を想定。",
-          "link": "https://coinpost.jp/?p=670484",
-          "publishedOn": "2025-12-01T09:34:53.000Z",
-          "wordCount": 3272,
-          "title": "日経グループQUICK、ビットコイン指数の算出開始",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": ""
-          },
-          "imageUrl": "https://coinpost.jp/wp-content/uploads/2025/12/btcindicator_article1201.jpg"
         }
       ]
     },
@@ -2433,6 +2423,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-risk-off-signals-fire-but-traders-say-sub-dollar100k-btc-is-discounted",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "ビットコイン（BTC）は9万ドル台を維持しているものの、データは依然として強いリスクオフ・シグナルを点灯している。クリプトクオントの複合指標によるリスクオフ・オシレーターは「高リスク」ゾーン付近に留まっている。これは歴史的に調整局面に先行し、持続的な強気トレンドの可能性を弱める水準とされる。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-risk-off-signals-fire-but-traders-say-sub-dollar100k-btc-is-discounted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-05T21:30:10.000Z",
+          "wordCount": 18265,
+          "title": "9万ドルで攻防続くビットコイン、リスクオフ・シグナルが点灯　さらなる調整リスクも",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVlY2QtNmE3MC03YWFhLWFlNjYtZGY3NjRiYjg0MWQw.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVlY2QtNmE3MC03YWFhLWFlNjYtZGY3NjRiYjg0MWQw.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/terraform-do-kwon-sentencing-recommendation-twelve-years",
           "author": "Cointelegraph  Turner Wright",

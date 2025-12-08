@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=328145",
+          "author": "Olivier Acuna",
+          "description": "クオンタム・エコノミクス（Quantum Economics） の創設者であるマティ・グリーンスパン（Mati Greenspan）氏によると、米国上場のエック ...\n米XRP現物ETF、15日連続資金流入で10億ドルの大台目前に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/328145/",
+          "publishedOn": "2025-12-08T22:00:00.000Z",
+          "wordCount": 1341,
+          "title": "米XRP現物ETF、15日連続資金流入で10億ドルの大台目前に",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/a76c7f177c8cbd64af93e464e7ab3c85812de274-3840x2160-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=328141",
           "author": "Krisztian Sandor",
           "description": "ビットコイン（BTC）は週末終盤、上昇を試みたが、米国12月8日午前にはそのわずかな上昇分もほぼすべて取り消しとなり、その後は9万ドル付近で静かに推移した。 ビ ...\nビットコイン、9万ドル付近で足踏み──ビットフィネックスはショックに対して「脆弱な構造」を警告 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -360,16 +370,6 @@
           "wordCount": 1391,
           "title": "ビットコイン、年末まで9万5000ドルを下回る可能性──アルトコインには追い風となるか",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/9bdc7f7ab7995629743b070ea2b58270464a9b0f-700x430-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=327583",
-          "author": "Omkar Godbole",
-          "description": "暗号資産（仮想通貨）強気派にとっての悪い知らせとして、オランダのING銀行のアナリストは、現在4.09％の米国10年物国債利回りの上昇余地を指摘した。これはCo ...\n10年物米国債利回りに上昇の余地あり：ING first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/327583/",
-          "publishedOn": "2025-12-04T09:45:00.000Z",
-          "wordCount": 1301,
-          "title": "10年物米国債利回りに上昇の余地あり：ING",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/shutterstock_2594320355.jpg"
         }
       ]
     },
@@ -1478,6 +1478,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/michael-saylor-countries-bitcoin-backed-digital-banks",
+          "author": "Cointelegraph  Nate Kostar",
+          "description": "アブダビでの講演で、ストラテジーの最高経営責任者は、ビットコイン準備金とトークン化された信用市場を活用し、高利回りの規制口座を各国が提供できると述べた。",
+          "link": "https://jp.cointelegraph.com/news/michael-saylor-countries-bitcoin-backed-digital-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-08T22:12:34.000Z",
+          "wordCount": 18154,
+          "title": "セイラー氏、国家向けにビットコイン担保型の銀行システムを提案",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZmOTctOTNhYS03YTA1LTg1NGQtZjVmNmVmNTQ5OGNm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZmOTctOTNhYS03YTA1LTg1NGQtZjVmNmVmNTQ5OGNm.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/ripple-500m-raise-wall-street-protected-deal",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "Rippleが5億ドルを調達したことで、SECとの係争後の転換が機能していることが示され、ウォール街が流入した。珍しい保護条項と保証されたリターンを伴う契約が提示されたと報じられている。",
+          "link": "https://jp.cointelegraph.com/news/ripple-500m-raise-wall-street-protected-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-08T22:07:15.000Z",
+          "wordCount": 18176,
+          "title": "リップルの静かな方向転換が400億ドル評価につながった理由",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlYTMtZmRjYy03NmY5LTg0OTgtMDU0NTM3NDc2M2Fh.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlYTMtZmRjYy03NmY5LTg0OTgtMDU0NTM3NDc2M2Fh.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/french-bank-bpce-launches-in-app-crypto-trading",
           "author": "Cointelegraph  Amin Haqshanas",

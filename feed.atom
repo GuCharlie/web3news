@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-08T07:26:01.821Z</updated>
+    <updated>2025-12-08T07:43:00.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[決済データDePINのSyFu、Finverseと提携しアジア5カ国のオープンバンキング展開へ]]></title>
+        <id>https://coinpost.jp/?p=672476</id>
+        <link href="https://coinpost.jp/?p=672476"/>
+        <updated>2025-12-08T07:42:04.000Z</updated>
+        <summary type="html"><![CDATA[決済データ活用プロジェクトSyFuが、オープンバンキングプラットフォームFinverseと提携。香港、シンガポールなどアジア5カ国の約40金融機関と接続し、日常の支払いデータをトークンやNFTに変換できる仕組みを構築。欧州とアジアで世界規模のネットワークを確立。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU、暗号資産市場の監督をESMAに一元化へ。CASP・取引所などが対象に]]></title>
+        <id>https://www.neweconomy.jp/?p=525708</id>
+        <link href="https://www.neweconomy.jp/posts/525708"/>
+        <updated>2025-12-08T07:34:05.000Z</updated>
+        <summary type="html"><![CDATA[欧州委員会が新たな立法提案を発表 欧州連合（EU）の執行機関である欧州委員会（European Commission）が、暗号資産（仮想通貨）サービスプロバイダー（CASP）、取引所、中央清算機関（CCP）などを含む市場 […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサL2のZKシンク、初期版ZKロールアップ「ZKsync Lite」を2026年に廃止へ]]></title>
         <id>https://www.neweconomy.jp/?p=525676</id>

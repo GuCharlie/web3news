@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-08T23:16:15.817Z</updated>
+    <updated>2025-12-08T23:38:02.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PLUMEとJUPITERがコインベースに新規上場、機関投資家向けアクセスも提供]]></title>
+        <id>https://coinpost.jp/?p=672631</id>
+        <link href="https://coinpost.jp/?p=672631"/>
+        <updated>2025-12-08T23:15:57.000Z</updated>
+        <summary type="html"><![CDATA[米コインベースが12月9日にプルームとジュピターの現物取引を開始する。RWAトークン化のプルームとソラナ系DEXアグリゲーターのジュピターが新規上場し、機関投資家向けアクセスも利用可能になる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SECがOndoへの捜査を訴追なしで終了、トークン化証券のハードルをクリア]]></title>
         <id>https://coinpost.jp/?p=672616</id>
@@ -2071,16 +2081,6 @@ Ginco、ゴールドマン等参加の「Canton Network」にバリデータ参�
 投稿 欧州トークン化市場、60億から1000億ユーロへ大幅拡大｜欧州DLT改定 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グレースケールの米国初チェーンリンクETF、初日に4100万ドル流入　アナリスト「大ヒットではないが成功」]]></title>
-        <id>https://jp.cointelegraph.com/news/first-us-chainlink-etf-41m-inflows-no-blockbuster</id>
-        <link href="https://jp.cointelegraph.com/news/first-us-chainlink-etf-41m-inflows-no-blockbuster?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-12-04T11:32:21.000Z</updated>
-        <summary type="html"><![CDATA[グレースケールが立ち上げた米国初のチェーンリンク上場投資信託（ETF）は、仮想通貨市場全体が低迷するなかでも強い投資家関心を集め、初日から好調なスタートを切った。]]></summary>
-        <author>
-            <name>Cointelegraph  Zoltan Vardai</name>
         </author>
     </entry>
 </feed>

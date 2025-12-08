@@ -385,6 +385,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=672631",
+          "author": "菊谷ルイス",
+          "description": "米コインベースが12月9日にプルームとジュピターの現物取引を開始する。RWAトークン化のプルームとソラナ系DEXアグリゲーターのジュピターが新規上場し、機関投資家向けアクセスも利用可能になる。",
+          "link": "https://coinpost.jp/?p=672631",
+          "publishedOn": "2025-12-08T23:15:57.000Z",
+          "wordCount": 3251,
+          "title": "PLUMEとJUPITERがコインベースに新規上場、機関投資家向けアクセスも提供",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/coinbase-plume.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/coinbase-plume.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=672616",
           "author": "菊谷ルイス",
           "description": "トークン化プラットフォームのオンド・ファイナンスが、バイデン政権下で開始されたSECの捜査が訴追なしで終了したと発表した。トークン化証券が米国資本市場の中核となる時期が到来したと同社は期待。",
@@ -2047,21 +2062,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVhMGYtOTljZi03ZWM1LTk3MTMtZGJiOWY5MzQzZTgw.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/first-us-chainlink-etf-41m-inflows-no-blockbuster",
-          "author": "Cointelegraph  Zoltan Vardai",
-          "description": "グレースケールが立ち上げた米国初のチェーンリンク上場投資信託（ETF）は、仮想通貨市場全体が低迷するなかでも強い投資家関心を集め、初日から好調なスタートを切った。",
-          "link": "https://jp.cointelegraph.com/news/first-us-chainlink-etf-41m-inflows-no-blockbuster?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-12-04T11:32:21.000Z",
-          "wordCount": 18189,
-          "title": "グレースケールの米国初チェーンリンクETF、初日に4100万ドル流入　アナリスト「大ヒットではないが成功」",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU4ZGQtZmMyYS03N2FlLWFiNTctNzFhOTNjNzRlMmQ4.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU4ZGQtZmMyYS03N2FlLWFiNTctNzFhOTNjNzRlMmQ4.jpg"
         }
       ]
     },

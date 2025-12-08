@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=328011",
+          "author": "廣瀬 優香",
+          "description": "ビットコイン（BTC）は時間足チャート上で、より大きな下降トレンドの中にある逆トレンドの上昇チャネル内で推移しており、価格動向は依然として微妙な均衡状態にある。 ...\n暗号資産が転換点に到達──BTCとETHは重要な分岐点、XRPは2ドルのサポートを試す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/328011/",
+          "publishedOn": "2025-12-08T07:50:00.000Z",
+          "wordCount": 1467,
+          "title": "暗号資産が転換点に到達──BTCとETHは重要な分岐点、XRPは2ドルのサポートを試す",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/d5646c439de12ffa75596d174196acfefaedd782.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=327992",
           "author": "廣瀬 優香",
           "description": "グラスノード（Glassnode）の最新の週次レポートは、現在の市場状況と、いわゆる暗号資産（仮想通貨）の冬として知られる2022年の弱気相場の初期段階との類似 ...\nビットコイン市場、2022年初めの弱気相場入りと似た動きを示す：Glassnode first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -405,6 +415,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=672494",
+          "author": "Enzo",
+          "description": "フランスのマクロン大統領が米国のステーブルコイン規制緩和について警告を発し、金融不安定化のリスクを指摘。欧州中央銀行に金融政策の見直しを求め、欧州の金融主権維持を主張。ステーブルコイン市場は3000億ドル超に急拡大。",
+          "link": "https://coinpost.jp/?p=672494",
+          "publishedOn": "2025-12-08T07:57:27.000Z",
+          "wordCount": 3265,
+          "title": "マクロン仏大統領、米仮想通貨規制緩和に警鐘　「金融不安定化のリスク」と指摘",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/france-mica.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/france-mica.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=672476",
           "author": "Enzo",
           "description": "決済データ活用プロジェクトSyFuが、オープンバンキングプラットフォームFinverseと提携。香港、シンガポールなどアジア5カ国の約40金融機関と接続し、日常の支払いデータをトークンやNFTに変換できる仕組みを構築。欧州とアジアで世界規模のネットワークを確立。",
@@ -598,6 +623,21 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=643693",
+          "author": "CoinPost編集部",
+          "description": "JPYCが資金移動業ライセンスを取得し、日本初の円建てステーブルコイン「JPYC EX」を発行へ。特徴や将来性を徹底解説。",
+          "link": "https://coinpost.jp/?p=643693",
+          "publishedOn": "2025-12-06T22:00:17.000Z",
+          "wordCount": 3580,
+          "title": "JPYCの買い方・使い方まとめ｜何ができる？今後の活用法・注意点を徹底解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/JPYC_08.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/JPYC_08.jpg"
         },
         {
           "id": "https://coinpost.jp/?p=583632",
@@ -1386,6 +1426,36 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=525741",
+          "author": "OtsugaShinya",
+          "description": "イタリアで暗号資産リスクの詳細調査が開始 イタリア経済省は、暗号資産（仮想通貨）に伴うリスクが（潜在的に）高まる可能性があるとの見方を踏まえ、既存のリスク抑制策（safeguards）について詳細な見直しを命じた。イタリ […]",
+          "link": "https://www.neweconomy.jp/posts/525741",
+          "publishedOn": "2025-12-08T08:07:46.000Z",
+          "wordCount": 757,
+          "title": "イタリア経産省、暗号資産のリスクについて「詳細な調査」開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/08170726/7cec38c6d1ddc7e3fd412877e0e5c234.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=525734",
+          "author": "NewEconomy",
+          "description": "USPDがハッキング攻撃を受ける 分散型ステーブルコインプロトコル「USPD」が不正アクセスの被害を受け、約232stETH（約72万ドル相当）におよぶ資金が流出したと、同プロトコルの公式Xより12月5日に発表された。投 […]",
+          "link": "https://www.neweconomy.jp/posts/525734",
+          "publishedOn": "2025-12-08T08:01:28.000Z",
+          "wordCount": 881,
+          "title": "ステーブルコインプロトコル「USPD」、総額1Mドルの不正流出被害、プロキシ初期化の脆弱性を悪用で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/08170107/7299b9db7a1010a10c9b31fbd965499c.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=525717",
+          "author": "NewEconomy",
+          "description": "北紡がビットコイン追加購入 東証スタンダード上場の北紡が、ビットコインの追加購入を12月2日に発表した。 今回の発表によると北紡は、11月1日から30日までの1ヶ月間で、合計2.29BTCを購入。購入金額は3,464万5 […]",
+          "link": "https://www.neweconomy.jp/posts/525717",
+          "publishedOn": "2025-12-08T07:46:02.000Z",
+          "wordCount": 755,
+          "title": "繊維メーカーの北紡がビットコイン追加購入、総保有数11.54BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/08164516/4662585f821716b38bb180f6335e73dd.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=525708",
           "author": "gentosha_takahashi",
@@ -2505,6 +2575,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=149244",
+          "author": "Crypto Times 編集部",
+          "description": "NFTプロジェクトPudgy Penguinsはドイツの世界的な玩具メーカーSchleichとブランドライセンス契約を締結したと12月6日に発表しました。Schleichはリアルな動物のフィギュアなどを展開するドイツの老 […]\n投稿 Pudgy Penguins、ドイツ老舗フィギュアメーカーとライセンス契約 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-pudgy-penguins-signs-licensing-agreement-with-schleich/",
+          "publishedOn": "2025-12-08T08:19:52.000Z",
+          "wordCount": 713,
+          "title": "Pudgy Penguins、ドイツ老舗フィギュアメーカーとライセンス契約",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/11/shutterstock_2559379067-1.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=149192",
           "author": "よきょい",

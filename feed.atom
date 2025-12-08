@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-08T10:19:51.179Z</updated>
+    <updated>2025-12-08T10:47:16.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、アブダビで包括的な規制認可を取得──取引所、決済、仲介の3社を運営]]></title>
+        <id>https://www.coindeskjapan.com/?p=328104</id>
+        <link href="https://www.coindeskjapan.com/328104/"/>
+        <updated>2025-12-08T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[バイナンス（Binance）は、アラブ首長国連邦（UAE）首都アブダビの金融特別経済区であるアブダビ・グローバル・マーケット（ADGM）から、取引所、清算、仲介 ...
+バイナンス、アブダビで包括的な規制認可を取得──取引所、決済、仲介の3社を運営 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Sam Reynolds</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、FRB利下げ期待から小幅上昇──ETH、ADA、XRPが上昇を牽引]]></title>
         <id>https://www.coindeskjapan.com/?p=328050</id>
@@ -2537,36 +2548,6 @@ Ginco、ゴールドマン等参加の「Canton Network」にバリデータ参�
         <summary type="html"><![CDATA[台湾ドルまたは米ドルに連動した台湾発行のステーブルコインは、関連法案に基づき2026年後半に市場投入される可能性がある。]]></summary>
         <author>
             <name>Cointelegraph  Turner Wright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ポリマーケット、CFTCの承認後に米国アプリをウェイトリスト登録者へ公開]]></title>
-        <id>https://jp.cointelegraph.com/news/polymarket-us-relaunch-waitlisted-users</id>
-        <link href="https://jp.cointelegraph.com/news/polymarket-us-relaunch-waitlisted-users?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-12-03T22:40:43.000Z</updated>
-        <summary type="html"><![CDATA[金融規制当局の再ローンチ承認を受け、米国の一部ユーザーがスポーツイベント契約へのベットなど、予測プラットフォームへの最初のアクセスを得ることになった。]]></summary>
-        <author>
-            <name>Cointelegraph  Turner Wright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大手銀行がコインベースとステーブルコイン・仮想通貨取引の試験運用を実施している＝アームストロング氏]]></title>
-        <id>https://jp.cointelegraph.com/news/major-banks-stablecoin-trading-coinbase-armstrong-says</id>
-        <link href="https://jp.cointelegraph.com/news/major-banks-stablecoin-trading-coinbase-armstrong-says?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-12-03T22:37:17.000Z</updated>
-        <summary type="html"><![CDATA[ディールブックサミットで、ブラックロックのラリー・フィンク氏がビットコインの実用性を認め、コインベースのブライアン・アームストロング氏は主要米銀行とパイロットを進めていると述べた。]]></summary>
-        <author>
-            <name>Cointelegraph  Nate Kostar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firelight、XRPのステーキング機能をローンチ　DeFiの保険市場構築へ]]></title>
-        <id>https://coinpost.jp/?p=671263</id>
-        <link href="https://coinpost.jp/?p=671263"/>
-        <updated>2025-12-03T22:35:12.000Z</updated>
-        <summary type="html"><![CDATA[DeFiの保険サービスを開発するFirelightは、Firelight Protocolをローンチ。まずは仮想通貨XRPをステーキングできる機能を提供する。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>

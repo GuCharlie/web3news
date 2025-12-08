@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-07T23:36:55.818Z</updated>
+    <updated>2025-12-08T01:18:36.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フランスの大手銀行BPCE、仮想通貨4銘柄の取引サービス開始]]></title>
+        <id>https://coinpost.jp/?p=672307</id>
+        <link href="https://coinpost.jp/?p=672307"/>
+        <updated>2025-12-08T00:11:00.000Z</updated>
+        <summary type="html"><![CDATA[フランスの大手銀行BPCEが約200万人の顧客向けに仮想通貨取引サービスを開始する。ビットコインなど4銘柄が銀行アプリで売買可能になる。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韓国、取引所に無過失損害賠償責任を導入へ　アップビットのハッキング事件を受け]]></title>
+        <id>https://coinpost.jp/?p=672297</id>
+        <link href="https://coinpost.jp/?p=672297"/>
+        <updated>2025-12-07T23:54:44.000Z</updated>
+        <summary type="html"><![CDATA[韓国金融当局が仮想通貨取引所に無過失損害賠償責任を導入へ。アップビットの445億ウォン不正アクセス事件を受け、2段階立法で規制強化。課徴金も売上高3%まで引き上げの方針。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フランスの銀行大手BPCE、アプリ内で仮想通貨取引を提供へ]]></title>
         <id>https://jp.cointelegraph.com/news/french-bank-bpce-launches-in-app-crypto-trading</id>
@@ -2161,16 +2181,6 @@ Ginco、ゴールドマン等参加の「Canton Network」にバリデータ参�
 暗号資産の上昇は失速、ビットコインは9万2000ドルに反落──マイクロソフトがAI売上目標を引き下げ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【12/3話題】ビットコインとUSDCでau PAY ギフトカード購入可能に、欧州10銀行のユーロ連動ステーブルコインの新会社など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=523796</id>
-        <link href="https://www.neweconomy.jp/posts/523796"/>
-        <updated>2025-12-03T11:47:58.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
         </author>
     </entry>
 </feed>

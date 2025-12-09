@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-09T16:50:54.814Z</updated>
+    <updated>2025-12-09T17:17:37.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スタンダード・チャータード、強気のビットコイン予測を撤回]]></title>
+        <id>https://www.coindeskjapan.com/?p=328265</id>
+        <link href="https://www.coindeskjapan.com/328265/"/>
+        <updated>2025-12-09T17:14:44.000Z</updated>
+        <summary type="html"><![CDATA[スタンダード・チャータード（Standard Chartered）のデジタル資産担当グローバル責任者であるジェフ・ケンドリック（Geoff Kendrick）氏 ...
+スタンダード・チャータード、強気のビットコイン予測を撤回 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【12/9話題】L1ステーブルがトークノミクス公開とメインネット稼働、米CFTCがデリバティブ市場でのBTC等の証拠金利用を試験など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=526480</id>
@@ -2150,26 +2161,6 @@ XRP現物ETF、暗号資産ETF史上最長13日連続の純流入──10億ド�
 Ginco、ゴールドマン等参加の「Canton Network」にバリデータ参画 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カントンネットワークでUSDC裏付けの「USDCx」利用可能に、米サークル「xReserve」統合で]]></title>
-        <id>https://www.neweconomy.jp/?p=524947</id>
-        <link href="https://www.neweconomy.jp/posts/524947"/>
-        <updated>2025-12-05T05:11:10.000Z</updated>
-        <summary type="html"><![CDATA[カントンネットワークでUSDCx利用可能に 機関投資家向けブロックチェーン「カントンネットワーク（Canton Network）」上で、米ドル建てステーブルコイン「USDCx」が利用可能になったことが12月4日に発表され […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国際通貨基金（IMF）、ステーブルコインの規制断片化に警鐘]]></title>
-        <id>https://coinpost.jp/?p=671872</id>
-        <link href="https://coinpost.jp/?p=671872"/>
-        <updated>2025-12-05T05:00:17.000Z</updated>
-        <summary type="html"><![CDATA[国際通貨基金が今週、ステーブルコイン市場の評価報告書を公開し、各国の規制枠組みの断片化が金融安定性を脅かし監視を弱体化させ、国境を越えた決済の発展を遅らせていると警告した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

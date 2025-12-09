@@ -405,6 +405,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=672796",
+          "author": "CoinPost編集部",
+          "description": "補正予算の国会質疑で暗号資産（仮想通貨）税制が議題に。国民民主党は雑所得として最高税率55%が適用される現行制度を見直し、分離課税化を要求。高市首相は税制改正大綱に基づき与党税調で検討を進めていると答弁した。",
+          "link": "https://coinpost.jp/?p=672796",
+          "publishedOn": "2025-12-09T06:52:01.000Z",
+          "wordCount": 3264,
+          "title": "補正予算の国会質疑で仮想通貨税制が議題に　国民民主党が質問、高市首相は「与党税調で検討中」と答弁",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/kokkai0206.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/kokkai0206.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=672764",
           "author": "Enzo",
           "description": "米XRP現物ETFが上場以来全期間で純流入を記録し、約1,459億円に到達。仮想通貨ETF史上2番目の速さで8億ドルを突破し、機関投資家の継続的な買いが続いている",
@@ -1326,6 +1341,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=526351",
+          "author": "HitomotoToshikazu",
+          "description": "WisdomTreeがオプションインカム戦略をトークン化 米資産管理会社ウィズダムツリー（WisdomTree）が、オプションインカム戦略のトークン化ファンド「WisdomTree Equity Premium Inco […]",
+          "link": "https://www.neweconomy.jp/posts/526351",
+          "publishedOn": "2025-12-09T06:41:46.000Z",
+          "wordCount": 801,
+          "title": "ウィズダムツリー、オプションインカム戦略のトークン化ファンド「EPXC」ローンチ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/09154046/4e82850d8b4b54e40f4a967b9cb1b6bb.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=526338",
+          "author": "OtsugaShinya",
+          "description": "USDTがアブダビの法定通貨参照トークンに承認 テザー（Tether）発行の米ドル建てステーブルコイン「USDT」が、アブダビグローバルマーケット（ADGM）の金融サービス規制当局（FSRA）から、承認済み法定通貨参照ト […]",
+          "link": "https://www.neweconomy.jp/posts/526338",
+          "publishedOn": "2025-12-09T06:34:33.000Z",
+          "wordCount": 818,
+          "title": "テザー「USDT」、アブダビの法定通貨参照トークンに承認",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/09153356/USDT-251209Reuters.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=526298",
           "author": "HitomotoToshikazu",
@@ -2315,6 +2350,26 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=149264",
+          "author": "よきょい",
+          "description": "12月9日、DeFi（分散型金融）市場では新たな利回り機会や資金調達に関する重要な発表が相次ぎました。リキッドステーキングプロトコルのYieldNestがXDCネットワークとの提携により高利回りの流動性プールを提供してい […]\n投稿 【今日の仮想通貨”無料”配布ニュース】YieldNestが高利回りのインセンティブを実施。HumidiFiがパブリックセールを再開 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-yieldnest-offers-high-yield-incentives-humidifi-resumes-public-sale/",
+          "publishedOn": "2025-12-09T06:46:48.000Z",
+          "wordCount": 626,
+          "title": "【今日の仮想通貨”無料”配布ニュース】YieldNestが高利回りのインセンティブを実施。HumidiFiがパブリックセールを再開",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_2064411113-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=149296",
+          "author": "よきょい",
+          "description": "一般社団法人日本暗号資産ビジネス協会（JCBA）は同協会理事でありJPYC株式会社（JPYC Inc.）代表取締役の岡部典孝氏へのインタビューを公開しました。 『AIエージェント時代に進化する通貨──日本円ステーブルコイ […]\n投稿 JPYC代表が語る「ペイメントレス社会」とは｜インフラとしてのステーブルコイン は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-jpc-ceo-talks-about-the-paymentless-society/",
+          "publishedOn": "2025-12-09T06:42:47.000Z",
+          "wordCount": 620,
+          "title": "JPYC代表が語る「ペイメントレス社会」とは｜インフラとしてのステーブルコイン",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_2200142397.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=149298",
           "author": "よきょい",

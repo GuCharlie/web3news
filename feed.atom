@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-09T09:20:31.016Z</updated>
+    <updated>2025-12-09T09:44:14.608Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[クリプトドットコムと21シェアーズUSが提携、「クロノス（CRO）」の投資信託とETF提供に向け]]></title>
+        <id>https://www.neweconomy.jp/?p=526505</id>
+        <link href="https://www.neweconomy.jp/posts/526505"/>
+        <updated>2025-12-09T09:38:45.000Z</updated>
+        <summary type="html"><![CDATA[Crypto.comと21Shares USが提携 海外暗号資産（仮想通貨）取引所クリプトドットコム（Crypto.com）とスイスの資産運用会社21シェアーズ（21Shares）の米国法人21シェアーズUS（21Sha […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヴィタリック、イーサリアムのガス代ヘッジ目的の先物市場の創設提案]]></title>
+        <id>https://www.neweconomy.jp/?p=526498</id>
+        <link href="https://www.neweconomy.jp/posts/526498"/>
+        <updated>2025-12-09T09:31:49.000Z</updated>
+        <summary type="html"><![CDATA[ヴィタリックがガス代先物市場の創設を提案 イーサリアム（Ethereum）の共同創業者であるヴィタリック・ブテリン（Vitalik Buterin）氏が、将来のトランザクション手数料に対してヘッジを可能にする、トラストレ […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTCオプション市場で2万ドルのプットが人気に]]></title>
         <id>https://www.coindeskjapan.com/?p=328205</id>
@@ -2443,16 +2463,6 @@ Ginco、ゴールドマン等参加の「Canton Network」にバリデータ参�
 ビットコイン、年末まで9万5000ドルを下回る可能性──アルトコインには追い風となるか first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロシアが仮想通貨マイニング収益の公式統計反映を検討、隠れた輸出として年間数千億円規模か]]></title>
-        <id>https://coinpost.jp/?p=671716</id>
-        <link href="https://coinpost.jp/?p=671716"/>
-        <updated>2025-12-04T21:25:55.000Z</updated>
-        <summary type="html"><![CDATA[ロシア大統領府のオレシュキン副長官が仮想通貨マイニング収益を貿易収支に計上すべきだと提案した。マイニング収益は1日約10億ルーブルに達し、隠れた輸出として外国為替市場に影響を与えているという。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

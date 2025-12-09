@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-09T23:16:36.293Z</updated>
+    <updated>2025-12-09T23:36:33.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「仮想通貨市場は次の10年間で最大20倍成長する可能性」Bitwise幹部が予測]]></title>
+        <id>https://coinpost.jp/?p=673063</id>
+        <link href="https://coinpost.jp/?p=673063"/>
+        <updated>2025-12-09T23:20:53.000Z</updated>
+        <summary type="html"><![CDATA[Bitwiseの最高投資責任者は、仮想通貨市場は次の10年間で10倍から20倍まで容易に成長する可能性があるとの見方を示した。ビットコインなどを例に挙げ、根拠を説明している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[夜間の値動きを狙うビットコインETF、米国で新提案]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-afterdark-etf-overnight-market-hours</id>

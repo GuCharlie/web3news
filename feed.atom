@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-10T11:38:53.080Z</updated>
+    <updated>2025-12-10T12:36:29.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【12/10話題】米OCCが銀行の暗号資産売買仲介を正式容認、XRP現物ETFのAUMが10億ドルに、Tempoのパブリックテストネット公開など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=527091</id>
+        <link href="https://www.neweconomy.jp/posts/527091"/>
+        <updated>2025-12-10T11:45:35.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サークル、アブダビで「金融サービス許可」ライセンス取得、マネーサービスプロバイダー事業運営へ]]></title>
         <id>https://www.neweconomy.jp/?p=527268</id>
@@ -2311,16 +2321,6 @@ BTCトレジャリー企業Twenty One、厳しい環境下でも12月9日にNYSE
 暗号資産評価で虚偽記載、金融庁監視委がフィスコ・クシムへ課徴金勧告 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米SEC、仮想通貨プライバシー円卓会議を来週開催　ジーキャッシュ創設者も参加]]></title>
-        <id>https://coinpost.jp/?p=672079</id>
-        <link href="https://coinpost.jp/?p=672079"/>
-        <updated>2025-12-06T00:30:55.000Z</updated>
-        <summary type="html"><![CDATA[米証券取引委員会が金融監視とプライバシーをテーマにした円卓会議を12月15日に開催予定。ジーキャッシュ創設者ゾーコ・ウィルコックス氏を含む専門家がパネリストとして参加し、仮想通貨の匿名技術と監視措置について議論を行う。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

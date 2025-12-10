@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-10T09:49:54.605Z</updated>
+    <updated>2025-12-10T10:20:00.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金融庁、IEO投資上限や銀行の保有解禁を明記──暗号資産WG、最終報告書を公表]]></title>
+        <id>https://www.coindeskjapan.com/?p=328435</id>
+        <link href="https://www.coindeskjapan.com/328435/"/>
+        <updated>2025-12-10T10:15:06.000Z</updated>
+        <summary type="html"><![CDATA[金融庁は12月10日、金融審議会「暗号資産制度に関するワーキング・グループ（WG）」の報告書を公表した。 その内容は11月26日の第6回会合で示された「報告書案 ...
+金融庁、IEO投資上限や銀行の保有解禁を明記──暗号資産WG、最終報告書を公表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>栃山直樹</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PGL（PG Labs）が3億円のシード調達、イーサリアムとレイヤー２関連事業強化へ]]></title>
         <id>https://www.neweconomy.jp/?p=527059</id>
@@ -2331,26 +2342,6 @@ BTCトレジャリー企業Twenty One、厳しい環境下でも12月9日にNYSE
         <summary type="html"><![CDATA[ウィズダムツリーが4日、Lidoプロトコル経由でミントされたstETHのみを保有する欧州初の完全ステーキング型イーサリアムETPを上場した。運用資産約5000万ドルでドイツ、スイス、フランス、オランダの取引所で取引が開始された。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[予測市場ポリマーケット、利用者と取引する内部マーケットメイカー部門の立ち上げを計画＝報道]]></title>
-        <id>https://jp.cointelegraph.com/news/polymarket-in-house-market-making-desk-trade-users</id>
-        <link href="https://jp.cointelegraph.com/news/polymarket-in-house-market-making-desk-trade-users?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-12-05T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[分散型予測市場のポリマーケットが、ユーザーと相対して取引を行う内部マーケットメイカーチームの人材採用を進めている。]]></summary>
-        <author>
-            <name>Cointelegraph  Nate Kostar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、年内に10万ドル突破の可能性　FRBの政策転換と信用不安が追い風に]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-s-end-of-year-run-to-100k-heavily-depends-on-fed-pivot-outcomes</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-s-end-of-year-run-to-100k-heavily-depends-on-fed-pivot-outcomes?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-12-05T21:55:56.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は金曜日に4%下落して8万8140ドルまで沈み、11月以降の下落幅は19%に達した。一方、S&P500は史上最高値まであと1%未満にまで迫っている。この鮮明な乖離は、中央銀行による政策転換と信用不安の高まりを背景に、ビットコインの急反発という形で縮小する可能性が高い。]]></summary>
-        <author>
-            <name>Cointelegraph  Marcel Pechman</name>
         </author>
     </entry>
 </feed>

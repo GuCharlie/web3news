@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-10T09:20:52.324Z</updated>
+    <updated>2025-12-10T09:49:54.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PGL（PG Labs）が3億円のシード調達、イーサリアムとレイヤー２関連事業強化へ]]></title>
+        <id>https://www.neweconomy.jp/?p=527059</id>
+        <link href="https://www.neweconomy.jp/posts/527059"/>
+        <updated>2025-12-10T09:48:23.000Z</updated>
+        <summary type="html"><![CDATA[国内Web3企業PGL（PG Labs）が3億円調達 国内のWeb3企業PGL（PG Labs）が、ベンチャーキャピタルおよび個人投資家を引受先とする総額3億円のグラント含むシードラウンド資金調達の実施を12月10日発表 […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マレーシア王室、リンギット建てステーブルコインの発行を発表]]></title>
+        <id>https://www.coindeskjapan.com/?p=328433</id>
+        <link href="https://www.coindeskjapan.com/328433/"/>
+        <updated>2025-12-10T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[マレーシア国王の長男は本日、アジア太平洋地域を跨ぐ外国投資の誘致と越境貿易を目的としたステーブルコインを発表した。 通信会社Bullish Aim Sdnのオー ...
+マレーシア王室、リンギット建てステーブルコインの発行を発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Olivier Acuna</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Virtuals Protocol、Base-Solana間のブリッジが稼働開始]]></title>
         <id>https://crypto-times.jp/?p=149397</id>
@@ -2330,26 +2351,6 @@ BTCトレジャリー企業Twenty One、厳しい環境下でも12月9日にNYSE
         <summary type="html"><![CDATA[ビットコイン（BTC）は金曜日に4%下落して8万8140ドルまで沈み、11月以降の下落幅は19%に達した。一方、S&P500は史上最高値まであと1%未満にまで迫っている。この鮮明な乖離は、中央銀行による政策転換と信用不安の高まりを背景に、ビットコインの急反発という形で縮小する可能性が高い。]]></summary>
         <author>
             <name>Cointelegraph  Marcel Pechman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン保有企業の指数除外方針に反対、ストライブ社がMSCIに書簡]]></title>
-        <id>https://coinpost.jp/?p=672025</id>
-        <link href="https://coinpost.jp/?p=672025"/>
-        <updated>2025-12-05T21:30:37.000Z</updated>
-        <summary type="html"><![CDATA[米ナスダック上場企業ストライブがMSCIに対し、ビットコイン保有企業を株式指数から除外する提案に反対する書簡を送付した。同社は7500BTC以上を保有する企業として、50%基準は不公平で実行不可能だと主張。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9万ドルで攻防続くビットコイン、リスクオフ・シグナルが点灯　さらなる調整リスクも]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-risk-off-signals-fire-but-traders-say-sub-dollar100k-btc-is-discounted</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-risk-off-signals-fire-but-traders-say-sub-dollar100k-btc-is-discounted?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-12-05T21:30:10.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は9万ドル台を維持しているものの、データは依然として強いリスクオフ・シグナルを点灯している。クリプトクオントの複合指標によるリスクオフ・オシレーターは「高リスク」ゾーン付近に留まっている。これは歴史的に調整局面に先行し、持続的な強気トレンドの可能性を弱める水準とされる。]]></summary>
-        <author>
-            <name>Cointelegraph  Biraajmaan Tamuly</name>
         </author>
     </entry>
 </feed>

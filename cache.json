@@ -565,6 +565,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=673590",
+          "author": "Austin Mwendia",
+          "description": "テザーはHoneyCoinと戦略的提携を発表し、アフリカでのUSDT決済拡大を目指す。HoneyCoinはQRコードや専用端末に対応したPOSネットワークを導入し、加盟店が直接USDTを受け取れる仕組みを構築。まずケニアでサービスを開始し、他市場へ展開予定。現地通貨の変動リスクを避けたいユーザーの需要に応え、アフリカにおけるステーブルコイン普及を加速させる。",
+          "link": "https://coinpost.jp/?p=673590",
+          "publishedOn": "2025-12-11T08:56:19.000Z",
+          "wordCount": 3266,
+          "title": "テザーとHoneyCoinが提携、アフリカでUSDT決済を拡大",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/tether-usdt-reenter-the-US.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/tether-usdt-reenter-the-US.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=673592",
           "author": "AKIRA.H",
           "description": "コインチェックがソラナ（SOL）の取扱いを開始。販売所・取引所・つみたてに対応し、1万円購入で抽選1万円分のSOLが当たるキャンペーンも実施中。",
@@ -2572,21 +2587,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWYyYTMtZWE3Ny03YmY4LTk5MDgtMzlhOTY5MzZhZDNm.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/tether-solvency-fears-misplaced-coinshares-stablecoin-surplus",
-          "author": "Cointelegraph  Sam Bourgi",
-          "description": "ステーブルコイン発行企業テザーの財務的な安定性をめぐる懸念が今週あらためて浮上した。きっかけは、ビットメックス創業者アーサー・ヘイズ氏が、準備資産の価値が下落した場合に同社が深刻な問題に直面する可能性を警告したことだ。",
-          "link": "https://jp.cointelegraph.com/news/tether-solvency-fears-misplaced-coinshares-stablecoin-surplus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-12-06T21:00:00.000Z",
-          "wordCount": 18099,
-          "title": "テザーの財務健全性懸念が再燃　コインシェアーズのアナリストは「杞憂」と反論",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVmY2EtMzMxMC03NTcxLWIwMjYtZGI2NTg2ODQzYmM2.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVmY2EtMzMxMC03NTcxLWIwMjYtZGI2NTg2ODQzYmM2.jpg"
         }
       ]
     },

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-11T22:42:47.934Z</updated>
+    <updated>2025-12-11T23:16:27.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブータンが金連動の国家裏付けRWAトークンを発表]]></title>
+        <id>https://jp.cointelegraph.com/news/bhutan-ter-sovereign-gold-digital-token</id>
+        <link href="https://jp.cointelegraph.com/news/bhutan-ter-sovereign-gold-digital-token?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-12-11T23:02:18.000Z</updated>
+        <summary type="html"><![CDATA[ヒマラヤの王国はビットコインをマイニングし、デジタル資産準備を保有し、ブロックチェーン技術を自国の金融システム近代化に取り入れている。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[シャオミが世界展開のスマートフォンにSei仮想通貨ウォレットをプリインストールへ]]></title>
         <id>https://jp.cointelegraph.com/news/xiaomi-pre-install-sei-crypto-wallet-smartphones</id>

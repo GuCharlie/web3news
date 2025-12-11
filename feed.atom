@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-11T23:16:27.394Z</updated>
+    <updated>2025-12-11T23:38:46.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、年末サンタ・ラリーの可能性低下　FRB利下げ後＝アナリスト分析]]></title>
+        <id>https://coinpost.jp/?p=673743</id>
+        <link href="https://coinpost.jp/?p=673743"/>
+        <updated>2025-12-11T23:20:24.000Z</updated>
+        <summary type="html"><![CDATA[FRBが25ベーシスポイントの利下げを実施した後、ビットコインが約9万ドルまで下落した。アナリストは年末のサンタ・ラリーが起こりにくいと分析しており、強気の確信は2026年初頭に先送りされている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブータンが金連動の国家裏付けRWAトークンを発表]]></title>
         <id>https://jp.cointelegraph.com/news/bhutan-ter-sovereign-gold-digital-token</id>

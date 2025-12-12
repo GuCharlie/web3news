@@ -2550,26 +2550,6 @@
           "wordCount": 860,
           "title": "スイスのアミナバンク、パクソスのUSDGを導入。デジタルドル基盤「GDN」へ参画へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/08142046/784cf9b6ac237a3a2a940cfc9e261398.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=525570",
-          "author": "NewEconomy",
-          "description": "アーべV4でネイティブBTCの担保利用を実現へ ビットコイン関連プロトコルを開発するバビロンラボ（Babylon Labs）が、ネイティブビットコイン（BTC）を担保として導入する取り組みを開始すると12月3日に発表した […]",
-          "link": "https://www.neweconomy.jp/posts/525570",
-          "publishedOn": "2025-12-08T05:11:46.000Z",
-          "wordCount": 810,
-          "title": "バビロンラボ、アーベV4にネイティブBTC担保導入へ。アーベラボと提携で",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/08141142/d2246d9657ae1397ac7a4b27ddcefa71.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=525563",
-          "author": "NewEconomy",
-          "description": "コネチカット州が「スポーツイベント契約」を賭博と判断 米コネチカット州消費者保護局（DCP）のゲーミング部門が、ロビンフッド・デリバティブ（Robinhood Derivatives）、クリプトドットコム（Crypto. […]",
-          "link": "https://www.neweconomy.jp/posts/525563",
-          "publishedOn": "2025-12-08T05:07:15.000Z",
-          "wordCount": 754,
-          "title": "米コネチカット州、ロビンフッドなど3社に停止・差止を命令。無免許スポーツ賭博と判断",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/08140711/1e0dd1b11f07030c5ad9d430f25fc967.jpg"
         }
       ]
     },
@@ -2578,6 +2558,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-speculation-2024-lows-leveraged-etfs-record-239b",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "伝統的金融のレバレッジ投資商品の運用資産は過去最高を更新している一方で、仮想通貨市場では投機的資産への需要が低迷している。",
+          "link": "https://jp.cointelegraph.com/news/crypto-speculation-2024-lows-leveraged-etfs-record-239b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-12T16:51:15.000Z",
+          "wordCount": 18192,
+          "title": "ミームコイン市場の失速続く、仮想通貨投資家のセンチメントは回復しきれず",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEyODItYThhZS03N2FmLWIyYzEtMDMzODhiZGJhODBlLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEyODItYThhZS03N2FmLWIyYzEtMDMzODhiZGJhODBlLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/ethereum-price-rallied-260-percent-last-time-eth-5k",
           "author": "Cointelegraph  Nancy Lubale",
@@ -3709,16 +3704,6 @@
           "wordCount": 611,
           "title": "ビットコイン(BTC)、4時間足で再び「デスクロス」点灯【仮想通貨チャート分析】",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_1998065048.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=149228",
-          "author": "よきょい",
-          "description": "12月8日、ビットコイン（BTC）の価格は91,250ドル前後で推移しており、イーサリアム（ETH）は約3,120ドル、ソラナ（SOL）は約134ドルで取引されています。世界の暗号資産時価総額は3.19兆ドルで、ビットコ […]\n投稿 【今日の暗号資産ニュース】米家計の「リボ地獄」が市場に与える影響とは。英国が暗号資産を法的に定義 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-the-impact-of-the-revolving-credit-hell-on-the-us-household-budget-on-the-market-the-uk-legally-defines-crypto-assets/",
-          "publishedOn": "2025-12-08T05:08:30.000Z",
-          "wordCount": 633,
-          "title": "【今日の暗号資産ニュース】米家計の「リボ地獄」が市場に与える影響とは。英国が暗号資産を法的に定義",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_1892660467.jpg"
         }
       ]
     }

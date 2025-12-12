@@ -1832,6 +1832,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=528541",
+          "author": "NewEconomyPodcast",
+          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/528541",
+          "publishedOn": "2025-12-12T11:08:46.000Z",
+          "wordCount": 783,
+          "title": "【12/12話題】wXRPがソラナに近日対応へ、ド・クォンに懲役15年、x402の最新版、Suiがブータンで技術検証など（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/12200529/49cff78436f3616bbc7e495444c50364.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=528112",
           "author": "gentosha_takahashi",
           "description": "ステーブルコイン取扱いが容易に オーストラリア証券投資委員会（ASIC）が、国内のデジタル資産および決済分野のイノベーションと市場成長を後押しするため、新たなクラス免除措置を12月9日に発表した。今回の措置により、特定の […]",
@@ -3242,36 +3252,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlYTMtZmRjYy03NmY5LTg0OTgtMDU0NTM3NDc2M2Fh.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/french-bank-bpce-launches-in-app-crypto-trading",
-          "author": "Cointelegraph  Amin Haqshanas",
-          "description": "BPCEは、数百万人の顧客が銀行アプリ内でBTC、ETH、SOL、USDCを直接売買できるようにする。",
-          "link": "https://jp.cointelegraph.com/news/french-bank-bpce-launches-in-app-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-12-07T23:08:03.000Z",
-          "wordCount": 18120,
-          "title": "フランスの銀行大手BPCE、アプリ内で仮想通貨取引を提供へ",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY4MGYtYWY0ZS03NzJlLWI0OWYtMDAxZDdmOTFlNTFh.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY4MGYtYWY0ZS03NzJlLWI0OWYtMDAxZDdmOTFlNTFh.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-cash-40-to-become-best-performing-l1",
-          "author": "Cointelegraph  Amin Haqshanas",
-          "description": "ビットコインキャッシュは、クリーンな供給構造と投資家需要の再燃を追い風に、2025年に主要レイヤー1をすべて上回るパフォーマンスを記録している。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-cash-40-to-become-best-performing-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-12-07T22:55:50.000Z",
-          "wordCount": 18177,
-          "title": "ビットコインキャッシュ、年初来で約40％上昇　年内「最も好調な」レイヤー1に",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY4YTEtODU5YS03YzAwLWE4NTItODcwMzY5OTdmOTA0.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY4YTEtODU5YS03YzAwLWE4NTItODcwMzY5OTdmOTA0.jpg"
         }
       ]
     },
@@ -3280,6 +3260,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=149493",
+          "author": "Crypto Times 編集部",
+          "description": "米国最大仮想通貨取引所を運営するCoinbase Global Inc.が来週17日のショーケースイベントで予測市場とトークン化株式の2つの新製品を発表予定であることがBloombergの報道により分かりました。 Coi […]\n投稿 Coinbase、予測市場とトークン化株式を12月17日に発表へ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-coinbase-to-announce-prediction-markets-and-tokenized-stocks/",
+          "publishedOn": "2025-12-12T11:10:16.000Z",
+          "wordCount": 629,
+          "title": "Coinbase、予測市場とトークン化株式を12月17日に発表へ",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_2684095097.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=149489",
           "author": "Crypto Times 編集部",

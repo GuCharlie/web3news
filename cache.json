@@ -625,6 +625,96 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=674099",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨ステーブルコインUSDTなどを発行するテザー社は、自社の株式の流動性を確保するためにトークン化や自社株買いなどの手段を検討していることが報じられた。検討の背景が明らかになっている。",
+          "link": "https://coinpost.jp/?p=674099",
+          "publishedOn": "2025-12-12T23:30:23.000Z",
+          "wordCount": 3262,
+          "title": "テザー、自社株のトークン化や買い戻しを検討　最大200億ドル調達後の流動性確保か＝ブルームバーグ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/05/tether202005d-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/05/tether202005d-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=674121",
+          "author": "菊谷ルイス",
+          "description": "ソラナ上のDEXアグリゲーター「ジュピター」がレンディングのオープンソース化、ステーブルコインジュプUSDローンチ、トークン検証システムVRFD拡張など7つの包括的アップグレードを発表した。",
+          "link": "https://coinpost.jp/?p=674121",
+          "publishedOn": "2025-12-12T22:40:29.000Z",
+          "wordCount": 3256,
+          "title": "ソラナDEX大手ジュピター、7つの大型アップグレード発表　オンチェーン金融強化へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/jupiter-x-debridge.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/jupiter-x-debridge.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=674091",
+          "author": "菊谷ルイス",
+          "description": "バンガードの責任者ジョン・アメリクス氏がビットコインを人気玩具ラブブに例え投機的資産と指摘。同社は仮想通貨ETF取引を解禁したが、独自商品提供や投資助言は行わない方針を維持。",
+          "link": "https://coinpost.jp/?p=674091",
+          "publishedOn": "2025-12-12T22:05:26.000Z",
+          "wordCount": 3252,
+          "title": "バンガード幹部がビットコインを投機的収集品と指摘、仮想通貨ETF取引解禁も慎重な姿勢",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/vanguard-bitcoin-etf-labubu.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/vanguard-bitcoin-etf-labubu.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=674075",
+          "author": "菊谷ルイス",
+          "description": "ソラナの新しいバリデータ・クライアント「ファイアダンサー」が3年間の開発を経てついにメインネット稼働を実現。1秒あたり100万トランザクションの処理を目指している",
+          "link": "https://coinpost.jp/?p=674075",
+          "publishedOn": "2025-12-12T21:35:25.000Z",
+          "wordCount": 3258,
+          "title": "ソラナ「ファイアダンサー」がメインネット稼働開始、100万TPS目指す",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/solana-2.0-new-3.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/solana-2.0-new-3.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=674062",
+          "author": "菊谷ルイス",
+          "description": "米大手格付け会社ムーディーズがステーブルコインを評価するための新たなフレームワークを提案した。ステーブルコインを裏付ける準備資産プールの各適格資産タイプを評価し、信用力に基づいて格付けを付与。",
+          "link": "https://coinpost.jp/?p=674062",
+          "publishedOn": "2025-12-12T21:10:00.000Z",
+          "wordCount": 3252,
+          "title": "米ムーディーズがステーブルコイン格付けフレームワークを提案、準備資産評価へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/stablecoin2020a-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/stablecoin2020a-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=674051",
+          "author": "菊谷ルイス",
+          "description": "米通貨監督庁がリップル、サークル、ビットゴー、フィデリティ・デジタル・アセッツ、パクソスの5社に連邦認可信託銀行免許の条件付き承認を付与した。ステーブルコイン発行企業を連邦規制監督下に置く重要な一歩となる。",
+          "link": "https://coinpost.jp/?p=674051",
+          "publishedOn": "2025-12-12T20:45:49.000Z",
+          "wordCount": 3257,
+          "title": "リップルやサークルなど5社、米連邦信託銀行免許の条件付き承認を取得",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103002.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103002.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=673944",
           "author": "Enzo",
           "description": "ソラナ公式が12日、XRP統合を発表。ヘックス・トラストもwXRPのソラナローンチを同日発表し、1億ドル超のTVLを確保。レイヤーゼロ技術を活用したクロスチェーン機能で、ソラナDeFiでのXRP利用が実現へ。",
@@ -2270,26 +2360,6 @@
           "wordCount": 805,
           "title": "ジュピターとカミノ、「Jupiter Lend」の隔離担保を巡り議論",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/09112919/9b8cbf720c07db1e2d87957d91931d69.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=526120",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/526120",
-          "publishedOn": "2025-12-08T11:28:43.000Z",
-          "wordCount": 782,
-          "title": "【12/8話題】ロビンフッドがインドネシア市場に進出へ、ZKsync Liteが2026年に廃止、USPDがハッキングなど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/08201857/b5074a0aa70b47156963d91cd8feb2d8.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=526125",
-          "author": "HitomotoToshikazu",
-          "description": "WisdomTreeのstETH現物ETPが欧州で上場 米資産管理会社ウィズダムツリー（WisdomTree）が、リキッドステーキングプロトコル「ライド（Lido）」のLST（リキッドステーキングトークン）「stETH」 […]",
-          "link": "https://www.neweconomy.jp/posts/526125",
-          "publishedOn": "2025-12-08T11:22:13.000Z",
-          "wordCount": 833,
-          "title": "ウィズダムツリー、Lidoの「stETH」現物ETPを欧州で上場",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/08202044/86d968c983e6801153ba070a84e862dc.jpg"
         }
       ]
     },

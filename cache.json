@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=328828",
+          "author": "Margaux Nijkerk",
+          "description": "ソラナ（Solana）を基盤とする分散型無線ネットワーク「ヘリウム（Helium）」は、ブラジルのWiFiプロバイダー「Mambo WiFi」との合弁事業を通じ ...\nDePINプロジェクトのヘリウム、Mambo WiFiと提携してブラジルに進出 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/328828/",
+          "publishedOn": "2025-12-12T10:20:00.000Z",
+          "wordCount": 1353,
+          "title": "DePINプロジェクトのヘリウム、Mambo WiFiと提携してブラジルに進出",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/06/shutterstock_1421446100.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=328817",
           "author": "Ian Allison",
           "description": "暗号資産（仮想通貨）取引所のコインベース（Coinbase）と暗号資産に積極的なスタンダード・チャータード（Standard Chartered）銀行は、機関投 ...\nスタンダード・チャータードとコインベース、機関投資家向け暗号資産プライムサービスを拡大 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -2649,6 +2659,21 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/coinbase-prediction-markets-tokenized-stocks-december-17-report",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "ブルームバーグによれば、米国最大の仮想通貨取引所コインベースが、予測市場とトークン化株式への参入を来週にも発表する見通し予定だ。",
+          "link": "https://jp.cointelegraph.com/news/coinbase-prediction-markets-tokenized-stocks-december-17-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-12T10:33:50.000Z",
+          "wordCount": 18171,
+          "title": "米仮想通貨取引所コインベース、予測市場とトークン化株式に本格参入＝報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjExODYtMjIxYy03MmEzLWIyZDUtMTNjMGQ3MTQ1Mjhk.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjExODYtMjIxYy03MmEzLWIyZDUtMTNjMGQ3MTQ1Mjhk.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/standard-chartered-capital-a-ringgit-stablecoin-malaysia",
           "author": "Cointelegraph  Adrian Zmudzinski",
           "description": "スタンダードチャータード銀行マレーシアとエアアジアの親会社キャピタルAが、マレーシアの法定通貨リンギットに連動するステーブルコインの検討に乗り出した。",
@@ -3247,36 +3272,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY4YTEtODU5YS03YzAwLWE4NTItODcwMzY5OTdmOTA0.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-dips-below-88k-analysis-blames-fomc",
-          "author": "Cointelegraph  William Suberg",
-          "description": "ビットコインは週足の引けにかけて急落し、重要な米連邦準備制度理事会（FRB）の利上げ・利下げ決定を前に、8万7,000ドル水準が再び意識される展開となった。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-dips-below-88k-analysis-blames-fomc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-12-07T22:39:38.000Z",
-          "wordCount": 18277,
-          "title": "ビットコイン価格、FOMC警戒で8万8,000ドル割れ",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY5NDYtNWFkMy03YmZlLTg2MTMtZmY5Zjk3ZjFkNGZk.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY5NDYtNWFkMy03YmZlLTg2MTMtZmY5Zjk3ZjFkNGZk.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/wisdomtree-tokenized-options-income-fund-epxc-launch",
-          "author": "Cointelegraph  Sam Bourgi",
-          "description": "資産運用会社のEPXCファンドは、現金担保付きプット売り戦略をトークン化しており、伝統的市場商品とブロックチェーンのより深い統合を示している。",
-          "link": "https://jp.cointelegraph.com/news/wisdomtree-tokenized-options-income-fund-epxc-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-12-07T22:22:25.000Z",
-          "wordCount": 18145,
-          "title": "ウィズダムツリー、オプション収益戦略をオンチェーン化　新たなトークン化ファンドを投入",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY5ZTItYmQwOS03NDkyLWE2MDMtNjkwMTQ2ODllZDgx.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY5ZTItYmQwOS03NDkyLWE2MDMtNjkwMTQ2ODllZDgx.jpg"
         }
       ]
     },

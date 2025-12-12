@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-12T16:20:50.285Z</updated>
+    <updated>2025-12-12T16:46:27.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム、5000ドルまで急騰できるか？ クジラの実現価格に接近]]></title>
+        <id>https://jp.cointelegraph.com/news/ethereum-price-rallied-260-percent-last-time-eth-5k</id>
+        <link href="https://jp.cointelegraph.com/news/ethereum-price-rallied-260-percent-last-time-eth-5k?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-12-12T16:19:45.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム（ETH）は、過去に相場の底打ちを示してきた水準に接近しており、典型的なチャートパターンは5000ドルへの上昇の可能性を示している。]]></summary>
+        <author>
+            <name>Cointelegraph  Nancy Lubale</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アップビット不正流出事件　バイナンスが一部資産のみ凍結　警察要請の17%＝報道]]></title>
         <id>https://jp.cointelegraph.com/news/binance-upbit-hack-funds-freeze-kbs-report</id>

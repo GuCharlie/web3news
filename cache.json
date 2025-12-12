@@ -640,26 +640,6 @@
           "wordCount": 1537,
           "title": "【企業リーダー向け10名特別枠】CoinDesk JAPAN / N.Avenue Club「Year End Party 2025」",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/2025_year_end_party_1200x800.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=328065",
-          "author": "宮本航歩",
-          "description": "2025年12月1日、Claude OpusなどのAIモデルを開発するAnthropic社は、AIエージェントを用いたスマートコントラクトの脆弱性検出能力に関す ...\nAnthropic、AIによるスマートコントラクト攻撃を実証 ― 460万ドル相当の脆弱性発見とゼロデイ攻撃の自動化 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/328065/",
-          "publishedOn": "2025-12-08T08:40:42.000Z",
-          "wordCount": 1324,
-          "title": "Anthropic、AIによるスマートコントラクト攻撃を実証 ― 460万ドル相当の脆弱性発見とゼロデイ攻撃の自動化",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/shutterstock_2533498743.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=328028",
-          "author": "Omkar Godbole",
-          "description": "ビットコイン（BTC）は時間足チャート上で、大きな下降トレンド内の上昇チャネル内で取引を続けている。これにより価格動向は微妙な均衡状態にある。 9万6500ドル ...\nBTCとETHはトレンドに反する動き、XRPは重要な2ドルの支持線を試す展開：テクニカル分析 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/328028/",
-          "publishedOn": "2025-12-08T08:25:00.000Z",
-          "wordCount": 1429,
-          "title": "BTCとETHはトレンドに反する動き、XRPは重要な2ドルの支持線を試す展開：テクニカル分析",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/shutterstock_2159962175.jpg"
         }
       ]
     },
@@ -2350,16 +2330,6 @@
           "wordCount": 752,
           "title": "クオンタムソリューションズ、イーサリアム総保有数は約5200ETHに",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/08174605/54c9d46f95656a3aa87a825aa32f2977.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=525765",
-          "author": "HitomotoToshikazu",
-          "description": "ファイアブロックスとマネーグラムが提携 デジタル資産インフラストラクチャプロバイダーのファイアブロックス（Fireblocks）と、国際送金ネットワーク提供のマネーグラム（MoneyGram）との提携が12月4日に発表さ […]",
-          "link": "https://www.neweconomy.jp/posts/525765",
-          "publishedOn": "2025-12-08T08:39:57.000Z",
-          "wordCount": 791,
-          "title": "ファイアブロックスとマネーグラムが提携、トレジャリー業務とステーブルコイン決済強化へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/08173935/e479303cd88b388f0cfd287b967627c0.jpg"
         }
       ]
     },
@@ -2368,6 +2338,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/trillions-dollars-risk-trade-unions-crypto-401ks",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "ワシントンD.C.で、401(k)退職年金口座への仮想通貨導入を巡り、仮想通貨業界と労働組合の対立が深まっている。",
+          "link": "https://jp.cointelegraph.com/news/trillions-dollars-risk-trade-unions-crypto-401ks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-12T20:33:38.000Z",
+          "wordCount": 18179,
+          "title": "米国で仮想通貨業界と労働組合が対立　退職年金の仮想通貨投資巡り",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBmNDQtYzgzYi03YjRkLTkyMTYtMjk2OTNjM2M1Zjc0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBmNDQtYzgzYi03YjRkLTkyMTYtMjk2OTNjM2M1Zjc0.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/crypto-speculation-2024-lows-leveraged-etfs-record-239b",
           "author": "Cointelegraph  Zoltan Vardai",
@@ -3474,16 +3459,6 @@
           "wordCount": 618,
           "title": "米リップル現物ETF、運用資産10億ドルに迫る勢い",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/shutterstock_2599250759.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=149244",
-          "author": "Crypto Times 編集部",
-          "description": "NFTプロジェクトPudgy Penguinsはドイツの世界的な玩具メーカーSchleichとブランドライセンス契約を締結したと12月6日に発表しました。Schleichはリアルな動物のフィギュアなどを展開するドイツの老 […]\n投稿 Pudgy Penguins、ドイツ老舗フィギュアメーカーとライセンス契約 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-pudgy-penguins-signs-licensing-agreement-with-schleich/",
-          "publishedOn": "2025-12-08T08:19:52.000Z",
-          "wordCount": 713,
-          "title": "Pudgy Penguins、ドイツ老舗フィギュアメーカーとライセンス契約",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/11/shutterstock_2559379067-1.jpg"
         }
       ]
     }

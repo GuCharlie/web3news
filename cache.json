@@ -1782,6 +1782,36 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=528035",
+          "author": "TamuraSeiji",
+          "description": "イーサリアムが「BPO-1」実装 イーサリアム（Ethereum）メインネットに、ブロブ容量を拡大する「BPO-1（Blob Parameter Only-1）」が12月9日に有効化された。BPO-1により1ブロックあた […]",
+          "link": "https://www.neweconomy.jp/posts/528035",
+          "publishedOn": "2025-12-12T07:35:11.000Z",
+          "wordCount": 790,
+          "title": "イーサリアムが「BPO1」実装完了、ブロブ容量を67%拡大",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/12163444/f69fde6b923f324a31aba967924a912b.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=528043",
+          "author": "OtsugaShinya",
+          "description": "wXRPがソラナに近日対応へ 香港の機関投資家向けデジタル資産カストディ企業のヘックストラスト（Hex Trust）が、暗号資産（仮想通貨）エックスアールピー（XRP）に1:1で裏付けられた「ラップドエックスアールピー（ […]",
+          "link": "https://www.neweconomy.jp/posts/528043",
+          "publishedOn": "2025-12-12T07:33:52.000Z",
+          "wordCount": 678,
+          "title": "ヘックストラストが「wXRP」ローンチへ、ソラナに近日対応",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/12163347/ea65d0a60cf37941c3a4408dbd3b9148.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=528042",
+          "author": "OtsugaShinya",
+          "description": "コインチェックがSOL取扱開始 国内暗号資産（仮想通貨）取引所コインチェック（Coincheck）が、暗号資産ソラナ（SOL）の取り扱い開始を12月11日に発表した。 SOLが取り扱われるのは、Coincheck販売所・ […]",
+          "link": "https://www.neweconomy.jp/posts/528042",
+          "publishedOn": "2025-12-12T07:33:49.000Z",
+          "wordCount": 752,
+          "title": "コインチェックにソラナ（SOL）上場",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/12163306/45bf9ab7637113ee2439f1c73acb506e.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=527997",
           "author": "TamuraSeiji",
           "description": "ポリゴンPoSが「Madhugiri」ハードフォークを実装 ブロックチェーンネットワーク「ポリゴン（Polygon）」が、ネットワークのスループットを約33%向上させるプロトコルアップグレード「マドゥグリハードフォーク（ […]",
@@ -3125,6 +3155,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=149485",
+          "author": "Crypto Times 編集部",
+          "description": "米大手仮想通貨取引所Coinbase（コインベース）は自社ユーザーがSolana上の通貨をDEX（分散型取引所）経由で取引できる機能を発表しました。 BREAKING: @coinbase to allow users  […]\n投稿 Coinbase、Solana上でのトークン取引機能を発表 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-coinbase-announces-token-trading-functionality-on-solana/",
+          "publishedOn": "2025-12-12T07:39:45.000Z",
+          "wordCount": 685,
+          "title": "Coinbase、Solana上でのトークン取引機能を発表",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_2688686241.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=149480",
           "author": "Crypto Times 編集部",

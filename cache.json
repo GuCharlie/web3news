@@ -615,6 +615,66 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=673780",
+          "author": "A.Yamada",
+          "description": "米上院銀行委員長がビットコインなど仮想通貨の市場構造を定める法案で銀行業界と協議し、進展があったと報告した。ステーブルコイン利回りやDeFiが法案の争点となっている。",
+          "link": "https://coinpost.jp/?p=673780",
+          "publishedOn": "2025-12-12T01:02:09.000Z",
+          "wordCount": 3261,
+          "title": "米上院銀行委員会長、仮想通貨「クラリティ法案」で銀行幹部らと協議",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/Usa_hearing_senate1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/Usa_hearing_senate1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=673796",
+          "author": "Enzo",
+          "description": "米CFTCが仮想通貨の「現物引き渡し」に関する2020年ガイダンスを撤回。ファム委員長代行は「時代遅れで過度に複雑」と指摘し、規制簡素化へ。12月には現物取引承認やパイロットプログラム開始など、トランプ政権下で仮想通貨規制の整備が加速。",
+          "link": "https://coinpost.jp/?p=673796",
+          "publishedOn": "2025-12-12T00:49:48.000Z",
+          "wordCount": 3259,
+          "title": "米CFTC、仮想通貨取引の引き渡し規則を撤廃　規制緩和へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/cftc2_0418.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/cftc2_0418.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=673776",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨取引所コインベースはチェーンリンクのクロスチェーン技術を採用。ビットコインのcbBTCやイーサリアムのcbETHなどラップドトークンの送金に活用する。",
+          "link": "https://coinpost.jp/?p=673776",
+          "publishedOn": "2025-12-12T00:35:01.000Z",
+          "wordCount": 3263,
+          "title": "コインベース、チェーンリンクのクロスチェーン技術を採用　ラップドトークンのサービス拡充へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/Coinbase-Chainlink-CCIP.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/Coinbase-Chainlink-CCIP.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=673774",
+          "author": "菊谷ルイス",
+          "description": "米預託信託決済機構DTCCの子会社DTCがSECから無措置書簡を取得し、DTC管理下の実世界資産をトークン化する新サービスの提供が承認された。2026年後半にサービス展開を開始する予定だ。",
+          "link": "https://coinpost.jp/?p=673774",
+          "publishedOn": "2025-12-12T00:25:41.000Z",
+          "wordCount": 3251,
+          "title": "米決済機関DTCCがトークン化サービス開始へ、SECから許可",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/sec-criticism.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/sec-criticism.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=673743",
           "author": "菊谷ルイス",
           "description": "FRBが25ベーシスポイントの利下げを実施した後、ビットコインが約9万ドルまで下落した。アナリストは年末のサンタ・ラリーが起こりにくいと分析しており、強気の確信は2026年初頭に先送りされている。",
@@ -1528,21 +1588,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/SouthKoreaCrypto0817211.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/SouthKoreaCrypto0817211.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=671886",
-          "author": "Enzo",
-          "description": "東証上場の堀田丸正から「ビットコインジャパン」へ大胆に転換したフィリップ・ロード（Phillip Lord）CEOが、CoinPost独占インタビューでビットコイン準備金戦略とAIインフラ投資の詳細を明かした。「日本の品質×米国の規模」で2030年までに500MW規模のデータセンター投資を目指す。",
-          "link": "https://coinpost.jp/?p=671886",
-          "publishedOn": "2025-12-07T11:40:42.000Z",
-          "wordCount": 3345,
-          "title": "「ビットコインを価値の橋渡し役に」Bitcoin Japan CEO、繊維業からの大転換とAI戦略を語る",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/1125_bitcoinjapan.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/1125_bitcoinjapan.png"
         }
       ]
     },

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-14T17:13:58.274Z</updated>
+    <updated>2025-12-14T17:38:51.075Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、9万ドルを割り込む──主要マクロ経済イベントを前にリスク選好が薄れる]]></title>
+        <id>https://www.coindeskjapan.com/?p=328949</id>
+        <link href="https://www.coindeskjapan.com/328949/"/>
+        <updated>2025-12-14T17:14:34.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は、日曜日の静かな取引の中で9万ドル（約1395万円、1ドル155円換算）を割り込んだ。経済指標発表や中央銀行のイベントが目白押しの週を前 ...
+ビットコイン、9万ドルを割り込む──主要マクロ経済イベントを前にリスク選好が薄れる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、8万ドル付近に強力なサポート──三つの指標が示す]]></title>
         <id>https://www.coindeskjapan.com/?p=328925</id>
@@ -2271,16 +2282,6 @@ BTC、ETH、SOL、ADAは、利下げが予想されるFRB会合を前に下落 f
 投稿 BMW、JPモルガンのブロックチェーン決済を採用へ｜世界初の試み は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高市首相、暗号資産の税制改正に「与党税制調査会の検討を踏まえ適切に対応」と答弁]]></title>
-        <id>https://www.neweconomy.jp/?p=526878</id>
-        <link href="https://www.neweconomy.jp/posts/526878"/>
-        <updated>2025-12-10T05:21:50.000Z</updated>
-        <summary type="html"><![CDATA[高市首相が国会で暗号資産の税制改正に言及 高市早苗首相が、暗号資産（仮想資産）に関する課税見直しについて「政府としては、与党税制調査会の検討を踏まえ適切に対応していく」と12月8日に行われた衆議院本会議で発言した。 この […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>

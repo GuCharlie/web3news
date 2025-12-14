@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-14T20:41:11.615Z</updated>
+    <updated>2025-12-14T21:14:43.212Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米Strategy、ナスダック100指数に踏みとどまる]]></title>
+        <id>https://www.coindeskjapan.com/?p=328913</id>
+        <link href="https://www.coindeskjapan.com/328913/"/>
+        <updated>2025-12-14T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）を大量保有し、DAT（デジタルアセットトレジャリー）企業のパイオニアとされるStrategy（ストラテジー：MSTR）は、ナスダック100 ...
+米Strategy、ナスダック100指数に踏みとどまる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Francisco Rodrigues</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、9万ドルを割り込む──主要マクロ経済イベントを前にリスク選好が薄れる]]></title>
         <id>https://www.coindeskjapan.com/?p=328949</id>
@@ -2049,37 +2060,6 @@ a16zクリプト、ソウルオフィス開設──アジア事業責任者に�
 マレーシア王室、リンギット建てステーブルコインの発行を発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Olivier Acuna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtuals Protocol、Base-Solana間のブリッジが稼働開始]]></title>
-        <id>https://crypto-times.jp/?p=149397</id>
-        <link href="https://crypto-times.jp/news-virtuals-protocol-bridge-between-virtuals-and-base-solana-now-live/"/>
-        <updated>2025-12-10T09:13:44.000Z</updated>
-        <summary type="html"><![CDATA[Virtuals ProtocolはBase-Solanaブリッジの稼働を開始したと発表しました。これは先日、BaseとSolanaを接続するブリッジがメインネットでローンチされたことを受けての対応です。 Base-So […]
-投稿 Virtuals Protocol、Base-Solana間のブリッジが稼働開始 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPYC株式会社、次世代金融カンファレンスMoneyX 2026の企画・運営として参画決定]]></title>
-        <id>https://coinpost.jp/?p=672677</id>
-        <link href="https://coinpost.jp/?p=672677"/>
-        <updated>2025-12-10T09:00:08.000Z</updated>
-        <summary type="html"><![CDATA[JPYC株式会社が、2026年2月27日に東京都内で開催される次世代金融カンファレンス「MoneyX」に共催企業として参画。ステーブルコインやデジタル証券など「通貨の進化と社会実装」をテーマに、産官学のリーダーが議論を行う。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨のインサイダー規制導入、市場成熟へ　IEO投資上限も提案｜金融審議会]]></title>
-        <id>https://coinpost.jp/?p=673218</id>
-        <link href="https://coinpost.jp/?p=673218"/>
-        <updated>2025-12-10T08:48:02.000Z</updated>
-        <summary type="html"><![CDATA[2025年12月10日公表の最新の金融審議会報告書で暗号資産（仮想通貨）が金商法の規制対象になることが明記された。IEO投資上限のほか、コード監査義務化、インサイダー取引規制など投資家保護を抜本強化する。交換業者への影響と今後の展望を詳解]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>

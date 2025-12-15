@@ -415,6 +415,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=674693",
+          "author": "菊谷ルイス",
+          "description": "ビットワイズが16日、ハイパーリキッドETFの修正登録届出書を提出し、ティッカーシンボルと運用手数料を設定した。ブルームバーグのアナリストは、通常こうした動きは上場が近いことを示すと指摘。",
+          "link": "https://coinpost.jp/?p=674693",
+          "publishedOn": "2025-12-15T23:30:34.000Z",
+          "wordCount": 3265,
+          "title": "ビットワイズ、ハイパーリキッドETFの修正届出書を提出",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/etf-new-pic.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/etf-new-pic.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=674682",
           "author": "CoinPost編集部",
           "description": "仮想通貨ビットコインは直近24時間で一時約80万円下落した。米上院で市場構造法案の審議が2026年へ先送りされることが決定されたことに加え、米雇用統計が16日に発表されることを受け、投資家の警戒感が高まったことが主な下落要因である。",
@@ -1992,21 +2007,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBkZmYtNmQyOC03ZGM4LWFmOGQtNjdhODhkOWM1ZmM5.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/xrp-transaction-fees-drop-89-price-headed-below-1-75",
-          "author": "Cointelegraph  Nancy Lubale",
-          "description": "XRP（XRP）の価格が2ドル水準へ下落する前に、取引手数料が大幅に低下していたことが明らかになった。アナリストはこれがより深い調整につながる恐れがあると指摘している。",
-          "link": "https://jp.cointelegraph.com/news/xrp-transaction-fees-drop-89-price-headed-below-1-75?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-12-11T11:26:20.000Z",
-          "wordCount": 18194,
-          "title": "XRPの取引手数料が急減　アナリストは「より深い調整」の可能性を指摘",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU1YjMtOTkyNS03Yjg4LTkzNTktMTYzNDJiZTg3ZDJk.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU1YjMtOTkyNS03Yjg4LTkzNTktMTYzNDJiZTg3ZDJk.jpg"
         }
       ]
     },

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-15T09:54:08.475Z</updated>
+    <updated>2025-12-15T10:21:18.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CoinDesk JAPAN運営のN.Avenue、独自ブランド「NADA NEWS」へのリブランディングを発表]]></title>
+        <id>https://coinpost.jp/?p=674535</id>
+        <link href="https://coinpost.jp/?p=674535"/>
+        <updated>2025-12-15T10:10:43.000Z</updated>
+        <summary type="html"><![CDATA[N.Avenue運営のWeb3メディア「CoinDesk JAPAN」が2026年より独自ブランド「NADA NEWS」へリブランディング。メディア・コミュニティ・暗号資産インデックスを統合し、日本のデジタル資産市場向け情報基盤を構築する。12月下旬グランドオープン予定。]]></summary>
+        <author>
+            <name>Ritsuki.Kumazawa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FRB議長の有力候補ハセット氏、トランプ大統領の発言は金利決定において「何の影響力も持たない」と発言]]></title>
         <id>https://www.coindeskjapan.com/?p=329066</id>
@@ -2370,27 +2380,6 @@ a16zクリプト、ソウルオフィス開設──アジア事業責任者に�
         <summary type="html"><![CDATA[同社は、デジタル資産の財務保有企業は事業会社であり、MSCI指数には単一資産に特化した企業も含まれていると主張した。]]></summary>
         <author>
             <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利下げ後の値動きは？　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ]]></title>
-        <id>https://jp.cointelegraph.com/news/price-predictions-12-10-btc-eth-xrp-bnb-sol-doge-ada-bch-link-hype</id>
-        <link href="https://jp.cointelegraph.com/news/price-predictions-12-10-btc-eth-xrp-bnb-sol-doge-ada-bch-link-hype?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-12-10T22:08:37.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインは反発を試みているが、短期的なトレンドは米連邦準備制度の利上げ判断に左右される。イーサはアルトコインの反発を主導している。]]></summary>
-        <author>
-            <name>Cointelegraph  Rakesh Upadhyay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、乱高下──パウエルFRB議長、雇用とインフレの両面対応に苦慮]]></title>
-        <id>https://www.coindeskjapan.com/?p=328482</id>
-        <link href="https://www.coindeskjapan.com/328482/"/>
-        <updated>2025-12-10T22:01:45.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は12月10日、9万4000ドルを上回ったが、米連邦準備制度理事会（FRB）のパウエル議長が25ベーシスポイントの利下げを発表した後、ハト ...
-ビットコイン、乱高下──パウエルFRB議長、雇用とインフレの両面対応に苦慮 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Helene Braun</name>
         </author>
     </entry>
 </feed>

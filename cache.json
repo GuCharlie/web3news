@@ -1352,6 +1352,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=529192",
+          "author": "NewEconomyPodcast",
+          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/529192",
+          "publishedOn": "2025-12-15T13:12:27.000Z",
+          "wordCount": 790,
+          "title": "【12/15話題】リップルやサークルらが連邦信託銀行の条件付承認、SECの個人投資家向け暗号資産カストディ解説資料など（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/15211942/c9c3be6240a109986d27c8d1d1925538.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=529171",
           "author": "HitomotoToshikazu",
           "description": "アミナバンクにRipple Payments導入 米リップル（Ripple）社提供の国際決済ソリューション「リップル・ペイメンツ（Ripple Payments）」が、スイスの暗号資産（仮想通貨）銀行アミナバンク（AMI […]",
@@ -1800,16 +1810,6 @@
           "wordCount": 807,
           "title": "ストラテジーのマイケル・セイラー、ビットコイン担保の新デジタル銀行モデル提案",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/11114856/3a1abb1a374d9dc247c252e553a18f3a.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=527322",
-          "author": "OtsugaShinya",
-          "description": "「Surf」がパンテラ主導で1,500万ドル調達 暗号資産（仮想通貨）などデジタル資産向けAIインテリジェンスプラットフォーム提供の「Surf（サーフ）」が、Pantera Capital（パンテラキャピタル）主導による […]",
-          "link": "https://www.neweconomy.jp/posts/527322",
-          "publishedOn": "2025-12-11T01:00:10.000Z",
-          "wordCount": 812,
-          "title": "暗号資産特化のAIインテリジェン提供「Surf」、パンテラやコインベースらから1,500万ドル調達",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/10235912/surf_news.jpg"
         }
       ]
     },
@@ -2297,21 +2297,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA4M2EtNjkyNC03ZDcwLThlYjItZmQ5MTJiOTYyZmYy.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/us-teachers-union-senate-withdraw-market-structure",
-          "author": "Cointelegraph  Turner Wright",
-          "description": "全米の教育従事者が加入する労働組合である全米教員連盟（AFT）が、米国で進む仮想通貨市場構造法案が「教員らの退職後の安全を脅かす」と主張し、同法案に反対の声を上げた。",
-          "link": "https://jp.cointelegraph.com/news/us-teachers-union-senate-withdraw-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-12-11T01:02:39.000Z",
-          "wordCount": 18137,
-          "title": "米国の教職員組合、米上院の仮想通貨法案に反対 　「退職年金の安定性を脅かす」",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA4YWEtMTc3Zi03Yzg3LWE3ZTEtMzY5YWUyZGFiZmI0.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA4YWEtMTc3Zi03Yzg3LWE3ZTEtMzY5YWUyZGFiZmI0.jpg"
         }
       ]
     },

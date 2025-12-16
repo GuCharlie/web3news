@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=329223",
+          "author": "Krisztian Sandor",
+          "description": "暗号資産は12月16日、前日の急落を経て安定し、ビットコイン（BTC）は8万7000ドル台を回復した。 ビットコインが前夜の安値から約3％上昇した一方、イーサリ ...\nビットコイン、反発するも次に8万ドル割れが来る可能性 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/329223/",
+          "publishedOn": "2025-12-16T21:40:41.000Z",
+          "wordCount": 1381,
+          "title": "ビットコイン、反発するも次に8万ドル割れが来る可能性",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/29f9136a0f3e243a10963feb35ba5a9bb4621b98-2136x1164-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=329216",
           "author": "廣瀬 優香",
           "description": "ヘルスケアおよびビットコイン（BTC）トレジャリー企業のKindly MD（カインドリーMD）は、株価が最低上場要件を満たせなかったため、ナスダック取引所で上場 ...\nKindlyMD、ナスダック上場廃止の危機──最低株価要件を満たせず first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -330,16 +340,6 @@
           "wordCount": 1353,
           "title": "DePINプロジェクトのヘリウム、Mambo WiFiと提携してブラジルに進出",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/06/shutterstock_1421446100.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=328817",
-          "author": "Ian Allison",
-          "description": "暗号資産（仮想通貨）取引所のコインベース（Coinbase）と暗号資産に積極的なスタンダード・チャータード（Standard Chartered）銀行は、機関投 ...\nスタンダード・チャータードとコインベース、機関投資家向け暗号資産プライムサービスを拡大 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/328817/",
-          "publishedOn": "2025-12-12T09:45:00.000Z",
-          "wordCount": 1298,
-          "title": "スタンダード・チャータードとコインベース、機関投資家向け暗号資産プライムサービスを拡大",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/10/Q7EN4KB4RZACDME22FA7MJGN6Y.jpg"
         }
       ]
     },
@@ -1393,6 +1393,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/pancakeswap-elizabeth-warren-concerns-market-structure",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "上院が休会を控える中、エリザベス・ウォーレン上院議員は、分散型金融（DeFi）プラットフォームを巡る調査の有無について、司法省および財務省に情報開示を求めた。",
+          "link": "https://jp.cointelegraph.com/news/pancakeswap-elizabeth-warren-concerns-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-16T22:15:20.000Z",
+          "wordCount": 279,
+          "title": "米上院議員、DeFiに警鐘　市場構造法案の遅れを背景にパンケーキスワップに言及",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI4NzgtMTlmYi03NTAxLWJjOWMtYzNkOTY5NjJhODY1LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI4NzgtMTlmYi03NTAxLWJjOWMtYzNkOTY5NjJhODY1LmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/us-banks-issue-stablecoins-fdic-genius-act",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "米連邦預金保険公社（FDIC）の提案は、米国の規制当局が立法段階から規則策定段階へ移行する中、銀行が決済用ステーブルコインの発行承認をどのように申請できるかを示している。",
+          "link": "https://jp.cointelegraph.com/news/us-banks-issue-stablecoins-fdic-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-16T22:06:43.000Z",
+          "wordCount": 311,
+          "title": "米銀行、FDICのGENIUS法実施案の下でステーブルコイン発行が可能になる見通し",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI4MTQtZTc2ZC03ODI4LWI5M2EtZDFlNGM3YzU2YWFkLkpQRw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI4MTQtZTc2ZC03ODI4LWI5M2EtZDFlNGM3YzU2YWFkLkpQRw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-sharks-accumulate-fastest-pace-in-13-years-btc-down",
           "author": "Cointelegraph  Yashu Gola",

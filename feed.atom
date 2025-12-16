@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-16T11:40:01.037Z</updated>
+    <updated>2025-12-16T12:37:13.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
@@ -1216,6 +1216,16 @@ CoinDesk JAPANから「NADA NEWS」へ──2026年、独自ブランドとし�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[量子ハックが起きれば、ビットコインOGがサトシの保有分を買う＝ウィリー・ウー氏]]></title>
+        <id>https://jp.cointelegraph.com/news/willy-woo-bitcoin-ogs-buy-satoshi-stash-quantum-hack</id>
+        <link href="https://jp.cointelegraph.com/news/willy-woo-bitcoin-ogs-buy-satoshi-stash-quantum-hack?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-12-14T22:49:00.000Z</updated>
+        <summary type="html"><![CDATA[量子コンピューターが古く脆弱なアドレスをハッキングした場合の哲学的・市場的影響をめぐり、ビットコイン・コミュニティで議論が続いている。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[米Strategy、ナスダック100指数に踏みとどまる]]></title>
         <id>https://www.coindeskjapan.com/?p=328913</id>
         <link href="https://www.coindeskjapan.com/328913/"/>
@@ -2262,26 +2272,6 @@ Coincheck、ソラナ（SOL）の取り扱いを開始 first appeared on CoinDes
         <summary type="html"><![CDATA[米CFTCが仮想通貨の「現物引き渡し」に関する2020年ガイダンスを撤回。ファム委員長代行は「時代遅れで過度に複雑」と指摘し、規制簡素化へ。12月には現物取引承認やパイロットプログラム開始など、トランプ政権下で仮想通貨規制の整備が加速。]]></summary>
         <author>
             <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベース、チェーンリンクのクロスチェーン技術を採用　ラップドトークンのサービス拡充へ]]></title>
-        <id>https://coinpost.jp/?p=673776</id>
-        <link href="https://coinpost.jp/?p=673776"/>
-        <updated>2025-12-12T00:35:01.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所コインベースはチェーンリンクのクロスチェーン技術を採用。ビットコインのcbBTCやイーサリアムのcbETHなどラップドトークンの送金に活用する。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米決済機関DTCCがトークン化サービス開始へ、SECから許可]]></title>
-        <id>https://coinpost.jp/?p=673774</id>
-        <link href="https://coinpost.jp/?p=673774"/>
-        <updated>2025-12-12T00:25:41.000Z</updated>
-        <summary type="html"><![CDATA[米預託信託決済機構DTCCの子会社DTCがSECから無措置書簡を取得し、DTC管理下の実世界資産をトークン化する新サービスの提供が承認された。2026年後半にサービス展開を開始する予定だ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-16T09:46:58.457Z</updated>
+    <updated>2025-12-16T10:20:33.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国のマイニングマシン停止を受け、ビットコインのハッシュレートは2024年以来の大幅な低下]]></title>
+        <id>https://www.coindeskjapan.com/?p=329204</id>
+        <link href="https://www.coindeskjapan.com/329204/"/>
+        <updated>2025-12-16T10:05:00.000Z</updated>
+        <summary type="html"><![CDATA[VanEck（ヴァンエック）のデジタル資産調査責任者のマシュー・シーゲル（Matthew Sigel）氏によれば、ビットコイン（BTC）の30日単純移動平均（S ...
+中国のマイニングマシン停止を受け、ビットコインのハッシュレートは2024年以来の大幅な低下 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>James Van Straten</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットワイズ、「ハイパーリキッド（HYPE）」現物ETFをSECに再申請、ステーキング対応を明記]]></title>
         <id>https://www.neweconomy.jp/?p=529501</id>
@@ -2331,26 +2342,6 @@ Coincheck、ソラナ（SOL）の取り扱いを開始 first appeared on CoinDes
         <summary type="html"><![CDATA[この発言は、パキスタンが草の根レベルの仮想通貨活動を、ビットコインとデジタル資産規制を軸とした準拠的でイノベーション主導の産業へと転換しようとする姿勢を示している。]]></summary>
         <author>
             <name>Cointelegraph  Nate Kostar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テラフォーム共同創業者のクォン氏、有罪答弁を受け15年の禁錮刑に]]></title>
-        <id>https://jp.cointelegraph.com/news/do-kwon-sentenced-prison-guilty-plea</id>
-        <link href="https://jp.cointelegraph.com/news/do-kwon-sentenced-prison-guilty-plea?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-12-11T22:10:30.000Z</updated>
-        <summary type="html"><![CDATA[連邦判事は、共同創業者の量刑を決める前に、テラフォームラボとクォン氏の被害者の陳述を数時間にわたって聴取した。]]></summary>
-        <author>
-            <name>Cointelegraph  Turner Wright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米大手銀バンク・オブ・アメリカ、ビットコイン担保融資の準備進める＝報道]]></title>
-        <id>https://coinpost.jp/?p=673731</id>
-        <link href="https://coinpost.jp/?p=673731"/>
-        <updated>2025-12-11T21:55:28.000Z</updated>
-        <summary type="html"><![CDATA[資産規模1.7兆ドルのバンク・オブ・アメリカがビットコイン担保融資商品の準備を進めていると報じられた。主要米銀行による仮想通貨担保融資の提供は、仮想通貨と伝統金融の統合における重要な一歩となる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

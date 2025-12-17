@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-17T01:16:13.908Z</updated>
+    <updated>2025-12-17T03:04:00.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JPYC EX、累計口座開設1万件・発行額5億円を突破]]></title>
+        <id>https://coinpost.jp/?p=675037</id>
+        <link href="https://coinpost.jp/?p=675037"/>
+        <updated>2025-12-17T02:50:24.000Z</updated>
+        <summary type="html"><![CDATA[JPYC株式会社は、日本円建てステーブルコイン「JPYC」の発行・償還プラットフォーム「JPYC EX」において、累計口座開設数1万件、累計発行額5億円を突破したと発表。10月のリリースから約2か月での達成となった。]]></summary>
+        <author>
+            <name>Ritsuki.Kumazawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ビットコインは最高値更新へ」Bitwise、2026年の3つの予測を公開]]></title>
+        <id>https://coinpost.jp/?p=674991</id>
+        <link href="https://coinpost.jp/?p=674991"/>
+        <updated>2025-12-17T02:45:17.000Z</updated>
+        <summary type="html"><![CDATA[Bitwiseは仮想通貨投資家にとって特に重要な2026年の3つの予測を公開。その1つとしてビットコインは最高値を更新すると予測し、根拠を説明している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[セキュリタイズが来年トークン化株式取引開始、24時間オンチェーン取引を実現]]></title>
+        <id>https://coinpost.jp/?p=675031</id>
+        <link href="https://coinpost.jp/?p=675031"/>
+        <updated>2025-12-17T02:40:15.000Z</updated>
+        <summary type="html"><![CDATA[証券トークン化プラットフォームのセキュリタイズが2026年第1四半期にトークン化された上場株式の取引を開始する。合成商品ではなく実際の規制された株式をオンチェーンで発行・取引し、24時間365日の流動性を提供へ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XRP現物ETF、累計純流入額10億ドルの大台突破──上場後1日も資金流出なし]]></title>
+        <id>https://www.coindeskjapan.com/?p=329242</id>
+        <link href="https://www.coindeskjapan.com/329242/"/>
+        <updated>2025-12-17T02:25:00.000Z</updated>
+        <summary type="html"><![CDATA[米国上場のエックス・アール・ピー（XRP）現物ETF（上場投資信託）は、11月中旬のデビュー以来、全ての取引日で純流入を記録し、累計純流入額が10億ドル（約15 ...
+XRP現物ETF、累計純流入額10億ドルの大台突破──上場後1日も資金流出なし first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>廣瀬 優香</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナに大規模なDDoS攻撃、ネットワークは現時点で影響受けず]]></title>
+        <id>https://coinpost.jp/?p=674997</id>
+        <link href="https://coinpost.jp/?p=674997"/>
+        <updated>2025-12-17T00:45:15.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ソラナが過去最大級の6TbpsのDDoS攻撃を受けたが、現在トランザクション処理は正常に稼働している。市場の下落を受けビットワイズのソラナETFは初の純流出を記録した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マーシャル諸島、ステラでベーシックインカム支給]]></title>
+        <id>https://coinpost.jp/?p=674994</id>
+        <link href="https://coinpost.jp/?p=674994"/>
+        <updated>2025-12-17T00:40:43.000Z</updated>
+        <summary type="html"><![CDATA[マーシャル諸島共和国がブロックチェーンを利用した世界初のベーシックインカムのオンチェーン支給を完了した。ステラーブロックチェーン上の主権債USDM1を使い、四半期ごとの現金配送をデジタル送金に置き換えた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、2026年に過去最高値更新は可能か＝グレースケールの最新予測]]></title>
+        <id>https://coinpost.jp/?p=671060</id>
+        <link href="https://coinpost.jp/?p=671060"/>
+        <updated>2025-12-17T00:00:58.000Z</updated>
+        <summary type="html"><![CDATA[グレースケールは最新レポートで、ビットコイン価格の30%下落について歴史的には平均的な調整範囲内で、強気相場中の典型的な変動に過ぎないとの見解を示した。また、2026年には最高値を更新する可能性があると主張している。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金融庁、ステーブルコイン・暗号資産の「仲介業」規制案を公表　パブリックコメント募集]]></title>
+        <id>https://coinpost.jp/?p=674988</id>
+        <link href="https://coinpost.jp/?p=674988"/>
+        <updated>2025-12-16T23:51:59.000Z</updated>
+        <summary type="html"><![CDATA[金融庁は12月16日、ステーブルコインや暗号資産の「サービス仲介業」を新たに規制対象とする政令・内閣府令案を公表し、パブリックコメントの募集を開始した。取引所以外も監督下に置く方針だ。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本円ステーブルコイン「JPYC」、発行額5億円・口座1万件を突破]]></title>
         <id>https://www.coindeskjapan.com/?p=329235</id>
@@ -15,6 +96,16 @@
 日本円ステーブルコイン「JPYC」、発行額5億円・口座1万件を突破 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>栃山直樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ウォーレン米議員がDEXの安全保障リスクを警告、パンケーキスワップを名指し]]></title>
+        <id>https://coinpost.jp/?p=674982</id>
+        <link href="https://coinpost.jp/?p=674982"/>
+        <updated>2025-12-16T23:40:42.000Z</updated>
+        <summary type="html"><![CDATA[米国のウォーレン上院議員が分散型取引所パンケーキスワップの国家安全保障リスクについて財務長官と司法長官に書簡を送った。北朝鮮による資金洗浄とトランプ関連ステーブルコインとの関係を指摘。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -1868,16 +1959,6 @@ Sentient、暗号資産リサーチ特化AI「SERA-Crypto」発表──リア�
         <summary type="html"><![CDATA[イーサリアム（ETH）は、過去に相場の底打ちを示してきた水準に接近しており、典型的なチャートパターンは5000ドルへの上昇の可能性を示している。]]></summary>
         <author>
             <name>Cointelegraph  Nancy Lubale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アップビット不正流出事件　バイナンスが一部資産のみ凍結　警察要請の17%＝報道]]></title>
-        <id>https://jp.cointelegraph.com/news/binance-upbit-hack-funds-freeze-kbs-report</id>
-        <link href="https://jp.cointelegraph.com/news/binance-upbit-hack-funds-freeze-kbs-report?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-12-12T13:30:43.000Z</updated>
-        <summary type="html"><![CDATA[韓国放送公社（KBS）によると、仮想通貨取引所バイナンスは、韓国の大手取引所アップビットで11月27日に発生したハッキング事件に関連する資金の一部を凍結した。]]></summary>
-        <author>
-            <name>Cointelegraph  Christina Comben</name>
         </author>
     </entry>
 </feed>

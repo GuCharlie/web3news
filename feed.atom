@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-17T22:16:36.936Z</updated>
+    <updated>2025-12-17T22:43:17.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[XRPの実用性を拡充へ　SBI Ripple AsiaとDopplerが提携]]></title>
+        <id>https://coinpost.jp/?p=675334</id>
+        <link href="https://coinpost.jp/?p=675334"/>
+        <updated>2025-12-17T22:30:58.000Z</updated>
+        <summary type="html"><![CDATA[SBI Ripple AsiaとDoppler Financeがパートナーシップを締結。XRPL上で、仮想通貨XRPベースの利回りインフラやRWAのトークン化に関する協業を模索すると説明している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メタマスクにログインできない時の対処法｜パスワード忘れ・機種変更も解説]]></title>
+        <id>https://coinpost.jp/?p=674422</id>
+        <link href="https://coinpost.jp/?p=674422"/>
+        <updated>2025-12-17T22:30:14.000Z</updated>
+        <summary type="html"><![CDATA[メタマスクにログインできない時の対処法を解説。パスワードを忘れた場合のリカバリーフレーズでの復元方法、機種変更時のウォレット移行手順まで、状況別にわかりやすく説明します。]]></summary>
+        <author>
+            <name>hiroto.yoshii</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カリフォルニア州ニューサム知事、トランプ氏を批判──有罪判決を受けた暗号資産関係者のCZ氏とロス・ウルブリヒト氏との関係を指摘]]></title>
+        <id>https://www.coindeskjapan.com/?p=329453</id>
+        <link href="https://www.coindeskjapan.com/329453/"/>
+        <updated>2025-12-17T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[米カリフォルニア州知事のギャビン・ニューサム氏は、ドナルド・トランプ大統領を批判する派手なキャンペーンを続けており、今回は、州のウェブサイト上に「トランプ氏の犯 ...
+カリフォルニア州ニューサム知事、トランプ氏を批判──有罪判決を受けた暗号資産関係者のCZ氏とロス・ウルブリヒト氏との関係を指摘 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Jesse Hamilton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインが7万ドルまで下落しても新たな弱気相場とは限らない＝アナリスト]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-dollar70k-flush-would-reset-cycle-not-confirm-new-bear-market-analyst</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-dollar70k-flush-would-reset-cycle-not-confirm-new-bear-market-analyst?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-12-17T22:28:46.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインが7万ドルまで調整する可能性は高まっているが、あるアナリストは、この価格下落は新たな弱気相場の始まりではなく、マクロ経済的なリセットを示すものだと指摘している。]]></summary>
+        <author>
+            <name>Cointelegraph  Biraajmaan Tamuly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年末価格見通しの修正も　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ]]></title>
+        <id>https://jp.cointelegraph.com/news/price-predictions-12-17-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link</id>
+        <link href="https://jp.cointelegraph.com/news/price-predictions-12-17-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-12-17T22:21:28.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインおよびアルトコインの上昇は、日中レンジ高値付近での強い売りに抑えられており、年末価格見通しを修正するアナリストも出ている。テクニカルチャートは何を示しているのか。]]></summary>
+        <author>
+            <name>Cointelegraph  Rakesh Upadhyay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンス、米国戦略の見直しを検討　CZ氏の持ち分縮小の可能性も＝報道]]></title>
         <id>https://jp.cointelegraph.com/news/binance-us-strategy-cz-reduce-stake</id>
@@ -386,6 +437,16 @@ Ondo Finance、来年初頭にソラナ上でトークン化された米国株�
 投稿 【今日の暗号資産ニュース】ビットコイン急落の裏に日銀とAIか。CZ氏がBTC財務戦略を語る は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨株主優待の受け取り方法｜XRP・イーサリアム等がもらえる企業と手順を解説]]></title>
+        <id>https://coinpost.jp/?p=627779</id>
+        <link href="https://coinpost.jp/?p=627779"/>
+        <updated>2025-12-17T07:05:17.000Z</updated>
+        <summary type="html"><![CDATA[【2025年最新】SBIグローバルアセットマネジメント（XRP最大12,000円相当）とセレス（ETH・ZPG計10,000円相当）の暗号資産株主優待を徹底解説。申込期限、受け取り手順、税務処理、注意点まで投資判断に必要な情報を網羅。SBI VCトレード・CoinTrade口座開設方法も詳しく紹介。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
         </author>
     </entry>
     <entry>

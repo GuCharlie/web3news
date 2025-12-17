@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-17T08:53:09.032Z</updated>
+    <updated>2025-12-17T09:24:09.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Progmat, Inc.、次世代金融カンファレンスMoneyX 2026の企画・運営として参画決定]]></title>
+        <id>https://coinpost.jp/?p=672694</id>
+        <link href="https://coinpost.jp/?p=672694"/>
+        <updated>2025-12-17T09:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Progmat, Inc.が、2026年2月27日に東京で開催される次世代金融カンファレンス「MoneyX」に共催企業として参画。ステーブルコインやデジタル証券など通貨のデジタル化と社会実装をテーマに議論する。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン財務企業エスサイエンス 、2日連続のストップ高｜一時241円]]></title>
+        <id>https://crypto-times.jp/?p=149761</id>
+        <link href="https://crypto-times.jp/news-s-science-hits-daily-limit-for-second-consecutive-day/"/>
+        <updated>2025-12-17T08:55:48.000Z</updated>
+        <summary type="html"><![CDATA[株式会社エス・サイエンス（S Science Company, Ltd.）の株価が連日活況を呈しています。 同社が12月15日に発表した株主割当による新株予約権の無償発行および暗号資産への投資枠拡大が好材料となり、15日 […]
+投稿 ビットコイン財務企業エスサイエンス 、2日連続のストップ高｜一時241円 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GMOフィナンシャルHD、株主優待にビットコイン導入へ]]></title>
         <id>https://coinpost.jp/?p=675177</id>
@@ -2329,36 +2350,6 @@ Sentient、暗号資産リサーチ特化AI「SERA-Crypto」発表──リア�
         <summary type="html"><![CDATA[ソラナの新しいバリデータ・クライアント「ファイアダンサー」が3年間の開発を経てついにメインネット稼働を実現。1秒あたり100万トランザクションの処理を目指している]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[レンジ内での攻防続く　仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ]]></title>
-        <id>https://jp.cointelegraph.com/news/price-predictions-12-12-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link</id>
-        <link href="https://jp.cointelegraph.com/news/price-predictions-12-12-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-12-12T21:17:50.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインと主要アルトコインは、それぞれの直上のレジスタンスから反落しており、レンジの高値圏では弱気派が依然として非常に活発であることを示している。]]></summary>
-        <author>
-            <name>Cointelegraph  Rakesh Upadhyay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米ムーディーズがステーブルコイン格付けフレームワークを提案、準備資産評価へ]]></title>
-        <id>https://coinpost.jp/?p=674062</id>
-        <link href="https://coinpost.jp/?p=674062"/>
-        <updated>2025-12-12T21:10:00.000Z</updated>
-        <summary type="html"><![CDATA[米大手格付け会社ムーディーズがステーブルコインを評価するための新たなフレームワークを提案した。ステーブルコインを裏付ける準備資産プールの各適格資産タイプを評価し、信用力に基づいて格付けを付与。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨関連企業がナショナル・トラストバンク免許取得：パクソス、ビットゴー、サークル、リップル]]></title>
-        <id>https://jp.cointelegraph.com/news/bitgo-circle-fidelity-bitgo-ripple-occ-approval-bank-conversion</id>
-        <link href="https://jp.cointelegraph.com/news/bitgo-circle-fidelity-bitgo-ripple-occ-approval-bank-conversion?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-12-12T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米通貨監督庁（OCC）は、デジタル資産関連企業5社によるナショナル・トラストバンク免許申請を条件付きで承認した。]]></summary>
-        <author>
-            <name>Cointelegraph  Turner Wright</name>
         </author>
     </entry>
 </feed>

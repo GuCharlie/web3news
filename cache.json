@@ -435,6 +435,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=672694",
+          "author": "CoinPost編集部",
+          "description": "Progmat, Inc.が、2026年2月27日に東京で開催される次世代金融カンファレンス「MoneyX」に共催企業として参画。ステーブルコインやデジタル証券など通貨のデジタル化と社会実装をテーマに議論する。",
+          "link": "https://coinpost.jp/?p=672694",
+          "publishedOn": "2025-12-17T09:00:11.000Z",
+          "wordCount": 3317,
+          "title": "Progmat, Inc.、次世代金融カンファレンスMoneyX 2026の企画・運営として参画決定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/progmat_moneyx.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/progmat_moneyx.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=675177",
           "author": "Ritsuki.Kumazawa",
           "description": "上限1万円相当のBTCGMOフィナンシャルホールディングスは12月16日、2025年12月31日を基準日とする新たな株主優待を発表した。新制度では、GMOクリック証券における同社株式の買付代金（株式購入時の約定金額）の0.03%相当のビット...",
@@ -1393,21 +1408,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/solana-2.0-new-3.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/solana-2.0-new-3.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=674062",
-          "author": "菊谷ルイス",
-          "description": "米大手格付け会社ムーディーズがステーブルコインを評価するための新たなフレームワークを提案した。ステーブルコインを裏付ける準備資産プールの各適格資産タイプを評価し、信用力に基づいて格付けを付与。",
-          "link": "https://coinpost.jp/?p=674062",
-          "publishedOn": "2025-12-12T21:10:00.000Z",
-          "wordCount": 3252,
-          "title": "米ムーディーズがステーブルコイン格付けフレームワークを提案、準備資産評価へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/stablecoin2020a-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/stablecoin2020a-1.jpg"
         }
       ]
     },
@@ -2312,36 +2312,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEzOGQtMDQ4Mi03YWJkLTg4YWQtOWNlOGVkYTZkOTU0LmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/price-predictions-12-12-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link",
-          "author": "Cointelegraph  Rakesh Upadhyay",
-          "description": "ビットコインと主要アルトコインは、それぞれの直上のレジスタンスから反落しており、レンジの高値圏では弱気派が依然として非常に活発であることを示している。",
-          "link": "https://jp.cointelegraph.com/news/price-predictions-12-12-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-12-12T21:17:50.000Z",
-          "wordCount": 18203,
-          "title": "レンジ内での攻防続く　仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEzOTQtYzVhYS03OTk2LTk5MWMtYjUyYjg2ZGQ0ZTkyLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEzOTQtYzVhYS03OTk2LTk5MWMtYjUyYjg2ZGQ0ZTkyLmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitgo-circle-fidelity-bitgo-ripple-occ-approval-bank-conversion",
-          "author": "Cointelegraph  Turner Wright",
-          "description": "米通貨監督庁（OCC）は、デジタル資産関連企業5社によるナショナル・トラストバンク免許申請を条件付きで承認した。",
-          "link": "https://jp.cointelegraph.com/news/bitgo-circle-fidelity-bitgo-ripple-occ-approval-bank-conversion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-12-12T21:00:00.000Z",
-          "wordCount": 18061,
-          "title": "仮想通貨関連企業がナショナル・トラストバンク免許取得：パクソス、ビットゴー、サークル、リップル",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEzNWMtMWFiNC03OTNhLWEwMmMtOGNhMmY2MTBmNGNiLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEzNWMtMWFiNC03OTNhLWEwMmMtOGNhMmY2MTBmNGNiLmpwZw==.jpg"
         }
       ]
     },
@@ -2350,6 +2320,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=149761",
+          "author": "よきょい",
+          "description": "株式会社エス・サイエンス（S Science Company, Ltd.）の株価が連日活況を呈しています。 同社が12月15日に発表した株主割当による新株予約権の無償発行および暗号資産への投資枠拡大が好材料となり、15日 […]\n投稿 ビットコイン財務企業エスサイエンス 、2日連続のストップ高｜一時241円 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-s-science-hits-daily-limit-for-second-consecutive-day/",
+          "publishedOn": "2025-12-17T08:55:48.000Z",
+          "wordCount": 558,
+          "title": "ビットコイン財務企業エスサイエンス 、2日連続のストップ高｜一時241円",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_2130884513.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=149760",
           "author": "よきょい",

@@ -505,6 +505,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=675348",
+          "author": "菊谷ルイス",
+          "description": "米連邦準備制度理事会が2023年の仮想通貨関連銀行規制指針を撤回し、新たな政策声明を発表した。監督対象銀行が革新的活動に従事する道を開くが、リスク評価に基づく裁量権は維持。",
+          "link": "https://coinpost.jp/?p=675348",
+          "publishedOn": "2025-12-17T22:50:41.000Z",
+          "wordCount": 3280,
+          "title": "米連邦準備制度理事会、仮想通貨関連銀行への制限的規制指針を撤回",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/FRB0429211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/FRB0429211.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=675334",
           "author": "K.Kobayashi",
           "description": "SBI Ripple AsiaとDoppler Financeがパートナーシップを締結。XRPL上で、仮想通貨XRPベースの利回りインフラやRWAのトークン化に関する協業を模索すると説明している。",
@@ -668,6 +683,21 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/06/ethereum_0520.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/06/ethereum_0520.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=479791",
+          "author": "AKIRA.H",
+          "description": "Binance Japan（バイナンス・ジャパン）の全貌を解説。64銘柄の取扱い暗号資産（仮想通貨）の内訳、、多彩なサービス内容まで。世界最大級の取引所が日本にもたらすWeb3事業の展望も探る。",
+          "link": "https://coinpost.jp/?p=479791",
+          "publishedOn": "2025-12-17T07:54:12.000Z",
+          "wordCount": 2748,
+          "title": "Binance Japanとは？取扱暗号資産数64銘柄、9つの主要サービスを提供",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/binance_20210913_kk1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/binance_20210913_kk1.jpg"
         },
         {
           "id": "https://coinpost.jp/?p=675154",
@@ -1943,6 +1973,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/solana-bids-for-quantum-resistance-testnet-goes-post-quantum",
+          "author": "Cointelegraph  Adrian Zmudzinski",
+          "description": "ソラナはセキュリティ企業と提携し、ソラナのテストネット上で耐量子技術の検証を実施した。スケーラブルなエンドツーエンドの解決策を提供できるとしている。",
+          "link": "https://jp.cointelegraph.com/news/solana-bids-for-quantum-resistance-testnet-goes-post-quantum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-17T22:53:02.000Z",
+          "wordCount": 237,
+          "title": "ソラナが耐量子取引をテスト　プロジェクト・イレブンと実証実験",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJiYjgtMmE4OC03NjQ3LTg3M2EtMWYxOGJjZmE3ZGRiLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJiYjgtMmE4OC03NjQ3LTg3M2EtMWYxOGJjZmE3ZGRiLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/dtcc-tokenize-us-treasurys-canton-blockchain",
+          "author": "Cointelegraph  Jesse Coghlan",
+          "description": "米証券取引委員会（SEC）は先週、DTCCによるトークン化サービスの開始を認めており、同社はカントン上で米国債のミントから着手する。",
+          "link": "https://jp.cointelegraph.com/news/dtcc-tokenize-us-treasurys-canton-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-17T22:42:05.000Z",
+          "wordCount": 273,
+          "title": "DTCCが米国債をトークン化へ　将来は幅広い資産へ拡大方針",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJhNjgtYzQxMC03ZTQyLWI1MmUtNzI3ZWZkMTc1YzAyLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJhNjgtYzQxMC03ZTQyLWI1MmUtNzI3ZWZkMTc1YzAyLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-dollar70k-flush-would-reset-cycle-not-confirm-new-bear-market-analyst",
           "author": "Cointelegraph  Biraajmaan Tamuly",

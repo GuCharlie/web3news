@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-17T21:16:40.137Z</updated>
+    <updated>2025-12-17T21:40:20.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、8万6000ドル割れの週間安値に下落──トレーダーは底値を探る]]></title>
+        <id>https://www.coindeskjapan.com/?p=329442</id>
+        <link href="https://www.coindeskjapan.com/329442/"/>
+        <updated>2025-12-17T21:23:47.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は12月17日早朝、「バート・シンプソン・パターン」と呼ばれる恐ろしい動きを見せ、価格が急騰した後数分間横ばいとなり、瞬く間に前値まで急落 ...
+ビットコイン、8万6000ドル割れの週間安値に下落──トレーダーは底値を探る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Helene Braun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン長期保有者の供給量が8カ月ぶりの低水準──過去のサイクルパターンを覆す]]></title>
         <id>https://www.coindeskjapan.com/?p=329419</id>
@@ -2215,17 +2226,6 @@ Sentient、暗号資産リサーチ特化AI「SERA-Crypto」発表──リア�
         <summary type="html"><![CDATA[ステーブルコイン発行企業テザーが、イタリアのプロサッカークラブ、ユベントスFCの完全買収に乗り出した。だが、この提案はすでに拒否されたと報じられている。]]></summary>
         <author>
             <name>Cointelegraph  Jesse Coghlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パキスタンとBinance、国家資産20億ドル相当のトークン化に向けてMOU締結：報道]]></title>
-        <id>https://www.coindeskjapan.com/?p=328882</id>
-        <link href="https://www.coindeskjapan.com/328882/"/>
-        <updated>2025-12-13T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[世界最大規模の暗号資産（仮想通貨）取引所Binance（バイナンス）はパキスタンの国家資産の最大20億ドル相当をトークン化する計画だ。ロイターが12日に報じた。 ...
-パキスタンとBinance、国家資産20億ドル相当のトークン化に向けてMOU締結：報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Olivier Acuna</name>
         </author>
     </entry>
 </feed>

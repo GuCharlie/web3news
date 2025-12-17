@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-17T09:24:09.546Z</updated>
+    <updated>2025-12-17T09:47:38.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[エクソダス、ムーンペイの支援でステーブルコイン競争に参入]]></title>
+        <id>https://www.coindeskjapan.com/?p=329354</id>
+        <link href="https://www.coindeskjapan.com/329354/"/>
+        <updated>2025-12-17T09:40:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）ウォレットプロバイダーのエクソダス（Exodus）は、フィンテック企業ムーンペイ（MoonPay）との提携により、米ドルに完全に裏付けられた ...
+エクソダス、ムーンペイの支援でステーブルコイン競争に参入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Helene Braun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、重要なサポートレベル付近で取引──Strategy株はすでにこの水準を下抜け]]></title>
+        <id>https://www.coindeskjapan.com/?p=329344</id>
+        <link href="https://www.coindeskjapan.com/329344/"/>
+        <updated>2025-12-17T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は3週間維持されてきた重要な長期価格ライン付近で取引されており、強気派を不安にさせている。だが、世界最大の上場ビットコイン保有企業であるS ...
+ビットコイン、重要なサポートレベル付近で取引──Strategy株はすでにこの水準を下抜け first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>廣瀬 優香</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Progmat, Inc.、次世代金融カンファレンスMoneyX 2026の企画・運営として参画決定]]></title>
         <id>https://coinpost.jp/?p=672694</id>
@@ -2340,16 +2362,6 @@ Sentient、暗号資産リサーチ特化AI「SERA-Crypto」発表──リア�
 ビットコイン、9万ドル割れ──AI巡る不安感でナスダック、暗号資産関連株も下落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Helene Braun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナ「ファイアダンサー」がメインネット稼働開始、100万TPS目指す]]></title>
-        <id>https://coinpost.jp/?p=674075</id>
-        <link href="https://coinpost.jp/?p=674075"/>
-        <updated>2025-12-12T21:35:25.000Z</updated>
-        <summary type="html"><![CDATA[ソラナの新しいバリデータ・クライアント「ファイアダンサー」が3年間の開発を経てついにメインネット稼働を実現。1秒あたり100万トランザクションの処理を目指している]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

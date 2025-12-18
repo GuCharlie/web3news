@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-17T23:40:06.461Z</updated>
+    <updated>2025-12-18T01:17:11.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Doppler FinanceとSBI Ripple Asia、XRPL上の「XRP」利回りで協業へ]]></title>
+        <id>https://www.neweconomy.jp/?p=530090</id>
+        <link href="https://www.neweconomy.jp/posts/530090"/>
+        <updated>2025-12-18T01:14:16.000Z</updated>
+        <summary type="html"><![CDATA[XRPLネイティブのXRP金融サービス、伝統金融機関向けに初適用へ XRP Ledger（XRPL）上で機関投資家向けの利回りインフラを提供するドップラー・ファイナンス（Doppler Finance）とSBIリップルア […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン乱高下、日銀政策決定会合を控え警戒感高まる｜仮想NISHI]]></title>
+        <id>https://coinpost.jp/?p=675377</id>
+        <link href="https://coinpost.jp/?p=675377"/>
+        <updated>2025-12-18T01:10:06.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコインは直近24時間で約80万円の乱高下となった。米株式市場の取引開始前、FRBのウォーラー理事が今後も利下げを継続すべきとの見解を示したことを受け、リスク資産全般が買われ、一時は9万ドルを突破した。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カリフォルニア州知事がトランプ大統領の仮想通貨関連恩赦を批判、CZ氏ら含む]]></title>
+        <id>https://coinpost.jp/?p=675361</id>
+        <link href="https://coinpost.jp/?p=675361"/>
+        <updated>2025-12-18T00:45:15.000Z</updated>
+        <summary type="html"><![CDATA[米カリフォルニア州のニューサム知事がトランプ大統領による仮想通貨関連の恩赦決定を批判している。バイナンス創設者CZ氏やシルクロード創設者ロス・ウルブリヒト氏、ビットメックス共同創設者らへの恩赦が対象となっている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【独自】暗号資産ETF、2028年解禁へ──税制改正と同時施行で調整]]></title>
+        <id>https://www.coindeskjapan.com/?p=329459</id>
+        <link href="https://www.coindeskjapan.com/329459/"/>
+        <updated>2025-12-18T00:15:30.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）税制の「申告分離課税」への移行が2028年1月までずれ込む見通しとなったことを受け、暗号資産ETF（上場投資信託）の国内解禁についても、同時 ...
+【独自】暗号資産ETF、2028年解禁へ──税制改正と同時施行で調整 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>栃山直樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米コインベースが株式・予測市場など新サービス展開、総合取引所へ移行]]></title>
+        <id>https://coinpost.jp/?p=675358</id>
+        <link href="https://coinpost.jp/?p=675358"/>
+        <updated>2025-12-17T23:35:00.000Z</updated>
+        <summary type="html"><![CDATA[米コインベースが単なる仮想通貨取引を超えた大規模拡張を発表した。株式取引、予測市場、ソラナDEX統合、カスタムステーブルコインなど複数の新機能を導入し多様な資産を扱う総合プラットフォームを目指す。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナが耐量子取引をテスト　プロジェクト・イレブンと実証実験]]></title>
         <id>https://jp.cointelegraph.com/news/solana-bids-for-quantum-resistance-testnet-goes-post-quantum</id>

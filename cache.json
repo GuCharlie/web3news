@@ -515,6 +515,81 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=675419",
+          "author": "S.Ninomiya",
+          "description": "ビットコインがFRBハト派発言で9万ドルまで急騰後、88,500ドル付近に反落した。過去2日間でBTC・ETHのETFから10億ドル超の純流出を記録し、市場構造の脆弱性が露呈。日銀利上げ観測と米CPI発表を控え、短期的な下押し圧力が継続する見通し。",
+          "link": "https://coinpost.jp/?p=675419",
+          "publishedOn": "2025-12-18T02:55:40.000Z",
+          "wordCount": 3308,
+          "title": "ビットコイン一時9万ドル回復も急反落、市場の脆弱性露呈と日銀会合への警戒感が台頭",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-czar-criticize.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-czar-criticize.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=675441",
+          "author": "菊谷ルイス",
+          "description": "米SECが仮想通貨証券の保管に関する見解を発表しブローカーディーラーが物理的保管とみなされる条件を明確化した。分散型台帳技術の評価や秘密鍵の保護、緊急時の対応計画などが求められている。",
+          "link": "https://coinpost.jp/?p=675441",
+          "publishedOn": "2025-12-18T02:25:02.000Z",
+          "wordCount": 3266,
+          "title": "米SECが「仮想通貨証券」の保管規則を明確化、ブローカーディーラー向けに指針を提示",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/new-sec-firing-and-50k.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/new-sec-firing-and-50k.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=675411",
+          "author": "Enzo",
+          "description": "イーロン・マスク氏の資産が史上初の6000億ドル（約93兆円）を突破。スペースX急騰が背景に。一方、トム・リー氏が提唱する「CEO個人価値のトークン化」構想が注目を集めている。企業価値から経営者の影響力を分離して投資できる革新的手法とは。",
+          "link": "https://coinpost.jp/?p=675411",
+          "publishedOn": "2025-12-18T01:53:30.000Z",
+          "wordCount": 3283,
+          "title": "イーロン資産93兆円突破　トム・リー「CEO個人価値のトークン化」構想とは？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/elonmusk1214211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/elonmusk1214211.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=675363",
+          "author": "K.Kobayashi",
+          "description": "ブータンの特別行政区GMCは、ブータンが国としてGMCの長期的な発展を支援するために最大1340億円相当の仮想通貨ビットコインの拠出を誓約したと発表。今後の計画について説明した。",
+          "link": "https://coinpost.jp/?p=675363",
+          "publishedOn": "2025-12-18T01:45:33.000Z",
+          "wordCount": 3284,
+          "title": "ブータン、最大1340億円相当のビットコインを特別行政区「GMC」に拠出へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/Bhutan-Flag.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/Bhutan-Flag.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=675370",
+          "author": "A.Yamada",
+          "description": "グラスノードの最新レポートによると、仮想通貨ビットコインは需要衰退で脆弱な構造の中取引されている。今後は10万ドル回復が上昇の鍵だと分析している。",
+          "link": "https://coinpost.jp/?p=675370",
+          "publishedOn": "2025-12-18T01:30:36.000Z",
+          "wordCount": 3289,
+          "title": "「ビットコインは脆弱な構造の中で推移」グラスノードの最新レポート",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/bitcoin-rate-cut-effect.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/bitcoin-rate-cut-effect.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=675377",
           "author": "CoinPost編集部",
           "description": "仮想通貨ビットコインは直近24時間で約80万円の乱高下となった。米株式市場の取引開始前、FRBのウォーラー理事が今後も利下げを継続すべきとの見解を示したことを受け、リスク資産全般が買われ、一時は9万ドルを突破した。",
@@ -1542,6 +1617,36 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=530462",
+          "author": "NewEconomy",
+          "description": "ペイパルがユタ州認可のILC設立を計画 決済大手のペイパル（PayPal）が、ユタ州金融機関局および米連邦預金保険公社（FDIC）に対し、「ペイパル・バンク（PayPal Bank）」の設立申請を提出したと12月15日に […]",
+          "link": "https://www.neweconomy.jp/posts/530462",
+          "publishedOn": "2025-12-18T03:04:00.000Z",
+          "wordCount": 762,
+          "title": "ペイパル、米国で銀行設立を申請。中小企業向け融資強化へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/18120336/88bda20fc98592cf2c8a9d566a24f651.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=530453",
+          "author": "HitomotoToshikazu",
+          "description": "RippleがRail買収完了 米リップル（Ripple）社が、ステーブルコイン決済インフラ提供のレイル（Rail）の買収完了を12月12日にXで発表した。 レイルの買収完了により、リップル社によるブロックチェーン活用の […]",
+          "link": "https://www.neweconomy.jp/posts/530453",
+          "publishedOn": "2025-12-18T02:54:16.000Z",
+          "wordCount": 771,
+          "title": "米リップル、ステーブルコイン決済「レイル」の買収完了",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/18115348/67f59d64cb658949ad3b16b384400a96.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=530442",
+          "author": "HitomotoToshikazu",
+          "description": "StraitsXがXSGDとXUSDをソラナ展開へ ステーブルコイン決済・清算インフラ提供のストレイツX（StraitsX）が、同社発行のシンガポールドル建てステーブルコイン「XSGD」と米ドル建てステーブルコイン「XU […]",
+          "link": "https://www.neweconomy.jp/posts/530442",
+          "publishedOn": "2025-12-18T02:44:37.000Z",
+          "wordCount": 806,
+          "title": "ストレイツX、ソラナ上でシンガポールドルと米ドルのステーブルコイン展開へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/18114400/82aaa12ce548041ffeaa5ca98de53223.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=530090",
           "author": "NewEconomy",
           "description": "XRPLネイティブのXRP金融サービス、伝統金融機関向けに初適用へ XRP Ledger（XRPL）上で機関投資家向けの利回りインフラを提供するドップラー・ファイナンス（Doppler Finance）とSBIリップルア […]",
@@ -2510,6 +2615,46 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=149791",
+          "author": "よきょい",
+          "description": "分散型無期限先物取引所（DEX）のハイパーリキッド（Hyperliquid）を支えるトークン「HYPE」が、2025年12月に入り直近7ヶ月間での最安値を記録しました。 過去1年間、ハイパーリキッドはオンチェーン・レバレ […]\n投稿 HYPEトークン、直近7ヶ月の最安値を記録｜2つのファンダに注目 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-hype-token-hits-7-month-low/",
+          "publishedOn": "2025-12-18T02:58:25.000Z",
+          "wordCount": 595,
+          "title": "HYPEトークン、直近7ヶ月の最安値を記録｜2つのファンダに注目",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_2552692339.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=149793",
+          "author": "Crypto Times 編集部",
+          "description": "Yuga Labsが展開するメタバースプロジェクトOthersideはBoximusホルダー向けにアバターの仕様をアップデートしました。Amazonとのコラボレーションで販売されたNFTであるBoximusのアバターがク […]\n投稿 Otherside、BoximusアバターがXmas仕様にアップデート は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-otherside-and-boximus-avatars-updated-with-christmas-designs/",
+          "publishedOn": "2025-12-18T02:48:44.000Z",
+          "wordCount": 572,
+          "title": "Otherside、BoximusアバターがXmas仕様にアップデート",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_1252857052.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=149792",
+          "author": "よきょい",
+          "description": "米ストラテジー社のマイケル・セイラー氏は、量子コンピュータの普及がビットコイン（BTC）を破壊するのではなくむしろネットワークを強化（ハードン）させるとの見解を示しました。 The Bitcoin Quantum Lea […]\n投稿 量子技術はビットコインを強化する？セイラー氏独自の主張に注目集まる は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-will-quantum-technology-strengthen-bitcoin/",
+          "publishedOn": "2025-12-18T02:41:09.000Z",
+          "wordCount": 580,
+          "title": "量子技術はビットコインを強化する？セイラー氏独自の主張に注目集まる",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_2566003921.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=149782",
+          "author": "Crypto Times 編集部",
+          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 SBI Ripple Asia と、XRPfi 分野におけるインフラ開 […]\n投稿 SBI Ripple Asia、XRP利回りおよびRWAトークン化でDoppler Financeと提携 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/press-sbi-ripple-asia-xrp/",
+          "publishedOn": "2025-12-18T02:22:29.000Z",
+          "wordCount": 651,
+          "title": "SBI Ripple Asia、XRP利回りおよびRWAトークン化でDoppler Financeと提携",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/photo_2025-12-12_15-41-11.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=149761",
           "author": "よきょい",

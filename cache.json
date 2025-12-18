@@ -615,6 +615,51 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=675727",
+          "author": "K.Kobayashi",
+          "description": "株式のトークン化プラットフォームxStocksは、TONブロックチェーンのTON Walletに対応したことを発表。ユーザーはテレグラムからトークン化した株式やETFにアクセスできる。",
+          "link": "https://coinpost.jp/?p=675727",
+          "publishedOn": "2025-12-18T22:55:19.000Z",
+          "wordCount": 3321,
+          "title": "テレグラムからトークン化株式の取引が可能　xStocks、TON Walletに対応",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/xStocks-TON-Wallet.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/xStocks-TON-Wallet.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=675725",
+          "author": "菊谷ルイス",
+          "description": "JPモルガン・チェースがデジタル預金トークンJPMコインを独自の内部ブロックチェーンからコインベースの「ベース」に移行した。機関投資家の需要に応え、24時間365日のほぼ即時決済を可能にする。",
+          "link": "https://coinpost.jp/?p=675725",
+          "publishedOn": "2025-12-18T22:44:20.000Z",
+          "wordCount": 3285,
+          "title": "JPモルガンのJPMコイン、コインベースのベースチェーンに移行",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/jpmorgan-chokepoint-fud.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/jpmorgan-chokepoint-fud.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=675722",
+          "author": "菊谷ルイス",
+          "description": "ナスダック上場のビボパワーがデジタル資産部門を通じて韓国の資産運用会社リーン・ベンチャーズ向けに3億ドル相当のリップル・ラボ株式を調達する。",
+          "link": "https://coinpost.jp/?p=675722",
+          "publishedOn": "2025-12-18T21:40:11.000Z",
+          "wordCount": 3291,
+          "title": "ビボパワー、韓国ファンドに4.5億XRP相当のリップル株式を調達へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/ripple-xrp-new-new.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/ripple-xrp-new-new.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=675715",
           "author": "菊谷ルイス",
           "description": "戦略的備蓄の検討も台湾の法務部は、犯罪捜査を通じて押収した210枚以上のビットコイン（BTC）を保有していることを明らかにした。ビットコインマガジンが18日に報じた。立法委員の柯志恩氏が確認した開示情報によると、司法当局は10月31日時点で...",
@@ -2463,6 +2508,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/intercontinental-exchange-ice-investment-moonpay",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "今回の協議は、インターコンチネンタル・エクスチェンジが10月に予測プラットフォームのポリマーケットへ20億ドルを投資したことに続く動きとなる。",
+          "link": "https://jp.cointelegraph.com/news/intercontinental-exchange-ice-investment-moonpay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-18T22:50:45.000Z",
+          "wordCount": 337,
+          "title": "NYSE親会社、仮想通貨企業ムーンペイへの出資を協議中と報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMzMjYtZTU0NS03ZGY5LTgyODMtNWZmN2M5OTAwMjQ4LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMzMjYtZTU0NS03ZGY5LTgyODMtNWZmN2M5OTAwMjQ4LmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-hunts-liquidity-us-cpi-inflation-lowest-since-2021",
+          "author": "Cointelegraph  William Suberg",
+          "description": "米国のCPI統計がインフレ率の急低下を示す中、ビットコインは8万9,500ドルに到達した。一方、BTC価格が急伸する中でも清算は高水準にとどまった。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-hunts-liquidity-us-cpi-inflation-lowest-since-2021?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-18T22:45:16.000Z",
+          "wordCount": 401,
+          "title": "米CPIが2021年以来の低水準に低下、ビットコインは流動性を探る動き",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMxZjEtZDY1ZC03OWE1LTljOWUtYzkxNzA1ZTgzMDkwLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMxZjEtZDY1ZC03OWE1LTljOWUtYzkxNzA1ZTgzMDkwLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/ai-bubble-bitcoin-biggest-risk-2026-tether-ceo",
           "author": "Cointelegraph  Helen Partz",

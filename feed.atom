@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-19T22:42:08.498Z</updated>
+    <updated>2025-12-19T23:16:13.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインの「ベースケース」予測価格、14万3000ドル：シティグループ]]></title>
+        <id>https://www.coindeskjapan.com/?p=329905</id>
+        <link href="https://www.coindeskjapan.com/329905/"/>
+        <updated>2025-12-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最近の弱気相場の中で、シティグループのビットコイン（BTC）12カ月見通しに関する見出しの14万3000ドルという数値（現在の8万8000ドルから約62％上昇） ...
+ビットコインの「ベースケース」予測価格、14万3000ドル：シティグループ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Olivier Acuna</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コインベース、2026年の税制変更で予測市場がギャンブルより有利になると指摘]]></title>
         <id>https://coinpost.jp/?p=676001</id>
@@ -3260,16 +3271,6 @@ SBIとスターテイル、円ステーブルコイン共同開発へ──2026�
         <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米リップルの「Ripple Payments」、スイスのアミナバンクが導入]]></title>
-        <id>https://www.neweconomy.jp/?p=529171</id>
-        <link href="https://www.neweconomy.jp/posts/529171"/>
-        <updated>2025-12-15T11:12:05.000Z</updated>
-        <summary type="html"><![CDATA[アミナバンクにRipple Payments導入 米リップル（Ripple）社提供の国際決済ソリューション「リップル・ペイメンツ（Ripple Payments）」が、スイスの暗号資産（仮想通貨）銀行アミナバンク（AMI […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
 </feed>

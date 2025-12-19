@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-19T12:34:45.960Z</updated>
+    <updated>2025-12-19T13:30:30.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[暗号資産が「申告分離課税」へ、但し「特定銘柄」に限るなど条件付き＝税制改正大綱]]></title>
+        <id>https://www.neweconomy.jp/?p=531375</id>
+        <link href="https://www.neweconomy.jp/posts/531375"/>
+        <updated>2025-12-19T12:37:56.000Z</updated>
+        <summary type="html"><![CDATA[令和8年度税制改正大綱が公開 自由民主党・日本維新の会が12月19日に公開した「令和8年度税制改正大綱」において、暗号資産（仮想通貨）の分離課税化に関する内容が記載された。 税制改正大綱とは、各省庁からあがる税制改正の要 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブロックチェーンの断片化　ト―クン化資産市場で年13億ドルの経済的損失＝レポート]]></title>
         <id>https://jp.cointelegraph.com/news/blockchain-fragmentation-cost-tokenized-assets-report</id>
@@ -3551,16 +3561,6 @@ XRP現物ETFはビットコインやイーサリアムとは異なり、30日連
         <summary type="html"><![CDATA[日本銀行が12月19日の金融政策決定会合で政策金利を0.75%に引き上げる方針。30年ぶりの高水準となる利上げが、円キャリートレード巻き戻しを通じてビットコインなど仮想通貨市場に与える影響を分析。米FRBのQT終了による影響緩和の可能性も解説。]]></summary>
         <author>
             <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年末までに済ませておきたい仮想通貨に関する税金と確定申告への準備｜Gtax（Aerial partners）寄稿]]></title>
-        <id>https://coinpost.jp/?p=674384</id>
-        <link href="https://coinpost.jp/?p=674384"/>
-        <updated>2025-12-15T01:10:57.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨の税金の仕組みと、年末までにできる節税対策を解説。損益圧縮やふるさと納税・iDeCoの活用法、確定申告に向けた取引履歴・経費の整理ポイントをまとめています。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>

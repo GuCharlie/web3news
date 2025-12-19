@@ -625,6 +625,66 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=675756",
+          "author": "Enzo",
+          "description": "MSCIが仮想通貨保有企業を指数から除外する提案を検討。実施されれば39社で最大150億ドル（約2.2兆円）の強制売却が発生する可能性。業界は1,268の署名を集め強く反発。2026年1月15日に最終判断。",
+          "link": "https://coinpost.jp/?p=675756",
+          "publishedOn": "2025-12-19T01:05:17.000Z",
+          "wordCount": 3298,
+          "title": "仮想通貨保有企業株、MSCI除外で約2兆円売却圧力　来年1月に判断",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/msci-index-crypto.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/msci-index-crypto.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=675741",
+          "author": "A.Yamada",
+          "description": "イーサリアム財団が、ネットワークのステート増大が続くことによる中央集権化リスクなどを警告した。この課題に対する3つの対策を提案している。",
+          "link": "https://coinpost.jp/?p=675741",
+          "publishedOn": "2025-12-19T01:02:23.000Z",
+          "wordCount": 3309,
+          "title": "イーサリアム財団、「ステート肥大化」のリスクを指摘　3つの対応策提案",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/ethereum-fusaka.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/ethereum-fusaka.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=675738",
+          "author": "菊谷ルイス",
+          "description": "ニューヨーク証券取引所を運営するICEが仮想通貨決済企業ムーンペイへの出資交渉を進めていることがブルームバーグの報道で明らかになった。",
+          "link": "https://coinpost.jp/?p=675738",
+          "publishedOn": "2025-12-19T00:35:02.000Z",
+          "wordCount": 3279,
+          "title": "NYSEの運営会社ICEが仮想通貨企業ムーンペイに出資交渉、評価額50億ドル目指す",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/ice-nyse-moonpay.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/ice-nyse-moonpay.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=675735",
+          "author": "菊谷ルイス",
+          "description": "JPモルガンのアナリストがステーブルコイン市場は2028年までに5000億ドルから6000億ドルに達すると予測し、1兆ドル規模の予測を否定的に評価した。成長は仮想通貨市場全体と連動すると見ている。",
+          "link": "https://coinpost.jp/?p=675735",
+          "publishedOn": "2025-12-18T23:35:11.000Z",
+          "wordCount": 3286,
+          "title": "JPモルガン、ステーブルコイン市場の成長予測を維持も1兆ドル規模には否定的",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/jpmorgan-stablecoin-prediction.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/jpmorgan-stablecoin-prediction.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=675727",
           "author": "K.Kobayashi",
           "description": "株式のトークン化プラットフォームxStocksは、TONブロックチェーンのTON Walletに対応したことを発表。ユーザーはテレグラムからトークン化した株式やETFにアクセスできる。",
@@ -2518,6 +2578,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-hashrate-rebound-xinjiang-mining-fears",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "中国の新疆ウイグル自治区でビットコイン（BTC）マイニングの大規模な取り締まりがあったとする最近の報道が仮想通貨業界に波紋を呼んだが、TheMinerMagのデータによれば、実際の影響は当初伝えられたほど大きくなかった可能性が高い。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-hashrate-rebound-xinjiang-mining-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-19T00:45:37.000Z",
+          "wordCount": 248,
+          "title": "中国でのビットコインマイニング取り締まり報道、実際の影響は限定的か＝レポート",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMyM2QtYTgyOC03M2ExLTg5ZGYtNTdiMTUzN2FmYTBlLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMyM2QtYTgyOC03M2ExLTg5ZGYtNTdiMTUzN2FmYTBlLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/intercontinental-exchange-ice-investment-moonpay",
           "author": "Cointelegraph  Vince Quill",

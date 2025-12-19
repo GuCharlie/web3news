@@ -690,16 +690,6 @@
           "wordCount": 1335,
           "title": "CoinDesk JAPANから「NADA NEWS」へ──2026年、独自ブランドとしてリニューアル",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/NADA_NEWS.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=328913",
-          "author": "Francisco Rodrigues",
-          "description": "ビットコイン（BTC）を大量保有し、DAT（デジタルアセットトレジャリー）企業のパイオニアとされるStrategy（ストラテジー：MSTR）は、ナスダック100 ...\n米Strategy、ナスダック100指数に踏みとどまる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/328913/",
-          "publishedOn": "2025-12-14T21:00:00.000Z",
-          "wordCount": 1298,
-          "title": "米Strategy、ナスダック100指数に踏みとどまる",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/image-80.jpg"
         }
       ]
     },
@@ -2899,6 +2889,21 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/crypto-market-cap-8-month-low-more-pain-ahead-ana",
+          "author": "Cointelegraph  Martin Young",
+          "description": "仮想通貨の時価総額が年初来の上昇分をほぼ消し去り、8カ月ぶりの安値まで落ち込んだ。アナリストは短期的には弱気の動きを維持するとみている。",
+          "link": "https://jp.cointelegraph.com/news/crypto-market-cap-8-month-low-more-pain-ahead-ana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-19T08:56:29.000Z",
+          "wordCount": 248,
+          "title": "仮想通貨時価総額は8カ月ぶりの安値に、アナリストは短期的には弱気継続と予測",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM0OTAtMDVhNC03MzZkLWEyMzktZjU5ZjhiNmEzMjY1LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM0OTAtMDVhNC03MzZkLWEyMzktZjU5ZjhiNmEzMjY1LmpwZw==.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/zcash-capital-rotation-trend-not-confirmed-raoul-pal-crypto",
           "author": "Cointelegraph  Ciaran Lyons",
           "description": "プライバシー重視型仮想通貨ジーキャッシュの最近の急騰は、持続的な強気相場入りではなく、資金ローテーションの結果である可能性が高いと、リアルビジョン創業者でマクロ投資家のラウル・パル氏は主張している。",
@@ -3550,6 +3555,46 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=149862",
+          "author": "よきょい",
+          "description": "記事の要点 ▪️安値圏での強い買い戻しにより急反発 ▪️真のトレンド転換を確認するには1.90ドルの壁をクリアすることが不可欠か 1.80ドル付近まで急落し底割れの […]\n投稿 リップル(XRP)、1.80ドルで底打ち反発【仮想通貨チャート分析】 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-ripple-xrp-bottoms-out-at-1-80/",
+          "publishedOn": "2025-12-19T09:12:21.000Z",
+          "wordCount": 545,
+          "title": "リップル(XRP)、1.80ドルで底打ち反発【仮想通貨チャート分析】",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/11/tria_2.mp4",
+            "length": "12422573",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_1933655690-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=149861",
+          "author": "よきょい",
+          "description": "記事の要点 ▪️強力な買い戻しが入り鋭角的なV字回復 ▪️ゴールデンクロスの成立が秒読み段階 85,000ドル付近まで売り込まれたビットコイン（BTC）ですが、強力 […]\n投稿 ビットコイン(BTC)、85,000ドルでV字回復【仮想通貨チャート分析】 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-btc-makes-a-v-shaped-recovery-at-85000/",
+          "publishedOn": "2025-12-19T09:08:20.000Z",
+          "wordCount": 551,
+          "title": "ビットコイン(BTC)、85,000ドルでV字回復【仮想通貨チャート分析】",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/11/tria_2.mp4",
+            "length": "12422573",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_2700415759-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=149863",
+          "author": "よきょい",
+          "description": "12月19日、ビットコイン（BTC）の価格は87,700ドル前後で推移しており、イーサリアム（ETH）は約2,930ドル、ソラナ（SOL）は約124ドルで取引されています。世界の暗号資産時価総額は3.05兆ドルで、ビット […]\n投稿 【今日の暗号資産ニュース】イーサリアム財務企業TORICOがストップ高。マイニング企業がAI領域へ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-torico-shares-hit-limit-high-as-mining-company-moves-into-ai-field/",
+          "publishedOn": "2025-12-19T08:36:18.000Z",
+          "wordCount": 573,
+          "title": "【今日の暗号資産ニュース】イーサリアム財務企業TORICOがストップ高。マイニング企業がAI領域へ",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_2678921227.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=149864",
           "author": "よきょい",

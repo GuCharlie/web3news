@@ -695,6 +695,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=676097",
+          "author": "菊谷ルイス",
+          "description": "ビットコイン保有企業メタプラネットがドイツ銀行を預託銀行とする米国預託証券プログラムを設立し、19日より米国店頭市場で取引を開始する。米国投資家の利便性向上と流動性拡大を目指す。",
+          "link": "https://coinpost.jp/?p=676097",
+          "publishedOn": "2025-12-20T01:50:06.000Z",
+          "wordCount": 3274,
+          "title": "メタプラネット、米国預託証券プログラム設立",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/0605_metaplanetB.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/0605_metaplanetB.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=676089",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨推進派として知られるシンシア・ルミス上院議員が2026年の再選不出馬を表明した。任期終了までに包括的な仮想通貨規制法案や税制改革の成立を目指す方針を示している。",
+          "link": "https://coinpost.jp/?p=676089",
+          "publishedOn": "2025-12-20T01:33:59.000Z",
+          "wordCount": 3273,
+          "title": "ビットコイン提唱者ルミス米上院議員が再選不出馬、仮想通貨法案成立に注力へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/stablecoin-congress-vote-next-week.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/stablecoin-congress-vote-next-week.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=676067",
           "author": "A.Yamada",
           "description": "CF Benchmarksが2035年の仮想通貨ビットコインの価格を基本シナリオで142万ドルと予想した。ゴールド市場のシェアを獲得することなどを前提とし弱気・強気シナリオも算出している。",
@@ -2693,6 +2723,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/price-predictions-12-19-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "買い手がビットコイン価格を9万ドル超へ押し上げられなければ、ビットコインは8万4000ドルを下回るリスクを抱えている。",
+          "link": "https://jp.cointelegraph.com/news/price-predictions-12-19-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-20T02:12:54.000Z",
+          "wordCount": 313,
+          "title": "BTC 9万ドルへの回復なるか　仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM3ZTQtNTMyMy03NDliLWFmOGEtNzYzM2UyZmQ4Mjk0LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM3ZTQtNTMyMy03NDliLWFmOGEtNzYzM2UyZmQ4Mjk0LmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/coinbase-2026-crypto-outlook-institutional-adoption-regulation",
           "author": "Cointelegraph  Sam Bourgi",

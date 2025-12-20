@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-20T19:35:30.256Z</updated>
+    <updated>2025-12-20T20:17:08.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スポーツベッティング大手ドラフトキングスが予測市場に参入　仮想通貨サービスの提供も視野]]></title>
+        <id>https://jp.cointelegraph.com/news/draftkings-prediction-markets-app-crypto-contracts-us</id>
+        <link href="https://jp.cointelegraph.com/news/draftkings-prediction-markets-app-crypto-contracts-us?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-12-20T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スポーツベッティング大手ドラフトキングスは、予測市場分野への進出を進めており、将来的には仮想通貨に連動した契約の導入も視野に入れている。]]></summary>
+        <author>
+            <name>Cointelegraph  Sam Bourgi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ファンドストラット内部資料とされる文書が弱気見通し　トム・リー氏の強気発言と食い違い]]></title>
         <id>https://jp.cointelegraph.com/news/fundstrat-circulating-2026-crypto-outlook-pullback-tom-lee</id>
@@ -2767,37 +2777,6 @@ KindlyMD、ナスダック上場廃止の危機──最低株価要件を満た
         <summary type="html"><![CDATA[ナスダックが1日23時間の株式取引体制を米SECに提案。仮想通貨の24時間取引が投資家の期待を変化させたことを背景に、2026年後半の導入を目指す。NYSEも22時間取引の承認を取得済み。]]></summary>
         <author>
             <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、AIトークンやミームコインなどの仮想通貨セクターをアウトパフォーム＝グラスノード]]></title>
-        <id>https://jp.cointelegraph.com/news/nearly-all-crypto-sectors-underperformed-btc-over-past-3-months-glassnode</id>
-        <link href="https://jp.cointelegraph.com/news/nearly-all-crypto-sectors-underperformed-btc-over-past-3-months-glassnode?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-12-16T08:12:49.000Z</updated>
-        <summary type="html"><![CDATA[オンチェーン分析プラットフォームのグラスノードによると、過去最高値から下落したにもかかわらず、ビットコインはほかの仮想通貨セクターを依然として上回っており、資本と投資の流れはビットコインを選好し続けている。]]></summary>
-        <author>
-            <name>Cointelegraph  Martin Young</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、イーサリアム、XRPは下落幅を拡大──市場全体の警戒感が高まる]]></title>
-        <id>https://www.coindeskjapan.com/?p=329162</id>
-        <link href="https://www.coindeskjapan.com/329162/"/>
-        <updated>2025-12-16T08:10:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）市場は、アメリカの主要な経済指標発表を控えて投資家が資金を引き揚げたことで、世界のリスク資産とともに弱含んだ。これにより、流動性の低下と市場 ...
-ビットコイン、イーサリアム、XRPは下落幅を拡大──市場全体の警戒感が高まる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップル、ステーブルコインRLUSDをイーサリアムL2へ拡大　ワームホールと連携してマルチチェーン展開]]></title>
-        <id>https://jp.cointelegraph.com/news/ripple-rlusd-multichain-ethereum-l2s-wormhole</id>
-        <link href="https://jp.cointelegraph.com/news/ripple-rlusd-multichain-ethereum-l2s-wormhole?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-12-16T07:40:57.000Z</updated>
-        <summary type="html"><![CDATA[リップルラボは、米ドル連動型ステーブルコインRLUSDをイーサリアムのレイヤー2ブロックチェーンへ拡大するパイロットプログラムを開始した。正式な全面展開は来年の規制承認後となる予定だ。]]></summary>
-        <author>
-            <name>Cointelegraph  Stephen Katte</name>
         </author>
     </entry>
 </feed>

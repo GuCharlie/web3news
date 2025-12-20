@@ -2435,26 +2435,6 @@
           "wordCount": 811,
           "title": "ビットマイン、イーサリアム総保有数が約400万ETHに",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/16131609/69f6b32a33e8a5ab9af54b114f5d6a1b.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=529291",
-          "author": "NewEconomy",
-          "description": "ビザがアドバイザリー業務を開始 米決済大手ビザ（VISA）が、企業や金融機関向けにステーブルコイン導入を支援する新たな助言サービス「ステーブルコイン・アドバイザリー・プラクティス（Stablecoins Advisory […]",
-          "link": "https://www.neweconomy.jp/posts/529291",
-          "publishedOn": "2025-12-16T03:30:40.000Z",
-          "wordCount": 759,
-          "title": "VISA、ステーブルコイン導入支援のアドバイザリーサービス開始",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/16123004/ba5734dca36ea6fd321923ff61152f42.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=529284",
-          "author": "NewEconomy",
-          "description": "ジュピターが既存プロダクト群の再設計と機能強化を公開 ソラナ（Solana）上でDEX（分散型取引所）アグリゲーターを展開するジュピター（Jupiter）が、オンチェーン金融の課題に対応するための一連のプロダクトアップグ […]",
-          "link": "https://www.neweconomy.jp/posts/529284",
-          "publishedOn": "2025-12-16T03:24:11.000Z",
-          "wordCount": 809,
-          "title": "ソラナDEXジュピター、オンチェーン金融基盤強化に向け複数プロダクトをアップグレード",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/16122334/50815e35de708871cc64b8e9f476d706.jpg"
         }
       ]
     },
@@ -2463,6 +2443,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/fundstrat-circulating-2026-crypto-outlook-pullback-tom-lee",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "ファンドストラット・グローバル・アドバイザーズの内部レポートとされる文書が、仮想通貨市場について弱気の見通しを示している。これは同社のトム・リー氏が公に主張している見解と矛盾しているようだ。",
+          "link": "https://jp.cointelegraph.com/news/fundstrat-circulating-2026-crypto-outlook-pullback-tom-lee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-20T15:28:23.000Z",
+          "wordCount": 255,
+          "title": "ファンドストラット内部資料とされる文書が弱気見通し　トム・リー氏の強気発言と食い違い",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNhOWEtMTYzMC03MDQyLWE5MWItMWFkZWJmOWNmYWNjLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNhOWEtMTYzMC03MDQyLWE5MWItMWFkZWJmOWNmYWNjLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/altcoin-season-never-ended-traders-just-missed-the-winners-hayes",
           "author": "Cointelegraph  Ciaran Lyons",
@@ -3122,21 +3117,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBlZDUtODYxOC03MjgxLTkxN2MtZGYxZjBmNTYyYzA3.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-altcoins-sell-off-as-fed-chair-switch-up-ai-bubble-fears-spook-markets",
-          "author": "Cointelegraph  Marcel Pechman",
-          "description": "仮想通貨市場は月曜に調整局面を迎え、ビットコイン（BTC）は8万5000ドルを試す展開となり、イーサリアム（ETH）は2900ドルまで下落した。米国の経済状況が悪化しているとの調査結果や、次期FRB議長候補に関する投資家予想の変化を受け、市場参加者はリスク回避姿勢を強めた。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-altcoins-sell-off-as-fed-chair-switch-up-ai-bubble-fears-spook-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-12-16T03:36:06.000Z",
-          "wordCount": 303,
-          "title": "米景気悪化懸念とFRB議長人事の思惑で仮想通貨市場が調整　ビットコインは8万5000ドルを試す展開に",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI0MjgtNDQwNy03YjY1LWI3NDQtZjc5MGMxMjg4ZTQwLkpQRw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI0MjgtNDQwNy03YjY1LWI3NDQtZjc5MGMxMjg4ZTQwLkpQRw==.jpg"
         }
       ]
     },

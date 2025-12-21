@@ -470,16 +470,6 @@
           "wordCount": 1347,
           "title": "ブータン、特別行政区の開発に1万ビットコインを拠出",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/01/shutterstock_2504299611.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=329354",
-          "author": "Helene Braun",
-          "description": "暗号資産（仮想通貨）ウォレットプロバイダーのエクソダス（Exodus）は、フィンテック企業ムーンペイ（MoonPay）との提携により、米ドルに完全に裏付けられた ...\nエクソダス、ムーンペイの支援でステーブルコイン競争に参入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/329354/",
-          "publishedOn": "2025-12-17T09:40:00.000Z",
-          "wordCount": 1354,
-          "title": "エクソダス、ムーンペイの支援でステーブルコイン競争に参入",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/shutterstock_2261247393.jpg"
         }
       ]
     },
@@ -1318,21 +1308,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/binance-rebuke.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/binance-rebuke.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=675213",
-          "author": "Ritsuki.Kumazawa",
-          "description": "暗号資産の申告分離課税の施行時期について、2028年1月からの案が浮上。金商法への移行や投資者保護体制の整備が条件とされ、当初想定の2027年より遅れる見通しだ。",
-          "link": "https://coinpost.jp/?p=675213",
-          "publishedOn": "2025-12-17T09:51:40.000Z",
-          "wordCount": 3284,
-          "title": "仮想通貨の分離課税、2028年1月からの見通しか",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/crypto-new-tax-relief-in-the-US.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/crypto-new-tax-relief-in-the-US.jpg"
         }
       ]
     },
@@ -1648,6 +1623,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/us-lawmakers-stablecoin-tax-break-staking-rewards",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "米国の議員らが、200ドル以下のステーブルコイン決済を非課税とし、仮想通貨のステーキングおよびマイニング報酬については複数年の課税繰り延べを認める案を提案している。",
+          "link": "https://jp.cointelegraph.com/news/us-lawmakers-stablecoin-tax-break-staking-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-21T22:04:13.000Z",
+          "wordCount": 288,
+          "title": "米議員、小口ステーブルコイン決済とステーキング報酬に税制優遇を提案",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNmYWMtNDk2Mi03NTUzLWI3OWItN2MxOWY4NjFkYWJmLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNmYWMtNDk2Mi03NTUzLWI3OWItN2MxOWY4NjFkYWJmLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/blackrock-ibit-ranks-sixth-etf-flows-negative-returns",
           "author": "Cointelegraph  Amin Haqshanas",

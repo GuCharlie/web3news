@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-21T21:37:42.833Z</updated>
+    <updated>2025-12-21T22:15:57.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米議員、小口ステーブルコイン決済とステーキング報酬に税制優遇を提案]]></title>
+        <id>https://jp.cointelegraph.com/news/us-lawmakers-stablecoin-tax-break-staking-rewards</id>
+        <link href="https://jp.cointelegraph.com/news/us-lawmakers-stablecoin-tax-break-staking-rewards?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-12-21T22:04:13.000Z</updated>
+        <summary type="html"><![CDATA[米国の議員らが、200ドル以下のステーブルコイン決済を非課税とし、仮想通貨のステーキングおよびマイニング報酬については複数年の課税繰り延べを認める案を提案している。]]></summary>
+        <author>
+            <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VISA、米国でUSDC決済を開始──清算レイヤーにステーブルコインを採用、その意味とは]]></title>
         <id>https://www.coindeskjapan.com/?p=329959</id>
@@ -1967,27 +1977,6 @@ XRPは暴落中なのか？ 2ドルを下回る状況が続いているのは問
 ブータン、特別行政区の開発に1万ビットコインを拠出 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Jamie Crawley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨の分離課税、2028年1月からの見通しか]]></title>
-        <id>https://coinpost.jp/?p=675213</id>
-        <link href="https://coinpost.jp/?p=675213"/>
-        <updated>2025-12-17T09:51:40.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産の申告分離課税の施行時期について、2028年1月からの案が浮上。金商法への移行や投資者保護体制の整備が条件とされ、当初想定の2027年より遅れる見通しだ。]]></summary>
-        <author>
-            <name>Ritsuki.Kumazawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エクソダス、ムーンペイの支援でステーブルコイン競争に参入]]></title>
-        <id>https://www.coindeskjapan.com/?p=329354</id>
-        <link href="https://www.coindeskjapan.com/329354/"/>
-        <updated>2025-12-17T09:40:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）ウォレットプロバイダーのエクソダス（Exodus）は、フィンテック企業ムーンペイ（MoonPay）との提携により、米ドルに完全に裏付けられた ...
-エクソダス、ムーンペイの支援でステーブルコイン競争に参入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Helene Braun</name>
         </author>
     </entry>
 </feed>

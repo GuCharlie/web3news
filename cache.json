@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=330143",
+          "author": "井上 俊彦",
+          "description": "暗号資産（仮想通貨）指数プロバイダー大手、CF Benchmarks（CFベンチマーク）は、最新の資本市場想定フレームワークで、ビットコイン（BTC）の価格が2 ...\nビットコインは2035年に140万ドル超に到達：CF Benchmarksが予測 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/330143/",
+          "publishedOn": "2025-12-22T11:00:00.000Z",
+          "wordCount": 1290,
+          "title": "ビットコインは2035年に140万ドル超に到達：CF Benchmarksが予測",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/shutterstock_2052110753.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=330079",
           "author": "井上 俊彦",
           "description": "2025年12月20日、ある暗号資産ユーザーがわずか1時間ほどの間に約5000万ドル（約77億5000万円、1ドル=155円換算）相当のテザー（USDT）を失っ ...\n「アドレスポイズニング」詐欺で80億円弱が消失──被害者はハッカーへ返還を要求 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -1343,21 +1353,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/coinbase-new-pic.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/coinbase-new-pic.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=675348",
-          "author": "菊谷ルイス",
-          "description": "米連邦準備制度理事会が2023年の仮想通貨関連銀行規制指針を撤回し、新たな政策声明を発表した。監督対象銀行が革新的活動に従事する道を開くが、リスク評価に基づく裁量権は維持。",
-          "link": "https://coinpost.jp/?p=675348",
-          "publishedOn": "2025-12-17T22:50:41.000Z",
-          "wordCount": 3280,
-          "title": "米連邦準備制度理事会、仮想通貨関連銀行への制限的規制指針を撤回",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/FRB0429211.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/FRB0429211.png"
         }
       ]
     },
@@ -2292,21 +2287,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/solana-bids-for-quantum-resistance-testnet-goes-post-quantum",
-          "author": "Cointelegraph  Adrian Zmudzinski",
-          "description": "ソラナはセキュリティ企業と提携し、ソラナのテストネット上で耐量子技術の検証を実施した。スケーラブルなエンドツーエンドの解決策を提供できるとしている。",
-          "link": "https://jp.cointelegraph.com/news/solana-bids-for-quantum-resistance-testnet-goes-post-quantum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-12-17T22:53:02.000Z",
-          "wordCount": 237,
-          "title": "ソラナが耐量子取引をテスト　プロジェクト・イレブンと実証実験",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJiYjgtMmE4OC03NjQ3LTg3M2EtMWYxOGJjZmE3ZGRiLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJiYjgtMmE4OC03NjQ3LTg3M2EtMWYxOGJjZmE3ZGRiLmpwZw==.jpg"
         }
       ]
     },

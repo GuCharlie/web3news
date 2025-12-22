@@ -465,6 +465,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=676326",
+          "author": "Enzo",
+          "description": "ユニスワップのプロトコル手数料スイッチ提案「UNIfication」が定足数を達成。賛成票6,900万UNI超で12月26日の投票終了後、1億UNIの遡及的焼却と手数料連動型の継続的焼却メカニズムが今週後半に始動する見込み。",
+          "link": "https://coinpost.jp/?p=676326",
+          "publishedOn": "2025-12-22T06:53:23.000Z",
+          "wordCount": 3284,
+          "title": "ユニスワップ手数料スイッチ提案が定足数達成　UNI焼却メカニズムが今週始動へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/uniswap-genes.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/uniswap-genes.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=676289",
           "author": "幸田直子",
           "description": "カルダノ創設者ホスキンソン氏が、量子コンピュータによる仮想通貨への脅威について冷静な対応を呼びかけ、米DARPA主導の、量子ベンチマーク・イニシアチブ（QBI）の参照を推奨した。",
@@ -1416,6 +1431,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=531651",
+          "author": "HitomotoToshikazu",
+          "description": "VanEckがAVAX現物ETFのS1修正提出 米資産運用会社ヴァンエック（VanEck）が、暗号資産アバランチ（AVAX）の現物ETF（上場投資信託）の登録届出書「S-1申請書（Form S-1）」の修正版を、米SEC […]",
+          "link": "https://www.neweconomy.jp/posts/531651",
+          "publishedOn": "2025-12-22T06:43:33.000Z",
+          "wordCount": 742,
+          "title": "ヴァンエック、「アバランチ（AVAX）」現物ETFをSECに修正提出、ステーキング最大70%を明記",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/22154258/c8d733bf2092655c0c7733b4909e5f7b.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=531634",
           "author": "OtsugaShinya",

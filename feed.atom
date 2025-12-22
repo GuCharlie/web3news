@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-22T21:15:36.622Z</updated>
+    <updated>2025-12-22T21:38:25.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ストラテジー社の米ドル準備金が3400億円超に、「仮想通貨の冬」に備え]]></title>
+        <id>https://coinpost.jp/?p=676486</id>
+        <link href="https://coinpost.jp/?p=676486"/>
+        <updated>2025-12-22T21:30:04.000Z</updated>
+        <summary type="html"><![CDATA[マイケル・セイラー率いるストラテジーが普通株式の売却により7億4800万ドルを調達し、米ドル準備金を約22億ドルに増やした。仮想通貨の冬に備え配当と利払いを32カ月間カバーできるようにした。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JPモルガン、機関投資家向け仮想通貨取引の提供を検討＝報道]]></title>
         <id>https://coinpost.jp/?p=676484</id>
@@ -1743,16 +1753,6 @@ Coinbase、CoinDCXの少数株式取得でインドでの存在感強化へ firs
 予測市場ではロビンフッドがコインベースより有利な立場：みずほ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Will Canny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ユニスワップ、1億UNI焼却提案の最終投票開始へ　流通量の16%]]></title>
-        <id>https://coinpost.jp/?p=675591</id>
-        <link href="https://coinpost.jp/?p=675591"/>
-        <updated>2025-12-18T09:27:42.000Z</updated>
-        <summary type="html"><![CDATA[分散型取引所ユニスワップが1億UNI焼却を含む「ユニフィケーション提案」の最終投票を12月19日に開始。可決されれば手数料スイッチが起動し、UNIトークンは収益を生む資産へと転換する。]]></summary>
-        <author>
-            <name>Enzo</name>
         </author>
     </entry>
 </feed>

@@ -1415,16 +1415,6 @@
           "wordCount": 737,
           "title": "暗号資産が「申告分離課税」へ、但し「特定銘柄」に限るなど条件付き＝税制改正大綱",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/19213753/66263145cef0e7d757593e1cb6bd81fe.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=531160",
-          "author": "gentosha_takahashi",
-          "description": "ブローカーディーラー向け声明発表 米証券取引委員会（SEC）の取引・市場部門が、証券に該当する暗号資産（crypto asset securities）をブローカーディーラーが顧客のために保管する場合の取扱いについて、職 […]",
-          "link": "https://www.neweconomy.jp/posts/531160",
-          "publishedOn": "2025-12-19T10:25:30.000Z",
-          "wordCount": 732,
-          "title": "米SEC取引・市場部門、証券性暗号資産のカストディ解釈を明示",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/19192515/83c900d2e842f25472d80a101d8fb18d.jpg"
         }
       ]
     },
@@ -1433,6 +1423,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/brazil-live-orchestra-bitcoin-price-into-music",
+          "author": "Cointelegraph  Nate Kostar",
+          "description": "ブラジルの文化振興法に基づく税控除対象の民間資金調達が承認され、連邦首都でのライブ公演が計画されている。",
+          "link": "https://jp.cointelegraph.com/news/brazil-live-orchestra-bitcoin-price-into-music?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-23T22:36:36.000Z",
+          "wordCount": 363,
+          "title": "ブラジルの生オーケストラ、ビットコイン価格変動を音楽に変換",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRjOWYtZmU4My03ODZhLWJlYjgtNzViMjhkMDQ0NzZjLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRjOWYtZmU4My03ODZhLWJlYjgtNzViMjhkMDQ0NzZjLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/brett-harrison-raises-35m-institutional-derivatives-exchange",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "FTX米国元社長ブレット・ハリソン氏が率いるアーキテクト・ファイナンシャル・テクノロジーズは、仮想通貨、株式、先物を横断する機関投資家向け取引基盤の構築に向け、3,500万ドルを確保した。",
+          "link": "https://jp.cointelegraph.com/news/brett-harrison-raises-35m-institutional-derivatives-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-23T22:18:45.000Z",
+          "wordCount": 267,
+          "title": "FTX崩壊後から新たな資金調達へ　元FTX米国責任者、新取引所で3,500万ドルを調達",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRjZWEtMWMzOS03MjQwLWE2MjctM2M4ZmJkMmQ5OTZjLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRjZWEtMWMzOS03MjQwLWE2MjctM2M4ZmJkMmQ5OTZjLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/imf-el-salvador-chivo-bitcoin-wallet",
           "author": "Cointelegraph  Turner Wright",

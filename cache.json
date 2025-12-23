@@ -475,6 +475,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=676639",
+          "author": "Enzo",
+          "description": "CFTC規制下の予測市場カルシがBNBチェーンの入出金に対応。BSCユーザーはブリッジ不要で直接アクセス可能に。予測市場業界は2025年に急成長、取引高は400億ドル規模へ。",
+          "link": "https://coinpost.jp/?p=676639",
+          "publishedOn": "2025-12-23T06:46:32.000Z",
+          "wordCount": 3276,
+          "title": "予測市場カルシ、BNBチェーンでの入出金サポートを開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/BNB-Binance-Coin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/BNB-Binance-Coin.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=676623",
           "author": "Enzo",
           "description": "ソラナ財団が12月23日に発表した「Kora」により、ユーザーはSOLを保有せずにUSDCなど任意のトークンで取引手数料を支払えるようになる。手数料代行の仕組みと応用例を解説。",
@@ -1367,6 +1382,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=532347",
+          "author": "gentosha_takahashi",
+          "description": "正式に規制枠組み提供へ ガーナ中央銀行（BoG）のジョンソン・アシアマ（Johnson Asiama）総裁が、議会で可決された「2025年暗号資産サービス提供者法案（Virtual Asset Service Provi […]",
+          "link": "https://www.neweconomy.jp/posts/532347",
+          "publishedOn": "2025-12-23T07:21:46.000Z",
+          "wordCount": 608,
+          "title": "ガーナ、暗号資産サービス提供者法案を議会可決",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/23162141/be98feff275b4696498c687155b488a0.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=532305",
           "author": "NewEconomy",
           "description": "ETHZillaがDATからトークン化事業に戦略転換 米ナスダック上場企業のイーサジラ（ETHZilla）が、保有する暗号資産（仮想通貨）イーサリアム（ETH）の一部を売却したと12月22日に発表した。このことは、同社が […]",
@@ -1813,6 +1838,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/veteran-analyst-predicts-next-bitcoin-bull-market-peak-in-sept-2029",
+          "author": "Cointelegraph  Martin Young",
+          "description": "コインエックス・リサーチのチーフアナリスト、ジェフ・コー氏によれば、アルトコインの上昇相場は来年にかけて勢いを失い、流動性の大半は「ブルーチップ」と呼ばれる主要仮想通貨に集中する可能性が高い。",
+          "link": "https://jp.cointelegraph.com/news/veteran-analyst-predicts-next-bitcoin-bull-market-peak-in-sept-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-23T06:54:12.000Z",
+          "wordCount": 255,
+          "title": "2026年 アルトコイン相場は失速か、資金は一部の主要仮想通貨に集中＝コインエックスが予測",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY5NTktMjdmZi03NDBhLWEwODItZTY1ODE2NTI0YjFh.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY5NTktMjdmZi03NDBhLWEwODItZTY1ODE2NTI0YjFh.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/perpertuals-oi-rises-as-leverage-longs-position-for-end-of-year-move-glassnode",
           "author": "Cointelegraph  Martin Young",

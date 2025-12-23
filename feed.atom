@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-23T20:18:50.712Z</updated>
+    <updated>2025-12-23T20:42:42.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米アリゾナ州、仮想通貨免税法案を提出]]></title>
+        <id>https://coinpost.jp/?p=676749</id>
+        <link href="https://coinpost.jp/?p=676749"/>
+        <updated>2025-12-23T20:35:42.000Z</updated>
+        <summary type="html"><![CDATA[米国アリゾナ州で仮想通貨を州税から免除する法案が提出された。連邦レベルでは200ドル未満のステーブルコイン取引を非課税とする超党派法案の草案が発表された。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nobody Sausageが人気メタバース「Otherside」と提携]]></title>
         <id>https://crypto-times.jp/?p=150041</id>
@@ -1780,38 +1790,6 @@ NTT Digital、消滅へ──ドコモ・グローバルに吸収合併 first ap
         <summary type="html"><![CDATA[仮想通貨の時価総額が年初来の上昇分をほぼ消し去り、8カ月ぶりの安値まで落ち込んだ。アナリストは短期的には弱気の動きを維持するとみている。]]></summary>
         <author>
             <name>Cointelegraph  Martin Young</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産税制が大きく前進、申告分離課税20%を明記　金商法改正が前提]]></title>
-        <id>https://coinpost.jp/?p=675108</id>
-        <link href="https://coinpost.jp/?p=675108"/>
-        <updated>2025-12-19T08:38:58.000Z</updated>
-        <summary type="html"><![CDATA[政府・与党が2026年度税制改正大綱を決定。暗号資産取引に申告分離課税を導入し、税率は株式と同じ一律20%に。3年間の繰越控除制度も創設される。金商法改正を前提とした条件付きで、2028年施行の見通し。昨年の「検討」から具体化が進み、web3業界の発展に向けた重要な一歩として評価されている。]]></summary>
-        <author>
-            <name>Ritsuki.Kumazawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【今日の暗号資産ニュース】イーサリアム財務企業TORICOがストップ高。マイニング企業がAI領域へ]]></title>
-        <id>https://crypto-times.jp/?p=149863</id>
-        <link href="https://crypto-times.jp/news-torico-shares-hit-limit-high-as-mining-company-moves-into-ai-field/"/>
-        <updated>2025-12-19T08:36:18.000Z</updated>
-        <summary type="html"><![CDATA[12月19日、ビットコイン（BTC）の価格は87,700ドル前後で推移しており、イーサリアム（ETH）は約2,930ドル、ソラナ（SOL）は約124ドルで取引されています。世界の暗号資産時価総額は3.05兆ドルで、ビット […]
-投稿 【今日の暗号資産ニュース】イーサリアム財務企業TORICOがストップ高。マイニング企業がAI領域へ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通貨安でゴールドとシルバーに輝き──ビットコインは取り残されている]]></title>
-        <id>https://www.coindeskjapan.com/?p=329840</id>
-        <link href="https://www.coindeskjapan.com/329840/"/>
-        <updated>2025-12-19T08:35:00.000Z</updated>
-        <summary type="html"><![CDATA[12月17日にビットコイン（BTC）が9万ドルで明確に拒絶されたことは、投資家にとって貴重な教訓となった。通貨の価値が下落する局面での真の勝者はゴールド（金）や ...
-通貨安でゴールドとシルバーに輝き──ビットコインは取り残されている first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
         </author>
     </entry>
 </feed>

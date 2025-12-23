@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-23T22:41:30.142Z</updated>
+    <updated>2025-12-23T23:15:51.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[クリプト・ドットコム、マーケットメーカーが流動性を向上と説明　顧客に対する取引上の優位性は否定]]></title>
+        <id>https://jp.cointelegraph.com/news/cryptocom-market-maker-prediction-markets-liquidity-trading</id>
+        <link href="https://jp.cointelegraph.com/news/cryptocom-market-maker-prediction-markets-liquidity-trading?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-12-23T22:54:57.000Z</updated>
+        <summary type="html"><![CDATA[クリプト・ドットコムは、予測市場向けに社内マーケットメーカーを採用するとし、規制に準拠した上で、監視が強まる中でも流動性を高める狙いだと説明した。]]></summary>
+        <author>
+            <name>Cointelegraph  Sam Bourgi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[信頼低下の中、イーサナのUSDeは10月の暴落以降83億ドル減少]]></title>
+        <id>https://jp.cointelegraph.com/news/ethena-usde-market-cap-drops-october-crash-deleveraging</id>
+        <link href="https://jp.cointelegraph.com/news/ethena-usde-market-cap-drops-october-crash-deleveraging?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-12-23T22:47:59.000Z</updated>
+        <summary type="html"><![CDATA[イーサナの合成型ステーブルコインUSDeは、10月10日の暴落以降、時価総額がほぼ半減した。投資家がレバレッジ型および合成担保モデルから後退している。]]></summary>
+        <author>
+            <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブラジルの生オーケストラ、ビットコイン価格変動を音楽に変換]]></title>
         <id>https://jp.cointelegraph.com/news/brazil-live-orchestra-bitcoin-price-into-music</id>
@@ -1694,16 +1714,6 @@ NTT Digital、消滅へ──ドコモ・グローバルに吸収合併 first ap
         <summary type="html"><![CDATA[令和8年度税制改正大綱が公開 自由民主党・日本維新の会が12月19日に公開した「令和8年度税制改正大綱」において、暗号資産（仮想通貨）の分離課税化に関する内容が記載された。 税制改正大綱とは、各省庁からあがる税制改正の要 […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブロックチェーンの断片化　ト―クン化資産市場で年13億ドルの経済的損失＝レポート]]></title>
-        <id>https://jp.cointelegraph.com/news/blockchain-fragmentation-cost-tokenized-assets-report</id>
-        <link href="https://jp.cointelegraph.com/news/blockchain-fragmentation-cost-tokenized-assets-report?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-12-19T11:07:54.000Z</updated>
-        <summary type="html"><![CDATA[ブロックチェーンネットワークの断片化が、トークン化資産市場に年間最大13億ドルの経済的損失をもたらしているとする分析結果が明らかになった。]]></summary>
-        <author>
-            <name>Cointelegraph  Ezra Reguerra</name>
         </author>
     </entry>
 </feed>

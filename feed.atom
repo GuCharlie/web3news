@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-23T21:38:48.402Z</updated>
+    <updated>2025-12-23T22:16:25.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IMF、エルサルバドル政府運営のビットコインウォレット「チボ」売却を協議中と明らかに]]></title>
+        <id>https://jp.cointelegraph.com/news/imf-el-salvador-chivo-bitcoin-wallet</id>
+        <link href="https://jp.cointelegraph.com/news/imf-el-salvador-chivo-bitcoin-wallet?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-12-23T22:10:58.000Z</updated>
+        <summary type="html"><![CDATA[ナジブ・ブケレ大統領が「政府はビットコインの購入を止めない」と主張する一方、IMFはウォレット売却に向けた交渉が「かなり進展している」と述べた。]]></summary>
+        <author>
+            <name>Cointelegraph  Turner Wright</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米アリゾナ州、仮想通貨免税法案を提出]]></title>
         <id>https://coinpost.jp/?p=676749</id>
@@ -1684,70 +1694,6 @@ NTT Digital、消滅へ──ドコモ・グローバルに吸収合併 first ap
         <summary type="html"><![CDATA[ブローカーディーラー向け声明発表 米証券取引委員会（SEC）の取引・市場部門が、証券に該当する暗号資産（crypto asset securities）をブローカーディーラーが顧客のために保管する場合の取扱いについて、職 […]]]></summary>
         <author>
             <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【12/19話題】NTTデジタルがNTTドコモ・グローバルに吸収合併へ、モブキャストがソラナ追加購入、ソラナでNEAR利用可能になど（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=531144</id>
-        <link href="https://www.neweconomy.jp/posts/531144"/>
-        <updated>2025-12-19T10:13:15.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プルーム、RWA関連デジタルコイン購入プラットフォーム提供へ、米当局の許可取得を模索]]></title>
-        <id>https://www.neweconomy.jp/?p=531110</id>
-        <link href="https://www.neweconomy.jp/posts/531110"/>
-        <updated>2025-12-19T09:40:41.000Z</updated>
-        <summary type="html"><![CDATA[PlumeがRWA関連プラットフォーム提供へ RWAfi（現実資産×金融）特化ブロックチェーン提供のプルーム（Plume）が、RWA（現実世界）関連プラットフォームの提供に向け、数カ月にわたり米国規制当局からの許可取得を […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ペイパル、USD.AIを通じてAIインフラ資金調達にステーブルコイン「PYUSD」を活用]]></title>
-        <id>https://www.coindeskjapan.com/?p=329854</id>
-        <link href="https://www.coindeskjapan.com/329854/"/>
-        <updated>2025-12-19T09:40:00.000Z</updated>
-        <summary type="html"><![CDATA[ペイパル（PayPal）は、自社発行のステーブルコイン「PYUSD」の役割をAI（人工知能）金融分野へ拡大する。これは、AI企業向け融資を提供するステーブルコイ ...
-ペイパル、USD.AIを通じてAIインフラ資金調達にステーブルコイン「PYUSD」を活用 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Jamie Crawley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第2のメタプラネット？TORICO株、連日25%超の大暴騰]]></title>
-        <id>https://crypto-times.jp/?p=149936</id>
-        <link href="https://crypto-times.jp/news-torico-stock-surges-by-over-25-every-day/"/>
-        <updated>2025-12-19T09:35:19.000Z</updated>
-        <summary type="html"><![CDATA[株式会社TORICOの株価が連日の急騰を見せています。暗号資産イーサリアム（ETH）への投資に特化した新会社の設立発表が市場で好感され、12月19日の東京株式市場では前日比50円高（+26.32%）の240円まで値を上げ […]
-投稿 第2のメタプラネット？TORICO株、連日25%超の大暴騰 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日銀利上げ決定、30年ぶり高水準｜ビットコインへの影響は？]]></title>
-        <id>https://crypto-times.jp/?p=149860</id>
-        <link href="https://crypto-times.jp/news-bank-of-japan-interest-rate-hike-and-bitcoin/"/>
-        <updated>2025-12-19T09:24:35.000Z</updated>
-        <summary type="html"><![CDATA[日本銀行は政策金利を過去30年で最も高い水準となる0.75%へ引き上げることを決定しました。植田和男総裁は政策委員会が全会一致で0.25ポイントの利上げに踏み切ったことを明らかにしており、その背景には経済見通しに対する確 […]
-投稿 日銀利上げ決定、30年ぶり高水準｜ビットコインへの影響は？ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産税制改正、分離課税20%・損失繰越へ｜雑所得撤廃]]></title>
-        <id>https://crypto-times.jp/?p=149925</id>
-        <link href="https://crypto-times.jp/news-cryptocurrency-tax-reform-separate-taxation-of-20-and-loss-carryover/"/>
-        <updated>2025-12-19T09:22:42.000Z</updated>
-        <summary type="html"><![CDATA[自民党と日本維新は12月19日、「令和8年度税制改正大綱」を決定しました。暗号資産取引に関する課税制度の抜本的な見直し方針が示され、従来の総合課税から申告分離課税への移行および損失繰越控除の導入が明記されました。 これま […]
-投稿 暗号資産税制改正、分離課税20%・損失繰越へ｜雑所得撤廃 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
         </author>
     </entry>
 </feed>

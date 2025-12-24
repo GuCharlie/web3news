@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-24T21:38:04.507Z</updated>
+    <updated>2025-12-24T22:16:54.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オフチェーン・ラボ、アービトラムが200億ドル規模に到達する中でARB保有を拡大]]></title>
+        <id>https://jp.cointelegraph.com/news/offchain-labs-buys-arb-arbitrum-20b-value-secured</id>
+        <link href="https://jp.cointelegraph.com/news/offchain-labs-buys-arb-arbitrum-20b-value-secured?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-12-24T22:12:53.000Z</updated>
+        <summary type="html"><![CDATA[オフチェーン・ラボはARBの保有量を増やし、ガバナンストークン価格が低迷し、レイヤー2間の競争が激化する中でも、アービトラムへの長期的な確信を示した。]]></summary>
+        <author>
+            <name>Cointelegraph  Sam Bourgi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サークルを騙る偽の金・銀トークン化サイトが出現、同社が注意喚起]]></title>
+        <id>https://coinpost.jp/?p=677103</id>
+        <link href="https://coinpost.jp/?p=677103"/>
+        <updated>2025-12-24T22:12:46.000Z</updated>
+        <summary type="html"><![CDATA[USDCステーブルコイン発行企業サークルを名乗る偽のプラットフォームが12月24日に登場し、トークン化された金と銀の取引を提供すると宣伝していた。サークルの広報担当者は偽物だと否定。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、2026年は「トップパフォーマー」に：VanEck]]></title>
+        <id>https://www.coindeskjapan.com/?p=330644</id>
+        <link href="https://www.coindeskjapan.com/330644/"/>
+        <updated>2025-12-24T22:06:18.000Z</updated>
+        <summary type="html"><![CDATA[2026年を前に、資産運用会社VanEck（ヴァンエック）のCEO、Jan van Eck（ヤン・ファン・エック）氏は、慎重ながらも前向きな見方を示している。財 ...
+ビットコイン、2026年は「トップパフォーマー」に：VanEck first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アーサー・ヘイズがイーサリアム売却継続、DeFiトークンに資金移動か]]></title>
         <id>https://coinpost.jp/?p=677070</id>
@@ -2093,26 +2124,6 @@ VISA、米国でUSDC決済を開始──清算レイヤーにステーブルコ
         <summary type="html"><![CDATA[ファンドストラット・グローバル・アドバイザーズの内部レポートとされる文書が、仮想通貨市場について弱気の見通しを示している。これは同社のトム・リー氏が公に主張している見解と矛盾しているようだ。]]></summary>
         <author>
             <name>Cointelegraph  Amin Haqshanas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アルトコインシーズンは「すでに始まっている」　アーサー・ヘイズ氏が既存の見方に反論]]></title>
-        <id>https://jp.cointelegraph.com/news/altcoin-season-never-ended-traders-just-missed-the-winners-hayes</id>
-        <link href="https://jp.cointelegraph.com/news/altcoin-season-never-ended-traders-just-missed-the-winners-hayes?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-12-20T10:04:49.000Z</updated>
-        <summary type="html"><![CDATA[多くの仮想通貨トレーダーが次のアルトコインシーズンの到来を待ち続ける中、ビットメックス共同創業者アーサー・ヘイズ氏は「実際にはずっと続いている」との見方を示した。]]></summary>
-        <author>
-            <name>Cointelegraph  Ciaran Lyons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米CLARITY法、ビットコイン価格への影響は限定的か：ピーター・ブラント氏]]></title>
-        <id>https://jp.cointelegraph.com/news/us-clarity-act-bitcoin-price-action-peter-brandt-crypto-trader</id>
-        <link href="https://jp.cointelegraph.com/news/us-clarity-act-bitcoin-price-action-peter-brandt-crypto-trader?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-12-20T09:39:53.000Z</updated>
-        <summary type="html"><![CDATA[トレーダーのピーター・ブラント氏は、米国のCLARITY法が早ければ1月にも議会を通過する可能性が示されているものの、ビットコイン価格に大きな影響を与える可能性は低いとの見方を示した。]]></summary>
-        <author>
-            <name>Cointelegraph  Ciaran Lyons</name>
         </author>
     </entry>
 </feed>

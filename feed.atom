@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-24T12:36:10.081Z</updated>
+    <updated>2025-12-24T13:29:15.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、9万ドルが壁に　参加低調の市場環境が上値抑制]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-stuck-below-90k-until-these-market-conditions-improve</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-stuck-below-90k-until-these-market-conditions-improve?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-12-24T13:10:24.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は8万7000ドル付近で推移を続けているが、オンチェーン活動や取引所の流動性指標を見ると、市場参加者が少ない局面にあり、9万ドル以上への上昇が抑えられている状況だ。]]></summary>
+        <author>
+            <name>Cointelegraph  Biraajmaan Tamuly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨スタートアップの評価が急落　VC評価額と時価総額に大きなギャップ]]></title>
+        <id>https://jp.cointelegraph.com/news/market-downturn-exposes-gap-vc-valuations-crypto-market-caps</id>
+        <link href="https://jp.cointelegraph.com/news/market-downturn-exposes-gap-vc-valuations-crypto-market-caps?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-12-24T12:37:45.000Z</updated>
+        <summary type="html"><![CDATA[かつて評価額が10億ドル近くに達していたブロックチェーン系スタートアップの多くが、現在ではその時価総額が大きく低下してしまっている。]]></summary>
+        <author>
+            <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トレンド・リサーチがイーサリアムを4万6379ETH追加取得　保有量は約58万ETHに]]></title>
         <id>https://jp.cointelegraph.com/news/trend-research-ethereum-largest-whales</id>
@@ -2134,16 +2154,6 @@ VISA、米国でUSDC決済を開始──清算レイヤーにステーブルコ
         <summary type="html"><![CDATA[仮想通貨推進派として知られるシンシア・ルミス上院議員が2026年の再選不出馬を表明した。任期終了までに包括的な仮想通貨規制法案や税制改革の成立を目指す方針を示している。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ビットコイン価格は2035年に2億円に到達」CF Benchmarksが強気予想]]></title>
-        <id>https://coinpost.jp/?p=676067</id>
-        <link href="https://coinpost.jp/?p=676067"/>
-        <updated>2025-12-20T01:05:56.000Z</updated>
-        <summary type="html"><![CDATA[CF Benchmarksが2035年の仮想通貨ビットコインの価格を基本シナリオで142万ドルと予想した。ゴールド市場のシェアを獲得することなどを前提とし弱気・強気シナリオも算出している。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>

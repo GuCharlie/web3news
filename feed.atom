@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-24T08:51:29.124Z</updated>
+    <updated>2025-12-24T09:21:09.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日本デジタル分散型金融協会が設立、暗号資産交換業・銀行・証券会社ら会員に]]></title>
+        <id>https://www.neweconomy.jp/?p=532858</id>
+        <link href="https://www.neweconomy.jp/posts/532858"/>
+        <updated>2025-12-24T09:07:38.000Z</updated>
+        <summary type="html"><![CDATA[日本デジタル分散型金融協会が設立 一般社団法人日本デジタル分散型金融協会（JDFA）の設立が12月24日に発表された。 同協会は、国内におけるデジタル技術およびブロックチェーン技術を基盤とする金融規制対象の暗号資産やステ […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年の調整局面　過去サイクルの「仮想通貨の冬」との違いは？]]></title>
+        <id>https://coinpost.jp/?p=676877</id>
+        <link href="https://coinpost.jp/?p=676877"/>
+        <updated>2025-12-24T08:57:03.000Z</updated>
+        <summary type="html"><![CDATA[2025年後半、仮想通貨市場は調整局面を迎えている。しかし過去2度の「冬」とは決定的に異なることがある。トランプ政権の支援、ETF普及、規制整備が同時進行。従来の4年サイクルが崩れる可能性も。2026年の市場展望を専門家の見解とともに解説する。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EU理事会、デジタルユーロ法整備の方針固める。本格議論へ前進]]></title>
         <id>https://www.neweconomy.jp/?p=532848</id>
@@ -2134,37 +2154,6 @@ FRB、暗号資産企業を想定した簡易版マスター口座開設へ一�
         <summary type="html"><![CDATA[著名トレーダーであるアーサー・ヘイズ氏がFRBの準備金管理購入プログラムを分析し、実質的な資金供給（QE）により仮想通貨ビットコインの従来の4年サイクルが崩れたとの見解を示した。ビットコインは2026年に20万ドルに向かうと予測。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[強気サイクルは終了か、フィデリティ責任者がビットコインの2026年底値を6.5万ドル付近と予測]]></title>
-        <id>https://coinpost.jp/?p=675989</id>
-        <link href="https://coinpost.jp/?p=675989"/>
-        <updated>2025-12-19T21:20:50.000Z</updated>
-        <summary type="html"><![CDATA[フィデリティのグローバルマクロ責任者ジュリアン・ティマー氏がビットコインの強気サイクル終了の可能性を指摘し、2026年の底値を6.5万ドルから7.5万ドルと予測した。機関投資家の参入により従来のサイクル論が変化しているとの見方が広がっている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーブルコイン市場、2028年までに6000億ドルに成長する可能性：JPモルガン]]></title>
-        <id>https://www.coindeskjapan.com/?p=329886</id>
-        <link href="https://www.coindeskjapan.com/329886/"/>
-        <updated>2025-12-19T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ウォール街の銀行JPモルガン・チェース（JPMorgan Chase & Co.）は、ステーブルコインの供給量が2028年までに5000億ドルから600 ...
-ステーブルコイン市場、2028年までに6000億ドルに成長する可能性：JPモルガン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年の仮想通貨市場　規制明確化とステーブルコイン拡大で転換点に＝コインベースが展望]]></title>
-        <id>https://jp.cointelegraph.com/news/coinbase-2026-crypto-outlook-institutional-adoption-regulation</id>
-        <link href="https://jp.cointelegraph.com/news/coinbase-2026-crypto-outlook-institutional-adoption-regulation?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-12-19T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年、仮想通貨市場は予想外の混乱に見舞われた1年となった。コインベース・インスティテューショナルの予測によれば、2026年は規制の明確化、ステーブルコインの普及加速、マクロ環境の改善を背景に転換点を迎える年となる可能性がある。]]></summary>
-        <author>
-            <name>Cointelegraph  Sam Bourgi</name>
         </author>
     </entry>
 </feed>

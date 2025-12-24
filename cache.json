@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=330492",
+          "author": "CoinDesk JAPAN",
+          "description": "ビットコインを軸に、企業戦略の現在地を発信 企業によるビットコイン（BTC）活用を進める東証スタンダード上場のANAPホールディングスは、次世代経済メディアCo ...\n「企業のビットコイン活用」を紐解く──ANAP、CoinDesk JAPANにブランドチャンネル開設 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/330492/",
+          "publishedOn": "2025-12-24T11:18:56.000Z",
+          "wordCount": 2630,
+          "title": "「企業のビットコイン活用」を紐解く──ANAP、CoinDesk JAPANにブランドチャンネル開設",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/ANAPブランドチャンネル記事サムネ-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=330611",
           "author": "井上 俊彦",
           "description": "ロシア中央銀行（Bank of Russia）は2025年12月23日、暗号資産（仮想通貨）に関する新たな規制提案を正式に発表し、ロシア政府に審議を求めて提出し ...\nロシア中央銀行、包括的な暗号資産規制案を発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -420,16 +430,6 @@
           "wordCount": 1328,
           "title": "1年に及ぶ「暗号資産の冬」の到来を警告：ビットコイン弱気派に転じたFidelityのディレクター",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/shutterstock_2127032996.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=329909",
-          "author": "Jesse Hamilton",
-          "description": "米連邦準備制度理事会（FRB）は、いわゆるマスター口座の簡易版創設に向けた第一歩を踏み出した。企業がより包括的なサービスを得るために課される膨大な手続きを経るこ ...\nFRB、暗号資産企業を想定した簡易版マスター口座開設へ一歩前進 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/329909/",
-          "publishedOn": "2025-12-19T23:30:00.000Z",
-          "wordCount": 1335,
-          "title": "FRB、暗号資産企業を想定した簡易版マスター口座開設へ一歩前進",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/8be12e331b4bfcb137d46b957c71d318d84e8c18-1920x1080-1.jpeg"
         }
       ]
     },
@@ -1238,21 +1238,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/ethereum_0418.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/ethereum_0418.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=676014",
-          "author": "菊谷ルイス",
-          "description": "クリプトクアントが仮想通貨ビットコインの需要成長鈍化を指摘し、弱気相場への移行を指摘。ETFの純売却や大口保有者の需要縮小、デリバティブ市場のリスク選好低下などが要因として挙げられている。",
-          "link": "https://coinpost.jp/?p=676014",
-          "publishedOn": "2025-12-19T23:15:46.000Z",
-          "wordCount": 3294,
-          "title": "ビットコイン、弱気相場入りか　クリプトクアントが需要減速を指摘",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-bear-hayes.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-bear-hayes.jpg"
         }
       ]
     },
@@ -1708,6 +1693,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/trend-research-ethereum-largest-whales",
+          "author": "Cointelegraph  Christina Comben",
+          "description": "トレンド・リサーチは水曜日、イーサリアム（ETH）を4万6379ETH購入し、保有量を約58万ETHに引き上げた。これは、コインゲッコーが追跡する上場イーサリアム保有企業の大半を上回る規模となる。",
+          "link": "https://jp.cointelegraph.com/news/trend-research-ethereum-largest-whales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-24T11:23:58.000Z",
+          "wordCount": 248,
+          "title": "トレンド・リサーチがイーサリアムを4万6379ETH追加取得　保有量は約58万ETHに",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRmNTUtZWUxZC03ZTdkLTkwNTUtZjZmMTAyOGU1NzdhLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRmNTUtZWUxZC03ZTdkLTkwNTUtZjZmMTAyOGU1NzdhLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/philippines-blocks-coinbase-gemini-unlicensed-vasps",
           "author": "Cointelegraph  Ezra Reguerra",

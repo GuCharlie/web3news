@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-24T21:15:08.527Z</updated>
+    <updated>2025-12-24T21:38:04.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アーサー・ヘイズがイーサリアム売却継続、DeFiトークンに資金移動か]]></title>
+        <id>https://coinpost.jp/?p=677070</id>
+        <link href="https://coinpost.jp/?p=677070"/>
+        <updated>2025-12-24T21:15:33.000Z</updated>
+        <summary type="html"><![CDATA[アーサー・ヘイズ氏が過去1週間で1800ETH以上のイーサリアムを売却し、仮想通貨ENA、PENDLE、ETHFIなどのDeFi銘柄に資金を振り向けている。ポートフォリオのリバランス計画の一環とみられる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マウントゴックスハッキング容疑者関連ウォレット、177億円相当ビットコインを売却か]]></title>
+        <id>https://coinpost.jp/?p=677064</id>
+        <link href="https://coinpost.jp/?p=677064"/>
+        <updated>2025-12-24T20:50:33.000Z</updated>
+        <summary type="html"><![CDATA[マウントゴックスハッキング容疑者に関連するウォレットが過去1週間で1300BTCを取引所に送金した。10月以降の総売却額は2300BTCにのぼる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【12/24話題】日本デジタル分散型金融協会が設立、ロシア中銀が暗号資産の新規制案、IMFがエルサルバドルの報告書公表など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=532879</id>

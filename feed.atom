@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-25T08:49:43.319Z</updated>
+    <updated>2025-12-25T09:19:33.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Komlock labと東証上場TDSE、AIエージェントによる自律決済の実証実験開始]]></title>
+        <id>https://coinpost.jp/?p=677237</id>
+        <link href="https://coinpost.jp/?p=677237"/>
+        <updated>2025-12-25T09:01:54.000Z</updated>
+        <summary type="html"><![CDATA[TDSEとKomlock labがAIエージェントによる自律決済の実証実験を開始。日本円ステーブルコイン「JPYC」を活用し、AIが人間を介さず決済する「Agentic Commerce」の実現を目指す。]]></summary>
+        <author>
+            <name>Ritsuki.Kumazawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日銀総裁、利上げ継続示す　30年ぶり高水準更新へ]]></title>
+        <id>https://coinpost.jp/?p=677282</id>
+        <link href="https://coinpost.jp/?p=677282"/>
+        <updated>2025-12-25T08:38:47.000Z</updated>
+        <summary type="html"><![CDATA[日銀の植田和男総裁が25日の講演で利上げ継続方針を表明。政策金利は既に30年ぶりの0.75%水準に達しており、今後の追加利上げによる円キャリートレード巻き戻しが仮想通貨市場に与える影響が注目されている。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米国が最大のビットコイン売り手に　クリスマスも続く機関投資家の資金流出]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-etfs-lose-825m-in-five-days-us-biggest-seller-of-btc</id>
@@ -2547,16 +2567,6 @@ VISA、米国でUSDC決済を開始──清算レイヤーにステーブルコ
 【速報】与党、暗号資産は「分離課税」へ、金商法施行の翌年から適用──税制改正大綱／中国のマイニングマシン停止を受け、ビットコインのハッシュレートは2024年以来の大幅な低下【日曜日に読みたい厳選10本】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>橋本 祐樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラックロックのビットコインETF、年初来マイナスリターンでも資金流入はETF全体で6位に]]></title>
-        <id>https://jp.cointelegraph.com/news/blackrock-ibit-ranks-sixth-etf-flows-negative-returns</id>
-        <link href="https://jp.cointelegraph.com/news/blackrock-ibit-ranks-sixth-etf-flows-negative-returns?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-12-20T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ブラックロックの現物ビットコイン上場投資信託（ETF）「iシェアーズ・ビットコイン・トラスト（IBIT）」が、年初来でマイナスリターンとなっているにもかかわらず、ETFの資金純流入額で6位にランクインした。]]></summary>
-        <author>
-            <name>Cointelegraph  Amin Haqshanas</name>
         </author>
     </entry>
 </feed>

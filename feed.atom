@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-25T13:49:21.272Z</updated>
+    <updated>2025-12-25T14:16:23.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NFT市場：クリスマスラリーは起こらず、12月の評価額は2025年最安水準へ]]></title>
+        <id>https://jp.cointelegraph.com/news/nft-collections-no-santa-rally-market-2025-lows</id>
+        <link href="https://jp.cointelegraph.com/news/nft-collections-no-santa-rally-market-2025-lows?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-12-25T13:57:32.000Z</updated>
+        <summary type="html"><![CDATA[非代替性トークン（NFT）は12月に年末の下落基調をさらに強め、2025年で最も低い市場評価額となった。]]></summary>
+        <author>
+            <name>Cointelegraph  Ezra Reguerra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨デリバティブ取引高、2025年に約85.7兆ドルへと急拡大＝コイングラス]]></title>
         <id>https://jp.cointelegraph.com/news/crypto-derivatives-86t-2025-binance-volume-coinglass</id>
@@ -2731,16 +2741,6 @@ VISA、米国でUSDC決済を開始──清算レイヤーにステーブルコ
         <summary type="html"><![CDATA[ビットコインの今後の見通しをbitbankアナリストが解説。年末のホリデーシーズンで流動性が低下する中、来週にかけても方向感に欠ける展開が続く可能性。12月の米雇用・物価データが金利見通しの鍵を握る。]]></summary>
         <author>
             <name>hiroto.yoshii</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週刊仮想通貨ニュース｜与党税制改正大綱の決定や米SEC委員長の警告に高い関心]]></title>
-        <id>https://coinpost.jp/?p=676042</id>
-        <link href="https://coinpost.jp/?p=676042"/>
-        <updated>2025-12-21T02:00:09.000Z</updated>
-        <summary type="html"><![CDATA[今週は、米SECのポール・アトキンス委員長の講演、ノルウェー政府系ファンドによるメタプラネットのビットコイン戦略に対する支持、政府・与党の2026年度税制改正大綱の決定に関する記事が関心を集めた。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>

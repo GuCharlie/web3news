@@ -465,6 +465,51 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=677215",
+          "author": "Enzo",
+          "description": "マルチコイン・キャピタルと関連するウォレットが24日、ワールドコイン（WLD）6000万トークンを約46億円で購入した疑いが浮上。オンチェーンデータ分析サービスが報告。WLD価格は史上最高値から95%下落中。",
+          "link": "https://coinpost.jp/?p=677215",
+          "publishedOn": "2025-12-25T02:44:53.000Z",
+          "wordCount": 3284,
+          "title": "仮想通貨投資大手が大規模取引か、ワールドコインに3000万ドル投入の可能性",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/Worldcoin1128.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/Worldcoin1128.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=677145",
+          "author": "K.Kobayashi",
+          "description": "米SECは、複数の個人投資家から最低でも計約22億円をだまし取ったとして仮想通貨企業などを起訴。詐欺の手口を説明し、投資家に注意喚起を行っている。",
+          "link": "https://coinpost.jp/?p=677145",
+          "publishedOn": "2025-12-25T01:30:58.000Z",
+          "wordCount": 3321,
+          "title": "個人投資家が計22億円の詐欺被害に、米SECが仮想通貨企業などを起訴",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/sec-gensler-new-ask-for-budget.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/sec-gensler-new-ask-for-budget.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=677162",
+          "author": "Enzo",
+          "description": "大手DeFiプロトコルAaveで深刻なガバナンス対立が発生。年15億円超の収益配分とブランド資産の所有権をめぐり、DAOとAave Labsが対立。Snapshot投票では反対が過半数を占め、DeFi業界のガバナンス課題を浮き彫りに。",
+          "link": "https://coinpost.jp/?p=677162",
+          "publishedOn": "2025-12-25T01:22:35.000Z",
+          "wordCount": 3312,
+          "title": "Aave、所有権紛争でDeFiガバナンスの課題が表面化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/aave.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/aave.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=677134",
           "author": "A.Yamada",
           "description": "Presto Researchが2026年の仮想通貨市場を展望。ビットコイン16万ドル到達の可能性、量子耐性議論、アルトコイン投機時代の終焉など様々なトレンドを予想している。",
@@ -1267,6 +1312,56 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=533124",
+          "author": "HitomotoToshikazu",
+          "description": "政府が地方債のデジタル証券発行を目指す 日本政府が自治体発行の地方債をデジタル証券で発行可能にするため、2026年の通常国会に関連法案の提出をめざすと、「日経新聞」が12月23日に報じた。 この動きの狙いは、デジタル技術 […]",
+          "link": "https://www.neweconomy.jp/posts/533124",
+          "publishedOn": "2025-12-25T02:33:50.000Z",
+          "wordCount": 726,
+          "title": "政府が地方債のデジタル証券発行を可能に、2026年通常国会に法案提出目指す＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/25113304/451690018c022f8f4f5d6597574ca6c8.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=533114",
+          "author": "gentosha_takahashi",
+          "description": "暗号資産市場と税務監督を強化 スペインでは2026年、暗号資産（仮想通貨）を取り巻く規制環境が大きく転換する見通しだ。暗号資産現地メディア「クリプトノティシアス（CriptoNoticias）」が12月24日に報じた。  […]",
+          "link": "https://www.neweconomy.jp/posts/533114",
+          "publishedOn": "2025-12-25T02:27:11.000Z",
+          "wordCount": 595,
+          "title": "スペイン、MiCAとDAC8を2026年に本格実装。暗号資産取引の透明性向上へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/25112751/36a7cd4e3e04d9fe8b8cf8c57de589b0.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=533104",
+          "author": "TanakaShuya",
+          "description": "ANAPがビットコイン追加購入 ビットコインの財務戦略を進める東証スタンダード上場企業のANAPホールディングスが、同社子会社のANAPライトニングキャピタルによるビットコインの追加取得を12月25日に発表した。 発表に […]",
+          "link": "https://www.neweconomy.jp/posts/533104",
+          "publishedOn": "2025-12-25T02:07:51.000Z",
+          "wordCount": 734,
+          "title": "ANAPがビットコイン追加購入、総保有数は約1237BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/25110723/3f1c294b6a2bed565d76e2a77fcd8e91.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=533084",
+          "author": "NewEconomy",
+          "description": "クリプトドットコムが予測市場向けトレーダー募集 海外暗号資産（仮想通貨）取引所クリプトドットコム（Crypto.com）が、米国で提供するスポーツ予測市場（スポーツイベント契約）において社内でマーケットメイクを行うトレー […]",
+          "link": "https://www.neweconomy.jp/posts/533084",
+          "publishedOn": "2025-12-25T01:29:02.000Z",
+          "wordCount": 773,
+          "title": "クリプトドットコム、米スポーツ予測市場で社内マーケットメイカー募集＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/25102834/9d625feba4f471b98d8551c37959972c.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=533079",
+          "author": "HitomotoToshikazu",
+          "description": "インドネシアで許可・登録済み暗号資産事業者公表 インドネシアの金融サービス規制当局OJK（金融サービス機構）が、計29の暗号資産（仮想通貨）事業者・プラットフォームのホワイトリストを12月19日に公表した。 ホワイトリス […]",
+          "link": "https://www.neweconomy.jp/posts/533079",
+          "publishedOn": "2025-12-25T01:21:53.000Z",
+          "wordCount": 731,
+          "title": "インドネシア金融サービス規制当局、許可・登録済み暗号資産事業29社を公表",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/25102122/4b1d6b8f117d0c2536a72e8f3d2bb29a.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=532879",
           "author": "NewEconomyPodcast",
           "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
@@ -1723,6 +1818,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/trump-family-usd1-stablecoin-150m-binance-promotion",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "米国のトランプ大統領の一族と関係するステーブルコイン「ワールド・リバティ・ファイナンシャルUSD（USD1）」は、バイナンスが同トークンを中心とした利回りプログラムを発表したことを受け、水曜日に時価総額が約1億5000万ドル増加した。",
+          "link": "https://jp.cointelegraph.com/news/trump-family-usd1-stablecoin-150m-binance-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-25T02:56:03.000Z",
+          "wordCount": 303,
+          "title": "バイナンスの利回りプログラム受け、トランプ関連ステーブルコイン「USD1」の時価総額が増加",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjUwMzEtMGI1My03MmUwLThmN2QtMDA5OTQ1MGRmNWVjLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjUwMzEtMGI1My03MmUwLThmN2QtMDA5OTQ1MGRmNWVjLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/three-signs-bitcoin-finding-its-market-bottom",
+          "author": "Cointelegraph  Yashu Gola",
+          "description": "ビットコイン（BTC）は、約2カ月前に記録した約12万6200ドルの史上最高値から35％超下落した後、テクニカル指標とオンチェーン指標の組み合わせから、局所的な底を形成しつつある可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/three-signs-bitcoin-finding-its-market-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-25T01:54:48.000Z",
+          "wordCount": 334,
+          "title": "ビットコインが局所的な底形成か　テクニカルとオンチェーン指標が示唆",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRhMjEtMjBhOC03YTNkLTljZDQtMjVjNWY4Zjc1YTgwLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRhMjEtMjBhOC03YTNkLTljZDQtMjVjNWY4Zjc1YTgwLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/kraken-ipo-reignite-crypto-mid-stage-cycle",
           "author": "Cointelegraph  Zoltan Vardai",
@@ -2405,6 +2530,21 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=150095",
+          "author": "よきょい",
+          "description": "2025年は暗号資産市場にとって単なる投機の対象から資本市場の不可欠なインフラへと進化を遂げた歴史的な転換点となりました。米国におけるトランプ政権の誕生とそれに伴う規制環境の改善、そして現物ETFの定着が市場を牽引し、業 […]\n投稿 2025年の暗号資産市場をおさらい、投機から不可欠なインフラへ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-looking-back-at-the-cryptocurrency-market-in-2025/",
+          "publishedOn": "2025-12-25T03:04:39.000Z",
+          "wordCount": 547,
+          "title": "2025年の暗号資産市場をおさらい、投機から不可欠なインフラへ",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_2665956193-2.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=150140",
           "author": "Crypto Times 編集部",

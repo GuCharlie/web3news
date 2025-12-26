@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-26T10:44:36.667Z</updated>
+    <updated>2025-12-26T11:15:43.075Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[暗号資産ウォレットTrust Wallet、脆弱性により700万ドル以上に影響か]]></title>
+        <id>https://crypto-times.jp/?p=150226</id>
+        <link href="https://crypto-times.jp/news-trust-wallet-incident/"/>
+        <updated>2025-12-26T11:13:02.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産ウォレット「Trust Wallet」はブラウザ拡張機能バージョン2.68のみに影響するセキュリティインシデントを特定したと発表しました。Binance創設者のChangpeng Zhao氏はこのインシデントによ […]
+投稿 暗号資産ウォレットTrust Wallet、脆弱性により700万ドル以上に影響か は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aave、ブランド資産移管案を否決　DAOガバナンスの課題浮き彫りに]]></title>
         <id>https://coinpost.jp/?p=677626</id>
@@ -3180,16 +3191,6 @@ NFT市場の再定義──バブル完全崩壊で見えてきた知的財産�
         <summary type="html"><![CDATA[VanEckが米SECに提出したアバランチETF申請書を修正し、ステーキング報酬機能を追加。保有AVAXの最大70%をステーキングし利回りを創出する計画。米IRSの新規則が後押し。]]></summary>
         <author>
             <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラジルの仮想通貨活動、平均投資額が1,000ドル超に、取引量は43％増＝報告書]]></title>
-        <id>https://jp.cointelegraph.com/news/brazil-crypto-activity-43-percent-growth-average-investment-2025</id>
-        <link href="https://jp.cointelegraph.com/news/brazil-crypto-activity-43-percent-growth-average-investment-2025?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-12-21T22:59:12.000Z</updated>
-        <summary type="html"><![CDATA[ブラジルの仮想通貨市場は2025年に成熟の兆しを見せ、取引量の増加、1人当たり投資額の拡大、低リスク商品への需要拡大が確認された。]]></summary>
-        <author>
-            <name>Cointelegraph  Amin Haqshanas</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-26T16:45:50.672Z</updated>
+    <updated>2025-12-26T17:14:41.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[下落トレンド再開か？ 仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ]]></title>
+        <id>https://jp.cointelegraph.com/news/price-predictions-12-26-btc-eth-bnb-xrp-sol-doge-ada-bch-link-hype</id>
+        <link href="https://jp.cointelegraph.com/news/price-predictions-12-26-btc-eth-bnb-xrp-sol-doge-ada-bch-link-hype?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-12-26T16:52:59.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインと複数の主要アルトコインは反発を試みたが、高値圏では引き続き弱気派の強い売りに直面している。]]></summary>
+        <author>
+            <name>Cointelegraph  Rakesh Upadhyay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ミームコインの時価総額　過去1年で65％下落　昨年の熱狂から転落]]></title>
         <id>https://jp.cointelegraph.com/news/memecoins-christmas-2025-yearly-decline</id>
@@ -3144,26 +3154,6 @@ NFT市場の再定義──バブル完全崩壊で見えてきた知的財産�
         <summary type="html"><![CDATA[ビットコインで「QUOカードPay」購入可能に 「QUOカードPay」が、ビットコイン決済専用ECサイト「ユーズビットコイン（UseBitcoin）」を通じて購入可能となった。ユーズビットコイン開発元のカシェイが12月2 […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年の暗号資産盗難総額は34億ドル超、北朝鮮ハッカーの関与が顕著に＝チェイナリシス報告]]></title>
-        <id>https://www.neweconomy.jp/?p=531587</id>
-        <link href="https://www.neweconomy.jp/posts/531587"/>
-        <updated>2025-12-22T05:04:47.000Z</updated>
-        <summary type="html"><![CDATA[窃盗パターンに変化も ブロックチェーン分析企業チェイナリシス（Chainalysis）が最新レポートを12月18日に発表し、2025年に盗まれた暗号資産の総額は年初から12月初旬までで34億ドル（約5,352.7億円）超 […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[著名投資家レイ・ダリオ、「ビットコインは中央銀行に大規模保有される可能性低い」と指摘]]></title>
-        <id>https://coinpost.jp/?p=676286</id>
-        <link href="https://coinpost.jp/?p=676286"/>
-        <updated>2025-12-22T05:03:26.000Z</updated>
-        <summary type="html"><![CDATA[著名ヘッジファンド創業者のレイ・ダリオ氏がポッドキャストで、ビットコインは中央銀行の準備資産として大規模保有される可能性が低いと指摘。透明性や技術リスクを理由に挙げた。一方、個人投資家には5〜15%の配分を推奨している。]]></summary>
-        <author>
-            <name>Enzo</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-26T08:49:11.260Z</updated>
+    <updated>2025-12-26T09:19:08.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aave、ブランド資産移管案を否決　DAOガバナンスの課題浮き彫りに]]></title>
+        <id>https://coinpost.jp/?p=677626</id>
+        <link href="https://coinpost.jp/?p=677626"/>
+        <updated>2025-12-26T09:02:08.000Z</updated>
+        <summary type="html"><![CDATA[Aaveのブランド資産移管提案が26日のSnapshot投票で否決。反対55%、棄権41%、賛成わずか3.5%。CoW Swap手数料問題が発端となった所有権紛争は、DeFiガバナンスの構造的課題を浮き彫りに。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WLFIの米ドルステーブルコイン「USD1」、供給量が30億ドル超に]]></title>
         <id>https://www.neweconomy.jp/?p=533711</id>
@@ -3220,17 +3230,6 @@ NFT市場の再定義──バブル完全崩壊で見えてきた知的財産�
         <summary type="html"><![CDATA[米国の議員らが、200ドル以下のステーブルコイン決済を非課税とし、仮想通貨のステーキングおよびマイニング報酬については複数年の課税繰り延べを認める案を提案している。]]></summary>
         <author>
             <name>Cointelegraph  Amin Haqshanas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VISA、米国でUSDC決済を開始──清算レイヤーにステーブルコインを採用、その意味とは]]></title>
-        <id>https://www.coindeskjapan.com/?p=329959</id>
-        <link href="https://www.coindeskjapan.com/329959/"/>
-        <updated>2025-12-21T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[VISA（ビザ）は12月16日、米国でUSDC決済を開始したと発表した。 これにより、米国でビザカードを発行する銀行、および加盟店（店舗やEC事業者）のカード決 ...
-VISA、米国でUSDC決済を開始──清算レイヤーにステーブルコインを採用、その意味とは first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>増田隆幸</name>
         </author>
     </entry>
 </feed>

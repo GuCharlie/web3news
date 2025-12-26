@@ -1837,6 +1837,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=533685",
+          "author": "NewEconomy",
+          "description": "国内企業がAIエージェント自律決済の実用性を検証 ブロックチェーン開発を手がけるコムロックラボ（Komlock lab）が、国内AI上場企業のTDSE（ティディエスイー）と連携し、AIエージェントが人間の介在なく自律的に […]",
+          "link": "https://www.neweconomy.jp/posts/533685",
+          "publishedOn": "2025-12-26T07:35:07.000Z",
+          "wordCount": 754,
+          "title": "コムロックラボとTDSE、AIエージェントによる自律決済の実証実験へ。JPYC活用で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/26163502/9b15319e14bf97b417053c05b960d7d3.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=533679",
           "author": "OtsugaShinya",
           "description": "クシムがイーサリアム購入開始 デジタル資産領域に関する研究開発および投資活動を行う東証スタンダード上場企業のクシムが、暗号資産（仮想通貨）イーサリアム（ETH）の購入および運用開始を12月26日に発表した。 発表によると […]",
@@ -2513,6 +2523,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/quantum-computing-in-2026-no-crypto-doomsday-time-to-prepare",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "量子コンピューターは、ビットコインをはじめとする仮想通貨を支える暗号技術を将来的に破る可能性があるとして、長らく仮想通貨に対する脅威と見なされてきた。2026年を前に、主要テック企業が量子コンピューターの研究と投資を加速させる中で、その懸念が再び注目を集めている。",
+          "link": "https://jp.cointelegraph.com/news/quantum-computing-in-2026-no-crypto-doomsday-time-to-prepare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-26T07:19:42.000Z",
+          "wordCount": 267,
+          "title": "2026年 量子コンピューターの脅威はどうなる？ 仮想通貨コミュニティは対策を始める時期に",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJiOTEtMmIzMS03OWIyLWE1ZTMtNDlmYzIzZjgwZjRmLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJiOTEtMmIzMS03OWIyLWE1ZTMtNDlmYzIzZjgwZjRmLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/crypto-sentiment-holds-extreme-fear-14th-straight-day",
           "author": "Cointelegraph  Brayden Lindrea",

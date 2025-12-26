@@ -625,6 +625,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=677691",
+          "author": "菊谷ルイス",
+          "description": "著名投資家アーサー・ヘイズ氏が185万ドルのLDOトークンと97.3万ドル相当PENDLEトークンを追加購入した。イーサリアムを売却して割安なDeFiトークンへの買い増しを加速。",
+          "link": "https://coinpost.jp/?p=677691",
+          "publishedOn": "2025-12-26T21:05:52.000Z",
+          "wordCount": 3278,
+          "title": "アーサー・ヘイズ氏がDeFiトークン買い増し、3億円以上のLDOとPENDLE",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/arthur-webx-thumbnails-better.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/arthur-webx-thumbnails-better.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=677685",
+          "author": "菊谷ルイス",
+          "description": "バイナンス創設者のCZ氏が同社傘下のトラストウォレットのハッキング被害について10億円以上の全額補償を表明した。ブラウザ拡張機能の脆弱性が原因で、内部関係者の関与が疑われている。",
+          "link": "https://coinpost.jp/?p=677685",
+          "publishedOn": "2025-12-26T20:50:09.000Z",
+          "wordCount": 3277,
+          "title": "バイナンス傘下トラストウォレットの10億円不正流出、CZ氏が全額補償を表明",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/bayc-hack-again.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/bayc-hack-again.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=677626",
           "author": "Enzo",
           "description": "Aaveのブランド資産移管提案が26日のSnapshot投票で否決。反対55%、棄権41%、賛成わずか3.5%。CoW Swap手数料問題が発端となった所有権紛争は、DeFiガバナンスの構造的課題を浮き彫りに。",
@@ -1643,21 +1673,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/shutterstock_2257066923.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/shutterstock_2257066923.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=676342",
-          "author": "CoinPost編集部",
-          "description": "ユーザーがメタディスクリプションを100文字程度で作成するよう依頼しています。DSC2026の記事内容に基づいて、SEOに適したメタディスクリプションを作成します。2026年2月17日、虎ノ門ヒルズフォーラムで「Digital Space Conference 2026」を開催。日本デジタル空間経済連盟主催、CoinPost企画・運営。AI、Web3、メタバース等を横断し次の社会像を議論。参加無料、チケット受付開始。",
-          "link": "https://coinpost.jp/?p=676342",
-          "publishedOn": "2025-12-22T09:00:39.000Z",
-          "wordCount": 3375,
-          "title": "Digital Space Conference 2026 無料チケット受付開始",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/digital_space_confference.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/digital_space_confference.png"
         }
       ]
     },
@@ -2233,6 +2248,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/tokenized-commodities-4b-gold-silver-all-time-highs",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "ブロックチェーンベースのトークン化コモディティ市場が、世界の主要貴金属が相次いで過去最高値を更新したのを受け、40億ドルの節目に近づいている。",
+          "link": "https://jp.cointelegraph.com/news/tokenized-commodities-4b-gold-silver-all-time-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-26T21:00:00.000Z",
+          "wordCount": 297,
+          "title": "トークン化コモディティ市場　時価総額が40億ドルに接近　貴金属の最高値更新が追い風",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjVhODMtODRlYS03NWFiLTg3MGEtMzU5NTI0NWQyNWQ1LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjVhODMtODRlYS03NWFiLTg3MGEtMzU5NTI0NWQyNWQ1LmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/price-predictions-12-26-btc-eth-bnb-xrp-sol-doge-ada-bch-link-hype",
           "author": "Cointelegraph  Rakesh Upadhyay",
@@ -3102,21 +3132,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ2YzYtMDUyMC03MjRhLWI1MzMtMzFhMmY5NTgzNDFjLmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-1222",
-          "author": "Cointelegraph  ビットバンク　長谷川友哉",
-          "description": "15日〜21日のビットコイン（BTC）対円相場の週足終値は、前週比20万6344円（1.50%）高の1397万円と反発した。",
-          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-1222?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-12-22T08:49:50.000Z",
-          "wordCount": 246,
-          "title": "BTCは不安定ながらも底堅い動き　大型オプションカットに向けてどう動く？【ビットバンク仮想通貨分析】",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljODMtZjkzMi03Njc5LTlmZGItODk0MmI1NWEzNzQ0.jpg"
         }
       ]
     },

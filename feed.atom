@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-26T20:40:56.620Z</updated>
+    <updated>2025-12-26T21:14:44.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アーサー・ヘイズ氏がDeFiトークン買い増し、3億円以上のLDOとPENDLE]]></title>
+        <id>https://coinpost.jp/?p=677691</id>
+        <link href="https://coinpost.jp/?p=677691"/>
+        <updated>2025-12-26T21:05:52.000Z</updated>
+        <summary type="html"><![CDATA[著名投資家アーサー・ヘイズ氏が185万ドルのLDOトークンと97.3万ドル相当PENDLEトークンを追加購入した。イーサリアムを売却して割安なDeFiトークンへの買い増しを加速。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トークン化コモディティ市場　時価総額が40億ドルに接近　貴金属の最高値更新が追い風]]></title>
+        <id>https://jp.cointelegraph.com/news/tokenized-commodities-4b-gold-silver-all-time-highs</id>
+        <link href="https://jp.cointelegraph.com/news/tokenized-commodities-4b-gold-silver-all-time-highs?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-12-26T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーンベースのトークン化コモディティ市場が、世界の主要貴金属が相次いで過去最高値を更新したのを受け、40億ドルの節目に近づいている。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス傘下トラストウォレットの10億円不正流出、CZ氏が全額補償を表明]]></title>
+        <id>https://coinpost.jp/?p=677685</id>
+        <link href="https://coinpost.jp/?p=677685"/>
+        <updated>2025-12-26T20:50:09.000Z</updated>
+        <summary type="html"><![CDATA[バイナンス創設者のCZ氏が同社傘下のトラストウォレットのハッキング被害について10億円以上の全額補償を表明した。ブラウザ拡張機能の脆弱性が原因で、内部関係者の関与が疑われている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[下落トレンド再開か？ 仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ]]></title>
         <id>https://jp.cointelegraph.com/news/price-predictions-12-26-btc-eth-bnb-xrp-sol-doge-ada-bch-link-hype</id>
@@ -2915,26 +2945,6 @@ Bybit、日本居住者向けサービス提供終了へ──金融庁から過
 Web3インフラ点検「ピクトレ」と三井住友海上が提携──DEA・GRGと基本合意書を締結 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Space Conference 2026 無料チケット受付開始]]></title>
-        <id>https://coinpost.jp/?p=676342</id>
-        <link href="https://coinpost.jp/?p=676342"/>
-        <updated>2025-12-22T09:00:39.000Z</updated>
-        <summary type="html"><![CDATA[ユーザーがメタディスクリプションを100文字程度で作成するよう依頼しています。DSC2026の記事内容に基づいて、SEOに適したメタディスクリプションを作成します。2026年2月17日、虎ノ門ヒルズフォーラムで「Digital Space Conference 2026」を開催。日本デジタル空間経済連盟主催、CoinPost企画・運営。AI、Web3、メタバース等を横断し次の社会像を議論。参加無料、チケット受付開始。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCは不安定ながらも底堅い動き　大型オプションカットに向けてどう動く？【ビットバンク仮想通貨分析】]]></title>
-        <id>https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-1222</id>
-        <link href="https://jp.cointelegraph.com/news/bitbanks-market-analysis-2025-1222?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-12-22T08:49:50.000Z</updated>
-        <summary type="html"><![CDATA[15日〜21日のビットコイン（BTC）対円相場の週足終値は、前週比20万6344円（1.50%）高の1397万円と反発した。]]></summary>
-        <author>
-            <name>Cointelegraph  ビットバンク　長谷川友哉</name>
         </author>
     </entry>
 </feed>

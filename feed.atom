@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-27T20:41:34.430Z</updated>
+    <updated>2025-12-27T21:14:37.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026年 仮想通貨ETFは急拡大へ　「最大400億ドルの資金流入」]]></title>
+        <id>https://jp.cointelegraph.com/news/crypto-etfs-explode-higher-2026</id>
+        <link href="https://jp.cointelegraph.com/news/crypto-etfs-explode-higher-2026?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2025-12-27T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アナリストによると、仮想通貨の上場投資信託（ETF）は2026年に急拡大する見通しで、新たに100本超のETF申請が見込まれるほか、数十億ドル規模の資金が流れ込む可能性がある。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRP、新年にかけ保ち合い継続か　上昇トレンドには強気材料が鍵]]></title>
         <id>https://jp.cointelegraph.com/news/xrp-price-sideways-bullish-catalyst-crypto-analysts</id>
@@ -2375,36 +2385,6 @@ BlackRockが2025年の3大投資テーマに「ビットコイン現物ETF」を
         <summary type="html"><![CDATA[ギャラクシー・デジタルの研究者がインフレ調整後、ビットコインは「真の10万ドル」に未達と指摘。しかし日本の投資家は円安効果により米国投資家を大きく上回る実質リターンを獲得。円キャリートレードの典型例を分析。]]></summary>
         <author>
             <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[edgeX（エッジエックス）とは？エアドロップ情報・使い方を解説]]></title>
-        <id>https://coinpost.jp/?p=676302</id>
-        <link href="https://coinpost.jp/?p=676302"/>
-        <updated>2025-12-23T09:00:25.000Z</updated>
-        <summary type="html"><![CDATA[edgeX（エッジエックス）は累計取引高5,900億ドル超の永久先物DEX。独自トークンの発行やエアドロップも予定されています。本記事では特徴や使い方、流動性提供の方法、手数料・リスクまでわかりやすく解説します。]]></summary>
-        <author>
-            <name>hiroto.yoshii</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBIホールディングス株式会社、次世代金融カンファレンスMoneyX 2026の企画・運営として参画決定]]></title>
-        <id>https://coinpost.jp/?p=675410</id>
-        <link href="https://coinpost.jp/?p=675410"/>
-        <updated>2025-12-23T09:00:20.000Z</updated>
-        <summary type="html"><![CDATA[SBIホールディングスが、2026年2月27日にザ・プリンスパークタワー東京で開催される次世代金融カンファレンス「MoneyX 2026」に共催企業として参画。通貨のデジタル化と社会実装をテーマに開催される。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米商品先物取引委員会、新委員長にマイケル・セリグ氏就任　親仮想通貨姿勢に注目]]></title>
-        <id>https://jp.cointelegraph.com/news/cftc-changes-guard-selig-takes-reins-pham-departs</id>
-        <link href="https://jp.cointelegraph.com/news/cftc-changes-guard-selig-takes-reins-pham-departs?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-12-23T08:47:56.000Z</updated>
-        <summary type="html"><![CDATA[米商品先物委員会（CFTC）に新たなトップが誕生した。マイケル・セリグ氏が月曜日、CFTCの委員長に就任し、約1年にわたり委員長代行を務めてきたキャロライン・ファム氏は同日に退任した。]]></summary>
-        <author>
-            <name>Cointelegraph  Brian Quarmby</name>
         </author>
     </entry>
 </feed>

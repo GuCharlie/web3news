@@ -615,6 +615,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=677723",
+          "author": "A.Yamada",
+          "description": "ミームコイン市場は2025年に60%下落した。トランプ氏による独自仮想通貨「TRUMP」発行や、ドージコインETF誕生など変化の激しかった一年を解説する。",
+          "link": "https://coinpost.jp/?p=677723",
+          "publishedOn": "2025-12-27T01:05:59.000Z",
+          "wordCount": 3280,
+          "title": "ミームコイン市場は2025年に60%下落、「TRUMP」発行から始まった一年を振り返る",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/trumpcoin-pic.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/trumpcoin-pic.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=677718",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨イーサリアムが2026年に2つの大型アップグレードを計画している。Glamsterdamは並列処理とガスリミット拡大で性能向上を、Hegotaはプライバシー保護と検閲耐性の強化を目指す。",
+          "link": "https://coinpost.jp/?p=677718",
+          "publishedOn": "2025-12-27T00:10:25.000Z",
+          "wordCount": 3280,
+          "title": "イーサリアム、2026年の主要アップグレードで並列処理とプライバシー機能強化へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/ethereum-code-poc.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/ethereum-code-poc.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=677699",
           "author": "菊谷ルイス",
           "description": "BNBチェーンが2026年1月14日にFermiハードフォークを実施する。ブロック間隔を750ミリ秒から450ミリ秒に短縮し、時間依存型アプリケーションへの対応を強化する予定だ。",
@@ -2265,16 +2295,6 @@
           "wordCount": 728,
           "title": "バイビットが日本向けサービス終了へ、規制遵守の一環で",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/23114552/c9e675297218b5878c4f067cf83b4232.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=531745",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/531745",
-          "publishedOn": "2025-12-22T12:26:45.000Z",
-          "wordCount": 778,
-          "title": "【12/22話題】JPYCとITCENがステーブルコインの共同研究開始、税制改正大綱で暗号資産が申告分離課税に、ビットコインでQUOカードPay購入可能になど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/22175230/74ea278280a8926207d63ec63d28f2a6.jpg"
         }
       ]
     },
@@ -2283,6 +2303,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitmain-slashes-asic-prices-mining-turmoil",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "プルーフ・オブ・ワーク（PoW）型仮想通貨のマイニングに用いられるASIC（特定用途向け集積回路）の最大手メーカーであるビットメインが、マイニング業界全体の混乱を背景に、複数世代のマイニング機器の価格を大幅に引き下げたと報じられている。",
+          "link": "https://jp.cointelegraph.com/news/bitmain-slashes-asic-prices-mining-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-27T01:00:15.000Z",
+          "wordCount": 297,
+          "title": "ビットメイン、マイニング機器を大幅値下げ　マイニング業界の収益環境悪化受け＝報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjVjODktZmY1Mi03ZjQ4LWE5NWYtYWY5MWRmOTM5OTVlLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjVjODktZmY1Mi03ZjQ4LWE5NWYtYWY5MWRmOTM5OTVlLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/ai-era-internet-can-blockchain-prove-what-is-real",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "オンラインで画像を見かけて、「これは本物か、それともAIか」と疑問に思ったことはないだろうか。AIが生成したコンテンツと人間が作ったコンテンツの境界が溶け合う現実に、閉じ込められたような感覚を覚えたことはないだろうか。果たして、私たちは両者を区別することができるのだろうか。",
+          "link": "https://jp.cointelegraph.com/news/ai-era-internet-can-blockchain-prove-what-is-real?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-27T00:00:00.000Z",
+          "wordCount": 297,
+          "title": "AI生成コンテンツの氾濫　ブロックチェーンは何が「本物」かを証明できるか？",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI2MTAtNDliNi03M2ExLWEzYTktZDZjNmI3NGU1OGVkLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI2MTAtNDliNi03M2ExLWEzYTktZDZjNmI3NGU1OGVkLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/ai-bubble-risks-in-2026-whats-potential-impact-on-bitcoin-price",
           "author": "Cointelegraph  Yashu Gola",
@@ -3729,21 +3779,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_2143508679.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=149963",
-          "author": "よきょい",
-          "description": "大手暗号資産取引所のBybitは日本居住者に対するサービス提供を終了すると正式に発表しました。すでに実施されている新規登録の停止措置に続き、既存の日本居住ユーザーに対しても2026年1月より段階的な利用制限が適用されるこ […]\n投稿 Bybit、日本向けサービス終了へ｜1月から段階的な利用制限 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-bybit-to-end-service-in-japan/",
-          "publishedOn": "2025-12-22T11:42:55.000Z",
-          "wordCount": 546,
-          "title": "Bybit、日本向けサービス終了へ｜1月から段階的な利用制限",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/11/tria_2.mp4",
-            "length": "12422573",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_2363747425.jpg"
         }
       ]
     }

@@ -360,26 +360,6 @@
           "wordCount": 1267,
           "title": "ロシア中央銀行、包括的な暗号資産規制案を発表",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/shutterstock_1902803902russia-710x458-1.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=330579",
-          "author": "井上 俊彦",
-          "description": "2025年12月23日、分散型クレジット市場のSolstice Labs（ソルスティス・ラボ）は、機関投資家向け暗号資産（仮想通貨）プラットフォームのCor P ...\nSolsticeとCor Prime、パブリックチェーン上でステーブルコインによる機関投資家向けレポ取引を完了 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/330579/",
-          "publishedOn": "2025-12-24T10:25:00.000Z",
-          "wordCount": 1466,
-          "title": "SolsticeとCor Prime、パブリックチェーン上でステーブルコインによる機関投資家向けレポ取引を完了",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/12/Sostice_1_2_17664378933t4syRv4gT.jpg_1200.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=330579",
-          "author": "井上 俊彦",
-          "description": "2025年12月23日、分散型クレジット市場のSolstice Labs（ソルスティス・ラボ）は、機関投資家向け暗号資産（仮想通貨）プラットフォームのCor P ...\nSolsticeとCor Prime、パブリックチェーン上でステーブルコインによる機関投資家向けレポ取引を完了 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/330579/",
-          "publishedOn": "2025-12-24T10:25:00.000Z",
-          "wordCount": 1363,
-          "title": "SolsticeとCor Prime、パブリックチェーン上でステーブルコインによる機関投資家向けレポ取引を完了",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/Sostice_1_2_17664378933t4syRv4gT.jpg_1200.png"
         }
       ]
     },
@@ -1399,6 +1379,36 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/btc-mining-difficulty-adjustment-2025-rise-jan",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "ビットコインネットワークのマイニング難易度の上昇は分散性を維持する一方、マイナーの負担を一段と重くしている。",
+          "link": "https://jp.cointelegraph.com/news/btc-mining-difficulty-adjustment-2025-rise-jan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-28T22:29:27.000Z",
+          "wordCount": 355,
+          "title": "2025年最後の調整でビットコインのマイニング難易度が過去最高を更新、1月も上昇見通し",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY2NTYtMjI5Zi03ZTdlLTg1MjItNTczMWFmMGJlNmQ2LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY2NTYtMjI5Zi03ZTdlLTg1MjItNTczMWFmMGJlNmQ2LmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-6-24-gain-close-2025-green",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "多くのアナリストは2025年にビットコインが18万〜25万ドルに到達すると予測していたが、価格は伸び悩んでいる。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-6-24-gain-close-2025-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-28T22:15:51.000Z",
+          "wordCount": 327,
+          "title": "ビットコイン、2025年をプラスで終えるには6.24％の上昇が必要",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY2ZTktOThhMC03YmNhLTgwOWItZTk3MmI3ZTgxMzZjLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY2ZTktOThhMC03YmNhLTgwOWItZTk3MmI3ZTgxMzZjLmpwZw==.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/bitcoin-outperformed-gold-silver-10-years",
           "author": "Cointelegraph  Vince Quill",
           "description": "ビットコインは過去10年間で貴金属を上回る成績を示してきた。一方、批判派は、より短い時間軸では比較が成り立たないと指摘している。",
@@ -2027,21 +2037,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRmNmItZDI1Ni03NWM4LWI2MjAtMjc3ODlhNDQ1NjQ0LmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/hashkey-secures-250m-first-close-crypto-fund-iv-institutional-interest",
-          "author": "Cointelegraph  Amin Haqshanas",
-          "description": "ハッシュキー・キャピタルは、市場環境が変化する中でも機関投資家から「大きな関心」が寄せられ、第4号となる仮想通貨特化ファンドで2億5000万ドルのコミットメントを確保した。",
-          "link": "https://jp.cointelegraph.com/news/hashkey-secures-250m-first-close-crypto-fund-iv-institutional-interest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-12-24T10:26:55.000Z",
-          "wordCount": 252,
-          "title": "ハッシュキー・キャピタル　新たな仮想通貨ファンドで2億5000万ドルを確保",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRmNjktY2VlNS03ZDc3LTg1ZDgtNjdiMjU5MTI4MjlhLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRmNjktY2VlNS03ZDc3LTg1ZDgtNjdiMjU5MTI4MjlhLmpwZw==.jpg"
         }
       ]
     },
@@ -2294,21 +2289,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_2665956193-2.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=150140",
-          "author": "Crypto Times 編集部",
-          "description": "Solanaブロックチェーンを基盤とするNFTプラットフォームDRiPにて開催されていた「doopies x dripアートチャレンジ」の受賞者が正式に発表されました。 doopies x drip art challe […]\n投稿 Solana NFTプラットフォームDRiP、Doodlesアートチャレンジの受賞作品を公開 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-solana-nft-platform-drip-unveils-winning-entries-for-doodles-art-challenge/",
-          "publishedOn": "2025-12-24T10:32:10.000Z",
-          "wordCount": 614,
-          "title": "Solana NFTプラットフォームDRiP、Doodlesアートチャレンジの受賞作品を公開",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_2207295829-2.jpg"
         }
       ]
     }

@@ -270,16 +270,6 @@
           "wordCount": 1434,
           "title": "ビットコインは来年前半に史上最高値を更新──Grayscale、2026年の暗号資産を展望",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/09/shutterstock_2155640725.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=331016",
-          "author": "井上 俊彦",
-          "description": "Standard Chartered（スタンダード・チャータード）は、ブロックチェーン技術を活用したトークン化預金ソリューションを開始した。これは香港ドル（HK ...\nStandard Chartered、ブロックチェーンベースのトークン化預金ソリューションを開始 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/331016/",
-          "publishedOn": "2025-12-25T09:45:00.000Z",
-          "wordCount": 1396,
-          "title": "Standard Chartered、ブロックチェーンベースのトークン化預金ソリューションを開始",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2023/04/sc.jpeg"
         }
       ]
     },
@@ -960,16 +950,6 @@
           "wordCount": 745,
           "title": "TORICOがイーサリアム取得開始、約1億円で約216ETH購入",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/26111107/fd68b719f0573534415ece19275cec24.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=533265",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/533265",
-          "publishedOn": "2025-12-25T09:50:48.000Z",
-          "wordCount": 781,
-          "title": "【12/25話題】SBI VCトレードとアプラスがUSDCの店舗決済を実証へ、ANAPがビットコイン追加購入、スペインがMiCAとDAC8を来年実装など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/25185337/deef6f934e03c29eb8d99c7e3e0c42d3-1.jpg"
         }
       ]
     },
@@ -978,6 +958,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/rwas-surpassed-dexs-defi-tvl",
+          "author": "Cointelegraph  Christina Comben",
+          "description": "トークン化された米国債やプライベートクレジット、コモディティがオンチェーンの基盤要素となる中、RWAプロトコルはTVLで分散型取引所を追い抜いた。",
+          "link": "https://jp.cointelegraph.com/news/rwas-surpassed-dexs-defi-tvl?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-29T22:15:00.000Z",
+          "wordCount": 254,
+          "title": "RWA、TVLでDEXを上回りDeFi第5位のカテゴリーに",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5YTgtZTcxYS03MGQ4LTgxYjAtMDBjZTE5N2U0YWYzLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5YTgtZTcxYS03MGQ4LTgxYjAtMDBjZTE5N2U0YWYzLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/china-digital-yuan-interest-wallets-2026",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "中国の中央銀行は2026年1月1日から、銀行がデジタル人民元（e-CNY）ウォレット残高に利息を支払うことを認める。米国がCBDCを禁止する中、e-CNYは「預金に近い通貨」へと位置づけが変わる。",
+          "link": "https://jp.cointelegraph.com/news/china-digital-yuan-interest-wallets-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2025-12-29T22:00:00.000Z",
+          "wordCount": 253,
+          "title": "中国、2026年1月からデジタル人民元ウォレットへの利払いを銀行に認可へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5ZWEtZGUxMS03MGU2LWI4NmEtMWE5YjQ0NGIwZGU4LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5ZWEtZGUxMS03MGU2LWI4NmEtMWE5YjQ0NGIwZGU4LmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/trump-tariffs-and-the-year-of-the-utility-token-animoca-s-yat-siu-says-crypto-finally-has-to-grow-up",
           "author": "Cointelegraph  Christina Comben",

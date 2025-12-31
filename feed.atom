@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-31T01:21:58.357Z</updated>
+    <updated>2025-12-31T03:11:17.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026年末のビットコイン価格はどうなる？有識者7人に予想を聞いた]]></title>
+        <id>https://coinpost.jp/?p=674515</id>
+        <link href="https://coinpost.jp/?p=674515"/>
+        <updated>2025-12-31T03:00:22.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン2026年末価格予想を暗号資産（仮想通貨）業界の著名人7人が回答した。平均は12.3万ドルで約40%の上昇見込み。FRB政策、機関投資家参入、半減期アノマリー崩壊など注目ポイントを分析。強気派と慎重派の見解を比較し、相場の行方を占う。]]></summary>
+        <author>
+            <name>Ritsuki.Kumazawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨の時価総額TOP20と国内発トークン、2025年の騰落率は]]></title>
+        <id>https://coinpost.jp/?p=676804</id>
+        <link href="https://coinpost.jp/?p=676804"/>
+        <updated>2025-12-31T02:00:04.000Z</updated>
+        <summary type="html"><![CDATA[ドナルド・トランプ氏の米大統領就任やビットコインの最高値更新があった2025年。本記事では同年の時価総額上位銘柄と国内発プロジェクトのトークンの年間騰落率をまとめている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[激動の2025年　仮想通貨の時価総額トップ20、過去8年間における順位変動は]]></title>
         <id>https://coinpost.jp/?p=676585</id>
@@ -739,16 +759,6 @@ Binance傘下のTrust Wallet、約11億円が不正流出 first appeared on NADA
         <summary type="html"><![CDATA[ビットコインと複数の主要アルトコインは反発を試みたが、高値圏では引き続き弱気派の強い売りに直面している。]]></summary>
         <author>
             <name>Cointelegraph  Rakesh Upadhyay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ミームコインの時価総額　過去1年で65％下落　昨年の熱狂から転落]]></title>
-        <id>https://jp.cointelegraph.com/news/memecoins-christmas-2025-yearly-decline</id>
-        <link href="https://jp.cointelegraph.com/news/memecoins-christmas-2025-yearly-decline?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-12-26T13:21:59.000Z</updated>
-        <summary type="html"><![CDATA[ミームコインは年末にかけて2025年の最安水準付近で取引されており、2024年のクリスマスに記録した投機的なピークから大きく下落した。]]></summary>
-        <author>
-            <name>Cointelegraph  Ezra Reguerra</name>
         </author>
     </entry>
 </feed>

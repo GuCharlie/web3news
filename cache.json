@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=331450",
+          "author": "NADA NEWS編集部",
+          "description": "不動産という実物資産を裏付けにしてデジタル化し、少額から投資可能にする「不動産セキュリティ・トークン（不動産ST）」は、ブロックチェーン技術を活用した資産運用の ...\nスマホアプリ×セキュリティ・トークンで変わる資産運用のカタチ──ケネディクスと紐解く「不動産ST」の可能性：1月29日、無料ウェビナー first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/331450/",
+          "publishedOn": "2025-12-31T04:22:29.000Z",
+          "wordCount": 1960,
+          "title": "スマホアプリ×セキュリティ・トークンで変わる資産運用のカタチ──ケネディクスと紐解く「不動産ST」の可能性：1月29日、無料ウェビナー",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/12/ケネディクスと紐解くセキュリティートークンの可能性-—-新しい資産運用のカタチ-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=331726",
           "author": "Ibrahim Ajibade",
           "description": "●ビットコインは12月30日に8万9340ドルまで反発し、12月下旬もETFからの資金流出が続く中で、再び9万ドルが視野に入った。●米国のビットコイン現物ETF ...\n【ビットコイン価格分析】ETFから10億ドル超流出でも、2026年を前に9万ドルを試す展開に first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -234,6 +244,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://ec2-13-114-170-70.ap-northeast-1.compute.amazonaws.com/?p=671424",
+          "author": "幸田直子",
+          "description": "ブラックロックの2026年投資展望レポートでは、AI関連投資が米国株式市場を牽引し、生産性向上で171兆円の経済効果が見込まれると分析した。また、38兆円規模に成長したステーブルコイン市場について決済システムへの統合が進み、トークン化された金融システムへの第一歩となると見ている。",
+          "link": "https://coinpost.jp/?p=671424",
+          "publishedOn": "2025-12-31T05:00:34.000Z",
+          "wordCount": 3316,
+          "title": "ブラックロックの2026年投資展望　AI投資が米株式市場を牽引、ステーブルコインは金融の架け橋に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/blackrock-bitcoin.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/blackrock-bitcoin.png"
+        },
         {
           "id": "https://coinpost.jp/?p=674515",
           "author": "Ritsuki.Kumazawa",
@@ -951,21 +976,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjVhODMtODRlYS03NWFiLTg3MGEtMzU5NTI0NWQyNWQ1LmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/price-predictions-12-26-btc-eth-bnb-xrp-sol-doge-ada-bch-link-hype",
-          "author": "Cointelegraph  Rakesh Upadhyay",
-          "description": "ビットコインと複数の主要アルトコインは反発を試みたが、高値圏では引き続き弱気派の強い売りに直面している。",
-          "link": "https://jp.cointelegraph.com/news/price-predictions-12-26-btc-eth-bnb-xrp-sol-doge-ada-bch-link-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2025-12-26T16:52:59.000Z",
-          "wordCount": 312,
-          "title": "下落トレンド再開か？ 仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjViNjQtNzAxZC03MjVjLWFjY2YtNDRjMDU0MjdjM2IzLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjViNjQtNzAxZC03MjVjLWFjY2YtNDRjMDU0MjdjM2IzLmpwZw==.jpg"
         }
       ]
     },

@@ -265,6 +265,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=672765",
+          "author": "幸田直子",
+          "description": "大手資産運用会社バーンスタインがビットコイン価格予想を2026年15万ドルに上方修正した。従来の4年サイクルは終焉し、長期強気相場に入ったとの見方を示した。",
+          "link": "https://coinpost.jp/?p=672765",
+          "publishedOn": "2026-01-02T05:00:14.000Z",
+          "wordCount": 3312,
+          "title": "「4年サイクルは終焉」　バーンスタイン、2026年のBTC予想を15万ドルに上方修正",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-czar-criticize.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-czar-criticize.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=673904",
           "author": "幸田直子",
           "description": "米大手ベンチャーキャピタル企業アンドリーセン・ホロウィッツは、2026年に仮想通貨分野で期待できる主要トレンド予想を発表した。同社の「大きな構想」（Big Ideas）リストは17項目にわたり、ステーブルコイン、実物資産（RWA）のトークン化、決済・金融、AIエージェント、プライバシー、予測市場が含まれている。",
@@ -532,6 +547,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-bear-market-began-november-cryptoquant",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "クリプトクオントのリサーチ責任者によると、1年移動平均線などの一部指標を基に判断すると、ビットコインはすでに弱気市場に入ってから約2カ月経過している可能性があるという。",
+          "link": "https://jp.cointelegraph.com/news/crypto-bear-market-began-november-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-02T05:18:30.000Z",
+          "wordCount": 236,
+          "title": "ビットコインの弱気市場は進行中？ 底値は6万ドル前後との見方も",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdjMTMtYTA5NC03ZmI3LWExZGEtYWE5MzRlOTRhZGI1LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdjMTMtYTA5NC03ZmI3LWExZGEtYWE5MzRlOTRhZGI1LmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/polymarket-traders-21-chance-bitcoin-hitting-150k-2026",
+          "author": "Cointelegraph  Brian Quarmby",
+          "description": "Polymarket traders are holding back their optimism back for Bitcoin this year, despite many analysts tipping the price to hit $150,000 and above.",
+          "link": "https://jp.cointelegraph.com/news/polymarket-traders-21-chance-bitcoin-hitting-150k-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-02T04:32:24.000Z",
+          "wordCount": 285,
+          "title": "ビットコイン 15万ドル到達の確率は21%　ポリマーケットのトレーダーは慎重姿勢",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdiZWMtY2NkNy03MGNkLTliNDgtYmRlZTczYTYyMzkzLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdiZWMtY2NkNy03MGNkLTliNDgtYmRlZTczYTYyMzkzLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/crypto-investment-themes-2026-bitcoin-stablecoins-tokenized-assets",
           "author": "Cointelegraph  Sam Bourgi",

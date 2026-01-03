@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-03T14:40:58.554Z</updated>
+    <updated>2026-01-03T15:16:04.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[経済の不透明感がビットコインの反発を抑制　9万ドル回復も勢い不足]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-price-back-90k-is-the-bear-market-behind-us</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-price-back-90k-is-the-bear-market-behind-us?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-01-03T15:05:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は1月3日に9万ドルを上回り、トレーダーの間では7週間ぶりに9万5000ドルの水準を回復するだけの勢いがあるのかが意識された。]]></summary>
+        <author>
+            <name>Cointelegraph  Marcel Pechman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米国がベネズエラで軍事行動　ビットコインは9万ドル割れ　地政学リスクが重しに]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-price-90k-breakout-hangs-in-balance-us-storms-venezuela</id>

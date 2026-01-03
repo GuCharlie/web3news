@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-03T12:32:58.578Z</updated>
+    <updated>2026-01-03T13:26:11.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米国がベネズエラで軍事行動　ビットコインは9万ドル割れ　地政学リスクが重しに]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-price-90k-breakout-hangs-in-balance-us-storms-venezuela</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-price-90k-breakout-hangs-in-balance-us-storms-venezuela?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-01-03T12:40:32.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は1月3日、米国がベネズエラで軍事行動に踏み切ったとの報道を受け、9万ドルを下回った。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金商法移行で仮想通貨業界はどうなる？　有識者に聞くポジティブな影響と懸念点]]></title>
         <id>https://coinpost.jp/?p=674476</id>
@@ -628,37 +638,6 @@ BlackRockのトークン化MMF「BUIDL」、配当累計1億ドルに到達：Se
         <summary type="html"><![CDATA[ビットマインの仮想通貨イーサリアム保有量が411万枚に到達した。年末の価格下落を好機と捉え買い増しを行っている。2026年には独自ステーキング基盤も公開予定だ。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米トランプ政権誕生の2025年、仮想通貨市場を重要ニュースから振り返る]]></title>
-        <id>https://coinpost.jp/?p=675400</id>
-        <link href="https://coinpost.jp/?p=675400"/>
-        <updated>2025-12-30T01:00:16.000Z</updated>
-        <summary type="html"><![CDATA[2025年は仮想通貨を支持するドナルド・トランプ氏が米大統領に就任し、相場は米国の動向から大きな影響を受けた。本記事では、ビットコインの最高値更新など1年間の重要ニュースを振り返る。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨投資商品、先週700億円超の純流出　XRP・ソラナは好調維持＝CoinShares]]></title>
-        <id>https://coinpost.jp/?p=677958</id>
-        <link href="https://coinpost.jp/?p=677958"/>
-        <updated>2025-12-30T00:50:11.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨投資商品から先週700億円超が流出した。CoinSharesは投資家心理がまだ完全に回復していないと分析した。一方で資産別ではXRPとソラナへの流入は好調だった。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【イーサリアム価格分析】2025年のイーサリアム価格は底打ちか──トム・リー氏、年末に12億ドル規模の買いとステーキング急増を示唆]]></title>
-        <id>https://www.nadanews.com/?p=331599</id>
-        <link href="https://www.nadanews.com/331599/"/>
-        <updated>2025-12-30T00:35:00.000Z</updated>
-        <summary type="html"><![CDATA[●イーサリアム（ETH）は約2900ドル付近で下げ止まり、12月に積極的な買いを続けるBitmine（ビットマイン）の存在が年末にかけた下落リスクを抑えている。 ...
-【イーサリアム価格分析】2025年のイーサリアム価格は底打ちか──トム・リー氏、年末に12億ドル規模の買いとステーキング急増を示唆 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Ibrahim Ajibade</name>
         </author>
     </entry>
 </feed>

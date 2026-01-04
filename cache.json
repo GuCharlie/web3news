@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=331959",
+          "author": "増田隆幸",
+          "description": "米国で上場する暗号資産現物ETFについて、上場以降の累積取引高（cumulative trading volume）が2兆ドルを超えたと、複数の海外メディアが伝 ...\n暗号資産ETFの累積取引高が2兆ドルを突破──流動性の高い金融商品へ first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/331959/",
+          "publishedOn": "2026-01-04T23:20:51.000Z",
+          "wordCount": 1426,
+          "title": "暗号資産ETFの累積取引高が2兆ドルを突破──流動性の高い金融商品へ",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_1150453739.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=331952",
           "author": "XWIN Research",
           "description": "●ベネズエラ情勢でも Exchange Netflow に大きな変化はなく、市場は冷静さを保っている。●過去の紛争でも、局地的な軍事衝突はビットコインに持続的影 ...\nベネズエラ情勢とビットコイン──地政学リスクをオンチェーンでどう読むか【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -347,6 +357,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/metaplanet-edge-us-dats-jpy-weakness",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "日本円は、金利が低く抑えられているため、マクロ投資家がレバレッジをかけた取引を行う際に一般的に利用されている。",
+          "link": "https://jp.cointelegraph.com/news/metaplanet-edge-us-dats-jpy-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-04T23:32:09.000Z",
+          "wordCount": 334,
+          "title": "メタプラネット、日本円の構造的弱さで米国拠点のビットコイン財務企業に対する優位性",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZlNDgtMmJmNy03OTFkLWI4ZTktYzU3ZDYwMzhmMzk5LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZlNDgtMmJmNy03OTFkLWI4ZTktYzU3ZDYwMzhmMzk5LmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/altcoins-hold-crucial-support-big-leg-up",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "10月に形成された重要な支持線を上回って推移していることを示すテクニカル分析に基づき、アルトコイン市場は上昇に向かう可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/altcoins-hold-crucial-support-big-leg-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-04T23:27:36.000Z",
+          "wordCount": 278,
+          "title": "アルトコインは「重要な」支持線を維持、大きな上昇局面に向かう可能性＝アナリスト",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjhhYTMtNWRhNi03YTcyLTk5N2ItMWNmOGZkZmNjZGFlLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjhhYTMtNWRhNi03YTcyLTk5N2ItMWNmOGZkZmNjZGFlLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/crypto-fear-greed-flips-neutral-first-time-oct",
           "author": "Cointelegraph  Vince Quill",

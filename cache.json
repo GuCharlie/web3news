@@ -160,26 +160,6 @@
           "wordCount": 1598,
           "title": "デジタルアセット・ビッグバン ── 2026年、金商法と「オンチェーン金融」が変えるもの",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2706087743.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=331597",
-          "author": "増田隆幸",
-          "description": "2026年、暗号資産は金融商品取引法（金商法）の枠組みに組み込まれる。 これは、ひとつの業界ルールが変わるという話ではない。暗号資産が「周縁的なテクノロジー」や ...\nNew Atlas for Digital Assets ── デジタル資産市場の「地図」と「コンパス」を目指して：創刊特集ラインナップ first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/331597/",
-          "publishedOn": "2025-12-31T15:00:00.000Z",
-          "wordCount": 1481,
-          "title": "New Atlas for Digital Assets ── デジタル資産市場の「地図」と「コンパス」を目指して：創刊特集ラインナップ",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/2026_key_A_1.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=331827",
-          "author": "Ibrahim Ajibade",
-          "description": "●Trump Media & Technology Groupが「アメリカファースト」を掲げるETF5本を上場し、ソラナ（Solana）のDEX取引高は ...\nトランプ系ETF5本がナスダック上場、ソラナは125ドルを回復──2025年末の取引は強気傾向に first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/331827/",
-          "publishedOn": "2025-12-31T14:07:46.000Z",
-          "wordCount": 1535,
-          "title": "トランプ系ETF5本がナスダック上場、ソラナは125ドルを回復──2025年末の取引は強気傾向に",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/12/image3-2-1.jpg"
         }
       ]
     },
@@ -194,6 +174,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=678441",
+          "author": "Enzo",
+          "description": "ベネズエラのマドゥロ政権が最大9兆円相当のビットコインを「影の備蓄」として保有している可能性が報道された。2026年1月のマドゥロ拘束を受け、秘密鍵の所在が焦点に。専門家は供給ショックの可能性を指摘。",
+          "link": "https://coinpost.jp/?p=678441",
+          "publishedOn": "2026-01-05T02:12:22.000Z",
+          "wordCount": 3300,
+          "title": "ベネズエラ政権、制裁回避でビットコイン蓄積の疑い　米凍結で供給減の可能性",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/03/venezuela_bitcoin_0318-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/03/venezuela_bitcoin_0318-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=678427",
           "author": "Enzo",
@@ -395,7 +390,58 @@
       "title": "ニュース – あたらしい経済",
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=535018",
+          "author": "NewEconomy",
+          "description": "アーベでブランド資産のDAO管理是非を問う投票を実施 分散型金融（DeFi）プロトコル「アーベ（Aave）」の分散型自律組織（DAO）であるアーベDAO（Aave DAO）が、アーベのブランド資産をDAO管理下に移管する […]",
+          "link": "https://www.neweconomy.jp/posts/535018",
+          "publishedOn": "2026-01-05T03:25:54.000Z",
+          "wordCount": 809,
+          "title": "Aave DAO、ブランド資産のDAO移管案を否決。ガバナンス巡り議論",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05122522/a0ceacd44a1624dbdf2d9407e61ffd18.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=535012",
+          "author": "NewEconomy",
+          "description": "イオレが約1億6,630万円でビットコイン追加購入 暗号資産（仮想通貨）のトレジャリーとレンディングを推進する東証グロース上場企業のイオレが、ビットコイン（BTC）の追加取得を12月26日に発表した。 今回同社は、12月 […]",
+          "link": "https://www.neweconomy.jp/posts/535012",
+          "publishedOn": "2026-01-05T03:11:10.000Z",
+          "wordCount": 745,
+          "title": "イオレが約1.6億円でビットコイン追加購入、総保有数は約113BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05121053/643fa4d4519dc541d4b153602213c14f.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=535001",
+          "author": "NewEconomy",
+          "description": "暗号資産投資で税制・制度項目が上位に 国内暗号資産（仮想通貨）交換業者ビットバンク（bitbank）」が、一般インターネットユーザーを対象に実施した「暗号資産投資実態・市場に関するアンケート調査」の結果を12月26日に公 […]",
+          "link": "https://www.neweconomy.jp/posts/535001",
+          "publishedOn": "2026-01-05T03:04:55.000Z",
+          "wordCount": 751,
+          "title": "ビットバンク、2025年の暗号資産投資に関するアンケート調査結果を公表",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05120429/fe2bf586af5aeeee7ff1f7baa21289ad.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=534993",
+          "author": "gentosha_takahashi",
+          "description": "暗号資産の脱税・申告漏れに終止符 英国で、経済協力開発機構（OECD）が策定した暗号資産（仮想通貨）の国際報告ルール「Crypto-Asset Reporting Framework（CARF）」に基づく新制度が1月1日 […]",
+          "link": "https://www.neweconomy.jp/posts/534993",
+          "publishedOn": "2026-01-05T02:57:57.000Z",
+          "wordCount": 740,
+          "title": "英国、CARFの国際報告ルール施行で取引データを年次報告へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05115732/9109ca7599ceb4978225793d200e8d46.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=534990",
+          "author": "NewEconomy",
+          "description": "USDCと金・銀のスワップをうたう偽サイトに注意喚起 米ドル建てステーブルコインUSDCの発行企業であるサークル（Circle）が、同社を装った偽のプラットフォームに関する情報が出回っていると、米暗号資産（仮想通貨）メデ […]",
+          "link": "https://www.neweconomy.jp/posts/534990",
+          "publishedOn": "2026-01-05T02:56:37.000Z",
+          "wordCount": 789,
+          "title": "サークル装う偽の金・銀トークン化プラットフォームの情報出回る=報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05115613/8e37dd3c6fd37d4952bcd74f979a9812.jpg"
+        }
+      ]
     },
     {
       "title": "仮想通貨・ビットコインのニュースサイト｜コインテレグラフ ジャパン",
@@ -785,6 +831,36 @@
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
         {
+          "id": "https://crypto-times.jp/?p=150341",
+          "author": "よきょい",
+          "description": "大手マーケットメーカーであるWintermuteによるビットコイン（BTC）の送金活動が市場操作の疑いで注目を集めています。 オンチェーンデータの分析によると、同社が大晦日の流動性が低い時期に大量のBTCを暗号資産取引所 […]\n投稿 市場操作か？大手VCのビットコイン大量送金、その裏側を検証 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-was-vcs-massive-bitcoin-transfer-market-manipulation/",
+          "publishedOn": "2026-01-05T03:08:14.000Z",
+          "wordCount": 544,
+          "title": "市場操作か？大手VCのビットコイン大量送金、その裏側を検証",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2676343655.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=150332",
+          "author": "よきょい",
+          "description": "米国議会で暗号資産市場の規制明確化を目指す「2025年デジタル資産市場明確化法（CLARITY法）」が下院を通過し、1月の上院委員会での審議に向けた調整が進んでいます。 本法案は長年の課題であるSEC（米国証券取引委員会 […]\n投稿 米国下院、仮想通貨新法案「CLARITY法」を可決｜DeFi開発者の規制除外へ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-the-u-s-house-of-representatives-passes-the-clarity-act/",
+          "publishedOn": "2026-01-05T02:32:21.000Z",
+          "wordCount": 545,
+          "title": "米国下院、仮想通貨新法案「CLARITY法」を可決｜DeFi開発者の規制除外へ",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2443980471.jpg"
+        },
+        {
           "id": "https://crypto-times.jp/?p=150302",
           "author": "Crypto Times 編集部",
           "description": "リッチー・トーレス米下院議員（ニューヨーク州選出、民主党）が「Public Integrity in Financial Prediction Markets Act of 2026（2026年予測市場における公的清廉法 […]\n投稿 米議員、予測市場のインサイダー取引禁止法案を提出か｜Polymarketで疑惑の取引も発生 は CRYPTO TIMES に最初に表示されました。",
@@ -853,21 +929,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2674255479.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=150278",
-          "author": "Crypto Times 編集部",
-          "description": "暗号資産運用会社Bitwiseは2026年の市場に対して強気な姿勢を鮮明にしています。同社のマット・ホーガンCIO（最高投資責任者）は以前、ビットコインが歴史的な4年周期（半減期サイクル）を打ち破り、2026年に過去最高 […]\n投稿 2026年の暗号資産市場に強気なBitwise、新たに11銘柄の戦略ETFを申請 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-bitwise-applies-for-11-new-strategic-etfs/",
-          "publishedOn": "2025-12-31T14:15:16.000Z",
-          "wordCount": 554,
-          "title": "2026年の暗号資産市場に強気なBitwise、新たに11銘柄の戦略ETFを申請",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/05/shutterstock_2087444185.jpg"
         }
       ]
     }

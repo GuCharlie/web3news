@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-05T22:17:37.126Z</updated>
+    <updated>2026-01-05T22:44:44.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン価格調整の底値は8万ドル台か？　ビットワイズ分析]]></title>
+        <id>https://coinpost.jp/?p=678649</id>
+        <link href="https://coinpost.jp/?p=678649"/>
+        <updated>2026-01-05T22:30:01.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨資産運用会社ビットワイズが月次レポートでビットコインの価格調整を分析し、8万ドルから9万ドルの範囲で大量のコインが蓄積されており、振り返ってみればこれが底値だった可能性があると指摘した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上昇基調を維持　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ]]></title>
+        <id>https://jp.cointelegraph.com/news/price-predictions-1-5-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-bch</id>
+        <link href="https://jp.cointelegraph.com/news/price-predictions-1-5-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-bch?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-01-05T22:26:54.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインおよび主要アルトコインのいくつかは上昇基調を維持しており、投資家心理の改善と、強気派による持続的な需要を示している。]]></summary>
+        <author>
+            <name>Cointelegraph  Rakesh Upadhyay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFTパリ、カンファレンスを中止「市場の崩壊が大きな打撃」]]></title>
+        <id>https://jp.cointelegraph.com/news/nft-paris-cancelled-market-collapse</id>
+        <link href="https://jp.cointelegraph.com/news/nft-paris-cancelled-market-collapse?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-01-05T22:21:58.000Z</updated>
+        <summary type="html"><![CDATA[NFT市場の時価総額は2025年に大きく落ち込み、2025年1月時点の約90億ドルから、2026年には27億ドル強まで減少した。]]></summary>
+        <author>
+            <name>Cointelegraph  Turner Wright</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨企業、米中間選挙を前にトランプ支持PACへ2,100万ドルを拠出]]></title>
         <id>https://jp.cointelegraph.com/news/crypto-donald-trump-pac-midterms</id>

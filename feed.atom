@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-05T07:47:55.019Z</updated>
+    <updated>2026-01-05T08:27:42.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日本円ステーブルコイン「JPYC」、流通量14%急減｜年末年始で需要減か]]></title>
+        <id>https://crypto-times.jp/?p=150339</id>
+        <link href="https://crypto-times.jp/news-jpycs-circulation-plummets-14/"/>
+        <updated>2026-01-05T08:09:04.000Z</updated>
+        <summary type="html"><![CDATA[日本円ステーブルコインであるJPYCのオンチェーンデータにおいて、2025年末から2026年の年始にかけて市場流通量および保有者アドレス数が減少したことが確認されました。 総発行量は横ばいで推移する一方で、2025年12 […]
+投稿 日本円ステーブルコイン「JPYC」、流通量14%急減｜年末年始で需要減か は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンスの世界ユーザー数が3億人突破。昨年の総取引額は約34兆ドルに]]></title>
         <id>https://www.neweconomy.jp/?p=535159</id>
@@ -269,6 +280,16 @@
         <summary type="html"><![CDATA[ベネズエラのマドゥロ政権が最大9兆円相当のビットコインを「影の備蓄」として保有している可能性が報道された。2026年1月のマドゥロ拘束を受け、秘密鍵の所在が焦点に。専門家は供給ショックの可能性を指摘。]]></summary>
         <author>
             <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pump.fun（パンプファン）とは？買い方・使い方・将来性を解説｜ミームコイン発行市場]]></title>
+        <id>https://coinpost.jp/?p=595747</id>
+        <link href="https://coinpost.jp/?p=595747"/>
+        <updated>2026-01-05T00:45:07.000Z</updated>
+        <summary type="html"><![CDATA[Solanaブロックチェーン上で誰でも簡単にミームコインを作成・取引できるPump.funの基本的な仕組みや特徴、具体的な使い方、セキュリティリスクまで詳しく解説。2024年1月のローンチ以降、780万以上のトークンを生み出す人気プラットフォームを紹介。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
         </author>
     </entry>
     <entry>
@@ -859,16 +880,6 @@ Visaが描く2026年の決済インフラ──JPYC・USDCに見える兆しと�
         <summary type="html"><![CDATA[ビットコインと主要アルトコインは急激な売りに直面しているが、強気派が防衛する下落局面での重要サポートはどこか？]]></summary>
         <author>
             <name>Cointelegraph  Rakesh Upadhyay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン：2026年は試練の年か　実需拡大で転機迎える可能性も]]></title>
-        <id>https://jp.cointelegraph.com/news/2026-red-btc-payment-tech-improve</id>
-        <link href="https://jp.cointelegraph.com/news/2026-red-btc-payment-tech-improve?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2025-12-31T20:07:45.000Z</updated>
-        <summary type="html"><![CDATA[多くのアナリストは、ビットコインが2026年にかけて厳しい局面を迎え、2025年後半からの下落基調が続くとみている。一方で、価格が軟化する中でも、決済インフラの成熟が進み、BTCを交換手段として使うハードルが下がることで、実社会での有用性にとっては転機の年になる可能性があるとの見方も出ている。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=331980",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ●米国によるベネズエラ攻撃を受けて、市場参加者がリスクを取る姿勢を強めるなか、ビットコイン（BTC）は一時9万3000ドル ...\nビットコイン、一時9万3000ドルに──XRP、ソラナも上昇 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/331980/",
+          "publishedOn": "2026-01-05T06:23:44.000Z",
+          "wordCount": 1449,
+          "title": "ビットコイン、一時9万3000ドルに──XRP、ソラナも上昇",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/image-142.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=331959",
           "author": "増田隆幸",
           "description": "米国で上場する暗号資産現物ETFについて、上場以降の累積取引高（cumulative trading volume）が2兆ドルを超えたと、複数の海外メディアが伝 ...\n暗号資産ETFの累積取引高が2兆ドルを突破──流動性の高い金融商品へ first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -174,6 +184,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=678488",
+          "author": "幸田直子",
+          "description": "米上院銀行委員会は1月15日にクラリティ法案の修正審議を開始する予定だ。仮想通貨の証券・商品分類を明確化し、SECとCFTCの監督責任を定める重要法案の成立に期待が高まっている。",
+          "link": "https://coinpost.jp/?p=678488",
+          "publishedOn": "2026-01-05T06:19:01.000Z",
+          "wordCount": 3312,
+          "title": "米クラリティ法案、1月15日に修正審議開始　仮想通貨規制の進展に期待",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/ussenate0827211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/ussenate0827211.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=678495",
+          "author": "Enzo",
+          "description": "ブロックチェーンセキュリティ企業スローミストのCSO・23pds氏が、メタマスクユーザーを標的とした「2FA認証」を装う新型フィッシング詐欺を警告。メタマスクは2FA機能を提供しておらず、復元フレーズを要求するサイトは詐欺。2025年のブロックチェーン被害総額は約4,600億円に。",
+          "link": "https://coinpost.jp/?p=678495",
+          "publishedOn": "2026-01-05T05:40:26.000Z",
+          "wordCount": 3294,
+          "title": "メタマスクユーザー狙う新型フィッシング詐欺、スローミストのCSOが警告",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/02/metamask-new-alert-point.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/02/metamask-new-alert-point.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=678496",
+          "author": "CoinPost編集部",
+          "description": "片山金融相が東京証券取引所の大発会で年頭挨拶を行い、今年を「デジタル元年」と宣言。国民がブロックチェーン型デジタル資産の恩恵を受けるには証券取引所の役割が重要と述べ、米国のETF普及事例を挙げて日本での展開にも期待を示した。",
+          "link": "https://coinpost.jp/?p=678496",
+          "publishedOn": "2026-01-05T05:34:38.000Z",
+          "wordCount": 3303,
+          "title": "片山財務・金融相、2026年を「デジタル元年」と位置づけ　証券取引所通じた普及に期待示す",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/webx2025_katayama-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/webx2025_katayama-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=678451",
+          "author": "A.Yamada",
+          "description": "仮想通貨イーサリアム保有企業ビットマインのCEOが発行可能株式数を500億株に増やす提案を行った。イーサリアム価格が上昇した場合の株式分割に対応するとしている。",
+          "link": "https://coinpost.jp/?p=678451",
+          "publishedOn": "2026-01-05T02:42:14.000Z",
+          "wordCount": 3307,
+          "title": "ビットマイン、発行可能株式数を100倍に増やす提案　イーサリアム上昇に備えた対応で",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/bitmine1029-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/bitmine1029-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=678441",
           "author": "Enzo",
@@ -391,6 +461,96 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=535128",
+          "author": "TanakaShuya",
+          "description": "メタプラがビットコイン追加購入 ビットコイン（BTC）の購入を積極的に進めている東証スタンダード上場企業メタプラネットが、ビットコインの追加購入実施を12月30日に発表した。なお同社によるビットコイン追加購入は9月30日 […]",
+          "link": "https://www.neweconomy.jp/posts/535128",
+          "publishedOn": "2026-01-05T06:23:41.000Z",
+          "wordCount": 742,
+          "title": "メタプラネットが10月ぶりにビットコイン追加購入を報告、総保有数35102BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05152319/104306474b78485e70f9b66f49c64627.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=535103",
+          "author": "NewEconomy",
+          "description": "コインベースがアルゼンチン事業を一時停止 米暗号資産（仮想通貨）取引所の コインベース（Coinbase） が、アルゼンチンにおける現地向けサービスを一時停止すると現地メディア「フォーブス・アルゼンチン（Forbes A […]",
+          "link": "https://www.neweconomy.jp/posts/535103",
+          "publishedOn": "2026-01-05T06:16:27.000Z",
+          "wordCount": 807,
+          "title": "コインベース、アルゼンチンでUSDCのペソ売買停止。現地サービスを一時縮小=報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05151552/b5eeb6254e0ff009c36bd4b45d436cd7.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=535110",
+          "author": "TanakaShuya",
+          "description": "ストラテジーがビットコイン追加購入 上場企業によるビットコイン（BTC）の保有数で世界第1位のストラテジー（Strategy）が、ビットコインの追加購入を12月29日に発表した。 ストラテジーは12月22日から12月28 […]",
+          "link": "https://www.neweconomy.jp/posts/535110",
+          "publishedOn": "2026-01-05T06:12:18.000Z",
+          "wordCount": 787,
+          "title": "ストラテジーがビットコイン追加購入、総保有数67万2,497BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05151150/6aa599c1bef29d31593dcbff634b468e.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=535078",
+          "author": "NewEconomy",
+          "description": "リトアニア中銀が暗号資産ライセンス義務化を本格執行へ リトアニア中央銀行（Lietuvos Bankas）が、EU（欧州連合）の「暗号資産市場規制（MiCA/MiCAR：Markets in Crypto Assets  […]",
+          "link": "https://www.neweconomy.jp/posts/535078",
+          "publishedOn": "2026-01-05T05:07:55.000Z",
+          "wordCount": 749,
+          "title": "リトアニア、無許可の暗号資産事業者を違法化＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05140743/25fd4c58133fb4011b7efb2d78fdb514.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=535066",
+          "author": "NewEconomy",
+          "description": "ビットファームズがパラグアイ拠点を売却 北米のエネルギーおよびデジタルインフラ企業であるビットファームズ（Bitfarms）が、パラグアイのパソ・ペにある同社拠点を売却すると1月2日に発表した。この売却により、同社はラテ […]",
+          "link": "https://www.neweconomy.jp/posts/535066",
+          "publishedOn": "2026-01-05T05:02:03.000Z",
+          "wordCount": 816,
+          "title": "ビットファームズ、パラグアイ拠点売却でラテンアメリカから完全撤退へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05140143/65ff6f3c291f4d9b88a71c44e378dcce.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=535048",
+          "author": "NewEconomy",
+          "description": "ビットマインがETHのPoSステーキング開始 ビットマインイマージョンテクノロジーズ（BitMine Immersion Technologies：以下、ビットマイン）が、自社保有のイーサ（ETH）をプルーフ・オブ・ステ […]",
+          "link": "https://www.neweconomy.jp/posts/535048",
+          "publishedOn": "2026-01-05T04:55:41.000Z",
+          "wordCount": 784,
+          "title": "ビットマインがETHステーキング開始、イーサリアムPoS契約に約2億ドル入金",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05135520/57409afa7f29356accf54af7a2b7a0e0.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=535053",
+          "author": "TamuraSeiji",
+          "description": "ユニスワップのUNIバーンが有効化 12月25日に可決された分散型取引所ユニスワップ（Uniswap）のガバナンス提案「ユニフィケーション（UNIfication）」が、12月27日（投票サイト表示では米国西部時間）に「 […]",
+          "link": "https://www.neweconomy.jp/posts/535053",
+          "publishedOn": "2026-01-05T04:52:55.000Z",
+          "wordCount": 813,
+          "title": "ユニスワップの「UNIfication」提案がオンチェーンで実行",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05135232/f3d1d64232b42064554bb7ae8c07f396.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=535043",
+          "author": "NewEconomy",
+          "description": "ジョーカーズが「コード・オブ・ジョーカー」最新作の開発中止を発表 ジョーカーズ（Jokers）がセガ（SEGA）からライセンス許諾を受けて開発を進めていたWeb3ゲームタイトル「コード・オブ・ジョーカー・エヴォリューショ […]",
+          "link": "https://www.neweconomy.jp/posts/535043",
+          "publishedOn": "2026-01-05T04:34:05.000Z",
+          "wordCount": 785,
+          "title": "ジョーカーズ、Web3ゲーム「CODE OF JOKER EVOLUTIONS」の開発中止",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05133328/881a44747c24582cfb001e361a082d25.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=535036",
+          "author": "NewEconomy",
+          "description": "BNBスマートチェーンを対象にハードフォークを実施 BNBチェーン（BNB Chain）が、BNBスマートチェーン（BNB Smart Chain：BSC）メインネットの「フェルミ（Fermi）」アップグレード（ハードフ […]",
+          "link": "https://www.neweconomy.jp/posts/535036",
+          "publishedOn": "2026-01-05T04:24:07.000Z",
+          "wordCount": 828,
+          "title": "BNBチェーン、Fermiハードフォーク実施へ。トランザクション確定を高速化",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05132253/05727e99c8812b582526785f8ae7baa5.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=535018",
           "author": "NewEconomy",
@@ -830,6 +990,31 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=150340",
+          "author": "よきょい",
+          "description": "2025年の市場パフォーマンスにおいて、ビットコイン財務企業として知られるメタプラネット株がビットコイン（BTC）を上回る成績を残したことがデータから明らかになりました。 市場では最高値からの大幅な下落率に注目が集まり、 […]\n投稿 メタプラネットvsビットコイン、2025年の勝者は？データが示す意外な結末 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-metaplanet-vs-bitcoin-who-will-win-in-2025/",
+          "publishedOn": "2026-01-05T05:52:33.000Z",
+          "wordCount": 544,
+          "title": "メタプラネットvsビットコイン、2025年の勝者は？データが示す意外な結末",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_1944988885.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=150307",
+          "author": "Crypto Times 編集部",
+          "description": "昨年2025年は法整備やステーブルコインの発展など、ブロックチェーン技術が「実験」から「社会実装」のフェーズへと大きく踏み出した1年でした。 新たな年を迎えた今、2026年の仮想通貨（暗号資産）市場はどの分野・テーマが注 […]\n投稿 仮想通貨の今後はどうなる？業界有識者40名が予測する2026年の注目分野【前編】 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/column-2026-crypto-market-prediction/",
+          "publishedOn": "2026-01-05T04:37:03.000Z",
+          "wordCount": 730,
+          "title": "仮想通貨の今後はどうなる？業界有識者40名が予測する2026年の注目分野【前編】",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/image2026.png"
+        },
         {
           "id": "https://crypto-times.jp/?p=150341",
           "author": "よきょい",

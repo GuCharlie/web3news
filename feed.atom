@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-07T08:25:41.517Z</updated>
+    <updated>2026-01-07T08:53:56.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メタプラネット株4%高騰、MSCIによる指数除外見送りが影響か]]></title>
+        <id>https://crypto-times.jp/?p=150543</id>
+        <link href="https://crypto-times.jp/news-metaplanet-shares-surge-4-msci-may-be-behind/"/>
+        <updated>2026-01-07T08:26:18.000Z</updated>
+        <summary type="html"><![CDATA[メタプラネット株価が1月7日の取引において堅調な推移を見せました。同社の株価は前日比21円高となる531円で取引を終え上昇率は4.12%を記録。この株価上昇の主要な要因として、世界的な指数算出会社であるMSCIによる新た […]
+投稿 メタプラネット株4%高騰、MSCIによる指数除外見送りが影響か は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国人民銀行、2026年に仮想通貨取引監視強化へ]]></title>
         <id>https://coinpost.jp/?p=679244</id>
@@ -1975,16 +1986,6 @@ DATはどこへ向かうのか──企業が暗号資産と向き合う「DAT2.
         <summary type="html"><![CDATA[ビットコインマイニング企業ビットファームズは、パラグアイの施設を3000万ドルで売却し、中南米市場から完全に撤退すると発表した。]]></summary>
         <author>
             <name>Cointelegraph  Turner Wright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVMチェーンで数百の仮想通貨ウォレットが被害　少額を広範囲に抜き取る攻撃か]]></title>
-        <id>https://jp.cointelegraph.com/news/hundreds-evm-wallets-drained-mysterious-attack</id>
-        <link href="https://jp.cointelegraph.com/news/hundreds-evm-wallets-drained-mysterious-attack?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-01-02T20:38:45.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム仮想マシン（EVM）互換チェーン上で、数百にのぼる仮想通貨ウォレットから資金が流出する攻撃が確認された。オンチェーン調査を手掛けるZachXBT氏によれば、被害は広範囲に及ぶ一方、各ウォレットからの流出額は比較的少額にとどまるという。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
         </author>
     </entry>
 </feed>

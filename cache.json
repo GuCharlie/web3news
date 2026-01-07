@@ -1982,21 +1982,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdmNGYtMzg4Mi03OTllLTg3OWMtZGIyNDk4MjYwMjM4LmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitfarms-latam-paraguay-sale",
-          "author": "Cointelegraph  Turner Wright",
-          "description": "ビットコインマイニング企業ビットファームズは、パラグアイの施設を3000万ドルで売却し、中南米市場から完全に撤退すると発表した。",
-          "link": "https://jp.cointelegraph.com/news/bitfarms-latam-paraguay-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-01-02T20:58:37.000Z",
-          "wordCount": 239,
-          "title": "マイニング企業ビットファームズ、パラグアイ拠点売却で中南米から完全撤退　北米とAI分野に集中へ",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdmMzItMjVmZC03NTAzLTg5M2UtNzlhZGEyZjNhZTI2LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdmMzItMjVmZC03NTAzLTg5M2UtNzlhZGEyZjNhZTI2LmpwZw==.jpg"
         }
       ]
     },
@@ -2005,6 +1990,36 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=150541",
+          "author": "よきょい",
+          "description": "ステーブルコイン発行大手のテザー社は同社が提供する金（ゴールド）裏付けの暗号資産であるテザーゴールド（XAUT）において、新たな会計単位「Scudo」を導入しました。 Introducing Scudo. A new w […]\n投稿 テザーゴールドに新単位「Scudo」登場、金投資が1/1000単位に は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-introducing-the-new-tether-gold-unit-scudo/",
+          "publishedOn": "2026-01-07T09:20:54.000Z",
+          "wordCount": 656,
+          "title": "テザーゴールドに新単位「Scudo」登場、金投資が1/1000単位に",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2461783511.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=150542",
+          "author": "よきょい",
+          "description": "日本円ステーブルコインの普及とエコシステム拡大に取り組むPAO TECH LabsとDeFi（分散型金融）分野で財務アドバイザリーを手掛けるSteakhouse Financialは、戦略的パートナーシップの締結を発表し […]\n投稿 日本円ステーブルコイン「JPYC」、Morphoレンディング活用へ前進 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-jpyc-moves-forward-to-utilize-morpho-lending/",
+          "publishedOn": "2026-01-07T09:13:23.000Z",
+          "wordCount": 645,
+          "title": "日本円ステーブルコイン「JPYC」、Morphoレンディング活用へ前進",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2141275453.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=150543",
           "author": "よきょい",

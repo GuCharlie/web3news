@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-07T08:53:56.934Z</updated>
+    <updated>2026-01-07T09:25:02.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テザーゴールドに新単位「Scudo」登場、金投資が1/1000単位に]]></title>
+        <id>https://crypto-times.jp/?p=150541</id>
+        <link href="https://crypto-times.jp/news-introducing-the-new-tether-gold-unit-scudo/"/>
+        <updated>2026-01-07T09:20:54.000Z</updated>
+        <summary type="html"><![CDATA[ステーブルコイン発行大手のテザー社は同社が提供する金（ゴールド）裏付けの暗号資産であるテザーゴールド（XAUT）において、新たな会計単位「Scudo」を導入しました。 Introducing Scudo. A new w […]
+投稿 テザーゴールドに新単位「Scudo」登場、金投資が1/1000単位に は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本円ステーブルコイン「JPYC」、Morphoレンディング活用へ前進]]></title>
+        <id>https://crypto-times.jp/?p=150542</id>
+        <link href="https://crypto-times.jp/news-jpyc-moves-forward-to-utilize-morpho-lending/"/>
+        <updated>2026-01-07T09:13:23.000Z</updated>
+        <summary type="html"><![CDATA[日本円ステーブルコインの普及とエコシステム拡大に取り組むPAO TECH LabsとDeFi（分散型金融）分野で財務アドバイザリーを手掛けるSteakhouse Financialは、戦略的パートナーシップの締結を発表し […]
+投稿 日本円ステーブルコイン「JPYC」、Morphoレンディング活用へ前進 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メタプラネット株4%高騰、MSCIによる指数除外見送りが影響か]]></title>
         <id>https://crypto-times.jp/?p=150543</id>
@@ -1976,16 +1998,6 @@ DATはどこへ向かうのか──企業が暗号資産と向き合う「DAT2.
         <summary type="html"><![CDATA[ビットコインは9万4500ドルに向けた上昇に備えている可能性があるが、上値では弱気派による売り圧力が強まると予想される。]]></summary>
         <author>
             <name>Cointelegraph  Rakesh Upadhyay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイニング企業ビットファームズ、パラグアイ拠点売却で中南米から完全撤退　北米とAI分野に集中へ]]></title>
-        <id>https://jp.cointelegraph.com/news/bitfarms-latam-paraguay-sale</id>
-        <link href="https://jp.cointelegraph.com/news/bitfarms-latam-paraguay-sale?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-01-02T20:58:37.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインマイニング企業ビットファームズは、パラグアイの施設を3000万ドルで売却し、中南米市場から完全に撤退すると発表した。]]></summary>
-        <author>
-            <name>Cointelegraph  Turner Wright</name>
         </author>
     </entry>
 </feed>

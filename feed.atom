@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-07T07:27:17.463Z</updated>
+    <updated>2026-01-07T07:45:49.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム現物ETF、約178億円の純流入で3日連続プラス]]></title>
+        <id>https://coinpost.jp/?p=679208</id>
+        <link href="https://coinpost.jp/?p=679208"/>
+        <updated>2026-01-07T07:38:00.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム現物ETFが1月6日に約176億円の純流入を記録し、3日連続のプラス。ブラックロックETHAが約307億円で主導。ビットコインETFは同日流出に転じた。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソニー・ホンダモビリティ、トークン活用のオンチェーン型モビリティ構想を公開]]></title>
+        <id>https://www.neweconomy.jp/?p=535653</id>
+        <link href="https://www.neweconomy.jp/posts/535653"/>
+        <updated>2026-01-07T07:28:48.000Z</updated>
+        <summary type="html"><![CDATA[オンチェーン型モビリティ基盤とVehicle AI戦略 ソニー・ホンダモビリティが、トークンによるインセンティブモデルを活用したオンチェーン型のモビリティサービスプラットフォーム構想を公開した。このことは、米ラスベガスで […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゲートグループ、ドバイ拠点「Gate Dubai」正式ローンチ]]></title>
         <id>https://www.neweconomy.jp/?p=535651</id>

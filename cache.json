@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=332416",
+          "author": "Shoko Galaviz",
+          "description": "Optimism Foundation（オプティミズム財団）は、Superchain（スーパーチェーン）の成長とOPトークンの価値をより強く連動させる新たな提案 ...\nOptimism、OPトークンの買い戻しを提案 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/332416/",
+          "publishedOn": "2026-01-08T22:45:00.000Z",
+          "wordCount": 1535,
+          "title": "Optimism、OPトークンの買い戻しを提案",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_597885773.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=332163",
           "author": "XWIN Research",
           "description": "●米国関税を巡る最高裁判決を控え、短期的には外部要因主導でボラティリティが高まりやすい局面にある。●SOPRが1を安定的に上回らない限り、価格変動は損失確定や清 ...\n米国関税を巡る最高裁判決を前に、ボラティリティ上昇リスクをどう見るか──オンチェーンで整理する市場の現在地【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -2313,6 +2323,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/coincheck-acquires-digital-asset-manager-3iq-112m-stock-deal",
+          "author": "Cointelegraph  Nate Kostar",
+          "description": "マネックスグループは、連結子会社3iQをコインチェック・グループ傘下へ移管する組織再編を決定した。連結範囲に変更はなく、暗号資産事業と資産運用事業の連携強化を図る。",
+          "link": "https://jp.cointelegraph.com/news/coincheck-acquires-digital-asset-manager-3iq-112m-stock-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-08T23:11:11.000Z",
+          "wordCount": 265,
+          "title": "コインチェック・グループ、3iQをクリプトアセット事業セグメントへ移管　グループ内組織再編を決議",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjllNjUtNzZkOC03YmNhLTg0YTYtYjQwODMyNWJlZWQzLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjllNjUtNzZkOC03YmNhLTg0YTYtYjQwODMyNWJlZWQzLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/morgan-stanley-digital-asset-wallet-2026",
           "author": "Cointelegraph  Vince Quill",

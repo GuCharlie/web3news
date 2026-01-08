@@ -565,6 +565,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=678582",
+          "author": "CoinPost編集部",
+          "description": "米大手グレースケールが2026年の暗号資産（仮想通貨）市場で注目する10の投資テーマと関連銘柄を解説。ビットコイン（BTC）、イーサリアム（ETH）、BNB、TRXなど代表的な10銘柄について、各テーマとの関連性や将来性、主要データを紹介します。",
+          "link": "https://coinpost.jp/?p=678582",
+          "publishedOn": "2026-01-08T09:00:18.000Z",
+          "wordCount": 2623,
+          "title": "2026年注目の仮想通貨10選｜投資テーマと厳選銘柄を解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/2024pickup.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/2024pickup.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=679559",
           "author": "Enzo",
           "description": "ジーキャッシュ（Zcash）の開発企業ECCのチーム全員が、統治機関Bootstrapとのガバナンス対立により集団離脱。新会社設立を発表し、ZEC価格は7%下落。創設者ズーコ・ウィルコックス氏は理事会を擁護。",
@@ -2662,21 +2677,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjg1ZWMtNzI3ZC03OWU4LThhZWItOWU5NWZiMTZhNjE4LmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/crypto-exchanges-okx-rwa-stablecoin-2026",
-          "author": "Cointelegraph  Christina Comben",
-          "description": "仮想通貨業界は、規制が厳格化する中でも成長を続けている。大手取引所は、投機的な上場や高レバレッジ取引による急成長を追うのではなく、規制審査に耐えうる免許取得とプロダクト設計を軸に、次のサイクルを描いている。",
-          "link": "https://jp.cointelegraph.com/news/crypto-exchanges-okx-rwa-stablecoin-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-01-03T21:00:00.000Z",
-          "wordCount": 285,
-          "title": "規制強化下で成長する仮想通貨業界　2026年はライセンスとプロダクトが主戦場に",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjUwNTMtNDJlZi03N2MxLTg5NTMtN2RmMGMyZTc5MGU5LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjUwNTMtNDJlZi03N2MxLTg5NTMtN2RmMGMyZTc5MGU5LmpwZw==.jpg"
         }
       ]
     },

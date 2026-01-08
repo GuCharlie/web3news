@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-08T08:53:50.068Z</updated>
+    <updated>2026-01-08T09:25:06.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026年注目の仮想通貨10選｜投資テーマと厳選銘柄を解説]]></title>
+        <id>https://coinpost.jp/?p=678582</id>
+        <link href="https://coinpost.jp/?p=678582"/>
+        <updated>2026-01-08T09:00:18.000Z</updated>
+        <summary type="html"><![CDATA[米大手グレースケールが2026年の暗号資産（仮想通貨）市場で注目する10の投資テーマと関連銘柄を解説。ビットコイン（BTC）、イーサリアム（ETH）、BNB、TRXなど代表的な10銘柄について、各テーマとの関連性や将来性、主要データを紹介します。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[モルガン・スタンレーによるビットコインETF申請　戦略的価値が狙いか＝プロキャップCIO]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-etf-morgan-stanley-flows-reputational-procap-jeff-park</id>
@@ -2749,16 +2759,6 @@ PwC、アメリカの規制明確化で暗号資産関連の取り組みを強�
 鹿児島の離島にポツンと現れた、Web3仕掛けの「ビール工房」を追う──建物2000分割、新しいNFTオーナーシップの形【2026年 創刊特集】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>栃山 直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[規制強化下で成長する仮想通貨業界　2026年はライセンスとプロダクトが主戦場に]]></title>
-        <id>https://jp.cointelegraph.com/news/crypto-exchanges-okx-rwa-stablecoin-2026</id>
-        <link href="https://jp.cointelegraph.com/news/crypto-exchanges-okx-rwa-stablecoin-2026?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-01-03T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨業界は、規制が厳格化する中でも成長を続けている。大手取引所は、投機的な上場や高レバレッジ取引による急成長を追うのではなく、規制審査に耐えうる免許取得とプロダクト設計を軸に、次のサイクルを描いている。]]></summary>
-        <author>
-            <name>Cointelegraph  Christina Comben</name>
         </author>
     </entry>
 </feed>

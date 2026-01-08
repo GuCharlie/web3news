@@ -565,6 +565,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=679559",
+          "author": "Enzo",
+          "description": "ジーキャッシュ（Zcash）の開発企業ECCのチーム全員が、統治機関Bootstrapとのガバナンス対立により集団離脱。新会社設立を発表し、ZEC価格は7%下落。創設者ズーコ・ウィルコックス氏は理事会を擁護。",
+          "link": "https://coinpost.jp/?p=679559",
+          "publishedOn": "2026-01-08T08:10:23.000Z",
+          "wordCount": 3318,
+          "title": "ジーキャッシュ開発チームが集団離脱　ガバナンス対立で新会社設立へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/zcash-new-new.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/zcash-new-new.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=679515",
           "author": "Ritsuki.Kumazawa",
           "description": "HashPortがPontaポイントからUSDC・cbBTCへの交換で200円相当を還元する「1億円あげちゃうキャンペーン」を実施中。対象は200ポイント以上の交換者全員で、2026年3月末まで。Claude は AI のため、誤りを含む可能性があります。回答内容は必ずご確認ください。",
@@ -2183,6 +2198,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-etf-morgan-stanley-flows-reputational-procap-jeff-park",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "Analysts say the bank’s late entry into spot Bitcoin ETFs may still carry reputational and strategic upside across its brokerage and crypto ambitions.",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-etf-morgan-stanley-flows-reputational-procap-jeff-park?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-08T08:52:07.000Z",
+          "wordCount": 257,
+          "title": "モルガン・スタンレーによるビットコインETF申請　戦略的価値が狙いか＝プロキャップCIO",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjU0MjgtYjNjYS03OGYwLWFlNzAtNzY4YWZjMDQ3Mzk1LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjU0MjgtYjNjYS03OGYwLWFlNzAtNzY4YWZjMDQ3Mzk1LmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/zcash-devs-split-from-electric-coin-company-plan-to-create-new-firm",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "プライバシー重視の仮想通貨ジーキャッシュ（ZEC）を開発してきたエレクトリック・コイン・カンパニー（ECC）の全チームが、同トークンを支援する目的で設立された非営利団体ブートストラップから離脱し、新会社を立ち上げる計画だ。",
+          "link": "https://jp.cointelegraph.com/news/zcash-devs-split-from-electric-coin-company-plan-to-create-new-firm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-08T08:33:52.000Z",
+          "wordCount": 246,
+          "title": "ジーキャッシュ開発チームが非営利団体から離脱　新会社設立へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjliZTgtNWY5Ni03NTA0LWFhNzMtY2U0YTI5NDI0YzRlLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjliZTgtNWY5Ni03NTA0LWFhNzMtY2U0YTI5NDI0YzRlLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/3-checkpoints-stand-between-crypto-and-all-time-highs-in-2026-bitwise",
           "author": "Cointelegraph  Martin Young",

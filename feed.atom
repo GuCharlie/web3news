@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-09T11:16:23.271Z</updated>
+    <updated>2026-01-09T11:39:29.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨市場に底打ちの兆候｜JPモルガンがETFフロー分析]]></title>
+        <id>https://crypto-times.jp/?p=150741</id>
+        <link href="https://crypto-times.jp/news-cryptocurrency-market-shows-signs-of-bottoming-out-jpmorgan-etf-flow-analysis/"/>
+        <updated>2026-01-09T11:18:52.000Z</updated>
+        <summary type="html"><![CDATA[JPモルガンのアナリストチームは最新のレポートで仮想通貨市場におけるリスク回避の動きはほぼ終了したとの見解を示しました。1月に入り、ETFの資金フローや先物市場において、相場の底打ちを示唆する複数の兆候が確認されています […]
+投稿 仮想通貨市場に底打ちの兆候｜JPモルガンがETFフロー分析 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【1/9話題】Zcash開発全スタッフ退職で元CEOは新会社設立、コインチェックGが3iQを傘下へ、OPトークン買戻し提案など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=536234</id>
@@ -3311,47 +3322,6 @@ PwC、アメリカの規制明確化で暗号資産関連の取り組みを強�
         <summary type="html"><![CDATA[いわゆる「レンチ攻撃」の分析によると、仮想通貨保有者に対する物理的暴行は件数・深刻度ともに増加しており、特に欧州とアジアでの増加が顕著だ。]]></summary>
         <author>
             <name>Cointelegraph  Amin Haqshanas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネット、日本円の構造的弱さで米国拠点のビットコイン財務企業に対する優位性]]></title>
-        <id>https://jp.cointelegraph.com/news/metaplanet-edge-us-dats-jpy-weakness</id>
-        <link href="https://jp.cointelegraph.com/news/metaplanet-edge-us-dats-jpy-weakness?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-01-04T23:32:09.000Z</updated>
-        <summary type="html"><![CDATA[日本円は、金利が低く抑えられているため、マクロ投資家がレバレッジをかけた取引を行う際に一般的に利用されている。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アルトコインは「重要な」支持線を維持、大きな上昇局面に向かう可能性＝アナリスト]]></title>
-        <id>https://jp.cointelegraph.com/news/altcoins-hold-crucial-support-big-leg-up</id>
-        <link href="https://jp.cointelegraph.com/news/altcoins-hold-crucial-support-big-leg-up?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-01-04T23:27:36.000Z</updated>
-        <summary type="html"><![CDATA[10月に形成された重要な支持線を上回って推移していることを示すテクニカル分析に基づき、アルトコイン市場は上昇に向かう可能性がある。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産ETFの累積取引高が2兆ドルを突破──流動性の高い金融商品へ]]></title>
-        <id>https://www.nadanews.com/?p=331959</id>
-        <link href="https://www.nadanews.com/331959/"/>
-        <updated>2026-01-04T23:20:51.000Z</updated>
-        <summary type="html"><![CDATA[米国で上場する暗号資産現物ETFについて、上場以降の累積取引高（cumulative trading volume）が2兆ドルを超えたと、複数の海外メディアが伝 ...
-暗号資産ETFの累積取引高が2兆ドルを突破──流動性の高い金融商品へ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>増田隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットワイズ、11銘柄の仮想通貨ETF申請　AAVE・UNI・HYPE含む]]></title>
-        <id>https://coinpost.jp/?p=678418</id>
-        <link href="https://coinpost.jp/?p=678418"/>
-        <updated>2026-01-04T23:16:17.000Z</updated>
-        <summary type="html"><![CDATA[米ビットワイズが11銘柄の仮想通貨ETFを米SECに申請。AAVE、UNI、HYPE、SUIなどを対象に、資産の60%を直接投資、40%をデリバティブに配分する戦略で2026年3月の取引開始を予定。各ファンドは純資産の80%以上を対象トークンに集中配分。]]></summary>
-        <author>
-            <name>Enzo</name>
         </author>
     </entry>
 </feed>

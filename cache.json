@@ -2330,36 +2330,6 @@
           "wordCount": 796,
           "title": "ビットワイズが11本の暗号資産ETFを米SECに申請、「アーベ（AAVE）」や「カントンコイン（CC）」など",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05202513/6a7f730b0f052523442599f9647a97de.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=535233",
-          "author": "HitomotoToshikazu",
-          "description": "Grayscale Bittensor TrustをETF転換へ 暗号資産（仮想通貨）ビットテンソル（TAO）の投資信託「Grayscale Bittensor Trust」をETF（上場投資信託）に転換するための登録届 […]",
-          "link": "https://www.neweconomy.jp/posts/535233",
-          "publishedOn": "2026-01-05T08:53:47.000Z",
-          "wordCount": 759,
-          "title": "グレースケール、「ビットテンソル（TAO）」の現物ETF転換をSECへ申請",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05175315/94949dd25bce0e6c09c71a7d9b32a34f.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=535211",
-          "author": "NewEconomy",
-          "description": "イーサリアムの取引件数が増加 レイヤー1ブロックチェーン「イーサリアム（Ethereum）」の1日あたりのトランザクション件数が約220万件に達した。オンチェーンエクスプローラーの「イーサスキャン（Ethscan）」で確 […]",
-          "link": "https://www.neweconomy.jp/posts/535211",
-          "publishedOn": "2026-01-05T08:47:34.000Z",
-          "wordCount": 794,
-          "title": "イーサリアムの日次トランザクション数、約220万件で過去最高水準に",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05174709/409fe8798b1ed1970f1c62e460eaca60.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=535213",
-          "author": "NewEconomy",
-          "description": "取引所判断の背景にセキュリティ事案か 大手海外暗号資産（仮想通貨）取引所バイナンス（Binance）が、FLOW/BTCを含む複数の現物取引ペアの取扱いを停止すると1月2日に発表した。FLOW/BTCペアは、1月3日8時 […]",
-          "link": "https://www.neweconomy.jp/posts/535213",
-          "publishedOn": "2026-01-05T08:45:13.000Z",
-          "wordCount": 795,
-          "title": "バイナンス、FLOW/BTCペア取引停止。Flowネットワークでは復旧対応が進行中",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05174428/ac3086987faf1f8e972172b2e8f870b7.jpg"
         }
       ]
     },
@@ -2368,6 +2338,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bny-tokenized-deposits-bank-rush-blockchain-crypto",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "米国の金融サービス企業BNYは金曜日、機関投資家向けにトークン化銀行預金を開始した。トークン化銀行預金とは、ブロックチェーン上で管理される現金残高、または銀行に対する預金者の請求権を指す。",
+          "link": "https://jp.cointelegraph.com/news/bny-tokenized-deposits-bank-rush-blockchain-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-09T21:00:00.000Z",
+          "wordCount": 230,
+          "title": "BNY、機関投資家向けにトークン化銀行預金を開始",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmEzOTUtNGEyNi03N2RjLTk5ZWEtZDgyYjcxNDY0NTQzLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmEzOTUtNGEyNi03N2RjLTk5ZWEtZDgyYjcxNDY0NTQzLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-s-next-super-rally-could-depend-on-this-key-data-point",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "ビットコインの長期保有者（LTH）は2025年、最も激しい水準の分配フェーズを経験した。売却規模の大きさは市場を動揺させたが、オンチェーンデータの分析からは、この売り圧力が弱まりつつある可能性が示唆されており、次の強気局面につながる可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-s-next-super-rally-could-depend-on-this-key-data-point?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-09T20:52:15.000Z",
+          "wordCount": 273,
+          "title": "ビットコイン長期保有者の売却一巡か　オンチェーンデータが示す次の強気局面",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmEzNGItYTVjZS03ZWUzLWI1N2ItNTMwNmUwZjIyYmI2LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmEzNGItYTVjZS03ZWUzLWI1N2ItNTMwNmUwZjIyYmI2LmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-rsi-bull-signals-multiply-price-battles-90k-control",
           "author": "Cointelegraph  William Suberg",
@@ -3774,21 +3774,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2473223657.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=150338",
-          "author": "よきょい",
-          "description": "1月5日、ビットコイン（BTC）の価格は92,390ドル前後で推移しており、イーサリアム（ETH）は約3,150ドル、ソラナ（SOL）は約135ドルで取引されています。世界の暗号資産時価総額は3.23兆ドルで、ビットコイ […]\n投稿 【今日の暗号資産ニュース】大手VCによるBTC市場操作疑惑。CLARITY法が下院で可決 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-todays-crypto-news-bitcoin-market-manipulation-allegations/",
-          "publishedOn": "2026-01-05T09:08:03.000Z",
-          "wordCount": 569,
-          "title": "【今日の暗号資産ニュース】大手VCによるBTC市場操作疑惑。CLARITY法が下院で可決",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_1680257131.jpg"
         }
       ]
     }

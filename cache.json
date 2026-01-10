@@ -645,6 +645,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=680083",
+          "author": "A.Yamada",
+          "description": "クリプトクアントが仮想通貨ビットコインのクジラは下落局面で押し目買いをしていないとの見解を示した。一方、長期保有者による売却は過剰評価されていると分析する。",
+          "link": "https://coinpost.jp/?p=680083",
+          "publishedOn": "2026-01-10T04:35:02.000Z",
+          "wordCount": 3297,
+          "title": "「クジラはビットコインを買い増していない」＝クリプトクアントが見解",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/05/bitcoin-whale-new-accumulation.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/05/bitcoin-whale-new-accumulation.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=680081",
+          "author": "菊谷ルイス",
+          "description": "ステーブルコイン発行企業テザーが国連薬物犯罪事務所と共同イニシアチブを発表した。アフリカでサイバーセキュリティ教育を強化し人身売買被害者への支援を提供する取り組みを開始する。",
+          "link": "https://coinpost.jp/?p=680081",
+          "publishedOn": "2026-01-10T04:10:51.000Z",
+          "wordCount": 3282,
+          "title": "テザー、国連薬物犯罪事務所と提携",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/UNODC-tether.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/UNODC-tether.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=680065",
           "author": "A.Yamada",
           "description": "ベンチャーキャピタルa16zが2026年の仮想通貨業界を予測した。3つの分野が仮想通貨を超えてより広範な業界に浸透すると分析している。",
@@ -2470,16 +2500,6 @@
           "wordCount": 747,
           "title": "テザー社がビットコイン8888BTCを追加取得、総保有数は約9.6万BTCに",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/06120336/1e66d91fa1bc2609b6da98543d6108f6.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=535252",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/535252",
-          "publishedOn": "2026-01-05T15:28:28.000Z",
-          "wordCount": 777,
-          "title": "【1/5話題】英国で暗号資産の国際報告ルール施行、メタプラネットが10月ぶりにビットコイン追加購入など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05203654/c8622e6e722a0e221991c4fd8c63363a.jpg"
         }
       ]
     },
@@ -2488,6 +2508,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/nasdaq-cme-group-nasdaq-cme-crypto-index",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "ナスダック証券取引所とシカゴ・マーカンタイル取引所（CME）グループは、仮想通貨指数を統合し、ナスダック・クリプト・インデックス（NCI）を「ナスダック–CMEクリプト・インデックス」として再ブランド化した。",
+          "link": "https://jp.cointelegraph.com/news/nasdaq-cme-group-nasdaq-cme-crypto-index?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-10T05:30:23.000Z",
+          "wordCount": 303,
+          "title": "ナスダックとCMEが仮想通貨指数を統合　貨インデックス投資への需要拡大",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmE0OTktMGQ1YS03ZGM1LTgxMmMtZDE1MWE3N2VkOWIwLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmE0OTktMGQ1YS03ZGM1LTgxMmMtZDE1MWE3N2VkOWIwLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/price-predictions-1-9-btc-eth-xrp-bnb-sol-doge-ada-bch-link-hype",
           "author": "Cointelegraph  Rakesh Upadhyay",
@@ -3170,6 +3205,121 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=150749",
+          "author": "よきょい",
+          "description": "記事の要点 ▪️高値で買った投資家の含み損が重石となり需給悪化 ▪️最終防衛ラインは2.00ドルか 2.40ドルまでの急騰劇から一転、リップル（XRP）市場は深い調 […]\n投稿 リップル(XRP)、需給悪化で「戻り売り」ー2.00ドル崩壊でパニック売りか【仮想通貨チャート分析】 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-ripple-xrp-sells-back-due-to-worsening-supply-and-demand/",
+          "publishedOn": "2026-01-10T04:31:07.000Z",
+          "wordCount": 608,
+          "title": "リップル(XRP)、需給悪化で「戻り売り」ー2.00ドル崩壊でパニック売りか【仮想通貨チャート分析】",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2697101913.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=150779",
+          "author": "よきょい",
+          "description": "記事の要点 ▪️4時間足チャートでは下落を示唆する「デスクロス」が定着 ▪️91,100ドル以上で4時間足が確定すれば再上昇への足がかりとなる可能性 94,000ド […]\n投稿 ビットコイン(BTC)、90,000ドルの崖っぷちで膠着【仮想通貨チャート分析】 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitcoin-btc-stuck-on-the-brink-of-90000/",
+          "publishedOn": "2026-01-10T04:19:18.000Z",
+          "wordCount": 609,
+          "title": "ビットコイン(BTC)、90,000ドルの崖っぷちで膠着【仮想通貨チャート分析】",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2505174301.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=150750",
+          "author": "よきょい",
+          "description": "1月10日、ビットコイン（BTC）の価格は90,420ドル前後で推移しており、イーサリアム（ETH）は約3,070ドル、ソラナ（SOL）は約135ドルで取引されています。世界の暗号資産時価総額は3.17兆ドルで、ビットコ […]\n投稿 【今日の暗号資産ニュース】ビットコイン11万ドル到達か？リップル利用者の過疎化進む は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-todays-cryptocurrency-news-bitcoin-and-ripple/",
+          "publishedOn": "2026-01-10T04:14:57.000Z",
+          "wordCount": 619,
+          "title": "【今日の暗号資産ニュース】ビットコイン11万ドル到達か？リップル利用者の過疎化進む",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2652148861.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=150751",
+          "author": "よきょい",
+          "description": "株式会社メタプラネットの株価が顕著な上昇を見せています。2026年1月9日の東京株式市場において、同社株は前日比46円高（+9.31%）となる540円で取引を終了しました。 現在のメタプラネットの株価は短期的な上昇トレン […]\n投稿 メタプラネット株、5日間で28%急騰！BTC上昇で注目集まる は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-metaplanet-shares-surge-28-in-five-days/",
+          "publishedOn": "2026-01-10T04:10:44.000Z",
+          "wordCount": 608,
+          "title": "メタプラネット株、5日間で28%急騰！BTC上昇で注目集まる",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2618075253.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=150747",
+          "author": "よきょい",
+          "description": "年末年始にかけて減少傾向にあった日本円ステーブルコイン「JPYC」の市場流通量は回復の兆しを見せているものの、保有者アドレス数は依然として減少トレンドが継続しています。 10日時点の総流通量は約3億2,319万円となって […]\n投稿 日本円ステーブルコイン「JPYC」、流通量回復も利用アドレス減少続く は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-jpyc-circulation-recovers-but-usage-addresses-continue-to-decline/",
+          "publishedOn": "2026-01-10T04:05:41.000Z",
+          "wordCount": 598,
+          "title": "日本円ステーブルコイン「JPYC」、流通量回復も利用アドレス減少続く",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2634405041.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=150752",
+          "author": "よきょい",
+          "description": "2026年のXRP市場は、ウォール街での成功とオンチェーン活動の停滞という対照的な二つの側面に引き裂かれています。 機関投資家による需要拡大に伴い供給不足の兆候が見られる一方で、基盤となるXRPレジャー（XRPL）のユー […]\n投稿 リップル(XRP)、資金流入続くも利用者の過疎化進む は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-ripple-capital-inflows-but-actual-demand-sluggish/",
+          "publishedOn": "2026-01-10T03:53:04.000Z",
+          "wordCount": 599,
+          "title": "リップル(XRP)、資金流入続くも利用者の過疎化進む",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_1979430869.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=150753",
+          "author": "よきょい",
+          "description": "暗号資産市場は12月の急激な売り圧力を経て、第1四半期に向けた回復の初期兆候を示しています。 コインベースによる最新の分析では現物ETFへの資金流入、システム全体のレバレッジ低下、オーダーブックの流動性改善、そしてオプシ […]\n投稿 ビットコイン11万ドル到達か？コインベースが示す「4つの回復指標」 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-will-bitcoin-reach-110000-four-recovery-indicators/",
+          "publishedOn": "2026-01-10T03:19:23.000Z",
+          "wordCount": 657,
+          "title": "ビットコイン11万ドル到達か？コインベースが示す「4つの回復指標」",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2665956193.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=150754",
+          "author": "Crypto Times 編集部",
+          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 暗号資産取引所BTCCは、業界最大規模の報酬総額1,000万ドルの賞金 […]\n投稿 BTCC取引所｜ベストCEX記念！総額1,000万ドルの賞金をかけた新年トレードフェスを発表 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/press-btcc-announces-new-year-trading-festival/",
+          "publishedOn": "2026-01-10T01:17:55.000Z",
+          "wordCount": 609,
+          "title": "BTCC取引所｜ベストCEX記念！総額1,000万ドルの賞金をかけた新年トレードフェスを発表",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/unknown-1.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=150743",
           "author": "Crypto Times 編集部",

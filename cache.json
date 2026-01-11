@@ -1510,16 +1510,6 @@
           "wordCount": 756,
           "title": "ポリマーケット、米主要都市の不動産予測市場展開へ、パークルと提携で",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/07195106/0f423a9919d5ec0cde893c468b604fb4.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=535695",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/535695",
-          "publishedOn": "2026-01-07T10:05:00.000Z",
-          "wordCount": 766,
-          "title": "【1/7話題】モルガンスタンレーがBTCとSOLのETF申請、MSCIがDAT企業の指数除外見送り、テザーゴールドが新単位など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/07190101/4807382f9ca6573895a76a28027c12bf.jpg"
         }
       ]
     },
@@ -1528,6 +1518,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/eth-btc-bottom-april-mirror-2019-cycle",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "市場アナリストのミハエル・ヴァン・デ・ポッペ氏によると、イーサリアムのエコシステムでは開発活動とトークン化資産のロック価値が拡大している。",
+          "link": "https://jp.cointelegraph.com/news/eth-btc-bottom-april-mirror-2019-cycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-11T22:13:42.000Z",
+          "wordCount": 343,
+          "title": "ETH-BTCレシオ、4月に底打ち　2019年サイクルと類似とアナリスト指摘",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVkZDItODc5MS03MDhjLWJlMzgtMGMwNDUyMDYyZGUx.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVkZDItODc5MS03MDhjLWJlMzgtMGMwNDUyMDYyZGUx.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoiners-celebrate-17th-anniversary-hal-finney-bitcoin",
           "author": "Cointelegraph  Vince Quill",
@@ -2629,51 +2634,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_1933655690.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=150538",
-          "author": "よきょい",
-          "description": "記事の要点 ▪️過熱感からの利益確定売りに押され急反落 ▪️中期トレンド（ゴールデンクロス状態）は依然として崩れず 2.40ドル台まで駆け上がったリップル（XRP） […]\n投稿 リップル(XRP)、2.40ドルでピークアウトー短期EMAを割り込み【仮想通貨チャート分析】 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-ripple-xrp-peaks-at-2-40/",
-          "publishedOn": "2026-01-07T10:09:10.000Z",
-          "wordCount": 612,
-          "title": "リップル(XRP)、2.40ドルでピークアウトー短期EMAを割り込み【仮想通貨チャート分析】",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2306358777.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=150539",
-          "author": "よきょい",
-          "description": "記事の要点 ▪️94,000ドルの高値更新を目前とするもレジスタンスラインで強い売り圧力に遭い失速 ▪️強い上昇トレンド（バンドウォーク）は終了か 94,000ドル […]\n投稿 ビットコイン(BTC)、94,000ドル突破ならず急反落【仮想通貨チャート分析】 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-bitcoin-btc-falls-sharply-after-failing-to-break-through-94000/",
-          "publishedOn": "2026-01-07T10:01:28.000Z",
-          "wordCount": 607,
-          "title": "ビットコイン(BTC)、94,000ドル突破ならず急反落【仮想通貨チャート分析】",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2418472073.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=150540",
-          "author": "よきょい",
-          "description": "1月7日、ビットコイン（BTC）の価格は91,930ドル前後で推移しており、イーサリアム（ETH）は約3,220ドル、ソラナ（SOL）は約138ドルで取引されています。世界の暗号資産時価総額は3.28兆ドルで、ビットコイ […]\n投稿 【今日の暗号資産ニュース】ビットコイン9.4万ドル突破。日本発ミームコインが大暴落 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-bitcoin-hits-94000-as-japanese-meme-coin-crashes/",
-          "publishedOn": "2026-01-07T09:42:09.000Z",
-          "wordCount": 619,
-          "title": "【今日の暗号資産ニュース】ビットコイン9.4万ドル突破。日本発ミームコインが大暴落",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2279159797.jpg"
         }
       ]
     }

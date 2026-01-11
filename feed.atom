@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-11T22:16:04.965Z</updated>
+    <updated>2026-01-11T22:42:22.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン弱気相場は継続か　べき乗則が示す「正念場」は6万5,000ドル]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-four-year-cycle-in-play-power-law-65k-retest</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-four-year-cycle-in-play-power-law-65k-retest?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-01-11T22:33:51.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインが2026年を調整局面の年として過ごす場合、価格は6万5,000ドル付近で新たな攻防に直面する可能性があると、べき乗則に基づく分析は結論づけた。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム財務企業ビットマイン、ステーキングETHが100万枚を突破]]></title>
+        <id>https://jp.cointelegraph.com/news/ethereum-bitmine-1-million-staked-eth</id>
+        <link href="https://jp.cointelegraph.com/news/ethereum-bitmine-1-million-staked-eth?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-01-11T22:20:25.000Z</updated>
+        <summary type="html"><![CDATA[ビットマイン・イマージョン・テクノロジーズは、企業保有高で最大のイーサリアム財務企業であり、企業トレジャリーに400万ETH超を保有している。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ETH-BTCレシオ、4月に底打ち　2019年サイクルと類似とアナリスト指摘]]></title>
         <id>https://jp.cointelegraph.com/news/eth-btc-bottom-april-mirror-2019-cycle</id>
@@ -2047,17 +2067,6 @@ J.P. Morgan、「JPM Coin」をCanton Networkで提供へ first appeared on NADA
         <summary type="html"><![CDATA[ParclとPolymarketが提携 ソラナ（Solana）上の不動産投資プラットフォーム提供のパークル（Parcl）が、ブロックチェーン・暗号資産（仮想通貨）活用の予測市場を提供するポリマーケット（Polymarke […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップル20%急騰、ビットコインを上回るパフォーマンス]]></title>
-        <id>https://crypto-times.jp/?p=150623</id>
-        <link href="https://crypto-times.jp/news-ripple-surges-outperforming-bitcoin/"/>
-        <updated>2026-01-07T10:31:35.000Z</updated>
-        <summary type="html"><![CDATA[2026年の幕開けとともにリップル（XRP）が時価総額上位の暗号資産の中で際立ったパフォーマンスを見せています。 ビットコイン（BTC）やイーサリアム（ETH）の上昇率が10%未満に留まる中、直近一週間で約20%の高騰を […]
-投稿 リップル20%急騰、ビットコインを上回るパフォーマンス は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
         </author>
     </entry>
 </feed>

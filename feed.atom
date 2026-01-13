@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-13T09:24:58.646Z</updated>
+    <updated>2026-01-13T09:49:38.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[連邦裁判所、テネシー州のKalshiに対するスポーツ取引停止命令を一時差し止め]]></title>
+        <id>https://www.nadanews.com/?p=332762</id>
+        <link href="https://www.nadanews.com/332762/"/>
+        <updated>2026-01-13T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[【CoinDesk Summary】 ●連邦裁判所の判事は、テネシー州が予測市場Kalshiに対して停止命令（差し止め命令）を執行することを一時的に差し止めた。 ...
+連邦裁判所、テネシー州のKalshiに対するスポーツ取引停止命令を一時差し止め first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>NADA NEWS編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓国、法人の暗号資産投資とビットコイン現物ETFを2026年内に解禁へ]]></title>
         <id>https://www.neweconomy.jp/?p=537004</id>
@@ -1762,16 +1773,6 @@ Optimism、OPトークンの買い戻しを提案 first appeared on NADA NEWS（
 万博、KDDIとの提携──ウォレットとDeFiという難問に挑むHashPort、本格展開の1年となるか【2026年 創刊特集】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>増田隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21シェアーズがイーサリアムETFのステーキング報酬を分配、グレースケールに続く事例]]></title>
-        <id>https://coinpost.jp/?p=679680</id>
-        <link href="https://coinpost.jp/?p=679680"/>
-        <updated>2026-01-08T21:40:53.000Z</updated>
-        <summary type="html"><![CDATA[グレースケールに続く事例仮想通貨上場投資商品（ETP）発行大手の21シェアーズは7日、イーサリアム現物ETF（ティッカー:TETH）がステーキング報酬の分配を実施すると発表した。1株あたり0.010378ドルが支払われる。基準日は1月8日で...]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

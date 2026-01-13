@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=332808",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ●ビットコインは、重要なインフレ指標の発表と政治的不安定化を背景に、過去24時間（記事執筆時点）で2％超上昇し、9万300 ...\nビットコイン、9万5000ドル突破──FRB追加利下げ観測が強まる first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/332808/",
+          "publishedOn": "2026-01-13T23:32:46.000Z",
+          "wordCount": 1420,
+          "title": "ビットコイン、9万5000ドル突破──FRB追加利下げ観測が強まる",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/image-322.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=332798",
           "author": "NADA NEWS編集部",
           "description": "●米国市場構造法案は、暗号資産を排除するのではなく「制度資産」として整理・組み込む設計図である。●DeFiは既存金融と同一視されず、分散性を前提とした“別のイン ...\n米国市場構造法案が照らす暗号資産の次の姿 ──オンチェーンが先に語り始めた「制度化」の兆し【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -969,6 +979,21 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/jpmorgan-cfo-warns-yield-stablecoins-parallel-banking-risk",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "JPモルガン・チェースの2025年第4四半期決算説明会で、ステーブルコインが話題として浮上した。経営陣はブロックチェーン技術への支持を示す一方で、特定のステーブルコイン設計が規制された銀行システムを脅かす可能性があると警告した。",
+          "link": "https://jp.cointelegraph.com/news/jpmorgan-cfo-warns-yield-stablecoins-parallel-banking-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-13T23:29:37.000Z",
+          "wordCount": 239,
+          "title": "JPモルガンCFOがステーブルコインに警鐘　利回り型は銀行システムへの脅威と指摘",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmI5MjQtNDk4Yy03NzEyLThjOWYtYjBlODkxNmI5ZWUzLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmI5MjQtNDk4Yy03NzEyLThjOWYtYjBlODkxNmI5ZWUzLmpwZw==.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/sol-chart-shows-masterpiece-setup-to-dollar190-after-key-trend-turns-bullish",
           "author": "Cointelegraph  Biraajmaan Tamuly",
           "description": "ソラナ（SOL）は、重要なレジスタンスゾーン直下で価格構造が引き締まる中、トレーダーの注目を集めている。数カ月にわたる保ち合いを経て、アルトコインであるソラナは決定的なトレンドブレイクに向けた準備段階に入った可能性があると、アナリストは指摘する。",
@@ -1689,21 +1714,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_2673462071.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=150741",
-          "author": "Crypto Times 編集部",
-          "description": "JPモルガンのアナリストチームは最新のレポートで仮想通貨市場におけるリスク回避の動きはほぼ終了したとの見解を示しました。1月に入り、ETFの資金フローや先物市場において、相場の底打ちを示唆する複数の兆候が確認されています […]\n投稿 仮想通貨市場に底打ちの兆候｜JPモルガンがETFフロー分析 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-cryptocurrency-market-shows-signs-of-bottoming-out-jpmorgan-etf-flow-analysis/",
-          "publishedOn": "2026-01-09T11:18:52.000Z",
-          "wordCount": 613,
-          "title": "仮想通貨市場に底打ちの兆候｜JPモルガンがETFフロー分析",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_2672182385.jpg"
         }
       ]
     }

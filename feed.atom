@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-13T11:40:53.179Z</updated>
+    <updated>2026-01-13T12:39:22.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【1/13話題】BNB貯まるBinance Japan Cardの申込受付開始、ストラテジーが約12億ドルでビットコイン追加購入など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=537050</id>
+        <link href="https://www.neweconomy.jp/posts/537050"/>
+        <updated>2026-01-13T12:11:41.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ステーブルコイン利回り禁止へ、米新法に厳格規定]]></title>
         <id>https://crypto-times.jp/?p=150878</id>
@@ -1715,16 +1725,6 @@ Polygon Labs、ステーブルコイン決済の新フレームワーク「Open 
         <summary type="html"><![CDATA[イーサリアムL2のオプティミズム財団が、スーパーチェーン収益50%でのOPトークン買い戻しを提案した。スーパーチェーンの成長がOPの価値向上に直結する仕組みを構想している。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨市場が安定化、ETF資金流出に底打ちの兆し＝JPモルガン分析]]></title>
-        <id>https://coinpost.jp/?p=679696</id>
-        <link href="https://coinpost.jp/?p=679696"/>
-        <updated>2026-01-09T00:13:15.000Z</updated>
-        <summary type="html"><![CDATA[「仮想通貨の冬」は早くも終了か？JPモルガンのアナリストが仮想通貨市場で安定化の兆しが見られたと報告した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

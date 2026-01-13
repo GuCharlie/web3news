@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-13T10:48:50.548Z</updated>
+    <updated>2026-01-13T11:17:15.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ストラテジー社、12.5億ドルでビットコイン追加購入｜強気姿勢崩さず]]></title>
+        <id>https://crypto-times.jp/?p=150880</id>
+        <link href="https://crypto-times.jp/news-strategy-inc-buys-additional-bitcoin-for-1-25-billion/"/>
+        <updated>2026-01-13T11:08:28.000Z</updated>
+        <summary type="html"><![CDATA[ストラテジー（Strategy）は1月12日、米証券取引委員会（SEC）に提出した臨時報告書（Form 8-K）において暗号資産ビットコイン（BTC）の追加購入を完了したことを明らかにしました。 Strategy has […]
+投稿 ストラテジー社、12.5億ドルでビットコイン追加購入｜強気姿勢崩さず は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[元ニューヨーク市長が関与したミームコイン、流動性流出で批判の的に]]></title>
         <id>https://www.nadanews.com/?p=332775</id>
@@ -1712,16 +1723,6 @@ Polygon Labs、ステーブルコイン決済の新フレームワーク「Open 
         <summary type="html"><![CDATA[ブラックロックは1月第1週に約9,000BTCを追加し、2025年末の調整後にエクスポージャーを再構築した。これは、ビットコイン（BTC）の積み増しが始まりつつある初期的な兆候を示している。]]></summary>
         <author>
             <name>Cointelegraph  Biraajmaan Tamuly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインチェック・グループ、3iQをクリプトアセット事業セグメントへ移管　グループ内組織再編を決議]]></title>
-        <id>https://jp.cointelegraph.com/news/coincheck-acquires-digital-asset-manager-3iq-112m-stock-deal</id>
-        <link href="https://jp.cointelegraph.com/news/coincheck-acquires-digital-asset-manager-3iq-112m-stock-deal?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-01-08T23:11:11.000Z</updated>
-        <summary type="html"><![CDATA[マネックスグループは、連結子会社3iQをコインチェック・グループ傘下へ移管する組織再編を決定した。連結範囲に変更はなく、暗号資産事業と資産運用事業の連携強化を図る。]]></summary>
-        <author>
-            <name>Cointelegraph  Nate Kostar</name>
         </author>
     </entry>
 </feed>

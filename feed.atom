@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-14T22:18:45.206Z</updated>
+    <updated>2026-01-14T22:46:22.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トークン化ゴールド、時価総額177％増を受け2025年のRWA純増の25％を占める]]></title>
+        <id>https://jp.cointelegraph.com/news/tokenized-gold-drives-rwa-growth-2025</id>
+        <link href="https://jp.cointelegraph.com/news/tokenized-gold-drives-rwa-growth-2025?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-01-14T22:41:02.000Z</updated>
+        <summary type="html"><![CDATA[オンチェーン型の金商品は昨年、数十億ドル規模の新たな価値を積み上げ、取引活動がブロックチェーン基盤へ移行する中で、現物地金や大半の金ETFを上回った。]]></summary>
+        <author>
+            <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米生産者物価の高止まりと関税判断見送りの中、ビットコイン価格は9万7,000ドルを付ける]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-price-97k-despite-high-ppi-inflation-no-us-tariff-ruling</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-price-97k-despite-high-ppi-inflation-no-us-tariff-ruling?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-01-14T22:32:45.000Z</updated>
+        <summary type="html"><![CDATA[11月の米生産者物価指数（PPI）が予想を上回ったにもかかわらず、ビットコインは米株式市場と逆行し、8週間ぶりの高値に向かった。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[強気相場再開なるか　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ]]></title>
+        <id>https://jp.cointelegraph.com/news/price-predictions-1-14-btc-eth-xrp-bnb-sol-doge-ada-xmr-bch-link</id>
+        <link href="https://jp.cointelegraph.com/news/price-predictions-1-14-btc-eth-xrp-bnb-sol-doge-ada-xmr-bch-link?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-01-14T22:19:59.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインは10万ドルに近づき、イーサリアムと一部のアルトコインは2026年の高値更新を狙う。テクニカルチャートは強気相場の再開を示しているのか。]]></summary>
+        <author>
+            <name>Cointelegraph  Rakesh Upadhyay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ジーキャッシュ財団、プライバシーコインを巡る2023年のSEC調査が終了したと発表]]></title>
         <id>https://jp.cointelegraph.com/news/zcash-foundation-sec-probe-privacy-coin-unregistered-security</id>

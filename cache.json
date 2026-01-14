@@ -425,6 +425,81 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=680767",
+          "author": "Enzo",
+          "description": "オンチェーン分析大手Glassnodeによると、過去6カ月間で企業によるビットコイン購入はマイニング供給の3倍に達した。ストラテジーが68万7,410BTCで首位、日本のメタプラネットは3万5,102BTCで世界4位。この需給ギャップが長期的な価格上昇圧力につながる可能性がある。",
+          "link": "https://coinpost.jp/?p=680767",
+          "publishedOn": "2026-01-14T06:48:31.000Z",
+          "wordCount": 3291,
+          "title": "企業のビットコイン保有、半年で26万増加　マイニング供給の3倍超",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/bitcoin_1223-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/bitcoin_1223-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=680742",
+          "author": "Enzo",
+          "description": "ビットディアが2025年12月末時点で管理ハッシュレート71EH/sを達成し、MARAの61.7EH/sを上回った。ただし両社の統計方法の違いから直接比較は困難との指摘も。採掘業界では半減期後の収益低下を背景にAI事業への転換が進んでいる。",
+          "link": "https://coinpost.jp/?p=680742",
+          "publishedOn": "2026-01-14T05:55:08.000Z",
+          "wordCount": 3302,
+          "title": "ビットディア、「管理ハッシュレート」でMARA超え世界最大規模　比較に疑問も",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/solo-mining-bitcoin.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/solo-mining-bitcoin.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=680706",
+          "author": "菊谷ルイス",
+          "description": "ロシア下院金融市場委員会のアクサコフ委員長が仮想通貨を特別な金融規制から外す法案が準備されたと発表した。非適格投資家は30万ルーブルまで購入可能で、プロは制限なく取引できる。",
+          "link": "https://coinpost.jp/?p=680706",
+          "publishedOn": "2026-01-14T04:45:16.000Z",
+          "wordCount": 3280,
+          "title": "ロシア下院、仮想通貨を一般金融商品化する法案を準備　春季会期で審議へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/digital-asset-russia-1.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/digital-asset-russia-1.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=680697",
+          "author": "Enzo",
+          "description": "ビットコインの長期保有者を巡る分析で見解が分かれている。LTH SOPRが一時1.0を下回り降伏の兆しとの指摘がある一方、売却減少を蓄積段階入りと解釈する声も。市場の方向性は不透明。",
+          "link": "https://coinpost.jp/?p=680697",
+          "publishedOn": "2026-01-14T04:20:28.000Z",
+          "wordCount": 3310,
+          "title": "ビットコイン長期保有者の売却行動に変化　市場の方向性は今も不透明か＝アナリスト分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/bitcoin-whale-making-more-purchase-.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/bitcoin-whale-making-more-purchase-.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=680680",
+          "author": "菊谷ルイス",
+          "description": "タイ中央銀行がデジタル金取引市場を規制し、USDTなどのステーブルコインを含む仮想通貨取引の監視を強化する。金店からの大規模なドル売却がバーツの変動性の主要因となっている。",
+          "link": "https://coinpost.jp/?p=680680",
+          "publishedOn": "2026-01-14T03:50:05.000Z",
+          "wordCount": 3279,
+          "title": "タイ中銀、デジタル金取引とUSDT監視強化へ＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/03/usdt-okx-no-more-europe.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/03/usdt-okx-no-more-europe.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=680657",
           "author": "A.Yamada",
           "description": "ソラナ・ポリシー・インスティテュートがDeFI規制について米証券取引委員会に意見書を提出。DeFi開発者への従来型規制適用は不適切とし、政策提言を行った。",
@@ -1031,6 +1106,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=537448",
+          "author": "OtsugaShinya",
+          "description": "パフィンがコインチェックから資金調達 国内暗号資産（仮想通貨）交換業者のコインチェックが、暗号資産の自動損益計算サービス「クリプタクト」を運営するパフィン（pafin）に出資したと1月14日に発表した。 なお「あたらしい […]",
+          "link": "https://www.neweconomy.jp/posts/537448",
+          "publishedOn": "2026-01-14T07:38:35.000Z",
+          "wordCount": 739,
+          "title": "コインチェック、自動損益計算サービス「クリプタクト」のpafinに出資",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/14163830/c40747923ad4e1a93ddd075f60a7e4c3.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=537436",
           "author": "gentosha_takahashi",

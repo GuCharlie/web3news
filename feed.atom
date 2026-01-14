@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-14T10:20:27.134Z</updated>
+    <updated>2026-01-14T10:50:11.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【1/14話題】コインチェックがpafinに出資、米上院がステーブルコイン保有利回り制限、YZiラボがGeniusに出資など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=537510</id>
+        <link href="https://www.neweconomy.jp/posts/537510"/>
+        <updated>2026-01-14T10:41:28.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フランクリン・テンプルトン、機関投資家向けMMF2本をトークン化市場の利用想定でアップデート]]></title>
         <id>https://www.neweconomy.jp/?p=537506</id>
@@ -318,6 +328,16 @@ JPMorganのCFO、利回り付きステーブルコインを批判──「並行
         <summary type="html"><![CDATA[21Shares Bitcoin Gold ETPがLSEに上場 スイスの資産運用会社21シェアーズ（21Shares）が、ビットコイン（BTC）と金（ゴールド）を組み合わせたETP（上場投資商品）の取引開始を1月13日 […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VanEck CEO、2026年のビットコイン価格は「不確実」　4年サイクル崩壊を示唆]]></title>
+        <id>https://coinpost.jp/?p=680702</id>
+        <link href="https://coinpost.jp/?p=680702"/>
+        <updated>2026-01-14T05:15:54.000Z</updated>
+        <summary type="html"><![CDATA[資産運用大手VanEckのCEOが、ビットコインの伝統的な4年サイクルの崩壊を指摘した。2026年はビットコイン価格について一層の不確実性を考慮するべきだと主張し、7万ドル台なら買い場と分析した。]]></summary>
+        <author>
+            <name>幸田直子</name>
         </author>
     </entry>
     <entry>
@@ -1791,16 +1811,6 @@ Ripple、英FCAの認可を取得 first appeared on NADA NEWS（ナダ・ニュ�
         <summary type="html"><![CDATA[8万9000ドルを割り込む展開となれば、ビットコインは8万4000ドルから9万5000ドルのレンジ内にとどまる状況が続く可能性がある。]]></summary>
         <author>
             <name>Cointelegraph  Rakesh Upadhyay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップル社、英金融行為監督機構から事業認可を取得　決済プラットフォーム拡大へ]]></title>
-        <id>https://coinpost.jp/?p=680042</id>
-        <link href="https://coinpost.jp/?p=680042"/>
-        <updated>2026-01-09T22:50:02.000Z</updated>
-        <summary type="html"><![CDATA[リップル社は、英国で決済プラットフォームを拡大する認可を金融行為監督機構から取得したと発表。規制遵守の取り組みにおいて大きなマイルストーンであると説明した。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>

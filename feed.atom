@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-14T21:18:18.158Z</updated>
+    <updated>2026-01-14T21:42:43.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米上院の仮想通貨法案草案、愛国者法以来の監視権限拡大の可能性]]></title>
+        <id>https://coinpost.jp/?p=680975</id>
+        <link href="https://coinpost.jp/?p=680975"/>
+        <updated>2026-01-14T21:20:30.000Z</updated>
+        <summary type="html"><![CDATA[ギャラクシー・リサーチが上院銀行委員会の仮想通貨法案草案について、米国愛国者法以来の最大規模の金融監視権限拡大となる可能性があると報告した。DASHなどのプライバシー仮想通貨銘柄の高騰材料の1つとなった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025年、暗号資産詐欺の被害額は約2兆7000億円：Chainalysis]]></title>
         <id>https://www.nadanews.com/?p=332941</id>
@@ -1619,17 +1629,6 @@ Tether、暗号資産レンディングのLednに最大80億円出資か──�
         <summary type="html"><![CDATA[テクノロジー分野に特化したベンチャーキャピタル、アンドリーセン・ホロウィッツ（a16z）は、米国の将来を支え、次の世紀で勝利するために不可欠と見なす企業や技術への投資を目的として、150億ドル超を調達したと明らかにした。その中で、仮想通貨は引き続き中核的な位置付けにあるという。]]></summary>
         <author>
             <name>Cointelegraph  Brayden Lindrea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ビットコイン価格分析】トランプ大統領の2000億ドル規模の住宅ローン債購入計画が株式市場を押し上げ──ビットコインは再びリスクにさらされるのか]]></title>
-        <id>https://www.nadanews.com/?p=332365</id>
-        <link href="https://www.nadanews.com/332365/"/>
-        <updated>2026-01-10T09:31:02.000Z</updated>
-        <summary type="html"><![CDATA[●トランプ大統領が景気刺激策として、2000億ドル規模の住宅ローン債購入を打ち出したことを受け、資金がグローバル規模で株式市場へと向かうなか、ビットコインは9万 ...
-【ビットコイン価格分析】トランプ大統領の2000億ドル規模の住宅ローン債購入計画が株式市場を押し上げ──ビットコインは再びリスクにさらされるのか first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Ibrahim Ajibade</name>
         </author>
     </entry>
 </feed>

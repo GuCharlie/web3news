@@ -1352,6 +1352,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=537815",
+          "author": "OtsugaShinya",
+          "description": "アルパカの評価額は11.5億ドルに 日本人2名が共同創業した証券インフラ提供の米アルパカ（Alpaca）が、企業評価額が11.5億ドル（約1,823億円）に達し、ユニコーン企業になったと1月14日に発表した。今回アルパカ […]",
+          "link": "https://www.neweconomy.jp/posts/537815",
+          "publishedOn": "2026-01-15T06:40:45.000Z",
+          "wordCount": 749,
+          "title": "日本人創業の証券インフラ米アルパカ、評価額11.5億ドルでユニコーンに。クラーケンなど出資で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/15154001/24023fc80ffec81b78e4e1a8836804c1.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=537776",
           "author": "OtsugaShinya",
           "description": "GMOコインにSUI上場へ 国内暗号資産（仮想通貨）取引所GMOコインが、暗号資産スイ（SUI）の取り扱い予定を1月15日に発表した。 発表によるとSUIの取り扱い開始は、1月17日の定期メンテナンス後11:00予定との […]",
@@ -1738,6 +1748,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-fear-greed-hits-greed-bitcoin-two-month-high",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "仮想通貨投資家の心理を測る指標である恐怖強欲指数は、アルトコインから資金が逃避した10月の190億ドル規模の清算イベント以降、初めて「強欲」を示す水準まで回復した。",
+          "link": "https://jp.cointelegraph.com/news/crypto-fear-greed-hits-greed-bitcoin-two-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-15T06:26:50.000Z",
+          "wordCount": 261,
+          "title": "仮想通貨のセンチメント指数が「強欲」圏に回復　昨年10月の市場暴落後で初",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdjZjQtMTdjMi03MDczLWI2MDUtZGMyZTNhZDAzNDkzLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdjZjQtMTdjMi03MDczLWI2MDUtZGMyZTNhZDAzNDkzLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/backpack-exchange-launches-beta-testing-of-prediction-market-platform",
           "author": "Cointelegraph  Helen Partz",

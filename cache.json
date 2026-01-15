@@ -520,10 +520,25 @@
       "articles": []
     },
     {
-      "title": "“JPYC” の検索結果  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=681314",
+          "author": "菊谷ルイス",
+          "description": "米CMEがカルダノ、チェーンリンク、ステラの先物取引を2月9日に開始すると発表した。マイクロサイズと大型サイズの両方の契約を提供する予定となっている。",
+          "link": "https://coinpost.jp/?p=681314",
+          "publishedOn": "2026-01-15T20:35:51.000Z",
+          "wordCount": 3317,
+          "title": "米CME、仮想通貨3銘柄の先物取引を2月9日開始予定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/cme_0514.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/cme_0514.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=681212",
           "author": "Enzo",

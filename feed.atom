@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-15T08:53:41.311Z</updated>
+    <updated>2026-01-15T09:24:47.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米国のCLARITY法案を巡り仮想通貨業界で賛否　コインベースCEOは支持撤回]]></title>
+        <id>https://jp.cointelegraph.com/news/crypto-industry-split-over-clarity-act</id>
+        <link href="https://jp.cointelegraph.com/news/crypto-industry-split-over-clarity-act?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-01-15T08:54:03.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨市場構造を定める法案を巡り、業界幹部の間で意見の分裂が鮮明になりつつある。コインベースのような大手が支持を撤回する一方で、「規制がないよりはあった方が良い」とする声も上がっている。]]></summary>
+        <author>
+            <name>Cointelegraph  Martin Young</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン先物の建玉が3カ月で30％減少　過剰レバレッジ解消は強気材料に＝アナリスト]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-oi-falls-30-resetting-markets-bullish-recovery-cryptoquant</id>
@@ -189,6 +199,16 @@ Ripple、ルクセンブルクでEMIライセンスの予備承認取得──�
 量子コンピュータは脅威なのか──BITCOIN JAPAN 2025で語られた“ビットコインFUD”の真相 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>橋本 祐樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GMOコイン、暗号資産SUI取り扱い開始　1月17日より]]></title>
+        <id>https://coinpost.jp/?p=681184</id>
+        <link href="https://coinpost.jp/?p=681184"/>
+        <updated>2026-01-15T06:55:33.000Z</updated>
+        <summary type="html"><![CDATA[GMOコインは1月17日よりスイ（SUI）の取り扱いを開始する。販売所・取引所・つみたて暗号資産に対応し、取扱銘柄は22種類に拡大。SUIの概要とGMOコインの特徴を解説する。]]></summary>
+        <author>
+            <name>Ritsuki.Kumazawa</name>
         </author>
     </entry>
     <entry>

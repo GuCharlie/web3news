@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=333119",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● 米暗号資産大手Coinbase（コインベース）のBrian Armstrong（ブライアン・アームストロング）CEOは ...\n消費者保護のためにクラリティ法案に反対：米暗号資産大手Coinbase CEO first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/333119/",
+          "publishedOn": "2026-01-15T21:30:00.000Z",
+          "wordCount": 1386,
+          "title": "消費者保護のためにクラリティ法案に反対：米暗号資産大手Coinbase CEO",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/image-972.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=333102",
           "author": "Shoko Galaviz",
           "description": "FX（外国為替）とデジタル資産を横断する機関投資家向けマーケットプレイスを運営するLMAX Group（LMAX グループ）が、暗号資産（仮想通貨）ソリューショ ...\nRippleとLMAXが提携──機関投資家向けステーブルコイン決済を本格加速 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -1928,6 +1938,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/coinbase-ceo-crypto-market-structure-bill-markup",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "ブライアン・アームストロングCEOは水曜日夜、ソーシャルメディアへの投稿で、コインベースは「現行案のままでは法案を支持できない」と述べ、審議の延期につながる可能性があると示唆した。",
+          "link": "https://jp.cointelegraph.com/news/coinbase-ceo-crypto-market-structure-bill-markup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-15T21:41:21.000Z",
+          "wordCount": 223,
+          "title": "コインベースCEO、市場構造法案のマークアップは「数週間以内」との見通し示す",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmMzMDctZjZkNS03YzA3LWEyZmYtMWMxMTM1ZjczODhmLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmMzMDctZjZkNS03YzA3LWEyZmYtMWMxMTM1ZjczODhmLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/crypto-industry-split-over-clarity-act",
           "author": "Cointelegraph  Martin Young",

@@ -1422,6 +1422,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=537928",
+          "author": "TamuraSeiji",
+          "description": "ヴィタリックがイーサリアムの自立化に向けた技術要件を提示 イーサリアム（Ethereum）の共同創業者であるヴィタリック・ブテリン（Vitalik Buterin）氏が、同ブロックチェーンが真に自立したシステムとなるため […]",
+          "link": "https://www.neweconomy.jp/posts/537928",
+          "publishedOn": "2026-01-15T08:29:51.000Z",
+          "wordCount": 793,
+          "title": "ヴィタリック、イーサリアムの「自立化テスト」の条件を提示。量子耐性など7項目",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/15172857/0ae7eef199de10e25d9c5f6a2cf86fbb.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=537920",
           "author": "NewEconomy",
           "description": "BVNKがビザと提携でステーブルコイン決済強化へ ステーブルコイン基盤を提供するBVNKが、デジタル決済大手のビザ（Visa）の送金ネットワーク「ビザ・ダイレクト（Visa Direct）」向けにステーブルコイン決済イン […]",
@@ -1878,6 +1888,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-oi-falls-30-resetting-markets-bullish-recovery-cryptoquant",
+          "author": "Cointelegraph  Martin Young",
+          "description": "オンチェーン分析企業クリプトクアントによると、ビットコイン（BTC）のデリバティブ市場における建玉（OI）は過去3カ月で減少しており、レバレッジの縮小が市場構造全体にとって強気材料になっている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-oi-falls-30-resetting-markets-bullish-recovery-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-15T08:42:11.000Z",
+          "wordCount": 248,
+          "title": "ビットコイン先物の建玉が3カ月で30％減少　過剰レバレッジ解消は強気材料に＝アナリスト",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmMwMDAtNzE1Mi03MTJiLWE5NTItZDgxNTA1ODRjNmYxLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmMwMDAtNzE1Mi03MTJiLWE5NTItZDgxNTA1ODRjNmYxLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-will-get-groove-back-despite-soaring-gold-and-nasdaq-arthur-hayes",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "ビットメックス共同創業者のアーサー・ヘイズ氏によれば、ビットコインは昨年、金やハイテク株に対してパフォーマンスが振るわなかったものの、2026年に史上最高値を更新する可能性が高いという。ヘイズ氏はその理由として、金融環境の拡張、ドル流動性の拡大を挙げている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-will-get-groove-back-despite-soaring-gold-and-nasdaq-arthur-hayes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-15T08:27:20.000Z",
+          "wordCount": 250,
+          "title": "ビットコインは2026年に最高値更新へ　流動性拡大が追い風＝アーサー・ヘイズ氏",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM1ODktM2FkNi03OTlkLTlhNmUtMDg1MjdjZWMyZjk1LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM1ODktM2FkNi03OTlkLTlhNmUtMDg1MjdjZWMyZjk1LmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/russia-bill-open-crypto-aims-common-occurrence-report",
           "author": "Cointelegraph  Jesse Coghlan",

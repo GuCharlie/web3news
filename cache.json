@@ -600,16 +600,6 @@
           "wordCount": 1406,
           "title": "プライバシー重視のトークンが上昇──モネロ（XMR）、史上最高値を更新",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/image-89.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=332615",
-          "author": "NADA NEWS編集部",
-          "description": "【CoinDesk Summary】 ●テネシー州の規制当局は、無許可のギャンブルに該当するとして、予測市場のPolymarketとKalshi、およびCryp ...\nテネシー州がPolymarket、Kalshi、Crypto.comにスポーツ関連取引の停止を命令──無許可ギャンブルと判断 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/332615/",
-          "publishedOn": "2026-01-12T01:00:00.000Z",
-          "wordCount": 1397,
-          "title": "テネシー州がPolymarket、Kalshi、Crypto.comにスポーツ関連取引の停止を命令──無許可ギャンブルと判断",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/image-29-2.jpg"
         }
       ]
     },
@@ -1838,21 +1828,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/coinbase-new-pic.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/coinbase-new-pic.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=680222",
-          "author": "A.Yamada",
-          "description": "SNS大手X（旧称ツイッター）が資産価格をリアルタイム表示する「スマートキャッシュタグ」を開発中。株式の他、ビットコインなど仮想通貨にも対応する可能性がある。",
-          "link": "https://coinpost.jp/?p=680222",
-          "publishedOn": "2026-01-12T00:40:16.000Z",
-          "wordCount": 3292,
-          "title": "イーロン・マスクのX、「スマートキャッシュタグ」開発中　仮想通貨にも対応か",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/X_twitter_0822.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/X_twitter_0822.jpg"
         }
       ]
     },
@@ -2528,6 +2503,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/polygon-labs-layoffs-payments-first-stablecoin-strategy",
+          "author": "Cointelegraph  Christina Comben",
+          "description": "ポリゴン・ラボは、ステーブルコインの決済レールと「オープン・マネー・スタック」と呼ぶオンチェーン送金向けの垂直統合型サービス群を軸に、決済ファースト戦略へと舵を切る中で、人員削減を実施した。",
+          "link": "https://jp.cointelegraph.com/news/polygon-labs-layoffs-payments-first-stablecoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-16T13:10:44.000Z",
+          "wordCount": 280,
+          "title": "ポリゴンが人員削減の方針　決済重視型への事業転換の一環",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmM2MWMtYjFiZC03MGIxLThjZjYtMTAwYzM3Zjg2ZjVkLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmM2MWMtYjFiZC03MGIxLThjZjYtMTAwYzM3Zjg2ZjVkLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/crypto-2025-volatility-regulation-stablecoins-institutional-adoption",
           "author": "Cointelegraph  Stephen Katte",

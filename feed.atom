@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-16T13:35:11.705Z</updated>
+    <updated>2026-01-16T14:20:00.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ氏「ベネズエラに関する情報漏洩者を拘束」　予測市場のインサイダー取引に関連か]]></title>
+        <id>https://jp.cointelegraph.com/news/trump-venezuela-leaker-jail-polymarket-accounts-go-quiet</id>
+        <link href="https://jp.cointelegraph.com/news/trump-venezuela-leaker-jail-polymarket-accounts-go-quiet?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-01-16T13:36:56.000Z</updated>
+        <summary type="html"><![CDATA[米国のトランプ大統領は「ベネズエラに関する情報漏洩者は特定され、現在は拘束されている」と述べた。この発言を受け、今月に入って相次いだタイミングの良すぎる賭けを背景に、予測市場への監視が改めて強まっている。]]></summary>
+        <author>
+            <name>Cointelegraph  Helen Partz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ポリゴンが人員削減の方針　決済重視型への事業転換の一環]]></title>
         <id>https://jp.cointelegraph.com/news/polygon-labs-layoffs-payments-first-stablecoin-strategy</id>

@@ -635,6 +635,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=680339",
+          "author": "CoinPost編集部",
+          "description": "DEX（分散型取引所）とは？仕組みと始め方を初心者向けに解説。代表的なDEX「Uniswap（ユニスワップ）」でのスワップ・流動性提供のやり方を画像付きで紹介。メリット・デメリット、注意すべきリスクまで網羅。",
+          "link": "https://coinpost.jp/?p=680339",
+          "publishedOn": "2026-01-16T08:47:25.000Z",
+          "wordCount": 2351,
+          "title": "DEX（分散型取引所）とは？Uniswap（ユニスワップ）の使い方を解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/Uniswap0113.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/Uniswap0113.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=681542",
           "author": "Enzo",
           "description": "仮想通貨分析企業Glassnodeによると、イーサリアムの新規ユーザー数が過去1カ月で倍増した。日次取引量は250万件を突破し、ステーブルコイン利用も史上最高を記録。12月の「フサカ」アップグレードがネットワークのスケーラビリティを大幅に向上させた。",
@@ -1796,6 +1811,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=538456",
+          "author": "NewEconomy",
+          "description": "SWIFTが既存決済網でトークン化債券を処理 国際銀行間通信協会スウィフト（Swift）が、トークン化資産の相互運用性に関する実証実験を完了したと1月15日に発表した。今回の試験では、トークン化債券の取引と決済をブロック […]",
+          "link": "https://www.neweconomy.jp/posts/538456",
+          "publishedOn": "2026-01-16T08:39:48.000Z",
+          "wordCount": 811,
+          "title": "SWIFT、ソシエテ・ジェネラルらとトークン化債券の決済実証を完了",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/16173916/724f1fa7ea9c35d577cb05aed2e38060.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=538450",
+          "author": "gentosha_takahashi",
+          "description": "プライバシー機能を強化 プライバシー重視の暗号資産ウォレットを提供するケーキ・ウォレット（Cake Wallet）が、プライバシーコイン「Zcash（ジーキャッシュ）」への対応を1月15日に正式発表した。同ウォレットでは […]",
+          "link": "https://www.neweconomy.jp/posts/538450",
+          "publishedOn": "2026-01-16T08:30:58.000Z",
+          "wordCount": 807,
+          "title": "プライバシー重視のケーキウォレットがZcashに対応、シールド取引がデフォルトに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/16173006/951f598b5fa2d2eb6cfcf9840c843b35.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=538437",
           "author": "gentosha_takahashi",

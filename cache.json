@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=333214",
+          "author": "Shoko Galaviz",
+          "description": "暗号資産（仮想通貨）市場の2025年は、結局のところビットコイン（BTC）が中心だった。だが2026年に向けて重要なのは、「ビットコインの重要性が変わったか」で ...\n2026年、暗号資産市場の新しい構造：Kraken first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/333214/",
+          "publishedOn": "2026-01-16T22:00:00.000Z",
+          "wordCount": 1417,
+          "title": "2026年、暗号資産市場の新しい構造：Kraken",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2611282275.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=333170",
           "author": "松田康生",
           "description": "本稿ではビットコイン相場を①パターン分析 ②移動平均線（9MA・25MA） ③一目均衡表 ④ボリンジャーバンド ⑤MACD ⑥RSIの代表的な6種類のテクニカル ...\nマトリックス法によるテクニカル分析（2026/1/16）さあここから！【楽天ウォレット】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -604,6 +614,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=681708",
+          "author": "菊谷ルイス",
+          "description": "韓国のグーグルプレイストアは1月28日から未登録海外仮想通貨取引所アプリの配信と更新を禁止する。バイナンスやバイビットなど主要海外取引所が対象となり、韓国の1000万人超の利用者に影響を与える見込みだ。",
+          "link": "https://coinpost.jp/?p=681708",
+          "publishedOn": "2026-01-16T22:02:14.000Z",
+          "wordCount": 3331,
+          "title": "韓国の1000万人超の利用者に影響か、グーグルプレイストア　未登録海外仮想通貨取引所アプリを禁止予定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/google-dapper-labs-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/google-dapper-labs-1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=681700",
           "author": "菊谷ルイス",
@@ -2523,6 +2548,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-etf-inflows-cross-dollar1-8b-will-btc-respond-with-a-rally-to-dollar100k",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "ビットコイン（BTC）が9万7000ドルを上回る上昇を見せた背景には、現物ビットコイン上場投資信託（ETF）への資金流入の急増があった。アナリストらは、BTCが10万ドルの節目を突破するためには、この需要が継続する必要があると考えている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-etf-inflows-cross-dollar1-8b-will-btc-respond-with-a-rally-to-dollar100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-16T21:42:07.000Z",
+          "wordCount": 283,
+          "title": "ビットコイン上昇を支えたETFへの資金流入　10万ドル超えには需要の持続が不可欠",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmM3NGItZTQ5YS03MWY3LThhYmItMzVhNmUzMTkyZDc3LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmM3NGItZTQ5YS03MWY3LThhYmItMzVhNmUzMTkyZDc3LmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/price-predictions-1-16-btc-eth-xrp-bnb-sol-doge-ada-xmr-bch-link",
           "author": "Cointelegraph  Rakesh Upadhyay",

@@ -635,6 +635,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=681542",
+          "author": "Enzo",
+          "description": "仮想通貨分析企業Glassnodeによると、イーサリアムの新規ユーザー数が過去1カ月で倍増した。日次取引量は250万件を突破し、ステーブルコイン利用も史上最高を記録。12月の「フサカ」アップグレードがネットワークのスケーラビリティを大幅に向上させた。",
+          "link": "https://coinpost.jp/?p=681542",
+          "publishedOn": "2026-01-16T07:41:51.000Z",
+          "wordCount": 3319,
+          "title": "イーサリアム、新規ウォレットの流入で利用者が倍増＝Glassnode報告",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/pectra-fusaka-ethereum.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/pectra-fusaka-ethereum.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=681517",
           "author": "Enzo",
           "description": "韓国国会が1月15日、トークン証券の発行・取引を合法化する法改正を可決。2027年施行で不動産や美術品など非標準資産への投資が拡大。BCGは2030年に2490億ドル市場と予測。",
@@ -1781,6 +1796,46 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=538437",
+          "author": "gentosha_takahashi",
+          "description": "業界内で意見分裂が続く中で 株式や暗号資産（仮想通貨）の取引アプリを提供する米ロビンフッド（Robinhood）のCEOであるヴラド・テネフ（Vlad Tenev）氏が、米国で審議が進む暗号資産市場構造法案について、上院 […]",
+          "link": "https://www.neweconomy.jp/posts/538437",
+          "publishedOn": "2026-01-16T08:21:00.000Z",
+          "wordCount": 815,
+          "title": "ロビンフッドCEO、米暗号資産市場構造法案の成立支援を表明",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/16171803/6b41f362a7160eb1e421c9c55e899bad.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=538423",
+          "author": "NewEconomy",
+          "description": "ステート・ストリートがデジタル資産事業を本格化 米金融サービス大手のステート・ストリート（State Street）が、トークン化資産向けの基盤となる「デジタル資産プラットフォーム（Digital Asset Platf […]",
+          "link": "https://www.neweconomy.jp/posts/538423",
+          "publishedOn": "2026-01-16T08:12:26.000Z",
+          "wordCount": 819,
+          "title": "ステート・ストリート、トークン化金融向けデジタル資産プラットフォーム立ち上げ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/16171204/09c7b7da7e0821cf80f58c71aab9e0a3.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=538376",
+          "author": "NewEconomy",
+          "description": "Figureがオンチェーン公開株式ネットワークを開始 米フィンテック企業のフィギュア（Figure Technology Solutions）が、公開株式をブロックチェーン上で発行・取引する仕組み「オンチェーン・パブリッ […]",
+          "link": "https://www.neweconomy.jp/posts/538376",
+          "publishedOn": "2026-01-16T08:03:05.000Z",
+          "wordCount": 678,
+          "title": "米フィギュア、公開株式をオンチェーンで発行・取引する新ネットワーク「OPEN」立ち上げ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/16170150/8a42f009ad5f586cf9eda6a0d946e731.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=538382",
+          "author": "NewEconomy",
+          "description": "ビットマインが人気YouTubeチャンネル創業企業に2億ドル投資 ビットマイン・イマージョン・テクノロジーズ（Bitmine Immersion Technologies：以下、ビットマイン）が、ビースト・インダストリー […]",
+          "link": "https://www.neweconomy.jp/posts/538382",
+          "publishedOn": "2026-01-16T07:53:31.000Z",
+          "wordCount": 872,
+          "title": "ビットマイン、人気ユーチューバー「MrBeast」創業のビースト・インダストリーズに2億ドル投資",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/16165325/d5da997b77cc32ebd0d0b11052aa26aa.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=536133",
           "author": "OtsugaShinya",

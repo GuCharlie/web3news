@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-16T21:17:37.943Z</updated>
+    <updated>2026-01-16T21:41:39.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[カナン、ナスダックから上場廃止警告　株価基準違反で]]></title>
+        <id>https://coinpost.jp/?p=681700</id>
+        <link href="https://coinpost.jp/?p=681700"/>
+        <updated>2026-01-16T21:30:34.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨マイニング機器大手のカナンがナスダックから株価基準違反の通知を受けた。株価が30営業日連続で1ドル未満となったため、7月13日までに基準を満たす必要がある。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米司法省、ベネズエラ人を約10億ドルのマネロン容疑で起訴　仮想通貨などの使用で]]></title>
+        <id>https://coinpost.jp/?p=681699</id>
+        <link href="https://coinpost.jp/?p=681699"/>
+        <updated>2026-01-16T21:15:27.000Z</updated>
+        <summary type="html"><![CDATA[米司法省がベネズエラ国籍の容疑者を約10億ドル規模のマネーロンダリング共謀容疑で刑事告発した。仮想通貨ウォレットや銀行口座を使用して不正資金を米国内外で洗浄していたとされている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[量子脅威を理由に投資推奨からビットコイン除外、投資銀行ジェフリーズ]]></title>
         <id>https://coinpost.jp/?p=681696</id>

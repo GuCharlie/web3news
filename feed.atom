@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-19T20:44:10.596Z</updated>
+    <updated>2026-01-19T21:16:20.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国籍の3名、韓国で摘発──暗号資産170億円相当をマネーロンダリング]]></title>
+        <id>https://www.nadanews.com/?p=333546</id>
+        <link href="https://www.nadanews.com/333546/"/>
+        <updated>2026-01-19T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【CoinDesk Summary】 ●韓国の税関当局は、約1億700万ドル（約169億円、1ドル=158円換算）相当の暗号資産（仮想通貨）をマネーロンダリング ...
+中国籍の3名、韓国で摘発──暗号資産170億円相当をマネーロンダリング first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>NADA NEWS編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NY証券取引所、年中無休のトークン化証券取引プラットフォームを開発]]></title>
         <id>https://coinpost.jp/?p=682148</id>
@@ -2020,16 +2031,6 @@ RippleとLMAXが提携──機関投資家向けステーブルコイン決済�
 クラーケン関連SPAC、IPOに向けてSECに文書提出 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国のCLARITY法案を巡り仮想通貨業界で賛否　コインベースCEOは支持撤回]]></title>
-        <id>https://jp.cointelegraph.com/news/crypto-industry-split-over-clarity-act</id>
-        <link href="https://jp.cointelegraph.com/news/crypto-industry-split-over-clarity-act?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-01-15T08:54:03.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨市場構造を定める法案を巡り、業界幹部の間で意見の分裂が鮮明になりつつある。コインベースのような大手が支持を撤回する一方で、「規制がないよりはあった方が良い」とする声も上がっている。]]></summary>
-        <author>
-            <name>Cointelegraph  Martin Young</name>
         </author>
     </entry>
 </feed>

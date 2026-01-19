@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-19T20:20:07.010Z</updated>
+    <updated>2026-01-19T20:44:10.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NY証券取引所、年中無休のトークン化証券取引プラットフォームを開発]]></title>
+        <id>https://coinpost.jp/?p=682148</id>
+        <link href="https://coinpost.jp/?p=682148"/>
+        <updated>2026-01-19T20:35:34.000Z</updated>
+        <summary type="html"><![CDATA[米国のニューヨーク証券取引所は1月19日、トークン化証券の取引とオンチェーン決済を可能にする新プラットフォームの開発を発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【1/19話題】サムライウォレット押収ビットコイン未売却、ビットトレードにTRUMP上場へ、イーサリアムは価値観回帰へなど（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=538897</id>
@@ -2020,57 +2030,6 @@ RippleとLMAXが提携──機関投資家向けステーブルコイン決済�
         <summary type="html"><![CDATA[仮想通貨市場構造を定める法案を巡り、業界幹部の間で意見の分裂が鮮明になりつつある。コインベースのような大手が支持を撤回する一方で、「規制がないよりはあった方が良い」とする声も上がっている。]]></summary>
         <author>
             <name>Cointelegraph  Martin Young</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン先物の建玉が3カ月で30％減少　過剰レバレッジ解消は強気材料に＝アナリスト]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-oi-falls-30-resetting-markets-bullish-recovery-cryptoquant</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-oi-falls-30-resetting-markets-bullish-recovery-cryptoquant?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-01-15T08:42:11.000Z</updated>
-        <summary type="html"><![CDATA[オンチェーン分析企業クリプトクアントによると、ビットコイン（BTC）のデリバティブ市場における建玉（OI）は過去3カ月で減少しており、レバレッジの縮小が市場構造全体にとって強気材料になっている。]]></summary>
-        <author>
-            <name>Cointelegraph  Martin Young</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヴィタリック、イーサリアムの「自立化テスト」の条件を提示。量子耐性など7項目]]></title>
-        <id>https://www.neweconomy.jp/?p=537928</id>
-        <link href="https://www.neweconomy.jp/posts/537928"/>
-        <updated>2026-01-15T08:29:51.000Z</updated>
-        <summary type="html"><![CDATA[ヴィタリックがイーサリアムの自立化に向けた技術要件を提示 イーサリアム（Ethereum）の共同創業者であるヴィタリック・ブテリン（Vitalik Buterin）氏が、同ブロックチェーンが真に自立したシステムとなるため […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインは2026年に最高値更新へ　流動性拡大が追い風＝アーサー・ヘイズ氏]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-will-get-groove-back-despite-soaring-gold-and-nasdaq-arthur-hayes</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-will-get-groove-back-despite-soaring-gold-and-nasdaq-arthur-hayes?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-01-15T08:27:20.000Z</updated>
-        <summary type="html"><![CDATA[ビットメックス共同創業者のアーサー・ヘイズ氏によれば、ビットコインは昨年、金やハイテク株に対してパフォーマンスが振るわなかったものの、2026年に史上最高値を更新する可能性が高いという。ヘイズ氏はその理由として、金融環境の拡張、ドル流動性の拡大を挙げている。]]></summary>
-        <author>
-            <name>Cointelegraph  Ciaran Lyons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドイツ第2位のDZ Bank、個人向け暗号資産取引でMiCAライセンスを取得]]></title>
-        <id>https://www.nadanews.com/?p=333055</id>
-        <link href="https://www.nadanews.com/333055/"/>
-        <updated>2026-01-15T08:25:00.000Z</updated>
-        <summary type="html"><![CDATA[ドイツ第2位の金融機関であるDZ銀行は、欧州連合（EU）の暗号資産市場規制「MiCA」の認可をドイツ連邦金融監督庁（BaFin）から取得したと発表した。これによ ...
-ドイツ第2位のDZ Bank、個人向け暗号資産取引でMiCAライセンスを取得 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビザが「Visa Direct」でステーブルコイン決済の試験導入へ、、BVNKと提携で]]></title>
-        <id>https://www.neweconomy.jp/?p=537920</id>
-        <link href="https://www.neweconomy.jp/posts/537920"/>
-        <updated>2026-01-15T08:22:54.000Z</updated>
-        <summary type="html"><![CDATA[BVNKがビザと提携でステーブルコイン決済強化へ ステーブルコイン基盤を提供するBVNKが、デジタル決済大手のビザ（Visa）の送金ネットワーク「ビザ・ダイレクト（Visa Direct）」向けにステーブルコイン決済イン […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>

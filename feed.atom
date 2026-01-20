@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-20T20:52:47.166Z</updated>
+    <updated>2026-01-20T21:17:20.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Trump Media、トークン配布の「基準日」を2月2日に設定]]></title>
+        <id>https://www.nadanews.com/?p=333734</id>
+        <link href="https://www.nadanews.com/333734/"/>
+        <updated>2026-01-20T21:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Trump Media and Technology Group（トランプ・メディア・アンド・テクノロジー・グループ）は、同社が進めるデジタルトークンイニシアチ ...
+Trump Media、トークン配布の「基準日」を2月2日に設定 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米CFTC新委員長、仮想通貨規制の近代化イニシアチブを発表]]></title>
+        <id>https://coinpost.jp/?p=682552</id>
+        <link href="https://coinpost.jp/?p=682552"/>
+        <updated>2026-01-20T21:10:17.000Z</updated>
+        <summary type="html"><![CDATA[米CFTCのマイケル・セリグ委員長が仮想通貨・デジタル資産に対するアプローチを近代化する「フューチャープルーフ」イニシアチブを発表した。規制の包括的な見直しを開始し、最小有効量の規制を採用する方針を示している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米財務長官、押収ビットコインを戦略的備蓄に追加と再確認]]></title>
+        <id>https://coinpost.jp/?p=682556</id>
+        <link href="https://coinpost.jp/?p=682556"/>
+        <updated>2026-01-20T20:50:28.000Z</updated>
+        <summary type="html"><![CDATA[ベッセント米財務長官がダボスで、押収したビットコインをすべて戦略的ビットコイン備蓄に追加する方針を再度伝えた。サムライウォレットから没収された57.55BTCも清算されていないという。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トム・リー率いるビットマイン、過去1週間で3.5万イーサリアムを追加取得]]></title>
         <id>https://coinpost.jp/?p=682548</id>
@@ -1934,49 +1965,6 @@ Societe GeneraleとSWIFT、トークン化債券取引を試験──法定通�
         <summary type="html"><![CDATA[LSEGが商業銀行預金を用いた決済基盤をローンチ ロンドン証券取引所グループ（LSEG）が、デジタル決済サービス「デジタル・セトルメント・ハウス（Digital Settlement House：LSEG DiSH）」を […]]]></summary>
         <author>
             <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イランの暗号資産エコシステム、2025年に急拡大──取引所から個人ウォレットへの移動が急増]]></title>
-        <id>https://www.nadanews.com/?p=333190</id>
-        <link href="https://www.nadanews.com/333190/"/>
-        <updated>2026-01-16T09:05:00.000Z</updated>
-        <summary type="html"><![CDATA[ブロックチェーン分析企業Chainalysis（チェイナリシス）の2026年1月のレポートによると、イランの暗号資産（仮想通貨）エコシステムは2025年に前例の ...
-イランの暗号資産エコシステム、2025年に急拡大──取引所から個人ウォレットへの移動が急増 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パキスタンが「USD1」を越境決済に活用検討、WLFI関連企業と提携で]]></title>
-        <id>https://www.neweconomy.jp/?p=538482</id>
-        <link href="https://www.neweconomy.jp/posts/538482"/>
-        <updated>2026-01-16T09:02:41.000Z</updated>
-        <summary type="html"><![CDATA[パキスタンがWLFIと提携 パキスタンが、ドナルド・トランプ（Donald Trump）米大統領の家族が経営する主要な暗号資産（仮想通貨）事業「ワールド・リバティ・ファイナンシャル（World Liberty Finan […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pudgy Penguinsアジアコミュニティ、ミシュランと提携]]></title>
-        <id>https://crypto-times.jp/?p=151097</id>
-        <link href="https://crypto-times.jp/news-pudgy-penguins-asia-community-partners-with-michelin/"/>
-        <updated>2026-01-16T09:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Pudgy Penguinsの公式アジアコミュニティであるPENGU Asiaは、タイヤメーカー大手でグルメ美食ガイドも提供するミシュランが立ち上げたWeb3プロジェクト「Michelin 3xplorer Club」と […]
-投稿 Pudgy Penguinsアジアコミュニティ、ミシュランと提携 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPYC、実店舗での利用拡大なるか｜りそな、JCBらの協業で活用]]></title>
-        <id>https://crypto-times.jp/?p=151092</id>
-        <link href="https://crypto-times.jp/news-will-jpyc-expand-payment-acceptance-in-physical-stores/"/>
-        <updated>2026-01-16T08:54:22.000Z</updated>
-        <summary type="html"><![CDATA[日本初となる円建てステーブルコイン「JPYC」の活用場面がさらに広がる可能性があります。 JCB、りそなHD、デジタルガレージの3社はステーブルコインを用いた決済の社会実装を目指し、協業の開始を発表。今回の連携は訪日外国 […]
-投稿 JPYC、実店舗での利用拡大なるか｜りそな、JCBらの協業で活用 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
 </feed>

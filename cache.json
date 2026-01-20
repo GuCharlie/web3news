@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=333734",
+          "author": "Shoko Galaviz",
+          "description": "Trump Media and Technology Group（トランプ・メディア・アンド・テクノロジー・グループ）は、同社が進めるデジタルトークンイニシアチ ...\nTrump Media、トークン配布の「基準日」を2月2日に設定 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/333734/",
+          "publishedOn": "2026-01-20T21:15:00.000Z",
+          "wordCount": 1525,
+          "title": "Trump Media、トークン配布の「基準日」を2月2日に設定",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2442962259.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=333711",
           "author": "井上 俊彦",
           "description": "Solana（ソラナ）ベースのミームコイン・ローンチパッドとして急成長を遂げたPump.funは、エコシステム内の長期的なプロジェクト支援を目的とした投資部門「 ...\nPump.fun、投資部門「Pump Fund」の設立を発表──賞金300万ドルのハッカソンも first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -500,16 +510,6 @@
           "wordCount": 1378,
           "title": "Societe GeneraleとSWIFT、トークン化債券取引を試験──法定通貨とステーブルコインを使用",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2288650813.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=333190",
-          "author": "井上 俊彦",
-          "description": "ブロックチェーン分析企業Chainalysis（チェイナリシス）の2026年1月のレポートによると、イランの暗号資産（仮想通貨）エコシステムは2025年に前例の ...\nイランの暗号資産エコシステム、2025年に急拡大──取引所から個人ウォレットへの移動が急増 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/333190/",
-          "publishedOn": "2026-01-16T09:05:00.000Z",
-          "wordCount": 1351,
-          "title": "イランの暗号資産エコシステム、2025年に急拡大──取引所から個人ウォレットへの移動が急増",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2533443207.jpg"
         }
       ]
     },
@@ -524,6 +524,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=682552",
+          "author": "菊谷ルイス",
+          "description": "米CFTCのマイケル・セリグ委員長が仮想通貨・デジタル資産に対するアプローチを近代化する「フューチャープルーフ」イニシアチブを発表した。規制の包括的な見直しを開始し、最小有効量の規制を採用する方針を示している。",
+          "link": "https://coinpost.jp/?p=682552",
+          "publishedOn": "2026-01-20T21:10:17.000Z",
+          "wordCount": 3286,
+          "title": "米CFTC新委員長、仮想通貨規制の近代化イニシアチブを発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/cftc_0418.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/cftc_0418.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=682556",
+          "author": "菊谷ルイス",
+          "description": "ベッセント米財務長官がダボスで、押収したビットコインをすべて戦略的ビットコイン備蓄に追加する方針を再度伝えた。サムライウォレットから没収された57.55BTCも清算されていないという。",
+          "link": "https://coinpost.jp/?p=682556",
+          "publishedOn": "2026-01-20T20:50:28.000Z",
+          "wordCount": 3299,
+          "title": "米財務長官、押収ビットコインを戦略的備蓄に追加と再確認",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/bessent.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/bessent.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=682548",
           "author": "菊谷ルイス",
@@ -1585,16 +1615,6 @@
           "wordCount": 790,
           "title": "英LSEG、商業銀行預金を用いたデジタル決済基盤「LSEG DiSH」発表",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/16181801/ad4105429c3e164811e57814251dc827.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=538482",
-          "author": "OtsugaShinya",
-          "description": "パキスタンがWLFIと提携 パキスタンが、ドナルド・トランプ（Donald Trump）米大統領の家族が経営する主要な暗号資産（仮想通貨）事業「ワールド・リバティ・ファイナンシャル（World Liberty Finan […]",
-          "link": "https://www.neweconomy.jp/posts/538482",
-          "publishedOn": "2026-01-16T09:02:41.000Z",
-          "wordCount": 836,
-          "title": "パキスタンが「USD1」を越境決済に活用検討、WLFI関連企業と提携で",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/16180217/7edc1f26da82ff71938eee790ca07a32.jpg"
         }
       ]
     },
@@ -2429,31 +2449,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2239263473.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=151097",
-          "author": "Crypto Times 編集部",
-          "description": "Pudgy Penguinsの公式アジアコミュニティであるPENGU Asiaは、タイヤメーカー大手でグルメ美食ガイドも提供するミシュランが立ち上げたWeb3プロジェクト「Michelin 3xplorer Club」と […]\n投稿 Pudgy Penguinsアジアコミュニティ、ミシュランと提携 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-pudgy-penguins-asia-community-partners-with-michelin/",
-          "publishedOn": "2026-01-16T09:00:31.000Z",
-          "wordCount": 658,
-          "title": "Pudgy Penguinsアジアコミュニティ、ミシュランと提携",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2719497853.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=151092",
-          "author": "Crypto Times 編集部",
-          "description": "日本初となる円建てステーブルコイン「JPYC」の活用場面がさらに広がる可能性があります。 JCB、りそなHD、デジタルガレージの3社はステーブルコインを用いた決済の社会実装を目指し、協業の開始を発表。今回の連携は訪日外国 […]\n投稿 JPYC、実店舗での利用拡大なるか｜りそな、JCBらの協業で活用 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-will-jpyc-expand-payment-acceptance-in-physical-stores/",
-          "publishedOn": "2026-01-16T08:54:22.000Z",
-          "wordCount": 615,
-          "title": "JPYC、実店舗での利用拡大なるか｜りそな、JCBらの協業で活用",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_292856240-1.jpg"
         }
       ]
     }

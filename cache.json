@@ -1353,21 +1353,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=681770",
-          "author": "A.Yamada",
-          "description": "クラーケンが2026年の仮想通貨市場を展望するレポートを公開した。ビットコインの供給やボラティリティの変化を指摘し、6つの注目テーマも挙げた。",
-          "link": "https://coinpost.jp/?p=681770",
-          "publishedOn": "2026-01-17T04:55:24.000Z",
-          "wordCount": 3334,
-          "title": "クラーケン、ビットコイン市場の変化を指摘　2026年6つの注目テーマとは？",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/kraken-dot.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/kraken-dot.png"
         }
       ]
     },
@@ -1814,6 +1799,36 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/bhutan-sei-blockchain-validator-digital-transformation",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "ブータン王国は2026年第1四半期に、Seiネットワークのバリデーターを立ち上げて運用する予定だ。これは同国が進めるデジタル・トランスフォーメーションの取り組みにおける最新の動きとなる。",
+          "link": "https://jp.cointelegraph.com/news/bhutan-sei-blockchain-validator-digital-transformation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-21T17:34:50.000Z",
+          "wordCount": 250,
+          "title": "ブータン王国、Seiネットワークのバリデーター運用へ　デジタル・トランスフォーメーションを加速",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmQ5YWYtNmMwZi03ZWM0LTlhMzQtNjM2MzFlMDI2ZGU2LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmQ5YWYtNmMwZi03ZWM0LTlhMzQtNjM2MzFlMDI2ZGU2LmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-sharks-scoop-up-btc-like-it-s-2013-despite-perfect-bull-trap",
+          "author": "Cointelegraph  Yashu Gola",
+          "description": "ビットコイン（BTC）は史上最高値から約30％下落したが、大口投資家の姿勢に大きな変化は見られず、1月を通じて保有量を増やし続けている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-sharks-scoop-up-btc-like-it-s-2013-despite-perfect-bull-trap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-21T16:53:38.000Z",
+          "wordCount": 264,
+          "title": "ビットコインの「シャーク」　調整局面でも買い増し加速　相場反発の前触れか",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmRmOTYtYWNhMS03ZDEyLWI3YTMtYTFkNjQ4OGQwOWZlLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmRmOTYtYWNhMS03ZDEyLWI3YTMtYTFkNjQ4OGQwOWZlLmpwZw==.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/bitcoin-eyes-90k-donald-trump-sees-crypto-bill-signing-very-soon",
           "author": "Cointelegraph  William Suberg",
           "description": "ビットコイン（BTC）は水曜日の米国市場寄り付き前後に9万ドルの回復を試した。米国のトランプ大統領が、仮想通貨に前向きな法案に署名する意向を示したことが背景にある。",
@@ -2247,36 +2262,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmMxNjQtNmNiYy03YjEyLWFmN2QtYTI5ZGUwNGYwYTk5LmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/doj-didnt-sell-any-bitcoin-tied-to-samourai-case",
-          "author": "Cointelegraph  Brayden Lindrea",
-          "description": "ホワイトハウスの仮想通貨アドバイザーが、サムライ・ウォレット事件で没収されたビットコインは一切売却されていないとの確認を米司法省から得たと明らかにし、市場で広がっていた噂を否定した。",
-          "link": "https://jp.cointelegraph.com/news/doj-didnt-sell-any-bitcoin-tied-to-samourai-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-01-17T05:50:48.000Z",
-          "wordCount": 278,
-          "title": "サムライウォレット事件で没収したビットコインは売却せず　ホワイトハウスの仮想通貨担当者が噂を否定",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmM5MjYtMGIxMi03MDIxLThhYmItYzlkMThjMGE0YThiLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmM5MjYtMGIxMi03MDIxLThhYmItYzlkMThjMGE0YThiLmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/goldman-sachs-ceo-clarity-act",
-          "author": "Cointelegraph  Turner Wright",
-          "description": "米金融大手ゴールドマン・サックスのデビッド・ソロモンCEOは、米上院銀行委員会が審議を延期したデジタル資産の市場構造に関する法案について見解を示した。",
-          "link": "https://jp.cointelegraph.com/news/goldman-sachs-ceo-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-01-17T05:33:19.000Z",
-          "wordCount": 241,
-          "title": "ゴールドマン・サックスCEO　米議会の仮想通貨法案に言及　トークン化とステーブルコインへの影響を注視",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmM3ZDMtOTk3My03YTdkLTljNDYtMWU1MTIzMjUxZWRkLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmM3ZDMtOTk3My03YTdkLTljNDYtMWU1MTIzMjUxZWRkLmpwZw==.jpg"
         }
       ]
     },
@@ -2734,36 +2719,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2028107021.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=151112",
-          "author": "よきょい",
-          "description": "メタプラネットの株価が2026年第1四半期に向けて鮮明な復調の兆しを見せています。25年後半の長期的な調整局面を経て、現在の価格帯で底堅い推移を見せています。 現在の価格は2025年Q1の高値圏と同水準であり、以前の急騰 […]\n投稿 メタプラネット株、25年Q1高値圏に復帰｜再急騰の準備完了か は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-metaplanet-shares-return-to-25q1-highs/",
-          "publishedOn": "2026-01-17T05:28:48.000Z",
-          "wordCount": 609,
-          "title": "メタプラネット株、25年Q1高値圏に復帰｜再急騰の準備完了か",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2680811233.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=151113",
-          "author": "よきょい",
-          "description": "株式会社電通総研は英国でプログラマブル決済基盤を提供するQuant Networkと業務提携契約を締結したと発表しました。両社は提携を通じてあらかじめ設定された条件に基づいて自動的に決済が実行される「プログラマブル決済」 […]\n投稿 電通総研が英Quantと提携、日本のステーブルコイン普及が急加速か は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-dentsu-soken-partners-with-quant/",
-          "publishedOn": "2026-01-17T04:53:28.000Z",
-          "wordCount": 599,
-          "title": "電通総研が英Quantと提携、日本のステーブルコイン普及が急加速か",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2203381821-1-1.jpg"
         }
       ]
     }

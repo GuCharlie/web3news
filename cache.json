@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=333884",
+          "author": "井上 俊彦",
+          "description": "Pipple Labs（リップル社）が発行する米ドル連動ステーブルコイン、RLUSD（リップルUSD） が世界最大の暗号資産（仮想通貨）取引所Binance（バ ...\nRippleのステーブルコイン「RLUSD」、Binanceに上場 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/333884/",
+          "publishedOn": "2026-01-21T12:20:00.000Z",
+          "wordCount": 1358,
+          "title": "Rippleのステーブルコイン「RLUSD」、Binanceに上場",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_1109552210.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=333903",
+          "author": "NADA NEWS編集部",
+          "description": "NADA NEWSを運営するN.Avenueが2023年7月より展開している「N.Avenue club」は、Web3をリサーチ・推進する企業リーダーを中心とし ...\n【N.Avenue club 3期8回ラウンドテーブル】石油の次はデジタル資産：中東で掘り起こすトークンビジネス機会 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/333903/",
+          "publishedOn": "2026-01-21T12:01:11.000Z",
+          "wordCount": 1912,
+          "title": "【N.Avenue club 3期8回ラウンドテーブル】石油の次はデジタル資産：中東で掘り起こすトークンビジネス機会",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/1200-x-800-px_記事用KV-3-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=333883",
           "author": "大谷 惇途",
           "description": "株式会社マーキュリーが提供するステーキングサービス「CoinTradeStake（コイントレードステーク）」で、国内初の取り扱いとなるトンコイン（TON）のステ ...\n暗号資産ステーキングサービス「CoinTrade Stake」、トンコイン（TON）の取り扱いを開始 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -600,26 +620,6 @@
           "wordCount": 1452,
           "title": "【ビットコイン価格分析】ETFに18億ドルの資金流入も、週末の調整を警戒",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/image1-6.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=333267",
-          "author": "NADA NEWS編集部",
-          "description": "【CoinDesk Summary】 ●イーサリアム（ETH）の大口保有者であるBitMine Immersion（ビットメイン・イマージョン）によるステーキン ...\nBitMine、イーサリアムのステーキング待機を約1兆3000億円規模に拡大 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/333267/",
-          "publishedOn": "2026-01-17T00:21:55.000Z",
-          "wordCount": 1377,
-          "title": "BitMine、イーサリアムのステーキング待機を約1兆3000億円規模に拡大",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/image-99.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=333268",
-          "author": "NADA NEWS編集部",
-          "description": "【CoinDesk Summary】 ●Polygon Labs（ポリゴン・ラボ）は、複数のチームにわたって約60人のスタッフをレイオフしたと、事情に詳しい関係 ...\nPolygon Labs、約60人をレイオフか first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/333268/",
-          "publishedOn": "2026-01-17T00:00:00.000Z",
-          "wordCount": 1388,
-          "title": "Polygon Labs、約60人をレイオフか",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/image-98.jpg"
         }
       ]
     },
@@ -1873,6 +1873,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-fills-new-year-cme-gap-sub-88k-btc-price-dip",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコイン（BTC）は水曜日、9万ドル近辺で値動きの手掛かりを探る展開となった。CMEギャップを埋めたことで、強気反発を期待する声も出ている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-fills-new-year-cme-gap-sub-88k-btc-price-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-21T11:49:56.000Z",
+          "wordCount": 461,
+          "title": "ビットコイン 8万8000ドルのCMEギャップ埋め完了　強気反発なるか？",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM2YjktNWY3Yi03ODVjLThiODgtOWNlZGZjZGE2YjhhLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM2YjktNWY3Yi03ODVjLThiODgtOWNlZGZjZGE2YjhhLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/trump-crypto-advisor-compromises-pass-crypto-bill",
           "author": "Cointelegraph  Jesse Coghlan",

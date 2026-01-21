@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=333766",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● 数カ月にわたり不安定さを増していた日本の国債市場は、一夜にして崩壊した。30年物日本国債（JGB）の利回りは30ベーシ ...\n日本国債市場の混乱が暗号資産市場に波及 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/333766/",
+          "publishedOn": "2026-01-21T01:04:12.000Z",
+          "wordCount": 1382,
+          "title": "日本国債市場の混乱が暗号資産市場に波及",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2451372529.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=333754",
           "author": "Ibrahim Ajibade",
           "description": "● 世界経済フォーラム（WEF）、通称ダボス会議での発言を受けてリスク回避の流れが強まり、イーサリアム（ETH）価格は7％下落、デリバティブ市場では大規模な清算 ...\n【イーサリアム価格分析】トム・リー氏のBitmine、追加ETH購入に「80％超」の承認──ダボス会議パネリストはドルリスクを警戒 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -534,6 +544,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=682608",
+          "author": "CoinPost編集部",
+          "description": "仮想通貨ビットコインは火曜日からの米国株式市場の急落に連れ安となり、続落の末に9万ドルを下回った。世界経済全体で経済的な不確実性リスクの高まりの影響を受け下落を続けている。",
+          "link": "https://coinpost.jp/?p=682608",
+          "publishedOn": "2026-01-21T01:20:47.000Z",
+          "wordCount": 3387,
+          "title": "ビットコイン9万ドル割れ、関税リスクで続落 投資家心理が急速悪化｜仮想NISHI",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0556.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0556.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=682603",
+          "author": "Enzo",
+          "description": "複数のオンチェーン指標がビットコイン市場の変化を示唆。機関投資家は過去1年で57.7万BTC増加、バイナンスへのクジラ送金は65%減少。恐怖・強欲指数は2025年5月以来初のゴールデンクロスを形成。",
+          "link": "https://coinpost.jp/?p=682603",
+          "publishedOn": "2026-01-21T00:49:23.000Z",
+          "wordCount": 3341,
+          "title": "オンチェーンデータ、機関買いとクジラ売り圧力減を示す＝アナリスト分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/bitcoin-whale-making-more-purchase-.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/bitcoin-whale-making-more-purchase-.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=682577",
           "author": "K.Kobayashi",
@@ -2032,21 +2072,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU1MWMtYzgwNC03NWE3LTgyNDUtY2QxNGY5ZjI5MzYy.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/polygon-labs-layoffs-payments-first-stablecoin-strategy",
-          "author": "Cointelegraph  Christina Comben",
-          "description": "ポリゴン・ラボは、ステーブルコインの決済レールと「オープン・マネー・スタック」と呼ぶオンチェーン送金向けの垂直統合型サービス群を軸に、決済ファースト戦略へと舵を切る中で、人員削減を実施した。",
-          "link": "https://jp.cointelegraph.com/news/polygon-labs-layoffs-payments-first-stablecoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-01-16T13:10:44.000Z",
-          "wordCount": 280,
-          "title": "ポリゴンが人員削減の方針　決済重視型への事業転換の一環",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmM2MWMtYjFiZC03MGIxLThjZjYtMTAwYzM3Zjg2ZjVkLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmM2MWMtYjFiZC03MGIxLThjZjYtMTAwYzM3Zjg2ZjVkLmpwZw==.jpg"
         }
       ]
     },

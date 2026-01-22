@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=333876",
+          "author": "廣瀬 優香",
+          "description": "Dogecoin Foundation（ドージコイン財団）の公式企業部門House of Dogeは、合併パートナーのBrag House Holdingsと共 ...\nDogecoin Foundationの公式企業部門、決済アプリ「Such」をリリース予定 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/333876/",
+          "publishedOn": "2026-01-22T01:40:00.000Z",
+          "wordCount": 1380,
+          "title": "Dogecoin Foundationの公式企業部門、決済アプリ「Such」をリリース予定",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2462808177.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=333947",
           "author": "Shoko Galaviz",
           "description": "世界最大規模の資産運用会社BlackRock（ブラックロック）は、「2026 Thematic outlook（2026年テーマから見た展望）」と題したレポート ...\n暗号資産とトークン化、2026年の市場を動かすテーマに：BlackRock first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -704,6 +714,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=682946",
+          "author": "Ritsuki.Kumazawa",
+          "description": "ANAPホールディングスは21日、約10億円で70BTCを追加購入したと発表。総保有量は1,417BTCとなり、2026年8月末までにグローバル・トップ35位以内を目指す新目標を掲げた。",
+          "link": "https://coinpost.jp/?p=682946",
+          "publishedOn": "2026-01-22T02:44:10.000Z",
+          "wordCount": 3298,
+          "title": "東証上場のANAP、10億円で70BTC追加購入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/new-bitcoin-sell.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/new-bitcoin-sell.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=682938",
+          "author": "Enzo",
+          "description": "イーサリアム共同創設者ヴィタリック・ブテリン氏が分散型バリデーター技術（DVT）のネイティブ統合を提案。機関投資家の参入障壁を下げ、ネットワークの分散化とセキュリティ強化を目指す。ETHステーキング率は30%に到達。",
+          "link": "https://coinpost.jp/?p=682938",
+          "publishedOn": "2026-01-22T02:07:16.000Z",
+          "wordCount": 3302,
+          "title": "ヴィタリック氏、分散型バリデーター技術の統合を提唱　参入障壁低下へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/vitalik_20220926_061.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/vitalik_20220926_061.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=682884",
+          "author": "菊谷ルイス",
+          "description": "欧州中央銀行のパネッタ氏が商業銀行の資金は将来的に完全デジタル化されると予測。米国のステーブルコイン推進により預金流出の懸念も浮上している。",
+          "link": "https://coinpost.jp/?p=682884",
+          "publishedOn": "2026-01-22T02:05:40.000Z",
+          "wordCount": 3282,
+          "title": "ECB政策委員、商業銀行マネーの完全デジタル化を予測",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/bankofitaly-new-defi.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/bankofitaly-new-defi.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=682888",
           "author": "A.Yamada",
@@ -1581,6 +1636,46 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=540033",
+          "author": "HitomotoToshikazu",
+          "description": "Grayscale Near TrustがETF転換へ 暗号資産（仮想通貨）ニア（NEAR）の投資信託「Grayscale Near Trust」をETF（上場投資信託）に転換するための登録届出書「S-1申請書類（FOR […]",
+          "link": "https://www.neweconomy.jp/posts/540033",
+          "publishedOn": "2026-01-22T02:02:27.000Z",
+          "wordCount": 772,
+          "title": "グレースケール、「ニア（NEAR）」の現物ETF転換をSECへ申請",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/22105158/c011a2d0e358c44ee96da006a537dd6e.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=540030",
+          "author": "TamuraSeiji",
+          "description": "イーサリアム財団、zkEVM証明のL1統合に向けた技術ロードマップを公開 イーサリアム（Ethereum）財団の共同エグゼクティブディレクターであるトマシュ・K・スタンチャック（Tomasz K. Stańczak）氏が […]",
+          "link": "https://www.neweconomy.jp/posts/540030",
+          "publishedOn": "2026-01-22T01:56:08.000Z",
+          "wordCount": 765,
+          "title": "イーサリアム財団共同エグゼクティブディレクター、zkEVM証明のL1統合に向けた技術ロードマップ公開",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/22105018/35e56d16aa6f12b313468c1f74508e51.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=540024",
+          "author": "NewEconomy",
+          "description": "メガイーサが公開前メインネットで一般参加型の負荷検証を実施 イーサリアム（Ethereum）レイヤー2ネットワーク「メガイーサ（MegaETH）」が、一般公開に先立ち、メインネット上で大規模な「グローバル・ストレステスト […]",
+          "link": "https://www.neweconomy.jp/posts/540024",
+          "publishedOn": "2026-01-22T01:46:21.000Z",
+          "wordCount": 854,
+          "title": "イーサリアムL2「メガイーサ」、メインネット公開前にグローバル・ストレステスト実施へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/22104529/4375262b72a8a66992fdba281a6152da.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=539982",
+          "author": "HitomotoToshikazu",
+          "description": "House of DogeがDOGE決済アプリ公開へ ドージコイン財団（Dogecoin Foundation）の公式企業部門ハウス・オブ・ドージ（House of Doge）が、暗号資産（仮想通貨）ドージコイン（DOG […]",
+          "link": "https://www.neweconomy.jp/posts/539982",
+          "publishedOn": "2026-01-22T01:35:13.000Z",
+          "wordCount": 763,
+          "title": "ドージコイン財団の公式企業部門、DOGE決済アプリを今年上半期公開へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/22102946/da494bf8af304a4be76b651854a14867.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=539972",
           "author": "HitomotoToshikazu",
@@ -2545,6 +2640,21 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=151368",
+          "author": "よきょい",
+          "description": "グリーンランドを巡る米国と欧州の緊張が高まる中、欧州の指導者層が保有する米国債を交渉の材料として利用する可能性が浮上しています。 この動きが現実となれば、米国債市場における利回りの急騰やドルおよび米国の信用状況への波及、 […]\n投稿 グリーンランド問題でビットコインが真の資産へ？｜米国債危機で新シナリオ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-will-the-greenland-issue-make-bitcoin-a-real-asset/",
+          "publishedOn": "2026-01-22T02:58:37.000Z",
+          "wordCount": 600,
+          "title": "グリーンランド問題でビットコインが真の資産へ？｜米国債危機で新シナリオ",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2605040577.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=151308",
           "author": "よきょい",

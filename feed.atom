@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-22T18:27:30.530Z</updated>
+    <updated>2026-01-22T18:59:10.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所へのビットコイン流入が急増　売り圧力拡大の兆しか]]></title>
+        <id>https://jp.cointelegraph.com/news/17k-bitcoin-inflow-to-exchanges-raises-alarm-will-btc-s-sell-off-deepen</id>
+        <link href="https://jp.cointelegraph.com/news/17k-bitcoin-inflow-to-exchanges-raises-alarm-will-btc-s-sell-off-deepen?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-01-22T18:39:46.000Z</updated>
+        <summary type="html"><![CDATA[過去2日間で仮想通貨取引所へのビットコイン（BTC）流入が急増し、2025年7月から8月にかけて市場が天井を付けた局面と似たパターンを示している。1万7000BTC超が取引所に送金されており、足元の売りがさらに深まる可能性がある。]]></summary>
+        <author>
+            <name>Cointelegraph  Biraajmaan Tamuly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム 3000ドルの水準を維持できるか？ 需要減少とETF流出で2000ドル割れリスクも浮上]]></title>
         <id>https://jp.cointelegraph.com/news/are-ethereum-bears-targeting-sub-2k-eth-price</id>

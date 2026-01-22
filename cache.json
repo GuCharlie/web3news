@@ -1668,21 +1668,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/10/241016_coinpost_265478_1200.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/10/241016_coinpost_265478_1200.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=681414",
-          "author": "CoinPost編集部",
-          "description": "前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナなど主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。",
-          "link": "https://coinpost.jp/?p=681414",
-          "publishedOn": "2026-01-18T05:00:20.000Z",
-          "wordCount": 3364,
-          "title": "今週の主要仮想通貨材料まとめ、BTCの市場底打ちの可能性やETHの価格予想など",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/altcoin-materials-new-buy-sell.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/altcoin-materials-new-buy-sell.jpg"
         }
       ]
     },
@@ -2308,6 +2293,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/are-ethereum-bears-targeting-sub-2k-eth-price",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "イーサリアム（ETH）は直近24時間で小幅に上昇し、一時的に心理的節目である3000ドルを回復した。ただし、現物イーサリアム上場投資信託（ETF）からの資金流出に見られるような需要低下や、テクニカル構造の悪化を背景に、今後数週間で2000ドルを下回る水準まで下落する可能性が指摘されている。",
+          "link": "https://jp.cointelegraph.com/news/are-ethereum-bears-targeting-sub-2k-eth-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-22T16:17:41.000Z",
+          "wordCount": 287,
+          "title": "イーサリアム 3000ドルの水準を維持できるか？ 需要減少とETF流出で2000ドル割れリスクも浮上",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmU1NzEtYTM2Yi03OTNkLTg2MjgtNDc4ZmQ4NDIzZDZmLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmU1NzEtYTM2Yi03OTNkLTg2MjgtNDc4ZmQ4NDIzZDZmLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-analysts-predict-prolonged-consolidation-for-btc-price",
           "author": "Cointelegraph  Nancy Lubale",

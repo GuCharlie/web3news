@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-22T16:31:17.120Z</updated>
+    <updated>2026-01-22T17:25:17.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム 3000ドルの水準を維持できるか？ 需要減少とETF流出で2000ドル割れリスクも浮上]]></title>
+        <id>https://jp.cointelegraph.com/news/are-ethereum-bears-targeting-sub-2k-eth-price</id>
+        <link href="https://jp.cointelegraph.com/news/are-ethereum-bears-targeting-sub-2k-eth-price?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-01-22T16:17:41.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム（ETH）は直近24時間で小幅に上昇し、一時的に心理的節目である3000ドルを回復した。ただし、現物イーサリアム上場投資信託（ETF）からの資金流出に見られるような需要低下や、テクニカル構造の悪化を背景に、今後数週間で2000ドルを下回る水準まで下落する可能性が指摘されている。]]></summary>
+        <author>
+            <name>Cointelegraph  Nancy Lubale</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、長期的な保ち合い局面入りの可能性　2022年のパターンに酷似＝グラスノード]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-analysts-predict-prolonged-consolidation-for-btc-price</id>
@@ -2858,16 +2868,6 @@ Arkのキャシー・ウッド氏、ビットコインを「分散投資の有�
 投稿 【今週のメタプラネットまとめ】NISA成長投資枠で5位にランクイン。株価600円突破 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今週の主要仮想通貨材料まとめ、BTCの市場底打ちの可能性やETHの価格予想など]]></title>
-        <id>https://coinpost.jp/?p=681414</id>
-        <link href="https://coinpost.jp/?p=681414"/>
-        <updated>2026-01-18T05:00:20.000Z</updated>
-        <summary type="html"><![CDATA[前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナなど主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>

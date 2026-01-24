@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-24T21:38:07.630Z</updated>
+    <updated>2026-01-24T22:16:41.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米CLARITY法案のステーブルコイン利回り禁止、資本の海外流出を招く恐れ＝業界関係者]]></title>
+        <id>https://jp.cointelegraph.com/news/stablecoin-yield-bans-push-capital-offshore-unregulated-instruments</id>
+        <link href="https://jp.cointelegraph.com/news/stablecoin-yield-bans-push-capital-offshore-unregulated-instruments?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-01-24T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米国で検討されているCLARITY法によるステーブルコイン利回り規制は、資本を米国外に押し出し、オフショアの不透明な金融構造へと資金を移動させるリスクをはらんでいる。]]></summary>
+        <author>
+            <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨の普及、地域差が鮮明に＝PwCが2026年版レポート]]></title>
         <id>https://jp.cointelegraph.com/news/crypto-adoption-regions-pricewaterhousecoopers-pwc</id>

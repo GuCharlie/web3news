@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-24T03:10:17.354Z</updated>
+    <updated>2026-01-24T06:26:48.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ゲームストップ、ビットコイン全量をコインベースへ移動　保有BTC売却のためか？]]></title>
+        <id>https://jp.cointelegraph.com/news/gamestop-moves-bitcoin-signaling-potential-sale</id>
+        <link href="https://jp.cointelegraph.com/news/gamestop-moves-bitcoin-signaling-potential-sale?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-01-24T06:09:51.000Z</updated>
+        <summary type="html"><![CDATA[ゲーム小売大手ゲームストップが保有するビットコイン（BTC）をすべてコインベースの機関投資家向け取引プラットフォームへ移動させたことが分かり、同社がビットコイン・トレジャリー戦略を見直しているのではないかとの憶測が広がっている。]]></summary>
+        <author>
+            <name>Cointelegraph  Brayden Lindrea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワールドリバティ、分散型インターネットのスペースコインと提携]]></title>
+        <id>https://coinpost.jp/?p=683567</id>
+        <link href="https://coinpost.jp/?p=683567"/>
+        <updated>2026-01-24T04:45:08.000Z</updated>
+        <summary type="html"><![CDATA[ドナルド・トランプ一族のWLFIが分散型衛星インターネットのスペースコインと提携した。DeFiと衛星接続を融合し金融サービスを提供する計画だ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KLabがBTCと金を2億円分追加購入、BTC年後半20万ドル到達を予測]]></title>
+        <id>https://coinpost.jp/?p=683459</id>
+        <link href="https://coinpost.jp/?p=683459"/>
+        <updated>2026-01-24T04:10:22.000Z</updated>
+        <summary type="html"><![CDATA[年後半に20万ドル到達予測KLabは22日、ビットコイン（BTC）と金を組み合わせた「デュアル・ゴールド・トレジャリー戦略」に基づき、総額約2億円のビットコイン及びゴールド（純金上場信託）を追加購入したと発表した。同社は東証プライム上場のゲ...]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新たなトランプ関税懸念でビットコイン揉み合い、来週FOMCに注目｜bitbankアナリスト寄稿]]></title>
         <id>https://coinpost.jp/?p=683405</id>
@@ -3314,16 +3344,6 @@ NYSE、トークン化株式プラットフォームを開発 first appeared on 
         <summary type="html"><![CDATA[米国のニューヨーク証券取引所は1月19日、トークン化証券の取引とオンチェーン決済を可能にする新プラットフォームの開発を発表した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【1/19話題】サムライウォレット押収ビットコイン未売却、ビットトレードにTRUMP上場へ、イーサリアムは価値観回帰へなど（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=538897</id>
-        <link href="https://www.neweconomy.jp/posts/538897"/>
-        <updated>2026-01-19T16:06:08.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
         </author>
     </entry>
 </feed>

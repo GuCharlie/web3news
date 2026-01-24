@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-24T20:41:36.300Z</updated>
+    <updated>2026-01-24T21:15:11.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨の普及、地域差が鮮明に＝PwCが2026年版レポート]]></title>
+        <id>https://jp.cointelegraph.com/news/crypto-adoption-regions-pricewaterhousecoopers-pwc</id>
+        <link href="https://jp.cointelegraph.com/news/crypto-adoption-regions-pricewaterhousecoopers-pwc?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-01-24T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[大手会計事務所プライスウォーターハウスクーパース（PwC）は、世界の仮想通貨普及は地域ごとに進度が大きく異なり、一部の地域は他よりもはるかに速く前進していると指摘した。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム財団、量子コンピューターを重要課題に　専任チームを新設]]></title>
         <id>https://jp.cointelegraph.com/news/ethereum-foundation-post-quantum-security-team</id>
@@ -2786,27 +2796,6 @@ Pump.fun、投資部門「Pump Fund」の設立を発表──賞金300万ドル
 機関投資家のビットコイン需要は依然として高い：CryptoQuant first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPYC株式会社、テスト用トークンの無料配布ツールを公開]]></title>
-        <id>https://crypto-times.jp/?p=151242</id>
-        <link href="https://crypto-times.jp/news-jpc-inc-releases-free-test-token-distribution-tool/"/>
-        <updated>2026-01-20T08:51:09.000Z</updated>
-        <summary type="html"><![CDATA[JPYC株式会社は日本円連動型のステーブルコイン「JPYC」の開発環境において、テスト用トークンを即時に取得できる開発者支援ツール「JPYC Faucet」の提供を開始しました。 ステーブルコインJPYCの購入方法｜6% […]
-投稿 JPYC株式会社、テスト用トークンの無料配布ツールを公開 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港業界団体、仮想資産規制強化に反対　伝統的金融機関の参入阻害を懸念]]></title>
-        <id>https://coinpost.jp/?p=682454</id>
-        <link href="https://coinpost.jp/?p=682454"/>
-        <updated>2026-01-20T08:48:23.000Z</updated>
-        <summary type="html"><![CDATA[香港証券先物専門家協会が仮想資産資産管理ライセンス制度案に反対意見を表明。1%配分でもライセンス必須となる規制強化が伝統的金融機関の参入を阻害すると警告。]]></summary>
-        <author>
-            <name>Enzo</name>
         </author>
     </entry>
 </feed>

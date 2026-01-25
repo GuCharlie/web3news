@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-25T22:43:28.328Z</updated>
+    <updated>2026-01-25T23:17:15.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コロンビア第2位の年金基金、ビットコインへの投資機会を提供へ]]></title>
+        <id>https://jp.cointelegraph.com/news/colombia-second-largest-pension-fund-bitcoin-exposure</id>
+        <link href="https://jp.cointelegraph.com/news/colombia-second-largest-pension-fund-bitcoin-exposure?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-01-25T22:47:02.000Z</updated>
+        <summary type="html"><![CDATA[AFPプロテクシオンは、ビットコイン連動型ファンドへのアクセスを適格投資家に限定し、コロンビアの年金資産における中核配分は変更しないとしている。]]></summary>
+        <author>
+            <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFTマーケットプレイス、ニフティ・ゲートウェイが事業終了へ]]></title>
         <id>https://jp.cointelegraph.com/news/nifty-gateway-shutdown-nft-marketplace-closure-2026</id>
@@ -2183,16 +2193,6 @@ Rippleのステーブルコイン「RLUSD」、Binanceに上場 first appeared o
         <summary type="html"><![CDATA[ビットコイン（BTC）は水曜日、9万ドル近辺で値動きの手掛かりを探る展開となった。CMEギャップを埋めたことで、強気反発を期待する声も出ている。]]></summary>
         <author>
             <name>Cointelegraph  William Suberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【1/21話題】ブータンがSeiのバリデータ、ノーブルがEVMのL1移行、ストラテジーとビットマインが追加購入など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=539741</id>
-        <link href="https://www.neweconomy.jp/posts/539741"/>
-        <updated>2026-01-21T10:53:26.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
         </author>
     </entry>
 </feed>

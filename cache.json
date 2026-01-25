@@ -1675,16 +1675,6 @@
           "wordCount": 750,
           "title": "チェーンリンク、米国株式市場データ配信を週5日24時間で提供開始",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/22102335/9a6fdeb324cf40cbc37eeeb1d69fadcc.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=539741",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/539741",
-          "publishedOn": "2026-01-21T10:53:26.000Z",
-          "wordCount": 776,
-          "title": "【1/21話題】ブータンがSeiのバリデータ、ノーブルがEVMのL1移行、ストラテジーとビットマインが追加購入など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/21172340/a4d086048ec65797542091b7fbf77a2b.jpg"
         }
       ]
     },
@@ -1693,6 +1683,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/colombia-second-largest-pension-fund-bitcoin-exposure",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "AFPプロテクシオンは、ビットコイン連動型ファンドへのアクセスを適格投資家に限定し、コロンビアの年金資産における中核配分は変更しないとしている。",
+          "link": "https://jp.cointelegraph.com/news/colombia-second-largest-pension-fund-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-25T22:47:02.000Z",
+          "wordCount": 256,
+          "title": "コロンビア第2位の年金基金、ビットコインへの投資機会を提供へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmY0MzItZWQ2Mi03NWE3LWIwMWItOGY2MzdkZGYxMzVhLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmY0MzItZWQ2Mi03NWE3LWIwMWItOGY2MzdkZGYxMzVhLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/nifty-gateway-shutdown-nft-marketplace-closure-2026",
           "author": "Cointelegraph  Amin Haqshanas",

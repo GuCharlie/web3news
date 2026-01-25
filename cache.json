@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=331327",
+          "author": "増田隆幸",
+          "description": "※本記事は、1月6日に掲載した創刊特集の再掲載です。 財務省理財局国庫課は、中央銀行デジタル通貨を含む通貨制度の企画・立案を担っている。鳩貝淳一郎氏は2025年 ...\nステーブルコイン、トークン化預金、CBDC……お金の形はどう変わるのか。“こじらせた高校生” が見つけた価値交換の面白さ【2026年 創刊特集】再掲 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/331327/",
+          "publishedOn": "2026-01-25T22:00:00.000Z",
+          "wordCount": 1586,
+          "title": "ステーブルコイン、トークン化預金、CBDC……お金の形はどう変わるのか。“こじらせた高校生” が見つけた価値交換の面白さ【2026年 創刊特集】再掲",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/12/0023-top.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=334223",
           "author": "NADA NEWS編集部",
           "description": "【CoinDesk Summary】 ● 米資産運用会社のArk Invest（アーク・インベスト）は、ビットコインは機関投資家向け資産として成熟しつつあり、現 ...\nビットコインとトークン化がデジタルアセットの次の成長を牽引：Ark Invest first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -520,16 +530,6 @@
           "wordCount": 1354,
           "title": "暗号資産ステーキングサービス「CoinTrade Stake」、トンコイン（TON）の取り扱いを開始",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/73968-61-2731437c2615758af91464552af5b9dd-1920x1280-1.webp"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=333877",
-          "author": "井上 俊彦",
-          "description": "Mike Novogratz（マイク・ノボグラッツ）氏率いるGalaxy Digital（ギャラクシー・デジタル）が、1億ドル（約150億円）規模の暗号資産（仮 ...\nGalaxy Digital、1億ドル規模の暗号資産ヘッジファンドを設立へ：FTが報道 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/333877/",
-          "publishedOn": "2026-01-21T09:45:00.000Z",
-          "wordCount": 1351,
-          "title": "Galaxy Digital、1億ドル規模の暗号資産ヘッジファンドを設立へ：FTが報道",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2023/09/XB3PCRPY4FHKPOELOXCRX5DCSU.jpeg"
         }
       ]
     },
@@ -540,7 +540,7 @@
       "articles": []
     },
     {
-      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "投資ファンドGrayscaleが大量のビットコインキャッシュの売却を終える",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -1693,6 +1693,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/foundry-usa-hashrate-down-60-deadly-storm",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "冬の嵐「ファーン」が米国各地を襲い、すでに100万人超が停電の影響を受けている。",
+          "link": "https://jp.cointelegraph.com/news/foundry-usa-hashrate-down-60-deadly-storm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-25T22:13:03.000Z",
+          "wordCount": 317,
+          "title": "ファウンドリーUSAのハッシュレート、致命的な冬の嵐で金曜以降に60％低下＝報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIxZDUtMjkwMC03NWU5LTk3YjktMjZjODU4MTBlNWI3LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIxZDUtMjkwMC03NWU5LTk3YjktMjZjODU4MTBlNWI3LmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-sells-off-into-weekly-close-86k-btc-price-reckoning",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコインは米国先物市場の取引開始を前に上昇分を失い、下振れ要因が相次ぐ局面への警戒が高まった。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-sells-off-into-weekly-close-86k-btc-price-reckoning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-25T21:57:39.000Z",
+          "wordCount": 527,
+          "title": "ビットコイン、週足終値に向け下落　強気派は8万6,000ドルの正念場に直面",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmY2NTUtZWZiNy03NjBiLWJhNTYtYWJkZGRmZWJhYzk0LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmY2NTUtZWZiNy03NjBiLWJhNTYtYWJkZGRmZWJhYzk0LmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/remittances-more-important-than-aid-africa-stablecoins",
           "author": "Cointelegraph  Nate Kostar",

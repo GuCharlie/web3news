@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=334234",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● World Liberty Financial（ワールド・リバティ・ファイナンシャル）は、衛星通信を活用したDeFi（ ...\nトランプ氏関与のWorld Liberty Financial、衛星通信DeFiのSpacecoinと提携 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/334234/",
+          "publishedOn": "2026-01-25T00:30:00.000Z",
+          "wordCount": 1392,
+          "title": "トランプ氏関与のWorld Liberty Financial、衛星通信DeFiのSpacecoinと提携",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/nadanews_top-5.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=334300",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● 暗号資産（仮想通貨）取引所Binance（バイナンス）の共同創業者Changpeng Zhao（チャンポン・ジャオ）氏 ...\nビットコインは今年、4年サイクルを「ブレイク」する：バイナンス共同創業者 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/334300/",
+          "publishedOn": "2026-01-25T00:00:00.000Z",
+          "wordCount": 1395,
+          "title": "ビットコインは今年、4年サイクルを「ブレイク」する：バイナンス共同創業者",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/image-6.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=334356",
           "author": "XWIN Research",
           "description": "● 現在の相場は、価格水準より曜日・時間帯の流動性差が値動きを左右するレンジ局面。● 曜日別プライスアクションでは、火〜水に動きが集中し、土曜日は方向性が出にく ...\nビットコイン市場は「価格」より「動く時間」を読む段階へ──曜日別プライスアクションとオンチェーンが示す現在の力関係【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -2165,16 +2185,6 @@
           "wordCount": 756,
           "title": "JPYC、テスト用トークン取得ツール「JPYC Faucet」提供開始",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/21111947/b0e782abf72aa454f4f3833203baac69.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=539265",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/539265",
-          "publishedOn": "2026-01-20T12:32:58.000Z",
-          "wordCount": 636,
-          "title": "【1/20話題】LINEでのJPYC活用が検討開始、NYSEがトークン化証券の24H取引と即時決済へ、TORICOがETH追加購入など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/20182326/f83934e6c21de13b6540e6f2ffb73d35.jpg"
         }
       ]
     },
@@ -2866,6 +2876,21 @@
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
         {
+          "id": "https://crypto-times.jp/?p=151534",
+          "author": "よきょい",
+          "description": "今週の株式会社メタプラネットは投資家の注目を集める複数の大きな動きがありました。 米国OTCQX市場の「Best 50」で第2位に選出され、米大手バンガードが保有を増加させるという好材料が発表されました。さらに年初来騰落 […]\n投稿 【今週のメタプラネットまとめ】米国OTCQX市場ランキングで2位。年初来騰落率で高パフォーマンス は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-this-weeks-metaplanet-summary-us-otcqx-market-rankings-and-high-stock-price-performance/",
+          "publishedOn": "2026-01-25T01:26:18.000Z",
+          "wordCount": 601,
+          "title": "【今週のメタプラネットまとめ】米国OTCQX市場ランキングで2位。年初来騰落率で高パフォーマンス",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2668799621.jpg"
+        },
+        {
           "id": "https://crypto-times.jp/?p=151595",
           "author": "よきょい",
           "description": "株式会社TORICOは1月22日、暗号資産イーサリアム（ETH）を追加取得したことを発表しました。同社によるETHの取得は今回で6回目となり累計保有数は約1,218 ETH、総取得価額は約6億円に達しています。 本日、イ […]\n投稿 TORICO、イーサリアム追加取得で1218ETH（約6億円）保有へ は CRYPTO TIMES に最初に表示されました。",
@@ -3504,16 +3529,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2546787503.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=151385",
-          "author": "Crypto Times 編集部",
-          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 ビットコインは15日、9万6000ドル付近まで上昇した。重要な上値抵抗 […]\n投稿 Grok予測：BTCが2026年に22.5万ドルへ｜注目のレイヤー２とは は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/press-grok-bitcoin-hyper/",
-          "publishedOn": "2026-01-20T12:38:52.000Z",
-          "wordCount": 600,
-          "title": "Grok予測：BTCが2026年に22.5万ドルへ｜注目のレイヤー２とは",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/unknown-3.jpg"
         }
       ]
     }

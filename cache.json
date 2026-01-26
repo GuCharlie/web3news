@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=334489",
+          "author": "廣瀬 優香",
+          "description": "NFTプラットフォームのNifty Gatewayは1月23日、公式Xアカウントを通じて、2026年2月23日に閉鎖すると発表した。 Nifty Gateway ...\nNFTプラットフォームNifty Gateway、2月23日に閉鎖へ first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/334489/",
+          "publishedOn": "2026-01-26T21:30:00.000Z",
+          "wordCount": 1361,
+          "title": "NFTプラットフォームNifty Gateway、2月23日に閉鎖へ",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2083906807.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=334498",
           "author": "井上 俊彦",
           "description": "暗号資産（仮想通貨）運用会社のCoinShares（コインシェアーズ）は、先週、世界の暗号資産ETP（上場取引商品）から2025年11月以来最大となる約17億3 ...\n世界の暗号資産ETP、11月以来最大の週次資金流出：CoinSharesが報告 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -544,6 +554,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=683961",
+          "author": "菊谷ルイス",
+          "description": "サイバーセキュリティ研究者が1億4900万件以上のログイン情報を含むデータベースが保護されずに公開されていたことを発見した。Gmailやフェイスブックなど主要サービスが含まれる。",
+          "link": "https://coinpost.jp/?p=683961",
+          "publishedOn": "2026-01-26T21:35:46.000Z",
+          "wordCount": 3308,
+          "title": "セキュリティ研究者が1.4億件のデータベース漏洩を発見、複数サービスが対象",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/hack-hack-.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/hack-hack-.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=683952",
+          "author": "菊谷ルイス",
+          "description": "バンエックが仮想通貨アバランチのネイティブトークンAVAXに投資する米国初の現物ETFを開始した。運用資産5億ドルまたは2月末までスポンサー手数料を免除する。",
+          "link": "https://coinpost.jp/?p=683952",
+          "publishedOn": "2026-01-26T21:20:25.000Z",
+          "wordCount": 3307,
+          "title": "米国初のアバランチ現物ETFが上場、バンエック提供",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/vaneck-avalanche.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/vaneck-avalanche.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=683950",
           "author": "菊谷ルイス",
@@ -1540,26 +1580,6 @@
           "wordCount": 778,
           "title": "【1/22話題】バイナンスにRLUSD上場へ、イラン中銀が制裁回避で5億USDT取得か、エイバックスワンがアバランチバリデータ立ち上げなど（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/22204635/19f1ca92f5e000650a21b14f9ca6b44a.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=540215",
-          "author": "HitomotoToshikazu",
-          "description": "SKRがローンチ Web3スマートフォン「ソラナシーカー（Solana Seeker）」展開のソラナモバイル（Solana Mobile）が、ネイティブトークン「SKR」のエアドロップ実施を1月21日にXで発表した。 今 […]",
-          "link": "https://www.neweconomy.jp/posts/540215",
-          "publishedOn": "2026-01-22T09:30:25.000Z",
-          "wordCount": 780,
-          "title": "Web3スマホ展開ソラナモバイル、ネイティブトークン「SKR」のエアドロ実施",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/22173823/e377bc5fb8edeccc5c2b877449768c63.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=540260",
-          "author": "NewEconomy",
-          "description": "政治イベントを対象とした予測市場への規制判断 ポルトガルのゲーム規制・監察局（SRIJ）が、ブロックチェーン・暗号資産（仮想通貨）活用の予測市場プラットフォーム「ポリマーケット（Polymarket）」に対し、ポルトガル […]",
-          "link": "https://www.neweconomy.jp/posts/540260",
-          "publishedOn": "2026-01-22T09:28:06.000Z",
-          "wordCount": 749,
-          "title": "ポルトガル当局、予測市場「ポリマーケット」を違法賭博として遮断へ。大統領選賭けを問題視",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/22182802/68adc80a7aa500b05fe5d48a7ba8bf86.jpg"
         }
       ]
     },

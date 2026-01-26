@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-26T21:20:20.298Z</updated>
+    <updated>2026-01-26T21:45:41.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[セキュリティ研究者が1.4億件のデータベース漏洩を発見、複数サービスが対象]]></title>
+        <id>https://coinpost.jp/?p=683961</id>
+        <link href="https://coinpost.jp/?p=683961"/>
+        <updated>2026-01-26T21:35:46.000Z</updated>
+        <summary type="html"><![CDATA[サイバーセキュリティ研究者が1億4900万件以上のログイン情報を含むデータベースが保護されずに公開されていたことを発見した。Gmailやフェイスブックなど主要サービスが含まれる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFTプラットフォームNifty Gateway、2月23日に閉鎖へ]]></title>
+        <id>https://www.nadanews.com/?p=334489</id>
+        <link href="https://www.nadanews.com/334489/"/>
+        <updated>2026-01-26T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[NFTプラットフォームのNifty Gatewayは1月23日、公式Xアカウントを通じて、2026年2月23日に閉鎖すると発表した。 Nifty Gateway ...
+NFTプラットフォームNifty Gateway、2月23日に閉鎖へ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>廣瀬 優香</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米国初のアバランチ現物ETFが上場、バンエック提供]]></title>
+        <id>https://coinpost.jp/?p=683952</id>
+        <link href="https://coinpost.jp/?p=683952"/>
+        <updated>2026-01-26T21:20:25.000Z</updated>
+        <summary type="html"><![CDATA[バンエックが仮想通貨アバランチのネイティブトークンAVAXに投資する米国初の現物ETFを開始した。運用資産5億ドルまたは2月末までスポンサー手数料を免除する。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ストラテジー、相場下落局面でビットコイン追加購入　2932BTCを追加取得]]></title>
         <id>https://jp.cointelegraph.com/news/strategy-buy-264-million-bitcoin-market-sell-off</id>
@@ -2001,26 +2032,6 @@ DeFiの未来──なぜ分散型金融は静かに拡張し続けているの�
 KindlyMD、Nakamotoに社名変更──ビットコイン戦略への転換を反映 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3スマホ展開ソラナモバイル、ネイティブトークン「SKR」のエアドロ実施]]></title>
-        <id>https://www.neweconomy.jp/?p=540215</id>
-        <link href="https://www.neweconomy.jp/posts/540215"/>
-        <updated>2026-01-22T09:30:25.000Z</updated>
-        <summary type="html"><![CDATA[SKRがローンチ Web3スマートフォン「ソラナシーカー（Solana Seeker）」展開のソラナモバイル（Solana Mobile）が、ネイティブトークン「SKR」のエアドロップ実施を1月21日にXで発表した。 今 […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ポルトガル当局、予測市場「ポリマーケット」を違法賭博として遮断へ。大統領選賭けを問題視]]></title>
-        <id>https://www.neweconomy.jp/?p=540260</id>
-        <link href="https://www.neweconomy.jp/posts/540260"/>
-        <updated>2026-01-22T09:28:06.000Z</updated>
-        <summary type="html"><![CDATA[政治イベントを対象とした予測市場への規制判断 ポルトガルのゲーム規制・監察局（SRIJ）が、ブロックチェーン・暗号資産（仮想通貨）活用の予測市場プラットフォーム「ポリマーケット（Polymarket）」に対し、ポルトガル […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>

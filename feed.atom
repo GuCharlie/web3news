@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-27T20:19:11.576Z</updated>
+    <updated>2026-01-27T20:45:51.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テザーが米国向けステーブルコインUSATを正式ローンチ、ジーニアス法に準拠]]></title>
+        <id>https://coinpost.jp/?p=684279</id>
+        <link href="https://coinpost.jp/?p=684279"/>
+        <updated>2026-01-27T20:30:10.000Z</updated>
+        <summary type="html"><![CDATA[テザーが1月27日に米国市場専用のドル連動型ステーブルコインUSATを正式にローンチしたと発表した。ジーニアス法に基づく連邦規制の枠組み内で運用される。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【1/27話題】イオレのレンディング事業の申込金額が50億円突破、メタプラネットが12月期業績予想を上方修正、TORICO Ethereum設立など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=541802</id>
@@ -2065,17 +2075,6 @@ Ondo、BitGo株をオンチェーン化──NYSE上場を受けてトークン�
         <summary type="html"><![CDATA[金持ち父さん著者ロバート・キヨサキ氏が仮想通貨の短期価格変動に無関心と表明。米国債増加とドル価値低下を理由に、金・銀・ビットコイン・イーサリアムの買い増しを継続する方針を示した。]]></summary>
         <author>
             <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase、ステーキングETH担保の借り入れ機能導入──最大100万ドルの借り入れが可能に]]></title>
-        <id>https://www.nadanews.com/?p=334204</id>
-        <link href="https://www.nadanews.com/334204/"/>
-        <updated>2026-01-23T08:30:48.000Z</updated>
-        <summary type="html"><![CDATA[【CoinDesk Summary】 ● 米暗号資産（仮想通貨）取引所Coinbase（コインベース）は、対象となる米国の顧客（ニューヨーク州を除く）に対し、同 ...
-Coinbase、ステーキングETH担保の借り入れ機能導入──最大100万ドルの借り入れが可能に first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>NADA NEWS編集部</name>
         </author>
     </entry>
 </feed>

@@ -520,16 +520,6 @@
           "wordCount": 1361,
           "title": "米SECとCFTC、「暗号資産時代における米国の金融リーダーシップ」をテーマに共同イベントを開催",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/07/shutterstock_2426097137.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=334204",
-          "author": "NADA NEWS編集部",
-          "description": "【CoinDesk Summary】 ● 米暗号資産（仮想通貨）取引所Coinbase（コインベース）は、対象となる米国の顧客（ニューヨーク州を除く）に対し、同 ...\nCoinbase、ステーキングETH担保の借り入れ機能導入──最大100万ドルの借り入れが可能に first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/334204/",
-          "publishedOn": "2026-01-23T08:30:48.000Z",
-          "wordCount": 1390,
-          "title": "Coinbase、ステーキングETH担保の借り入れ機能導入──最大100万ドルの借り入れが可能に",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/nadanews_top-3.jpg"
         }
       ]
     },
@@ -544,6 +534,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=684279",
+          "author": "菊谷ルイス",
+          "description": "テザーが1月27日に米国市場専用のドル連動型ステーブルコインUSATを正式にローンチしたと発表した。ジーニアス法に基づく連邦規制の枠組み内で運用される。",
+          "link": "https://coinpost.jp/?p=684279",
+          "publishedOn": "2026-01-27T20:30:10.000Z",
+          "wordCount": 3293,
+          "title": "テザーが米国向けステーブルコインUSATを正式ローンチ、ジーニアス法に準拠",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/usat-tether-bo-hines.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/usat-tether-bo-hines.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=684192",
           "author": "Enzo",

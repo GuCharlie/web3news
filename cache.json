@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=334567",
+          "author": "廣瀬 優香",
+          "description": "資産運用会社VanEck（ヴァンエック）は1月26日、アバランチ（AVAX）現物ETF（上場投資信託）である「VanEck Avalanche ETF（ティッカ ...\nVanEck、米国初のアバランチ現物ETFを上場 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/334567/",
+          "publishedOn": "2026-01-27T06:25:00.000Z",
+          "wordCount": 1361,
+          "title": "VanEck、米国初のアバランチ現物ETFを上場",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2287372315.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=334542",
           "author": "NADA NEWS編集部",
           "description": "【CoinDesk Summary】 ● 米連邦保安局（U.S. Marshals Service）は、押収された暗号資産の保全を請け負う業者の息子が、政府のウ ...\n米連邦保安局、政府請負業者の息子による不正流出疑惑を調査──押収暗号資産62億円相当が流出か first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -604,6 +614,81 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=684112",
+          "author": "Enzo",
+          "description": "高級時計ブランドのジェイコブ&コーが、ビットコインマイニング企業GoMiningとコラボした限定モデル「エピックX ゴーマイニング」を発表。世界限定100本で、各時計に1,000テラハッシュの演算能力を持つマイニング機器が紐づく。オーナーはオンラインで稼働状況を確認可能。44mmステンレス製、ブラックDLCコーティング。",
+          "link": "https://coinpost.jp/?p=684112",
+          "publishedOn": "2026-01-27T05:58:02.000Z",
+          "wordCount": 3305,
+          "title": "ジェイコブ&コー、ビットコインマイニング権付属の限定腕時計を発売",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/sub1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/sub1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=684088",
+          "author": "CoinPost編集部",
+          "description": "TORICOがイーサリアム専門の新子会社を設立し、2.2億円相当のETHを買い増し、保有量は1,684ETHに拡大した。「稼ぐトレジャリー」としてステーキング等の運用強化を進める。CoinPost共催イベント「Ethereum Shift 2026」も開催へ。",
+          "link": "https://coinpost.jp/?p=684088",
+          "publishedOn": "2026-01-27T05:02:56.000Z",
+          "wordCount": 3315,
+          "title": "TORICO、イーサリアム事業強化へ専門子会社を設立完了",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/eth-vitali-500mi.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/eth-vitali-500mi.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=684079",
+          "author": "Enzo",
+          "description": "米連邦保安官局が政府押収の仮想通貨約62億円の不正流出疑惑について正式調査を開始。管理委託先CEO息子による盗難疑惑で、業界は政府の仮想通貨管理体制強化を要請。",
+          "link": "https://coinpost.jp/?p=684079",
+          "publishedOn": "2026-01-27T04:24:22.000Z",
+          "wordCount": 3311,
+          "title": "米政府押収の仮想通貨で盗難疑惑、法警局が正式に調査開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/crypto-hack-kucoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/crypto-hack-kucoin.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=684041",
+          "author": "A.Yamada",
+          "description": "分散型取引所ハイパーリキッドの未決済建玉が7.9億ドルと過去最高を記録した。また、仮想通貨ビットコインのスプレッドがバイナンスを下回ったとも報告している。",
+          "link": "https://coinpost.jp/?p=684041",
+          "publishedOn": "2026-01-27T04:10:00.000Z",
+          "wordCount": 3304,
+          "title": "ハイパーリキッドの建玉が過去最高の1200億円突破、背景に金・銀取引か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/Hyperliquid-Logo.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/Hyperliquid-Logo.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=683996",
+          "author": "CoinPost編集部",
+          "description": "機関投資家向けLayer2「HashKey Chain」が、2026年2月27日開催の次世代金融カンファレンス「MoneyX」のプラチナスポンサーに決定。ステーブルコインを軸に通貨の進化と社会実装をテーマに議論を展開する。",
+          "link": "https://coinpost.jp/?p=683996",
+          "publishedOn": "2026-01-27T04:00:23.000Z",
+          "wordCount": 3406,
+          "title": "HashKey Chain、次世代カンファレンス「MoneyX 2026」のプラチナスポンサーに決定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/hashkey_moneyx_thumbnail.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/hashkey_moneyx_thumbnail.png"
+        },
         {
           "id": "https://coinpost.jp/?p=683941",
           "author": "菊谷ルイス",
@@ -1467,6 +1552,76 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=541690",
+          "author": "NewEconomy",
+          "description": "Ledgerが企業価値40億ドル超を目指す 仏国の暗号資産（仮想通貨）ハードウェアウォレット製造会社レジャー（Ledger）が、米国での新規株式公開（IPO）を検討していることが分かった。英「フィナンシャル・タイムズ（F […]",
+          "link": "https://www.neweconomy.jp/posts/541690",
+          "publishedOn": "2026-01-27T06:18:28.000Z",
+          "wordCount": 801,
+          "title": "ハードウェアウォレット大手レジャー、米国でのIPO検討＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/27151743/358ba6f8cf879ca21ef167e2b552cb95.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=541676",
+          "author": "NewEconomy",
+          "description": "Polygon PoSでPIP-70が有効化 ポリゴン財団（Polygon Foundation）が、独立したコンセンサスを持つサイドチェーン「ポリゴンPoS（Polygon PoS）」における新規バリデーターの最小自己 […]",
+          "link": "https://www.neweconomy.jp/posts/541676",
+          "publishedOn": "2026-01-27T06:10:18.000Z",
+          "wordCount": 799,
+          "title": "ポリゴンPoS、新規バリデーターの最小自己ステークを100,000POLに引き上げ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/27150944/459fd1741b09d6e50cc19f1748e7e59d.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=541672",
+          "author": "NewEconomy",
+          "description": "長期運用を前提とする年金制度での限定的な導入事例 コロンビアで資産規模第2位の規模を持つ民間年金・退職金基金運用会社AFPプロテクシオン（AFP Protección）が、ビットコイン（BTC）へのエクスポージャーを提供 […]",
+          "link": "https://www.neweconomy.jp/posts/541672",
+          "publishedOn": "2026-01-27T05:59:29.000Z",
+          "wordCount": 805,
+          "title": "コロンビア第2位の年金基金、条件付きでビットコイン投資機会を提供へ＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/27145834/437045ea471cdf65dd10509804619a93.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=541644",
+          "author": "HitomotoToshikazu",
+          "description": "VanEck Avalanche ETF上場 米資産運用会社ヴァンエック（VanEck）組成による暗号資産（仮想通貨）アバランチ（AVAX）のステーキング対応現物ETF（上場投資信託）が、米ナスダック（Nasdaq）に上 […]",
+          "link": "https://www.neweconomy.jp/posts/541644",
+          "publishedOn": "2026-01-27T05:06:33.000Z",
+          "wordCount": 764,
+          "title": "米国初、ヴァンエックのステーキング対応「アバランチ（AVAX）」現物ETFがナスダックに上場",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/27140613/9daed5cf5db2ff44ef6bfebee62a5fe5.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=541630",
+          "author": "OtsugaShinya",
+          "description": "TORICO Ethereumが設立 全巻セット専門ネット書店の「漫画全巻ドットコム」などを展開する東証グロース上場企業トリコ（TORICO）が、「株式会社TORICO Ethereum」の設立手続きが完了したと1月26 […]",
+          "link": "https://www.neweconomy.jp/posts/541630",
+          "publishedOn": "2026-01-27T03:49:13.000Z",
+          "wordCount": 755,
+          "title": "イーサリアム（ETH）トレジャリー企業トリコ、完全子会社「TORICO Ethereum」設立",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/27124838/81dfe075b0d857d6bc14d3841bc23ed4.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=541617",
+          "author": "TanakaShuya",
+          "description": "イオレがBTC追加購入 暗号資産（仮想通貨）のトレジャリーとレンディングを推進する東証グロース上場企業のイオレが、ビットコイン（BTC）の追加取得を1月23日に発表した。 同社は今回、1月16日から1月23日までの期間に […]",
+          "link": "https://www.neweconomy.jp/posts/541617",
+          "publishedOn": "2026-01-27T03:37:32.000Z",
+          "wordCount": 739,
+          "title": "イオレが約1.6億円でビットコイン追加購入、総保有数は約148BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/27123658/279844c7b4d1d416de4a2380959e7fe3.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=541609",
+          "author": "TanakaShuya",
+          "description": "BitMineがETH追加購入 ビットマインイマージョンテクノロジーズ（BitMine Immersion Technologies：以下、ビットマイン）が、暗号資産（仮想通貨）イーサリアム（ETH）の追加取得を1月26 […]",
+          "link": "https://www.neweconomy.jp/posts/541609",
+          "publishedOn": "2026-01-27T03:30:54.000Z",
+          "wordCount": 656,
+          "title": "ビットマイン、イーサリアム総保有数が約424万ETHに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/27122951/738bffb80e484063267108d3585a3022.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=541593",
           "author": "gentosha_takahashi",
           "description": "2026年は売上1,600億円見込む 国内の上場企業で最もビットコイン（BTC）を保有するメタプラネットが、2025年12月期通期の連結業績予想を上方修正し、あわせてビットコイン（BTC）の評価損計上および2026年12 […]",
@@ -1773,6 +1928,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/when-gold-silver-take-break-btc-eth-will-surge-tom-lee",
+          "author": "Cointelegraph  Martin Young",
+          "description": "ファンドストラットのマネージングパートナーであるトム・リー氏は、金と銀の上昇が一服すれば、仮想通貨市場は遅れて追随する可能性が高いとの見方を示した。",
+          "link": "https://jp.cointelegraph.com/news/when-gold-silver-take-break-btc-eth-will-surge-tom-lee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-27T04:50:30.000Z",
+          "wordCount": 262,
+          "title": "金・銀高騰が一服すれば仮想通貨は遅れて追随へ　トム・リー氏が見通し",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmZkMmMtNGFkZi03MTk3LWI1OGItOGMzMGU5OWRlZWY4LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmZkMmMtNGFkZi03MTk3LWI1OGItOGMzMGU5OWRlZWY4LmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-jobs-grew-6-percent-2025",
+          "author": "Cointelegraph  Brayden Lindrea",
+          "description": "仮想通貨企業におけるビットコイン関連人材の需要は2025年に6％増加し、求人の多くが開発職以外に集中している。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-jobs-grew-6-percent-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-27T04:28:29.000Z",
+          "wordCount": 264,
+          "title": "ビットコイン人材需要が拡大　非エンジニア職が求人の7割超に＝調査",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmZjZDYtMGU4ZC03NDhjLTlhY2QtNmRlYjNlYjQzYzc5LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmZjZDYtMGU4ZC03NDhjLTlhY2QtNmRlYjNlYjQzYzc5LmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/ripple-saudi-bank-blockchain-payments-custody",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "リップルは、サウジアラビアの主要金融機関であるリヤド銀行のイノベーション部門と提携し、同国の金融システムにおけるブロックチェーン技術の活用を検証する。",
+          "link": "https://jp.cointelegraph.com/news/ripple-saudi-bank-blockchain-payments-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-27T03:46:49.000Z",
+          "wordCount": 249,
+          "title": "リップル、サウジ大手リヤド銀行のイノベーション部門と提携　ブロックチェーン活用を検証",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmZhZDQtZDMxZC03MmU4LWIxNzEtNGU3Y2ExZTViMTNkLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmZhZDQtZDMxZC03MmU4LWIxNzEtNGU3Y2ExZTViMTNkLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/ether-price-gained-200percent-the-last-time-this-global-liquidity-signal-flashed",
           "author": "Cointelegraph  Biraajmaan Tamuly",
@@ -2252,21 +2452,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmU2M2UtZjkzMi03ZmE1LTk5YzUtYWRjM2JlMzUzYzc0LmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/are-ethereum-bears-targeting-sub-2k-eth-price",
-          "author": "Cointelegraph  Nancy Lubale",
-          "description": "イーサリアム（ETH）は直近24時間で小幅に上昇し、一時的に心理的節目である3000ドルを回復した。ただし、現物イーサリアム上場投資信託（ETF）からの資金流出に見られるような需要低下や、テクニカル構造の悪化を背景に、今後数週間で2000ドルを下回る水準まで下落する可能性が指摘されている。",
-          "link": "https://jp.cointelegraph.com/news/are-ethereum-bears-targeting-sub-2k-eth-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-01-22T16:17:41.000Z",
-          "wordCount": 287,
-          "title": "イーサリアム 3000ドルの水準を維持できるか？ 需要減少とETF流出で2000ドル割れリスクも浮上",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmU1NzEtYTM2Yi03OTNkLTg2MjgtNDc4ZmQ4NDIzZDZmLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmU1NzEtYTM2Yi03OTNkLTg2MjgtNDc4ZmQ4NDIzZDZmLmpwZw==.jpg"
         }
       ]
     },
@@ -2275,6 +2460,81 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=151713",
+          "author": "よきょい",
+          "description": "記事の要点 ▪️価格の変動幅が縮小、短期的なトレンドの分岐点か ▪️28EMAを明確にブレイクし、サポート（支持線）として転換できるかが鍵 リップル（XRP）の4時 […]\n投稿 リップル（XRP）、1.90ドル台で方向感模索ー次なる動きの前兆か【仮想通貨チャート分析】 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-ripple-xrp-searching-for-direction-in-the-1-90-range/",
+          "publishedOn": "2026-01-27T05:05:23.000Z",
+          "wordCount": 608,
+          "title": "リップル（XRP）、1.90ドル台で方向感模索ー次なる動きの前兆か【仮想通貨チャート分析】",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2610571371.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=151716",
+          "author": "よきょい",
+          "description": "記事の要点 ▪️28EMAがレジスタンスとして機能 ▪️移動平均線の形状や直近の高値切り下げのパターンを見る限りショート（売り）優勢の地合いか 暗号資産ビットコイン […]\n投稿 ビットコイン（BTC）、88,000ドル台での攻防ー28EMAが重石【仮想通貨チャート分析】 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitcoin-btc-battles-for-the-88000-level/",
+          "publishedOn": "2026-01-27T04:59:13.000Z",
+          "wordCount": 608,
+          "title": "ビットコイン（BTC）、88,000ドル台での攻防ー28EMAが重石【仮想通貨チャート分析】",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_779103361.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=151717",
+          "author": "よきょい",
+          "description": "金融庁は令和8年度（2026年度）の機構・定員案において、「暗号資産・ステーブルコイン課」を新設することを明らかにしました。この組織再編は関連政令の整備を経て2026年夏に実施される予定です。 ステーブルコインJPYCの […]\n投稿 金融庁、「暗号資産・ステーブルコイン課」新設｜JPYC普及なるか は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-fsa-launches-new-crypto-assets-and-stablecoins-division/",
+          "publishedOn": "2026-01-27T04:50:29.000Z",
+          "wordCount": 597,
+          "title": "金融庁、「暗号資産・ステーブルコイン課」新設｜JPYC普及なるか",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2043779483.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=151714",
+          "author": "よきょい",
+          "description": "1月27日、ビットコイン（BTC）の価格は88,6460ドル前後で推移しており、イーサリアム（ETH）は約2,930ドル、ソラナ（SOL）は約124ドルで取引されています。世界の暗号資産時価総額は3.08兆ドルで、ビット […]\n投稿 【今日の暗号資産ニュース】金銀暴落もBTCは堅調。羽田空港でステーブルコイン決済の実験開始 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-todays-cryptocurrency-news-gold-and-silver-btc-haneda-airport-stablecoin-payments/",
+          "publishedOn": "2026-01-27T04:13:04.000Z",
+          "wordCount": 617,
+          "title": "【今日の暗号資産ニュース】金銀暴落もBTCは堅調。羽田空港でステーブルコイン決済の実験開始",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_1285740211.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=151715",
+          "author": "よきょい",
+          "description": "金融市場において金と銀の価格が記録的な急落を見せ、市場関係者に大きな衝撃を与えています。最新の市場データによると、これら貴金属の時価総額はわずか90分という短時間で合計1.7兆ドルもの減少を記録しました。この下げ幅は市場 […]\n投稿 金銀暴落で1.7兆ドル消失、なぜビットコインだけ堅調？ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-gold-and-silver-plummet-but-bitcoin-remains-strong/",
+          "publishedOn": "2026-01-27T03:45:04.000Z",
+          "wordCount": 626,
+          "title": "金銀暴落で1.7兆ドル消失、なぜビットコインだけ堅調？",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_742063846.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=151687",
           "author": "よきょい",

@@ -565,6 +565,51 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=684497",
+          "author": "Enzo",
+          "description": "Wintermuteが26日に投稿した市場分析で、ビットコインが85,000～94,000ドルのレンジで60日間推移していることを指摘。記録的なETF資金流出により米国の売り圧力が市場を主導していると分析した。今週のFOMC会合やビッグテック決算が転換点となる可能性を示唆している。",
+          "link": "https://coinpost.jp/?p=684497",
+          "publishedOn": "2026-01-28T05:17:14.000Z",
+          "wordCount": 3374,
+          "title": "ビットコイン、60日間のレンジ相場が継続　米国の売り圧力が主導＝Wintermute",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/bitcoin-2025-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/bitcoin-2025-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=684466",
+          "author": "菊谷ルイス",
+          "description": "イーサリアムがAIエージェント間の安全で信頼性の高い相互作用を可能にする新規格ERC-8004をメインネット上で間もなく稼働させると発表した。AIサービスがゲートキーパーなしで相互運用できるグローバル市場を実現へ。",
+          "link": "https://coinpost.jp/?p=684466",
+          "publishedOn": "2026-01-28T04:30:18.000Z",
+          "wordCount": 3360,
+          "title": "イーサリアムのAIエージェント向け新規格ERC-8004、メインネットで間もなく稼働へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/ethereum3_0418.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/ethereum3_0418.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=684406",
+          "author": "A.Yamada",
+          "description": "決済大手ペイパルらが店舗による仮想通貨決済の導入状況について最新調査を実施した。業界別の導入率や売上への影響など、詳細データを解説する。",
+          "link": "https://coinpost.jp/?p=684406",
+          "publishedOn": "2026-01-28T04:05:58.000Z",
+          "wordCount": 3302,
+          "title": "「仮想通貨決済が日常の商取引に浸透しつつある」ペイパルら調査",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/bitcoinpaypal.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/bitcoinpaypal.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=684376",
           "author": "菊谷ルイス",
           "description": "ブルームバーグによると、仮想通貨大手テザーが約140トンの金を保有し、銀行や国家以外では世界最大の金保有者となった。IMFデータでは世界トップ30の金保有者に入る。",
@@ -1487,6 +1532,76 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=542128",
+          "author": "NewEconomy",
+          "description": "スーパーステート、約8,250万ドルを調達 米証券トークン化基盤を開発するスーパーステート（Superstate）が、シリーズBラウンドで8,250万ドル（約127.6億円）を調達したと1月22日に発表した。 今回の資金 […]",
+          "link": "https://www.neweconomy.jp/posts/542128",
+          "publishedOn": "2026-01-28T06:14:05.000Z",
+          "wordCount": 811,
+          "title": "証券トークン化基盤のスーパーステート、約82.5Mドル調達",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/28151332/38219fec55cf3084aa93e06431abca9e.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=542116",
+          "author": "NewEconomy",
+          "description": "通信暗号とデジタル署名で異なる量子リスクを整理 米ベンチャーキャピタルのアンドリーセン・ホロウィッツ（Andreessen Horowitz：a16z）の暗号資産（仮想通貨）部門「a16z crypto」のリサーチパート […]",
+          "link": "https://www.neweconomy.jp/posts/542116",
+          "publishedOn": "2026-01-28T06:07:03.000Z",
+          "wordCount": 822,
+          "title": "量子コンピュータ時代の暗号リスクを再整理、a16z研究者が「拙速な全面移行」に警鐘",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/28150640/75f4a70001741eedb8118fe14170ba10.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=542110",
+          "author": "HitomotoToshikazu",
+          "description": "Bitwiseが自己保管型ボールト提供開始 米暗号資産（仮想通貨）運用会社ビットワイズ（Bitwise）が、オンチェーンで運用を行う投資家向けソリューション「ノンカストディアル・ボールト・キュレーション（non-cust […]",
+          "link": "https://www.neweconomy.jp/posts/542110",
+          "publishedOn": "2026-01-28T05:58:58.000Z",
+          "wordCount": 705,
+          "title": "ビットワイズ、DeFiレンディング「モルフォ」で自己保管型ボールト提供開始、USDCで最大6%APY目標",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/28145849/a1a59513b41d5dc9840426216e32b821.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=542109",
+          "author": "NewEconomy",
+          "description": "暗号資産決済を横断的に処理する基盤の構築を進める 暗号資産（仮想通貨）決済インフラを提供するメッシュ（Mesh）が、シリーズCラウンドで7,500万ドル（約114.5億円）を調達し、企業評価額が10億ドル（約1,527億 […]",
+          "link": "https://www.neweconomy.jp/posts/542109",
+          "publishedOn": "2026-01-28T05:56:17.000Z",
+          "wordCount": 807,
+          "title": "暗号資産決済インフラMeshがシリーズCで75Mドル調達、評価額1Bドルでユニコーンに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/28145557/f623cbcc14851786295ec1c1cc09b8e7.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=542097",
+          "author": "OtsugaShinya",
+          "description": "レーザーデジタルが連邦信託銀行の設立申請 野村ホールディングスのデジタル資産関連子会社レーザーデジタル（Laser Digital）が、デジタル資産に特化した米連邦信託銀行（ナショナルトラストバンク）設立のための新規申請 […]",
+          "link": "https://www.neweconomy.jp/posts/542097",
+          "publishedOn": "2026-01-28T05:15:07.000Z",
+          "wordCount": 741,
+          "title": "野村HD子会社レーザーデジタル、連邦信託銀行の設立を米OCCに申請",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/28141459/a42443bbe6c4bdc22024eedda45069a0.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=542071",
+          "author": "OtsugaShinya",
+          "description": "アニモカJPとルートストックが提携 アニモカブランズジャパン（Animoca Brands Japan：以下、アニモカJP）とルートストックラボ（Rootstock Labs）が、DAT（デジタルアセットトレジャリー）領 […]",
+          "link": "https://www.neweconomy.jp/posts/542071",
+          "publishedOn": "2026-01-28T04:07:04.000Z",
+          "wordCount": 741,
+          "title": "アニモカJP、BTCFi提供「ルートストック」とDAT領域で提携",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/28130659/d7f9aa7c1dffba7abfa7de7b3865f4e2.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=541332",
+          "author": "HitomotoToshikazu",
+          "description": "KrakenがDeFi Earn提供開始 暗号資産（仮想通貨）取引所クラーケン（Kraken）が、DeFi（分散型金融）を活用した利回り獲得機能「DeFiアーン（DeFi Earn）」を提供開始したと1月27日にXで発表 […]",
+          "link": "https://www.neweconomy.jp/posts/541332",
+          "publishedOn": "2026-01-28T03:29:19.000Z",
+          "wordCount": 804,
+          "title": "クラーケン、DeFi活用の利回り獲得機能を提供開始、アーベ、モルフォなど利用可能に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/28122550/9585a51fec956476c1a851c7ed760ed4.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=542023",
           "author": "NewEconomy",
           "description": "テザーが米国市場向けに新ステーブルコインを投入 ステーブルコイン発行企業テザー（Tether）が、米国向けの米ドル連動型ステーブルコイン「USAT」を正式にローンチしたと1月27日に発表した。 USATは、米国で新たに整 […]",
@@ -1813,6 +1928,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/top-us-banks-bitcoin-services-trading-custody",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "ビットコイン金融サービス企業リバーによると、米国の大手銀行の過半数が、取引やカストディなどのビットコイン関連サービスをすでに提供、もしくは提供を計画している。",
+          "link": "https://jp.cointelegraph.com/news/top-us-banks-bitcoin-services-trading-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-28T06:16:09.000Z",
+          "wordCount": 263,
+          "title": "米大手銀行の6割がビットコイン関連サービスに参入　取引・カストディ提供が拡大＝リバー",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmZkYjctODM3YS03YzVmLTkzMjAtY2Q1MDZiNzI0NDgyLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmZkYjctODM3YS03YzVmLTkzMjAtY2Q1MDZiNzI0NDgyLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/tether-launch-usat-regulated-stablecoin-us",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "時価総額最大のステーブルコインUSDTの発行体であるテザーは、米国内での運用に特化した米ドル連動型ステーブルコイン「USAT」を正式にローンチした。",
+          "link": "https://jp.cointelegraph.com/news/tether-launch-usat-regulated-stablecoin-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-28T05:55:55.000Z",
+          "wordCount": 241,
+          "title": "テザー、米国向けステーブルコインUSATを正式始動　連邦規制に対応",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmZmOWEtYzcxYS03Y2Y5LWJkNmQtMDdlOTc2YTlkY2M5LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmZmOWEtYzcxYS03Y2Y5LWJkNmQtMDdlOTc2YTlkY2M5LmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/stablecoins-real-threat-us-bank-deposits-says-standard-chartered",
           "author": "Cointelegraph  Helen Partz",
@@ -2307,21 +2452,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzIwYTItYjEzZi03MTcwLWFiYmQtODBlNTkyMDczMTFi.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/will-xrp-price-double-again-latent-buy-pressure-shorts-danger",
-          "author": "Cointelegraph  Yashu Gola",
-          "description": "XRP（XRP）のバイナンスにおける資金調達率は、2024年以降に急反発が起きる前と同様の動きを示している。",
-          "link": "https://jp.cointelegraph.com/news/will-xrp-price-double-again-latent-buy-pressure-shorts-danger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-01-23T16:13:09.000Z",
-          "wordCount": 297,
-          "title": "XRP 再び上昇するか？ 資金調達率が示す反発シグナル",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmU1ZWMtZmVjMC03OGUyLTk0YzctYzRjMmRkNjhiZGYwLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmU1ZWMtZmVjMC03OGUyLTk0YzctYzRjMmRkNjhiZGYwLmpwZw==.jpg"
         }
       ]
     },
@@ -2330,6 +2460,91 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=151785",
+          "author": "よきょい",
+          "description": "分散型取引プラットフォームHyperliquidに関連する暗号資産HYPEが、過去24時間で著しい価格上昇を見せています。 市場データによるとHYPEの価格は33.00ドルに到達し前日比で22％、1週間で52.4%という […]\n投稿 暗号資産HYPE、週間52%の暴騰｜金銀の取引活発化で取引高増 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-hype-surges-52-in-the-week/",
+          "publishedOn": "2026-01-28T06:01:33.000Z",
+          "wordCount": 588,
+          "title": "暗号資産HYPE、週間52%の暴騰｜金銀の取引活発化で取引高増",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2650621843.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=151786",
+          "author": "よきょい",
+          "description": "米国を襲った冬の嵐「ファーナン（Fernan）」の直撃を受け、週末にかけてビットコイン（BTC）のネットワークに大きな影響が生じました。ハッシュレートは一時的に最大43%も急落する事態となりましたが現在は急速な回復を見せ […]\n投稿 米寒波直撃でBTCネットワークに異変、ハッシュレート43%急落 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-cold-wave-hits-us-disrupting-bitcoin-network/",
+          "publishedOn": "2026-01-28T05:49:48.000Z",
+          "wordCount": 631,
+          "title": "米寒波直撃でBTCネットワークに異変、ハッシュレート43%急落",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_757716211.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=151787",
+          "author": "よきょい",
+          "description": "高級時計ブランドとして知られるジェイコブ＆コー（Jacob&Co）はビットコイン・マイニングのインフラを提供するゴーマイニング（GoMining）と協業し、マイニング機能を付帯した限定腕時計「Epic X GoM […]\n投稿 ビットコインマイニング機能付き高級時計が登場｜世界100本限定 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-luxury-watch-with-bitcoin-mining-functionality-now-available/",
+          "publishedOn": "2026-01-28T05:27:11.000Z",
+          "wordCount": 636,
+          "title": "ビットコインマイニング機能付き高級時計が登場｜世界100本限定",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_1079210861.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=151788",
+          "author": "よきょい",
+          "description": "bb主催のトレード大会「Wagyu Bull Run Grvt杯」において、参加登録者数が100名を突破しました。 【総額最大75万円】和牛ブルラン「Grvt杯」開催 近江牛やiPhone17の豪華賞品を掴み取れ\u0002 […]\n投稿 bb主催トレード大会「Wagyu Bull Run Grvt杯」、参加者数100人突破｜近江牛やiPhone17の豪華賞品 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bb-sponsored-competition-reaches-100-participants/",
+          "publishedOn": "2026-01-28T05:12:51.000Z",
+          "wordCount": 625,
+          "title": "bb主催トレード大会「Wagyu Bull Run Grvt杯」、参加者数100人突破｜近江牛やiPhone17の豪華賞品",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/G_V1y-vXYAAmQwu.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=151789",
+          "author": "よきょい",
+          "description": "米大手暗号資産取引所のコインベースは同社が公開している上場ロードマップに新たな銘柄として「Tria（TRIA）」を追加しました。 Assets added to the roadmap today: Tria (TRIA […]\n投稿 Tria、米大手取引所コインベースに上場へ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-tria-to-be-listed-on-major-us-exchange-coinbase/",
+          "publishedOn": "2026-01-28T04:55:23.000Z",
+          "wordCount": 605,
+          "title": "Tria、米大手取引所コインベースに上場へ",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/G1D-6amWwAA6EOL-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=151790",
+          "author": "よきょい",
+          "description": "金（ゴールド）価格が5000ドルを突破する中、暗号資産市場においても金のトークン化市場が活発化しています。 金価格に連動する暗号資産（RWA）として市場を牽引するPax Gold（PAXG）とTether Gold（XA […]\n投稿 金トークン「PAXG」と「XAUT」の違いとは｜RWA市場で時価総額増加 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-what-is-the-difference-between-the-gold-tokens-paxg-and-xaut/",
+          "publishedOn": "2026-01-28T04:38:50.000Z",
+          "wordCount": 589,
+          "title": "金トークン「PAXG」と「XAUT」の違いとは｜RWA市場で時価総額増加",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_1707435883.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=151791",
           "author": "よきょい",

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=331301",
+          "author": "増田隆幸",
+          "description": "※本記事は、1月9日に掲載した創刊特集の再掲載です。 大阪・関西万博が大きな話題となった2025年、Web3界隈で「万博さん」と呼ばれた人物がいる。HashPo ...\n万博、KDDIとの提携──ウォレットとDeFiという難問に挑むHashPort、本格展開の1年となるか【2026年 創刊特集】再掲 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/331301/",
+          "publishedOn": "2026-01-28T22:00:00.000Z",
+          "wordCount": 1631,
+          "title": "万博、KDDIとの提携──ウォレットとDeFiという難問に挑むHashPort、本格展開の1年となるか【2026年 創刊特集】再掲",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/12/0002-1-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=334759",
           "author": "Shoko Galaviz",
           "description": "暗号資産（仮想通貨）取引所Coinbase（コインベース）は、予測市場の提供を米国の全ユーザーに拡大した。 これにより、米国50州すべての利用者が、選挙、スポー ...\nCoinbase、全米50州で予測市場を本格展開 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -590,10 +600,40 @@
       "articles": []
     },
     {
-      "title": "LINEが金融子会社を設立/仮想通貨取引所の設立を目指し金融庁に登録申請中",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=684745",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨特化型政治活動委員会フェアシェイクが2026年中間選挙に向け1.93億ドル超の資金を確保したと報じられた。",
+          "link": "https://coinpost.jp/?p=684745",
+          "publishedOn": "2026-01-28T22:05:42.000Z",
+          "wordCount": 3298,
+          "title": "仮想通貨政治活動委員会「フェアシェイク」が300億円確保、米中間選挙に向け資金増強",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/snow-storm-congress.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/snow-storm-congress.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=684761",
+          "author": "菊谷ルイス",
+          "description": "米ウィズダムツリーがソラナを利用可能なブロックチェーンとして追加し、個人投資家と機関投資家の両方がトークン化ファンドにアクセスできるようにすると発表した。マルチチェーン展開戦略の一環として全ラインナップを拡大。",
+          "link": "https://coinpost.jp/?p=684761",
+          "publishedOn": "2026-01-28T21:40:06.000Z",
+          "wordCount": 3375,
+          "title": "ウィズダムツリーがトークン化ファンドをソラナに拡大、RWAアクセス向上",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/solana-2.0-new-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/solana-2.0-new-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=684743",
           "author": "菊谷ルイス",
@@ -1914,6 +1954,36 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/ripple-blockchain-treasury-platform-digital-assets",
+          "author": "Cointelegraph  Nate Kostar",
+          "description": "リップルが買収したジートレジャリーを基盤に、デジタル資産が企業のバランスシートに浸透する中、資金管理とブロックチェーン決済を統合する。",
+          "link": "https://jp.cointelegraph.com/news/ripple-blockchain-treasury-platform-digital-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-28T22:17:21.000Z",
+          "wordCount": 318,
+          "title": "リップル、新たなトレジャリー基盤でブロックチェーンをバックオフィスに導入",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzA2MTQtN2VmZi03YzJjLWExOWItNTQyNGYwNmJlN2ViLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzA2MTQtN2VmZi03YzJjLWExOWItNTQyNGYwNmJlN2ViLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/trump-banks-crypto-clarity-market-structure",
+          "author": "Cointelegraph  Nate Kostar",
+          "description": "ドナルド・トランプ米大統領の政権は、ステーブルコインの利回りを巡って議員間の意見が割れる中、仮想通貨の市場構造を定める法案の行き詰まり打開を図っている。",
+          "link": "https://jp.cointelegraph.com/news/trump-banks-crypto-clarity-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-28T22:09:40.000Z",
+          "wordCount": 256,
+          "title": "トランプ政権関係者、CLARITY法案協議再開で銀行・仮想通貨企業と会合へ＝報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzA2NzUtYjY4YS03MTZmLWFiNjktYjZkYjQxZGYzM2UzLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzA2NzUtYjY4YS03MTZmLWFiNjktYjZkYjQxZGYzM2UzLmpwZw==.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/bitcoin-eyes-90k-fomc-watch-these-btc-price-levels-next",
           "author": "Cointelegraph  Nancy Lubale",
           "description": "ビットコイン（BTC）は水曜日、9万ドルのレジスタンス突破を試みている。トレーダーは、米国の利下げ判断を巡る政策決定の前後で、価格が大きく振れる展開を想定している。",
@@ -3034,36 +3104,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2668799621.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=151595",
-          "author": "よきょい",
-          "description": "株式会社TORICOは1月22日、暗号資産イーサリアム（ETH）を追加取得したことを発表しました。同社によるETHの取得は今回で6回目となり累計保有数は約1,218 ETH、総取得価額は約6億円に達しています。 本日、イ […]\n投稿 TORICO、イーサリアム追加取得で1218ETH（約6億円）保有へ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-torico-to-hold-1218-eth/",
-          "publishedOn": "2026-01-24T10:14:12.000Z",
-          "wordCount": 612,
-          "title": "TORICO、イーサリアム追加取得で1218ETH（約6億円）保有へ",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_1009941217.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=151596",
-          "author": "よきょい",
-          "description": "NFTプロジェクト「Moonbirds」が、独自の暗号資産「BIRB」のトークン生成イベント（TGE）を1月28日に実施することが明らかになりました。このトークンはソラナブロックチェーン上で発行される予定です。 It&# […]\n投稿 NFTプロジェクト「Moonbirds」、28日にトークン発行へ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-moonbirds-to-issue-tokens-on-the-28th/",
-          "publishedOn": "2026-01-24T09:54:25.000Z",
-          "wordCount": 610,
-          "title": "NFTプロジェクト「Moonbirds」、28日にトークン発行へ",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2147214095.jpg"
         }
       ]
     }

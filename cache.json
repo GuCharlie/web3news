@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=334991",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● ビットコインが8万4000ドルを割った29日、1月に入ってからすでに強い下落圧力を受けていた多くの暗号資産関連株は、さ ...\n暗号資産関連株は続落──ビットコインは8万4000ドル割れ、取引高はほぼ半減 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/334991/",
+          "publishedOn": "2026-01-29T22:45:00.000Z",
+          "wordCount": 1382,
+          "title": "暗号資産関連株は続落──ビットコインは8万4000ドル割れ、取引高はほぼ半減",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/nadanews_top-16.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=334984",
+          "author": "XWIN Research",
+          "description": "● 複合的なマクロ・地政学リスクが重なり、ビットコインはストレス下で調整が進んだ。● 政府閉鎖リスク再燃と米国発フロー悪化が下落を主導した。● 現時点は調整局面 ...\n複合ショックが同時発生した一日──政府閉鎖リスク再燃が市場構造に与えた影響【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/334984/",
+          "publishedOn": "2026-01-29T22:25:00.000Z",
+          "wordCount": 1409,
+          "title": "複合ショックが同時発生した一日──政府閉鎖リスク再燃が市場構造に与えた影響【エックスウィンリサーチ】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/nadanews_top-15.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=334979",
           "author": "Shoko Galaviz",
           "description": "米証券取引委員会（SEC）と商品先物取引委員会（CFTC）は、暗号資産（仮想通貨）規制の刷新を目的とした「Project Crypto（プロジェクト・クリプト） ...\n米SECとCFTC、デジタル資産ルール刷新で協調へ first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -2523,6 +2543,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/why-did-bitcoin-price-hit-two-month-lows-near-83k",
+          "author": "Cointelegraph  William Suberg",
+          "description": "金と銀が史上最高値から急反落する中、ビットコインは突如として約6％下落し、2カ月ぶりの安値水準を記録した。",
+          "link": "https://jp.cointelegraph.com/news/why-did-bitcoin-price-hit-two-month-lows-near-83k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-29T22:48:09.000Z",
+          "wordCount": 404,
+          "title": "ビットコイン価格が約8万3000ドルまで下落、2カ月ぶり安値に",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzBhYjQtYTNkOC03OWEzLWIxNjEtZGM5ODU5OTVkY2U0LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzBhYjQtYTNkOC03OWEzLWIxNjEtZGM5ODU5OTVkY2U0LmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/live-senate-markup-crypto-market-structure-bill",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "議会が仮想通貨市場の監督権限を明確化しようとする中、包括的なデジタル資産市場構造案に対する修正案の審議が始まった。",
+          "link": "https://jp.cointelegraph.com/news/live-senate-markup-crypto-market-structure-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-29T22:39:53.000Z",
+          "wordCount": 219,
+          "title": "米上院農業委員会、仮想通貨市場構造法案を前進",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVmOWQtNzM3MC03ZGJmLTg4YjItMWExZWJhMTJhMjJj.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVmOWQtNzM3MC03ZGJmLTg4YjItMWExZWJhMTJhMjJj.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/ethereum-loses-3k-again-how-low-can-eth-price-go-february",
           "author": "Cointelegraph  Yashu Gola",

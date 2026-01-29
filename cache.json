@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=334733",
+          "author": "橋本 祐樹",
+          "description": "暗号資産（仮想通貨）取引所bitbankを運営するビットバンクが公開した「LN Trends」最新号を転載してお届けします（LN：Lightning Netwo ...\nLN Trends 2025年12月（vol.14） first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/334733/",
+          "publishedOn": "2026-01-29T08:45:00.000Z",
+          "wordCount": 1568,
+          "title": "LN Trends 2025年12月（vol.14）",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/08/IMG_0997-768x512-1-768x512-1-768x512-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=334849",
           "author": "廣瀬 優香",
           "description": "英国の広告規制当局であるASA（Advertising Standards Authority：広告基準局）は1月28日、暗号資産（仮想通貨）取引所Coinba ...\n英国、Coinbaseの広告を禁止──「暗号資産投資のリスクを軽視」 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -694,6 +704,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=684913",
+          "author": "Ritsuki.Kumazawa",
+          "description": "印刷大手の株式会社マツモトが、Solanaブロックチェーンを活用した「次世代DAT事業」構想の検討を開始。子供の活動履歴をデジタル証明書として記録し、仮想通貨ポートフォリオの運用益を家庭に還元する仕組みを目指す。",
+          "link": "https://coinpost.jp/?p=684913",
+          "publishedOn": "2026-01-29T09:15:57.000Z",
+          "wordCount": 3387,
+          "title": "老舗印刷マツモト、ソラナ活用の子供向けデジタル資産事業を検討",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/matsumoto_thumbnail.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/matsumoto_thumbnail.png"
+        },
         {
           "id": "https://coinpost.jp/?p=684925",
           "author": "Enzo",
@@ -2419,6 +2444,21 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/ether-exchange-supply-shrinks-as-staking-demand-grows",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "仮想通貨分析企業サンティメントによると、イーサリアム（ETH）の価格が横ばいで推移する中、過去6カ月で取引所に保管されるETH残高が減少しており、保有者は引き続きステーキングに積極的に参加しているという。",
+          "link": "https://jp.cointelegraph.com/news/ether-exchange-supply-shrinks-as-staking-demand-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-29T09:29:22.000Z",
+          "wordCount": 244,
+          "title": "仮想通貨取引所のイーサリアム残高が減少　価格横ばいでステーキング需要は拡大",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzA3ZDctYTMzZi03OGUwLTlmMjctZTBlZDc5ZDEyNTkzLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzA3ZDctYTMzZi03OGUwLTlmMjctZTBlZDc5ZDEyNTkzLmpwZw==.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/xrp-large-wallet-increase-price-crypto-analyst-santiment",
           "author": "Cointelegraph  Ciaran Lyons",
           "description": "仮想通貨分析プラットフォームのサンティメントによると、100万XRP以上を保有するウォレット数が年初から緩やかに増加しており、XRPの長期的な見通しにとって好材料になり得るという。",
@@ -3137,21 +3177,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmVmYTktMjYzOS03MGY3LTg4ZDctN2I1YzMyMjc2NDhmLmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/crypto-adoption-regions-pricewaterhousecoopers-pwc",
-          "author": "Cointelegraph  Ciaran Lyons",
-          "description": "大手会計事務所プライスウォーターハウスクーパース（PwC）は、世界の仮想通貨普及は地域ごとに進度が大きく異なり、一部の地域は他よりもはるかに速く前進していると指摘した。",
-          "link": "https://jp.cointelegraph.com/news/crypto-adoption-regions-pricewaterhousecoopers-pwc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-01-24T21:00:00.000Z",
-          "wordCount": 227,
-          "title": "仮想通貨の普及、地域差が鮮明に＝PwCが2026年版レポート",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmU5NTMtNTMzYy03ZDZhLWFiM2UtNjhmNTVlN2Y4ZjQyLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmU5NTMtNTMzYy03ZDZhLWFiM2UtNjhmNTVlN2Y4ZjQyLmpwZw==.jpg"
         }
       ]
     },

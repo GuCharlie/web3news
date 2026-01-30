@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-30T11:49:00.784Z</updated>
+    <updated>2026-01-30T12:46:13.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン 8万4000ドルの重要サポートを割り込む　次の展開はどこへ向かうのか]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-loses-crucial-84k-support-how-low-can-btc-price-go</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-loses-crucial-84k-support-how-low-can-btc-price-go?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-01-30T11:56:22.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は、2025年11月中旬以降価格を支えてきた重要サポートである8万4000ドルをついに下回った。BTC価格が今後どこへ向かうのかが注目されている。]]></summary>
+        <author>
+            <name>Cointelegraph  Nancy Lubale</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[香港の暗号資産企業OSL、ステーブルコインおよび決済事業拡大のため2億ドル調達へ]]></title>
         <id>https://www.nadanews.com/?p=335166</id>
@@ -3829,26 +3839,6 @@ Coinbase、量子コンピューターの脅威に備えて独立諮問委員会
         <link href="https://coinpost.jp/?p=683733"/>
         <updated>2026-01-26T01:49:28.000Z</updated>
         <summary type="html"><![CDATA[ストラテジー社のマイケル・セイラー氏が「プロトコル変更推進派がビットコイン最大の脅威」と発言し、仮想通貨コミュニティで激しい論争。開発者コミュニティとマキシマリスト間で賛否両論が巻き起こっている。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム財団、量子コンピュータ対策チームを新結成]]></title>
-        <id>https://coinpost.jp/?p=683720</id>
-        <link href="https://coinpost.jp/?p=683720"/>
-        <updated>2026-01-26T00:28:34.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム財団が量子コンピュータ対策チームを新設した。100万ドルの報奨金制度も開始し、耐量子暗号の実装を加速させる。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン大口投資家の保有量が4カ月ぶり高水準＝分析]]></title>
-        <id>https://coinpost.jp/?p=683715</id>
-        <link href="https://coinpost.jp/?p=683715"/>
-        <updated>2026-01-26T00:14:17.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨分析企業Santimentによると、1000BTC以上を保有する大口投資家のウォレット総保有量が約717万BTCに達し、2025年9月15日以来の最高水準を記録した。100万ドル以上の大口送金件数も2カ月ぶりの高水準となり、大口投資家の活発な動きが確認されている。]]></summary>
         <author>
             <name>Enzo</name>
         </author>

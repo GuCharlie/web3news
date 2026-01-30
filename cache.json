@@ -870,26 +870,6 @@
           "wordCount": 1359,
           "title": "World Liberty Financialと提携のSpacecoin、「SPACE」トークンをローンチ",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2300455717.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=334465",
-          "author": "井上 俊彦",
-          "description": "Coinbase（コインベース）が発表した「Charting Crypto: Q1 2026 Edition（2026年第1四半期 ビットコイン投資家意識調査報 ...\n機関投資家の7割が「ビットコインは割安」と判断：Coinbaseが調査報告 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/334465/",
-          "publishedOn": "2026-01-26T08:30:00.000Z",
-          "wordCount": 1371,
-          "title": "機関投資家の7割が「ビットコインは割安」と判断：Coinbaseが調査報告",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/10/shutterstock_2246342051.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=334466",
-          "author": "栃山 直樹",
-          "description": "お金に関する調査・研究組織「マネーインサイトラボ」（みんなの銀行とiBankマーケティングが共同運営）」は、銀行アプリのリアルデータを基にした「2025年度最新 ...\nZ世代、9.5%が暗号資産保有──銀行データが示す「クリプトサテライト」の投資実態 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/334466/",
-          "publishedOn": "2026-01-26T08:25:13.000Z",
-          "wordCount": 1395,
-          "title": "Z世代、9.5%が暗号資産保有──銀行データが示す「クリプトサテライト」の投資実態",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/スクリーンショット-2026-01-26-17.21.47.jpg"
         }
       ]
     },
@@ -904,6 +884,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=685353",
+          "author": "菊谷ルイス",
+          "description": "トランプ米大統領がケビン・ウォーシュ氏を連邦準備制度理事会議長に正式に指名した。同氏はビットコインを新世代の金と表現し政策監視役として肯定的な見解を示してきた。",
+          "link": "https://coinpost.jp/?p=685353",
+          "publishedOn": "2026-01-30T20:35:05.000Z",
+          "wordCount": 3304,
+          "title": "トランプ大統領、ビットコイン肯定派のウォーシュ氏を次期FRB議長に正式指名",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/trump-genius-act-pure-genius.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/trump-genius-act-pure-genius.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=624415",
           "author": "A.Yoshida",
@@ -2789,6 +2784,21 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/price-predictions-1-30-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-xmr",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "ビットコイン（BTC）の重要水準である8万ドルを維持できなければ、テクニカルチャートはビットコインおよびアルトコインのさらなる下落を示唆している。",
+          "link": "https://jp.cointelegraph.com/news/price-predictions-1-30-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-30T20:41:44.000Z",
+          "wordCount": 295,
+          "title": "BTCは底を打ったか？ 仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzBmYzQtYWFiNC03MGMyLWFjNmMtYjI4NGUwMzllY2VjLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzBmYzQtYWFiNC03MGMyLWFjNmMtYjI4NGUwMzllY2VjLmpwZw==.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/bitcoin-miner-exodus-may-push-btc-price-below-dollar60k",
           "author": "Cointelegraph  Yashu Gola",
           "description": "ビットコイン（BTC）1枚をマイニングするための電力コストを追跡する指標が、強気派に警告を発している。「マイナー流出」と呼ばれる動きが、弱気な見通しに拍車をかけている。",
@@ -4279,21 +4289,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_347993567.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=151608",
-          "author": "よきょい",
-          "description": "1月26日、ビットコイン（BTC）の価格は87,700ドル前後で推移しており、イーサリアム（ETH）は約2,,870ドル、ソラナ（SOL）は約121ドルで取引されています。世界の暗号資産時価総額は3.05兆ドルで、ビット […]\n投稿 【今日の暗号資産ニュース】金銀高騰でBTCはどうなる？日本でも暗号資産ETF解禁か は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-todays-cryptocurrency-news-gold-silver-btc-and-etfs-lifted/",
-          "publishedOn": "2026-01-26T08:41:14.000Z",
-          "wordCount": 623,
-          "title": "【今日の暗号資産ニュース】金銀高騰でBTCはどうなる？日本でも暗号資産ETF解禁か",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2228286711.jpg"
         }
       ]
     }

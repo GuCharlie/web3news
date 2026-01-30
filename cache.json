@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=335206",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● トランプ大統領は、Jerome Powell（ジェローム・パウエル）FRB議長の後任を近く発表するとみられており、元F ...\n次期FRB議長候補ケビン・ウォルシュ氏、市場が警戒する理由──ビットコインも下落 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/335206/",
+          "publishedOn": "2026-01-30T10:45:00.000Z",
+          "wordCount": 1387,
+          "title": "次期FRB議長候補ケビン・ウォルシュ氏、市場が警戒する理由──ビットコインも下落",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/nadanews_top-4-2.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=335195",
+          "author": "井上 俊彦",
+          "description": "Circle（サークル）の最高製品・技術責任者、Nikhil Chandhok（ニキール・チャンドック）氏が、公式ブログで「インターネット金融システムの構築：C ...\nCircle、機関投資家によるステーブルコインの導入を促進するため「耐久性の高い」インフラの構築を目指す first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/335195/",
+          "publishedOn": "2026-01-30T10:35:00.000Z",
+          "wordCount": 1362,
+          "title": "Circle、機関投資家によるステーブルコインの導入を促進するため「耐久性の高い」インフラの構築を目指す",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/09/shutterstock_2643246187.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=335197",
           "author": "NADA NEWS編集部",
           "description": "【CoinDesk Summary】 ● 米国上場のビットコインETFおよびイーサリアムETFは、暗号資産市場の下落とリスク選好の後退を受け、1月29日に約10 ...\n米国上場のビットコインETFとイーサリアムETF、1日で約10億ドルの資金流出 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -2292,6 +2312,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=543242",
+          "author": "NewEconomyPodcast",
+          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/543242",
+          "publishedOn": "2026-01-30T10:33:43.000Z",
+          "wordCount": 780,
+          "title": "【1/30話題】SBI VCトレードがビットポイント吸収合併へ、米CFTCがイベント契約の新規制を策定へなど（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/30175220/4e8d432eebac972007f35a26096a717c.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=543229",
           "author": "NewEconomy",
           "description": "イーサリアムで検閲耐性を維持する提案を検討 イーサリアム（Ethereum）の次期プロトコルアップデート「グラムステルダム（Glamsterdam）」に続く「ヘゴタ（Hegotá）」に向け、「フォーク・チョイス・エンフォ […]",
@@ -3088,6 +3118,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/binance-to-convert-1-billion-safu-fund-btc",
+          "author": "Cointelegraph  Christina Comben",
+          "description": "バイナンスは、主力のユーザー保護基金セキュア・アセット・ファンド・フォー・ユーザーズ（SAFU）について、今後30日以内にステーブルコイン建ての保有からビットコイン建てへと移行し、基金の準備資産をBTCに再建て替えする方針を明らかにした。",
+          "link": "https://jp.cointelegraph.com/news/binance-to-convert-1-billion-safu-fund-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-30T10:58:54.000Z",
+          "wordCount": 240,
+          "title": "バイナンス、ユーザー保護基金SAFUをビットコイン建てへ移行",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzBlMGMtMzFiMi03MDliLWEyOTUtYjJlYTRmYmI4Y2UzLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzBlMGMtMzFiMi03MDliLWEyOTUtYjJlYTRmYmI4Y2UzLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/circle-usdc-stablecoin-infrastructure-enterprise-adoption-2026",
           "author": "Cointelegraph  Stephen Katte",
@@ -3912,36 +3957,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBkODYtOGYyOC03ZjY4LWFlMjQtNGU4ZTVkMDczMmJm.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/colombia-second-largest-pension-fund-bitcoin-exposure",
-          "author": "Cointelegraph  Amin Haqshanas",
-          "description": "AFPプロテクシオンは、ビットコイン連動型ファンドへのアクセスを適格投資家に限定し、コロンビアの年金資産における中核配分は変更しないとしている。",
-          "link": "https://jp.cointelegraph.com/news/colombia-second-largest-pension-fund-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-01-25T22:47:02.000Z",
-          "wordCount": 256,
-          "title": "コロンビア第2位の年金基金、ビットコインへの投資機会を提供へ",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmY0MzItZWQ2Mi03NWE3LWIwMWItOGY2MzdkZGYxMzVhLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmY0MzItZWQ2Mi03NWE3LWIwMWItOGY2MzdkZGYxMzVhLmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/nifty-gateway-shutdown-nft-marketplace-closure-2026",
-          "author": "Cointelegraph  Amin Haqshanas",
-          "description": "ジェミナイ傘下のNFTプラットフォームは、長期低迷が続く業界の主要な犠牲例として、2026年2月23日に閉鎖し、出金専用モードへ移行する。",
-          "link": "https://jp.cointelegraph.com/news/nifty-gateway-shutdown-nft-marketplace-closure-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-01-25T22:38:44.000Z",
-          "wordCount": 284,
-          "title": "NFTマーケットプレイス、ニフティ・ゲートウェイが事業終了へ",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmYzZTYtYmMwZS03NGFiLWExNTctN2QyYjc5ZDc1NTU3LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmYzZTYtYmMwZS03NGFiLWExNTctN2QyYjc5ZDc1NTU3LmpwZw==.jpg"
         }
       ]
     },

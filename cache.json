@@ -910,16 +910,6 @@
           "wordCount": 1411,
           "title": "Chainlink、MEV回収ツール「Atlas」を買収──累計1,000万ドル超をDeFiに還元する「Chainlink SVR」拡大へ【MCB FinTechカタログ通信】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/Acquisition_of_Atlas_IP__CHAINLI.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=334446",
-          "author": "NADA NEWS編集部",
-          "description": "【CoinDesk Summary】 ● Ethereum Foundation（イーサリアム・ファウンデーション、EF）は、耐量子（post-quantum） ...\nEthereum Foundation、耐量子セキュリティを最重要課題に──新チームを設立 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/334446/",
-          "publishedOn": "2026-01-26T07:40:00.000Z",
-          "wordCount": 1392,
-          "title": "Ethereum Foundation、耐量子セキュリティを最重要課題に──新チームを設立",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/nadanews_top-4-1.jpg"
         }
       ]
     },
@@ -2819,6 +2809,21 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-miner-exodus-may-push-btc-price-below-dollar60k",
+          "author": "Cointelegraph  Yashu Gola",
+          "description": "ビットコイン（BTC）1枚をマイニングするための電力コストを追跡する指標が、強気派に警告を発している。「マイナー流出」と呼ばれる動きが、弱気な見通しに拍車をかけている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-miner-exodus-may-push-btc-price-below-dollar60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-30T19:34:13.000Z",
+          "wordCount": 296,
+          "title": "ビットコイン、マイナー流出で弱気見通し強まる　マイニングコストが示す下値水準",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzBkZDktYWZjZS03YmQ3LTliMGYtYWEyYzdhOGI5MWY4LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzBkZDktYWZjZS03YmQ3LTliMGYtYWEyYzdhOGI5MWY4LmpwZw==.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/bitcoin-bear-market-almost-over-btc-price-metric-outpaces-2022-bottom",
           "author": "Cointelegraph  William Suberg",
           "description": "ビットコイン（BTC）は、典型的な価格指標が過去最低水準を更新したことで、調整局面が「終わりに近い」可能性がある。",
@@ -4339,21 +4344,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_1931372477-3.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=151610",
-          "author": "よきょい",
-          "description": "株式会社メタプラネットは1月26日、2025年12月期通期業績予想の修正およびビットコイン（BTC）評価損の計上を発表しました。ビットコイン・インカム事業が好調に推移し、売上高と営業利益は当初の予想を大幅に上回る見通しと […]\n投稿 メタプラネット、巨額営業利益も1000億円のBTC評価損 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-metaplanet-achieves-huge-operating-profits-but-suffers-a-100-billion-yen-btc-valuation-loss/",
-          "publishedOn": "2026-01-26T07:47:32.000Z",
-          "wordCount": 611,
-          "title": "メタプラネット、巨額営業利益も1000億円のBTC評価損",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2666229747-1.jpg"
         }
       ]
     }

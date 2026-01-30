@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-30T19:28:34.515Z</updated>
+    <updated>2026-01-30T19:54:13.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、マイナー流出で弱気見通し強まる　マイニングコストが示す下値水準]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-miner-exodus-may-push-btc-price-below-dollar60k</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-miner-exodus-may-push-btc-price-below-dollar60k?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-01-30T19:34:13.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）1枚をマイニングするための電力コストを追跡する指標が、強気派に警告を発している。「マイナー流出」と呼ばれる動きが、弱気な見通しに拍車をかけている。]]></summary>
+        <author>
+            <name>Cointelegraph  Yashu Gola</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ大統領、FRB議長にケビン・ウォーシュ氏を指名]]></title>
         <id>https://www.nadanews.com/?p=335217</id>
@@ -3526,28 +3536,6 @@ Z世代、9.5%が暗号資産保有──銀行データが示す「クリプト
 Chainlink、MEV回収ツール「Atlas」を買収──累計1,000万ドル超をDeFiに還元する「Chainlink SVR」拡大へ【MCB FinTechカタログ通信】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>宮本航歩</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネット、巨額営業利益も1000億円のBTC評価損]]></title>
-        <id>https://crypto-times.jp/?p=151610</id>
-        <link href="https://crypto-times.jp/news-metaplanet-achieves-huge-operating-profits-but-suffers-a-100-billion-yen-btc-valuation-loss/"/>
-        <updated>2026-01-26T07:47:32.000Z</updated>
-        <summary type="html"><![CDATA[株式会社メタプラネットは1月26日、2025年12月期通期業績予想の修正およびビットコイン（BTC）評価損の計上を発表しました。ビットコイン・インカム事業が好調に推移し、売上高と営業利益は当初の予想を大幅に上回る見通しと […]
-投稿 メタプラネット、巨額営業利益も1000億円のBTC評価損 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Foundation、耐量子セキュリティを最重要課題に──新チームを設立]]></title>
-        <id>https://www.nadanews.com/?p=334446</id>
-        <link href="https://www.nadanews.com/334446/"/>
-        <updated>2026-01-26T07:40:00.000Z</updated>
-        <summary type="html"><![CDATA[【CoinDesk Summary】 ● Ethereum Foundation（イーサリアム・ファウンデーション、EF）は、耐量子（post-quantum） ...
-Ethereum Foundation、耐量子セキュリティを最重要課題に──新チームを設立 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>NADA NEWS編集部</name>
         </author>
     </entry>
 </feed>

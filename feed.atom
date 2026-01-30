@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-30T14:32:54.725Z</updated>
+    <updated>2026-01-30T15:30:09.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ大統領、次期FRB議長にケビン・ウォーシュ氏指名を発表　過去にビットコインへ好意的発言も]]></title>
+        <id>https://jp.cointelegraph.com/news/kevin-warsh-officially-picked-federal-reserve-chair</id>
+        <link href="https://jp.cointelegraph.com/news/kevin-warsh-officially-picked-federal-reserve-chair?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-01-30T15:14:05.000Z</updated>
+        <summary type="html"><![CDATA[米国のトランプ大統領は金曜、米連邦準備制度理事会（FRB）の次期議長として、元FRB理事のケビン・ウォーシュ氏を指名すると発表した。現議長のジェローム・パウエル氏の後任人事を巡り、上院での承認プロセスが本格化することになる。]]></summary>
+        <author>
+            <name>Cointelegraph  Christina Comben</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン 8万4000ドルの重要サポートを割り込む　次の展開はどこへ向かうのか]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-loses-crucial-84k-support-how-low-can-btc-price-go</id>
@@ -3767,59 +3777,6 @@ Coinbase、量子コンピューターの脅威に備えて独立諮問委員会
         <summary type="html"><![CDATA[Bitwiseのアクティブ運用型ETF上場 米暗号資産（仮想通貨）運用会社ビットワイズ（Bitwise）組成のアクティブ運用型ETF（上場投資信託）が、米NYSEアーカ（NYSE Arca）に上場した。ビットワイズが1月 […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RWA市場100億ドル突破、サークルがブラックロック超えで首位に]]></title>
-        <id>https://crypto-times.jp/?p=151616</id>
-        <link href="https://crypto-times.jp/news-rwa-market-exceeds-10-billion/"/>
-        <updated>2026-01-26T03:28:25.000Z</updated>
-        <summary type="html"><![CDATA[米国債をトークン化した「RWA（現実資産）」市場が総額100億ドルという重要な節目を迎えました。またサークルに関連する「USYC」の運用資産残高が、最大手であるブラックロックの「BUIDL」を上回り首位に立ちました。 U […]
-投稿 RWA市場100億ドル突破、サークルがブラックロック超えで首位に は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「保有で稼ぐ」は違法に？ステーブルコイン報酬、米で禁止議論]]></title>
-        <id>https://crypto-times.jp/?p=151617</id>
-        <link href="https://crypto-times.jp/news-stablecoin-rewards-ban-under-discussion-in-the-us/"/>
-        <updated>2026-01-26T03:16:03.000Z</updated>
-        <summary type="html"><![CDATA[米国で議論が進む新たな暗号資産規制法案「CLARITY法案」において、ステーブルコイン保有者への報酬提供ルールを定めた第404条が大きな議論を呼んでいます。 この規制案は暗号資産プラットフォームが銀行預金と競合するような […]
-投稿 「保有で稼ぐ」は違法に？ステーブルコイン報酬、米で禁止議論 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【上場企業必見】いよいよ明後日！残り席わずか──暗号資産保有と会計・税務セミナー]]></title>
-        <id>https://www.nadanews.com/?p=334399</id>
-        <link href="https://www.nadanews.com/334399/"/>
-        <updated>2026-01-26T03:09:22.000Z</updated>
-        <summary type="html"><![CDATA[企業の暗号資産活用・トレジャリー運用の“実務”にフォーカスしたワークショップを、1月28日（水）17:30〜（東京駅近郊） に開催します。 実践企業の事例に加え ...
-【上場企業必見】いよいよ明後日！残り席わずか──暗号資産保有と会計・税務セミナー first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>橋本 祐樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産ETF、日本でも28年に解禁の見通しか＝日経報道]]></title>
-        <id>https://www.neweconomy.jp/?p=541111</id>
-        <link href="https://www.neweconomy.jp/posts/541111"/>
-        <updated>2026-01-26T02:52:33.000Z</updated>
-        <summary type="html"><![CDATA[28年に暗号資産ETF解禁の見通しか 暗号資産（仮想通貨）で運用するETF（上場投資信託）が、日本でも2028年に解禁される見通しであると「日経新聞」が1月25日に報じた。野村ホールディングスやSBIホールディングスの運 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金高騰・ビットコイン低迷の理由　中国と流動性を分析＝クロスボーダー・キャピタル]]></title>
-        <id>https://coinpost.jp/?p=683753</id>
-        <link href="https://coinpost.jp/?p=683753"/>
-        <updated>2026-01-26T02:36:11.000Z</updated>
-        <summary type="html"><![CDATA[金や銀が急騰する一方で仮想通貨ビットコインが低迷している。クロスボーダー・キャピタルはこの背景を中国の影響やグローバル流動性の影響から分析した。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>

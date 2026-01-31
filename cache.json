@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=335256",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● イーロン・マスク氏が、SpaceX（スペースX）、Tesla（テスラ）、あるいはxAIを含む合併の可能性を検討している ...\nSpaceXとTeslaが合併すれば、2万ビットコインの保有高に first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/335256/",
+          "publishedOn": "2026-01-31T08:55:00.000Z",
+          "wordCount": 1381,
+          "title": "SpaceXとTeslaが合併すれば、2万ビットコインの保有高に",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/nadanews_top-11-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=335257",
           "author": "NADA NEWS編集部",
           "description": "【CoinDesk Summary】 ● Tether（テザー）は2025年の純利益が100億ドル（約1兆5300億円、1ドル=153円換算）超に達した。同社が ...\nTether、2025年の純利益は1.5兆円超──USDT準備資産の金は2.7兆円 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -2208,36 +2218,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/hack-hack-.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/hack-hack-.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=683952",
-          "author": "菊谷ルイス",
-          "description": "バンエックが仮想通貨アバランチのネイティブトークンAVAXに投資する米国初の現物ETFを開始した。運用資産5億ドルまたは2月末までスポンサー手数料を免除する。",
-          "link": "https://coinpost.jp/?p=683952",
-          "publishedOn": "2026-01-26T21:20:25.000Z",
-          "wordCount": 3307,
-          "title": "米国初のアバランチ現物ETFが上場、バンエック提供",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/vaneck-avalanche.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/vaneck-avalanche.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=683950",
-          "author": "菊谷ルイス",
-          "description": "仮想通貨投資企業ビットマインが過去1週間で4万ETH以上を追加購入し、総保有資産が128億ドルに達した。ETH保有量は総供給量の3.52%を占める。",
-          "link": "https://coinpost.jp/?p=683950",
-          "publishedOn": "2026-01-26T20:59:27.000Z",
-          "wordCount": 3310,
-          "title": "ビットマインが先週4万イーサリアム追加購入、総供給量の3.5%に",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/bitmine1029-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/bitmine1029-1.jpg"
         }
       ]
     },
@@ -3812,21 +3792,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmZiMWEtMzg2Ni03ZGVmLWE0ZmEtMTNkNmU0ZWVjMTljLmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/strategy-buy-264-million-bitcoin-market-sell-off",
-          "author": "Cointelegraph  Helen Partz",
-          "description": "マイケル・セイラー氏率いるビットコイン（BTC）保有企業ストラテジーは、市場全体の売りが進む中でビットコインを追加購入したことを明らかにした。",
-          "link": "https://jp.cointelegraph.com/news/strategy-buy-264-million-bitcoin-market-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-01-26T21:00:00.000Z",
-          "wordCount": 253,
-          "title": "ストラテジー、相場下落局面でビットコイン追加購入　2932BTCを追加取得",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmZhN2EtYzNkNC03OTU4LWI0NDgtY2IyOWFjNmJhMjE0LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmZhN2EtYzNkNC03OTU4LWI0NDgtY2IyOWFjNmJhMjE0LmpwZw==.jpg"
         }
       ]
     },

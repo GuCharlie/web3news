@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=335294",
+          "author": "橋本 祐樹",
+          "description": "ソラナの「Jupiter（ジュピター）」と聞いて、すぐにイメージが湧く日本人はまだ多くないかもしれない。Jupiterは、ソラナチェーン上で機能するDeFi（分 ...\n【現地レポ】ソラナのDEXアグリゲーター・Jupiter、マレーシアで大型祭典──誰でも使えるDeFi体験を訴求 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/335294/",
+          "publishedOn": "2026-01-31T07:10:40.000Z",
+          "wordCount": 1441,
+          "title": "【現地レポ】ソラナのDEXアグリゲーター・Jupiter、マレーシアで大型祭典──誰でも使えるDeFi体験を訴求",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/DSC_7248-scaled.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=335258",
           "author": "NADA NEWS編集部",
           "description": "【CoinDesk Summary】 ● ビットコイン（BTC）は、金に対して月足で6カ月連続の下落となる見通した。このパターンは、2019年から2020年にか ...\n金の6カ月連続の上昇とビットコイン──2019年サイクルとの類似点 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -2924,6 +2934,21 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/coinbase-jpmorgan-ceos-clashed-market-structure-davos",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "JPモルガン・チェースのジェイミー・ダイモンCEOが先週、スイス・ダボスで開かれた世界経済フォーラム（WEF）の場で、コインベースのブライアン・アームストロングCEOに詰め寄り、米国議会で審議中のデジタル資産市場構造法案（CLARITY法案）を銀行が妨害していると嘘をつくのはやめろと強く非難していた。",
+          "link": "https://jp.cointelegraph.com/news/coinbase-jpmorgan-ceos-clashed-market-structure-davos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-01-31T07:04:25.000Z",
+          "wordCount": 239,
+          "title": "JPモルガンのダイモンCEO、ダボスでコインベースCEOを非難　CLARITY法案めぐり対立＝報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzEwNDctYWI2OC03MGRkLTlhMTMtOWIzZGJmNDA0ZGExLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzEwNDctYWI2OC03MGRkLTlhMTMtOWIzZGJmNDA0ZGExLmpwZw==.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/tether-stablecoin-usdt-profits-us-treasury-holdings-annual-report",
           "author": "Cointelegraph  Ciaran Lyons",
           "description": "世界最大のステーブルコインUSDTを発行するテザーは、2025年の純利益が前年から約30億ドル減少した一方、米国債の保有額が過去最高水準に達したと報告した。",
@@ -3830,6 +3855,51 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=152003",
+          "author": "よきょい",
+          "description": "1月31日、ビットコイン（BTC）はこれまでの堅調な推移から一転、急激な売り圧力にさらされています。現在約83,618ドル付近で取引されており、心理的節目であった9万ドルさらには8万5000ドルを相次いで割り込む弱気な展 […]\n投稿 ビットコイン（BTC）、9万ドルから急転直下ーダブルデスクロス形成【仮想通貨チャート分析】 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitcoin-btc-suddenly-falls-from-90000-forming-a-double-death-cross/",
+          "publishedOn": "2026-01-31T07:18:36.000Z",
+          "wordCount": 599,
+          "title": "ビットコイン（BTC）、9万ドルから急転直下ーダブルデスクロス形成【仮想通貨チャート分析】",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2055211673.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=152004",
+          "author": "よきょい",
+          "description": "1月31日、暗号資産リップル（XRP）は約1.72ドルで取引されており、過去24時間で大幅な下落を記録しています。年初の2.30ドル超えから一転、テクニカル面では複数の弱気シグナルが点灯しており、投資家の間ではさらなる下 […]\n投稿 リップル(XRP)、1.70ドルへ急落ーデッドクロスが下落を加速【仮想通貨チャート分析】 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-ripple-xrp-plunges-to-1-70/",
+          "publishedOn": "2026-01-31T07:14:16.000Z",
+          "wordCount": 599,
+          "title": "リップル(XRP)、1.70ドルへ急落ーデッドクロスが下落を加速【仮想通貨チャート分析】",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2306358777-2.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=152069",
+          "author": "よきょい",
+          "description": "1月31日、ビットコイン（BTC）の価格は83,880ドル前後で推移しており、イーサリアム（ETH）は約2,690ドル、ソラナ（SOL）は約117ドルで取引されています。世界の暗号資産時価総額は2.92兆ドルで、ビットコ […]\n投稿 【今日の暗号資産ニュース】銀が40%の大暴落。主要暗号資産の清算相次ぐ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-todays-cryptocurrency-news-silver-crashes-liquidations-ensue/",
+          "publishedOn": "2026-01-31T07:01:46.000Z",
+          "wordCount": 605,
+          "title": "【今日の暗号資産ニュース】銀が40%の大暴落。主要暗号資産の清算相次ぐ",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_50618965.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=152005",
           "author": "よきょい",

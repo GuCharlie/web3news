@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=335378",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● Dubai Insurance（ドバイ・インシュアランス）は、保険料の支払い、保険金の受け取り、デジタル資産の取引に利 ...\nDubai Insurance、暗号資産ウォレットを提供──ビットコインで保険料の支払い、保険金受け取りが可能に first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/335378/",
+          "publishedOn": "2026-02-01T22:30:00.000Z",
+          "wordCount": 1399,
+          "title": "Dubai Insurance、暗号資産ウォレットを提供──ビットコインで保険料の支払い、保険金受け取りが可能に",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/nadanews_top-16-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=332991",
           "author": "増田隆幸",
           "description": "※本記事は、1月16日に掲載した創刊特集の再掲載です。 暗号資産（仮想通貨）の規制法が金融商品取引法（金商法）に移行し、暗号資産が金融の枠組みに入っていくとき、 ...\n2026年、日本の金融は作り替えられる──SBI北尾吉孝氏が描く「デジタルバンク」とトークン化の未来【2026年 創刊特集】再掲 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -1910,16 +1920,6 @@
           "wordCount": 749,
           "title": "イーサリアムL1にzkEVM統合へ。イーサリアム財団が2026年ロードマップ提示",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/29104518/67f78c2ffc5e24e1106224d3e2c48e79.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=542140",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/542140",
-          "publishedOn": "2026-01-28T10:22:15.000Z",
-          "wordCount": 777,
-          "title": "【1/28話題】テザーの米国市場向け新ステーブルコイン「USAT」、レーザーデジタルが連邦信託銀行の申請、アニモカJPとルートストックが提携など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/28164647/3a98d485c196e247f9a98b35f4989b5b.jpg"
         }
       ]
     },
@@ -1928,6 +1928,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/alternative-inflation-data-us-cpi-cooling-fed-crypto",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "リアルタイムのトゥルーフレーションのデータは、米国の物価圧力が和らいでいることを示しており、FRBの政策見通しを見直す材料となる可能性がある。仮想通貨を含むリスク資産市場への影響も想定される。",
+          "link": "https://jp.cointelegraph.com/news/alternative-inflation-data-us-cpi-cooling-fed-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-01T22:38:01.000Z",
+          "wordCount": 254,
+          "title": "代替インフレ指標、米CPIの急速な鈍化を示す　FRBの不透明感が続く中で",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzE5ZjctYTAyZS03MDcxLWEwZDctZDAxMGM3ZGZkOTcxLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzE5ZjctYTAyZS03MDcxLWEwZDctZDAxMGM3ZGZkOTcxLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-sell-off-ibit-investor-returns",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "ドル加重ベースで算出すると、ブラックロックのiシェアーズ・ビットコイン・トラストに投資した投資家の累積リターンは、足元のビットコイン売りを受けてマイナスに転じた。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-sell-off-ibit-investor-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-01T22:25:35.000Z",
+          "wordCount": 266,
+          "title": "ビットコイン急落でIBIT投資家のリターンがマイナス圏に＝資産運用会社",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzFhM2EtNmJiOC03NjFmLTg4N2MtNTI5ZjcwNTUxZmQxLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzFhM2EtNmJiOC03NjFmLTg4N2MtNTI5ZjcwNTUxZmQxLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-miner-output-us-winter-storm-latest-data",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "クリプトクオントの新たなデータは、1月の米国の冬季嵐で送電網が逼迫する中、電力使用を抑制した結果、ビットコインのマイニングがどのように混乱したかを示している。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-miner-output-us-winter-storm-latest-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-01T22:19:46.000Z",
+          "wordCount": 231,
+          "title": "ビットコインマイナーの生産データ、米国の冬季嵐による影響の規模が判明",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzBkZDktYWZjZS03YmQ3LTliMGYtYWEyYzdhOGI5MWY4LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzBkZDktYWZjZS03YmQ3LTliMGYtYWEyYzdhOGI5MWY4LmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-price-forecasts-sub-50k-levels-btc-copies-old-bear-markets",
           "author": "Cointelegraph  William Suberg",

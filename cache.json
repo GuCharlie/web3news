@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=332991",
+          "author": "増田隆幸",
+          "description": "※本記事は、1月16日に掲載した創刊特集の再掲載です。 暗号資産（仮想通貨）の規制法が金融商品取引法（金商法）に移行し、暗号資産が金融の枠組みに入っていくとき、 ...\n2026年、日本の金融は作り替えられる──SBI北尾吉孝氏が描く「デジタルバンク」とトークン化の未来【2026年 創刊特集】再掲 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/332991/",
+          "publishedOn": "2026-02-01T22:00:00.000Z",
+          "wordCount": 1580,
+          "title": "2026年、日本の金融は作り替えられる──SBI北尾吉孝氏が描く「デジタルバンク」とトークン化の未来【2026年 創刊特集】再掲",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/image001.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=335249",
           "author": "NADA NEWS編集部",
           "description": "【CoinDesk Summary】 ● Ripple（リップル）は、10億ドルで買収したGTreasuryを基盤に、企業が現金とデジタル資産を一元管理できるエ ...\nRipple、10億ドルでのGTreasury買収をテコに企業財務へ──「Ripple Treasury」で金融インフラ化を狙う first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -1910,16 +1920,6 @@
           "wordCount": 777,
           "title": "【1/28話題】テザーの米国市場向け新ステーブルコイン「USAT」、レーザーデジタルが連邦信託銀行の申請、アニモカJPとルートストックが提携など（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/28164647/3a98d485c196e247f9a98b35f4989b5b.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=542193",
-          "author": "OtsugaShinya",
-          "description": "HashPort Wallet for Bizが提供開始 ブロックチェーン関連事業を行うハッシュポート（HashPort）は、企業と顧客の双方が手数料ゼロとなるステーブルコイン決済サービス「HashPort Wallet […]",
-          "link": "https://www.neweconomy.jp/posts/542193",
-          "publishedOn": "2026-01-28T09:52:00.000Z",
-          "wordCount": 794,
-          "title": "ハッシュポート、手数料ゼロの企業向けステーブルコイン決済サービス「HashPort Wallet for Biz」提供開始",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/28185141/5a7138dd0f004c94fa0fa4c49e10be17.jpg"
         }
       ]
     },
@@ -1928,6 +1928,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-price-forecasts-sub-50k-levels-btc-copies-old-bear-markets",
+          "author": "Cointelegraph  William Suberg",
+          "description": "主要サポート割れと実現価格のレジスタンス転換を受け、BTC価格分析は「弱気相場の歴史が繰り返されている」と指摘した。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-price-forecasts-sub-50k-levels-btc-copies-old-bear-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-01T22:14:16.000Z",
+          "wordCount": 480,
+          "title": "ビットコイン価格予測、過去の弱気相場をなぞり5万ドル割れ水準を示唆",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzE5YzItYTgyZC03ZTg0LTk0NTEtMjI5Njc3NDA0NWNkLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzE5YzItYTgyZC03ZTg0LTk0NTEtMjI5Njc3NDA0NWNkLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/us-treasury-sanctions-iran-linked-crypto-exchanges-first-time",
           "author": "Cointelegraph  Amin Haqshanas",

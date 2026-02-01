@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-01T21:44:34.409Z</updated>
+    <updated>2026-02-01T22:20:46.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン価格予測、過去の弱気相場をなぞり5万ドル割れ水準を示唆]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-price-forecasts-sub-50k-levels-btc-copies-old-bear-markets</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-price-forecasts-sub-50k-levels-btc-copies-old-bear-markets?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-01T22:14:16.000Z</updated>
+        <summary type="html"><![CDATA[主要サポート割れと実現価格のレジスタンス転換を受け、BTC価格分析は「弱気相場の歴史が繰り返されている」と指摘した。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年、日本の金融は作り替えられる──SBI北尾吉孝氏が描く「デジタルバンク」とトークン化の未来【2026年 創刊特集】再掲]]></title>
+        <id>https://www.nadanews.com/?p=332991</id>
+        <link href="https://www.nadanews.com/332991/"/>
+        <updated>2026-02-01T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[※本記事は、1月16日に掲載した創刊特集の再掲載です。 暗号資産（仮想通貨）の規制法が金融商品取引法（金商法）に移行し、暗号資産が金融の枠組みに入っていくとき、 ...
+2026年、日本の金融は作り替えられる──SBI北尾吉孝氏が描く「デジタルバンク」とトークン化の未来【2026年 創刊特集】再掲 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>増田隆幸</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ripple、10億ドルでのGTreasury買収をテコに企業財務へ──「Ripple Treasury」で金融インフラ化を狙う]]></title>
         <id>https://www.nadanews.com/?p=335249</id>
@@ -2404,16 +2425,6 @@ OKX、ヨーロッパで暗号資産決済カードを導入 first appeared on N
         <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハッシュポート、手数料ゼロの企業向けステーブルコイン決済サービス「HashPort Wallet for Biz」提供開始]]></title>
-        <id>https://www.neweconomy.jp/?p=542193</id>
-        <link href="https://www.neweconomy.jp/posts/542193"/>
-        <updated>2026-01-28T09:52:00.000Z</updated>
-        <summary type="html"><![CDATA[HashPort Wallet for Bizが提供開始 ブロックチェーン関連事業を行うハッシュポート（HashPort）は、企業と顧客の双方が手数料ゼロとなるステーブルコイン決済サービス「HashPort Wallet […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-02T10:40:13.353Z</updated>
+    <updated>2026-02-02T11:32:28.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ripple、ルクセンブルクでEU電子マネー機関の完全なライセンスを取得]]></title>
+        <id>https://www.nadanews.com/?p=335529</id>
+        <link href="https://www.nadanews.com/335529/"/>
+        <updated>2026-02-02T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Ripple（リップル）社は2026年2月2日、ルクセンブルクの金融規制当局、金融監督委員会（CSSF）から、電子マネー機関（EMI）ライセンスの完全な認可を受 ...
+Ripple、ルクセンブルクでEU電子マネー機関の完全なライセンスを取得 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ApeChainのNightGlyders、1月末から2月にかけてフロアプライスが急騰]]></title>
         <id>https://crypto-times.jp/?p=152199</id>
@@ -2703,26 +2714,6 @@ Startale、約20億円調達──Sony Innovation Fundが追加出資 first appe
 Paxos Gold、記録的な資金流入──金価格は5300ドル突破 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>NADA NEWS編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[銀行はステーブルコインによる「取り付け騒ぎ」を警戒、規制当局は影響限定的と認識]]></title>
-        <id>https://jp.cointelegraph.com/news/banks-warn-of-stablecoin-bank-run-risk-regulators-see-limited-impact</id>
-        <link href="https://jp.cointelegraph.com/news/banks-warn-of-stablecoin-bank-run-risk-regulators-see-limited-impact?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-01-28T23:11:29.000Z</updated>
-        <summary type="html"><![CDATA[銀行は、ステーブルコインが銀行システムから預金を吸い上げる可能性を警告している。一方で、政策・規制の専門家は、現時点でその兆候を示す証拠は乏しいと指摘する。]]></summary>
-        <author>
-            <name>Cointelegraph  Adrian Zmudzinski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オープンAIが生体認証型SNSを開発中、ワールドオーブ利用検討か]]></title>
-        <id>https://coinpost.jp/?p=684744</id>
-        <link href="https://coinpost.jp/?p=684744"/>
-        <updated>2026-01-28T22:45:37.000Z</updated>
-        <summary type="html"><![CDATA[オープンAIが独自のソーシャルネットワークを開発しており生体認証を使用してユーザーが人間であることを確認する計画だとフォーブスが報じた。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

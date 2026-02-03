@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=335618",
+          "author": "橋本 祐樹",
+          "description": "今年の正月、5年ぶりに日本へ一時帰国したときの話です。 空港からの帰りに立ち寄ったコンビニで、ふとした違和感がありました。 おにぎりの値段が、思っていたより高い ...\n＜ANAP Brand Channel 連載＞最近よく目にする「値上げ」について、やさしく整理してみる first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/335618/",
+          "publishedOn": "2026-02-03T08:53:20.000Z",
+          "wordCount": 6049,
+          "title": "＜ANAP Brand Channel 連載＞最近よく目にする「値上げ」について、やさしく整理してみる",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/寄稿サムネ.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=335650",
           "author": "NADA NEWS編集部",
           "description": "【CoinDesk Summary】 ● 米民主党のエリザベス・ウォーレン上院議員は、UAE（アラブ首長国連邦）の情報機関トップが、トランプ大統領と関係する暗号 ...\nウォーレン上院議員、トランプ一族関係の暗号資産取引をめぐり公聴会要求──UAE情報機関トップの5億ドル出資疑惑 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -760,16 +770,6 @@
           "wordCount": 1538,
           "title": "デジタル元年、日本は「金融の地図」を描き直せるか──片山大臣に聞く、暗号資産の金商法移行とステーブルコイン、そして円の行方【2026年 創刊特集】再掲",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/0022-top.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=334976",
-          "author": "Shoko Galaviz",
-          "description": "株取引アプリを手がけるRobinhood（ロビンフッド）のCEO、Vlad Tenev（ブラッド・テネフ）氏は、2021年のミーム株騒動から5年を迎えたタイミン ...\nRobinhoodのCEO、株式トークン化に期待──GameStop株騒動から5年を経て first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/334976/",
-          "publishedOn": "2026-01-29T21:00:00.000Z",
-          "wordCount": 1364,
-          "title": "RobinhoodのCEO、株式トークン化に期待──GameStop株騒動から5年を経て",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2655306417.jpg"
         }
       ]
     },
@@ -784,6 +784,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=681952",
+          "author": "Ritsuki.Kumazawa",
+          "description": "アライドアーキテクツの新CCOに就任した大木悠氏にインタビュー。DAT事業の展望、「デジタルキャピタル」と「デジタルファイナンス」を組み合わせたポートフォリオ戦略、日本企業のブロックチェーン実装を支援するイネーブラー事業について聞いた。",
+          "link": "https://coinpost.jp/?p=681952",
+          "publishedOn": "2026-02-03T09:00:59.000Z",
+          "wordCount": 3976,
+          "title": "『日本はDAT先進国になれるかもしれない』アライドアーキテクツCCO大木氏が展望語る",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/interview_thumbnail0203.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/interview_thumbnail0203.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=686236",
+          "author": "Enzo",
+          "description": "イーロン・マスク氏のxAIが2月3日、仮想通貨取引の専門知識をAIモデルに教える「仮想通貨金融専門家」の採用を開始。時給45〜100ドル、完全リモート勤務。オンチェーン分析やDeFi、デリバティブ取引などの高度な戦略をAIに教育する役割。",
+          "link": "https://coinpost.jp/?p=686236",
+          "publishedOn": "2026-02-03T08:18:59.000Z",
+          "wordCount": 3300,
+          "title": "イーロン氏のxAI、仮想通貨専門家の採用開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/10/elon-doge-new-secretary.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/10/elon-doge-new-secretary.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=686226",
+          "author": "Enzo",
+          "description": "アークインベストが2月2日、仮想通貨関連株を2200万ドル超買い増し。サークル、ビットマイン、ブリッシュなどに投資。ウッド氏は2026年に高成長・低インフレの理想的環境を予測し、長期的な成長に確信を示す。",
+          "link": "https://coinpost.jp/?p=686226",
+          "publishedOn": "2026-02-03T07:51:35.000Z",
+          "wordCount": 3296,
+          "title": "アークインベスト、仮想通貨株下落でも買い増し",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/ark-invest-tokenization.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/ark-invest-tokenization.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=686140",
           "author": "幸田直子",
@@ -2133,6 +2178,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-flash-crash-recovery-to-dollar100k-may-take-6-months-analyst",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "ビットコイン（BTC）は日曜日、週足終値を7万6931ドルで付け、2023年10月以来初めて100週間移動平均線を下回った。アナリストの間では、この動きが弱気市場の初期段階を示すのか、また長期的な回復にどのような影響を及ぼすのかについて議論が広がっている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-flash-crash-recovery-to-dollar100k-may-take-6-months-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-03T09:20:05.000Z",
+          "wordCount": 324,
+          "title": "ビットコイン、100週間移動平均線を下回る　弱気市場入りの初期兆候か",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzFlYWItZWNhNS03NDAwLWFmMGYtZjcwYjhiNTJiNTJhLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzFlYWItZWNhNS03NDAwLWFmMGYtZjcwYjhiNTJiNTJhLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/fundstrat-tom-lee-cites-lack-leverage-metals-vortex-ether-slump",
           "author": "Cointelegraph  Martin Young",

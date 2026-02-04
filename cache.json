@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=335744",
+          "author": "廣瀬 優香",
+          "description": "暗号資産（仮想通貨）運用会社Bitwise（ビットワイズ）の最高投資責任者、マット・ホーガン（Matt Hougan）氏は、暗号資産は2025年1月以降、本格的 ...\n暗号資産は冬の終わりに近づいている：Bitwise first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/335744/",
+          "publishedOn": "2026-02-04T08:50:00.000Z",
+          "wordCount": 1380,
+          "title": "暗号資産は冬の終わりに近づいている：Bitwise",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2120686025.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=335772",
+          "author": "栃山 直樹",
+          "description": "モブキャストホールディングスは3日、暗号資産ソラナ（SOL）の累計取得金額が4億円に到達したと発表した。 同社は昨年10月よりSOLの取得を開始しており、202 ...\nソラナ100ドル割れ局面下の報告──モブキャスト、SOL累計取得額が4億円に到達 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/335772/",
+          "publishedOn": "2026-02-04T08:43:32.000Z",
+          "wordCount": 1416,
+          "title": "ソラナ100ドル割れ局面下の報告──モブキャスト、SOL累計取得額が4億円に到達",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/37860-243-7c2eac9b9ab70a783c2e65.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=335763",
           "author": "井上 俊彦",
           "description": "カナダの投資規制機関Canadian Investment Regulatory Organization（CIRO）は2月3日、暗号資産（仮想通貨）の保有・保 ...\nカナダ規制当局、暗号資産の保管フレームワークを導入 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -674,6 +694,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=683388",
+          "author": "CoinPost編集部",
+          "description": "PerpDEX（永久先物DEX）の基礎知識から、Hyperliquid、Aster、Lighterなど注目の6プロトコルを徹底比較。エアドロップ情報、使い方、リスク、必要な準備（ETH・USDC）まで初心者向けに網羅的に解説。",
+          "link": "https://coinpost.jp/?p=683388",
+          "publishedOn": "2026-02-04T09:00:40.000Z",
+          "wordCount": 2551,
+          "title": "PerpDEXが注目される理由｜エアドロップ期待の注目6選とトレンドを解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/dex-sec.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/dex-sec.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=686532",
           "author": "Enzo",
@@ -1693,36 +1728,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/btc-whale-up-3.5k-1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/btc-whale-up-3.5k-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=685354",
-          "author": "菊谷ルイス",
-          "description": "ビットコインの急反落により時価総額で世界10大資産の順位から一時的に外れた。時価総額は約1.65兆ドルで世界11位となっている。",
-          "link": "https://coinpost.jp/?p=685354",
-          "publishedOn": "2026-01-30T21:25:02.000Z",
-          "wordCount": 3313,
-          "title": "ビットコインの時価総額が一時世界11位に後退、金銀が首位",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/bitcoin-world-marketcap-out-of-10.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/bitcoin-world-marketcap-out-of-10.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=685361",
-          "author": "菊谷ルイス",
-          "description": "JPモルガンのアナリストがビットコイン先物は売られ過ぎている一方で金と銀の先物が買われ過ぎた領域に入ったと分析した。金銀価格は暴落している。",
-          "link": "https://coinpost.jp/?p=685361",
-          "publishedOn": "2026-01-30T21:00:43.000Z",
-          "wordCount": 3309,
-          "title": "ビットコイン先物売られ過ぎ、金・銀は買われ過ぎ＝JPモルガン",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/gold-crash-jpmorgan.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/gold-crash-jpmorgan.jpg"
         }
       ]
     },
@@ -2078,6 +2083,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-etf-aum-below-100-billion-first-since-april-2025",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "現物ビットコイン上場投資信託（ETF）の運用資産残高が、2億7200万ドルの新たな資金流出を受け、火曜日に1000億ドルを下回った。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-etf-aum-below-100-billion-first-since-april-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-04T09:37:15.000Z",
+          "wordCount": 263,
+          "title": "ビットコインETFの運用資産が1000億ドル割れ　市場調整の中で資金流出続く",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY0MTEtNDI0Ny03MTcyLThiMmQtMzZmZTc1YmE1NjJlLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY0MTEtNDI0Ny03MTcyLThiMmQtMzZmZTc1YmE1NjJlLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/ethereum-scaling-pivot-l2s-mainnet-vitalik-buterin",
+          "author": "Cointelegraph  Brayden Lindrea",
+          "description": "イーサリアム共同創設者のヴィタリック・ブテリン氏は、レイヤー2（L2）による拡張に関する当初の構想について「もはや意味をなさない」との見解を示した。多くのL2がイーサリアムのセキュリティを十分に継承できておらず、今後の拡張はメインネットとネイティブロールアップから生じるべきだと主張している。",
+          "link": "https://jp.cointelegraph.com/news/ethereum-scaling-pivot-l2s-mainnet-vitalik-buterin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-04T09:16:07.000Z",
+          "wordCount": 252,
+          "title": "レイヤー2による拡張は「もはや意味をなさない」　イーサリアム共同創設者のヴィタリック・ブテリン氏",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI2MWEtZDUwNC03YWE1LTlhMDQtYzFhOWFmNGM3YTBhLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI2MWEtZDUwNC03YWE1LTlhMDQtYzFhOWFmNGM3YTBhLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitwise-acquire-chorus-one-crypto-staking-demand-surges",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "ビットワイズ・アセット・マネジメントが、機関投資家向けステーキングプロバイダーのコーラス・ワンを買収すると報じられた。仮想通貨利回りサービス分野への展開を拡大する。",
+          "link": "https://jp.cointelegraph.com/news/bitwise-acquire-chorus-one-crypto-staking-demand-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-04T08:48:27.000Z",
+          "wordCount": 261,
+          "title": "ビットワイズ、仮想通貨ステーキングプロバイダーのコーラス・ワン買収へ＝報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI3N2QtYTFmMy03MzI3LTkzZjgtY2EyY2VlMjY1OWU5LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI3N2QtYTFmMy03MzI3LTkzZjgtY2EyY2VlMjY1OWU5LmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/crypto-com-launches-new-prediction-market-platform-after-40x-growth",
           "author": "Cointelegraph  Martin Young",
@@ -2587,21 +2637,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVmY2EtMzMxMC03NTcxLWIwMjYtZGI2NTg2ODQzYmM2.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/price-predictions-1-30-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-xmr",
-          "author": "Cointelegraph  Rakesh Upadhyay",
-          "description": "ビットコイン（BTC）の重要水準である8万ドルを維持できなければ、テクニカルチャートはビットコインおよびアルトコインのさらなる下落を示唆している。",
-          "link": "https://jp.cointelegraph.com/news/price-predictions-1-30-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-01-30T20:41:44.000Z",
-          "wordCount": 295,
-          "title": "BTCは底を打ったか？ 仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzBmYzQtYWFiNC03MGMyLWFjNmMtYjI4NGUwMzllY2VjLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzBmYzQtYWFiNC03MGMyLWFjNmMtYjI4NGUwMzllY2VjLmpwZw==.jpg"
         }
       ]
     },
@@ -2610,6 +2645,36 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=152328",
+          "author": "よきょい",
+          "description": "2月4日、ビットコイン（BTC）の価格は76,100ドル前後で推移しており、イーサリアム（ETH）は約2,270ドル、ソラナ（SOL）は約97ドルで取引されています。世界の暗号資産時価総額は2.66兆ドルで、ビットコイン […]\n投稿 【今日の暗号資産ニュース】BTCがトランプ政権下での最安値更新。TORICOのETH投資が加速 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-todays-cryptocurrency-news-btc-falls-toricos-eth-investment/",
+          "publishedOn": "2026-02-04T08:44:21.000Z",
+          "wordCount": 612,
+          "title": "【今日の暗号資産ニュース】BTCがトランプ政権下での最安値更新。TORICOのETH投資が加速",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2607976435.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=152270",
+          "author": "よきょい",
+          "description": "テザー社は2月2日、ビットコイン（BTC）のマイニング運営を包括的に管理するためのオペレーティングシステム「Mining OS（MOS）」をオープンソースで公開したと発表しました。 ⛏️ Bi […]\n投稿 テザー社、マイニングOSを無償公開｜小規模拠点も効率化へ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-tether-releases-mining-os-for-free/",
+          "publishedOn": "2026-02-04T08:37:07.000Z",
+          "wordCount": 633,
+          "title": "テザー社、マイニングOSを無償公開｜小規模拠点も効率化へ",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2145331077.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=152320",
           "author": "Crypto Times 編集部",

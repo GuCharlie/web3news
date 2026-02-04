@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=335753",
+          "author": "井上 俊彦",
+          "description": "Ethereum（イーサリアム）の共同創設者Vitalik Buterin（ヴィタリック・ブテリン）氏は2026年2月3日、Xへの投稿で、現在のレイヤー2（L2 ...\nブテリン氏、レイヤー2はEthereumをスケールさせていないと指摘 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/335753/",
+          "publishedOn": "2026-02-04T07:20:00.000Z",
+          "wordCount": 1367,
+          "title": "ブテリン氏、レイヤー2はEthereumをスケールさせていないと指摘",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/DSC_5581-1-990x660-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=335742",
           "author": "NADA NEWS編集部",
           "description": "【CoinDesk Summary】 ● Ondo Summitに登壇した資産運用会社の幹部らは、次の投資フェーズは「ウォレットネイティブ」なものになると述べ、 ...\nデジタルウォレット、いずれ金融資産の大半を保有・管理する：Franklin Templeton first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -630,16 +640,6 @@
           "wordCount": 1372,
           "title": "中南米最大のデジタル銀行Nu、米国法銀行設立へ前進",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2232603409.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=335217",
-          "author": "Shoko Galaviz",
-          "description": "ドナルド・トランプ米大統領は、米連邦準備制度理事会（FRB）の次期議長にKevin Warsh（ケビン・ウォーシュ）氏を指名した。 発表はソーシャルメディア「T ...\nトランプ大統領、FRB議長にケビン・ウォーシュ氏を指名 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/335217/",
-          "publishedOn": "2026-01-30T19:00:07.000Z",
-          "wordCount": 1390,
-          "title": "トランプ大統領、FRB議長にケビン・ウォーシュ氏を指名",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2442962269.jpg"
         }
       ]
     },
@@ -654,6 +654,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=686532",
+          "author": "Enzo",
+          "description": "ブロックチェーン分析企業Coin Metricsは、イーサリアムのフサカアップグレード後、ステーブルコインのダスト攻撃が全取引の11%に達したと発表。アップグレード前の2~3倍に増加した一方、1日平均取引数は200万件を超え、真の成長も確認されている。",
+          "link": "https://coinpost.jp/?p=686532",
+          "publishedOn": "2026-02-04T07:12:05.000Z",
+          "wordCount": 3394,
+          "title": "「フサカ」アップグレード後、イーサリアムで「ダスト攻撃」が急増＝分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/pectra-fusaka-ethereum.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/pectra-fusaka-ethereum.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=686522",
           "author": "Enzo",
@@ -1712,6 +1727,36 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=544294",
+          "author": "OtsugaShinya",
+          "description": "パシフィックメタがキリフダを子会社に パシフィックメタ（Pacific Meta）が、キリフダの発行済み株式の一部を取得し、同社を連結子会社化したと2月3日に発表した。両社共にブロックチェーン領域のコンサルティングを提供 […]",
+          "link": "https://www.neweconomy.jp/posts/544294",
+          "publishedOn": "2026-02-04T07:27:31.000Z",
+          "wordCount": 741,
+          "title": "パシフィックメタ、キリフダを子会社化",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/04162723/f927f48819e86c4bd95796c49f1e297f.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=544273",
+          "author": "NewEconomy",
+          "description": "メインネットの進展とL2分散化の遅れを背景に イーサリアム（Ethereum）の共同創設者であるヴィタリック・ブテリン（Vitalik Buterin）氏が、イーサリアムにおけるレイヤー2（L2）の役割について新たな方向 […]",
+          "link": "https://www.neweconomy.jp/posts/544273",
+          "publishedOn": "2026-02-04T07:17:57.000Z",
+          "wordCount": 805,
+          "title": "ヴィタリック、「L2の役割に新たな方向性が必要」との見解",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/04161515/5692cc1f553177f376dfe4c1f0dec10a.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=544264",
+          "author": "gentosha_takahashi",
+          "description": "2014年に約300万ドル出資 米国で未成年者の性的人身売買などの罪で起訴され、2019年に収監中に死亡した金融実業家ジェフリー・エプスタイン（Jeffrey Epstein）氏が、2014年に暗号資産（仮想通貨）取引所 […]",
+          "link": "https://www.neweconomy.jp/posts/544264",
+          "publishedOn": "2026-02-04T07:02:02.000Z",
+          "wordCount": 823,
+          "title": "エプスタイン、2014年にコインベースへ約3Mドル出資。暗号資産業界とのつながりも米司法省公開文書で判明",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/04155433/dc3a7bcdec7f15f8baffdd64a31302a4.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=544247",
           "author": "OtsugaShinya",
           "description": "イオレがガイアに出資へ 暗号資産（仮想通貨）のトレジャリーとレンディングを推進する東証グロース上場企業のイオレが、ガイア（Gaia）の株式取得および同社への出資を決定したと2月3日に発表した。 この出資は、イオレの暗号資 […]",
@@ -2522,21 +2567,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzBmYzQtYWFiNC03MGMyLWFjNmMtYjI4NGUwMzllY2VjLmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-miner-exodus-may-push-btc-price-below-dollar60k",
-          "author": "Cointelegraph  Yashu Gola",
-          "description": "ビットコイン（BTC）1枚をマイニングするための電力コストを追跡する指標が、強気派に警告を発している。「マイナー流出」と呼ばれる動きが、弱気な見通しに拍車をかけている。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-miner-exodus-may-push-btc-price-below-dollar60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-01-30T19:34:13.000Z",
-          "wordCount": 296,
-          "title": "ビットコイン、マイナー流出で弱気見通し強まる　マイニングコストが示す下値水準",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzBkZDktYWZjZS03YmQ3LTliMGYtYWEyYzdhOGI5MWY4LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzBkZDktYWZjZS03YmQ3LTliMGYtYWEyYzdhOGI5MWY4LmpwZw==.jpg"
         }
       ]
     },
@@ -2545,6 +2575,46 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=152320",
+          "author": "Crypto Times 編集部",
+          "description": "人気NFTプロジェクト「Meebits」は世界最大級の現代美術アートフェア「Art Basel（アート・バーゼル）」とコラボレーションし、Art Basel Shop Qatarで限定版スカルプチャー「The Falco […]\n投稿 Meebits、カタール開催のアートフェスに出展｜限定フィギュアを販売 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-meebits-to-exhibit-at-qatar-art-festival/",
+          "publishedOn": "2026-02-04T07:22:32.000Z",
+          "wordCount": 632,
+          "title": "Meebits、カタール開催のアートフェスに出展｜限定フィギュアを販売",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2085514612-3.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=152317",
+          "author": "Crypto Times 編集部",
+          "description": "仮想通貨ウォレットMetaMaskは報酬シーズン1の配布内容を発表しました。レベル2以上のユーザーはYuga Labsのメタバースプロジェクト「Otherside」で使用できる限定アバターNFTを獲得できます。レベル4以 […]\n投稿 MetaMask報酬プログラム、限定アバターNFTを配布 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-metamask-nft/",
+          "publishedOn": "2026-02-04T07:18:09.000Z",
+          "wordCount": 619,
+          "title": "MetaMask報酬プログラム、限定アバターNFTを配布",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2143593313.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=152281",
+          "author": "Henry",
+          "description": "OKJ（オーケーコイン・ジャパン株式会社）主催の招待制イベント「SEI × OKJ KOLディナーイベント」に、筆者Henry（Crypto Timesのコンサルティング事業部マネージャー）が参加しました。会場にはKOL […]\n投稿 OKJ主催「SEI × OKJ」招待制KOLディナー参加レポート は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/okj-sei-kol-dinner-networking/",
+          "publishedOn": "2026-02-04T06:55:47.000Z",
+          "wordCount": 597,
+          "title": "OKJ主催「SEI × OKJ」招待制KOLディナー参加レポート",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/IMG_1028.jpeg"
+        },
         {
           "id": "https://crypto-times.jp/?p=152271",
           "author": "よきょい",

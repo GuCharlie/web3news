@@ -645,6 +645,51 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=686737",
+          "author": "K.Kobayashi",
+          "description": "ビットマインのトム・リー会長は、同社が仮想通貨イーサリアムの多額の未実現損失を抱えていることに関する批判に反論。最も重要なことは、イーサリアムが金融の未来であることだと改めて主張した。",
+          "link": "https://coinpost.jp/?p=686737",
+          "publishedOn": "2026-02-04T22:10:45.000Z",
+          "wordCount": 3367,
+          "title": "トム・リー、ビットマイン保有のイーサリアムの巨額含み損に関する批判に反論",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/tomlee2_0530.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/tomlee2_0530.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=686745",
+          "author": "菊谷ルイス",
+          "description": "米資産運用大手フィデリティが初のステーブルコイン「FIDD」を正式にローンチ。米ドルと1対1で連動し、個人・機関投資家向けに提供を開始。",
+          "link": "https://coinpost.jp/?p=686745",
+          "publishedOn": "2026-02-04T21:55:48.000Z",
+          "wordCount": 3285,
+          "title": "米金融大手フィデリティ、個人と機関向けに米ドルステーブルコイン「FIDD」を正式ローンチ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/fidelity-ftcc.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/fidelity-ftcc.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=686728",
+          "author": "菊谷ルイス",
+          "description": "ビットコインが昨年10月のピークから40%下落し、2018年や2022年の弱気相場との類似性が指摘されている。調査会社K33は機関投資家の参入拡大や規制整備の進展を理由に、過去のような80%暴落は起きないと分析した。",
+          "link": "https://coinpost.jp/?p=686728",
+          "publishedOn": "2026-02-04T21:35:45.000Z",
+          "wordCount": 3360,
+          "title": "K33分析、「ビットコイン40%下落でも2022年暴落の再現には当たらず」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/new-bitcoin-sell.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/new-bitcoin-sell.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=686733",
           "author": "菊谷ルイス",
           "description": "世界最大のデリバティブ取引所CMEグループは独自の仮想通貨トークン発行を検討しており、グーグル・クラウドと共同開発中のトークン化キャッシュ商品を2026年に提供する方針を示した。",
@@ -1963,6 +2008,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/us-treasury-bessent-wont-bail-out-bitcoin",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "緊張したやり取りは、水曜日に行われた議会証言の場で、カリフォルニア州選出のブラッド・シャーマン下院議員との間で交わされた。",
+          "link": "https://jp.cointelegraph.com/news/us-treasury-bessent-wont-bail-out-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-04T22:11:18.000Z",
+          "wordCount": 267,
+          "title": "米国、ビットコイン救済には踏み込まず　ベセント財務長官が議会証言",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI5ZGItZGM1Ny03Y2VmLTg2MWQtYTMwMjNlNDdiZmI5LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI5ZGItZGM1Ny03Y2VmLTg2MWQtYTMwMjNlNDdiZmI5LmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-etf-aum-below-100-billion-first-since-april-2025",
           "author": "Cointelegraph  Helen Partz",

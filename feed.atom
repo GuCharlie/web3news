@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-05T22:22:44.287Z</updated>
+    <updated>2026-02-05T22:54:18.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テザー、アンカレッジ・デジタルに1億ドル出資]]></title>
+        <id>https://jp.cointelegraph.com/news/tether-backs-anchorage-digital-100m-equity-investment</id>
+        <link href="https://jp.cointelegraph.com/news/tether-backs-anchorage-digital-100m-equity-investment?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-05T22:51:14.000Z</updated>
+        <summary type="html"><![CDATA[今回の投資はアンカレッジとの既存提携を拡張するもので、米連邦規制下の仮想通貨銀行である同社がIPOを視野に大規模資本調達を模索する中で実施された。]]></summary>
+        <author>
+            <name>Cointelegraph  Nate Kostar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン価格、「全面的降伏」接近を示す3つの兆候]]></title>
+        <id>https://jp.cointelegraph.com/news/three-signs-bitcoin-price-near-full-capitulation</id>
+        <link href="https://jp.cointelegraph.com/news/three-signs-bitcoin-price-near-full-capitulation?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-05T22:42:47.000Z</updated>
+        <summary type="html"><![CDATA[短期保有者によるパニック売り、極度の恐怖心理、売られ過ぎ圏のRSIが重なり、BTCが最終的な降伏局面に近づいている可能性が示唆されている。]]></summary>
+        <author>
+            <name>Cointelegraph  Nancy Lubale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインが6万3000ドルまで下落、分析家が全員弱気になる理由──エックスウィンが年初に描いたシナリオとの一致点【エックスウィンリサーチ】]]></title>
+        <id>https://www.nadanews.com/?p=336002</id>
+        <link href="https://www.nadanews.com/336002/"/>
+        <updated>2026-02-05T22:32:18.000Z</updated>
+        <summary type="html"><![CDATA[● 今回の下落は、米国経済の減速を背景としたマクロ主導の調整であり、突発的な暴落ではない。● 売りはレバレッジ解消に加え、米国投資家の現物需要低下が重なって発生 ...
+ビットコインが6万3000ドルまで下落、分析家が全員弱気になる理由──エックスウィンが年初に描いたシナリオとの一致点【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>XWIN Research</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ライトニングで100万ドル送金、機関向け決済の実用性を検証]]></title>
+        <id>https://jp.cointelegraph.com/news/lightning-payment-bitcoin-layer-2-institutional</id>
+        <link href="https://jp.cointelegraph.com/news/lightning-payment-bitcoin-layer-2-institutional?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-05T22:31:43.000Z</updated>
+        <summary type="html"><![CDATA[SDMとクラーケン間で実施された100万ドルのライトニング送金により、ビットコインの主要スケーリング層が7桁規模の機関向け決済に対応できるかが試験された。]]></summary>
+        <author>
+            <name>Cointelegraph  Christina Comben</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン6万4000ドル割れ、過去最大級の売り圧力　底打ちはどこか]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-slips-under-dollar64k-as-record-high-selling-intensifies-where-is-the-price-bottom</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-slips-under-dollar64k-as-record-high-selling-intensifies-where-is-the-price-bottom?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-05T22:24:53.000Z</updated>
+        <summary type="html"><![CDATA[市場の売りが過去最高水準に達する中、ビットコインは6万4000ドルを下回る新たな安値を記録。アナリストは底打ちを否定しており、6万ドル割れ予測をデータは裏付けるのかが焦点となっている。]]></summary>
+        <author>
+            <name>Cointelegraph  Biraajmaan Tamuly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米国の11州年金基金、ストラテジー株投資で含み損550億円に上る]]></title>
         <id>https://coinpost.jp/?p=687049</id>

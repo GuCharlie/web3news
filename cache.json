@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=336002",
+          "author": "XWIN Research",
+          "description": "● 今回の下落は、米国経済の減速を背景としたマクロ主導の調整であり、突発的な暴落ではない。● 売りはレバレッジ解消に加え、米国投資家の現物需要低下が重なって発生 ...\nビットコインが6万3000ドルまで下落、分析家が全員弱気になる理由──エックスウィンが年初に描いたシナリオとの一致点【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/336002/",
+          "publishedOn": "2026-02-05T22:32:18.000Z",
+          "wordCount": 1427,
+          "title": "ビットコインが6万3000ドルまで下落、分析家が全員弱気になる理由──エックスウィンが年初に描いたシナリオとの一致点【エックスウィンリサーチ】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/nadanews_top-47.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=335995",
           "author": "Shoko Galaviz",
           "description": "暗号資産（仮想通貨）取引所Gemini（ジェミナイ）は、「Gemini 2.0」と題した公式ブログ投稿の中で、事業戦略の大きな転換を明らかにした。その中核にある ...\nGemini、英国・EU・オーストラリアから撤退─米国と予測市場に集中へ first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -2503,6 +2513,66 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/tether-backs-anchorage-digital-100m-equity-investment",
+          "author": "Cointelegraph  Nate Kostar",
+          "description": "今回の投資はアンカレッジとの既存提携を拡張するもので、米連邦規制下の仮想通貨銀行である同社がIPOを視野に大規模資本調達を模索する中で実施された。",
+          "link": "https://jp.cointelegraph.com/news/tether-backs-anchorage-digital-100m-equity-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-05T22:51:14.000Z",
+          "wordCount": 265,
+          "title": "テザー、アンカレッジ・デジタルに1億ドル出資",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzJmMzMtODdkYy03MzE0LWFkOWYtZWM5ZDZhYzA5MjMyLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzJmMzMtODdkYy03MzE0LWFkOWYtZWM5ZDZhYzA5MjMyLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/three-signs-bitcoin-price-near-full-capitulation",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "短期保有者によるパニック売り、極度の恐怖心理、売られ過ぎ圏のRSIが重なり、BTCが最終的な降伏局面に近づいている可能性が示唆されている。",
+          "link": "https://jp.cointelegraph.com/news/three-signs-bitcoin-price-near-full-capitulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-05T22:42:47.000Z",
+          "wordCount": 390,
+          "title": "ビットコイン価格、「全面的降伏」接近を示す3つの兆候",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzJkNzAtNjAzNi03NmNhLWFkOTctMDhlOTk1MzA2YjU5LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzJkNzAtNjAzNi03NmNhLWFkOTctMDhlOTk1MzA2YjU5LmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/lightning-payment-bitcoin-layer-2-institutional",
+          "author": "Cointelegraph  Christina Comben",
+          "description": "SDMとクラーケン間で実施された100万ドルのライトニング送金により、ビットコインの主要スケーリング層が7桁規模の機関向け決済に対応できるかが試験された。",
+          "link": "https://jp.cointelegraph.com/news/lightning-payment-bitcoin-layer-2-institutional?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-05T22:31:43.000Z",
+          "wordCount": 261,
+          "title": "ライトニングで100万ドル送金、機関向け決済の実用性を検証",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzJkODMtMjk4Zi03MGM4LWE1NjAtMjllZDU4NGY4Yzk4LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzJkODMtMjk4Zi03MGM4LWE1NjAtMjllZDU4NGY4Yzk4LmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-slips-under-dollar64k-as-record-high-selling-intensifies-where-is-the-price-bottom",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "市場の売りが過去最高水準に達する中、ビットコインは6万4000ドルを下回る新たな安値を記録。アナリストは底打ちを否定しており、6万ドル割れ予測をデータは裏付けるのかが焦点となっている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-slips-under-dollar64k-as-record-high-selling-intensifies-where-is-the-price-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-05T22:24:53.000Z",
+          "wordCount": 351,
+          "title": "ビットコイン6万4000ドル割れ、過去最大級の売り圧力　底打ちはどこか",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzJmN2EtOWZlNC03NWNiLWE3NjMtZGY0ZGY2ODQzMDU2LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzJmN2EtOWZlNC03NWNiLWE3NjMtZGY0ZGY2ODQzMDU2LmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/ether-slips-below-dollar2k-as-eth-holder-confidence-faces-major-stress-test",
           "author": "Cointelegraph  Biraajmaan Tamuly",

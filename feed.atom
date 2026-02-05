@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-05T14:03:30.188Z</updated>
+    <updated>2026-02-05T15:08:33.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン 7万ドル割れで15カ月分の上昇消失、アナリストはさらなる下落の可能性を指摘]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-price-may-drop-below-64k-veteran-campaign-selling</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-price-may-drop-below-64k-veteran-campaign-selling?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-05T15:06:43.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）の価格は、直近1週間で22.5％下落し、木曜日には6万9000ドルまで落ち込んだ。これにより、過去15カ月分の上昇分はすべて失われた。ただし、ベテラントレーダーのピーター・ブラント氏によれば、この下落トレンドはまだ終わっていない可能性がある。]]></summary>
+        <author>
+            <name>Cointelegraph  Yashu Gola</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2/5話題】SBIとスターテイルが金融特化L1チェーン「Strium」共同開発へ、GMOコインが東証上場準備など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=545027</id>
@@ -3116,47 +3126,6 @@ CLARITY法案は前進、だがDeFiをめぐる対立が停滞要因になり得
 投稿 【今週のJPYCまとめ】レンディングで年利6%で運用可能に。HashPort WalletがJPYCに対応 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ナイジェリア、仮想通貨税務報告制度を施行 アフリカ全域に影響も]]></title>
-        <id>https://coinpost.jp/?p=684599</id>
-        <link href="https://coinpost.jp/?p=684599"/>
-        <updated>2026-02-01T03:00:48.000Z</updated>
-        <summary type="html"><![CDATA[ナイジェリア税務管理法が1月から施行され、仮想通貨取引の報告制度が始動した。世界トップ3の採用率を誇る同国は、約14兆円の市場を既存の税務・本人確認システムで管理する。取引所が執行の中心を担い、税収対GDP比18%を目指す財政改革の柱に。アフリカ全域への波及効果も注目される。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【今週のメタプラネットまとめ】ぴあアリーナでの株主総会を発表。1000億円のBTC評価損]]></title>
-        <id>https://crypto-times.jp/?p=152070</id>
-        <link href="https://crypto-times.jp/news-this-weeks-metaplanet-summary-shareholders-meeting-btc-valuation-loss/"/>
-        <updated>2026-02-01T02:31:39.000Z</updated>
-        <summary type="html"><![CDATA[今週の株式会社メタプラネットは株主還元と事業戦略の双方において、市場を驚かせる極めてインパクトの大きな動きを見せました。 「ぴあアリーナMM」での株主総会開催が発表され関心が高まった一方で、1,000億円規模の評価損が計 […]
-投稿 【今週のメタプラネットまとめ】ぴあアリーナでの株主総会を発表。1000億円のBTC評価損 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、8万ドル割れれば売り加速の恐れも短期底は近いか｜bitbankアナリスト寄稿]]></title>
-        <id>https://coinpost.jp/?p=685245</id>
-        <link href="https://coinpost.jp/?p=685245"/>
-        <updated>2026-02-01T02:30:50.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインは1250万円まで下落し上値の重い展開。マイクロソフト決算後の急落や地政学リスクが影響。短期筋の含み損割合は95%超で底打ち接近の可能性も。8万ドル割れなら売り加速も、その後の買い戻しに期待。]]></summary>
-        <author>
-            <name>hiroto.yoshii</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週刊仮想通貨ニュース｜レイ・ダリオの世界秩序崩壊リスクへの警鐘やビットコインの価値の再定義に高い関心]]></title>
-        <id>https://coinpost.jp/?p=685380</id>
-        <link href="https://coinpost.jp/?p=685380"/>
-        <updated>2026-02-01T02:30:16.000Z</updated>
-        <summary type="html"><![CDATA[今週は、バイナンス共同創設者のCZ氏による仮想通貨ビットコインの相場予測、著名投資家のレイ・ダリオ氏による警鐘、ビットコインの価値の再定義に関する記事が関心を集めた。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>

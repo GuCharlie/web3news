@@ -1933,51 +1933,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/altcoin-materials-new-buy-sell.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/altcoin-materials-new-buy-sell.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=684599",
-          "author": "CoinPost編集部",
-          "description": "ナイジェリア税務管理法が1月から施行され、仮想通貨取引の報告制度が始動した。世界トップ3の採用率を誇る同国は、約14兆円の市場を既存の税務・本人確認システムで管理する。取引所が執行の中心を担い、税収対GDP比18%を目指す財政改革の柱に。アフリカ全域への波及効果も注目される。",
-          "link": "https://coinpost.jp/?p=684599",
-          "publishedOn": "2026-02-01T03:00:48.000Z",
-          "wordCount": 3358,
-          "title": "ナイジェリア、仮想通貨税務報告制度を施行 アフリカ全域に影響も",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/nigeria-first-hotel-bitcoin-payment.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/nigeria-first-hotel-bitcoin-payment.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=685245",
-          "author": "hiroto.yoshii",
-          "description": "ビットコインは1250万円まで下落し上値の重い展開。マイクロソフト決算後の急落や地政学リスクが影響。短期筋の含み損割合は95%超で底打ち接近の可能性も。8万ドル割れなら売り加速も、その後の買い戻しに期待。",
-          "link": "https://coinpost.jp/?p=685245",
-          "publishedOn": "2026-02-01T02:30:50.000Z",
-          "wordCount": 3338,
-          "title": "ビットコイン、8万ドル割れれば売り加速の恐れも短期底は近いか｜bitbankアナリスト寄稿",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=685380",
-          "author": "CoinPost編集部",
-          "description": "今週は、バイナンス共同創設者のCZ氏による仮想通貨ビットコインの相場予測、著名投資家のレイ・ダリオ氏による警鐘、ビットコインの価値の再定義に関する記事が関心を集めた。",
-          "link": "https://coinpost.jp/?p=685380",
-          "publishedOn": "2026-02-01T02:30:16.000Z",
-          "wordCount": 3352,
-          "title": "週刊仮想通貨ニュース｜レイ・ダリオの世界秩序崩壊リスクへの警鐘やビットコインの価値の再定義に高い関心",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
         }
       ]
     },
@@ -2523,6 +2478,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-price-may-drop-below-64k-veteran-campaign-selling",
+          "author": "Cointelegraph  Yashu Gola",
+          "description": "ビットコイン（BTC）の価格は、直近1週間で22.5％下落し、木曜日には6万9000ドルまで落ち込んだ。これにより、過去15カ月分の上昇分はすべて失われた。ただし、ベテラントレーダーのピーター・ブラント氏によれば、この下落トレンドはまだ終わっていない可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-price-may-drop-below-64k-veteran-campaign-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-05T15:06:43.000Z",
+          "wordCount": 310,
+          "title": "ビットコイン 7万ドル割れで15カ月分の上昇消失、アナリストはさらなる下落の可能性を指摘",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzJiODItYTNmMC03NTRiLWE1ODgtN2U1ZjhmMjAwYzJhLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzJiODItYTNmMC03NTRiLWE1ODgtN2U1ZjhmMjAwYzJhLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/coinbase-premium-gap-falls-to-yearly-low-signalling-institutional-selling-cryptoquant",
           "author": "Cointelegraph  Martin Young",
@@ -3944,21 +3914,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_1931372477-5.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=152070",
-          "author": "よきょい",
-          "description": "今週の株式会社メタプラネットは株主還元と事業戦略の双方において、市場を驚かせる極めてインパクトの大きな動きを見せました。 「ぴあアリーナMM」での株主総会開催が発表され関心が高まった一方で、1,000億円規模の評価損が計 […]\n投稿 【今週のメタプラネットまとめ】ぴあアリーナでの株主総会を発表。1000億円のBTC評価損 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-this-weeks-metaplanet-summary-shareholders-meeting-btc-valuation-loss/",
-          "publishedOn": "2026-02-01T02:31:39.000Z",
-          "wordCount": 597,
-          "title": "【今週のメタプラネットまとめ】ぴあアリーナでの株主総会を発表。1000億円のBTC評価損",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2666229747-2.jpg"
         }
       ]
     }

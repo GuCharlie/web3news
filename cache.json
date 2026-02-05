@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=335876",
+          "author": "廣瀬 優香",
+          "description": "スペイン大手銀行のBBVAは、合弁会社Qivalisを設立した欧州主要金融機関11行から成るコンソーシアムに参加したと発表した。 Qivalisは、デジタル資産 ...\nスペイン銀行大手BBVA、ユーロ建てステーブルコイン発行を目指す銀行コンソーシアムに参加 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/335876/",
+          "publishedOn": "2026-02-05T07:45:00.000Z",
+          "wordCount": 1358,
+          "title": "スペイン銀行大手BBVA、ユーロ建てステーブルコイン発行を目指す銀行コンソーシアムに参加",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2230033783.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=335878",
           "author": "NADA NEWS編集部",
           "description": "【CoinDesk Summary】 ● 野村ホールディングス（HD）は、1月30日の四半期決算発表を受けた追加取材に対し、暗号資産（仮想通貨）への取り組みを堅 ...\n野村HD、暗号資産戦略を堅持──決算後取材でLaser Digitalのリスク管理を説明 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -734,6 +744,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=686957",
+          "author": "Enzo",
+          "description": "韓国金融監督院が仮想通貨zkSyncの異常な価格変動を調査。アップビットで3時間に約1000%急騰後急落。システム点検時間を狙った価格操縦の疑い。昨年の同取引所ハッキング事件を受け韓国は取引所規制を強化へ。",
+          "link": "https://coinpost.jp/?p=686957",
+          "publishedOn": "2026-02-05T07:29:31.000Z",
+          "wordCount": 3303,
+          "title": "韓国金融監督院、アップビット上場のzkSync約1000%急騰急落で調査着手",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2018/08/koreablockchain03.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2018/08/koreablockchain03.png"
+        },
         {
           "id": "https://coinpost.jp/?p=685837",
           "author": "Ritsuki.Kumazawa",
@@ -1972,6 +1997,36 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=544649",
+          "author": "OtsugaShinya",
+          "description": "イランで暗号資産取引が活発化 米ブロックチェーン分析会社TRMラボ（TRM Labs）によると、イランで暗号資産（仮想通貨）取引が活発化する中、米当局は特定の暗号資産プラットフォームがイラン当局者による制裁逃れを助長して […]",
+          "link": "https://www.neweconomy.jp/posts/544649",
+          "publishedOn": "2026-02-05T07:31:11.000Z",
+          "wordCount": 752,
+          "title": "イランで暗号資産取引が活発化、当局の制裁逃れ巡り米が調査＝TRMラボ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/05163041/00d3028763ade9a29c30c34161bceea1.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=544666",
+          "author": "gentosha_takahashi",
+          "description": "リスクに応じた4段階制度を導入 カナダの投資業界規制当局であるカナダ投資規制機構（Canadian Investment Regulatory Organization：CIRO）が、暗号資産（仮想通貨）の保管（カストデ […]",
+          "link": "https://www.neweconomy.jp/posts/544666",
+          "publishedOn": "2026-02-05T07:22:49.000Z",
+          "wordCount": 740,
+          "title": "カナダ投資規制当局、暗号資産カストディ新枠組み公表",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/05162210/e5e444451dd819fe67901e4531749223.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=544655",
+          "author": "NewEconomy",
+          "description": "アーベ・ラボがブランド戦略を再編 分散型金融（DeFi）プロトコル「アーベ（Aave）」の主要開発組織であるアーベラボ（Aave Labs）展開の傘下ブランド「アヴァラ（Avara）」の終了方針が2月3日に発表された。今 […]",
+          "link": "https://www.neweconomy.jp/posts/544655",
+          "publishedOn": "2026-02-05T07:12:56.000Z",
+          "wordCount": 850,
+          "title": "アーベラボ、傘下ブランド「Avara」終了。Familyウォレットは段階的に廃止へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/05161218/cdcb8b47b5900926a7cbd2e436db817a.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=544628",
           "author": "NewEconomy",
           "description": "1月の先行発表を経て「FIDD」が提供開始 フィデリティ・デジタル・アセッツ（Fidelity Digital Assets） が、同社初となる米ドル建てステーブルコイン「フィデリティ・デジタル・ドル（Fidelity  […]",
@@ -2428,6 +2483,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-industry-proposes-compromises-advance-market-structure-bill",
+          "author": "Cointelegraph  Martin Young",
+          "description": "仮想通貨企業が、停滞している米国の仮想通貨市場構造法案（CLARITY法案）を前進させるため、ステーブルコインの利回りに関する譲歩案を提示しているという。",
+          "link": "https://jp.cointelegraph.com/news/crypto-industry-proposes-compromises-advance-market-structure-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-05T07:08:53.000Z",
+          "wordCount": 258,
+          "title": "ステーブルコイン利回り巡り譲歩案浮上、停滞する米CLARITY法案の打開狙う",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRkZjctNjgyYS03MWNjLTkyM2ItMWFmYTJhOTk5ZWIy.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRkZjctNjgyYS03MWNjLTkyM2ItMWFmYTJhOTk5ZWIy.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bhutan-reportedly-sells-more-bitcoin-from-its-reserve",
+          "author": "Cointelegraph  Brayden Lindrea",
+          "description": "ブータンは、ビットコイン（BTC）価格下落が続く中でマイニング環境が悪化していることを背景に、国営のマイニング事業で得た2200万ドル相当のビットコインを売却した。",
+          "link": "https://jp.cointelegraph.com/news/bhutan-reportedly-sells-more-bitcoin-from-its-reserve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-05T06:54:18.000Z",
+          "wordCount": 226,
+          "title": "ブータン政府、2200万ドル相当のビットコインを売却か＝アーカム",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzJiODItYTNmMC03NTRiLWE1ODgtN2U1ZjhmMjAwYzJhLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzJiODItYTNmMC03NTRiLWE1ODgtN2U1ZjhmMjAwYzJhLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-open-interest-falls-by-dollar55b-in-30-days-what-s-next-for-btc-price",
           "author": "Cointelegraph  Biraajmaan Tamuly",
@@ -3027,36 +3112,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzEzODUtN2NkMC03MWQyLWFlN2ItZTIwZGQwZmFhNjZjLmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-crashes-76k-strategy-cost-basis-2b-liquidation",
-          "author": "Cointelegraph  William Suberg",
-          "description": "ビットコイン（BTC）は週末の取引で7％超下落し、新たな価格崩壊により約8億ドル相当のポジションが清算された。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-crashes-76k-strategy-cost-basis-2b-liquidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-01-31T19:46:14.000Z",
-          "wordCount": 284,
-          "title": "ビットコイン暴落、7万6000ドル割れで8億ドル清算",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzE1NzUtZGI0Yy03OWQyLWExZjktZjFlY2IwOGFhOGQwLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzE1NzUtZGI0Yy03OWQyLWExZjktZjFlY2IwOGFhOGQwLmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitmine-immersion-technologies-ether-losses-crypto-liquidation",
-          "author": "Cointelegraph  Sam Bourgi",
-          "description": "トム・リー氏が率いる仮想通貨トレジャリー企業ビットマイン・イマージョン・テクノロジーズは、直近の市場清算の波を受け、イーサリアム（ETH）保有分で多額の含み損を抱えている。",
-          "link": "https://jp.cointelegraph.com/news/bitmine-immersion-technologies-ether-losses-crypto-liquidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-01-31T19:25:38.000Z",
-          "wordCount": 257,
-          "title": "ビットマイン、イーサリアム保有で含み損60億ドル超　相場暴落がトレジャリー戦略のリスク浮き彫りに",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzE1NmUtMGU2YS03MzgxLWJiN2QtOTgwZTI1OWE2ZjY3LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzE1NmUtMGU2YS03MzgxLWJiN2QtOTgwZTI1OWE2ZjY3LmpwZw==.jpg"
         }
       ]
     },
@@ -3759,21 +3814,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2666229747-2.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=152116",
-          "author": "アラタ &#124; Shingo Arai",
-          "description": "2026年2月1日、仮想通貨市場で歴史的な急落が発生しました。ビットコイン（BTC）は一時76,000ドルを割り込み、イーサリアムは2,300ドル以下、ソラナは100ドルを下回る水準まで下落。わずか4時間で10億ドル（約 […]\n投稿 【速報】ビットコイン一時76,000ドル割れ、4時間で1550億円超の強制決済。ゴールドや貴金属も同時暴落で市場は大パニックか は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-btc-liq-gold-down/",
-          "publishedOn": "2026-01-31T19:22:47.000Z",
-          "wordCount": 692,
-          "title": "【速報】ビットコイン一時76,000ドル割れ、4時間で1550億円超の強制決済。ゴールドや貴金属も同時暴落で市場は大パニックか",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/01/shutterstock_2467975985-1.jpg"
         }
       ]
     }

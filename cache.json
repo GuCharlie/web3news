@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=335931",
+          "author": "井上 俊彦",
+          "description": "オンチェーンデータ分析のArkham（アーカム）によると、ブータン政府の投資部門は、過去1週間で2度の大規模なビットコイン（BTC）の移動を行った。今回移された ...\nブータン、2200万ドル相当のビットコインを取引所などに移動 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/335931/",
+          "publishedOn": "2026-02-05T09:30:00.000Z",
+          "wordCount": 1349,
+          "title": "ブータン、2200万ドル相当のビットコインを取引所などに移動",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2024/09/shutterstock_2380092789.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=335916",
           "author": "井上 俊彦",
           "description": "Tether（テザー）が公表した2025年第4四半期のマーケットレポートによると、ビットコイン（BTC）相場が大きく下落する中でも、米ドルペッグ型ステーブルコイ ...\nビットコインの暴落にもかかわらず、TetherのUSDTは記録的なユーザー数増加を報告 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -2017,6 +2027,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=544718",
+          "author": "gentosha_shidara",
+          "description": "日本人起業のデジタル資産×伝統金融資産運用サービス企業、累計28億円調達 シンガポール拠点で暗号資産関連ビジネスを展開するペンギンセキュリティーズ・ホールディングス（Penguin Securities Holdings […]",
+          "link": "https://www.neweconomy.jp/posts/544718",
+          "publishedOn": "2026-02-05T09:19:41.000Z",
+          "wordCount": 775,
+          "title": "Penguin Securities HD が累計28億円調達、デジタル資産×伝統金融資産運用サービス拡大へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/05175625/Penguin_head260205v4.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=544693",
           "author": "OtsugaShinya",
           "description": "Secured FinanceでUBSのトークン化MMF担保にステーブルコイン借入可能に DeFi（分散型金融）固定金利レンディングプロトコル「セキュアードファイナンス（Secured Finance）」にて、UBSアセ […]",
@@ -2513,6 +2533,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/coinbase-premium-gap-falls-to-yearly-low-signalling-institutional-selling-cryptoquant",
+          "author": "Cointelegraph  Martin Young",
+          "description": "ビットコイン（BTC）のコインベース・プレミアム・ギャップが、1年以上ぶりの低水準まで落ち込んだ。",
+          "link": "https://jp.cointelegraph.com/news/coinbase-premium-gap-falls-to-yearly-low-signalling-institutional-selling-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-05T08:39:26.000Z",
+          "wordCount": 257,
+          "title": "ビットコインのコインベース・プレミアムが急低下、機関投資家の売り圧力を示唆",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjExODYtMjIxYy03MmEzLWIyZDUtMTNjMGQ3MTQ1Mjhk.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjExODYtMjIxYy03MmEzLWIyZDUtMTNjMGQ3MTQ1Mjhk.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-etf-flows-performance-btc-downtrend-analyst",
           "author": "Cointelegraph  Ciaran Lyons",
@@ -3157,21 +3192,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzE5YzItYTgyZC03ZTg0LTk0NTEtMjI5Njc3NDA0NWNkLmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/us-treasury-sanctions-iran-linked-crypto-exchanges-first-time",
-          "author": "Cointelegraph  Amin Haqshanas",
-          "description": "米財務省は金曜日、イランの金融システムと関係する仮想通貨取引所2社に制裁を科したと発表した。イラン制裁プログラムの一環として、デジタル資産プラットフォームを直接指定するのは今回が初めてとなる。",
-          "link": "https://jp.cointelegraph.com/news/us-treasury-sanctions-iran-linked-crypto-exchanges-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-01-31T21:00:00.000Z",
-          "wordCount": 235,
-          "title": "米財務省、イラン制裁で仮想通貨取引所を初指定　英登録2社を制裁対象に",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzEzODUtN2NkMC03MWQyLWFlN2ItZTIwZGQwZmFhNjZjLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzEzODUtN2NkMC03MWQyLWFlN2ItZTIwZGQwZmFhNjZjLmpwZw==.jpg"
         }
       ]
     },

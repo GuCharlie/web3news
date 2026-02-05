@@ -1697,6 +1697,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=544334",
+          "author": "NewEconomy",
+          "description": "UAEでダイヤ在庫をトークン化 トークン化基盤を提供する「コントロール・オルト（Ctrl Alt）」が、UAE（アラブ首長国連邦）を拠点とするダイヤモンド管理およびオークション事業を行う「ビリトン・ダイヤモンド（Bill […]",
+          "link": "https://www.neweconomy.jp/posts/544334",
+          "publishedOn": "2026-02-05T01:25:07.000Z",
+          "wordCount": 791,
+          "title": "UAE企業、2.8億ドル相当ダイヤを「XRPL」上でトークン化へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/05102438/3d43cd7ff346e3e93a27eae39f6f638c.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=544307",
           "author": "NewEconomyPodcast",
           "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
@@ -2063,6 +2073,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-open-interest-falls-by-dollar55b-in-30-days-what-s-next-for-btc-price",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "ビットコイン（BTC）は水曜日も7万ドル台で苦戦が続いており、次の下値として6万ドル台への下落が意識されている。今回の売りは先物市場の清算を伴い、過去30日間でビットコインの建玉（OI）が約550億ドル減少したほか、取引所へのBTC流入も増加している。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-open-interest-falls-by-dollar55b-in-30-days-what-s-next-for-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-05T00:39:40.000Z",
+          "wordCount": 389,
+          "title": "ビットコイン さらなる調整となるか？ 建玉急減と取引所流入増が示す次の下落リスク",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI5MzQtMGFjMi03ZDNjLTk4OWUtNGIxNGExNzQyZDFhLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI5MzQtMGFjMi03ZDNjLTk4OWUtNGIxNGExNzQyZDFhLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/xrp-price-slips-below-1-60-how-low-can-it-go-february",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "XRP（XRP）の価格は週末に1.50ドルを下回り、14カ月ぶりの安値を付けた。チャート上では弱気のテクニカル構造が確認されており、下落トレンドが2月を通じて続く可能性を示唆している。",
+          "link": "https://jp.cointelegraph.com/news/xrp-price-slips-below-1-60-how-low-can-it-go-february?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-05T00:19:53.000Z",
+          "wordCount": 309,
+          "title": "XRPが一時1.50ドル割れ、弱気ペナント完成なら2月も下落継続の恐れ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI5MTMtNmJjNC03ZTI3LTlhZGItYzNlNzE2NDdkYjlhLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI5MTMtNmJjNC03ZTI3LTlhZGItYzNlNzE2NDdkYjlhLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/crypto-investors-prioritize-infrastructure-over-defi-survey-finds",
           "author": "Cointelegraph  Ezra Reguerra",

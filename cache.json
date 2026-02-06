@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=336108",
+          "author": "Shoko Galaviz",
+          "description": "暗号資産（仮想通貨）市場は大きな調整局面を迎えている。 ビットコイン（BTC）は急落し、わずか4カ月前に記録した史上最高値と比べると約半値水準にとどまっている。 ...\n暗号資産はなぜ下落しているのか：Bitwise first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/336108/",
+          "publishedOn": "2026-02-06T21:15:00.000Z",
+          "wordCount": 1404,
+          "title": "暗号資産はなぜ下落しているのか：Bitwise",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2629915719.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=334228",
           "author": "松田康生",
           "description": "本稿ではビットコイン相場を①パターン分析 ②移動平均線（9MA・25MA） ③一目均衡表 ④ボリンジャーバンド ⑤MACD ⑥RSIの代表的な6種類のテクニカル ...\nマトリックス法によるテクニカル分析（2026/2/6）弱気相場入りだが、セリングクライマックスも近いか？【楽天ウォレット】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -2638,6 +2648,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/china-bans-stablecoin-rwa-foreign-domestic",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "中国の中央銀行である中国人民銀行（PBOC）は金曜日、7つの規制当局と共同で、人民元に連動するステーブルコインおよびトークン化された現実世界資産（RWA）の無許可発行を禁止する共同声明を発表した。",
+          "link": "https://jp.cointelegraph.com/news/china-bans-stablecoin-rwa-foreign-domestic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-06T21:00:00.000Z",
+          "wordCount": 256,
+          "title": "中国、人民元連動ステーブルコインとトークン化RWAの無許可発行を禁止",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzMzYzgtZjUwZi03NzVlLWI1N2ItMWI1ODE1Y2Q2MWQ5LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzMzYzgtZjUwZi03NzVlLWI1N2ItMWI1ODE1Y2Q2MWQ5LmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/price-predictions-2-6-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-xmr",
           "author": "Cointelegraph  Rakesh Upadhyay",

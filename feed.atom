@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-06T23:21:04.438Z</updated>
+    <updated>2026-02-06T23:48:29.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ストラテジー社CEO、「ビットコインが8000ドルを5年以上維持しない限り債務に問題なし」]]></title>
+        <id>https://coinpost.jp/?p=687397</id>
+        <link href="https://coinpost.jp/?p=687397"/>
+        <updated>2026-02-06T23:20:50.000Z</updated>
+        <summary type="html"><![CDATA[ストラテジー社は、2025年4Qの収支報告会を開催。同社のCEOは、仮想通貨ビットコインの価格が8,000ドルまで下落し、5年〜6年の間その水準で推移し続けない限り転換社債の返済に問題は起きないと説明した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインは7万1000ドル強に。価格上昇は「期待」か、それとも単なる反発か──SOPRが示すビットコイン市場の現在地【エックスウィンリサーチ】]]></title>
         <id>https://www.nadanews.com/?p=336119</id>
@@ -3383,17 +3393,6 @@ Bed Bath & Beyond、Tokens.com買収──トークン化資産と不動産金�
         <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ripple、ルクセンブルクでEU電子マネー機関の完全なライセンスを取得]]></title>
-        <id>https://www.nadanews.com/?p=335529</id>
-        <link href="https://www.nadanews.com/335529/"/>
-        <updated>2026-02-02T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Ripple（リップル）社は2026年2月2日、ルクセンブルクの金融規制当局、金融監督委員会（CSSF）から、電子マネー機関（EMI）ライセンスの完全な認可を受 ...
-Ripple、ルクセンブルクでEU電子マネー機関の完全なライセンスを取得 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
         </author>
     </entry>
 </feed>

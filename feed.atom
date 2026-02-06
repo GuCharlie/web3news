@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-06T22:19:04.766Z</updated>
+    <updated>2026-02-06T22:48:56.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国人民銀行、仮想通貨規制を強化　RWAトークン化と人民元建てステーブルコインを明確に禁止]]></title>
+        <id>https://coinpost.jp/?p=687374</id>
+        <link href="https://coinpost.jp/?p=687374"/>
+        <updated>2026-02-06T22:20:26.000Z</updated>
+        <summary type="html"><![CDATA[中国人民銀行は8つの政府機関と共同で仮想通貨関連活動の取り締まり強化を発表し、RWAトークン化と人民元建てステーブルコインの発行を明確に禁止した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国、暗号資産規制をさらに強化──ステーブルコインとRWAトークン化も対象に]]></title>
         <id>https://www.nadanews.com/?p=336113</id>
@@ -3352,39 +3362,6 @@ Bed Bath & Beyond、Tokens.com買収──トークン化資産と不動産金�
 Ripple、ルクセンブルクでEU電子マネー機関の完全なライセンスを取得 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ApeChainのNightGlyders、1月末から2月にかけてフロアプライスが急騰]]></title>
-        <id>https://crypto-times.jp/?p=152199</id>
-        <link href="https://crypto-times.jp/news-apechain-nft-nightglyders/"/>
-        <updated>2026-02-02T10:36:24.000Z</updated>
-        <summary type="html"><![CDATA[ApeChain上のNFTコレクション「NightGlyders」のフロアプライスが550 APEに到達し、過去最高値を記録しました。Magic Edenのデータによると、1月31日から2月1日にかけて急激に上昇していま […]
-投稿 ApeChainのNightGlyders、1月末から2月にかけてフロアプライスが急騰 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pudgy Penguins、サッカー強豪マンチェスター・シティとコラボ]]></title>
-        <id>https://crypto-times.jp/?p=152193</id>
-        <link href="https://crypto-times.jp/news-pudgy-penguins-manchester-city/"/>
-        <updated>2026-02-02T10:28:29.000Z</updated>
-        <summary type="html"><![CDATA[Pudgy Penguinsは、サッカーのプレミアリーグ（イングランド1部）強豪チームであるマンチェスター・シティとのプレミアムコレクタブルおよび商品セットを発売しました。 The Pudgy Penguins Man  […]
-投稿 Pudgy Penguins、サッカー強豪マンチェスター・シティとコラボ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最大6%キャッシュバッククレカ「Tria」、ステーブルコインでの還元を発表]]></title>
-        <id>https://crypto-times.jp/?p=152189</id>
-        <link href="https://crypto-times.jp/news-tria-announces-stablecoin-rebates/"/>
-        <updated>2026-02-02T10:26:31.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産を日常生活の決済に活用できる新しい選択肢として「Tria」が展開する暗号資産クレジットカードが注目を集めています。 Cashback on the Tria Card is always real, always […]
-投稿 最大6%キャッシュバッククレカ「Tria」、ステーブルコインでの還元を発表 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
         </author>
     </entry>
 </feed>

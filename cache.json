@@ -810,26 +810,6 @@
           "wordCount": 1580,
           "title": "2026年、日本の金融は作り替えられる──SBI北尾吉孝氏が描く「デジタルバンク」とトークン化の未来【2026年 創刊特集】再掲",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/image001.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=335249",
-          "author": "NADA NEWS編集部",
-          "description": "【CoinDesk Summary】 ● Ripple（リップル）は、10億ドルで買収したGTreasuryを基盤に、企業が現金とデジタル資産を一元管理できるエ ...\nRipple、10億ドルでのGTreasury買収をテコに企業財務へ──「Ripple Treasury」で金融インフラ化を狙う first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/335249/",
-          "publishedOn": "2026-02-01T21:30:00.000Z",
-          "wordCount": 1379,
-          "title": "Ripple、10億ドルでのGTreasury買収をテコに企業財務へ──「Ripple Treasury」で金融インフラ化を狙う",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/nadanews_top-8-1.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=335242",
-          "author": "NADA NEWS編集部",
-          "description": "【CoinDesk Summary】 ● 米銀大手Citiは、CLARITY Act（クラリティ法案）が米国におけるデジタル資産の正当性を確立する中心的な推進力 ...\nCLARITY法案は前進、だがDeFiをめぐる対立が停滞要因になり得る：米銀大手Citi first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/335242/",
-          "publishedOn": "2026-02-01T21:00:00.000Z",
-          "wordCount": 1458,
-          "title": "CLARITY法案は前進、だがDeFiをめぐる対立が停滞要因になり得る：米銀大手Citi",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/nadanews_top-7-1.jpg"
         }
       ]
     },
@@ -840,10 +820,25 @@
       "articles": []
     },
     {
-      "title": "Augur(REP)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=687330",
+          "author": "Ritsuki.Kumazawa",
+          "description": "ReWalletは暗号資産ウォレットの復旧に特化したスイス企業。パスワード紛失やシードフレーズ破損など幅広いケースに対応し、成功報酬型で初期費用は無料。サービス内容や対応ウォレット、料金体系を解説。",
+          "link": "https://coinpost.jp/?p=687330",
+          "publishedOn": "2026-02-06T07:49:25.000Z",
+          "wordCount": 3677,
+          "title": "ReWallet（リウォレット）とは？暗号資産ウォレット復旧サービスの全貌を解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/rewallet_thumbnail0206.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/rewallet_thumbnail0206.png"
+        },
         {
           "id": "https://coinpost.jp/?p=687238",
           "author": "Enzo",
@@ -3770,6 +3765,21 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=152451",
+          "author": "アラタ &#124; Shingo Arai",
+          "description": "2026年2月6日、ビットコインは一時60,033ドルまで急落し、2025年10月の史上最高値126,000ドルからわずか4ヶ月で52%の下落を記録しました。日本円では1年3ヶ月ぶりに1,000万円を割り込み、2024年 […]\n投稿 ビットコイン、4ヶ月で最高価格から1000万円割れで50％下落｜ETF62億ドル流出・清算25億ドル超の全貌と底打ちの条件 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-btc-down-60k/",
+          "publishedOn": "2026-02-06T09:21:43.000Z",
+          "wordCount": 685,
+          "title": "ビットコイン、4ヶ月で最高価格から1000万円割れで50％下落｜ETF62億ドル流出・清算25億ドル超の全貌と底打ちの条件",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2567940403.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=152448",
           "author": "Crypto Times 編集部",

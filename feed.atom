@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-07T16:24:34.662Z</updated>
+    <updated>2026-02-07T16:55:21.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン暴落の原因は？ 香港ヘッジファンド説、モルガン・スタンレー説、マイナー売却説が浮上]]></title>
+        <id>https://jp.cointelegraph.com/news/what-crashed-bitcoin-three-theories-btc-trip-below-60k</id>
+        <link href="https://jp.cointelegraph.com/news/what-crashed-bitcoin-three-theories-btc-trip-below-60k?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-07T16:35:23.000Z</updated>
+        <summary type="html"><![CDATA[Hong Kong hedge funds’ leveraged BTC price bets are emerging as the main trigger behind Bitcoin’s sharp month-long sell-off.]]></summary>
+        <author>
+            <name>Cointelegraph  Yashu Gola</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[グーグルで「ビットコイン」検索が急増　BTC価格6万ドル接近が個人投資家の関心を喚起か]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-google-search-volume-surges-btc-price-volatility</id>
@@ -3111,16 +3121,6 @@ JPYC、累計発行額10億円を突破 first appeared on NADA NEWS（ナダ・�
         <summary type="html"><![CDATA[SMBC日興証券が2月1日付でDeFiテクノロジー部を新設。磯野太佑氏が部長に就任し、証券会社のリソースを活用したWeb3エコシステム構築を推進。分散型金融と伝統的金融の融合による「日本の価値の最大化」を目指す。]]></summary>
         <author>
             <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドイツ証券大手ING、仮想通貨ETNの投資を可能に]]></title>
-        <id>https://coinpost.jp/?p=686016</id>
-        <link href="https://coinpost.jp/?p=686016"/>
-        <updated>2026-02-03T04:45:20.000Z</updated>
-        <summary type="html"><![CDATA[ドイツの大手ブローカーINGが仮想通貨ETN投資を開放。ビットコインやイーサリアム、ソラナなど約50銘柄が証券口座で直接取引可能になった。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

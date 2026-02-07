@@ -1943,21 +1943,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/shutterstock_2132919497.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/shutterstock_2132919497.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=686016",
-          "author": "菊谷ルイス",
-          "description": "ドイツの大手ブローカーINGが仮想通貨ETN投資を開放。ビットコインやイーサリアム、ソラナなど約50銘柄が証券口座で直接取引可能になった。",
-          "link": "https://coinpost.jp/?p=686016",
-          "publishedOn": "2026-02-03T04:45:20.000Z",
-          "wordCount": 3369,
-          "title": "ドイツ証券大手ING、仮想通貨ETNの投資を可能に",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/ing-bitcoin-etf.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/ing-bitcoin-etf.jpg"
         }
       ]
     },
@@ -2443,6 +2428,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/what-crashed-bitcoin-three-theories-btc-trip-below-60k",
+          "author": "Cointelegraph  Yashu Gola",
+          "description": "Hong Kong hedge funds’ leveraged BTC price bets are emerging as the main trigger behind Bitcoin’s sharp month-long sell-off.",
+          "link": "https://jp.cointelegraph.com/news/what-crashed-bitcoin-three-theories-btc-trip-below-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-07T16:35:23.000Z",
+          "wordCount": 336,
+          "title": "ビットコイン暴落の原因は？ 香港ヘッジファンド説、モルガン・スタンレー説、マイナー売却説が浮上",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzM3YmItMmM2NC03NzBlLWE0YWMtYTI0N2Y1ZGIyYWFmLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzM3YmItMmM2NC03NzBlLWE0YWMtYTI0N2Y1ZGIyYWFmLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-google-search-volume-surges-btc-price-volatility",
           "author": "Cointelegraph  Ciaran Lyons",

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-08T22:22:29.633Z</updated>
+    <updated>2026-02-08T22:54:17.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインの弱気相場はまだ終わらないの？　トレーダー、BTC価格の「本当の底」は5万ドルと指摘]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-bear-market-not-over-trader-btc-price-real-bottom-50k</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-bear-market-not-over-trader-btc-price-real-bottom-50k?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-08T22:48:56.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン価格の分析では、BTCの先行きに対して弱気な見方が続いており、2022年の弱気相場が再現される場合、新たなマクロ安値を付ける可能性があると予測されている。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ジャック・ドーシー氏のブロック、事業再編で最大1割の人員削減か＝報道]]></title>
+        <id>https://jp.cointelegraph.com/news/jack-dorsey-block-may-cut-10-percent-staff-restructuring</id>
+        <link href="https://jp.cointelegraph.com/news/jack-dorsey-block-may-cut-10-percent-staff-restructuring?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-08T22:37:08.000Z</updated>
+        <summary type="html"><![CDATA[アナリストは、ブロックが第4四半期に売上高62億5,000万ドル、利益4億300万ドルを計上すると予測している。第3四半期は粗利益が大きく伸びた一方、市場の反応はまちまちだった。]]></summary>
+        <author>
+            <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARK、コインベース株2,200万ドル分を追加売却、ブリッシュ株を買い増し]]></title>
+        <id>https://jp.cointelegraph.com/news/ark-sells-22m-coinbase-adds-bullish-across-etfs</id>
+        <link href="https://jp.cointelegraph.com/news/ark-sells-22m-coinbase-adds-bullish-across-etfs?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-08T22:25:20.000Z</updated>
+        <summary type="html"><![CDATA[キャシー・ウッド氏率いるARKインベストは、3本のETFを通じてコインベース株13万4,472株を売却する一方、仮想通貨プラットフォームのブリッシュ株を39万3,000株超購入した。]]></summary>
+        <author>
+            <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3と仮想通貨における非金融ユースケースを巡りVC間で対立]]></title>
         <id>https://jp.cointelegraph.com/news/vcs-clash-non-financial-crypto</id>
@@ -2141,27 +2171,6 @@ JPYCとアステリアが資本業務提携──ステーブルコインの「�
 投稿 リップル(XRP)、1.60ドル割れ目前ー長期下落トレンド止まらず【仮想通貨チャート分析】 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPYC株式会社、アステリア株式会社と資本業務提携]]></title>
-        <id>https://crypto-times.jp/?p=152268</id>
-        <link href="https://crypto-times.jp/news-jpc-corporation-enters-into-capital-and-business-alliance-with-asteria-corporation/"/>
-        <updated>2026-02-04T10:42:17.000Z</updated>
-        <summary type="html"><![CDATA[JPYC株式会社はアステリア株式会社と資本業務提携を行うことで合意。今回の提携は日本円ステーブルコインであるJPYCの社会実装を加速させるとともに、企業間取引や自治体におけるデジタル決済基盤の構築を目的としています。 ア […]
-投稿 JPYC株式会社、アステリア株式会社と資本業務提携 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨取引所運営のGMOコイン、東証上場に向けた準備を開始]]></title>
-        <id>https://coinpost.jp/?p=686599</id>
-        <link href="https://coinpost.jp/?p=686599"/>
-        <updated>2026-02-04T10:38:42.000Z</updated>
-        <summary type="html"><![CDATA[GMOインターネットグループは4日、傘下の暗号資産取引所GMOコインが東証上場に向けた準備を進めていると発表した。国内ではbitbankとbitFlyerもIPO準備中で、取引所の株式公開が相次ぐ見通し。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>

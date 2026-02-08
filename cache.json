@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=336065",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● トークン化証券（Tokenized equities）の市場規模は、2026年1月時点で約9億6300万ドルに達し、前 ...\nトークン化証券市場、1年で約3000％の急拡大 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/336065/",
+          "publishedOn": "2026-02-08T21:00:00.000Z",
+          "wordCount": 1397,
+          "title": "トークン化証券市場、1年で約3000％の急拡大",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/nadanews_top-53.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=336223",
           "author": "NADA NEWS編集部",
           "description": "【CoinDesk Summary】 ● ビットコイン（BTC）の買い集め（蓄積）が、昨年11月下旬以来初めて、幅広い規模の保有層に広がっている。 ● 今回の調 ...\nビットコイン、広範な買い集めが始まる──急落後の調整局面で押し目買い first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -1348,21 +1358,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/gmocoin20200615_3.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/gmocoin20200615_3.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=683388",
-          "author": "CoinPost編集部",
-          "description": "PerpDEX（永久先物DEX）の基礎知識から、Hyperliquid、Aster、Lighterなど注目の6プロトコルを徹底比較。エアドロップ情報、使い方、リスク、必要な準備（ETH・USDC）まで初心者向けに網羅的に解説。",
-          "link": "https://coinpost.jp/?p=683388",
-          "publishedOn": "2026-02-04T09:00:40.000Z",
-          "wordCount": 2551,
-          "title": "PerpDEXが注目される理由｜エアドロップ期待の注目6選とトレンドを解説",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/dex-sec.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/dex-sec.jpeg"
         }
       ]
     },
@@ -2212,21 +2207,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY0MTEtNDI0Ny03MTcyLThiMmQtMzZmZTc1YmE1NjJlLmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/ethereum-scaling-pivot-l2s-mainnet-vitalik-buterin",
-          "author": "Cointelegraph  Brayden Lindrea",
-          "description": "イーサリアム共同創設者のヴィタリック・ブテリン氏は、レイヤー2（L2）による拡張に関する当初の構想について「もはや意味をなさない」との見解を示した。多くのL2がイーサリアムのセキュリティを十分に継承できておらず、今後の拡張はメインネットとネイティブロールアップから生じるべきだと主張している。",
-          "link": "https://jp.cointelegraph.com/news/ethereum-scaling-pivot-l2s-mainnet-vitalik-buterin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-02-04T09:16:07.000Z",
-          "wordCount": 252,
-          "title": "レイヤー2による拡張は「もはや意味をなさない」　イーサリアム共同創設者のヴィタリック・ブテリン氏",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI2MWEtZDUwNC03YWE1LTlhMDQtYzFhOWFmNGM3YTBhLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI2MWEtZDUwNC03YWE1LTlhMDQtYzFhOWFmNGM3YTBhLmpwZw==.jpg"
         }
       ]
     },

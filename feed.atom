@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-08T20:50:22.233Z</updated>
+    <updated>2026-02-08T21:22:46.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トークン化証券市場、1年で約3000％の急拡大]]></title>
+        <id>https://www.nadanews.com/?p=336065</id>
+        <link href="https://www.nadanews.com/336065/"/>
+        <updated>2026-02-08T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【CoinDesk Summary】 ● トークン化証券（Tokenized equities）の市場規模は、2026年1月時点で約9億6300万ドルに達し、前 ...
+トークン化証券市場、1年で約3000％の急拡大 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>NADA NEWS編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Base、新規格「ERC-8004」にL2で初対応｜AI経済の自律化へ]]></title>
         <id>https://crypto-times.jp/?p=152472</id>
@@ -2150,26 +2161,6 @@ JPYCとアステリアが資本業務提携──ステーブルコインの「�
         <summary type="html"><![CDATA[現物ビットコイン上場投資信託（ETF）の運用資産残高が、2億7200万ドルの新たな資金流出を受け、火曜日に1000億ドルを下回った。]]></summary>
         <author>
             <name>Cointelegraph  Helen Partz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[レイヤー2による拡張は「もはや意味をなさない」　イーサリアム共同創設者のヴィタリック・ブテリン氏]]></title>
-        <id>https://jp.cointelegraph.com/news/ethereum-scaling-pivot-l2s-mainnet-vitalik-buterin</id>
-        <link href="https://jp.cointelegraph.com/news/ethereum-scaling-pivot-l2s-mainnet-vitalik-buterin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-02-04T09:16:07.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム共同創設者のヴィタリック・ブテリン氏は、レイヤー2（L2）による拡張に関する当初の構想について「もはや意味をなさない」との見解を示した。多くのL2がイーサリアムのセキュリティを十分に継承できておらず、今後の拡張はメインネットとネイティブロールアップから生じるべきだと主張している。]]></summary>
-        <author>
-            <name>Cointelegraph  Brayden Lindrea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PerpDEXが注目される理由｜エアドロップ期待の注目6選とトレンドを解説]]></title>
-        <id>https://coinpost.jp/?p=683388</id>
-        <link href="https://coinpost.jp/?p=683388"/>
-        <updated>2026-02-04T09:00:40.000Z</updated>
-        <summary type="html"><![CDATA[PerpDEX（永久先物DEX）の基礎知識から、Hyperliquid、Aster、Lighterなど注目の6プロトコルを徹底比較。エアドロップ情報、使い方、リスク、必要な準備（ETH・USDC）まで初心者向けに網羅的に解説。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>

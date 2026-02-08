@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-08T21:49:44.163Z</updated>
+    <updated>2026-02-08T22:22:29.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web3と仮想通貨における非金融ユースケースを巡りVC間で対立]]></title>
+        <id>https://jp.cointelegraph.com/news/vcs-clash-non-financial-crypto</id>
+        <link href="https://jp.cointelegraph.com/news/vcs-clash-non-financial-crypto?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-08T22:09:33.000Z</updated>
+        <summary type="html"><![CDATA[a16zクリプトのマネージング・パートナーであるクリス・ディクソン氏は、仮想通貨における非金融ユースケースは、規制が明確になれば成長すると述べた。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[銀行口座は忘れよ、顧客をつなぎ留めるには「ウォレットを自社で持て」とEYが警告]]></title>
         <id>https://www.nadanews.com/?p=336210</id>
@@ -2152,16 +2162,6 @@ JPYCとアステリアが資本業務提携──ステーブルコインの「�
         <summary type="html"><![CDATA[GMOインターネットグループは4日、傘下の暗号資産取引所GMOコインが東証上場に向けた準備を進めていると発表した。国内ではbitbankとbitFlyerもIPO準備中で、取引所の株式公開が相次ぐ見通し。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【速報】GMOコインが東証への上場準備、GMOインターネットグループ公表]]></title>
-        <id>https://www.neweconomy.jp/?p=544343</id>
-        <link href="https://www.neweconomy.jp/posts/544343"/>
-        <updated>2026-02-04T10:05:50.000Z</updated>
-        <summary type="html"><![CDATA[GMOコインが上場準備 国内暗号資産交換業者のGMOコインが、東京証券取引所への株式上場に向けた準備を行っていると、GMOインターネットグループが2月4日に発表した。GMOコインは、GMOインターネットグループの連結子会 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>

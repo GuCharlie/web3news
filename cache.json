@@ -1645,16 +1645,6 @@
           "wordCount": 768,
           "title": "【2/4話題】L2の役割に新たな方向性が必要とヴィタリックが見解、米国の暗号資産法案の行き詰まり打開できずなど（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/04165450/e715469739582077a9128684624ddc8f.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=544343",
-          "author": "OtsugaShinya",
-          "description": "GMOコインが上場準備 国内暗号資産交換業者のGMOコインが、東京証券取引所への株式上場に向けた準備を行っていると、GMOインターネットグループが2月4日に発表した。GMOコインは、GMOインターネットグループの連結子会 […]",
-          "link": "https://www.neweconomy.jp/posts/544343",
-          "publishedOn": "2026-02-04T10:05:50.000Z",
-          "wordCount": 731,
-          "title": "【速報】GMOコインが東証への上場準備、GMOインターネットグループ公表",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/04190543/GMO-20210906.jpg"
         }
       ]
     },
@@ -1663,6 +1653,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/vcs-clash-non-financial-crypto",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "a16zクリプトのマネージング・パートナーであるクリス・ディクソン氏は、仮想通貨における非金融ユースケースは、規制が明確になれば成長すると述べた。",
+          "link": "https://jp.cointelegraph.com/news/vcs-clash-non-financial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-08T22:09:33.000Z",
+          "wordCount": 335,
+          "title": "Web3と仮想通貨における非金融ユースケースを巡りVC間で対立",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQ3NzctZjI5NC03MWQ1LTk4NWUtNWRkNmNmMjFlNDE2.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQ3NzctZjI5NC03MWQ1LTk4NWUtNWRkNmNmMjFlNDE2.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/crypto-erebor-first-new-us-bank-charter-trump-second-term",
           "author": "Cointelegraph  Amin Haqshanas",

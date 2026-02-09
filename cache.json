@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=336305",
+          "author": "廣瀬 優香",
+          "description": "世界最大規模のデジタル資産企業であるTether（テザー）は2月6日、USDTを活用した認可金融機関向け決済プラットフォーム「t-0 network」への戦略的 ...\nTether、金融機関向け決済プラットフォーム「t-0 Network」に投資──USDT活用の決済システムを支援 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/336305/",
+          "publishedOn": "2026-02-09T09:45:00.000Z",
+          "wordCount": 1358,
+          "title": "Tether、金融機関向け決済プラットフォーム「t-0 Network」に投資──USDT活用の決済システムを支援",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2674255479-1.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=336323",
+          "author": "井上 俊彦",
+          "description": "米大手暗号資産（仮想通貨）取引所Kraken（クラーケン）の機関投資家部門であるKraken Institutional（クラーケン・インスティテューショナル） ...\nKraken、機関投資家向けに暗号資産を保持したまま利回りが得られるサービスを提供 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/336323/",
+          "publishedOn": "2026-02-09T09:30:00.000Z",
+          "wordCount": 1362,
+          "title": "Kraken、機関投資家向けに暗号資産を保持したまま利回りが得られるサービスを提供",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2611282275.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=336313",
           "author": "栃山 直樹",
           "description": "メルカリは9日、2026年6月期第2四半期（中間期）の連結決算を発表した。 暗号資産事業を担う子会社のメルコインにおける、売買取引による収益は10億4800万円 ...\nメルカリ決算、暗号資産収益10億円を突破──江田CFO「切り離せない価値の一つ」 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -580,10 +600,40 @@
       "articles": []
     },
     {
-      "title": "Verge(XVG)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=686056",
+          "author": "A.Yoshida",
+          "description": "現金不要で仮想通貨投資を始められるポイント投資を徹底解説。PayPay・楽天・Vポイント・Ponta・メルカリの5サービスを比較し、それぞれの特徴、メリット、おすすめの人を具体的に紹介します。",
+          "link": "https://coinpost.jp/?p=686056",
+          "publishedOn": "2026-02-09T09:00:19.000Z",
+          "wordCount": 2611,
+          "title": "ポイ活で始める仮想通貨投資｜PayPay・楽天など対応サービス5選比較",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/pointinvest0205.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/pointinvest0205.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=687784",
+          "author": "Enzo",
+          "description": "高市政権の衆院選圧勝を受け、仮想通貨業界では税制改革や金商法移行、積極財政の影響に注目が集まっている。政策推進力の高まりと高市首相の慎重な制度姿勢を整理する。",
+          "link": "https://coinpost.jp/?p=687784",
+          "publishedOn": "2026-02-09T08:25:12.000Z",
+          "wordCount": 3301,
+          "title": "高市政権が衆院選圧勝、政策推進本格化で仮想通貨の税制改革・金商法移行の期待高まる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/kokkai0206.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/kokkai0206.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=687743",
           "author": "幸田直子",
@@ -1423,66 +1473,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/UBS0510211.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/UBS0510211.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=686729",
-          "author": "菊谷ルイス",
-          "description": "JPYC株式会社とアステリア株式会社が資本業務提携を締結。データ連携技術とステーブルコイン技術を組み合わせ企業間取引や公共領域でのデジタル決済基盤構築を目指す。",
-          "link": "https://coinpost.jp/?p=686729",
-          "publishedOn": "2026-02-04T22:45:50.000Z",
-          "wordCount": 3282,
-          "title": "JPYCとアステリア株式会社が資本業務提携、日本円ステーブルコインの社会実装を加速",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/asterial-jpyc.webp"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/asterial-jpyc.webp"
-        },
-        {
-          "id": "https://coinpost.jp/?p=686737",
-          "author": "K.Kobayashi",
-          "description": "ビットマインのトム・リー会長は、同社が仮想通貨イーサリアムの多額の未実現損失を抱えていることに関する批判に反論。最も重要なことは、イーサリアムが金融の未来であることだと改めて主張した。",
-          "link": "https://coinpost.jp/?p=686737",
-          "publishedOn": "2026-02-04T22:10:45.000Z",
-          "wordCount": 3367,
-          "title": "トム・リー、ビットマイン保有のイーサリアムの巨額含み損に関する批判に反論",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/tomlee2_0530.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/tomlee2_0530.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=686745",
-          "author": "菊谷ルイス",
-          "description": "米資産運用大手フィデリティが初のステーブルコイン「FIDD」を正式にローンチ。米ドルと1対1で連動し、個人・機関投資家向けに提供を開始。",
-          "link": "https://coinpost.jp/?p=686745",
-          "publishedOn": "2026-02-04T21:55:48.000Z",
-          "wordCount": 3285,
-          "title": "米金融大手フィデリティ、個人と機関向けに米ドルステーブルコイン「FIDD」を正式ローンチ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/fidelity-ftcc.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/fidelity-ftcc.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=686728",
-          "author": "菊谷ルイス",
-          "description": "ビットコインが昨年10月のピークから40%下落し、2018年や2022年の弱気相場との類似性が指摘されている。調査会社K33は機関投資家の参入拡大や規制整備の進展を理由に、過去のような80%暴落は起きないと分析した。",
-          "link": "https://coinpost.jp/?p=686728",
-          "publishedOn": "2026-02-04T21:35:45.000Z",
-          "wordCount": 3360,
-          "title": "K33分析、「ビットコイン40%下落でも2022年暴落の再現には当たらず」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/new-bitcoin-sell.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/new-bitcoin-sell.jpeg"
         }
       ]
     },
@@ -1491,6 +1481,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=545774",
+          "author": "HitomotoToshikazu",
+          "description": "BinanceがSAFU向けにBTC購入 大手海外暗号資産（仮想通貨）取引所バイナンス（Binance）が、ユーザーのための資産保険基金（Secure Asset Fund for Users：SAFU）向けにビットコイ […]",
+          "link": "https://www.neweconomy.jp/posts/545774",
+          "publishedOn": "2026-02-09T10:41:40.000Z",
+          "wordCount": 776,
+          "title": "バイナンスがビットコイン3600枚購入、ユーザー資産保険基金「SAFU」向けに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/09193904/2d84867bfde991463c7af7e4a1328064.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=545733",
           "author": "HitomotoToshikazu",
@@ -2432,66 +2432,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI4YTMtMTg4MC03YmQ1LWFjMmMtYWEwY2I3ZjA3NmJhLmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/analyst-binance-reserves-steady-ftx-2-claims-manipulated-accounts",
-          "author": "Cointelegraph  Helen Partz",
-          "description": "市場の変動やSNS上で広がる批判の波にもかかわらず、オンチェーン準備金は安定しており、差し迫ったストレス兆候は確認されていない。",
-          "link": "https://jp.cointelegraph.com/news/analyst-binance-reserves-steady-ftx-2-claims-manipulated-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-02-04T22:46:19.000Z",
-          "wordCount": 340,
-          "title": "バイナンス準備金は安定　「FTX 2.0」説がオンラインで拡散",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI4YWEtMzliMS03N2ZhLWEwMDEtYzJjNTkxMmJlNjVlLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI4YWEtMzliMS03N2ZhLWEwMDEtYzJjNTkxMmJlNjVlLmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/price-predictions-2-4-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-xmr",
-          "author": "Cointelegraph  Rakesh Upadhyay",
-          "description": "ビットコイン価格は15カ月ぶりの安値となる7万2,169ドルまで下落し、あるアナリストは、数カ月以内にBTCの実現価格である約5万6,000ドルを再訪する可能性があると指摘した。週末を前に反発局面を示唆する兆しはあるのか。",
-          "link": "https://jp.cointelegraph.com/news/price-predictions-2-4-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-02-04T22:38:19.000Z",
-          "wordCount": 287,
-          "title": "反発の可能性は？　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI5OWQtOTA0YS03YmY1LThjM2MtYTY3N2FmOWViMDBiLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI5OWQtOTA0YS03YmY1LThjM2MtYTY3N2FmOWViMDBiLmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/cme-group-exploring-issuing-token",
-          "author": "Cointelegraph  Nate Kostar",
-          "description": "決算説明会でテリー・ダフィーCEOは、CME発行トークンの検討に加え、グーグルとトークン化キャッシュ基盤の実証実験を進めていると明らかにした。",
-          "link": "https://jp.cointelegraph.com/news/cme-group-exploring-issuing-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-02-04T22:23:30.000Z",
-          "wordCount": 261,
-          "title": "CMEのダフィーCEO、自社トークン発行を検討と発言",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzJhNjktOTcyMy03MzlhLThhMDUtZTE1MTg0YjM1YWM0LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzJhNjktOTcyMy03MzlhLThhMDUtZTE1MTg0YjM1YWM0LmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/us-treasury-bessent-wont-bail-out-bitcoin",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "緊張したやり取りは、水曜日に行われた議会証言の場で、カリフォルニア州選出のブラッド・シャーマン下院議員との間で交わされた。",
-          "link": "https://jp.cointelegraph.com/news/us-treasury-bessent-wont-bail-out-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-02-04T22:11:18.000Z",
-          "wordCount": 267,
-          "title": "米国、ビットコイン救済には踏み込まず　ベセント財務長官が議会証言",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI5ZGItZGM1Ny03Y2VmLTg2MWQtYTMwMjNlNDdiZmI5LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI5ZGItZGM1Ny03Y2VmLTg2MWQtYTMwMjNlNDdiZmI5LmpwZw==.jpg"
         }
       ]
     },
@@ -2500,6 +2440,21 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=152592",
+          "author": "Crypto Times 編集部",
+          "description": "記事の要点 メタプラネットの含み損は1772億円。取得総額5,597億円に対しBTC価格が約30%下回る BTC保有数は35,102BTC、次期目標10万BTCに対し進捗35% 株価は355円と前日比4%反発、ただし1ヶ […]\n投稿 含み損1772億のメタプラネット、株価反発も1ヶ月で29%下落の苦境 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-meta-planet-unrealized-losses/",
+          "publishedOn": "2026-02-09T10:04:25.000Z",
+          "wordCount": 609,
+          "title": "含み損1772億のメタプラネット、株価反発も1ヶ月で29%下落の苦境",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2672870919-3.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=152540",
           "author": "よきょい",

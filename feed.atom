@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-09T23:04:13.933Z</updated>
+    <updated>2026-02-09T23:59:31.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[韓国当局、ビッサムの62万BTC誤配布問題で調査開始]]></title>
+        <id>https://coinpost.jp/?p=687954</id>
+        <link href="https://coinpost.jp/?p=687954"/>
+        <updated>2026-02-09T23:45:58.000Z</updated>
+        <summary type="html"><![CDATA[韓国金融監督院は、仮想通貨取引所ビッサムが顧客に62万BTCのビットコインを誤配布した問題を受けて調査を開始した。当局は取引所の台帳システムに構造的問題があると指摘し、IT事故への罰則導入など規制強化を進める方針を示した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[機関投資家の関心高まる中、ジャンプ・トレーディングがカルシとポリマーケットへの出資を検討＝報道]]></title>
         <id>https://jp.cointelegraph.com/news/jump-trading-kalshi-polymarket-prediction-markets-report</id>
@@ -37,6 +47,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[米FRB理事が表明、仮想通貨銀行向け「簡易版口座」を2026年末までに導入目指す]]></title>
+        <id>https://coinpost.jp/?p=687953</id>
+        <link href="https://coinpost.jp/?p=687953"/>
+        <updated>2026-02-09T22:25:56.000Z</updated>
+        <summary type="html"><![CDATA[米連邦準備制度理事会のウォーラー理事は、仮想通貨企業など非伝統的金融機関向けの簡易版マスターアカウント制度を2026年末までに確定させる方針を示した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ポリマーケット、マサチューセッツ州を提訴　予測市場は州が規制できないと主張]]></title>
         <id>https://jp.cointelegraph.com/news/polymarket-sues-massachusetts-claims-states-can-t-regulate-prediction-markets</id>
         <link href="https://jp.cointelegraph.com/news/polymarket-sues-massachusetts-claims-states-can-t-regulate-prediction-markets?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
@@ -65,6 +85,16 @@
         <summary type="html"><![CDATA[コインシェアーズによると、仮想通貨ETPからの資金流出は数週間にわたる損失の後、1億8700万ドルに減速した。一方で取引高は過去最高の630億ドルに達し、「市場の底打ちの可能性」を示唆しているという。]]></summary>
         <author>
             <name>Cointelegraph  Helen Partz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[相場底入れか、仮想通貨投資商品の純流出が減速＝コインシェアーズ]]></title>
+        <id>https://coinpost.jp/?p=687962</id>
+        <link href="https://coinpost.jp/?p=687962"/>
+        <updated>2026-02-09T22:05:17.000Z</updated>
+        <summary type="html"><![CDATA[コインシェアーズは、仮想通貨投資商品全体の先週の資金フローは約291億円の純流出だったと報告。原資産別ではビットコインから流出し、XRPやイーサリアムなどでは純流入した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
         </author>
     </entry>
     <entry>

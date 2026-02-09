@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-08T23:53:22.378Z</updated>
+    <updated>2026-02-09T01:55:09.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ヴィタリック氏、「アルゴリズム型ステーブルコインこそ真のDeFi」]]></title>
+        <id>https://coinpost.jp/?p=687641</id>
+        <link href="https://coinpost.jp/?p=687641"/>
+        <updated>2026-02-09T00:40:01.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム創設者ヴィタリック・ブテリン氏が、アルゴリズム型ステーブルコインこそが真のDeFiだと主張。USDCをAaveに預けるサービスは「真のDeFiではない」と明言し、2つの基準を提示した。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トレンドリサーチ、2100億円相当のイーサリアムを売却か]]></title>
+        <id>https://coinpost.jp/?p=687638</id>
+        <link href="https://coinpost.jp/?p=687638"/>
+        <updated>2026-02-09T00:28:34.000Z</updated>
+        <summary type="html"><![CDATA[トレンドリサーチが仮想通貨イーサリアムを大量にバイナンスに送金し売却した可能性がある。市場下落による担保清算圧力が背景とみられる。関係者は長期的な強気姿勢を表明した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ジャック・ドーシー氏のBlock、最大10％の人員削減を検討：Bloomberg]]></title>
         <id>https://www.nadanews.com/?p=336250</id>
@@ -2148,27 +2168,6 @@ SBIとStartale、金融特化型レイヤー1ブロックチェーン「Strium�
 暗号資産取引所GMOコイン、東証上場に向けた準備を開始 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>栃山 直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2/4話題】L2の役割に新たな方向性が必要とヴィタリックが見解、米国の暗号資産法案の行き詰まり打開できずなど（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=544307</id>
-        <link href="https://www.neweconomy.jp/posts/544307"/>
-        <updated>2026-02-04T12:37:34.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＜ANAP Brand Channel 連載＞もし「あのとき」からビットコインを積み立てていたら、今いくら？]]></title>
-        <id>https://www.nadanews.com/?p=335795</id>
-        <link href="https://www.nadanews.com/335795/"/>
-        <updated>2026-02-04T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[最近、日用品が「いつの間にか高くなっている」と感じることが増えました。 パン、飲み物、外食、ガソリンなど、少しずつ値段が上がっています。 実はこの背景には、お金 ...
-＜ANAP Brand Channel 連載＞もし「あのとき」からビットコインを積み立てていたら、今いくら？ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>橋本 祐樹</name>
         </author>
     </entry>
 </feed>

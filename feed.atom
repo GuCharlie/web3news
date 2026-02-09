@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-09T20:00:31.111Z</updated>
+    <updated>2026-02-09T21:03:44.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンスがSAFU基金で4225BTC追加購入、保有高は1.04万ビットコインに]]></title>
+        <id>https://coinpost.jp/?p=687956</id>
+        <link href="https://coinpost.jp/?p=687956"/>
+        <updated>2026-02-09T21:00:52.000Z</updated>
+        <summary type="html"><![CDATA[4,225BTC追加購入ブロックチェーンデータプラットフォームのアーカムによると、世界最大の仮想通貨取引所バイナンスは9日、ユーザー保護基金「SAFU」で3億ドル相当の4,225BTCのビットコインを追加購入した。この購入によりSAFU基金...]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米ビットコインマイニング企業が4451BTC売却済み、AI事業転換へ]]></title>
+        <id>https://coinpost.jp/?p=687951</id>
+        <link href="https://coinpost.jp/?p=687951"/>
+        <updated>2026-02-09T20:40:52.000Z</updated>
+        <summary type="html"><![CDATA[米ビットコインマイニング企業Cangoがビットコインを大量に売却し3億ドル以上を調達した。売却資金は担保ローンの返済に充て、財務基盤を強化してAI演算インフラ事業への戦略転換を加速させる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2/9話題】韓国ビッサムが62万BTCを誤配布、中国が暗号資産規制を強化、ヴィタリックがShielded Labsに再寄付など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=545759</id>
@@ -1809,59 +1829,6 @@ Tron Inc.がTRXを買い増し──ジャスティン・サン氏も支持を�
         <summary type="html"><![CDATA[暗号資産取引所MEXCが金連動トークン先物の市場シェア拡大を発表。1月25日時点で47%に到達したという。金価格の最高値更新を背景に、銀先物でも取引が増加している。]]></summary>
         <author>
             <name>Ritsuki.Kumazawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIのなりすましを防ぐ？ブロックチェーン技術が「人間」を証明する鍵に]]></title>
-        <id>https://crypto-times.jp/?p=152409</id>
-        <link href="https://crypto-times.jp/news-blockchain-technology-is-the-key-to-proving-humanity/"/>
-        <updated>2026-02-05T09:02:08.000Z</updated>
-        <summary type="html"><![CDATA[AIの急速な進化によりインターネットの信頼性が揺らぐ中、その解決策としてブロックチェーン技術が不可欠な存在となっています。 https://t.co/uDGytdd5wa — a16z crypto (@a16zcryp […]
-投稿 AIのなりすましを防ぐ？ブロックチェーン技術が「人間」を証明する鍵に は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインのコインベース・プレミアムが急低下、機関投資家の売り圧力を示唆]]></title>
-        <id>https://jp.cointelegraph.com/news/coinbase-premium-gap-falls-to-yearly-low-signalling-institutional-selling-cryptoquant</id>
-        <link href="https://jp.cointelegraph.com/news/coinbase-premium-gap-falls-to-yearly-low-signalling-institutional-selling-cryptoquant?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-02-05T08:39:26.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）のコインベース・プレミアム・ギャップが、1年以上ぶりの低水準まで落ち込んだ。]]></summary>
-        <author>
-            <name>Cointelegraph  Martin Young</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国のビットコインETF保有者、4カ月続く下落局面でも「踏みとどまっている」＝アナリスト]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-etf-flows-performance-btc-downtrend-analyst</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-etf-flows-performance-btc-downtrend-analyst?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-02-05T08:20:51.000Z</updated>
-        <summary type="html"><![CDATA[ETFアナリストのジェームズ・セイファート氏によれば、米国拠点のビットコイン上場投資信託（ETF）保有者は、4カ月続くビットコインの下落局面にもかかわらず、比較的強い確信を示している。]]></summary>
-        <author>
-            <name>Cointelegraph  Ciaran Lyons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「忍耐を試される」メタプラネット社長がBTC下落に言及]]></title>
-        <id>https://crypto-times.jp/?p=152404</id>
-        <link href="https://crypto-times.jp/news-metaplanet-president-referring-to-btc-decline/"/>
-        <updated>2026-02-05T08:11:44.000Z</updated>
-        <summary type="html"><![CDATA[記事の要点 ゲロビッチ社長が「ビットコインは信念が報われる前に忍耐を試す」と投稿 メタプラネット株は352円まで一時下落、含み損は1,000億円超 210億円調達でBTC買い増しを継続する姿勢を維持 メタプラネット（33 […]
-投稿 「忍耐を試される」メタプラネット社長がBTC下落に言及 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネット株、2ヶ月ぶりの安値水準へ]]></title>
-        <id>https://crypto-times.jp/?p=152400</id>
-        <link href="https://crypto-times.jp/news-meta-planet-shares-hit-two-month-low/"/>
-        <updated>2026-02-05T08:05:27.000Z</updated>
-        <summary type="html"><![CDATA[記事の要点 メタプラネット株は360円と8%近く下落し2ヶ月ぶりの安値水準に到達 BTC価格1,106万円に下落、BTC評価額は3,882億円に縮小 210億円の資金調達を発表した直後も売り圧力が継続 メタプラネット ( […]
-投稿 メタプラネット株、2ヶ月ぶりの安値水準へ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
 </feed>

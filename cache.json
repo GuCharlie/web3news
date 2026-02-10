@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=336518",
+          "author": "Shoko Galaviz",
+          "description": "世界最大のステーブルコイン発行企業であるTether（テザー）は、ブロックチェーン間の相互運用性を担う技術企業LayerZero Labs（レイヤーゼロ・ラボ） ...\nTether、LayerZero Labsに戦略的投資──相互運用インフラへの取り組みを強化 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/336518/",
+          "publishedOn": "2026-02-10T21:00:00.000Z",
+          "wordCount": 1408,
+          "title": "Tether、LayerZero Labsに戦略的投資──相互運用インフラへの取り組みを強化",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2674255479-2.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=336496",
           "author": "井上 俊彦",
           "description": "イーサリアム（Ethereum）レイヤー2（L2）ブロックチェーンプロジェクトのMegaETH（メガイーサ） が、2026年2月9日にメインネットを正式公開した ...\n「リアルタイムブロックチェーン」のMegaETH、メインネットを公開 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -470,26 +480,6 @@
           "wordCount": 1349,
           "title": "ビットコインが8000ドルまで下落しなければ、財務戦略に影響はない──StrategyのリーCEOが強調",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2657256683.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=336075",
-          "author": "廣瀬 優香",
-          "description": "暗号資産（仮想通貨）運用会社Bitwise（ビットワイズ）は、ユニスワップ（UNI）現物ETF（上場投資信託）の登録届出書「Form S-1」を、2月5日付でS ...\nBitwise、ユニスワップ現物ETFをSECに申請──ステーキング導入も検討 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/336075/",
-          "publishedOn": "2026-02-06T08:35:00.000Z",
-          "wordCount": 1374,
-          "title": "Bitwise、ユニスワップ現物ETFをSECに申請──ステーキング導入も検討",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2287480473.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=336086",
-          "author": "井上 俊彦",
-          "description": "ビットコイン（BTC）マイニング大手のMARA Holdings（MARAホールディングス）が大量のBTCを移動させている。暗号資産（仮想通貨）分析プラットフォ ...\nマイニング大手のMARA、8700万ドル相当のビットコインを運用会社や取引所に移動 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/336086/",
-          "publishedOn": "2026-02-06T08:30:00.000Z",
-          "wordCount": 1357,
-          "title": "マイニング大手のMARA、8700万ドル相当のビットコインを運用会社や取引所に移動",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/10/shutterstock_772693789.jpg"
         }
       ]
     },
@@ -1428,6 +1418,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-trading-growth-asset-not-digital-gold-grayscale",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "ビットコイン（BTC）が「デジタル・ゴールド」として語られてきた従来のナラティブは、最近の値動きによって試練にさらされている。安全資産というよりも、高リスクのグロース資産に近い値動きを見せている",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-trading-growth-asset-not-digital-gold-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-10T21:00:00.000Z",
+          "wordCount": 255,
+          "title": "ビットコインの「デジタル・ゴールド」神話に試練　高リスクのグロース資産に変質＝グレースケール",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTI1YzgtYjlhYS03NzU0LTkyYTEtYjYzNDBiZDU1NjNk.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTI1YzgtYjlhYS03NzU0LTkyYTEtYjYzNDBiZDU1NjNk.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/south-korea-probes-bithumb-paper-bitcoin-error",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "韓国の金融監督当局が、仮想通貨取引所ビッサムが実際には保有していない大量のビットコインをユーザー口座に誤って入金させた問題を受け、調査に乗り出した。",
+          "link": "https://jp.cointelegraph.com/news/south-korea-probes-bithumb-paper-bitcoin-error?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-10T20:08:13.000Z",
+          "wordCount": 233,
+          "title": "韓国ビッサム、保有していないビットコイン62万BTCを誤配布　金融当局が調査開始",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzQ2ZWMtNzRjMS03ZDk2LTg1NDQtNWRhMmZkZjExZGM4LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzQ2ZWMtNzRjMS03ZDk2LTg1NDQtNWRhMmZkZjExZGM4LmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/crypto-ads-super-bowl-ai-bubble",
           "author": "Cointelegraph  Aaron Wood",

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=336634",
+          "author": "XWIN Research",
+          "description": "● 現局面は弱気調整フェーズで、供給側（マイナー収益）の圧迫が進行中。● ハッシュレートは高水準を維持し、全面的な降伏段階には至っていない。● 手数料低迷が続く ...\nマイナー降伏は最終局面か、それとも構造調整か──収益悪化と供給動向の検証【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/336634/",
+          "publishedOn": "2026-02-11T22:39:23.000Z",
+          "wordCount": 1440,
+          "title": "マイナー降伏は最終局面か、それとも構造調整か──収益悪化と供給動向の検証【エックスウィンリサーチ】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/nadanews_top-46-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=336589",
           "author": "NADA NEWS編集部",
           "description": "【CoinDesk Summary】 ●リウ氏は、広範な「Web3」実験路線には否定的な立場を示し、ブロックチェーンが真価を発揮するのは、オープンでトークン化さ ...\nソラナ財団リリー・リウ氏、Consensus Hong Kong 2026で「インターネット資本市場」を提唱 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -1358,6 +1368,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-reacts-to-major-us-jobs-data-beat-as-fed-rate-pause-odds-near-95",
+          "author": "Cointelegraph  William Suberg",
+          "description": "米非農業部門雇用者数が予想外に強かったことを受けビットコインのボラティリティが急上昇したが、トレーダーは依然としてBTC価格5万ドル目標を維持している。FRBの金利判断は強気材料となるか。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-reacts-to-major-us-jobs-data-beat-as-fed-rate-pause-odds-near-95?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-11T22:55:36.000Z",
+          "wordCount": 347,
+          "title": "米雇用統計が予想を大幅に上回りビットコイン反応、FRB利上げ停止確率は95％近くに",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzRkM2YtYWZiMy03Y2M0LThmYmEtMWRhZjQ3ZGIyNTdiLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzRkM2YtYWZiMy03Y2M0LThmYmEtMWRhZjQ3ZGIyNTdiLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/blackrock-buidl-uniswap-institutional-defi-adoption",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "ブラックロックは21億ドル規模のトークン化米国債ファンドをユニスワップに導入し、機関投資家のDeFiアクセスを拡大するとともに、ウォール街のオンチェーン金融進出を一段と進める。",
+          "link": "https://jp.cointelegraph.com/news/blackrock-buidl-uniswap-institutional-defi-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-11T22:41:20.000Z",
+          "wordCount": 264,
+          "title": "ブラックロック、DeFi参入　機関投資家向けトークン取引でユニスワップ活用",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzRkM2EtNGY5Ni03ODk2LWFiNmEtYjY4ZDEwODEzMDdlLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzRkM2EtNGY5Ni03ODk2LWFiNmEtYjY4ZDEwODEzMDdlLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/price-predictions-2-11-btc-eth-bnb-xrp-sol-doge-bch-hype-ada-xmr",
           "author": "Cointelegraph  Rakesh Upadhyay",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-11T06:56:31.693Z</updated>
+    <updated>2026-02-11T07:55:07.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トークン化コモディティ市場、6週間で53％拡大　金の歴史的上昇が追い風]]></title>
+        <id>https://jp.cointelegraph.com/news/tokenized-commodities-like-gold-reach-6-billion</id>
+        <link href="https://jp.cointelegraph.com/news/tokenized-commodities-like-gold-reach-6-billion?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-11T07:32:27.000Z</updated>
+        <summary type="html"><![CDATA[トークン化コモディティ市場は6週間足らずで53％拡大し、61億ドルを超えた。金のオンチェーン移行が進むに伴い、現実世界資産（RWA）トークン化市場の中で最も成長が速い分野となっている。]]></summary>
+        <author>
+            <name>Cointelegraph  Brayden Lindrea</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロビンフッド決算、市場予想下回る　仮想通貨収益は38％減に]]></title>
         <id>https://jp.cointelegraph.com/news/robinhood-shares-dip-q4-earnings-miss-crypto-revenues-decline</id>
@@ -1886,16 +1896,6 @@ Strategy社の破綻論を検証する：オンチェーンデータが示すBTC
         <summary type="html"><![CDATA[ビットワイズのマット・ホーガン最高投資責任者は、ビットコインが最高値から54%下落した現状について6つの要因を分析し市場底打ちの可能性と回復の条件について見解を披露した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[急落後の反発は本物か？ 仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ]]></title>
-        <id>https://jp.cointelegraph.com/news/price-predictions-2-6-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-xmr</id>
-        <link href="https://jp.cointelegraph.com/news/price-predictions-2-6-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-xmr?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-02-06T19:41:20.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインとアルトコインは、今週の激しい急落の後、力強い反発を見せた。テクニカルチャートは中長期の回復を示唆しているのか。それとも、足元の反発は単なるデッドキャットバウンスに過ぎないのか。]]></summary>
-        <author>
-            <name>Cointelegraph  Rakesh Upadhyay</name>
         </author>
     </entry>
 </feed>

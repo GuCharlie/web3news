@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-11T07:55:07.544Z</updated>
+    <updated>2026-02-11T08:42:49.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン価格は3％下落、強気派は6万9000ドルを突破できず]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-price-drops-3-percent-analyst-warns-bulls-lack-momentum-69k</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-price-drops-3-percent-analyst-warns-bulls-lack-momentum-69k?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-11T08:26:28.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は水曜日、週内の新安値を更新し、6万6500ドルが焦点となった。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨の「投機の時代」は終焉か　ギャラクシーCEOが業界の成熟化を指摘]]></title>
+        <id>https://jp.cointelegraph.com/news/age-of-crypto-speculation-is-over-galaxy-novogratz</id>
+        <link href="https://jp.cointelegraph.com/news/age-of-crypto-speculation-is-over-galaxy-novogratz?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-11T07:59:58.000Z</updated>
+        <summary type="html"><![CDATA[ギャラクシーデジタルのマイク・ノボグラッツCEOによれば、個人投資家に代わって、よりリスク回避的な機関投資家が参入しているため、仮想通貨市場における桁外れのリターンは終わりに近づいている可能性がある。]]></summary>
+        <author>
+            <name>Cointelegraph  Martin Young</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トークン化コモディティ市場、6週間で53％拡大　金の歴史的上昇が追い風]]></title>
         <id>https://jp.cointelegraph.com/news/tokenized-commodities-like-gold-reach-6-billion</id>

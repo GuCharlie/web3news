@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=336795",
+          "author": "Shoko Galaviz",
+          "description": "金融テクノロジー企業のETHZilla Corporationは、航空機エンジンを裏付けとするトークン化資産「Eurus Aero Token I」を発行したと ...\nETHZilla、航空機エンジンを裏付けとするトークンを発行 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/336795/",
+          "publishedOn": "2026-02-12T22:00:00.000Z",
+          "wordCount": 1399,
+          "title": "ETHZilla、航空機エンジンを裏付けとするトークンを発行",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2619126421.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=336792",
           "author": "Shoko Galaviz",
           "description": "英国政府は、デジタル国債「Digital Gilt Instrument（DIGIT）」のパイロット発行に向け、HSBCをプラットフォーム提供者として正式に選定 ...\n英政府、デジタル国債パイロットのプラットフォーム提供者にHSBCを選定 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -604,6 +614,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=688922",
+          "author": "菊谷ルイス",
+          "description": "コインベースの2025年第4四半期決算は売上高が20%超減の18億ドルとなり、純損失6億6,700万ドルを計上。仮想通貨価格の下落が取引収益を直撃した。",
+          "link": "https://coinpost.jp/?p=688922",
+          "publishedOn": "2026-02-12T22:05:49.000Z",
+          "wordCount": 3320,
+          "title": "仮想通貨の冬が業績を直撃　コインベース、第4四半期赤字転落",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/coinbase-new-3-again-8_3.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/coinbase-new-3-again-8_3.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=688921",
+          "author": "菊谷ルイス",
+          "description": "米証券取引委員会のポール・アトキンス委員長は上院公聴会で予測市場を「重大な課題」と位置付け、CFTCとの共同規制の枠組み構築に向けて協議を進めていると陳述。",
+          "link": "https://coinpost.jp/?p=688921",
+          "publishedOn": "2026-02-12T21:40:47.000Z",
+          "wordCount": 3314,
+          "title": "「予測市場は重大な課題に」、米SEC委員長発言",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/seccftc.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/seccftc.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=688919",
           "author": "菊谷ルイス",
@@ -2014,6 +2054,51 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-may-close-week-at-68-3k-to-avoid-bearish-acceleration-analyst",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコイン（BTC）が今週末までに200週指数平滑移動平均線（EMA）を奪還できなければ、2002年の弱気相場の再来となる可能性がある。最新の分析が明らかにした。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-may-close-week-at-68-3k-to-avoid-bearish-acceleration-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-12T22:34:49.000Z",
+          "wordCount": 325,
+          "title": "ビットコイン、強気維持には週終値6万8300ドルが必須　「弱気加速」回避へアナリスト警鐘",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ3MDUtMGE4OC03NmE4LThiY2ItNmQwMDI4MTk4NmVkLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ3MDUtMGE4OC03NmE4LThiY2ItNmQwMDI4MTk4NmVkLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/miner-outflows-spike-public-miners-steady-january",
+          "author": "Cointelegraph  Ezra Reguerra",
+          "description": "オンチェーンデータによると、採掘業者のウォレットから2日間で約4万9000BTCが移動したが、公表情報からは広範な投げ売りを示す状況ではないことが示唆されている。",
+          "link": "https://jp.cointelegraph.com/news/miner-outflows-spike-public-miners-steady-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-12T22:27:02.000Z",
+          "wordCount": 283,
+          "title": "ビットコインマイナーの流出量、1月に急増も上場企業の売却は限定的",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzUxN2YtNTU1Yy03MjI5LThkYzItZWYxMjZmMDIwODA5LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzUxN2YtNTU1Yy03MjI5LThkYzItZWYxMjZmMDIwODA5LmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bankers-push-occ-slow-crypto-trust-bank-charters",
+          "author": "Cointelegraph  Christina Comben",
+          "description": "米銀行協会は、ステーブルコイン規制法の枠組みが完全に整備されるまで、暗号資産およびステーブルコイン企業への新たなナショナル信託銀行認可を遅らせるよう米通貨監督庁に求めた。",
+          "link": "https://jp.cointelegraph.com/news/bankers-push-occ-slow-crypto-trust-bank-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-12T22:11:50.000Z",
+          "wordCount": 245,
+          "title": "米銀行業界、GENIUS規則明確化まで仮想通貨信託認可の減速をOCCに要求",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMyMDctOGZhMC03ZDU1LWI2MjgtY2MxOWFjMjY5YjZmLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMyMDctOGZhMC03ZDU1LWI2MjgtY2MxOWFjMjY5YjZmLmpwZw==.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/binance-completes-1b-bitcoin-safu-conversion",
           "author": "Cointelegraph  Zoltan Vardai",
           "description": "バイナンスはユーザー保護基金の10億ドル相当をビットコインへ転換する作業を完了し、ビットコインを中核準備資産として保有する方針を確定した。",
@@ -2974,21 +3059,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2576540821.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=152472",
-          "author": "よきょい",
-          "description": "ベース（Base）はレイヤー2（L2）として初めて新規格「ERC-8004」に対応しました。この規格はAIエージェントによるトラストレスな相互作用をオンチェーンで実現するものです。 ERC-8004 enables tr […]\n投稿 Base、新規格「ERC-8004」にL2で初対応｜AI経済の自律化へ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-base-first-supports-new-standard-erc-8004-in-l2/",
-          "publishedOn": "2026-02-08T10:29:57.000Z",
-          "wordCount": 635,
-          "title": "Base、新規格「ERC-8004」にL2で初対応｜AI経済の自律化へ",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2543732567.jpg"
         }
       ]
     }

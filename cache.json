@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=336799",
+          "author": "XWIN Research",
+          "description": "● CLARITYは暗号資産市場の法的分類と監督体制を再定義する包括的枠組みである。● 審議停滞の主因は、利回り型ステーブルコインを巡る銀行業界の強い反対にある ...\nCLARITY審議の停滞とステーブルコインの実態──制度設計が左右する次の市場構造【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/336799/",
+          "publishedOn": "2026-02-12T23:07:01.000Z",
+          "wordCount": 1430,
+          "title": "CLARITY審議の停滞とステーブルコインの実態──制度設計が左右する次の市場構造【エックスウィンリサーチ】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/nadanews_top-44-2.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=336795",
           "author": "Shoko Galaviz",
           "description": "金融テクノロジー企業のETHZilla Corporationは、航空機エンジンを裏付けとするトークン化資産「Eurus Aero Token I」を発行したと ...\nETHZilla、航空機エンジンを裏付けとするトークンを発行 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -614,6 +624,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=688936",
+          "author": "K.Kobayashi",
+          "description": "トランプ大統領の一族が関与するDeFiプロジェクトのワールドリバティの共同創設者は、為替・送金向けプラットフォームのワールドスワップを近くローンチすると発表。ステーブルコインUSD1を活用する。",
+          "link": "https://coinpost.jp/?p=688936",
+          "publishedOn": "2026-02-12T22:45:39.000Z",
+          "wordCount": 3312,
+          "title": "トランプ一族関与のワールドリバティ、国際送金サービス「ワールドスワップ」をローンチへ＝コンセンサス",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/world-liberty-new-token-trump-wealthy.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/world-liberty-new-token-trump-wealthy.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=688922",
           "author": "菊谷ルイス",
@@ -2053,6 +2078,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/fiserv-settlement-digital-asset-companies",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "ファイサーブは、デジタル資産関連企業向けに24時間365日稼働の決済プラットフォームを立ち上げた。米ドルにおける銀行実務の摩擦を軽減し、流動性を向上させる狙いがある。",
+          "link": "https://jp.cointelegraph.com/news/fiserv-settlement-digital-asset-companies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-12T23:15:31.000Z",
+          "wordCount": 247,
+          "title": "ファイサーブ、仮想通貨企業向けにドルのリアルタイム決済網を構築",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzUzMmYtYTQ5ZC03NTA3LWI0ODctOGFmZmVmYzk3ZTEwLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzUzMmYtYTQ5ZC03NTA3LWI0ODctOGFmZmVmYzk3ZTEwLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/trump-wlfi-foreign-exchange-remittance",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "同プラットフォームは、1日あたりの取引高が9兆6000億ドルを超える外国為替市場のシェア獲得を目指している。",
+          "link": "https://jp.cointelegraph.com/news/trump-wlfi-foreign-exchange-remittance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-12T22:50:02.000Z",
+          "wordCount": 285,
+          "title": "トランプ家のWLFI、為替・送金プラットフォーム「ワールド・スワップ」計画を公表",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzUyYjAtN2I5ZC03Y2QyLWFmZGItMmVmYTA2NWY0OTg1LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzUyYjAtN2I5ZC03Y2QyLWFmZGItMmVmYTA2NWY0OTg1LmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-may-close-week-at-68-3k-to-avoid-bearish-acceleration-analyst",
           "author": "Cointelegraph  William Suberg",

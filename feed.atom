@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-12T22:37:45.005Z</updated>
+    <updated>2026-02-12T23:24:38.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ファイサーブ、仮想通貨企業向けにドルのリアルタイム決済網を構築]]></title>
+        <id>https://jp.cointelegraph.com/news/fiserv-settlement-digital-asset-companies</id>
+        <link href="https://jp.cointelegraph.com/news/fiserv-settlement-digital-asset-companies?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-12T23:15:31.000Z</updated>
+        <summary type="html"><![CDATA[ファイサーブは、デジタル資産関連企業向けに24時間365日稼働の決済プラットフォームを立ち上げた。米ドルにおける銀行実務の摩擦を軽減し、流動性を向上させる狙いがある。]]></summary>
+        <author>
+            <name>Cointelegraph  Sam Bourgi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLARITY審議の停滞とステーブルコインの実態──制度設計が左右する次の市場構造【エックスウィンリサーチ】]]></title>
+        <id>https://www.nadanews.com/?p=336799</id>
+        <link href="https://www.nadanews.com/336799/"/>
+        <updated>2026-02-12T23:07:01.000Z</updated>
+        <summary type="html"><![CDATA[● CLARITYは暗号資産市場の法的分類と監督体制を再定義する包括的枠組みである。● 審議停滞の主因は、利回り型ステーブルコインを巡る銀行業界の強い反対にある ...
+CLARITY審議の停滞とステーブルコインの実態──制度設計が左右する次の市場構造【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>XWIN Research</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ家のWLFI、為替・送金プラットフォーム「ワールド・スワップ」計画を公表]]></title>
+        <id>https://jp.cointelegraph.com/news/trump-wlfi-foreign-exchange-remittance</id>
+        <link href="https://jp.cointelegraph.com/news/trump-wlfi-foreign-exchange-remittance?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-12T22:50:02.000Z</updated>
+        <summary type="html"><![CDATA[同プラットフォームは、1日あたりの取引高が9兆6000億ドルを超える外国為替市場のシェア獲得を目指している。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ一族関与のワールドリバティ、国際送金サービス「ワールドスワップ」をローンチへ＝コンセンサス]]></title>
+        <id>https://coinpost.jp/?p=688936</id>
+        <link href="https://coinpost.jp/?p=688936"/>
+        <updated>2026-02-12T22:45:39.000Z</updated>
+        <summary type="html"><![CDATA[トランプ大統領の一族が関与するDeFiプロジェクトのワールドリバティの共同創設者は、為替・送金向けプラットフォームのワールドスワップを近くローンチすると発表。ステーブルコインUSD1を活用する。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、強気維持には週終値6万8300ドルが必須　「弱気加速」回避へアナリスト警鐘]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-may-close-week-at-68-3k-to-avoid-bearish-acceleration-analyst</id>

@@ -12,6 +12,36 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=336765",
+          "author": "大谷 惇途",
+          "description": "G.U. Group 株式会社が運営する国内暗号資産取引所Zaif（ザイフ）は、JOCコインの取り扱いを本日より開始した。 JOCコインは、日本発のブロックチェ ...\nZaif、JOCコインの取り扱い開始と記念キャンペーンを開催 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/336765/",
+          "publishedOn": "2026-02-12T10:39:07.000Z",
+          "wordCount": 1408,
+          "title": "Zaif、JOCコインの取り扱い開始と記念キャンペーンを開催",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/138585-32-1075725ae6096ae2d192aff1616123c5-1200x630-1.webp"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=336747",
+          "author": "井上 俊彦",
+          "description": "分散型取引所（DEX）のUniswap（ユニスワップ）とRWA（現実資産）トークン化のSecuritize（セキュリタイズ）が戦略的提携を発表し、大手資産運用会 ...\nUniswapとSecuritizeが提携、BlackRockのBUIDLがオンチェーンで取引可能に first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/336747/",
+          "publishedOn": "2026-02-12T10:30:00.000Z",
+          "wordCount": 1372,
+          "title": "UniswapとSecuritizeが提携、BlackRockのBUIDLがオンチェーンで取引可能に",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/12/shutterstock_2582120587.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=336759",
+          "author": "栃山 直樹",
+          "description": "GMOグループは12日、2025年12月期連結決算を発表した。暗号資産（仮想通貨）事業セグメントは売上高77億9600万円（前年同期比14.6％減）、営業利益1 ...\n上場準備の暗号資産取引所GMOコイン、通期売上高13%減──グループ決算 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/336759/",
+          "publishedOn": "2026-02-12T10:29:58.000Z",
+          "wordCount": 1381,
+          "title": "上場準備の暗号資産取引所GMOコイン、通期売上高13%減──グループ決算",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_1359190265.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=336685",
           "author": "廣瀬 優香",
           "description": "相互運用性プロトコルLayerZero（レイヤーゼロ）を開発するLayerZero Labs（レイヤーゼロ・ラボ）は2月10日、分散型ネットワークの長年のスケー ...\nLayerZero、グローバル金融市場向けブロックチェーン「Zero」を発表──Citadel Securitieなどと連携 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -1958,6 +1988,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/binance-completes-1b-bitcoin-safu-conversion",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "バイナンスはユーザー保護基金の10億ドル相当をビットコインへ転換する作業を完了し、ビットコインを中核準備資産として保有する方針を確定した。",
+          "link": "https://jp.cointelegraph.com/news/binance-completes-1b-bitcoin-safu-conversion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-12T10:24:30.000Z",
+          "wordCount": 270,
+          "title": "バイナンスのユーザー保護基金SAFU、10億ドル分をビットコインへ転換完了　中核準備資産に",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzQyM2ItN2NkMi03YzE3LTk2ZjEtMzIzODVhZGIxOWY0LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzQyM2ItN2NkMi03YzE3LTk2ZjEtMzIzODVhZGIxOWY0LmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/coinbase-launches-crypto-wallets-built-ai-agents",
           "author": "Cointelegraph  Brayden Lindrea",

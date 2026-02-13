@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=336957",
+          "author": "井上 俊彦",
+          "description": "オンチェーン分析企業Glassnode（グラスノード）のアナリスト、Chris Beamish（クリス・ビーミッシュ）氏らは最新のレポートで、ビットコイン（BT ...\nGlassnode、ビットコイン市場の構造的脆弱性を指摘 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/336957/",
+          "publishedOn": "2026-02-13T11:50:00.000Z",
+          "wordCount": 1349,
+          "title": "Glassnode、ビットコイン市場の構造的脆弱性を指摘",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2142704805.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=336953",
           "author": "栃山 直樹",
           "description": "SBIホールディングスは13日、シンガポールを拠点とする暗号資産（仮想通貨）取引所「Coinhako（コインハコ）」を運営するHoldbuild Pte. Lt ...\nSBI、シンガポール暗号資産取引所「Coinhako」買収へ first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -720,16 +730,6 @@
           "wordCount": 1369,
           "title": "Polymarketの親会社、「POLY」を商標出願──独自トークン発行に向けて前進か",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2706850137.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=336250",
-          "author": "NADA NEWS編集部",
-          "description": "【CoinDesk Summary】 ● ジャック・ドーシー氏が率いるBlock（Cash AppやSquareを運営）は、Bloombergによると、事業全体 ...\nジャック・ドーシー氏のBlock、最大10％の人員削減を検討：Bloomberg first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/336250/",
-          "publishedOn": "2026-02-08T23:35:15.000Z",
-          "wordCount": 1381,
-          "title": "ジャック・ドーシー氏のBlock、最大10％の人員削減を検討：Bloomberg",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/image-40.jpg"
         }
       ]
     },
@@ -3200,6 +3200,21 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=152882",
+          "author": "Crypto Times 編集部",
+          "description": "2月13日、ビットコイン（BTC）の価格は66,700前後で推移しており、イーサリアム（ETH）は約1,950ドル、ソラナ（SOL）は約80ドルで取引されています。Fear & Greed Index（恐怖・強欲 […]\n投稿 【今日の仮想通貨ニュース】BTC・株・金がトリプル安。コインベースは年初来40%下落 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-2-13-crypto-market-news/",
+          "publishedOn": "2026-02-13T11:41:48.000Z",
+          "wordCount": 631,
+          "title": "【今日の仮想通貨ニュース】BTC・株・金がトリプル安。コインベースは年初来40%下落",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2652892735.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=152872",
           "author": "Crypto Times 編集部",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-13T14:50:59.744Z</updated>
+    <updated>2026-02-13T15:38:09.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンス・フランスの幹部宅を狙った不法侵入事件　警察当局は容疑者3人を逮捕]]></title>
+        <id>https://jp.cointelegraph.com/news/binance-france-exec-home-invasion-arrests-report</id>
+        <link href="https://jp.cointelegraph.com/news/binance-france-exec-home-invasion-arrests-report?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-13T15:19:36.000Z</updated>
+        <summary type="html"><![CDATA[バイナンスのフランス法人幹部の自宅を狙った不法侵入事件で、容疑者3人が逮捕された。バイナンスはコインテレグラフに対し、同社従業員の1人が不法侵入の被害に遭ったことを認めた。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTC（ビットコイン）は米インフレ指標と信用不安をにらみ戻りの鈍い展開か【マネックス証券】]]></title>
         <id>https://www.nadanews.com/?p=336962</id>
@@ -3148,38 +3158,6 @@ Binance、ユーザー資産保護基金向けに3600BTCを購入──総保有
         <summary type="html"><![CDATA[Startale Groupが、2026年2月27日開催の次世代金融カンファレンス「MoneyX」のプラチナスポンサーに決定。ステーブルコインを軸に通貨の進化と社会実装をテーマに、産官学のリーダーが議論を展開する。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polymarketの親会社、「POLY」を商標出願──独自トークン発行に向けて前進か]]></title>
-        <id>https://www.nadanews.com/?p=336261</id>
-        <link href="https://www.nadanews.com/336261/"/>
-        <updated>2026-02-09T03:35:00.000Z</updated>
-        <summary type="html"><![CDATA[米国特許商標庁（USPTO：United States Patent and Trademark Office）の記録によると、予測市場Polymarket（ポ ...
-Polymarketの親会社、「POLY」を商標出願──独自トークン発行に向けて前進か first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ相場は全戻し、仮想通貨市場から2兆ドル消失]]></title>
-        <id>https://crypto-times.jp/?p=152547</id>
-        <link href="https://crypto-times.jp/news-2-trillion-disappears-from-the-cryptocurrency-market/"/>
-        <updated>2026-02-09T03:01:46.000Z</updated>
-        <summary type="html"><![CDATA[ドナルド・トランプ大統領の誕生への期待から始まった仮想通貨市場の熱狂が、大きな転換点を迎えています。 2024年10月に約2.4兆ドルだった仮想通貨市場の時価総額は2025年10月には一時4.379兆ドルのピークに達しま […]
-投稿 トランプ相場は全戻し、仮想通貨市場から2兆ドル消失 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アーサー・ヘイズがハイパーリキッドの高パフォーマンスに賭け]]></title>
-        <id>https://coinpost.jp/?p=687704</id>
-        <link href="https://coinpost.jp/?p=687704"/>
-        <updated>2026-02-09T02:58:10.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨アナリストのアーサー・ヘイズ氏が、ハイパーリキッド（HYPE）の2026年7月末までの高パフォーマンスを予想した。今年に入ってからHYPEを改めて購入している。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>

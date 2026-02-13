@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=336945",
+          "author": "井上 俊彦",
+          "description": "オンチェーン分析企業CryptoQuantのデータをもとにアナリストのIT Tech氏は、ビットコイン（BTC）の大規模な投げ売りが発生したと指摘している。7日 ...\nビットコイン、2021年以来最大級の投げ売り──23億ドルの損失を記録 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/336945/",
+          "publishedOn": "2026-02-13T10:30:00.000Z",
+          "wordCount": 1347,
+          "title": "ビットコイン、2021年以来最大級の投げ売り──23億ドルの損失を記録",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/02/shutterstock_2183270503.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=336924",
           "author": "井上 俊彦",
           "description": "アメリカ商品先物取引委員会（CFTC）は2月12日、デリバティブ市場や商品市場における革新的技術への対応を目的とした「イノベーション諮問委員会（Innovati ...\n米CFTC、イノベーション諮問委員に暗号資産業界幹部を多数任命 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -734,6 +744,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=689105",
+          "author": "Ritsuki.Kumazawa",
+          "description": "TORICO主催「Ethereum Shift 2026」で墨汁うまい氏と國光宏尚氏が登壇。ETHステーキング率30%や機関投資家の参入拡大を根拠に「現在は割安」との見方を示し、ビットコインとの構造的な違いや10年後のビジョンを語った。",
+          "link": "https://coinpost.jp/?p=689105",
+          "publishedOn": "2026-02-13T10:01:40.000Z",
+          "wordCount": 3358,
+          "title": "墨汁うまい氏、ETHトレジャリー企業のWin-Win構造を解説　BTCとの本質的違いを指摘｜Ethereum Shift",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/Ethereum-Shift3-1.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/Ethereum-Shift3-1.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=688105",
           "author": "CoinPost編集部",
@@ -2604,6 +2629,21 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-etf-410-million-outflows-standard-chartered-cut-target",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "米国の現物ビットコイン上場投資信託（ETF）は木曜日に売りが加速し、同日にスタンダード・チャータードが2026年のビットコイン見通しを引き下げた。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-etf-410-million-outflows-standard-chartered-cut-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-13T10:23:11.000Z",
+          "wordCount": 225,
+          "title": "米国のビットコインETF、4週連続流出の公算　スタンダード・チャータードが2026年のBTC価格予想を下方修正",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzU1ZmYtNThhYS03YmI1LWE2MWQtNWQyNWQ4MWI0N2UzLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzU1ZmYtNThhYS03YmI1LWE2MWQtNWQyNWQ4MWI0N2UzLmpwZw==.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/crypto-use-in-human-trafficking-networks-surged-in-2025-chainalysis",
           "author": "Cointelegraph  Martin Young",
           "description": "仮想通貨分析企業チェイナリシスによれば、人身売買の疑いがあるネットワークへの仮想通貨の資金流入は2025年に85％増加した。",
@@ -3202,36 +3242,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzNkMWQtM2RhZS03NTdhLTg1NDEtODU3YjZlZmIyOGJlLmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/ark-sells-22m-coinbase-adds-bullish-across-etfs",
-          "author": "Cointelegraph  Amin Haqshanas",
-          "description": "キャシー・ウッド氏率いるARKインベストは、3本のETFを通じてコインベース株13万4,472株を売却する一方、仮想通貨プラットフォームのブリッシュ株を39万3,000株超購入した。",
-          "link": "https://jp.cointelegraph.com/news/ark-sells-22m-coinbase-adds-bullish-across-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-02-08T22:25:20.000Z",
-          "wordCount": 244,
-          "title": "ARK、コインベース株2,200万ドル分を追加売却、ブリッシュ株を買い増し",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJmOTktNGFjMy03OGEzLWJlNDctYjdkYzc2OWIyMjFjLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJmOTktNGFjMy03OGEzLWJlNDctYjdkYzc2OWIyMjFjLmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/vcs-clash-non-financial-crypto",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "a16zクリプトのマネージング・パートナーであるクリス・ディクソン氏は、仮想通貨における非金融ユースケースは、規制が明確になれば成長すると述べた。",
-          "link": "https://jp.cointelegraph.com/news/vcs-clash-non-financial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-02-08T22:09:33.000Z",
-          "wordCount": 335,
-          "title": "Web3と仮想通貨における非金融ユースケースを巡りVC間で対立",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQ3NzctZjI5NC03MWQ1LTk4NWUtNWRkNmNmMjFlNDE2.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQ3NzctZjI5NC03MWQ1LTk4NWUtNWRkNmNmMjFlNDE2.jpg"
         }
       ]
     },
@@ -3240,6 +3250,51 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=152872",
+          "author": "Crypto Times 編集部",
+          "description": "米国商品先物取引委員会（CFTC）のマイク・セリグ委員長は、金融イノベーションに特化した新たな諮問機関「イノベーション諮問委員会（IAC）」のメンバー35名を発表しました。 .@CFTC Announces Innova […]\n投稿 米CFTC諮問委、コインベースやリップルなどから35名を選出 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-cftc-advisory-committee-selects-35-members-from-crypto-industry/",
+          "publishedOn": "2026-02-13T10:28:09.000Z",
+          "wordCount": 615,
+          "title": "米CFTC諮問委、コインベースやリップルなどから35名を選出",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2666379027.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=152859",
+          "author": "Crypto Times 編集部",
+          "description": "米運用大手ブラックロック（BlackRock）が展開するトークン化ファンド「BUIDL」の流動性がDeFi（分散型金融）領域へと大きく拡張されることがわかりました。 Today, we are announcing a  […]\n投稿 ブラックロックのBUIDL、UniswapXを通じて24時間365日取引可能に は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-blackrocks-buidl-enables-24-7-trading-via-uniswapx/",
+          "publishedOn": "2026-02-13T09:58:30.000Z",
+          "wordCount": 647,
+          "title": "ブラックロックのBUIDL、UniswapXを通じて24時間365日取引可能に",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2691350917.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=152855",
+          "author": "Crypto Times 編集部",
+          "description": "Pudgy PenguinsはVisaとのコラボレーションし、新たな仮想通貨カード「Pengu Card」を発表しました。カード発行はKASTが担当します。 Today, Pengu enters the world o […]\n投稿 Pudgy Penguins、Visa提携の仮想通貨カードを発表 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-pengu-card/",
+          "publishedOn": "2026-02-13T09:44:54.000Z",
+          "wordCount": 635,
+          "title": "Pudgy Penguins、Visa提携の仮想通貨カードを発表",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/04/shutterstock_2559379069.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=152849",
           "author": "Crypto Times 編集部",

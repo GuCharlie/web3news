@@ -615,6 +615,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=689404",
+          "author": "菊谷ルイス",
+          "description": "Xが仮想通貨の直接取引機能「スマート・キャッシュタグ」を導入予定。アプリ内で売買が完結するスーパーアプリ化が加速。数週間以内に開始する見通しだ。",
+          "link": "https://coinpost.jp/?p=689404",
+          "publishedOn": "2026-02-14T15:45:09.000Z",
+          "wordCount": 3292,
+          "title": "X、仮想通貨・株取引機能を実装へ──イーロンのスーパーアプリ構想加速",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/X_twitter_0822.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/X_twitter_0822.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=689344",
           "author": "菊谷ルイス",
           "description": "マスカットグループが新金融戦略「成長還元型トレジャリー関連投資」を発表。仮想通貨やWeb3領域への投資を開始し、第一弾としてKLabと業務提携。",
@@ -1738,21 +1753,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103001.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103001.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=688138",
-          "author": "幸田直子",
-          "description": "コインシェアーズが量子コンピュータのビットコイン脅威を分析するレポートを発表した。供給上限やPoWは量子でも変更不可能であると指摘し、実質的リスクは総供給量の0.05%にすぎず、実用的な量子攻撃は少なくとも10年以上先と予測している。",
-          "link": "https://coinpost.jp/?p=688138",
-          "publishedOn": "2026-02-10T05:05:53.000Z",
-          "wordCount": 3315,
-          "title": "ビットコインへの量子脅威は「数十年の猶予がある解決可能な技術課題」＝コインシェアーズ分析",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/quantum-chip-google.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/quantum-chip-google.jpeg"
         }
       ]
     },
@@ -2150,26 +2150,6 @@
           "wordCount": 731,
           "title": "イオレが約3000万円でビットコイン追加購入、総保有数は約163BTCに",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/10144805/3d1eff70dfac904e7807062cca50d70f.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=545995",
-          "author": "OtsugaShinya",
-          "description": "バックパックがユニコーン企業の仲間入りか 海外暗号資産（仮想通貨）取引所などを展開するバックパック（Backpack）が、企業評価額10億ドルで新たな資金調達の条件を交渉中であると、「アクシオス（Axios）」が2月10 […]",
-          "link": "https://www.neweconomy.jp/posts/545995",
-          "publishedOn": "2026-02-10T05:02:48.000Z",
-          "wordCount": 737,
-          "title": "バックパックが評価額10億ドルでユニコーン入りか、50Mドル調達で＝報道",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/10140055/780091e09acf5e21bc6f76b21ff87a10.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=545990",
-          "author": "HitomotoToshikazu",
-          "description": "Robinhood CryptoでSKRとZRO追加 米ロビンフッドマーケッツ（Robinhood Markets）提供の「ロビンフッドクリプト（Robinhood Crypto）」アプリにおいて、米国ユーザー向けに暗号 […]",
-          "link": "https://www.neweconomy.jp/posts/545990",
-          "publishedOn": "2026-02-10T04:55:30.000Z",
-          "wordCount": 761,
-          "title": "ロビンフッドクリプト、「シーカー（SKR）」と「レイヤーゼロ（ZRO）」取扱開始",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/10135455/4af42e37c682265a05d576f9d90cbf04.jpg"
         }
       ]
     },
@@ -2178,6 +2158,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/trump-media-files-crypto-etfs-bitcoin-ether-cronos-sec",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "米国のトランプ大統領のメディア複合企業トランプ・メディア・アンド・テクノロジー・グループは、米証券取引委員会（SEC）に主要な仮想通貨に連動する新たな上場投資信託（ETF）2本を申請した。",
+          "link": "https://jp.cointelegraph.com/news/trump-media-files-crypto-etfs-bitcoin-ether-cronos-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-14T17:05:26.000Z",
+          "wordCount": 245,
+          "title": "トランプ・メディアが2つの仮想通貨ETFを申請　ビットコイン、イーサリアム、クロノスと連動",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzVhZjUtODc3Mi03NDFjLTg1ZDEtY2RhYzUzNjlhNGZjLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzVhZjUtODc3Mi03NDFjLTg1ZDEtY2RhYzUzNjlhNGZjLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/price-predictions-2-13-btc-eth-bnb-xrp-sol-doge-bch-hype-ada-xmr",
           "author": "Cointelegraph  Rakesh Upadhyay",

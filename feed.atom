@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-14T20:49:05.246Z</updated>
+    <updated>2026-02-14T21:20:07.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ミームコイン時代の終焉」は逆張りシグナルか　サンティメントが反転の可能性を指摘]]></title>
+        <id>https://jp.cointelegraph.com/news/memecoin-season-crypto-social-media-sentiment-low-santiment</id>
+        <link href="https://jp.cointelegraph.com/news/memecoin-season-crypto-social-media-sentiment-low-santiment?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-14T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨センチメント分析プラットフォームのサンティメントによれば、仮想通貨市場が不安定な値動きを続ける中でも、ミームコインの反転はトレーダーの想定より早く訪れる可能性がある。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ARKインベスト、コインベース株を再取得　約1520万ドル相当を購入]]></title>
         <id>https://jp.cointelegraph.com/news/ark-invest-buys-coinbase-15m-after-selling</id>
@@ -2553,27 +2563,6 @@ Tether、LayerZero Labsに戦略的投資──相互運用インフラへの取
 暗号資産取引所Backpack、 IPOに向けて成長連動型のロック解除トークンを採用 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインシェアーズ、量子計算によるビットコイン脅威論を整理。実用リスクは限定的と分析]]></title>
-        <id>https://www.neweconomy.jp/?p=546159</id>
-        <link href="https://www.neweconomy.jp/posts/546159"/>
-        <updated>2026-02-10T09:15:30.000Z</updated>
-        <summary type="html"><![CDATA[量子リスクは「予見可能で管理可能」 暗号資産（仮想通貨）運用大手のコインシェアーズ（CoinShares）が、量子コンピュータが将来的にビットコインの暗号基盤へ与える影響について分析したレポートを2月6日に公開した。レポ […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインマイナーCango、AI事業への転換のため4451BTCを売却]]></title>
-        <id>https://www.nadanews.com/?p=336458</id>
-        <link href="https://www.nadanews.com/336458/"/>
-        <updated>2026-02-10T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインマイニング企業Cango（カンゴ）は、取締役会の承認を得て、先週末に公開市場で4451BTCを売却し、USDT建てで約3億500万ドル（約472億7 ...
-ビットコインマイナーCango、AI事業への転換のため4451BTCを売却 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
         </author>
     </entry>
 </feed>

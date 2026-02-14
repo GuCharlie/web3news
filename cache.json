@@ -1723,21 +1723,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/Screenshot-2026-02-10-at-15.25.49.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/Screenshot-2026-02-10-at-15.25.49.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=688165",
-          "author": "Enzo",
-          "description": "BitMEX Researchが量子フリーズで凍結されたビットコインの回収方法を提案。コミットメント法やゼロ知識証明など複数の手法を解説し、理論上はほぼ全ての凍結コインが回収可能と説明している。",
-          "link": "https://coinpost.jp/?p=688165",
-          "publishedOn": "2026-02-10T06:08:19.000Z",
-          "wordCount": 3327,
-          "title": "量子対策で凍結されるビットコイン、回収可能に　BitMEX Researchが提案",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/quantum-threat-2026-jefferey.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/quantum-threat-2026-jefferey.jpg"
         }
       ]
     },
@@ -2133,6 +2118,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/ark-invest-buys-coinbase-15m-after-selling",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "キャシー・ウッド氏率いるARKインベストは、保有比率を縮小していたコインベース・グローバル株の買い戻しに転じ、運用する複数の上場投資信託（ETF）を通じて約1500万ドル相当を取得した。",
+          "link": "https://jp.cointelegraph.com/news/ark-invest-buys-coinbase-15m-after-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-14T17:51:09.000Z",
+          "wordCount": 233,
+          "title": "ARKインベスト、コインベース株を再取得　約1520万ドル相当を購入",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzViOWYtYzgyNy03MTg1LWFjMDctMmFkOGYzZTk4MjdmLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzViOWYtYzgyNy03MTg1LWFjMDctMmFkOGYzZTk4MjdmLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/trump-media-files-crypto-etfs-bitcoin-ether-cronos-sec",
           "author": "Cointelegraph  Amin Haqshanas",

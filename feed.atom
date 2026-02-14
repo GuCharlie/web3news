@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-14T17:49:41.157Z</updated>
+    <updated>2026-02-14T18:29:02.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ARKインベスト、コインベース株を再取得　約1520万ドル相当を購入]]></title>
+        <id>https://jp.cointelegraph.com/news/ark-invest-buys-coinbase-15m-after-selling</id>
+        <link href="https://jp.cointelegraph.com/news/ark-invest-buys-coinbase-15m-after-selling?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-14T17:51:09.000Z</updated>
+        <summary type="html"><![CDATA[キャシー・ウッド氏率いるARKインベストは、保有比率を縮小していたコインベース・グローバル株の買い戻しに転じ、運用する複数の上場投資信託（ETF）を通じて約1500万ドル相当を取得した。]]></summary>
+        <author>
+            <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ・メディアが2つの仮想通貨ETFを申請　ビットコイン、イーサリアム、クロノスと連動]]></title>
         <id>https://jp.cointelegraph.com/news/trump-media-files-crypto-etfs-bitcoin-ether-cronos-sec</id>
@@ -2690,16 +2700,6 @@ CME Group、Google Cloudと提携し「トークン化現金」発行へ──24
         <summary type="html"><![CDATA[メガイーサ、エコシステム用フロントエンドを公開 イーサリアム（Ethereum）レイヤー2ブロックチェーン「メガイーサ（MegaETH）」が、パブリックメインネットを公開した。メガイーサ公式Xより2月10日に発表された。 […]]]></summary>
         <author>
             <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[量子対策で凍結されるビットコイン、回収可能に　BitMEX Researchが提案]]></title>
-        <id>https://coinpost.jp/?p=688165</id>
-        <link href="https://coinpost.jp/?p=688165"/>
-        <updated>2026-02-10T06:08:19.000Z</updated>
-        <summary type="html"><![CDATA[BitMEX Researchが量子フリーズで凍結されたビットコインの回収方法を提案。コミットメント法やゼロ知識証明など複数の手法を解説し、理論上はほぼ全ての凍結コインが回収可能と説明している。]]></summary>
-        <author>
-            <name>Enzo</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=337017",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● ビットコインのデリバティブ市場における過度なレバレッジが、機関投資家のポートフォリオにおける安定的ヘッジ資産としてのビ ...\nビットコインのナラティブ、レバレッジ主導のボラティリティが脅かす：BlackRockデジタル資産責任者 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/337017/",
+          "publishedOn": "2026-02-15T22:27:22.000Z",
+          "wordCount": 1387,
+          "title": "ビットコインのナラティブ、レバレッジ主導のボラティリティが脅かす：BlackRockデジタル資産責任者",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/nadanews_top-53-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=337011",
           "author": "NADA NEWS編集部",
           "description": "【CoinDesk Summary】 ●ウォール街の巨人アポロ、Morphoトークン取引で暗号資産戦略を強化 ● 米オルタナティブ資産運用大手のApollo G ...\n米オルタナティブ資産運用大手Apollo、Morphoとのトークン取引でクリプト戦略を強化 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -1873,6 +1883,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/prediction-markets-hedging-buterin",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "予測市場は短期的賭けから脱却し、消費者の価格安定手段へ転換すべきだとブテリン氏は主張した。",
+          "link": "https://jp.cointelegraph.com/news/prediction-markets-hedging-buterin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-15T22:36:18.000Z",
+          "wordCount": 222,
+          "title": "予測市場はヘッジ基盤になるべき、ブテリン氏が指摘",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmU5ZDEtZjAyNy03NzRkLWI1ZGEtYTAxNDY0NmU0ZjFlLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmU5ZDEtZjAyNy03NzRkLWI1ZGEtYTAxNDY0NmU0ZjFlLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/michael-saylor-signals-strategy-buy-bitcoin",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "今回の購入が実行されれば、ストラテジーによる連続買いは12週目となる。同社株価が急落する中でもBTCの積み増しを継続している。",
+          "link": "https://jp.cointelegraph.com/news/michael-saylor-signals-strategy-buy-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-15T22:20:44.000Z",
+          "wordCount": 298,
+          "title": "マイケル・セイラー氏、市場急落の中でビットコイン追加購入を示唆",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZmOTctOTNhYS03YTA1LTg1NGQtZjVmNmVmNTQ5OGNm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZmOTctOTNhYS03YTA1LTg1NGQtZjVmNmVmNTQ5OGNm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/cz-privacy-holding-back-crypto-payments",
           "author": "Cointelegraph  Vince Quill",

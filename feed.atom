@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-15T22:19:30.700Z</updated>
+    <updated>2026-02-15T22:50:28.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[予測市場はヘッジ基盤になるべき、ブテリン氏が指摘]]></title>
+        <id>https://jp.cointelegraph.com/news/prediction-markets-hedging-buterin</id>
+        <link href="https://jp.cointelegraph.com/news/prediction-markets-hedging-buterin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-15T22:36:18.000Z</updated>
+        <summary type="html"><![CDATA[予測市場は短期的賭けから脱却し、消費者の価格安定手段へ転換すべきだとブテリン氏は主張した。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインのナラティブ、レバレッジ主導のボラティリティが脅かす：BlackRockデジタル資産責任者]]></title>
+        <id>https://www.nadanews.com/?p=337017</id>
+        <link href="https://www.nadanews.com/337017/"/>
+        <updated>2026-02-15T22:27:22.000Z</updated>
+        <summary type="html"><![CDATA[【CoinDesk Summary】 ● ビットコインのデリバティブ市場における過度なレバレッジが、機関投資家のポートフォリオにおける安定的ヘッジ資産としてのビ ...
+ビットコインのナラティブ、レバレッジ主導のボラティリティが脅かす：BlackRockデジタル資産責任者 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>NADA NEWS編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイケル・セイラー氏、市場急落の中でビットコイン追加購入を示唆]]></title>
+        <id>https://jp.cointelegraph.com/news/michael-saylor-signals-strategy-buy-bitcoin</id>
+        <link href="https://jp.cointelegraph.com/news/michael-saylor-signals-strategy-buy-bitcoin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-15T22:20:44.000Z</updated>
+        <summary type="html"><![CDATA[今回の購入が実行されれば、ストラテジーによる連続買いは12週目となる。同社株価が急落する中でもBTCの積み増しを継続している。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CZ、オンチェーンのプライバシー欠如が仮想通貨決済の障壁になっていると指摘]]></title>
         <id>https://jp.cointelegraph.com/news/cz-privacy-holding-back-crypto-payments</id>

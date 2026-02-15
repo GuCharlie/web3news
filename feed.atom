@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-15T22:50:28.113Z</updated>
+    <updated>2026-02-15T23:23:09.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブラックロック幹部、ビットコインのレバレッジ取引がもたらすボラティリティに警鐘]]></title>
+        <id>https://coinpost.jp/?p=689425</id>
+        <link href="https://coinpost.jp/?p=689425"/>
+        <updated>2026-02-15T23:21:01.000Z</updated>
+        <summary type="html"><![CDATA[ブラックロックのデジタル資産責任者が、仮想通貨市場の過度なレバレッジ取引がビットコインの機関投資家向け魅力を損なっていると警告。永続先物プラットフォームでの清算がボラティリティを生む一方、同社のビットコインETFは混乱時も償還率0.2%にとどまり、安定性を示した。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【分析】トランプ氏関連の仮想通貨WLFI、市場急落の「先行指標」か]]></title>
+        <id>https://jp.cointelegraph.com/news/wlfi-early-warning-signal-crypto-amberdata-study</id>
+        <link href="https://jp.cointelegraph.com/news/wlfi-early-warning-signal-crypto-amberdata-study?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-15T22:58:58.000Z</updated>
+        <summary type="html"><![CDATA[トランプ家に関連する「WLFI」が、69億ドルの強制清算が発生する5時間以上前から下落していたことが判明した。市場のストレスを早期に察知するシグナルとしての役割に注目が集まっている。]]></summary>
+        <author>
+            <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[機関投資家が量子問題でビットコイン開発者を解任する可能性＝VC]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-quantum-computing-risk-institutions-developers</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-quantum-computing-risk-institutions-developers?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-15T22:49:53.000Z</updated>
+        <summary type="html"><![CDATA[ベンチャーキャピタリストのニック・カーター氏によれば、ビットコイン開発者は量子リスクに迅速に対処しなければ、企業による乗っ取りが成功する恐れがある。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[予測市場はヘッジ基盤になるべき、ブテリン氏が指摘]]></title>
         <id>https://jp.cointelegraph.com/news/prediction-markets-hedging-buterin</id>

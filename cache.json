@@ -535,6 +535,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=689425",
+          "author": "Enzo",
+          "description": "ブラックロックのデジタル資産責任者が、仮想通貨市場の過度なレバレッジ取引がビットコインの機関投資家向け魅力を損なっていると警告。永続先物プラットフォームでの清算がボラティリティを生む一方、同社のビットコインETFは混乱時も償還率0.2%にとどまり、安定性を示した。",
+          "link": "https://coinpost.jp/?p=689425",
+          "publishedOn": "2026-02-15T23:21:01.000Z",
+          "wordCount": 3372,
+          "title": "ブラックロック幹部、ビットコインのレバレッジ取引がもたらすボラティリティに警鐘",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/BlackRock-Logo.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/BlackRock-Logo.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=689158",
           "author": "S.Ninomiya",
           "description": "bitbankアナリスト長谷川氏の週次レポート。ビットコインは1010万円周辺で軟調推移、米雇用統計後も上値の重い展開。週足RSIが4年ぶりに30割れでセリクラ感あるもハイテク株安や米債利回り上昇が圧迫。13日発表の米CPIが持ち直しの切っ掛けとして期待、6万ドルでは買い戻し入りやすいと分析。",
@@ -1883,6 +1898,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/wlfi-early-warning-signal-crypto-amberdata-study",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "トランプ家に関連する「WLFI」が、69億ドルの強制清算が発生する5時間以上前から下落していたことが判明した。市場のストレスを早期に察知するシグナルとしての役割に注目が集まっている。",
+          "link": "https://jp.cointelegraph.com/news/wlfi-early-warning-signal-crypto-amberdata-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-15T22:58:58.000Z",
+          "wordCount": 238,
+          "title": "【分析】トランプ氏関連の仮想通貨WLFI、市場急落の「先行指標」か",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmRiMTctYzBiMC03ZmJlLTgwNWUtYThhODhhZDJjYjRjLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmRiMTctYzBiMC03ZmJlLTgwNWUtYThhODhhZDJjYjRjLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-quantum-computing-risk-institutions-developers",
+          "author": "Cointelegraph  Ciaran Lyons",
+          "description": "ベンチャーキャピタリストのニック・カーター氏によれば、ビットコイン開発者は量子リスクに迅速に対処しなければ、企業による乗っ取りが成功する恐れがある。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-quantum-computing-risk-institutions-developers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-15T22:49:53.000Z",
+          "wordCount": 274,
+          "title": "機関投資家が量子問題でビットコイン開発者を解任する可能性＝VC",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ2YTctM2QzOS03Y2FhLTljMDQtYmZhNDM2MDBiMGIyLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ2YTctM2QzOS03Y2FhLTljMDQtYmZhNDM2MDBiMGIyLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/prediction-markets-hedging-buterin",
           "author": "Cointelegraph  Vince Quill",

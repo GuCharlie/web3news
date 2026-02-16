@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=337113",
+          "author": "Shoko Galaviz",
+          "description": "ハーバード大学の約569億ドル（約8兆8200億円、1ドル＝155円換算）規模の大学基金を運用するHarvard Management Company（ハーバー ...\nハーバード大基金、保有ビットコインETFを約21％削減──イーサリアムに初の投資 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/337113/",
+          "publishedOn": "2026-02-16T21:45:00.000Z",
+          "wordCount": 1357,
+          "title": "ハーバード大基金、保有ビットコインETFを約21％削減──イーサリアムに初の投資",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2440907939.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=337106",
           "author": "増田隆幸",
           "description": "世界最大級のイーサリアム（ETH）トレジャリー企業BitMine（ビットマイン）を率いるThomas Lee（トーマス・リー）氏が来日、2月25日に「来日特別セ ...\n世界最大級のETHトレジャリー企業を率いるThomas Lee氏が緊急来日：JBWが特別セッション開催 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -460,16 +470,6 @@
           "wordCount": 1381,
           "title": "上場準備の暗号資産取引所GMOコイン、通期売上高13%減──グループ決算",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_1359190265.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=336685",
-          "author": "廣瀬 優香",
-          "description": "相互運用性プロトコルLayerZero（レイヤーゼロ）を開発するLayerZero Labs（レイヤーゼロ・ラボ）は2月10日、分散型ネットワークの長年のスケー ...\nLayerZero、グローバル金融市場向けブロックチェーン「Zero」を発表──Citadel Securitieなどと連携 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/336685/",
-          "publishedOn": "2026-02-12T09:35:00.000Z",
-          "wordCount": 1388,
-          "title": "LayerZero、グローバル金融市場向けブロックチェーン「Zero」を発表──Citadel Securitieなどと連携",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_1281106126.jpg"
         }
       ]
     },
@@ -484,6 +484,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=689578",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨融資プラットフォームのネクソが米国市場への正式復帰を発表。Bakktとの提携により規制準拠の枠組みを構築し、利回り商品や仮想通貨担保融資などの包括的サービスを再開。",
+          "link": "https://coinpost.jp/?p=689578",
+          "publishedOn": "2026-02-16T21:30:36.000Z",
+          "wordCount": 3281,
+          "title": "仮想通貨融資のネクソ、Bakktと提携し米国市場に正式復帰",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/nexo-1-scaled.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/nexo-1-scaled.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=689580",
+          "author": "菊谷ルイス",
+          "description": "米民主党議員がトランプ一族関連仮想通貨「WLF」へのUAE資本49%注入を巡り財務省へ調査要請。G42幹部の取締役就任で国家安全保障上のリスクが浮上した。",
+          "link": "https://coinpost.jp/?p=689580",
+          "publishedOn": "2026-02-16T21:10:42.000Z",
+          "wordCount": 3288,
+          "title": "米議員、WLFIへのUAE出資を「安保上のリスク」として調査要請",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/trump-new-2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/trump-new-2.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=689581",
           "author": "菊谷ルイス",
@@ -1308,21 +1338,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/Ethereum-Shift3-1.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/Ethereum-Shift3-1.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=688717",
-          "author": "Ritsuki.Kumazawa",
-          "description": "TORICO主催「Ethereum Shift 2026」でStartale渡辺創太氏と國光宏尚氏が登壇。米国のオンチェーン化の現状やイーサリアムの競争優位性、日本市場の課題とトレジャリー企業の可能性について議論した。",
-          "link": "https://coinpost.jp/?p=688717",
-          "publishedOn": "2026-02-12T09:36:04.000Z",
-          "wordCount": 3344,
-          "title": "「大事なのはあらゆる資産のオンチェーン化」Startale渡辺創太CEOが語る、米国の金融市場変革と日本の課題｜Ethereum Shift",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/Ethereum-Shift2.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/Ethereum-Shift2.png"
         }
       ]
     },

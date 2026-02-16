@@ -485,6 +485,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=689579",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨市場構造法案の命運を握る「2月末期限」。ステーブルコインの利回り規制を巡り、トランプのホワイトハウスが業界と銀行に最終合意を要求。",
+          "link": "https://coinpost.jp/?p=689579",
+          "publishedOn": "2026-02-16T21:55:40.000Z",
+          "wordCount": 3278,
+          "title": "2月末が分水嶺に、審議膠着の米仮想通貨市場構造法案の焦点は？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/whitehouse_usa1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/whitehouse_usa1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=689578",
           "author": "菊谷ルイス",
           "description": "仮想通貨融資プラットフォームのネクソが米国市場への正式復帰を発表。Bakktとの提携により規制準拠の枠組みを構築し、利回り商品や仮想通貨担保融資などの包括的サービスを再開。",
@@ -1323,21 +1338,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/Slide-16_9-44.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/Slide-16_9-44.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=688727",
-          "author": "CoinPost編集部",
-          "description": "堀江貴文（ホリエモン）が仮想通貨イーサリアムの魅力を1960年代のRSA暗号から解説。「法治国家で契約書が全て。イーサリアムで社会の仕組みすべてをデジタル実装できる」と評価。2014年クラウドセールで400ETH購入し、日本人で最も早期からの投資家の一人。ステーブルコインをキラーアプリと指摘し、TORICOファンドに出資する。",
-          "link": "https://coinpost.jp/?p=688727",
-          "publishedOn": "2026-02-12T10:19:27.000Z",
-          "wordCount": 3340,
-          "title": "堀江貴文「イーサリアムで社会の仕組み全てを実装できる」1960年代の暗号技術から魅力解説、黎明期に400ETH投資｜Ethereum Shift",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/Ethereum-Shift3-1.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/Ethereum-Shift3-1.jpeg"
         }
       ]
     },
@@ -1653,6 +1653,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/germany-central-bank-president-stablecoins",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "ヨアヒム・ナーゲル氏は、ユーロ連動ステーブルコインが、GENIUS法により近く認められるドル連動型コインからの独立性をEUにもたらすと述べた。",
+          "link": "https://jp.cointelegraph.com/news/germany-central-bank-president-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-16T22:15:30.000Z",
+          "wordCount": 199,
+          "title": "ドイツ中銀総裁、EUにおけるステーブルコインとCBDCの利点を強調",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY4MjgtYjIwZS03YmFhLWJjZTctNzc1NTQ4MTM4NDU3LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY4MjgtYjIwZS03YmFhLWJjZTctNzc1NTQ4MTM4NDU3LmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-etf-4-week-outflows-173-million-btc-below-70k",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "ビットコインとイーサが下落する中、先週の仮想通貨ファンドは1億7300万ドルの資金流出を記録した一方、XRPとソラナは世界市場で逆行高となった。",
+          "link": "https://jp.cointelegraph.com/news/crypto-etf-4-week-outflows-173-million-btc-below-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-16T22:10:43.000Z",
+          "wordCount": 292,
+          "title": "仮想通貨ファンド、4週連続で資金流出　BTCが7万ドル割れで1億7300万ドル流出",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY1YzYtNDliOS03MWY5LWFmNjMtNGZkYTc1YTkxMjExLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY1YzYtNDliOS03MWY5LWFmNjMtNGZkYTc1YTkxMjExLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/wlfi-early-warning-signal-crypto-amberdata-study",
           "author": "Cointelegraph  Amin Haqshanas",

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=337072",
+          "author": "井上 俊彦",
+          "description": "香港を拠点とするWeb3投資企業Animoca Brands（アニモカブランズ）は2月16日、ドバイの仮想資産規制庁（VARA）より暗号資産（仮想通貨）サービス ...\nAnimoca Brands、ドバイVARAからVASPライセンスを取得 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/337072/",
+          "publishedOn": "2026-02-16T08:25:00.000Z",
+          "wordCount": 1358,
+          "title": "Animoca Brands、ドバイVARAからVASPライセンスを取得",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/694b47ff8f3088ab92888a5c_standard-logo.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=337057",
           "author": "増田 隆幸",
           "description": "3月1〜2日に東京・渋谷で開催される「BGIN（Blockchain Governance Initiative Network）Block 14」は、ブロック ...\n暗号資産の類型区分、責任準備金、セキュリティ対策…金商法移行に向け、多様な課題を「国際標準」の観点から議論──3月、東京・渋谷で開催「BGIN Block 14」が持つ重要な意味とは first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -1718,21 +1728,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/03/blackrock-fund-buying-etf.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/03/blackrock-fund-buying-etf.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=688450",
-          "author": "菊谷ルイス",
-          "description": "米ホワイトハウスで仮想通貨業界と銀行業界がステーブルコイン利回りをめぐる2回目の協議を実施した。銀行側は厳格な禁止原則を提示し、仮想通貨側が強く反発する展開となったが、双方は協議を生産的と評価。",
-          "link": "https://coinpost.jp/?p=688450",
-          "publishedOn": "2026-02-11T20:40:44.000Z",
-          "wordCount": 3312,
-          "title": "銀行側が初めて例外措置に言及、米ステーブルコイン利回り協議で",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/whitehouse1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/whitehouse1.png"
         }
       ]
     },
@@ -1741,6 +1736,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=547557",
+          "author": "HitomotoToshikazu",
+          "description": "Truth Social Fundsが暗号資産ETF申請 トゥルース・ソーシャル・ファンズ（Truth Social Funds）が、暗号資産（仮想通貨）関連ETF（上場投資信託）2本の登録届出書「フォームN-1A（Fo […]",
+          "link": "https://www.neweconomy.jp/posts/547557",
+          "publishedOn": "2026-02-16T08:47:27.000Z",
+          "wordCount": 780,
+          "title": "TMTGのETFブランド、クロノスのETFとビットコイン・イーサリアムのETF2本をSECに申請",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/16174710/581514114e9f4601a72400e20ec5be8c.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=547518",
           "author": "HitomotoToshikazu",
@@ -2695,6 +2700,36 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=153018",
+          "author": "よきょい",
+          "description": "米国の人気インフルエンサーであるローガン・ポール（Logan Paul）氏が保有する希少なポケモンカード「ピカチュウ・イラストレーター」が約1650万ドル（約25億円）で落札されました。 このカードはポール氏が過去に約5 […]\n投稿 25億円のポケモンカード誕生、ポリマーケットでも予測加熱 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-the-birth-of-a-2-5-billion-yen-pokemon-card/",
+          "publishedOn": "2026-02-16T08:27:26.000Z",
+          "wordCount": 587,
+          "title": "25億円のポケモンカード誕生、ポリマーケットでも予測加熱",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2709797563.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=153019",
+          "author": "よきょい",
+          "description": "OpenAIのサム・アルトマン最高経営責任者は、オープンソースのボットであるOpenClawの創設者ピーター・スタインバーガー（Peter Steinberger）氏が同社に加わると発表しました。 Peter Stein […]\n投稿 OpenAI、OpenClaw創設者を採用｜秘密鍵盗難の警告も は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-openai-hires-openclaw-founder/",
+          "publishedOn": "2026-02-16T08:16:18.000Z",
+          "wordCount": 642,
+          "title": "OpenAI、OpenClaw創設者を採用｜秘密鍵盗難の警告も",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2734032131.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=153005",
           "author": "Crypto Times 編集部",

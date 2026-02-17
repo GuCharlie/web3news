@@ -510,7 +510,7 @@
       "articles": []
     },
     {
-      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "コインチェックが業務改善計画を提出/記者会見の内容まとめ",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -1563,21 +1563,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/07/binance20200709_1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/07/binance20200709_1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=688920",
-          "author": "菊谷ルイス",
-          "description": "スタンダードチャータードのアナリストが仮想通貨市場の短期見通しを再び下方修正し、ビットコインが一時5万ドル、イーサリアムが1400ドルまで下落する可能性を示した上で、年末には回復すると予測。",
-          "link": "https://coinpost.jp/?p=688920",
-          "publishedOn": "2026-02-12T20:30:45.000Z",
-          "wordCount": 3406,
-          "title": "ビットコイン、一時5万ドルまで下落の可能性　スタンダードチャータードが短期見通しを引き下げ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/07/shutterstock_187738385-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/07/shutterstock_187738385-1.jpg"
         }
       ]
     },
@@ -1586,6 +1571,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=547997",
+          "author": "HitomotoToshikazu",
+          "description": "Animoca BrandsがドバイでVASP取得 香港拠点でブロックチェーンゲーム開発や投資を行うアニモカブランズ（Animoca Brands）が、UAE（アラブ首長国連邦）ドバイでのVASP（仮想資産サービスプロバ […]",
+          "link": "https://www.neweconomy.jp/posts/547997",
+          "publishedOn": "2026-02-17T07:55:36.000Z",
+          "wordCount": 730,
+          "title": "アニモカブランズ、ドバイで機関投資家向け暗号資産サービス提供のライセンス取得",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/17165433/0a7edb2359623de85cf101a543daac25.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=547979",
+          "author": "NewEconomy",
+          "description": "予測市場の短期的収益モデルへの偏りに警鐘 イーサリアム（Ethereum）共同創設者のヴィタリック・ブテリン（Vitalik Buterin）氏が、現在の予測市場（prediction markets）の在り方について懸 […]",
+          "link": "https://www.neweconomy.jp/posts/547979",
+          "publishedOn": "2026-02-17T07:51:42.000Z",
+          "wordCount": 672,
+          "title": "ヴィタリック、予測市場の投機偏重を問題視。「ヘッジ」中心の設計を提起",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/17165130/59633af216349753439fc829f1ff0011.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=547963",
           "author": "HitomotoToshikazu",
@@ -1983,6 +1988,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/polygon-flips-ethereum-in-daily-transaction-fees",
+          "author": "Cointelegraph  Brian Quarmby",
+          "description": "ポリゴンが過去3日間、日次取引手数料でイーサリアムを上回った。アナリストは、予測市場ポリマーケットにおける活発なユーザー活動が背景にあると指摘している。",
+          "link": "https://jp.cointelegraph.com/news/polygon-flips-ethereum-in-daily-transaction-fees?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-17T08:26:15.000Z",
+          "wordCount": 250,
+          "title": "ポリゴン、3日連続でイーサリアム上回る取引手数料　予測市場ポリマーケットの活況が牽引",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzZhMDctNmJhMi03MzI4LWEyZWUtYmUxNzU0MDY4OTAwLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzZhMDctNmJhMi03MzI4LWEyZWUtYmUxNzU0MDY4OTAwLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bvnk-survey-finds-growing-use-of-stablecoins-for-income-and-everyday-payments",
+          "author": "Cointelegraph  Nate Kostar",
+          "description": "BVNKが委託し、YouGovが実施した世界的な調査によると、15カ国の仮想通貨ユーザーおよび将来的な利用予定者のうち39％がステーブルコインで収入を受け取っており、27％が日常的な支払いに利用していることが分かった。主",
+          "link": "https://jp.cointelegraph.com/news/bvnk-survey-finds-growing-use-of-stablecoins-for-income-and-everyday-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-17T08:06:19.000Z",
+          "wordCount": 210,
+          "title": "仮想通貨ユーザーの27％　日常の決済でステーブルコイン利用＝BVNK調査",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU1ZjUtMmU3Ni03ZTlmLTg0MWItNjVlMWJlNmE3ZjRm.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU1ZjUtMmU3Ni03ZTlmLTg0MWItNjVlMWJlNmE3ZjRm.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/dalio-collapse-world-order-permissionless-money",
           "author": "Cointelegraph  Christina Comben",

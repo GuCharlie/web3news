@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-17T07:48:17.533Z</updated>
+    <updated>2026-02-17T08:39:44.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ポリゴン、3日連続でイーサリアム上回る取引手数料　予測市場ポリマーケットの活況が牽引]]></title>
+        <id>https://jp.cointelegraph.com/news/polygon-flips-ethereum-in-daily-transaction-fees</id>
+        <link href="https://jp.cointelegraph.com/news/polygon-flips-ethereum-in-daily-transaction-fees?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-17T08:26:15.000Z</updated>
+        <summary type="html"><![CDATA[ポリゴンが過去3日間、日次取引手数料でイーサリアムを上回った。アナリストは、予測市場ポリマーケットにおける活発なユーザー活動が背景にあると指摘している。]]></summary>
+        <author>
+            <name>Cointelegraph  Brian Quarmby</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨ユーザーの27％　日常の決済でステーブルコイン利用＝BVNK調査]]></title>
+        <id>https://jp.cointelegraph.com/news/bvnk-survey-finds-growing-use-of-stablecoins-for-income-and-everyday-payments</id>
+        <link href="https://jp.cointelegraph.com/news/bvnk-survey-finds-growing-use-of-stablecoins-for-income-and-everyday-payments?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-17T08:06:19.000Z</updated>
+        <summary type="html"><![CDATA[BVNKが委託し、YouGovが実施した世界的な調査によると、15カ国の仮想通貨ユーザーおよび将来的な利用予定者のうち39％がステーブルコインで収入を受け取っており、27％が日常的な支払いに利用していることが分かった。主]]></summary>
+        <author>
+            <name>Cointelegraph  Nate Kostar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アニモカブランズ、ドバイで機関投資家向け暗号資産サービス提供のライセンス取得]]></title>
+        <id>https://www.neweconomy.jp/?p=547997</id>
+        <link href="https://www.neweconomy.jp/posts/547997"/>
+        <updated>2026-02-17T07:55:36.000Z</updated>
+        <summary type="html"><![CDATA[Animoca BrandsがドバイでVASP取得 香港拠点でブロックチェーンゲーム開発や投資を行うアニモカブランズ（Animoca Brands）が、UAE（アラブ首長国連邦）ドバイでのVASP（仮想資産サービスプロバ […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヴィタリック、予測市場の投機偏重を問題視。「ヘッジ」中心の設計を提起]]></title>
+        <id>https://www.neweconomy.jp/?p=547979</id>
+        <link href="https://www.neweconomy.jp/posts/547979"/>
+        <updated>2026-02-17T07:51:42.000Z</updated>
+        <summary type="html"><![CDATA[予測市場の短期的収益モデルへの偏りに警鐘 イーサリアム（Ethereum）共同創設者のヴィタリック・ブテリン（Vitalik Buterin）氏が、現在の予測市場（prediction markets）の在り方について懸 […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[レイ・ダリオ氏が「戦後秩序は崩壊」と警告　ビットコインや金には追い風となるか]]></title>
         <id>https://jp.cointelegraph.com/news/dalio-collapse-world-order-permissionless-money</id>
@@ -2551,16 +2591,6 @@ ETHZilla、航空機エンジンを裏付けとするトークンを発行 first
         <link href="https://coinpost.jp/?p=688927"/>
         <updated>2026-02-12T20:55:18.000Z</updated>
         <summary type="html"><![CDATA[バイナンスは12日にSAFU基金のステーブルコイン資産をビットコインへ転換する最終購入を完了し、保有量が1.5万BTCに達したと発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、一時5万ドルまで下落の可能性　スタンダードチャータードが短期見通しを引き下げ]]></title>
-        <id>https://coinpost.jp/?p=688920</id>
-        <link href="https://coinpost.jp/?p=688920"/>
-        <updated>2026-02-12T20:30:45.000Z</updated>
-        <summary type="html"><![CDATA[スタンダードチャータードのアナリストが仮想通貨市場の短期見通しを再び下方修正し、ビットコインが一時5万ドル、イーサリアムが1400ドルまで下落する可能性を示した上で、年末には回復すると予測。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>

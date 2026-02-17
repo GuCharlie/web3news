@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=337221",
+          "author": "XWIN Research",
+          "description": "● ステーブルコイン供給量は歴史的高水準を維持しており、市場には再配分可能な流動性が蓄積されている。● GENIUS Actの実装は、暗号資産市場への制度的資本 ...\n2026年米国中間選挙が暗号資産市場に与える構造的影響──ステーブルコイン制度化と市場再評価の分岐点【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/337221/",
+          "publishedOn": "2026-02-17T23:25:00.000Z",
+          "wordCount": 1401,
+          "title": "2026年米国中間選挙が暗号資産市場に与える構造的影響──ステーブルコイン制度化と市場再評価の分岐点【エックスウィンリサーチ】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/nadanews_top-59-1.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=336260",
+          "author": "栃山 直樹",
+          "description": "カルダノ（Cardano）創設者のチャールズ・ホスキンソン（Charles Hoskinson）氏が、宿泊先のホテルにNADA NEWSを呼び出したのは1月下旬 ...\n「Midnight」3月始動へ──ホスキンソン氏がジブリを事例に明かす、日本行脚の狙い first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/336260/",
+          "publishedOn": "2026-02-17T23:17:01.000Z",
+          "wordCount": 1771,
+          "title": "「Midnight」3月始動へ──ホスキンソン氏がジブリを事例に明かす、日本行脚の狙い",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/6A555528-5DA8-492F-A41C-7CEA76F31F9D_1_105_c-1.jpeg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=337212",
           "author": "Shoko Galaviz",
           "description": "米商品先物取引委員会（CFTC）のMike Selig（マイク・セリグ）委員長が、予測市場を巡る州政府との法的対立に本格的に踏み込んだ。セリグ氏は、予測市場に対 ...\nCFTCセリグ委員長、予測市場を巡り州政府と対立　──「法廷で会おう」と強硬姿勢 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -380,16 +400,6 @@
           "wordCount": 1349,
           "title": "Glassnode、ビットコイン市場の構造的脆弱性を指摘",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2142704805.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=336953",
-          "author": "栃山 直樹",
-          "description": "SBIホールディングスは13日、シンガポールを拠点とする暗号資産（仮想通貨）取引所「Coinhako（コインハコ）」を運営するHoldbuild Pte. Lt ...\nSBI、シンガポール暗号資産取引所「Coinhako」買収へ first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/336953/",
-          "publishedOn": "2026-02-13T10:57:37.000Z",
-          "wordCount": 1386,
-          "title": "SBI、シンガポール暗号資産取引所「Coinhako」買収へ",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2592032249.jpg"
         }
       ]
     },
@@ -404,6 +414,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=689958",
+          "author": "菊谷ルイス",
+          "description": "逆張り姿勢で金融系クリプトに集中投資へ仮想通貨特化ベンチャーキャピタルのドラゴンフライ・キャピタルは2月17日、第4号ファンド「ドラゴンフライ・ファンドIV」を6億5000万ドルで最終クローズしたと発表した。マネージングパートナーのハシーブ...",
+          "link": "https://coinpost.jp/?p=689958",
+          "publishedOn": "2026-02-17T23:25:34.000Z",
+          "wordCount": 3303,
+          "title": "ドラゴンフライ・キャピタル、第4号ファンドで6.5億ドル調達",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/vc-standard-crypto.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/vc-standard-crypto.png"
+        },
         {
           "id": "https://coinpost.jp/?p=689965",
           "author": "K.Kobayashi",
@@ -1523,6 +1548,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/top-crypto-treasury-companies-strategy-and-bitmine-add-to-btc-eth-stacks",
+          "author": "Cointelegraph  Nate Kostar",
+          "description": "相場の軟調が続くなか、ストラテジーは71万7131 BTC、ビットマインは437万 ETHまで保有量を拡大。企業による仮想通貨財務（トレジャリー）戦略がさらに加速している。",
+          "link": "https://jp.cointelegraph.com/news/top-crypto-treasury-companies-strategy-and-bitmine-add-to-btc-eth-stacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-17T23:10:29.000Z",
+          "wordCount": 298,
+          "title": "大手仮想通貨財務企業ストラテジーとビットマイン、BTCとETHの保有量を積み増し",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzZjNDktODZhYy03MTg3LWJhYTEtZmNkOGZiM2QxN2RmLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzZjNDktODZhYy03MTg3LWJhYTEtZmNkOGZiM2QxN2RmLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/cftc-michael-selig-defending-prediction-markets",
           "author": "Cointelegraph  Turner Wright",

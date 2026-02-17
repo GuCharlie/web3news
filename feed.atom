@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-17T06:54:18.162Z</updated>
+    <updated>2026-02-17T07:48:17.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[レイ・ダリオ氏が「戦後秩序は崩壊」と警告　ビットコインや金には追い風となるか]]></title>
+        <id>https://jp.cointelegraph.com/news/dalio-collapse-world-order-permissionless-money</id>
+        <link href="https://jp.cointelegraph.com/news/dalio-collapse-world-order-permissionless-money?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-17T07:36:28.000Z</updated>
+        <summary type="html"><![CDATA[ブリッジウォーター・アソシエイツ創業者のレイ・ダリオ氏は、第二次世界大戦後の国際秩序が「正式に崩壊した」と警告し、世界は今や「弱肉強食の法則」が支配する段階に陥っていると述べた。そこではルールではなく力が結果を決めるという。]]></summary>
+        <author>
+            <name>Cointelegraph  Christina Comben</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「日本こそがグローバル金融の架け橋になれる」｜GFTN CEOが語るフィンテック・イノベーションの未来]]></title>
+        <id>https://coinpost.jp/?p=687809</id>
+        <link href="https://coinpost.jp/?p=687809"/>
+        <updated>2026-02-17T07:35:07.000Z</updated>
+        <summary type="html"><![CDATA[GFTN CEOソプネンドゥ・モハンティ氏に独占取材。2026年東京GFTNフォーラムの注目テーマや日本市場の展望、金融機関・スタートアップへの提言を聞いた。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分散型レンディングのゼロレンドが事業終了へ　対応チェーンの低流動性が重荷に]]></title>
+        <id>https://jp.cointelegraph.com/news/crypto-protocol-zerolend-shuts-down-no-longer-sustainable</id>
+        <link href="https://jp.cointelegraph.com/news/crypto-protocol-zerolend-shuts-down-no-longer-sustainable?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-17T07:21:34.000Z</updated>
+        <summary type="html"><![CDATA[分散型レンディングプロトコルのゼロレンド（ZeroLend）は、運営してきた複数のブロックチェーンでユーザー数と流動性が低迷していることを受け、完全に事業を終了すると発表した。]]></summary>
+        <author>
+            <name>Cointelegraph  Jesse Coghlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハーバード大、ビットコイン現物ETFの保有数を21%削減、イーサリアム現物ETFを新規保有]]></title>
+        <id>https://www.neweconomy.jp/?p=547963</id>
+        <link href="https://www.neweconomy.jp/posts/547963"/>
+        <updated>2026-02-17T07:08:10.000Z</updated>
+        <summary type="html"><![CDATA[HMCがIBIT削減でETHA新規保有 米ハーバード大学の基金を運用する専門投資会社ハーバードマネジメントカンパニー（HMC）が、ビットコイン（BTC）現物ETF（上場投資信託）の保有を減らし、イーサリアム（ETH）現物 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暗号資産レンディングのネクソが米国事業に再参入、3年経てバックトと提携で]]></title>
+        <id>https://www.neweconomy.jp/?p=547930</id>
+        <link href="https://www.neweconomy.jp/posts/547930"/>
+        <updated>2026-02-17T06:58:05.000Z</updated>
+        <summary type="html"><![CDATA[ネクソが米国事業に再参入 英ロンドン拠点の暗号資産（仮想通貨）レンディング企業ネクソ（Nexo）が、米国での事業再開を2月16日に発表した。同社は、規制当局との対立を受け、米国市場を撤退。それから約3年ぶりの再参入となる […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[レジャーとトレザー利用者に偽手紙を郵送　シードフレーズ狙うフィッシング攻撃]]></title>
         <id>https://jp.cointelegraph.com/news/scammers-send-physical-letters-trezor-ledger-users-again</id>

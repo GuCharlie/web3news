@@ -390,16 +390,6 @@
           "wordCount": 1386,
           "title": "SBI、シンガポール暗号資産取引所「Coinhako」買収へ",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2592032249.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=336945",
-          "author": "井上 俊彦",
-          "description": "オンチェーン分析企業CryptoQuantのデータをもとにアナリストのIT Tech氏は、ビットコイン（BTC）の大規模な投げ売りが発生したと指摘している。7日 ...\nビットコイン、2021年以来最大級の投げ売り──23億ドルの損失を記録 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/336945/",
-          "publishedOn": "2026-02-13T10:30:00.000Z",
-          "wordCount": 1347,
-          "title": "ビットコイン、2021年以来最大級の投げ売り──23億ドルの損失を記録",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/02/shutterstock_2183270503.jpg"
         }
       ]
     },
@@ -414,6 +404,96 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=689965",
+          "author": "K.Kobayashi",
+          "description": "米ステーキ・アンド・シェイクは、2025年5月に仮想通貨ビットコインを決済に導入してから既存店売上高が大幅に増加したと発表。同社はビットコインを戦略的準備金として保有もしている。",
+          "link": "https://coinpost.jp/?p=689965",
+          "publishedOn": "2026-02-17T22:50:08.000Z",
+          "wordCount": 3387,
+          "title": "ビットコイン決済導入後に売上が大幅増　米ステーキ・アンド・シェイク、BTC準備金も活用",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/Steak-n-Shake.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/Steak-n-Shake.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=689952",
+          "author": "菊谷ルイス",
+          "description": "ブラックロックがステーキング報酬を得られる新ETF「iShares Staked Ethereum Trust ETF」をSECへ申請。合わせて4500万ドル相当のETHをCoinbase Primeへ送金するなど、資産蓄積の動きが加速。",
+          "link": "https://coinpost.jp/?p=689952",
+          "publishedOn": "2026-02-17T22:15:36.000Z",
+          "wordCount": 3392,
+          "title": "ブラックロック、ステーキング型イーサリアムETFを申請",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/blackrock-eth.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/blackrock-eth.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=689951",
+          "author": "菊谷ルイス",
+          "description": "米仮想通貨取引所Geminiの主要経営陣3名が退任し、ウィンクルボス氏が経営を直轄する。巨額赤字を受けた構造改革により、再建に向けた「Gemini 2.0」への移行が進んでいる。",
+          "link": "https://coinpost.jp/?p=689951",
+          "publishedOn": "2026-02-17T21:50:34.000Z",
+          "wordCount": 3306,
+          "title": "米上場の仮想通貨Gemini、主要経営陣3名が同時退任　大幅な赤字見通しに",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/gemini-deri-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/gemini-deri-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=689950",
+          "author": "菊谷ルイス",
+          "description": "米CFTCのゼリグ委員長が予測市場の管轄権を巡り、過剰規制を進める州当局に対して「法廷で会おう」と表明。連邦政府による独占的管轄権を強力に擁護する姿勢を鮮明にした。",
+          "link": "https://coinpost.jp/?p=689950",
+          "publishedOn": "2026-02-17T21:20:32.000Z",
+          "wordCount": 3300,
+          "title": "米CFTC委員長、予測市場巡り州当局を牽制",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/sec-cftc_0509.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/sec-cftc_0509.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=689949",
+          "author": "菊谷ルイス",
+          "description": "米上場のビットマインが先週約4.6万5759ETHのイーサリアムを追加購入し、総保有量を437万ETH超に拡大した。会長のトム・リー氏は2026年をイーサリアムにとっての転換点と位置づけ、ETH供給量の5%取得という目標に向けた買い増しを継続する方針を明示。",
+          "link": "https://coinpost.jp/?p=689949",
+          "publishedOn": "2026-02-17T20:55:30.000Z",
+          "wordCount": 3371,
+          "title": "トム・リー率いるビットマイン、先週140億円相当イーサリアムを追加取得",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/tomlee2_0530.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/tomlee2_0530.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=689948",
+          "author": "菊谷ルイス",
+          "description": "マイクロストラテジーが2486 BTCを追加購入し、保有数は71.7万枚に到達。含み損が拡大するものの、価格暴落時でも債務をカバーできる強固な財務体制を公表し強気の買い増しを続けている。",
+          "link": "https://coinpost.jp/?p=689948",
+          "publishedOn": "2026-02-17T20:40:23.000Z",
+          "wordCount": 3382,
+          "title": "ストラテジー、2486BTCのビットコインを追加購入　強気姿勢維持",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/strategy-bitcoin-forced-seller-conditoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/strategy-bitcoin-forced-seller-conditoin.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=688688",
           "author": "CoinPost編集部",
@@ -1435,16 +1515,6 @@
           "wordCount": 784,
           "title": "ソラナ「Superteam Japan」共同代表に佐藤茂と卜部鉄平が就任、日本企業のトークン化プロジェクト支援強化へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/14160552/superteam20260216news-1024x576.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=547148",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/547148",
-          "publishedOn": "2026-02-13T10:54:29.000Z",
-          "wordCount": 791,
-          "title": "【2/13話題】金融庁が大手証券らのステーブルコインでの株式決済の実証支援、WLFIが送金プラットフォーム、ソニーがヨアケに5億円など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/13165734/ec274f7674ee290f053a263d0471a0c4.jpg"
         }
       ]
     },
@@ -1453,6 +1523,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/cftc-michael-selig-defending-prediction-markets",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "マイケル・セリグ氏は、予測市場プラットフォームに対して州主導で「訴訟の猛攻」が仕掛けられているとし、米規制当局としてこれに対抗する法廷助言書（アミカス・ブリーフ）を提出したと述べた。",
+          "link": "https://jp.cointelegraph.com/news/cftc-michael-selig-defending-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-17T22:48:35.000Z",
+          "wordCount": 220,
+          "title": "米CFTC委員長、予測市場を巡る州政府の提訴に対し防衛姿勢を鮮明に",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzZjODItZDIwNC03OWEyLTlhZTQtMmQxMzkyYmIzZGU5LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzZjODItZDIwNC03OWEyLTlhZTQtMmQxMzkyYmIzZGU5LmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/hive-revenue-surge-artificial-intelligence-expansion-bitcoin-mining-pressure",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "第3四半期決算は、ビットコイン価格の下落にもかかわらず大幅な増収を記録した。AI計算受託の新規契約も追い風となり、ハイブは中核のマイニング事業を超えた多角化を加速させている。",
+          "link": "https://jp.cointelegraph.com/news/hive-revenue-surge-artificial-intelligence-expansion-bitcoin-mining-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-17T22:32:56.000Z",
+          "wordCount": 254,
+          "title": "ハイブ・デジタル、219%の増収　「マイニング・AI」複合戦略が奏功",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzZkMzgtYjE0ZC03ODk0LWFhM2ItZDgyMmJlNGE3M2Q2LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzZkMzgtYjE0ZC03ODk0LWFhM2ItZDgyMmJlNGE3M2Q2LmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bridge-stripe-occ-approval-national-trust-bank",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "最終的な認可はまだ先だが、米規制当局の承認により、ブリッジは企業向けにステーブルコインやデジタル資産サービスの提供が可能になる見通しだ。",
+          "link": "https://jp.cointelegraph.com/news/bridge-stripe-occ-approval-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-17T22:27:13.000Z",
+          "wordCount": 214,
+          "title": "ストライプ傘下のブリッジ、全国銀行免許の条件付き認可をOCCから取得",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzZkNGItNWZmOC03Mjc1LThjNjUtZjZhZGMyOWU5YjliLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzZkNGItNWZmOC03Mjc1LThjNjUtZjZhZGMyOWU5YjliLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/poland-crypto-bill-second-veto-firms-seek-mica-abroad",
           "author": "Cointelegraph  Helen Partz",
@@ -2359,21 +2474,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2652892735.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=152872",
-          "author": "Crypto Times 編集部",
-          "description": "米国商品先物取引委員会（CFTC）のマイク・セリグ委員長は、金融イノベーションに特化した新たな諮問機関「イノベーション諮問委員会（IAC）」のメンバー35名を発表しました。 .@CFTC Announces Innova […]\n投稿 米CFTC諮問委、コインベースやリップルなどから35名を選出 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-cftc-advisory-committee-selects-35-members-from-crypto-industry/",
-          "publishedOn": "2026-02-13T10:28:09.000Z",
-          "wordCount": 615,
-          "title": "米CFTC諮問委、コインベースやリップルなどから35名を選出",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2666379027.jpg"
         }
       ]
     }

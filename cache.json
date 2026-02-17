@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=337203",
+          "author": "井上 俊彦",
+          "description": "ステーブルコイン決済インフラを提供するフィンテック企業のBVNKは、世界の消費者によるステーブルコインの利用実態を調査した報告書「Stablecoin Util ...\nステーブルコインは「日常のお金」に移行しつつある：BVNKが調査報告 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/337203/",
+          "publishedOn": "2026-02-17T11:15:00.000Z",
+          "wordCount": 1347,
+          "title": "ステーブルコインは「日常のお金」に移行しつつある：BVNKが調査報告",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/03/shutterstock_2261247393.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=337200",
           "author": "井上 俊彦",
           "description": "米ハンバーガーチェーンのSteak ’n Shake（ステーク・アンド・シェイク）はX投稿で、ビットコイン（BTC）決済の導入以降、既存店売上が「劇的に」増加し ...\n米の人気ハンバーガー店、ビットコイン決済導入で売上が「劇的に」伸びたと語る first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -500,16 +510,6 @@
           "wordCount": 1390,
           "title": "ビットコイン、再び先週安値近辺に下落──AI懸念でテック株と貴金属も急落",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/nadanews_top-45-2.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=336799",
-          "author": "XWIN Research",
-          "description": "● CLARITYは暗号資産市場の法的分類と監督体制を再定義する包括的枠組みである。● 審議停滞の主因は、利回り型ステーブルコインを巡る銀行業界の強い反対にある ...\nCLARITY審議の停滞とステーブルコインの実態──制度設計が左右する次の市場構造【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/336799/",
-          "publishedOn": "2026-02-12T23:07:01.000Z",
-          "wordCount": 1430,
-          "title": "CLARITY審議の停滞とステーブルコインの実態──制度設計が左右する次の市場構造【エックスウィンリサーチ】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/nadanews_top-44-2.jpg"
         }
       ]
     },
@@ -1543,36 +1543,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/cftc3_0418.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/cftc3_0418.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=688935",
-          "author": "菊谷ルイス",
-          "description": "イスラエルのテルアビブ地方裁判所は、軍の機密情報を用いて予測市場プラットフォームのポリマーケットに賭けをしたとして、イスラエル国防軍予備役と民間人1名をそれぞれ起訴した。",
-          "link": "https://coinpost.jp/?p=688935",
-          "publishedOn": "2026-02-12T23:35:21.000Z",
-          "wordCount": 3310,
-          "title": "イスラエル軍関係者など、機密情報でポリマーケットに賭けた疑いで起訴",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/polymarket-new-valuation.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/polymarket-new-valuation.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=688936",
-          "author": "K.Kobayashi",
-          "description": "トランプ大統領の一族が関与するDeFiプロジェクトのワールドリバティの共同創設者は、為替・送金向けプラットフォームのワールドスワップを近くローンチすると発表。ステーブルコインUSD1を活用する。",
-          "link": "https://coinpost.jp/?p=688936",
-          "publishedOn": "2026-02-12T22:45:39.000Z",
-          "wordCount": 3312,
-          "title": "トランプ一族関与のワールドリバティ、国際送金サービス「ワールドスワップ」をローンチへ＝コンセンサス",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/world-liberty-new-token-trump-wealthy.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/world-liberty-new-token-trump-wealthy.jpg"
         }
       ]
     },
@@ -2507,36 +2477,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzQyM2ItN2NkMi03YzE3LTk2ZjEtMzIzODVhZGIxOWY0LmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/fiserv-settlement-digital-asset-companies",
-          "author": "Cointelegraph  Sam Bourgi",
-          "description": "ファイサーブは、デジタル資産関連企業向けに24時間365日稼働の決済プラットフォームを立ち上げた。米ドルにおける銀行実務の摩擦を軽減し、流動性を向上させる狙いがある。",
-          "link": "https://jp.cointelegraph.com/news/fiserv-settlement-digital-asset-companies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-02-12T23:15:31.000Z",
-          "wordCount": 247,
-          "title": "ファイサーブ、仮想通貨企業向けにドルのリアルタイム決済網を構築",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzUzMmYtYTQ5ZC03NTA3LWI0ODctOGFmZmVmYzk3ZTEwLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzUzMmYtYTQ5ZC03NTA3LWI0ODctOGFmZmVmYzk3ZTEwLmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/trump-wlfi-foreign-exchange-remittance",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "同プラットフォームは、1日あたりの取引高が9兆6000億ドルを超える外国為替市場のシェア獲得を目指している。",
-          "link": "https://jp.cointelegraph.com/news/trump-wlfi-foreign-exchange-remittance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-02-12T22:50:02.000Z",
-          "wordCount": 285,
-          "title": "トランプ家のWLFI、為替・送金プラットフォーム「ワールド・スワップ」計画を公表",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzUyYjAtN2I5ZC03Y2QyLWFmZGItMmVmYTA2NWY0OTg1LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzUyYjAtN2I5ZC03Y2QyLWFmZGItMmVmYTA2NWY0OTg1LmpwZw==.jpg"
         }
       ]
     },

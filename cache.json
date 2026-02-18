@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=337033",
+          "author": "橋本 祐樹",
+          "description": "デジタル通貨（CBDC）、暗号資産、ステーブルコイン——制度設計から社会実装へとフェーズが移る2026年。今、金融の未来を形作る重要な議論が求められています。  ...\n【2/24開催】金融庁主催ウィークの「オープニングイベント」──金融の未来を占う、現地参加必須の「デジタル通貨カンファレンス」 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/337033/",
+          "publishedOn": "2026-02-18T03:43:45.000Z",
+          "wordCount": 2174,
+          "title": "【2/24開催】金融庁主催ウィークの「オープニングイベント」──金融の未来を占う、現地参加必須の「デジタル通貨カンファレンス」",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/カンファレンス告知用_129更新.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=337233",
+          "author": "廣瀬 優香",
+          "description": "ビットコイン（BTC）トレジャリー企業のNakamotoは2月17日、ビットコイン関連メディアおよびイベントの大手プロバイダーBTC Inc.と、資産運用会社U ...\nビットコイントレジャリー企業Nakamoto、BTC Inc.とUTXOを1億700万ドルで買収へ first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/337233/",
+          "publishedOn": "2026-02-18T03:35:00.000Z",
+          "wordCount": 1359,
+          "title": "ビットコイントレジャリー企業Nakamoto、BTC Inc.とUTXOを1億700万ドルで買収へ",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2461804463.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=337227",
           "author": "NADA NEWS編集部",
           "description": "【CoinDesk Summary】 ● ビットコイン（BTC）は米国時間2月17日の早朝取引で一時6万7000ドルを割った（日本時間18日8時30分頃には6万 ...\nビットコイン、一時6万7000ドル割れ──ソフトウェア株の下落と連動 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -390,16 +410,6 @@
           "wordCount": 1505,
           "title": "トランプ・メディア、2本の暗号資産ETFをSECに申請",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2442962259.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=336962",
-          "author": "松嶋 真倫 マネックス証券 フィナンシャル・インテリジェンス部 暗号資産アナリスト",
-          "description": "● 今週のビットコインは、次期FRB（米連邦準備制度理事会）議長指名を契機としたタカ派色の強まりを背景に急落し、その後いったん反発するも、米雇用統計や規制審議の ...\nBTC（ビットコイン）は米インフレ指標と信用不安をにらみ戻りの鈍い展開か【マネックス証券】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/336962/",
-          "publishedOn": "2026-02-13T14:12:49.000Z",
-          "wordCount": 1511,
-          "title": "BTC（ビットコイン）は米インフレ指標と信用不安をにらみ戻りの鈍い展開か【マネックス証券】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/img_ef0771b22fce33dd1e9a46c8538b.jpg"
         }
       ]
     },
@@ -414,6 +424,186 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=690125",
+          "author": "Enzo",
+          "description": "ビットワイズが予測市場連動ETF「PredictionShares」をSECに申請。2028年大統領選や2026年中間選挙に連動する6本を計画。グラナイトシェアーズ、ラウンドヒルを含む3社が相次いで参入し、予測市場のETF化競争が加速している。",
+          "link": "https://coinpost.jp/?p=690125",
+          "publishedOn": "2026-02-18T06:25:22.000Z",
+          "wordCount": 3299,
+          "title": "ビットワイズ、予測市場連動ETFを申請　米選挙結果に連動する6本を計画",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/etf-bitwise-100.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/etf-bitwise-100.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=690095",
+          "author": "Enzo",
+          "description": "DeFiプロトコルMoonwellでAI共著コードのオラクル設定ミスが発覚し、約178万ドル（約2.6億円）の損失が発生。GitHubの記録にはAnthropicの最新モデル「Claude Opus 4.6との共著」と明記されており、AI活用開発のリスクに注目が集まっている。",
+          "link": "https://coinpost.jp/?p=690095",
+          "publishedOn": "2026-02-18T05:32:35.000Z",
+          "wordCount": 3309,
+          "title": "Moonwellでオラクル設定ミス、AI共著コードが関与し約2.6億円損失",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/yucho_thumbnail-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/yucho_thumbnail-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=690080",
+          "author": "幸田直子",
+          "description": "サークルとOpenMindが、ロボット犬「Bits」によるUSDC自律決済のデモを公開し、人間の介入なしに充電料金を支払うマシン間決済を実証した。",
+          "link": "https://coinpost.jp/?p=690080",
+          "publishedOn": "2026-02-18T05:15:18.000Z",
+          "wordCount": 3313,
+          "title": "ロボット犬がUSDCで自律決済、サークルとOpenMindがマシン経済を実証",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/coinbase-usdc-big-yield.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/coinbase-usdc-big-yield.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=689977",
+          "author": "菊谷ルイス",
+          "description": "SBI VCトレードは2月17日、東証スタンダード上場の北紡とビットコインの取引・保管・運用に関する連携を開始したと発表。法人向け大口サービス「SBIVC for Prime」を通じて、OTC取引や期末時価評価税の適用除外といった機関投資家向けインフラを中小上場企業にも提供。",
+          "link": "https://coinpost.jp/?p=689977",
+          "publishedOn": "2026-02-18T04:45:30.000Z",
+          "wordCount": 3308,
+          "title": "SBI VCトレードと北紡が連携開始、大口BTC取引や保管サービスを提供",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitwise-defi-aave-out-from-winter.webp"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitwise-defi-aave-out-from-winter.webp"
+        },
+        {
+          "id": "https://coinpost.jp/?p=690003",
+          "author": "A.Yamada",
+          "description": "ビットワイズのマット・ホーガン氏がDeFiトークンの改革が仮想通貨弱気相場を脱却する上で重要だと論じた。Aaveの収益連動型トークン提案を事例に解説している。",
+          "link": "https://coinpost.jp/?p=690003",
+          "publishedOn": "2026-02-18T04:20:33.000Z",
+          "wordCount": 3398,
+          "title": "「DeFiのトークン改革が弱気相場脱却の鍵に」ビットワイズがAaveの事例を解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/aave.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/aave.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=690009",
+          "author": "CoinPost編集部",
+          "description": "暗号資産市場の時価総額は350兆円を突破し、米ビッグテック7社に匹敵する規模に。WebX2026でSBIグローバルアセットマネジメント朝倉氏が語った、2028年の暗号資産ETF解禁、株・不動産・絵画の資産トークン化、AI時代でも残る人の役割とは。日本の「貯蓄から投資」を加速させるデジタル金融の未来像を詳報。",
+          "link": "https://coinpost.jp/?p=690009",
+          "publishedOn": "2026-02-18T02:44:36.000Z",
+          "wordCount": 3307,
+          "title": "「2045年のデジタル金融」SBI・シンプレクスが語る仮想通貨とトークン化の未来｜DSC2026",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/DSC-2026-Main-Stage-133551-1270250_web2k-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/DSC-2026-Main-Stage-133551-1270250_web2k-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=690002",
+          "author": "Enzo",
+          "description": "CFTCとSECの役割を明確化米商品先物取引委員会（CFTC）のマイケル・セリグ委員長は17日、仮想通貨市場構造法案（CLARITYAct）の成立が「目前に迫っている」と述べた。セリグ氏は、規制の枠組みを将来にわたって「耐久性のあるもの」に...",
+          "link": "https://coinpost.jp/?p=690002",
+          "publishedOn": "2026-02-18T02:37:23.000Z",
+          "wordCount": 3303,
+          "title": "CFTC委員長、仮想通貨市場構造法案「成立は目前」と発言",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/cftc-ooki-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/cftc-ooki-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=689963",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨取引所クラーケンは、2026年にワイオミング州で生まれる全児童を対象に、連邦政府の貯蓄プログラム「トランプ・アカウント」への追加寄付を行うと発表。次世代への投資教育的役割が期待される。",
+          "link": "https://coinpost.jp/?p=689963",
+          "publishedOn": "2026-02-18T02:15:36.000Z",
+          "wordCount": 3297,
+          "title": "クラーケンも新生児投資口座「トランプ・アカウント」支援へ、コインベースに続き",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/trump-token-truthfi.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/trump-token-truthfi.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=689989",
+          "author": "K.Kobayashi",
+          "description": "ドイツ連邦銀行の総裁は、CBDCとステーブルコインがユーロの国際的な役割強化に有用であるとの認識を示した。役割の強化には、決済のシステムとソリューションにおける欧州の独立性向上も含まれるとしている。",
+          "link": "https://coinpost.jp/?p=689989",
+          "publishedOn": "2026-02-18T01:40:21.000Z",
+          "wordCount": 3310,
+          "title": "ドイツ連銀総裁「CBDCとステーブルコインはユーロの役割強化に有用」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/digitaleuro0715211.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/digitaleuro0715211.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=689985",
+          "author": "Enzo",
+          "description": "アブダビの政府系ファンド、ムバダラとアル・ワルダが2025年末時点でブラックロックのビットコイン現物ETF「IBIT」を合計約1,550億円保有していたことがSECへの13F開示書類で判明した。価格下落局面でも積み増しを継続している。",
+          "link": "https://coinpost.jp/?p=689985",
+          "publishedOn": "2026-02-18T00:50:53.000Z",
+          "wordCount": 3378,
+          "title": "アブダビ系ファンド、ブラックロックのビットコインETFを約1550億円超保有",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/abudhabi0411221.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/abudhabi0411221.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=689979",
+          "author": "A.Yamada",
+          "description": "仮想通貨取引所コインベースらの調査で、貯蓄・送金・決済など日常的なステーブルコイン使用が拡大していることが分かった。送金手数料削減などのメリットも実用化を進めている。",
+          "link": "https://coinpost.jp/?p=689979",
+          "publishedOn": "2026-02-18T00:50:27.000Z",
+          "wordCount": 3316,
+          "title": "ステーブルコイン、日常金融ツールとしての採用広がる　貯蓄・送金・給与受取で",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/Stablecoin_1201-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/Stablecoin_1201-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=689964",
+          "author": "菊谷ルイス",
+          "description": "中央集権型取引所のステーブルコイン在庫の65%をバイナンスが保有していることが判明した。資金流出が沈静化する中、特定の大手プラットフォームへ流動性が集約されている状況だ。",
+          "link": "https://coinpost.jp/?p=689964",
+          "publishedOn": "2026-02-18T00:25:37.000Z",
+          "wordCount": 3302,
+          "title": "ステーブルコイン流動性がバイナンスに集中、7.2兆円保有でCEX全体の6割以上を支配",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/binance_2021c-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/binance_2021c-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=689958",
           "author": "菊谷ルイス",
@@ -1292,6 +1482,86 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=548435",
+          "author": "OtsugaShinya",
+          "description": "LSEGがデジタル決済プラットフォーム構築へ ロンドン証券取引所グループ（LSEG）が、伝統的な証券市場とデジタル証券市場をつなぐ機関投資家向けのオンチェーン決済サービス「LSEGデジタル証券デポジトリー（LSEG Di […]",
+          "link": "https://www.neweconomy.jp/posts/548435",
+          "publishedOn": "2026-02-18T06:49:45.000Z",
+          "wordCount": 763,
+          "title": "LSEG、ブロックチェーン対応のデジタル決済プラットフォーム構築へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/18154925/08d5b12eb74d15e957acbca5eb3b7d86.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=548412",
+          "author": "OtsugaShinya",
+          "description": "ブリッジが連邦信託銀行設立の条件付き承認得る 決済サービス大手の米ストライプ（Stripe）傘下で企業向けステーブルコイン決済プラットフォーム提供のブリッジ（Bridge）が、米連邦信託銀行（ナショナルトラストバンク）設 […]",
+          "link": "https://www.neweconomy.jp/posts/548412",
+          "publishedOn": "2026-02-18T06:24:50.000Z",
+          "wordCount": 649,
+          "title": "米ストライプ傘下のブリッジ、連邦信託銀行設立の条件付き承認取得",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/18152352/7b7af6d98e303a0d6fc072dc17825e5b.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=548394",
+          "author": "TanakaShuya",
+          "description": "BitMineがETH追加購入 ビットマインイマージョンテクノロジーズ（BitMine Immersion Technologies：以下、ビットマイン）が、暗号資産（仮想通貨）イーサリアム（ETH）の追加取得を2月17 […]",
+          "link": "https://www.neweconomy.jp/posts/548394",
+          "publishedOn": "2026-02-18T06:07:31.000Z",
+          "wordCount": 666,
+          "title": "ビットマインがイーサリアム追加取得、総保有数は約437万1,497ETHに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/18150717/d02f94c0132118a6a4bdb0fc2a8e16f1.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=548368",
+          "author": "NewEconomy",
+          "description": "機関向けオンチェーン金融でプライバシー対応を拡張 ブロックチェーン開発企業のスタークウェア（StarkWare）が、ゼロ知識プライバシーレイヤー「ナイトフォール（Nightfall）」を、同社が主要開発企業として関与する […]",
+          "link": "https://www.neweconomy.jp/posts/548368",
+          "publishedOn": "2026-02-18T05:02:29.000Z",
+          "wordCount": 656,
+          "title": "スタークウェア、EYのプライバシー技術「ナイトフォール」をスタークネットに統合",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/18140212/1bc18e390dd3ac9574204ef9bed5497d.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=548355",
+          "author": "OtsugaShinya",
+          "description": "SBI VCトレードが北紡の支援開始 国内暗号資産（仮想通貨）取引所SBI VCトレードが、ビットコイン（BTC）保有戦略を進める東証スタンダード上場企業の北紡によるビットコイン取引・保管・運用について、各種サポートを開 […]",
+          "link": "https://www.neweconomy.jp/posts/548355",
+          "publishedOn": "2026-02-18T04:28:46.000Z",
+          "wordCount": 769,
+          "title": "SBI VCトレード、北紡のビットコイン取引・保管・運用の支援開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/18132830/650b0fbd8ff6d22bc70fbfad995f2a66.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=548349",
+          "author": "TanakaShuya",
+          "description": "ストラテジーがビットコイン追加購入 上場企業によるビットコイン（BTC）の保有数で世界第1位のストラテジー（Strategy）が、ビットコインの追加購入を発表した。 ストラテジーは2月9日から2月16日までに、2,486 […]",
+          "link": "https://www.neweconomy.jp/posts/548349",
+          "publishedOn": "2026-02-18T04:22:40.000Z",
+          "wordCount": 636,
+          "title": "ストラテジーがビットコイン追加購入、総保有数は約717,131BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/18132224/d493e3ba937e47d8270951e91f7aba31.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=548312",
+          "author": "NewEconomy",
+          "description": "ドラゴンフライが弱気相場下で6.5億ドル規模の調達 暗号資産ベンチャーファンドのドラゴンフライ（Dragonfly）のマネージングパートナーであるハシーブ・クレシ（Haseeb Qureshi）氏が、第4号ファンド「ドラ […]",
+          "link": "https://www.neweconomy.jp/posts/548312",
+          "publishedOn": "2026-02-18T03:04:18.000Z",
+          "wordCount": 851,
+          "title": "ドラゴンフライ、6.5億ドル規模のファンドIVを組成。金融ユースケース拡大に賭け",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/18120338/b311ef76f9f444942e04ae4a0080cd31.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=548283",
+          "author": "NewEconomy",
+          "description": "約8カ月ぶりに新規VATP認可、認可済みプラットフォームは12社に 香港の証券先物委員会（SFC）が、暗号資産（仮想資産）取引プラットフォームを運営するヴィクトリー・フィンテック（Victory Fintech）に対し、 […]",
+          "link": "https://www.neweconomy.jp/posts/548283",
+          "publishedOn": "2026-02-18T02:12:15.000Z",
+          "wordCount": 614,
+          "title": "香港SFC、ヴィクトリー・フィンテックに暗号資産取引プラットフォームのライセンス付与",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/18111136/e745c425fd8d160b24db9495503a880b.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=548045",
           "author": "NewEconomyPodcast",
           "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
@@ -1548,6 +1818,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitwise-graniteshares-join-roundhill-filing-prediction-market-style-etfs",
+          "author": "Cointelegraph  Martin Young",
+          "description": "上場投資信託（ETF）発行会社ビットワイズとグラナイトシェアーズは、米国選挙の結果に連動するイベント契約を組み込んだファンドの立ち上げに向け、米証券取引委員会（SEC）へ申請書類を提出した。",
+          "link": "https://jp.cointelegraph.com/news/bitwise-graniteshares-join-roundhill-filing-prediction-market-style-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-18T06:37:36.000Z",
+          "wordCount": 234,
+          "title": "米大統領選と中間選挙をETFで予測取引へ　ビットワイズとグラナイトシェアーズがSECに申請",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNiOTgtZDQ4NC03NmZkLTllZTUtMmUwZjI3ODFlMzc2LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNiOTgtZDQ4NC03NmZkLTllZTUtMmUwZjI3ODFlMzc2LmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/traders-pinpoint-three-price-targets-for-bitcoin-if-dollar70k-holds-as-resistance",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "ビットコイン（BTC）アナリストらは、市場の焦点が5万8000ドルから6万5000ドルのゾーンへ移る中、注目すべき主要価格水準を示した。ここが最後の防衛ラインになる可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/traders-pinpoint-three-price-targets-for-bitcoin-if-dollar70k-holds-as-resistance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-18T02:15:54.000Z",
+          "wordCount": 258,
+          "title": "ビットコイン 5万8000ドル～6万5000ドルが最終防衛ラインに　主要テクニカル水準を整理",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzZjZDctMmM2ZS03YjZlLTljNTItMjNhNDAyYjE2ZWZkLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzZjZDctMmM2ZS03YjZlLTljNTItMjNhNDAyYjE2ZWZkLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-chart-pattern-whale-activity-warn-of-another-20-price-drop",
           "author": "Cointelegraph  Yashu Gola",
@@ -2012,36 +2312,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzU3OGYtYWFkYy03MmRmLTk0MDMtYzJkMDYzODBjYjJjLmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-dollar72k-target-possible-if-v-shaped-recovery-pattern-completes",
-          "author": "Cointelegraph  Nancy Lubale",
-          "description": "ビットコイン（BTC）は金曜日、米国の消費者物価指数（CPI）がインフレ鈍化を示したことを受けて6万9000ドルを突破した。トレーダーの間では短期的な価格回復への期待が広がっている。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-dollar72k-target-possible-if-v-shaped-recovery-pattern-completes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-02-13T18:11:57.000Z",
-          "wordCount": 322,
-          "title": "ビットコイン 6万9000ドル回復　米CPI鈍化で短期反発期待",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmU1YTktOTNkYS03MTdiLWFjNzQtMWY4MGMzZGQzMDk3LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmU1YTktOTNkYS03MTdiLWFjNzQtMWY4MGMzZGQzMDk3LmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/binance-france-exec-home-invasion-arrests-report",
-          "author": "Cointelegraph  Zoltan Vardai",
-          "description": "バイナンスのフランス法人幹部の自宅を狙った不法侵入事件で、容疑者3人が逮捕された。バイナンスはコインテレグラフに対し、同社従業員の1人が不法侵入の被害に遭ったことを認めた。",
-          "link": "https://jp.cointelegraph.com/news/binance-france-exec-home-invasion-arrests-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-02-13T15:19:36.000Z",
-          "wordCount": 231,
-          "title": "バイナンス・フランスの幹部宅を狙った不法侵入事件　警察当局は容疑者3人を逮捕",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzU3MWUtYThmZC03ZmNmLWJiMTMtYzI1NWUwM2Y0YmU0LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzU3MWUtYThmZC03ZmNmLWJiMTMtYzI1NWUwM2Y0YmU0LmpwZw==.jpg"
         }
       ]
     },
@@ -2050,6 +2320,126 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=153199",
+          "author": "Crypto Times 編集部",
+          "description": "オンチェーンデータ分析企業CryptoQuantは、2025年におけるTRONネットワークのブリッジ活動が劇的な拡大を遂げたことを明らかにしました。 TRON scaled its bridging in 2025. $ […]\n投稿 TRONネットワークにてUSDTブリッジ額が215%急増｜2.7兆円に到達 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-usdt-bridge-volume-surges-215-on-the-tron-network/",
+          "publishedOn": "2026-02-18T06:34:19.000Z",
+          "wordCount": 621,
+          "title": "TRONネットワークにてUSDTブリッジ額が215%急増｜2.7兆円に到達",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2520990265.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=153223",
+          "author": "Crypto Times 編集部",
+          "description": "暗号資産ウォレット「Phantom」は、AIエージェントがウォレット機能を直接操作可能にする「The Phantom MCP Server」の導入を発表しました。 Introducing the Phantom MCP  […]\n投稿 AIで自動トレード？Phantomウォレット、MCPサーバーを導入 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-phantom-wallet-introduces-mcp-server/",
+          "publishedOn": "2026-02-18T06:27:31.000Z",
+          "wordCount": 633,
+          "title": "AIで自動トレード？Phantomウォレット、MCPサーバーを導入",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2556002965.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=153224",
+          "author": "Crypto Times 編集部",
+          "description": "ステーブルコイン最大手のテザー社が発行する金に裏付けられた暗号資産「テザーゴールド（XAU₮）」が、歴史的な一歩を記しました。上場している産金会社が株主への配当としてXAU₮を採用し、世界で初めてデジタル資産を通じた「金 […]\n投稿 世界初、テザーゴールドで「金配当」実施｜RWAが変える株主還元 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-worlds-first-gold-dividend-implemented-by-tether-gold/",
+          "publishedOn": "2026-02-18T06:23:06.000Z",
+          "wordCount": 595,
+          "title": "世界初、テザーゴールドで「金配当」実施｜RWAが変える株主還元",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2180323663-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=153232",
+          "author": "Crypto Times 編集部",
+          "description": "暗号資産データ分析のArtemis、決済プラットフォームのBVNK Finance、そして米最大手取引所のCoinbaseは共同で世界15カ国のステーブルコイン利用者4,600人以上を対象とした大規模な意識調査の結果を公 […]\n投稿 ステーブルコインは「日常の通貨」へ、世界15カ国4600人調査で判明 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-stablecoins-become-everyday-currencies/",
+          "publishedOn": "2026-02-18T06:18:57.000Z",
+          "wordCount": 636,
+          "title": "ステーブルコインは「日常の通貨」へ、世界15カ国4600人調査で判明",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2174321281.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=153195",
+          "author": "Crypto Times 編集部",
+          "description": "米ストラテジー社がビットコイン（BTC）のさらなる追加購入を行ったことが明らかになりました。同社は約1億6,840万ドル（約250億円）を投じて2,486 BTCを買い増し、今回の取得価格は1 BTCあたり平均67,71 […]\n投稿 ストラテジー社、BTC250億円追加購入｜含み損8800億でも強気 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-strategy-inc-purchases-additional-btc-worth-25-billion-yen/",
+          "publishedOn": "2026-02-18T03:22:03.000Z",
+          "wordCount": 633,
+          "title": "ストラテジー社、BTC250億円追加購入｜含み損8800億でも強気",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2582319615.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=153182",
+          "author": "Crypto Times 編集部",
+          "description": "世界最大級の仮想通貨取引所バイナンスのCEOを務めるリチャード・テン氏が、ブルームバーグTVのインタビューに応じ、前CEOであるチャンポン・ジャオ（CZ）氏の現在の役割について言及しました。 テン氏によるとCZ氏はCEO […]\n投稿 バイナンス新CEO、CZ氏が「重大な決定」に関与し続けると明言 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-binances-new-ceo-vows-cz-will-remain-involved-in-major-decisions/",
+          "publishedOn": "2026-02-18T03:14:47.000Z",
+          "wordCount": 596,
+          "title": "バイナンス新CEO、CZ氏が「重大な決定」に関与し続けると明言",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2617002817.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=153180",
+          "author": "Crypto Times 編集部",
+          "description": "DeFiレンディングプロトコルの「Moonwell」において、AIが生成したスマートコントラクトの脆弱性を突いたハッキングが発生し約178万ドル（約2.7億円）の損失が出たことが明らかになりました。 🚨C […]\n投稿 AIコードの欠陥で2.7億円流出、DeFi「Moonwell」で価格誤設定 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-ai-code-flaw-causes-270-million-to-be-lost-from-defi/",
+          "publishedOn": "2026-02-18T03:09:38.000Z",
+          "wordCount": 648,
+          "title": "AIコードの欠陥で2.7億円流出、DeFi「Moonwell」で価格誤設定",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2414197853.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=153183",
+          "author": "Crypto Times 編集部",
+          "description": "米投資調査会社ファンドストラット（Fundstrat）の創設者トム・リー氏に関連する「Bitmine」が、先週新たに45,759 ETH（約9,083万ドル相当）を購入したことが明らかになりました。 Tom Lee(@f […]\n投稿 Bitmine社、ETHを約9000万ドル追加購入｜含み損は80億ドル超 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitmine-buys-approximately-90-million-more-in-eth/",
+          "publishedOn": "2026-02-18T03:02:45.000Z",
+          "wordCount": 630,
+          "title": "Bitmine社、ETHを約9000万ドル追加購入｜含み損は80億ドル超",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2694025511.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=153177",
           "author": "Crypto Times 編集部",

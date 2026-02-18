@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=337227",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● ビットコイン（BTC）は米国時間2月17日の早朝取引で一時6万7000ドルを割った（日本時間18日8時30分頃には6万 ...\nビットコイン、一時6万7000ドル割れ──ソフトウェア株の下落と連動 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/337227/",
+          "publishedOn": "2026-02-17T23:46:32.000Z",
+          "wordCount": 1383,
+          "title": "ビットコイン、一時6万7000ドル割れ──ソフトウェア株の下落と連動",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/nadanews_top-60-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=337221",
           "author": "XWIN Research",
           "description": "● ステーブルコイン供給量は歴史的高水準を維持しており、市場には再配分可能な流動性が蓄積されている。● GENIUS Actの実装は、暗号資産市場への制度的資本 ...\n2026年米国中間選挙が暗号資産市場に与える構造的影響──ステーブルコイン制度化と市場再評価の分岐点【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -390,16 +400,6 @@
           "wordCount": 1511,
           "title": "BTC（ビットコイン）は米インフレ指標と信用不安をにらみ戻りの鈍い展開か【マネックス証券】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/img_ef0771b22fce33dd1e9a46c8538b.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=336957",
-          "author": "井上 俊彦",
-          "description": "オンチェーン分析企業Glassnode（グラスノード）のアナリスト、Chris Beamish（クリス・ビーミッシュ）氏らは最新のレポートで、ビットコイン（BT ...\nGlassnode、ビットコイン市場の構造的脆弱性を指摘 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/336957/",
-          "publishedOn": "2026-02-13T11:50:00.000Z",
-          "wordCount": 1349,
-          "title": "Glassnode、ビットコイン市場の構造的脆弱性を指摘",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2142704805.jpg"
         }
       ]
     },
@@ -1549,6 +1549,21 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-chart-pattern-whale-activity-warn-of-another-20-price-drop",
+          "author": "Cointelegraph  Yashu Gola",
+          "description": "ビットコイン（BTC）は、弱気のチャート構造とバイナンスにおけるクジラの動きが重なり、2月にかけてさらに下落する可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-chart-pattern-whale-activity-warn-of-another-20-price-drop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-18T00:15:07.000Z",
+          "wordCount": 256,
+          "title": "ビットコイン 2月にさらなる下落の恐れ　弱気チャートパターンとクジラ動向が示唆",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzZjYmYtOGIxMC03NDYxLWFjNWItNjk1MjRiMTVmMjE5LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzZjYmYtOGIxMC03NDYxLWFjNWItNjk1MjRiMTVmMjE5LmpwZw==.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/top-crypto-treasury-companies-strategy-and-bitmine-add-to-btc-eth-stacks",
           "author": "Cointelegraph  Nate Kostar",
           "description": "相場の軟調が続くなか、ストラテジーは71万7131 BTC、ビットマインは437万 ETHまで保有量を拡大。企業による仮想通貨財務（トレジャリー）戦略がさらに加速している。",
@@ -2499,21 +2514,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2603983795-1.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=152882",
-          "author": "Crypto Times 編集部",
-          "description": "2月13日、ビットコイン（BTC）の価格は66,700前後で推移しており、イーサリアム（ETH）は約1,950ドル、ソラナ（SOL）は約80ドルで取引されています。Fear & Greed Index（恐怖・強欲 […]\n投稿 【今日の仮想通貨ニュース】BTC・株・金がトリプル安。コインベースは年初来40%下落 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-2-13-crypto-market-news/",
-          "publishedOn": "2026-02-13T11:41:48.000Z",
-          "wordCount": 631,
-          "title": "【今日の仮想通貨ニュース】BTC・株・金がトリプル安。コインベースは年初来40%下落",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2652892735.jpg"
         }
       ]
     }

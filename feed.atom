@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-20T20:53:51.493Z</updated>
+    <updated>2026-02-20T21:20:39.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SEC、ステーブルコインの資本規制を大幅緩和]]></title>
+        <id>https://coinpost.jp/?p=690695</id>
+        <link href="https://coinpost.jp/?p=690695"/>
+        <updated>2026-02-20T21:10:33.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会（SEC）の取引・市場部門が2026年2月19日に新ガイダンスを発表し、ブローカー・ディーラーが保有するペイメント・ステーブルコインへの自己資本「ヘアカット」を事実上の100%から2%へ引き下げた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ステーブルコインUSDT、2022年のFTX崩壊以来の月間供給減少へ　大口の償還が加速]]></title>
+        <id>https://jp.cointelegraph.com/news/tether-usdt-biggest-monthly-decline-ftx-collapse</id>
+        <link href="https://jp.cointelegraph.com/news/tether-usdt-biggest-monthly-decline-ftx-collapse?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-20T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[世界最大の米ドル連動型ステーブルコインであるテザーのUSDTは、大口保有者による償還の加速を背景に、ここ数年で最大規模となる月間供給減少に向かっている。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米最高裁がトランプ関税を「権限逸脱」と判断、ビットコインは一時6.8万ドル台へ反発]]></title>
         <id>https://coinpost.jp/?p=690694</id>
@@ -3233,16 +3253,6 @@ Grayscale、AAVE信託のETFへの転換をSECに申請──NYSE Arcaに上場�
         <link href="https://www.neweconomy.jp/posts/547611"/>
         <updated>2026-02-16T09:25:42.000Z</updated>
         <summary type="html"><![CDATA[組織改革を進めたスタンチャク氏が退任 イーサリアム（Ethereum）の非営利組織であるイーサリアム財団（Ethereum Foundation）の共同エグゼクティブディレクターを務めるトマシュ・スタンチャク（Tomas […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X、株式・暗号資産データを表示する「スマート・キャッシュタグ」提供へ]]></title>
-        <id>https://www.neweconomy.jp/?p=547604</id>
-        <link href="https://www.neweconomy.jp/posts/547604"/>
-        <updated>2026-02-16T08:55:50.000Z</updated>
-        <summary type="html"><![CDATA[Xのタイムライン上で株式・暗号資産の価格を直接確認可能に ソーシャルメディア「X」のプロダクト責任者であるニキータ・ビア（Nikita Bier）氏が、投稿内のティッカーから株式や暗号資産（仮想通貨）の価格情報を確認でき […]]]></summary>
         <author>
             <name>NewEconomy</name>
         </author>

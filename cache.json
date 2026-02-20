@@ -695,6 +695,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=690695",
+          "author": "菊谷ルイス",
+          "description": "米証券取引委員会（SEC）の取引・市場部門が2026年2月19日に新ガイダンスを発表し、ブローカー・ディーラーが保有するペイメント・ステーブルコインへの自己資本「ヘアカット」を事実上の100%から2%へ引き下げた。",
+          "link": "https://coinpost.jp/?p=690695",
+          "publishedOn": "2026-02-20T21:10:33.000Z",
+          "wordCount": 3356,
+          "title": "米SEC、ステーブルコインの資本規制を大幅緩和",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/new-sec-firing-and-50k.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/new-sec-firing-and-50k.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=690694",
           "author": "菊谷ルイス",
           "description": "議会の承認なき関税を無効化米最高裁判所は2月20日、ドナルド・トランプ大統領が国際緊急経済権限法（IEEPA）を通じて導入した広範な関税制度に対し、大統領に与えられた権限を逸脱しているとして違憲・無効とする判決を下した。この司法判断を貿易不...",
@@ -2600,16 +2615,6 @@
           "wordCount": 686,
           "title": "イーサリアム財団、トマシュ・スタンチャク共同エグゼクティブディレクターが退任へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/16182538/5265f31334148fa96e627129dd049ba7.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=547604",
-          "author": "NewEconomy",
-          "description": "Xのタイムライン上で株式・暗号資産の価格を直接確認可能に ソーシャルメディア「X」のプロダクト責任者であるニキータ・ビア（Nikita Bier）氏が、投稿内のティッカーから株式や暗号資産（仮想通貨）の価格情報を確認でき […]",
-          "link": "https://www.neweconomy.jp/posts/547604",
-          "publishedOn": "2026-02-16T08:55:50.000Z",
-          "wordCount": 938,
-          "title": "X、株式・暗号資産データを表示する「スマート・キャッシュタグ」提供へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/16175545/c7ea38151284469dc2ed70970bb4fd17.jpg"
         }
       ]
     },
@@ -2618,6 +2623,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/tether-usdt-biggest-monthly-decline-ftx-collapse",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "世界最大の米ドル連動型ステーブルコインであるテザーのUSDTは、大口保有者による償還の加速を背景に、ここ数年で最大規模となる月間供給減少に向かっている。",
+          "link": "https://jp.cointelegraph.com/news/tether-usdt-biggest-monthly-decline-ftx-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-20T21:00:00.000Z",
+          "wordCount": 237,
+          "title": "ステーブルコインUSDT、2022年のFTX崩壊以来の月間供給減少へ　大口の償還が加速",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzdhZDctZDc3ZS03MjdjLWI3ZDItY2JkNjdiZDUzZDFmLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzdhZDctZDc3ZS03MjdjLWI3ZDItY2JkNjdiZDUzZDFmLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-etfs-166-million-outflow-btc-worst-yearly-start",
           "author": "Cointelegraph  Helen Partz",

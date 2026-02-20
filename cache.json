@@ -2715,26 +2715,6 @@
           "wordCount": 751,
           "title": "SBI、シンガポールの暗号資産取引所Coinhako買収の意向表明",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/16131410/SBI-Coinhako-260216-LuckyStep48.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=547473",
-          "author": "NewEconomy",
-          "description": "L402を活用したエージェント決済の実装を拡張 ライトニングラボ（Lightning Labs）が、AIエージェントがライトニングネットワーク上でネイティブに取引できるツール群をオープンソースとして公開したと2月11日に […]",
-          "link": "https://www.neweconomy.jp/posts/547473",
-          "publishedOn": "2026-02-16T03:26:04.000Z",
-          "wordCount": 691,
-          "title": "ライトニングラボ、AIエージェントが支払える決済基盤を公開。L402活用で",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/16122555/fd7e23c762548c07fab62de0971e166a.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=547449",
-          "author": "HitomotoToshikazu",
-          "description": "Aave V3がMantleでローンチ DeFi（分散型金融）レンディングプロトコル「アーベV3（Aave V3）」が、レイヤー2ブロックチェーンのマントル（Mantle）上で稼働開始した。マントルが2月11日に発表した […]",
-          "link": "https://www.neweconomy.jp/posts/547449",
-          "publishedOn": "2026-02-16T03:04:20.000Z",
-          "wordCount": 818,
-          "title": "アーベV3がマントルでローンチ、バイビットも連携",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/16120413/6e64d6e2310f243458d94746f4405e08.jpg"
         }
       ]
     },
@@ -2743,6 +2723,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-etfs-166-million-outflow-btc-worst-yearly-start",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "米国上場の現物ビットコイン上場投資信託（ETF）では木曜日も売り圧力が続いた。アナリストは、ビットコイン（BTC）が年間ベースで過去最悪級のスタートを切っていると指摘している。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-etfs-166-million-outflow-btc-worst-yearly-start?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-20T14:45:10.000Z",
+          "wordCount": 263,
+          "title": "米国上場のビットコインETFで資金流出継続　2026年は年初来で27億ドル流出",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzdhN2ItZGZkNC03MTU5LThlNTAtMDIwODdlNWE2YjgyLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzdhN2ItZGZkNC03MTU5LThlNTAtMDIwODdlNWE2YjgyLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/parsec-defi-nft-analytics-platform-closes-market-volatility",
           "author": "Cointelegraph  Ciaran Lyons",
@@ -4284,36 +4279,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2709685265.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=153030",
-          "author": "よきょい",
-          "description": "著名投資家のレイ・ダリオ（Ray Dalio）氏の独自分析が注目を集めています。 https://t.co/tjmbT5ytUN — Ray Dalio (@RayDalio) February 14, 2026 202 […]\n投稿 なぜ今ビットコイン？著名投資家が警告する「大サイクル」とは は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-what-is-the-great-cycle-that-a-famous-investor-warns-about/",
-          "publishedOn": "2026-02-16T03:26:45.000Z",
-          "wordCount": 593,
-          "title": "なぜ今ビットコイン？著名投資家が警告する「大サイクル」とは",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_1507546871.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=153024",
-          "author": "よきょい",
-          "description": "Cboeは特定の条件が成立した際に固定額を支払い不成立ならゼロとなる「オール・オア・ナッシング」型のオプション取引を復活させるため、米証券取引委員会（SEC）へ提案書を提出しました。 この動きはポリマーケット（Polym […]\n投稿 予測市場のメインストリーム化？Cboe、二択取引をSECに申請 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-cboe-files-for-binary-trading-with-sec/",
-          "publishedOn": "2026-02-16T02:56:19.000Z",
-          "wordCount": 586,
-          "title": "予測市場のメインストリーム化？Cboe、二択取引をSECに申請",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2553702133.jpg"
         }
       ]
     }

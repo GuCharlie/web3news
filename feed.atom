@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-21T19:43:54.287Z</updated>
+    <updated>2026-02-21T20:19:59.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バーゼル規制の仮想通貨リスクウェイト、仮想通貨トレジャリー企業幹部が見直し求める]]></title>
+        <id>https://jp.cointelegraph.com/news/btc-treasury-reform-1250-percent-risk-basel</id>
+        <link href="https://jp.cointelegraph.com/news/btc-treasury-reform-1250-percent-risk-basel?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-21T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨トレジャリー企業の幹部らは、国際的な銀行規制機関であるバーゼル銀行監督委員会（BCBS）に対し、バーゼルIII枠組みにおけるビットコインおよびその他の仮想通貨に適用されている1250％のリスクウェイトの見直しを求めている。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン現物ETF、5週間で累計40億ドル超流出]]></title>
         <id>https://coinpost.jp/?p=690750</id>
@@ -2830,56 +2840,6 @@ Strategy、ビットコインが8000ドルまで下落しても債務を全額�
         <summary type="html"><![CDATA[ポリゴンが過去3日間、日次取引手数料でイーサリアムを上回った。アナリストは、予測市場ポリマーケットにおける活発なユーザー活動が背景にあると指摘している。]]></summary>
         <author>
             <name>Cointelegraph  Brian Quarmby</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キヨサキ氏、大規模な市場調整を警告　ビットコイン買い増し継続を宣言]]></title>
-        <id>https://coinpost.jp/?p=689794</id>
-        <link href="https://coinpost.jp/?p=689794"/>
-        <updated>2026-02-17T08:11:22.000Z</updated>
-        <summary type="html"><![CDATA[キヨサキ氏が「史上最大の株式市場崩壊が迫っている」と警告。ビットコインの希少性を根拠に下落局面での買い増しを宣言し、暴落時こそ資産形成の好機だと強調した。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨ユーザーの27％　日常の決済でステーブルコイン利用＝BVNK調査]]></title>
-        <id>https://jp.cointelegraph.com/news/bvnk-survey-finds-growing-use-of-stablecoins-for-income-and-everyday-payments</id>
-        <link href="https://jp.cointelegraph.com/news/bvnk-survey-finds-growing-use-of-stablecoins-for-income-and-everyday-payments?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-02-17T08:06:19.000Z</updated>
-        <summary type="html"><![CDATA[BVNKが委託し、YouGovが実施した世界的な調査によると、15カ国の仮想通貨ユーザーおよび将来的な利用予定者のうち39％がステーブルコインで収入を受け取っており、27％が日常的な支払いに利用していることが分かった。主]]></summary>
-        <author>
-            <name>Cointelegraph  Nate Kostar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[次世代カンファレンス「MoneyX 2026」の後援に一般社団法人日本暗号資産ビジネス協会（JCBA）が決定]]></title>
-        <id>https://coinpost.jp/?p=688110</id>
-        <link href="https://coinpost.jp/?p=688110"/>
-        <updated>2026-02-17T08:00:46.000Z</updated>
-        <summary type="html"><![CDATA[2026年2月27日開催の次世代金融カンファレンス「MoneyX」の後援に日本暗号資産ビジネス協会（JCBA）が決定。ステーブルコインの社会実装をテーマに産官学が議論。参加費無料・承認制。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニモカブランズ、ドバイで機関投資家向け暗号資産サービス提供のライセンス取得]]></title>
-        <id>https://www.neweconomy.jp/?p=547997</id>
-        <link href="https://www.neweconomy.jp/posts/547997"/>
-        <updated>2026-02-17T07:55:36.000Z</updated>
-        <summary type="html"><![CDATA[Animoca BrandsがドバイでVASP取得 香港拠点でブロックチェーンゲーム開発や投資を行うアニモカブランズ（Animoca Brands）が、UAE（アラブ首長国連邦）ドバイでのVASP（仮想資産サービスプロバ […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヴィタリック、予測市場の投機偏重を問題視。「ヘッジ」中心の設計を提起]]></title>
-        <id>https://www.neweconomy.jp/?p=547979</id>
-        <link href="https://www.neweconomy.jp/posts/547979"/>
-        <updated>2026-02-17T07:51:42.000Z</updated>
-        <summary type="html"><![CDATA[予測市場の短期的収益モデルへの偏りに警鐘 イーサリアム（Ethereum）共同創設者のヴィタリック・ブテリン（Vitalik Buterin）氏が、現在の予測市場（prediction markets）の在り方について懸 […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>

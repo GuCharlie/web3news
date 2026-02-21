@@ -705,6 +705,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=690735",
+          "author": "A.Yamada",
+          "description": "クリプトクアントが、大口投資家による取引所へのビットコイン流入が増加していると指摘。アルトコインやステーブルコインの状況から価格が大きく動くリスクを分析した。",
+          "link": "https://coinpost.jp/?p=690735",
+          "publishedOn": "2026-02-21T10:15:10.000Z",
+          "wordCount": 3429,
+          "title": "クジラがビットコインの主要な売り圧に、不安定な市場続くか＝クリプトクアント",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/07/big-whale-loosing-money-now.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/07/big-whale-loosing-money-now.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=690712",
           "author": "菊谷ルイス",
           "description": "大口投資家のGarrett Jin氏が今週再び5000BTCをバイナンスへ入金。価格の節目での大規模な資金移動を受け、市場では売却準備への警戒感が高まっている。",
@@ -2083,21 +2098,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/0605_metaplanetB.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/0605_metaplanetB.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=689579",
-          "author": "菊谷ルイス",
-          "description": "仮想通貨市場構造法案の命運を握る「2月末期限」。ステーブルコインの利回り規制を巡り、トランプのホワイトハウスが業界と銀行に最終合意を要求。",
-          "link": "https://coinpost.jp/?p=689579",
-          "publishedOn": "2026-02-16T21:55:40.000Z",
-          "wordCount": 3278,
-          "title": "2月末が分水嶺に、審議膠着の米仮想通貨市場構造法案の焦点は？",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/whitehouse_usa1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/whitehouse_usa1.jpg"
         }
       ]
     },
@@ -3427,36 +3427,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY3NTktMmFjOC03NGFiLTkzZWItZjc2ZDhkODRmNTMwLmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/germany-central-bank-president-stablecoins",
-          "author": "Cointelegraph  Turner Wright",
-          "description": "ヨアヒム・ナーゲル氏は、ユーロ連動ステーブルコインが、GENIUS法により近く認められるドル連動型コインからの独立性をEUにもたらすと述べた。",
-          "link": "https://jp.cointelegraph.com/news/germany-central-bank-president-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-02-16T22:15:30.000Z",
-          "wordCount": 199,
-          "title": "ドイツ中銀総裁、EUにおけるステーブルコインとCBDCの利点を強調",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY4MjgtYjIwZS03YmFhLWJjZTctNzc1NTQ4MTM4NDU3LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY4MjgtYjIwZS03YmFhLWJjZTctNzc1NTQ4MTM4NDU3LmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/crypto-etf-4-week-outflows-173-million-btc-below-70k",
-          "author": "Cointelegraph  Helen Partz",
-          "description": "ビットコインとイーサが下落する中、先週の仮想通貨ファンドは1億7300万ドルの資金流出を記録した一方、XRPとソラナは世界市場で逆行高となった。",
-          "link": "https://jp.cointelegraph.com/news/crypto-etf-4-week-outflows-173-million-btc-below-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-02-16T22:10:43.000Z",
-          "wordCount": 292,
-          "title": "仮想通貨ファンド、4週連続で資金流出　BTCが7万ドル割れで1億7300万ドル流出",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY1YzYtNDliOS03MWY5LWFmNjMtNGZkYTc1YTkxMjExLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY1YzYtNDliOS03MWY5LWFmNjMtNGZkYTc1YTkxMjExLmpwZw==.jpg"
         }
       ]
     },

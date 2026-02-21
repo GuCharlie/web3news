@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-21T09:52:20.983Z</updated>
+    <updated>2026-02-21T10:21:18.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[クジラがビットコインの主要な売り圧に、不安定な市場続くか＝クリプトクアント]]></title>
+        <id>https://coinpost.jp/?p=690735</id>
+        <link href="https://coinpost.jp/?p=690735"/>
+        <updated>2026-02-21T10:15:10.000Z</updated>
+        <summary type="html"><![CDATA[クリプトクアントが、大口投資家による取引所へのビットコイン流入が増加していると指摘。アルトコインやステーブルコインの状況から価格が大きく動くリスクを分析した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リップルに機関マネー集中、強気センチメントが5週ぶり高水準]]></title>
         <id>https://crypto-times.jp/?p=153574</id>
@@ -3365,36 +3375,6 @@ Accumulation Addressesの急増が示すもの──恐怖の裏で進む静か�
         <summary type="html"><![CDATA[ビットコインおよび複数の主要アルトコインの自律反発は、それぞれの上値抵抗付近で失速しており、弱気派が依然として主導権を握っていることを示している。]]></summary>
         <author>
             <name>Cointelegraph  Rakesh Upadhyay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドイツ中銀総裁、EUにおけるステーブルコインとCBDCの利点を強調]]></title>
-        <id>https://jp.cointelegraph.com/news/germany-central-bank-president-stablecoins</id>
-        <link href="https://jp.cointelegraph.com/news/germany-central-bank-president-stablecoins?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-02-16T22:15:30.000Z</updated>
-        <summary type="html"><![CDATA[ヨアヒム・ナーゲル氏は、ユーロ連動ステーブルコインが、GENIUS法により近く認められるドル連動型コインからの独立性をEUにもたらすと述べた。]]></summary>
-        <author>
-            <name>Cointelegraph  Turner Wright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨ファンド、4週連続で資金流出　BTCが7万ドル割れで1億7300万ドル流出]]></title>
-        <id>https://jp.cointelegraph.com/news/crypto-etf-4-week-outflows-173-million-btc-below-70k</id>
-        <link href="https://jp.cointelegraph.com/news/crypto-etf-4-week-outflows-173-million-btc-below-70k?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-02-16T22:10:43.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインとイーサが下落する中、先週の仮想通貨ファンドは1億7300万ドルの資金流出を記録した一方、XRPとソラナは世界市場で逆行高となった。]]></summary>
-        <author>
-            <name>Cointelegraph  Helen Partz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2月末が分水嶺に、審議膠着の米仮想通貨市場構造法案の焦点は？]]></title>
-        <id>https://coinpost.jp/?p=689579</id>
-        <link href="https://coinpost.jp/?p=689579"/>
-        <updated>2026-02-16T21:55:40.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨市場構造法案の命運を握る「2月末期限」。ステーブルコインの利回り規制を巡り、トランプのホワイトハウスが業界と銀行に最終合意を要求。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

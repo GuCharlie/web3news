@@ -1738,21 +1738,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/strategy-bitcoin-forced-seller-conditoin.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/strategy-bitcoin-forced-seller-conditoin.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=688688",
-          "author": "CoinPost編集部",
-          "description": "2026年2月27日開催の次世代金融カンファレンス「MoneyX」の後援に日本デジタル経済連盟が決定。ステーブルコインを軸に通貨の進化と社会実装を議論する本イベントの詳細をお届けします。",
-          "link": "https://coinpost.jp/?p=688688",
-          "publishedOn": "2026-02-17T09:00:41.000Z",
-          "wordCount": 3359,
-          "title": "次世代カンファレンス「MoneyX 2026」の後援に一般社団法人日本デジタル経済連盟が決定",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC_supporter_%E3%83%87%E3%82%B8%E7%B5%8C%E9%80%A3.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC_supporter_%E3%83%87%E3%82%B8%E7%B5%8C%E9%80%A3.png"
         }
       ]
     },
@@ -2168,6 +2153,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/illicit-stablecoin-activity-hits-five-year-high-at-141b-trm-labs",
+          "author": "Cointelegraph  Martin Young",
+          "description": "ブロックチェーン分析企業TRMラボによれば、2025年に違法な組織がステーブルコインを通じて受け取った資金は約1410億ドルに達し、過去5年間で最高水準となった。",
+          "link": "https://jp.cointelegraph.com/news/illicit-stablecoin-activity-hits-five-year-high-at-141b-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-21T21:00:00.000Z",
+          "wordCount": null,
+          "title": "2025年 違法なステーブルコインの取引額が1410億ドルに　過去5年で最大＝TRMラボ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzc4YWQtZGJiMC03OGVmLTkxNGUtYjg0YWQ5ZDUyODQ2LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzc4YWQtZGJiMC03OGVmLTkxNGUtYjg0YWQ5ZDUyODQ2LmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/btc-treasury-reform-1250-percent-risk-basel",
           "author": "Cointelegraph  Vince Quill",

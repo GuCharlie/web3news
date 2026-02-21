@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-21T20:47:02.400Z</updated>
+    <updated>2026-02-21T21:19:04.806Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025年 違法なステーブルコインの取引額が1410億ドルに　過去5年で最大＝TRMラボ]]></title>
+        <id>https://jp.cointelegraph.com/news/illicit-stablecoin-activity-hits-five-year-high-at-141b-trm-labs</id>
+        <link href="https://jp.cointelegraph.com/news/illicit-stablecoin-activity-hits-five-year-high-at-141b-trm-labs?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-21T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーン分析企業TRMラボによれば、2025年に違法な組織がステーブルコインを通じて受け取った資金は約1410億ドルに達し、過去5年間で最高水準となった。]]></summary>
+        <author>
+            <name>Cointelegraph  Martin Young</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バーゼル規制の仮想通貨リスクウェイト、仮想通貨トレジャリー企業幹部が見直し求める]]></title>
         <id>https://jp.cointelegraph.com/news/btc-treasury-reform-1250-percent-risk-basel</id>
@@ -2799,16 +2809,6 @@ Strategy、1週間で約260億円相当のビットコインを追加取得─�
 投稿 メタプラネット、営業益62億円もBTC評価損2000億円に拡大｜長期保有を継続 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[次世代カンファレンス「MoneyX 2026」の後援に一般社団法人日本デジタル経済連盟が決定]]></title>
-        <id>https://coinpost.jp/?p=688688</id>
-        <link href="https://coinpost.jp/?p=688688"/>
-        <updated>2026-02-17T09:00:41.000Z</updated>
-        <summary type="html"><![CDATA[2026年2月27日開催の次世代金融カンファレンス「MoneyX」の後援に日本デジタル経済連盟が決定。ステーブルコインを軸に通貨の進化と社会実装を議論する本イベントの詳細をお届けします。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>

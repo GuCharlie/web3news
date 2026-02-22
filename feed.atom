@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-22T17:22:19.944Z</updated>
+    <updated>2026-02-22T17:49:50.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
@@ -2420,16 +2420,6 @@ Bitmine、9000万ドル超相当のイーサリアムを追加取得──総保
         <summary type="html"><![CDATA[BitMineがETH追加購入 ビットマインイマージョンテクノロジーズ（BitMine Immersion Technologies：以下、ビットマイン）が、暗号資産（仮想通貨）イーサリアム（ETH）の追加取得を2月17 […]]]></summary>
         <author>
             <name>TanakaShuya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moonwellでオラクル設定ミス、AI共著コードが関与し約2.6億円損失]]></title>
-        <id>https://coinpost.jp/?p=690095</id>
-        <link href="https://coinpost.jp/?p=690095"/>
-        <updated>2026-02-18T05:32:35.000Z</updated>
-        <summary type="html"><![CDATA[DeFiプロトコルMoonwellでAI共著コードのオラクル設定ミスが発覚し、約178万ドル（約2.6億円）の損失が発生。GitHubの記録にはAnthropicの最新モデル「Claude Opus 4.6との共著」と明記されており、AI活用開発のリスクに注目が集まっている。]]></summary>
-        <author>
-            <name>Enzo</name>
         </author>
     </entry>
 </feed>

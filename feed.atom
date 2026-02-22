@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-22T22:20:19.350Z</updated>
+    <updated>2026-02-22T22:49:40.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SEC、業者にステーブルコインの2%「ヘアカット」容認　資本規制を緩和]]></title>
+        <id>https://jp.cointelegraph.com/news/sec-broker-dealer-2-haircut-stablecoins</id>
+        <link href="https://jp.cointelegraph.com/news/sec-broker-dealer-2-haircut-stablecoins?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-22T22:45:27.000Z</updated>
+        <summary type="html"><![CDATA[米規制当局は、証券取次業者（ブローカー・ディーラー）が純資本規制の算定において、保有するステーブルコインを資産として計上することに「異議を唱えない」との方針を示した。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、歴史的指標が示す「10カ月後の平均リターン」は12万2000ドルか]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-historical-price-metric-122k-average-return-over-10-months</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-historical-price-metric-122k-average-return-over-10-months?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-22T22:26:40.000Z</updated>
+        <summary type="html"><![CDATA[過去のパフォーマンスに基づけば、2027年初頭までに価格が上昇する確率は88%に上る。強気なビットコイン価格予想が相次ぐなか、新たな分析が注目を集めている。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨の資本、トークンから株式へ転換　新規上場の苦戦が背景＝DWF]]></title>
         <id>https://jp.cointelegraph.com/news/crypto-capital-rotates-from-tokens-to-stocks-as-new-launches-struggle-dwf</id>
@@ -2008,16 +2028,6 @@ DeFiが暗号資産の冬を終わらせる可能性：Bitwise first appeared on
 投稿 Meebitsがサッカーテーマの新コレクション「Meebits Fútbol」を発表 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2/18話題】ストライプ傘下ブリッジが連邦信託銀行の条件付き承認、ドラゴンフライが6.5億ドルファンドクローズなど（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=548510</id>
-        <link href="https://www.neweconomy.jp/posts/548510"/>
-        <updated>2026-02-18T10:48:27.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
         </author>
     </entry>
 </feed>

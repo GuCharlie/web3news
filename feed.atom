@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-22T16:54:47.111Z</updated>
+    <updated>2026-02-22T17:22:19.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
@@ -2430,26 +2430,6 @@ Bitmine、9000万ドル超相当のイーサリアムを追加取得──総保
         <summary type="html"><![CDATA[DeFiプロトコルMoonwellでAI共著コードのオラクル設定ミスが発覚し、約178万ドル（約2.6億円）の損失が発生。GitHubの記録にはAnthropicの最新モデル「Claude Opus 4.6との共著」と明記されており、AI活用開発のリスクに注目が集まっている。]]></summary>
         <author>
             <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロボット犬がUSDCで自律決済、サークルとOpenMindがマシン経済を実証]]></title>
-        <id>https://coinpost.jp/?p=690080</id>
-        <link href="https://coinpost.jp/?p=690080"/>
-        <updated>2026-02-18T05:15:18.000Z</updated>
-        <summary type="html"><![CDATA[サークルとOpenMindが、ロボット犬「Bits」によるUSDC自律決済のデモを公開し、人間の介入なしに充電料金を支払うマシン間決済を実証した。]]></summary>
-        <author>
-            <name>幸田直子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スタークウェア、EYのプライバシー技術「ナイトフォール」をスタークネットに統合]]></title>
-        <id>https://www.neweconomy.jp/?p=548368</id>
-        <link href="https://www.neweconomy.jp/posts/548368"/>
-        <updated>2026-02-18T05:02:29.000Z</updated>
-        <summary type="html"><![CDATA[機関向けオンチェーン金融でプライバシー対応を拡張 ブロックチェーン開発企業のスタークウェア（StarkWare）が、ゼロ知識プライバシーレイヤー「ナイトフォール（Nightfall）」を、同社が主要開発企業として関与する […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>

@@ -360,16 +360,6 @@
           "wordCount": 1373,
           "title": "SEC、トークン化証券に「段階的」アプローチ──イノベーション免除の構想を明らかに",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2426097137.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=337441",
-          "author": "井上 俊彦",
-          "description": "暗号資産（仮想通貨）取引所Coinbase（コインベース）は2月18日、暗号資産担保ローンの対象を、エックス・アール・ピー（XRP）、カルダノ（ADA）、ドージ ...\nCoinbase、暗号資産担保ローンの対象をXRP、ADA、DOGE、LTCに拡大──最大10万ドルを貸し付け first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/337441/",
-          "publishedOn": "2026-02-19T10:40:00.000Z",
-          "wordCount": 1335,
-          "title": "Coinbase、暗号資産担保ローンの対象をXRP、ADA、DOGE、LTCに拡大──最大10万ドルを貸し付け",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2572706533.jpg"
         }
       ]
     },
@@ -1153,6 +1143,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/xrp-price-chart-whale-activity-warn-drop-below-1-dollar",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "XRPは2日足チャートで典型的な弱気パターンを形成している。これが確定すれば、今後数週間で0.80ドルまで下落する可能性がある。",
+          "link": "https://jp.cointelegraph.com/news/xrp-price-chart-whale-activity-warn-drop-below-1-dollar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-23T23:22:53.000Z",
+          "wordCount": 283,
+          "title": "XRPのチャートとクジラの動向に警戒感、1ドル割れの恐れも",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzhiMTItNjJlYi03YmE0LWFmNGQtZWRmOWUzZDVjYmI4LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzhiMTItNjJlYi03YmE0LWFmNGQtZWRmOWUzZDVjYmI4LmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/strategy-100th-bitcoin-purchase-592-btc",
+          "author": "Cointelegraph  Ezra Reguerra",
+          "description": "ストラテジー社は、3,980万ドルを投じて592ビットコインを購入した。これが100回目の購入となり、同社の保有総数は71万7,722 BTCにまで増加した。",
+          "link": "https://jp.cointelegraph.com/news/strategy-100th-bitcoin-purchase-592-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-23T23:01:10.000Z",
+          "wordCount": 248,
+          "title": "ストラテジー社、100回目の購入で592 BTC追加　累計保有数は71万超に",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzUwMGYtNDg2Ny03OTcwLWIzMWUtM2M5YjA3NDIzMjZlLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzUwMGYtNDg2Ny03OTcwLWIzMWUtM2M5YjA3NDIzMjZlLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/price-predictions-2-23-spx-dxy-btc-eth-xrp-bnb-sol-doge-bch-ada",
           "author": "Cointelegraph  Rakesh Upadhyay",

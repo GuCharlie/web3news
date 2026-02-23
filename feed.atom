@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-23T22:37:13.814Z</updated>
+    <updated>2026-02-23T23:31:30.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[XRPのチャートとクジラの動向に警戒感、1ドル割れの恐れも]]></title>
+        <id>https://jp.cointelegraph.com/news/xrp-price-chart-whale-activity-warn-drop-below-1-dollar</id>
+        <link href="https://jp.cointelegraph.com/news/xrp-price-chart-whale-activity-warn-drop-below-1-dollar?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-23T23:22:53.000Z</updated>
+        <summary type="html"><![CDATA[XRPは2日足チャートで典型的な弱気パターンを形成している。これが確定すれば、今後数週間で0.80ドルまで下落する可能性がある。]]></summary>
+        <author>
+            <name>Cointelegraph  Nancy Lubale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ストラテジー社、100回目の購入で592 BTC追加　累計保有数は71万超に]]></title>
+        <id>https://jp.cointelegraph.com/news/strategy-100th-bitcoin-purchase-592-btc</id>
+        <link href="https://jp.cointelegraph.com/news/strategy-100th-bitcoin-purchase-592-btc?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-23T23:01:10.000Z</updated>
+        <summary type="html"><![CDATA[ストラテジー社は、3,980万ドルを投じて592ビットコインを購入した。これが100回目の購入となり、同社の保有総数は71万7,722 BTCにまで増加した。]]></summary>
+        <author>
+            <name>Cointelegraph  Ezra Reguerra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[さらなる安値更新は目前？　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ]]></title>
         <id>https://jp.cointelegraph.com/news/price-predictions-2-23-spx-dxy-btc-eth-xrp-bnb-sol-doge-bch-ada</id>
@@ -1456,17 +1476,6 @@ SEC、トークン化証券に「段階的」アプローチ──イノベー�
         <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase、暗号資産担保ローンの対象をXRP、ADA、DOGE、LTCに拡大──最大10万ドルを貸し付け]]></title>
-        <id>https://www.nadanews.com/?p=337441</id>
-        <link href="https://www.nadanews.com/337441/"/>
-        <updated>2026-02-19T10:40:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所Coinbase（コインベース）は2月18日、暗号資産担保ローンの対象を、エックス・アール・ピー（XRP）、カルダノ（ADA）、ドージ ...
-Coinbase、暗号資産担保ローンの対象をXRP、ADA、DOGE、LTCに拡大──最大10万ドルを貸し付け first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
         </author>
     </entry>
 </feed>

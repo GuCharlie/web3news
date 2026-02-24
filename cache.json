@@ -415,6 +415,51 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=691034",
+          "author": "菊谷ルイス",
+          "description": "米メタが2026年下半期をめどにステーブルコイン決済の統合を計画しており、決済大手ストライプが有力パートナー候補として浮上。2019年のリブラ・ディエム失敗から約7年、ジーニアス法の成立で変化した規制環境が再参入を後押ししたようだ。",
+          "link": "https://coinpost.jp/?p=691034",
+          "publishedOn": "2026-02-24T22:40:59.000Z",
+          "wordCount": 3302,
+          "title": "メタ、ステーブルコイン決済へ再参入検討か＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/Meta_0704-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/Meta_0704-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=691045",
+          "author": "菊谷ルイス",
+          "description": "2025年第4四半期の米機関投資家によるビットコイン現物ETFの保有状況が明らかになった。ヘッジファンドを中心に約2.5万BTC相当が売却されており、価格急落に伴うリスクオフの動きが浮き彫りに。",
+          "link": "https://coinpost.jp/?p=691045",
+          "publishedOn": "2026-02-24T22:30:45.000Z",
+          "wordCount": 3302,
+          "title": "機関投資家が2025年末に2.5万BTC相当のビットコインETFを売却、米13F報告で判明",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/etf-new-position.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/etf-new-position.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=691031",
+          "author": "菊谷ルイス",
+          "description": "2月21日からブレインズのオンデマンド・ハッシュパワーサービスで1PH/sを数日間レンタルし続けた個人マイナーが、単独採掘に成功して3.125BTCを獲得。ソロマイニングの成功頻度は過去1年で増加傾向にあるが、統計的には依然として極めて低確率の挑戦であることに変わりはない。",
+          "link": "https://coinpost.jp/?p=691031",
+          "publishedOn": "2026-02-24T22:20:26.000Z",
+          "wordCount": 3381,
+          "title": "ビットコインの個人マイナーが3.1BTCの採掘に成功、1PH/sを数日間レンタルで",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-mining-13-nations.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-mining-13-nations.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=691037",
           "author": "K.Kobayashi",
           "description": "財務省は、国民にわかりやすく情報発信を行うための新たな取組として財務省noteを開始すると発表し、初回は片山大臣の挨拶を投稿した。今後は仮想通貨に関する投稿が行われる可能性もある。",
@@ -1065,16 +1110,6 @@
           "wordCount": 617,
           "title": "BNPパリバ、フランス籍MMFのトークン化シェアクラスをイーサリアムで発行・検証",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/24133452/d460f44cb83919ffc69eee91b935f3a2.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=549219",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/549219",
-          "publishedOn": "2026-02-20T10:38:40.000Z",
-          "wordCount": 638,
-          "title": "【2/20話題】リミポが保有ビットコインの運用へ、JCB・DG・りそなが渋谷カフェで「USDC」と「JPYC」の決済実証へなど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/20175147/a2dcf712568fb75f13d04daf99049bf2.jpg"
         }
       ]
     },
@@ -1083,6 +1118,66 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/ethereum-foundation-starts-staking-eth",
+          "author": "Cointelegraph  Christina Comben",
+          "description": "イーサリアム財団は、マイノリティ・クライアントと分散型インフラを利用して、自ら保有するETHのステーキングを開始した。これにより、進化を続けるイーサリアムのステーキング環境に新たな注目が集まっている。",
+          "link": "https://jp.cointelegraph.com/news/ethereum-foundation-starts-staking-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-24T23:13:30.000Z",
+          "wordCount": 245,
+          "title": "イーサリアム財団、ETHのステーキングを開始　クライアント多様性への懸念が続く中で",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5ODMtYWE3MS03NGJmLWE1YzEtMjBjNjNmNzMyNDRmLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5ODMtYWE3MS03NGJmLWE1YzEtMjBjNjNmNzMyNDRmLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/polymarket-bets-zachxbt-insider-trading",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "仮想通貨探偵による調査結果が木曜日に発表されるのを控え、予測市場プラットフォームではその対象を巡り700万ドルを超える賭けが行われている。",
+          "link": "https://jp.cointelegraph.com/news/polymarket-bets-zachxbt-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-24T23:04:07.000Z",
+          "wordCount": 217,
+          "title": "ポリマーケットのユーザー、ZachXBTの告発対象としてメテオラを予想",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU1MWMtYzgwNC03NWE3LTgyNDUtY2QxNGY5ZjI5MzYy.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU1MWMtYzgwNC03NWE3LTgyNDUtY2QxNGY5ZjI5MzYy.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/moonpay-launches-agents-giving-ai-systems-wallets-and-onchain-cash-flow",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "ムーンペイ（MoonPay）は、AIエージェントがオンチェーンでステーブルコイン取引を行うことを可能にするインフラを発表した。暗号資産（仮想通貨）企業と非仮想通貨企業の両方が「エージェント経済」の構築を急いでいる。",
+          "link": "https://jp.cointelegraph.com/news/moonpay-launches-agents-giving-ai-systems-wallets-and-onchain-cash-flow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-24T22:57:55.000Z",
+          "wordCount": 262,
+          "title": "ムーンペイ、「エージェント」機能をローンチ ｜ AIシステムにウォレットとオンチェーンの資金決済能力を提供",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzkxNTMtMmUyOC03NjMwLWE5NzktMThkZGRmNzdjMzAwLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzkxNTMtMmUyOC03NjMwLWE5NzktMThkZGRmNzdjMzAwLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-derivatives-eu-regulations-esma",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "欧州連合（EU）の仮想通貨市場規制（MiCA）の遵守状況を監視する当局は、仮想通貨デリバティブを「パーペチュアル・フューチャー（無期限先物）」や「パーペチュアル・コントラクト（無期限契約）」として販売している業者に対し、警告を発した。",
+          "link": "https://jp.cointelegraph.com/news/crypto-derivatives-eu-regulations-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-24T22:49:27.000Z",
+          "wordCount": 220,
+          "title": "欧州証券市場監督局（ESMA）、仮想通貨の無期限デリバティブは「CFD規制の対象」と警告",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU5NzEtOGI0Yy03YjkyLTkyMWItNjIxZjc1NzhkMjYz.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU5NzEtOGI0Yy03YjkyLTkyMWItNjIxZjc1NzhkMjYz.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/telegram-ceo-reportedly-under-criminal-probe-in-russia-over-alleged-terrorism-links",
           "author": "Cointelegraph  Helen Partz",
@@ -1704,21 +1799,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2676343655.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=153555",
-          "author": "Crypto Times 編集部",
-          "description": "分散型デリバティブ取引所 (DEX) として急速に台頭している「Hyperliquid（ハイパーリキッド）」が米経済誌フォーブスが発表する「Fintech 50」リストに選出されたことが明らかになりました。Hyperli […]\n投稿 分散型仮想通貨取引所「Hyperliquid」、Forbes Fintech 50に選出 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-hyperliquid-selected-for-forbes-fintech-50/",
-          "publishedOn": "2026-02-20T11:18:45.000Z",
-          "wordCount": 662,
-          "title": "分散型仮想通貨取引所「Hyperliquid」、Forbes Fintech 50に選出",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2552692341.jpg"
         }
       ]
     }

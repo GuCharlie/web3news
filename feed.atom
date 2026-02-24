@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-24T19:47:50.145Z</updated>
+    <updated>2026-02-24T20:30:13.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム財団、初めて7万ETHをステーキング開始　売却依存から方針転換]]></title>
+        <id>https://coinpost.jp/?p=690993</id>
+        <link href="https://coinpost.jp/?p=690993"/>
+        <updated>2026-02-24T20:05:33.000Z</updated>
+        <summary type="html"><![CDATA[イーサ財団が初めて約7万ETHのステーキングを開始したと発表。長年のコミュニティ批判を受けた方針転換で、売却圧力の軽減とネットワーク運営への直接参加による収益確保を目指している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2/24話題】ヴィタリックが3,765ETH売却、WLFIのUSD1に攻撃、ストラテジーがビットコイン追加取得など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=550025</id>
@@ -1339,26 +1349,6 @@ CME Group、24時間年中無休の暗号資産先物・オプション取引を
         <summary type="html"><![CDATA[経済産業省が、2026年2月27日開催の次世代金融カンファレンス「MoneyX」の後援に決定。ステーブルコインを軸に「通貨の進化と社会実装」をテーマとする本カンファレンスを、デジタル技術の社会実装やイノベーション創出を推進する経済産業省が支援する。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[次世代カンファレンス「MoneyX 2026」の後援に一般社団法人日本セキュリティトークン協会が決定]]></title>
-        <id>https://coinpost.jp/?p=688039</id>
-        <link href="https://coinpost.jp/?p=688039"/>
-        <updated>2026-02-20T08:00:50.000Z</updated>
-        <summary type="html"><![CDATA[2026年2月27日開催の次世代金融カンファレンス「MoneyX」の後援に一般社団法人日本セキュリティトークン協会が決定。ステーブルコインの社会実装をテーマに産官学が議論。参加費無料・承認制。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ストラテジーCEO、バーゼル規制が銀行の仮想通貨参入を制限と指摘]]></title>
-        <id>https://coinpost.jp/?p=690640</id>
-        <link href="https://coinpost.jp/?p=690640"/>
-        <updated>2026-02-20T07:54:56.000Z</updated>
-        <summary type="html"><![CDATA[ストラテジーCEOフォン・レー氏が、バーゼル規制が銀行の仮想通貨参入を阻害していると指摘。米国が仮想通貨の世界的中心地を目指すなら、実装方法の見直しが必要だと訴えた。]]></summary>
-        <author>
-            <name>Enzo</name>
         </author>
     </entry>
 </feed>

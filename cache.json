@@ -12,6 +12,36 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=338113",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● バイナンスは、規制当局の圧力を受けて同様のサービスを停止してから約5年ぶりに、トークン化株式取引を再開する。 ● 同取 ...\nバイナンス、Ondo Financeとの提携でトークン化株式取引を再開 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/338113/",
+          "publishedOn": "2026-02-25T00:41:51.000Z",
+          "wordCount": 1378,
+          "title": "バイナンス、Ondo Financeとの提携でトークン化株式取引を再開",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/4a779a695415dfb246aced6b768df1d250b7d9ee-3840x2160-1.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=338105",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● Meta Platformsは、ステーブルコインを活用した決済の管理を支援するため、第三者企業に対してRFP（提案依頼 ...\nマーク・ザッカーバーグ率いるメタ、今年後半にステーブルコイン事業へ再参入を計画 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/338105/",
+          "publishedOn": "2026-02-25T00:33:20.000Z",
+          "wordCount": 1383,
+          "title": "マーク・ザッカーバーグ率いるメタ、今年後半にステーブルコイン事業へ再参入を計画",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2679852515.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=338094",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● Binanceは、イラン関連で制裁対象となっている主体に資金が同取引所を通じて流れたことに懸念を示した調査担当者を解雇 ...\n暗号資産取引所最大手Binance、イラン関連資金数十億ドル移動の疑惑に反論 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/338094/",
+          "publishedOn": "2026-02-25T00:14:02.000Z",
+          "wordCount": 1381,
+          "title": "暗号資産取引所最大手Binance、イラン関連資金数十億ドル移動の疑惑に反論",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/ed2af5f5fd0be3ab906509d733f79e0b37ed19a3-1920x1080-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=338081",
           "author": "NADA NEWS編集部",
           "description": "【CoinDesk Summary】 ● 決済大手Stripe（ストライプ）は、同じく決済大手PayPal（ペイパル）の事業の全部または一部に対する買収提案を検 ...\n決済大手Stripe、PayPal買収を検討か：報道 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -404,6 +434,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=691054",
+          "author": "K.Kobayashi",
+          "description": "デジタルアセット社は、トークン化した英国債を使った国際的なレポ取引をカントンネットワーク上で実施したことを発表。ロンドン証券取引所グループなどが参加している。",
+          "link": "https://coinpost.jp/?p=691054",
+          "publishedOn": "2026-02-25T01:35:03.000Z",
+          "wordCount": 3386,
+          "title": "カントンネットワーク、トークン化した英国債のレポ取引を実施　ロンドン証券取引所Gなどが参加",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/Canton-Repo.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/Canton-Repo.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=691078",
+          "author": "Enzo",
+          "description": "JPモルガンのダイモンCEOが投資家説明会で、現在の金融市場が2008年危機前と「酷似」と警告。一部銀行がリスクの高い融資に走る動きを指摘し、「いつか信用サイクルは転換する」と述べた。",
+          "link": "https://coinpost.jp/?p=691078",
+          "publishedOn": "2026-02-25T00:46:51.000Z",
+          "wordCount": 3380,
+          "title": "JPモルガンCEO、2008年金融危機前と「酷似」と警告",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/jpmorgan-stablecoin-prediction.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/jpmorgan-stablecoin-prediction.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=691034",
           "author": "菊谷ルイス",
@@ -1774,21 +1834,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2246342051.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=153535",
-          "author": "Crypto Times 編集部",
-          "description": "現在のビットコイン (BTC) 市場は流動性枯渇状態による構造的な課題を抱えているとの指摘がなされています。オンチェーンデータ分析を手掛けるGlassnodeの最新レポートによると、この慢性的な流動性の欠如こそがBTCが […]\n投稿 なぜBTCは失速する？7万ドル突破を阻む需要の枯渇 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-the-severity-of-demand-depletion-hindering-btc-break-above-70000/",
-          "publishedOn": "2026-02-20T12:26:39.000Z",
-          "wordCount": 648,
-          "title": "なぜBTCは失速する？7万ドル突破を阻む需要の枯渇",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2676343655.jpg"
         }
       ]
     }

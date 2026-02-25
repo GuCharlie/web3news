@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-25T21:31:22.157Z</updated>
+    <updated>2026-02-25T22:28:33.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[上昇を維持できるか　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ]]></title>
+        <id>https://jp.cointelegraph.com/news/price-predictions-2-25-btc-eth-xrp-bnb-sol-doge-bch-ada-hype-xmr</id>
+        <link href="https://jp.cointelegraph.com/news/price-predictions-2-25-btc-eth-xrp-bnb-sol-doge-bch-ada-hype-xmr?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-25T22:26:24.000Z</updated>
+        <summary type="html"><![CDATA[投資家心理の劇的な改善を受け、ビットコインの強気派は7万ドルに向けて突き進み、ETHは2,000ドル台を奪還した。しかし、この上昇分を維持することはできるのだろうか。]]></summary>
+        <author>
+            <name>Cointelegraph  Rakesh Upadhyay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クラーケン、Proユーザー向けに固定金利の仮想通貨ローンを導入]]></title>
+        <id>https://jp.cointelegraph.com/news/kraken-launches-flexline-crypto-backed-loans-as-exchanges-revive-lending-market</id>
+        <link href="https://jp.cointelegraph.com/news/kraken-launches-flexline-crypto-backed-loans-as-exchanges-revive-lending-market?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-25T22:10:57.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所クラーケン（Kraken）の新しいローン製品「フレックスライン（Flexline）」により、Proユーザーはデジタル資産を売却することなく、それを担保に年利10%〜25%の固定金利で最長2年間の借り入れが可能になる。]]></summary>
+        <author>
+            <name>Cointelegraph  Nate Kostar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GDカルチャー、ビットコイン準備金の売却で自社株買いへ]]></title>
+        <id>https://coinpost.jp/?p=691298</id>
+        <link href="https://coinpost.jp/?p=691298"/>
+        <updated>2026-02-25T22:10:38.000Z</updated>
+        <summary type="html"><![CDATA[ナスダック上場のGDカルチャー・グループが保有する7500BTCの仮想通貨ビットコインの売却を取締役会が承認。ビットコイン価格の下落で含み損が拡大する中、仮想通貨を財務資産として保有する企業戦略のリスクが改めて浮き彫りに。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tether、急成長中のインターネット市場「Whop」に約310億円投資──ステーブルコイン決済拡大を目指す]]></title>
+        <id>https://www.nadanews.com/?p=338397</id>
+        <link href="https://www.nadanews.com/338397/"/>
+        <updated>2026-02-25T21:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Tether Investments（テザー・インベストメンツ）は、世界最大級のインターネット市場「Whop.com」への戦略的投資を発表した。 Whopの共同 ...
+Tether、急成長中のインターネット市場「Whop」に約310億円投資──ステーブルコイン決済拡大を目指す first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米ジェーン・ストリート、テラ崩壊巡るインサイダー疑惑で提訴　ビットコイン値動きへの影響指摘も]]></title>
+        <id>https://coinpost.jp/?p=691299</id>
+        <link href="https://coinpost.jp/?p=691299"/>
+        <updated>2026-02-25T21:35:46.000Z</updated>
+        <summary type="html"><![CDATA[Terraform Labsの管財人が、2022年の崩壊時に非公開情報を利用したとしてJane Streetを提訴した。市場では同社の売り圧力停止が25日のビットコイン反発の一因となった可能性を指摘する声も上がっている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米サークル決算、USDC流通高72%増　競合テザーは2カ月連続で縮小]]></title>
         <id>https://coinpost.jp/?p=691297</id>
@@ -1718,16 +1769,6 @@ Coinbase Premiumが示す機関マネーの現在地──制度化の中核企�
         <link href="https://coinpost.jp/?p=690750"/>
         <updated>2026-02-21T11:00:19.000Z</updated>
         <summary type="html"><![CDATA[米ビットコイン現物ETFからの資金流出が続いている。専門家の間ではレバレッジ調整局面との見方と、さらなる下落リスクを警戒する声に意見が分かれている。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クジラがビットコインの主要な売り圧に、不安定な市場続くか＝クリプトクアント]]></title>
-        <id>https://coinpost.jp/?p=690735</id>
-        <link href="https://coinpost.jp/?p=690735"/>
-        <updated>2026-02-21T10:15:10.000Z</updated>
-        <summary type="html"><![CDATA[クリプトクアントが、大口投資家による取引所へのビットコイン流入が増加していると指摘。アルトコインやステーブルコインの状況から価格が大きく動くリスクを分析した。]]></summary>
         <author>
             <name>A.Yamada</name>
         </author>

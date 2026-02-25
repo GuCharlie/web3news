@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=338400",
+          "author": "Shoko Galaviz",
+          "description": "英金融行為規制機構（FCA）は、ステーブルコイン関連サービスを規制環境下で試験する「Regulatory Sandbox（規制のサンドボックス）」に参加する4社 ...\n英FCA、ステーブルコイン・サンドボックス参加4社を選定 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/338400/",
+          "publishedOn": "2026-02-25T22:45:00.000Z",
+          "wordCount": 1360,
+          "title": "英FCA、ステーブルコイン・サンドボックス参加4社を選定",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2306083461.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=338397",
           "author": "Shoko Galaviz",
           "description": "Tether Investments（テザー・インベストメンツ）は、世界最大級のインターネット市場「Whop.com」への戦略的投資を発表した。 Whopの共同 ...\nTether、急成長中のインターネット市場「Whop」に約310億円投資──ステーブルコイン決済拡大を目指す first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -464,6 +474,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=691306",
+          "author": "菊谷ルイス",
+          "description": "イーサリアム創設者のヴィタリック・ブテリン氏が、2月中に約1.7万ETHを売却したことが判明した。市場価格が大幅に下落する中での売却だが、プライバシー技術等の研究支援を目的とした資金調達の一環と見られる。",
+          "link": "https://coinpost.jp/?p=691306",
+          "publishedOn": "2026-02-25T22:55:24.000Z",
+          "wordCount": 4096,
+          "title": "ヴィタリック、2月に1.7万ETH超を売却　その背景は？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/vitalik-eth_0524.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/vitalik-eth_0524.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=691298",
           "author": "菊谷ルイス",
@@ -1183,21 +1208,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=690750",
-          "author": "A.Yamada",
-          "description": "米ビットコイン現物ETFからの資金流出が続いている。専門家の間ではレバレッジ調整局面との見方と、さらなる下落リスクを警戒する声に意見が分かれている。",
-          "link": "https://coinpost.jp/?p=690750",
-          "publishedOn": "2026-02-21T11:00:19.000Z",
-          "wordCount": 3425,
-          "title": "ビットコイン現物ETF、5週間で累計40億ドル超流出",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/etf-bitcoin-canada.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/etf-bitcoin-canada.jpg"
         }
       ]
     },
@@ -1493,6 +1503,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/tokenized-us-treasurys-rise-1b-2026",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "米国債トークン化市場の時価総額は、2025年初頭時点では40億ドル未満であったが、その後着実に上昇を続けている。",
+          "link": "https://jp.cointelegraph.com/news/tokenized-us-treasurys-rise-1b-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-25T22:53:06.000Z",
+          "wordCount": 309,
+          "title": "米国債トークン化市場、2026年初頭から10億ドル以上増加",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzk1NzUtOTg0MC03MzZkLTg3ZGUtZDFjY2Q0MDcxMGRhLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzk1NzUtOTg0MC03MzZkLTg3ZGUtZDFjY2Q0MDcxMGRhLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/hut-8-swings-to-248m-loss-as-7b-ai-data-center-lease-anchors-pivot-from-bitcoin-mining",
+          "author": "Cointelegraph  Nate Kostar",
+          "description": "ビットコインマイナーのハット8（Hut 8）は、15年間で70億ドルにのぼるAIデータセンターのリース契約を進める一方で、保有するデジタル資産による損失が膨らんだ。",
+          "link": "https://jp.cointelegraph.com/news/hut-8-swings-to-248m-loss-as-7b-ai-data-center-lease-anchors-pivot-from-bitcoin-mining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-25T22:49:43.000Z",
+          "wordCount": 277,
+          "title": "ハット8、第4四半期は赤字転落も計算事業の収益貢献が増大",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzk1YTEtMTY4NS03OWE5LWEyYmYtM2JhNjZkZDYzMjI2LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzk1YTEtMTY4NS03OWE5LWEyYmYtM2JhNjZkZDYzMjI2LmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/price-predictions-2-25-btc-eth-xrp-bnb-sol-doge-bch-ada-hype-xmr",
           "author": "Cointelegraph  Rakesh Upadhyay",

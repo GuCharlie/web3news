@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-27T17:31:53.036Z</updated>
+    <updated>2026-02-27T18:36:49.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン 3万ドルまで下落する？ アナリストからは2026年第4四半期での底打ち観測も]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-to-30k-analysts-debate-when-what-price-btc-price-will-bottom</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-to-30k-analysts-debate-when-what-price-btc-price-will-bottom?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-27T17:56:20.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は金曜日に売りが再燃し、水曜日の7万ドルの高値から5.5％下落した。記事執筆時点では6万5950ドルで推移している。複数のアナリストは「さらに大きく下落する」と指摘し、2026年第4四半期に底を付ける可能性があるとの見方を示した。]]></summary>
+        <author>
+            <name>Cointelegraph  Nancy Lubale</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン下落、イーサリアムやソラナも軟調──AI関連トークンは上昇]]></title>
         <id>https://www.nadanews.com/?p=338874</id>
@@ -3138,27 +3148,6 @@ AI懸念でIBMが11％急落、暗号資産も一段安 first appeared on NADA N
         <summary type="html"><![CDATA[コインシェアーズは、ETFなどの仮想通貨投資商品全体の先週における資金フローは約446億円の純流出だったと報告。ビットコインの投資商品でセンチメント悪化が顕著になっていると指摘している。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Bitcoin to zero」の検索が米国で急増、だが底打ちシグナルはまちまち]]></title>
-        <id>https://www.nadanews.com/?p=337698</id>
-        <link href="https://www.nadanews.com/337698/"/>
-        <updated>2026-02-23T06:15:00.000Z</updated>
-        <summary type="html"><![CDATA[【CoinDesk Summary】 ● 米国でのGoogle（グーグル）検索において「bitcoin zero（ビットコイン・ゼロ）」は2月に過去最高を記録し ...
-「Bitcoin to zero」の検索が米国で急増、だが底打ちシグナルはまちまち first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>NADA NEWS編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Platformer株式会社、次世代カンファレンス「MoneyX 2026」のゴールドスポンサーに決定]]></title>
-        <id>https://coinpost.jp/?p=690826</id>
-        <link href="https://coinpost.jp/?p=690826"/>
-        <updated>2026-02-23T06:00:49.000Z</updated>
-        <summary type="html"><![CDATA[2026年2月27日開催の次世代金融カンファレンス「MoneyX」のゴールドスポンサーにDigital Platformer株式会社が決定。日本初の預金型トークン実装企業として、ステーブルコインを軸とした次世代決済基盤の構築を推進する。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>

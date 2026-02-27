@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-27T20:23:19.679Z</updated>
+    <updated>2026-02-27T20:51:29.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインETF、3日で1700億円の資金流入]]></title>
+        <id>https://coinpost.jp/?p=691851</id>
+        <link href="https://coinpost.jp/?p=691851"/>
+        <updated>2026-02-27T20:45:23.000Z</updated>
+        <summary type="html"><![CDATA[米国の現物ビットコインETFが直近3営業日で11億ドル超の純流入を記録。5週間にわたる流出トレンドに終止符を打ち、規制案の進展を背景とした機関投資家の買い意欲が鮮明に。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韓国国税庁、プレスリリースでシードフレーズを誤って公開　約480万ドル相当のトークンが流出]]></title>
+        <id>https://jp.cointelegraph.com/news/south-korea-tax-office-leaked-wallet-seed</id>
+        <link href="https://jp.cointelegraph.com/news/south-korea-tax-office-leaked-wallet-seed?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-27T20:25:10.000Z</updated>
+        <summary type="html"><![CDATA[韓国国税庁（NTS）が木曜日、プレスリリース内で仮想通貨ウォレットのシードフレーズを誤って公開し、当該アドレスから約480万ドル相当の400万PRTGトークンが流出した。]]></summary>
+        <author>
+            <name>Cointelegraph  Christina Comben</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓国国税庁、差押え仮想通貨の復元フレーズを誤公開　7億円相当のトークンが流出か]]></title>
         <id>https://coinpost.jp/?p=691820</id>

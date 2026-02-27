@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-27T10:33:23.001Z</updated>
+    <updated>2026-02-27T11:28:48.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米国上場の現物ビットコインETF、3日間で10億ドル超流入　売り一巡観測も]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-etfs-1b-inflows-drawdown-dip-buying</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-etfs-1b-inflows-drawdown-dip-buying?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-27T11:06:30.000Z</updated>
+        <summary type="html"><![CDATA[米国上場の現物ビットコイン上場投資信託（ETF）は今週、3営業日で10億ドル超の純流入を記録した。ビットコイン（BTC）が依然として最高値を大きく下回る水準にある中での資金反転となった。]]></summary>
+        <author>
+            <name>Cointelegraph  Ezra Reguerra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインの底打ちは26年9月から11月か、過去サイクルから分析]]></title>
         <id>https://crypto-times.jp/?p=154204</id>
@@ -3190,58 +3200,6 @@ AI懸念でIBMが11％急落、暗号資産も一段安 first appeared on NADA N
         <summary type="html"><![CDATA[トランプコイン（$TRUMP）の運営チームが新たな成長施策を発表。DeFiプロトコルKamino Financeを活用した約15.5億円超のインセンティブ計画や、Game Studio設立などエコシステム拡張を推進する。]]></summary>
         <author>
             <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインマイナーBitdeer、BTC保有ゼロに]]></title>
-        <id>https://coinpost.jp/?p=690797</id>
-        <link href="https://coinpost.jp/?p=690797"/>
-        <updated>2026-02-22T23:21:13.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨マイニング企業Bitdeerがビットコイン純保有量ゼロを公表。3億2,500万ドルの転換社債発行と同時に約1,132.9BTCを全売却し、AIインフラへのピボットを加速。自社管理ハッシュレートは上場企業首位に。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オンチェーン金（Tokenized Gold）急拡大－トークン化ゴールドの成長と“信用リスク”の裏側【エックスウィンリサーチ】]]></title>
-        <id>https://www.nadanews.com/?p=337853</id>
-        <link href="https://www.nadanews.com/337853/"/>
-        <updated>2026-02-22T23:20:00.000Z</updated>
-        <summary type="html"><![CDATA[● Tokenized Goldは「現物金の権利移転」をオンチェーン化し、超低コストで大口移転を可能にするRWAである。● 市場規模は急拡大し、XAUTとPAX ...
-オンチェーン金（Tokenized Gold）急拡大－トークン化ゴールドの成長と“信用リスク”の裏側【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>XWIN Research</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カーブ創設者、DAO内の意見対立は「健全な証拠」]]></title>
-        <id>https://jp.cointelegraph.com/news/disagreement-healthy-sign-dao-curve</id>
-        <link href="https://jp.cointelegraph.com/news/disagreement-healthy-sign-dao-curve?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-02-22T23:01:28.000Z</updated>
-        <summary type="html"><![CDATA[分散型自律組織（DAO）は、カーブ・ファイナンスやアーベ（Aave）を含む最大級の分散型金融プロトコルの運営を担っている。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[銀行に追い風か：ステーブルコイン利用者の77％が「利用可能なら銀行でウォレットを開設する」と回答]]></title>
-        <id>https://www.nadanews.com/?p=337722</id>
-        <link href="https://www.nadanews.com/337722/"/>
-        <updated>2026-02-22T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[【CoinDesk Summary】 ● ある調査によると、ステーブルコイン利用者4658人の77％が、自身が使っている銀行またはフィンテックアプリで利用できる ...
-銀行に追い風か：ステーブルコイン利用者の77％が「利用可能なら銀行でウォレットを開設する」と回答 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>NADA NEWS編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米SEC、業者にステーブルコインの2%「ヘアカット」容認　資本規制を緩和]]></title>
-        <id>https://jp.cointelegraph.com/news/sec-broker-dealer-2-haircut-stablecoins</id>
-        <link href="https://jp.cointelegraph.com/news/sec-broker-dealer-2-haircut-stablecoins?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-02-22T22:45:27.000Z</updated>
-        <summary type="html"><![CDATA[米規制当局は、証券取次業者（ブローカー・ディーラー）が純資本規制の算定において、保有するステーブルコインを資産として計上することに「異議を唱えない」との方針を示した。]]></summary>
-        <author>
-            <name>Cointelegraph  Vince Quill</name>
         </author>
     </entry>
 </feed>

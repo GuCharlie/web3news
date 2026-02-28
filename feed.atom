@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-28T03:29:42.135Z</updated>
+    <updated>2026-02-28T06:32:54.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金上昇の裏でビットコインが失速　明暗を分けた要因は？]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-price-slump-versus-gold-s-gains-highlights-evolving-crypto-market</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-price-slump-versus-gold-s-gains-highlights-evolving-crypto-market?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-28T06:08:31.000Z</updated>
+        <summary type="html"><![CDATA[2026年に入り、ビットコイン（BTC）と金は対照的な値動きを示している。あるアナリストは、この乖離が世界的なマネーサプライの着実な拡大、テック株へのリスク選好の低下、そして仮想通貨取引所残高の減少と整合していると指摘する。]]></summary>
+        <author>
+            <name>Cointelegraph  Biraajmaan Tamuly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヴィタリック、イーサリアムのスケーリング本格化へ　ロードマップ提示]]></title>
+        <id>https://coinpost.jp/?p=691906</id>
+        <link href="https://coinpost.jp/?p=691906"/>
+        <updated>2026-02-28T05:00:56.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアム共同創設者のヴィタリック・ブテリン氏が短期・長期のスケーリングロードマップを公開した。分散性を維持しつつ規模拡張する計画を説明している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【今週のメタプラネットまとめ】テスタ氏がメタプラ株の高騰を振り返る。株価急騰で330円突破]]></title>
         <id>https://crypto-times.jp/?p=154175</id>

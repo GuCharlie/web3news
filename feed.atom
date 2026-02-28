@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-28T19:40:41.554Z</updated>
+    <updated>2026-02-28T20:21:09.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ランサムウェア攻撃、2025年に50％増加　中小企業への標的シフトが鮮明に＝チェイナリシス]]></title>
+        <id>https://jp.cointelegraph.com/news/ransomware-attacks-rose-50-in-2025-chainalysis</id>
+        <link href="https://jp.cointelegraph.com/news/ransomware-attacks-rose-50-in-2025-chainalysis?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-02-28T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーン分析企業チェイナリシスによると、2025年のランサムウェア攻撃件数は前年比で50％増加した。ハッカーが大規模攻撃から中小規模の標的へと焦点を移したことが背景にある。]]></summary>
+        <author>
+            <name>Cointelegraph  Brian Quarmby</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マウントゴックス元CEO、52億ドル相当のBTC回収へハードフォーク提案]]></title>
         <id>https://jp.cointelegraph.com/news/mt-gox-former-ceo-proposes-hard-fork-recover-lost-bitcoin</id>
@@ -3045,28 +3055,6 @@ Strategy、3980万ドル相当のビットコインを追加購入──総保�
 Crypto.com、国法信託銀行免許の条件付き承認を取得 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X、「Smart Cashtags」と決済機能「X Money」の実装へ──金融プラットフォーム化に向けた動向【MCB FinTechカタログ通信】]]></title>
-        <id>https://www.nadanews.com/?p=337892</id>
-        <link href="https://www.nadanews.com/337892/"/>
-        <updated>2026-02-24T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年2月10日、X（旧Twitter）がプラットフォーム上での金融機能に関する具体的な方針を明らかにしました。同社は数週間以内に「Smart Cashta ...
-X、「Smart Cashtags」と決済機能「X Money」の実装へ──金融プラットフォーム化に向けた動向【MCB FinTechカタログ通信】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>宮本航歩</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヴィタリック・ブテリン氏、2月に約1800万ドル相当のETHを売却]]></title>
-        <id>https://www.nadanews.com/?p=338044</id>
-        <link href="https://www.nadanews.com/338044/"/>
-        <updated>2026-02-24T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum（イーサリアム）の共同創設者であるVitalik Buterin（ヴィタリック・ブテリン）氏が、ここ数日にわたり保有するイーサリアム（ETH）の ...
-ヴィタリック・ブテリン氏、2月に約1800万ドル相当のETHを売却 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
         </author>
     </entry>
 </feed>

@@ -860,26 +860,6 @@
           "wordCount": 1343,
           "title": "Crypto.com、国法信託銀行免許の条件付き承認を取得",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2143601023.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=337892",
-          "author": "宮本航歩",
-          "description": "2026年2月10日、X（旧Twitter）がプラットフォーム上での金融機能に関する具体的な方針を明らかにしました。同社は数週間以内に「Smart Cashta ...\nX、「Smart Cashtags」と決済機能「X Money」の実装へ──金融プラットフォーム化に向けた動向【MCB FinTechカタログ通信】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/337892/",
-          "publishedOn": "2026-02-24T08:00:00.000Z",
-          "wordCount": 1380,
-          "title": "X、「Smart Cashtags」と決済機能「X Money」の実装へ──金融プラットフォーム化に向けた動向【MCB FinTechカタログ通信】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/nadanews_top-32-1.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=338044",
-          "author": "井上 俊彦",
-          "description": "Ethereum（イーサリアム）の共同創設者であるVitalik Buterin（ヴィタリック・ブテリン）氏が、ここ数日にわたり保有するイーサリアム（ETH）の ...\nヴィタリック・ブテリン氏、2月に約1800万ドル相当のETHを売却 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/338044/",
-          "publishedOn": "2026-02-24T08:00:00.000Z",
-          "wordCount": 1363,
-          "title": "ヴィタリック・ブテリン氏、2月に約1800万ドル相当のETHを売却",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/DSC_5581.jpg"
         }
       ]
     },
@@ -2613,6 +2593,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/ransomware-attacks-rose-50-in-2025-chainalysis",
+          "author": "Cointelegraph  Brian Quarmby",
+          "description": "ブロックチェーン分析企業チェイナリシスによると、2025年のランサムウェア攻撃件数は前年比で50％増加した。ハッカーが大規模攻撃から中小規模の標的へと焦点を移したことが背景にある。",
+          "link": "https://jp.cointelegraph.com/news/ransomware-attacks-rose-50-in-2025-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-02-28T20:00:00.000Z",
+          "wordCount": 228,
+          "title": "ランサムウェア攻撃、2025年に50％増加　中小企業への標的シフトが鮮明に＝チェイナリシス",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzljNmUtMzEzMi03NDM3LWJiMWEtYWU4ZjVmYzk5Mzg4LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzljNmUtMzEzMi03NDM3LWJiMWEtYWU4ZjVmYzk5Mzg4LmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/mt-gox-former-ceo-proposes-hard-fork-recover-lost-bitcoin",
           "author": "Cointelegraph  Felix Ng",

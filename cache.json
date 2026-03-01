@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=339141",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● ビットコイン（BTC）の将来は、技術的要因よりもむしろ、AI（人工知能）が成長率や雇用、実質金利、そして中央銀行の流動 ...\nビットコイン、「雇用を奪うAI」によって上昇する可能性も first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/339141/",
+          "publishedOn": "2026-03-01T01:05:00.000Z",
+          "wordCount": 1359,
+          "title": "ビットコイン、「雇用を奪うAI」によって上昇する可能性も",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-52.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=339142",
           "author": "XWIN Research",
           "description": "● 大規模軍事衝突後も、オンチェーン指標に構造的変化は見られず影響は限定的。● 戦争は短期ボラを生むが、トレンドを決めるのは流動性と制度。● 注目は地政学よりも ...\n地政学リスクはビットコインを本当に動かすのか──オンチェーンが示す「限定的影響」【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -854,6 +864,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=691595",
+          "author": "CoinPost編集部",
+          "description": "前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナなど主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。",
+          "link": "https://coinpost.jp/?p=691595",
+          "publishedOn": "2026-03-01T00:30:22.000Z",
+          "wordCount": 3671,
+          "title": "今週の主要仮想通貨材料まとめ、ヴィタリックのETH売却やプログマのアバランチ移行など",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/altcoin-materials-new-buy-sell.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/altcoin-materials-new-buy-sell.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=691873",
+          "author": "CoinPost編集部",
+          "description": "今週は、ビットコインの個人マイナーの採掘成功、金融庁による仮想通貨の分離課税の解説、ブリッジウォーター・アソシエイツの創業者レイ・ダリオ氏の投資術に関する記事が関心を集めた。",
+          "link": "https://coinpost.jp/?p=691873",
+          "publishedOn": "2026-03-01T00:25:27.000Z",
+          "wordCount": 3427,
+          "title": "週刊仮想通貨ニュース｜個人マイナーのビットコイン採掘成功や金融庁の暗号資産の分離課税解説に高い関心",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=691906",
           "author": "A.Yamada",
@@ -2555,16 +2595,6 @@
           "wordCount": 666,
           "title": "21シェアーズの「スイ（SUI）」現物ETF、ナスダックに上場",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/25111625/6254cdba51e5bb2b564d91f7e12a12c7.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=550025",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/550025",
-          "publishedOn": "2026-02-24T12:10:24.000Z",
-          "wordCount": 649,
-          "title": "【2/24話題】ヴィタリックが3,765ETH売却、WLFIのUSD1に攻撃、ストラテジーがビットコイン追加取得など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/24194413/20f078f37f473ebfaddbed0a7e7b624a.jpg"
         }
       ]
     },

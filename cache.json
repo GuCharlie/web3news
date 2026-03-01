@@ -1960,16 +1960,6 @@
           "wordCount": 823,
           "title": "バイナンス、オンドファイナンスのトークン化米国株・ETFを取扱開始",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/26111753/32d300c52472235e8fdd1873e793d222.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=550567",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/550567",
-          "publishedOn": "2026-02-25T10:43:09.000Z",
-          "wordCount": 629,
-          "title": "【2/25話題】ストライプがペイパル買収を検討か、イーサリアム財団が約7万ETHのステーキング開始など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/25185252/120f7df858a17e48493ae7212a5a5b8f.jpg"
         }
       ]
     },
@@ -1978,6 +1968,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/strategy-raises-strc-dividend-11-50",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "STRCの配当における直近の月次調整である25ベーシスポイントの引き上げは、仮想通貨市場の急激な下落とマクロ経済の不透明感の中で行われた。",
+          "link": "https://jp.cointelegraph.com/news/strategy-raises-strc-dividend-11-50?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-01T22:42:44.000Z",
+          "wordCount": 267,
+          "title": "ストラテジー、2026年3月のSTRC優先配当を11.5%に引き上げ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2FhMTYtNGE5Ni03ZjZkLTgwMmUtMGY1MzQ3ZmQ2MTlmLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2FhMTYtNGE5Ni03ZjZkLTgwMmUtMGY1MzQ3ZmQ2MTlmLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-undervalued-gold-potential-rally",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "Jan3のCEOでビットコイン推進派のサムソン・モウ氏によれば、ゴールドは1オンスあたり5,247ドルを超えて上昇した後、「買われすぎ（オーバーエクステンデッド）」の状態にあるという。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-undervalued-gold-potential-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-01T22:32:26.000Z",
+          "wordCount": 243,
+          "title": "ビットコインはゴールドに対し割安　反発の可能性を示唆＝アナリスト",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNjOGItOTk1Ni03MThjLThmODEtMmFkOTFhM2E3OGU4LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNjOGItOTk1Ni03MThjLThmODEtMmFkOTFhM2E3OGU4LmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/kalshi-founder-khamenei-market-carveout",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "予測市場プラットフォームのカルシ（Kalshi）は、イラン指導者の死亡が確認される前に、ユーザーへの払い戻しを行い、直近の取引価格で市場を清算すると発表した。",
+          "link": "https://jp.cointelegraph.com/news/kalshi-founder-khamenei-market-carveout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-01T22:18:59.000Z",
+          "wordCount": 235,
+          "title": "カルシ創業者がイラン・ハメイニ師関連市場の除外規定について最新情報を公開",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzMwZjYtNzkyMS03NWUwLWExYjAtMjMwMDEyY2YyMjcwLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzMwZjYtNzkyMS03NWUwLWExYjAtMjMwMDEyY2YyMjcwLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/tokenized-gold-weekend-price-discovery-cme-closed",
           "author": "Cointelegraph  Amin Haqshanas",

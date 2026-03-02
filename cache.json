@@ -12,6 +12,36 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=339231",
+          "author": "栃山 直樹",
+          "description": "「NEWYORKER」や「Brooks Brothers」を展開する1879年創業のアパレル老舗、ダイドーリミテッドが2月27日、最大10億円規模のビットコイン ...\n「NEWYORKER」のダイドーリミテッド、10億円のビットコイン購入を決定──老舗企業のDAT参入続く first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/339231/",
+          "publishedOn": "2026-03-02T05:51:48.000Z",
+          "wordCount": 1351,
+          "title": "「NEWYORKER」のダイドーリミテッド、10億円のビットコイン購入を決定──老舗企業のDAT参入続く",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/725eabab78df9c4f23387fc17a9908a4.png"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=339216",
+          "author": "増田隆幸",
+          "description": "ステーブルコインは、もはや決済や取引のための“通貨”ではない。トークン化MMFやトークン化国債の拡大を背景に、「金利を生む資産」として再定義されつつある。 Bl ...\nステーブルコインを「入れておくだけ」──Secured Finance、オンチェーン金利インフラを抽象化する「Yield Vault」公開 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/339216/",
+          "publishedOn": "2026-03-02T04:50:00.000Z",
+          "wordCount": 1466,
+          "title": "ステーブルコインを「入れておくだけ」──Secured Finance、オンチェーン金利インフラを抽象化する「Yield Vault」公開",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-56.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=339201",
+          "author": "栃山 直樹",
+          "description": "NFTマーケットプレイスのMagic Edenが2月28日、ビットコイン（BTC）およびイーサリアム互換（EVM）チェーンのサポートを終了すると発表した。今後は ...\nNFTマーケットプレイス・Magic Eden、一部閉鎖──BTCとEVMチェーンのサポート終了 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/339201/",
+          "publishedOn": "2026-03-02T01:51:10.000Z",
+          "wordCount": 1384,
+          "title": "NFTマーケットプレイス・Magic Eden、一部閉鎖──BTCとEVMチェーンのサポート終了",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/4c6f2a1297acfd0b1f9fffde4a9c9563.png"
+        },
+        {
           "id": "https://www.nadanews.com/?p=339193",
           "author": "NADA NEWS編集部",
           "description": "【CoinDesk Summary】 ● Mercado Bitcoin（メルカド・ビットコイン）のアナリストによると、金（ゴールド）建てで見た場合、ビットコイ ...\nビットコイン、底入れが近いか──金建てで見れば来月にも：アナリスト first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -754,6 +784,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=692031",
+          "author": "幸田直子",
+          "description": "米ミネソタ州議会が仮想通貨ATMの全面禁止法案「HF 3642」を審議した。同州では2025年だけで70件超・54万ドルの詐欺被害が報告されており、被害者の大半が高齢者だ。業界側は禁止ではなく規制強化を主張している。",
+          "link": "https://coinpost.jp/?p=692031",
+          "publishedOn": "2026-03-02T05:40:55.000Z",
+          "wordCount": 3948,
+          "title": "仮想通貨ATMを全面禁止へ？米ミネソタ州が法案審議、高齢者詐欺被害が急増",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/bitcoinatm1022211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/bitcoinatm1022211.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=692020",
+          "author": "Enzo",
+          "description": "JPモルガンは仮想通貨市場構造法案「クラリティ法案」が年央までに可決される可能性があり、下半期の仮想通貨市場にとってポジティブな触媒になると予測するリポートを公表した。",
+          "link": "https://coinpost.jp/?p=692020",
+          "publishedOn": "2026-03-02T04:19:01.000Z",
+          "wordCount": 3939,
+          "title": "JPモルガン、仮想通貨市場構造法案が年央までに可決と予測",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/ussenate0827211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/ussenate0827211.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=691996",
+          "author": "A.Yamada",
+          "description": "日銀が当座預金のブロックチェーン上でのトークン化を構想している。24時間365日の大口決済や、メガバンクのステーブルコインとの連携も期待される。",
+          "link": "https://coinpost.jp/?p=691996",
+          "publishedOn": "2026-03-02T04:06:13.000Z",
+          "wordCount": 3944,
+          "title": "日本銀行、当座預金のトークン化を構想＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/japan-bank_0419.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/japan-bank_0419.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=691748",
+          "author": "Enzo",
+          "description": "次世代金融カンファレンス「MoneyX 2026」のセッションレポート。トークン化預金「DCJPY」を活用したB2B決済の自動化や、地方中小企業のDX推進、AIエージェントによる決済代行の未来像について業界関係者が議論した。",
+          "link": "https://coinpost.jp/?p=691748",
+          "publishedOn": "2026-03-02T01:57:22.000Z",
+          "wordCount": 3763,
+          "title": "商流と金流の融合でB2B決済を変革、トークン化預金と地方DXの可能性を議論｜MoneyX 2026",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/IMG_0602.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/IMG_0602.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=691969",
           "author": "A.Yamada",
@@ -1782,6 +1872,56 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=552007",
+          "author": "gentosha_takahashi",
+          "description": "最短8秒ファイナリティへ イーサリアム財団（Ethereum Foundation：EF）が、2029年までに7回のハードフォークを想定する長期ロードマップ「ストローマップ（strawmap）」を公開した。ベースレイヤー […]",
+          "link": "https://www.neweconomy.jp/posts/552007",
+          "publishedOn": "2026-03-02T05:53:25.000Z",
+          "wordCount": 692,
+          "title": "イーサリアム財団、耐量子暗号・シールド送金含む長期構想「strawmap」公開",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/02145317/5f41ab031db720a35d8c0fdb99055911.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=552006",
+          "author": "OtsugaShinya",
+          "description": "ダイドーリミテッドがビットコイン取得へ 東証スタンダード上場の老舗アパレル企業ダイドーリミテッドが、ビットコインの購入予定を2月27日に発表した。同社は主要ブランドとして「ニューヨーカー」と「ブルックスブラザーズ」を展開 […]",
+          "link": "https://www.neweconomy.jp/posts/552006",
+          "publishedOn": "2026-03-02T05:52:04.000Z",
+          "wordCount": 601,
+          "title": "老舗アパレル企業ダイドーリミテッド、10億円でビットコイン購入へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/02145159/BTC15-250714-PIXTA.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=551982",
+          "author": "watanabeyousuke",
+          "description": "ZKシンクの初期ロールアップが5月4日に停止 イーサリアム（Ethereum）レイヤー2ネットワーク「ZKシンク（ZKsync）」の初期ロールアップ「ZKシンク・ライト（ZKsync Lite）」が、ブロック生成を5月4 […]",
+          "link": "https://www.neweconomy.jp/posts/551982",
+          "publishedOn": "2026-03-02T04:24:35.000Z",
+          "wordCount": 800,
+          "title": "ZKシンク、5/4に「ZKsync Lite」完全廃止。ブロック生成停止と最終状態の凍結へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/02132424/bacb9abf3984736a28ccb39bec585a4b.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=551952",
+          "author": "watanabeyousuke",
+          "description": "リップルが2026年から分散型の支援体制へ 米リップル（Ripple）が、XRPレジャー（XRP Ledger：XRPL）におけるエコシステム支援モデルを2026年からより分散型の体制へ移行する方針を2月26日に発表した […]",
+          "link": "https://www.neweconomy.jp/posts/551952",
+          "publishedOn": "2026-03-02T03:17:50.000Z",
+          "wordCount": 797,
+          "title": "リップル、XRPLの支援モデルを分散型に移行で新体制へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/02121737/cf4ae59824fde223521883778e4f0a1a.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=551943",
+          "author": "gentosha_takahashi",
+          "description": "ビットコインの不変性巡り議論に 暗号資産（仮想通貨）取引所マウントゴックス（Mt.Gox）の元CEOであるマルク・カルプレス（Mark Karpeles）氏が、2011年に同取引所がハッキングされたことで流出した約79, […]",
+          "link": "https://www.neweconomy.jp/posts/551943",
+          "publishedOn": "2026-03-02T03:04:20.000Z",
+          "wordCount": 749,
+          "title": "マウントゴックス元CEO、約8万BTC回収でビットコインハードフォーク提案。GitHubで一時クローズに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/02120410/86bb22827d2aca4f03cb45fc0b50cc4e.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=551595",
           "author": "NewEconomyPodcast",
           "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
@@ -2610,6 +2750,126 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=154363",
+          "author": "よきょい",
+          "description": "XRP Ledger運営は、提案されていたアップグレードに重大な脆弱性が発見されたもののメインネットワークへの導入前に回避に成功したと発表しました。 この脆弱性は、複数の操作を一つのトランザクションにまとめる「Batch […]\n投稿 XRP Ledger、署名なしで出金可能な致命的バグを回避 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-xrp-ledger-avoids-fatal-bug-that-allowed-withdrawals-without-signatures/",
+          "publishedOn": "2026-03-02T06:37:20.000Z",
+          "wordCount": 604,
+          "title": "XRP Ledger、署名なしで出金可能な致命的バグを回避",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2680177079.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=154364",
+          "author": "よきょい",
+          "description": "コインベースCEOのブライアン・アームストロング氏は、同社の運営においてAIエージェントが既に重要な役割を果たしていることを明らかにしました。 Coinbase CEO reveals how ai agents are […]\n投稿 コインベースCEOが語る「AI×仮想通貨」の革新性とは は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-coinbase-ceo-talks-about-the-revolutionary-potential-of-ai-x-cryptocurrency/",
+          "publishedOn": "2026-03-02T06:17:35.000Z",
+          "wordCount": 646,
+          "title": "コインベースCEOが語る「AI×仮想通貨」の革新性とは",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2640658375.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=154365",
+          "author": "よきょい",
+          "description": "ソニー銀行は国内フィンテック企業のJPYC株式会社と業務提携し、音楽やエンターテインメント領域における円建てステーブルコイン「JPYC」の導入を目指すと発表しました。 ステーブルコインJPYCの購入方法｜6%キャッシュバ […]\n投稿 ソニー銀行、JPYCと提携｜エンタメ決済に仮想通貨導入へ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-sony-bank-partners-with-jpyc/",
+          "publishedOn": "2026-03-02T06:03:45.000Z",
+          "wordCount": 594,
+          "title": "ソニー銀行、JPYCと提携｜エンタメ決済に仮想通貨導入へ",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2649669915.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=154381",
+          "author": "よきょい",
+          "description": "3月2日、ビットコイン（BTC）の価格は66,170ドル前後で推移しており、イーサリアム（ETH）は約1,950ドル、ソラナ（SOL）は約84ドルで取引されています。世界の暗号資産時価総額は2.36兆ドルで、ビットコイン […]\n投稿 【今日の仮想通貨ニュース】中東情勢緊迫でBTC乱高下。BTC永久紛失で相続の危機 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-btc-fluctuates-wildly-due-to-tensions-in-the-middle-east-btc-is-at-risk-of-being-permanently-lost-and-inherited/",
+          "publishedOn": "2026-03-02T04:28:13.000Z",
+          "wordCount": 615,
+          "title": "【今日の仮想通貨ニュース】中東情勢緊迫でBTC乱高下。BTC永久紛失で相続の危機",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2278284389.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=154366",
+          "author": "よきょい",
+          "description": "ビットコイン（BTC）は週末のイラン・イスラエル間での軍事衝突を受け、一時は6万3000ドルまで急落した後に6万6,000ドル付近まで反発しました。 Bitcoin price by TradingView 中東情勢の緊 […]\n投稿 ビットコイン、中東情勢緊迫で乱高下｜週明け米ETF流入が鍵か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitcoin-volatility-due-to-middle-east-tensions/",
+          "publishedOn": "2026-03-02T04:09:38.000Z",
+          "wordCount": 615,
+          "title": "ビットコイン、中東情勢緊迫で乱高下｜週明け米ETF流入が鍵か",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_1608928282.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=154367",
+          "author": "よきょい",
+          "description": "ビットコイン（BTC）が多世代にわたる資産へと成長する中で、適切な相続計画の欠如による「相続危機」が現実味を帯びています。 ガネット・トラストの最新レポートによると、2026年は初期のビットコイン採用者たちが資産継承の準 […]\n投稿 ビットコイン相続危機、永久紛失のリスクを避けるには は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitcoin-inheritance-crisis-how-to-avoid-the-risk-of-permanent-loss/",
+          "publishedOn": "2026-03-02T03:30:23.000Z",
+          "wordCount": 592,
+          "title": "ビットコイン相続危機、永久紛失のリスクを避けるには",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2142581461.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=154368",
+          "author": "よきょい",
+          "description": "ビットコイン開発者であるマルティン・ハボシュティアク（Martin Habovštiak）氏が、OP_RETURNやTaprootの構造を利用せず66キロバイトの画像を1つのトランザクション内に埋め込むことに成功しました […]\n投稿 ビットコインの「スパム」論争、画像埋め込み実験で新局面 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitcoin-spam-debate-takes-a-new-turn-with-image-embedding-experiment/",
+          "publishedOn": "2026-03-02T03:24:18.000Z",
+          "wordCount": 636,
+          "title": "ビットコインの「スパム」論争、画像埋め込み実験で新局面",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_1967636470.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=154360",
+          "author": "よきょい",
+          "description": "ビットコインネットワークにおいて、採掘難易度（ディフィカルティ）が約15％上昇し、約144.40Tへと再設定されました。この上昇幅は2021年以来の最大規模となります。 今回の調整はプロトコルがマイナーの経済性を引き締め […]\n投稿 ビットコインの採掘難易度が急上昇、新たな売り圧の可能性 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitcoin-mining-difficulty-soars/",
+          "publishedOn": "2026-03-02T03:13:44.000Z",
+          "wordCount": 592,
+          "title": "ビットコインの採掘難易度が急上昇、新たな売り圧の可能性",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2422532989.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=154174",
           "author": "よきょい",

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=339239",
+          "author": "井上 俊彦",
+          "description": "Ethereum（イーサリアム）の共同創設者、Vitalik Buterin（ヴィタリック・ブテリン）氏は、AI（人工知能）を活用してわずか数週間で2030年ま ...\n「バイブコーディング」がEthereumの開発工程を早める可能性：ブテリン氏が示唆 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/339239/",
+          "publishedOn": "2026-03-02T07:45:00.000Z",
+          "wordCount": 1325,
+          "title": "「バイブコーディング」がEthereumの開発工程を早める可能性：ブテリン氏が示唆",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/08/shutterstock_1985584757.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=339231",
           "author": "栃山 直樹",
           "description": "「NEWYORKER」や「Brooks Brothers」を展開する1879年創業のアパレル老舗、ダイドーリミテッドが2月27日、最大10億円規模のビットコイン ...\n「NEWYORKER」のダイドーリミテッド、10億円のビットコイン購入を決定──老舗企業のDAT参入続く first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -1872,6 +1882,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=552027",
+          "author": "OtsugaShinya",
+          "description": "暗号資産対象のマネロン対策に関する実証実験へ 金融庁が、暗号資産（仮想通貨）等を対象としたマネー・ローンダリング対策に関する実証実験を支援すると、2月27日に発表した。 この支援は、金融庁が2017年に設置した「FinT […]",
+          "link": "https://www.neweconomy.jp/posts/552027",
+          "publishedOn": "2026-03-02T06:59:15.000Z",
+          "wordCount": 747,
+          "title": "金融庁、暗号資産対象のマネロン対策に関する実証実験を支援へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/02155906/e7e58c5183b3dbb31af753b76a2330d3.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=552007",
           "author": "gentosha_takahashi",
           "description": "最短8秒ファイナリティへ イーサリアム財団（Ethereum Foundation：EF）が、2029年までに7回のハードフォークを想定する長期ロードマップ「ストローマップ（strawmap）」を公開した。ベースレイヤー […]",
@@ -2751,6 +2771,36 @@
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
         {
+          "id": "https://crypto-times.jp/?p=154412",
+          "author": "よきょい",
+          "description": "世界最大級の政府系ファンドであるノルウェー政府年金基金（GPFG）を運用するノルウェー銀行が、日本の上場企業メタプラネットの株式保有比率を大幅に引き上げたことが判明しました。 2024年時点での保有額は約5029万700 […]\n投稿 ノルウェー銀行、メタプラネット株保有を10倍へ拡大 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-norges-bank-increases-metaplanet-stake-tenfold/",
+          "publishedOn": "2026-03-02T07:36:33.000Z",
+          "wordCount": 601,
+          "title": "ノルウェー銀行、メタプラネット株保有を10倍へ拡大",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2509892575.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=154362",
+          "author": "よきょい",
+          "description": "SBIホールディングスは、3月24日に100億円規模の個人向けデジタル社債を発行します。この社債の最大の特徴は購入者に対して仮想通貨リップル（XRP）が付与される点です。 社債は期間3年の普通社債で、仮条件の利率は年1. […]\n投稿 SBI、リップル特典付きデジタル社債を発行へ｜利回り最大2.45％ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-sbi-to-issue-digital-corporate-bonds-with-ripple-perks/",
+          "publishedOn": "2026-03-02T07:01:06.000Z",
+          "wordCount": 594,
+          "title": "SBI、リップル特典付きデジタル社債を発行へ｜利回り最大2.45％",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2049781958.jpg"
+        },
+        {
           "id": "https://crypto-times.jp/?p=154363",
           "author": "よきょい",
           "description": "XRP Ledger運営は、提案されていたアップグレードに重大な脆弱性が発見されたもののメインネットワークへの導入前に回避に成功したと発表しました。 この脆弱性は、複数の操作を一つのトランザクションにまとめる「Batch […]\n投稿 XRP Ledger、署名なしで出金可能な致命的バグを回避 は CRYPTO TIMES に最初に表示されました。",
@@ -2794,6 +2844,16 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2649669915.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=154421",
+          "author": "Crypto Times 編集部",
+          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 暗号資産取引所であるBTCCは、今月2月初めに開始した柔軟な運用が可能 […]\n投稿 BTCC Earn、総申込額が5000万USDTを突破 ｜2026年2月の準備金比率132%を報告 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/press-btcc-earn-50m-usdt/",
+          "publishedOn": "2026-03-02T05:42:17.000Z",
+          "wordCount": 606,
+          "title": "BTCC Earn、総申込額が5000万USDTを突破 ｜2026年2月の準備金比率132%を報告",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/9a92ff013ec7a20e911f76be783ccfd0.jpg"
         },
         {
           "id": "https://crypto-times.jp/?p=154381",

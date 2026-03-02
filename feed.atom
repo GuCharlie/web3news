@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-02T20:32:55.282Z</updated>
+    <updated>2026-03-02T21:28:43.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イラン仮想通貨取引所からの資金流出が8倍急増、紛争の影響か]]></title>
+        <id>https://coinpost.jp/?p=692113</id>
+        <link href="https://coinpost.jp/?p=692113"/>
+        <updated>2026-03-02T21:20:37.000Z</updated>
+        <summary type="html"><![CDATA[イラン最大の仮想通貨取引所Nobitexで資金流出が700%急増し、1日で約300万ドルに達した。米イスラエルによる空爆と指導者暗殺報道を受け、既存金融システムを介さない資本逃避や海外送金が加速。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nasdaq、予測市場型の「二者択一オプション」上場へ向けSECに申請]]></title>
+        <id>https://www.nadanews.com/?p=339320</id>
+        <link href="https://www.nadanews.com/339320/"/>
+        <updated>2026-03-02T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引所Nasdaq（ナスダック）は、主力株価指数であるナスダック100指数に連動した二者択一型（バイナリー）オプションを上場するため、米証券取引委員会（S ...
+Nasdaq、予測市場型の「二者択一オプション」上場へ向けSECに申請 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットマイン、先週約6万ETHを追加購入　含み損拡大も毎週買い増し継続]]></title>
+        <id>https://coinpost.jp/?p=692114</id>
+        <link href="https://coinpost.jp/?p=692114"/>
+        <updated>2026-03-02T20:50:41.000Z</updated>
+        <summary type="html"><![CDATA[ビットマインが3月2日、直近1週間で5万928ETHを新たに取得したと公式発表した。累計保有量は447万ETHを超え、世界最大のイーサリアム財務企業として毎週戦略的な買い増しを継続。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米ナスダック、ナスダック100指数対象のバイナリーオプション上場をSECに申請]]></title>
+        <id>https://coinpost.jp/?p=692115</id>
+        <link href="https://coinpost.jp/?p=692115"/>
+        <updated>2026-03-02T20:30:43.000Z</updated>
+        <summary type="html"><![CDATA[ナスダックがナスダック100指数を対象とするバイナリー形式のオプション取引をSECに申請した。予測市場型の金融商品に既存取引所が相次いで参入する動きが加速。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓国政府、差押え仮想通貨の管理状況を全面点検へ　国税庁の『復元フレーズ誤公開』を受け]]></title>
         <id>https://coinpost.jp/?p=692090</id>
@@ -2058,59 +2099,6 @@ MetaMask Perps、任意のトークンを直接証拠金として取引可能に
         <updated>2026-02-26T10:05:00.000Z</updated>
         <summary type="html"><![CDATA[決済大手のStripe（ストライプ）は2025年の年次報告書を公開し、AIエージェントの普及がブロックチェーン取引の大幅な増加につながる可能性があるとの見通しを ...
 エージェント型コマースには毎秒10億件のトランザクションを処理するブロックチェーンが必要：Stripe first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[業界有識者に聞いた円建てステーブルコインの展望と課題｜MoneyX特集]]></title>
-        <id>https://coinpost.jp/?p=689551</id>
-        <link href="https://coinpost.jp/?p=689551"/>
-        <updated>2026-02-26T09:00:01.000Z</updated>
-        <summary type="html"><![CDATA[JPYC正式リリースやメガバンク参入で加速する円建てステーブルコイン。業界有識者5名に国内普及の展望と課題を聞いた。]]></summary>
-        <author>
-            <name>Ritsuki.Kumazawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国議員、金融・仮想通貨インフルエンサーの保有資産公開を義務化する法案を準備]]></title>
-        <id>https://coinpost.jp/?p=691500</id>
-        <link href="https://coinpost.jp/?p=691500"/>
-        <updated>2026-02-26T08:50:17.000Z</updated>
-        <summary type="html"><![CDATA[韓国国会で投資インフルエンサーの保有銘柄・仮想通貨の公開を義務化する法案が準備されている。YouTubeなどで投資推薦を繰り返す人物を対象とし、違反には懲役や高額罰金を科す。「ポンプ・アンド・ダンプ 」などの不正行為防止と投資家保護が目的だ。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイントレジャリー企業GD Culture、保有BTC売却で自社株買いプログラムに充当へ]]></title>
-        <id>https://www.nadanews.com/?p=338475</id>
-        <link href="https://www.nadanews.com/338475/"/>
-        <updated>2026-02-26T08:50:00.000Z</updated>
-        <summary type="html"><![CDATA[ナスダック上場のGD Culture Group（GDカルチャー・グループ）は2月25日、同社が保有する7500BTCを売却することを取締役会が承認したと発表し ...
-ビットコイントレジャリー企業GD Culture、保有BTC売却で自社株買いプログラムに充当へ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネット、BTCダッシュボードを刷新｜新UIで株主の信頼構築へ]]></title>
-        <id>https://crypto-times.jp/?p=153959</id>
-        <link href="https://crypto-times.jp/news-metaplanet-revamps-btc-dashboard/"/>
-        <updated>2026-02-26T08:49:51.000Z</updated>
-        <summary type="html"><![CDATA[メタプラネットはビットコイン（BTC）の保有状況をリアルタイムで公開している「BTCダッシュボード」を大幅に刷新しました。 Updated analytics dashboard is live: https://t.c […]
-投稿 メタプラネット、BTCダッシュボードを刷新｜新UIで株主の信頼構築へ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産市場の現状と投資家の認識の間に大きな乖離が生じている：Bitwise]]></title>
-        <id>https://www.nadanews.com/?p=338507</id>
-        <link href="https://www.nadanews.com/338507/"/>
-        <updated>2026-02-26T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）運用会社Bitwise（ビットワイズ）の最高投資責任者（CIO）、Matt Hougan（マット・ホーガン）氏は2月24日付のブログ記事で、 ...
-暗号資産市場の現状と投資家の認識の間に大きな乖離が生じている：Bitwise first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>井上 俊彦</name>
         </author>

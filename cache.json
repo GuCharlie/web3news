@@ -680,16 +680,6 @@
           "wordCount": 1349,
           "title": "MetaMask Perps、任意のトークンを直接証拠金として取引可能に",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/10/shutterstock_2091900766.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=338528",
-          "author": "廣瀬 優香",
-          "description": "OCC（米通貨監督庁）は2月25日、GENIUS（ジーニアス）法を実施するための規則制定案を発表した。 ジーニアス法は、米国の決済用ステーブルコインを対象とした ...\n米通貨監督庁、GENIUS法の実施に向けた規則案を発表──パブリックコメントを募集 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/338528/",
-          "publishedOn": "2026-02-26T11:00:00.000Z",
-          "wordCount": 1342,
-          "title": "米通貨監督庁、GENIUS法の実施に向けた規則案を発表──パブリックコメントを募集",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_674105929-2.jpg"
         }
       ]
     },
@@ -1813,6 +1803,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/price-predictions-3-2-spx-dxy-btc-eth-xrp-bnb-sol-doge-bch-ada",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "ビットコインが70,000ドルの水準に戻ったことは、買い手が売り圧力の大部分を吸収していることを示している。しかし、アナリストは市場の底が形成されるには数ヶ月かかる可能性があるため、トレーダーは忍耐強くなるべきだと警告している。",
+          "link": "https://jp.cointelegraph.com/news/price-predictions-3-2-spx-dxy-btc-eth-xrp-bnb-sol-doge-bch-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-02T23:09:47.000Z",
+          "wordCount": 277,
+          "title": "7万ドル回復も底形成には時間　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2FmODUtNDAxMC03MDBkLThmZmItODZhYjQyZWMwY2M0LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2FmODUtNDAxMC03MDBkLThmZmItODZhYjQyZWMwY2M0LmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitfinex-relaunches-tokenized-bond-program-on-bitcoin-s-liquid-network",
           "author": "Cointelegraph  Nate Kostar",

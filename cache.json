@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=339293",
+          "author": "井上 俊彦",
+          "description": "香港金融管理局（HKMA）は3月2日、中国本土の上海データ局および国家ブロックチェーン技術イノベーションセンターと覚書（MoU）を締結し、貨物データと電子船荷証 ...\n香港と上海が連携、貨物データをブロックチェーンで共有へ first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/339293/",
+          "publishedOn": "2026-03-02T11:25:00.000Z",
+          "wordCount": 1354,
+          "title": "香港と上海が連携、貨物データをブロックチェーンで共有へ",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2023/01/hongkong1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=339263",
           "author": "井上 俊彦",
           "description": "暗号資産（仮想通貨）投資会社NYDIGのリサーチ責任者、Greg Cipolaro（グレッグ・シポラロ）氏は、「Bitcoin in the Age of AI ...\nAIによるデフレが金融緩和政策を促せば、ビットコインの追い風に：NYDIG first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -800,16 +810,6 @@
           "wordCount": 1376,
           "title": "Progmat、Corda5からAvalanche L1へ──「市場接続型」インフラへの転換",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/nadanews_top-38-1.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=338400",
-          "author": "Shoko Galaviz",
-          "description": "英金融行為規制機構（FCA）は、ステーブルコイン関連サービスを規制環境下で試験する「Regulatory Sandbox（規制のサンドボックス）」に参加する4社 ...\n英FCA、ステーブルコイン・サンドボックス参加4社を選定 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/338400/",
-          "publishedOn": "2026-02-25T22:45:00.000Z",
-          "wordCount": 1360,
-          "title": "英FCA、ステーブルコイン・サンドボックス参加4社を選定",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2306083461.jpg"
         }
       ]
     },
@@ -824,6 +824,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=692067",
+          "author": "Ritsuki.Kumazawa",
+          "description": "Secured Financeが新プロダクト「SF Yield Vault」を公開。JPYC VaultにJPYCを預けるだけで、固定金利レンディングプロトコルを通じた自動運用が可能に。Vault持分トークンyvJPYCを発行。",
+          "link": "https://coinpost.jp/?p=692067",
+          "publishedOn": "2026-03-02T09:30:35.000Z",
+          "wordCount": 3783,
+          "title": "Secured Finance、ステーブルコインを預けるだけで自動運用できる「SF Yield Vault」を公開",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/secured_finance_thumbnail_0302.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/secured_finance_thumbnail_0302.png"
+        },
         {
           "id": "https://coinpost.jp/?p=692048",
           "author": "Enzo",
@@ -1843,21 +1858,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/wallstreet-guggenheim-commercial-paper.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/wallstreet-guggenheim-commercial-paper.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=691306",
-          "author": "菊谷ルイス",
-          "description": "イーサリアム創設者のヴィタリック・ブテリン氏が、2月中に約1.7万ETHを売却したことが判明した。市場価格が大幅に下落する中での売却だが、プライバシー技術等の研究支援を目的とした資金調達の一環と見られる。",
-          "link": "https://coinpost.jp/?p=691306",
-          "publishedOn": "2026-02-25T22:55:24.000Z",
-          "wordCount": 4096,
-          "title": "ヴィタリック、2月に1.7万ETH超を売却　その背景は？",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/vitalik-eth_0524.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/vitalik-eth_0524.jpg"
         }
       ]
     },
@@ -2672,51 +2672,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzk2ODktOTYxZi03NDM2LTkzMWItMTcyNzdmNmNhNGExLmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/circle-q4-earnings-usdc-75b-revenue-2025-shares-surge",
-          "author": "Cointelegraph  Sam Bourgi",
-          "description": "ステーブルコイン発行体のサークル（Circle）は、2025年最終四半期の売上高が予測を上回る7億7,000万ドルだったと発表した。通期売上高は64%増加し、USDCの流通量は750億ドルを超えた。",
-          "link": "https://jp.cointelegraph.com/news/circle-q4-earnings-usdc-75b-revenue-2025-shares-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-02-25T23:05:58.000Z",
-          "wordCount": 269,
-          "title": "サークル、USDC供給量が72%急増し第4四半期予想を上回る。株価は20%高",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzk1NWEtMmY4Yi03NWJjLTg5MWUtNTk3MWZlYjg2YTc4LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzk1NWEtMmY4Yi03NWJjLTg5MWUtNTk3MWZlYjg2YTc4LmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/tokenized-us-treasurys-rise-1b-2026",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "米国債トークン化市場の時価総額は、2025年初頭時点では40億ドル未満であったが、その後着実に上昇を続けている。",
-          "link": "https://jp.cointelegraph.com/news/tokenized-us-treasurys-rise-1b-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-02-25T22:53:06.000Z",
-          "wordCount": 309,
-          "title": "米国債トークン化市場、2026年初頭から10億ドル以上増加",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzk1NzUtOTg0MC03MzZkLTg3ZGUtZDFjY2Q0MDcxMGRhLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzk1NzUtOTg0MC03MzZkLTg3ZGUtZDFjY2Q0MDcxMGRhLmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/hut-8-swings-to-248m-loss-as-7b-ai-data-center-lease-anchors-pivot-from-bitcoin-mining",
-          "author": "Cointelegraph  Nate Kostar",
-          "description": "ビットコインマイナーのハット8（Hut 8）は、15年間で70億ドルにのぼるAIデータセンターのリース契約を進める一方で、保有するデジタル資産による損失が膨らんだ。",
-          "link": "https://jp.cointelegraph.com/news/hut-8-swings-to-248m-loss-as-7b-ai-data-center-lease-anchors-pivot-from-bitcoin-mining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-02-25T22:49:43.000Z",
-          "wordCount": 277,
-          "title": "ハット8、第4四半期は赤字転落も計算事業の収益貢献が増大",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzk1YTEtMTY4NS03OWE5LWEyYmYtM2JhNjZkZDYzMjI2LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzk1YTEtMTY4NS03OWE5LWEyYmYtM2JhNjZkZDYzMjI2LmpwZw==.jpg"
         }
       ]
     },

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=339323",
+          "author": "Shoko Galaviz",
+          "description": "ブロックチェーン分析企業Elliptic（エリプティック）は、米国とイスラエルによるイランへの空爆直後、イラン最大の暗号資産（仮想通貨）取引所Nobitex（ノ ...\n米・イスラエル空爆直後、イラン最大手取引所から暗号資産流出が700％急増：Elliptic first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/339323/",
+          "publishedOn": "2026-03-02T22:00:00.000Z",
+          "wordCount": 1349,
+          "title": "米・イスラエル空爆直後、イラン最大手取引所から暗号資産流出が700％急増：Elliptic",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_186837098.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=339320",
           "author": "Shoko Galaviz",
           "description": "米証券取引所Nasdaq（ナスダック）は、主力株価指数であるナスダック100指数に連動した二者択一型（バイナリー）オプションを上場するため、米証券取引委員会（S ...\nNasdaq、予測市場型の「二者択一オプション」上場へ向けSECに申請 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -680,26 +690,6 @@
           "wordCount": 1342,
           "title": "米通貨監督庁、GENIUS法の実施に向けた規則案を発表──パブリックコメントを募集",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_674105929-2.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=338521",
-          "author": "NADA NEWS編集部",
-          "description": "最近ニュースで、国からの給付金や支援金がどんどん増えているのを目にします。 もらった瞬間の安心感って、本当に大きいですよね。 「これがあるだけで今月は助かる」  ...\n＜ANAP Brand Channel 連載＞給付金や支援金が増えるほど、家計が「苦しくなる」ってどういうこと!? first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/338521/",
-          "publishedOn": "2026-02-26T10:23:04.000Z",
-          "wordCount": 5475,
-          "title": "＜ANAP Brand Channel 連載＞給付金や支援金が増えるほど、家計が「苦しくなる」ってどういうこと!?",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/anap連載3画像.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=338529",
-          "author": "井上 俊彦",
-          "description": "決済大手のStripe（ストライプ）は2025年の年次報告書を公開し、AIエージェントの普及がブロックチェーン取引の大幅な増加につながる可能性があるとの見通しを ...\nエージェント型コマースには毎秒10億件のトランザクションを処理するブロックチェーンが必要：Stripe first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/338529/",
-          "publishedOn": "2026-02-26T10:05:00.000Z",
-          "wordCount": 1339,
-          "title": "エージェント型コマースには毎秒10億件のトランザクションを処理するブロックチェーンが必要：Stripe",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2024/10/shutterstock_2146295571.jpg"
         }
       ]
     },
@@ -714,6 +704,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=692125",
+          "author": "K.Kobayashi",
+          "description": "コインシェアーズの幹部は、仮想通貨投資商品全体の先週における資金フローは約1,668億円の純流入だったと報告。ビットコインやイーサリアムなどの投資商品に広くが資金が流入した。",
+          "link": "https://coinpost.jp/?p=692125",
+          "publishedOn": "2026-03-02T22:00:02.000Z",
+          "wordCount": 3758,
+          "title": "仮想通貨投資商品、6週ぶりに資金フローが純流入に転じる　クジラの購入再開などが要因か＝コインシェアーズ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/CryptoCurrency_1003-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/CryptoCurrency_1003-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=692111",
+          "author": "菊谷ルイス",
+          "description": "アンソニー・ポンプリアーノ率いるプロキャップ・ファイナンシャルが2日、450ビットコインを新たに購入したと公式発表した。累計保有は5457BTCに達し株価NAVとの乖離縮小を目的とした自社株買いも同時進行。",
+          "link": "https://coinpost.jp/?p=692111",
+          "publishedOn": "2026-03-02T21:50:32.000Z",
+          "wordCount": 3953,
+          "title": "ポンプリアーノ率いるプロキャップ社、450BTCを追加取得",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/even-more-bitcoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/even-more-bitcoin.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=692113",
           "author": "菊谷ルイス",
@@ -1779,6 +1799,21 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/united-states-crypto-market-structure-before-midterms",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "ホワイトハウスは上院の市場構造法案におけるステーブルコインの利回りへの対処法について3回の会議を開催したが、解決の兆しは見えていない。",
+          "link": "https://jp.cointelegraph.com/news/united-states-crypto-market-structure-before-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-02T22:16:02.000Z",
+          "wordCount": 194,
+          "title": "米議員は中間選挙前に仮想通貨市場構造法案を通過させられるか？",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMyMDUtMzlkMy03NGRkLTk1YWEtYWNlYTkzNWMwZDdhLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMyMDUtMzlkMy03NGRkLTk1YWEtYWNlYTkzNWMwZDdhLmpwZw==.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/bitcoin-traders-eye-iran-reactions-oil-sparks-us-5-inflation-forecast",
           "author": "Cointelegraph  William Suberg",
           "description": "中東での重大な地政学的イベントをめぐり、ビットコインは新たな暴落を回避した。現在の価格ターゲットには、次なる節目として7万4,000ドルが含まれている。",
@@ -2564,21 +2599,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2734346545.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=153958",
-          "author": "よきょい",
-          "description": "HEROZ株式会社は2月26日、日本円連動型ステーブルコインを発行するJPYC株式会社との業務提携および第三者割当増資の引受けによるB1種優先株式の取得を最終決定し、契約を締結したと発表しました。 ステーブルコインJPY […]\n投稿 JPYC株式会社、HEROZと業務提携｜AIシステムの開発加速に期待 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-jpc-co-ltd-and-heroz-enter-into-a-business-partnership/",
-          "publishedOn": "2026-02-26T10:05:40.000Z",
-          "wordCount": 598,
-          "title": "JPYC株式会社、HEROZと業務提携｜AIシステムの開発加速に期待",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2634405041-2.jpg"
         }
       ]
     }

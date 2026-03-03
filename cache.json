@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=339485",
+          "author": "井上 俊彦",
+          "description": "暗号資産（仮想通貨）運用大手CoinShares（コインシェアーズ） のリサーチ責任者James Butterfill（ジェームズ・バターフィル）氏がブログ記事 ...\n世界の暗号資産ETP、純流出は5週でストップ。ビットコインが回復を牽引：CoinShares first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/339485/",
+          "publishedOn": "2026-03-03T10:45:00.000Z",
+          "wordCount": 1349,
+          "title": "世界の暗号資産ETP、純流出は5週でストップ。ビットコインが回復を牽引：CoinShares",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2628088219.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=339487",
           "author": "栃山 直樹",
           "description": "伊藤穰一氏は3日、自身の公式サイトにおいて、ジェフリー・エプスタイン氏との過去の交流や資金調達に関する一連の報道に対する声明を発表した。 本声明は、アメリカ司法 ...\n伊藤穰一氏が声明発表──エプスタイン氏巡る報道「事実誤認含まれている」 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -1893,21 +1903,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/eth-accumu.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/eth-accumu.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=691552",
-          "author": "K.Kobayashi",
-          "description": "DEXのユニスワップでプロトコル手数料の提案に対する投票が開始される。今回の提案は、仮想通貨UNIのバーンにつながるプロトコル手数料徴収の適用範囲を拡大する内容で、UNIの価格が上昇した。",
-          "link": "https://coinpost.jp/?p=691552",
-          "publishedOn": "2026-02-26T22:40:34.000Z",
-          "wordCount": 4086,
-          "title": "ユニスワップ、トークンのバーンにつながる手数料の適用拡大へ新提案　UNI一時21%超上昇",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/uniswap-v3-code-testnet.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/uniswap-v3-code-testnet.png"
         }
       ]
     },
@@ -1916,6 +1911,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=552510",
+          "author": "TanakaShuya",
+          "description": "クオンタムソリューションズがETH追加取得 東証スタンダード上場企業クオンタムソリューションズが、暗号資産（仮想通貨）イーサリアム（ETH）の追加取得を3月3日に発表した。 発表によるとクオンタムソリューションズの連結子 […]",
+          "link": "https://www.neweconomy.jp/posts/552510",
+          "publishedOn": "2026-03-03T10:47:48.000Z",
+          "wordCount": 728,
+          "title": "クオンタムソリューションズがイーサリアム追加取得、総保有数は約6,168ETHに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/03194733/9d71f792d62f27df7a395ec0d475344e.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=552477",
           "author": "TanakaShuya",
@@ -2647,36 +2652,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzljMWYtYzRlOC03ZmIwLWI3MmItNTZhNWE4ZTA0YjcxLmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/mastercard-metamask-us-crypto-card-new-york-debut",
-          "author": "Cointelegraph  Helen Partz",
-          "description": "メタマスク・カード（MetaMask Card）が米国で正式に提供開始された。過去2年間の試験運用を経て、ニューヨーク州を含む49州で初めて利用可能となる。",
-          "link": "https://jp.cointelegraph.com/news/mastercard-metamask-us-crypto-card-new-york-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-02-26T22:41:19.000Z",
-          "wordCount": 251,
-          "title": "マスターカードとメタマスク、米国で仮想通貨カードを導入｜ニューヨークでも利用可能に",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzk5ZTUtYzE2YS03YzFkLTgwY2MtNDg5ZjU5YzExYWUxLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzk5ZTUtYzE2YS03YzFkLTgwY2MtNDg5ZjU5YzExYWUxLmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bloomberg-extends-financial-data-to-25b-tokenized-markets-via-kaiko",
-          "author": "Cointelegraph  Sam Bourgi",
-          "description": "ブルームバーグ（Bloomberg）とKaikoは、ライセンス提供された金融データをブロックチェーンネットワークに直接組み込むことを目指している。ターゲットは機関投資家向けのトークン化米国債およびレポ市場だ。",
-          "link": "https://jp.cointelegraph.com/news/bloomberg-extends-financial-data-to-25b-tokenized-markets-via-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-02-26T22:35:21.000Z",
-          "wordCount": 260,
-          "title": "ブルームバーグ、カイコを介して250億ドルのトークン化市場に金融データを提供",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzlhZmItZmEzZC03N2Y5LWFmNDYtODc1NjM5MWJjYTUzLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzlhZmItZmEzZC03N2Y5LWFmNDYtODc1NjM5MWJjYTUzLmpwZw==.jpg"
         }
       ]
     },

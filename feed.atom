@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-03T10:34:45.195Z</updated>
+    <updated>2026-03-03T11:28:57.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[クオンタムソリューションズがイーサリアム追加取得、総保有数は約6,168ETHに]]></title>
+        <id>https://www.neweconomy.jp/?p=552510</id>
+        <link href="https://www.neweconomy.jp/posts/552510"/>
+        <updated>2026-03-03T10:47:48.000Z</updated>
+        <summary type="html"><![CDATA[クオンタムソリューションズがETH追加取得 東証スタンダード上場企業クオンタムソリューションズが、暗号資産（仮想通貨）イーサリアム（ETH）の追加取得を3月3日に発表した。 発表によるとクオンタムソリューションズの連結子 […]]]></summary>
+        <author>
+            <name>TanakaShuya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界の暗号資産ETP、純流出は5週でストップ。ビットコインが回復を牽引：CoinShares]]></title>
+        <id>https://www.nadanews.com/?p=339485</id>
+        <link href="https://www.nadanews.com/339485/"/>
+        <updated>2026-03-03T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）運用大手CoinShares（コインシェアーズ） のリサーチ責任者James Butterfill（ジェームズ・バターフィル）氏がブログ記事 ...
+世界の暗号資産ETP、純流出は5週でストップ。ビットコインが回復を牽引：CoinShares first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伊藤穰一氏が声明発表──エプスタイン氏巡る報道「事実誤認含まれている」]]></title>
         <id>https://www.nadanews.com/?p=339487</id>
@@ -2569,36 +2590,6 @@ Circleの株価、決算発表後に50％近く上昇──堅調な業績では
         <summary type="html"><![CDATA[LinkedIn創設者のリード・ホフマン氏が、約610万ドル相当のETHを保有していることが Arkhamのデータで判明した。PayPalマフィアの同僚、イーロン・マスク氏のBTC支持と対照的な投資姿勢が注目される。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マスターカードとメタマスク、米国で仮想通貨カードを導入｜ニューヨークでも利用可能に]]></title>
-        <id>https://jp.cointelegraph.com/news/mastercard-metamask-us-crypto-card-new-york-debut</id>
-        <link href="https://jp.cointelegraph.com/news/mastercard-metamask-us-crypto-card-new-york-debut?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-02-26T22:41:19.000Z</updated>
-        <summary type="html"><![CDATA[メタマスク・カード（MetaMask Card）が米国で正式に提供開始された。過去2年間の試験運用を経て、ニューヨーク州を含む49州で初めて利用可能となる。]]></summary>
-        <author>
-            <name>Cointelegraph  Helen Partz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ユニスワップ、トークンのバーンにつながる手数料の適用拡大へ新提案　UNI一時21%超上昇]]></title>
-        <id>https://coinpost.jp/?p=691552</id>
-        <link href="https://coinpost.jp/?p=691552"/>
-        <updated>2026-02-26T22:40:34.000Z</updated>
-        <summary type="html"><![CDATA[DEXのユニスワップでプロトコル手数料の提案に対する投票が開始される。今回の提案は、仮想通貨UNIのバーンにつながるプロトコル手数料徴収の適用範囲を拡大する内容で、UNIの価格が上昇した。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブルームバーグ、カイコを介して250億ドルのトークン化市場に金融データを提供]]></title>
-        <id>https://jp.cointelegraph.com/news/bloomberg-extends-financial-data-to-25b-tokenized-markets-via-kaiko</id>
-        <link href="https://jp.cointelegraph.com/news/bloomberg-extends-financial-data-to-25b-tokenized-markets-via-kaiko?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-02-26T22:35:21.000Z</updated>
-        <summary type="html"><![CDATA[ブルームバーグ（Bloomberg）とKaikoは、ライセンス提供された金融データをブロックチェーンネットワークに直接組み込むことを目指している。ターゲットは機関投資家向けのトークン化米国債およびレポ市場だ。]]></summary>
-        <author>
-            <name>Cointelegraph  Sam Bourgi</name>
         </author>
     </entry>
 </feed>

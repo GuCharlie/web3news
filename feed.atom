@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-03T22:52:11.888Z</updated>
+    <updated>2026-03-03T23:22:48.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[空爆直後に急増したビットコイン流出──イラン情勢が示す「越境資金移動インフラ」としての実像【エックスウィンリサーチ】]]></title>
+        <id>https://www.nadanews.com/?p=337850</id>
+        <link href="https://www.nadanews.com/337850/"/>
+        <updated>2026-03-03T23:07:46.000Z</updated>
+        <summary type="html"><![CDATA[● 空爆直後、NobitexからのBTC流出が700％超急増し、越境移転需要が顕在化。● USDT（特にTRC20）が外貨バッファーとして機能し、資本退避の実需 ...
+空爆直後に急増したビットコイン流出──イラン情勢が示す「越境資金移動インフラ」としての実像【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>XWIN Research</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ大統領、銀行界の「仮想通貨改革」妨害を批判　クラリティー法案の早期成立を要求]]></title>
+        <id>https://coinpost.jp/?p=692383</id>
+        <link href="https://coinpost.jp/?p=692383"/>
+        <updated>2026-03-03T22:50:59.000Z</updated>
+        <summary type="html"><![CDATA[トランプ米大統領は、銀行業界が「クラリティー法案」を人質に取っていると批判した。仮想通貨産業の国外流出を防ぎ、米国を「仮想通貨の首都」にするための法整備を加速させる姿勢を強調。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MARA幹部、ビットコイン財務資産の売却説を否定]]></title>
         <id>https://jp.cointelegraph.com/news/mara-bitcoin-sell-off-claims-fact-check-treasury-strategy</id>
@@ -14,6 +35,16 @@
         <summary type="html"><![CDATA[MARAは、ビットコインの売却戦略を採用したという主張を「ファクトチェック」し、同社の提出書類は柔軟な売却を可能にするものではあるが、大部分の清算を示唆するものではないと明確にした。]]></summary>
         <author>
             <name>Cointelegraph  Sam Bourgi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットマイン、1兆円以上の含み損を抱えるもイーサリアム買い増しを続行]]></title>
+        <id>https://coinpost.jp/?p=692361</id>
+        <link href="https://coinpost.jp/?p=692361"/>
+        <updated>2026-03-03T22:30:53.000Z</updated>
+        <summary type="html"><![CDATA[トム・リー氏率いる仮想通貨財務企業ビットマインが、1兆円の含み損を抱えながら直近1週間で1億200万ドル相当のイーサリアムを追加取得した。総保有額は約89.7億ドルに達しており、ETH供給量の5%取得という長期目標に向けた買い増しを継続。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -1976,16 +2007,6 @@ Sentient、AIエージェントの検証環境「Arena」を発表——フラ�
         <summary type="html"><![CDATA[ビットコイン（BTC）は現在、3つの主要なレジスタンス水準と同時に戦っており、弱気市場の終わりは3月中にこれらを突破できるかどうかにかかっている。]]></summary>
         <author>
             <name>Cointelegraph  Nancy Lubale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国上場の現物ビットコインETF、3日間で10億ドル超流入　売り一巡観測も]]></title>
-        <id>https://jp.cointelegraph.com/news/bitcoin-etfs-1b-inflows-drawdown-dip-buying</id>
-        <link href="https://jp.cointelegraph.com/news/bitcoin-etfs-1b-inflows-drawdown-dip-buying?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-02-27T11:06:30.000Z</updated>
-        <summary type="html"><![CDATA[米国上場の現物ビットコイン上場投資信託（ETF）は今週、3営業日で10億ドル超の純流入を記録した。ビットコイン（BTC）が依然として最高値を大きく下回る水準にある中での資金反転となった。]]></summary>
-        <author>
-            <name>Cointelegraph  Ezra Reguerra</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-03T21:36:24.835Z</updated>
+    <updated>2026-03-03T22:25:05.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CFTC委員長、仮想通貨の無期限先物を「来月あたり」に検討か]]></title>
+        <id>https://jp.cointelegraph.com/news/cftc-chair-crypto-perpetual-futures</id>
+        <link href="https://jp.cointelegraph.com/news/cftc-chair-crypto-perpetual-futures?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-03-03T22:15:45.000Z</updated>
+        <summary type="html"><![CDATA[SECのポール・アトキンス委員長とCFTCのマイケル・セリグ委員長は、火曜日のイベントで市場構造、予測市場、および無期限先物について言及した。]]></summary>
+        <author>
+            <name>Cointelegraph  Turner Wright</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ステーブルコインが欧州の銀行融資と金融政策を弱める可能性＝ECB]]></title>
+        <id>https://jp.cointelegraph.com/news/stablecoin-deposits-monetary-policy-europe-ecb</id>
+        <link href="https://jp.cointelegraph.com/news/stablecoin-deposits-monetary-policy-europe-ecb?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-03-03T22:05:01.000Z</updated>
+        <summary type="html"><![CDATA[欧州中央銀行（ECB）は新しいワーキングペーパーの中で、ステーブルコインの普及が進むにつれ、預金が銀行から流出し、融資や金融政策の伝達に影響を与える可能性があると警告している。]]></summary>
+        <author>
+            <name>Cointelegraph  Helen Partz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MastercardとSoFi、ステーブルコイン「SoFiUSD」による決済対応で提携強化]]></title>
+        <id>https://www.nadanews.com/?p=339501</id>
+        <link href="https://www.nadanews.com/339501/"/>
+        <updated>2026-03-03T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SoFi Technologies, Inc.（SoFiテクノロジーズ）は、Mastercard（マスターカード）との提携を強化し、同社の米ドル建てステーブルコ ...
+MastercardとSoFi、ステーブルコイン「SoFiUSD」による決済対応で提携強化 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米政府が0.33BTCのビットコインを移動、「Villanueva」没収ウォレットから]]></title>
+        <id>https://coinpost.jp/?p=692360</id>
+        <link href="https://coinpost.jp/?p=692360"/>
+        <updated>2026-03-03T21:55:51.000Z</updated>
+        <summary type="html"><![CDATA[米政府が「Miguel Villanueva」から没収した約2万3000ドル相当のビットコインを移動させた。3つの新規アドレスへ分割送金されており、政府による資産管理の動向に注目が集まっている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JPモルガンのダイモンCEO、ステーブルコイン利回りに銀行並み規制を要求　妥協案にも言及]]></title>
+        <id>https://coinpost.jp/?p=692359</id>
+        <link href="https://coinpost.jp/?p=692359"/>
+        <updated>2026-03-03T21:35:49.000Z</updated>
+        <summary type="html"><![CDATA[ダイモンCEOは今週のインタビューで、ステーブルコイン報酬を提供する仮想通貨企業に対し銀行と同等の規制適用を求めた。コインベースとの対立が深まるなか、米国の仮想通貨市場構造法案の審議が難航。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VisaとBridge、提携を拡大──ステーブルコイン連動カードを100カ国超へ展開へ]]></title>
         <id>https://www.nadanews.com/?p=339498</id>
@@ -1937,39 +1988,6 @@ Sentient、AIエージェントの検証環境「Arena」を発表——フラ�
 投稿 Magic Eden、ビットコイン・EVMチェーン向けマーケットを閉鎖へ は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米超党派法案、顧客資産を管理しない開発者を保護へ]]></title>
-        <id>https://crypto-times.jp/?p=154246</id>
-        <link href="https://crypto-times.jp/news-bipartisan-bill-would-protect-developers-who-dont-manage-customer-assets/"/>
-        <updated>2026-02-27T10:17:54.000Z</updated>
-        <summary type="html"><![CDATA[米国のベン・クライン下院議員は、ブロックチェーン分野における規制の明確化を目指す超党派の法案への支持を表明しました。 For too long, federal overreach has blurred the lin […]
-投稿 米超党派法案、顧客資産を管理しない開発者を保護へ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ビットコインは2050年に1万ドル以下」ウィキペディア創設者]]></title>
-        <id>https://crypto-times.jp/?p=154275</id>
-        <link href="https://crypto-times.jp/news-bitcoin-will-be-below-10000-in-2050-says-wikipedia-founder/"/>
-        <updated>2026-02-27T10:10:37.000Z</updated>
-        <summary type="html"><![CDATA[ウィキペディアの共同創設者であるジミー・ウェールズ氏はXへの投稿で、ビットコイン（BTC）の将来性について極めて悲観的な見解を示しました。 People who think that Bitcoin is going t […]
-投稿 「ビットコインは2050年に1万ドル以下」ウィキペディア創設者 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ一族が関与するAmerican Bitcoin、2025年通期で1.5億ドルの純損失を計上]]></title>
-        <id>https://www.nadanews.com/?p=338785</id>
-        <link href="https://www.nadanews.com/338785/"/>
-        <updated>2026-02-27T09:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Donald Trump（ドナルド・トランプ）大統領の一族が経営に関与するマイニング企業American Bitcoin（アメリカン・ビットコイン） は2月26 ...
-トランプ一族が関与するAmerican Bitcoin、2025年通期で1.5億ドルの純損失を計上 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
         </author>
     </entry>
 </feed>

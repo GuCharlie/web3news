@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=339501",
+          "author": "Shoko Galaviz",
+          "description": "SoFi Technologies, Inc.（SoFiテクノロジーズ）は、Mastercard（マスターカード）との提携を強化し、同社の米ドル建てステーブルコ ...\nMastercardとSoFi、ステーブルコイン「SoFiUSD」による決済対応で提携強化 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/339501/",
+          "publishedOn": "2026-03-03T22:00:00.000Z",
+          "wordCount": 1475,
+          "title": "MastercardとSoFi、ステーブルコイン「SoFiUSD」による決済対応で提携強化",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2287680735.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=339498",
           "author": "Shoko Galaviz",
           "description": "Visa（ビザ）は、Stripe（ストライプ）傘下のステーブルコイン基盤プラットフォームBridge（ブリッジ）との提携を拡大し、ステーブルコイン連動型ビザカー ...\nVisaとBridge、提携を拡大──ステーブルコイン連動カードを100カ国超へ展開へ first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -620,16 +630,6 @@
           "wordCount": 1370,
           "title": "Sentient、AIエージェントの検証環境「Arena」を発表——フランクリン・テンプルトンなど参画",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/sentient.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=338785",
-          "author": "井上 俊彦",
-          "description": "Donald Trump（ドナルド・トランプ）大統領の一族が経営に関与するマイニング企業American Bitcoin（アメリカン・ビットコイン） は2月26 ...\nトランプ一族が関与するAmerican Bitcoin、2025年通期で1.5億ドルの純損失を計上 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/338785/",
-          "publishedOn": "2026-02-27T09:45:00.000Z",
-          "wordCount": 1354,
-          "title": "トランプ一族が関与するAmerican Bitcoin、2025年通期で1.5億ドルの純損失を計上",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/09/shutterstock_2633539361.jpg"
         }
       ]
     },
@@ -644,6 +644,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=692360",
+          "author": "菊谷ルイス",
+          "description": "米政府が「Miguel Villanueva」から没収した約2万3000ドル相当のビットコインを移動させた。3つの新規アドレスへ分割送金されており、政府による資産管理の動向に注目が集まっている。",
+          "link": "https://coinpost.jp/?p=692360",
+          "publishedOn": "2026-03-03T21:55:51.000Z",
+          "wordCount": 4031,
+          "title": "米政府が0.33BTCのビットコインを移動、「Villanueva」没収ウォレットから",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/government-bonds03-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/government-bonds03-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=692359",
+          "author": "菊谷ルイス",
+          "description": "ダイモンCEOは今週のインタビューで、ステーブルコイン報酬を提供する仮想通貨企業に対し銀行と同等の規制適用を求めた。コインベースとの対立が深まるなか、米国の仮想通貨市場構造法案の審議が難航。",
+          "link": "https://coinpost.jp/?p=692359",
+          "publishedOn": "2026-03-03T21:35:49.000Z",
+          "wordCount": 3952,
+          "title": "JPモルガンのダイモンCEO、ステーブルコイン利回りに銀行並み規制を要求　妥協案にも言及",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/jp-morgan-jamie.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/jp-morgan-jamie.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=692358",
           "author": "菊谷ルイス",
@@ -1759,6 +1789,36 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/cftc-chair-crypto-perpetual-futures",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "SECのポール・アトキンス委員長とCFTCのマイケル・セリグ委員長は、火曜日のイベントで市場構造、予測市場、および無期限先物について言及した。",
+          "link": "https://jp.cointelegraph.com/news/cftc-chair-crypto-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-03T22:15:45.000Z",
+          "wordCount": 216,
+          "title": "CFTC委員長、仮想通貨の無期限先物を「来月あたり」に検討か",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAwMzctN2NkNS03N2I5LWJmNGUtYTJjMGFhOTI2MTM3.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAwMzctN2NkNS03N2I5LWJmNGUtYTJjMGFhOTI2MTM3.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/stablecoin-deposits-monetary-policy-europe-ecb",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "欧州中央銀行（ECB）は新しいワーキングペーパーの中で、ステーブルコインの普及が進むにつれ、預金が銀行から流出し、融資や金融政策の伝達に影響を与える可能性があると警告している。",
+          "link": "https://jp.cointelegraph.com/news/stablecoin-deposits-monetary-policy-europe-ecb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-03T22:05:01.000Z",
+          "wordCount": 223,
+          "title": "ステーブルコインが欧州の銀行融資と金融政策を弱める可能性＝ECB",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY4MjgtYjIwZS03YmFhLWJjZTctNzc1NTQ4MTM4NDU3LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY4MjgtYjIwZS03YmFhLWJjZTctNzc1NTQ4MTM4NDU3LmpwZw==.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/price-predictions-3-2-spx-dxy-btc-eth-xrp-bnb-sol-doge-bch-ada",
           "author": "Cointelegraph  Rakesh Upadhyay",
           "description": "ビットコインが70,000ドルの水準に戻ったことは、買い手が売り圧力の大部分を吸収していることを示している。しかし、アナリストは市場の底が形成されるには数ヶ月かかる可能性があるため、トレーダーは忍耐強くなるべきだと警告している。",
@@ -2389,36 +2449,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2236072965.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=154246",
-          "author": "Crypto Times 編集部",
-          "description": "米国のベン・クライン下院議員は、ブロックチェーン分野における規制の明確化を目指す超党派の法案への支持を表明しました。 For too long, federal overreach has blurred the lin […]\n投稿 米超党派法案、顧客資産を管理しない開発者を保護へ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-bipartisan-bill-would-protect-developers-who-dont-manage-customer-assets/",
-          "publishedOn": "2026-02-27T10:17:54.000Z",
-          "wordCount": 651,
-          "title": "米超党派法案、顧客資産を管理しない開発者を保護へ",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2465401345.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=154275",
-          "author": "Crypto Times 編集部",
-          "description": "ウィキペディアの共同創設者であるジミー・ウェールズ氏はXへの投稿で、ビットコイン（BTC）の将来性について極めて悲観的な見解を示しました。 People who think that Bitcoin is going t […]\n投稿 「ビットコインは2050年に1万ドル以下」ウィキペディア創設者 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-bitcoin-will-be-below-10000-in-2050-says-wikipedia-founder/",
-          "publishedOn": "2026-02-27T10:10:37.000Z",
-          "wordCount": 659,
-          "title": "「ビットコインは2050年に1万ドル以下」ウィキペディア創設者",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/02/shutterstock_2458903715.jpg"
         }
       ]
     }

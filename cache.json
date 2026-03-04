@@ -600,16 +600,6 @@
           "wordCount": 1376,
           "title": "ビットコイン、さらなる下落リスクも──イランが中東の米軍基地を攻撃",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/nadanews_top-48-4.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=339112",
-          "author": "NADA NEWS編集部",
-          "description": "【CoinDesk Summary】 ● DEX（分散型取引所）Hyperliquidで取引されている原油価格連動のパーペチュアル先物は、米国とイスラ ...\nHyperliquidの原油連動パーペチュアル先物、米国とイスラエルのイラン攻撃後に5％超上昇 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/339112/",
-          "publishedOn": "2026-02-28T10:45:00.000Z",
-          "wordCount": 1360,
-          "title": "Hyperliquidの原油連動パーペチュアル先物、米国とイスラエルのイラン攻撃後に5％超上昇",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/nadanews_top-46-5.jpg"
         }
       ]
     },
@@ -624,6 +614,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=692548",
+          "author": "菊谷ルイス",
+          "description": "#cp-summary-2025{all:revert;box-sizing:border-box;width:100%;background:#f8f9fb;border-left:3pxsolid#0d2d4f;border-radiu...",
+          "link": "https://coinpost.jp/?p=692548",
+          "publishedOn": "2026-03-04T22:50:55.000Z",
+          "wordCount": 3951,
+          "title": "米モルガン・スタンレー、ビットコインETF申請を更新　BNYとコインベースを指名",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/etf-thursday-.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/etf-thursday-.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=692547",
           "author": "菊谷ルイス",
@@ -2008,6 +2013,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/crypto-treasury-inflow-slow-october-2024",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "ディーファイラマ（DeFiLlama）のデータによると、デジタル資産財務（DAT）企業への月次流入額は約5億5500万ドル（約830億円）まで減少し、2024年米大統領選に伴う上昇局面直前の24年10月以来の低水準となった。",
+          "link": "https://jp.cointelegraph.com/news/crypto-treasury-inflow-slow-october-2024?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-04T22:48:49.000Z",
+          "wordCount": 255,
+          "title": "仮想通貨財務（DAT）企業の流入額が2024年10月以来の低水準",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JhNTUtYTJiOC03MTg3LTkxNjctNTYxMzdmNTgxYmFmLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JhNTUtYTJiOC03MTg3LTkxNjctNTYxMzdmNTgxYmFmLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/price-predictions-3-4-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "スポットビットコインETFへの継続的な資金流入を背景に、ビットコインの回復は水曜日に勢いを増し、74,000ドルを超えて上昇した。テクニカルチャートは、BTCおよびアルトコインのこの動きを支持しているか。",
+          "link": "https://jp.cointelegraph.com/news/price-predictions-3-4-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-04T22:43:07.000Z",
+          "wordCount": 265,
+          "title": "回復に勢い　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2I5YjctZjhkMC03ZTlhLTlhOTktYzRhMDFkMTE3MDI0LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2I5YjctZjhkMC03ZTlhLTlhOTktYzRhMDFkMTE3MDI0LmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/donald-trump-fed-nomination-kevin-warsh-senate",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "米大統領は1月30日のSNS投稿で、ジェローム・パウエル議長の後任としてケビン・ウォーシュ氏を指名すると発表していたが、今回、正式に指名手続きを行った。",
+          "link": "https://jp.cointelegraph.com/news/donald-trump-fed-nomination-kevin-warsh-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-04T22:34:58.000Z",
+          "wordCount": 224,
+          "title": "トランプ大統領、ビットコイン支持派のFRB議長候補を上院に正式提出",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzBmMjItNmM0Zi03ZGUxLTg1ZTUtZTI0NDFhNDVkYjJkLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzBmMjItNmM0Zi03ZGUxLTg1ZTUtZTI0NDFhNDVkYjJkLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/western-union-taps-crossmint-to-support-solana-based-usd-stablecoin-and-digital-asset-payout-network",
           "author": "Cointelegraph  Nate Kostar",

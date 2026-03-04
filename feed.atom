@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-04T22:26:56.901Z</updated>
+    <updated>2026-03-04T22:57:35.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米モルガン・スタンレー、ビットコインETF申請を更新　BNYとコインベースを指名]]></title>
+        <id>https://coinpost.jp/?p=692548</id>
+        <link href="https://coinpost.jp/?p=692548"/>
+        <updated>2026-03-04T22:50:55.000Z</updated>
+        <summary type="html"><![CDATA[#cp-summary-2025{all:revert;box-sizing:border-box;width:100%;background:#f8f9fb;border-left:3pxsolid#0d2d4f;border-radiu...]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨財務（DAT）企業の流入額が2024年10月以来の低水準]]></title>
+        <id>https://jp.cointelegraph.com/news/crypto-treasury-inflow-slow-october-2024</id>
+        <link href="https://jp.cointelegraph.com/news/crypto-treasury-inflow-slow-october-2024?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-03-04T22:48:49.000Z</updated>
+        <summary type="html"><![CDATA[ディーファイラマ（DeFiLlama）のデータによると、デジタル資産財務（DAT）企業への月次流入額は約5億5500万ドル（約830億円）まで減少し、2024年米大統領選に伴う上昇局面直前の24年10月以来の低水準となった。]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[回復に勢い　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ]]></title>
+        <id>https://jp.cointelegraph.com/news/price-predictions-3-4-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link</id>
+        <link href="https://jp.cointelegraph.com/news/price-predictions-3-4-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-03-04T22:43:07.000Z</updated>
+        <summary type="html"><![CDATA[スポットビットコインETFへの継続的な資金流入を背景に、ビットコインの回復は水曜日に勢いを増し、74,000ドルを超えて上昇した。テクニカルチャートは、BTCおよびアルトコインのこの動きを支持しているか。]]></summary>
+        <author>
+            <name>Cointelegraph  Rakesh Upadhyay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ大統領、ビットコイン支持派のFRB議長候補を上院に正式提出]]></title>
+        <id>https://jp.cointelegraph.com/news/donald-trump-fed-nomination-kevin-warsh-senate</id>
+        <link href="https://jp.cointelegraph.com/news/donald-trump-fed-nomination-kevin-warsh-senate?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-03-04T22:34:58.000Z</updated>
+        <summary type="html"><![CDATA[米大統領は1月30日のSNS投稿で、ジェローム・パウエル議長の後任としてケビン・ウォーシュ氏を指名すると発表していたが、今回、正式に指名手続きを行った。]]></summary>
+        <author>
+            <name>Cointelegraph  Turner Wright</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウェスタンユニオン、ソラナ上でのステーブルコイン「USDPT」決済をサポートするためクロスミントと提携]]></title>
         <id>https://jp.cointelegraph.com/news/western-union-taps-crossmint-to-support-solana-based-usd-stablecoin-and-digital-asset-payout-network</id>
@@ -2229,17 +2269,6 @@ Polymarketでインサイダー疑惑、米国のイラン攻撃前に120万ド�
         <updated>2026-02-28T11:02:13.000Z</updated>
         <summary type="html"><![CDATA[【CoinDesk Summary】 ● 米国とイスラエルによるイランへの攻撃は、ここ数十年で最大規模の中東における軍事衝突へと発展している。イランはイスラエル ...
 ビットコイン、さらなる下落リスクも──イランが中東の米軍基地を攻撃 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>NADA NEWS編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperliquidの原油連動パーペチュアル先物、米国とイスラエルのイラン攻撃後に5％超上昇]]></title>
-        <id>https://www.nadanews.com/?p=339112</id>
-        <link href="https://www.nadanews.com/339112/"/>
-        <updated>2026-02-28T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[【CoinDesk Summary】 ● DEX（分散型取引所）Hyperliquidで取引されている原油価格連動のパーペチュアル先物は、米国とイスラ ...
-Hyperliquidの原油連動パーペチュアル先物、米国とイスラエルのイラン攻撃後に5％超上昇 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>NADA NEWS編集部</name>
         </author>

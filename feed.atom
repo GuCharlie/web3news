@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-04T07:35:14.167Z</updated>
+    <updated>2026-03-04T08:34:35.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日銀・植田総裁「15分講演」の意味──中央銀行マネーはオンチェーン金融にどう接続するのか【FIN/SUM 2026】]]></title>
+        <id>https://www.nadanews.com/?p=339582</id>
+        <link href="https://www.nadanews.com/339582/"/>
+        <updated>2026-03-04T08:29:06.000Z</updated>
+        <summary type="html"><![CDATA[植田総裁の講演はわずか15分だった。だが、日本のオンチェーン金融の将来を考えるうえで、極めて重要なメッセージが含まれていた。 3日、「FIN/SUM 2026」 ...
+日銀・植田総裁「15分講演」の意味──中央銀行マネーはオンチェーン金融にどう接続するのか【FIN/SUM 2026】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>増田隆幸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインに警告「ゴールドは一つしかない」──レイ・ダリオ氏が改めて強調]]></title>
+        <id>https://www.nadanews.com/?p=339579</id>
+        <link href="https://www.nadanews.com/339579/"/>
+        <updated>2026-03-04T08:10:00.000Z</updated>
+        <summary type="html"><![CDATA[世界最大級のヘッジファンド、Bridgewater Associates（ブリッジウォーター・アソシエイツ）の創業者で億万長者の投資家のRay Dalio（レイ ...
+ビットコインに警告「ゴールドは一つしかない」──レイ・ダリオ氏が改めて強調 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロス市警の元警察官、仮想通貨強盗で有罪判決　17歳少年を襲撃して35万ドル相当のビットコイン奪う]]></title>
+        <id>https://jp.cointelegraph.com/news/former-lapd-cop-convicted-of-350k-crypto-theft-and-kidnapping</id>
+        <link href="https://jp.cointelegraph.com/news/former-lapd-cop-convicted-of-350k-crypto-theft-and-kidnapping?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-03-04T08:03:14.000Z</updated>
+        <summary type="html"><![CDATA[2024年に発生した住宅侵入事件で、17歳の少年を誘拐し35万0ドル相当の仮想通貨を奪ったとして、ロサンゼルス市警（LAPD）の元警察官が有罪判決を受けた。]]></summary>
+        <author>
+            <name>Cointelegraph  Jesse Coghlan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イラン攻撃が金融を変えた。オンチェーン以外に選択肢はない：Bitwise]]></title>
         <id>https://www.nadanews.com/?p=339575</id>
@@ -2286,36 +2318,6 @@ MoonPay、M0、PayPalが「PYUSDx」発表──アプリ特化型ステーブ�
         <summary type="html"><![CDATA[米国の現物ビットコインETFが直近3営業日で11億ドル超の純流入を記録。5週間にわたる流出トレンドに終止符を打ち、規制案の進展を背景とした機関投資家の買い意欲が鮮明に。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国国税庁、プレスリリースでシードフレーズを誤って公開　約480万ドル相当のトークンが流出]]></title>
-        <id>https://jp.cointelegraph.com/news/south-korea-tax-office-leaked-wallet-seed</id>
-        <link href="https://jp.cointelegraph.com/news/south-korea-tax-office-leaked-wallet-seed?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-02-27T20:25:10.000Z</updated>
-        <summary type="html"><![CDATA[韓国国税庁（NTS）が木曜日、プレスリリース内で仮想通貨ウォレットのシードフレーズを誤って公開し、当該アドレスから約480万ドル相当の400万PRTGトークンが流出した。]]></summary>
-        <author>
-            <name>Cointelegraph  Christina Comben</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国国税庁、差押え仮想通貨の復元フレーズを誤公開　7億円相当のトークンが流出か]]></title>
-        <id>https://coinpost.jp/?p=691820</id>
-        <link href="https://coinpost.jp/?p=691820"/>
-        <updated>2026-02-27T20:00:43.000Z</updated>
-        <summary type="html"><![CDATA[韓国国税庁が押収された仮想通貨ウォレットの復元キーを報道資料の写真に無修正で掲載し、7億円以上のトークンが第三者に流出した疑いが浮上。専門家は当局の仮想通貨管理に対する基礎知識の欠如を厳しく批判。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTC失速後の展開は？ 仮想通貨チャート分析：ビットコイン・イーサ・XRP・ソラナ]]></title>
-        <id>https://jp.cointelegraph.com/news/price-predictions-2-27-btc-eth-xrp-bnb-sol-doge-bch-ada-hype-link</id>
-        <link href="https://jp.cointelegraph.com/news/price-predictions-2-27-btc-eth-xrp-bnb-sol-doge-bch-ada-hype-link?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-02-27T19:45:46.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインの7万ドル突破は今週失速した。弱気派は6万6,000ドル以下まで価格を下げようと試みている。]]></summary>
-        <author>
-            <name>Cointelegraph  Rakesh Upadhyay</name>
         </author>
     </entry>
 </feed>

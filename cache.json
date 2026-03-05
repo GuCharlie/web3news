@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=339822",
+          "author": "Shoko Galaviz",
+          "description": "暗号資産（仮想通貨）取引所Coinbase（コインベース）の株主が、同社のBrian Armstrong（ブライアン・アームストロング）CEOや取締役、幹部らを ...\nCoinbase幹部を株主が提訴──情報開示やコンプライアンス不備めぐり責任追及 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/339822/",
+          "publishedOn": "2026-03-05T22:00:00.000Z",
+          "wordCount": 1369,
+          "title": "Coinbase幹部を株主が提訴──情報開示やコンプライアンス不備めぐり責任追及",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2661602153.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=339819",
           "author": "Shoko Galaviz",
           "description": "ニューヨーク証券取引所（NYSE）の親会社であるIntercontinental Exchange（インターコンチネンタル・エクスチェンジ：ICE）は、暗号資産 ...\nNYSE親会社のICE、暗号資産取引所OKXに出資 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -670,7 +680,7 @@
       "articles": []
     },
     {
-      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "幸田直子  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -2493,6 +2503,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-miners-unwind-btc-treasuries-margin-pressure",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "上場マイニング企業がビットコイン（BTC）の保有残高を削減している。利益率の悪化や負債の圧力、そして市場暴落後の再構築を受け、業界はかつて主流だった「ホールド（長期保有）」戦略の再考を余儀なくされている。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-miners-unwind-btc-treasuries-margin-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-05T22:20:30.000Z",
+          "wordCount": 239,
+          "title": "ビットコインマイナー、10月以降に1万5000BTCを売却、さらなる放出も予想",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JlZjEtYTA5Ny03YWVhLTlkZWYtZGI2MTViYjg3MTQyLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JlZjEtYTA5Ny03YWVhLTlkZWYtZGI2MTViYjg3MTQyLmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/eric-trump-anti-bank-stablecoin-yield",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "ドナルド・トランプ米大統領の次男エリック・トランプ氏によるSNSへの投稿は、大統領が「銀行が市場構造法案を『人質』に取っている」と主張した数時間後に行われた。エリック氏自身も仮想通貨関連企業を共同設立している。",
+          "link": "https://jp.cointelegraph.com/news/eric-trump-anti-bank-stablecoin-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-05T22:11:51.000Z",
+          "wordCount": 222,
+          "title": "トランプ氏長男も銀行批判に同調、ステーブルコイン利回りを巡る対立激化",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JlODQtYjIyZC03ZDhjLTg0M2UtMGE2NmVmODdjNzU1LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JlODQtYjIyZC03ZDhjLTg0M2UtMGE2NmVmODdjNzU1LmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/altcoin-crypto-market-social-media-interest-sinks-bitcoin-dominance",
           "author": "Cointelegraph  Ciaran Lyons",

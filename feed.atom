@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-05T06:45:30.849Z</updated>
+    <updated>2026-03-05T07:39:08.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バックパック、IPO株式へのオンチェーンアクセス構想を公開]]></title>
+        <id>https://www.neweconomy.jp/?p=553460</id>
+        <link href="https://www.neweconomy.jp/posts/553460"/>
+        <updated>2026-03-05T07:37:54.000Z</updated>
+        <summary type="html"><![CDATA[IPOロードショーの一部としてバックパック活用を検討 暗号資産（仮想通貨）のウォレットおよび取引所提供のバックパック（Backpack）が、IPO（新規株式公開）株式へのオンチェーンアクセス機能の提供を構想している。バッ […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨関連株が急騰　トランプ発言と規制明確化への期待で市場上昇]]></title>
+        <id>https://jp.cointelegraph.com/news/crypto-stocks-rally-trump-regulation-bitcoin-surge</id>
+        <link href="https://jp.cointelegraph.com/news/crypto-stocks-rally-trump-regulation-bitcoin-surge?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-03-05T07:09:09.000Z</updated>
+        <summary type="html"><![CDATA[米国のトランプ大統領による仮想通貨支持の発言を背景に、ビットコインと仮想通貨市場が上昇し、水曜日には仮想通貨関連株も大きく値を伸ばした。]]></summary>
+        <author>
+            <name>Cointelegraph  Stephen Katte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは底を打ったか？「FTX崩壊時」との類似点も]]></title>
+        <id>https://crypto-times.jp/?p=154827</id>
+        <link href="https://crypto-times.jp/news-has-bitcoin-hit-bottom-similarities-to-the-ftx-collapse/"/>
+        <updated>2026-03-05T06:54:13.000Z</updated>
+        <summary type="html"><![CDATA[数ヶ月にわたるビットコイン（BTC）の下落局面において市場が底を形成しつつある可能性が指摘されています。最新のレポートでは、現在の市場環境が2022年のFTX崩壊時に見られた底値圏の状況と酷似していると分析されています。 […]
+投稿 ビットコインは底を打ったか？「FTX崩壊時」との類似点も は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BNBチェーン上の予測市場Predict[.]fun、PancakeSwapとYZi Labs支援のプロバブル買収]]></title>
+        <id>https://www.neweconomy.jp/?p=553433</id>
+        <link href="https://www.neweconomy.jp/posts/553433"/>
+        <updated>2026-03-05T06:45:54.000Z</updated>
+        <summary type="html"><![CDATA[Predict.funがProbableを買収 分散型予測市場プロトコル提供の「プレディクトファン（Predict.fun）」によるオンチェーン予測プラットフォーム「プロバブル（Probable）」の戦略的買収が3月4日 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットワイズ、ビットコイン開発者支援に38万ドル寄付　ETF利益の一部を拠出]]></title>
+        <id>https://jp.cointelegraph.com/news/bitwise-second-donation-bitcoin-devs</id>
+        <link href="https://jp.cointelegraph.com/news/bitwise-second-donation-bitcoin-devs?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-03-05T06:45:43.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨運用会社ビットワイズは、ビットコインネットワークの維持とセキュリティを担う開発者を支援するため、2024年以降の寄付総額が38万3000ドルに達したと発表した。水曜日には新たに23万3000ドルの寄付を発表している。]]></summary>
+        <author>
+            <name>Cointelegraph  Brayden Lindrea</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ大統領の次男エリック氏、ステーブルコイン規制めぐり大手銀行を「反米的」と批判]]></title>
         <id>https://coinpost.jp/?p=692715</id>
@@ -2652,16 +2703,6 @@ NFTマーケットプレイス・Magic Eden、一部閉鎖──BTCとEVMチェ�
         <summary type="html"><![CDATA[ブロックチェーン分析企業チェイナリシスによると、2025年のランサムウェア攻撃件数は前年比で50％増加した。ハッカーが大規模攻撃から中小規模の標的へと焦点を移したことが背景にある。]]></summary>
         <author>
             <name>Cointelegraph  Brian Quarmby</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マウントゴックス元CEO、52億ドル相当のBTC回収へハードフォーク提案]]></title>
-        <id>https://jp.cointelegraph.com/news/mt-gox-former-ceo-proposes-hard-fork-recover-lost-bitcoin</id>
-        <link href="https://jp.cointelegraph.com/news/mt-gox-former-ceo-proposes-hard-fork-recover-lost-bitcoin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-02-28T19:06:08.000Z</updated>
-        <summary type="html"><![CDATA[マウントゴックス元CEOのマーク・カルプレス氏は、10年以上前に同取引所から盗まれた52億ドル超相当のビットコイン回収に向け、コミュニティの支持を呼びかけている。]]></summary>
-        <author>
-            <name>Cointelegraph  Felix Ng</name>
         </author>
     </entry>
 </feed>

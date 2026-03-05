@@ -1862,6 +1862,26 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=553460",
+          "author": "watanabeyousuke",
+          "description": "IPOロードショーの一部としてバックパック活用を検討 暗号資産（仮想通貨）のウォレットおよび取引所提供のバックパック（Backpack）が、IPO（新規株式公開）株式へのオンチェーンアクセス機能の提供を構想している。バッ […]",
+          "link": "https://www.neweconomy.jp/posts/553460",
+          "publishedOn": "2026-03-05T07:37:54.000Z",
+          "wordCount": 765,
+          "title": "バックパック、IPO株式へのオンチェーンアクセス構想を公開",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/05163724/6e4f4cb3ee65cafbcdf0d15d54733695.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=553433",
+          "author": "HitomotoToshikazu",
+          "description": "Predict.funがProbableを買収 分散型予測市場プロトコル提供の「プレディクトファン（Predict.fun）」によるオンチェーン予測プラットフォーム「プロバブル（Probable）」の戦略的買収が3月4日 […]",
+          "link": "https://www.neweconomy.jp/posts/553433",
+          "publishedOn": "2026-03-05T06:45:54.000Z",
+          "wordCount": 756,
+          "title": "BNBチェーン上の予測市場Predict[.]fun、PancakeSwapとYZi Labs支援のプロバブル買収",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/05154541/761d3433bc05f8898400be397da7dfba.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=553423",
           "author": "gentosha_takahashi",
           "description": "業界からは懸念の声も 韓国政府と与党が、暗号資産（仮想通貨）取引所の大株主の持分上限を20％とする方針で合意した。現地メディアの「ヘラルド経済」などが3月4日に報じた。 報道によると、与党「共に民主党」のデジタル資産タス […]",
@@ -2349,6 +2369,36 @@
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
         {
+          "id": "https://jp.cointelegraph.com/news/crypto-stocks-rally-trump-regulation-bitcoin-surge",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "米国のトランプ大統領による仮想通貨支持の発言を背景に、ビットコインと仮想通貨市場が上昇し、水曜日には仮想通貨関連株も大きく値を伸ばした。",
+          "link": "https://jp.cointelegraph.com/news/crypto-stocks-rally-trump-regulation-bitcoin-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-05T07:09:09.000Z",
+          "wordCount": 227,
+          "title": "仮想通貨関連株が急騰　トランプ発言と規制明確化への期待で市場上昇",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JjNTQtOGFiZi03NmM4LTk2YmItYzFjYmY3NzBkMzk0LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JjNTQtOGFiZi03NmM4LTk2YmItYzFjYmY3NzBkMzk0LmpwZw==.jpg"
+        },
+        {
+          "id": "https://jp.cointelegraph.com/news/bitwise-second-donation-bitcoin-devs",
+          "author": "Cointelegraph  Brayden Lindrea",
+          "description": "仮想通貨運用会社ビットワイズは、ビットコインネットワークの維持とセキュリティを担う開発者を支援するため、2024年以降の寄付総額が38万3000ドルに達したと発表した。水曜日には新たに23万3000ドルの寄付を発表している。",
+          "link": "https://jp.cointelegraph.com/news/bitwise-second-donation-bitcoin-devs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-05T06:45:43.000Z",
+          "wordCount": 231,
+          "title": "ビットワイズ、ビットコイン開発者支援に38万ドル寄付　ETF利益の一部を拠出",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JiZjEtNjkyMi03YTA1LTg5NTYtNzMwMWFmZWJjYzljLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JiZjEtNjkyMi03YTA1LTg5NTYtNzMwMWFmZWJjYzljLmpwZw==.jpg"
+        },
+        {
           "id": "https://jp.cointelegraph.com/news/tether-invests-in-1-5b-ai-sleep-tracking-firm",
           "author": "Cointelegraph  Brian Quarmby",
           "description": "ステーブルコイン企業テザーは、睡眠テクノロジー企業エイト・スリープによる5000万ドルの戦略的投資ラウンドを主導した。睡眠関連製品に人工知能（AI）エージェントを統合する取り組みを支援するという。",
@@ -2782,21 +2832,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzljNmUtMzEzMi03NDM3LWJiMWEtYWU4ZjVmYzk5Mzg4LmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/mt-gox-former-ceo-proposes-hard-fork-recover-lost-bitcoin",
-          "author": "Cointelegraph  Felix Ng",
-          "description": "マウントゴックス元CEOのマーク・カルプレス氏は、10年以上前に同取引所から盗まれた52億ドル超相当のビットコイン回収に向け、コミュニティの支持を呼びかけている。",
-          "link": "https://jp.cointelegraph.com/news/mt-gox-former-ceo-proposes-hard-fork-recover-lost-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-02-28T19:06:08.000Z",
-          "wordCount": 212,
-          "title": "マウントゴックス元CEO、52億ドル相当のBTC回収へハードフォーク提案",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Y2EyNWYtNzZjMC03MTQ0LTg3OGMtN2FiNDhlZTUxYjk0LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Y2EyNWYtNzZjMC03MTQ0LTg3OGMtN2FiNDhlZTUxYjk0LmpwZw==.jpg"
         }
       ]
     },
@@ -2805,6 +2840,21 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=154827",
+          "author": "Crypto Times 編集部",
+          "description": "数ヶ月にわたるビットコイン（BTC）の下落局面において市場が底を形成しつつある可能性が指摘されています。最新のレポートでは、現在の市場環境が2022年のFTX崩壊時に見られた底値圏の状況と酷似していると分析されています。 […]\n投稿 ビットコインは底を打ったか？「FTX崩壊時」との類似点も は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-has-bitcoin-hit-bottom-similarities-to-the-ftx-collapse/",
+          "publishedOn": "2026-03-05T06:54:13.000Z",
+          "wordCount": 598,
+          "title": "ビットコインは底を打ったか？「FTX崩壊時」との類似点も",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_751018363.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=154707",
           "author": "よきょい",

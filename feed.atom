@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-06T19:31:04.612Z</updated>
+    <updated>2026-03-06T20:27:31.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[カザフ中央銀行、最大552億円を仮想通貨関連資産へ投資計画]]></title>
+        <id>https://coinpost.jp/?p=693052</id>
+        <link href="https://coinpost.jp/?p=693052"/>
+        <updated>2026-03-06T20:00:51.000Z</updated>
+        <summary type="html"><![CDATA[カザフスタン中央銀行が外貨・金準備から最大3億5000万ドルを仮想通貨関連資産に投資する方針を明らかにした。直接保有にとどまらず、ハイテク株や指数ファンドも対象に含め、4月から5月にかけての運用開始を見込む。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン 7万ドル割れ　弱い米雇用統計でもリスク資産は軒並み下落]]></title>
         <id>https://jp.cointelegraph.com/news/bitcoin-price-drops-near-68k-us-jobs-weakness-fails-rescue-bulls</id>
@@ -3175,50 +3185,6 @@ AIによるデフレが金融緩和政策を促せば、ビットコインの追
         <summary type="html"><![CDATA[Secured Financeが新プロダクト「SF Yield Vault」を公開。JPYC VaultにJPYCを預けるだけで、固定金利レンディングプロトコルを通じた自動運用が可能に。Vault持分トークンyvJPYCを発行。]]></summary>
         <author>
             <name>Ritsuki.Kumazawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソニー銀行口座でステーブルコインJPYC購入可能に──エンタメ決済へ、MOU締結]]></title>
-        <id>https://www.nadanews.com/?p=339242</id>
-        <link href="https://www.nadanews.com/339242/"/>
-        <updated>2026-03-02T08:14:47.000Z</updated>
-        <summary type="html"><![CDATA[JPYC社は2日、ソニー銀行と日本円ステーブルコイン「JPYC」を活用したサービス連携に向け、戦略的業務提携の基本合意（MOU）を締結したと発表した。 今回の提 ...
-ソニー銀行口座でステーブルコインJPYC購入可能に──エンタメ決済へ、MOU締結 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>栃山 直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic、Claude Cowork向け金融特化プラグインを発表──MCPを活用したデータ連携と専門業務の自律化【MCB FinTechカタログ通信】]]></title>
-        <id>https://www.nadanews.com/?p=339226</id>
-        <link href="https://www.nadanews.com/339226/"/>
-        <updated>2026-03-02T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年2月24日、AI開発企業のAnthropicが、同社のソフトウェア「Claude Cowork」向けに金融サービスに特化した複数のプラグインを発表しま ...
-Anthropic、Claude Cowork向け金融特化プラグインを発表──MCPを活用したデータ連携と専門業務の自律化【MCB FinTechカタログ通信】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>宮本航歩</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「バイブコーディング」がEthereumの開発工程を早める可能性：ブテリン氏が示唆]]></title>
-        <id>https://www.nadanews.com/?p=339239</id>
-        <link href="https://www.nadanews.com/339239/"/>
-        <updated>2026-03-02T07:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum（イーサリアム）の共同創設者、Vitalik Buterin（ヴィタリック・ブテリン）氏は、AI（人工知能）を活用してわずか数週間で2030年ま ...
-「バイブコーディング」がEthereumの開発工程を早める可能性：ブテリン氏が示唆 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ノルウェー銀行、メタプラネット株保有を10倍へ拡大]]></title>
-        <id>https://crypto-times.jp/?p=154412</id>
-        <link href="https://crypto-times.jp/news-norges-bank-increases-metaplanet-stake-tenfold/"/>
-        <updated>2026-03-02T07:36:33.000Z</updated>
-        <summary type="html"><![CDATA[世界最大級の政府系ファンドであるノルウェー政府年金基金（GPFG）を運用するノルウェー銀行が、日本の上場企業メタプラネットの株式保有比率を大幅に引き上げたことが判明しました。 2024年時点での保有額は約5029万700 […]
-投稿 ノルウェー銀行、メタプラネット株保有を10倍へ拡大 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
         </author>
     </entry>
 </feed>

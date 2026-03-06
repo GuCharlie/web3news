@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-06T22:54:09.236Z</updated>
+    <updated>2026-03-06T23:24:27.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ドバイ当局、仮想通貨取引所KuCoinに業務停止命令]]></title>
+        <id>https://coinpost.jp/?p=693155</id>
+        <link href="https://coinpost.jp/?p=693155"/>
+        <updated>2026-03-06T23:02:19.000Z</updated>
+        <summary type="html"><![CDATA[ドバイ当局は、仮想通貨取引所KuCoinに対し、未承認の全ての仮想通貨事業を停止するよう命じたと発表。KuCoinは規制認可を取得せずに仮想通貨事業を行っていたと主張している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウォーレン米上院議員、サン氏の訴訟取り下げを巡りSECの対応を批判]]></title>
         <id>https://coinpost.jp/?p=693147</id>

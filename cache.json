@@ -780,16 +780,6 @@
           "wordCount": 1351,
           "title": "「NEWYORKER」のダイドーリミテッド、10億円のビットコイン購入を決定──老舗企業のDAT参入続く",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/725eabab78df9c4f23387fc17a9908a4.png"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=339216",
-          "author": "増田隆幸",
-          "description": "ステーブルコインは、もはや決済や取引のための“通貨”ではない。トークン化MMFやトークン化国債の拡大を背景に、「金利を生む資産」として再定義されつつある。 Bl ...\nステーブルコインを「入れておくだけ」──Secured Finance、オンチェーン金利インフラを抽象化する「Yield Vault」公開 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/339216/",
-          "publishedOn": "2026-03-02T04:50:00.000Z",
-          "wordCount": 1466,
-          "title": "ステーブルコインを「入れておくだけ」──Secured Finance、オンチェーン金利インフラを抽象化する「Yield Vault」公開",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-56.jpg"
         }
       ]
     },
@@ -2948,6 +2938,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-price-drops-near-68k-us-jobs-weakness-fails-rescue-bulls",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコイン（BTC）は金曜日のウォール街取引開始前後に7万ドルを下回った。弱い米雇用統計が発表されたものの、リスク資産の上昇にはつながらなかった。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-price-drops-near-68k-us-jobs-weakness-fails-rescue-bulls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-06T17:11:06.000Z",
+          "wordCount": 292,
+          "title": "ビットコイン 7万ドル割れ　弱い米雇用統計でもリスク資産は軒並み下落",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzZjM2MtZmY1OC03Y2Q3LTg1M2MtYTNiZjM4MzUwYzYzLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzZjM2MtZmY1OC03Y2Q3LTg1M2MtYTNiZjM4MzUwYzYzLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/altcoin-seasons-are-over-expect-non-traditional-cycles-ahead-bitwise-cio",
           "author": "Cointelegraph  Ciaran Lyons",

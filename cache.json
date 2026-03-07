@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=339961",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● 伝統的金融大手のBNY Mellon（バンク・オブ・ニューヨーク・メロン）がビットコインETFのカストディアンとなるこ ...\nビットコイン、7万ドルを維持できず──ウォール街で数カ月ぶりの好材料にもかかわらず first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/339961/",
+          "publishedOn": "2026-03-07T00:15:00.000Z",
+          "wordCount": 1379,
+          "title": "ビットコイン、7万ドルを維持できず──ウォール街で数カ月ぶりの好材料にもかかわらず",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-41.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=339865",
+          "author": "荒澤 文寛（あらさわ ふみひろ） ビットトレード リサーチアナリスト",
+          "description": "今週の市場は、恐怖による急落と、その後の急速な反発が同時に起きた「疑念の中の回復」を試す1週間だった。 ビットコインは週初に約$66,000（約1,070万円） ...\n恐怖の中の反発、しかし信頼はまだ戻らない── ビットコイン市場が試される「フロー確認フェーズ」【BitTrade Market Weekly】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/339865/",
+          "publishedOn": "2026-03-07T00:00:00.000Z",
+          "wordCount": 1389,
+          "title": "恐怖の中の反発、しかし信頼はまだ戻らない── ビットコイン市場が試される「フロー確認フェーズ」【BitTrade Market Weekly】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-37.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=339955",
           "author": "XWIN Research",
           "description": "● イラン情勢による原油価格上昇と米雇用減少により、米国でスタグフレーション懸念が再び高まっている。● スタグフレーション初期は金融引き締めと流動性縮小により、 ...\nスタグフレーション懸念が高まる米国経済：ビットコインは逆風か、それともヘッジ資産か【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -730,16 +750,6 @@
           "wordCount": 1358,
           "title": "Nasdaq、予測市場型の「二者択一オプション」上場へ向けSECに申請",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2348893371.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=339313",
-          "author": "栃山 直樹",
-          "description": "高市早苗首相は2日、自身の名を冠した暗号資産（仮想通貨）「SANAE TOKEN（サナエトークン）」について、自身および事務所の関与を全面的に否定する声明をXで ...\n高市首相、SANAE TOKENへの関与を全面否定──「全く存じ上げません」 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/339313/",
-          "publishedOn": "2026-03-02T13:27:53.000Z",
-          "wordCount": 1341,
-          "title": "高市首相、SANAE TOKENへの関与を全面否定──「全く存じ上げません」",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2718583733.jpg"
         }
       ]
     },
@@ -2895,16 +2905,6 @@
           "wordCount": 766,
           "title": "ストラテジーがビットコイン追加購入、総保有数は約72万737BTCに",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/03133435/BTC42-250714-PIXTA-1.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=552057",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/552057",
-          "publishedOn": "2026-03-02T12:04:29.000Z",
-          "wordCount": 626,
-          "title": "【3/2話題】金融庁が暗号資産のマネロン対策実証実験を支援へ、マウントゴックス元CEOがBTC回収でビットコインハードフォーク提案など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/02191518/32d34d4637dc98506f3794a22b7de59d.jpg"
         }
       ]
     },
@@ -2913,6 +2913,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/bitcoin-price-falls-under-dollar70k-again-three-key-reasons",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "ビットコイン（BTC）は過去2日間で5％下落し、7万ドルを下回って月間の取引レンジへ戻った。市場データは7万ドル付近に強いレジスタンスが存在することを示している。オンチェーンフロー、先物データ、そして現物取引高の弱まりが重なり、売り圧力が再び強まりつつある。",
+          "link": "https://jp.cointelegraph.com/news/bitcoin-price-falls-under-dollar70k-again-three-key-reasons?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-07T00:29:29.000Z",
+          "wordCount": 332,
+          "title": "ビットコイン 7万ドル割れで月間レンジに回帰　短期保有者の利確が売り圧力に",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2M0NGItNzU3OS03YjIwLThmZTAtMzkyN2ExZWMwNDViLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2M0NGItNzU3OS03YjIwLThmZTAtMzkyN2ExZWMwNDViLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/crypto-exchanges-global-tradfi-venues-tokenized-commodities-boom",
           "author": "Cointelegraph  Zoltan Vardai",

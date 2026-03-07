@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-07T08:54:24.899Z</updated>
+    <updated>2026-03-07T09:25:11.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン 6万8000ドル付近で攻防　個人買い増し・クジラ売却の構図]]></title>
+        <id>https://jp.cointelegraph.com/news/bitcoin-price-decline-downside-retail-whales-pattern-santiment</id>
+        <link href="https://jp.cointelegraph.com/news/bitcoin-price-decline-downside-retail-whales-pattern-santiment?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-03-07T08:53:59.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨センチメント分析プラットフォームのサンティメントによれば、ビットコイン（BTC）が7万ドルを下回った後、個人投資家による買いが増えている。一方でクジラの動きから、過去のパターンが繰り返されれば価格がさらに下落する可能性もある。]]></summary>
+        <author>
+            <name>Cointelegraph  Ciaran Lyons</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[なぜビットコインは下落？金高騰の一方で「高ベータテック」化する市場]]></title>
         <id>https://crypto-times.jp/?p=155071</id>
@@ -3374,27 +3384,6 @@ Bitmine、イーサリアムの蓄積継続で総保有量が447万ETH突破 fir
         <summary type="html"><![CDATA[アンソニー・ポンプリアーノ率いるプロキャップ・ファイナンシャルが2日、450ビットコインを新たに購入したと公式発表した。累計保有は5457BTCに達し株価NAVとの乖離縮小を目的とした自社株買いも同時進行。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イラン仮想通貨取引所からの資金流出が8倍急増、紛争の影響か]]></title>
-        <id>https://coinpost.jp/?p=692113</id>
-        <link href="https://coinpost.jp/?p=692113"/>
-        <updated>2026-03-02T21:20:37.000Z</updated>
-        <summary type="html"><![CDATA[イラン最大の仮想通貨取引所Nobitexで資金流出が700%急増し、1日で約300万ドルに達した。米イスラエルによる空爆と指導者暗殺報道を受け、既存金融システムを介さない資本逃避や海外送金が加速。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nasdaq、予測市場型の「二者択一オプション」上場へ向けSECに申請]]></title>
-        <id>https://www.nadanews.com/?p=339320</id>
-        <link href="https://www.nadanews.com/339320/"/>
-        <updated>2026-03-02T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米証券取引所Nasdaq（ナスダック）は、主力株価指数であるナスダック100指数に連動した二者択一型（バイナリー）オプションを上場するため、米証券取引委員会（S ...
-Nasdaq、予測市場型の「二者択一オプション」上場へ向けSECに申請 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Shoko Galaviz</name>
         </author>
     </entry>
 </feed>

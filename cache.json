@@ -690,16 +690,6 @@
           "wordCount": 1385,
           "title": "「議論で終わらせるな」金融庁 伊藤長官、AIとブロックチェーンの“実装”を強調【FIN/SUM 2026】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-59.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=339275",
-          "author": "橋本 祐樹",
-          "description": "2月3日に都内で開催された「Japan Stablecoin Summit #2」では、「ステーブルコイン普及の最大の壁」と題したパネルディスカッションが行われ ...\n世界は進む、日本はどうする──ステーブルコイン普及を阻む「3つの壁」 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/339275/",
-          "publishedOn": "2026-03-03T04:00:00.000Z",
-          "wordCount": 1450,
-          "title": "世界は進む、日本はどうする──ステーブルコイン普及を阻む「3つの壁」",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/IMG_0924-scaled.jpeg"
         }
       ]
     },
@@ -2033,36 +2023,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/cbdc-curve.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/cbdc-curve.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=691692",
-          "author": "Ritsuki.Kumazawa",
-          "description": "MoneyXでSWIFT・日銀・財務省が登壇。国際送金の75%が10分以内に到達する現状や、CBDCのホールセール・リテール両面のユースケース、フラグメンテーションのリスクと公民の役割分担を議論した。",
-          "link": "https://coinpost.jp/?p=691692",
-          "publishedOn": "2026-03-03T04:05:40.000Z",
-          "wordCount": 3768,
-          "title": "SWIFT・日銀・財務省が語るデジタルマネーの公民役割分担　「舞台を作るのが公的セクターの仕事」｜MoneyX",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/moneyx_swift1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/moneyx_swift1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=692193",
-          "author": "A.Yamada",
-          "description": "ビットコインマイニング企業ライオットが2025年通期の決算報告。総収益が過去最高を記録した。AI・HPC向けデータセンター事業も本格的に拡大していく。",
-          "link": "https://coinpost.jp/?p=692193",
-          "publishedOn": "2026-03-03T03:50:48.000Z",
-          "wordCount": 3955,
-          "title": "ライオット2025年決算　総収益が過去最高に、AI・HPC事業へ本腰",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/solo-mining-bitcoin.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/solo-mining-bitcoin.jpeg"
         }
       ]
     },
@@ -2698,6 +2658,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://jp.cointelegraph.com",
       "articles": [
+        {
+          "id": "https://jp.cointelegraph.com/news/usdc-beats-tether-stablecoin-transfer-volume-1-8-trillion-all-time-high",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "新たなデータによれば、ステーブルコインの月間送金額が過去最高を更新し、サークルのUSDCがテザーのUSDTの取引高を上回った。",
+          "link": "https://jp.cointelegraph.com/news/usdc-beats-tether-stablecoin-transfer-volume-1-8-trillion-all-time-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-07T15:46:49.000Z",
+          "wordCount": 255,
+          "title": "ステーブルコイン送金額が月間過去最高　USDCがUSDTを上回る",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzBkNGUtYjUwOC03NWE2LTllNTMtM2I1MzY2ZmJjYzZjLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzBkNGUtYjUwOC03NWE2LTllNTMtM2I1MzY2ZmJjYzZjLmpwZw==.jpg"
+        },
         {
           "id": "https://jp.cointelegraph.com/news/bitcoin-price-decline-downside-retail-whales-pattern-santiment",
           "author": "Cointelegraph  Ciaran Lyons",
@@ -3924,21 +3899,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_1068541526.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=154455",
-          "author": "よきょい",
-          "description": "ビットコインは米国市場の開始に伴い68,000ドルを超える4.7%の急騰を記録。中東情勢の緊迫化を受けて一時は64,000ドルを下回ったものの、現在は強い回復基調にあります。 Bitcoin price by Tradi […]\n投稿 ビットコインはなぜ有事に売られる？6.8万ドル回復と5万ドル割れのリスク は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-why-is-bitcoin-sold-during-crises/",
-          "publishedOn": "2026-03-03T04:05:15.000Z",
-          "wordCount": 619,
-          "title": "ビットコインはなぜ有事に売られる？6.8万ドル回復と5万ドル割れのリスク",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2434326743.jpg"
         }
       ]
     }

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=339999",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● 中南米の暗号資産（仮想通貨）市場は急速に拡大している。2025年の利用者数は前年比約18％増となり、増加率は米国の約3 ...\n送金・ドル代替で広がる暗号資産──中南米の利用者増加率、米国の3倍 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/339999/",
+          "publishedOn": "2026-03-08T22:00:00.000Z",
+          "wordCount": 1364,
+          "title": "送金・ドル代替で広がる暗号資産──中南米の利用者増加率、米国の3倍",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-45.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=339989",
           "author": "NADA NEWS編集部",
           "description": "【CoinDesk Summary】 ● 現在のサイクルでは、ビットコイン（BTC）は必ずしもドル安に対するヘッジとして機能していない。ただし、市場が成熟し、市 ...\nAI相場の次を探るウォール街──ビットコイン、新たなサイクルで役割模索 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -440,16 +450,6 @@
           "wordCount": 1467,
           "title": "ETFが変えた金価格、インフレ時代の資産防衛──金とビットコインの現在地【FIN/SUM 2026】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/DSC_7964-scaled.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=339620",
-          "author": "大谷 惇途",
-          "description": "株式会社マーキュリーが提供するステーキングサービス「CoinTradeStake（コイントレードステーク）」で、3月4日からアイオーテックス（IOTX）の取り扱 ...\n暗号資産ステーキングサービス「CoinTrade Stake」、アイオーテックス（IOTX）の取り扱いを開始 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/339620/",
-          "publishedOn": "2026-03-04T10:11:27.000Z",
-          "wordCount": 1368,
-          "title": "暗号資産ステーキングサービス「CoinTrade Stake」、アイオーテックス（IOTX）の取り扱いを開始",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/73968-65-858076809677cf5721dfbe3bf2b58861-1298x866-1.webp"
         }
       ]
     },
@@ -1743,6 +1743,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/michael-jordan-oscars-best-actor-polymarket",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "映画『シナーズ（Sinners）』に主演したジョーダン氏が来週のアカデミー賞で主演男優賞を受賞する確率は、3月1日時点ではわずか10％であった。しかし、その数時間後にSAG（全米映画俳優組合）の最優秀男優賞を受賞したことで、評価が急変した。",
+          "link": "https://cointelegraph.jp/news/michael-jordan-oscars-best-actor-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-08T22:12:52.000Z",
+          "wordCount": 275,
+          "title": "マイケル・B・ジョーダン氏、オスカー主演男優賞予想で首位に浮上　ポリマーケット",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2NlNDMtNjE5Ny03YmIxLWIzYzItNDZhMTg0MjllZWFlLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2NlNDMtNjE5Ny03YmIxLWIzYzItNDZhMTg0MjllZWFlLmpwZw==.jpg"
+        },
         {
           "id": "https://cointelegraph.jp/news/crypto-blockchain-priority-national-cyber-strategy-us-donald-trump",
           "author": "Cointelegraph  Ciaran Lyons",

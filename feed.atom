@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-08T23:19:43.645Z</updated>
+    <updated>2026-03-08T23:44:55.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テザーCEO「USDTは新興国5億5000万人が利用」]]></title>
+        <id>https://coinpost.jp/?p=693291</id>
+        <link href="https://coinpost.jp/?p=693291"/>
+        <updated>2026-03-08T23:26:43.000Z</updated>
+        <summary type="html"><![CDATA[テザーのCEOパオロ・アルドイーノ氏が、USDTの最大送金者比率が4.97%と他ステーブルコインの約5分の1にとどまると発表。新興国5億5000万人が利用する金融包摂ツールとしての役割を強調した。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トークン化RWA、1年で約4倍に拡大──オンチェーン残高は250億ドル超]]></title>
         <id>https://www.nadanews.com/?p=340029</id>

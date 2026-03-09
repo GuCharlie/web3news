@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=340161",
+          "author": "Shoko Galaviz",
+          "description": "Nasdaq（ナスダック）は、株式のトークン化を目的とした新しい設計「Equity Token Design（エクイティ・トークン・デザイン）」を発表し、暗号資 ...\nNasdaqとKraken親会社、トークン化株式インフラ構築へ提携 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/340161/",
+          "publishedOn": "2026-03-09T22:00:00.000Z",
+          "wordCount": 1414,
+          "title": "NasdaqとKraken親会社、トークン化株式インフラ構築へ提携",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2348893371-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=340158",
           "author": "Shoko Galaviz",
           "description": "世界的な保険ブローカーであるAon（エーオン）は、米ドル連動型ステーブルコインを用いた保険料支払いの実証実験を実施したと発表した。主要なグローバル保険ブローカー ...\nAon、ステーブルコインでの保険料支払いを実証──Coinbase、Paxosが協力 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -1308,21 +1318,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/ice-nyse-moonpay.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/ice-nyse-moonpay.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=692769",
-          "author": "Ritsuki.Kumazawa",
-          "description": "三菱UFJ銀行の半沢淳一頭取がFIN/SUM 2026で講演。融資の暗黙知をAIに学習させる独自システムの開発や、3メガ銀行共同によるステーブルコイン発行の実証実験参加を明らかにした。",
-          "link": "https://coinpost.jp/?p=692769",
-          "publishedOn": "2026-03-05T10:20:25.000Z",
-          "wordCount": 3749,
-          "title": "三菱UFJ銀行頭取、融資審査へのAI活用と3メガ共同ステーブルコイン実証を表明｜FIN/SUM 2026",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/ufj_finsum_0305.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/ufj_finsum_0305.jpeg"
         }
       ]
     },
@@ -1590,16 +1585,6 @@
           "wordCount": 646,
           "title": "【3/5話題】クラーケンがFRBマスターアカウント取得、スイのUSDsui正式稼働、モブキャストがソラナ追加取得など（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/05204610/f725611871d88cda86d73b2f78bf0eae-1.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=552794",
-          "author": "NewEconomy",
-          "description": "暗号資産 × 財務戦略 が学べる完全招待制イベント開催 SMBC日興証券、BitGo、幻冬舎（あたらしい経済）が共催で、暗号資産トレジャリー（DAT：Digital Asset Treasury）に関するセミナー「【徹底 […]",
-          "link": "https://www.neweconomy.jp/posts/552794",
-          "publishedOn": "2026-03-05T10:12:27.000Z",
-          "wordCount": 802,
-          "title": "【徹底解説】暗号資産 × 財務戦略セミナー by SMBC日興証券・BitGo・幻冬舎（完全招待制）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/04105852/3sha_event.jpg"
         }
       ]
     },
@@ -1608,6 +1593,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/michael-saylor-strategy-buys-17994-bitcoin-below-cost-basis",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "今回の購入により、ストラテジー（Strategy）のビットコイン総残高は約73万9000BTCに達した。資産価格が同社の平均取得価格を下回る中での買い増しとなった。",
+          "link": "https://cointelegraph.jp/news/michael-saylor-strategy-buys-17994-bitcoin-below-cost-basis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-09T22:05:32.000Z",
+          "wordCount": 241,
+          "title": "ストラテジー、13億ドルのビットコインを追加購入　保有量は73万8000BTC超",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlMjEtZjI3My03MDFkLTkyZTUtMmZmNTMxYjAyY2Rh.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlMjEtZjI3My03MDFkLTkyZTUtMmZmNTMxYjAyY2Rh.jpg"
+        },
         {
           "id": "https://cointelegraph.jp/news/spot-bitcoin-etfs-second-weekly-inflows-five-months-ether-etfs-rebound",
           "author": "Cointelegraph  Amin Haqshanas",
@@ -2724,51 +2724,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2529670081.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=154565",
-          "author": "Crypto Times 編集部",
-          "description": "オンチェーン分析プラットフォームのGlassnodeは、ビットコイン価格において7万ドルの水準が強力なレジスタンス（上値抵抗線）として機能し続けているとの分析を公開しました。 🔄UPDATE: The $ […]\n投稿 ビットコイン、7万ドルの壁で3度の反落 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-bitcoin-falls-three-times-past-the-70000-barrier/",
-          "publishedOn": "2026-03-05T10:22:40.000Z",
-          "wordCount": 649,
-          "title": "ビットコイン、7万ドルの壁で3度の反落",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/thumbnail-30.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=154687",
-          "author": "Crypto Times 編集部",
-          "description": "米国の規制当局が仮想通貨および予測市場に対する監視体制を一段と進展させていることが明らかになりました。 米国証券取引委員会（SEC）は特定の暗号資産に対する連邦証券法の適用に関する委員会レベルの指針をホワイトハウスに提出 […]\n投稿 米規制当局、予測市場に対する監視体制を強化へ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-us-regulators-to-step-up-oversight-of-prediction-markets/",
-          "publishedOn": "2026-03-05T10:15:54.000Z",
-          "wordCount": 602,
-          "title": "米規制当局、予測市場に対する監視体制を強化へ",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2426097137.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=154908",
-          "author": "Crypto Times 編集部",
-          "description": "リップル社が機関投資家向け暗号資産ECN（電子通信ネットワーク）を運営するCrossover Marketsのシリーズ資金調達ラウンドに参加したことが明らかになりました。本ラウンドは米金融大手Tradewebがリードし、 […]\n投稿 リップル社、機関向け取引基盤に出資 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-ripple-invests-in-institutional-trading-platform/",
-          "publishedOn": "2026-03-05T09:59:10.000Z",
-          "wordCount": 697,
-          "title": "リップル社、機関向け取引基盤に出資",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/06/shutterstock_1360567550.jpg"
         }
       ]
     }

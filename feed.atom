@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-09T19:37:32.647Z</updated>
+    <updated>2026-03-09T20:29:32.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ナスダックとクラーケンが提携、株式トークン化基盤を共同開発]]></title>
+        <id>https://coinpost.jp/?p=693458</id>
+        <link href="https://coinpost.jp/?p=693458"/>
+        <updated>2026-03-09T20:00:53.000Z</updated>
+        <summary type="html"><![CDATA[米ナスダックと仮想通貨取引所クラーケンの親会社が、株式のトークン化基盤を共同開発すると発表。規制市場と分散型金融ネットワークを接続するゲートウェイの構築を目指し、2027年上半期の稼働を予定。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リップル (XRP)、368億枚が含み損に｜未実現損失508億ドル]]></title>
         <id>https://crypto-times.jp/?p=155207</id>
@@ -2159,68 +2169,6 @@ NYSE親会社のICE、暗号資産取引所OKXに出資 first appeared on NADA N
         <summary type="html"><![CDATA[米民主党議員が予測市場「ポリマーケット」でのイラン攻撃直前の不審な高額賭けを批判。ホワイトハウス関係者による機密情報の不正利用疑惑を指摘し、禁止法案の提出を表明した。]]></summary>
         <author>
             <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エリック・トランプ氏、ステーブルコイン規制をめぐって大手銀行を強く批判]]></title>
-        <id>https://www.nadanews.com/?p=339776</id>
-        <link href="https://www.nadanews.com/339776/"/>
-        <updated>2026-03-05T08:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Donald Trump（ドナルド・トランプ）大統領の次男で、DeFiプロジェクト「ワールド・リバティ・ファイナンシャル（World Liberty Finan ...
-エリック・トランプ氏、ステーブルコイン規制をめぐって大手銀行を強く批判 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モブキャストHDがソラナ追加購入、総保有数は約2万800SOLに]]></title>
-        <id>https://www.neweconomy.jp/?p=553458</id>
-        <link href="https://www.neweconomy.jp/posts/553458"/>
-        <updated>2026-03-05T07:40:45.000Z</updated>
-        <summary type="html"><![CDATA[モブキャストHDがソラナ追加取得 東証グロース上場のモブキャストホールディングスが、暗号資産（仮想通貨）ソラナ（SOL）の追加取得を3月5日に発表した。 今回同社は、新たに5,000万円でSOLを取得したとのこと。2月4 […]]]></summary>
-        <author>
-            <name>TanakaShuya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アルトコインへの関心が2年ぶり低水準　投資家の視線はビットコインへ]]></title>
-        <id>https://cointelegraph.jp/news/altcoin-crypto-market-social-media-interest-sinks-bitcoin-dominance</id>
-        <link href="https://cointelegraph.jp/news/altcoin-crypto-market-social-media-interest-sinks-bitcoin-dominance?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-03-05T07:40:15.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨センチメント分析プラットフォームのサンティメントによると、ソーシャルメディア上でのアルトコイン言及数が過去2年で最低水準に落ち込んでおり、投資家の関心がビットコインへ集中している可能性がある。]]></summary>
-        <author>
-            <name>Cointelegraph  Ciaran Lyons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アルトコインへの関心が2年ぶり低水準　投資家の視線はビットコインへ]]></title>
-        <id>https://jp.cointelegraph.com/news/altcoin-crypto-market-social-media-interest-sinks-bitcoin-dominance</id>
-        <link href="https://jp.cointelegraph.com/news/altcoin-crypto-market-social-media-interest-sinks-bitcoin-dominance?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-03-05T07:40:15.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨センチメント分析プラットフォームのサンティメントによると、ソーシャルメディア上でのアルトコイン言及数が過去2年で最低水準に落ち込んでおり、投資家の関心がビットコインへ集中している可能性がある。]]></summary>
-        <author>
-            <name>Cointelegraph  Ciaran Lyons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインチェック、歩いてビットコイン獲得が可能に──ドリコムの歩数計アプリと連携]]></title>
-        <id>https://www.nadanews.com/?p=339769</id>
-        <link href="https://www.nadanews.com/339769/"/>
-        <updated>2026-03-05T07:39:44.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所コインチェックは5日、歩くことでビットコイン（BTC）を獲得できる新たなサービスを発表した。 ドリコムの位置情報連動型ウォーキングポイ ...
-コインチェック、歩いてビットコイン獲得が可能に──ドリコムの歩数計アプリと連携 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>栃山 直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バックパック、IPO株式へのオンチェーンアクセス構想を公開]]></title>
-        <id>https://www.neweconomy.jp/?p=553460</id>
-        <link href="https://www.neweconomy.jp/posts/553460"/>
-        <updated>2026-03-05T07:37:54.000Z</updated>
-        <summary type="html"><![CDATA[IPOロードショーの一部としてバックパック活用を検討 暗号資産（仮想通貨）のウォレットおよび取引所提供のバックパック（Backpack）が、IPO（新規株式公開）株式へのオンチェーンアクセス機能の提供を構想している。バッ […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
         </author>
     </entry>
 </feed>

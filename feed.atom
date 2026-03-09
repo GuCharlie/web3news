@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-09T22:53:31.983Z</updated>
+    <updated>2026-03-09T23:24:05.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[欧州の規制下ブロックチェーン証券市場、初の銀行参加]]></title>
+        <id>https://cointelegraph.jp/news/amina-bank-eu-blockchain-securities-market-21x</id>
+        <link href="https://cointelegraph.jp/news/amina-bank-eu-blockchain-securities-market-21x?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-03-09T23:06:38.000Z</updated>
+        <summary type="html"><![CDATA[スイスの仮想通貨銀行アミナ（Amina）は、規制対象の銀行として「21X」に参画した。伝統的な金融機関と、トークン化証券の発行を目的としたブロックチェーン基盤の市場を接続する。]]></summary>
+        <author>
+            <name>Cointelegraph  Sam Bourgi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン供給量、2000万枚に到達　ネットワークの節目を祝う]]></title>
         <id>https://cointelegraph.jp/news/bitcoin-mined-20-million-executives-speculate-1-million-left</id>
@@ -2130,17 +2140,6 @@ NYSE親会社のICE、暗号資産取引所OKXに出資 first appeared on NADA N
         <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Crypto Times Exclusive Interview] From Movement Labs to Move Industries: The Full Picture of Organizational Reform, Move 2.0, and Market Access]]></title>
-        <id>https://crypto-times.jp/?p=154097</id>
-        <link href="https://crypto-times.jp/movement-ceo-interview-202602-en/"/>
-        <updated>2026-03-05T11:15:16.000Z</updated>
-        <summary type="html"><![CDATA[Movement is a Layer 1 blockchain project built with the Move language and has drawn significant attention as n […]
-投稿 [Crypto Times Exclusive Interview] From Movement Labs to Move Industries: The Full Picture of Organizational Reform, Move 2.0, and Market Access は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Henry</name>
         </author>
     </entry>
 </feed>

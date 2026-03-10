@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=340257",
+          "author": "井上 俊彦",
+          "description": "オンチェーンデータ分析のArkham（アーカム）のXへの投稿によると、ブータン政府の投資部門は175BTC（約1100万ドル相当、約17億500万円：1ドル=1 ...\nブータン、国家保有のビットコイン1100万ドル相当を別アドレスに移動 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/340257/",
+          "publishedOn": "2026-03-10T09:40:00.000Z",
+          "wordCount": 1346,
+          "title": "ブータン、国家保有のビットコイン1100万ドル相当を別アドレスに移動",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2024/10/shutterstock_281149202.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=340260",
           "author": "NADA NEWS編集部",
           "description": "【CoinDesk Summary】 ● イーサリアム（ETH）、ソラナ（SOL）、エックスアールピー（XRP）など主要暗号資産は、イラン情勢を巡る停戦期待の高 ...\nイーサリアム、ソラナ、XRPが上昇──トランプ氏がイラン戦争の終結接近を示唆 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -560,16 +570,6 @@
           "wordCount": 1483,
           "title": "現物需要の回復と売り圧力の緩和──ビットコイン反発の構造をオンチェーンで検証する【エックスウィンリサーチ】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-33.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=339822",
-          "author": "Shoko Galaviz",
-          "description": "暗号資産（仮想通貨）取引所Coinbase（コインベース）の株主が、同社のBrian Armstrong（ブライアン・アームストロング）CEOや取締役、幹部らを ...\nCoinbase幹部を株主が提訴──情報開示やコンプライアンス不備めぐり責任追及 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/339822/",
-          "publishedOn": "2026-03-05T22:00:00.000Z",
-          "wordCount": 1369,
-          "title": "Coinbase幹部を株主が提訴──情報開示やコンプライアンス不備めぐり責任追及",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2661602153.jpg"
         }
       ]
     },
@@ -1528,51 +1528,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/revolut040921.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/revolut040921.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=692807",
-          "author": "菊谷ルイス",
-          "description": "トロン創設者ジャスティン・サン氏と米SECが民事詐欺訴訟を1000万ドルの制裁金支払いで和解に合意した。2023年3月の提訴から約3年、政治的影響も絡んだ複雑な経緯とトロン・エコシステムへの影響を解説。",
-          "link": "https://coinpost.jp/?p=692807",
-          "publishedOn": "2026-03-05T22:20:34.000Z",
-          "wordCount": 3946,
-          "title": "ジャスティン・サン、米SEC民事訴訟を1000万ドルで和解　約3年の法廷争いに決着",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/new-sec-firing-and-50k.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/new-sec-firing-and-50k.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=692820",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨ビットコインの現物ETFは今週、イラン情勢が懸念される中で計約1,815億円が純流入。専門家からはビットコインが安全資産として活用されるようになっている可能性があるとの声が上がった。",
-          "link": "https://coinpost.jp/?p=692820",
-          "publishedOn": "2026-03-05T22:05:25.000Z",
-          "wordCount": 4040,
-          "title": "ビットコイン、現物ETFに今週1800億円超が純流入　安全資産買い継続か",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/btc-etf-new-pic-1.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/btc-etf-new-pic-1.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=692824",
-          "author": "菊谷ルイス",
-          "description": "米ニューヨーク連邦地裁が仮想通貨貸付企業ブロックフィルズに対し、顧客資産の凍結と海外移転禁止を命じる緊急差し止め命令を発令。一体何が起きたのか、経緯を解説。",
-          "link": "https://coinpost.jp/?p=692824",
-          "publishedOn": "2026-03-05T22:00:22.000Z",
-          "wordCount": 3955,
-          "title": "米連邦裁判所、ブロックフィルズの資産凍結を命令　70BTCのビットコイン返還訴訟で",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/system-error-fund-frozen.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/system-error-fund-frozen.jpg"
         }
       ]
     },
@@ -1581,6 +1536,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=554983",
+          "author": "TamuraSeiji",
+          "description": "ヴィタリック氏がイーサリアムの開発姿勢について言及 イーサリアム（Ethereum）の共同創業者であるヴィタリック・ブテリン（Vitalik Buterin）氏が、イーサリアムのコア部分は堅固であるべきだが、アプリケーシ […]",
+          "link": "https://www.neweconomy.jp/posts/554983",
+          "publishedOn": "2026-03-10T10:12:11.000Z",
+          "wordCount": 787,
+          "title": "「イーサリアムはアプリ層でより大胆な実験を」＝ヴィタリック推奨",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/10191140/6d944145df5b02980f33cb2774db5852.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=554973",
           "author": "TamuraSeiji",
@@ -2572,96 +2537,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JkM2MtZTRmZi03ZjlkLWI4NTEtZWYwOWRlZTFiNjBmLmpwZw==.jpg"
-        },
-        {
-          "id": "https://cointelegraph.jp/news/38-altcoins-near-all-time-lows",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "仮想通貨（暗号資産）のアルトコイン市場が混乱に陥っている。投資家心理が冷え込む中、デジタル資産価格は2025年10月の市場急落から回復できずにいる。",
-          "link": "https://cointelegraph.jp/news/38-altcoins-near-all-time-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-03-05T22:33:02.000Z",
-          "wordCount": 345,
-          "title": "アルトコインの38%が過去最安値圏、FTXショック時を上回る惨状",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JlY2YtM2NkNy03MDlmLWI4YWUtZGUwOTA4YzM0YTU5LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JlY2YtM2NkNy03MDlmLWI4YWUtZGUwOTA4YzM0YTU5LmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/38-altcoins-near-all-time-lows",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "仮想通貨（暗号資産）のアルトコイン市場が混乱に陥っている。投資家心理が冷え込む中、デジタル資産価格は2025年10月の市場急落から回復できずにいる。",
-          "link": "https://jp.cointelegraph.com/news/38-altcoins-near-all-time-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-03-05T22:33:02.000Z",
-          "wordCount": 347,
-          "title": "アルトコインの38%が過去最安値圏、FTXショック時を上回る惨状",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JlY2YtM2NkNy03MDlmLWI4YWUtZGUwOTA4YzM0YTU5LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JlY2YtM2NkNy03MDlmLWI4YWUtZGUwOTA4YzM0YTU5LmpwZw==.jpg"
-        },
-        {
-          "id": "https://cointelegraph.jp/news/bitcoin-miners-unwind-btc-treasuries-margin-pressure",
-          "author": "Cointelegraph  Sam Bourgi",
-          "description": "上場マイニング企業がビットコイン（BTC）の保有残高を削減している。利益率の悪化や負債の圧力、そして市場暴落後の再構築を受け、業界はかつて主流だった「ホールド（長期保有）」戦略の再考を余儀なくされている。",
-          "link": "https://cointelegraph.jp/news/bitcoin-miners-unwind-btc-treasuries-margin-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-03-05T22:20:30.000Z",
-          "wordCount": 237,
-          "title": "ビットコインマイナー、10月以降に1万5000BTCを売却、さらなる放出も予想",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JlZjEtYTA5Ny03YWVhLTlkZWYtZGI2MTViYjg3MTQyLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JlZjEtYTA5Ny03YWVhLTlkZWYtZGI2MTViYjg3MTQyLmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/bitcoin-miners-unwind-btc-treasuries-margin-pressure",
-          "author": "Cointelegraph  Sam Bourgi",
-          "description": "上場マイニング企業がビットコイン（BTC）の保有残高を削減している。利益率の悪化や負債の圧力、そして市場暴落後の再構築を受け、業界はかつて主流だった「ホールド（長期保有）」戦略の再考を余儀なくされている。",
-          "link": "https://jp.cointelegraph.com/news/bitcoin-miners-unwind-btc-treasuries-margin-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-03-05T22:20:30.000Z",
-          "wordCount": 239,
-          "title": "ビットコインマイナー、10月以降に1万5000BTCを売却、さらなる放出も予想",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JlZjEtYTA5Ny03YWVhLTlkZWYtZGI2MTViYjg3MTQyLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JlZjEtYTA5Ny03YWVhLTlkZWYtZGI2MTViYjg3MTQyLmpwZw==.jpg"
-        },
-        {
-          "id": "https://cointelegraph.jp/news/eric-trump-anti-bank-stablecoin-yield",
-          "author": "Cointelegraph  Turner Wright",
-          "description": "ドナルド・トランプ米大統領の次男エリック・トランプ氏によるSNSへの投稿は、大統領が「銀行が市場構造法案を『人質』に取っている」と主張した数時間後に行われた。エリック氏自身も仮想通貨関連企業を共同設立している。",
-          "link": "https://cointelegraph.jp/news/eric-trump-anti-bank-stablecoin-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-03-05T22:11:51.000Z",
-          "wordCount": 220,
-          "title": "トランプ氏長男も銀行批判に同調、ステーブルコイン利回りを巡る対立激化",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JlODQtYjIyZC03ZDhjLTg0M2UtMGE2NmVmODdjNzU1LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JlODQtYjIyZC03ZDhjLTg0M2UtMGE2NmVmODdjNzU1LmpwZw==.jpg"
-        },
-        {
-          "id": "https://jp.cointelegraph.com/news/eric-trump-anti-bank-stablecoin-yield",
-          "author": "Cointelegraph  Turner Wright",
-          "description": "ドナルド・トランプ米大統領の次男エリック・トランプ氏によるSNSへの投稿は、大統領が「銀行が市場構造法案を『人質』に取っている」と主張した数時間後に行われた。エリック氏自身も仮想通貨関連企業を共同設立している。",
-          "link": "https://jp.cointelegraph.com/news/eric-trump-anti-bank-stablecoin-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-03-05T22:11:51.000Z",
-          "wordCount": 222,
-          "title": "トランプ氏長男も銀行批判に同調、ステーブルコイン利回りを巡る対立激化",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JlODQtYjIyZC03ZDhjLTg0M2UtMGE2NmVmODdjNzU1LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JlODQtYjIyZC03ZDhjLTg0M2UtMGE2NmVmODdjNzU1LmpwZw==.jpg"
         }
       ]
     },
@@ -2670,6 +2545,51 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=155392",
+          "author": "Crypto Times 編集部",
+          "description": "米国の主要銀行を代表する団体である銀行政策研究所（BPI）が、米通貨監督庁（OCC）を相手取った訴訟の検討に入ったことが報じられました。この動きはOCCが仮想通貨企業やフィンテック企業に対して「連邦信託憲章（nation […]\n投稿 米大手銀行、仮想通貨企業の「銀行免許」取得に反発｜OCCへの提訴を検討 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-major-us-banks-oppose-cryptocurrency-companys-banking-license/",
+          "publishedOn": "2026-03-10T10:08:40.000Z",
+          "wordCount": 600,
+          "title": "米大手銀行、仮想通貨企業の「銀行免許」取得に反発｜OCCへの提訴を検討",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_514508932.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=155251",
+          "author": "よきょい",
+          "description": "日本円ステーブルコインであるJPYCの3月10日時点における総流通量は4億7000万円を記録。これは2月21日時点の総流通量である4億8000万円と比較して、約1000万円の減少となりました。 また1アドレスあたりの平均 […]\n投稿 日本円ステーブルコイン「JPYC」、流通額1000万円減少もインフラ整備は加速 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-jpycs-circulation-declines-by-10-million-yen-but-infrastructure-development-accelerates/",
+          "publishedOn": "2026-03-10T10:03:05.000Z",
+          "wordCount": 592,
+          "title": "日本円ステーブルコイン「JPYC」、流通額1000万円減少もインフラ整備は加速",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2499264041.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=155217",
+          "author": "Crypto Times 編集部",
+          "description": "英スタンダード・チャータード銀行のデジタル資産研究責任者、ジェフリー・ケンドリック氏は、ビットコイン（BTC）の価格動向とステーブルコインの安全性に関する見解を明らかにしました。 ケンドリック氏はビットコインが4万5,0 […]\n投稿 銀行より確実？ステーブルコインが「最強の安全資産」になる理由 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-why-stablecoins-will-become-the-strongest-safe-haven/",
+          "publishedOn": "2026-03-10T09:55:28.000Z",
+          "wordCount": 596,
+          "title": "銀行より確実？ステーブルコインが「最強の安全資産」になる理由",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2174321275.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=155257",
           "author": "Crypto Times 編集部",

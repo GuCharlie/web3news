@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=340330",
+          "author": "Shoko Galaviz",
+          "description": "エックス・アール・ピー（XRP）現物ETF（上場投資信託）の主要投資家の中で、米金融大手Goldman Sachs（ゴールドマン・サックス）が最大の保有者となっ ...\nXRP現物ETF、Goldman Sachsが最大保有者に first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/340330/",
+          "publishedOn": "2026-03-10T21:00:00.000Z",
+          "wordCount": 1397,
+          "title": "XRP現物ETF、Goldman Sachsが最大保有者に",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2432943467.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=340255",
           "author": "廣瀬 優香",
           "description": "イーサリアム（ETH）トレジャリー企業のSharplink（シャープリンク）は3月9日、2025年12月期の通期決算を発表した。 2024年にはGAAP（米国会 ...\nイーサリアムトレジャリー企業Sharplink、2025年に7億3400万ドルの純損失を計上──暗号資産相場下落で first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -494,6 +504,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=693749",
+          "author": "菊谷ルイス",
+          "description": "#cp-summary-2025{all:revert;box-sizing:border-box;width:100%;background:#f8f9fb;border-left:3pxsolid#0d2d4f;border-radiu...",
+          "link": "https://coinpost.jp/?p=693749",
+          "publishedOn": "2026-03-10T21:15:07.000Z",
+          "wordCount": 3976,
+          "title": "米SECとCFTC、仮想通貨規制で協力強化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/seccftc.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/seccftc.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=693748",
+          "author": "菊谷ルイス",
+          "description": "イーロン・マスク氏のX上の金融サービス「Xマネー」が2026年4月にパブリックアクセスのベータ版を公開する。送金・預金・利回り機能を備えるが、仮想通貨との連携は現時点で正式発表されていない。",
+          "link": "https://coinpost.jp/?p=693748",
+          "publishedOn": "2026-03-10T21:00:01.000Z",
+          "wordCount": 3975,
+          "title": "イーロン・マスクの「Xマネー」、4月にパブリックアクセス開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/10/elon-doge-new-secretary.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/10/elon-doge-new-secretary.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=693752",
+          "author": "菊谷ルイス",
+          "description": "韓国・光州地検がフィッシング詐欺で一時流出した320.8BTCのビットコインを売却し、約35億円を国庫に納付した。捜査当局による仮想通貨管理体制の脆弱性が改めて問われている。",
+          "link": "https://coinpost.jp/?p=693752",
+          "publishedOn": "2026-03-10T20:30:22.000Z",
+          "wordCount": 3977,
+          "title": "韓国光州地検、フィッシング被害から回収した320ビットコインを売却",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/korea-tax-crypto.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/korea-tax-crypto.png"
+        },
         {
           "id": "https://coinpost.jp/?p=693734",
           "author": "菊谷ルイス",

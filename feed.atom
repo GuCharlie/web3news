@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-10T11:56:12.671Z</updated>
+    <updated>2026-03-10T12:58:02.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【3/10話題】イーサリアムJPのデジタルアセットWG設立、韓国ビッサムに半年間の一部営業停止の可能性など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=555194</id>
+        <link href="https://www.neweconomy.jp/posts/555194"/>
+        <updated>2026-03-10T12:20:28.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メタプラネット株8%高｜底打ちからの反発なるか]]></title>
         <id>https://crypto-times.jp/?p=155470</id>
@@ -2474,36 +2484,6 @@ OKX、取引実績をアプリ上で開示できる機能「Orbit」発表──
 【3月22日】世界の次世代エンジニアが集結、学生向けソラナハッカソン「Sol Hack3rs」 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>NADA NEWS編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン急騰も弱気相場継続か、今後の抵抗線も分析＝クリプトクアント]]></title>
-        <id>https://coinpost.jp/?p=692852</id>
-        <link href="https://coinpost.jp/?p=692852"/>
-        <updated>2026-03-06T00:44:01.000Z</updated>
-        <summary type="html"><![CDATA[クリプトクアントが仮想通貨市場の最新レポートを発表。直近の上昇は弱気相場中の一時的回復の可能性が高いとしている。価格の上昇が続いた場合のレジスタンスラインも分析した。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カナダ中央銀行など、分散台帳技術で約110億円のトークン化債券を初発行]]></title>
-        <id>https://coinpost.jp/?p=692853</id>
-        <link href="https://coinpost.jp/?p=692853"/>
-        <updated>2026-03-06T00:23:36.000Z</updated>
-        <summary type="html"><![CDATA[カナダ銀行など4機関は3月5日、DLTを活用した実証実験「Project Samara」を完了。カナダ輸出開発公社がカナダ初のトークン化債券1億カナダドル（約110億円）を発行し、即時決済を実現した。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米FRB、トークン化証券の自己資本規制を明確化]]></title>
-        <id>https://coinpost.jp/?p=692833</id>
-        <link href="https://coinpost.jp/?p=692833"/>
-        <updated>2026-03-06T00:20:29.000Z</updated>
-        <summary type="html"><![CDATA[米FRBはOCCおよびFDICと連名で、トークン化証券に対する自己資本規制の取り扱いを定めたFAQを3月5日に公表。分散台帳技術の利用有無によって追加的な資本賦課は生じないとする「技術中立」の原則を公式に確認しており、銀行のトークン化証券参入環境が整備されつつある。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

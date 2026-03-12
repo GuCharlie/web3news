@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-12T22:21:08.975Z</updated>
+    <updated>2026-03-12T22:51:30.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テザー、ステーブルコイン基盤構築の次世代アーク・ラボに520万ドル出資]]></title>
+        <id>https://cointelegraph.jp/news/tether-backs-ark-labs-in-5-2m-round-to-build-stablecoin-infrastructure-on-bitcoin</id>
+        <link href="https://cointelegraph.jp/news/tether-backs-ark-labs-in-5-2m-round-to-build-stablecoin-infrastructure-on-bitcoin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-03-12T22:37:20.000Z</updated>
+        <summary type="html"><![CDATA[今回の資金調達は、ネットワーク上でのデジタル資産の発行および決済を高速化するために設計された、プログラマブルな実行レイヤーの開発を支援する。]]></summary>
+        <author>
+            <name>Cointelegraph  Nate Kostar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米上院、超党派の住宅支援法案に仮想通貨CBDC禁止条項を算入]]></title>
+        <id>https://cointelegraph.jp/news/us-senate-votes-cbdc-ban-amendment</id>
+        <link href="https://cointelegraph.jp/news/us-senate-votes-cbdc-ban-amendment?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-03-12T22:34:47.000Z</updated>
+        <summary type="html"><![CDATA[連邦準備理事会（FRB）による中央銀行デジタル通貨の発行を禁止する条項が、住宅供給負担軽減法案の中に盛り込まれた]]></summary>
+        <author>
+            <name>Cointelegraph  Vince Quill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米証券取引委員会の「クリプト・マム」、開示規則の簡素化を提唱　トークン化の議論に注目]]></title>
         <id>https://cointelegraph.jp/news/sec-crypto-mom-simpler-disclosure-rules-flags-tokenization-debate</id>

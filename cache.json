@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=340577",
+          "author": "井上 俊彦",
+          "description": "ベンチャーキャピタルのAndreessen Horowitz（アンドリーセン・ホロウィッツ：a16z）のパートナー、Noah Levine（ノア・レバイン）氏は ...\nAIエージェントの決済額は報告よりも少ないが、インフラは拡大：a16z first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/340577/",
+          "publishedOn": "2026-03-12T09:45:00.000Z",
+          "wordCount": 1344,
+          "title": "AIエージェントの決済額は報告よりも少ないが、インフラは拡大：a16z",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/05/shutterstock_2583511021.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=340515",
           "author": "廣瀬 優香",
           "description": "ビットコイン（BTC）トレジャリー企業Strive（ストライブ）は3月11日、バランスシートの複数の動きについて発表した。 ストライブは、永久優先株「SATA」 ...\nビットコイントレジャリー企業Strive、Strategyの優先株STRCを5000万ドル分購入 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -2647,21 +2657,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZmOTctOTNhYS03YTA1LTg1NGQtZjVmNmVmNTQ5OGNm.jpg"
-        },
-        {
-          "id": "https://cointelegraph.jp/news/crypto-blockchain-priority-national-cyber-strategy-us-donald-trump",
-          "author": "Cointelegraph  Ciaran Lyons",
-          "description": "米国のトランプ大統領が金曜日に発表した国家サイバー戦略を受け、仮想通貨業界の幹部はその内容を精査している。政府が今後どの程度仮想通貨業界を支援する可能性があるのか、その手がかりを探っている。",
-          "link": "https://cointelegraph.jp/news/crypto-blockchain-priority-national-cyber-strategy-us-donald-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-03-07T22:00:00.000Z",
-          "wordCount": 219,
-          "title": "トランプ政権の国家サイバー戦略で仮想通貨言及　業界は政策シグナルを注視",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2M2OTEtMzc2NC03ZDBlLWIyNjMtYzY0YWE4MGZiYTk2LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2M2OTEtMzc2NC03ZDBlLWIyNjMtYzY0YWE4MGZiYTk2LmpwZw==.jpg"
         }
       ]
     },
@@ -2670,6 +2665,36 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=155852",
+          "author": "よきょい",
+          "description": "株式会社メタプラネットは3月12日の取締役会において株主優待プログラムの拡充を決定しました。本施策は株主との関係強化に加え、ビットコインエコシステムに対する理解の深化および株主への付加価値提供を目的としています。 株主優 […]\n投稿 メタプラネット、株主優待を拡充へ｜4段階の豪華特典 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-metaplanet-to-expand-shareholder-benefits/",
+          "publishedOn": "2026-03-12T10:15:22.000Z",
+          "wordCount": 601,
+          "title": "メタプラネット、株主優待を拡充へ｜4段階の豪華特典",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2673454331-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=155830",
+          "author": "Crypto Times 編集部",
+          "description": "オンチェーンデータ分析により、イーサリアム（ETH）の大口投資家が大手取引所から多額の資産を外部ウォレットへ移動させていることが明らかになりました。 Whales are buying $ETH! Someone cre […]\n投稿 イーサリアム、大口の買い増しが加速か｜取引所から1.5億ドルが消失 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-ethereum-large-scale-buying-accelerates/",
+          "publishedOn": "2026-03-12T09:48:44.000Z",
+          "wordCount": 646,
+          "title": "イーサリアム、大口の買い増しが加速か｜取引所から1.5億ドルが消失",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2678921227-1.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=155829",
           "author": "Crypto Times 編集部",

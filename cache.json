@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=340696",
+          "author": "Shoko Galaviz",
+          "description": "米金融大手JPMorgan Chase（JPモルガン・チェース）が、暗号資産（仮想通貨）関連の投資スキームを巡る集団訴訟に直面している。原告となった投資家らは、 ...\nJPMorgan、暗号資産投資詐欺疑惑を巡り集団訴訟に直面 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/340696/",
+          "publishedOn": "2026-03-12T22:00:00.000Z",
+          "wordCount": 1405,
+          "title": "JPMorgan、暗号資産投資詐欺疑惑を巡り集団訴訟に直面",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2485250563.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=340693",
           "author": "Shoko Galaviz",
           "description": "ステーブルコイン発行企業Tether（テザー）の投資部門であるTether Investments（テザー・インベストメンツ）は、ビットコイン（BTC）向けプロ ...\nTether、Ark Labsに戦略投資──ビットコイン上でのステーブルコイン基盤強化へ first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -2283,6 +2293,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/sec-crypto-mom-simpler-disclosure-rules-flags-tokenization-debate",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "米証券取引委員会（SEC）のヘスター・パース委員は、当局に対し企業の開示規則を簡素化するよう促した。また、潜在的なイノベーション免除措置を通じて、トークン化された証券の試行を認めるべきだと主張した。",
+          "link": "https://cointelegraph.jp/news/sec-crypto-mom-simpler-disclosure-rules-flags-tokenization-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-12T22:18:00.000Z",
+          "wordCount": 224,
+          "title": "米証券取引委員会の「クリプト・マム」、開示規則の簡素化を提唱　トークン化の議論に注目",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2UzZmUtYTcwMC03MGYzLThiNDQtMGNlYWU5YmMxZDAxLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2UzZmUtYTcwMC03MGYzLThiNDQtMGNlYWU5YmMxZDAxLmpwZw==.jpg"
+        },
+        {
+          "id": "https://cointelegraph.jp/news/jpmorgan-328-million-crypto-ponzi-scheme-goliath",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "投資家らは、JPモルガンが3億2,800万ドルの仮想通貨ポンジ・スキームにおける資金移動を助長したと主張している。一方で、これと並行して連邦政府による訴訟がゴライアス・ベンチャーズの創設者を標的に進められている。",
+          "link": "https://cointelegraph.jp/news/jpmorgan-328-million-crypto-ponzi-scheme-goliath?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-12T22:10:50.000Z",
+          "wordCount": 235,
+          "title": "JPモルガン、3.28億ドルの仮想通貨ポンジ・スキーム関与疑惑で提訴",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2UxM2YtMmEwYS03ODhlLWI1MzktY2YwNDNjMzI1ZjJiLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2UxM2YtMmEwYS03ODhlLWI1MzktY2YwNDNjMzI1ZjJiLmpwZw==.jpg"
+        },
         {
           "id": "https://cointelegraph.jp/news/bitcoin-buyers-in-control-trend-wont-change-until-this-level-breaks",
           "author": "Cointelegraph  Nancy Lubale",

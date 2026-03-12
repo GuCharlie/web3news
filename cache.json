@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=340669",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● BlackRockの「iShares Staked Ethereum Trust ETF（ETHB）」は、同社として初 ...\nBlackRock、初のステークド・イーサETFを投入──利回り需要を取り込み first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/340669/",
+          "publishedOn": "2026-03-12T13:49:33.000Z",
+          "wordCount": 1397,
+          "title": "BlackRock、初のステークド・イーサETFを投入──利回り需要を取り込み",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-60-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=340615",
           "author": "栃山 直樹",
           "description": "●米国とイランの紛争による地政学的な変動にもかかわらず、ビットコインは3日連続で7万ドルの水準を維持。 ●原油価格の上昇と株式に対する信認の低下が、マクロヘッジ ...\nビットコイン弱気派が窮地に──原油の追い風を受け13億ドルの空売りリスク、ブラックロック主導の戦時ローテーションでBTCは7万ドル近くを維持【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -1677,6 +1687,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=555906",
+          "author": "NewEconomyPodcast",
+          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/555906",
+          "publishedOn": "2026-03-12T13:41:08.000Z",
+          "wordCount": 779,
+          "title": "【3/12話題】メタプラの子会社設立とJPYCへの4億円出資予定、マスターカードのクリプト・パートナー・プログラムなど（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/12193336/eb8b73ba561747aa1aa16ed5712f3cd1.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=555871",
           "author": "watanabeyousuke",
           "description": "機関投資家向けZcashマイニングインフラを提供 ビットコインマイニングプール運営企業ファウンドリー（Foundry Digital）が、プライバシー重視の暗号資産（仮想通貨）ジーキャッシュ：Zcash（ZEC）のマイニ […]",
@@ -2193,6 +2213,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/bitcoin-buyers-in-control-trend-wont-change-until-this-level-breaks",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "市場アナリストによると、ビットコイン（BTC）は6万ドルを下回る数年来の安値から17％回復したことで「リリーフラリー」に入っている。ただし、より大きな下降トレンドを反転させるには7万8000ドルの突破が重要な水準になる。",
+          "link": "https://cointelegraph.jp/news/bitcoin-buyers-in-control-trend-wont-change-until-this-level-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-12T13:49:47.000Z",
+          "wordCount": 303,
+          "title": "ビットコインは「リリーフラリー」局面　下降トレンド転換には7万8000ドル突破が鍵",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQyOWEtNTEzOC03MjdiLTlkMDYtMzFkYWQ4ODhhYTJh.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQyOWEtNTEzOC03MjdiLTlkMDYtMzFkYWQ4ODhhYTJh.jpg"
+        },
         {
           "id": "https://cointelegraph.jp/news/stablecoin-yields-united-states-banking-clarity-act-white-house",
           "author": "Cointelegraph  Ciaran Lyons",

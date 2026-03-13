@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-13T23:24:20.612Z</updated>
+    <updated>2026-03-13T23:50:11.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米財務省、北朝鮮IT労働者の不正活動で制裁措置　ビットコインなどのアドレスもSDNリストへ]]></title>
+        <id>https://coinpost.jp/?p=694688</id>
+        <link href="https://coinpost.jp/?p=694688"/>
+        <updated>2026-03-13T23:20:48.000Z</updated>
+        <summary type="html"><![CDATA[米財務省は、北朝鮮のIT労働者の不正活動に携わったとして6名の個人と2社に制裁措置をとったと発表。仮想通貨ビットコインなどのアドレスも制裁対象リストに追加されている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[恐怖の反動ではなく、疑念のなかの再評価──ビットコイン市場が試される「戻りの質」【BitTrade Market Weekly】]]></title>
         <id>https://www.nadanews.com/?p=340931</id>
@@ -3365,17 +3375,6 @@ Aon、ステーブルコインでの保険料支払いを実証──Coinbase、
 投稿 【賞金総額23万円】Miracleパブリックローンチ記念！抽選で15名様に100ドルが当たる豪華キャンペーン第1弾が開催！ は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネット、含み損2217億円に拡大｜BTC下落止まらず]]></title>
-        <id>https://crypto-times.jp/?p=155183</id>
-        <link href="https://crypto-times.jp/news-metaplanet-unrealized-losses-expand-to-221-yen/"/>
-        <updated>2026-03-09T11:25:44.000Z</updated>
-        <summary type="html"><![CDATA[メタプラネット（3350）の株価が3月7日、前日比14円安（-4.11%）の327円で取引を終えました。ビットコイン価格が約1,073万円（前日比-5.4%）と下落を続けた影響か先日の急騰分を帳消しにする展開となっていま […]
-投稿 メタプラネット、含み損2217億円に拡大｜BTC下落止まらず は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
 </feed>

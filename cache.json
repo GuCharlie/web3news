@@ -590,16 +590,6 @@
           "wordCount": 1346,
           "title": "ブータン、国家保有のビットコイン1100万ドル相当を別アドレスに移動",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2024/10/shutterstock_281149202.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=340260",
-          "author": "NADA NEWS編集部",
-          "description": "【CoinDesk Summary】 ● イーサリアム（ETH）、ソラナ（SOL）、エックスアールピー（XRP）など主要暗号資産は、イラン情勢を巡る停戦期待の高 ...\nイーサリアム、ソラナ、XRPが上昇──トランプ氏がイラン戦争の終結接近を示唆 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/340260/",
-          "publishedOn": "2026-03-10T09:06:28.000Z",
-          "wordCount": 1384,
-          "title": "イーサリアム、ソラナ、XRPが上昇──トランプ氏がイラン戦争の終結接近を示唆",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/08aa8745cef7c16e81aa88be68e6a2d796000ae7-1500x1000-1.jpg"
         }
       ]
     },
@@ -2110,16 +2100,6 @@
           "wordCount": 787,
           "title": "「イーサリアムはアプリ層でより大胆な実験を」＝ヴィタリック推奨",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/10191140/6d944145df5b02980f33cb2774db5852.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=554973",
-          "author": "TamuraSeiji",
-          "description": "イーサリアム財団が財務の一部をステーキング開始 イーサリアム（Ethereum）ネットワークの主要な運営組織であるイーサリアム財団（Ethereum Foundation）が、財務の一部をステーキングする取り組みの開始を […]",
-          "link": "https://www.neweconomy.jp/posts/554973",
-          "publishedOn": "2026-03-10T09:21:35.000Z",
-          "wordCount": 733,
-          "title": "イーサリアム財団、約70,000ETHのステーキング開始。ビットワイズのOSSインフラ採用",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/10182112/c60ac7577380ba48e83630cb96e5adbc.jpg"
         }
       ]
     },
@@ -2128,6 +2108,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/stablecoins-power-global-payments-10-years-stanley-druckenmiller",
+          "author": "Cointelegraph  Brayden Lindrea",
+          "description": "著名投資家のスタンリー・ドラッケンミラー氏は、あと10年ほどでブロックチェーンやステーブルコインが世界の決済システムを支える可能性があると述べた。一方で、仮想通貨が価値保存手段として機能するという考えには懐疑的な見方を示した。",
+          "link": "https://cointelegraph.jp/news/stablecoins-power-global-payments-10-years-stanley-druckenmiller?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-14T21:00:00.000Z",
+          "wordCount": 224,
+          "title": "10～15年以内にステーブルコインが世界決済の中核に　仮想通貨の価値保存には疑問＝ドラッケンミラー氏",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzRkOTYtZDUwZC03NWYyLThjZjctMWNhNjE4NDBkOTdmLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzRkOTYtZDUwZC03NWYyLThjZjctMWNhNjE4NDBkOTdmLmpwZw==.jpg"
+        },
         {
           "id": "https://cointelegraph.jp/news/ai-power-demand-nuclear-revival-bitcoin-mining",
           "author": "Cointelegraph  Sam Bourgi",

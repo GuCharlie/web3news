@@ -620,16 +620,6 @@
           "wordCount": 1393,
           "title": "Bitmine、1950万ドル相当のETHをCoinbase Primeへ移動",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/0579b05c0aa6a42517b5b67f1e6b1955364845de-1920x1080-1.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=340252",
-          "author": "井上 俊彦",
-          "description": "暗号資産（仮想通貨）運用大手CoinShares（コインシェアーズ） のリサーチ責任者James Butterfill（ジェームズ・バターフィル）氏のブログ投稿 ...\n世界の暗号資産ETP、地政学的混乱にもかかわらず流入は堅調：CoinShares first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/340252/",
-          "publishedOn": "2026-03-10T08:20:00.000Z",
-          "wordCount": 1346,
-          "title": "世界の暗号資産ETP、地政学的混乱にもかかわらず流入は堅調：CoinShares",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/12/shutterstock_1110470546.jpg"
         }
       ]
     },
@@ -2150,16 +2140,6 @@
           "wordCount": 733,
           "title": "イーサリアム財団、約70,000ETHのステーキング開始。ビットワイズのOSSインフラ採用",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/10182112/c60ac7577380ba48e83630cb96e5adbc.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=554926",
-          "author": "gentosha_takahashi",
-          "description": "ミキサーのプライバシー用途を認識 米財務省が、デジタル資産を巡る不正資金対策に関する議会向け報告書を3月に公表し、暗号資産（仮想通貨）のミキシングサービスについて「合法的な金融プライバシーの目的で利用される場合がある」と […]",
-          "link": "https://www.neweconomy.jp/posts/554926",
-          "publishedOn": "2026-03-10T08:01:12.000Z",
-          "wordCount": 738,
-          "title": "米財務省、暗号資産ミキサーの正当な金融プライバシー用途を認識＝報告書",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/10170048/8fbe1d4257e92dc316329d5848b39f57.jpg"
         }
       ]
     },
@@ -2168,6 +2148,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/ai-power-demand-nuclear-revival-bitcoin-mining",
+          "author": "Cointelegraph  Sam Bourgi",
+          "description": "人工知能（AI）とデータセンターの拡大に伴い、大規模かつ安定した電力需要が高まる中、米国では原子力発電が再び注目を集めている。",
+          "link": "https://cointelegraph.jp/news/ai-power-demand-nuclear-revival-bitcoin-mining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-14T20:00:00.000Z",
+          "wordCount": 233,
+          "title": "AI需要で米国の原子力に再注目　ビットコインマイニングとの連携も拡大",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2U3ZDEtNmI3MS03YzJjLWJiMzktNTdiYmViZWFmNzQxLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2U3ZDEtNmI3MS03YzJjLWJiMzktNTdiYmViZWFmNzQxLmpwZw==.jpg"
+        },
         {
           "id": "https://cointelegraph.jp/news/blackrock-wont-consider-exotic-crypto-etfs",
           "author": "Cointelegraph  Brayden Lindrea",

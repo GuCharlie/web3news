@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=340809",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● ブロックチェーン関連プロジェクトの開発活動は2025年初め以降大きく減少しており、週間の暗号資産関連コードの更新数は約 ...\n暗号資産関連コードの更新数、75％減──開発者はAIプロジェクトに移行 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/340809/",
+          "publishedOn": "2026-03-15T22:00:00.000Z",
+          "wordCount": 1367,
+          "title": "暗号資産関連コードの更新数、75％減──開発者はAIプロジェクトに移行",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-62-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=340958",
           "author": "NADA NEWS編集部",
           "description": "【CoinDesk Summary】 ● XRP Ledger（暗号資産XRPの基盤ブロックチェーン）のアクティビティは、1日あたりの決済件数が270万件超、A ...\nXRP、ネットワーク利用拡大でもトークン価値は低迷 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -490,16 +500,6 @@
           "wordCount": 1360,
           "title": "アーサー・ヘイズ氏「FRBが紙幣を刷り始めるまでビットコインは買わない」",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/12/shutterstock_680368213.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=340434",
-          "author": "大谷 惇途",
-          "description": "SBIホールディングス株式会社の連結子会社であるSBI VCトレードは、3月11日よりトンコイン（TON）、スイ（SUI）の取り扱いを開始したことを発表した。  ...\nSBI VCトレード、トンコイン（TON）、スイ（SUI）の取り扱いを開始 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/340434/",
-          "publishedOn": "2026-03-11T10:08:50.000Z",
-          "wordCount": 1382,
-          "title": "SBI VCトレード、トンコイン（TON）、スイ（SUI）の取り扱いを開始",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/7dd4c3f74f006b34bb1d70d7adebd54e.png"
         }
       ]
     },
@@ -1658,6 +1658,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/stablecoin-uncertainty-could-hurt-banks-more-than-crypto-firms-expert",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "仮想通貨企業が事業拡大を続ける一方で、金融機関は明確な規則を待ち続けており、ステーブルコインを巡る規制の不透明感は銀行にとって不利に働く可能性がある。",
+          "link": "https://cointelegraph.jp/news/stablecoin-uncertainty-could-hurt-banks-more-than-crypto-firms-expert?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-15T22:09:34.000Z",
+          "wordCount": 217,
+          "title": "仮想通貨の規制不透明感、銀行に追い打ちか　「業者より打撃」と専門家",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzhmMDUtNmFjYi03YmY1LThhMWEtODkxMDA1ZGZkZWJiLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzhmMDUtNmFjYi03YmY1LThhMWEtODkxMDA1ZGZkZWJiLmpwZw==.jpg"
+        },
         {
           "id": "https://cointelegraph.jp/news/stablecoins-power-global-payments-10-years-stanley-druckenmiller",
           "author": "Cointelegraph  Brayden Lindrea",

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=340999",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● Mizuho Financial Group（みずほフィナンシャルグループ）によると、2026年年初来のUSDC取引量 ...\nUSDC取引量、USDTを2019年以来初めて上回る──Circleの目標株価引き上げ first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/340999/",
+          "publishedOn": "2026-03-15T23:00:00.000Z",
+          "wordCount": 1386,
+          "title": "USDC取引量、USDTを2019年以来初めて上回る──Circleの目標株価引き上げ",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-73.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=340891",
           "author": "NADA NEWS編集部",
           "description": "● 欧州中央銀行（ECB、European Central Bank）は、ユーロを中心としたホールセール金融のトークン化エコシステムを構築する工程表を示し、主要 ...\n欧州中央銀行、トークン化金融の工程表公表──EU金融の自律性を強化 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -500,16 +510,6 @@
           "wordCount": 1385,
           "title": "Mastercard、暗号資産企業85社超と新パートナープログラム開始",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2581895441.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=340432",
-          "author": "廣瀬 優香",
-          "description": "仏銀行大手Societe Generale（ソシエテ・ジェネラル）の暗号資産（仮想通貨）およびステーブルコイン専門部門SG-FORGEは3月10日、ユーロ建てス ...\n仏銀行大手Societe Generale、ユーロ建てステーブルコイン「EURCV」をステラネットワークに展開 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/340432/",
-          "publishedOn": "2026-03-11T11:10:00.000Z",
-          "wordCount": 1350,
-          "title": "仏銀行大手Societe Generale、ユーロ建てステーブルコイン「EURCV」をステラネットワークに展開",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2567486051.jpg"
         }
       ]
     },
@@ -524,6 +524,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=694745",
+          "author": "Enzo",
+          "description": "Wintermute CEOのEvgeny Gaevoy氏が、イーサリアム財団の使命文書「EFマンデート」を支持。短期的な価格への影響を否定しつつも、長期的な可能性とサイファーパンクの理想への共感を示した。",
+          "link": "https://coinpost.jp/?p=694745",
+          "publishedOn": "2026-03-15T23:21:36.000Z",
+          "wordCount": 3996,
+          "title": "Wintermute CEO、「文化のためにイーサリアムを保有」　価格より目標の重要性を強調",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/ethereum-fusaka.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/ethereum-fusaka.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=694591",
           "author": "CoinPost編集部",
@@ -2117,36 +2132,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2RkNjQtMWQ0OC03ZGMwLTg2YWYtZmU0YmRkYTEwMzA1LmpwZw==.jpg"
-        },
-        {
-          "id": "https://cointelegraph.jp/news/bitcoin-etf-inflow-xrp-selling-ease-goldman-sachs-top-holder",
-          "author": "Cointelegraph  Helen Partz",
-          "description": "米国の現物ビットコイン上場投資信託（ETF）は火曜日、ビットコインが7万ドルを下回ったにもかかわらず資金流入を記録した。",
-          "link": "https://cointelegraph.jp/news/bitcoin-etf-inflow-xrp-selling-ease-goldman-sachs-top-holder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-03-11T11:21:43.000Z",
-          "wordCount": 319,
-          "title": "ビットコインETFに資金流入続く　BTC下落でも買い意欲",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2RiZGQtNTJlZC03MThlLWJiYTYtODZjMWQ5YzQ3Y2Y4LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2RiZGQtNTJlZC03MThlLWJiYTYtODZjMWQ5YzQ3Y2Y4LmpwZw==.jpg"
-        },
-        {
-          "id": "https://cointelegraph.jp/news/bitcoin-flip-highly-volatile-bull-case-80k-rebound",
-          "author": "Cointelegraph  William Suberg",
-          "description": "ビットコイン（BTC）は水曜日、最近のレンジ相場からのブレイクを待つトレーダーが様子見姿勢を強める中、横ばいで推移した。市場では地政学リスクも意識されている。",
-          "link": "https://cointelegraph.jp/news/bitcoin-flip-highly-volatile-bull-case-80k-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-03-11T10:53:39.000Z",
-          "wordCount": 275,
-          "title": "ビットコイン 7万ドル付近で保ち合い　地政学リスク警戒で方向感欠く",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTg0NjYtOWY2My03ZTVlLWFhN2MtM2U0NmMxZjA3MTQ4.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTg0NjYtOWY2My03ZTVlLWFhN2MtM2U0NmMxZjA3MTQ4.jpg"
         }
       ]
     },

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=341130",
+          "author": "廣瀬 優香",
+          "description": "ガーナ証券取引委員会（SEC）は、同国の「暗号資産（仮想通貨）サービスプロバイダー（Virtual Asset Service Providers：VASP）法 ...\nガーナ、暗号資産規制のサンドボックスを設置──11社が参加へ first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/341130/",
+          "publishedOn": "2026-03-16T22:00:00.000Z",
+          "wordCount": 1357,
+          "title": "ガーナ、暗号資産規制のサンドボックスを設置──11社が参加へ",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2224743715.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=341162",
           "author": "Shoko Galaviz",
           "description": "米フィンテック企業Ironlight Group（アイロンライト・グループ）は、トークン化証券の発行・取引インフラの拡大を目的として、シリーズAラウンドで210 ...\nIronlight、約33億円の資金調達──トークン化証券の取引インフラ拡大へ first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -510,26 +520,6 @@
           "wordCount": 1500,
           "title": "ビットコイン弱気派が窮地に──原油の追い風を受け13億ドルの空売りリスク、ブラックロック主導の戦時ローテーションでBTCは7万ドル近くを維持【価格分析】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/71354092702984e08638f159f7da94d9-2.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=340577",
-          "author": "井上 俊彦",
-          "description": "ベンチャーキャピタルのAndreessen Horowitz（アンドリーセン・ホロウィッツ：a16z）のパートナー、Noah Levine（ノア・レバイン）氏は ...\nAIエージェントの決済額は報告よりも少ないが、インフラは拡大：a16z first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/340577/",
-          "publishedOn": "2026-03-12T09:45:00.000Z",
-          "wordCount": 1344,
-          "title": "AIエージェントの決済額は報告よりも少ないが、インフラは拡大：a16z",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/05/shutterstock_2583511021.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=340515",
-          "author": "廣瀬 優香",
-          "description": "ビットコイン（BTC）トレジャリー企業Strive（ストライブ）は3月11日、バランスシートの複数の動きについて発表した。 ストライブは、永久優先株「SATA」 ...\nビットコイントレジャリー企業Strive、Strategyの優先株STRCを5000万ドル分購入 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/340515/",
-          "publishedOn": "2026-03-12T09:35:00.000Z",
-          "wordCount": 1336,
-          "title": "ビットコイントレジャリー企業Strive、Strategyの優先株STRCを5000万ドル分購入",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2554980059.jpg"
         }
       ]
     },
@@ -544,6 +534,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=694891",
+          "author": "菊谷ルイス",
+          "description": "#cp-summary-2025{all:revert;box-sizing:border-box;width:100%;background:#f8f9fb;border-left:3pxsolid#0d2d4f;border-radiu...",
+          "link": "https://coinpost.jp/?p=694891",
+          "publishedOn": "2026-03-16T22:10:04.000Z",
+          "wordCount": 3991,
+          "title": "米「クラリティー法案」のステーブルコイン利回り妥協案、DCサミットで進展",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/snow-storm-congress.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/snow-storm-congress.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=694890",
+          "author": "菊谷ルイス",
+          "description": "#cp-summary-2025{all:revert;box-sizing:border-box;width:100%;background:#f8f9fb;border-left:3pxsolid#0d2d4f;border-radiu...",
+          "link": "https://coinpost.jp/?p=694890",
+          "publishedOn": "2026-03-16T21:45:02.000Z",
+          "wordCount": 4005,
+          "title": "ストラテジーを「ビットコイン中央銀行」と評価、米投資銀行バーンスタイン",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/strategy-bitcoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/strategy-bitcoin.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=694889",
           "author": "菊谷ルイス",
@@ -1628,6 +1648,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/price-predictions-3-16-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-hype",
+          "author": "Cointelegraph  Rakesh Upadhyay",
+          "description": "ビットコインは今週、重要な抵抗線に向けて一直線に上昇して始まった。この水準を維持できれば、ビットコインとアルトコインは仮想通貨強気相場の次の段階に突入する可能性がある。",
+          "link": "https://cointelegraph.jp/news/price-predictions-3-16-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-16T22:22:58.000Z",
+          "wordCount": 251,
+          "title": "強気相場に入れるか　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ソラナ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2Y3OGItZjAyNS03ZTFjLWEwM2MtZDhhYzg2ZjYxYWI1LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2Y3OGItZjAyNS03ZTFjLWEwM2MtZDhhYzg2ZjYxYWI1LmpwZw==.jpg"
+        },
+        {
+          "id": "https://cointelegraph.jp/news/bitcoin-s-push-toward-75k-revives-debate-over-what-drives-capital-flows",
+          "author": "Cointelegraph  Antonio Oliveira",
+          "description": "ビットコイン（BTC）現物ETFへの積極的な資金流入の再開、ストラテジーによる10億ドル規模の買い増し、そして投資家のリスク選好改善を背景に、ビットコインは7万5,000ドルをうかがう展開となっている。",
+          "link": "https://cointelegraph.jp/news/bitcoin-s-push-toward-75k-revives-debate-over-what-drives-capital-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-16T22:17:05.000Z",
+          "wordCount": 250,
+          "title": "ビットコイン、7万5000ドルへ接近　資金流入の主導権巡り議論再燃",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2Y4MDMtYzdkMy03YzViLTk5ZWItZjI1ZjQwNjg0Yzc2LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2Y4MDMtYzdkMy03YzViLTk5ZWItZjI1ZjQwNjg0Yzc2LmpwZw==.jpg"
+        },
+        {
+          "id": "https://cointelegraph.jp/news/strategy-1-6-billion-bitcoin-buy-holdings-top-761k-btc",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "ストラテジーは先週、2万2,337BTCを15億7,000万ドルで買い増した。記録的な売れ行きを見せる優先株「STRC」の販売資金を充当し、総保有量は76万1,068BTCに達した。",
+          "link": "https://cointelegraph.jp/news/strategy-1-6-billion-bitcoin-buy-holdings-top-761k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-16T22:12:22.000Z",
+          "wordCount": 223,
+          "title": "ストラテジー、16億ドルのビットコインを追加購入　保有量は76万BTCを突破",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyODEtZWNlYS03YjI2LTk2NTktZWU0ZWI1MTY2MGNhLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyODEtZWNlYS03YjI2LTk2NTktZWU0ZWI1MTY2MGNhLmpwZw==.jpg"
+        },
         {
           "id": "https://cointelegraph.jp/news/vitalik-buterin-simplify-ethereum-node",
           "author": "Cointelegraph  Vince Quill",
@@ -2939,51 +3004,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2639296807.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=155852",
-          "author": "よきょい",
-          "description": "株式会社メタプラネットは3月12日の取締役会において株主優待プログラムの拡充を決定しました。本施策は株主との関係強化に加え、ビットコインエコシステムに対する理解の深化および株主への付加価値提供を目的としています。 株主優 […]\n投稿 メタプラネット、株主優待を拡充へ｜4段階の豪華特典 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-metaplanet-to-expand-shareholder-benefits/",
-          "publishedOn": "2026-03-12T10:15:22.000Z",
-          "wordCount": 601,
-          "title": "メタプラネット、株主優待を拡充へ｜4段階の豪華特典",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2673454331-1.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=155830",
-          "author": "Crypto Times 編集部",
-          "description": "オンチェーンデータ分析により、イーサリアム（ETH）の大口投資家が大手取引所から多額の資産を外部ウォレットへ移動させていることが明らかになりました。 Whales are buying $ETH! Someone cre […]\n投稿 イーサリアム、大口の買い増しが加速か｜取引所から1.5億ドルが消失 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-ethereum-large-scale-buying-accelerates/",
-          "publishedOn": "2026-03-12T09:48:44.000Z",
-          "wordCount": 646,
-          "title": "イーサリアム、大口の買い増しが加速か｜取引所から1.5億ドルが消失",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2678921227-1.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=155829",
-          "author": "Crypto Times 編集部",
-          "description": "バイナンス・リサーチは、米中間選挙が行われる年は歴史的に市場のボラティリティが高まる傾向にあるとの分析結果を公開しました。 Midterm years bring volatility: $SPX sees averag […]\n投稿 米中間選挙でビットコイン56%下落？分析で見える衝撃データ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-bitcoin-falls-56-after-us-midterm-elections/",
-          "publishedOn": "2026-03-12T09:36:38.000Z",
-          "wordCount": 638,
-          "title": "米中間選挙でビットコイン56%下落？分析で見える衝撃データ",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_1405142669.jpg"
         }
       ]
     }

@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=341099",
+          "author": "橋本 祐樹",
+          "description": "日本発のブロックチェーンとして知られるAstar Network（アスターネットワーク）は16日、トークンエコノミクスの大規模な再構築を発表した。これまでの無制 ...\nアスター、発行上限100億枚の供給モデルへ移行——機関投資家の参入促進へ first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/341099/",
+          "publishedOn": "2026-03-16T10:00:00.000Z",
+          "wordCount": 1406,
+          "title": "アスター、発行上限100億枚の供給モデルへ移行——機関投資家の参入促進へ",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/b76543c6ce7e623846d98955bb9cbe39.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=341131",
+          "author": "井上 俊彦",
+          "description": "AI（人工知能）データセンターへの需要急増が、ビットコインマイニングの根幹を揺るがし始めている。著名トレーダーのRan Neuner（ラン・ノイナー）氏はXへの ...\nAIデータセンターの需要急増がビットコインを脆弱にする？ first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/341131/",
+          "publishedOn": "2026-03-16T09:55:00.000Z",
+          "wordCount": 1353,
+          "title": "AIデータセンターの需要急増がビットコインを脆弱にする？",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_772693789.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=341100",
           "author": "廣瀬 優香",
           "description": "Ethereum Foundation（イーサリアム財団）は3月14日、同財団が保有する5000ETHを相対取引（OTC）で売却する条件を確定したと発表した。  ...\nEthereum Foundation、5000ETHをBitmineに売却へ first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -580,26 +600,6 @@
           "wordCount": 1401,
           "title": "ミームコインとは何か？暗号資産市場で起きる「熱狂のサイクル」【エックスウィンリサーチ】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-58-1.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=340475",
-          "author": "Shoko Galaviz",
-          "description": "米大手銀行Wells Fargo（ウェルズ・ファーゴ）が、「WFUSD」という名称の商標を米国特許商標庁（USPTO）に出願したことが明らかになった。 出願は3 ...\nWells Fargo、「WFUSD」商標を出願──暗号資産取引やトークン化サービスを視野に first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/340475/",
-          "publishedOn": "2026-03-11T22:00:00.000Z",
-          "wordCount": 1393,
-          "title": "Wells Fargo、「WFUSD」商標を出願──暗号資産取引やトークン化サービスを視野に",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2670642843.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=340472",
-          "author": "Shoko Galaviz",
-          "description": "決済大手Mastercard（マスターカード）は、暗号資産業（仮想通貨）界の企業や金融機関と連携する新たな取り組み「Mastercard Crypto Part ...\nMastercard、暗号資産企業85社超と新パートナープログラム開始 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/340472/",
-          "publishedOn": "2026-03-11T21:00:00.000Z",
-          "wordCount": 1385,
-          "title": "Mastercard、暗号資産企業85社超と新パートナープログラム開始",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2581895441.jpg"
         }
       ]
     },
@@ -614,6 +614,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=694838",
+          "author": "CoinPost編集部",
+          "description": "政策・産業・社会を横断するカンファレンス「MoneyX」の開催に合わせ、3大メガバンク・JPYC・SBIホールディングス・DCJPYが構築する次世代金融インフラの全体像をFour Pillarsが解説。",
+          "link": "https://coinpost.jp/?p=694838",
+          "publishedOn": "2026-03-16T09:10:44.000Z",
+          "wordCount": 4003,
+          "title": "MoneyXが映す日本のステーブルコイン戦略、次世代金融インフラの全体像｜Four Pillars",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/fourpillars_moneyx_thumbnail_0316.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/fourpillars_moneyx_thumbnail_0316.png"
+        },
         {
           "id": "https://coinpost.jp/?p=694824",
           "author": "Enzo",
@@ -1468,66 +1483,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/usa-America_1400822942.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/usa-America_1400822942.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=694006",
-          "author": "菊谷ルイス",
-          "description": "米資産運用会社Striveは、ビットコインを基盤とした新たな財務戦略と優先株SATAの配当増額を発表した。直近で179BTCを追加購入し、合計保有量は1.3万BTCに達したほか、他社株への5000万ドル投資を通じて「ビットコイン資本構造」の構築を加速させる。",
-          "link": "https://coinpost.jp/?p=694006",
-          "publishedOn": "2026-03-11T21:45:28.000Z",
-          "wordCount": 3980,
-          "title": "米ビットコイン保有企業Strive、優先株配当率を12.75%へ引き上げ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-new-2026-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-new-2026-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=694005",
-          "author": "菊谷ルイス",
-          "description": "ブルームバーグ・インテリジェンスのマクグローン氏がビットコインの1万ドル割れ予測を改めて主張。昨年10月の高値からすでに44%超下落した局面でのさらなる弱気予測に対して、複数のアナリストは「核戦争でも起きなければ無理」と強く反論。",
-          "link": "https://coinpost.jp/?p=694005",
-          "publishedOn": "2026-03-11T21:20:25.000Z",
-          "wordCount": 4064,
-          "title": "ビットコイン1万ドル割れ予測をブルームバーグ・ストラテジストが再表明、「非現実的」と反論が相次ぐ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-down-again-winter.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-down-again-winter.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=694004",
-          "author": "菊谷ルイス",
-          "description": "米銀大手ウェルズ・ファーゴが、仮想通貨取引やトークン化サービスを含む新商標「WFUSD」を米国特許商標庁に出願した。約300兆円の運用資産を抱える金融大手が、ブロックチェーンを活用した次世代の決済インフラ構築へ向けた布石を打った。",
-          "link": "https://coinpost.jp/?p=694004",
-          "publishedOn": "2026-03-11T20:50:55.000Z",
-          "wordCount": 3976,
-          "title": "米銀大手ウェルズ・ファーゴ、仮想通貨関連の商標「WFUSD」を申請",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/wells-fargo.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/wells-fargo.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=694008",
-          "author": "菊谷ルイス",
-          "description": "ブルームバーグは3月11日、リップルが評価額500億ドルで最大7億5,000万ドルの自社株買いを開始したと報じた。仮想通貨市場が低迷するなかでの強気な財務判断として、業界内外の注目を集めている。",
-          "link": "https://coinpost.jp/?p=694008",
-          "publishedOn": "2026-03-11T20:35:32.000Z",
-          "wordCount": 4059,
-          "title": "リップル、約1200億円の自社株買いを開始　企業評価額は8兆円に",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103003.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103003.jpg"
         }
       ]
     },
@@ -2425,6 +2380,51 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=156263",
+          "author": "Crypto Times 編集部",
+          "description": "米国市場における暗号資産現物ETFへの資金流入が加速しています。SoSoValueのデータによると3月13日のビットコイン（BTC）現物ETFへの単日純流入額は1億8,033万ドルを記録。これにより、累計の純流入額は56 […]\n投稿 米ビットコイン現物ETF、週次7.6億ドルの純流入｜3週連続プラス は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitcoin-spot-etf-sees-weekly-net-inflow-of-760-million/",
+          "publishedOn": "2026-03-16T09:53:55.000Z",
+          "wordCount": 598,
+          "title": "米ビットコイン現物ETF、週次7.6億ドルの純流入｜3週連続プラス",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_1507546871.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=156265",
+          "author": "Crypto Times 編集部",
+          "description": "ビットコイン（BTC）の取引所におけるクジラ（大口投資家）比率が、過去6年間で最高水準に達したことがオンチェーン指標より明らかになりました。一般的にクジラは価格が低い時期に購入し、価格が高い時期に売却する傾向があります。 […]\n投稿 ビットコインクジラ比率が6年ぶり高水準、強気相場転換のサインか は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitcoin-whale-ratio-at-highest-level-in-6-years/",
+          "publishedOn": "2026-03-16T09:51:07.000Z",
+          "wordCount": 608,
+          "title": "ビットコインクジラ比率が6年ぶり高水準、強気相場転換のサインか",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2194495239-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=156266",
+          "author": "Crypto Times 編集部",
+          "description": "オンチェーンデータ分析プラットフォームCryptoQuant（クリプトクアント）のCEOであるキ・ヨンジュ（Ki Young Ju）氏は、ビットコイン（BTC）を分析する専門家の多くが、現在「非常に強気（strongly […]\n投稿 ビットコイン、多くのアナリストが「非常に強気」姿勢を維持 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-many-analysts-maintain-a-very-bullish-stance-on-bitcoin/",
+          "publishedOn": "2026-03-16T09:43:56.000Z",
+          "wordCount": 624,
+          "title": "ビットコイン、多くのアナリストが「非常に強気」姿勢を維持",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_1084494332.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=156251",
           "author": "Crypto Times 編集部",

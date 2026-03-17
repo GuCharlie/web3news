@@ -1323,21 +1323,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/zyuroku_thumbnail0313.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/zyuroku_thumbnail0313.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=694493",
-          "author": "菊谷ルイス",
-          "description": "米証券取引委員会（SEC）のヘスター・パース委員が3月12日の投資家諮問委員会会合で、トークン化証券を対象とするイノベーション免除の策定が進んでいると説明した。包括的な免除は採用せず、投資家保護を維持した限定的な枠組みにとどめる方針で、アトキンス委員長も正式検討に近く入ると述べた。",
-          "link": "https://coinpost.jp/?p=694493",
-          "publishedOn": "2026-03-13T04:20:37.000Z",
-          "wordCount": 3979,
-          "title": "米SEC、トークン化証券のイノベーション免除を限定的範囲で策定中",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/sec-gensler-new-ask-for-budget.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/sec-gensler-new-ask-for-budget.jpeg"
         }
       ]
     },
@@ -1775,16 +1760,6 @@
           "wordCount": 740,
           "title": "米SECとCFTCが覚書、暗号資産規制の枠組み整備へ連携強化",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/13151500/73aa860fc6f252783291c96ad544af9a.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=556157",
-          "author": "OtsugaShinya",
-          "description": "TRUMP上位保有者の昼食会開催へ ドナルド・トランプ（Donald Trump）米大統領の公式ミームコイン「OFFICIAL TRUMP：オフィシャルトランプ（TRUMP）」の上位保有者297名を対象とした、暗号資産（ […]",
-          "link": "https://www.neweconomy.jp/posts/556157",
-          "publishedOn": "2026-03-13T05:27:36.000Z",
-          "wordCount": 783,
-          "title": "ミームコイン「TRUMP」上位保有者の昼食会開催へ、トランプ大統領も出席予定",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/13142728/2dcf77e782f5ba48b19a585f6d02eada.jpg"
         }
       ]
     },
@@ -1793,6 +1768,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/xrp-holders-hit-record-7-7m-will-price-break-1-60",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "XRP（XRP）は火曜日、1.50ドルで取引され、過去24時間で3％上昇した。ただし反発の動きは1.60ドル付近で失速している。それでも、ネットワーク利用の拡大と保有者の積み増しが進む中、1.50ドル～1.60ドルの抵抗帯を突破する可能性がある。",
+          "link": "https://cointelegraph.jp/news/xrp-holders-hit-record-7-7m-will-price-break-1-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-17T16:07:44.000Z",
+          "wordCount": 295,
+          "title": "XRP 1.60ドル突破が焦点に　ネットワーク拡大とクジラの買いが後押し",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2ZjMWItNmQzYy03Zjg2LTgxYWMtZDc1YTMwNjg1MTlhLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2ZjMWItNmQzYy03Zjg2LTgxYWMtZDc1YTMwNjg1MTlhLmpwZw==.jpg"
+        },
         {
           "id": "https://cointelegraph.jp/news/bitcoin-powerful-move-nears-as-bollinger-bands-warn-of-volatility",
           "author": "Cointelegraph  Nancy Lubale",
@@ -2152,51 +2142,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2UyMDUtODY5ZC03MjY1LWI3NTQtZWYzMTA3NjhhMDljLmpwZw==.jpg"
-        },
-        {
-          "id": "https://cointelegraph.jp/news/us-treasury-sanctions-north-korea-it-worker-crypto-fraud-network",
-          "author": "Cointelegraph  Stephen Katte",
-          "description": "米財務省は、北朝鮮が関与したとされるIT労働者詐欺スキームに関与した疑いで、6人と2つの団体に制裁を科した。このスキームは仮想通貨業界を含むさまざまな分野を標的としてきた。",
-          "link": "https://cointelegraph.jp/news/us-treasury-sanctions-north-korea-it-worker-crypto-fraud-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-03-13T05:18:11.000Z",
-          "wordCount": 222,
-          "title": "米財務省、北朝鮮IT労働者詐欺で6人と2団体を制裁　仮想通貨を利用した資金調達に関与か",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2U0YjktZDY4Yy03NDNjLWEyOTMtZTgwYjBlMTlmNjc4LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2U0YjktZDY4Yy03NDNjLWEyOTMtZTgwYjBlMTlmNjc4LmpwZw==.jpg"
-        },
-        {
-          "id": "https://cointelegraph.jp/news/donald-trump-memecoin-holders-annual-dinner-price-low",
-          "author": "Cointelegraph  Ciaran Lyons",
-          "description": "米国のトランプ大統領のミームコインが過去最安値付近から小幅に反発した。トークン運営チームが、上位保有者に大統領と会える限定イベントへの参加権を提供すると発表したためだ。",
-          "link": "https://cointelegraph.jp/news/donald-trump-memecoin-holders-annual-dinner-price-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-03-13T04:29:19.000Z",
-          "wordCount": 231,
-          "title": "トランプ大統領のミームコイン、保有者向けイベント発表で反発",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2U0YjEtZWU3Mi03YmFhLWFjYjMtYzU5YmY3MWI0MWQ0LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2U0YjEtZWU3Mi03YmFhLWFjYjMtYzU5YmY3MWI0MWQ0LmpwZw==.jpg"
-        },
-        {
-          "id": "https://cointelegraph.jp/news/bitcoin-catching-up-to-gold-hints-opportunity-within-risk",
-          "author": "Cointelegraph  Biraajmaan Tamuly",
-          "description": "ビットコイン（BTC）の長期的な価格トレンドをゴールドと比較した指標が、2017年、2022年、2023年に見られた水準まで調整した後、強気方向への変化を示している。",
-          "link": "https://cointelegraph.jp/news/bitcoin-catching-up-to-gold-hints-opportunity-within-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-03-13T04:06:20.000Z",
-          "wordCount": 377,
-          "title": "ビットコイン対ゴールド比率に強気シグナル　長期トレンド転換の可能性",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2IwY2EtN2Y2OC03MDM5LTlmNDUtMzhjMTMzMDg3NWM0LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2IwY2EtN2Y2OC03MDM5LTlmNDUtMzhjMTMzMDg3NWM0LmpwZw==.jpg"
         }
       ]
     },
@@ -3379,96 +3324,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2133400297-1.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=155873",
-          "author": "Crypto Times 編集部",
-          "description": "オンチェーンデータ分析企業CryptoQuantはイーサリアム（ETH）のネットワーク利用状況と価格パフォーマンスの間に深刻な乖離が生じる「採用パラドックス（adoption paradox）」が発生していると指摘し、今 […]\n投稿 イーサリアム、2026年に1500ドルまで下落か？「採用パラドックス」が鮮明に は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-ethereum-could-fall-to-1500-by-2026/",
-          "publishedOn": "2026-03-13T05:22:02.000Z",
-          "wordCount": 596,
-          "title": "イーサリアム、2026年に1500ドルまで下落か？「採用パラドックス」が鮮明に",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_1974592625-2.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=155902",
-          "author": "Crypto Times 編集部",
-          "description": "ビットコイン（BTC）は中東情勢の緊迫化を受けて株式市場が軟調に推移するなか、約71,900ドルまで上昇し、ここ1週間での最高値を記録しました。 Bitcoin price by TradingView 現在、伝統的な金 […]\n投稿 ビットコインが7.1万ドル突破で週間最高値｜中東情勢緊迫も底堅い値動き は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-bitcoin-breaks-71000-to-hit-weekly-high/",
-          "publishedOn": "2026-03-13T05:03:41.000Z",
-          "wordCount": 624,
-          "title": "ビットコインが7.1万ドル突破で週間最高値｜中東情勢緊迫も底堅い値動き",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2642372865.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=155896",
-          "author": "Crypto Times 編集部",
-          "description": "分散型取引所（DEX）のHyperliquidにおいて、コモディティ（商品）銘柄の未決済建玉（OI）が5億5400万ドルに達し、同プラットフォーム内で最大のカテゴリーとなったことが明らかになりました。これは全市場の46% […]\n投稿 Hyperliquidのコモディティ建玉が5.5億ドル突破、市場の46%占める は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-hyperliquids-commodity-open-interest-surpasses-550-million/",
-          "publishedOn": "2026-03-13T04:47:23.000Z",
-          "wordCount": 619,
-          "title": "Hyperliquidのコモディティ建玉が5.5億ドル突破、市場の46%占める",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2701139861.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=155886",
-          "author": "Crypto Times 編集部",
-          "description": "2026年2月18日から21日にかけて開催された世界最大級のイーサリアム関連カンファレンス「ETHDenver 2026」は、仮想通貨業界の構造変化が感じられるものであったとWublockchainのレポートにより判明し […]\n投稿 先月開催の仮想通貨イベントでAI領域が急拡大｜サイドイベントは68%減 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-ai-field-rapidly-expanding-at-eth-denver/",
-          "publishedOn": "2026-03-13T04:43:00.000Z",
-          "wordCount": 597,
-          "title": "先月開催の仮想通貨イベントでAI領域が急拡大｜サイドイベントは68%減",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_396462442.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=155871",
-          "author": "Crypto Times 編集部",
-          "description": "分散型金融 (DeFi) 大手のAaveにおいて、あるユーザーが約5043万ドル（約80億円）の資産をわずか3万6000ドル相当のトークンと交換し、多額の損失を出す事案が発生しました。オンチェーンデータによるとこのユーザ […]\n投稿 約80億円の巨額損失、仮想通貨の誤交換で は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-approximately-8-billion-yen-in-massive-losses-due-to-mistaken-cryptocurrency-exchange/",
-          "publishedOn": "2026-03-13T04:36:25.000Z",
-          "wordCount": 693,
-          "title": "約80億円の巨額損失、仮想通貨の誤交換で",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2163889011.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=155870",
-          "author": "Crypto Times 編集部",
-          "description": "国際組織「国際組織犯罪対策グローバル・イニシアチブ（GI-TOC）」の最新の報告により、南米アマゾン地域における違法な金の取引においてステーブルコインが資金洗浄（マネーロンダリング）の手段として利用されている実態が浮き彫 […]\n投稿 ベネズエラの違法金取引、決済にUSDT利用か は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-illegal-gold-transactions-in-venezuela-may-use-usdt-for-settlement/",
-          "publishedOn": "2026-03-13T04:25:35.000Z",
-          "wordCount": 594,
-          "title": "ベネズエラの違法金取引、決済にUSDT利用か",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2555094847.jpg"
         }
       ]
     }

@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-17T22:29:05.293Z</updated>
+    <updated>2026-03-17T23:01:43.096Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米カンゴ、マイニング事業進出後初の年間決算は約720億円の純損失]]></title>
+        <id>https://coinpost.jp/?p=695202</id>
+        <link href="https://coinpost.jp/?p=695202"/>
+        <updated>2026-03-17T23:00:01.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコインの米マイニング企業カンゴは、2025年の決算を発表。マイニング事業進出後初となる2025年は約720億円の純損失だった。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナ、過去142％上昇時の強気シグナルが再点灯　価格回復の兆しか]]></title>
+        <id>https://cointelegraph.jp/news/sol-price-signal-tied-to-previous-142percent-rally-flashes-again-are-the-bulls-back</id>
+        <link href="https://cointelegraph.jp/news/sol-price-signal-tied-to-previous-142percent-rally-flashes-again-are-the-bulls-back?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-03-17T22:46:07.000Z</updated>
+        <summary type="html"><![CDATA[過去に3桁台の急騰をもたらしたソラナ（SOL）のチャートパターンが再び現れた。アルトコインの強気派は、過去最高値の更新に向けた準備を整えているのだろうか。]]></summary>
+        <author>
+            <name>Cointelegraph  Biraajmaan Tamuly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[500超のDAOを支えた「タリー」、6年で事業終了を発表　DAO普及の前提が崩れたと総括]]></title>
+        <id>https://coinpost.jp/?p=695199</id>
+        <link href="https://coinpost.jp/?p=695199"/>
+        <updated>2026-03-17T22:30:05.000Z</updated>
+        <summary type="html"><![CDATA[ユニスワップやアービトラムなど500超のDAOを支えたガバナンス基盤『Tally』が事業終了を発表した。CEOのデニソン・バートラム氏は、トランプ政権の規制緩和がDAOの存在意義を失わせたと分析。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米SEC、大半の仮想通貨は「証券に該当せず」との解釈指針　規制の転換鮮明に]]></title>
+        <id>https://cointelegraph.jp/news/sec-interpretation-crypto-assets-not-securities</id>
+        <link href="https://cointelegraph.jp/news/sec-interpretation-crypto-assets-not-securities?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-03-17T22:28:06.000Z</updated>
+        <summary type="html"><![CDATA[SECは仮想通貨の分類に関する解釈指針を発表した。連邦法上の証券に該当するデジタル資産の定義を明確化し、大半のトークンは証券ではないとの立場を示した。]]></summary>
+        <author>
+            <name>Cointelegraph  Turner Wright</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CLARITY法案とビットコイン上昇の構造的背景 ― 規制明確化がもたらす資金フローの変化【エックスウィンリサーチ】]]></title>
         <id>https://www.nadanews.com/?p=341340</id>
@@ -35,6 +75,16 @@ CLARITY法案とビットコイン上昇の構造的背景 ― 規制明確化�
         <summary type="html"><![CDATA[マスターカードは、ステーブルコインとブロックチェーン基盤の決済事業をさらに拡大するため、最大18億ドルでBVNKを買収することに合意した。]]></summary>
         <author>
             <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「仮想通貨ETF導入はまだ初期段階」モルガン・スタンレー分析]]></title>
+        <id>https://coinpost.jp/?p=695186</id>
+        <link href="https://coinpost.jp/?p=695186"/>
+        <updated>2026-03-17T21:40:02.000Z</updated>
+        <summary type="html"><![CDATA[モルガン・スタンレーのデジタル資産戦略責任者が仮想通貨ETFの採用がまだ初期段階にあるとの認識を示した。アドバイザーを通じた正式なポートフォリオへの組み込みが次の成長フェーズとなる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -2415,17 +2465,6 @@ Circle、トークン化米国債市場で首位に──市場規模は過去�
         <updated>2026-03-13T11:19:12.000Z</updated>
         <summary type="html"><![CDATA[現在、XRP（リップル）市場はテクニカルな攻防の局面に直面しています。 最新のCoinglassデータによると、XRPの先物市場における建玉（未決済ポジション）は7億7,529万ドルに達し、前日比で14.39%の大幅な増 […]
 投稿 XRP（リップル）、建玉14%増も上値重い展開 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネット優待にコインチェックやバイナンスが参画]]></title>
-        <id>https://crypto-times.jp/?p=155983</id>
-        <link href="https://crypto-times.jp/news-coincheck-and-binance-join-metaplanets-loyalty-program/"/>
-        <updated>2026-03-13T10:45:52.000Z</updated>
-        <summary type="html"><![CDATA[メタプラネットは3月12日、株主優待プログラムの拡充に関する補足説明資料を公開し、13の新たな提携パートナー特典の詳細を明らかにしました。「日本の上場企業として最も充実した株主優待制度」を目指すとしており2026年6月3 […]
-投稿 メタプラネット優待にコインチェックやバイナンスが参画 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
         </author>

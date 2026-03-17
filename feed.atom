@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-17T20:34:12.268Z</updated>
+    <updated>2026-03-17T21:33:49.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PayPal、ステーブルコイン「PYUSD」を70市場へ拡大]]></title>
+        <id>https://www.nadanews.com/?p=341337</id>
+        <link href="https://www.nadanews.com/341337/"/>
+        <updated>2026-03-17T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[米決済大手PayPal（ペイパル）は、米ドル連動型ステーブルコイン「PayPal USD（PYUSD）」を世界70市場に拡大すると発表した。これにより、同社のユ ...
+PayPal、ステーブルコイン「PYUSD」を70市場へ拡大 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米クラリティー法案、8月が成立期限に　2027年持ち越しリスクも＝TDコーエン分析]]></title>
+        <id>https://coinpost.jp/?p=695185</id>
+        <link href="https://coinpost.jp/?p=695185"/>
+        <updated>2026-03-17T21:25:00.000Z</updated>
+        <summary type="html"><![CDATA[米投資銀行TDコーエンは、仮想通貨市場構造法「クラリティー法案」の成立に関する実質的な期限は8月の議会休会前だとの見方を示した。成立を逃せば2027年以降への持ち越しリスクがあると分析。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アルゼンチン、Polymarketを全国でアクセス遮断]]></title>
+        <id>https://coinpost.jp/?p=695184</id>
+        <link href="https://coinpost.jp/?p=695184"/>
+        <updated>2026-03-17T21:00:58.000Z</updated>
+        <summary type="html"><![CDATA[アルゼンチン当局が全国で予測市場プラットフォーム「ポリマーケット」へのアクセスを全面的に遮断するよう命じた。不審なインフレ予測取引や未成年の利用が問題視されている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米アリゾナ州、予測市場Kalshiを刑事訴追]]></title>
+        <id>https://www.nadanews.com/?p=341334</id>
+        <link href="https://www.nadanews.com/341334/"/>
+        <updated>2026-03-17T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米アリゾナ州のKris Mayes（クリス・メイズ）司法長官は、予測市場プラットフォームを運営するKalshi（カルシ）に対し、無許可のギャンブル運営および選挙 ...
+米アリゾナ州、予測市場Kalshiを刑事訴追 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「大半のトークンは有価証券に非該当」、米SECとCFTCが仮想通貨分類指針を公開]]></title>
+        <id>https://coinpost.jp/?p=695183</id>
+        <link href="https://coinpost.jp/?p=695183"/>
+        <updated>2026-03-17T20:45:55.000Z</updated>
+        <summary type="html"><![CDATA[米SECとCFTCが68ページの共同解釈指針を発行し、デジタルコモディティやステーブルコインなど複数の仮想通貨カテゴリが有価証券に該当しないとの分類基準を初めて明文化した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米CFTC、ファントムに規制免除　仮想通貨ウォレットのデリバティブ参入を容認]]></title>
+        <id>https://coinpost.jp/?p=695182</id>
+        <link href="https://coinpost.jp/?p=695182"/>
+        <updated>2026-03-17T20:30:49.000Z</updated>
+        <summary type="html"><![CDATA[米CFTCの市場参加者部門が、ソラナ基盤の自己管理型仮想通貨ウォレット「ファントム」を運営するファントム・テクノロジーズに対し、ブローカー登録義務を問わないノーアクション・ポジションを発行した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マスターカードがBVNKを買収、ステーブルコイン決済基盤獲得]]></title>
+        <id>https://coinpost.jp/?p=694965</id>
+        <link href="https://coinpost.jp/?p=694965"/>
+        <updated>2026-03-17T20:00:47.000Z</updated>
+        <summary type="html"><![CDATA[決済大手マスターカードが仮想通貨インフラ企業BVNKを最大18億ドルで買収すると発表。既存の法定通貨決済ネットワークとステーブルコインを接続し、130カ国以上で対応するオンチェーン決済基盤を自社ネットワークへ統合。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRP 1.60ドル突破が焦点に　ネットワーク拡大とクジラの買いが後押し]]></title>
         <id>https://cointelegraph.jp/news/xrp-holders-hit-record-7-7m-will-price-break-1-60</id>
@@ -2377,80 +2449,6 @@ Circle、トークン化米国債市場で首位に──市場規模は過去�
         <updated>2026-03-13T09:36:19.000Z</updated>
         <summary type="html"><![CDATA[最新のオンチェーンデータ分析によると、ビットコイン（BTC）の長期および短期保有者の双方に「降伏（キャピチュレーション）」の兆候が表れていることが指摘されました。現在の市場は明確な強気トレンドへの転換というよりも上値抵抗 […]
 投稿 ビットコイン長期保有者にも「降伏」の影？価格反発も警戒必要か は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイナーが生き残るためにはビットコインの運用が 不可欠 ：Wintermute]]></title>
-        <id>https://www.nadanews.com/?p=340847</id>
-        <link href="https://www.nadanews.com/340847/"/>
-        <updated>2026-03-13T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）マーケットメイカーのWintermute（ウィンターミュート）は最新のブログ記事で、ビットコイン（BTC）マイニング業界が現在「構造的に異な ...
-マイナーが生き残るためにはビットコインの運用が 不可欠 ：Wintermute first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPYC向け会計監査ツール「JPYC Explorer」提供開始　アステリアと暗号屋が共同開発]]></title>
-        <id>https://coinpost.jp/?p=694597</id>
-        <link href="https://coinpost.jp/?p=694597"/>
-        <updated>2026-03-13T09:05:06.000Z</updated>
-        <summary type="html"><![CDATA[アステリアと暗号屋が日本円ステーブルコインJPYC向けの会計監査ツール「JPYC Explorer」を共同開発。自社管理型フルノードによる取引検証で、監査法人・上場企業のブロックチェーン監査に対応する。4月1日提供開始、月額50万円から。]]></summary>
-        <author>
-            <name>Ritsuki.Kumazawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米上院、住宅法案可決。FRBのCBDC発行を2030年まで禁止]]></title>
-        <id>https://www.neweconomy.jp/?p=556331</id>
-        <link href="https://www.neweconomy.jp/posts/556331"/>
-        <updated>2026-03-13T09:01:00.000Z</updated>
-        <summary type="html"><![CDATA[デジタルドル発行を2030年まで制限 米上院は、大型住宅政策法案「21世紀の住宅への道法案（21st Century ROAD to Housing Act）」を賛成89、反対10の超党派で3月12日に可決した。同法案に […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーブルコイン供給量、過去最高まで残り0.5％｜更新目前に]]></title>
-        <id>https://crypto-times.jp/?p=155899</id>
-        <link href="https://crypto-times.jp/news-stablecoin-supply-ath-soon/"/>
-        <updated>2026-03-13T08:57:27.000Z</updated>
-        <summary type="html"><![CDATA[オンチェーンデータ分析プラットフォームのArtemis（アルテミス）は、ステーブルコインの総供給量が過去最高値（ATH）の更新まで、残り0.5％未満に迫っていることを報告しました。 Stablecoin supply i […]
-投稿 ステーブルコイン供給量、過去最高まで残り0.5％｜更新目前に は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polymarketら予測市場が爆発的成長｜Q1で前年通年超えの勢い]]></title>
-        <id>https://crypto-times.jp/?p=155895</id>
-        <link href="https://crypto-times.jp/news-prediction-markets-like-polymarket-are-experiencing-explosive-growth/"/>
-        <updated>2026-03-13T08:52:43.000Z</updated>
-        <summary type="html"><![CDATA[*本記事はPolymarket並びに同様の予測市場関連プロダクトの利用を推奨するものではありません 2026年第1四半期（Q1）の予測市場における取引高は2025年全体の総取引高を上回る勢いで推移していることが明らかとな […]
-投稿 Polymarketら予測市場が爆発的成長｜Q1で前年通年超えの勢い は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米上院院内総務、クラリティ法の4月以前の前進は困難と示唆＝報道]]></title>
-        <id>https://coinpost.jp/?p=694601</id>
-        <link href="https://coinpost.jp/?p=694601"/>
-        <updated>2026-03-13T08:51:31.000Z</updated>
-        <summary type="html"><![CDATA[米上院のスーン院内総務は、仮想通貨市場構造法案「クラリティ法」が4月以前に上院銀行委員会を通過する可能性は低いと示唆。ステーブルコイン利回り問題をめぐる業界間の対立が審議の遅延に影響している。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[量子コンピューターがBTCを破壊？35%が長期的リスクとの分析]]></title>
-        <id>https://crypto-times.jp/?p=155882</id>
-        <link href="https://crypto-times.jp/news-analysis-indicates-that-35-of-all-btc-faces-quantum-computing-risks/"/>
-        <updated>2026-03-13T08:39:46.000Z</updated>
-        <summary type="html"><![CDATA[ARK InvestとUnchainedは共同でビットコイン（BTC）の暗号技術に対する量子コンピューティングの脅威を評価するホワイトペーパーを発表しました 。本報告書は量子技術の進化が将来的なリスクになることを認めつつ […]
-投稿 量子コンピューターがBTCを破壊？35%が長期的リスクとの分析 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
         </author>

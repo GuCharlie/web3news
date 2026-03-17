@@ -1542,6 +1542,26 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=557282",
+          "author": "HitomotoToshikazu",
+          "description": "MEXCが予測市場プラットフォーム提供開始 大手暗号資産（仮想通貨）取引所MEXCが、予測市場プラットフォームのローンチを3月16日に発表した。 MEXCによると、同社提供の予測市場プラットフォームでは、地政学イベント、 […]",
+          "link": "https://www.neweconomy.jp/posts/557282",
+          "publishedOn": "2026-03-17T07:55:47.000Z",
+          "wordCount": 647,
+          "title": "MEXC、予測市場プラットフォーム提供開始、取引・決済手数料は無料",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/17164639/091a5741e28dfc6c27053071e74650af.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=557272",
+          "author": "OtsugaShinya",
+          "description": "アブラがナスダック上場を計画 暗号資産の管理プラットフォームを手がけるアブラ（Abra）が、特別買収目的会社（SPAC）のニュー・プロビデンス・アクイジションIII（New Providence Acquisition  […]",
+          "link": "https://www.neweconomy.jp/posts/557272",
+          "publishedOn": "2026-03-17T07:18:38.000Z",
+          "wordCount": 632,
+          "title": "アブラ、SPACとの合併でナスダック上場を計画",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/17161834/d91b7aaaac4536f777f6c7e181c7c33d.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=557260",
           "author": "gentosha_takahashi",
           "description": "前年から162％増加 米国拠点のブロックチェーン調査会社チェイナリシス（Chainalysis）が、暗号資産（仮想通貨）犯罪の動向をまとめた「The 2026 Crypto Crime Report」の日本語版を3月16 […]",
@@ -1988,6 +2008,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/uk-wife-accused-stealing-176m-bitcoin-cctv-seed-phrase",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "英国在住の男性が、別居中の妻により2023年にトレザーのハードウェアウォレットから2323BTCを盗まれたとして提訴した。妻が監視カメラを使い、シードフレーズやアクセスコードを盗み見たと主張している。",
+          "link": "https://cointelegraph.jp/news/uk-wife-accused-stealing-176m-bitcoin-cctv-seed-phrase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-17T07:26:57.000Z",
+          "wordCount": 199,
+          "title": "別居中の妻がビットコイン2323BTCを窃取か　監視カメラでシードフレーズ盗撮＝英国",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzhjZjQtMzhiMy03MTlhLTg0YTUtOTIyMzM2ZGI0ZDExLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzhjZjQtMzhiMy03MTlhLTg0YTUtOTIyMzM2ZGI0ZDExLmpwZw==.jpg"
+        },
         {
           "id": "https://cointelegraph.jp/news/bitcoin-etfs-record-6-day-inflow-streak-longest-since-october",
           "author": "Cointelegraph  Brayden Lindrea",

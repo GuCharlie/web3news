@@ -670,16 +670,6 @@
           "wordCount": 1467,
           "title": "ビットコイン弱気派が窮地に──原油の追い風を受け13億ドルの空売りリスク／スタグフレーション懸念が高まる米国経済【日曜日に読みたい厳選10本】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/07/日曜日に読みたい10選.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=340981",
-          "author": "NADA NEWS編集部",
-          "description": "【CoinDesk Summary】 ● 5カ月間まったく動きのなかった休眠ウォレットが12日、突然、約220万枚のTRUMPトークンを購入した。取得額は約70 ...\n謎の投資家、TRUMPトークンに巨額投資──数時間で約4億円の含み益 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/340981/",
-          "publishedOn": "2026-03-14T11:00:00.000Z",
-          "wordCount": 1388,
-          "title": "謎の投資家、TRUMPトークンに巨額投資──数時間で約4億円の含み益",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-71.jpg"
         }
       ]
     },
@@ -1948,6 +1938,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/bitcoin-dips-near-72k-hot-us-ppi-inflation-hours-fed-rates",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコイン（BTC）価格は、高止まりする米インフレ指標と、数時間後に控える連邦公開市場委員会（FOMC）での政策示唆への警戒感に挟まれ、週足での安値を更新した。",
+          "link": "https://cointelegraph.jp/news/bitcoin-dips-near-72k-hot-us-ppi-inflation-hours-fed-rates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-18T22:38:43.000Z",
+          "wordCount": 365,
+          "title": "ビットコイン、米PPIの上振れを受け7万2000ドルへ下落　FRB会合を数時間後に控え",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDAxNDMtM2ZkNC03NjRhLTg0OTgtYTQzZTFjMDhmMzFkLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDAxNDMtM2ZkNC03NjRhLTg0OTgtYTQzZTFjMDhmMzFkLmpwZw==.jpg"
+        },
         {
           "id": "https://cointelegraph.jp/news/s-p-dow-jones-licenses-first-s-p-500-perpetuals-for-onchain-trading-on-hyperliquid",
           "author": "Cointelegraph  Nate Kostar",

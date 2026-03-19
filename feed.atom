@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-19T22:23:54.456Z</updated>
+    <updated>2026-03-19T22:54:34.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[XRP、韓国の取引所での記録的な出金を受け20%の価格上昇を示唆]]></title>
+        <id>https://cointelegraph.jp/news/xrp-signals-20-percent-rally-record-korean-exchange-withdrawals</id>
+        <link href="https://cointelegraph.jp/news/xrp-signals-20-percent-rally-record-korean-exchange-withdrawals?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-03-19T22:38:53.000Z</updated>
+        <summary type="html"><![CDATA[韓国のトレーダーが急速なペースでXRPを取引所から引き出している。クジラ（大口保有者）の資金フローも、過去の上昇前に見られた蓄積の兆候を示している。]]></summary>
+        <author>
+            <name>Cointelegraph  Yashu Gola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大リーグ（MLB）、米規制当局およびポリマーケットと提携]]></title>
+        <id>https://cointelegraph.jp/news/major-league-baseball-cftc-polymarket-deal</id>
+        <link href="https://cointelegraph.jp/news/major-league-baseball-cftc-polymarket-deal?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-03-19T22:31:50.000Z</updated>
+        <summary type="html"><![CDATA[マイケル・セリグCFTC委員長との間に結ばれた覚書は、米国の多くの州当局が予測市場におけるスポーツイベント・コントラクトへの取り締まりを強化する中で発表された。]]></summary>
+        <author>
+            <name>Cointelegraph  Turner Wright</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、強気相場の兆候現れるも「確定」には至らず＝グラスノード]]></title>
         <id>https://cointelegraph.jp/news/bitcoin-bull-market-vibes-emerge-but-confirmation-is-missing-glassnode</id>

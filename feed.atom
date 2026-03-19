@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-19T10:35:57.834Z</updated>
+    <updated>2026-03-19T11:32:23.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ECB、デジタルユーロ実装に向けた検討に着手　ATM・決済端末での運用設計に関する専門家募集]]></title>
+        <id>https://cointelegraph.jp/news/ecb-digital-euro-atm-payments-workstreams</id>
+        <link href="https://cointelegraph.jp/news/ecb-digital-euro-atm-payments-workstreams?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-03-19T10:33:54.000Z</updated>
+        <summary type="html"><![CDATA[欧州中央銀行（ECB）は、中央銀行デジタル通貨（CBDC）であるデジタルユーロの運用に関する検討に向け、業界専門家の募集を開始した。検討対象は、ATMや決済端末、受け入れインフラでの機能設計に関するものだ。]]></summary>
+        <author>
+            <name>Cointelegraph  Ezra Reguerra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JPYC岡部氏、XRP Tokyo 2026登壇へ｜ステーブルコインの未来を語る]]></title>
         <id>https://crypto-times.jp/?p=156621</id>
@@ -3489,28 +3499,6 @@ XRP、ネットワーク利用拡大でもトークン価値は低迷 first appe
 投稿 bb Community Meetup 26′ イベントレポート は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>boarding bridge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「お金」の設計思想を問い直す──コミュニティへの回帰と、未来の経済システム【デジタル通貨カンファレンス】]]></title>
-        <id>https://www.nadanews.com/?p=339309</id>
-        <link href="https://www.nadanews.com/339309/"/>
-        <updated>2026-03-14T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[「Japan Fintech Week 2026」（JFW2026、金融庁主催）の初日・2月24日に行われた「FUTURE OF DIGITAL MONEY ― ...
-「お金」の設計思想を問い直す──コミュニティへの回帰と、未来の経済システム【デジタル通貨カンファレンス】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>瑞澤 圭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン弱気派が窮地に──原油の追い風を受け13億ドルの空売りリスク／スタグフレーション懸念が高まる米国経済【日曜日に読みたい厳選10本】]]></title>
-        <id>https://www.nadanews.com/?p=340916</id>
-        <link href="https://www.nadanews.com/340916/"/>
-        <updated>2026-03-14T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米国とイランの紛争による地政学的な変動にもかかわらず、ビットコインは3日連続で7万ドルの水準を維持。原油価格の上昇と株式に対する信認の低下が、マクロヘッジとして ...
-ビットコイン弱気派が窮地に──原油の追い風を受け13億ドルの空売りリスク／スタグフレーション懸念が高まる米国経済【日曜日に読みたい厳選10本】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>橋本 祐樹</name>
         </author>
     </entry>
 </feed>

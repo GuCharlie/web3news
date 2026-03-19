@@ -735,6 +735,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://ec2-13-114-170-70.ap-northeast-1.compute.amazonaws.com/?p=695848",
+          "author": "Ritsuki.Kumazawa",
+          "description": "Aptosの特徴・技術・APTトークン・最新動向を解説。Move言語採用のL1ブロックチェーンで、50ms未満のブロックタイムや25,000TPSの高速処理を実現。日本市場への展開や機関投資家の参入も進む。",
+          "link": "https://coinpost.jp/?p=695848",
+          "publishedOn": "2026-03-19T15:01:52.000Z",
+          "wordCount": 3794,
+          "title": "Aptosとは？HashPort Wallet採用のL1ブロックチェーンの特徴・将来性を解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/aptos-token-econ.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/aptos-token-econ.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=695765",
           "author": "Enzo",
           "description": "CAICA DIGITALは3月2日、Web3型M2M基盤と接続するステーブルコイン基盤のPoCを開始。EV（電気自動車）や物流車両など、デバイスが主体となる完全自律型M2M決済の実現可能性を検証する。",
@@ -1768,21 +1783,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/ethereum-fusaka.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/ethereum-fusaka.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=694591",
-          "author": "CoinPost編集部",
-          "description": "今週のBTC円相場は1140万円台で底堅く推移。イラン紛争長期化による原油高・米金利上昇が上値を圧迫する一方、財政懸念の高まりはBTC支援材料となる可能性も。17〜18日のFOMCでのタカ派シフトリスクにも注目。",
-          "link": "https://coinpost.jp/?p=694591",
-          "publishedOn": "2026-03-15T02:30:22.000Z",
-          "wordCount": 3291,
-          "title": "ビットコイン底堅さも上値重く、FOMCとイラン情勢が焦点｜bitbankアナリスト寄稿",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
         }
       ]
     },
@@ -1791,6 +1791,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=558217",
+          "author": "NewEconomyPodcast",
+          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/558217",
+          "publishedOn": "2026-03-19T14:53:34.000Z",
+          "wordCount": 643,
+          "title": "【3/19話題】S＆P500連動無期限デリバティブがハイリキで24h取扱、国内初のUSDCレンディング、SECがナスダックのトークン化証券取引を承認など（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/19191931/43bc2c3ddd9ee2036820e055f449d4c4.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=558191",
           "author": "watanabeyousuke",

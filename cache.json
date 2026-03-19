@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=341593",
+          "author": "Shoko Galaviz",
+          "description": "米商品先物取引委員会（CFTC）とメジャーリーグベースボール（MLB）は、予測市場とプロ野球の健全性維持を目的とした覚書を締結した。プロスポーツリーグとCFTC ...\nMLBとCFTC、予測市場の健全性確保で提携──Polymarketが独占パートナーに first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/341593/",
+          "publishedOn": "2026-03-19T22:00:00.000Z",
+          "wordCount": 1499,
+          "title": "MLBとCFTC、予測市場の健全性確保で提携──Polymarketが独占パートナーに",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_1181883586.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=341590",
           "author": "Shoko Galaviz",
           "description": "米証券取引委員会（SEC）は、Nasdaq（ナスダック）が提案していたトークン化証券の取引を可能にするルール変更を承認した。これにより、米国の主要株式市場におい ...\nSEC、Nasdaqのトークン化株式取引を承認 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -2378,6 +2388,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/bitcoin-bull-market-vibes-emerge-but-confirmation-is-missing-glassnode",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "ビットコイン市場は再び強気への転換を見せ始めているが、データによると、強気相場の決定的な指標となる「しきい値」にはまだ達していない。",
+          "link": "https://cointelegraph.jp/news/bitcoin-bull-market-vibes-emerge-but-confirmation-is-missing-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-19T22:09:39.000Z",
+          "wordCount": 303,
+          "title": "ビットコイン、強気相場の兆候現れるも「確定」には至らず＝グラスノード",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzM2MGMtNTAxMi03Y2QzLWIwOTMtYzdiOGUyZDFmMTBhLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzM2MGMtNTAxMi03Y2QzLWIwOTMtYzdiOGUyZDFmMTBhLmpwZw==.jpg"
+        },
+        {
+          "id": "https://cointelegraph.jp/news/bitcoin-whales-sell-iran-war-oil-spike",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "中東情勢の緊迫化に伴う原油価格の上昇を受け、古参のビットコイン保有者が数千万ドル相当を取引所へ移動させた。これにより、仮想通貨および伝統的市場全体でリスクオフの動きが加速している。",
+          "link": "https://cointelegraph.jp/news/bitcoin-whales-sell-iran-war-oil-spike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-19T22:02:56.000Z",
+          "wordCount": 251,
+          "title": "ビットコイン・クジラが1億ドル以上を移動、原油急騰が市場を揺るがす",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU5ZTItMmI3MS03OWE3LTllMWMtNTVjMTAyOTY0MjBl.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU5ZTItMmI3MS03OWE3LTllMWMtNTVjMTAyOTY0MjBl.jpg"
+        },
         {
           "id": "https://cointelegraph.jp/news/ecb-digital-euro-atm-payments-workstreams",
           "author": "Cointelegraph  Ezra Reguerra",

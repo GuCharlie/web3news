@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=341731",
+          "author": "荒澤 文寛（あらさわ ふみひろ） ビットトレード リサーチアナリスト",
+          "description": "今週の市場は、戻りの勢いが強まりながらも、その持続性がすぐに試される1週間でした。 週前半のビットコインは、米ドル建てで7万ドル近辺から7万6,000ドル台まで ...\n期待先行の戻りから、疑念を伴う再検証へ── ビットコイン市場に残る需給改善とマクロ不安の綱引き【BitTrade Market Weekly】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/341731/",
+          "publishedOn": "2026-03-20T23:00:00.000Z",
+          "wordCount": 1524,
+          "title": "期待先行の戻りから、疑念を伴う再検証へ── ビットコイン市場に残る需給改善とマクロ不安の綱引き【BitTrade Market Weekly】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-53-2.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=341736",
           "author": "XWIN Research",
           "description": "● 例年、中間選挙に近づくにつれてBTCは下落しやすい● 背景は流動性低下と政治的不確実性の上昇● 2026年も「選挙前弱気・選挙後回復」が基本シナリオ 過去の ...\nアメリカ中間選挙年に揺れるビットコイン──下落の構造と2026年シナリオ分析【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -640,16 +650,6 @@
           "wordCount": 1398,
           "title": "Bitmine、ETH保有数459万枚に拡大──イラン戦争を受けた暗号資産の強さが背景",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2670924417.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=341135",
-          "author": "井上 俊彦",
-          "description": "米資産運用会社Ark Invest（アーク・インベスト）は、量子コンピューターがビットコイン（BTC）に与える潜在的影響を分析したホワイトペーパー「Bitcoi ...\n量子コンピューティングは短期的にはビットコインの脅威ではない：Arkが報告書を発表 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/341135/",
-          "publishedOn": "2026-03-16T11:10:00.000Z",
-          "wordCount": 1351,
-          "title": "量子コンピューティングは短期的にはビットコインの脅威ではない：Arkが報告書を発表",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2022/06/shutterstock_1457191784-scaled.jpg"
         }
       ]
     },
@@ -2158,6 +2158,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/ledger-hires-ex-circle-executive-opens-nyc-office",
+          "author": "Cointelegraph  Nate Kostar",
+          "description": "仮想通貨ハードウェア企業レジャーは、元サークル幹部のジョン・アンドリュース氏を最高財務責任者（CFO）に任命し、米国展開の一環としてニューヨークに新オフィスを開設した。アンドリュース氏はこれまでサークルで資本市場および投資家対応（IR）を統括していた。",
+          "link": "https://cointelegraph.jp/news/ledger-hires-ex-circle-executive-opens-nyc-office?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-20T23:00:00.000Z",
+          "wordCount": 259,
+          "title": "仮想通貨ハードウェア企業レジャーが米国展開を加速　CFOに元サークル幹部を起用、NY拠点開設も",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzQ4ZjAtMzI0OC03ZWQ5LTg0N2YtM2JkNDdjNGIyNjQxLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzQ4ZjAtMzI0OC03ZWQ5LTg0N2YtM2JkNDdjNGIyNjQxLmpwZw==.jpg"
+        },
         {
           "id": "https://cointelegraph.jp/news/clarity-act-deal-white-house-lawmakers",
           "author": "Cointelegraph  Vince Quill",
@@ -3894,36 +3909,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/11/shutterstock_2549388285.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=156250",
-          "author": "よきょい",
-          "description": "日本円連動ステーブルコイン「JPYC」を発行するJPYC株式会社と株式会社マツモトは、デジタル技術やトークンを活用した新たな価値循環の創出を目指すDAT構想について基本合意を締結しました。 株式会社マツモトと、デジタル技 […]\n投稿 JPYC株式会社がマツモトと提携、DAT構想で新たな価値創出へ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-jpyc-corporation-partners-with-matsumoto/",
-          "publishedOn": "2026-03-16T11:13:16.000Z",
-          "wordCount": 587,
-          "title": "JPYC株式会社がマツモトと提携、DAT構想で新たな価値創出へ",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_1121392667.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=156249",
-          "author": "よきょい",
-          "description": "メタプラネット社はグローバルな機関投資家を対象とした第三者割当による資金調達を実施し、約408億円を調達しました。 メタプラネットは、グローバルな機関投資家を対象とした第三者割当による資金調達により、約408億円を調達し […]\n投稿 メタプラネット、最大853億円調達へ｜21万BTC保有目指す は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-metaplanet-to-raise-up-to-85-3-billion-yen/",
-          "publishedOn": "2026-03-16T10:54:43.000Z",
-          "wordCount": 605,
-          "title": "メタプラネット、最大853億円調達へ｜21万BTC保有目指す",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2673454331-1.jpg"
         }
       ]
     }

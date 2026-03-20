@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-20T11:28:15.726Z</updated>
+    <updated>2026-03-20T11:53:47.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[欧州大手アムンディとSpiko社、2つのブロックチェーンでトークン化ファンド「SAFO」始動]]></title>
+        <id>https://coinpost.jp/?p=695919</id>
+        <link href="https://coinpost.jp/?p=695919"/>
+        <updated>2026-03-20T11:35:30.000Z</updated>
+        <summary type="html"><![CDATA[欧州最大の資産運用会社アムンディとSpiko社が、イーサリアム・ステラ基盤のトークン化ファンド「SAFO」を共同ローンチした。1億ドルのコミット資産を持ち、4通貨・24時間365日の譲渡に対応。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン適正価格は13.6万ドルとの試算。価格低迷を招く2つの重しとは]]></title>
         <id>https://crypto-times.jp/?p=156794</id>
@@ -3568,28 +3578,6 @@ Kraken関連のトークン化株式プラットフォーム「xStocks」、報�
         <summary type="html"><![CDATA[チェイナリシスは2025年の仮想通貨犯罪動向レポートを公開。不正送金総額は1,540億ドルと過去最高を更新。北朝鮮関連ハッキングや AI詐欺が急増し、日本での被害も深刻化している。]]></summary>
         <author>
             <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーブルコインの拡大が示すオンチェーン金融の進化──世界で進む採用と日本のJPYC【エックスウィンリサーチ】]]></title>
-        <id>https://www.nadanews.com/?p=341021</id>
-        <link href="https://www.nadanews.com/341021/"/>
-        <updated>2026-03-15T23:41:09.000Z</updated>
-        <summary type="html"><![CDATA[● ステーブルコインのアクティブアドレスは急増し、暗号資産市場の基盤インフラとして拡大している。● 各国で用途が異なり、新興国ではインフレヘッジや送金、先進国で ...
-ステーブルコインの拡大が示すオンチェーン金融の進化──世界で進む採用と日本のJPYC【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>XWIN Research</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産各社のF1巨額スポンサー契約に逆風──中東情勢が大型イベント直撃]]></title>
-        <id>https://www.nadanews.com/?p=341006</id>
-        <link href="https://www.nadanews.com/341006/"/>
-        <updated>2026-03-15T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[【CoinDesk Summary】 ● 「TOKEN2049 Dubai」は2027年へ延期され、「TON Gateway」は中止となった。中東情勢の緊迫化に ...
-暗号資産各社のF1巨額スポンサー契約に逆風──中東情勢が大型イベント直撃 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>NADA NEWS編集部</name>
         </author>
     </entry>
 </feed>

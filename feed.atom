@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-20T20:57:30.015Z</updated>
+    <updated>2026-03-20T21:32:58.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【リップル調査】金融大手の72％が「競争力維持にデジタル資産対応は必須」]]></title>
+        <id>https://cointelegraph.jp/news/ripple-survey-72-finance-leaders-digital-assets-key</id>
+        <link href="https://cointelegraph.jp/news/ripple-survey-72-finance-leaders-digital-assets-key?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-03-20T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[リップルが公表した調査によると、世界の金融業界リーダー1000人超の72％が、競争力を維持するには企業がデジタル資産ソリューションを提供しなければならないと考えている。]]></summary>
+        <author>
+            <name>Cointelegraph  Helen Partz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアムに底打ちシグナル点灯　オンチェーン指標が3年ぶり高水準]]></title>
         <id>https://cointelegraph.jp/news/ether-taker-volume-hits-3-year-high-will-eth-avoid-a-19percent-price-decline</id>
@@ -3158,16 +3168,6 @@ AIデータセンターの需要急増がビットコインを脆弱にする？
 投稿 ビットコイン、多くのアナリストが「非常に強気」姿勢を維持 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MoneyXが映す日本のステーブルコイン戦略、次世代金融インフラの全体像｜Four Pillars]]></title>
-        <id>https://coinpost.jp/?p=694838</id>
-        <link href="https://coinpost.jp/?p=694838"/>
-        <updated>2026-03-16T09:10:44.000Z</updated>
-        <summary type="html"><![CDATA[政策・産業・社会を横断するカンファレンス「MoneyX」の開催に合わせ、3大メガバンク・JPYC・SBIホールディングス・DCJPYが構築する次世代金融インフラの全体像をFour Pillarsが解説。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>

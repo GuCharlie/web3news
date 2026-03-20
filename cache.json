@@ -1763,21 +1763,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/bankruptcy_chapter111.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/bankruptcy_chapter111.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=694838",
-          "author": "CoinPost編集部",
-          "description": "政策・産業・社会を横断するカンファレンス「MoneyX」の開催に合わせ、3大メガバンク・JPYC・SBIホールディングス・DCJPYが構築する次世代金融インフラの全体像をFour Pillarsが解説。",
-          "link": "https://coinpost.jp/?p=694838",
-          "publishedOn": "2026-03-16T09:10:44.000Z",
-          "wordCount": 4003,
-          "title": "MoneyXが映す日本のステーブルコイン戦略、次世代金融インフラの全体像｜Four Pillars",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/fourpillars_moneyx_thumbnail_0316.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/fourpillars_moneyx_thumbnail_0316.png"
         }
       ]
     },
@@ -2203,6 +2188,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/ripple-survey-72-finance-leaders-digital-assets-key",
+          "author": "Cointelegraph  Helen Partz",
+          "description": "リップルが公表した調査によると、世界の金融業界リーダー1000人超の72％が、競争力を維持するには企業がデジタル資産ソリューションを提供しなければならないと考えている。",
+          "link": "https://cointelegraph.jp/news/ripple-survey-72-finance-leaders-digital-assets-key?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-20T21:00:00.000Z",
+          "wordCount": 224,
+          "title": "【リップル調査】金融大手の72％が「競争力維持にデジタル資産対応は必須」",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDBhOGItMDg0Mi03NzdlLWIzZTEtMTg2NTBkOGFlZTE5LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDBhOGItMDg0Mi03NzdlLWIzZTEtMTg2NTBkOGFlZTE5LmpwZw==.jpg"
+        },
         {
           "id": "https://cointelegraph.jp/news/ether-taker-volume-hits-3-year-high-will-eth-avoid-a-19percent-price-decline",
           "author": "Cointelegraph  Biraajmaan Tamuly",

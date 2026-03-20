@@ -720,26 +720,6 @@
           "wordCount": 5252,
           "title": "＜ビットコイン持ってますか？：第1回＞「日本では必要ない」は本当？──ビットコインが広がらない国の意外な落とし穴",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/Gemini_Generated_Image_lmy6folmy6folmy6.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=341029",
-          "author": "栃山 直樹",
-          "description": "●ビットコインは週次で10%反発したものの、120日以上にわたって10万ドルを下回る水準で推移している。 ●10万ドル未満のコンソリデーション（保ち合い）期間中 ...\nビットコイン・トレジャリーズ、120日間で12万4000BTCを購入──BTCはいつ10万ドルを超えるのか？【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/341029/",
-          "publishedOn": "2026-03-16T03:19:33.000Z",
-          "wordCount": 1562,
-          "title": "ビットコイン・トレジャリーズ、120日間で12万4000BTCを購入──BTCはいつ10万ドルを超えるのか？【価格分析】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/5c93c85409329e0c0a9db0be82a16805.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=341028",
-          "author": "廣瀬 優香",
-          "description": "Kraken（クラーケン）の親会社Payward（ペイワード）が提供するトークン化株式プラットフォーム「xStocks」は3月11日、参加者向けの報酬プログラム ...\nKraken関連のトークン化株式プラットフォーム「xStocks」、報酬プログラムを開始へ first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/341028/",
-          "publishedOn": "2026-03-16T03:15:00.000Z",
-          "wordCount": 1345,
-          "title": "Kraken関連のトークン化株式プラットフォーム「xStocks」、報酬プログラムを開始へ",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2260816935.jpg"
         }
       ]
     },
@@ -2460,16 +2440,6 @@
           "wordCount": 659,
           "title": "SBI VCトレード、トンコイン（TON）とスイ（SUI）取扱で「呑水」プレゼントキャンペーン実施",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/16131116/5041636c6cfba4a01052a994cee20ae1.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=556605",
-          "author": "watanabeyousuke",
-          "description": "原因は大幅な価格インパクトとAave報告 分散型金融（DeFi）プロトコルのアーベ（Aave）のインターフェース上で5,000万USDTを使ってAAVEトークンを購入する取引が行われた結果、受け取ったトークンが324AA […]",
-          "link": "https://www.neweconomy.jp/posts/556605",
-          "publishedOn": "2026-03-16T02:57:37.000Z",
-          "wordCount": 721,
-          "title": "アーベ、ユーザーが取引で約50Mドル相当の損失。カウスワップは手数料返金へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/16115729/3d0f326c8b04712f895e1d7cf28cc695.jpg"
         }
       ]
     },
@@ -2478,6 +2448,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/dormant-bitcoin-wallet-wakes-up-after-13-years",
+          "author": "Cointelegraph  Christina Comben",
+          "description": "13年7カ月にわたり休眠していたビットコイン（BTC）の大口ウォレットが再び動き出し、現在約1億4700万ドル相当の資産の一部が移動された。",
+          "link": "https://cointelegraph.jp/news/dormant-bitcoin-wallet-wakes-up-after-13-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-20T15:17:18.000Z",
+          "wordCount": 233,
+          "title": "13年放置のビットコインウォレットが再始動　1億4700万ドル規模のBTCを保有",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDBiNDktZTMwMi03NDFhLTkwMDMtNDcwZDYwNDBkNTY5LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDBiNDktZTMwMi03NDFhLTkwMDMtNDcwZDYwNDBkNTY5LmpwZw==.jpg"
+        },
+        {
+          "id": "https://cointelegraph.jp/news/bitcoin-rsi-eyes-2022-repeat-analysis-time-to-pay-attention",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコイン（BTC）は、重要な先行指標が高値切り上げを示唆する中で、長期的な底打ちの可能性を示している。",
+          "link": "https://cointelegraph.jp/news/bitcoin-rsi-eyes-2022-repeat-analysis-time-to-pay-attention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-20T15:01:09.000Z",
+          "wordCount": 253,
+          "title": "ビットコイン底打ち接近か　RSIの強気シグナルに注目集まる",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA3NjctYzI1Ni03NjZmLTk2NzgtNmY3ZDljNzI2MDg2.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA3NjctYzI1Ni03NjZmLTk2NzgtNmY3ZDljNzI2MDg2.jpg"
+        },
         {
           "id": "https://cointelegraph.jp/news/xrp-signals-20-percent-rally-record-korean-exchange-withdrawals",
           "author": "Cointelegraph  Yashu Gola",
@@ -4359,76 +4359,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_1783485566.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=156190",
-          "author": "Crypto Times 編集部",
-          "description": "米国シカゴを拠点とする仮想通貨の取引および貸付業者であるブロックフィルズ（BlockFills）を運営するレリズ（Reliz Ltd.）が、デラウェア州の連邦破産裁判所に連邦破産法第11条の適用を申請しました。 同社が提 […]\n投稿 ブロックフィルズ、米破産法申請｜負債額は最大5億ドル は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-blockfills-files-for-bankruptcy-under-us-law/",
-          "publishedOn": "2026-03-16T03:37:58.000Z",
-          "wordCount": 599,
-          "title": "ブロックフィルズ、米破産法申請｜負債額は最大5億ドル",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_1857214675.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=156192",
-          "author": "Crypto Times 編集部",
-          "description": "予測市場Polymarketにおいて、2026年の米国中間選挙における上院の支配権を巡るトレーダーの予測が逆転しました。最新のデータによると、民主党が勝利する確率が51%に達し、共和党の49%を僅差で上回っています。 こ […]\n投稿 2026年米上院選の勝者は民主党？予測市場で勝率逆転 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-will-the-democrats-win-the-2026-us-senate-elections-prediction-markets-show-a-reversal-of-odds/",
-          "publishedOn": "2026-03-16T03:29:42.000Z",
-          "wordCount": 597,
-          "title": "2026年米上院選の勝者は民主党？予測市場で勝率逆転",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2317102917.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=156193",
-          "author": "Crypto Times 編集部",
-          "description": "ビットコイン（BTC）は、中東情勢の緊迫化に伴う原油価格の高騰を受け、再び上昇に転じています。執筆時点でビットコインは過去24時間で約2%上昇し、72,490ドル付近で取引されています。週末のボラティリティにより一時70 […]\n投稿 ビットコインが7.2万ドル台へ上昇、中東情勢緊迫で原油価格は100ドルに迫る は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-bitcoin-rises-to-over-72000/",
-          "publishedOn": "2026-03-16T03:25:35.000Z",
-          "wordCount": 631,
-          "title": "ビットコインが7.2万ドル台へ上昇、中東情勢緊迫で原油価格は100ドルに迫る",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2622907719.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=156177",
-          "author": "Crypto Times 編集部",
-          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 暗号資産取引所であるBTCCは、ゴールドと原油において過去最高の1日取 […]\n投稿 BTCC TradFi、ゴールド6,000万ドル、原油3,300万ドルの過去最高となる1日取引高を記録 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/press-btcc-tradfi-gold-oil/",
-          "publishedOn": "2026-03-16T03:02:20.000Z",
-          "wordCount": 588,
-          "title": "BTCC TradFi、ゴールド6,000万ドル、原油3,300万ドルの過去最高となる1日取引高を記録",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/BTCC-TradFi-1.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=156169",
-          "author": "よきょい",
-          "description": "3月16日11:30現在、市場はトランプ大統領の「戦争ほぼ終わった」発言によって原油価格も落ち着いた小康状態となっているものの本当に中東地域の地政学リスクが収まるのかどうかを注視する段階となっており、リスクオンとリスクオ […]\n投稿 【今日のマクロ経済ニュース】トランプ発言による市場小康と中東リスクの継続 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-market-calm-due-to-trumps-remarks-and-continued-middle-east-risk/",
-          "publishedOn": "2026-03-16T02:56:52.000Z",
-          "wordCount": 604,
-          "title": "【今日のマクロ経済ニュース】トランプ発言による市場小康と中東リスクの継続",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2471148247.jpg"
         }
       ]
     }

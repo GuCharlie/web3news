@@ -560,16 +560,6 @@
           "wordCount": 1515,
           "title": "XRP、BNBを逆転──未決済建玉は暴落前水準に回復へ",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/fefc21a320886ecb5b0e04c5ca69cc9eed5ab20d-3840x2160-1.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=341267",
-          "author": "井上 俊彦",
-          "description": "暗号資産（仮想通貨）運用大手CoinShares（コインシェアーズ） のリサーチ責任者James Butterfill（ジェームズ・バターフィル）氏は最新のブロ ...\n地政学的混乱の中でも暗号資産は回復力を発揮：CoinShares first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/341267/",
-          "publishedOn": "2026-03-17T09:00:00.000Z",
-          "wordCount": 1482,
-          "title": "地政学的混乱の中でも暗号資産は回復力を発揮：CoinShares",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2024/04/shutterstock_1434643079.jpg"
         }
       ]
     },
@@ -1678,6 +1668,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/quantum-risk-bitcoin-wallets-not-all-vulnerable",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "ビットコイン投資家に対する量子コンピューターのリスクは現実的な問題だが、すべてのウォレットが脆弱というわけではないと、ギャラクシー・デジタルのリサーチアナリスト、ウィル・オーウェンズ氏は指摘した。",
+          "link": "https://cointelegraph.jp/news/quantum-risk-bitcoin-wallets-not-all-vulnerable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-21T21:00:00.000Z",
+          "wordCount": 238,
+          "title": "量子コンピューターの脅威、ビットコインに現実味　ただし全ウォレットが対象ではない＝ギャラクシー分析",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzFjOWEtZDg0NC03ZDdlLWE5NGMtYzU5MTRiMDdkZDQxLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzFjOWEtZDg0NC03ZDdlLWE5NGMtYzU5MTRiMDdkZDQxLmpwZw==.jpg"
+        },
         {
           "id": "https://cointelegraph.jp/news/ledger-hires-ex-circle-executive-opens-nyc-office",
           "author": "Cointelegraph  Nate Kostar",

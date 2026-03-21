@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-21T08:28:04.442Z</updated>
+    <updated>2026-03-21T08:57:49.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メタプラネット、横浜のBTCフォーラムを無料開催へ｜3月25日開催]]></title>
+        <id>https://crypto-times.jp/?p=156967</id>
+        <link href="https://crypto-times.jp/news-metaplanet-to-host-free-btc-forum-in-yokohama/"/>
+        <updated>2026-03-21T08:51:57.000Z</updated>
+        <summary type="html"><![CDATA[株式会社メタプラネットおよびBitcoin Japan™は、2026年3月25日に横浜のぴあアリーナMMで開催するカンファレンス「JAPAN BITCOIN FUTURE FORUM」の参加費を無料に変更す […]
+投稿 メタプラネット、横浜のBTCフォーラムを無料開催へ｜3月25日開催 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンス創設者CZ氏、獄中で執筆の理由語る「何もすることがなかった」]]></title>
         <id>https://crypto-times.jp/?p=156872</id>
@@ -3236,26 +3247,6 @@ Ironlight、約33億円の資金調達──トークン化証券の取引イン
 Bitmine、ETH保有数459万枚に拡大──イラン戦争を受けた暗号資産の強さが背景 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トム・リー率いるビットマイン社、約6.1万ETHを追加取得]]></title>
-        <id>https://coinpost.jp/?p=694888</id>
-        <link href="https://coinpost.jp/?p=694888"/>
-        <updated>2026-03-16T20:45:58.000Z</updated>
-        <summary type="html"><![CDATA[ビットマイン・イマージョン・テクノロジーズが3月15日時点で仮想通貨イーサリアム459.6万枚を保有し、仮想通貨・現金・投資の合計保有額が115億ドルに達したと公式発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米ストラテジー、STRC活用で前週2500億円相当ビットコインを買い増し]]></title>
-        <id>https://coinpost.jp/?p=694887</id>
-        <link href="https://coinpost.jp/?p=694887"/>
-        <updated>2026-03-16T20:30:56.000Z</updated>
-        <summary type="html"><![CDATA[マイケル・セイラー率いるストラテジー社が3月9〜15日の1週間で2.2万ビットコインを約15.7億ドルで取得したとSEC提出書類で明らかになった。資金の約76%をSTRC優先株売却で賄い、累計保有数は761,068BTCに達した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

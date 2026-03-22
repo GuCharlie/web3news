@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-22T16:25:43.656Z</updated>
+    <updated>2026-03-22T16:54:17.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
@@ -2093,77 +2093,6 @@ SBI VCトレード、国内初の「USDCレンディング」開始──初回�
 ＜ビットコイン持ってますか？：第3回＞「汗をかかずに稼ぐ」ことへの違和感──投資に後ろめたさを感じてしまう理由 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>NADA NEWS編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アルゼンチン裁判所、ポリマーケットの国内アクセス遮断を命令か、無認可オンライン賭博理由に＝報道]]></title>
-        <id>https://www.neweconomy.jp/?p=557607</id>
-        <link href="https://www.neweconomy.jp/posts/557607"/>
-        <updated>2026-03-18T04:53:34.000Z</updated>
-        <summary type="html"><![CDATA[アルゼンチンでPolymarketのアクセス遮断か アルゼンチンのブエノスアイレスの裁判所が、ブロックチェーン・暗号資産（仮想通貨）活用の予測市場プラットフォーム「ポリマーケット（Polymarket）」について、同国内 […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFiは金融の代替へ、米議員らDCサミットで「規制と革新」を議論]]></title>
-        <id>https://crypto-times.jp/?p=156506</id>
-        <link href="https://crypto-times.jp/news-defi-is-becoming-an-alternative-to-traditional-finance/"/>
-        <updated>2026-03-18T04:51:32.000Z</updated>
-        <summary type="html"><![CDATA[米国で開催中の「DC Blockchain Summit」にて、分散型金融（DeFi）の将来性と規制の在り方に関する重要な議論が行われました。 Today I spoke with a panel at the DC B […]
-投稿 DeFiは金融の代替へ、米議員らDCサミットで「規制と革新」を議論 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン現物ETF保有者、機関需要回復も平均約75万円の含み損＝分析]]></title>
-        <id>https://coinpost.jp/?p=695260</id>
-        <link href="https://coinpost.jp/?p=695260"/>
-        <updated>2026-03-18T04:51:04.000Z</updated>
-        <summary type="html"><![CDATA[CryptoQuantのAxel Adler Jr.氏は、ビットコインETF保有者の平均含み損が5,174ドルと指摘。3週連続の資金流入が続く中、80,000ドルが当面の重要な関門となっている。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヴィタリック提案、イーサリアム高速確認が12秒へ　「Lean Ethereum」構想を推進]]></title>
-        <id>https://coinpost.jp/?p=695256</id>
-        <link href="https://coinpost.jp/?p=695256"/>
-        <updated>2026-03-18T04:50:10.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム共同創設者ヴィタリック・ブテリン氏が、1スロット（12秒）で取引の非リバート保証を得る新たな高速確認ルールを提案した。バリデータの誠実性とネットワーク遅延3秒未満が前提となる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨ECサイトのビットリフィル、サイバー攻撃被害を公表　北朝鮮ハッカー関与の可能性]]></title>
-        <id>https://cointelegraph.jp/news/bitrefill-claims-lazarus-group-hacked-them-stole-funds</id>
-        <link href="https://cointelegraph.jp/news/bitrefill-claims-lazarus-group-hacked-them-stole-funds?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-03-18T04:43:10.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ECストアのビットリフィルは3月1日にサイバー攻撃を受けたと明らかにした。同社によれば、その手法が北朝鮮のハッカー集団ラザルスのものと酷似しているという。]]></summary>
-        <author>
-            <name>Cointelegraph  Brayden Lindrea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヴィタリック、イーサリアムのビーコン・実行クライアント分離の見直しを提案]]></title>
-        <id>https://www.neweconomy.jp/?p=557601</id>
-        <link href="https://www.neweconomy.jp/posts/557601"/>
-        <updated>2026-03-18T04:42:50.000Z</updated>
-        <summary type="html"><![CDATA[ヴィタリックがクライアント分離アーキテクチャの見直しを提案 イーサリアム（Ethereum）の共同創業者であるヴィタリック・ブテリン（Vitalik Buterin）氏が、現在のビーコンクライアント（コンセンサスクライア […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アスターがトークノミクス刷新、ASTRは長期的に約100億枚に収束へ]]></title>
-        <id>https://www.neweconomy.jp/?p=557595</id>
-        <link href="https://www.neweconomy.jp/posts/557595"/>
-        <updated>2026-03-18T04:35:30.000Z</updated>
-        <summary type="html"><![CDATA[ASTRの発行量減衰導入で供給構造を明確化 レイヤー1ブロックチェーン「アスターネットワーク（Astar Network）」が、トークンエコノミクスの新モデル「トークノミクス3.0（Tokenomics 3.0）」を導入 […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-22T01:55:58.802Z</updated>
+    <updated>2026-03-22T06:45:15.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【今週のJPYCまとめ】岡部氏がXRP Tokyo 2026登壇へ。マツモトと提携でDAT構想加速]]></title>
+        <id>https://crypto-times.jp/?p=156847</id>
+        <link href="https://crypto-times.jp/news-this-weeks-jpyc-summary-as-of-march-21st/"/>
+        <updated>2026-03-22T06:21:30.000Z</updated>
+        <summary type="html"><![CDATA[今週のJPYC株式会社は日本円連動型ステーブルコイン（JPYC）の役割を「単なる決済手段」から「社会インフラの基盤」へと一段引き上げ、エコシステム拡大に向けた強固な意志を示しました。 市場では株式会社マツモトとの提携によ […]
+投稿 【今週のJPYCまとめ】岡部氏がXRP Tokyo 2026登壇へ。マツモトと提携でDAT構想加速 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【今週のメタプラネットまとめ】自社株買いに対応姿勢。CEOが語る「日本版MSTR」の勝算とは]]></title>
+        <id>https://crypto-times.jp/?p=156846</id>
+        <link href="https://crypto-times.jp/news-metaplanet-summary-for-this-week-march-21st/"/>
+        <updated>2026-03-22T02:01:52.000Z</updated>
+        <summary type="html"><![CDATA[今週の株式会社メタプラネット（3350）はビットコイン（BTC）戦略を「単なる保有」から「資本効率の最適化」へと深化させ、投資家の強い関心を集めました。 市場では「1株当たりのBTC保有量」を最大化する新方針への期待が高 […]
+投稿 【今週のメタプラネットまとめ】自社株買いに対応姿勢。CEOが語る「日本版MSTR」の勝算とは は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム、オンチェーン指標が25％上昇を示唆　2600ドル台が分岐点に]]></title>
         <id>https://cointelegraph.jp/news/ethereum-25-rally-richest-eth-whale-return-profitable</id>
@@ -2513,68 +2535,6 @@ PayPal、ステーブルコイン「PYUSD」を70市場へ拡大 first appeared 
         <summary type="html"><![CDATA[決済大手マスターカードが仮想通貨インフラ企業BVNKを最大18億ドルで買収すると発表。既存の法定通貨決済ネットワークとステーブルコインを接続し、130カ国以上で対応するオンチェーン決済基盤を自社ネットワークへ統合。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP 1.60ドル突破が焦点に　ネットワーク拡大とクジラの買いが後押し]]></title>
-        <id>https://cointelegraph.jp/news/xrp-holders-hit-record-7-7m-will-price-break-1-60</id>
-        <link href="https://cointelegraph.jp/news/xrp-holders-hit-record-7-7m-will-price-break-1-60?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-03-17T16:07:44.000Z</updated>
-        <summary type="html"><![CDATA[XRP（XRP）は火曜日、1.50ドルで取引され、過去24時間で3％上昇した。ただし反発の動きは1.60ドル付近で失速している。それでも、ネットワーク利用の拡大と保有者の積み増しが進む中、1.50ドル～1.60ドルの抵抗帯を突破する可能性がある。]]></summary>
-        <author>
-            <name>Cointelegraph  Nancy Lubale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン 強力な上昇ブレイクの兆し　8万4000ドルへの上昇なるか]]></title>
-        <id>https://cointelegraph.jp/news/bitcoin-powerful-move-nears-as-bollinger-bands-warn-of-volatility</id>
-        <link href="https://cointelegraph.jp/news/bitcoin-powerful-move-nears-as-bollinger-bands-warn-of-volatility?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-03-17T15:35:42.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は今後、上方向へのボラティリティ拡大を見せる可能性がある。複数のテクニカル指標およびオンチェーンデータが、BTC価格が「強力な」上昇ブレイクに向かう可能性を示している。]]></summary>
-        <author>
-            <name>Cointelegraph  Nancy Lubale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン 半減期はもう関係ない？ ストラテジーの爆買いが市場を変えるか]]></title>
-        <id>https://cointelegraph.jp/news/do-bitcoin-halvings-matter-anymore-if-strategy-s-strc-exists</id>
-        <link href="https://cointelegraph.jp/news/do-bitcoin-halvings-matter-anymore-if-strategy-s-strc-exists?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
-        <updated>2026-03-17T15:05:18.000Z</updated>
-        <summary type="html"><![CDATA[マイケル・セイラー氏率いるビットコイン保有企業ストラテジーは、優先株STRCを活用してビットコイン（BTC）の取得を加速させている。この動きは、従来の半減期を上回る供給ショックを生み出す可能性があるのかが注目されている。]]></summary>
-        <author>
-            <name>Cointelegraph  Yashu Gola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【3/17話題】金融庁が暗号資産無登録販売の罰則強化か、ワイルダーワールド（WILD）がGMOコインに国内初上場へなど（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=557312</id>
-        <link href="https://www.neweconomy.jp/posts/557312"/>
-        <updated>2026-03-17T14:26:25.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップル決済網が拡大続く｜i-payoutと提携]]></title>
-        <id>https://crypto-times.jp/?p=156460</id>
-        <link href="https://crypto-times.jp/news-ripple-i-payout/"/>
-        <updated>2026-03-17T14:18:09.000Z</updated>
-        <summary type="html"><![CDATA[リップル社はグローバル決済プラットフォームを運営するi-payoutとの提携を発表しました。i-payoutは法人向けクロスボーダー決済サービス「Ripple Payments」を活用し、米国およびカナダへのリアルタイム […]
-投稿 リップル決済網が拡大続く｜i-payoutと提携 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マスターカード、ステーブルコインインフラ企業BVNKを最大18億ドルで買収へ]]></title>
-        <id>https://www.nadanews.com/?p=341326</id>
-        <link href="https://www.nadanews.com/341326/"/>
-        <updated>2026-03-17T14:15:53.000Z</updated>
-        <summary type="html"><![CDATA[【CoinDesk Summary】 ● マスターカードは、英国拠点のステーブルコインインフラ企業BVNKを最大18億ドル（約2800億円、1ドル=155円換算 ...
-マスターカード、ステーブルコインインフラ企業BVNKを最大18億ドルで買収へ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>NADA NEWS編集部</name>
         </author>
     </entry>
 </feed>

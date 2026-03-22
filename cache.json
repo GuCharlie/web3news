@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=340900",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● Nasdaq（ナスダック）は過去18カ月でAIエージェントの活用を急速に拡大し、市場監視、コンプライアンス、市場マイク ...\nナスダック幹部が見るAIエージェント競争──暗号資産取引所が先行か first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/340900/",
+          "publishedOn": "2026-03-22T22:30:00.000Z",
+          "wordCount": 1516,
+          "title": "ナスダック幹部が見るAIエージェント競争──暗号資産取引所が先行か",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-86.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=341755",
           "author": "NADA NEWS編集部",
           "description": "【CoinDesk Summary】 ● Ripple（リップル）が世界の企業財務（コーポレートトレジャリー）担当者ら1000人超を対象に行った調査によると、デ ...\nステーブルコイン、企業財務の中核ツールに：Ripple調査 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -380,26 +390,6 @@
           "wordCount": 1498,
           "title": "米トレーダーの6割超、ステーブルコインで利回り運用——規制議論を先越す「現場の実態」が浮き彫りに：OKX調査",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2618987887.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=341402",
-          "author": "廣瀬 優香",
-          "description": "Ripple（リップル）は3月17日、ブラジルにおける大規模な事業拡大を発表した。 リップルはブラジルで、国境を越えた決済、暗号資産（仮想通貨）のカストディ、プ ...\nRipple、ブラジルでの大規模な事業拡大を発表──VASPライセンス申請へ first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/341402/",
-          "publishedOn": "2026-03-18T10:50:00.000Z",
-          "wordCount": 1499,
-          "title": "Ripple、ブラジルでの大規模な事業拡大を発表──VASPライセンス申請へ",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2575205525.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=341433",
-          "author": "井上 俊彦",
-          "description": "オーストラリアの暗号資産（仮想通貨）取引所Independent Reserveが発表した調査報告「Australian Independent Reserve ...\nオーストラリア人の33%が暗号資産を保有：調査報告 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/341433/",
-          "publishedOn": "2026-03-18T10:45:00.000Z",
-          "wordCount": 1484,
-          "title": "オーストラリア人の33%が暗号資産を保有：調査報告",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2023/06/shutterstock_509140660.jpg"
         }
       ]
     },
@@ -1155,16 +1145,6 @@
           "wordCount": 774,
           "title": "【3/18話題】米SECとCFTCが暗号資産の証券該当性を整理、CFTCがファントムのウォレット機能にノーアクションなど（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/18201638/1ed2d1fe855aecacb3f8383874ecf276.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=557700",
-          "author": "OtsugaShinya",
-          "description": "国内初のUSDCレンディングサービスが提供へ 国内暗号資産（仮想通貨）取引所SBI VCトレードが、米ドル価格に連動する電子決済手段（ステーブルコイン）「USDC」のレンディングサービス提供開始予定を3月18日に発表した […]",
-          "link": "https://www.neweconomy.jp/posts/557700",
-          "publishedOn": "2026-03-18T10:44:43.000Z",
-          "wordCount": 636,
-          "title": "国内初、SBI VCトレードが「USDCレンディング」開始へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/18194438/44be331a787ea087025d1cf3128e67c8.jpg"
         }
       ]
     },
@@ -1173,6 +1153,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/fidelity-letter-sec-alternative-trading-systems",
+          "author": "Cointelegraph  Vince Quill",
+          "description": "運用大手のフィデリティは、SECの仮想通貨タスクフォースに対し、代替取引システム（ATS）でのトークン化証券の取引や、伝統的金融（TradFi）のオンチェーン統合を支持すると伝えた。",
+          "link": "https://cointelegraph.jp/news/fidelity-letter-sec-alternative-trading-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-22T22:27:07.000Z",
+          "wordCount": 282,
+          "title": "フィデリティ、業者による仮想通貨業務のさらなる推進をSECに要請",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDE2NGUtM2FjZS03MGE0LWIwNTktYzhhNmM5MGViY2JhLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDE2NGUtM2FjZS03MGE0LWIwNTktYzhhNmM5MGViY2JhLmpwZw==.jpg"
+        },
         {
           "id": "https://cointelegraph.jp/news/crypto-liquidations-near-400m-after-68k-bitcoin-price-dip",
           "author": "Cointelegraph  William Suberg",
@@ -1607,36 +1602,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDAwNTMtODNmNS03ZDkxLTgzZjYtYzI0MDcwMDcyZjQ4LmpwZw==.jpg"
-        },
-        {
-          "id": "https://cointelegraph.jp/news/bitcoin-etf-streak-nears-october-run-but-inflows-lag-far-behind",
-          "author": "Cointelegraph  Helen Partz",
-          "description": "米国のビットコイン上場投資信託（ETF）は資金流入の連続記録を7日間に伸ばし、2025年10月以来で最長となった。",
-          "link": "https://cointelegraph.jp/news/bitcoin-etf-streak-nears-october-run-but-inflows-lag-far-behind?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-03-18T10:42:56.000Z",
-          "wordCount": 217,
-          "title": "米国のビットコインETF、7日連続資金流入　機関投資家の関心続く",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjk2MWQtNGI0Yi03ZDI5LTg4MzEtZWEzNmI1ZjBmZjIwLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjk2MWQtNGI0Yi03ZDI5LTg4MzEtZWEzNmI1ZjBmZjIwLmpwZw==.jpg"
-        },
-        {
-          "id": "https://cointelegraph.jp/news/bitcoin-inflows-exchanges-spike-resistance-75k",
-          "author": "Cointelegraph  Martin Young",
-          "description": "仮想通貨市場の上昇とともに、中央集権型取引所へのビットコイン流入が急増し、売り圧力の兆候となる可能性があるとアナリストが警告している。",
-          "link": "https://cointelegraph.jp/news/bitcoin-inflows-exchanges-spike-resistance-75k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-03-18T10:30:31.000Z",
-          "wordCount": 243,
-          "title": "ビットコイン：取引所への流入が急増　売り圧力のシグナルか",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2ZmNDItMjc5ZS03ZDgxLTlkZjYtMTBjYzdhNjk4ZjVlLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2ZmNDItMjc5ZS03ZDgxLTlkZjYtMTBjYzdhNjk4ZjVlLmpwZw==.jpg"
         }
       ]
     },
@@ -2329,21 +2294,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2738963769-1.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=156468",
-          "author": "よきょい",
-          "description": "日本円連動型ステーブルコインを発行するJPYC株式会社の代表取締役である岡部典孝氏は、株式会社メタプラネットのサイモン・ゲロヴィッチ代表取締役と会談したことを明らかにしました。両社は先日、投資意向表明書（LOI）の締結を […]\n投稿 JPYC岡部氏とメタプラネット・サイモン氏が会談、提携加速へ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-jpycs-mr-okabe-and-metaplanets-simon-held-a-meeting/",
-          "publishedOn": "2026-03-18T10:38:14.000Z",
-          "wordCount": 603,
-          "title": "JPYC岡部氏とメタプラネット・サイモン氏が会談、提携加速へ",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_1931372477.jpg"
         }
       ]
     }

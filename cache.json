@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=342244",
+          "author": "栃山 直樹",
+          "description": "明治は25日、NFTを活用したバーチャル分譲住宅プロジェクト「フォレストヒルズ きのこの山」の公式ウェブサイトを公開した。 本プロジェクトは、メタバースプラット ...\n明治「きのこの山」、NFT権利証付きバーチャル住宅を3月31日より販売 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/342244/",
+          "publishedOn": "2026-03-25T06:00:27.000Z",
+          "wordCount": 1688,
+          "title": "明治「きのこの山」、NFT権利証付きバーチャル住宅を3月31日より販売",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/04f8a0fa5c1e5b60bad9ddba807dfb72.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=342206",
+          "author": "廣瀬 優香",
+          "description": "Core Scientific（コア・サイエンティフィック）は3月23日、JPMorgan Chase（JPモルガン・チェース）から5億ドル（約775億円、1ド ...\nCore Scientific、JPMorganとMorgan Stanleyから総額10億ドルの融資枠確保 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/342206/",
+          "publishedOn": "2026-03-25T02:30:00.000Z",
+          "wordCount": 1604,
+          "title": "Core Scientific、JPMorganとMorgan Stanleyから総額10億ドルの融資枠確保",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2481798939.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=340690",
           "author": "瑞澤 圭",
           "description": "日本でのイーサリアムの認知拡大などを進める一般社団法人Ethereum Japanは3月9日、国内企業によるオンチェーン技術の実務利用をテーマとした「Digit ...\nオンチェーンは企業に浸透するか──Ethereum Japan WGイベントで見えた「実務」の課題と解決策 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -530,10 +550,175 @@
       "articles": []
     },
     {
-      "title": "Stellar(XLM)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=696724",
+          "author": "菊谷ルイス",
+          "description": "ブラックロックのラリー・フィンクCEOが2026年株主レターで仮想通貨事業の2030年5億ドル収益目標を表明。ビットコインETFの550億ドル超の運用残高を背景に、機関投資家のデジタル資産戦略が転換点を迎えている。",
+          "link": "https://coinpost.jp/?p=696724",
+          "publishedOn": "2026-03-25T04:55:02.000Z",
+          "wordCount": 4084,
+          "title": "ブラックロック、2030年までに仮想通貨収益800億円を目標に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/blackrock-bitcoin.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/blackrock-bitcoin.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=696699",
+          "author": "幸田直子",
+          "description": "イーサリアム財団が、8年以上にわたる研究成果を集約した量子耐性（PQ）セキュリティの専用ポータルを開設した。量子リスクは差し迫った脅威ではないが、分散型グローバルプロトコルの移行には数年の準備と徹底的な検証が必要であるため、イーサリアムはPQ転換への取り組みを進めている。",
+          "link": "https://coinpost.jp/?p=696699",
+          "publishedOn": "2026-03-25T04:30:32.000Z",
+          "wordCount": 3596,
+          "title": "イーサリアム、量子時代に備え8年超の研究成果公開　2029年完全移行へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/ethereum254.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/ethereum254.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=696674",
+          "author": "A.Yamada",
+          "description": "ビットゴーとサスケハナ・クリプトが提携し、機関投資家が仮想通貨などを担保に予測市場イベント契約を取引できる新サービスを開始する。",
+          "link": "https://coinpost.jp/?p=696674",
+          "publishedOn": "2026-03-25T04:05:10.000Z",
+          "wordCount": 3995,
+          "title": "保有資産をそのまま予測市場で運用、大手ビットゴーが機関投資家向け新サービス開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/bitgo-ny-trust-license.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/bitgo-ny-trust-license.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=696684",
+          "author": "Enzo",
+          "description": "SBI VCトレードが国内初のカントンコイン（CANTON）・ベラ（BERA）取扱いを開始。取扱い銘柄は40銘柄に拡大。総額1,000万円相当、最大10万円が当たるキャンペーンも4月30日まで開催中。",
+          "link": "https://coinpost.jp/?p=696684",
+          "publishedOn": "2026-03-25T02:54:52.000Z",
+          "wordCount": 4007,
+          "title": "SBI VCトレード、国内初のCANTON・BERA取扱いを開始　総額1000万円相当のキャンペーンも",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/main.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/main.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=696664",
+          "author": "菊谷ルイス",
+          "description": "運用資産2.2兆ドルの資産運用大手インベスコが、ブロックチェーン上で米国債をトークン化するファンド「USTB」の運用会社に就任し、機関投資家向けトークン化資産の拡大を目指す。",
+          "link": "https://coinpost.jp/?p=696664",
+          "publishedOn": "2026-03-25T02:00:06.000Z",
+          "wordCount": 3992,
+          "title": "トークン化国債普及が加速、米大手インベスコがUSTB運用参入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/invesco-superstate.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/invesco-superstate.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=696647",
+          "author": "A.Yamada",
+          "description": "仮想通貨マイニング企業ハット8が、AIとビットコイン採掘の間でコンピューティング能力を柔軟に切り替える「レゴブロック型」モデルに取り組む。電力を希少資産と位置づけた。",
+          "link": "https://coinpost.jp/?p=696647",
+          "publishedOn": "2026-03-25T00:40:11.000Z",
+          "wordCount": 4000,
+          "title": "ハット8、人工知能・ビットコイン採掘を柔軟切替の「レゴブロック」戦略へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/hut8-loss.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/hut8-loss.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=696644",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨ウォレット企業レジャーのパスカル・ゴーティエCEOは、2025年4Qに同社の約79億円分の発行済株式が売却されたと明かした。また、IPOについても言及している。",
+          "link": "https://coinpost.jp/?p=696644",
+          "publishedOn": "2026-03-25T00:30:24.000Z",
+          "wordCount": 4003,
+          "title": "仮想通貨ウォレット企業レジャー、約79億円分の発行済株式が売却　IPOの可能性は？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/ledger-postpone.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/ledger-postpone.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=696635",
+          "author": "菊谷ルイス",
+          "description": "米商品先物取引委員会CFTCがイノベーション・タスクフォースを設立し、仮想通貨・AI・予測市場を対象とした規制枠組みの策定に乗り出した。SECとの連携も明示。",
+          "link": "https://coinpost.jp/?p=696635",
+          "publishedOn": "2026-03-24T23:40:21.000Z",
+          "wordCount": 3988,
+          "title": "米CFTC、仮想通貨・AI・予測市場を対象として特別部会を設立",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/cftc-new-leader.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/cftc-new-leader.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=696636",
+          "author": "菊谷ルイス",
+          "description": "ロビンフッド・マーケッツが15億ドル規模の新たな自社株買い戻しプログラムの承認を公式発表。強固な財務基盤を示す32.5億ドルの与信枠拡大や、独自L2チェーン展開などの多角的な成長戦略を解説。",
+          "link": "https://coinpost.jp/?p=696636",
+          "publishedOn": "2026-03-24T23:30:23.000Z",
+          "wordCount": 3984,
+          "title": "米ロビンフッド、約2400億円の自社株買いプログラムを発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/robinhood-ada-sol-matic.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/robinhood-ada-sol-matic.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=696632",
+          "author": "K.Kobayashi",
+          "description": "ウィンターミュートは、週次レポートを公開して仮想通貨ビットコインの相場を予想。イラン情勢に揺れる現在の市況、今後のポイントや価格推移を分析している。",
+          "link": "https://coinpost.jp/?p=696632",
+          "publishedOn": "2026-03-24T22:45:57.000Z",
+          "wordCount": 4000,
+          "title": "「ビットコインの次のターゲットは74000ドル超」ウィンターミュートが短期相場を分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/bitcoinupdown0628211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/bitcoinupdown0628211.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=696617",
+          "author": "菊谷ルイス",
+          "description": "テザーが大手会計事務所4社と正式契約し、USDTとして初となる完全な独立財務監査の実施に向けて動き出した。長年の準備金透明性への懸念に応える転換点となる。",
+          "link": "https://coinpost.jp/?p=696617",
+          "publishedOn": "2026-03-24T22:25:08.000Z",
+          "wordCount": 3989,
+          "title": "テザー、4大監査法人と契約　ステーブルコインUSDT初の完全監査へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/tether-usdt-reenter-the-US.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/tether-usdt-reenter-the-US.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=696615",
           "author": "菊谷ルイス",
@@ -1157,6 +1342,106 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=559599",
+          "author": "watanabeyousuke",
+          "description": "バランサーが主要開発組織を解散へ 分散型取引所（DEX）「バランサー（Balancer）」の共同創設者フェルナンド・マルティネリ（Fernando Martinelli）氏が、同プロトコルの開発を担ってきたバランサーラボ […]",
+          "link": "https://www.neweconomy.jp/posts/559599",
+          "publishedOn": "2026-03-25T06:42:16.000Z",
+          "wordCount": 645,
+          "title": "バランサー、開発組織を解散。昨年の不正流出被害を受け再編へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/25154204/6c9c57d7796d6e13f9fd25d12a376057.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=559533",
+          "author": "TamuraSeiji",
+          "description": "Sake Financeがフラッシュローン攻撃を受け約200万ドルの被害か ソニー・ブロック・ソリューションズ・ラボ（Sony Block Solutions Labs）が開発するブロックチェーン「ソニューム（Sonei […]",
+          "link": "https://www.neweconomy.jp/posts/559533",
+          "publishedOn": "2026-03-25T06:25:40.000Z",
+          "wordCount": 763,
+          "title": "ソニュームのDeFi「Sake Finance」で不正流出か、被害約2Mドルとの見方",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/25121354/dc8d3ca025541790d5c55e78c9186777.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=559578",
+          "author": "HitomotoToshikazu",
+          "description": "Deloitte CanadaとStablecorpが戦略的協業 デロイトカナダ（Deloitte Canada）と、カナダのデジタル資産インフラ企業ステーブルコープ（Stablecorp）が、カナダドル建てステーブルコ […]",
+          "link": "https://www.neweconomy.jp/posts/559578",
+          "publishedOn": "2026-03-25T06:08:18.000Z",
+          "wordCount": 755,
+          "title": "デロイト、カナダドル建てステーブルコイン「QCAD」基盤の金融機関向けインフラ提供へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/25145131/9d657f0c6137e414329d092977ebcc17.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=559581",
+          "author": "watanabeyousuke",
+          "description": "ソラナが企業向けオンチェーン開発基盤を発表 レイヤー1ブロックチェーン「ソラナ（Solana）」を支援するソラナ財団（Solana Foundation）が、企業や金融機関向けの開発基盤「ソラナ・デベロッパー・プラットフ […]",
+          "link": "https://www.neweconomy.jp/posts/559581",
+          "publishedOn": "2026-03-25T06:08:08.000Z",
+          "wordCount": 810,
+          "title": "ソラナ、企業のオンチェーン開発基盤「SDP」を発表。マスターカードなどが決済活用へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/25150734/f3d98b56d6b3d54ca79c5737fe98dce4.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=559572",
+          "author": "gentosha_takahashi",
+          "description": "CFTCがタスクフォース始動 米商品先物取引委員会（CFTC）のマイケル・S・セリグ（Michael Selig）委員長が、「イノベーション・タスクフォース（Innovation Task Force）」の設立を3月24 […]",
+          "link": "https://www.neweconomy.jp/posts/559572",
+          "publishedOn": "2026-03-25T05:33:54.000Z",
+          "wordCount": 751,
+          "title": "CFTCがイノベーション・タスクフォース設立。予測市場やAIの規制整備を加速",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/25143341/2952bc0d0e8e93648157c26f42b03071.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=559541",
+          "author": "HitomotoToshikazu",
+          "description": "イーサリアム財団がMorphoにETH追加預入 イーサリアム財団（Ethereum Foundation）が、分散型レンディングプロトコル「モルフォ（Morpho）」への、暗号資産（仮想通貨）イーサリアム（ETH）の追加 […]",
+          "link": "https://www.neweconomy.jp/posts/559541",
+          "publishedOn": "2026-03-25T03:28:23.000Z",
+          "wordCount": 798,
+          "title": "イーサリアム財団、DeFi「モルフォ」に3400ETH追加預け入れ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/25122724/d9f0f5498fa9182951119978ba89d3a4.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=559536",
+          "author": "HitomotoToshikazu",
+          "description": "ビットゴーMCPサーバーが提供開始 デジタル資産インフラ企業ビットゴーホールディングス（BitGo Holdings）が、開発者向けリソースを自然言語で参照できる「ビットゴーMCPサーバー（BitGo Model Con […]",
+          "link": "https://www.neweconomy.jp/posts/559536",
+          "publishedOn": "2026-03-25T03:26:01.000Z",
+          "wordCount": 752,
+          "title": "ビットゴー、開発者向けリソースを自然言語で参照できるMCPサーバー提供開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/25122534/3dce7a538ae42f706ce36c40d5f5654a.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=559527",
+          "author": "watanabeyousuke",
+          "description": "賛成100%で可決、次はAIP提出とメインネット展開へ 分散型金融（DeFi）プロトコル「アーベ（Aave）」のガバナンス組織であるアーベDAO（Aave DAO）が、次期アップグレード「アーベV4（Aave V4）」の […]",
+          "link": "https://www.neweconomy.jp/posts/559527",
+          "publishedOn": "2026-03-25T03:02:52.000Z",
+          "wordCount": 797,
+          "title": "アーベDAO、「Aave V4」のイーサリアム展開に向けた提案承認",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/25120245/33b3ee77d96f23f86fc25c076dfbdb2c.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=559518",
+          "author": "watanabeyousuke",
+          "description": "USDTが初のフル監査へ ステーブルコイン発行企業テザー（Tether）が、同社初となる完全な独立財務諸表監査の実施に向け、「ビッグ4」と呼ばれる大手会計事務所の1社と正式契約を締結したと3月24日に発表した。なお、具体 […]",
+          "link": "https://www.neweconomy.jp/posts/559518",
+          "publishedOn": "2026-03-25T02:56:20.000Z",
+          "wordCount": 781,
+          "title": "テザーのUSDT、初のフル監査へ向けビッグ4の1社と契約",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/25115616/4fc683e1e6d51f37132bcb71b25c8fc7.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=559512",
+          "author": "watanabeyousuke",
+          "description": "ステーブルコイン利回りの扱い巡り原則合意 米国におけるステーブルコインの利回りを巡る暗号資産（仮想通貨）規制について、上院議員とホワイトハウスが暫定的な合意に達した。米政治メディア「ポリティコ（POLITICO）」が3月 […]",
+          "link": "https://www.neweconomy.jp/posts/559512",
+          "publishedOn": "2026-03-25T02:45:55.000Z",
+          "wordCount": 804,
+          "title": "米ステーブルコイン利回り規制で原則合意、クラリティ法審議前進の可能性＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/25114549/5fb1c59748eaacb442c3abaa015b0fef.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=559471",
           "author": "NewEconomyPodcast",
           "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
@@ -1393,6 +1678,81 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/ai-and-stablecoins-winning-despite-2026-crypto-market-slump",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "2026年の仮想通貨市場では、AIおよびステーブルコイン分野が全体市場を上回るパフォーマンスを示しており、他分野で価格が下落する中でも利用拡大が続いていることがデータから明らかとなった。",
+          "link": "https://cointelegraph.jp/news/ai-and-stablecoins-winning-despite-2026-crypto-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-25T06:15:20.000Z",
+          "wordCount": 277,
+          "title": "AIとステーブルコインは弱気市場でも成長　投機からインフラへ資金シフト",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDFmN2EtNTY4NS03NjVhLTg1N2ItOTc3NTBjMTM0YTk4LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDFmN2EtNTY4NS03NjVhLTg1N2ItOTc3NTBjMTM0YTk4LmpwZw==.jpg"
+        },
+        {
+          "id": "https://cointelegraph.jp/news/fsb-dollar-stablecoins-risk-emerging-markets",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "金融安定理事会（FSB）は火曜日、外貨建てステーブルコインが新興国および発展途上国において金融安定やマクロ経済にリスクをもたらす可能性があると警告した。",
+          "link": "https://cointelegraph.jp/news/fsb-dollar-stablecoins-risk-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-25T05:34:57.000Z",
+          "wordCount": 215,
+          "title": "金融安定理事会、ドル建てステーブルコインに警鐘　新興国の金融安定にリスク",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzBlZTMtZjc0NC03NjNiLWI5ZDQtNWM4NWU2OWY2ZjQyLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzBlZTMtZjc0NC03NjNiLWI5ZDQtNWM4NWU2OWY2ZjQyLmpwZw==.jpg"
+        },
+        {
+          "id": "https://cointelegraph.jp/news/ethereum-devs-up-security-efforts-post-quantum-team",
+          "author": "Cointelegraph  Brayden Lindrea",
+          "description": "イーサリアムの開発者グループは、将来の量子コンピューターの脅威からブロックチェーンを守り、ネットワークが保持する数十億ドル規模の価値を保護するためのリソースハブを立ち上げた。",
+          "link": "https://cointelegraph.jp/news/ethereum-devs-up-security-efforts-post-quantum-team?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-25T04:49:55.000Z",
+          "wordCount": 228,
+          "title": "イーサリアム開発者、量子耐性対策を本格化　2029年導入へリソースハブ公開",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDIxZTgtY2NiNi03NDg5LWFiMWQtMTRkNWQwYjVjZDU5LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDIxZTgtY2NiNi03NDg5LWFiMWQtMTRkNWQwYjVjZDU5LmpwZw==.jpg"
+        },
+        {
+          "id": "https://cointelegraph.jp/news/nyse-securitize-24-7-tokenized-securities-platform",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "ニューヨーク証券取引所（NYSE）は、ウォール街向けのブロックチェーンベースの株式取引インフラ構築の一環として、トークン化プラットフォームのセキュリタイズと覚書（MoU）を締結した。",
+          "link": "https://cointelegraph.jp/news/nyse-securitize-24-7-tokenized-securities-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-25T04:34:53.000Z",
+          "wordCount": 245,
+          "title": "NYSEがトークン化株式インフラ構築へ　セキュリタイズと提携でブロックチェーン取引に本格参入",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAxNzItYzY2Yi03NjUyLWIwNGUtZmE0MTMwMjA3OWUz.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAxNzItYzY2Yi03NjUyLWIwNGUtZmE0MTMwMjA3OWUz.jpg"
+        },
+        {
+          "id": "https://cointelegraph.jp/news/tether-big-four-audit-usdt-reserves",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "ステーブルコイン発行体テザーは、準備金の完全監査を初めて実施するため、「ビッグ4」と呼ばれる大手会計事務所の1社を起用すると発表した。",
+          "link": "https://cointelegraph.jp/news/tether-big-four-audit-usdt-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-25T04:03:01.000Z",
+          "wordCount": 219,
+          "title": "ステーブルコイン発行企業テザー、準備金の完全監査へ　ビッグ4起用で透明性強化",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDIwNGQtNzcwZi03YWY1LWI5MjQtN2Y4ZjU1MTgxMWY2LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDIwNGQtNzcwZi03YWY1LWI5MjQtN2Y4ZjU1MTgxMWY2LmpwZw==.jpg"
+        },
         {
           "id": "https://cointelegraph.jp/news/bitcoin-holders-shift-from-panic-to-cash-buffer-discipline-as-volatility-deepens",
           "author": "Cointelegraph  Biraajmaan Tamuly",
@@ -1782,51 +2142,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU0OWYtYjdjZC03ZDFlLThjZjctYjE4Y2QzYTA4Zjdj.jpg"
-        },
-        {
-          "id": "https://cointelegraph.jp/news/what-happens-to-bitcoin-if-oil-price-hits-180-per-barrel",
-          "author": "Cointelegraph  Yashu Gola",
-          "description": "ビットコイン（BTC）は、2月28日の米国とイスラエルによるイラン攻撃以降、米国株や金を上回るパフォーマンスを示しており、今年最大級の地政学ショックの中でも強さを維持している。",
-          "link": "https://cointelegraph.jp/news/what-happens-to-bitcoin-if-oil-price-hits-180-per-barrel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-03-20T17:35:52.000Z",
-          "wordCount": 266,
-          "title": "原油高がビットコインの重荷に　180ドルシナリオで下落圧力も",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmMxYWQtMzFiMi03MDdlLTkyZDgtNWI2M2ExNmYxNzc3LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmMxYWQtMzFiMi03MDdlLTkyZDgtNWI2M2ExNmYxNzc3LmpwZw==.jpg"
-        },
-        {
-          "id": "https://cointelegraph.jp/news/dormant-bitcoin-wallet-wakes-up-after-13-years",
-          "author": "Cointelegraph  Christina Comben",
-          "description": "13年7カ月にわたり休眠していたビットコイン（BTC）の大口ウォレットが再び動き出し、現在約1億4700万ドル相当の資産の一部が移動された。",
-          "link": "https://cointelegraph.jp/news/dormant-bitcoin-wallet-wakes-up-after-13-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-03-20T15:17:18.000Z",
-          "wordCount": 233,
-          "title": "13年放置のビットコインウォレットが再始動　1億4700万ドル規模のBTCを保有",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDBiNDktZTMwMi03NDFhLTkwMDMtNDcwZDYwNDBkNTY5LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDBiNDktZTMwMi03NDFhLTkwMDMtNDcwZDYwNDBkNTY5LmpwZw==.jpg"
-        },
-        {
-          "id": "https://cointelegraph.jp/news/bitcoin-rsi-eyes-2022-repeat-analysis-time-to-pay-attention",
-          "author": "Cointelegraph  William Suberg",
-          "description": "ビットコイン（BTC）は、重要な先行指標が高値切り上げを示唆する中で、長期的な底打ちの可能性を示している。",
-          "link": "https://cointelegraph.jp/news/bitcoin-rsi-eyes-2022-repeat-analysis-time-to-pay-attention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-03-20T15:01:09.000Z",
-          "wordCount": 253,
-          "title": "ビットコイン底打ち接近か　RSIの強気シグナルに注目集まる",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA3NjctYzI1Ni03NjZmLTk2NzgtNmY3ZDljNzI2MDg2.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA3NjctYzI1Ni03NjZmLTk2NzgtNmY3ZDljNzI2MDg2.jpg"
         }
       ]
     },
@@ -1835,6 +2150,201 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=157349",
+          "author": "Crypto Times 編集部",
+          "description": "ソラナ（Solana）は決済大手のStripeおよびL1ブロックチェーンのTempoが展開する「マシン・ペイメント・プロトコル（MPP：Machine Payments Protocol）」へのサポートを正式に発表しまし […]\n投稿 ソラナ、Stripe等が手掛けるAI決済規格をサポート は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-supports-ai-payment-standards-developed-by-solana/",
+          "publishedOn": "2026-03-25T06:54:27.000Z",
+          "wordCount": 646,
+          "title": "ソラナ、Stripe等が手掛けるAI決済規格をサポート",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2685313951.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=157338",
+          "author": "Crypto Times 編集部",
+          "description": "オンチェーンデータ分析プラットフォームのCryptoQuantは、AIモデルと外部ツールを連携させるためのオープン標準「Model Context Protocol（MCP）」に対応したサーバーを公開しました。 これによ […]\n投稿 CryptoQuantがMCPサーバー公開、Claude等で対話型のオンチェーン分析が可能に は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-cryptoquant-launches-mcp-server/",
+          "publishedOn": "2026-03-25T06:47:14.000Z",
+          "wordCount": 673,
+          "title": "CryptoQuantがMCPサーバー公開、Claude等で対話型のオンチェーン分析が可能に",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2644522907.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=157197",
+          "author": "Crypto Times 編集部",
+          "description": "オーストラリアの大手年金基金「Hostplus（ホストプラス）」が加入者向けに仮想通貨の投資オプションを提供することを検討していることがBloomebergの報道により明らかになりました。 管理資産残高1,050億ドル（ […]\n投稿 豪16兆円年金基金、ビットコイン等の仮想通貨投資の提供を検討 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-australias-16-trillion-yen-pension-fund-is-considering-offering-investments-in-cryptocurrencies-such-as-bitcoin/",
+          "publishedOn": "2026-03-25T06:25:45.000Z",
+          "wordCount": 593,
+          "title": "豪16兆円年金基金、ビットコイン等の仮想通貨投資の提供を検討",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2336140751.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=157331",
+          "author": "Crypto Times 編集部",
+          "description": "米予測市場大手のKalshi（カルシ）は、金融テクノロジー大手のFISと提携し、機関投資家の予測市場への参入を支援する新インフラ「FIS CD Prediction Clearing」を立ち上げることを発表しました。この […]\n投稿 予測市場KalshiがFISと提携、機関投資家向け清算基盤を構築 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-prediction-market-kalshi-partners-with-fis/",
+          "publishedOn": "2026-03-25T06:21:00.000Z",
+          "wordCount": 600,
+          "title": "予測市場KalshiがFISと提携、機関投資家向け清算基盤を構築",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2755899949-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=157201",
+          "author": "Crypto Times 編集部",
+          "description": "予測市場の覇権をめぐって激しいシェア争いを繰り広げるKalshi（カルシ）とPolymarket（ポリマーケット）。その両社のCEOがライバルという垣根を越えて共通のベンチャーキャピタル（VC）へ初期出資を行っていたこと […]\n投稿 予測市場特化のVCが設立、Kalshi元社員らが3500万ドル出資 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-venture-capital-firm-specializing-in-prediction-markets-established/",
+          "publishedOn": "2026-03-25T06:16:37.000Z",
+          "wordCount": 599,
+          "title": "予測市場特化のVCが設立、Kalshi元社員らが3500万ドル出資",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2415404095-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=157320",
+          "author": "Crypto Times 編集部",
+          "description": "世界最大手暗号資産取引所バイナンス（Binance）の先物取引部門である「Binance Futures」は、2026年3月26日より、米国の主要ハイテク企業の株式を対象とした「USDⓈ-M Equity Perpetu […]\n投稿 大手仮想通貨取引所バイナンスでMETA、NVDA、GOOGLの株式先物が上場 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-meta-nvda-and-googl-stock-futures-listed-on-binance/",
+          "publishedOn": "2026-03-25T06:05:19.000Z",
+          "wordCount": 600,
+          "title": "大手仮想通貨取引所バイナンスでMETA、NVDA、GOOGLの株式先物が上場",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2451016511.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=157333",
+          "author": "Crypto Times 編集部",
+          "description": "2026年3月25日の暗号資産市場では、地政学リスクの高まりと機関投資家の戦略的転換が鮮明になっています。Glassnodeの報告によると、今年2月以降、BTCから96億ドル、ETHから32億ドルの資金が流出する一方、ス […]\n投稿 ビットコイン流出96億ドルも機関投資家は強気｜AIエージェント台頭の流れも は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-despite-9-billion-bitcoin-outflow-institutional-investors-remain-bullish/",
+          "publishedOn": "2026-03-25T06:01:46.000Z",
+          "wordCount": 597,
+          "title": "ビットコイン流出96億ドルも機関投資家は強気｜AIエージェント台頭の流れも",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2681921175.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=157334",
+          "author": "Crypto Times 編集部",
+          "description": "分散型デリバティブ取引所（DEX）のHyperliquidにおいて、金（GOLD）の先物取引を行っていた特定のトレーダーが多額の損失を抱えてポジションをクローズしたことが明らかになりました。オンチェーン分析アカウントのL […]\n投稿 金ショートの投資家が6900万円損失、分散型取引所Hyperliquidで は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-investor-loses-69-million-yen-on-gold-short-position-on-decentralized-exchange-hyperliquid/",
+          "publishedOn": "2026-03-25T05:52:02.000Z",
+          "wordCount": 624,
+          "title": "金ショートの投資家が6900万円損失、分散型取引所Hyperliquidで",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2721099177.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=157332",
+          "author": "Crypto Times 編集部",
+          "description": "分散型デリバティブ取引所（DEX）のHyperliquidにおいて、ある大口トレーダーがビットコイン（BTC）と原油先物で巨額のレバレッジポジションを構築したものの、多額の損失を抱えていることが明らかになりました。オンチ […]\n投稿 大口トレーダー、原油とビットコインポジションで大規模損失 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-major-trader-suffers-massive-losses-on-crude-oil-and-bitcoin-positions/",
+          "publishedOn": "2026-03-25T05:34:29.000Z",
+          "wordCount": 635,
+          "title": "大口トレーダー、原油とビットコインポジションで大規模損失",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2753097773.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=157328",
+          "author": "Crypto Times 編集部",
+          "description": "世界最大の資産運用会社ブラックロック（BlackRock）のラリー・フィンク最高経営責任者（CEO）は、2026年度の株主向け書簡の中で、同社の暗号資産（仮想通貨）ビジネスが今後5年以内に年間約5億ドルの収益を創出すると […]\n投稿 ブラックロック、5年以内に仮想通貨収益5億ドルへ｜CEOが強気予測 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-blackrock-aims-for-500-million-in-cryptocurrency-revenue-within-five-years/",
+          "publishedOn": "2026-03-25T05:19:01.000Z",
+          "wordCount": 600,
+          "title": "ブラックロック、5年以内に仮想通貨収益5億ドルへ｜CEOが強気予測",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2668308751.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=157323",
+          "author": "Crypto Times 編集部",
+          "description": "米国のステーブルコイン発行大手サークル（Circle Internet Group, Inc.）の株式（CRCL）が急落しています。市場データによるとCRCLの価格は一時98.31ドルまで下落し、前日比で約20%の大幅な […]\n投稿 米サークル社株が20%急落、ステーブルコイン利回り規制案の影響か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-shares-of-circle-plunge-20/",
+          "publishedOn": "2026-03-25T05:13:34.000Z",
+          "wordCount": 596,
+          "title": "米サークル社株が20%急落、ステーブルコイン利回り規制案の影響か",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2573539655.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=157313",
+          "author": "Crypto Times 編集部",
+          "description": "分散型デリバティブ取引所Hyperliquid（ハイパーリキッド）の創設者であるジェフ・ヤン氏は、ポッドキャスト番組「When Shift Happens」に出演し、同プラットフォームが実施したエアドロップの価値が100 […]\n投稿 Hyperliquid創設者、1.6兆円規模のエアドロに言及「初期ユーザーが所有者に」 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-hyperliquid-airdrop/",
+          "publishedOn": "2026-03-25T05:09:56.000Z",
+          "wordCount": 594,
+          "title": "Hyperliquid創設者、1.6兆円規模のエアドロに言及「初期ユーザーが所有者に」",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2700287047.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=157306",
+          "author": "Crypto Times 編集部",
+          "description": "3月25日、トランプ米大統領がイランの発電所・エネルギーインフラへの攻撃を5日間延期すると表明したことを受け、中東紛争の外交的解決への期待が急速に広がりました。原油先物は発言を受けて急落した後、やや値を戻す展開となってい […]\n投稿 【今日のマクロ経済まとめ】米イラン外交進展期待で原油続落・アジア株全面高、ホルムズ海峡再開の行方に注目 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-news-todays-macroeconomic-summary-march-25th/",
+          "publishedOn": "2026-03-25T04:47:35.000Z",
+          "wordCount": 610,
+          "title": "【今日のマクロ経済まとめ】米イラン外交進展期待で原油続落・アジア株全面高、ホルムズ海峡再開の行方に注目",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2417829699.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=157304",
           "author": "Crypto Times 編集部",

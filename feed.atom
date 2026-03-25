@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-25T20:34:29.590Z</updated>
+    <updated>2026-03-25T21:34:57.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[英国、暗号資産による政治献金を一時禁止]]></title>
+        <id>https://www.nadanews.com/?p=342353</id>
+        <link href="https://www.nadanews.com/342353/"/>
+        <updated>2026-03-25T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[英国政府は、暗号資産（仮想通貨）による政治献金を一時的に禁止する方針を打ち出した。キア・スターマー首相は、この措置について「民主主義を守るための決定」と位置付け ...
+英国、暗号資産による政治献金を一時禁止 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブータン政府、60億円相当BTCを移動　保有量ピーク比65%減]]></title>
         <id>https://coinpost.jp/?p=696787</id>
@@ -2575,50 +2586,6 @@ Strategy、ビットコイン下落でも四半期ベースで過去2番目の�
 Clarity法案、ステーブルコイン利回りで妥協案──上院審議前進 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>NADA NEWS編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン（BTC）、7.1万ドルの抵抗帯で攻防【仮想通貨チャート分析】]]></title>
-        <id>https://crypto-times.jp/?p=156970</id>
-        <link href="https://crypto-times.jp/news-bitcoin-btc-battles-at-the-71000-resistance-level/"/>
-        <updated>2026-03-21T09:28:50.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は約70,712ドル付近で取引されており、重要なテクニカルポイントでの攻防が続いています。4時間足チャートでは価格が主要な移動平均線の下側に位置しており、短期的な上値の重さが意識される展開となってい […]
-投稿 ビットコイン（BTC）、7.1万ドルの抵抗帯で攻防【仮想通貨チャート分析】 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップル（XRP）、デッドクロス形成ー1.30ドル台への続落に警戒【仮想通貨チャート分析】]]></title>
-        <id>https://crypto-times.jp/?p=156835</id>
-        <link href="https://crypto-times.jp/news-ripple-xrp-forms-a-dead-cross/"/>
-        <updated>2026-03-21T09:18:25.000Z</updated>
-        <summary type="html"><![CDATA[リップル（XRP）は約1.44ドル付近で取引されており、短期的な弱気シグナルが点灯しています。4時間足チャートにおいて移動平均線のデッドクロスが確認され、さらなる下値模索の可能性が浮上しています。 現在、価格は両EMAの […]
-投稿 リップル（XRP）、デッドクロス形成ー1.30ドル台への続落に警戒【仮想通貨チャート分析】 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPYC、全銀システム刷新を歓迎｜次世代決済の融合へ]]></title>
-        <id>https://crypto-times.jp/?p=156971</id>
-        <link href="https://crypto-times.jp/news-jpyc-welcomes-the-renewal-of-the-nationwide-banking-system/"/>
-        <updated>2026-03-21T09:06:44.000Z</updated>
-        <summary type="html"><![CDATA[JPYC株式会社は全国銀行データ通信システム（全銀システム）の刷新が決定されたことに対し、歓迎する見解を発表しました。 JPYCはブロックチェーン技術を活用して日本円の価値と連動する日本円ステーブルコイン「JPYC」を発 […]
-投稿 JPYC、全銀システム刷新を歓迎｜次世代決済の融合へ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネット、横浜のBTCフォーラムを無料開催へ｜3月25日開催]]></title>
-        <id>https://crypto-times.jp/?p=156967</id>
-        <link href="https://crypto-times.jp/news-metaplanet-to-host-free-btc-forum-in-yokohama/"/>
-        <updated>2026-03-21T08:51:57.000Z</updated>
-        <summary type="html"><![CDATA[株式会社メタプラネットおよびBitcoin Japan™は、2026年3月25日に横浜のぴあアリーナMMで開催するカンファレンス「JAPAN BITCOIN FUTURE FORUM」の参加費を無料に変更す […]
-投稿 メタプラネット、横浜のBTCフォーラムを無料開催へ｜3月25日開催 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
         </author>
     </entry>
 </feed>

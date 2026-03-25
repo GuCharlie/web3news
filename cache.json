@@ -610,36 +610,6 @@
           "wordCount": 1520,
           "title": "Clarity法案、ステーブルコイン利回りで妥協案──上院審議前進",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-57-2.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=341721",
-          "author": "NADA NEWS編集部",
-          "description": "【CoinDesk Summary】 ● イラン情勢を背景とした原油価格のボラティリティ上昇を受け、CME市場が閉じている時間帯に、トレーダーがHyperliq ...\nイラン情勢で原油ボラティリティ拡大、Hyperliquidに取引流入：JPMorgan first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/341721/",
-          "publishedOn": "2026-03-21T01:00:00.000Z",
-          "wordCount": 1513,
-          "title": "イラン情勢で原油ボラティリティ拡大、Hyperliquidに取引流入：JPMorgan",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-52-2.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=341711",
-          "author": "NADA NEWS編集部",
-          "description": "【CoinDesk Summary】 ● 予測市場のKalshi（カルシ）は、Coatue Management主導の資金調達ラウンドで10億ドル（約1550億 ...\n予測市場のKalshi、評価額220億ドルに倍増──急成長も規制圧力強まる first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/341711/",
-          "publishedOn": "2026-03-21T00:00:00.000Z",
-          "wordCount": 1512,
-          "title": "予測市場のKalshi、評価額220億ドルに倍増──急成長も規制圧力強まる",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-51-2.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=341744",
-          "author": "栃山 直樹",
-          "description": "● ソラナの市場シェアは2.1％を超え、5カ月続いた低下に終止符を打った。● ソラナ上のRWA時価総額は、地政学的要因によるトークン化コモディティ需要を背景に、 ...\nソラナ、6周年の週に市場シェア2％超え──戦時下の金・原油熱狂、BlackRockのETHステーキング商品投入でもETFに3200万ドル流入【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/341744/",
-          "publishedOn": "2026-03-20T23:50:00.000Z",
-          "wordCount": 1694,
-          "title": "ソラナ、6周年の週に市場シェア2％超え──戦時下の金・原油熱狂、BlackRockのETHステーキング商品投入でもETFに3200万ドル流入【価格分析】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-55-2.jpg"
         }
       ]
     },
@@ -1843,6 +1813,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/bitcoin-retakes-71k-us-sends-iran-15-point-ceasefire-plan",
+          "author": "Cointelegraph  Nancy Lubale",
+          "description": "ビットコイン（BTC）は7万1000ドル台を回復した。トランプ政権がイランに対し戦争終結に向けた15項目の提案を提示したことで、リスク資産に短期的な楽観が広がった。",
+          "link": "https://cointelegraph.jp/news/bitcoin-retakes-71k-us-sends-iran-15-point-ceasefire-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-25T11:24:39.000Z",
+          "wordCount": 290,
+          "title": "【BTC価格】ビットコイン 7万1000ドル回復　停戦期待で急反発も7万2000ドルが壁か",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUxZTAtZjEyMy03ZTc1LTljNzAtOThjY2E1NGZmNGI0.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUxZTAtZjEyMy03ZTc1LTljNzAtOThjY2E1NGZmNGI0.jpg"
+        },
         {
           "id": "https://cointelegraph.jp/news/bhutan-moves-519-bitcoin-sovereign-wallet-drawdown-march",
           "author": "Cointelegraph  Zoltan Vardai",

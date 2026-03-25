@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=342334",
+          "author": "井上 俊彦",
+          "description": "Cathie Wood（キャシー・ウッド）氏率いる米Ark Invest（アーク・インベスト）が、ステーブルコイン「USDコイン（USDC）」の発行元であるサー ...\nArk Invest、20％下落したCircle株を押し目買い first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/342334/",
+          "publishedOn": "2026-03-25T11:20:00.000Z",
+          "wordCount": 1589,
+          "title": "Ark Invest、20％下落したCircle株を押し目買い",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/07/shutterstock_2578419475.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=342298",
           "author": "橋本 祐樹",
           "description": "企業によるビットコイン（BTC）保有を推進するメタプラネットと、同社の戦略的子会社Bitcoin Japanは25日、企業財務におけるBTC活用の可能性などをテ ...\n法定通貨は「不安定な実験」──メタプラネットCEO、ビットコイン戦略の必然性を強調 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -630,16 +640,6 @@
           "wordCount": 1694,
           "title": "ソラナ、6周年の週に市場シェア2％超え──戦時下の金・原油熱狂、BlackRockのETHステーキング商品投入でもETFに3200万ドル流入【価格分析】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-55-2.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=341731",
-          "author": "荒澤 文寛（あらさわ ふみひろ） ビットトレード リサーチアナリスト",
-          "description": "今週の市場は、戻りの勢いが強まりながらも、その持続性がすぐに試される1週間でした。 週前半のビットコインは、米ドル建てで7万ドル近辺から7万6,000ドル台まで ...\n期待先行の戻りから、疑念を伴う再検証へ── ビットコイン市場に残る需給改善とマクロ不安の綱引き【BitTrade Market Weekly】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/341731/",
-          "publishedOn": "2026-03-20T23:00:00.000Z",
-          "wordCount": 1524,
-          "title": "期待先行の戻りから、疑念を伴う再検証へ── ビットコイン市場に残る需給改善とマクロ不安の綱引き【BitTrade Market Weekly】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-53-2.jpg"
         }
       ]
     },
@@ -1448,21 +1448,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/vaneck-avalanche.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/vaneck-avalanche.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=695929",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨取引所コインベースは、米国以外で株式とETFの永久先物取引サービスを開始。デリバティブ市場における地位を強化し、Everything Exchange戦略を推進していく。",
-          "link": "https://coinpost.jp/?p=695929",
-          "publishedOn": "2026-03-20T23:30:37.000Z",
-          "wordCount": 3982,
-          "title": "コインベース、米国外で株式の無期限先物を開始　高まるヘッジ需要に対応",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/Coinbase-Stock-Perpetual-Futures.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/Coinbase-Stock-Perpetual-Futures.jpeg"
         }
       ]
     },
@@ -1471,6 +1456,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=559611",
+          "author": "NewEconomyPodcast",
+          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/559611",
+          "publishedOn": "2026-03-25T11:09:49.000Z",
+          "wordCount": 786,
+          "title": "【3/25話題】SBI VCトレードにCCとBERAが国内初上場、USDT初のフル監査でBig4と契約、ソラナの企業オンチェーン開発基盤「SDP」など（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/25174752/7e52315a839ac2191b8df851912e2b67.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=559663",
+          "author": "OtsugaShinya",
+          "description": "NYSEとセキュリタイズがトークン化証券の取引基盤整備で協業 インターコンチネンタル取引所（Intercontinental Exchange：ICE）傘下のニューヨーク証券取引所（NYSE）が、デジタル資産企業セキュリ […]",
+          "link": "https://www.neweconomy.jp/posts/559663",
+          "publishedOn": "2026-03-25T10:46:21.000Z",
+          "wordCount": 764,
+          "title": "NYSEとセキュリタイズ、トークン化証券の取引基盤整備で協業",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/25194614/6abb086db4f8882e789ce530b26a720a.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=559652",
           "author": "TamuraSeiji",
@@ -1838,6 +1843,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/bhutan-moves-519-bitcoin-sovereign-wallet-drawdown-march",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "ブータンは水曜日、政府関連ウォレットからビットコイン（BTC）を移動させ、3月に入ってから続く保有資産の取り崩しをさらに進めた。",
+          "link": "https://cointelegraph.jp/news/bhutan-moves-519-bitcoin-sovereign-wallet-drawdown-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-25T11:05:40.000Z",
+          "wordCount": 240,
+          "title": "ブータン政府がビットコインを売却か　国家保有BTCに再び動き",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDI0NWMtOWYwMi03OTkyLWI4YjQtNzQ5OWEzNGE2OGU0LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDI0NWMtOWYwMi03OTkyLWI4YjQtNzQ5OWEzNGE2OGU0LmpwZw==.jpg"
+        },
         {
           "id": "https://cointelegraph.jp/news/ripple-singapore-sandbox-rlusd-trade-finance",
           "author": "Cointelegraph  Zoltan Vardai",
@@ -2287,21 +2307,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzFjOWEtZDg0NC03ZDdlLWE5NGMtYzU5MTRiMDdkZDQxLmpwZw==.jpg"
-        },
-        {
-          "id": "https://cointelegraph.jp/news/ledger-hires-ex-circle-executive-opens-nyc-office",
-          "author": "Cointelegraph  Nate Kostar",
-          "description": "仮想通貨ハードウェア企業レジャーは、元サークル幹部のジョン・アンドリュース氏を最高財務責任者（CFO）に任命し、米国展開の一環としてニューヨークに新オフィスを開設した。アンドリュース氏はこれまでサークルで資本市場および投資家対応（IR）を統括していた。",
-          "link": "https://cointelegraph.jp/news/ledger-hires-ex-circle-executive-opens-nyc-office?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-03-20T23:00:00.000Z",
-          "wordCount": 259,
-          "title": "仮想通貨ハードウェア企業レジャーが米国展開を加速　CFOに元サークル幹部を起用、NY拠点開設も",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzQ4ZjAtMzI0OC03ZWQ5LTg0N2YtM2JkNDdjNGIyNjQxLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzQ4ZjAtMzI0OC03ZWQ5LTg0N2YtM2JkNDdjNGIyNjQxLmpwZw==.jpg"
         }
       ]
     },
@@ -2310,6 +2315,21 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=157425",
+          "author": "Crypto Times 編集部",
+          "description": "メタプラネット社は3月25日、株主限定の新たな還元サービス「メタプラネットカード」を今年の夏に提供開始することを発表しました。「毎日の決済をビットコインと日本の未来へ」というコンセプトに基づき、日常のクレジットカード利用 […]\n投稿 「メタプラネットカード」が今夏開始｜1.6%のBTC還元へ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-new-meta-planet-cards-launching-this-summer/",
+          "publishedOn": "2026-03-25T11:03:07.000Z",
+          "wordCount": 600,
+          "title": "「メタプラネットカード」が今夏開始｜1.6%のBTC還元へ",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_1889347375.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=157349",
           "author": "Crypto Times 編集部",

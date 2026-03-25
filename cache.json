@@ -640,16 +640,6 @@
           "wordCount": 1524,
           "title": "期待先行の戻りから、疑念を伴う再検証へ── ビットコイン市場に残る需給改善とマクロ不安の綱引き【BitTrade Market Weekly】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-53-2.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=341736",
-          "author": "XWIN Research",
-          "description": "● 例年、中間選挙に近づくにつれてBTCは下落しやすい● 背景は流動性低下と政治的不確実性の上昇● 2026年も「選挙前弱気・選挙後回復」が基本シナリオ 過去の ...\nアメリカ中間選挙年に揺れるビットコイン──下落の構造と2026年シナリオ分析【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/341736/",
-          "publishedOn": "2026-03-20T21:59:03.000Z",
-          "wordCount": 1551,
-          "title": "アメリカ中間選挙年に揺れるビットコイン──下落の構造と2026年シナリオ分析【エックスウィンリサーチ】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-54-2.jpg"
         }
       ]
     },
@@ -1482,6 +1472,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=559652",
+          "author": "TamuraSeiji",
+          "description": "iOSの脆弱性を悪用した攻撃チェーン「DarkSword」が発見される グーグル脅威インテリジェンスグループ（Google Threat Intelligence Group：GTIG）が、iOS向けの攻撃チェーン「ダー […]",
+          "link": "https://www.neweconomy.jp/posts/559652",
+          "publishedOn": "2026-03-25T09:54:41.000Z",
+          "wordCount": 665,
+          "title": "iOS攻撃チェーン「DarkSword」、暗号資産ウォレット情報も標的にした閲覧起点の攻撃が判明",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/25185431/b8d3487b10232cbbd80952d23f1d335f.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=559646",
           "author": "TamuraSeiji",
           "description": "次世代コンセンサスプロトコルの「動的可用性」の必要性提言 イーサリアム（Ethereum）の研究者ルカ・ザノリーニ（Luca Zanolini）氏が、イーサリアムの次世代コンセンサスプロトコルには「動的可用性（Dynam […]",
@@ -1838,6 +1838,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/ripple-singapore-sandbox-rlusd-trade-finance",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "フィンテック企業リップルは水曜日、シンガポール金融管理局（MAS）のBLOOMイニシアチブに、サプライチェーン金融企業Unloqとともに参加したと発表した。XRPレジャーおよびリップルUSDを用いたプログラマブルなクロスボーダー貿易決済の実証を行う。",
+          "link": "https://cointelegraph.jp/news/ripple-singapore-sandbox-rlusd-trade-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-25T10:10:50.000Z",
+          "wordCount": 216,
+          "title": "リップル：シンガポールでサンドボックに参加　XRPLとステーブルコインで貿易決済の実証実験へ",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlYTMtZmRjYy03NmY5LTg0OTgtMDU0NTM3NDc2M2Fh.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlYTMtZmRjYy03NmY5LTg0OTgtMDU0NTM3NDc2M2Fh.jpg"
+        },
         {
           "id": "https://cointelegraph.jp/news/rising-us-treasury-yields-war-in-iran-rising-inflation-risk-pressure-bitcoin-price",
           "author": "Cointelegraph  Marcel Pechman",
@@ -2287,21 +2302,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzQ4ZjAtMzI0OC03ZWQ5LTg0N2YtM2JkNDdjNGIyNjQxLmpwZw==.jpg"
-        },
-        {
-          "id": "https://cointelegraph.jp/news/clarity-act-deal-white-house-lawmakers",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "米ホワイトハウスと議会がステーブルコインの利回りを巡る暫定合意に達したとの報道が浮上しており、仮想通貨市場構造法案（CLARITY法案）の前進につながる可能性がある。",
-          "link": "https://cointelegraph.jp/news/clarity-act-deal-white-house-lawmakers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-03-20T21:59:50.000Z",
-          "wordCount": 221,
-          "title": "米CLARITY法案が前進か　ステーブルコインの利回り制限で与野党が原則合意＝報道",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDBkMjctYmIzNC03NTMyLTg3YWItNmVmNGY4OTQ0NGMwLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDBkMjctYmIzNC03NTMyLTg3YWItNmVmNGY4OTQ0NGMwLmpwZw==.jpg"
         }
       ]
     },

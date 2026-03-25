@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=342262",
+          "author": "大谷 惇途",
+          "description": "ビットトレード株式会社は暗号資産取引所のBitTradeで、ヘデラ（HBAR）の出金および販売所での取り扱いを3月25日から開始したことを発表した。 ヘデラは、 ...\nビットトレード、ヘデラ（HBAR）の取り扱いを開始 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/342262/",
+          "publishedOn": "2026-03-25T08:31:27.000Z",
+          "wordCount": 1595,
+          "title": "ビットトレード、ヘデラ（HBAR）の取り扱いを開始",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/37450-378-eaf28c787589bb7d85b56be09c814681-2400x1256-1.webp"
+        },
+        {
           "id": "https://www.nadanews.com/?p=342242",
           "author": "廣瀬 優香",
           "description": "ステーブルコインUSDTを発行するTether（テザー）は3月24日、BIG4と呼ばれる大手監査法人の1つと正式な契約を締結し、同社初の完全な独立財務諸表監査を ...\nTether、BIG4監査法人の1社と契約──USDTの完全監査へ first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -1729,6 +1739,21 @@
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
         {
+          "id": "https://cointelegraph.jp/news/rising-us-treasury-yields-war-in-iran-rising-inflation-risk-pressure-bitcoin-price",
+          "author": "Cointelegraph  Marcel Pechman",
+          "description": "ビットコイン（BTC）は月曜日、6万7500ドルのサポート水準を再テストした。この動きは、金価格が50年以上で最大の調整に見舞われた局面と重なった。",
+          "link": "https://cointelegraph.jp/news/rising-us-treasury-yields-war-in-iran-rising-inflation-risk-pressure-bitcoin-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-25T07:09:14.000Z",
+          "wordCount": 258,
+          "title": "【BTC価格】原油高と戦争懸念で現金志向強まる　ビットコインに逆風となるか？",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDIxYmItY2Y3OC03MDNkLWIyNmEtYWMzMGVkYTkxMzFmLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDIxYmItY2Y3OC03MDNkLWIyNmEtYWMzMGVkYTkxMzFmLmpwZw==.jpg"
+        },
+        {
           "id": "https://cointelegraph.jp/news/persistent-btc-exchange-outflow-suggests-genuine-accumulation-by-investors-analyst",
           "author": "Cointelegraph  Martin Young",
           "description": "過去1カ月における取引所からのビットコイン（BTC）の純流出は、投資家による蓄積が進んでいることを示唆していると、クリプトクオントのアナリストが指摘した。",
@@ -2192,21 +2217,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDBhOGItMDg0Mi03NzdlLWIzZTEtMTg2NTBkOGFlZTE5LmpwZw==.jpg"
-        },
-        {
-          "id": "https://cointelegraph.jp/news/ether-taker-volume-hits-3-year-high-will-eth-avoid-a-19percent-price-decline",
-          "author": "Cointelegraph  Biraajmaan Tamuly",
-          "description": "イーサリアム（ETH）の主要なオンチェーン指標が、2022年の弱気市場で底打ちした局面以来となる3年以上ぶりの高水準に達した。",
-          "link": "https://cointelegraph.jp/news/ether-taker-volume-hits-3-year-high-will-eth-avoid-a-19percent-price-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-03-20T20:19:37.000Z",
-          "wordCount": 362,
-          "title": "イーサリアムに底打ちシグナル点灯　オンチェーン指標が3年ぶり高水準",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU0OWYtYjdjZC03ZDFlLThjZjctYjE4Y2QzYTA4Zjdj.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU0OWYtYjdjZC03ZDFlLThjZjctYjE4Y2QzYTA4Zjdj.jpg"
         }
       ]
     },

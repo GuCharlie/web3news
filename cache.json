@@ -745,6 +745,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=697104",
+          "author": "K.Kobayashi",
+          "description": "コインベースは、仮想通貨を担保にした住宅ローンの提供に向けてベターと協業していることを発表。ビットコインかUSDCを頭金に使うことができるようになると説明している。",
+          "link": "https://coinpost.jp/?p=697104",
+          "publishedOn": "2026-03-26T22:40:05.000Z",
+          "wordCount": 3475,
+          "title": "コインベース、仮想通貨担保の住宅ローンを発表　米ファニーメイの裏付けで信頼性向上",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/Better-Coinbase-mortgage.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/Better-Coinbase-mortgage.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=697094",
           "author": "菊谷ルイス",
           "description": "ブラジルのルラ大統領が3月24日、組織犯罪対策の新法を署名。押収した仮想通貨ビットコインなどのデジタル資産を公共安全基金に充当できる枠組みが整備され、犯罪組織の財務基盤への打撃が本格化。",
@@ -2433,6 +2448,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/bitcoin-floor-near-dollar70k-as-tradfi-returns-will-war-inflation-break-their-belief",
+          "author": "Cointelegraph  Antonio Oliveira",
+          "description": "機関投資家によるビットコインのマスアダプション（大規模な普及）が再開されたが、世界情勢の不安定化と米国のインフレ上昇リスクが、7万ドルを超えるBTCのブレイクアウトを抑え込んでいる。",
+          "link": "https://cointelegraph.jp/news/bitcoin-floor-near-dollar70k-as-tradfi-returns-will-war-inflation-break-their-belief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-26T22:35:35.000Z",
+          "wordCount": 246,
+          "title": "TradFiの回帰でビットコインの底値は「7万ドル付近」に：戦争とインフレは彼らの信念を砕くか？",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2FmNjctOWFiYy03NDY1LWE3ODQtMDgwY2Q0Njg2ZWY0LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2FmNjctOWFiYy03NDY1LWE3ODQtMDgwY2Q0Njg2ZWY0LmpwZw==.jpg"
+        },
+        {
+          "id": "https://cointelegraph.jp/news/sec-beat-cop-crypto-stephen-lynch",
+          "author": "Cointelegraph  Turner Wright",
+          "description": "スティーブン・リンチ下院議員は、ドナルド・トランプ政権下でのSECの方向性に懸念を表明し、仮想通貨企業に対する調査や執行措置の中止を挙げた。",
+          "link": "https://cointelegraph.jp/news/sec-beat-cop-crypto-stephen-lynch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-26T22:08:43.000Z",
+          "wordCount": 235,
+          "title": "SECはもはや仮想通貨の「街の警官」ではない、と米議員が発言",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyYzctYjlmNy03NzE2LThjNzEtNDA0NmEyODFmZWY4LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyYzctYjlmNy03NzE2LThjNzEtNDA0NmEyODFmZWY4LmpwZw==.jpg"
+        },
         {
           "id": "https://cointelegraph.jp/news/bitcoin-in-later-stages-of-bear-market-watch-these-btc-price-levels",
           "author": "Cointelegraph  Nancy Lubale",

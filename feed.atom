@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-27T14:45:32.081Z</updated>
+    <updated>2026-03-27T15:49:34.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、ホルムズ海峡閉鎖報道で3週間ぶり安値圏　4万1000ドル視野の弱気シナリオも]]></title>
+        <id>https://cointelegraph.jp/news/bitcoin-nears-lowest-in-three-weeks-btc-price-targets-drop-41k</id>
+        <link href="https://cointelegraph.jp/news/bitcoin-nears-lowest-in-three-weeks-btc-price-targets-drop-41k?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-03-27T15:09:19.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は金曜日、イランによるホルムズ海峡の石油輸送ルート閉鎖報道を受け、約3週間ぶりの安値圏に接近した。]]></summary>
+        <author>
+            <name>Cointelegraph  William Suberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインETFから1億7100万ドル流出　地政学リスクで投資家が警戒感強める]]></title>
+        <id>https://cointelegraph.jp/news/bitcoin-etfs-sell-off-investors-fear-weekend-escalation</id>
+        <link href="https://cointelegraph.jp/news/bitcoin-etfs-sell-off-investors-fear-weekend-escalation?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-03-27T14:38:36.000Z</updated>
+        <summary type="html"><![CDATA[米国上場の現物ビットコインETFは木曜日、1億7100万ドルの資金流出を記録した。3月3日の3億4800万ドル以来、最大の流出規模となった。]]></summary>
+        <author>
+            <name>Cointelegraph  Zoltan Vardai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メタプラネット株304円、総会後も下落止まらず]]></title>
         <id>https://crypto-times.jp/?p=157827</id>
@@ -15,6 +35,16 @@
 投稿 メタプラネット株304円、総会後も下落止まらず は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ステーブルコイン発行企業テザー、KPMGが全面監査へ　PwCも内部体制整備で関与＝FT報道]]></title>
+        <id>https://cointelegraph.jp/news/tether-long-awaited-audit-finally-lands-kpmg</id>
+        <link href="https://cointelegraph.jp/news/tether-long-awaited-audit-finally-lands-kpmg?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-03-27T14:26:39.000Z</updated>
+        <summary type="html"><![CDATA[英フィナンシャル・タイムズは金曜日、テザーが財務諸表に関する初の全面監査のためKPMGを起用し、内部システム整備の支援としてPwCも招いたと報じた。]]></summary>
+        <author>
+            <name>Cointelegraph  Christina Comben</name>
         </author>
     </entry>
     <entry>
@@ -4132,61 +4162,6 @@ Morgan Stanley、ビットコインETFの修正届出書を提出 first appeared
 投稿 香港版マイクロストラテジー「Boyaa」、7000万ドルの仮想通貨購入へ｜4092BTC保有 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[偽Google Playで資産流出の恐れ、Androidマイニングマルウェアが登場]]></title>
-        <id>https://crypto-times.jp/?p=157021</id>
-        <link href="https://crypto-times.jp/news-fake-google-play-accounts-risk-of-asset-theft/"/>
-        <updated>2026-03-23T03:38:12.000Z</updated>
-        <summary type="html"><![CDATA[ブラジルを中心にGoogle Playストアを装った偽のウェブサイトを通じてAndroid端末にマルウェアを感染させるフィッシング詐欺が拡大しています。このマルウェアは端末を仮想通貨マイニングマシンに変貌させるだけでなく […]
-投稿 偽Google Playで資産流出の恐れ、Androidマイニングマルウェアが登場 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[インド最大手CoinDCX創設者を逮捕、1,212の偽サイト悪用か]]></title>
-        <id>https://crypto-times.jp/?p=157024</id>
-        <link href="https://crypto-times.jp/news-indias-largest-cryptocurrency-exchange-coindcx-founder-arrested/"/>
-        <updated>2026-03-23T03:23:59.000Z</updated>
-        <summary type="html"><![CDATA[インドの大手仮想通貨取引所CoinDCXの共同創業者スミット・グプタ氏とニーラジ・カンデルワル氏が詐欺および背任の疑いで逮捕されました。警察の発表によると、両氏はムンバイ近郊の住民から仮想通貨投資やフランチャイズ権の名目 […]
-投稿 インド最大手CoinDCX創設者を逮捕、1,212の偽サイト悪用か は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーブルコインプロトコル「Resolv」で120億円の不正発行｜価格乖離で取引停止]]></title>
-        <id>https://crypto-times.jp/?p=157026</id>
-        <link href="https://crypto-times.jp/news-resolv-fraudulently-issues-12-billion-yen/"/>
-        <updated>2026-03-23T03:16:02.000Z</updated>
-        <summary type="html"><![CDATA[ステーブルコインプロトコルのResolvにて、秘密鍵の流出を原因とする約8000万ドル（約120億円相当）のステーブルコイン「USR」が不正に発行されました。この影響でUSRは米ドルとのペグを失い、現在すべてのプロトコル […]
-投稿 ステーブルコインプロトコル「Resolv」で120億円の不正発行｜価格乖離で取引停止 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【3月30日・無料】アパレルANAPに学ぶ企業のビットコイン戦略──ウォレット贈呈の抽選特典付き、アナリストと考える企業の向き合い方]]></title>
-        <id>https://www.nadanews.com/?p=341854</id>
-        <link href="https://www.nadanews.com/341854/"/>
-        <updated>2026-03-23T03:03:42.000Z</updated>
-        <summary type="html"><![CDATA[企業の財務戦略におけるビットコイン（BTC）活用の可能性を探るオンラインセミナー「2026年、企業はビットコインとどう向き合うか」がアパレルブランド「ANAP（ ...
-【3月30日・無料】アパレルANAPに学ぶ企業のビットコイン戦略──ウォレット贈呈の抽選特典付き、アナリストと考える企業の向き合い方 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>NADA NEWS編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【賞金総額300万円】次世代Perpアグリゲーター「Miracle」が公式ローンチ記念のトレードバトルを開催！]]></title>
-        <id>https://crypto-times.jp/?p=157001</id>
-        <link href="https://crypto-times.jp/news-miracle-campaign-total-prize-money-of-3-million-yen/"/>
-        <updated>2026-03-23T02:50:17.000Z</updated>
-        <summary type="html"><![CDATA[モバイルネイティブな多機能取引プラットフォーム「Miracle（ミラクル）」は、公式ローンチ記念イベント第2弾として、賞金総額約19,600ドル（約300万円）を懸けた熱いトレードバトルの開催を発表しました。 話題のPe […]
-投稿 【賞金総額300万円】次世代Perpアグリゲーター「Miracle」が公式ローンチ記念のトレードバトルを開催！ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
         </author>
     </entry>
 </feed>

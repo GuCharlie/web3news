@@ -890,16 +890,6 @@
           "wordCount": 1721,
           "title": "ディープフェイク対策の証明アプリが最優秀賞──学生向けソラナハッカソン開催",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/RootLens-scaled.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=341854",
-          "author": "NADA NEWS編集部",
-          "description": "企業の財務戦略におけるビットコイン（BTC）活用の可能性を探るオンラインセミナー「2026年、企業はビットコインとどう向き合うか」がアパレルブランド「ANAP（ ...\n【3月30日・無料】アパレルANAPに学ぶ企業のビットコイン戦略──ウォレット贈呈の抽選特典付き、アナリストと考える企業の向き合い方 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/341854/",
-          "publishedOn": "2026-03-23T03:03:42.000Z",
-          "wordCount": 2174,
-          "title": "【3月30日・無料】アパレルANAPに学ぶ企業のビットコイン戦略──ウォレット贈呈の抽選特典付き、アナリストと考える企業の向き合い方",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/cover-j5rlW4bq5VKL9OlAwQ1iF4nlh0NYjqfz.jpg"
         }
       ]
     },
@@ -2933,6 +2923,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/bitcoin-nears-lowest-in-three-weeks-btc-price-targets-drop-41k",
+          "author": "Cointelegraph  William Suberg",
+          "description": "ビットコイン（BTC）は金曜日、イランによるホルムズ海峡の石油輸送ルート閉鎖報道を受け、約3週間ぶりの安値圏に接近した。",
+          "link": "https://cointelegraph.jp/news/bitcoin-nears-lowest-in-three-weeks-btc-price-targets-drop-41k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-27T15:09:19.000Z",
+          "wordCount": 269,
+          "title": "ビットコイン、ホルムズ海峡閉鎖報道で3週間ぶり安値圏　4万1000ドル視野の弱気シナリオも",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzJlMDUtYjcyMC03N2FlLTlmOWEtY2UxZWNjZTA1ODFkLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzJlMDUtYjcyMC03N2FlLTlmOWEtY2UxZWNjZTA1ODFkLmpwZw==.jpg"
+        },
+        {
+          "id": "https://cointelegraph.jp/news/bitcoin-etfs-sell-off-investors-fear-weekend-escalation",
+          "author": "Cointelegraph  Zoltan Vardai",
+          "description": "米国上場の現物ビットコインETFは木曜日、1億7100万ドルの資金流出を記録した。3月3日の3億4800万ドル以来、最大の流出規模となった。",
+          "link": "https://cointelegraph.jp/news/bitcoin-etfs-sell-off-investors-fear-weekend-escalation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-27T14:38:36.000Z",
+          "wordCount": 257,
+          "title": "ビットコインETFから1億7100万ドル流出　地政学リスクで投資家が警戒感強める",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjkyY2MtZDYwOS03YWY2LWIzYTgtOWIzZjg1NzM2ZWRmLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjkyY2MtZDYwOS03YWY2LWIzYTgtOWIzZjg1NzM2ZWRmLmpwZw==.jpg"
+        },
+        {
+          "id": "https://cointelegraph.jp/news/tether-long-awaited-audit-finally-lands-kpmg",
+          "author": "Cointelegraph  Christina Comben",
+          "description": "英フィナンシャル・タイムズは金曜日、テザーが財務諸表に関する初の全面監査のためKPMGを起用し、内部システム整備の支援としてPwCも招いたと報じた。",
+          "link": "https://cointelegraph.jp/news/tether-long-awaited-audit-finally-lands-kpmg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-27T14:26:39.000Z",
+          "wordCount": 226,
+          "title": "ステーブルコイン発行企業テザー、KPMGが全面監査へ　PwCも内部体制整備で関与＝FT報道",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDJlNzYtZmQ2ZS03NGMwLWJkYjYtZDkxZGI2YmRlMjM5LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDJlNzYtZmQ2ZS03NGMwLWJkYjYtZDkxZGI2YmRlMjM5LmpwZw==.jpg"
+        },
         {
           "id": "https://cointelegraph.jp/news/bitcoin-whales-buy-61k-btc-global-uncertainty",
           "author": "Cointelegraph  Stephen Katte",
@@ -5189,61 +5224,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_1928428382.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=157021",
-          "author": "Crypto Times 編集部",
-          "description": "ブラジルを中心にGoogle Playストアを装った偽のウェブサイトを通じてAndroid端末にマルウェアを感染させるフィッシング詐欺が拡大しています。このマルウェアは端末を仮想通貨マイニングマシンに変貌させるだけでなく […]\n投稿 偽Google Playで資産流出の恐れ、Androidマイニングマルウェアが登場 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-fake-google-play-accounts-risk-of-asset-theft/",
-          "publishedOn": "2026-03-23T03:38:12.000Z",
-          "wordCount": 608,
-          "title": "偽Google Playで資産流出の恐れ、Androidマイニングマルウェアが登場",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2425249751.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=157024",
-          "author": "Crypto Times 編集部",
-          "description": "インドの大手仮想通貨取引所CoinDCXの共同創業者スミット・グプタ氏とニーラジ・カンデルワル氏が詐欺および背任の疑いで逮捕されました。警察の発表によると、両氏はムンバイ近郊の住民から仮想通貨投資やフランチャイズ権の名目 […]\n投稿 インド最大手CoinDCX創設者を逮捕、1,212の偽サイト悪用か は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-indias-largest-cryptocurrency-exchange-coindcx-founder-arrested/",
-          "publishedOn": "2026-03-23T03:23:59.000Z",
-          "wordCount": 653,
-          "title": "インド最大手CoinDCX創設者を逮捕、1,212の偽サイト悪用か",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2525746729.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=157026",
-          "author": "Crypto Times 編集部",
-          "description": "ステーブルコインプロトコルのResolvにて、秘密鍵の流出を原因とする約8000万ドル（約120億円相当）のステーブルコイン「USR」が不正に発行されました。この影響でUSRは米ドルとのペグを失い、現在すべてのプロトコル […]\n投稿 ステーブルコインプロトコル「Resolv」で120億円の不正発行｜価格乖離で取引停止 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-resolv-fraudulently-issues-12-billion-yen/",
-          "publishedOn": "2026-03-23T03:16:02.000Z",
-          "wordCount": 638,
-          "title": "ステーブルコインプロトコル「Resolv」で120億円の不正発行｜価格乖離で取引停止",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/1_iMUGGlYZsaI6E09IIBOq8g.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=157001",
-          "author": "よきょい",
-          "description": "モバイルネイティブな多機能取引プラットフォーム「Miracle（ミラクル）」は、公式ローンチ記念イベント第2弾として、賞金総額約19,600ドル（約300万円）を懸けた熱いトレードバトルの開催を発表しました。 話題のPe […]\n投稿 【賞金総額300万円】次世代Perpアグリゲーター「Miracle」が公式ローンチ記念のトレードバトルを開催！ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-miracle-campaign-total-prize-money-of-3-million-yen/",
-          "publishedOn": "2026-03-23T02:50:17.000Z",
-          "wordCount": 587,
-          "title": "【賞金総額300万円】次世代Perpアグリゲーター「Miracle」が公式ローンチ記念のトレードバトルを開催！",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/HD7d7THaYAAAgq_.jpg"
         }
       ]
     }

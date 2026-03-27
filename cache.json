@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=341761",
+          "author": "橋本 祐樹",
+          "description": "金融デジタル化の未来とサイバーリスクへの対応をテーマとした「第27回日本国際金融システムフォーラム2026」が19日、都内で行われた。「Japan Fintec ...\nAIが金融の主体になる時代へ、サナエトークン騒動が示した「技術と信頼」の課題【国際金融システムフォーラム2026】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/341761/",
+          "publishedOn": "2026-03-27T07:13:30.000Z",
+          "wordCount": 1692,
+          "title": "AIが金融の主体になる時代へ、サナエトークン騒動が示した「技術と信頼」の課題【国際金融システムフォーラム2026】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/DSC_8420x-scaled.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=342775",
           "author": "井上 俊彦",
           "description": "Ripple（リップル）は3月26日、AI（人工知能）を活用してXRP Ledger（XRPL）のセキュリティを強化する方針を発表した。ネットワークの拡張とユー ...\nRipple、XRP Ledgerのセキュリティ強化にAIを活用 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -874,6 +884,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=697478",
+          "author": "Enzo",
+          "description": "オンチェーン分析のSantimentが、ビットコインが6万8,000ドル台に下落する中、大口投資家が1カ月で約6万1,500BTC以上を蓄積したと報告。一方、小口の蓄積も継続しており、強気転換のシグナルにはまだ至っていない。",
+          "link": "https://coinpost.jp/?p=697478",
+          "publishedOn": "2026-03-27T07:47:33.000Z",
+          "wordCount": 4088,
+          "title": "ビットコイン、クジラが大規模蓄積　1カ月で6万超を取得＝Santiment",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/bitcoin-whale2_0517.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/bitcoin-whale2_0517.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=697462",
+          "author": "Enzo",
+          "description": "メタマスクが27日、HyperEVMの完全サポートを発表。メタマスク上でHyperEVM間のトークンスワップが直接可能となり、ハイパーリキッドエコシステムへのアクセスが広がる。",
+          "link": "https://coinpost.jp/?p=697462",
+          "publishedOn": "2026-03-27T07:19:59.000Z",
+          "wordCount": 4006,
+          "title": "メタマスク、HyperEVMの完全サポートを発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/hyperliquid-token-all-time-high.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/hyperliquid-token-all-time-high.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=697406",
           "author": "Enzo",
@@ -2277,6 +2317,46 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=560475",
+          "author": "gentosha_takahashi",
+          "description": "ステーブルコイン利回り規制が焦点に 米暗号資産取引所大手のコインベース（Coinbase）が、暗号資産（仮想通貨）市場構造を巡る超党派法案「クラリティ法（CLARITY Act）」の最新文書に対し、支持できないとの姿勢を […]",
+          "link": "https://www.neweconomy.jp/posts/560475",
+          "publishedOn": "2026-03-27T08:03:45.000Z",
+          "wordCount": 787,
+          "title": "コインベース、米暗号資産法案「CLARITY法」に再び懸念示す",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/27170324/584c99b3465853263c6bdf99f08c6f69.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=560467",
+          "author": "watanabeyousuke",
+          "description": "ジュピターモバイルがマルチチェーン入金に対応 ソラナ（Solana）上の分散型取引所（DEX）アグリゲーター「ジュピター（Jupiter）」のモバイルアプリ「ジュピターモバイル（Jupiter Mobile）」が、マルチ […]",
+          "link": "https://www.neweconomy.jp/posts/560467",
+          "publishedOn": "2026-03-27T07:48:32.000Z",
+          "wordCount": 649,
+          "title": "ジュピターモバイル、複数チェーンからのUSDC直接入金に対応",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/27164811/8d7f013d18d8521045185e4c3750a755.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=560453",
+          "author": "OtsugaShinya",
+          "description": "XAUTがBNBチェーンで発行開始 金連動トークン「テザーゴールド（XAUT）」が、レイヤー1ブロックチェーン「BNBチェーン（BNB Chain）」上で稼働開始した。大手ステーブルコイン発行企業テザー（Tether O […]",
+          "link": "https://www.neweconomy.jp/posts/560453",
+          "publishedOn": "2026-03-27T07:37:45.000Z",
+          "wordCount": 772,
+          "title": "テザーの金連動トークン「XAUT」、BNBチェーンで稼働開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/27163724/478877ba9d0cd332b3e9df9736f9a3f5.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=560444",
+          "author": "gentosha_takahashi",
+          "description": "暗号資産含むオルタナ投資の制度見直しへ 米行政管理予算局（OMB）傘下の情報規制局（OIRA）は、米労働省（DOL）による企業型確定拠出年金「401(k)」制度に関する規則案の審査を完了した。政府の公式データベース「re […]",
+          "link": "https://www.neweconomy.jp/posts/560444",
+          "publishedOn": "2026-03-27T07:22:19.000Z",
+          "wordCount": 739,
+          "title": "米労働省の401(k)規則案、審査通過。暗号資産やオルタナ投資の解禁へ前進",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/27162150/85ccc04238dba76efa6e5cf6944fc20b.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=560403",
           "author": "watanabeyousuke",
           "description": "複数同時プロポーザーとアテスターで順序決定を分散化 レイヤー1ブロックチェーン「ソラナ（Solana）」の主要バリデータクライアント「アガベ（Agave）」を開発するアンザ（Anza）が、トランザクションの順序や組み入れ […]",
@@ -2903,6 +2983,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/bitcoin-whales-buy-61k-btc-global-uncertainty",
+          "author": "Cointelegraph  Stephen Katte",
+          "description": "中東情勢の緊張激化とマクロ経済の不透明感が高まる中、ビットコイン（BTC）の大口保有者が過去1カ月で6万1568BTCを新たに積み増した。",
+          "link": "https://cointelegraph.jp/news/bitcoin-whales-buy-61k-btc-global-uncertainty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-27T07:57:43.000Z",
+          "wordCount": 213,
+          "title": "クジラがビットコイン積み増し　中東情勢緊迫でも6万BTC超を追加取得",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5NjgtNmUxNi03ODdmLTgxNzAtZjgzY2ZlM2Y4NjMxLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5NjgtNmUxNi03ODdmLTgxNzAtZjgzY2ZlM2Y4NjMxLmpwZw==.jpg"
+        },
         {
           "id": "https://cointelegraph.jp/news/retail-buyers-dominate-strategy-stretch-shares",
           "author": "Cointelegraph  Martin Young",

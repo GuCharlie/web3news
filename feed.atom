@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-27T07:02:00.432Z</updated>
+    <updated>2026-03-27T08:07:54.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コインベース、米暗号資産法案「CLARITY法」に再び懸念示す]]></title>
+        <id>https://www.neweconomy.jp/?p=560475</id>
+        <link href="https://www.neweconomy.jp/posts/560475"/>
+        <updated>2026-03-27T08:03:45.000Z</updated>
+        <summary type="html"><![CDATA[ステーブルコイン利回り規制が焦点に 米暗号資産取引所大手のコインベース（Coinbase）が、暗号資産（仮想通貨）市場構造を巡る超党派法案「クラリティ法（CLARITY Act）」の最新文書に対し、支持できないとの姿勢を […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クジラがビットコイン積み増し　中東情勢緊迫でも6万BTC超を追加取得]]></title>
+        <id>https://cointelegraph.jp/news/bitcoin-whales-buy-61k-btc-global-uncertainty</id>
+        <link href="https://cointelegraph.jp/news/bitcoin-whales-buy-61k-btc-global-uncertainty?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-03-27T07:57:43.000Z</updated>
+        <summary type="html"><![CDATA[中東情勢の緊張激化とマクロ経済の不透明感が高まる中、ビットコイン（BTC）の大口保有者が過去1カ月で6万1568BTCを新たに積み増した。]]></summary>
+        <author>
+            <name>Cointelegraph  Stephen Katte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ジュピターモバイル、複数チェーンからのUSDC直接入金に対応]]></title>
+        <id>https://www.neweconomy.jp/?p=560467</id>
+        <link href="https://www.neweconomy.jp/posts/560467"/>
+        <updated>2026-03-27T07:48:32.000Z</updated>
+        <summary type="html"><![CDATA[ジュピターモバイルがマルチチェーン入金に対応 ソラナ（Solana）上の分散型取引所（DEX）アグリゲーター「ジュピター（Jupiter）」のモバイルアプリ「ジュピターモバイル（Jupiter Mobile）」が、マルチ […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、クジラが大規模蓄積　1カ月で6万超を取得＝Santiment]]></title>
+        <id>https://coinpost.jp/?p=697478</id>
+        <link href="https://coinpost.jp/?p=697478"/>
+        <updated>2026-03-27T07:47:33.000Z</updated>
+        <summary type="html"><![CDATA[オンチェーン分析のSantimentが、ビットコインが6万8,000ドル台に下落する中、大口投資家が1カ月で約6万1,500BTC以上を蓄積したと報告。一方、小口の蓄積も継続しており、強気転換のシグナルにはまだ至っていない。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テザーの金連動トークン「XAUT」、BNBチェーンで稼働開始]]></title>
+        <id>https://www.neweconomy.jp/?p=560453</id>
+        <link href="https://www.neweconomy.jp/posts/560453"/>
+        <updated>2026-03-27T07:37:45.000Z</updated>
+        <summary type="html"><![CDATA[XAUTがBNBチェーンで発行開始 金連動トークン「テザーゴールド（XAUT）」が、レイヤー1ブロックチェーン「BNBチェーン（BNB Chain）」上で稼働開始した。大手ステーブルコイン発行企業テザー（Tether O […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米労働省の401(k)規則案、審査通過。暗号資産やオルタナ投資の解禁へ前進]]></title>
+        <id>https://www.neweconomy.jp/?p=560444</id>
+        <link href="https://www.neweconomy.jp/posts/560444"/>
+        <updated>2026-03-27T07:22:19.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産含むオルタナ投資の制度見直しへ 米行政管理予算局（OMB）傘下の情報規制局（OIRA）は、米労働省（DOL）による企業型確定拠出年金「401(k)」制度に関する規則案の審査を完了した。政府の公式データベース「re […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メタマスク、HyperEVMの完全サポートを発表]]></title>
+        <id>https://coinpost.jp/?p=697462</id>
+        <link href="https://coinpost.jp/?p=697462"/>
+        <updated>2026-03-27T07:19:59.000Z</updated>
+        <summary type="html"><![CDATA[メタマスクが27日、HyperEVMの完全サポートを発表。メタマスク上でHyperEVM間のトークンスワップが直接可能となり、ハイパーリキッドエコシステムへのアクセスが広がる。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIが金融の主体になる時代へ、サナエトークン騒動が示した「技術と信頼」の課題【国際金融システムフォーラム2026】]]></title>
+        <id>https://www.nadanews.com/?p=341761</id>
+        <link href="https://www.nadanews.com/341761/"/>
+        <updated>2026-03-27T07:13:30.000Z</updated>
+        <summary type="html"><![CDATA[金融デジタル化の未来とサイバーリスクへの対応をテーマとした「第27回日本国際金融システムフォーラム2026」が19日、都内で行われた。「Japan Fintec ...
+AIが金融の主体になる時代へ、サナエトークン騒動が示した「技術と信頼」の課題【国際金融システムフォーラム2026】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>橋本 祐樹</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ripple、XRP Ledgerのセキュリティ強化にAIを活用]]></title>
         <id>https://www.nadanews.com/?p=342775</id>

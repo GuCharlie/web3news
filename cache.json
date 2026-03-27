@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=342860",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● AI企業のAnthropic（アンソロピック）から、新しいAIモデル「Claude Mythos」に関する社内文書が外 ...\nAnthropicから新AI「Claude Mythos」関連文書が流出──サイバーリスク警戒でソフトウェア株安、ビットコインも6万6000ドルまで反落 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/342860/",
+          "publishedOn": "2026-03-27T22:50:57.000Z",
+          "wordCount": 1645,
+          "title": "Anthropicから新AI「Claude Mythos」関連文書が流出──サイバーリスク警戒でソフトウェア株安、ビットコインも6万6000ドルまで反落",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-72-4.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=342843",
+          "author": "Shoko Galaviz",
+          "description": "ブロックチェーン分析企業TRM Labs（TRMラボ）のレポートによると、予測市場は急速に拡大し、2026年初頭には月間取引高が200億ドル（約3兆1000億円 ...\n予測市場、月間約3兆円規模へ急拡大：TRM Labs first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/342843/",
+          "publishedOn": "2026-03-27T22:30:00.000Z",
+          "wordCount": 1607,
+          "title": "予測市場、月間約3兆円規模へ急拡大：TRM Labs",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2577500845.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=342848",
           "author": "XWIN Research",
           "description": "● 下落の本質は価格ではなく、流動性低下と構造的な弱さにある● オンチェーン活動の鈍化により、実需の裏付けが弱い状態が継続● 今後の鍵はイラン情勢と金利動向によ ...\nビットコイン下落の本当の理由とは？内部構造の弱さが招いた調整【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -830,16 +850,6 @@
           "wordCount": 1596,
           "title": "Grayscale、HYPE現物ETFをSECに申請",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/10/shutterstock_2552692341-990x660-1.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=342039",
-          "author": "廣瀬 優香",
-          "description": "Morgan Stanley（モルガン・スタンレー）は、ビットコイン（BTC）現物ETF（上場投資信託）「Morgan Stanley Bitcoin Trus ...\nMorgan Stanley、ビットコインETFの修正届出書を提出 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/342039/",
-          "publishedOn": "2026-03-23T10:30:00.000Z",
-          "wordCount": 1613,
-          "title": "Morgan Stanley、ビットコインETFの修正届出書を提出",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2434397777-1.jpg"
         }
       ]
     },
@@ -854,6 +864,81 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=697567",
+          "author": "菊谷ルイス",
+          "description": "キャシー・ウッド率いるARK InvestがMeta、Nvidia、自社ビットコインETF（ARKB）の保有比率を調整し一部売却。中東情勢の悪化を受け、StrategyやRobinhoodなど仮想通貨関連株は軒並み月間安値を更新した。",
+          "link": "https://coinpost.jp/?p=697567",
+          "publishedOn": "2026-03-27T22:45:51.000Z",
+          "wordCount": 4014,
+          "title": "ARKがメタやビットコインETFを売却、仮想通貨関連株は月間安値を更新",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/ark-invest-tokenization.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/ark-invest-tokenization.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=697577",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨ビットコインの米国の現物ETFは26日、270億円超の資金が純流出し、約3週間で最大規模となった。専門家が資金が流出した原因を分析している。",
+          "link": "https://coinpost.jp/?p=697577",
+          "publishedOn": "2026-03-27T22:30:20.000Z",
+          "wordCount": 4029,
+          "title": "米ビットコイン現物ETF、26日に270億円超が純流出　過去3週間で最大規模",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/ETF_0516.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/ETF_0516.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=697565",
+          "author": "菊谷ルイス",
+          "description": "2013年取得のビットコイン大口保有者がバイナンスへの移送を継続し、イーサリアムICO参加者も段階的な売却を進めている。長期保有者の利益確定が相次ぐ中、ビットコインは直近1週間で約6%下落し市場の警戒感が高まっている。",
+          "link": "https://coinpost.jp/?p=697565",
+          "publishedOn": "2026-03-27T21:50:33.000Z",
+          "wordCount": 4017,
+          "title": "ビットコインとイーサリアム、初期保有者が売却加速",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/btc-whale-up-3.5k-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/btc-whale-up-3.5k-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=697566",
+          "author": "菊谷ルイス",
+          "description": "Anthropicの未公開モデル「Claude Mythos」の資料が流出。超強力な脆弱性特定能力が判明。Palo Alto Networksなどセキュリティ株や仮想通貨セクターが警戒し大幅下落した。",
+          "link": "https://coinpost.jp/?p=697566",
+          "publishedOn": "2026-03-27T21:15:41.000Z",
+          "wordCount": 4034,
+          "title": "アンソロピックの破壊的AI「Claude Mythos」資料流出、サイバーセキュリティ・仮想通貨セクターで警戒感強まる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/anthropic-mythos-.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/anthropic-mythos-.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=697564",
+          "author": "菊谷ルイス",
+          "description": "リップルのCEOブラッド・ガーリングハウスが過去最高の四半期業績を見込む一方、クラリティー法の成立が4月末から5月末に後ずれする見通しを示した。",
+          "link": "https://coinpost.jp/?p=697564",
+          "publishedOn": "2026-03-27T20:40:21.000Z",
+          "wordCount": 4015,
+          "title": "買収効果で最高益見通し、リップルCEOが成長戦略を語る",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/ripple-xrp-new-new.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/ripple-xrp-new-new.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=697333",
           "author": "菊谷ルイス",

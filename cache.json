@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=342818",
+          "author": "松嶋 真倫 マネックス証券 フィナンシャル・インテリジェンス部 暗号資産アナリスト",
+          "description": "● 今週のビットコインは、中東紛争を巡るヘッドラインに大きく左右される中、売りと買いが交錯し、もみ合う展開となった。 ● 来週のビットコインは、米国とイランを巡 ...\nBTC（ビットコイン）はイラン情勢と米雇用統計に左右され、不安定な展開が続くか【マネックス証券】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/342818/",
+          "publishedOn": "2026-03-27T10:08:50.000Z",
+          "wordCount": 1658,
+          "title": "BTC（ビットコイン）はイラン情勢と米雇用統計に左右され、不安定な展開が続くか【マネックス証券】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/97f79abe23f33a17946780abd713f92f.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=342796",
+          "author": "井上 俊彦",
+          "description": "ビットコイン（BTC）は6万70000ドル台まで下落したが、クジラやサメ（大口保有者）は蓄積（買い増し）を続けている。 オンチェーン分析企業のSantiment ...\nマクロ経済の先行きが不透明な中、ビットコインのクジラは1カ月で6万BTC以上を蓄積 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/342796/",
+          "publishedOn": "2026-03-27T09:45:00.000Z",
+          "wordCount": 1579,
+          "title": "マクロ経済の先行きが不透明な中、ビットコインのクジラは1カ月で6万BTC以上を蓄積",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/04/shutterstock_776180275.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=342787",
           "author": "廣瀬 優香",
           "description": "暗号資産ウォレットTrust Walletは3月26日、AI（人工知能）エージェントが25を超えるブロックチェーン上で実際の暗号資産取引を実行することを可能にす ...\nAIエージェントによる暗号資産の自動取引が可能に──Trust Wallet、ツールキット「TWAK」発表 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -900,16 +920,6 @@
           "wordCount": 1516,
           "title": "ナスダック幹部が見るAIエージェント競争──暗号資産取引所が先行か",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-86.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=341755",
-          "author": "NADA NEWS編集部",
-          "description": "【CoinDesk Summary】 ● Ripple（リップル）が世界の企業財務（コーポレートトレジャリー）担当者ら1000人超を対象に行った調査によると、デ ...\nステーブルコイン、企業財務の中核ツールに：Ripple調査 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/341755/",
-          "publishedOn": "2026-03-22T22:00:00.000Z",
-          "wordCount": 1505,
-          "title": "ステーブルコイン、企業財務の中核ツールに：Ripple調査",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-56-2.jpg"
         }
       ]
     },
@@ -924,6 +934,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=697476",
+          "author": "Ritsuki.Kumazawa",
+          "description": "ビットコイン業界の重鎮であるJAN3のサムソン・モウCEOがJAPAN BITCOIN FUTURE FORUMに登壇。米国との法整備格差やビットコインETFの必要性、「4年サイクル崩壊」による需給構造の変化まで、日本が直面する課題を多角的に論じた。",
+          "link": "https://coinpost.jp/?p=697476",
+          "publishedOn": "2026-03-27T10:01:27.000Z",
+          "wordCount": 3847,
+          "title": "サムソン・モウが語る日本のビットコイン戦略の現在地｜JAPAN BITCOIN FUTURE FORUM",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/jbff_samson_mow.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/jbff_samson_mow.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=697498",
           "author": "Enzo",
@@ -3847,21 +3872,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI2NGMtOTUxNC03NjkzLTk2ZjktMDQ4ZjcwNzUxMTZiLmpwZw==.jpg"
-        },
-        {
-          "id": "https://cointelegraph.jp/news/scaramucci-btc-4-year-cycle-play-rise-q4",
-          "author": "Cointelegraph  Vince Quill",
-          "description": "ビットコインの4年周期説の支持者は、BTC価格は通常、4年のうち3年間上昇し、最終年に下落すると主張している。",
-          "link": "https://cointelegraph.jp/news/scaramucci-btc-4-year-cycle-play-rise-q4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-03-22T22:02:06.000Z",
-          "wordCount": 333,
-          "title": "スカラムーチ氏、BTCの4年周期説は継続と明言　第4四半期の上昇を予測",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDE2ZDMtNTZmMy03ZDQwLWIyYTUtYzJmMWVjODRkYzcwLmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDE2ZDMtNTZmMy03ZDQwLWIyYTUtYzJmMWVjODRkYzcwLmpwZw==.jpg"
         }
       ]
     },

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-27T16:50:41.444Z</updated>
+    <updated>2026-03-27T17:46:11.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム2000ドル割れ　需要低迷で1800ドル台への調整リスク浮上]]></title>
+        <id>https://cointelegraph.jp/news/ether-traders-see-further-decline-eth-price-slips-below-2k</id>
+        <link href="https://cointelegraph.jp/news/ether-traders-see-further-decline-eth-price-slips-below-2k?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-03-27T16:30:11.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム（ETH）は金曜日に2000ドルを下回り、今後数週間から数カ月にわたり、より深い調整局面に入るリスクが高まっている。]]></summary>
+        <author>
+            <name>Cointelegraph  Nancy Lubale</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン6万6000ドル接近　インフレ懸念と原油ショックでリスク資産に圧力]]></title>
         <id>https://cointelegraph.jp/news/bitcoin-dips-under-66k-oil-sparks-unsustainable-inflation-risk</id>
@@ -4043,59 +4053,6 @@ Morgan Stanley、ビットコインETFの修正届出書を提出 first appeared
         <summary type="html"><![CDATA[GSRがトークン立ち上げ支援の2社を買収 暗号資産（仮想通貨）マーケットメイカーのGSRが、トークン発行体の支援強化に向け、トークンの立ち上げと運営支援を担うオートノマス（Autonomous）と流動性戦略を手がけるアー […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米ビットコイン現物ETF、先週は4週連続の純流入も週後半に失速]]></title>
-        <id>https://coinpost.jp/?p=696162</id>
-        <link href="https://coinpost.jp/?p=696162"/>
-        <updated>2026-03-23T05:40:06.000Z</updated>
-        <summary type="html"><![CDATA[先週の米国ビットコイン現物ETFは9,518万ドルの純流入を記録し、4週連続の純流入で2026年最長記録を更新した。ただし週後半は3日連続で流出し、3億ドル超が流出した。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クレジットカード系仮想通貨「TRIA」、急騰続く｜1ヶ月で2.8倍]]></title>
-        <id>https://crypto-times.jp/?p=156999</id>
-        <link href="https://crypto-times.jp/news-tria-continues-its-sharp-rise-increasing-2-8-times-in-one-month/"/>
-        <updated>2026-03-23T05:17:44.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨クレジットカードサービスを展開する「Tria」のネイティブトークンであるTRIAが、驚異的な上昇を見せています。直近1ヶ月の騰落率は約188%（約2.8倍）に達し、価格は一時0.048ドルを突破。仮想通貨市場全体 […]
-投稿 クレジットカード系仮想通貨「TRIA」、急騰続く｜1ヶ月で2.8倍 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「AIが95%動かしている」──ステーブルコインと銀行はどう共存するのか【デジタル通貨カンファレンス】]]></title>
-        <id>https://www.nadanews.com/?p=341893</id>
-        <link href="https://www.nadanews.com/341893/"/>
-        <updated>2026-03-23T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[金融庁主催の「Japan Fintech Week 2026」（JFW2026）の開幕初日にあたる2月24日、当社N.Avenueは「FUTURE OF DIG ...
-「AIが95%動かしている」──ステーブルコインと銀行はどう共存するのか【デジタル通貨カンファレンス】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>橋本 祐樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインのマイニング難易度が7.76%下落、2026年2番目の大幅調整]]></title>
-        <id>https://coinpost.jp/?p=696127</id>
-        <link href="https://coinpost.jp/?p=696127"/>
-        <updated>2026-03-23T04:57:37.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインのマイニング難易度が3月20日に7.76%下落し133.79Tとなった。2026年で2番目の大幅調整で、採掘コストと市場価格の逆ざやや中東情勢による電力コスト上昇が要因。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ディープフェイク対策の証明アプリが最優秀賞──学生向けソラナハッカソン開催]]></title>
-        <id>https://www.nadanews.com/?p=341831</id>
-        <link href="https://www.nadanews.com/341831/"/>
-        <updated>2026-03-23T04:53:27.000Z</updated>
-        <summary type="html"><![CDATA[ソラナ（Solana）ブロックチェーンの次世代エンジニア育成を目的とした学生向けハッカソン「Sol Hack3rs」の成果発表会が22日、渋谷のイベントホール「 ...
-ディープフェイク対策の証明アプリが最優秀賞──学生向けソラナハッカソン開催 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>橋本 祐樹</name>
         </author>
     </entry>
 </feed>

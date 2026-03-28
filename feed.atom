@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-28T20:25:18.775Z</updated>
+    <updated>2026-03-28T20:55:08.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[主要DeFiの「分散性」に疑問　上位保有者が供給の8割超を支配＝ECBワーキングペーパー]]></title>
+        <id>https://cointelegraph.jp/news/ecb-paper-says-defi-governance-highly-concentrated</id>
+        <link href="https://cointelegraph.jp/news/ecb-paper-says-defi-governance-highly-concentrated?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-03-28T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[欧州中央銀行（ECB）のワーキングペーパーによると、DeFiのガバナンスは依然として高度に集中しており、MiCAのDeFi対応を複雑にしているという。]]></summary>
+        <author>
+            <name>Cointelegraph  Christina Comben</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リップルCEO：ステーブルコインは企業にとって「ChatGPTのような瞬間」　決済イノベーションの起点に]]></title>
         <id>https://cointelegraph.jp/news/stablecoins-will-be-cryptos-chatgpt-moment-ripple-garlinghouse</id>
@@ -3493,48 +3503,6 @@ Circle、欧州委員会の市場統合案に対して意見書を提出 first a
         <summary type="html"><![CDATA[イスラエル軍のアイアンドーム予備役兵が、イラン工作員に機密情報を漏洩した疑いで起訴。報酬として仮想通貨約1,000ドルを受領したとされ、終身刑または死刑の可能性もある。]]></summary>
         <author>
             <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自民党、「次世代AI・オンチェーン金融構想PT」設置]]></title>
-        <id>https://www.neweconomy.jp/?p=559165</id>
-        <link href="https://www.neweconomy.jp/posts/559165"/>
-        <updated>2026-03-24T08:46:49.000Z</updated>
-        <summary type="html"><![CDATA[自民党に次世代AI・オンチェーン金融構想PT設置 自由民主党デジタル社会推進本部による「次世代AI・オンチェーン金融構想プロジェクトチーム（PT）」が3月24日に発足し、同PTによる初会合が同日に開かれた。 同PTの座長 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットマインがイーサリアム追加取得、総保有数は約466万ETHに]]></title>
-        <id>https://www.neweconomy.jp/?p=559198</id>
-        <link href="https://www.neweconomy.jp/posts/559198"/>
-        <updated>2026-03-24T08:42:39.000Z</updated>
-        <summary type="html"><![CDATA[BitMineがETH追加購入 ビットマインイマージョンテクノロジーズ（BitMine Immersion Technologies：以下、ビットマイン）が、暗号資産（仮想通貨）イーサリアム（ETH）の追加取得を3月23 […]]]></summary>
-        <author>
-            <name>mikajirikoka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KalshiとPolymarket、インサイダー取引規制を強化]]></title>
-        <id>https://www.nadanews.com/?p=342124</id>
-        <link href="https://www.nadanews.com/342124/"/>
-        <updated>2026-03-24T08:35:00.000Z</updated>
-        <summary type="html"><![CDATA[分散型予測市場の大手Kalshi（カルシ）とPolymarket（ポリマーケット）は、インサイダー取引規制を強化するとそれぞれ発表した。背景には、米上院議員らが ...
-KalshiとPolymarket、インサイダー取引規制を強化 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi特化型チェーンのカタナ、老舗DEXを買収]]></title>
-        <id>https://www.nadanews.com/?p=342126</id>
-        <link href="https://www.nadanews.com/342126/"/>
-        <updated>2026-03-24T08:33:56.000Z</updated>
-        <summary type="html"><![CDATA[Polygon Labs（ポリゴン・ラボ）とGSRが共同で立ち上げたDeFi特化型ブロックチェーンの「Katana（カタナ）」は23日、DEX（分散型取引所）の ...
-DeFi特化型チェーンのカタナ、老舗DEXを買収 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>橋本 祐樹</name>
         </author>
     </entry>
 </feed>

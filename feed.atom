@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-28T16:29:04.372Z</updated>
+    <updated>2026-03-28T17:00:16.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン：強気相場への回復は2027年に後ずれか　最大40%下落シナリオも浮上]]></title>
+        <id>https://cointelegraph.jp/news/potential-bitcoin-crash-below-dollar60k-may-delay-recovery-to-2027-data</id>
+        <link href="https://cointelegraph.jp/news/potential-bitcoin-crash-below-dollar60k-may-delay-recovery-to-2027-data?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-03-28T16:03:52.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は3月の上昇分をすべて失い、月足で1.40%下落、2026年第1四半期では24.6%の下落となっている。長期的なパフォーマンスは深いドローダウンサイクルと整合しており、この調整局面は2026年末まで続く可能性がある。]]></summary>
+        <author>
+            <name>Cointelegraph  Biraajmaan Tamuly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【今日の仮想通貨ニュース】BTC6万枚を大手が爆買い。BTCのインフレ勝率は97%？]]></title>
         <id>https://crypto-times.jp/?p=157978</id>
@@ -3819,27 +3829,6 @@ Bitmine、約6万5000ETHを追加取得──暗号資産市場低迷の終わ�
         <summary type="html"><![CDATA[分散型金融（DeFi）プロトコル「バランサー」を手がけるバランサー・ラボは、財務難の深刻化と11月に発生した1億1600万ドル規模のハッキング事件を受け、事業を停止する。]]></summary>
         <author>
             <name>Cointelegraph  Brayden Lindrea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【4/10無料セッション・東京開催】「今、選ぶべきチェーンとは？」事業会社のためのブロックチェーン基盤選定──Avalanche、Base、 Solana、Suiの関係者と探る]]></title>
-        <id>https://www.nadanews.com/?p=341833</id>
-        <link href="https://www.nadanews.com/341833/"/>
-        <updated>2026-03-24T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Web3活用を検討する企業にとって、「どのブロックチェーンを採択すべきか」は、事業の拡張性やコスト、エコシステムの広がりを左右する極めて重要な意思決定です。 4 ...
-【4/10無料セッション・東京開催】「今、選ぶべきチェーンとは？」事業会社のためのブロックチェーン基盤選定──Avalanche、Base、 Solana、Suiの関係者と探る first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>NADA NEWS編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オープンエージェント型コマースはウェブ広告の終焉となるか、AI起業家が示す新収益モデル＝a16zが考察]]></title>
-        <id>https://coinpost.jp/?p=696479</id>
-        <link href="https://coinpost.jp/?p=696479"/>
-        <updated>2026-03-24T04:45:36.000Z</updated>
-        <summary type="html"><![CDATA[AIエージェントが広告を無視して自律的に購買する「エージェント型コマース」が、3000億ドル規模のオンライン広告市場を根底から変えようとしている。ChatGPTやGeminiなどの大手がチャット型コマースを展開する一方で、オープンなエージェント型コマースを重視する動きもある。]]></summary>
-        <author>
-            <name>幸田直子</name>
         </author>
     </entry>
 </feed>

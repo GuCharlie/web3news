@@ -790,16 +790,6 @@
           "wordCount": 1633,
           "title": "ビットコイン・イーサ・ソラナ上昇、中東情勢緊迫でも反発",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/5f3bcfdc4772c4a6849b2285739d8434c1edaa94-1920x1280-1.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=341833",
-          "author": "NADA NEWS編集部",
-          "description": "Web3活用を検討する企業にとって、「どのブロックチェーンを採択すべきか」は、事業の拡張性やコスト、エコシステムの広がりを左右する極めて重要な意思決定です。 4 ...\n【4/10無料セッション・東京開催】「今、選ぶべきチェーンとは？」事業会社のためのブロックチェーン基盤選定──Avalanche、Base、 Solana、Suiの関係者と探る first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/341833/",
-          "publishedOn": "2026-03-24T05:00:00.000Z",
-          "wordCount": 2295,
-          "title": "【4/10無料セッション・東京開催】「今、選ぶべきチェーンとは？」事業会社のためのブロックチェーン基盤選定──Avalanche、Base、 Solana、Suiの関係者と探る",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/1200x800_eyecatch-7.jpg"
         }
       ]
     },
@@ -2103,21 +2093,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/Screenshot-2026-03-24-at-14.09.42.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/Screenshot-2026-03-24-at-14.09.42.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=696479",
-          "author": "幸田直子",
-          "description": "AIエージェントが広告を無視して自律的に購買する「エージェント型コマース」が、3000億ドル規模のオンライン広告市場を根底から変えようとしている。ChatGPTやGeminiなどの大手がチャット型コマースを展開する一方で、オープンなエージェント型コマースを重視する動きもある。",
-          "link": "https://coinpost.jp/?p=696479",
-          "publishedOn": "2026-03-24T04:45:36.000Z",
-          "wordCount": 4014,
-          "title": "オープンエージェント型コマースはウェブ広告の終焉となるか、AI起業家が示す新収益モデル＝a16zが考察",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/ai-agent-eliza.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/ai-agent-eliza.jpg"
         }
       ]
     },
@@ -2673,6 +2648,21 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/potential-bitcoin-crash-below-dollar60k-may-delay-recovery-to-2027-data",
+          "author": "Cointelegraph  Biraajmaan Tamuly",
+          "description": "ビットコイン（BTC）は3月の上昇分をすべて失い、月足で1.40%下落、2026年第1四半期では24.6%の下落となっている。長期的なパフォーマンスは深いドローダウンサイクルと整合しており、この調整局面は2026年末まで続く可能性がある。",
+          "link": "https://cointelegraph.jp/news/potential-bitcoin-crash-below-dollar60k-may-delay-recovery-to-2027-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-28T16:03:52.000Z",
+          "wordCount": 303,
+          "title": "ビットコイン：強気相場への回復は2027年に後ずれか　最大40%下落シナリオも浮上",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzRkYzctNTA2OS03YzljLTlhZjktYTY2ODUwYTM0ZWUzLmpwZWc=.jpeg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzRkYzctNTA2OS03YzljLTlhZjktYTY2ODUwYTM0ZWUzLmpwZWc=.jpeg"
+        },
         {
           "id": "https://cointelegraph.jp/news/price-predictions-3-27-btc-eth-bnb-xrp-sol-doge-hype-ada-bch-link",
           "author": "Cointelegraph  Rakesh Upadhyay",

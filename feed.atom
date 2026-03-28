@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-28T20:55:08.318Z</updated>
+    <updated>2026-03-28T21:26:36.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国のマイニング企業ビットメイン　国家安全保障上のリスクとなるか？ ウォーレン議員が米商務省に説明要求]]></title>
+        <id>https://cointelegraph.jp/news/warren-bitmain-us-security-concerns-probe-report</id>
+        <link href="https://cointelegraph.jp/news/warren-bitmain-us-security-concerns-probe-report?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
+        <updated>2026-03-28T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[報道によれば、エリザベス・ウォーレン上院議員は、中国の仮想通貨マイニング機器大手ビットメインに関連する国家安全保障リスクへの対応について、米商務省に説明を求めた。]]></summary>
+        <author>
+            <name>Cointelegraph  Amin Haqshanas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[主要DeFiの「分散性」に疑問　上位保有者が供給の8割超を支配＝ECBワーキングペーパー]]></title>
         <id>https://cointelegraph.jp/news/ecb-paper-says-defi-governance-highly-concentrated</id>
@@ -3460,49 +3470,6 @@ Circle、欧州委員会の市場統合案に対して意見書を提出 first a
 投稿 リップル社CTOが警鐘「ビットコインのPoWは中央集権化の力」 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEX大手Balancer運営母体が閉鎖へ、法的リスクと再建の道]]></title>
-        <id>https://crypto-times.jp/?p=157199</id>
-        <link href="https://crypto-times.jp/news-dex-giant-balancers-parent-company-is-closing-down/"/>
-        <updated>2026-03-24T09:25:31.000Z</updated>
-        <summary type="html"><![CDATA[分散型取引所（DEX）大手Balancerの共同創設者であるフェルナンド・マルティネリ氏は、プロトコルの開発・運営母体である「Balancer Labs（以下、BLabs）」を閉鎖する方針を明らかにしました。今後はDAO […]
-投稿 DEX大手Balancer運営母体が閉鎖へ、法的リスクと再建の道 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ストラテジー社、最大441億ドルの資金調達へ]]></title>
-        <id>https://crypto-times.jp/?p=157203</id>
-        <link href="https://crypto-times.jp/news-strategy-inc-to-raise-up-to-44-1-billion-in-funding/"/>
-        <updated>2026-03-24T09:15:09.000Z</updated>
-        <summary type="html"><![CDATA[ストラテジー社はクラスA普通株式および優先株式を通じた大規模な公開買付プログラム（ATM）の実施を発表しました。同社はTD SecuritiesやMorgan Stanleyなどの既存のエージェントに加え、新たにMoel […]
-投稿 ストラテジー社、最大441億ドルの資金調達へ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クジラによるBTCとETHの買い増し続く、ステーブルコイン流入減速の裏で続く「蓄積」]]></title>
-        <id>https://crypto-times.jp/?p=157207</id>
-        <link href="https://crypto-times.jp/news-whales-make-a-massive-purchase-of-170-million-worth-of-btc/"/>
-        <updated>2026-03-24T09:09:41.000Z</updated>
-        <summary type="html"><![CDATA[オンチェーン分析プラットフォームのLookonchainは3月16日から22日までの週次レポートを公開。ステーブルコインの流入額は9億9500万ドルと前週から減速したものの、機関投資家やクジラ（大口投資家）によるビットコ […]
-投稿 クジラによるBTCとETHの買い増し続く、ステーブルコイン流入減速の裏で続く「蓄積」 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イスラエル軍予備役兵、イランに軍事機密を漏洩か　報酬に仮想通貨約1000ドル＝報道]]></title>
-        <id>https://coinpost.jp/?p=696578</id>
-        <link href="https://coinpost.jp/?p=696578"/>
-        <updated>2026-03-24T09:00:31.000Z</updated>
-        <summary type="html"><![CDATA[イスラエル軍のアイアンドーム予備役兵が、イラン工作員に機密情報を漏洩した疑いで起訴。報酬として仮想通貨約1,000ドルを受領したとされ、終身刑または死刑の可能性もある。]]></summary>
-        <author>
-            <name>Enzo</name>
         </author>
     </entry>
 </feed>

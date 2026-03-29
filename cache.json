@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=342893",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● ビットコインマイナーは持続不可能な収益構造に直面しており、1BTCあたり約1万9000ドル（約300万円、1ドル=15 ...\nビットコインマイナー、AI企業へ転換──資金確保のためBTC売却も first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/342893/",
+          "publishedOn": "2026-03-29T22:30:00.000Z",
+          "wordCount": 1633,
+          "title": "ビットコインマイナー、AI企業へ転換──資金確保のためBTC売却も",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-76-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=342886",
           "author": "NADA NEWS編集部",
           "description": "【CoinDesk Summary】 ● 暗号資産（仮想通貨）業界では、量子コンピューティングの脅威に対する認識が急速に高まっているが、その対応は大きく分かれて ...\n量子リスクに揺れる暗号資産業界──ビットコインは議論、イーサリアムは実装へ first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -1810,16 +1820,6 @@
           "wordCount": 786,
           "title": "【3/25話題】SBI VCトレードにCCとBERAが国内初上場、USDT初のフル監査でBig4と契約、ソラナの企業オンチェーン開発基盤「SDP」など（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/25174752/7e52315a839ac2191b8df851912e2b67.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=559663",
-          "author": "OtsugaShinya",
-          "description": "NYSEとセキュリタイズがトークン化証券の取引基盤整備で協業 インターコンチネンタル取引所（Intercontinental Exchange：ICE）傘下のニューヨーク証券取引所（NYSE）が、デジタル資産企業セキュリ […]",
-          "link": "https://www.neweconomy.jp/posts/559663",
-          "publishedOn": "2026-03-25T10:46:21.000Z",
-          "wordCount": 764,
-          "title": "NYSEとセキュリタイズ、トークン化証券の取引基盤整備で協業",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/25194614/6abb086db4f8882e789ce530b26a720a.jpg"
         }
       ]
     },
@@ -1828,6 +1828,51 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/sam-altman-world-wld-sale-65m-token-lows",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "ワールド財団は、WLDトークンが過去最安値を記録する中、大幅なディスカウント価格で6,500万ドル相当を売却。さらなる供給が市場に流入する見通しだ。",
+          "link": "https://cointelegraph.jp/news/sam-altman-world-wld-sale-65m-token-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-29T22:31:45.000Z",
+          "wordCount": 214,
+          "title": "サム・アルトマン氏のワールド財団、WLDトークンが最安値を更新する中で6,500万ドル分を売却",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDM5YTAtOWYzYi03MjhlLTliYTYtZjU5Y2VkMjBiN2FlLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDM5YTAtOWYzYi03MjhlLTliYTYtZjU5Y2VkMjBiN2FlLmpwZw==.jpg"
+        },
+        {
+          "id": "https://cointelegraph.jp/news/walmart-backed-onepay-adds-a-dozen-new-tokens-in-push-to-serve-new-to-crypto-customers",
+          "author": "Cointelegraph  Robert Lakin",
+          "description": "WeChat（ウィーチャット）をモデルにした銀行アプリが、顧客の利便性向上を目指し、Polygon、Arbitrum、Solanaなどのトークンを新たに追加。",
+          "link": "https://cointelegraph.jp/news/walmart-backed-onepay-adds-a-dozen-new-tokens-in-push-to-serve-new-to-crypto-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-29T22:20:22.000Z",
+          "wordCount": 200,
+          "title": "ウォルマート傘下のOnePay、トークン追加で「仮想通貨初心者」への普及を加速",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDNhN2UtMTg4Ni03MmI3LWI4Y2EtNDk5NzE0NzQxNjkxLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDNhN2UtMTg4Ni03MmI3LWI4Y2EtNDk5NzE0NzQxNjkxLmpwZw==.jpg"
+        },
+        {
+          "id": "https://cointelegraph.jp/news/ethereum-builders-propose-economic-zone-to-tackle-l2-fragmentation",
+          "author": "Cointelegraph  Nate Kostar",
+          "description": "GnosisとZiskの開発者は、イーサリアムのスケーリングモデルと相互運用性の課題に関する議論が高まる中、断片化したロールアップを接続するためのフレームワークを提案している。",
+          "link": "https://cointelegraph.jp/news/ethereum-builders-propose-economic-zone-to-tackle-l2-fragmentation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-29T22:11:06.000Z",
+          "wordCount": 241,
+          "title": "イーサリアムの開発者、L2の断片化に対処する「経済圏」を提案",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjc5YzgtNGE5Ni03Mzg4LThkMzEtNjhjZTI1Yjc5ZWQwLmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjc5YzgtNGE5Ni03Mzg4LThkMzEtNjhjZTI1Yjc5ZWQwLmpwZw==.jpg"
+        },
         {
           "id": "https://cointelegraph.jp/news/warren-bitmain-us-security-concerns-probe-report",
           "author": "Cointelegraph  Amin Haqshanas",

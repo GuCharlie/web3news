@@ -530,16 +530,6 @@
           "wordCount": 1608,
           "title": "スターテイル、SBIグループから80億円調達──シリーズA総額100億円に、金融・エンタメのオンチェーン化を加速",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/4d99762a23014461f1ee31007954f9a9.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=342334",
-          "author": "井上 俊彦",
-          "description": "Cathie Wood（キャシー・ウッド）氏率いる米Ark Invest（アーク・インベスト）が、ステーブルコイン「USDコイン（USDC）」の発行元であるサー ...\nArk Invest、20％下落したCircle株を押し目買い first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/342334/",
-          "publishedOn": "2026-03-25T11:20:00.000Z",
-          "wordCount": 1589,
-          "title": "Ark Invest、20％下落したCircle株を押し目買い",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/07/shutterstock_2578419475.jpg"
         }
       ]
     },
@@ -554,6 +544,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=697660",
+          "author": "Enzo",
+          "description": "ブロックチェーン分析のトークン・ターミナルのデータにより、トークン化資産の61.4%がイーサリアム上で決済されていることが判明。残高は2062億ドルに達し、前年比40%超の成長を記録した。",
+          "link": "https://coinpost.jp/?p=697660",
+          "publishedOn": "2026-03-29T23:28:30.000Z",
+          "wordCount": 4080,
+          "title": "イーサリアム、トークン化資産の6割超を占める",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/pectra-fusaka-ethereum.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/pectra-fusaka-ethereum.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=697419",
           "author": "CoinPost編集部",
@@ -1810,16 +1815,6 @@
           "wordCount": 766,
           "title": "スターテイル、SBIから約80億円の資金調達。シリーズAは総額100億円に",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/26121652/396226b41813143fc9395703d477b0f1.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=559611",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/559611",
-          "publishedOn": "2026-03-25T11:09:49.000Z",
-          "wordCount": 786,
-          "title": "【3/25話題】SBI VCトレードにCCとBERAが国内初上場、USDT初のフル監査でBig4と契約、ソラナの企業オンチェーン開発基盤「SDP」など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/25174752/7e52315a839ac2191b8df851912e2b67.jpg"
         }
       ]
     },
@@ -1828,6 +1823,36 @@
       "feedUrl": "https://jp.cointelegraph.com/rss",
       "siteUrl": "https://cointelegraph.jp",
       "articles": [
+        {
+          "id": "https://cointelegraph.jp/news/onchain-commodity-trading-liquidity-gap-tradfi-depth",
+          "author": "Cointelegraph  Amin Haqshanas",
+          "description": "原油や金の取引高増加は、オンチェーンでのマクロ取引需要の高まりを示しているが、限定的な流動性と厚みの欠如により、依然として伝統的市場が支配権を握っている。",
+          "link": "https://cointelegraph.jp/news/onchain-commodity-trading-liquidity-gap-tradfi-depth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-29T23:01:37.000Z",
+          "wordCount": 236,
+          "title": "オンチェーンのコモディティ取引は定着も、流動性は依然として課題",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDM5MjctYjdlNS03MzI0LTlhNjUtNTQ0YjEwYzdkMTA4LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDM5MjctYjdlNS03MzI0LTlhNjUtNTQ0YjEwYzdkMTA4LmpwZw==.jpg"
+        },
+        {
+          "id": "https://cointelegraph.jp/news/etheruem-flippening-odds-rise-wont-involve-bitcoin",
+          "author": "Cointelegraph  Yashu Gola",
+          "description": "Polymarketのトレーダーは現在、2026年にETHが仮想通貨時価総額2位の座を失う現実的なリスクがあると考えており、その確率は今年、17%から59%以上に急上昇した。",
+          "link": "https://cointelegraph.jp/news/etheruem-flippening-odds-rise-wont-involve-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedOn": "2026-03-29T22:43:37.000Z",
+          "wordCount": 273,
+          "title": "イーサリアムの「フリッペニング」の可能性が上昇、ただしビットコインとの逆転ではない",
+          "enclosure": {
+            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDM4ZmUtYzc4OS03OGZmLTkwMDMtNGZhZTJkZWE0ZTM2LmpwZw==.jpg",
+            "length": "528",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDM4ZmUtYzc4OS03OGZmLTkwMDMtNGZhZTJkZWE0ZTM2LmpwZw==.jpg"
+        },
         {
           "id": "https://cointelegraph.jp/news/sam-altman-world-wld-sale-65m-token-lows",
           "author": "Cointelegraph  Amin Haqshanas",
@@ -2397,36 +2422,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JkN2ItYmY4ZC03NmUxLWEyMzYtMjQxZmZmNGU1YzQxLmpwZw==.jpg"
-        },
-        {
-          "id": "https://cointelegraph.jp/news/bitcoin-retakes-71k-us-sends-iran-15-point-ceasefire-plan",
-          "author": "Cointelegraph  Nancy Lubale",
-          "description": "ビットコイン（BTC）は7万1000ドル台を回復した。トランプ政権がイランに対し戦争終結に向けた15項目の提案を提示したことで、リスク資産に短期的な楽観が広がった。",
-          "link": "https://cointelegraph.jp/news/bitcoin-retakes-71k-us-sends-iran-15-point-ceasefire-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-03-25T11:24:39.000Z",
-          "wordCount": 290,
-          "title": "【BTC価格】ビットコイン 7万1000ドル回復　停戦期待で急反発も7万2000ドルが壁か",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUxZTAtZjEyMy03ZTc1LTljNzAtOThjY2E1NGZmNGI0.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUxZTAtZjEyMy03ZTc1LTljNzAtOThjY2E1NGZmNGI0.jpg"
-        },
-        {
-          "id": "https://cointelegraph.jp/news/bhutan-moves-519-bitcoin-sovereign-wallet-drawdown-march",
-          "author": "Cointelegraph  Zoltan Vardai",
-          "description": "ブータンは水曜日、政府関連ウォレットからビットコイン（BTC）を移動させ、3月に入ってから続く保有資産の取り崩しをさらに進めた。",
-          "link": "https://cointelegraph.jp/news/bhutan-moves-519-bitcoin-sovereign-wallet-drawdown-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "publishedOn": "2026-03-25T11:05:40.000Z",
-          "wordCount": 240,
-          "title": "ブータン政府がビットコインを売却か　国家保有BTCに再び動き",
-          "enclosure": {
-            "url": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDI0NWMtOWYwMi03OTkyLWI4YjQtNzQ5OWEzNGE2OGU0LmpwZw==.jpg",
-            "length": "528",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDI0NWMtOWYwMi03OTkyLWI4YjQtNzQ5OWEzNGE2OGU0LmpwZw==.jpg"
         }
       ]
     },
@@ -3489,21 +3484,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_2482347779-1.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=157425",
-          "author": "Crypto Times 編集部",
-          "description": "メタプラネット社は3月25日、株主限定の新たな還元サービス「メタプラネットカード」を今年の夏に提供開始することを発表しました。「毎日の決済をビットコインと日本の未来へ」というコンセプトに基づき、日常のクレジットカード利用 […]\n投稿 「メタプラネットカード」が今夏開始｜1.6%のBTC還元へ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-new-meta-planet-cards-launching-this-summer/",
-          "publishedOn": "2026-03-25T11:03:07.000Z",
-          "wordCount": 600,
-          "title": "「メタプラネットカード」が今夏開始｜1.6%のBTC還元へ",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/03/shutterstock_1889347375.jpg"
         }
       ]
     }

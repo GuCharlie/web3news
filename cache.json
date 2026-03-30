@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=342947",
+          "author": "井上 俊彦",
+          "description": "分散型金融（DeFi）レンディングプロトコルのAave（アーベ）は、OKXのイーサリアム（Ethereum）レイヤー2ネットワーク「X Layer」でサービスを ...\nAave、OKXのレイヤー2ネットワーク「X Layer」でサービスを開始 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/342947/",
+          "publishedOn": "2026-03-30T07:45:00.000Z",
+          "wordCount": 1589,
+          "title": "Aave、OKXのレイヤー2ネットワーク「X Layer」でサービスを開始",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2454781387.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=342934",
           "author": "栃山 直樹",
           "description": "【CoinDesk Summary】 ●カナダの法案C-25は、連邦政治制度全体において暗号資産、郵便為替、プリペイドカードによる献金を禁止するものであり、20 ...\nカナダも選挙への「暗号資産献金」を禁止へ──英国に続き first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -564,6 +574,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=697836",
+          "author": "Enzo",
+          "description": "アーカムの報告によると、イーサリアム財団が約4,620万ドル相当のETHをステーキング。2月発表の7万ETH計画の一環で、単発では過去最大規模となる入金が確認された。",
+          "link": "https://coinpost.jp/?p=697836",
+          "publishedOn": "2026-03-30T07:55:21.000Z",
+          "wordCount": 4008,
+          "title": "イーサリアム財団、約67億円相当のETHをステーキング　計画の一環で過去最大規模＝アーカム",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/ethereum-fusaka.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/ethereum-fusaka.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=697812",
           "author": "Enzo",
@@ -1583,36 +1608,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/bitmine-eth-down-bad.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/bitmine-eth-down-bad.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=696799",
-          "author": "菊谷ルイス",
-          "description": "米下院金融委員会が証券トークン化の公聴会を開催し、SECのイノベーション免除案や投資家保護をめぐり与野党から異なる懸念が噴出。ブラックロックやフランクリン・テンプルトンなど大手機関の動向とあわせ、米国のデジタル証券規制の行方が問われている。",
-          "link": "https://coinpost.jp/?p=696799",
-          "publishedOn": "2026-03-25T20:35:25.000Z",
-          "wordCount": 3991,
-          "title": "証券トークン化、米議会で議論本格化　SEC免除策が争点に",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/congress-working-night.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/congress-working-night.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=696787",
-          "author": "菊谷ルイス",
-          "description": "ブータン政府系ファンドが519.7BTC（約60億円）を移動し、一部はQCPキャピタルへ送金。ピーク時から65%減となった保有量の行方に投資家の注目が集まる。",
-          "link": "https://coinpost.jp/?p=696787",
-          "publishedOn": "2026-03-25T20:00:11.000Z",
-          "wordCount": 3990,
-          "title": "ブータン政府、60億円相当BTCを移動　保有量ピーク比65%減",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-new-2026-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-new-2026-1.jpg"
         }
       ]
     },

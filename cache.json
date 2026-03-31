@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=343114",
+          "author": "XWIN Research",
+          "description": "● Exchange Whale Ratioの上昇により、短期的にはクジラ主導の売り圧が優勢● 企業（特にMicroStrategy）は約62,000BTCを買 ...\nクジラは売り、企業は買う──ビットコイン需給の二重構造【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/343114/",
+          "publishedOn": "2026-03-31T22:15:00.000Z",
+          "wordCount": 1697,
+          "title": "クジラは売り、企業は買う──ビットコイン需給の二重構造【エックスウィンリサーチ】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/nadanews_top-75.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=343111",
+          "author": "Shoko Galaviz",
+          "description": "国際商業決済の大手Convera（コンベラ）は、ブロックチェーン技術を活用した金融ソリューションを提供するRipple（リップル）との戦略的提携を発表した。両社 ...\nRippleとConveraが提携──ステーブルコイン活用の国際送金を強化 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/343111/",
+          "publishedOn": "2026-03-31T22:00:00.000Z",
+          "wordCount": 1604,
+          "title": "RippleとConveraが提携──ステーブルコイン活用の国際送金を強化",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_1109552210.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=343106",
           "author": "Shoko Galaviz",
           "description": "ブータン王国政府が保有するビットコイン（BTC）の移動が加速している。オンチェーン分析プラットフォームArkham（アーカム）のデータによると、同国政府は直近で ...\nブータン政府、約39億円相当のビットコインを移動 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -370,26 +390,6 @@
           "wordCount": 1681,
           "title": "マトリックス法によるテクニカル分析（2026/3/27）はっきりしない【楽天ウォレット】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/tr-thumb_260327.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=342818",
-          "author": "松嶋 真倫 マネックス証券 フィナンシャル・インテリジェンス部 暗号資産アナリスト",
-          "description": "● 今週のビットコインは、中東紛争を巡るヘッドラインに大きく左右される中、売りと買いが交錯し、もみ合う展開となった。 ● 来週のビットコインは、米国とイランを巡 ...\nBTC（ビットコイン）はイラン情勢と米雇用統計に左右され、不安定な展開が続くか【マネックス証券】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/342818/",
-          "publishedOn": "2026-03-27T10:08:50.000Z",
-          "wordCount": 1658,
-          "title": "BTC（ビットコイン）はイラン情勢と米雇用統計に左右され、不安定な展開が続くか【マネックス証券】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/97f79abe23f33a17946780abd713f92f.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=342796",
-          "author": "井上 俊彦",
-          "description": "ビットコイン（BTC）は6万70000ドル台まで下落したが、クジラやサメ（大口保有者）は蓄積（買い増し）を続けている。 オンチェーン分析企業のSantiment ...\nマクロ経済の先行きが不透明な中、ビットコインのクジラは1カ月で6万BTC以上を蓄積 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/342796/",
-          "publishedOn": "2026-03-27T09:45:00.000Z",
-          "wordCount": 1579,
-          "title": "マクロ経済の先行きが不透明な中、ビットコインのクジラは1カ月で6万BTC以上を蓄積",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/04/shutterstock_776180275.jpg"
         }
       ]
     },
@@ -404,6 +404,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=698283",
+          "author": "菊谷ルイス",
+          "description": "米CFTCは、仮想通貨取引所KuCoinの運営会社Peken Globalに対し、50万ドルの民事制裁金と米居住者へのサービス提供の永久禁止を命じる同意命令を発表した。DOJとの刑事訴訟での有罪判決と合わせ少なくとも2年間の米国市場撤退が確定した。",
+          "link": "https://coinpost.jp/?p=698283",
+          "publishedOn": "2026-03-31T22:00:36.000Z",
+          "wordCount": 4017,
+          "title": "KuCoin運営会社、無登録での米市場参入を「永久禁止」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/cftc-new-leader.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/cftc-new-leader.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=698281",
+          "author": "菊谷ルイス",
+          "description": "米投資銀行TDコーウェンが仮想通貨市場構造法案「クラリティー法」の今年可決確率を3分の1と警告。コインベースと銀行業界の対立が続く中、8月の議会休会前が事実上の最終局面となる。",
+          "link": "https://coinpost.jp/?p=698281",
+          "publishedOn": "2026-03-31T21:35:52.000Z",
+          "wordCount": 4018,
+          "title": "仮想通貨規制のクラリティー法、今年可決の確率は3分の1か　米投資銀行TDコーウェン警告",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/stablecoin-congress-vote-next-week.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/stablecoin-congress-vote-next-week.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=698282",
           "author": "菊谷ルイス",
@@ -1093,21 +1123,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/polymarket-new-valuation.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/polymarket-new-valuation.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=697476",
-          "author": "Ritsuki.Kumazawa",
-          "description": "ビットコイン業界の重鎮であるJAN3のサムソン・モウCEOがJAPAN BITCOIN FUTURE FORUMに登壇。米国との法整備格差やビットコインETFの必要性、「4年サイクル崩壊」による需給構造の変化まで、日本が直面する課題を多角的に論じた。",
-          "link": "https://coinpost.jp/?p=697476",
-          "publishedOn": "2026-03-27T10:01:27.000Z",
-          "wordCount": 3847,
-          "title": "サムソン・モウが語る日本のビットコイン戦略の現在地｜JAPAN BITCOIN FUTURE FORUM",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/jbff_samson_mow.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/jbff_samson_mow.jpeg"
         }
       ]
     },

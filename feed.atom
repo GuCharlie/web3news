@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-31T08:36:00.494Z</updated>
+    <updated>2026-03-31T10:02:11.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fireblocksとは？デジタル資産を守る多層防御のセキュリティ基盤｜特徴・導入事例を解説]]></title>
+        <id>https://coinpost.jp/?p=698173</id>
+        <link href="https://coinpost.jp/?p=698173"/>
+        <updated>2026-03-31T09:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Fireblocksは世界2,400社以上が採用する機関向けデジタル資産セキュリティ基盤。MPC技術と多層防御により、銀行・取引所・フィンテックのデジタル資産を安全に守るインフラを提供する。]]></summary>
+        <author>
+            <name>Ritsuki.Kumazawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、アプリ内で予測市場取引が可能に　Predict.funと連携]]></title>
+        <id>https://coinpost.jp/?p=698227</id>
+        <link href="https://coinpost.jp/?p=698227"/>
+        <updated>2026-03-31T09:04:12.000Z</updated>
+        <summary type="html"><![CDATA[バイナンスが2026年3月31日、バイナンス ウォレットにPredict.funとの予測市場機能を統合。アプリのMarketsタブからスポーツ・政治・仮想通貨価格などのイベント予測取引が可能に。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LN Trends 2026年2月（vol.16）]]></title>
+        <id>https://www.nadanews.com/?p=343059</id>
+        <link href="https://www.nadanews.com/343059/"/>
+        <updated>2026-03-31T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所bitbankを運営するビットバンクが公開した「LN Trends」最新号を転載してお届けします（LN：Lightning Netwo ...
+LN Trends 2026年2月（vol.16） first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>bitbank Ventures</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トレードワークス、L0とL1構造の企業向けWeb3基盤「THXNET.」採用へ、THXラボと提携で]]></title>
+        <id>https://www.neweconomy.jp/?p=561282</id>
+        <link href="https://www.neweconomy.jp/posts/561282"/>
+        <updated>2026-03-31T08:36:52.000Z</updated>
+        <summary type="html"><![CDATA[TradeWorksがTHXNET.採用へ 東証スタンダード上場の金融システム開発企業トレードワークス（TradeWorks）と、Web3 as a Serviceプラットフォーム「THXネット（THXNET.）」開発・ […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世界の暗号資産ETP、5週間ぶりに資金流出を記録：CoinShares]]></title>
         <id>https://www.nadanews.com/?p=343092</id>
@@ -2820,36 +2861,6 @@ GameStop、保有ビットコインをオプション戦略へ転換 first appea
         <summary type="html"><![CDATA[スティーブン・リンチ下院議員は、ドナルド・トランプ政権下でのSECの方向性に懸念を表明し、仮想通貨企業に対する調査や執行措置の中止を挙げた。]]></summary>
         <author>
             <name>Cointelegraph  Turner Wright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stripe支援のTempoチェーンにテザー「USDT0」が拡張、クロスチェーン決済の標準化を加速]]></title>
-        <id>https://coinpost.jp/?p=697093</id>
-        <link href="https://coinpost.jp/?p=697093"/>
-        <updated>2026-03-26T21:35:57.000Z</updated>
-        <summary type="html"><![CDATA[Stripe支援の決済特化型L1「Tempo」にテザーのUSDT0が拡張。LayerZeroのオムニチェーン技術により、商用決済のクロスチェーン化と標準化を強力に推進する。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPモルガン分析——有事下でビットコインが金・銀を上回る相対的底堅さ]]></title>
-        <id>https://coinpost.jp/?p=697092</id>
-        <link href="https://coinpost.jp/?p=697092"/>
-        <updated>2026-03-26T21:20:54.000Z</updated>
-        <summary type="html"><![CDATA[イラン戦争勃発後、金ETFから110億ドルが流出する一方でビットコインは純流入を維持。JPモルガンのアナリストが指摘する仮想通貨の地政学的耐性と、投資家が今後注視すべきポイントを解説する。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trust WalletがAI取引機能を公開、2億超ユーザーがエージェント活用可能に]]></title>
-        <id>https://coinpost.jp/?p=697088</id>
-        <link href="https://coinpost.jp/?p=697088"/>
-        <updated>2026-03-26T20:55:15.000Z</updated>
-        <summary type="html"><![CDATA[バイナンス傘下Trust WalletはAIエージェント向けの開発キット「TWAK」をリリースした。ビットコインやソラナを含む25以上のチェーンで人工知能による資産管理や直接のオンチェーン取引が可能となる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>

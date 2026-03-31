@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=343059",
+          "author": "bitbank Ventures",
+          "description": "暗号資産（仮想通貨）取引所bitbankを運営するビットバンクが公開した「LN Trends」最新号を転載してお届けします（LN：Lightning Netwo ...\nLN Trends 2026年2月（vol.16） first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/343059/",
+          "publishedOn": "2026-03-31T09:00:00.000Z",
+          "wordCount": 2007,
+          "title": "LN Trends 2026年2月（vol.16）",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/08/IMG_0997-768x512-1-768x512-1-768x512-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=343092",
           "author": "井上 俊彦",
           "description": "暗号資産（仮想通貨）運用大手CoinShares（コインシェアーズ） のリサーチ責任者James Butterfill（ジェームズ・バターフィル）氏のブログ投稿 ...\n世界の暗号資産ETP、5週間ぶりに資金流出を記録：CoinShares first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -554,6 +564,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=698173",
+          "author": "Ritsuki.Kumazawa",
+          "description": "Fireblocksは世界2,400社以上が採用する機関向けデジタル資産セキュリティ基盤。MPC技術と多層防御により、銀行・取引所・フィンテックのデジタル資産を安全に守るインフラを提供する。",
+          "link": "https://coinpost.jp/?p=698173",
+          "publishedOn": "2026-03-31T09:30:27.000Z",
+          "wordCount": 6027,
+          "title": "Fireblocksとは？デジタル資産を守る多層防御のセキュリティ基盤｜特徴・導入事例を解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/20260331.fireblocks.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/20260331.fireblocks.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=698227",
+          "author": "Enzo",
+          "description": "バイナンスが2026年3月31日、バイナンス ウォレットにPredict.funとの予測市場機能を統合。アプリのMarketsタブからスポーツ・政治・仮想通貨価格などのイベント予測取引が可能に。",
+          "link": "https://coinpost.jp/?p=698227",
+          "publishedOn": "2026-03-31T09:04:12.000Z",
+          "wordCount": 4020,
+          "title": "バイナンス、アプリ内で予測市場取引が可能に　Predict.funと連携",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/binance-rebuke.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/binance-rebuke.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=698160",
           "author": "Enzo",
@@ -1483,51 +1523,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/bitcoin_brazil_digital_asset1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/bitcoin_brazil_digital_asset1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=697093",
-          "author": "菊谷ルイス",
-          "description": "Stripe支援の決済特化型L1「Tempo」にテザーのUSDT0が拡張。LayerZeroのオムニチェーン技術により、商用決済のクロスチェーン化と標準化を強力に推進する。",
-          "link": "https://coinpost.jp/?p=697093",
-          "publishedOn": "2026-03-26T21:35:57.000Z",
-          "wordCount": 3990,
-          "title": "Stripe支援のTempoチェーンにテザー「USDT0」が拡張、クロスチェーン決済の標準化を加速",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/Stripe-Thumbnail.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/Stripe-Thumbnail.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=697092",
-          "author": "菊谷ルイス",
-          "description": "イラン戦争勃発後、金ETFから110億ドルが流出する一方でビットコインは純流入を維持。JPモルガンのアナリストが指摘する仮想通貨の地政学的耐性と、投資家が今後注視すべきポイントを解説する。",
-          "link": "https://coinpost.jp/?p=697092",
-          "publishedOn": "2026-03-26T21:20:54.000Z",
-          "wordCount": 3989,
-          "title": "JPモルガン分析——有事下でビットコインが金・銀を上回る相対的底堅さ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/even-more-bitcoin.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/even-more-bitcoin.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=697088",
-          "author": "菊谷ルイス",
-          "description": "バイナンス傘下Trust WalletはAIエージェント向けの開発キット「TWAK」をリリースした。ビットコインやソラナを含む25以上のチェーンで人工知能による資産管理や直接のオンチェーン取引が可能となる。",
-          "link": "https://coinpost.jp/?p=697088",
-          "publishedOn": "2026-03-26T20:55:15.000Z",
-          "wordCount": 3995,
-          "title": "Trust WalletがAI取引機能を公開、2億超ユーザーがエージェント活用可能に",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/introducing_the_trust_wallet_agent_kit_twak_your_ai_agent_can_now_act_on_crypto_02a7baee66-copy.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/introducing_the_trust_wallet_agent_kit_twak_your_ai_agent_can_now_act_on_crypto_02a7baee66-copy.jpg"
         }
       ]
     },
@@ -1536,6 +1531,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=561282",
+          "author": "HitomotoToshikazu",
+          "description": "TradeWorksがTHXNET.採用へ 東証スタンダード上場の金融システム開発企業トレードワークス（TradeWorks）と、Web3 as a Serviceプラットフォーム「THXネット（THXNET.）」開発・ […]",
+          "link": "https://www.neweconomy.jp/posts/561282",
+          "publishedOn": "2026-03-31T08:36:52.000Z",
+          "wordCount": 758,
+          "title": "トレードワークス、L0とL1構造の企業向けWeb3基盤「THXNET.」採用へ、THXラボと提携で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/31173605/b21f53efaa86a1b0f1c27b784ff53ff1.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=561266",
           "author": "watanabeyousuke",

@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-01T20:43:19.351Z</updated>
+    <updated>2026-04-01T21:37:46.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Solana上の取引プラットフォーム「Drift」、大規模攻撃被害]]></title>
+        <id>https://www.nadanews.com/?p=343205</id>
+        <link href="https://www.nadanews.com/343205/"/>
+        <updated>2026-04-01T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ソラナブロックチェーン上で運用される分散型取引プラットフォーム「Drift Protocol（ドリフト・プロトコル）」が大規模な攻撃を受け、少なくとも2億ドル（ ...
+Solana上の取引プラットフォーム「Drift」、大規模攻撃被害 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBI傘下B2C2、ソラナを主要決済網に採用]]></title>
+        <id>https://coinpost.jp/?p=698600</id>
+        <link href="https://coinpost.jp/?p=698600"/>
+        <updated>2026-04-01T21:10:51.000Z</updated>
+        <summary type="html"><![CDATA[SBI傘下の機関投資家向け仮想通貨流動性プロバイダー「B2C2」がソラナを中核決済ネットワークに指定した。ステーブルコイン市場での存在感を高めるソラナが、伝統的金融機関の決済インフラとして定着しつつある。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Franklin Templeton、暗号資産運用事業を強化へ──CoinFund系スピンオフ企業を買収]]></title>
+        <id>https://www.nadanews.com/?p=343201</id>
+        <link href="https://www.nadanews.com/343201/"/>
+        <updated>2026-04-01T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米大手資産運用会社Franklin Templeton（フランクリン・テンプルトン）は、暗号資産（仮想通貨）運用会社250 Digital（250デジタル）の買 ...
+Franklin Templeton、暗号資産運用事業を強化へ──CoinFund系スピンオフ企業を買収 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JPモルガンが予測市場参入検討、3兆円規模の巨大市場へ金融巨頭が動くか]]></title>
+        <id>https://coinpost.jp/?p=698601</id>
+        <link href="https://coinpost.jp/?p=698601"/>
+        <updated>2026-04-01T20:55:00.000Z</updated>
+        <summary type="html"><![CDATA[JPモルガンのダイモンCEOが予測市場参入の可能性に言及。月次取引高が200億ドルを突破し、ICEやNYSEも出資するなど、伝統的金融機関による地政学リスク取引への関心が急速に高まっている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナ基盤DeFiドリフトで大規模ハック被害、最大430億円流出か]]></title>
         <id>https://coinpost.jp/?p=698602</id>

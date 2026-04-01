@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=343176",
+          "author": "井上 俊彦",
+          "description": "ビットコイン（BTC）マイニング大手のBitfarms（ビットファームズ）は2026年3月31日、2025年度通期の決算を発表した。売上高は前年比72%増の2億 ...\nBitfarmsのAIへの事業転換を市場は好感──ビットコインはすべて売却の方針 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/343176/",
+          "publishedOn": "2026-04-01T08:30:00.000Z",
+          "wordCount": 1588,
+          "title": "BitfarmsのAIへの事業転換を市場は好感──ビットコインはすべて売却の方針",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_772693789.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=343164",
+          "author": "廣瀬 優香",
+          "description": "ビットコイン（BTC）トレジャリー企業のNakamotoは、SEC（米証券取引委員会）に提出した年次報告書（10-K）　で、2026年3月に約284BTCを20 ...\nビットコイントレジャリー企業Nakamoto、2000万ドル相当のBTC売却 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/343164/",
+          "publishedOn": "2026-04-01T07:45:00.000Z",
+          "wordCount": 1588,
+          "title": "ビットコイントレジャリー企業Nakamoto、2000万ドル相当のBTC売却",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_1023322507.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=343157",
           "author": "栃山 直樹",
           "description": "三菱商事が2026年度にも、米金融大手JPモルガン・チェースのブロックチェーン基盤を活用し、デジタル預金口座を介した国際送金を開始すると3月31日、日経新聞が報 ...\n三菱商事、JPモルガンのブロックチェーン基盤でドル建て即時送金へ──日系企業初：報道 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -1308,36 +1328,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/anthropic-mythos-.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/anthropic-mythos-.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=697564",
-          "author": "菊谷ルイス",
-          "description": "リップルのCEOブラッド・ガーリングハウスが過去最高の四半期業績を見込む一方、クラリティー法の成立が4月末から5月末に後ずれする見通しを示した。",
-          "link": "https://coinpost.jp/?p=697564",
-          "publishedOn": "2026-03-27T20:40:21.000Z",
-          "wordCount": 4015,
-          "title": "買収効果で最高益見通し、リップルCEOが成長戦略を語る",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/ripple-xrp-new-new.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/ripple-xrp-new-new.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=697333",
-          "author": "菊谷ルイス",
-          "description": "インターコンチネンタル取引所がポリマーケットへの追加6億ドル出資を完了し累計16億ドルに達した。規制圧力が高まる中での資金調達の行方が注目される。",
-          "link": "https://coinpost.jp/?p=697333",
-          "publishedOn": "2026-03-27T20:00:31.000Z",
-          "wordCount": 4017,
-          "title": "NYSE親会社ICE、ポリマーケットに6億ドル追加出資",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/polymarket-new-valuation.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/polymarket-new-valuation.jpg"
         }
       ]
     },
@@ -1346,6 +1336,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=561742",
+          "author": "watanabeyousuke",
+          "description": "L2とメインネットを単一トランザクションで接続する枠組み イーサリアム（Ethereum）のレイヤー2（L2）間およびメインネット（L1）との処理を、単一トランザクションで実行可能にする新たなフレームワーク「イーサリアム […]",
+          "link": "https://www.neweconomy.jp/posts/561742",
+          "publishedOn": "2026-04-01T07:38:05.000Z",
+          "wordCount": 803,
+          "title": "イーサリアムL1・L2間の同期処理フレームワーク「EEZ」構想を提示",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/01163752/b71213dca03ce23c391c2beebf8b227d.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=561744",
+          "author": "watanabeyousuke",
+          "description": "ERC-8183がArcテストネット上で稼働 AIエージェント同士の商取引を想定したイーサリアム改善提案（Ethereum Improvement Proposal：EIP）のドラフト「ERC-8183（Agentic  […]",
+          "link": "https://www.neweconomy.jp/posts/561744",
+          "publishedOn": "2026-04-01T07:31:45.000Z",
+          "wordCount": 793,
+          "title": "ERC8183、サークルの「Arc」テストネットで稼働。AIエージェントのジョブ実行をオンチェーン化",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/01163126/c38b9c67cff4c2cef30e17a42fa6bbed.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=561674",
           "author": "HitomotoToshikazu",
@@ -2220,6 +2230,76 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=158395",
+          "author": "Crypto Times 編集部",
+          "description": "Ripple（リップル）が出資するデジタル資産投資グループのKeyrockが、シリーズCラウンドでの資金調達を完了し、企業評価額が11億ドルに達しました。 Nine years. 220+ team members an […]\n投稿 リップル出資のKeyrock、評価額11億ドルに｜流動性インフラ強化へ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-ripple-backed-keyrock-valued-at-1-1-billion/",
+          "publishedOn": "2026-04-01T08:00:02.000Z",
+          "wordCount": 627,
+          "title": "リップル出資のKeyrock、評価額11億ドルに｜流動性インフラ強化へ",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_1992408824.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=158398",
+          "author": "Crypto Times 編集部",
+          "description": "AIが人間の開発者を代替するーーこの議論に対し、ビットコイン投資家の視点から独自の解釈を展開する論考が仮想通貨レンディング企業Arch Lendingのブログで公開されました。 Coding is dead. The v […]\n投稿 AIがコードを書く時代。人間に残る価値｜BTCの希少性からの考察 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-the-value-that-ai-leaves-for-humanity-in-each-era/",
+          "publishedOn": "2026-04-01T07:49:40.000Z",
+          "wordCount": 642,
+          "title": "AIがコードを書く時代。人間に残る価値｜BTCの希少性からの考察",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2589252759.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=158399",
+          "author": "Crypto Times 編集部",
+          "description": "仮想通貨市場で詐欺や資金洗浄にAIが悪用されるケースが増加するなか、その対抗手段としてもAIを活用する動きが出てきました。ブロックチェーン分析大手のChainalysis（チェイナリシス）は、年次カンファレンス「Link […]\n投稿 仮想通貨の詐欺・資金洗浄対策にAIエージェント活用へ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-ai-agents-to-be-used-to-combat-cryptocurrency-fraud-and-money-laundering/",
+          "publishedOn": "2026-04-01T07:29:19.000Z",
+          "wordCount": 587,
+          "title": "仮想通貨の詐欺・資金洗浄対策にAIエージェント活用へ",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2699192913.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=158400",
+          "author": "Crypto Times 編集部",
+          "description": "SBIグループが日本の暗号資産市場において包括的な事業展開を進めています。リサーチメディア4pillarsは同グループの戦略を「フルスタック戦略」と位置づけ、日本市場における主要プレイヤーとして分析しています。 : :  […]\n投稿 なぜSBIは暗号資産に全力なのか？メガバンクとの戦略差 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-sbi-going-all-in-on-cryptocurrencies/",
+          "publishedOn": "2026-04-01T07:15:52.000Z",
+          "wordCount": 652,
+          "title": "なぜSBIは暗号資産に全力なのか？メガバンクとの戦略差",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2049781958.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=146045",
+          "author": "Crypto Times 編集部",
+          "description": "Triaは仮想通貨を日常の買い物で使える最大6%（条件次第では8%までブースト可）キャッシュバックのVISA対応クレジットカードを提供するプロジェクトです。 Triaは1,200万ドルの資金調達を実施し、ユーザー数は30 […]\n投稿 仮想通貨クレカ「Tria」の登録方法・使い方【4月最新版】 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/how-to-use-tria/",
+          "publishedOn": "2026-04-01T06:16:14.000Z",
+          "wordCount": 686,
+          "title": "仮想通貨クレカ「Tria」の登録方法・使い方【4月最新版】",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/10/how-to-tria.png"
+        },
         {
           "id": "https://crypto-times.jp/?p=158264",
           "author": "よきょい",

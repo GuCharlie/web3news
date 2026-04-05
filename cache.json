@@ -645,6 +645,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=699304",
+          "author": "M.Gelacio",
+          "description": "BTC対円相場は1050〜1090万円台でのレンジ推移。対イラン攻撃期限や米雇用統計・CPIの結果次第では、6万ドル台への下落も視野に。",
+          "link": "https://coinpost.jp/?p=699304",
+          "publishedOn": "2026-04-05T02:30:05.000Z",
+          "wordCount": 4459,
+          "title": "ビットコイン中東緊張で上値重く、対イラン攻撃期限と雇用統計が焦点｜bitbankアナリスト寄稿",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=699082",
           "author": "CoinPost編集部",
           "description": "前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナといった主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。",
@@ -2095,16 +2110,6 @@
           "wordCount": 807,
           "title": "ビットマインがイーサリアム追加取得、総保有数は約473万ETHで全供給量の3.92%に",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/01110949/78af337c07461c5d9240e8364338b079.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=561539",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/561539",
-          "publishedOn": "2026-03-31T14:34:20.000Z",
-          "wordCount": 795,
-          "title": "【3/31話題】キャプテン翼RIVALSのMini App版が終了へ、ビットバンクがきらぼしと5億円のコミットメントラインなど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/31202113/2a689d1146473342743d4ee3cb52ecaf.jpg"
         }
       ]
     },
@@ -2630,6 +2635,36 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=158761",
+          "author": "よきょい",
+          "description": "今週のJPYC株式会社は、国内外での社会実装に向けたマイルストーンとなる複数の大きな動きがありました。 エルサルバドルでの決済利用が報告された他、代表の岡部氏が韓国の主要フォーラムに登壇するなど東アジア圏でのプレゼンス向 […]\n投稿 【今週のJPYCまとめ】エルサルバドルで決済利用。3月レポート公開 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-jpyc-summary-for-this-week-april-5th/",
+          "publishedOn": "2026-04-05T05:54:54.000Z",
+          "wordCount": 580,
+          "title": "【今週のJPYCまとめ】エルサルバドルで決済利用。3月レポート公開",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2203381821.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=158762",
+          "author": "よきょい",
+          "description": "今週のリップルは、エコシステムの拡大と金融機関の実装に向けた複数の大きな動きがありました。 「Ripple Prime」とHyperliquidの統合拡大により、伝統的資産のオンチェーン取引が加速するという好材料が発表さ […]\n投稿 【今週のリップルまとめ】金や原油の先物取引を提供へ。銀行向けに「秘匿送金」導入 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-this-weeks-ripple-summary-april-5th/",
+          "publishedOn": "2026-04-05T02:40:22.000Z",
+          "wordCount": 585,
+          "title": "【今週のリップルまとめ】金や原油の先物取引を提供へ。銀行向けに「秘匿送金」導入",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2568180081.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=158794",
           "author": "Crypto Times 編集部",

@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-06T20:34:07.271Z</updated>
+    <updated>2026-04-06T21:34:28.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kalshi、スポーツ予測契約でニュージャージー州に勝訴]]></title>
+        <id>https://www.nadanews.com/?p=343731</id>
+        <link href="https://www.nadanews.com/343731/"/>
+        <updated>2026-04-06T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[米予測市場プラットフォームのKalshi（カルシ）は、スポーツ関連のイベント契約をめぐる訴訟で重要な勝利を収めた。米連邦第3巡回控訴裁判所は、ニュージャージー州 ...
+Kalshi、スポーツ予測契約でニュージャージー州に勝訴 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サークルのArcブロックチェーン、設計段階から量子対策実装を計画]]></title>
+        <id>https://coinpost.jp/?p=699813</id>
+        <link href="https://coinpost.jp/?p=699813"/>
+        <updated>2026-04-06T21:05:25.000Z</updated>
+        <summary type="html"><![CDATA[サークルが開発するEVM互換ブロックチェーン「アーク（Arc）」の耐量子コンピュータ暗号に関するロードマップを発表。「Q-Day」に備えた強固なインフラ基盤の構築と、機関投資家水準における長期的な資産保護計画が明らかになった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polymarket、大規模アップグレードへ──独自ステーブルコインも導入]]></title>
+        <id>https://www.nadanews.com/?p=343728</id>
+        <link href="https://www.nadanews.com/343728/"/>
+        <updated>2026-04-06T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[オンチェーン型予測市場として最大規模を誇るPolymarket（ポリマーケット）は、取引基盤の全面刷新に着手する。新たな取引エンジンの導入に加え、独自のステーブ ...
+Polymarket、大規模アップグレードへ──独自ステーブルコインも導入 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トム・リー率いるビットマイン、先週7万ETH超のイーサリアム追加取得　NYSE本市場昇格も決定]]></title>
+        <id>https://coinpost.jp/?p=699812</id>
+        <link href="https://coinpost.jp/?p=699812"/>
+        <updated>2026-04-06T20:30:26.000Z</updated>
+        <summary type="html"><![CDATA[ビットマインが先週7.1万ETHを追加購入し、保有総量は480.3万ETHに到達した。仮想通貨・現金の総資産は114億ドルに拡大し、NYSE本市場への昇格も決定した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ストラテジー、先週526億円相当ビットコインを買い増し　優先株回復を受け]]></title>
         <id>https://coinpost.jp/?p=699804</id>
@@ -1813,27 +1855,6 @@ Coinbase、国法信託銀行設立に向け条件付き承認取得 first appea
         <updated>2026-04-02T10:10:00.000Z</updated>
         <summary type="html"><![CDATA[Ripple（リップル）は4月1日、企業向け財務管理プラットフォーム「Ripple Treasury」に、新たな2つの機能「デジタル資産口座（Digital A ...
 Ripple、企業向け財務管理システムにデジタル資産管理機能を統合 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベースCEO、ビットコインの量子耐性対応に「自ら時間を割く」と表明]]></title>
-        <id>https://coinpost.jp/?p=698954</id>
-        <link href="https://coinpost.jp/?p=698954"/>
-        <updated>2026-04-02T08:53:37.000Z</updated>
-        <summary type="html"><![CDATA[コインベースCEOのアームストロング氏がビットコインの量子耐性対応に個人的に関与すると宣言。同社は諮問委員会設立に続き、業界横断ワーキンググループの結成も主導する。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインには明確な触媒がなく、ブレイクアウトには時間がかかる：Glassnode]]></title>
-        <id>https://www.nadanews.com/?p=343302</id>
-        <link href="https://www.nadanews.com/343302/"/>
-        <updated>2026-04-02T08:35:00.000Z</updated>
-        <summary type="html"><![CDATA[オンチェーンデータ分析大手のGlassnode（グラスノード）は4月1日、最新の週次レポートを発表し、ビットコイン（BTC）市場について「明確な触媒が欠如してお ...
-ビットコインには明確な触媒がなく、ブレイクアウトには時間がかかる：Glassnode first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>井上 俊彦</name>
         </author>

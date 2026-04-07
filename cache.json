@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=343865",
+          "author": "Shoko Galaviz",
+          "description": "米連邦預金保険公社（FDIC）は、ステーブルコイン発行体に対する新たな規制枠組みの提案を承認し、パブリックコメントの募集を開始した。今回のルール案は、昨年成立し ...\nFDIC、ステーブルコイン規制案を提示 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/343865/",
+          "publishedOn": "2026-04-07T22:00:00.000Z",
+          "wordCount": 1596,
+          "title": "FDIC、ステーブルコイン規制案を提示",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_1274652649.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=343862",
           "author": "Shoko Galaviz",
           "description": "Fox Corporation（フォックス・コーポレーション）と予測市場大手Kalshi（カルシ）は、カルシの予測データをFOX News Channel（フォ ...\nFOX、Kalshi予測データをニュース・配信基盤に統合へ first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -460,26 +470,6 @@
           "wordCount": 1611,
           "title": "暗号資産トレジャリー企業、TOPIXに新規追加せず──JPX要領改定",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_1460991443.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=343408",
-          "author": "NADA NEWS編集部",
-          "description": "日本最大級のブロックチェーン専門展「ブロックチェーンEXPO【春】」が、2026年4月15日から17日まで、東京ビッグサイトで開催される。 本イベントは、Web ...\n日本最大級のブロックチェーン専門展「ブロックチェーンEXPO 春」4月15〜17日開催──社会実装フェーズの最前線が集結 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/343408/",
-          "publishedOn": "2026-04-03T10:30:09.000Z",
-          "wordCount": 1641,
-          "title": "日本最大級のブロックチェーン専門展「ブロックチェーンEXPO 春」4月15〜17日開催──社会実装フェーズの最前線が集結",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/a8cada83072478a10bcfed2b8442fd2c.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=343450",
-          "author": "井上 俊彦",
-          "description": "Linux Foundation（リナックス財団）は2026年4月2日、Coinbase（コインベース）からx402プロトコルの提供を受け、「x402 Foun ...\nリナックス財団、「x402財団」を立ち上げ──ビッグテックも参加の意向 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/343450/",
-          "publishedOn": "2026-04-03T10:26:39.000Z",
-          "wordCount": 1605,
-          "title": "リナックス財団、「x402財団」を立ち上げ──ビッグテックも参加の意向",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2673568627.jpg"
         }
       ]
     },
@@ -490,7 +480,7 @@
       "articles": []
     },
     {
-      "title": "Stellar(XLM)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [

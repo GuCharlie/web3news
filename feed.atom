@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-08T14:07:23.798Z</updated>
+    <updated>2026-04-08T15:53:48.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【4/8話題】米FDICがGENIUS法に基づくステーブルコイン規制の提案規則を承認、Stabbleが指摘を受けユーザーへ流動性引き出しを案内（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=563712</id>
+        <link href="https://www.neweconomy.jp/posts/563712"/>
+        <updated>2026-04-08T15:26:39.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メタプラネット、株価317円で6.7%反発｜底打ちか、戻り売りの入口か]]></title>
         <id>https://crypto-times.jp/?p=159449</id>
@@ -2227,60 +2237,6 @@ JPYCとJPYSCは“競合”なのか──円ステーブルコインをめぐ�
         <summary type="html"><![CDATA[グーグルによる主要仮想通貨の耐量子計算機暗号（PQC）への移行ステータスおよび脆弱性評価を解明。ブロック生成時間が長いビットコイン特有のリスクや、1500億ドル規模に及び現実資産市場に対する潜在的な被害が、同社の最新研究データとともに定量化されている。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【今日の仮想通貨ニュース】トランプ発言で露呈したBTCの脆弱性。FIFAが予測市場に参入]]></title>
-        <id>https://crypto-times.jp/?p=158794</id>
-        <link href="https://crypto-times.jp/news-cryptocurrency-news-for-today-april-4th/"/>
-        <updated>2026-04-04T02:30:58.000Z</updated>
-        <summary type="html"><![CDATA[4月4日、ビットコイン（BTC）の価格は66,880ドル前後で推移しており、イーサリアム（ETH）は約2,050ドル、ソラナ（SOL）は約80ドルで取引されています。世界の暗号資産時価総額は2.38兆ドルで、ビットコイン […]
-投稿 【今日の仮想通貨ニュース】トランプ発言で露呈したBTCの脆弱性。FIFAが予測市場に参入 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米新司法長官にBTC保有者のブランシュ氏任命へ]]></title>
-        <id>https://crypto-times.jp/?p=158858</id>
-        <link href="https://crypto-times.jp/news-blanche-a-bitcoin-holder-appointed-as-the-new-us-attorney-general/"/>
-        <updated>2026-04-04T02:23:20.000Z</updated>
-        <summary type="html"><![CDATA[ドナルド・トランプ米大統領はパム・ボンディ司法長官を解任し、後任として副長官を務めていたトッド・ブランシュ（Todd Blanche）氏を司法省（DOJ）のトップに昇格させました。 ブランシュ氏はビットコインを保有してい […]
-投稿 米新司法長官にBTC保有者のブランシュ氏任命へ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナDEX「Drift」が北朝鮮系ハッカーに交渉提案、盗難資金の回収なるか]]></title>
-        <id>https://crypto-times.jp/?p=158862</id>
-        <link href="https://crypto-times.jp/news-solanadex-drift-proposes-negotiation-to-north-korean-hackers/"/>
-        <updated>2026-04-04T02:20:13.000Z</updated>
-        <summary type="html"><![CDATA[ソラナ基盤の分散型取引所（DEX）である「Drift」の開発チームが北朝鮮に関連すると見られるハッカーに対し、交渉の準備があることを示唆するメッセージをオンチェーンで送ったことが明らかになりました。 Critical i […]
-投稿 ソラナDEX「Drift」が北朝鮮系ハッカーに交渉提案、盗難資金の回収なるか は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「AIエージェントを狙う6つの罠」、グーグルが敵対的コンテンツの脅威を分析]]></title>
-        <id>https://coinpost.jp/?p=699415</id>
-        <link href="https://coinpost.jp/?p=699415"/>
-        <updated>2026-04-04T02:20:09.000Z</updated>
-        <summary type="html"><![CDATA[グーグルの人工知能研究チームが、自律型AIエージェントを不正操作する「敵対的コンテンツ」の脅威を6種類に分類した。攻撃手法と防御策を解説している。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年Q1仮想通貨市場、時価総額22%減]]></title>
-        <id>https://crypto-times.jp/?p=158867</id>
-        <link href="https://crypto-times.jp/news-cryptocurrency-market-sees-22-decrease-in-market-capitalization/"/>
-        <updated>2026-04-04T02:14:53.000Z</updated>
-        <summary type="html"><![CDATA[2026年第1四半期の仮想通貨市場は、地政学的リスクとマクロ経済の不確実性により時価総額が約22%減少する厳しい調整局面となりました。 この四半期で注目されたのは伝統的な金融資産とオンチェーンインフラの融合です。ハイパー […]
-投稿 2026年Q1仮想通貨市場、時価総額22%減 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
     <entry>

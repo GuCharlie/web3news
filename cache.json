@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=343972",
+          "author": "Shoko Galaviz",
+          "description": "ブロックチェーン分析企業Chainalysis（チェイナリシス）は、ステーブルコインが決済インフラの中核へと進化する可能性を示す分析を公開した。レポートによれば ...\nステーブルコイン、2035年に最大23京円規模へ：Chainalysis first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/343972/",
+          "publishedOn": "2026-04-08T21:30:00.000Z",
+          "wordCount": 1599,
+          "title": "ステーブルコイン、2035年に最大23京円規模へ：Chainalysis",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_464751032.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=343968",
+          "author": "Shoko Galaviz",
+          "description": "米フィンテック企業Circle（サークル）は、ステーブルコイン決済の導入を簡素化する新サービス「CPN Managed Payments」を発表した。銀行、フィ ...\nCircle、ステーブルコイン決済プラットフォームをローンチ first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/343968/",
+          "publishedOn": "2026-04-08T21:00:00.000Z",
+          "wordCount": 1602,
+          "title": "Circle、ステーブルコイン決済プラットフォームをローンチ",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2666015667-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=343965",
           "author": "井上 俊彦",
           "description": "オンチェーン分析プラットフォームのArkham Intelligence（アーカム・インテリジェンス）のデータによると、ビットコイン（BTC）のクジラ（大口保有 ...\nビットコインのクジラ、34億円相当のBTCをバイナンスに移動 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -594,6 +614,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=700483",
+          "author": "菊谷ルイス",
+          "description": "ポリゴンラボ（Polygon Labs）が新たなステーブルコイン決済事業に向け、最大1億ドルの資金調達を協議中。市場低迷期の事業多角化と、低迷する仮想通貨「POL」の経済圏活性化を図る。",
+          "link": "https://coinpost.jp/?p=700483",
+          "publishedOn": "2026-04-08T21:10:19.000Z",
+          "wordCount": 4008,
+          "title": "ポリゴンラボ、最大1億ドル調達を計画　ステーブルコイン決済事業参入へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/bitwise-polygon-new.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/bitwise-polygon-new.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=700482",
+          "author": "菊谷ルイス",
+          "description": "イランがホルムズ海峡の石油タンカー通行料を仮想通貨での支払いで徴収する計画。1バレル1ドルの料金設定でスーパータンカーの通行料が最大200万ドルに達する見通しを受け、ビットコインは5%上昇した。",
+          "link": "https://coinpost.jp/?p=700482",
+          "publishedOn": "2026-04-08T20:40:05.000Z",
+          "wordCount": 4018,
+          "title": "イラン政府、ホルムズ海峡通行料を仮想通貨で徴収方針　ビットコイン一時72000ドル超え",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/iran-new-.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/iran-new-.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=700474",
+          "author": "菊谷ルイス",
+          "description": "ニューヨークタイムズの1年調査で、英国の暗号学者アダム・バック氏がサトシ・ナカモトの有力候補として主張。文体分析と技術的知見の共通性を根拠としたが、バック氏は複数回にわたり否定している。",
+          "link": "https://coinpost.jp/?p=700474",
+          "publishedOn": "2026-04-08T20:00:13.000Z",
+          "wordCount": 4024,
+          "title": "ビットコイン創造者「サトシ」の正体、暗号学者バック氏が再度否定もNYタイムズは文体分析で有力候補と主張",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/10/who-is-satoshiii.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/10/who-is-satoshiii.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=700382",
           "author": "Enzo",

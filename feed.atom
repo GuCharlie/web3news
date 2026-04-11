@@ -2,10 +2,172 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-11T01:57:23.719Z</updated>
+    <updated>2026-04-11T06:56:34.004Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DuneのデータをSnowflakeへ、dbt連携でオンチェーン分析が効率化]]></title>
+        <id>https://crypto-times.jp/?p=160057</id>
+        <link href="https://crypto-times.jp/news-dbt-integration-streamlines-on-chain-analysis/"/>
+        <updated>2026-04-11T06:45:32.000Z</updated>
+        <summary type="html"><![CDATA[オンチェーンデータ分析プラットフォームのDuneはデータ変換ツール「dbt」を利用して、同社のデータカタログをSnowflakeやBigQueryへ直接出力できる新機能「dbt Connector」を発表しました。 Yo […]
+投稿 DuneのデータをSnowflakeへ、dbt連携でオンチェーン分析が効率化 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi利回りが3%以下に急落、米銀行を下回る「逆転現象」が発生]]></title>
+        <id>https://crypto-times.jp/?p=160028</id>
+        <link href="https://crypto-times.jp/news-defi-yields-plummet-to-below-3/"/>
+        <updated>2026-04-11T06:30:32.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨市場において長年続いてきた「DeFi（分散型金融）は銀行預金よりも高利回り」という大前提が崩れ始めています。主要なDeFiプロトコルの利回りが米国の伝統的な金融機関（TradFi）の金利を下回る「逆転現象」が鮮明 […]
+投稿 DeFi利回りが3%以下に急落、米銀行を下回る「逆転現象」が発生 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1社に1つのAI文化？Nansen CEOが明かす「規律」の重要性]]></title>
+        <id>https://crypto-times.jp/?p=160047</id>
+        <link href="https://crypto-times.jp/news-nansen-ceo-reveals-the-importance-of-discipline/"/>
+        <updated>2026-04-11T06:30:25.000Z</updated>
+        <summary type="html"><![CDATA[オンチェーン分析企業NansenのCEOであるアレックス・スヴァネヴィク氏は、AIネイティブな企業にとって次のステップは単にエージェントのスキルを向上させることではなく、独自の「エージェント文化」を構築することであるとの […]
+投稿 1社に1つのAI文化？Nansen CEOが明かす「規律」の重要性 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7億ドル送金で7ドル獲得？BTC版インベーダーゲームが話題に]]></title>
+        <id>https://crypto-times.jp/?p=160029</id>
+        <link href="https://crypto-times.jp/news-a-bitcoin-version-of-space-invaders-is-generating-buzz/"/>
+        <updated>2026-04-11T06:13:19.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）をテーマにしたゲーム「Mempool Space Invaders」が登場し、仮想通貨コミュニティで注目を集めています。このゲームは名作「スペースインベーダー」のクローン作品で、1万BTC分のスコア […]
+投稿 7億ドル送金で7ドル獲得？BTC版インベーダーゲームが話題に は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米政府、2.44BTCをコインベースへ送金｜押収資産の清算に注目]]></title>
+        <id>https://crypto-times.jp/?p=159955</id>
+        <link href="https://crypto-times.jp/news-us-government-sends-2-44-btc-to-coinbase/"/>
+        <updated>2026-04-11T06:00:30.000Z</updated>
+        <summary type="html"><![CDATA[オンチェーンデータ分析のArkhamの報告によると、米政府に関連するウォレットが合計2.438 BTC（約17万7400ドル）を仮想通貨取引所Coinbase Primeのデポジットアドレスへ送金したことが明らかになりま […]
+投稿 米政府、2.44BTCをコインベースへ送金｜押収資産の清算に注目 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港でHSBCらがステーブルコイン免許取得、RWA市場は290億ドル超え]]></title>
+        <id>https://crypto-times.jp/?p=159970</id>
+        <link href="https://crypto-times.jp/news-hsbc-and-others-obtain-stablecoin-licenses-in-hong-kong/"/>
+        <updated>2026-04-11T05:50:49.000Z</updated>
+        <summary type="html"><![CDATA[香港金融管理局（HKMA）はステーブルコイン条例に基づく初の発行ライセンスを香港上海銀行（HSBC）とAnchorpoint Financial Limitedの2社に交付しました。これにより香港におけるコンプライアンス […]
+投稿 香港でHSBCらがステーブルコイン免許取得、RWA市場は290億ドル超え は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム財団、5000ETH売却完了｜開発資金1111万ドル確保]]></title>
+        <id>https://crypto-times.jp/?p=159974</id>
+        <link href="https://crypto-times.jp/news-ethereum-foundation-completes-sale-of-5000-eth/"/>
+        <updated>2026-04-11T05:35:27.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム財団が計画していた合計5,000 ETHの売却をすべて完了したことが、オンチェーンデータにより明らかになりました。 The #EthereumFoundation has sold the remaining […]
+投稿 イーサリアム財団、5000ETH売却完了｜開発資金1111万ドル確保 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは金超えの安全資産？「70年保有」の力とは]]></title>
+        <id>https://crypto-times.jp/?p=159954</id>
+        <link href="https://crypto-times.jp/news-is-bitcoin-a-safe-haven-asset-that-surpasses-gold/"/>
+        <updated>2026-04-11T05:32:13.000Z</updated>
+        <summary type="html"><![CDATA[ProCapのCIO（最高投資責任者）であるジェフ・パーク氏は、ビットコイン（BTC）が持つ避難資産としての価値が伝統的な安全資産であるゴールド（金）を大きく上回っているとの見解を示しました。 LIVE NOW R […]
+投稿 ビットコインは金超えの安全資産？「70年保有」の力とは は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンスなどが「Pre-IPO」取引を提供開始　SpaceXなど、個人投資家層もアクセス可能に]]></title>
+        <id>https://coinpost.jp/?p=701297</id>
+        <link href="https://coinpost.jp/?p=701297"/>
+        <updated>2026-04-11T05:15:13.000Z</updated>
+        <summary type="html"><![CDATA[バイナンスウォレットやビットゲットが、SpaceXやOpenAIなどのPre-IPO取引を仮想通貨プラットフォームで提供開始。従来は機関投資家に限定された投資機会が個人層に拡大する一方、直接所有権なしなど構造的な制限がある。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、未上場株市場へ参入｜SpaceXやOpenAIなど5銘柄]]></title>
+        <id>https://crypto-times.jp/?p=159951</id>
+        <link href="https://crypto-times.jp/news-binance-enters-the-private-equity-market/"/>
+        <updated>2026-04-11T05:00:59.000Z</updated>
+        <summary type="html"><![CDATA[大手仮想通貨取引所のバイナンスが、未上場企業の株式をトークン化した資産を扱う「Pre-IPO市場」へ正式に参入したことが明らかになりました。 公式の画像によると、第一弾としてSpaceXやOpenAIといった世界的なテッ […]
+投稿 バイナンス、未上場株市場へ参入｜SpaceXやOpenAIなど5銘柄 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分散型AI「ビットテンソル」の最有力プロジェクトが離脱　集権化を批判]]></title>
+        <id>https://coinpost.jp/?p=701292</id>
+        <link href="https://coinpost.jp/?p=701292"/>
+        <updated>2026-04-11T04:40:28.000Z</updated>
+        <summary type="html"><![CDATA[分散型AIネットワーク「ビットテンソル」の主要サブネット運営者Covenant AIが中央集権的支配を批判し、離脱を宣言した。TAOトークンの価格にも影響を与えている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyperliquid ETF、上場間近か？Bitwiseが修正申請]]></title>
+        <id>https://crypto-times.jp/?p=159950</id>
+        <link href="https://crypto-times.jp/news-is-the-hyperliquid-etf-about-to-be-listed/"/>
+        <updated>2026-04-11T04:36:43.000Z</updated>
+        <summary type="html"><![CDATA[米資産運用大手のBitwiseが、仮想通貨Hyperliquid（HYPE）の現物ETF（上場投資信託）に関する2度目の修正案を提出したことが明らかになりました。 Bitwise w another update to  […]
+投稿 Hyperliquid ETF、上場間近か？Bitwiseが修正申請 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ関連仮想通貨プロジェクトに流動性危機？ロック解除と巨額債務の罠]]></title>
+        <id>https://crypto-times.jp/?p=159940</id>
+        <link href="https://crypto-times.jp/news-wlfi-token-unlock-dolomite-liquidity-crisis/"/>
+        <updated>2026-04-11T03:44:43.000Z</updated>
+        <summary type="html"><![CDATA[ドナルド・トランプ氏の家族が共同設立した分散型金融プロジェクトWorld Liberty Financialが、160億枚を超えるWLFIトークンのロック解除を準備していることが判明しました。 約12億8000万ドル相当 […]
+投稿 トランプ関連仮想通貨プロジェクトに流動性危機？ロック解除と巨額債務の罠 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【今日のマクロ経済まとめ】イラン停戦進展で原油急落・成長見通し上方修正]]></title>
+        <id>https://crypto-times.jp/?p=159929</id>
+        <link href="https://crypto-times.jp/news-todays-macroeconomic-summary-for-april-11th/"/>
+        <updated>2026-04-11T02:57:26.000Z</updated>
+        <summary type="html"><![CDATA[4月11日現在、昨晩から今朝にかけての世界経済はイラン停戦交渉の進展報道により原油価格が急落し、市場心理が大きく改善しました。米3月雇用統計が予想を上回る強靭性を示しIMFが2026年世界成長見通しを上方修正するなど、ポ […]
+投稿 【今日のマクロ経済まとめ】イラン停戦進展で原油急落・成長見通し上方修正 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米FRB、大手銀のノンバンク融資関与状況を調査　市場不安が仮想通貨に与える二面性を分析]]></title>
+        <id>https://coinpost.jp/?p=701237</id>
+        <link href="https://coinpost.jp/?p=701237"/>
+        <updated>2026-04-11T02:45:58.000Z</updated>
+        <summary type="html"><![CDATA[米連邦準備制度理事会（FRB）が、大手銀行に対しプライベートクレジット市場へのエクスポージャー実態を調査中。ブラックストーンでの解約殺到やデフォルト率9.2%到達など、2兆ドル規模の市場で走る亀裂が、ビットコインなど仮想通貨市場に及ぼす短・長期的なシナリオを提示する。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米イラン停戦合意でビットコイン・イーサリアム急騰、短期的な抵抗線は？＝クリプトクアント]]></title>
         <id>https://coinpost.jp/?p=701266</id>
@@ -3076,16 +3238,6 @@ Polymarket、大規模アップグレードへ──独自ステーブルコイ�
         <summary type="html"><![CDATA[ストラテジーが4871BTCを526億円で取得し。13週連続取得が止まってから1週間で仮想通貨積み上げ戦略を再始動させた。STRC優先株の額面回復が資金調達の道を再び開いた形だ。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【4/6話題】バイナンスJPが法人向けDATサポート開始、暗号資産を主資産とする企業のTOPIX採用見送りへ、ドリフトの不正流出の経緯明らかになど（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=562921</id>
-        <link href="https://www.neweconomy.jp/posts/562921"/>
-        <updated>2026-04-06T15:23:05.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
         </author>
     </entry>
     <entry>

@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=344494",
+          "author": "Shoko Galaviz",
+          "description": "現実資産（RWA）のトークン化を手がけるOndo Finance（オンド・ファイナンス）は、同社の新たなトークン化株式モデルについて、米証券取引委員会（SEC） ...\nOndo、トークン化株式モデルで米SECに確認要請──イーサリアム活用の新構造を提案 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/344494/",
+          "publishedOn": "2026-04-13T21:30:00.000Z",
+          "wordCount": 1600,
+          "title": "Ondo、トークン化株式モデルで米SECに確認要請──イーサリアム活用の新構造を提案",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2694148265.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=344491",
+          "author": "Shoko Galaviz",
+          "description": "米証券取引委員会（SEC）のトレーディング・マーケッツ部門スタッフは、暗号資産（仮想通貨）の取引準備に用いられるユーザーインターフェース（UI）に関する見解を公 ...\n米SEC、暗号資産向けUIに関する見解を公表──条件付きでブローカー登録不要の可能性 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/344491/",
+          "publishedOn": "2026-04-13T21:00:00.000Z",
+          "wordCount": 1588,
+          "title": "米SEC、暗号資産向けUIに関する見解を公表──条件付きでブローカー登録不要の可能性",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2426097137.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=344465",
           "author": "橋本 祐樹",
           "description": "QRコード決済ゲートウェイを手がけるネットスターズは13日、米ドル連動型ステーブルコイン「USDC」を発行するサークル（Circle）の関連会社、Circle  ...\nネットスターズ、サークルのクロスチェーン基盤「Gateway」を活用した技術開発を開始──「StarPay-X」の実現へ first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -524,6 +544,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=701630",
+          "author": "菊谷ルイス",
+          "description": "米証券取引委員会は13日、仮想通貨取引のコード作成を支援するユーザーインターフェース提供業者に対し、ブローカー・ディーラー登録を不要とするスタッフ声明を公表した。",
+          "link": "https://coinpost.jp/?p=701630",
+          "publishedOn": "2026-04-13T21:31:34.000Z",
+          "wordCount": 3992,
+          "title": "米SEC、メタマスクなど仮想通貨UI提供業者の「証券登録免除条件」を公表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/new-sec-firing-and-50k.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/new-sec-firing-and-50k.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=701627",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨企業ビットマインが先週最高ペースで71524ETHを追加購入し、総保有量が4,874,858トークンに達した。イーサリアム総供給量の4.04%を占め、総資産は118億ドル規模に拡大。",
+          "link": "https://coinpost.jp/?p=701627",
+          "publishedOn": "2026-04-13T21:05:13.000Z",
+          "wordCount": 3480,
+          "title": "ビットマイン社、先週257億円相当イーサリアムを買い増し　過去最大の週次購入数に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/bitmine1029-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/bitmine1029-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=701626",
+          "author": "菊谷ルイス",
+          "description": "トランプ米大統領の仮想通貨顧問が停滞していた「クラリティー法案」の合意が極めて近いとの認識を示した。全米銀行協会がステーブルコインの利回り提供による預金流出リスクを警告しロビー活動を強める中、米上院での法制化に向けた最終調整が重大な局面を迎えている。",
+          "link": "https://coinpost.jp/?p=701626",
+          "publishedOn": "2026-04-13T20:45:39.000Z",
+          "wordCount": 3999,
+          "title": "米クラリティー法案、最終合意に向け前進か　トランプ大統領顧問「主要課題を解消」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/congress-working-night.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/congress-working-night.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=701603",
+          "author": "菊谷ルイス",
+          "description": "米ストラテジーが先週13927BTCのビットコインを約10億ドルで購入。保有総量は780897 BTCに達しており、2週間連続の買い増しとなった。",
+          "link": "https://coinpost.jp/?p=701603",
+          "publishedOn": "2026-04-13T20:00:13.000Z",
+          "wordCount": 4209,
+          "title": "マイケル・セイラーのストラテジーが1600億円相当ビットコインを追加購入、保有量78万BTC突破",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/Microstrategy_0711.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/Microstrategy_0711.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=697702",
           "author": "CoinPost編集部",
@@ -1153,21 +1233,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/1280X1280.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/1280X1280.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=700625",
-          "author": "Ritsuki.Kumazawa",
-          "description": "国民民主党代表の玉木雄一郎氏がTEAMZ SUMMIT 2026に登壇。20%申告分離課税の早期施行（2027年適用）やETF解禁、レバレッジ10倍への引き上げを訴えた。月商150億円のDEX・Hyperliquidを例に金融オンチェーン化の潮流を解説。「暗号資産」から「デジタルアセット」への改称も提案。",
-          "link": "https://coinpost.jp/?p=700625",
-          "publishedOn": "2026-04-09T09:28:12.000Z",
-          "wordCount": 3828,
-          "title": "国民民主玉木氏が仮想通貨改革を訴え　ETF解禁・レバレッジ緩和・Hyperliquid事例にも言及｜TEAMZ WEB3/AI SUMMIT 2026",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/teamz2026-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/teamz2026-1.jpg"
         }
       ]
     },
@@ -2764,91 +2829,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2333511041-1.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=159722",
-          "author": "Crypto Times 編集部",
-          "description": "仮想通貨デリバティブプラットフォームのtrade.xyzは、日経平均株価（日経225）に連動する新商品「JP225」の取り扱いを開始したことを発表しました。これにより、世界中のトレーダーが最大20倍のレバレッジを活用しな […]\n投稿 仮想通貨で日経平均が取引可能に｜開始1日で取引高47万ドル記録 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-the-nikkei-225-can-now-be-traded-using-cryptocurrency/",
-          "publishedOn": "2026-04-09T09:40:20.000Z",
-          "wordCount": 615,
-          "title": "仮想通貨で日経平均が取引可能に｜開始1日で取引高47万ドル記録",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2006370428.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=159510",
-          "author": "Crypto Times 編集部",
-          "description": "中国の元大手マイナーの一人であるJiang Zhuoer氏が、イーサリアム（ETH）を短中期的なトレードとして空売り（ショート）したことを明らかにしました。 ETH 2242空。 1、懂王玩崩了，美伊战争大概率以伊朗实控 […]\n投稿 ETHを空売り、中国大手マイナーが「弱気相場は続く」と警告 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-major-chinese-miner-warns-bear-market-will-continue/",
-          "publishedOn": "2026-04-09T09:29:55.000Z",
-          "wordCount": 613,
-          "title": "ETHを空売り、中国大手マイナーが「弱気相場は続く」と警告",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2592430059.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=159618",
-          "author": "Crypto Times 編集部",
-          "description": "仮想通貨の分析データを提供するCryptoDifferは、第一四半期にローンチされたトークンのうち投資利益率（ROI）が1倍を超えているプロジェクトが現時点でわずか8つに留まっていることを明らかにしました。 Just 2 […]\n投稿 投資利益率1倍超えは8銘柄のみ？Q1上場トークンの低い生存率 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-only-8-tokens-achieved-a-return-on-investment-of-more-than-1x-low-survival-rate-of-q1-listed-tokens/",
-          "publishedOn": "2026-04-09T09:25:50.000Z",
-          "wordCount": 654,
-          "title": "投資利益率1倍超えは8銘柄のみ？Q1上場トークンの低い生存率",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2636353187.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=159658",
-          "author": "Henry",
-          "description": "先日、八重洲ミッドタウンに新しく構えたGate Japanのオフィスを訪問してきました。当日はGate Japan CEOのニコラス・ジン氏ともお会いすることができました。 今回訪れた新オフィスは、ひとことで言えば「洗練 […]\n投稿 Gate Japanの新オフィスを訪問、今後のアップデートにも期待 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/gate-japan-new-office-visit-platform-updates/",
-          "publishedOn": "2026-04-09T09:00:11.000Z",
-          "wordCount": 575,
-          "title": "Gate Japanの新オフィスを訪問、今後のアップデートにも期待",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/85f085a583892b3a6ebd5de3be5c6195.png"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=159622",
-          "author": "Crypto Times 編集部",
-          "description": "AIエージェントが自律的に仮想通貨の決済やトレードを行う「マシン経済」の到来が現実味を帯びる中、AIの誤操作（ミス）による財務的リスクを管理するための新たな枠組みが提案されました。 研究者たちが提唱する「エージェンティッ […]\n投稿 AIの誤操作で資産が消える？損失を61％減らす「新基準」とは は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-what-is-the-new-standard-that-reduces-losses-due-to-ai-errors-by-61/",
-          "publishedOn": "2026-04-09T08:58:52.000Z",
-          "wordCount": 601,
-          "title": "AIの誤操作で資産が消える？損失を61％減らす「新基準」とは",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2481787489.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=159608",
-          "author": "Crypto Times 編集部",
-          "description": "仮想通貨リサーチ大手Delphi Digitalの共同創設者であるJose（ホセ）氏は同社のポッドキャストにおいて、現在のソフトウェア投資が直面している極めて困難な状況について見解を述べました。同氏はAI技術の急速な進展 […]\n投稿 ソフト投資は危険？Delphi創設者が語るAIエージェントの衝撃 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-the-impact-of-ai-agents-as-told-by-the-founder-of-delphi/",
-          "publishedOn": "2026-04-09T08:55:00.000Z",
-          "wordCount": 596,
-          "title": "ソフト投資は危険？Delphi創設者が語るAIエージェントの衝撃",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2741501031.jpg"
         }
       ]
     }

@@ -1408,36 +1408,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/kokkai02062.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/kokkai02062.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=700870",
-          "author": "A.Yamada",
-          "description": "モルガン・スタンレーのビットコイン現物ETF「MSBT」が4月8日の上場初日に約49億円の資金流入を記録。業界最安の手数料で提供しており競争激化が予想される。",
-          "link": "https://coinpost.jp/?p=700870",
-          "publishedOn": "2026-04-10T00:29:31.000Z",
-          "wordCount": 4024,
-          "title": "モルガン・スタンレーのビットコイン現物ETF「MSBT」、上場初日に49億円の資金流入を記録",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/morgan-stanley-new-crypto-research-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/morgan-stanley-new-crypto-research-1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=700872",
-          "author": "K.Kobayashi",
-          "description": "スコット・ベッセント米財務長官は、仮想通貨のクラリティー法案の最終審議を上院銀行委員会で進めるように要請。トランプ大統領に法案を回付するように促した。",
-          "link": "https://coinpost.jp/?p=700872",
-          "publishedOn": "2026-04-10T00:26:06.000Z",
-          "wordCount": 4025,
-          "title": "ベッセント米財務長官、「トランプ大統領にクラリティー法案の回付を」　議会に審議促す",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/usa0206.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/usa0206.jpg"
         }
       ]
     },
@@ -1446,6 +1416,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=565127",
+          "author": "NewEconomyPodcast",
+          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/565127",
+          "publishedOn": "2026-04-14T12:30:20.000Z",
+          "wordCount": 772,
+          "title": "【4/14話題】ポルカドットのブリッジでエクスプロイト発生、SECがDeFiフロントエンドのブローカー登録不要条件を提示など（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/14195143/fab847efced969cc3631141d16cfc74b.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=565120",
           "author": "HitomotoToshikazu",
@@ -2370,6 +2350,21 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=160463",
+          "author": "Crypto Times 編集部",
+          "description": "「マッチングアプリで知り合った相手から仮想通貨投資を勧められた」 こうしたパターンはいまや世界的に警戒されている詐欺の典型です。米連邦捜査局（FBI）のインターネット犯罪苦情センター（IC3）には2025年、仮想通貨関連 […]\n投稿 仮想通貨の恋愛型詐欺と儲け自慢の危うさ｜米国では年1.6兆円規模の被害 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-the-dangers-of-romance-scams-involving-cryptocurrency-and-boasting-about-profits/",
+          "publishedOn": "2026-04-14T12:16:10.000Z",
+          "wordCount": 605,
+          "title": "仮想通貨の恋愛型詐欺と儲け自慢の危うさ｜米国では年1.6兆円規模の被害",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2404056471.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=160370",
           "author": "Crypto Times 編集部",

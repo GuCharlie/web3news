@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=344692",
+          "author": "Shoko Galaviz",
+          "description": "米大手投資銀行Goldman Sachs（ゴールドマン・サックス）が、ビットコイン（BTC）への間接的なエクスポージャーとインカム収益を組み合わせた新たなETF ...\nGoldman Sachs、ビットコインインカム型ETFを申請 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/344692/",
+          "publishedOn": "2026-04-14T21:00:00.000Z",
+          "wordCount": 1622,
+          "title": "Goldman Sachs、ビットコインインカム型ETFを申請",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2093438008.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=344596",
           "author": "廣瀬 優香",
           "description": "米金融テクノロジー企業Broadridge Financial Solutions（ブロードリッジ・ファイナンシャル・ソリューションズ）は4月13日、カナダの資 ...\nBroadridge、カナダの資産運用会社向け次世代デジタル資産プラットフォームを提供開始 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -430,26 +440,6 @@
           "wordCount": 1625,
           "title": "香港当局、初のステーブルコイン発行者ライセンスを付与",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2023/01/hongkong1.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=344224",
-          "author": "井上 俊彦",
-          "description": "Farside Investorsのデータによると、アメリカのビットコイン現物ETF（上場投資信託）12銘柄は4月9日、2日間続いた純流出が終息し、合計3億58 ...\n米ビットコイン現物ETF、2日連続の純流出から反転 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/344224/",
-          "publishedOn": "2026-04-10T08:45:00.000Z",
-          "wordCount": 1608,
-          "title": "米ビットコイン現物ETF、2日連続の純流出から反転",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_1268504104.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=344228",
-          "author": "松田康生",
-          "description": "本稿ではビットコイン相場を①パターン分析 ②移動平均線（9MA・25MA） ③一目均衡表 ④ボリンジャーバンド ⑤MACD ⑥RSIの代表的な6種類のテクニカル ...\nマトリックス法によるテクニカル分析（2026/4/10）ダマしかもしれないが、本格上昇の兆し【楽天ウォレット】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/344228/",
-          "publishedOn": "2026-04-10T08:30:20.000Z",
-          "wordCount": 1680,
-          "title": "マトリックス法によるテクニカル分析（2026/4/10）ダマしかもしれないが、本格上昇の兆し【楽天ウォレット】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/tr-thumb_260410.jpg"
         }
       ]
     },
@@ -464,6 +454,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=701969",
+          "author": "菊谷ルイス",
+          "description": "楽天グループが楽天ペイにおいて、XRPやドージコインなど5銘柄の仮想通貨決済を解禁。4400万人のユーザーが、ポイント交換や現物取引を通じて国内500万カ所の加盟店で実利用が可能となり、巨大なロイヤリティ経済圏の資金流入が加速する。",
+          "link": "https://coinpost.jp/?p=701969",
+          "publishedOn": "2026-04-14T20:55:32.000Z",
+          "wordCount": 3469,
+          "title": "楽天ペイ、XRPやドージコインなど5銘柄の決済利用に対応　4400万人経済圏へリーチ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/xrp-rakuten-pay-other-coins-too.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/xrp-rakuten-pay-other-coins-too.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=701974",
+          "author": "菊谷ルイス",
+          "description": "金融大手ゴールドマン・サックスが「ビットコイン・プレミアムインカムETF」の申請をSECに提出。ビットコイン現物ETFに投資し、コールオプション売却で収入を得る戦略を採用。",
+          "link": "https://coinpost.jp/?p=701974",
+          "publishedOn": "2026-04-14T20:35:51.000Z",
+          "wordCount": 3990,
+          "title": "ゴールドマン・サックスが「ビットコインインカムETF」を申請、オプション戦略で収益化狙う",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/goldman-sachs-ark-etf-notes.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/goldman-sachs-ark-etf-notes.png"
+        },
         {
           "id": "https://coinpost.jp/?p=701963",
           "author": "菊谷ルイス",
@@ -1183,21 +1203,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/teamz_day1_10407.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/teamz_day1_10407.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=701144",
-          "author": "Enzo",
-          "description": "ホワイトハウスがイラン停戦前の原油先物や予測市場での不審取引を受け、機密情報を利用したインサイダー取引を禁じる内部通達を全職員に発出した。",
-          "link": "https://coinpost.jp/?p=701144",
-          "publishedOn": "2026-04-10T08:55:51.000Z",
-          "wordCount": 4023,
-          "title": "ホワイトハウス、職員にインサイダー取引を警告　イラン停戦前の不審取引が発端＝報道",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/white_house_cloudy1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/white_house_cloudy1.jpg"
         }
       ]
     },
@@ -3009,21 +3014,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2728003545.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=159812",
-          "author": "Crypto Times 編集部",
-          "description": "ビットコイン（BTC）は現在、7万1000ドル台で推移しています。昨年10月のピーク時から約40%超の下落を記録しているものの、ウォール街の機関投資家による仮想通貨市場への関心は衰えるどころか、むしろ加速の兆しを見せてい […]\n投稿 BTC、昨年ピークから約40%下落もモルガン・スタンレー参入事例｜8.5万ドルへの道筋は？ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-btc-has-fallen-about-40-from-last-years-peak/",
-          "publishedOn": "2026-04-10T09:22:24.000Z",
-          "wordCount": 626,
-          "title": "BTC、昨年ピークから約40%下落もモルガン・スタンレー参入事例｜8.5万ドルへの道筋は？",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2435487341.jpg"
         }
       ]
     }

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=344511",
+          "author": "廣瀬 優香",
+          "description": "Michael Saylor（マイケル・セイラー）氏が率いるStrategy（ストラテジー）は4月13日、ビットコイン（BTC）を追加購入したと発表した。 4月 ...\nStrategy、10億ドル相当のビットコインを追加購入──総保有量は78万BTC超に first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/344511/",
+          "publishedOn": "2026-04-14T01:35:00.000Z",
+          "wordCount": 1592,
+          "title": "Strategy、10億ドル相当のビットコインを追加購入──総保有量は78万BTC超に",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2604077555.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=344501",
           "author": "XWIN Research",
           "description": "● 2026年に入り、大口投資家の買いがオンチェーン上で明確に増加● ETF流入や企業による現物購入が具体的な裏付けとなっている● 背景にはレバレッジ解消後の市 ...\nビットコインは誰が買っているのか──クジラ主導の資金構造を読み解く【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -534,6 +544,81 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=701675",
+          "author": "K.Kobayashi",
+          "description": "RWAトークン化企業オンドは、米SECに対してノーアクションレターを要求したことを発表。仮想通貨イーサリアムのブロックチェーン基盤のインフラについて規制免除を求めている。",
+          "link": "https://coinpost.jp/?p=701675",
+          "publishedOn": "2026-04-14T01:35:28.000Z",
+          "wordCount": 3996,
+          "title": "オンド、イーサリアム基盤のRWAトークン化の規制免除を米SECに要請",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/Ondo-no-action-letter.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/Ondo-no-action-letter.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=701669",
+          "author": "A.Yamada",
+          "description": "ステーブルコインを提供するサークル社のアレールCEOが、不正資金凍結の対応が不十分との批判に反論した。措置には法的根拠が必要だと主張し、業界内で賛否が分かれている。",
+          "link": "https://coinpost.jp/?p=701669",
+          "publishedOn": "2026-04-14T00:55:24.000Z",
+          "wordCount": 3471,
+          "title": "サークル社CEO、USDC凍結めぐる批判に反論「法律に明記が必要」　業界で賛否",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/USDC_0430.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/USDC_0430.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=701635",
+          "author": "CoinPost編集部",
+          "description": "仮想通貨ビットコインは13日夜から14日朝にかけて反発した。米国とイランの交渉が合意に至らず、さらに米軍がホルムズ海峡を逆封鎖するとの報道を受けて一時下落したものの、その後はトランプ米大統領とイランのモホセニエジェイ司法府代表の双方から、合意に向けた交渉継続が伝えられたことで、中東情勢を巡る過度な警戒感が後退し相場は持ち直した。",
+          "link": "https://coinpost.jp/?p=701635",
+          "publishedOn": "2026-04-14T00:05:57.000Z",
+          "wordCount": 3937,
+          "title": "ビットコイン反発、イラン情勢の緊張緩和を受け上昇　原油反落も追い風に｜仮想NISHI",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0555.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0555.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=701634",
+          "author": "菊谷ルイス",
+          "description": "JPモルガンなどが現在の金融市場調整を押し目買いの好機と分析した。2022年のスタグフレーションとは異なり強固な利益背景があるとし、V字回復を予測。トム・リー氏も仮想通貨市場が底打ちしたとの見解を示しており、強気転換への自信を表明した。",
+          "link": "https://coinpost.jp/?p=701634",
+          "publishedOn": "2026-04-13T23:40:33.000Z",
+          "wordCount": 4143,
+          "title": "ブラックロックが米株を格上げ、JPモルガンはV字回復を予測　主要金融機関の見解が一致",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/prediction-market-orb.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/prediction-market-orb.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=701645",
+          "author": "K.Kobayashi",
+          "description": "コインシェアーズは、ETFなどの仮想通貨投資商品全体の先週における資金フローは約1,753億円の純流入だったと報告。ビットコインとイーサリアムの投資商品への資金流入が目立った。",
+          "link": "https://coinpost.jp/?p=701645",
+          "publishedOn": "2026-04-13T22:40:59.000Z",
+          "wordCount": 3480,
+          "title": "ビットコインの商品が主導　仮想通貨ETFなど、先週は1750億円超が純流入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/crypto_20240807-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/crypto_20240807-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=701633",
           "author": "菊谷ルイス",
@@ -1223,21 +1308,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/bitmine1029-1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/bitmine1029-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=700845",
-          "author": "Enzo",
-          "description": "RWA特化型レイヤー1「ファロス・ネットワーク」が4,400万ドルのシリーズAを完了。住友商事やなどが参加し、累計調達額は5,200万ドル（約83億円）に達した。",
-          "link": "https://coinpost.jp/?p=700845",
-          "publishedOn": "2026-04-09T12:00:53.000Z",
-          "wordCount": 4003,
-          "title": "ファロス・ネットワーク、約70億円のシリーズA調達　住友商事も参加",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/1280X1280.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/1280X1280.jpeg"
         }
       ]
     },
@@ -1246,6 +1316,36 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=564917",
+          "author": "watanabeyousuke",
+          "description": "ハイパーブリッジで脆弱性、約10億DOTが不正発行 ポルカドット（Polkadot）エコシステムのクロスチェーンブリッジ「ハイパーブリッジ（Hyperbridge）」において、不正利用（エクスプロイト）が発生した。ハイパ […]",
+          "link": "https://www.neweconomy.jp/posts/564917",
+          "publishedOn": "2026-04-14T01:44:16.000Z",
+          "wordCount": 823,
+          "title": "ポルカドットのブリッジでエクスプロイト発生。約10億DOTが不正に発行",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/14104352/0944d866c8960b1dc6dd49635b098b05.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=564893",
+          "author": "HitomotoToshikazu",
+          "description": "Bitwise Hyperliquid ETF再提出 暗号資産（仮想通貨）運用会社ビットワイズ（Bitwise）が、ハイパーリキッド（Hyperliquid）のネイティブトークンHYPEを対象とする現物ETF（上場投資信 […]",
+          "link": "https://www.neweconomy.jp/posts/564893",
+          "publishedOn": "2026-04-14T01:20:18.000Z",
+          "wordCount": 748,
+          "title": "ビットワイズの「ハイパーリキッド（HYPE）」現物ETF、2度目の修正版提出",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/14101959/95e72f4adff6e5e3db04f3eeb0f7b31c.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=564895",
+          "author": "watanabeyousuke",
+          "description": "発行体主導モデルでトークン化の事例 米セキュリタイズ（Securitize）が、ナスダック上場企業カレンシー・グループ（Currenc Group）の普通株式をトークン化したと4月8日に発表した。トークン化された株式は、 […]",
+          "link": "https://www.neweconomy.jp/posts/564895",
+          "publishedOn": "2026-04-14T01:16:04.000Z",
+          "wordCount": 749,
+          "title": "セキュリタイズ、株式を発行体主導モデルでトークン化。カレンシーG株をイーサリアムとソラナ上で発行",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/14101524/6a1973bf30989c7968054a1f03d4dc40.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=564752",
           "author": "NewEconomyPodcast",
@@ -2030,6 +2130,21 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=160358",
+          "author": "よきょい",
+          "description": "4月14日現在、米イラン和平協議の継続期待が市場心理を大きく改善させています。週末に一旦決裂した協議でしたが、イラン側からの接触報道やトランプ大統領の発言を受け原油価格の高値が是正され米国株式は主要3指数がプラス圏で引け […]\n投稿 【今日のマクロ経済ニュース】米イラン協議継続期待で市場が自律反発 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-todays-macroeconomic-news-for-april-14th/",
+          "publishedOn": "2026-04-14T02:08:01.000Z",
+          "wordCount": 584,
+          "title": "【今日のマクロ経済ニュース】米イラン協議継続期待で市場が自律反発",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2688114497.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=160225",
           "author": "Crypto Times 編集部",

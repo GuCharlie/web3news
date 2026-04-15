@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=344829",
+          "author": "井上 俊彦",
+          "description": "暗号資産運用会社21Shares（21シェアーズ）は4月14日、分散型取引所（DEX）Hyperliquid（ハイパーリキッド）のネイティブトークン「HYPE」 ...\n21Shares、HYPE現物ETFの第2次修正届出書をSECに提出 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/344829/",
+          "publishedOn": "2026-04-15T10:00:00.000Z",
+          "wordCount": 1597,
+          "title": "21Shares、HYPE現物ETFの第2次修正届出書をSECに提出",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/05/shutterstock_2552692341.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=344824",
           "author": "井上 俊彦",
           "description": "USDコイン（USDC）発行元のCircle（サークル）が、独自のレイヤー1ブロックチェーン「Arc Network」でネイティブトークンの発行を検討しているこ ...\nCircle、レイヤー1ブロックチェーン「Arc」のネイティブトークン発行やPoSモデルへの移行を計画 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -570,26 +580,6 @@
           "wordCount": 1613,
           "title": "金融商品取引法改正はビットコイン市場をどう変えるのか──「価格」ではなく「参加者構造」に効く制度変更【エックスウィンリサーチ】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/nadanews_top-95.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=344271",
-          "author": "Shoko Galaviz",
-          "description": "ブータン王国政府が、約250枚のビットコイン（約1800万ドル相当、約28億円：1ドル=155円換算）を新たに作られたウォレットへ移動したことが明らかになった。 ...\nブータン政府、ビットコイン約28億円分を移動──保有残高の減少続く first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/344271/",
-          "publishedOn": "2026-04-10T22:30:00.000Z",
-          "wordCount": 1595,
-          "title": "ブータン政府、ビットコイン約28億円分を移動──保有残高の減少続く",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2108544968-990x660-1.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=344269",
-          "author": "Shoko Galaviz",
-          "description": "現実資産（RWA）トークン化分野をリードするSecuritize（セキュリタイズ）は、パブリックブロックチェーンであるTRON（トロン）との統合を発表した。今回 ...\nSecuritize、TRONと統合──トークン化資産の流通基盤を拡張 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/344269/",
-          "publishedOn": "2026-04-10T22:00:00.000Z",
-          "wordCount": 1594,
-          "title": "Securitize、TRONと統合──トークン化資産の流通基盤を拡張",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/The-Leading-Tokenization-Platform-990x660-1.jpg"
         }
       ]
     },
@@ -604,6 +594,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=702171",
+          "author": "CoinPost編集部",
+          "description": "ステーブルコイン・米国債に続く2026年の最注目テーマ、トークン化株式をFour Pillars寄稿レポートで徹底解説。直接・間接トークン化など4つのモデルから主要プラットフォーム、各国規制、ビジネス機会まで網羅。",
+          "link": "https://coinpost.jp/?p=702171",
+          "publishedOn": "2026-04-15T09:45:38.000Z",
+          "wordCount": 4682,
+          "title": "株式のトークン化が切り拓く資本市場の新時代｜Four Pillars寄稿",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/fourpillars_moneyx_thumbnail_0316.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/fourpillars_moneyx_thumbnail_0316.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=702303",
+          "author": "Enzo",
+          "description": "東京ヴェルディがSBI ChilizとファントークンMOUを締結。Jリーグ初の取り組みとして、ファン投票やデジタル特典の導入を共同検討。法規制対応も進める。",
+          "link": "https://coinpost.jp/?p=702303",
+          "publishedOn": "2026-04-15T09:25:59.000Z",
+          "wordCount": 3987,
+          "title": "SBI Chiliz、東京ヴェルディとファントークンのMOU締結　Jリーグ初",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/80006_1200x675_69ddc341179ae.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/80006_1200x675_69ddc341179ae.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=702238",
           "author": "Enzo",
@@ -1458,36 +1478,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/grayscale-fraud-warning.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/grayscale-fraud-warning.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=701234",
-          "author": "菊谷ルイス",
-          "description": "米財務省のベセント長官とFRB議長パウエルが、アンソロピックのAIモデル「Mythos」のサイバーリスクをめぐり、米大手銀行の最高経営責任者を緊急召集。金融システムへのシステミック・リスクとして対応を促した初の高官レベル会議である。",
-          "link": "https://coinpost.jp/?p=701234",
-          "publishedOn": "2026-04-10T22:00:51.000Z",
-          "wordCount": 4020,
-          "title": "米財務省・FRBが金融界首脳を緊急招集、Claude Mythosのサイバー脅威で金融機関に警告",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/anthropic-mythos-.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/anthropic-mythos-.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=701233",
-          "author": "菊谷ルイス",
-          "description": "#cp-summary-2025{all:revert;box-sizing:border-box;width:100%;background:#f8f9fb;border-left:3pxsolid#0d2d4f;border-radiu...",
-          "link": "https://coinpost.jp/?p=701233",
-          "publishedOn": "2026-04-10T21:15:47.000Z",
-          "wordCount": 4003,
-          "title": "ワールド（WLD）、7月からトークンのアンロックを大幅減速へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/Worldcoin1128.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/Worldcoin1128.png"
         }
       ]
     },
@@ -2440,6 +2430,96 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=160509",
+          "author": "Crypto Times 編集部",
+          "description": "予測市場セクターが2026年も爆発的な成長を続ける中、主要2プラットフォームの未決済建玉（Open Interest＝OI）構成に大きな乖離があることが改めて注目を集めています。 Interesting how OI c […]\n投稿 予測市場に二極化の波？主要プラットフォームで需要に違い は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-is-a-wave-of-polarization-sweeping-through-prediction-markets/",
+          "publishedOn": "2026-04-15T10:33:19.000Z",
+          "wordCount": 631,
+          "title": "予測市場に二極化の波？主要プラットフォームで需要に違い",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2674003741.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=160546",
+          "author": "Crypto Times 編集部",
+          "description": "イギリスの自由民主党はリフォームUK（英改革党）の党首ナイジェル・ファラージ氏による200万ポンド相当のビットコイン（BTC）購入について、市場操作の疑いがあるとして金融当局に調査を求めました。 この購入はファラージ氏が […]\n投稿 200万ポンド相当のBTC購入で調査要求、英大物政治家に市場操作の疑い は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-british-politician-suspected-of-market-manipulation/",
+          "publishedOn": "2026-04-15T10:22:13.000Z",
+          "wordCount": 588,
+          "title": "200万ポンド相当のBTC購入で調査要求、英大物政治家に市場操作の疑い",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2080665340.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=160680",
+          "author": "Crypto Times 編集部",
+          "description": "仮想通貨業界のベンチャーキャピタル（VC）市場が「成熟フェーズ」に入りつつあります。米デジタル資産運用会社Galaxy Digitalが配信するポッドキャスト「Galaxy Brains」最新回で、リサーチ責任者のAle […]\n投稿 過去の仮想通貨早期投資ブームはもう来ない？VC市場は成熟か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-will-the-cryptocurrency-investment-boom-of-the-past-never-return/",
+          "publishedOn": "2026-04-15T10:21:36.000Z",
+          "wordCount": 614,
+          "title": "過去の仮想通貨早期投資ブームはもう来ない？VC市場は成熟か",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2206435601-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=160560",
+          "author": "Crypto Times 編集部",
+          "description": "イーサリアムのステーキングエコシステムが852億ドルに達し、強固なセキュリティを誇る「要塞」へと進化を遂げています。データ分析プラットフォームのToken Terminalが報告しました。 Ethereum’s stak […]\n投稿 イーサリアム、ステーキング額852億ドル到達｜強固なセキュリティ構築を実現 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-ethereum-reaches-85-2-billion-in-staking/",
+          "publishedOn": "2026-04-15T09:55:14.000Z",
+          "wordCount": 632,
+          "title": "イーサリアム、ステーキング額852億ドル到達｜強固なセキュリティ構築を実現",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2577626423.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=160537",
+          "author": "Crypto Times 編集部",
+          "description": "2026年4月における仮想通貨のハッキング被害額が、2025年2月以来の最大規模に達したことが明らかになりました。4月はまだ2週間以上の期間を残しているにもかかわらず、すでに過去1年強で最悪の月となっています。 \u0001 […]\n投稿 仮想通貨ハッキング、4月は2025年2月以来の最大規模に は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-cryptocurrency-hacking-in-april-was-the-largest-since-february-2025/",
+          "publishedOn": "2026-04-15T09:20:12.000Z",
+          "wordCount": 620,
+          "title": "仮想通貨ハッキング、4月は2025年2月以来の最大規模に",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2708947625-1-scaled.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=160677",
+          "author": "Crypto Times 編集部",
+          "description": "米著名投資家のアンソニー・ポンプリアーノ氏が自身のポッドキャストでウォール街におけるビットコインETF（上場投資信託）を巡る競争について「戦争状態にある」と表現し、注目を集めています。 ﻿ 背景にはMorgan Stan […]\n投稿 ウォール街は戦争状態？ビットコインを巡る獲得競争とは は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-wall-street-is-at-war-over-btc/",
+          "publishedOn": "2026-04-15T09:13:24.000Z",
+          "wordCount": 624,
+          "title": "ウォール街は戦争状態？ビットコインを巡る獲得競争とは",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2670478379.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=160531",
           "author": "Crypto Times 編集部",

@@ -12,6 +12,46 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=344824",
+          "author": "井上 俊彦",
+          "description": "USDコイン（USDC）発行元のCircle（サークル）が、独自のレイヤー1ブロックチェーン「Arc Network」でネイティブトークンの発行を検討しているこ ...\nCircle、レイヤー1ブロックチェーン「Arc」のネイティブトークン発行やPoSモデルへの移行を計画 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/344824/",
+          "publishedOn": "2026-04-15T08:40:00.000Z",
+          "wordCount": 1595,
+          "title": "Circle、レイヤー1ブロックチェーン「Arc」のネイティブトークン発行やPoSモデルへの移行を計画",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2643246187.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=344816",
+          "author": "増田隆幸",
+          "description": "SEC（米証券取引委員会）は4月13日、DeFiに関連するフロントエンドやウォレットなどのユーザーインターフェース（UI）に関する見解を公表した。 見解は法的拘 ...\nDeFiは規制されるのか？ 答えは「設計」次第──SEC見解が示した“設計ベース規制”【専門家解説】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/344816/",
+          "publishedOn": "2026-04-15T07:51:18.000Z",
+          "wordCount": 1678,
+          "title": "DeFiは規制されるのか？ 答えは「設計」次第──SEC見解が示した“設計ベース規制”【専門家解説】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/nadanews_top-2026-04-15T164838.118.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=344785",
+          "author": "廣瀬 優香",
+          "description": "Xのプロダクト責任者であるNikita Bier（ニキータ・ビア）氏は4月15日、米国とカナダのiPhoneユーザー向けに新機能「Cashtags」を導入し、同 ...\nX、暗号資産・株式の価格データをタイムライン上で閲覧できる機能を導入 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/344785/",
+          "publishedOn": "2026-04-15T07:40:00.000Z",
+          "wordCount": 1585,
+          "title": "X、暗号資産・株式の価格データをタイムライン上で閲覧できる機能を導入",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2597110603.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=344806",
+          "author": "井上 俊彦",
+          "description": "ビットコイン（BTC）の量子耐性への移行を目的とした改善提案「BIP-361」が4月13日にGitHubで草案として公開された。著者にはCasaのJameson ...\n量子脆弱性のあるビットコインの凍結を提案──コミュニティからは反発の声も first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/344806/",
+          "publishedOn": "2026-04-15T07:35:00.000Z",
+          "wordCount": 1587,
+          "title": "量子脆弱性のあるビットコインの凍結を提案──コミュニティからは反発の声も",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2022/02/shutterstock_1917349436-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=344753",
           "author": "平木 昌宏",
           "description": "Polygon Labsは14日、ネットワークのネイティブトークンであるポリゴン（POL）を対象としたネイティブのリキッドステーキングトークン sPOL を発表 ...\nPolygon Labs、リキッドステーキングトークン「sPOL」を発表──約3.3億ドルの遊休資本の活性化へ first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -564,6 +604,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=702238",
+          "author": "Enzo",
+          "description": "BIP-361を公開。量子脆弱な約170万BTC（約11兆8,000億円）を段階的に凍結する計画で、サトシ推定保有分も対象。コミュニティは強く反発している。",
+          "link": "https://coinpost.jp/?p=702238",
+          "publishedOn": "2026-04-15T08:42:12.000Z",
+          "wordCount": 3981,
+          "title": "量子脆弱なビットコインの凍結計画、BIP-361が3段階移行を提案",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/bitcoin-new-new-new-2026-march.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/bitcoin-new-new-new-2026-march.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=702126",
           "author": "Enzo",
@@ -1433,36 +1488,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/Worldcoin1128.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/Worldcoin1128.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=701238",
-          "author": "菊谷ルイス",
-          "description": "ブータン王国政府が10日に250BTCのビットコインを新規ウォレットに移動。オンチェーンデータから売却意図の可能性が指摘される中、今年の送出総額は2.3億ドルを超えている。",
-          "link": "https://coinpost.jp/?p=701238",
-          "publishedOn": "2026-04-10T20:50:53.000Z",
-          "wordCount": 4020,
-          "title": "ブータン政府が新たに250BTC移動、今週550BTC以上のビットコインを送金",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/bitcoin-new-new-new-2026-march.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/bitcoin-new-new-new-2026-march.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=701195",
-          "author": "菊谷ルイス",
-          "description": "コインベースのアームストロングCEOが、米仮想通貨市場構造法案への支持を表明。報酬禁止条項を巡る従来の反対姿勢から一転し、スコット・ベッセント財務長官が求める早期の法制化に賛同した。",
-          "link": "https://coinpost.jp/?p=701195",
-          "publishedOn": "2026-04-10T20:00:05.000Z",
-          "wordCount": 4008,
-          "title": "コインベースCEO、財務長官の「クラリティー法案」可決要請に賛同",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/congress.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/congress.png"
         }
       ]
     },
@@ -2415,6 +2440,51 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=160531",
+          "author": "Crypto Times 編集部",
+          "description": "2026年に到来が予想される「IPOスーパーサイクル」を背景に、SpaceXやOpenAI、Anthropicといった有力企業の未上場株をオンチェーンで取引する動きが急速に拡大しています。 How the 2026 IP […]\n投稿 2026年IPO期待でオンチェーンでの未上場株取引が急増｜SpaceXやOpenAI は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-on-chain-trading-of-unlisted-stocks-surges-due-to-expectations-of-ipos-in-2026/",
+          "publishedOn": "2026-04-15T08:49:10.000Z",
+          "wordCount": 639,
+          "title": "2026年IPO期待でオンチェーンでの未上場株取引が急増｜SpaceXやOpenAI",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2739608001.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=160529",
+          "author": "Crypto Times 編集部",
+          "description": "イーサリアムのレイヤー2ソリューションであるScrollが、プロトコルのガバナンス体制を大幅に変更する提案を行いました。 目前根据 @DefiLlama 的数据显示 Scroll 24小时的链上收入只有112美金，这在2 […]\n投稿 イーサリアムL2「Scroll」、24時間収益112ドル｜組織一部解散と権限移譲へ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-ethereum-l2-platform-scroll-earns-112-in-24-hours/",
+          "publishedOn": "2026-04-15T08:00:06.000Z",
+          "wordCount": 602,
+          "title": "イーサリアムL2「Scroll」、24時間収益112ドル｜組織一部解散と権限移譲へ",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/0_O86lWzLWRSc508ya.png"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=160524",
+          "author": "Crypto Times 編集部",
+          "description": "ミームコイン「币安人生（Binance Life）」の価格が急騰し、特定のクジラ（大口投資家）による大規模な買い占めの動きが観測されています。 还在拉盘📈 🚨疑似 #币安人生 控盘地址持仓 […]\n投稿 ミームコイン「バイナンス人生」が59%急騰、特定勢力が14.6%を支配か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-the-meme-coin-binance-life-surges-59/",
+          "publishedOn": "2026-04-15T07:50:52.000Z",
+          "wordCount": 611,
+          "title": "ミームコイン「バイナンス人生」が59%急騰、特定勢力が14.6%を支配か",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2411047665.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=160575",
           "author": "Crypto Times 編集部",

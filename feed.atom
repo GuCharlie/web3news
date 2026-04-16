@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-16T21:38:48.022Z</updated>
+    <updated>2026-04-16T22:35:46.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米CFTC、AI活用で人員削減に対応]]></title>
+        <id>https://www.nadanews.com/?p=345070</id>
+        <link href="https://www.nadanews.com/345070/"/>
+        <updated>2026-04-16T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米商品先物取引委員会（CFTC）のMichael Selig（マイケル・セリグ）委員長は、議会証言において、同委員会が人工知能（AI）や自動化技術を活用すること ...
+米CFTC、AI活用で人員削減に対応 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XRP現物ETF、15日に27億円以上純流入　過去2番目の規模]]></title>
+        <id>https://coinpost.jp/?p=702724</id>
+        <link href="https://coinpost.jp/?p=702724"/>
+        <updated>2026-04-16T21:45:53.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨XRP価格が過去1週間で7%上昇しビットコインやイーサリアムのパフォーマンスを上回った。XRPの現物ETFが4月15日に27億円超の純流入を記録し機関投資家の復帰を示唆している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hyperbridge、エクスプロイト被害額を約3億9000万円に上方修正──クロスチェーン攻撃で初期推定の約10倍]]></title>
         <id>https://www.nadanews.com/?p=345068</id>

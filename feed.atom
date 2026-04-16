@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-16T20:43:19.295Z</updated>
+    <updated>2026-04-16T21:38:48.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hyperbridge、エクスプロイト被害額を約3億9000万円に上方修正──クロスチェーン攻撃で初期推定の約10倍]]></title>
+        <id>https://www.nadanews.com/?p=345068</id>
+        <link href="https://www.nadanews.com/345068/"/>
+        <updated>2026-04-16T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Polkadot（ポルカドット）基盤のクロスチェーンプロトコル「Hyperbridge（ハイパーブリッジ）」は、4月13日に発生したトークンブリッジ「Token ...
+Hyperbridge、エクスプロイト被害額を約3億9000万円に上方修正──クロスチェーン攻撃で初期推定の約10倍 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MastercardとLobster.cashが提携──AIエージェントがカード決済を代行へ]]></title>
+        <id>https://www.nadanews.com/?p=345066</id>
+        <link href="https://www.nadanews.com/345066/"/>
+        <updated>2026-04-16T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AIエージェント向け決済インフラを提供するCrossmin（クロスミント）tは、同社の「Lobster.cash」がMastercard（マスターカード）と提携 ...
+MastercardとLobster.cashが提携──AIエージェントがカード決済を代行へ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マスターカード、AIエージェント決済に本格参入]]></title>
+        <id>https://coinpost.jp/?p=702725</id>
+        <link href="https://coinpost.jp/?p=702725"/>
+        <updated>2026-04-16T20:55:02.000Z</updated>
+        <summary type="html"><![CDATA[決済大手のマスターカードが、AIエージェント向け決済ソリューション「Lobster.cash」との連携を発表。「エージェント型コマース」の普及を加速させ、投資家が注目する新たな成長市場を牽引していく狙いだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モルガン・スタンレー『 MSBT』、初週で160億円超の純流入　ビットコインETF市場で競争激化]]></title>
+        <id>https://coinpost.jp/?p=702726</id>
+        <link href="https://coinpost.jp/?p=702726"/>
+        <updated>2026-04-16T20:45:10.000Z</updated>
+        <summary type="html"><![CDATA[モルガン・スタンレーのビットコイン現物ETF「MSBT」が初週で100億円を超える資金流入を記録。同行はデジタル資産をコア事業に統合し、ウォレット・カストディ・決済インフラの刷新を進めている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サークルCEO、「中国による人民元ステーブルコイン発行は3～5年で可能」と予測＝報道]]></title>
         <id>https://coinpost.jp/?p=702708</id>

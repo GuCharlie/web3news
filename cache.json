@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=345068",
+          "author": "Shoko Galaviz",
+          "description": "Polkadot（ポルカドット）基盤のクロスチェーンプロトコル「Hyperbridge（ハイパーブリッジ）」は、4月13日に発生したトークンブリッジ「Token ...\nHyperbridge、エクスプロイト被害額を約3億9000万円に上方修正──クロスチェーン攻撃で初期推定の約10倍 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/345068/",
+          "publishedOn": "2026-04-16T21:30:00.000Z",
+          "wordCount": 1591,
+          "title": "Hyperbridge、エクスプロイト被害額を約3億9000万円に上方修正──クロスチェーン攻撃で初期推定の約10倍",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2415998581.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=345066",
+          "author": "Shoko Galaviz",
+          "description": "AIエージェント向け決済インフラを提供するCrossmin（クロスミント）tは、同社の「Lobster.cash」がMastercard（マスターカード）と提携 ...\nMastercardとLobster.cashが提携──AIエージェントがカード決済を代行へ first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/345066/",
+          "publishedOn": "2026-04-16T21:00:00.000Z",
+          "wordCount": 1592,
+          "title": "MastercardとLobster.cashが提携──AIエージェントがカード決済を代行へ",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2581895441.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=344850",
           "author": "平木 昌宏",
           "description": "ドバイを拠点とする暗号資産（仮想通貨）マーケットメイカーのDWF Labsは16日、DeFi（分散型金融）におけるAIエージェントの現状と課題をまとめたレポート ...\nDeFiでAIエージェント活用が拡大──「Grok 4.20」が主要モデルで最高成績 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -704,6 +724,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=702725",
+          "author": "菊谷ルイス",
+          "description": "決済大手のマスターカードが、AIエージェント向け決済ソリューション「Lobster.cash」との連携を発表。「エージェント型コマース」の普及を加速させ、投資家が注目する新たな成長市場を牽引していく狙いだ。",
+          "link": "https://coinpost.jp/?p=702725",
+          "publishedOn": "2026-04-16T20:55:02.000Z",
+          "wordCount": 4155,
+          "title": "マスターカード、AIエージェント決済に本格参入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/mastercard-buying-bvnk-stablecoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/mastercard-buying-bvnk-stablecoin.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=702726",
+          "author": "菊谷ルイス",
+          "description": "モルガン・スタンレーのビットコイン現物ETF「MSBT」が初週で100億円を超える資金流入を記録。同行はデジタル資産をコア事業に統合し、ウォレット・カストディ・決済インフラの刷新を進めている。",
+          "link": "https://coinpost.jp/?p=702726",
+          "publishedOn": "2026-04-16T20:45:10.000Z",
+          "wordCount": 3649,
+          "title": "モルガン・スタンレー『 MSBT』、初週で160億円超の純流入　ビットコインETF市場で競争激化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/morganstaley324354-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/morganstaley324354-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=702708",
           "author": "菊谷ルイス",

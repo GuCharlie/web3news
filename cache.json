@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=345266",
+          "author": "NADA NEWS編集部",
+          "description": "三井物産デジタルコモディティーズは17日、金・銀・プラチナ価格への連動を目指す暗号資産「ジパングコイン（ZPG）」シリーズについて、マルチチェーン展開を開始する ...\nジパングコイン、マルチチェーン展開へ──OP Mainnet対応、Solanaも視野 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/345266/",
+          "publishedOn": "2026-04-17T11:50:00.000Z",
+          "wordCount": 1613,
+          "title": "ジパングコイン、マルチチェーン展開へ──OP Mainnet対応、Solanaも視野",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/nadanews_top-2026-04-17T204454.616.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=345254",
           "author": "井上 俊彦",
           "description": "キルギスタンに登録されたロシア関連の暗号資産（仮想通貨）取引所Grinexは4月16日、大規模なサイバー攻撃を受けたことで取引を一時停止したと発表した。被害額は ...\nロシア関連の取引所、20億円のハッキング被害──西側特殊機関の犯行と主張 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -870,16 +880,6 @@
           "wordCount": 1614,
           "title": "Bitwise、HYPE現物ETFの第2次修正届出書をSECに提出",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2650621843.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=341781",
-          "author": "瑞澤 圭",
-          "description": "年に1回、Web3やブロックチェーン領域の最前線を走る企業が集結し、コミュニティ内の共創を促進するイベント「N.Avenue club Summit」が3月19 ...\n家賃決済、証券、国際送金──広がる金融オンチェーン化の実装事例【N.Avenue club Summit企業発表会 Part1】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/341781/",
-          "publishedOn": "2026-04-13T01:00:00.000Z",
-          "wordCount": 2025,
-          "title": "家賃決済、証券、国際送金──広がる金融オンチェーン化の実装事例【N.Avenue club Summit企業発表会 Part1】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/0047-2-scaled.jpg"
         }
       ]
     },
@@ -2093,36 +2093,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/strategy-new-bitcoin.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/strategy-new-bitcoin.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=701394",
-          "author": "A.Yamada",
-          "description": "モルガン・スタンレーのデジタル資産責任者が、仮想通貨分野でのさらなる事業展開を示唆。トークン化マネーマーケットファンドを次の重要な商品として挙げた。",
-          "link": "https://coinpost.jp/?p=701394",
-          "publishedOn": "2026-04-13T00:37:39.000Z",
-          "wordCount": 3991,
-          "title": "モルガン・スタンレー、ビットコインETFの次はトークン化MMFに照準＝報道",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/morgan_stanley1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/morgan_stanley1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=701363",
-          "author": "CoinPost編集部",
-          "description": "ビットコインは米イラン和平交渉決裂とホルムズ海峡封鎖報道を受け急落。原油高もマイナーの採算を圧迫するが、現物買いやオプション市場の強気姿勢など内部環境は反発余地を示す。",
-          "link": "https://coinpost.jp/?p=701363",
-          "publishedOn": "2026-04-13T00:27:09.000Z",
-          "wordCount": 4460,
-          "title": "ビットコイン急落、ホルムズ海峡リスクと原油高が重荷に｜仮想NISHI",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0556.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0556.png"
         }
       ]
     },
@@ -3375,6 +3345,21 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=160978",
+          "author": "Crypto Times 編集部",
+          "description": "東京都は4月17日、円建てステーブルコインを活用してユースケースを創出する事業者を対象とした「ステーブルコイン社会実装促進事業補助金」の令和8年度公募を開始しました。補助対象経費の3分の2以内、1件あたり最大4,000万 […]\n投稿 東京都、円建てステーブルコイン活用の事業者に最大4000万円補助金 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-tokyo-to-provide-40-million-yen-in-subsidies-to-create-use-cases-for-yen-pegged-stablecoins/",
+          "publishedOn": "2026-04-17T12:47:22.000Z",
+          "wordCount": 591,
+          "title": "東京都、円建てステーブルコイン活用の事業者に最大4000万円補助金",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2273153549.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=160974",
           "author": "Crypto Times 編集部",

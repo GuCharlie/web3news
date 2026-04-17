@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-17T19:56:31.254Z</updated>
+    <updated>2026-04-17T20:42:38.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米政府、1億円相当ビットコインをコインベースに移管　返還手続きか]]></title>
+        <id>https://coinpost.jp/?p=703016</id>
+        <link href="https://coinpost.jp/?p=703016"/>
+        <updated>2026-04-17T20:00:32.000Z</updated>
+        <summary type="html"><![CDATA[米政府が2016年Bitfinexハック関連の1億円分ビットコインをコインベース・プライムに移管。売却ではなく裁判手続きによる返却が必要なため、戦略的備蓄方針と整合。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京都、円建てステーブルコイン活用の事業者に最大4000万円補助金]]></title>
         <id>https://crypto-times.jp/?p=160978</id>
@@ -3030,48 +3040,6 @@ Ginco、IEO見据えるWeb3ヘルスケアプロジェクト「WellthVerse」を
         <summary type="html"><![CDATA[13年の実績を持つ暗号資産取引所GateのCBO・Kevin Lee氏がグローバルライセンス戦略やマルチアセット展開、次の10億ユーザー獲得構想を単独インタビューで語った。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイビット、10億DOT超の偽入金攻撃をリアルタイムで防ぐ]]></title>
-        <id>https://www.neweconomy.jp/?p=564712</id>
-        <link href="https://www.neweconomy.jp/posts/564712"/>
-        <updated>2026-04-13T08:25:32.000Z</updated>
-        <summary type="html"><![CDATA[偽入金攻撃を検知 海外暗号資産（仮想通貨）取引所のバイビット（Bybit）が、複数のブロックチェーンネットワークを標的にした組織的な「偽入金攻撃」を検知・遮断したと4月8日に発表した。未然に防いだ被害額は、約11億8,0 […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WIZE（旧モブキャスト）、ソラナの累計取得金額が5億円に到達、総保有数は世界第15位に]]></title>
-        <id>https://www.neweconomy.jp/?p=564697</id>
-        <link href="https://www.neweconomy.jp/posts/564697"/>
-        <updated>2026-04-13T08:08:33.000Z</updated>
-        <summary type="html"><![CDATA[WIZEがソラナ追加取得 東証グロース上場のワイズ（WIZE）が、暗号資産（仮想通貨）ソラナ（SOL）の追加取得を4月13日に発表した。また今回の追加取得により、同社のSOL累計取得金額は5億円に到達した。なおワイズは4 […]]]></summary>
-        <author>
-            <name>TanakaShuya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WIZE（旧モブキャスト）、SOL累計取得額が5億円に到達──保有規模は世界第15位に]]></title>
-        <id>https://www.nadanews.com/?p=344418</id>
-        <link href="https://www.nadanews.com/344418/"/>
-        <updated>2026-04-13T08:06:19.000Z</updated>
-        <summary type="html"><![CDATA[WIZE（旧モブキャストホールディングス）は13日、暗号資産ソラナ（SOL）の累計取得金額が5億円に到達したと発表した。 2026年4月10日時点での総保有枚数 ...
-WIZE（旧モブキャスト）、SOL累計取得額が5億円に到達──保有規模は世界第15位に first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米財務省、ステーブルコインの新規制案を発表──利回りを巡る銀行との対立と法案の動向【MCB FinTechカタログ通信】]]></title>
-        <id>https://www.nadanews.com/?p=344344</id>
-        <link href="https://www.nadanews.com/344344/"/>
-        <updated>2026-04-13T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年4月8日、米財務省の金融犯罪取締ネットワーク（FinCEN）と外国資産管理室（OFAC）が、ステーブルコイン発行者を対象とした資金洗浄およびテロ資金供 ...
-米財務省、ステーブルコインの新規制案を発表──利回りを巡る銀行との対立と法案の動向【MCB FinTechカタログ通信】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>宮本航歩</name>
         </author>
     </entry>
     <entry>

@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-16T23:36:46.237Z</updated>
+    <updated>2026-04-17T02:10:32.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ハイパーブリッジで約4億円相当の不正流出、初期報告から被害額が約10倍に拡大]]></title>
+        <id>https://coinpost.jp/?p=702797</id>
+        <link href="https://coinpost.jp/?p=702797"/>
+        <updated>2026-04-17T01:39:11.000Z</updated>
+        <summary type="html"><![CDATA[ハイパーブリッジのハッキング被害額が約250万ドル（約4億円）に拡大。資金の一部はバイナンスで追跡中で、回収不足時はBRIDGEトークンで補償する計画が発表された。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン反発も、利益確定リスクも上昇中＝クリプトクアント]]></title>
+        <id>https://coinpost.jp/?p=702750</id>
+        <link href="https://coinpost.jp/?p=702750"/>
+        <updated>2026-04-17T01:00:52.000Z</updated>
+        <summary type="html"><![CDATA[クリプトクアントが仮想通貨市場の週間レポートを発表。ビットコインは反発したがトレーダーの平均取得価格が抵抗線となり、利益確定売りのリスクが高まっていると解説した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本機関投資家の仮想通貨ポジティブ見通しが30%超え、野村HD・レーザーデジタル調査]]></title>
+        <id>https://coinpost.jp/?p=702766</id>
+        <link href="https://coinpost.jp/?p=702766"/>
+        <updated>2026-04-17T00:27:26.000Z</updated>
+        <summary type="html"><![CDATA[野村HDとレーザーデジタルが2026年機関投資家調査を公表。518名対象の調査で仮想通貨へのポジティブ見通しが31%に上昇、分散投資目的での活用関心が拡大している。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morgan StanleyのBTC現物ETF、6日間でWisdomTreeの総流入額を上回る]]></title>
+        <id>https://www.nadanews.com/?p=345008</id>
+        <link href="https://www.nadanews.com/345008/"/>
+        <updated>2026-04-17T00:10:00.000Z</updated>
+        <summary type="html"><![CDATA[米大手金融機関Morgan Stanley（モルガン・スタンレー）のビットコイン現物ETF（上場投資信託）、Morgan Stanley Bitcoin Tru ...
+Morgan StanleyのBTC現物ETF、6日間でWisdomTreeの総流入額を上回る first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[株は最高値、ビットコインは未発火──このズレが意味するもの【エックスウィンリサーチ】]]></title>
+        <id>https://www.nadanews.com/?p=345073</id>
+        <link href="https://www.nadanews.com/345073/"/>
+        <updated>2026-04-17T00:07:05.000Z</updated>
+        <summary type="html"><![CDATA[● 株式市場は史上最高値更新も、その本質は「最悪シナリオの後退」● BTCは依然ブレイク前段階で、構造改善と上値抑制が共存● マクロ（原油・金利・ドル）がBTC ...
+株は最高値、ビットコインは未発火──このズレが意味するもの【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>XWIN Research</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米大手証券会社チャールズ・シュワブ、仮想通貨現物取引を提供開始　ビットコインとイーサリアムから]]></title>
+        <id>https://coinpost.jp/?p=702721</id>
+        <link href="https://coinpost.jp/?p=702721"/>
+        <updated>2026-04-16T23:45:21.000Z</updated>
+        <summary type="html"><![CDATA[チャールズ・シュワブが仮想通貨現物取引「Schwab Crypto」サービス展開を発表。ビットコイン・イーサリアムの現物取引を数週間以内に段階的開始。12兆ドル運用で仮想通貨の主流化を推進する。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ハック被害のソラナ基盤ドリフト、テザーなどから最大230億円超の支援]]></title>
         <id>https://coinpost.jp/?p=702737</id>

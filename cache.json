@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=345008",
+          "author": "井上 俊彦",
+          "description": "米大手金融機関Morgan Stanley（モルガン・スタンレー）のビットコイン現物ETF（上場投資信託）、Morgan Stanley Bitcoin Tru ...\nMorgan StanleyのBTC現物ETF、6日間でWisdomTreeの総流入額を上回る first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/345008/",
+          "publishedOn": "2026-04-17T00:10:00.000Z",
+          "wordCount": 1625,
+          "title": "Morgan StanleyのBTC現物ETF、6日間でWisdomTreeの総流入額を上回る",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2022/02/shutterstock_654972469.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=345073",
+          "author": "XWIN Research",
+          "description": "● 株式市場は史上最高値更新も、その本質は「最悪シナリオの後退」● BTCは依然ブレイク前段階で、構造改善と上値抑制が共存● マクロ（原油・金利・ドル）がBTC ...\n株は最高値、ビットコインは未発火──このズレが意味するもの【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/345073/",
+          "publishedOn": "2026-04-17T00:07:05.000Z",
+          "wordCount": 1681,
+          "title": "株は最高値、ビットコインは未発火──このズレが意味するもの【エックスウィンリサーチ】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/nadanews_top-2026-04-17T090217.587.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=345070",
           "author": "Shoko Galaviz",
           "description": "米商品先物取引委員会（CFTC）のMichael Selig（マイケル・セリグ）委員長は、議会証言において、同委員会が人工知能（AI）や自動化技術を活用すること ...\n米CFTC、AI活用で人員削減に対応 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -734,6 +754,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=702797",
+          "author": "Enzo",
+          "description": "ハイパーブリッジのハッキング被害額が約250万ドル（約4億円）に拡大。資金の一部はバイナンスで追跡中で、回収不足時はBRIDGEトークンで補償する計画が発表された。",
+          "link": "https://coinpost.jp/?p=702797",
+          "publishedOn": "2026-04-17T01:39:11.000Z",
+          "wordCount": 4147,
+          "title": "ハイパーブリッジで約4億円相当の不正流出、初期報告から被害額が約10倍に拡大",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/hacking2_0402.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/hacking2_0402.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=702750",
+          "author": "A.Yamada",
+          "description": "クリプトクアントが仮想通貨市場の週間レポートを発表。ビットコインは反発したがトレーダーの平均取得価格が抵抗線となり、利益確定売りのリスクが高まっていると解説した。",
+          "link": "https://coinpost.jp/?p=702750",
+          "publishedOn": "2026-04-17T01:00:52.000Z",
+          "wordCount": 3649,
+          "title": "ビットコイン反発も、利益確定リスクも上昇中＝クリプトクアント",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/bitcoin-crash-dca-20260414-1-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/bitcoin-crash-dca-20260414-1-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=702766",
+          "author": "Enzo",
+          "description": "野村HDとレーザーデジタルが2026年機関投資家調査を公表。518名対象の調査で仮想通貨へのポジティブ見通しが31%に上昇、分散投資目的での活用関心が拡大している。",
+          "link": "https://coinpost.jp/?p=702766",
+          "publishedOn": "2026-04-17T00:27:26.000Z",
+          "wordCount": 4144,
+          "title": "日本機関投資家の仮想通貨ポジティブ見通しが30%超え、野村HD・レーザーデジタル調査",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/nomura-new-invest.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/nomura-new-invest.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=702721",
+          "author": "菊谷ルイス",
+          "description": "チャールズ・シュワブが仮想通貨現物取引「Schwab Crypto」サービス展開を発表。ビットコイン・イーサリアムの現物取引を数週間以内に段階的開始。12兆ドル運用で仮想通貨の主流化を推進する。",
+          "link": "https://coinpost.jp/?p=702721",
+          "publishedOn": "2026-04-16T23:45:21.000Z",
+          "wordCount": 4165,
+          "title": "米大手証券会社チャールズ・シュワブ、仮想通貨現物取引を提供開始　ビットコインとイーサリアムから",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/charles-schwab-crypto-look.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/charles-schwab-crypto-look.png"
+        },
         {
           "id": "https://coinpost.jp/?p=702737",
           "author": "K.Kobayashi",

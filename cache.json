@@ -2088,21 +2088,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/congress-working-night.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/congress-working-night.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=701603",
-          "author": "菊谷ルイス",
-          "description": "米ストラテジーが先週13927BTCのビットコインを約10億ドルで購入。保有総量は780897 BTCに達しており、2週間連続の買い増しとなった。",
-          "link": "https://coinpost.jp/?p=701603",
-          "publishedOn": "2026-04-13T20:00:13.000Z",
-          "wordCount": 4209,
-          "title": "マイケル・セイラーのストラテジーが1600億円相当ビットコインを追加購入、保有量78万BTC突破",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/Microstrategy_0711.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/Microstrategy_0711.jpg"
         }
       ]
     },
@@ -3225,6 +3210,51 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=161015",
+          "author": "よきょい",
+          "description": "4月18日現在イランが原油輸送の要衝であるホルムズ海峡の開放を正式に表明したことで、世界市場は大きく動きました。原油価格が一時11%超急落し米イラン和平交渉進展期待からリスクオンムードが強まり、S&P500が過去 […]\n投稿 【今日のマクロ経済まとめ】ホルムズ海峡開放でリスクオンムード強まる は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-todays-macroeconomic-summary-april-18th/",
+          "publishedOn": "2026-04-18T07:50:06.000Z",
+          "wordCount": 586,
+          "title": "【今日のマクロ経済まとめ】ホルムズ海峡開放でリスクオンムード強まる",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2756657615.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=161059",
+          "author": "Crypto Times 編集部",
+          "description": "ソラナ財団は2023年3月以来ネットワークの稼働率が100%であることを公表していますが、個別のバリデーターレベルでは異なる実態が浮き彫りとなっています。 バリデーター追跡サービス「Slashr」のデータによると、大手バ […]\n投稿 ソラナ「稼働率100%」の裏で32回停止、報酬喪失のバリデーター は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-solana-boasts-100-operational-rate-but-experiences-32-shutdowns/",
+          "publishedOn": "2026-04-18T07:31:11.000Z",
+          "wordCount": 593,
+          "title": "ソラナ「稼働率100%」の裏で32回停止、報酬喪失のバリデーター",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2146402533-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=161075",
+          "author": "Crypto Times 編集部",
+          "description": "米金融大手のゴールドマン・サックスが、新たにビットコインに関連した上場投資信託（ETF）の立ち上げを申請したことが明らかになりました。同社は「Goldman Sachs Bitcoin Premium Income ET […]\n投稿 ゴールドマン・サックス、ビットコインETFに参入へ｜安定収益と低リスク重視 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-goldman-sachs-enters-the-bitcoin-etf-market/",
+          "publishedOn": "2026-04-18T07:14:12.000Z",
+          "wordCount": 595,
+          "title": "ゴールドマン・サックス、ビットコインETFに参入へ｜安定収益と低リスク重視",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2427065215.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=161095",
           "author": "Crypto Times 編集部",

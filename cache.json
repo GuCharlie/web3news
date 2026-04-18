@@ -845,6 +845,66 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=703098",
+          "author": "菊谷ルイス",
+          "description": "ドルステーブルコイン発行の米サークルが、USDCの公式ブリッジ機能を公開。提供開始された「USDC Bridge」とソラナ向け転送サービスにより、500ミリ秒以内の高速決済やナノペイメントが可能となった。",
+          "link": "https://coinpost.jp/?p=703098",
+          "publishedOn": "2026-04-18T05:20:01.000Z",
+          "wordCount": 4145,
+          "title": "サークルが「USDCブリッジ」を発表、ソラナへのクロスチェーン転送を自動化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/circle-solana-bridge.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/circle-solana-bridge.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=703026",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨XRP保有者がソラナのDeFiエコシステムにアクセス可能に。Hex TrustとLayerZeroを通じたwXRP（ラップドXRP）が18日にソラナで稼働開始。売却せずにDeFi運用を実現。",
+          "link": "https://coinpost.jp/?p=703026",
+          "publishedOn": "2026-04-18T04:50:36.000Z",
+          "wordCount": 3649,
+          "title": "仮想通貨XRP、ソラナで『wXRP』として利用可能に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/xrp-etf-21shares.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/xrp-etf-21shares.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=703088",
+          "author": "A.Yamada",
+          "description": "米国のシェリ・ビッグス下院議員がブラックロックのビットコイン現物ETF「IBIT」に最大25万ドルを投資したことを開示した。共和党を中心に議員による購入が報告されている。",
+          "link": "https://coinpost.jp/?p=703088",
+          "publishedOn": "2026-04-18T04:10:41.000Z",
+          "wordCount": 3642,
+          "title": "米ビッグス下院議員、3月にビットコイン現物ETFに最大4000万円投資",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/bitcoin-new-high-after-big-correction-.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/bitcoin-new-high-after-big-correction-.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=703025",
+          "author": "菊谷ルイス",
+          "description": "米シタデル・セクリティーズの社長が、急速に拡大する予測市場への流動性提供の可能性を表明。地政学イベントのヘッジ需要を受け、2026年の市場規模は2400億ドルに達する見通し。",
+          "link": "https://coinpost.jp/?p=703025",
+          "publishedOn": "2026-04-18T02:10:20.000Z",
+          "wordCount": 4149,
+          "title": "米シタデル、予測市場への参入を検討　地政学リスクのヘッジ手段として注目",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/2026-prediction-grayscale.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/2026-prediction-grayscale.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=703066",
           "author": "A.Yamada",
           "description": "東京都が円建てステーブルコイン普及に向け事業者支援を開始する。小池百合子知事は、国際金融都市戦略で重要になると位置づけている。",
@@ -2052,6 +2112,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=566154",
+          "author": "watanabeyousuke",
+          "description": "日本で分散型金融に関する政策議論が進展するか 国民民主党代表の玉木雄一郎氏が、分散型金融（DeFi）プロトコル「ハイパーリキッド（Hyperliquid）」に言及した投稿をきっかけに、日本における分散型取引所（DEX）の […]",
+          "link": "https://www.neweconomy.jp/posts/566154",
+          "publishedOn": "2026-04-18T03:46:26.000Z",
+          "wordCount": 752,
+          "title": "国民民主の玉木代表、ハイパーリキッドに言及。ビットフライヤー加納CEOとDEX規制巡り議論",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/18124620/e920678ba8e389d4dc2b5af06584bf0c.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=565994",
           "author": "HitomotoToshikazu",
           "description": "韓国が業務推進費にトークン化預金活用へ 韓国・財政経済部が、業務推進費への預金トークン活用を検証する試験事業を推進する計画を4月16日に公表した。 今回の試験事業では、現行制度で原則として政府購入カードにより執行されてい […]",
@@ -2630,16 +2700,6 @@
           "wordCount": 749,
           "title": "セキュリタイズ、株式を発行体主導モデルでトークン化。カレンシーG株をイーサリアムとソラナ上で発行",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/14101524/6a1973bf30989c7968054a1f03d4dc40.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=564752",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/564752",
-          "publishedOn": "2026-04-13T14:06:16.000Z",
-          "wordCount": 754,
-          "title": "【4/13話題】ジャスティンサンがトランプ一族の「WLFI」を非難、WIZE（旧モブキャスト）のソラナ累計取得は5億円、サークルがUSDC凍結は「法的義務」など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/13185012/5e547aa0a30635c637a383520d2ff595.jpg"
         }
       ]
     },
@@ -3165,6 +3225,201 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=161095",
+          "author": "Crypto Times 編集部",
+          "description": "2026年第1四半期（Q1）における世界のベンチャーキャピタル（VC）による資金調達額が、過去最高を記録したことが明らかになりました。 Global Fundraising in Q1 2026. Record Quar […]\n投稿 VC資金の80%がAIへ？Q1過去最高の投資額も「AI一強」鮮明に は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-q1-record-high-investment-figures-but-ais-dominance-remains-clear/",
+          "publishedOn": "2026-04-18T06:52:52.000Z",
+          "wordCount": 635,
+          "title": "VC資金の80%がAIへ？Q1過去最高の投資額も「AI一強」鮮明に",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2745487307-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=161012",
+          "author": "よきょい",
+          "description": "トランプ大統領からの圧力を受け欧州各国が防衛費の急速な積み上げに動いています。ドイツは長年守ってきた「財政規律の砦」ともいうべき憲法上の債務ブレーキを改正し、財政拡張路線に舵を切りました。 防衛費増強が国債増発と通貨の希 […]\n投稿 国債増発時代に仮想通貨が問う「通貨の信任」とは｜再軍備で財政ルールが崩壊？ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-what-does-cryptocurrency-mean-in-an-era-of-increased-government-bond-issuance-the-question-of-trust-in-currency/",
+          "publishedOn": "2026-04-18T05:39:17.000Z",
+          "wordCount": 580,
+          "title": "国債増発時代に仮想通貨が問う「通貨の信任」とは｜再軍備で財政ルールが崩壊？",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2142581461-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=161018",
+          "author": "よきょい",
+          "description": "4月18日、ビットコイン（BTC）の価格は76,980ドル前後で推移しており、イーサリアム（ETH）は約2,400ドル、ソラナ（SOL）は約88ドルで取引されています。世界の暗号資産時価総額は2.7兆ドルで、ビットコイン […]\n投稿 【今日の仮想通貨ニュース】仮想通貨が資産保全手段に？ソラナでXRPが稼働へ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-cryptocurrency-news-for-april-18th/",
+          "publishedOn": "2026-04-18T05:00:46.000Z",
+          "wordCount": 610,
+          "title": "【今日の仮想通貨ニュース】仮想通貨が資産保全手段に？ソラナでXRPが稼働へ",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2415683225.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=161155",
+          "author": "よきょい",
+          "description": "ビットコイン（BTC）関連事業を積極的に推進する東証上場のメタプラネットにおいて、BTCの含み損が縮小傾向にあることが注目を集めています。一時は1880億円を超えていた含み損が、現在は1325億円まで圧縮されており、その […]\n投稿 メタプラネット社の含み損、550億円縮小｜含み益転換で株価高騰なるか は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-metaplanets-unrealized-losses-shrink-by-50-billion-yen/",
+          "publishedOn": "2026-04-18T04:55:47.000Z",
+          "wordCount": 585,
+          "title": "メタプラネット社の含み損、550億円縮小｜含み益転換で株価高騰なるか",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2673454343.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=161078",
+          "author": "Crypto Times 編集部",
+          "description": "仮想通貨データ分析プラットフォームのCryptoRank_ioは、2026年におけるプロジェクト別の収益ランキングを公開しました。 📊Top 10 Projects by Revenue in 2026@ […]\n投稿 仮想通貨収益1位はテザー社、Hyperliquidなど取引所も躍進 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-tether-is-the-top-earning-cryptocurrency/",
+          "publishedOn": "2026-04-18T04:40:53.000Z",
+          "wordCount": 628,
+          "title": "仮想通貨収益1位はテザー社、Hyperliquidなど取引所も躍進",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2245996707-scaled.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=161060",
+          "author": "Crypto Times 編集部",
+          "description": "仮想通貨貸付プラットフォーム最大手のAaveが次世代プロトコル「Aave V4」の詳細を公開しました。今回のアップデートでは現行のV3が抱えていた構造的な制限を解消するため、「Hub and Spoke」と呼ばれる新たな […]\n投稿 Aave V4発表、流動性統合で利回り向上へ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-aave-v4-announced-aiming-for-higher-yields-through-liquidity-integration/",
+          "publishedOn": "2026-04-18T04:28:40.000Z",
+          "wordCount": 598,
+          "title": "Aave V4発表、流動性統合で利回り向上へ",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2646166683-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=161064",
+          "author": "Crypto Times 編集部",
+          "description": "香港を拠点とするBoyaa（博雅互動）が、企業の財務資産（コーポレート・トレジャリー）としてビットコイン（BTC）のみに投資する方針を明らかにしました。現在BoyaaのBTC保有量は4,092枚に達しており、今後もその数 […]\n投稿 香港BTC財務企業、ビットコインのみへの投資を明言 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-hong-kong-based-btc-finance-firm-declares-it-will-only-invest-in-bitcoin/",
+          "publishedOn": "2026-04-18T04:25:23.000Z",
+          "wordCount": 626,
+          "title": "香港BTC財務企業、ビットコインのみへの投資を明言",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2735595245.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=161065",
+          "author": "Crypto Times 編集部",
+          "description": "イーサリアム（ETH）のオプション市場で2026年4月および5月を満期とする大規模なロング・コールポジションが相次いで構築されました。オンチェーンデータ分析を手掛けるlaevitasの報告によると、過去4時間で合計約13 […]\n投稿 イーサリアム、5月までに2600ドル到達？ロング・コールポジション相次ぐ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-will-ethereum-reach-2600-by-may/",
+          "publishedOn": "2026-04-18T04:22:44.000Z",
+          "wordCount": 627,
+          "title": "イーサリアム、5月までに2600ドル到達？ロング・コールポジション相次ぐ",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2528391771-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=161089",
+          "author": "Crypto Times 編集部",
+          "description": "ソラナ公式アカウントがに「BREAKING: XRP is live on Solana」と投稿し、XRP Ledgerネイティブのデジタル資産であるXRPがソラナ上で取引されるようになりました。なお、実際に取引されるの […]\n投稿 ソラナでXRPが稼働開始、2.5%高騰で1.47ドル回復 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-xrp-goes-live-on-solana/",
+          "publishedOn": "2026-04-18T04:08:14.000Z",
+          "wordCount": 605,
+          "title": "ソラナでXRPが稼働開始、2.5%高騰で1.47ドル回復",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2189086243.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=161093",
+          "author": "Crypto Times 編集部",
+          "description": "BitMEX Researchは、優先株「STRC」の成功がBTC財務戦略を採用するストラテジー社（$MSTR）にとって非常に好材料であるとの見解を示しました。 $STRC‘s success is grea […]\n投稿 ストラテジー社、優先株「STRC」の成功で財務強化か？企業優位な条件が鍵 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-will-strategy-inc-strengthen-its-finances-with-the-success-of-strc/",
+          "publishedOn": "2026-04-18T03:55:38.000Z",
+          "wordCount": 636,
+          "title": "ストラテジー社、優先株「STRC」の成功で財務強化か？企業優位な条件が鍵",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2607147555-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=161013",
+          "author": "よきょい",
+          "description": "日本銀行は2026年も利上げ路線を継続しており、市場では年2回の追加利上げが見込まれています。政策金利は0.75%という15年以上ぶりの水準にありますが、問題は金利が上がっても多くの個人の生活実感が改善しないことです。  […]\n投稿 仮想通貨で資産を守る？日銀利上げ局面での新たな戦略 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-new-strategy-in-the-bank-of-japans-interest-rate-hike-phase/",
+          "publishedOn": "2026-04-18T03:45:52.000Z",
+          "wordCount": 585,
+          "title": "仮想通貨で資産を守る？日銀利上げ局面での新たな戦略",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2436047721.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=161014",
+          "author": "よきょい",
+          "description": "2026年上半期の仮想通貨市場において最も注目を集めている政策イベントが、米国の「デジタル資産市場CLARITY法」です。この法案が上院を通過すれば年金基金や保険会社など「法的な不透明感を理由に静観してきた」数兆ドル規模 […]\n投稿 仮想通貨市場に数兆ドルが流れ込む？米CLARITY法の影響とは は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-what-are-the-implications-of-the-u-s-clarity-act/",
+          "publishedOn": "2026-04-18T03:10:30.000Z",
+          "wordCount": 586,
+          "title": "仮想通貨市場に数兆ドルが流れ込む？米CLARITY法の影響とは",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2465401345.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=161010",
+          "author": "よきょい",
+          "description": "2026年4月、米国とイランの停戦交渉をめぐる報道が相次ぐ中、ビットコインは7万5,000ドル手前まで急反発しました。単なるリスクオン局面の反射的な動きに見えますが、その背後には「国境を超えた資産退避」という構造的な需要 […]\n投稿 ビットコインは「国境を超える資産」？中東停戦で急反発 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-is-bitcoin-a-transnational-asset/",
+          "publishedOn": "2026-04-18T02:56:18.000Z",
+          "wordCount": 581,
+          "title": "ビットコインは「国境を超える資産」？中東停戦で急反発",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2193871753.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=160978",
           "author": "Crypto Times 編集部",

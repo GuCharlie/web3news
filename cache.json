@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=345381",
+          "author": "XWIN Research",
+          "description": "● 機関投資家のポジティブ認識は31%へ上昇し、センチメントは明確に改善● 65%が分散投資目的で評価、想定配分は2〜5%が中心● Fund Flow Rati ...\n暗号資産に対する機関投資家の認識は変わったのか──野村調査とオンチェーンが示す「採用前夜」【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/345381/",
+          "publishedOn": "2026-04-20T02:20:00.000Z",
+          "wordCount": 1624,
+          "title": "暗号資産に対する機関投資家の認識は変わったのか──野村調査とオンチェーンが示す「採用前夜」【エックスウィンリサーチ】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/nadanews_top-2026-04-20T111809.685.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=345325",
           "author": "栃山 直樹",
           "description": "「正気の沙汰とは思えない」―。 昨年9月、金融審議会「暗号資産制度に関するワーキング・グループ（WG）」で、過去のIEO（Initial Exchange Of ...\n国内IEO、祭りの終わり【記者コラム】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -530,16 +540,6 @@
           "wordCount": 1598,
           "title": "Rippleと韓国・教保生命、国債トークン化で提携──ブロックチェーン決済を実証へ",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_1109552210.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=344839",
-          "author": "栃山 直樹",
-          "description": "SBI Chilizは15日、サッカーJリーグの東京ヴェルディと、日本国内でのファントークン導入に向けた共同研究に関する基本合意書（MOU）を締結したと発表した ...\nSBI Chilizと東京ヴェルディ、ファントークン導入で提携──Jリーグクラブ初 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/344839/",
-          "publishedOn": "2026-04-15T11:33:41.000Z",
-          "wordCount": 1617,
-          "title": "SBI Chilizと東京ヴェルディ、ファントークン導入で提携──Jリーグクラブ初",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/80006_1200x675_69ddc341179ae.jpg"
         }
       ]
     },
@@ -554,6 +554,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=703195",
+          "author": "Austin Mwendia",
+          "description": "イラン停戦が4月21日に期限を迎える中、ビットコインは75,000ドル超を維持。ホルムズ海峡の通行制限が原油価格と仮想通貨市場を大きく揺さぶっている。",
+          "link": "https://coinpost.jp/?p=703195",
+          "publishedOn": "2026-04-20T02:05:04.000Z",
+          "wordCount": 4176,
+          "title": "イラン停戦期限迫る、原油とビットコインが綱引き",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/shutterstock_2741004511.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/shutterstock_2741004511.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=703146",
+          "author": "A.Yamada",
+          "description": "仮想通貨イーサリアムのリステーキング「KelpDAO」がブリッジの脆弱性を突かれ、rsETH推定440億円相当が不正流出した。原因やAaveなどの対応状況を解説する。",
+          "link": "https://coinpost.jp/?p=703146",
+          "publishedOn": "2026-04-20T01:15:39.000Z",
+          "wordCount": 4177,
+          "title": "ETHリステーキング「KelpDAO」攻撃で440億円以上が不正流出か　被害の原因は？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/cyber-hack-bzb-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/cyber-hack-bzb-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=703155",
+          "author": "Enzo",
+          "description": "クラウド開発基盤のVercelが不正アクセス被害を確認。AIツール経由のOAuth攻撃が発端で、DeFiプロジェクトのAPIキーや認証情報の漏えいリスクとサプライチェーン攻撃への波及が懸念されている。",
+          "link": "https://coinpost.jp/?p=703155",
+          "publishedOn": "2026-04-20T00:57:09.000Z",
+          "wordCount": 4153,
+          "title": "クラウド基盤バーセルに不正アクセス、仮想通貨プロジェクトも警戒",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/hacking.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/hacking.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=703139",
           "author": "Enzo",
@@ -1670,16 +1715,6 @@
           "wordCount": 765,
           "title": "トータリスがUSDCで50万ドル調達、Yコンビネーター初の全額ステーブルコイン投資",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/16112250/afcd499c8f3b9a81984a197bed66ceb7.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=565429",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/565429",
-          "publishedOn": "2026-04-15T11:49:46.000Z",
-          "wordCount": 637,
-          "title": "【4/15話題】GMOコインにジパングコインシリーズ3銘柄が上場へ、パシメタがBaseの日本展開支援、カウスワップでDNSハイジャックなど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/15180912/7b22f1d2f6693977d058d7b29cc61474.jpg"
         }
       ]
     },
@@ -2205,6 +2240,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=161163",
+          "author": "Crypto Times 編集部",
+          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 BTCドミナンス、TOTAL2、OTHERSを最大50倍レバレッジのパ […]\n投稿 Paragon、Hyperliquid上で初の「暗号資産ネイティブ」パーペチュアル・インデックス市場をローンチ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/press-paragon/",
+          "publishedOn": "2026-04-20T00:00:17.000Z",
+          "wordCount": 577,
+          "title": "Paragon、Hyperliquid上で初の「暗号資産ネイティブ」パーペチュアル・インデックス市場をローンチ",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/unknown-4.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=161017",
           "author": "よきょい",

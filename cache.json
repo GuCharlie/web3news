@@ -625,6 +625,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=704288",
+          "author": "菊谷ルイス",
+          "description": "ロシア国家院が仮想通貨の流通を規制する法案を第1読会で可決した。仮想通貨を財産と定義し国内決済を禁止する一方、対外取引での使用は認める内容で、2026年7月1日の施行を目指している。",
+          "link": "https://coinpost.jp/?p=704288",
+          "publishedOn": "2026-04-22T20:00:57.000Z",
+          "wordCount": 3686,
+          "title": "ロシアが仮想通貨規制法案を審議入り、国内決済禁止・対外取引容認",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/08/russia34593-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/08/russia34593-1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=704248",
           "author": "Enzo",
           "description": "バイビットのSOCが、Claude Code検索ユーザーを狙うmacOS向け多段階マルウェアキャンペーンを公表。SEOポイズニングで偽サイトに誘導し、仮想通貨ウォレット情報などを窃取する手口が判明した。",
@@ -3199,36 +3214,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2601383151.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=161015",
-          "author": "よきょい",
-          "description": "4月18日現在イランが原油輸送の要衝であるホルムズ海峡の開放を正式に表明したことで、世界市場は大きく動きました。原油価格が一時11%超急落し米イラン和平交渉進展期待からリスクオンムードが強まり、S&P500が過去 […]\n投稿 【今日のマクロ経済まとめ】ホルムズ海峡開放でリスクオンムード強まる は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-todays-macroeconomic-summary-april-18th/",
-          "publishedOn": "2026-04-18T07:50:06.000Z",
-          "wordCount": 586,
-          "title": "【今日のマクロ経済まとめ】ホルムズ海峡開放でリスクオンムード強まる",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2756657615.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=161059",
-          "author": "Crypto Times 編集部",
-          "description": "ソラナ財団は2023年3月以来ネットワークの稼働率が100%であることを公表していますが、個別のバリデーターレベルでは異なる実態が浮き彫りとなっています。 バリデーター追跡サービス「Slashr」のデータによると、大手バ […]\n投稿 ソラナ「稼働率100%」の裏で32回停止、報酬喪失のバリデーター は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-solana-boasts-100-operational-rate-but-experiences-32-shutdowns/",
-          "publishedOn": "2026-04-18T07:31:11.000Z",
-          "wordCount": 593,
-          "title": "ソラナ「稼働率100%」の裏で32回停止、報酬喪失のバリデーター",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2146402533-1.jpg"
         }
       ]
     }

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-22T19:18:41.410Z</updated>
+    <updated>2026-04-22T20:29:04.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ロシアが仮想通貨規制法案を審議入り、国内決済禁止・対外取引容認]]></title>
+        <id>https://coinpost.jp/?p=704288</id>
+        <link href="https://coinpost.jp/?p=704288"/>
+        <updated>2026-04-22T20:00:57.000Z</updated>
+        <summary type="html"><![CDATA[ロシア国家院が仮想通貨の流通を規制する法案を第1読会で可決した。仮想通貨を財産と定義し国内決済を禁止する一方、対外取引での使用は認める内容で、2026年7月1日の施行を目指している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【4/22話題】ANAPが今月3度目のビットコイン追加購入、Volo Protocolから約3.5Mドルの不正流出、アービトラムが約3万766ETH凍結など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=567447</id>
@@ -2235,28 +2245,6 @@ wXRP、Solana上で稼働開始──DeFiへのアクセスを拡大 first appea
         <updated>2026-04-18T08:50:44.000Z</updated>
         <summary type="html"><![CDATA[オンチェーンデータ分析プラットフォームのToken Terminalは、トークン化された米国債の時価総額が年初来（YTD）で約70%増加したことを報告しました。 Onchain demand for the risk-f […]
 投稿 米国債トークン化が年初来70%増、オンチェーン需要が急拡大 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【今日のマクロ経済まとめ】ホルムズ海峡開放でリスクオンムード強まる]]></title>
-        <id>https://crypto-times.jp/?p=161015</id>
-        <link href="https://crypto-times.jp/news-todays-macroeconomic-summary-april-18th/"/>
-        <updated>2026-04-18T07:50:06.000Z</updated>
-        <summary type="html"><![CDATA[4月18日現在イランが原油輸送の要衝であるホルムズ海峡の開放を正式に表明したことで、世界市場は大きく動きました。原油価格が一時11%超急落し米イラン和平交渉進展期待からリスクオンムードが強まり、S&P500が過去 […]
-投稿 【今日のマクロ経済まとめ】ホルムズ海峡開放でリスクオンムード強まる は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナ「稼働率100%」の裏で32回停止、報酬喪失のバリデーター]]></title>
-        <id>https://crypto-times.jp/?p=161059</id>
-        <link href="https://crypto-times.jp/news-solana-boasts-100-operational-rate-but-experiences-32-shutdowns/"/>
-        <updated>2026-04-18T07:31:11.000Z</updated>
-        <summary type="html"><![CDATA[ソラナ財団は2023年3月以来ネットワークの稼働率が100%であることを公表していますが、個別のバリデーターレベルでは異なる実態が浮き彫りとなっています。 バリデーター追跡サービス「Slashr」のデータによると、大手バ […]
-投稿 ソラナ「稼働率100%」の裏で32回停止、報酬喪失のバリデーター は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
         </author>

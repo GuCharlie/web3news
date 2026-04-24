@@ -840,46 +840,6 @@
           "wordCount": 1535,
           "title": "Strategyのセイラー氏、「さらに大規模な」BTC購入を示唆──配当金の月2回支払いを提案した直後",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/11/shutterstock_2652333551-1.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=345462",
-          "author": "廣瀬 優香",
-          "description": "Circle（サークル）が発行するステーブルコインUSDコイン（USDC）の公式Xアカウントは、USDCを異なるチェーン間で移動させるための新機能「USDC B ...\nCircle、「USDC Bridge」を発表──ネイティブなクロスチェーン送金を実現 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/345462/",
-          "publishedOn": "2026-04-20T08:35:00.000Z",
-          "wordCount": 1522,
-          "title": "Circle、「USDC Bridge」を発表──ネイティブなクロスチェーン送金を実現",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2573539655.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=345471",
-          "author": "NADA NEWS編集部",
-          "description": "暗号資産（仮想通貨）取引所のコインチェックと「セゾンカード」を展開するクレディセゾンは20日、暗号資産領域における業務提携契約を締結したと発表した。セゾンカード ...\nセゾンカード会員に暗号資産へのアクセス機会創出へ──コインチェックとクレディセゾンが業務提携契約を締結 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/345471/",
-          "publishedOn": "2026-04-20T08:05:27.000Z",
-          "wordCount": 1620,
-          "title": "セゾンカード会員に暗号資産へのアクセス機会創出へ──コインチェックとクレディセゾンが業務提携契約を締結",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/main-7-1.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=345487",
-          "author": "井上 俊彦",
-          "description": "クロスチェーンメッセージングプロトコルのLayerZeroは4月20日、Kelp DAOから約2億9000万ドル（約464億円、1ドル=160円換算）相当の資産 ...\nLayerZero、エクスプロイトは北朝鮮のハッカー集団が関与と説明 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/345487/",
-          "publishedOn": "2026-04-20T08:05:00.000Z",
-          "wordCount": 1522,
-          "title": "LayerZero、エクスプロイトは北朝鮮のハッカー集団が関与と説明",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/11/shutterstock_2418014121.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=345387",
-          "author": "宮本航歩",
-          "description": "2026年4月14日、カード決済大手のVisaが、Stripeが主導するブロックチェーン「Tempo」において、自社でバリデーターノードの運用を開始したと発表し ...\nVisa、Stripe主導のL1「Tempo」でアンカーバリデーターを運用──カード決済網とMachine Payments Protocolの接続【MCB FinTechカタログ通信】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/345387/",
-          "publishedOn": "2026-04-20T08:00:00.000Z",
-          "wordCount": 1663,
-          "title": "Visa、Stripe主導のL1「Tempo」でアンカーバリデーターを運用──カード決済網とMachine Payments Protocolの接続【MCB FinTechカタログ通信】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/nadanews_top-2026-04-20T112837.269.jpg"
         }
       ]
     },
@@ -894,6 +854,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=705078",
+          "author": "菊谷ルイス",
+          "description": "米ウィスコンシン州司法省が4月23日、カルシ、ロビンフッド、コインベース、ポリマーケット、クリプトドットコムを違法スポーツ賭博を理由に提訴した。ニューヨーク州に続く提訴で、州と連邦CFTCの管轄権争いが本格化している。",
+          "link": "https://coinpost.jp/?p=705078",
+          "publishedOn": "2026-04-24T20:00:12.000Z",
+          "wordCount": 3460,
+          "title": "米州がカルシ・コインベースなど5社を提訴、予測市場は「違法スポーツ賭博」と主張",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/new-prediction-market-vc-kalshi-poly.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/new-prediction-market-vc-kalshi-poly.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=705049",
           "author": "Enzo",
@@ -2560,26 +2535,6 @@
           "wordCount": 680,
           "title": "バーセル、内部システムへの不正アクセス確認。一部顧客に影響",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/20174230/c6bcb825676ab5a2c54473e63ce85ffd.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=566539",
-          "author": "OtsugaShinya",
-          "description": "クレディセゾンとコインチェックが提携 日本のクレジットカード会社クレディセゾンと国内暗号資産（仮想通貨）交換業者のコインチェックが、国内暗号資産市場のさらなる拡大および新サービスの創出に向け、業務提携したことを4月20日 […]",
-          "link": "https://www.neweconomy.jp/posts/566539",
-          "publishedOn": "2026-04-20T08:40:52.000Z",
-          "wordCount": 740,
-          "title": "クレディセゾンとコインチェック、 暗号資産領域で業務提携",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/20174045/bc0eb5d1a52af2d76b1a7dfc87521bf2.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=566523",
-          "author": "OtsugaShinya",
-          "description": "JPYCが28億円を追加調達へ 日本円ステーブルコイン「JPYC」を発行・運営するJPYC社が、シリーズBラウンドのセカンドクローズにおいて、28億円の追加資金調達を完了する予定だと4月20日に発表した。 これにより、同 […]",
-          "link": "https://www.neweconomy.jp/posts/566523",
-          "publishedOn": "2026-04-20T08:03:40.000Z",
-          "wordCount": 612,
-          "title": "JPYC、シリーズB2ndクローズで28億円を追加調達へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/20170310/5e3e46279553212a05e39f6e558cec6c.jpg"
         }
       ]
     },
@@ -4084,16 +4039,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/8c496ca4369079830f158c01f0853f05-1024x576.png"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=161173",
-          "author": "Crypto Times 編集部",
-          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 暗号資産取引所であるBTCCは本日、「2026年第1四半期成長レポート […]\n投稿 BTCC取引所、2026年第1四半期成長レポート：新規TradFiおよびEarn製品の導入により、暗号資産取引の枠を超えたプラットフォームへ拡大 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/press-btcc-q1-2026/",
-          "publishedOn": "2026-04-20T08:00:38.000Z",
-          "wordCount": 606,
-          "title": "BTCC取引所、2026年第1四半期成長レポート：新規TradFiおよびEarn製品の導入により、暗号資産取引の枠を超えたプラットフォームへ拡大",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/unknown-2.png"
         }
       ]
     }

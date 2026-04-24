@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-24T18:42:57.308Z</updated>
+    <updated>2026-04-24T19:48:45.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
@@ -3018,98 +3018,6 @@ LayerZero、エクスプロイトは北朝鮮のハッカー集団が関与と�
 Visa、Stripe主導のL1「Tempo」でアンカーバリデーターを運用──カード決済網とMachine Payments Protocolの接続【MCB FinTechカタログ通信】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>宮本航歩</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zcashで4件の脆弱性が発覚し修正、開発チームが協調対応]]></title>
-        <id>https://www.neweconomy.jp/?p=566516</id>
-        <link href="https://www.neweconomy.jp/posts/566516"/>
-        <updated>2026-04-20T07:48:38.000Z</updated>
-        <summary type="html"><![CDATA[ユーザー資金への影響なし Zcash開発の独立組織であるZcashオープンディベロップメントラボ（Zcash Open Development Lab：ZODL）とZcash財団（Zcash Foundation）が、Z […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米NSA、国防総省の供給網リスク指定後もアンソロピックの「Mythos Preview」利用か＝報道]]></title>
-        <id>https://www.neweconomy.jp/?p=566503</id>
-        <link href="https://www.neweconomy.jp/posts/566503"/>
-        <updated>2026-04-20T07:36:48.000Z</updated>
-        <summary type="html"><![CDATA[NSAがアンソロピックのAIツール使用か 米国家安全保障局（NSA）が、米国防総省による正式なサプライチェーンリスク指定を受けた後も、アンスロピック（Anthropic）のAIツール「ミトス・プレビュー（Mythos P […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サークル、USDCのクロスチェーン転送基盤「USDC Bridge」提供開始]]></title>
-        <id>https://www.neweconomy.jp/?p=566483</id>
-        <link href="https://www.neweconomy.jp/posts/566483"/>
-        <updated>2026-04-20T07:28:18.000Z</updated>
-        <summary type="html"><![CDATA[サークルがラップ不要のUSDC転送基盤を提供開始 米ドル連動型ステーブルコイン「USDC」の発行元サークル（Circle）が、USDCを複数のブロックチェーン間で移動するための新機能「USDCブリッジ（USDC Brid […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[博多駅のマルシェイベントの顧客行動データをブロックチェーンに記録、コネクティブが技術支援]]></title>
-        <id>https://www.neweconomy.jp/?p=566481</id>
-        <link href="https://www.neweconomy.jp/posts/566481"/>
-        <updated>2026-04-20T07:20:15.000Z</updated>
-        <summary type="html"><![CDATA[博多駅のマルシェイベントでブロックチェーン活用の顧客行動データ記録 ブロックチェーン関連事業を展開する日本企業のコネクティブ（Connectiv）が、福岡・博多駅で開催されたマルシェイベント「からまりマルシェ」において、 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年からのBTCサイクルは過去の半減を「劇的に」下回る：Galaxy Research]]></title>
-        <id>https://www.nadanews.com/?p=345466</id>
-        <link href="https://www.nadanews.com/345466/"/>
-        <updated>2026-04-20T07:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Galaxy Research（ギャラクシー・リサーチ）のリサーチ責任者アレックス・ソーン（Alex Thorn）氏は4月19日、Xの投稿で、2024年4月の半 ...
-2024年からのBTCサイクルは過去の半減を「劇的に」下回る：Galaxy Research first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北朝鮮ハッカーがKelpDAOハックか、DeFi預かり資産総額が2兆円超急減]]></title>
-        <id>https://coinpost.jp/?p=703383</id>
-        <link href="https://coinpost.jp/?p=703383"/>
-        <updated>2026-04-20T07:13:40.000Z</updated>
-        <summary type="html"><![CDATA[レイヤーゼロが北朝鮮系ハッカー集団の関与を示唆。KelpDAOエクスプロイトの余波でDeFi全体のTVL（預かり資産総額）が約132億ドル（約2兆1,000億円）減少し、アーベなど主要プロトコルに深刻な被害が波及した。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スターテイル、デジタル資産分野でアブダビの「Hub71」に採択──国際金融センターADGMで中東展開を強化]]></title>
-        <id>https://www.nadanews.com/?p=345460</id>
-        <link href="https://www.nadanews.com/345460/"/>
-        <updated>2026-04-20T07:01:30.000Z</updated>
-        <summary type="html"><![CDATA[Startale Group（スターテイル・グループ）は20日、アブダビのグローバルテック・エコシステム「Hub71（ハブ71）」の「Digital Asset ...
-スターテイル、デジタル資産分野でアブダビの「Hub71」に採択──国際金融センターADGMで中東展開を強化 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>橋本 祐樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スターテイルが中東での事業展開を強化へ、アブダビの「Hub71」に採択]]></title>
-        <id>https://www.neweconomy.jp/?p=566393</id>
-        <link href="https://www.neweconomy.jp/posts/566393"/>
-        <updated>2026-04-20T06:59:54.000Z</updated>
-        <summary type="html"><![CDATA[スターテイルが中東での事業展開を強化へ スターテイルグループ（Startale Group）が、アブダビのグローバルテック・エコシステム「Hub71」のデジタルアセットコホート（Digital Assets cohort […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港フローキャピタル、1.5億ドル規模のプライベートクレジットファンド持分をトークン化へ、「DigiFT」経由で＝報道]]></title>
-        <id>https://www.neweconomy.jp/?p=566468</id>
-        <link href="https://www.neweconomy.jp/posts/566468"/>
-        <updated>2026-04-20T06:56:29.000Z</updated>
-        <summary type="html"><![CDATA[Flow Credit Master Fundがトークン化へ 香港のオルタナティブ資産運用会社フローキャピタル（Flow Capital）が、プライベートクレジットファンド持分をRWA（現実資産）トークン化プラットフォー […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
     <entry>

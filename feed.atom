@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-25T08:29:41.184Z</updated>
+    <updated>2026-04-25T09:30:22.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kalshi、コモディティ予測市場でPythを価格決定基盤に採用──リアルタイムデータ連携を強化]]></title>
+        <id>https://www.nadanews.com/?p=345870</id>
+        <link href="https://www.nadanews.com/345870/"/>
+        <updated>2026-04-25T08:55:00.000Z</updated>
+        <summary type="html"><![CDATA[予測市場プラットフォームKalshi（カルシ）は、コモディティ関連の新たな取引セクション「Commodities Hub」において、価格決定のデータソースとして ...
+Kalshi、コモディティ予測市場でPythを価格決定基盤に採用──リアルタイムデータ連携を強化 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【今週のメタプラネットまとめ】米大手が株式大量買い増し。世界最大のBTC会議に出展か]]></title>
         <id>https://crypto-times.jp/?p=161839</id>
@@ -2989,48 +3000,6 @@ RWAトークン化企業KAIO、Tether主導で追加資金調達 first appeared 
         <link href="https://coinpost.jp/?p=703450"/>
         <updated>2026-04-20T21:35:23.000Z</updated>
         <summary type="html"><![CDATA[グレースケールがハイパーリキッド連動ETFの修正申請書を提出し、カストディアンをコインベースからアンカレッジ・デジタル・バンクに変更した。承認されればナスダックに「GHYP」として上場される見通しだ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase、英国で暗号資産担保ローンを開始──BTCやETHを売却せずUSDC調達可能に]]></title>
-        <id>https://www.nadanews.com/?p=345555</id>
-        <link href="https://www.nadanews.com/345555/"/>
-        <updated>2026-04-20T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所Coinbase（コインベース）は、英国のユーザー向けに暗号資産担保ローンサービスを開始した。これにより、ビットコイン（BTC）やイー ...
-Coinbase、英国で暗号資産担保ローンを開始──BTCやETHを売却せずUSDC調達可能に first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップル、2028年までのXRPレジャー量子耐性移行を目指す　グーグルの分析受け]]></title>
-        <id>https://coinpost.jp/?p=703449</id>
-        <link href="https://coinpost.jp/?p=703449"/>
-        <updated>2026-04-20T21:10:15.000Z</updated>
-        <summary type="html"><![CDATA[米リップル社は、XRPレジャー（XRPL）を量子量子コンピュータの脅威から保護する4段階のロードマップを策定した。グーグルが仮想通貨の脆弱性を広範に指摘する中、2028年までの完全移行を目指し、長期的な資産価値の保護とインフラの堅牢性を強化する。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strategy、先週は3万4164ビットコインを25億ドルで購入──過去3番目に大きな購入額]]></title>
-        <id>https://www.nadanews.com/?p=345552</id>
-        <link href="https://www.nadanews.com/345552/"/>
-        <updated>2026-04-20T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Michael Saylor（マイケル・セイラー）氏率いるStrategy（ストラテジー）は4月20日、先週4月13日から19日の間に3万4164BTCを約25 ...
-Strategy、先週は3万4164ビットコインを25億ドルで購入──過去3番目に大きな購入額 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トム・リー率いるビットマイン、先週10万以上のイーサリアムを追加購入]]></title>
-        <id>https://coinpost.jp/?p=703448</id>
-        <link href="https://coinpost.jp/?p=703448"/>
-        <updated>2026-04-20T20:50:49.000Z</updated>
-        <summary type="html"><![CDATA[米上場のビットマインが先週約10万ETHを追加取得し、累計保有は497.6万トークンに拡大した。イーサリアム総供給量の4.12%を占め、目標5%まで達成率82%に達している。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>

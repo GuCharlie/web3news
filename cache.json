@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=345870",
+          "author": "Shoko Galaviz",
+          "description": "予測市場プラットフォームKalshi（カルシ）は、コモディティ関連の新たな取引セクション「Commodities Hub」において、価格決定のデータソースとして ...\nKalshi、コモディティ予測市場でPythを価格決定基盤に採用──リアルタイムデータ連携を強化 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/345870/",
+          "publishedOn": "2026-04-25T08:55:00.000Z",
+          "wordCount": 1639,
+          "title": "Kalshi、コモディティ予測市場でPythを価格決定基盤に採用──リアルタイムデータ連携を強化",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2737153675.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=346119",
           "author": "平木 昌宏",
           "description": "・ジーキャッシュ（Zcash）は4月23日木曜日、オンライン証券大手ロビンフッド（Robinhood）への正式上場を受けて8％上昇し、344ドル近辺で取引された ...\nZcash、Robinhood上場で9％上昇──米当局による7億ドル超の暗号資産差し押さえも追い風に【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -860,26 +870,6 @@
           "wordCount": 1541,
           "title": "RWAトークン化企業KAIO、Tether主導で追加資金調達",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2762670113.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=345555",
-          "author": "Shoko Galaviz",
-          "description": "暗号資産（仮想通貨）取引所Coinbase（コインベース）は、英国のユーザー向けに暗号資産担保ローンサービスを開始した。これにより、ビットコイン（BTC）やイー ...\nCoinbase、英国で暗号資産担保ローンを開始──BTCやETHを売却せずUSDC調達可能に first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/345555/",
-          "publishedOn": "2026-04-20T21:30:00.000Z",
-          "wordCount": 1515,
-          "title": "Coinbase、英国で暗号資産担保ローンを開始──BTCやETHを売却せずUSDC調達可能に",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2572706533.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=345552",
-          "author": "井上 俊彦",
-          "description": "Michael Saylor（マイケル・セイラー）氏率いるStrategy（ストラテジー）は4月20日、先週4月13日から19日の間に3万4164BTCを約25 ...\nStrategy、先週は3万4164ビットコインを25億ドルで購入──過去3番目に大きな購入額 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/345552/",
-          "publishedOn": "2026-04-20T21:00:00.000Z",
-          "wordCount": 1522,
-          "title": "Strategy、先週は3万4164ビットコインを25億ドルで購入──過去3番目に大きな購入額",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2699104615.jpg"
         }
       ]
     },
@@ -2108,36 +2098,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/hyperliquid-etf-new-filing.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/hyperliquid-etf-new-filing.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=703449",
-          "author": "菊谷ルイス",
-          "description": "米リップル社は、XRPレジャー（XRPL）を量子量子コンピュータの脅威から保護する4段階のロードマップを策定した。グーグルが仮想通貨の脆弱性を広範に指摘する中、2028年までの完全移行を目指し、長期的な資産価値の保護とインフラの堅牢性を強化する。",
-          "link": "https://coinpost.jp/?p=703449",
-          "publishedOn": "2026-04-20T21:10:15.000Z",
-          "wordCount": 3653,
-          "title": "リップル、2028年までのXRPレジャー量子耐性移行を目指す　グーグルの分析受け",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/XRP_0809.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/XRP_0809.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=703448",
-          "author": "菊谷ルイス",
-          "description": "米上場のビットマインが先週約10万ETHを追加取得し、累計保有は497.6万トークンに拡大した。イーサリアム総供給量の4.12%を占め、目標5%まで達成率82%に達している。",
-          "link": "https://coinpost.jp/?p=703448",
-          "publishedOn": "2026-04-20T20:50:49.000Z",
-          "wordCount": 3632,
-          "title": "トム・リー率いるビットマイン、先週10万以上のイーサリアムを追加購入",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/eth-accumu.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/eth-accumu.jpg"
         }
       ]
     },

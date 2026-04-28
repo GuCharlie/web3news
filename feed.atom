@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-28T10:29:40.575Z</updated>
+    <updated>2026-04-28T12:11:31.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AIを説得できなければ賞金ゼロ──TopNod、1600万円相当のL1トークン「PROS」配布キャンペーン実施へ]]></title>
+        <id>https://www.nadanews.com/?p=346627</id>
+        <link href="https://www.nadanews.com/346627/"/>
+        <updated>2026-04-28T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ノンカストディアル型デジタルウォレットを提供するTopNod（トップノッド）は28日、ブロックチェーンプロジェクト「Pharos（ファロス）」のローンチに合わせ ...
+AIを説得できなければ賞金ゼロ──TopNod、1600万円相当のL1トークン「PROS」配布キャンペーン実施へ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>平木 昌宏</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アント系エンジニア開発のRWA特化チェーン「Pharos」、Pacific Oceanメインネットで正式ローンチ]]></title>
+        <id>https://coinpost.jp/?p=705675</id>
+        <link href="https://coinpost.jp/?p=705675"/>
+        <updated>2026-04-28T11:01:37.000Z</updated>
+        <summary type="html"><![CDATA[アント・グループ出身のエンジニアチームが開発したブロックチェーン「ファロス（Pharos）」は28日、実物資産（RWA）の流通・決済に特化したレイヤー1ネットワーク「パシフィックオーシャンメインネット」と独自トークン「PROS」のローンチを発表した。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EUの第20次ロシア制裁の対象は取引所、ステーブルコイン、CBDC]]></title>
         <id>https://www.nadanews.com/?p=346735</id>
@@ -37,6 +58,39 @@ EUの第20次ロシア制裁の対象は取引所、ステーブルコイン、C
 ジャック・ドーシー氏のBlock、22億ドル相当のビットコイン保有を発表 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>井上 俊彦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaveで約150億ドル規模のTVL流出、バイバック停止と大規模支援策が始動]]></title>
+        <id>https://crypto-times.jp/?p=162365</id>
+        <link href="https://crypto-times.jp/news-aave-experienced-a-tvl-leak-of-approximately-15-billion/"/>
+        <updated>2026-04-28T09:39:42.000Z</updated>
+        <summary type="html"><![CDATA[DeFi（分散型金融）レンディング大手のAaveで発生したエクスプロイトによってプロトコルから約150億ドル規模のTVL（預かり資産総量）が流出しましたが、現在では事態の解決へ向けた横断的な施策が始まっています。 1/  […]
+投稿 Aaveで約150億ドル規模のTVL流出、バイバック停止と大規模支援策が始動 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナ、ステーブルコインDAUが過去最高を更新]]></title>
+        <id>https://crypto-times.jp/?p=162345</id>
+        <link href="https://crypto-times.jp/news-solana-stablecoins-daily-active-users-dau-reach-a-new-record-high/"/>
+        <updated>2026-04-28T09:20:23.000Z</updated>
+        <summary type="html"><![CDATA[データ分析プラットフォームのArtemisによると、ソラナネットワークにおけるステーブルコインのデイリーアクティブユーザー数（DAU）が過去最高値（ATH）を更新しました。 Stablecoin DAUs on @sol […]
+投稿 ソラナ、ステーブルコインDAUが過去最高を更新 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaveで40億ドルの流動性消失、Kelp DAO流出事件の全貌を分析]]></title>
+        <id>https://crypto-times.jp/?p=162339</id>
+        <link href="https://crypto-times.jp/news-4-billion-in-liquidity-lost-at-aave/"/>
+        <updated>2026-04-28T08:27:17.000Z</updated>
+        <summary type="html"><![CDATA[オンチェーン分析プラットフォームのGlassnodeはKelp DAOのrsETHブリッジで発生したハッキング事件と、それに伴うDeFi大手Aaveへの深刻な影響に関する詳細なレポートを公開しました。 Aave V3 l […]
+投稿 Aaveで40億ドルの流動性消失、Kelp DAO流出事件の全貌を分析 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>Crypto Times 編集部</name>
         </author>
     </entry>
     <entry>
@@ -2089,38 +2143,6 @@ LN Trends 2026年4月（vol.17） first appeared on NADA NEWS（ナダ・ニュ�
         <summary type="html"><![CDATA[米商品先物取引委員会（CFTC）は23日、機密情報を悪用して予測市場「ポリマーケット」でインサイダー取引を行ったとして、現役の米陸軍兵士を提訴した。ベネズエラ大統領の拘束作戦に関する非公開情報を利用し、40万ドル以上の利益を得た疑いが持たれている。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone向け暗号化カメラアプリ「ZCAM」で写真の真実性を証明、Succinct Labsが生成AIによる詐欺へ対抗]]></title>
-        <id>https://coinpost.jp/?p=704669</id>
-        <link href="https://coinpost.jp/?p=704669"/>
-        <updated>2026-04-23T23:40:04.000Z</updated>
-        <summary type="html"><![CDATA[#cp-summary-2025{all:revert;box-sizing:border-box;width:100%;background:#f8f9fb;border-left:3pxsolid#0d2d4f;border-radiu...]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デジタル資産市場は次の段階へ──ステーブルコインとRWAが主役に：Fireblocks CEO]]></title>
-        <id>https://www.nadanews.com/?p=346078</id>
-        <link href="https://www.nadanews.com/346078/"/>
-        <updated>2026-04-23T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[デジタル資産インフラを手がけるFireblocksの共同創業者兼CEO、Michael Shaulov（マイケル・シャウロフ）氏は23日、同社が都内で開催したイ ...
-デジタル資産市場は次の段階へ──ステーブルコインとRWAが主役に：Fireblocks CEO first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>増田隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインドミナンスが示す市場構造──「一人勝ち」の裏にあるものは【エックスウィンリサーチ】]]></title>
-        <id>https://www.nadanews.com/?p=346069</id>
-        <link href="https://www.nadanews.com/346069/"/>
-        <updated>2026-04-23T22:50:51.000Z</updated>
-        <summary type="html"><![CDATA[● BTCドミナンスは約59％前後で高止まりし、シェア集中が継続● 市場全体は拡大していない中で、BTCのみが相対的に優位● 本質は「BTCが強い」のではなく「 ...
-ビットコインドミナンスが示す市場構造──「一人勝ち」の裏にあるものは【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>XWIN Research</name>
         </author>
     </entry>
     <entry>

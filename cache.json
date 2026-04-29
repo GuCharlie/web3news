@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=346775",
+          "author": "平木 昌宏",
+          "description": "・ライトコイン（LTC）のドミナンスは過去2年で31%低下した。ビットコイン（BTC）のドミナンス拡大に加え、現実資産（RWA）やAI関連トークンが市場シェアを ...\n「レイヤー2は終わった」のか──ヴィタリックのL2懐疑論に、ライトコイン創設者が見た勝機【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/346775/",
+          "publishedOn": "2026-04-29T04:23:27.000Z",
+          "wordCount": 1915,
+          "title": "「レイヤー2は終わった」のか──ヴィタリックのL2懐疑論に、ライトコイン創設者が見た勝機【価格分析】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/image2_1200x800-2.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=346766",
           "author": "墨汁うまい",
           "description": "暗号資産（仮想通貨）専業11年目の墨汁うまい（@bokujyuumai）です。ビットコインのフォーク（コピー）で、昔はデジタルシルバーと呼ばれたライトコイン（L ...\n【墨汁うまい氏寄稿】ライトコインのゼロデイバグは何が起きたのか？Reorgはなぜ必要なのかを理解する first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -489,6 +499,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=705732",
+          "author": "A.Yamada",
+          "description": "仮想通貨ライトコインのゼロデイ脆弱性が攻撃された。チェーン再編が行われたが、NEAR Intentsで約60万ドルが損失の可能性にさらされている。開発者が詳細を解説した。",
+          "link": "https://coinpost.jp/?p=705732",
+          "publishedOn": "2026-04-29T05:30:22.000Z",
+          "wordCount": 3482,
+          "title": "ライトコインのゼロデイ脆弱性に攻撃、NEAR Intentsで9600万円相当がリスクに",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/hacking.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/hacking.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=705700",
           "author": "CoinPost編集部",
@@ -1028,21 +1053,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/ethereum-fusaka.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/ethereum-fusaka.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=705078",
-          "author": "菊谷ルイス",
-          "description": "米ウィスコンシン州司法省が4月23日、カルシ、ロビンフッド、コインベース、ポリマーケット、クリプトドットコムを違法スポーツ賭博を理由に提訴した。ニューヨーク州に続く提訴で、州と連邦CFTCの管轄権争いが本格化している。",
-          "link": "https://coinpost.jp/?p=705078",
-          "publishedOn": "2026-04-24T20:00:12.000Z",
-          "wordCount": 3460,
-          "title": "米州がカルシ・コインベースなど5社を提訴、予測市場は「違法スポーツ賭博」と主張",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/new-prediction-market-vc-kalshi-poly.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/new-prediction-market-vc-kalshi-poly.jpg"
         }
       ]
     },
@@ -1051,6 +1061,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=569470",
+          "author": "HitomotoToshikazu",
+          "description": "ChilizのFan TokensがSolanaとBase展開へ スポーツ・エンターテインメント業界向けブロックチェーン企業大手のチリーズグループ（Chiliz Group）が、同社のデジタルスポーツ資産「ファントークン […]",
+          "link": "https://www.neweconomy.jp/posts/569470",
+          "publishedOn": "2026-04-29T07:37:04.000Z",
+          "wordCount": 783,
+          "title": "チリーズ、ファントークンをソラナとベースに展開へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/29163631/f5fead75430b74d06d3051a958ef2251.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=569264",
           "author": "NewEconomyPodcast",
@@ -1895,6 +1915,66 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=162508",
+          "author": "Crypto Times 編集部",
+          "description": "米商品先物取引委員会（CFTC）が米ウィスコンシン州を提訴したことが分かりました。同州が先週にPolymarket・Kalshi・Coinbase・Robinhood・Crypto.comの予測市場プロダクトを手掛ける5 […]\n投稿 米国で「予測市場」巡り連邦と州が対立、CFTCが5州目を提訴 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-cftc-sues-wisconsin-prediction-markets/",
+          "publishedOn": "2026-04-29T07:15:37.000Z",
+          "wordCount": 586,
+          "title": "米国で「予測市場」巡り連邦と州が対立、CFTCが5州目を提訴",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2711663451.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=162500",
+          "author": "Crypto Times 編集部",
+          "description": "アラブ首長国連邦（UAE）は5月1日付で石油輸出国機構（OPEC）を脱退することが明らかとなりました。生産枠を巡る長年の不満が引き金とされ、原油市場の主導権争いに大きな揺さぶりをかけています。原油価格は一時100ドル付近 […]\n投稿 UAEが石油輸出国機構 (OPEC) 脱退へ｜BTCの国家非依存性に注目 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-uae-withdraws-from-opec/",
+          "publishedOn": "2026-04-29T05:47:13.000Z",
+          "wordCount": 597,
+          "title": "UAEが石油輸出国機構 (OPEC) 脱退へ｜BTCの国家非依存性に注目",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2285880127.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=162492",
+          "author": "Crypto Times 編集部",
+          "description": "ChatGPTなどを手掛けるOpenAIの売上高と新規ユーザー数の伸びが同社自身の目標を下回ったとWSJが報じるなか、米国市場ではOracle (-4%) やAI関連半導体株が急落し、ナスダック総合指数は反落、S&amp […]\n投稿 OpenAI目標未達でAI関連株は急落｜BTCは底堅く推移 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-ai-related-stocks-plunge-as-openai-fails-to-meet-its-goals/",
+          "publishedOn": "2026-04-29T03:34:58.000Z",
+          "wordCount": 621,
+          "title": "OpenAI目標未達でAI関連株は急落｜BTCは底堅く推移",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2594757945.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=162281",
+          "author": "よきょい",
+          "description": "2026年4月20日、米税関・国境取締局（CBP）は、連邦最高裁で違憲判決を受けたIEEPA（国際緊急経済権限法）関税の還付申請受付を開始しました。還付規模は最大1,270億ドル（利息付き）に達します。この動きは単なる「 […]\n投稿 米関税返金で流動性爆発か、最大1270億ドル供給でBTCはどうなる？ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-what-will-happen-to-btc-with-a-supply-of-up-to-127-billion/",
+          "publishedOn": "2026-04-29T02:41:23.000Z",
+          "wordCount": 581,
+          "title": "米関税返金で流動性爆発か、最大1270億ドル供給でBTCはどうなる？",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2654498837.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=162365",
           "author": "Crypto Times 編集部",

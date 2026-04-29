@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-29T22:55:03.912Z</updated>
+    <updated>2026-04-29T23:51:33.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大手仮想通貨取引所OKX、AIエージェント向け商取引プロトコル「APP」を発表]]></title>
+        <id>https://coinpost.jp/?p=705880</id>
+        <link href="https://coinpost.jp/?p=705880"/>
+        <updated>2026-04-29T23:25:34.000Z</updated>
+        <summary type="html"><![CDATA[OKXはAIエージェント間の自律的な商取引を可能にするオープンスタンダード「APP」をローンチ。決済だけでなく、見積もり作成やエスクロー機能を含む全商取引サイクルを自動化する。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ストラテジー社のビットコイン購入は継続可能か、ビットワイズ幹部が資金調達見通しを分析]]></title>
+        <id>https://coinpost.jp/?p=705895</id>
+        <link href="https://coinpost.jp/?p=705895"/>
+        <updated>2026-04-29T23:15:18.000Z</updated>
+        <summary type="html"><![CDATA[ビットワイズの最高投資責任者は、2026年2月以降の仮想通貨ビットコインの価格上昇はストラテジー社による購入が主因であるとの見方を示した。今後の購入継続見通しを分析している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金融政策の信認リスクとビットコイン──FOMC後に見えた新しい支配要因【エックスウィン】]]></title>
         <id>https://www.nadanews.com/?p=346816</id>

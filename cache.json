@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=346942",
+          "author": "Shoko Galaviz",
+          "description": "暗号資産（仮想通貨）業界で発生したハッキング件数は4月、過去最多に達した。DeFi LlamaはXへの投稿で、4月は「インシデント件数で見て、暗号資産史上最もハ ...\n4月の暗号資産ハッキング件数、過去最多に──DeFiでエクスプロイト相次ぐ first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/346942/",
+          "publishedOn": "2026-04-30T21:30:00.000Z",
+          "wordCount": 1842,
+          "title": "4月の暗号資産ハッキング件数、過去最多に──DeFiでエクスプロイト相次ぐ",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2415998581.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=346940",
+          "author": "Shoko Galaviz",
+          "description": "予測市場大手のPolymarke（ポリマーケット）は、ブロックチェーンデータ分析企業Chainalysis（チェイナリシス）の協力のもと、オンチェーン取引の監視 ...\nPolymarket、Chainalysisと提携──オンチェーン市場監視でインサイダー取引対策を強化 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/346940/",
+          "publishedOn": "2026-04-30T21:00:00.000Z",
+          "wordCount": 1841,
+          "title": "Polymarket、Chainalysisと提携──オンチェーン市場監視でインサイダー取引対策を強化",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2666018729.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=346935",
           "author": "栃山 直樹",
           "description": "世界最大規模の予測市場プラットフォーム「Polymarket（ポリマーケット）」が、日本展開に向けた準備をしていることが30日、明らかになった。 暗号資産（仮想 ...\nPolymarket、日本展開準備か──暗号資産系インフルエンサー全力氏が参画 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -534,6 +554,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=706230",
+          "author": "菊谷ルイス",
+          "description": "米上院が5月1日、上院議員による予測市場での取引を禁止する決議案を全会一致で可決し即日発効した。インサイダー取引懸念を背景とした立法措置で、下院への拡大も議論される見通しだ。",
+          "link": "https://coinpost.jp/?p=706230",
+          "publishedOn": "2026-04-30T21:15:00.000Z",
+          "wordCount": 3343,
+          "title": "米上院が議員による予測市場での取引を禁止、即日発効",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/ban-prediction-market.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/ban-prediction-market.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=706231",
+          "author": "菊谷ルイス",
+          "description": "米財務省のベッセント長官は4月29日、経済制裁作戦を通じて約5億ドルのイラン関連仮想通貨を押収したと明らかにした。イランによる仮想通貨を用いた制裁回避工作に対し、テザー社と連携した550億円規模のUSDT凍結など米政府は対抗措置を強化している。",
+          "link": "https://coinpost.jp/?p=706231",
+          "publishedOn": "2026-04-30T20:55:17.000Z",
+          "wordCount": 3864,
+          "title": "米財務省、780億円規模のイラン関連仮想通貨を押収　先週は550億円のUSDT凍結も",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/iran-mining.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/iran-mining.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=706226",
+          "author": "菊谷ルイス",
+          "description": "米コインベース・アセット・マネジメントがスーパーステートのFundOSを採用し、ステーブルコイン信用ファンドCUSHYのオンチェーン持分を2026年Q2に発行する予定だ。ソラナ・イーサリアム・ベースに対応し、DeFiでの担保利用も可能となる。",
+          "link": "https://coinpost.jp/?p=706226",
+          "publishedOn": "2026-04-30T20:40:07.000Z",
+          "wordCount": 3864,
+          "title": "コインベース、ステーブルコイン信用ファンドをトークン化　スーパーステートと提携",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/cushy_social_card_v2-1.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/cushy_social_card_v2-1.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=706213",
           "author": "菊谷ルイス",
@@ -3189,111 +3254,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_1933932182-1.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162073",
-          "author": "よきょい",
-          "description": "ビットコインは2025年10月の高値から約38%下落した7万8千ドル前後で推移していますが、複数の回復要因が同時進行しています。米国の現物ビットコインETFは3月に13億2千万ドルの純流入を記録し、2025年11月から2 […]\n投稿 ビットコイン15万ドルは現実的？機関投資家とETFによる回復シナリオとは は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-is-a-bitcoin-price-of-150000-realistic/",
-          "publishedOn": "2026-04-26T09:19:12.000Z",
-          "wordCount": 573,
-          "title": "ビットコイン15万ドルは現実的？機関投資家とETFによる回復シナリオとは",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2447623549-1.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162075",
-          "author": "よきょい",
-          "description": "4月22日、パスワード管理ツールで知られるBitwardenの公式コマンドラインインターフェース（CLI）の悪意あるバージョンがnpmレジストリに公開されました。93分間にわたり、このパッケージをインストールしたすべての […]\n投稿 パスワード管理ツールの公式CLIがマルウェア侵害、インフラ認証情報が標的に は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-official-cli-of-password-management-tool-compromised-with-malware/",
-          "publishedOn": "2026-04-26T08:46:44.000Z",
-          "wordCount": 580,
-          "title": "パスワード管理ツールの公式CLIがマルウェア侵害、インフラ認証情報が標的に",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2708947625-2-scaled.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162074",
-          "author": "よきょい",
-          "description": "米国の銀行業界団体はステーブルコインの連邦規制を定めたGENIUS法の実施規則に対してブレーキをかけようとしています。 4月22日、全米銀行協会（ABA）を含む4つの銀行業界団体が財務省と連邦預金保険公社（FDIC）に対 […]\n投稿 銀行業界がステーブルコイン規制に「待った」、GENIUS法の実施規則に反論 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-the-banking-industry-puts-a-stop-to-stablecoin-regulations/",
-          "publishedOn": "2026-04-26T08:20:44.000Z",
-          "wordCount": 578,
-          "title": "銀行業界がステーブルコイン規制に「待った」、GENIUS法の実施規則に反論",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2504647523.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162077",
-          "author": "よきょい",
-          "description": "2025年10月6日に記録した史上最高値125,761ドルから38%下落した現在のビットコイン（約78,000ドル）。この大規模な調整局面において、売りを主導したのはETF投資家ではなく長期保有者（レガシーホルダー）だっ […]\n投稿 38%暴落でも売らなかったのはETF投資家 、売り主導は一体誰？ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-etf-investors-didnt-sell-even-after-a-38-crash/",
-          "publishedOn": "2026-04-26T07:47:27.000Z",
-          "wordCount": 579,
-          "title": "38%暴落でも売らなかったのはETF投資家 、売り主導は一体誰？",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_1919705330.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162072",
-          "author": "よきょい",
-          "description": "インド太平洋軍司令官のサミュエル・パパロ大将が上院軍事委員会の姿勢審査に出席し、インド太平洋軍がビットコインのノードを運用していること、そしてそのプロトコルアーキテクチャをネットワークセキュリティと戦力投射において実用的 […]\n投稿 米インド太平洋軍がビットコインノードを運用、「脅威」から「インフラ」へ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-the-u-s-indo-pacific-command-operates-a-bitcoin-node/",
-          "publishedOn": "2026-04-26T07:40:52.000Z",
-          "wordCount": 574,
-          "title": "米インド太平洋軍がビットコインノードを運用、「脅威」から「インフラ」へ",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2603983795-1.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162070",
-          "author": "よきょい",
-          "description": "ビットコインが8万ドルの大台に迫る中、オンチェーン分析企業Glassnodeのレポートが現在の相場環境を詳細に分析しています。 同社によると、BTCは「真の市場平均（True Market Mean）」である7万8100 […]\n投稿 ビットコイン8万ドルは「損益分岐点の壁」、三重の売り圧力と次の分岐点とは は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-bitcoin-at-80000-is-the-break-even-point/",
-          "publishedOn": "2026-04-26T07:20:41.000Z",
-          "wordCount": 579,
-          "title": "ビットコイン8万ドルは「損益分岐点の壁」、三重の売り圧力と次の分岐点とは",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2598864111-1.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162078",
-          "author": "よきょい",
-          "description": "イーサリアム（ETH）が約1年ぶりとなる4週連続の週間上昇を記録し、4月の上昇率は約11%に達しました。ETHは2,330ドル付近まで回復し2月以来の高値水準となっています。これは2025年7月・8月以来初の2カ月連続上 […]\n投稿 イーサリアム4週連続上昇、オプション市場が3200ドルを狙う は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-ethereum-rises-for-the-fourth-consecutive-week-options-market-targets-3200/",
-          "publishedOn": "2026-04-26T07:00:45.000Z",
-          "wordCount": 574,
-          "title": "イーサリアム4週連続上昇、オプション市場が3200ドルを狙う",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2659906139.jpg"
         }
       ]
     }

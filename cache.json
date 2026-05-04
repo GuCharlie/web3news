@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=347273",
+          "author": "栃山 直樹",
+          "description": "ゴールデンウイークに、漫画「銀と金」を読み返していた。 「カイジ」で知られる福本伸行さんの作品だが、その中にギャンブラーの心理を突いたシーンがある。 裏社会で生 ...\n日本の予測市場を予測する【記者コラム】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/347273/",
+          "publishedOn": "2026-05-04T02:22:54.000Z",
+          "wordCount": 2111,
+          "title": "日本の予測市場を予測する【記者コラム】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/shutterstock_2679891817.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=346305",
           "author": "橋本 祐樹",
           "description": "ビットコイン（BTC）の普及を目的に、東京・四谷に開業した東京ビットコインベース（TBB）が4月25日、開業1周年を迎えた。 TBBがあるのは、四ツ谷駅から徒歩 ...\n使われてこそビットコイン──東京ビットコインベース代表・川合氏に聞いた2年目の挑戦、佐渡のライトニング構想とANAPの認知戦略【独占取材】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -500,16 +510,6 @@
           "wordCount": 1628,
           "title": "Meta、クリエイター報酬をUSDCで受け取れる新オプションを提供──SolanaとPolygonに対応",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2303237423.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=346788",
-          "author": "平木 昌宏",
-          "description": "・ビットマイン（Bitmine）は現在、イーサリアム（ETH）供給量の4.2％超を管理しており、年間で推定2億5,500万ドルのステーキング収益を生み出す見通し ...\n約1万9000のバリデーター減少でもETHステーキング残高増──Bitmine、年400億円超の収益見通し【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/346788/",
-          "publishedOn": "2026-04-29T11:40:32.000Z",
-          "wordCount": 1922,
-          "title": "約1万9000のバリデーター減少でもETHステーキング残高増──Bitmine、年400億円超の収益見通し【価格分析】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/image2-18_1200x800.jpg"
         }
       ]
     },
@@ -524,6 +524,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=706659",
+          "author": "A.Yamada",
+          "description": "イーサリアムのコア開発者約100人が次期大型アップグレード「グラムステルダム」で集中作業を行った。ガス上限大幅引き上げで合意などスケーリングに向けた主要成果を報告している。",
+          "link": "https://coinpost.jp/?p=706659",
+          "publishedOn": "2026-05-04T01:05:08.000Z",
+          "wordCount": 3351,
+          "title": "イーサリアムL1処理能力、次期大型アップグレード「グラムステルダム」で3倍超に届く可能性",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/ethereum-fusaka.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/ethereum-fusaka.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=706431",
           "author": "CoinPost編集部",
@@ -3034,21 +3049,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2462625069.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162513",
-          "author": "Crypto Times 編集部",
-          "description": "米調査会社Bernsteinはビットコインマイニング企業IRENの目標株価を125ドルから100ドルに引き下げました。同時にAIフォーカスのBTCマイナーの中で「最も推奨できる銘柄」（Outperform）の評価は維持し […]\n投稿 ビットコインマイニング企業IREN、目標株価が引き下げ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-iren-bitcoin-mining-exit-ai-microsoft-gpu/",
-          "publishedOn": "2026-04-29T11:43:01.000Z",
-          "wordCount": 587,
-          "title": "ビットコインマイニング企業IREN、目標株価が引き下げ",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2288912069.jpg"
         }
       ]
     }

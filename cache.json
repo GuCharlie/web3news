@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=347257",
+          "author": "平木 昌宏",
+          "description": "暗号技術スタートアップのSuccinct Labs（サクシンクト・ラボ）は米時間4日、同社のゼロ知識仮想マシン「SP1」が大手暗号資産（仮想通貨）取引所Coin ...\nイーサリアムL2「Base」がゼロ知識証明導入へ──最大7日かかった出金を1日程度に短縮 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/347257/",
+          "publishedOn": "2026-05-04T17:00:00.000Z",
+          "wordCount": 1852,
+          "title": "イーサリアムL2「Base」がゼロ知識証明導入へ──最大7日かかった出金を1日程度に短縮",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/ce7cd63df4454d42d532dd2d3d89c3b3.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=347339",
           "author": "平木 昌宏",
           "description": "・イーロン・マスク氏の証言によりOpenAIへの監視が強まり、同社の評価額をめぐる不透明感が高まっている。・企業需要の拡大とOpenAIをめぐる騒動の波及を背景 ...\nAnthropic評価額、BTC時価総額超えの可能性──マスク氏対OpenAIの訴訟で予測市場が反応【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -440,26 +450,6 @@
           "wordCount": 1835,
           "title": "アメリカ、ドバイ、中国の共同捜査で暗号資産詐欺拠点を一斉摘発",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2414197855.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=346831",
-          "author": "NADA NEWS編集部",
-          "description": "Datachainは4月28日、「トークン化預金のアーキテクチャと法的性質」と題するレポートを公開した。欧州銀行監督局（EBA）の議論などを踏まえ、日本での社会 ...\n「トークン化預金」とは何か、「預金トークン」との違いは──Datachainが実装モデルと法的論点を整理 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/346831/",
-          "publishedOn": "2026-04-30T05:50:00.000Z",
-          "wordCount": 1868,
-          "title": "「トークン化預金」とは何か、「預金トークン」との違いは──Datachainが実装モデルと法的論点を整理",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/nadanews_top-2026-04-30T113816.739.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=346840",
-          "author": "平木 昌宏",
-          "description": "WIZE（旧モブキャストホールディングス）は4月30日、暗号資産ソラナ（SOL）の運用利回り向上を目的に、Jupiter（ジュピター）が提供する「Native  ...\nWIZE、保有SOLを担保に再投資へ──Jupiter新機能でステーキング利回り最大化狙う first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/346840/",
-          "publishedOn": "2026-04-30T05:15:13.000Z",
-          "wordCount": 1890,
-          "title": "WIZE、保有SOLを担保に再投資へ──Jupiter新機能でステーキング利回り最大化狙う",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/main-11_1200x800.jpg"
         }
       ]
     },
@@ -1103,51 +1093,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/bitcoin-etf-outflow-big-iran-war-.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/bitcoin-etf-outflow-big-iran-war-.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=706051",
-          "author": "Enzo",
-          "description": "Xのプロダクト責任者ニキータ・ビア氏が一時非表示機能のランキングを公表。仮想通貨が1位となり、政治やAIを上回って最も敬遠されるトピックとなった。",
-          "link": "https://coinpost.jp/?p=706051",
-          "publishedOn": "2026-04-30T05:42:29.000Z",
-          "wordCount": 3935,
-          "title": "Xの一時非表示機能で仮想通貨が1位、政治やAIを上回る",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/X-Twitter.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/X-Twitter.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=706025",
-          "author": "幸田直子",
-          "description": "オンチェーン分析企業Glassnodeは最新週次レポートで、ビットコインは真の市場平均価格と短期保有者の取得原価の抵抗線に阻まれ反落したが、6.5~7万ドルの蓄積ゾーンが下値を支えるレンジ相場となっていると指摘した。",
-          "link": "https://coinpost.jp/?p=706025",
-          "publishedOn": "2026-04-30T04:35:49.000Z",
-          "wordCount": 3452,
-          "title": "ビットコイン、真の市場平均価格に阻まれレンジ相場継続＝Glassnode分析",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=705972",
-          "author": "A.Yamada",
-          "description": "高級ブランド「カルティエ」創業家の子孫が無許可の仮想通貨OTC取引所を運営し、麻薬収益など750億円超を資金洗浄していた。米連邦地裁が懲役8年の判決を下した。",
-          "link": "https://coinpost.jp/?p=705972",
-          "publishedOn": "2026-04-30T04:30:43.000Z",
-          "wordCount": 3440,
-          "title": "「カルティエ」子孫、違法仮想通貨取引所で750億円以上の資金洗浄",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/ripple-court-new-schedule-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/ripple-court-new-schedule-1.png"
         }
       ]
     },
@@ -1425,16 +1370,6 @@
           "wordCount": 749,
           "title": "GMOコイン、ダイ（DAI）の取扱廃止へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/30150446/GMO-DAI-260430-Ninja-Studio.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=569865",
-          "author": "OtsugaShinya",
-          "description": "HODL1がカントンネットワークのバリデーターに デジタル資産領域に関する研究開発および投資活動を行う東証スタンダード上場企業のHODL1（ホドルワン：旧クシム）が、カントンネットワーク（Canton Network）の […]",
-          "link": "https://www.neweconomy.jp/posts/569865",
-          "publishedOn": "2026-04-30T05:16:30.000Z",
-          "wordCount": 764,
-          "title": "HODL1、カントンネットワークのバリデーターに。Next Finance Techと協業で",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/30143704/99c90ae08ce46e0f2c67bd3a72c36913.jpg"
         }
       ]
     },
@@ -2864,96 +2799,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2437201159.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162525",
-          "author": "よきょい",
-          "description": "4月28日、日本銀行は金融政策決定会合で政策金利（0.75%）の据え置きを決定しました。3委員が利上げを提案したものの反対多数で否決。中東情勢の緊迫化に伴う原油高が物価と景気の双方に影響を与える状況を「見極める必要がある […]\n投稿 「物価は上がるのに実質賃金は守れない」時代にビットコインという選択肢 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-in-an-era-where-prices-are-rising-but-real-wages-cannot-be-protected-bitcoin-is-an-option/",
-          "publishedOn": "2026-04-30T05:45:34.000Z",
-          "wordCount": 579,
-          "title": "「物価は上がるのに実質賃金は守れない」時代にビットコインという選択肢",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_1857231085.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162526",
-          "author": "よきょい",
-          "description": "4月30日、米国の2026年第1四半期GDP速報値が発表されます。中東情勢の不確実性と昨年来の関税余波が二重に重なる中、市場は今四半期の成長率がどこまで下振れするかを注視しています。そして、この「スタグフレーション的な環 […]\n投稿 米国GDPに市場が注目、景気後退リスクとBTC「デジタルゴールド」論の再浮上 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-recession-risks-and-the-resurgence-of-the-btc-digital-gold-argument/",
-          "publishedOn": "2026-04-30T05:24:09.000Z",
-          "wordCount": 579,
-          "title": "米国GDPに市場が注目、景気後退リスクとBTC「デジタルゴールド」論の再浮上",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2248914217.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162552",
-          "author": "Crypto Times 編集部",
-          "description": "米Fundstrat創業者のトム・リー氏が率いるイーサリアム財務企業Bitmineが、24時間でETH（イーサリアム）を6万5,000枚買い増したことが明らかになりました。投資総額は約1億4,700万ドルで、直近3時間で […]\n投稿 24時間で6.5万ETH、イーサリアム財務大手が1.5億ドル爆買い は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-eth-treasury-firm-150m-purchase-24h/",
-          "publishedOn": "2026-04-30T04:48:36.000Z",
-          "wordCount": 624,
-          "title": "24時間で6.5万ETH、イーサリアム財務大手が1.5億ドル爆買い",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2678921227-1.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162538",
-          "author": "Crypto Times 編集部",
-          "description": "米連邦準備制度理事会（FRB）は、連邦公開市場委員会（FOMC）でフェデラルファンド（FF）金利の誘導目標を年3.5〜3.75%に据え置くと決定しました。今年に入り3回連続の据え置きで、ジェローム・パウエル議長の議長とし […]\n投稿 パウエル氏が異例の残留、政治的圧力に反旗でビットコインはどうなる？ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-powells-unusual-decision-to-stay/",
-          "publishedOn": "2026-04-30T04:41:45.000Z",
-          "wordCount": 601,
-          "title": "パウエル氏が異例の残留、政治的圧力に反旗でビットコインはどうなる？",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2616420643.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162540",
-          "author": "Crypto Times 編集部",
-          "description": "米ナスダック上場のストラテジー社の最高経営責任者（CEO）フォン・リー氏が、同社が将来的に200万BTCを保有する可能性に言及しました。これはビットコイン総供給量2,100万枚の約10%を一社で抑える計算となり、市場への […]\n投稿 全BTCの約10%独占？ストラテジーCEOが200万BTC構想 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-strategy-ceo-2-million-btc-vision/",
-          "publishedOn": "2026-04-30T04:37:04.000Z",
-          "wordCount": 634,
-          "title": "全BTCの約10%独占？ストラテジーCEOが200万BTC構想",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2604077555-2.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162542",
-          "author": "Crypto Times 編集部",
-          "description": "トークン化プラットフォーム大手のSecuritizeは米国の登録代行・株主名簿管理大手のComputershareと合意したと発表。米国上場企業のクライアントが既存の株式や直接登録方式（DRS）と並んで、トークン化された […]\n投稿 アップル、テスラなど米国株式がブロックチェーン上で展開加速 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-us-stocks-are-accelerating-their-deployment-on-the-blockchain/",
-          "publishedOn": "2026-04-30T04:29:57.000Z",
-          "wordCount": 629,
-          "title": "アップル、テスラなど米国株式がブロックチェーン上で展開加速",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2727932809-1.jpg"
         }
       ]
     }

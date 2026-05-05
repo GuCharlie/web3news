@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=347438",
+          "author": "エックスウィン",
+          "description": "● CMEギャップは「価格の空白」であり、多くの投資家が意識するポイント● 埋めにいく理由は価格の性質ではなく「ポジションの整理」にある● 現在は先物ポジション ...\nビットコインはなぜ93,000ドルが上値目安となるのか──CMEギャップの構造分析【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/347438/",
+          "publishedOn": "2026-05-05T22:50:00.000Z",
+          "wordCount": 2056,
+          "title": "ビットコインはなぜ93,000ドルが上値目安となるのか──CMEギャップの構造分析【エックスウィン】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/nadanews_top-2026-05-06T074840.562.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=347416",
           "author": "平木 昌宏",
           "description": "・ビットコイン（BTC）は8万500ドルを上回って上昇を続ける一方、原油価格は112ドル超の記録的高値圏で推移している。・先物データでは10億ドル規模のロング偏 ...\nBTCと原油の相関が反転──ETFに約12億ドル流入、停戦リスク下でロング偏重が鮮明に【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -625,16 +635,6 @@
           "wordCount": 640,
           "title": "【5/1話題】SBIがビットバンク子会社化の協議開始、SBI VCトレードの暗号資産貯まるクレカ、4月の暗号資産ハック件数が過去最多になど（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/05/01185108/65c01464dfd4195554063c4fc183f5ab.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=570532",
-          "author": "watanabeyousuke",
-          "description": "Aftermathのデリバティブ機能でエクスプロイト レイヤー1ブロックチェーン「スイ（Sui）」上の分散型金融（DeFi）プロトコル「アフターマス（Aftermath Finance）」で、プロトコルに影響を及ぼすエク […]",
-          "link": "https://www.neweconomy.jp/posts/570532",
-          "publishedOn": "2026-05-01T09:40:15.000Z",
-          "wordCount": 757,
-          "title": "スイのDeFiプロトコル「アフターマス」で資金流出、手数料ロジックの脆弱性突かれ約113万ドル被害",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/05/01183942/957a417b71a2677beca1078f9511732a.jpg"
         }
       ]
     },
@@ -1919,36 +1919,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_1931965688-1-1.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162674",
-          "author": "Crypto Times 編集部",
-          "description": "米国の現物ビットコイン（BTC）ETF、現物イーサリアム（ETH）ETF、現物ソラナ（SOL）ETFが2026年4月後半に揃って流出基調となっています。一方、4月30日には3資産で異なる動きが見られ、BTC ETFは前日 […]\n投稿 ビットコインETFが3日連続流出後に小反発、ETHは流出継続 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-btc-eth-etf-outflow-sol-inflow-april-30/",
-          "publishedOn": "2026-05-01T10:41:13.000Z",
-          "wordCount": 614,
-          "title": "ビットコインETFが3日連続流出後に小反発、ETHは流出継続",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_1162777840.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162668",
-          "author": "Crypto Times 編集部",
-          "description": "仮想通貨データ分析企業CryptoQuantが、ビットコイン（BTC）の2026年4月上昇相場について「砂上の楼閣の可能性」と警告するレポートを公開しました。同社の分析によれば、4月のBTC価格は約20%上昇し6万6,0 […]\n投稿 ビットコイン4月の上昇は投機的か、現物需要の縮小警告 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-bitcoin-april-rally-speculative-spot-demand-contraction/",
-          "publishedOn": "2026-05-01T10:12:11.000Z",
-          "wordCount": 598,
-          "title": "ビットコイン4月の上昇は投機的か、現物需要の縮小警告",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_721206538.jpg"
         }
       ]
     }

@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=347443",
+          "author": "平木 昌宏",
+          "description": "・トンコイン（TON）は、Pavel Durov氏がテレグラム（Telegram）のバリデーション参加拡大を明らかにした後、8時間で30％上昇した。・Teleg ...\nトンコインが8時間で30％上昇──テレグラムが6年ぶりにTONへの本格関与を再開【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/347443/",
+          "publishedOn": "2026-05-06T01:33:28.000Z",
+          "wordCount": 2128,
+          "title": "トンコインが8時間で30％上昇──テレグラムが6年ぶりにTONへの本格関与を再開【価格分析】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/image2_1200x800-1.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=347436",
+          "author": "Shoko Galaviz",
+          "description": "State Street Investment Management（ステート・ストリート・インベストメント・マネジメント）と、Galaxy Digital（ギ ...\nState StreetとGalaxy、オンチェーン現金管理ファンド「SWEEP」をローンチ first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/347436/",
+          "publishedOn": "2026-05-06T00:00:00.000Z",
+          "wordCount": 1880,
+          "title": "State StreetとGalaxy、オンチェーン現金管理ファンド「SWEEP」をローンチ",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_1095326024.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=347434",
           "author": "Shoko Galaviz",
           "description": "暗号資産（仮想通貨）取引所Kraken（クラーケン）は、国際送金ネットワーク大手MoneyGram（マネーグラム）との戦略的グローバル提携を発表した。今回の提携 ...\nKrakenとMoneyGramが提携──暗号資産を現金で引き出せるグローバル出金網を構築 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -264,6 +284,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=706764",
+          "author": "Enzo",
+          "description": "米上場セカンスが転換社債償還のため2025年末から1,025BTCを売却、4月末保有残高は1,114BTCに。実現損1,170万ドルと評価損2,930万ドルが重なりQ1純損失は5,430万ドルに達した。",
+          "link": "https://coinpost.jp/?p=706764",
+          "publishedOn": "2026-05-06T01:46:15.000Z",
+          "wordCount": 3872,
+          "title": "米上場セカンス、転換社債償還でビットコインを売却　昨年末の約半分に減少",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/bitcoin_1223-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/bitcoin_1223-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=706751",
+          "author": "A.Yamada",
+          "description": "グレースケールのリサーチ責任者が、量子リスクは仮想通貨ビットコイン価格下落の主因ではない可能性が高いと分析した。量子関連株とBTCの相関を解説している。",
+          "link": "https://coinpost.jp/?p=706751",
+          "publishedOn": "2026-05-06T00:52:08.000Z",
+          "wordCount": 3858,
+          "title": "「量子コンピュータのリスクはビットコイン価格下落の主因ではない可能性」グレースケール見解",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-new-2026-2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-new-2026-2.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=706758",
+          "author": "Enzo",
+          "description": "ビットコイン・スイスの分析によると、HYPEのDAT保有比率が流通量の約9%に達し、BTC・ETH・SOL・BNBを上回る。ETF申請の進展も加わり、需給構造が注目される。",
+          "link": "https://coinpost.jp/?p=706758",
+          "publishedOn": "2026-05-06T00:37:22.000Z",
+          "wordCount": 3871,
+          "title": "HYPEのDAT保有比率が流通量の約9%に、BTCやETHなどを上回る＝レポート",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/hyperliquid-etf-new-filing.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/hyperliquid-etf-new-filing.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=706746",
+          "author": "Enzo",
+          "description": "CMEグループが6月1日、世界初の規制対応ビットコイン・ボラティリティ先物を上場予定。BVXに連動し、価格方向性ではなく変動リスクを直接取引できる新商品で、規制当局の審査を経て提供される。",
+          "link": "https://coinpost.jp/?p=706746",
+          "publishedOn": "2026-05-05T23:56:19.000Z",
+          "wordCount": 3870,
+          "title": "米CME、ビットコイン・ボラティリティ先物を6月1日に上場へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-new-2026-2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-new-2026-2.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=706742",
           "author": "Enzo",
@@ -660,18 +740,7 @@
       "title": "ニュース – あたらしい経済",
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
-      "articles": [
-        {
-          "id": "https://www.neweconomy.jp/?p=570544",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/570544",
-          "publishedOn": "2026-05-01T13:45:27.000Z",
-          "wordCount": 640,
-          "title": "【5/1話題】SBIがビットバンク子会社化の協議開始、SBI VCトレードの暗号資産貯まるクレカ、4月の暗号資産ハック件数が過去最多になど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/05/01185108/65c01464dfd4195554063c4fc183f5ab.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "仮想通貨・ビットコインのニュースサイト｜コインテレグラフ ジャパン",
@@ -1195,6 +1264,96 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=163021",
+          "author": "よきょい",
+          "description": "米国の仮想通貨市場構造改革法「CLARITY Act（クラリティ法案）」は、ステーブルコイン報酬をめぐる主要な対立が解消された後も共和党内の票まとめに課題が残っています。 上院銀行委員会のティム・スコット委員長は委員会の […]\n投稿 CLARITY法案の審議遅延、住宅問題で上院共和党の結束に亀裂 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-delays-in-the-deliberation-of-the-clarity-bill/",
+          "publishedOn": "2026-05-06T02:20:16.000Z",
+          "wordCount": 586,
+          "title": "CLARITY法案の審議遅延、住宅問題で上院共和党の結束に亀裂",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_2498174877.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=163017",
+          "author": "よきょい",
+          "description": "米ラスベガスに本社を置くBitMine（ティッカー：BMNR）は、5月4日時点でイーサリアム（ETH）436万トークン（約102億ドル相当）をステーキングしていると公表しました。 これは同社のETH総保有量518万トーク […]\n投稿 ETH財務企業BitMineが100億ドル超のETHをステーキング は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-eth-finance-firm-bitmine-stakes-over-10-billion-worth-of-eth/",
+          "publishedOn": "2026-05-06T01:57:48.000Z",
+          "wordCount": 582,
+          "title": "ETH財務企業BitMineが100億ドル超のETHをステーキング",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_2116842221.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=163020",
+          "author": "よきょい",
+          "description": "イランによるホルムズ海峡船舶攻撃とフジャイラ石油施設へのドローン攻撃を受け、5月4日のブレント原油は5.8%高の1バレル114ドルへと急騰しました。米10年物国債利回りは約4.44%まで上昇し、30年債は5%を突破してい […]\n投稿 中東情勢とFRBの板挟み、ビットコインは8万ドル防衛戦へ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitcoin-caught-between-the-middle-east-situation-and-the-federal-reserve/",
+          "publishedOn": "2026-05-06T01:26:54.000Z",
+          "wordCount": 578,
+          "title": "中東情勢とFRBの板挟み、ビットコインは8万ドル防衛戦へ",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_1945241953.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=163016",
+          "author": "よきょい",
+          "description": "ビットコイン（BTC）が8万ドルの心理的節目を回復したことで、市場では利益確定売りと機関投資家による需要が綱引きを演じています。Glassnodeのデータによると、2〜3年前に仮想通貨を購入した長期保有者が1時間あたり2 […]\n投稿 ビットコイン8万ドル回復、ETF流入で9万ドル目標も視野に は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitcoin-recovers-to-80000/",
+          "publishedOn": "2026-05-06T00:56:48.000Z",
+          "wordCount": 633,
+          "title": "ビットコイン8万ドル回復、ETF流入で9万ドル目標も視野に",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_2262064431.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=163019",
+          "author": "よきょい",
+          "description": "ゲームソフト小売大手のゲームストップは5月4日、電子商取引プラットフォームのeBayに対して1株125ドル、総額約555億ドルの非拘束的買収提案を行ったと発表しました。 提案は現金50%・GameStop株式50%の混合 […]\n投稿 ゲームストップがeBayに555億ドルの買収提案、ビットコイン決済拡大の布石か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-gamestop-has-made-a-55-5-billion-acquisition-offer-for-ebay/",
+          "publishedOn": "2026-05-06T00:10:56.000Z",
+          "wordCount": 585,
+          "title": "ゲームストップがeBayに555億ドルの買収提案、ビットコイン決済拡大の布石か",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_2489909745.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=163015",
+          "author": "よきょい",
+          "description": "米大手仮想通貨取引所コインベースは5月5日、全従業員の約14%に相当する約700名の人員削減を実施すると発表しました。今回のリストラに伴う費用は5,000万〜6,000万ドルと見込まれており、2026年第2四半期中に完了 […]\n投稿 コインベースがAI時代へ対応、従業員の14%にあたる約700名を削減 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-coinbase-to-cut-approximately-700-jobs-or-14-of-its-workforce/",
+          "publishedOn": "2026-05-05T23:54:39.000Z",
+          "wordCount": 638,
+          "title": "コインベースがAI時代へ対応、従業員の14%にあたる約700名を削減",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_2455276455.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=163000",
           "author": "よきょい",
@@ -1939,21 +2098,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/04/shutterstock_2465401345-2.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162692",
-          "author": "Crypto Times 編集部",
-          "description": "米資産運用会社ARK InvestのCEO兼CIO（最高投資責任者）であるキャシー・ウッド氏がポッドキャスト「The Rollup」で、ビットコイン（BTC）の2030年ベースケースを73万ドル、強気シナリオを150万ド […]\n投稿 米運用大手「2030年ビットコイン150万ドル」、現価格の20倍予想 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-us-fund-bitcoin-1-5m-2030-target/",
-          "publishedOn": "2026-05-01T12:26:47.000Z",
-          "wordCount": 611,
-          "title": "米運用大手「2030年ビットコイン150万ドル」、現価格の20倍予想",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_1931965688-1-1.jpg"
         }
       ]
     }

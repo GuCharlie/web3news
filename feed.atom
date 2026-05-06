@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-05-06T18:21:24.139Z</updated>
+    <updated>2026-05-06T20:08:18.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[モルガン・スタンレー、E*Tradeで仮想通貨現物取引を開始　860万顧客に拡大へ]]></title>
+        <id>https://coinpost.jp/?p=706813</id>
+        <link href="https://coinpost.jp/?p=706813"/>
+        <updated>2026-05-06T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[モルガン・スタンレーが5月6日、E*Tradeプラットフォームで仮想通貨現物取引のパイロット提供を開始。手数料は50bpでコインベースやロビンフッドを下回り、年内に全860万顧客への開放を目指す。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Taurus、EU加盟27カ国でトークン化証券展開へ──MiFID IIライセンス取得]]></title>
         <id>https://www.nadanews.com/?p=347458</id>
@@ -1018,83 +1028,6 @@ Anthropic評価額、BTC時価総額超えの可能性──マスク氏対OpenA
 投稿 【今日の仮想通貨ニュース】BTCはマクロ要因で価格変動。米CLARITY法が妥協案で合意か は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップル(XRP）は「低レバ高価格」局面？分析企業が指摘する急騰シナリオ]]></title>
-        <id>https://crypto-times.jp/?p=162745</id>
-        <link href="https://crypto-times.jp/news-is-ripple-xrp-in-a-low-leverage-high-price-phase/"/>
-        <updated>2026-05-02T07:55:14.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨オンチェーン分析企業CryptoQuantが、リップル(XRP）に関して「投資家はラリー（上昇相場）の準備が整っている」と分析しています。 XRP Investors Are Ready: A Rally May […]
-投稿 リップル(XRP）は「低レバ高価格」局面？分析企業が指摘する急騰シナリオ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クリプトとTradFiをつなぐグローバル市場へのゲートウェイ「Ostium」AMAレポート]]></title>
-        <id>https://crypto-times.jp/?p=162613</id>
-        <link href="https://crypto-times.jp/ama-ostium/"/>
-        <updated>2026-05-02T07:39:37.000Z</updated>
-        <summary type="html"><![CDATA[執筆：akii 株式・商品・外国為替などの実世界資産をオンチェーンで取引できるプロトコルであるOstiumのAMAをboarding bridge（bb）にて開催しました。 今回のAMAでは、Ostiumが目指すオンチェ […]
-投稿 クリプトとTradFiをつなぐグローバル市場へのゲートウェイ「Ostium」AMAレポート は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>boarding bridge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、8万ドル突破で上昇加速か｜25億ドルのショートガンマが集中]]></title>
-        <id>https://crypto-times.jp/?p=162741</id>
-        <link href="https://crypto-times.jp/news-bitcoin-may-accelerate-its-rise-after-breaking-through-80000/"/>
-        <updated>2026-05-02T07:36:49.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨オンチェーン分析企業のGlassnodeが、ビットコイン（BTC）のオプション市場分析で「8万2,000ドルが上昇スクイーズの起点となる可能性が高い」と述べています。 82K Sets Up the Upside […]
-投稿 ビットコイン、8万ドル突破で上昇加速か｜25億ドルのショートガンマが集中 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ビットコイン価格はマクロ要因が主導、第2四半期は中立スタンス」Glassnode分析]]></title>
-        <id>https://crypto-times.jp/?p=162739</id>
-        <link href="https://crypto-times.jp/news-bitcoin-price-is-driven-by-macroeconomic-factors-will-it-remain-neutral-in-the-second-quarter/"/>
-        <updated>2026-05-02T07:14:27.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨オンチェーン分析企業のGlassnodeが2026年第2四半期の機関投資家向けレポートで、「マクロ要因が現在、仮想通貨ネイティブな価格決定要因を凌駕している」との評価を示しました。 Macro factors n […]
-投稿 「ビットコイン価格はマクロ要因が主導、第2四半期は中立スタンス」Glassnode分析 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コロンビア最大の年金基金が仮想通貨ポートフォリオを立ち上げ]]></title>
-        <id>https://crypto-times.jp/?p=162736</id>
-        <link href="https://crypto-times.jp/news-colombia-pension-fund-crypto-portfolio/"/>
-        <updated>2026-05-02T06:59:42.000Z</updated>
-        <summary type="html"><![CDATA[コロンビア最大の年金基金が仮想通貨ポートフォリオを立ち上げたことが判明しました。中南米の年金基金による仮想通貨配分の本格的な事例として、機関投資家マネーがエマージング市場でも仮想通貨にアクセスする経路が拡大していることを […]
-投稿 コロンビア最大の年金基金が仮想通貨ポートフォリオを立ち上げ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米CLARITY法、ステーブルコイン利回りで合意「保有のみの報酬は禁止」]]></title>
-        <id>https://crypto-times.jp/?p=162737</id>
-        <link href="https://crypto-times.jp/news-us-clarity-act-agreement-reached-on-stablecoin-yields/"/>
-        <updated>2026-05-02T06:27:54.000Z</updated>
-        <summary type="html"><![CDATA[米仮想通貨市場構造法（CLARITY Act）の5月のマークアップ（条文修正審議）を控え、争点となっていたステーブルコインの利回り規定について、ティリス上院議員（共和党、ノースカロライナ州）とアルソブルックス上院議員（民 […]
-投稿 米CLARITY法、ステーブルコイン利回りで合意「保有のみの報酬は禁止」 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テザー、Q1純利益10.4億ドル｜KPMGによる初の本格監査も]]></title>
-        <id>https://crypto-times.jp/?p=162734</id>
-        <link href="https://crypto-times.jp/news-tether-reports-q1-net-profit-of-1-04-billion/"/>
-        <updated>2026-05-02T06:25:32.000Z</updated>
-        <summary type="html"><![CDATA[世界最大のステーブルコイン発行企業であるテザー（Tether）が、2026年第1四半期に約10億4,000万ドルの純利益を計上したことを発表しました。仮想通貨市場全体が下落基調にあるなかでの増益決算で、同時に同社が長年求 […]
-投稿 テザー、Q1純利益10.4億ドル｜KPMGによる初の本格監査も は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
     <entry>

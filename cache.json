@@ -235,6 +235,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=706813",
+          "author": "菊谷ルイス",
+          "description": "モルガン・スタンレーが5月6日、E*Tradeプラットフォームで仮想通貨現物取引のパイロット提供を開始。手数料は50bpでコインベースやロビンフッドを下回り、年内に全860万顧客への開放を目指す。",
+          "link": "https://coinpost.jp/?p=706813",
+          "publishedOn": "2026-05-06T20:00:00.000Z",
+          "wordCount": 3380,
+          "title": "モルガン・スタンレー、E*Tradeで仮想通貨現物取引を開始　860万顧客に拡大へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/morgan_stanley1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/morgan_stanley1.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=706780",
           "author": "幸田直子",
           "description": "リップル社が北朝鮮関連脅威インテリジェンスをCrypto ISACで業界で初めて共有開始する。Drift Protocolハック（被害額約440億円）を契機に、業界でインテリジェンス共有の動きが高まった。詐欺ドメイン・攻撃者プロフィール等を共有し、仮想通貨業界の集団防衛体制強化を目指す。",
@@ -1858,106 +1873,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_1919705330.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162745",
-          "author": "Crypto Times 編集部",
-          "description": "仮想通貨オンチェーン分析企業CryptoQuantが、リップル(XRP）に関して「投資家はラリー（上昇相場）の準備が整っている」と分析しています。 XRP Investors Are Ready: A Rally May […]\n投稿 リップル(XRP）は「低レバ高価格」局面？分析企業が指摘する急騰シナリオ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-is-ripple-xrp-in-a-low-leverage-high-price-phase/",
-          "publishedOn": "2026-05-02T07:55:14.000Z",
-          "wordCount": 644,
-          "title": "リップル(XRP）は「低レバ高価格」局面？分析企業が指摘する急騰シナリオ",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_2683713071.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162613",
-          "author": "boarding bridge",
-          "description": "執筆：akii 株式・商品・外国為替などの実世界資産をオンチェーンで取引できるプロトコルであるOstiumのAMAをboarding bridge（bb）にて開催しました。 今回のAMAでは、Ostiumが目指すオンチェ […]\n投稿 クリプトとTradFiをつなぐグローバル市場へのゲートウェイ「Ostium」AMAレポート は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/ama-ostium/",
-          "publishedOn": "2026-05-02T07:39:37.000Z",
-          "wordCount": 680,
-          "title": "クリプトとTradFiをつなぐグローバル市場へのゲートウェイ「Ostium」AMAレポート",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/OstiumLabs.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162741",
-          "author": "Crypto Times 編集部",
-          "description": "仮想通貨オンチェーン分析企業のGlassnodeが、ビットコイン（BTC）のオプション市場分析で「8万2,000ドルが上昇スクイーズの起点となる可能性が高い」と述べています。 82K Sets Up the Upside […]\n投稿 ビットコイン、8万ドル突破で上昇加速か｜25億ドルのショートガンマが集中 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-bitcoin-may-accelerate-its-rise-after-breaking-through-80000/",
-          "publishedOn": "2026-05-02T07:36:49.000Z",
-          "wordCount": 646,
-          "title": "ビットコイン、8万ドル突破で上昇加速か｜25億ドルのショートガンマが集中",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_1933430279.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162739",
-          "author": "Crypto Times 編集部",
-          "description": "仮想通貨オンチェーン分析企業のGlassnodeが2026年第2四半期の機関投資家向けレポートで、「マクロ要因が現在、仮想通貨ネイティブな価格決定要因を凌駕している」との評価を示しました。 Macro factors n […]\n投稿 「ビットコイン価格はマクロ要因が主導、第2四半期は中立スタンス」Glassnode分析 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-bitcoin-price-is-driven-by-macroeconomic-factors-will-it-remain-neutral-in-the-second-quarter/",
-          "publishedOn": "2026-05-02T07:14:27.000Z",
-          "wordCount": 625,
-          "title": "「ビットコイン価格はマクロ要因が主導、第2四半期は中立スタンス」Glassnode分析",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_1897558246.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162736",
-          "author": "Crypto Times 編集部",
-          "description": "コロンビア最大の年金基金が仮想通貨ポートフォリオを立ち上げたことが判明しました。中南米の年金基金による仮想通貨配分の本格的な事例として、機関投資家マネーがエマージング市場でも仮想通貨にアクセスする経路が拡大していることを […]\n投稿 コロンビア最大の年金基金が仮想通貨ポートフォリオを立ち上げ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-colombia-pension-fund-crypto-portfolio/",
-          "publishedOn": "2026-05-02T06:59:42.000Z",
-          "wordCount": 584,
-          "title": "コロンビア最大の年金基金が仮想通貨ポートフォリオを立ち上げ",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_1879326379.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162737",
-          "author": "Crypto Times 編集部",
-          "description": "米仮想通貨市場構造法（CLARITY Act）の5月のマークアップ（条文修正審議）を控え、争点となっていたステーブルコインの利回り規定について、ティリス上院議員（共和党、ノースカロライナ州）とアルソブルックス上院議員（民 […]\n投稿 米CLARITY法、ステーブルコイン利回りで合意「保有のみの報酬は禁止」 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-us-clarity-act-agreement-reached-on-stablecoin-yields/",
-          "publishedOn": "2026-05-02T06:27:54.000Z",
-          "wordCount": 593,
-          "title": "米CLARITY法、ステーブルコイン利回りで合意「保有のみの報酬は禁止」",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_2465401337.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162734",
-          "author": "Crypto Times 編集部",
-          "description": "世界最大のステーブルコイン発行企業であるテザー（Tether）が、2026年第1四半期に約10億4,000万ドルの純利益を計上したことを発表しました。仮想通貨市場全体が下落基調にあるなかでの増益決算で、同時に同社が長年求 […]\n投稿 テザー、Q1純利益10.4億ドル｜KPMGによる初の本格監査も は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-tether-reports-q1-net-profit-of-1-04-billion/",
-          "publishedOn": "2026-05-02T06:25:32.000Z",
-          "wordCount": 615,
-          "title": "テザー、Q1純利益10.4億ドル｜KPMGによる初の本格監査も",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_2525594797.jpg"
         }
       ]
     }

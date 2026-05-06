@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=347474",
+          "author": "Shoko Galaviz",
+          "description": "世界的なデリバティブ市場運営会社CME Group（CMEグループ）は、デジタル資産関連商品の拡充として、ビットコイン（BTC）ボラティリティ先物を6月1日にロ ...\nCME Group、BTCボラティリティ先物を6月1日にローンチへ──価格ではなく変動率を取引対象に first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/347474/",
+          "publishedOn": "2026-05-06T21:30:00.000Z",
+          "wordCount": 1867,
+          "title": "CME Group、BTCボラティリティ先物を6月1日にローンチへ──価格ではなく変動率を取引対象に",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2546655961.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=347470",
+          "author": "Shoko Galaviz",
+          "description": "Ripple（リップル）、JPMorgan（JPモルガン）、Mastercard（マスターカード）、Ondo Finance（オンド・ファイナンス）は、トークン ...\nRipple、JPMorgan、Mastercard、Ondoが連携──XRP Ledgerでトークン化米国債ファンドを国際決済 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/347470/",
+          "publishedOn": "2026-05-06T21:00:00.000Z",
+          "wordCount": 1860,
+          "title": "Ripple、JPMorgan、Mastercard、Ondoが連携──XRP Ledgerでトークン化米国債ファンドを国際決済",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/shutterstock_2652494647.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=347458",
           "author": "平木 昌宏",
           "description": "スイスを拠点とするフィンテック企業Taurus（トーラス）は5月6日、キプロス証券取引委員会（CySEC）から、EUの金融商品規制であるMiFID II（ミフィ ...\nTaurus、EU加盟27カ国でトークン化証券展開へ──MiFID IIライセンス取得 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -234,6 +254,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=706832",
+          "author": "菊谷ルイス",
+          "description": "ホワイトハウスの仮想通貨顧問パトリック・ウィット氏が7月4日の独立記念日を法案成立の目標日に設定した。倫理条項をめぐる民主党との交渉は進展しており、上院銀行委員会の採決は来週にも行われる可能性がある。",
+          "link": "https://coinpost.jp/?p=706832",
+          "publishedOn": "2026-05-06T21:20:47.000Z",
+          "wordCount": 3881,
+          "title": "ホワイトハウスがクラリティー法案の7月4日成立を目標設定、来週にも上院委員会の採決へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/trump-101.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/trump-101.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=706833",
+          "author": "菊谷ルイス",
+          "description": "ソラナ財団は5月6日、Google Cloudと提携しAIエージェント向け決済ゲートウェイ「Pay.sh」を立ち上げた。ソラナ基盤のステーブルコインを使用し、アカウント不要でGeminiやBigQueryなどのAPIをリクエストごとに支払える革新的な仕組みを提供。",
+          "link": "https://coinpost.jp/?p=706833",
+          "publishedOn": "2026-05-06T20:55:55.000Z",
+          "wordCount": 3390,
+          "title": "ソラナとGoogle CloudがAI決済「Pay.sh」発表、x402でAPI利用を自律化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/solana-2.0-new.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/solana-2.0-new.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=706834",
+          "author": "菊谷ルイス",
+          "description": "VanEckのマシュー・シーゲル氏がCNBCで、ビットコインが5年以内に100万ドルに達する可能性があると披露。若い世代の投資意向や中央銀行によるBTC購入開始を根拠として挙げており、ビットワイズなど他社も同様の予測を示している。",
+          "link": "https://coinpost.jp/?p=706834",
+          "publishedOn": "2026-05-06T20:40:01.000Z",
+          "wordCount": 3371,
+          "title": "VanEck予測、「ビットコインが5年以内に100万ドルに」　根拠は？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/even-more-bitcoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/even-more-bitcoin.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=706813",
           "author": "菊谷ルイス",
@@ -1828,51 +1893,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_1992038288.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162824",
-          "author": "よきょい",
-          "description": "メタプラネットの株価が2026年5月現在、325円前後で推移しています。同社は日本のビットコイン（BTC）保有戦略企業として知られており、その株価はビットコイン相場との連動性が高いと見られています。 チャートを遡ると、1 […]\n投稿 メタプラネット株が300円台前半で低迷、BTC連動の値動きに注目 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-metaplanet-shares-are-languishing-in-the-low-300-yen-range/",
-          "publishedOn": "2026-05-02T08:54:39.000Z",
-          "wordCount": 586,
-          "title": "メタプラネット株が300円台前半で低迷、BTC連動の値動きに注目",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_2292878179.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162747",
-          "author": "Crypto Times 編集部",
-          "description": "分散型予測市場プラットフォームのポリマーケット（Polymarket）のTVL（Total Value Locked）が5億8,000万ドルに到達しました。 Polymarket’s TVL reaches  […]\n投稿 予測市場ポリマーケット、TVL5.8億ドル到達｜次なる注目セクター は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-prediction-market-polymarket-reaches-tvl-of-580-million/",
-          "publishedOn": "2026-05-02T08:45:26.000Z",
-          "wordCount": 593,
-          "title": "予測市場ポリマーケット、TVL5.8億ドル到達｜次なる注目セクター",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_2674003741.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=162808",
-          "author": "よきょい",
-          "description": "5月2日、ビットコイン（BTC）の価格は78,160ドル前後で推移しており、イーサリアム（ETH）は約2,290ドル、ソラナ（SOL）は約83ドルで取引されています。世界の暗号資産時価総額は2.68兆ドルで、ビットコイン […]\n投稿 【今日の仮想通貨ニュース】BTCはマクロ要因で価格変動。米CLARITY法が妥協案で合意か は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-todays-cryptocurrency-news-for-may-2nd/",
-          "publishedOn": "2026-05-02T08:28:11.000Z",
-          "wordCount": 599,
-          "title": "【今日の仮想通貨ニュース】BTCはマクロ要因で価格変動。米CLARITY法が妥協案で合意か",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_1919705330.jpg"
         }
       ]
     }

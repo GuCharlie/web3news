@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=347487",
+          "author": "NADA NEWS編集部",
+          "description": "NADA NEWSを運営するN.Avenueは、日本経済新聞社メディアビジネスと共同で、デジタル資産領域のフラッグシップカンファレンス「NIKKEI・NADAデ ...\n“NIKKEI・NADAデジタルアセットカンファレンス2026” を11月に開催 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/347487/",
+          "publishedOn": "2026-05-07T01:11:27.000Z",
+          "wordCount": 1923,
+          "title": "“NIKKEI・NADAデジタルアセットカンファレンス2026” を11月に開催",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/nadanews_top-2026-05-07T101008.262.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=347478",
           "author": "エックスウィン",
           "description": "● Strategy社は「BTCを永久保有する企業」から、「BTCを中心に資本を循環させる金融プラットフォーム」へ変化し始めている。● STRCなどの優先株を通 ...\n「絶対に売らない」から「金融プラットフォーム」へ──Strategy社が変え始めたビットコイン市場の構造【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -274,6 +284,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=706910",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨ビットコインのクライアントソフトウェア「ビットコインコア」のプロジェクトは、過去のバージョンにあった脆弱性を公表。問題の深刻度は「高」で、問題を解決した上で脆弱性を公開している。",
+          "link": "https://coinpost.jp/?p=706910",
+          "publishedOn": "2026-05-07T02:30:45.000Z",
+          "wordCount": 3367,
+          "title": "ビットコインコア、修正済みの脆弱性を公表　深刻度「高」の問題に24年から対応開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/bitcoin1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/bitcoin1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=706864",
+          "author": "A.Yamada",
+          "description": "グラスノードによると、仮想通貨ビットコインはETF資金流入の回復と強気派優勢の中、次の抵抗線に接近している。長期保有者の売り圧力と買い側の持続力が今後の焦点となる。",
+          "link": "https://coinpost.jp/?p=706864",
+          "publishedOn": "2026-05-07T02:00:04.000Z",
+          "wordCount": 4029,
+          "title": "ビットコイン、強気優勢も価格は重要な抵抗線に接近中＝グラスノード",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/bitcoin-rate-cut-effect.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/bitcoin-rate-cut-effect.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=706900",
+          "author": "Enzo",
+          "description": "コア・サイエンティフィック（CORZ）がビットコインマイナーのPolaris DSを約660億円で買収。オクラホマ州拠点の電力容量を1.5GWへ拡大し、AI向けデータセンター事業を加速する。",
+          "link": "https://coinpost.jp/?p=706900",
+          "publishedOn": "2026-05-07T01:15:19.000Z",
+          "wordCount": 3898,
+          "title": "コア・サイエンティフィック、マイニング企業を約660億円で買収　AIデータセンター拡張へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/btc-mining-bhutan.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/btc-mining-bhutan.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=706829",
+          "author": "菊谷ルイス",
+          "description": "南米コロンビアのペトロ大統領は5月6日、カリブ海沿岸地域でビットコイン採掘を推進する構想を発表した。再生可能エネルギーの余剰電力を活用し、パラグアイやベネズエラのモデルに倣って外国資本誘致と地域開発を目指している。",
+          "link": "https://coinpost.jp/?p=706829",
+          "publishedOn": "2026-05-07T00:50:11.000Z",
+          "wordCount": 3885,
+          "title": "南米コロンビア大統領、カリブ海沿岸でビットコイン採掘を提案",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-mining-13-nations.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-mining-13-nations.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=706848",
           "author": "K.Kobayashi",
@@ -700,7 +770,18 @@
       "title": "ニュース – あたらしい経済",
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=571268",
+          "author": "gentosha_takahashi",
+          "description": "Q1は約125億ドルの純損失 米ナスダック上場のビットコイン（BTC）保有企業ストラテジー（Strategy）のエグゼクティブ・チェアマンであるマイケル・セイラー（Michael Saylor）氏が、同社の配当支払いに関 […]",
+          "link": "https://www.neweconomy.jp/posts/571268",
+          "publishedOn": "2026-05-07T01:26:25.000Z",
+          "wordCount": 773,
+          "title": "ストラテジー、「ビットコイン売却」による配当原資の可能性に言及＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/05/07102619/10b6a3e92815462684697cb2c440bb7f.jpg"
+        }
+      ]
     },
     {
       "title": "仮想通貨・ビットコインのニュースサイト｜コインテレグラフ ジャパン",
@@ -1224,6 +1305,66 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=163066",
+          "author": "Crypto Times 編集部",
+          "description": "分散型ステーキングプロトコルKelpDAOが4月18日に発生した約2億9,200万ドル規模のエクスプロイト（不正流出）の責任をクロスチェーンインフラ提供企業LayerZeroに公的に帰責し、クロスチェーンインフラを競合の […]\n投稿 KelpDAOがLayerZeroと決別、Chainlink採用へ｜2.9億ドルのハッキング被害 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-kelpdao-breaks-ties-with-layerzero/",
+          "publishedOn": "2026-05-07T02:15:35.000Z",
+          "wordCount": 647,
+          "title": "KelpDAOがLayerZeroと決別、Chainlink採用へ｜2.9億ドルのハッキング被害",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_2568514305.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=163061",
+          "author": "Crypto Times 編集部",
+          "description": "世界最大のビットコイン（BTC）保有上場企業であるストラテジー社が、2026年第1四半期に約125億4,000万ドルの純損失を計上しました。BTC価格の下落に伴う未実現損失144億6,000万ドルが、巨額赤字の主因となっ […]\n投稿 ストラテジー社125億ドルの巨額赤字、BTC含み損が直撃 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-strategy-inc-suffers-massive-12-5-billion-loss/",
+          "publishedOn": "2026-05-07T01:17:56.000Z",
+          "wordCount": 601,
+          "title": "ストラテジー社125億ドルの巨額赤字、BTC含み損が直撃",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_2607147555.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=163077",
+          "author": "Crypto Times 編集部",
+          "description": "分散型金融（DeFi）レンディングプロトコル大手のAaveが提供する独自ステーブルコイン「GHO」の流通量が4億ドル超、ステーキング版sGHOが3億ドルに到達しました。両者ともKelp DAO exploitの直前に達成 […]\n投稿 Aave独自ステーブルGHO流通量4億ドル、スケール拡大の4つの軸とは は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-aaves-proprietary-stable-gho-has-a-circulation-of-400-million/",
+          "publishedOn": "2026-05-07T00:45:18.000Z",
+          "wordCount": 650,
+          "title": "Aave独自ステーブルGHO流通量4億ドル、スケール拡大の4つの軸とは",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/default.png"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=163075",
+          "author": "Crypto Times 編集部",
+          "description": "BTC財務を採用するストラテジー社のCEOフォン・レー氏が、米CLARITY法（仮想通貨市場構造法）が成立すれば、同社の優先株式商品「STRC」を基盤としたレイヤー2インフラ「Apyx」などの開発が加速すると表明しました […]\n投稿 ストラテジー社のBTC戦略に異変？優先株「STRC」がトークン化か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-is-there-something-unusual-going-on-with-strategy-inc-s-btc-strategy/",
+          "publishedOn": "2026-05-07T00:16:58.000Z",
+          "wordCount": 632,
+          "title": "ストラテジー社のBTC戦略に異変？優先株「STRC」がトークン化か",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_2604077555.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=163059",
           "author": "Crypto Times 編集部",

@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=347755",
+          "author": "Shoko Galaviz",
+          "description": "予測市場プラットフォームのKalshi（カルシ）は、シリーズFラウンドで10億ドル（約1550億円、1ドル＝155円換算）を調達し、評価額が220億ドルに達した ...\nKalshi、約1600億円調達で評価額3兆4000億円超——機関投資家の予測市場利用が加速 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/347755/",
+          "publishedOn": "2026-05-07T21:30:00.000Z",
+          "wordCount": 1846,
+          "title": "Kalshi、約1600億円調達で評価額3兆4000億円超——機関投資家の予測市場利用が加速",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2737153675.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=347752",
+          "author": "Shoko Galaviz",
+          "description": "Amazon Web Services（アマゾン・ウェブ・サービス：AWS）は、AIエージェントが利用するリソースに対して自律的に支払いを行える新機能「Amaz ...\nAWS、AIエージェント決済機能を発表──Coinbase・Stripeと連携 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/347752/",
+          "publishedOn": "2026-05-07T21:00:00.000Z",
+          "wordCount": 1862,
+          "title": "AWS、AIエージェント決済機能を発表──Coinbase・Stripeと連携",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/shutterstock_1626983506.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=347748",
           "author": "栃山 直樹",
           "description": "米政府が進める「戦略的ビットコイン準備金（SBR）」の詳細が、今後数週間以内に発表される見通しだと7日、CoinDeskが報じた。 大統領デジタル資産諮問委員会 ...\n米ビットコイン準備金の詳細、数週間以内に発表へ first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -424,6 +444,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=707220",
+          "author": "菊谷ルイス",
+          "description": "JPモルガンが5月7日付レポートで、ビットコインETFが3カ月連続で純流入を記録する一方、金ETFは流出回収に苦戦と分析。マイケル・セイラー氏のストラテジーが年300億ドル規模の仮想通貨BTC購入ペースに到達する見通しも示した。",
+          "link": "https://coinpost.jp/?p=707220",
+          "publishedOn": "2026-05-07T21:15:05.000Z",
+          "wordCount": 3352,
+          "title": "「金からビットコインへ」、JPモルガンがデベースメントトレード鮮明化を指摘",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/bitcoin-never-dies.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/bitcoin-never-dies.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=707221",
+          "author": "菊谷ルイス",
+          "description": "米21シェアーズは7日、カントン・ネットワークのネイティブトークン『CC』に連動するETF「TCAN」をナスダックへ上場した。ゴールドマン・サックスやマイクロソフトが支援し、ビザの決済網にも採用された金融機関特化型ブロックチェーンの投資機会を提供開始した。",
+          "link": "https://coinpost.jp/?p=707221",
+          "publishedOn": "2026-05-07T21:00:12.000Z",
+          "wordCount": 3848,
+          "title": "米21シェアーズ、米国初のカントン・ネットワーク現物ETF「TCAN」をナスダック上場",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/pando-etf.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/pando-etf.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=707222",
           "author": "菊谷ルイス",

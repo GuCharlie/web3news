@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-05-08T20:55:39.373Z</updated>
+    <updated>2026-05-08T21:57:01.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テラウルフ、HPC事業がBTCマイニング売上を初逆転]]></title>
+        <id>https://coinpost.jp/?p=707538</id>
+        <link href="https://coinpost.jp/?p=707538"/>
+        <updated>2026-05-08T21:35:16.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインマイニング企業テラウルフが8日に2026年第1四半期決算を公表。2100万ドルのHPCリース収益が1300万ドルのデジタル資産収益を上回り、AI向けデータセンター事業への転換が業績面で初めて鮮明となった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum DAO、凍結済みの111億円相当イーサリアム放出を承認]]></title>
+        <id>https://coinpost.jp/?p=707539</id>
+        <link href="https://coinpost.jp/?p=707539"/>
+        <updated>2026-05-08T21:05:23.000Z</updated>
+        <summary type="html"><![CDATA[アービトラムDAOは、Kelp DAOの不正流出被害を補償するため、凍結されていた約30765ETH（111億円相当）の放出を承認した。DeFi United主導の救済策が前進する一方、北朝鮮に関連する米裁判所の差し押さえ命令が資金移動の障壁となっている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米SEC委員長、オンチェーン金融に「規制の道筋」明示]]></title>
+        <id>https://coinpost.jp/?p=707540</id>
+        <link href="https://coinpost.jp/?p=707540"/>
+        <updated>2026-05-08T20:45:32.000Z</updated>
+        <summary type="html"><![CDATA[SECポール・アトキンス委員長が5月8日のSCSP AI+ Expo講演で、オンチェーン市場に対する4つの規制方針を提示。取引所定義、ブローカー・ディーラー定義、清算機関定義、暗号資産ボールトに関するルールメイキングへの意欲を示した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ウォーレン米議員、メタのステーブルコイン統合を追及]]></title>
+        <id>https://coinpost.jp/?p=707525</id>
+        <link href="https://coinpost.jp/?p=707525"/>
+        <updated>2026-05-08T20:00:53.000Z</updated>
+        <summary type="html"><![CDATA[ウォーレン米上院議員が5月6日付でメタのザッカーバーグCEOに書簡を送付。USDC連携など同社のステーブルコイン統合計画について「透明性の欠如は深く憂慮すべき」と批判し、5月20日までの回答を要求した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【5/8話題】プログマらのトークン化国債WG設置、リミポのビットコイン運用状況、韓国の暗号資産課税は1月からなど（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=572397</id>
@@ -2055,50 +2095,6 @@ ETH相場、歴史的な好調月に突入──米大口勢の買い戻りは�
 Anthropic評価額、BTC時価総額超えの可能性──マスク氏対OpenAIの訴訟で予測市場が反応【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーブルコインが法的地位を獲得も実施規則が新たな参入障壁か]]></title>
-        <id>https://crypto-times.jp/?p=162857</id>
-        <link href="https://crypto-times.jp/news-stablecoins-gain-legal-status-but-the-implementing-regulations-may-create-new-barriers-to-entry/"/>
-        <updated>2026-05-04T09:48:05.000Z</updated>
-        <summary type="html"><![CDATA[米国でステーブルコインの法的枠組みを定めたGENIUS法が成立し、ドル連動トークンの発行に初めて明確な法的根拠が与えられました。同法はドルペッグのステーブルコインを定義し準備金の要件と連邦政府による監督枠組みを設けること […]
-投稿 ステーブルコインが法的地位を獲得も実施規則が新たな参入障壁か は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRPレジャーのRWA残高が36億ドルに急拡大、エネルギー商品トークン化が牽引]]></title>
-        <id>https://crypto-times.jp/?p=162863</id>
-        <link href="https://crypto-times.jp/news-xrp-ledger-rwa-balance-surges-to-3-6-billion/"/>
-        <updated>2026-05-04T09:32:02.000Z</updated>
-        <summary type="html"><![CDATA[XRPレジャー（XRPL）が保有するRWA（実物資産のトークン化）の残高が約36億ドルに達し、ステーブルコインを除いたRWA資産としては30日間で最大の伸びを記録したとされています。 このうち約26億ドルが「表現型資産」 […]
-投稿 XRPレジャーのRWA残高が36億ドルに急拡大、エネルギー商品トークン化が牽引 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップル(XRP)が1.40ドル台を回復、月次エスクローで7億XRP再ロック]]></title>
-        <id>https://crypto-times.jp/?p=162841</id>
-        <link href="https://crypto-times.jp/news-xrp-recovers-to-the-1-40-range/"/>
-        <updated>2026-05-04T09:10:11.000Z</updated>
-        <summary type="html"><![CDATA[リップル(XRP)の価格が1.40ドル台を回復しました。リップルが毎月実施するエスクロー（第三者預託）の操作で10億XRPが一時アンロック（解除）された後、そのうち70%にあたる7億XRPが再ロックされ、流通量の大幅な増 […]
-投稿 リップル(XRP)が1.40ドル台を回復、月次エスクローで7億XRP再ロック は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCマイニング大手RIOT、過去30日間で株価49%高騰｜AI収益計上]]></title>
-        <id>https://crypto-times.jp/?p=162757</id>
-        <link href="https://crypto-times.jp/news-bitcoin-mining-giant-riots-stock-price-has-surged-49-in-the-past-30-days/"/>
-        <updated>2026-05-04T08:58:45.000Z</updated>
-        <summary type="html"><![CDATA[米ビットコインマイニング企業大手のRiot Platforms（RIOT）が、2026年第1四半期の決算で初めてAI向けデータセンター事業から3,320万ドルの収益を計上しました。同社のジェイソン・レス CEOはこの転換 […]
-投稿 BTCマイニング大手RIOT、過去30日間で株価49%高騰｜AI収益計上 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
     <entry>

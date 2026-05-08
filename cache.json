@@ -12,6 +12,36 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=347911",
+          "author": "荒澤 文寛（あらさわ ふみひろ） ビットトレード リサーチアナリスト",
+          "description": "今週の暗号資産市場は、「強気への期待」と「その上昇をまだ信じ切れていない心理」が交錯した1週間だった。 ビットコインは週初の78,000ドル台（約1,200万円 ...\n疑念の中で進む回復相場 ── ビットコイン市場が試され始めた「利益確定」と「機関資金」の綱引き【BitTrade Market Weekly】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/347911/",
+          "publishedOn": "2026-05-08T23:45:00.000Z",
+          "wordCount": 1907,
+          "title": "疑念の中で進む回復相場 ── ビットコイン市場が試され始めた「利益確定」と「機関資金」の綱引き【BitTrade Market Weekly】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/image001-2.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=347897",
+          "author": "Shoko Galaviz",
+          "description": "暗号資産（仮想通貨）取引所Kraken（クラーケン）の親会社であるPayward（ペイワード）は、米通貨監督庁（OCC）に対し、国法信託銀行免許を申請したと発表 ...\nKraken親会社Payward、国家信託銀行免許をOCCに申請 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/347897/",
+          "publishedOn": "2026-05-08T23:30:00.000Z",
+          "wordCount": 1852,
+          "title": "Kraken親会社Payward、国家信託銀行免許をOCCに申請",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2611282275.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=347893",
+          "author": "井上 俊彦",
+          "description": "欧州中央銀行（ECB）のChristine Lagarde（クリスティーヌ・ラガルド）総裁は5月8日、スペインで開催されたスペイン銀行のラテンアメリカ経済フォー ...\nECBのラガルド総裁、ユーロ建てステーブルコインを金融安定リスクと指摘 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/347893/",
+          "publishedOn": "2026-05-08T23:00:00.000Z",
+          "wordCount": 1838,
+          "title": "ECBのラガルド総裁、ユーロ建てステーブルコインを金融安定リスクと指摘",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2019/12/ECBstreet.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=347907",
           "author": "エックスウィン",
           "description": "● ケビン・ウォーシュ氏は「タカ派」と見られる一方、歴代Fed議長候補の中でも極めて暗号資産に理解の深い人物である● 市場は「高金利長期化」を警戒し短期的にBT ...\n「ウォーシュ・ショック」は本物か──FRB新議長候補とビットコイン市場の新しい関係【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -604,6 +634,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=707552",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨取引所コインベースは、サービス障害が発生したと発表。その後、主要な問題は完全に解決したと説明しており、停止していた取引サービスを再開している。",
+          "link": "https://coinpost.jp/?p=707552",
+          "publishedOn": "2026-05-08T23:10:38.000Z",
+          "wordCount": 3346,
+          "title": "コインベース、サービス障害発生後に取引再開　AWSデータセンターの過熱が原因と説明",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/coinbase-.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/coinbase-.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=707534",
+          "author": "菊谷ルイス",
+          "description": "アプトス財団とアプトス・ラボが8日、機関投資家向け取引と自律AIエージェントの2分野に特化した5000万ドル超のエコシステム投資を公表。自社プロダクト、研究、プロトコル基盤、戦略ファンドに資金を配分する。",
+          "link": "https://coinpost.jp/?p=707534",
+          "publishedOn": "2026-05-08T22:55:04.000Z",
+          "wordCount": 3541,
+          "title": "アプトス、機関取引・AIエージェント向け基盤に78億円超を投入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/aptos-AI-machine.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/aptos-AI-machine.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=707537",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨マイニング大手のIRENがエヌビディアとの戦略的提携を発表。最大5GWのAIインフラ構築を目指し、エヌビディアは約21億ドルの出資権利を取得した。バーンスタインのアナリストは、GPU供給の確保とAIデータセンターへの転換を高く評価している。",
+          "link": "https://coinpost.jp/?p=707537",
+          "publishedOn": "2026-05-08T22:10:05.000Z",
+          "wordCount": 3871,
+          "title": "IRENがエヌビディアと戦略的提携、最大5GW規模の次世代AIインフラ構築へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/nvidia-omniverse-free-1-1.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/nvidia-omniverse-free-1-1.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=707538",
           "author": "菊谷ルイス",

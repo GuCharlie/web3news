@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=347918",
+          "author": "栃山 直樹",
+          "description": "米国上院の銀行・住宅・都市問題委員会は、米時間5月14日に暗号資産市場構造法「クラリティ法案（H.R.3633）」に関する非公開会合を開催することを9日までに発 ...\nクラリティ法案、5月14日に上院委員会で審議へ first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/347918/",
+          "publishedOn": "2026-05-09T03:28:55.000Z",
+          "wordCount": 2005,
+          "title": "クラリティ法案、5月14日に上院委員会で審議へ",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/shutterstock_2762229605.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=347901",
           "author": "Shoko Galaviz",
           "description": "デジタルインフラ企業TeraWulf（テラウルフ）は、2026年第1四半期決算で、高性能コンピューティング（HPC）事業の収益が初めてビットコインマイニング事業 ...\n米マイニング企業TeraWulf、AIデータセンター収益がBTCマイニングを初めて上回る first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -620,16 +630,6 @@
           "wordCount": 2103,
           "title": "ETH相場、歴史的な好調月に突入──米大口勢の買い戻りは見えず【価格分析】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/image1-2_1200x800.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=347257",
-          "author": "平木 昌宏",
-          "description": "暗号技術スタートアップのSuccinct Labs（サクシンクト・ラボ）は米時間4日、同社のゼロ知識仮想マシン「SP1」が大手暗号資産（仮想通貨）取引所Coin ...\nイーサリアムL2「Base」がゼロ知識証明導入へ──最大7日かかった出金を1日程度に短縮 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/347257/",
-          "publishedOn": "2026-05-04T17:00:00.000Z",
-          "wordCount": 1852,
-          "title": "イーサリアムL2「Base」がゼロ知識証明導入へ──最大7日かかった出金を1日程度に短縮",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/ce7cd63df4454d42d532dd2d3d89c3b3.jpg"
         }
       ]
     },
@@ -2405,6 +2405,96 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=163329",
+          "author": "よきょい",
+          "description": "米大手証券会社のモルガン・スタンレーとチャールズ・シュワブが、一般の証券口座内で仮想通貨を直接売買できるサービスの導入を進めています。両社の動きはすでに自社顧客が外部プラットフォームで仮想通貨取引を行っているという実態を […]\n投稿 モルガンとシュワブが仮想通貨直接取引に本格参入 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-morgan-and-schwab-make-a-full-scale-entry-into-direct-cryptocurrency-trading/",
+          "publishedOn": "2026-05-09T06:52:15.000Z",
+          "wordCount": 579,
+          "title": "モルガンとシュワブが仮想通貨直接取引に本格参入",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_2088421288.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=163375",
+          "author": "よきょい",
+          "description": "5月9日、ビットコイン（BTC）の価格は80,410ドル前後で推移しており、イーサリアム（ETH）は約2,310ドル、ソラナ（SOL）は約93ドルで取引されています。世界の暗号資産時価総額は2.76兆ドルで、ビットコイン […]\n投稿 【今日の仮想通貨ニュース】ハンタウイルス懸念でBTCに試練か。XRP史上最高値に必要な条件とは は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-todays-cryptocurrency-news-for-may-9th/",
+          "publishedOn": "2026-05-09T05:31:29.000Z",
+          "wordCount": 605,
+          "title": "【今日の仮想通貨ニュース】ハンタウイルス懸念でBTCに試練か。XRP史上最高値に必要な条件とは",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_1701197818.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=163322",
+          "author": "よきょい",
+          "description": "イーロン・マスク氏のSpaceXがAnthropicとの間で大規模なAI計算インフラの提供契約を締結しました。 SpaceXAI will provide @AnthropicAI with access to Colo […]\n投稿 SpaceXがAI向け計算インフラを商業展開、ビットコインマイナーのAIピボット戦略に競合出現 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-spacex-to-commercially-deploy-computing-infrastructure-for-ai/",
+          "publishedOn": "2026-05-09T04:02:12.000Z",
+          "wordCount": 616,
+          "title": "SpaceXがAI向け計算インフラを商業展開、ビットコインマイナーのAIピボット戦略に競合出現",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_2338840433.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=163331",
+          "author": "よきょい",
+          "description": "欧州連合が米国との貿易協定の実施に向けて自己設定した期限に追われる中、関税引き上げの可能性がビットコインにとっての新たなリスク要因として浮上しています。 トランプ大統領はEU向け自動車・トラックの関税を現行の15%から2 […]\n投稿 EU対米関税交渉がビットコインの新たなリスク要因に？ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-could-eu-us-tariff-negotiations-become-a-new-risk-factor-for-bitcoin/",
+          "publishedOn": "2026-05-09T03:55:21.000Z",
+          "wordCount": 579,
+          "title": "EU対米関税交渉がビットコインの新たなリスク要因に？",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_775241872.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=163327",
+          "author": "よきょい",
+          "description": "「ビットコインは絶対に売らない」という姿勢で知られていた仮想通貨財務戦略企業が、相次いでBTC売却に動いています。ストラテジー社CEOは5月5日の決算説明会で「会社にとって有利なときにビットコインを売却する」と明言し、共 […]\n投稿 「絶対売らない」が崩れた、著名ビットコイン財務企業が売却に踏み切る は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-a-prominent-bitcoin-finance-firm-has-decided-to-sell-its-holdings/",
+          "publishedOn": "2026-05-09T03:30:14.000Z",
+          "wordCount": 578,
+          "title": "「絶対売らない」が崩れた、著名ビットコイン財務企業が売却に踏み切る",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_1836343015.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=163332",
+          "author": "よきょい",
+          "description": "米最大の仮想通貨取引所コインベースが2026年第1四半期の決算でウォール街の予想を下回る結果を発表し、直後にAWSの障害に起因する5時間超のサービス停止が発生しました。 同社の2026年1〜3月期の売上高は14.1億ドル […]\n投稿 なぜ赤字？コインベース決算が予想外の苦戦、5時間超の障害も発生 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-coinbases-earnings-report-shows-unexpected-struggles/",
+          "publishedOn": "2026-05-09T02:56:01.000Z",
+          "wordCount": 634,
+          "title": "なぜ赤字？コインベース決算が予想外の苦戦、5時間超の障害も発生",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_2617026351.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=163330",
           "author": "よきょい",

@@ -580,7 +580,7 @@
       "articles": []
     },
     {
-      "title": "Cardano(ADA)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -1213,21 +1213,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/okxtitle0818.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/okxtitle0818.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=707181",
-          "author": "Ritsuki.Kumazawa",
-          "description": "Progmatのデジタルアセット共創コンソーシアム（DCC）が、日本国債のトークン化とステーブルコインを活用したオンチェーン・レポ取引の共同検討を開始。ブラックロック・ジャパン、三菱UFJ銀行など42組織以上が参加し、T+0決済や銀行規制対象外となる可能性も視野に入れる。2026年内のプロジェクト開始を目標とする。",
-          "link": "https://coinpost.jp/?p=707181",
-          "publishedOn": "2026-05-07T10:38:29.000Z",
-          "wordCount": 3144,
-          "title": "日本国債のオンチェーン・レポ取引へ、Progmat主導で2026年内の実現目指す",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/progmat_repo_0507-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/progmat_repo_0507-1.png"
         }
       ]
     },
@@ -1515,16 +1500,6 @@
           "wordCount": 777,
           "title": "【5/7話題】オンドがトークン化米国債の国際銀行間償還を試験運用、ストラテジーがビットコイン売却での配当原資の可能性など（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/05/07235205/c11de560cc6e62c332c908727ee7ccd3.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=571563",
-          "author": "HitomotoToshikazu",
-          "description": "21shares Strategy Yield ETNがLSE上場 21シェアーズ（21Shares）組成によるストラテジー（Strategy）の永久優先株式に連動したETP（上場取引型金融商品）が、英ロンドン証券取引所 […]",
-          "link": "https://www.neweconomy.jp/posts/571563",
-          "publishedOn": "2026-05-07T10:47:32.000Z",
-          "wordCount": 671,
-          "title": "21シェアーズ組成「ストラテジーの優先株連動ETP」、英LSEに上場",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/05/07194725/ddcadbe58ef09fd29b1440646b0b7b38.jpg"
         }
       ]
     },
@@ -2050,6 +2025,21 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=163398",
+          "author": "Crypto Times 編集部",
+          "description": "ブロックチェーン基盤企業Digital Assetが新たな資金調達ラウンドで企業評価額20億ドルを目指していることが明らかになりました。 このラウンドではベンチャーキャピタル大手a16z cryptoが筆頭投資家となり、 […]\n投稿 1年で評価額が6倍に？a16zが主導するDigital Asset社の急成長 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-the-rapid-growth-of-digital-asset-led-by-a16z/",
+          "publishedOn": "2026-05-11T23:40:34.000Z",
+          "wordCount": 610,
+          "title": "1年で評価額が6倍に？a16zが主導するDigital Asset社の急成長",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_2316751679.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=163399",
           "author": "Crypto Times 編集部",

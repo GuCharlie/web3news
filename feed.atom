@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-05-13T23:02:20.893Z</updated>
+    <updated>2026-05-14T01:24:26.691Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[キヨサキ氏、インフレ警告　金・銀・ビットコイン・イーサリアムで資産防衛促す]]></title>
+        <id>https://coinpost.jp/?p=708496</id>
+        <link href="https://coinpost.jp/?p=708496"/>
+        <updated>2026-05-14T00:59:40.000Z</updated>
+        <summary type="html"><![CDATA[著名投資家キヨサキ氏がXに投稿し、イラン情勢と国家債務を背景にインフレリスクを警告。金・銀・ビットコイン・イーサリアムによる資産防衛を呼びかけた。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ガイアックス、JPYCを活用した決済代行不要のEC・フリマ構築サービスを開始]]></title>
+        <id>https://crypto-times.jp/?p=163713</id>
+        <link href="https://crypto-times.jp/news-gaiax-launches-e-commerce-and-flea-market-building-service-utilizing-jpyc/"/>
+        <updated>2026-05-14T00:47:37.000Z</updated>
+        <summary type="html"><![CDATA[株式会社ガイアックスは事業者向けの「ステーブルコイン決済導入支援サービス」を提供開始しました。同サービスは日本円ステーブルコイン「JPYC」を活用して、ECサイトやフリマアプリにおける決済を従来の決済代行業者を介さずに実 […]
+投稿 ガイアックス、JPYCを活用した決済代行不要のEC・フリマ構築サービスを開始 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米金融大手フィデリティ、チェーンリンク基盤のトークン化米国債ファンド「FILQ」ローンチ]]></title>
+        <id>https://coinpost.jp/?p=708481</id>
+        <link href="https://coinpost.jp/?p=708481"/>
+        <updated>2026-05-14T00:35:28.000Z</updated>
+        <summary type="html"><![CDATA[フィデリティが仮想通貨チェーンリンク基盤の機関投資家向けトークン化ファンド「FILQ」をローンチ。ムーディーズよりAAA格付けを取得した。ステーブルコインでの投資が可能。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新興ブロックチェーンの資金調達の3つの示唆、ビットワイズの幹部が提示]]></title>
+        <id>https://coinpost.jp/?p=708465</id>
+        <link href="https://coinpost.jp/?p=708465"/>
+        <updated>2026-05-13T23:50:59.000Z</updated>
+        <summary type="html"><![CDATA[ビットワイズの幹部は、アークとカントンネットワークとテンポの新興チェーンを取り上げて仮想通貨の3つの示唆を提示。それぞれの資金調達や大手企業との協業が同時期に明らかになったことに注目している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JPYCが偽物トークンへの注意喚起、名前・ロゴで判断せず「コントラクト」の確認を]]></title>
+        <id>https://crypto-times.jp/?p=163719</id>
+        <link href="https://crypto-times.jp/news-jpyc-issues-warning-about-counterfeit-tokens/"/>
+        <updated>2026-05-13T23:45:25.000Z</updated>
+        <summary type="html"><![CDATA[日本円ステーブルコイン「JPYC」を発行するJPYC株式会社は偽JPYC・類似トークンへの注意喚起を発信しました。ウォレットやDEX（分散型取引所）で「JPYC」と検索した際、名称・ロゴ・シンボルが本物と酷似したトークン […]
+投稿 JPYCが偽物トークンへの注意喚起、名前・ロゴで判断せず「コントラクト」の確認を は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アンソロピックとOpenAIの未公開株連動トークンが40%以上急落、無効警告を受け]]></title>
+        <id>https://coinpost.jp/?p=708445</id>
+        <link href="https://coinpost.jp/?p=708445"/>
+        <updated>2026-05-13T23:15:41.000Z</updated>
+        <summary type="html"><![CDATA[ソラナ基盤のPreStocksが発行するアンソロピックとOpenAI連動トークンが暴落。両社がSPVやトークン経由の株式譲渡を無効と警告したことが背景にある。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人工知能Claudeが11年間紛失のビットコイン復元に成功、6200万円超資産を救出]]></title>
         <id>https://coinpost.jp/?p=708446</id>

@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-05-18T20:14:07.786Z</updated>
+    <updated>2026-05-18T21:44:51.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RWAトークン化市場、2028年に4兆ドル規模へ到達の可能性＝英SCB銀予測]]></title>
+        <id>https://coinpost.jp/?p=709387</id>
+        <link href="https://coinpost.jp/?p=709387"/>
+        <updated>2026-05-18T21:41:26.000Z</updated>
+        <summary type="html"><![CDATA[英スタンダードチャータード銀行は、2028年までにオンチェーン上のトークン化資産が4兆ドル規模に達すると予測した。ステーブルコインとRWAが市場を牽引し、既存金融機関のDeFi参入が加速する見通しだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Galaxy、NY州でBitLicense取得──機関投資家向けデジタル資産サービスを提供へ]]></title>
+        <id>https://www.nadanews.com/?p=349070</id>
+        <link href="https://www.nadanews.com/349070/"/>
+        <updated>2026-05-18T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Galaxy Digital（ギャラクシー・デジタル）は、ニューヨーク州金融サービス局（NYDFS）からBitLicense（ビットライセンス）とMoney T ...
+Galaxy、NY州でBitLicense取得──機関投資家向けデジタル資産サービスを提供へ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[元OpenAI研究者、AIインフラ銘柄に大規模投資──暗号資産マイナーにも強気姿勢]]></title>
+        <id>https://www.nadanews.com/?p=349066</id>
+        <link href="https://www.nadanews.com/349066/"/>
+        <updated>2026-05-18T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[元OpenAI（オープンAI）研究者のLeopold Aschenbrenner（レオポルド・アッシェンブレナー）氏が、AIインフラ関連企業やビットコイン（BT ...
+元OpenAI研究者、AIインフラ銘柄に大規模投資──暗号資産マイナーにも強気姿勢 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米クラリティー法の利回り妥協条項、「サークル社に有利」とバーンスタインが分析]]></title>
+        <id>https://coinpost.jp/?p=709388</id>
+        <link href="https://coinpost.jp/?p=709388"/>
+        <updated>2026-05-18T20:55:55.000Z</updated>
+        <summary type="html"><![CDATA[米投資銀行バーンスタインは、クラリティー法の利回り妥協条項がUSDCの収益モデルを保護し、AIエージェント決済での独占的地位をさらに強固にすると分析。ステーブルコイン総供給は過去最高の3000億ドルを超えている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米ビットワイズ、ハイパーリキッドETFの管理報酬10%でHYPEを購入し自社保有へ]]></title>
+        <id>https://coinpost.jp/?p=709389</id>
+        <link href="https://coinpost.jp/?p=709389"/>
+        <updated>2026-05-18T20:40:01.000Z</updated>
+        <summary type="html"><![CDATA[米ビットワイズはハイパーリキッド現物ETF「BHYP」の管理報酬の10%をHYPEトークンの自社保有に充てると発表。HYPEは2026年初頭から2倍に上昇し、時価総額は109億ドルを超えている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゴールドマン・サックス、XRPとソラナのETF保有を全額売却　ビットコインETFは1100億円分維持]]></title>
         <id>https://coinpost.jp/?p=709345</id>
@@ -1745,60 +1797,6 @@ CME Group、Nasdaq CME Crypto Index先物をローンチへ first appeared on NA
 ビットコイン、価格調整が進めば7万ドルまで下落する可能性も：CryptoQuant first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle、AIエージェントネイティブツール群「Agent Stack」をリリース]]></title>
-        <id>https://www.nadanews.com/?p=348577</id>
-        <link href="https://www.nadanews.com/348577/"/>
-        <updated>2026-05-14T09:40:00.000Z</updated>
-        <summary type="html"><![CDATA[米ドル建てステーブルコイン「USDコイン（USDC）」発行元のCircle（サークル）は5月12日、AI（人工知能）エージェント向け金融インフラ「Agent S ...
-Circle、AIエージェントネイティブツール群「Agent Stack」をリリース first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米上場のナカモト、第1四半期純損失約375億円　BTC5000枚超保有も価格急落の影響を受ける]]></title>
-        <id>https://coinpost.jp/?p=708719</id>
-        <link href="https://coinpost.jp/?p=708719"/>
-        <updated>2026-05-14T09:34:24.000Z</updated>
-        <summary type="html"><![CDATA[米上場のナカモトが2026年第1四半期決算を発表。BTC価格下落による評価損で純損失は約375億円（2億3,880万ドル）に達した一方、BTC Inc.ら買収によりビットコイン特化型企業としての基盤を確立した。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【今日の仮想通貨ニュース】メタプラネットが永久型優先株式を計画。トランプ訪中でBTCはどうなる？]]></title>
-        <id>https://crypto-times.jp/?p=163771</id>
-        <link href="https://crypto-times.jp/news-todays-cryptocurrency-news-for-may-14th/"/>
-        <updated>2026-05-14T09:19:10.000Z</updated>
-        <summary type="html"><![CDATA[5月14日、ビットコイン（BTC）の価格は79,400ドル前後で推移しており、イーサリアム（ETH）は約2,250ドル、ソラナ（SOL）は約90ドルで取引されています。世界の暗号資産時価総額は2.73兆ドルで、ビットコイ […]
-投稿 【今日の仮想通貨ニュース】メタプラネットが永久型優先株式を計画。トランプ訪中でBTCはどうなる？ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[機関投資家がリップル(XRP)を買い増す一方、先物ではショート優勢]]></title>
-        <id>https://crypto-times.jp/?p=163777</id>
-        <link href="https://crypto-times.jp/news-institutional-investors-are-increasing-their-xrp-holdings-while-short-positions-are-dominant-in-futures/"/>
-        <updated>2026-05-14T08:30:19.000Z</updated>
-        <summary type="html"><![CDATA[リップル(XRP)が1.46ドル超で推移する中、現物市場と先物市場で異なる動きが見られています。米国の現物型XRP ETFは5月11日に2,580万ドルの純流入（1月初旬以来最大の日次流入額）を記録し、5月の累計流入額は […]
-投稿 機関投資家がリップル(XRP)を買い増す一方、先物ではショート優勢 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKJ、ベラチェーン（BERA）を5月20日より取り扱い開始]]></title>
-        <id>https://www.nadanews.com/?p=348570</id>
-        <link href="https://www.nadanews.com/348570/"/>
-        <updated>2026-05-14T08:26:03.000Z</updated>
-        <summary type="html"><![CDATA[オーケーコイン・ジャパン株式会社は、同社が運営する暗号資産（仮想通貨）取引所のOKJにおいて、5月20日よりベラチェーン（BERA）を取り扱うことを発表した。  ...
-OKJ、ベラチェーン（BERA）を5月20日より取り扱い開始 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>大谷 惇途</name>
         </author>
     </entry>
     <entry>

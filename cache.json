@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=348938",
+          "author": "エックスウィン",
+          "description": "● CLARITY Act前進という強気材料にも関わらず、BTC市場では高レバレッジ整理とETF流出が重なり急落が発生した。● 米国現物BTC ETFは約13, ...\n週末、「史上最大級の強気材料」でなぜ下落したのか──ビットコイン急落の裏側【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/348938/",
+          "publishedOn": "2026-05-17T23:57:45.000Z",
+          "wordCount": 2087,
+          "title": "週末、「史上最大級の強気材料」でなぜ下落したのか──ビットコイン急落の裏側【エックスウィン】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/nadanews_top-2026-05-18T085603.704.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=348929",
           "author": "増田隆幸",
           "description": "4月30日、ビザ・ワールドワイド・ジャパン（以下、Visa）は、金沢市に本社を置き、北國銀行などを傘下に持つCCIグループ、インフキュリオンが、Visaの支援の ...\nVisaは“カード会社”でなくなるのか──トチカ対応「Axios」が示した決済インフラの再構築【編集長コラム】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -540,16 +550,6 @@
           "wordCount": 1862,
           "title": "クラリティ法案、上院銀行委での審議を前に100件超の修正案──ステーブルコイン、DeFi、倫理規定が焦点",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/shutterstock_2671485775-990x660-1.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=348404",
-          "author": "平木 昌宏",
-          "description": "決済大手のStripe（ストライプ）は、4月に開催した年次カンファレンス「Stripe Sessions 2026」で、AIビジネス向けの新決済機能として、レイ ...\nStripe、L1「Tempo」上のステーブルコインを活用したストリーミング決済機能を発表 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/348404/",
-          "publishedOn": "2026-05-13T12:10:08.000Z",
-          "wordCount": 1872,
-          "title": "Stripe、L1「Tempo」上のステーブルコインを活用したストリーミング決済機能を発表",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/0c419de3c2ebfd7e9a846c5a21a7fb3b.jpg"
         }
       ]
     },
@@ -564,6 +564,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=709162",
+          "author": "Enzo",
+          "description": "仮想通貨詐欺「Forsage」の共同創設者として起訴されたウクライナ国籍の女がタイから米国へ身柄移送。ポンジ・スキームで世界から約3億4000万ドルを詐取した疑い。",
+          "link": "https://coinpost.jp/?p=709162",
+          "publishedOn": "2026-05-18T00:30:13.000Z",
+          "wordCount": 3327,
+          "title": "仮想通貨詐欺「Forsage」共同創設者、タイから米国に身柄移送　約3億4000万ドル詐取の疑い",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/usdt-doj-docu.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/usdt-doj-docu.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=709155",
+          "author": "Enzo",
+          "description": "ビットコイン長期保有者の供給量が1,526万BTCまで回復し、2025年8月以来の水準に達した。過去30日で約31.6万BTC増加し、短期的な売り圧力の後退を示す。",
+          "link": "https://coinpost.jp/?p=709155",
+          "publishedOn": "2026-05-17T23:45:06.000Z",
+          "wordCount": 3323,
+          "title": "ビットコイン長期保有者の供給量が1526万BTCに回復、2025年8月以来の水準＝アナリスト",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/bitcoin-new-new-new-2026-march.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/bitcoin-new-new-new-2026-march.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=709151",
           "author": "Enzo",

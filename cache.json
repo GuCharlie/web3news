@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=349091",
+          "author": "廣瀬 優香",
+          "description": "Michael Saylor（マイケル・セイラー）氏が率いるStrategy（ストラテジー）は5月18日、ビットコイン（BTC）を追加購入したと発表した。 5月 ...\nStrategy、今年2番目の規模となる20億ドル相当のビットコインを追加購入 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/349091/",
+          "publishedOn": "2026-05-19T03:10:00.000Z",
+          "wordCount": 2046,
+          "title": "Strategy、今年2番目の規模となる20億ドル相当のビットコインを追加購入",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/shutterstock_2699104611.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=349076",
           "author": "エックスウィン",
           "description": "● 取引所残高は減少を続け、中長期ではBTC供給圧縮構造が継続している。● 一方で、Open InterestとFunding Rateからは、依然として先物主 ...\nオンチェーン分析で見る2026年ビットコイン市場──「待機資金」と「先物主導」の正体【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -540,16 +550,6 @@
           "wordCount": 1850,
           "title": "米上院銀行委、クラリティ法案を可決──民主党議員の一部も支持",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/shutterstock_2540084173.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=348594",
-          "author": "栃山 直樹",
-          "description": "米大手ベンチャーキャピタル（VC）のAndreessen Horowitz（アンドリーセン・ホロウィッツ、a16z）が、今夏に米国外で初となる海外拠点を日本に設 ...\n米大手VC「a16z」、今夏に日本拠点設立へ──高市首相明かす first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/348594/",
-          "publishedOn": "2026-05-14T15:07:36.000Z",
-          "wordCount": 1851,
-          "title": "米大手VC「a16z」、今夏に日本拠点設立へ──高市首相明かす",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/shutterstock_2601775201.jpg"
         }
       ]
     },
@@ -1328,21 +1328,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/congressional-bill-clarity-congress-bill.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/congressional-bill-clarity-congress-bill.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=708739",
-          "author": "CoinPost編集部",
-          "description": "フィスコが仮想通貨FSCCのステーキング・決済など全サービスの停止を発表。2025年12月期分のバーンも中止する。FSCCの即時消滅や取引所対応への影響はないとしている。",
-          "link": "https://coinpost.jp/?p=708739",
-          "publishedOn": "2026-05-14T14:09:20.000Z",
-          "wordCount": 3870,
-          "title": "フィスコが仮想通貨事業から撤退　FSCC施策を全終了へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/fisco_2020.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/fisco_2020.png"
         }
       ]
     },
@@ -1351,6 +1336,56 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=574518",
+          "author": "TanakaShuya",
+          "description": "StrategyがBTC追加購入 上場企業によるビットコイン（BTC）の保有数で世界第1位のストラテジー（Strategy）が、ビットコインの追加購入を5月18日に発表した。 今回ストラテジーは5月11日から5月17日ま […]",
+          "link": "https://www.neweconomy.jp/posts/574518",
+          "publishedOn": "2026-05-19T04:03:03.000Z",
+          "wordCount": 786,
+          "title": "ストラテジーが約20億ドルでビットコイン追加購入、総保有数は84万3738BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/05/19130217/1ae6e9c99ad3eb3414d867e658bd062e.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=574511",
+          "author": "watanabeyousuke",
+          "description": "クラーケン、kBTC向けクロスチェーン基盤にCCIP採用 暗号資産（仮想通貨）取引所クラーケン（Kraken）が、ラップドビットコイン「クラーケン・ラップド・ビットコイン（Kraken Wrapped Bitcoin：k […]",
+          "link": "https://www.neweconomy.jp/posts/574511",
+          "publishedOn": "2026-05-19T03:55:39.000Z",
+          "wordCount": 828,
+          "title": "クラーケン、kBTCなどラップド資産のクロスチェーン基盤にCCIP採用",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/05/19125524/5538aa51e18a87dd9d2a24bc68c63ca1.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=574502",
+          "author": "watanabeyousuke",
+          "description": "ヴェルスのブリッジで不正流出発生 レイヤー1ブロックチェーン「ヴェルス（Verus）」とイーサリアム（Ethereum）を接続するヴェルス公式ブリッジで、不正流出が発生したことが明らかになった。ブロックチェーンセキュリテ […]",
+          "link": "https://www.neweconomy.jp/posts/574502",
+          "publishedOn": "2026-05-19T03:42:09.000Z",
+          "wordCount": 856,
+          "title": "ヴェルス公式ブリッジで約1158万ドル相当の資産流出、ブロックエイドが原因分析",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/05/19124137/df64da7d887eb5d2260f14208014040e.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=574487",
+          "author": "TanakaShuya",
+          "description": "BitMineがETH追加購入 ビットマインイマージョンテクノロジーズ（BitMine Immersion Technologies：以下、ビットマイン）が、暗号資産（仮想通貨）イーサリアム（ETH）の追加取得を5月18 […]",
+          "link": "https://www.neweconomy.jp/posts/574487",
+          "publishedOn": "2026-05-19T02:15:01.000Z",
+          "wordCount": 810,
+          "title": "ビットマインのイーサリアム保有量、527万ETH超に。全供給量の4.37%へ到達",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/05/19111440/205b52cf1bc436a339b85868e0a78884.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=574478",
+          "author": "OtsugaShinya",
+          "description": "B2C2がMiCA準拠の暗号資産サービス事業者ライセンス取得 SBIグループが過半数出資する暗号資産（仮想通貨）流動性プロバイダーのB2C2が、ルクセンブルクの金融監督当局である金融監督委員会（CSSF）から、EU（欧州 […]",
+          "link": "https://www.neweconomy.jp/posts/574478",
+          "publishedOn": "2026-05-19T02:04:40.000Z",
+          "wordCount": 747,
+          "title": "SBIグループのB2C2、MiCAに基づくCASP認可取得",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/05/19110411/94fda18e9848bef1b5d0977640d7ffc1.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=574304",
           "author": "NewEconomyPodcast",
@@ -1630,16 +1665,6 @@
           "wordCount": 925,
           "title": "米上院銀行委員会が「CLARITY法」可決、上院本会議審議へ前進",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/05/15095122/13fa3ceff842df11b5adc30e6ec1a10f.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=573606",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/573606",
-          "publishedOn": "2026-05-14T15:09:01.000Z",
-          "wordCount": 784,
-          "title": "【5/14話題】クラリティ法案審議前に100件超の修正案、メタプラネットの2026年Q1決算、ビットワイズがJupiter Lend起用など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/05/15001255/cf1bb5027744ec80cadd54ba921117e7.jpg"
         }
       ]
     },
@@ -2165,6 +2190,36 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=164065",
+          "author": "よきょい",
+          "description": "米仮想通貨市場構造法案「CLARITY法」」が早ければ2026年8月3日の週にトランプ大統領の署名によって成立する可能性があるとされています。同法案は上院銀行委員会で15対9の超党派賛成多数で可決されており、Galaxy […]\n投稿 仮想通貨重要法案「CLARITY法」、8月初旬にトランプ大統領が署名か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-president-trump-may-sign-the-clarity-act-in-early-august/",
+          "publishedOn": "2026-05-19T04:20:10.000Z",
+          "wordCount": 594,
+          "title": "仮想通貨重要法案「CLARITY法」、8月初旬にトランプ大統領が署名か",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_2465401345-2.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=164060",
+          "author": "よきょい",
+          "description": "ビットコイン（BTC）価格が7万7000ドルを割り込み、規制面での好材料があったにもかかわらず大幅下落するという展開となりました。デリバティブ市場では約9億8000万ドルのロスカットが発生しています。 市場関係者は、この […]\n投稿 ビットコイン7万7000ドル割れ、過剰レバレッジ解消で反発の下地も は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitcoin-falls-below-77000-but-there-is-a-basis-for-a-rebound-as-excessive-leverage-is-unwound/",
+          "publishedOn": "2026-05-19T03:36:42.000Z",
+          "wordCount": 582,
+          "title": "ビットコイン7万7000ドル割れ、過剰レバレッジ解消で反発の下地も",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_2246342051.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=164023",
           "author": "Crypto Times 編集部",

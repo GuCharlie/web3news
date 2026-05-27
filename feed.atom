@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-05-27T22:55:06.910Z</updated>
+    <updated>2026-05-27T23:58:04.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stake DAOでvsdCRVが不正発行、一部を1450万円相当のETHに交換済みとの報告も]]></title>
+        <id>https://coinpost.jp/?p=711812</id>
+        <link href="https://coinpost.jp/?p=711812"/>
+        <updated>2026-05-27T23:20:18.000Z</updated>
+        <summary type="html"><![CDATA[DeFiプラットフォームStake DAOは、vsdCRVに起きている問題を認識していると発表。vsdCRVが不正発行され、すでに一部が仮想通貨イーサリアムに交換されているもようだ。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米OCC、テキサス仮想通貨特化銀行の国法銀行転換を承認]]></title>
+        <id>https://coinpost.jp/?p=711798</id>
+        <link href="https://coinpost.jp/?p=711798"/>
+        <updated>2026-05-27T23:10:42.000Z</updated>
+        <summary type="html"><![CDATA[米通貨監督庁（OCC）は先週、テキサス州のユナイテッド・テキサス銀行（UTB）に対し国法銀行への転換を条件付きで承認した。ドッド・フランク法制定後、OCCによる転換承認が成立した初期事例とされる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スペイン、PolymarketとKalshiへのアクセス遮断]]></title>
         <id>https://www.nadanews.com/?p=352495</id>

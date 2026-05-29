@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=352943",
+          "author": "井上 俊彦",
+          "description": "米資産運用大手Fidelity（フィデリティ）のデジタル資産部門のFidelity Digital Assetsは5月28日、2026年上半期を振り返るレポート ...\nイランの通行料BTC決済が「ドル中心システムからの脱却」進行を示唆：Fidelity first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/352943/",
+          "publishedOn": "2026-05-29T22:00:00.000Z",
+          "wordCount": 1828,
+          "title": "イランの通行料BTC決済が「ドル中心システムからの脱却」進行を示唆：Fidelity",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2022/08/shutterstock_1940879785.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=352978",
+          "author": "エックスウィン",
+          "description": "● 現在の市場では、株式が利益成長に支えられる一方、ビットコインは需要低下に直面しており、両者のパフォーマンス差が拡大している。● しかし、ポートフォリオに必要 ...\n「それでも、なぜビットコインを持つのか」──株高・BTC低迷の時代に考えるポートフォリオの本質【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/352978/",
+          "publishedOn": "2026-05-29T21:41:36.000Z",
+          "wordCount": 2045,
+          "title": "「それでも、なぜビットコインを持つのか」──株高・BTC低迷の時代に考えるポートフォリオの本質【エックスウィン】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/nadanews_top-2026-05-30T063710.364.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=352947",
           "author": "平木 昌宏",
           "description": "日立製作所は5月29日、トークン化預金を活用し、企業間取引における受発注から決済、会計までの一連の業務プロセスを自動化する実証実験に成功したと発表した。 実証で ...\n日立ら9社、トークン化預金「DCJPY」で企業間取引を自動化する実証に成功 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -840,16 +860,6 @@
           "wordCount": 1833,
           "title": "AIエージェント向けに暗号資産を基盤とした「高度なエコシステム」が出現：報告書",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2644331155.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=352073",
-          "author": "井上 俊彦",
-          "description": "オンチェーン分析プラットフォームのOnchain Lens（オンチェーン・レンズ）は25日、Xへの投稿で、ビットコイン（BTC）のサトシ・ナカモト氏の活動時期に ...\nサトシ時代のビットコインクジラ、2億ドル以上のBTCを移動 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/352073/",
-          "publishedOn": "2026-05-25T10:10:00.000Z",
-          "wordCount": 1841,
-          "title": "サトシ時代のビットコインクジラ、2億ドル以上のBTCを移動",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2022/06/shutterstock_2118178433.jpg"
         }
       ]
     },
@@ -864,6 +874,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=712700",
+          "author": "菊谷ルイス",
+          "description": "米財務省ベッセント長官は、イラン政権に関連する仮想通貨の押収総額が約10億ドルに達したと明らかにした。4月末時点の約5億ドルから倍増しており、ウォレットを直接差し押さえた事例もある。",
+          "link": "https://coinpost.jp/?p=712700",
+          "publishedOn": "2026-05-29T22:30:08.000Z",
+          "wordCount": 3940,
+          "title": "米財務省、イラン関連仮想通貨の押収累計額が1600億円相当に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/us-iran-war-2026.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/us-iran-war-2026.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=712699",
+          "author": "菊谷ルイス",
+          "description": "米インターコンチネンタル取引所（ICE）のスプレッチャーCEOが、Hyperliquidと双方向で協議中と明かした。規制対象取引所での24時間無期限先物提供を認めるよう当局に求めている。",
+          "link": "https://coinpost.jp/?p=712699",
+          "publishedOn": "2026-05-29T21:55:06.000Z",
+          "wordCount": 3951,
+          "title": "NYSE親会社ICE「ハイパーリキッドと相互学習中」　ナスダックより大規模と評価",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/nyse-reopen_.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/nyse-reopen_.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=712698",
           "author": "菊谷ルイス",
@@ -2390,16 +2430,6 @@
           "wordCount": 764,
           "title": "【5/25話題】バイナンス共同CEOがイラン制裁回避報道を否定、ECBがユーロ建てステーブルコイン拡大に警鐘など（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/05/25184256/5a9480d44035697a0ea8bf91fbec56c0.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=576173",
-          "author": "watanabeyousuke",
-          "description": "テザーがジョージア政府支援の「GELT」発表 ステーブルコイン「USDT」発行元テザー（Tether）が、ジョージア政府（Georgia）の支援を受け、ジョージア・ラリ連動型ステーブルコイン「GELT」をローンチする計画 […]",
-          "link": "https://www.neweconomy.jp/posts/576173",
-          "publishedOn": "2026-05-25T09:29:39.000Z",
-          "wordCount": 750,
-          "title": "テザー、ジョージア政府支援のラリ連動型ステーブルコイン「GELT」提供へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/05/25182936/34ebb9cfca3e8357f49af86d989ebb36.jpg"
         }
       ]
     },
@@ -3839,36 +3869,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_1325157875.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=164462",
-          "author": "よきょい",
-          "description": "5月25日、ビットコイン（BTC）の価格は77,210ドル前後で推移しており、イーサリアム（ETH）は約2,110ドル、ソラナ（SOL）は約85ドルで取引されています。世界の暗号資産時価総額は2.66兆ドルで、ビットコイ […]\n投稿 【今日の仮想通貨ニュース】BTC価格と債権利回りが衝突。ETHの売り圧強まる は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-todays-cryptocurrency-news-for-may-25th/",
-          "publishedOn": "2026-05-25T09:29:56.000Z",
-          "wordCount": 603,
-          "title": "【今日の仮想通貨ニュース】BTC価格と債権利回りが衝突。ETHの売り圧強まる",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_2234351257.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=164396",
-          "author": "よきょい",
-          "description": "XRPレジャー（XRPL）のアップグレード「fixCleanup3_1_3」が5月27日に有効化される予定です。これはNFTやパーミッションド・ドメイン、ボルト、レンディングプロトコルの修正をまとめたメンテナンス的な更新 […]\n投稿 XRPLが5月27日にアップグレード、デフォルト投票は「賛成」 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-xrpl-will-be-upgraded-on-may-27th/",
-          "publishedOn": "2026-05-25T09:25:57.000Z",
-          "wordCount": 639,
-          "title": "XRPLが5月27日にアップグレード、デフォルト投票は「賛成」",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/05/shutterstock_2685312259.jpg"
         }
       ]
     }

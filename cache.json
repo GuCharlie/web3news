@@ -12,6 +12,36 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=355049",
+          "author": "廣瀬 優香",
+          "description": "世界最大級のデリバティブ取引所を運営するCME Group（CMEグループ）は6月9日、Nasdaq（ナスダック）と共同開発した暗号資産（仮想通貨）インデックス ...\nCME Group、暗号資産インデックス先物を開始──主要8銘柄指数が対象 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/355049/",
+          "publishedOn": "2026-06-11T01:45:00.000Z",
+          "wordCount": 1949,
+          "title": "CME Group、暗号資産インデックス先物を開始──主要8銘柄指数が対象",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/shutterstock_2546655961.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=353493",
+          "author": "橋本 祐樹",
+          "description": "伝統金融とブロックチェーンの融合が加速するなか、世界の機関投資家からひときわ高い注目を集めるネットワークがある。米Digital Asset（デジタルアセット） ...\n【独占】実需なきチェーンは「精算される」──Canton創設者が語った、伝統金融が求める”資産のコントロール権” first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/353493/",
+          "publishedOn": "2026-06-11T00:00:00.000Z",
+          "wordCount": 2666,
+          "title": "【独占】実需なきチェーンは「精算される」──Canton創設者が語った、伝統金融が求める”資産のコントロール権”",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/IMG_8168-scaled.jpeg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=355004",
+          "author": "Ibrahim Ajibade",
+          "description": "2026年5月に開催された「Africa Day Jakarta」で、EDENA Capital Partners（エデナ・キャピタル・パートナーズ）のCEOで ...\n【取材】アフリカ金融の次段階は「共通トークン化標準」へ──EDENA Capital CEOが語るステーブルコインの国外流出リスク first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/355004/",
+          "publishedOn": "2026-06-10T23:36:54.000Z",
+          "wordCount": 2270,
+          "title": "【取材】アフリカ金融の次段階は「共通トークン化標準」へ──EDENA Capital CEOが語るステーブルコインの国外流出リスク",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/image1_1200x800-4.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=354949",
           "author": "Ibrahim Ajibade",
           "description": "・ボストン・コンサルティング・グループ（BCG）は、ステーブルコインが現実的な預金流出リスクをもたらすと指摘する一方で、その普及には9兆ドル付近で自然な上限があ ...\nステーブルコインで銀行預金は流出するのか──BCG、普及上限は9兆ドル規模と試算【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -594,6 +624,81 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=716156",
+          "author": "Enzo",
+          "description": "CryptoRank.ioの集計によると、2026年第2四半期のIEO・ICO・IDO合計調達額は5,800万ドル（約93億円）と前四半期比85％減。販売件数も37件にとどまり、2025年Q1のピークから急落した背景を解説する。",
+          "link": "https://coinpost.jp/?p=716156",
+          "publishedOn": "2026-06-11T01:44:00.000Z",
+          "wordCount": 3700,
+          "title": "仮想通貨の新規トークン調達、Q2は85％減　5年ぶり最低水準か＝CryptoRank",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/03/ico03202.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/03/ico03202.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=716146",
+          "author": "菊谷ルイス",
+          "description": "米国政府がFTX・アラメダ研究所の押収資金から約98,590 LINK（約76.8万ドル）をコインベース・プライムへ送金したことが、10日のアーカムデータで明らかになった。トランプ政権の大統領令により、ビットコイン以外のアルトコインは引き続き売却対象となっている。",
+          "link": "https://coinpost.jp/?p=716146",
+          "publishedOn": "2026-06-11T01:25:10.000Z",
+          "wordCount": 3701,
+          "title": "米国政府がFTX押収のLINKトークンを売却か、1.2億円相当",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/whitehouse1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/whitehouse1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=716133",
+          "author": "Enzo",
+          "description": "分散型取引所レイディウムが廃止済みの旧AMM V3プログラムへの不正アクセスを確認。RAY・SOL・USDCなど約134万ドル（約2億1,500万円）相当が流出した。現行プログラムへの影響はなく、損失補填はレイディウムの財務から行うとしている。",
+          "link": "https://coinpost.jp/?p=716133",
+          "publishedOn": "2026-06-11T01:00:49.000Z",
+          "wordCount": 3730,
+          "title": "レイディウム、廃止済みプログラムが悪用　2億円超相当流出",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/hacking2_0402.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/hacking2_0402.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=716118",
+          "author": "A.Yamada",
+          "description": "クリプトクアントが仮想通貨市場の週間レポートを発表。ビットコインはバリューゾーンに近づいているものの、需要が落ち込んでおり強気転換の条件は揃っていないと指摘した。",
+          "link": "https://coinpost.jp/?p=716118",
+          "publishedOn": "2026-06-11T00:30:09.000Z",
+          "wordCount": 3724,
+          "title": "ビットコイン、バリューゾーン入りも需要縮小で底値は未確定＝クリプトクアント",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/bitcoin-world-marketcap-out-of-10.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/bitcoin-world-marketcap-out-of-10.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=716102",
+          "author": "K.Kobayashi",
+          "description": "リップル社は、XRPL上の開発者向けにAIエージェント決済用の開発ツールをローンチしたことを発表。AIエージェントは、仮想通貨領域の内外で注目を集めている技術である。",
+          "link": "https://coinpost.jp/?p=716102",
+          "publishedOn": "2026-06-10T23:30:42.000Z",
+          "wordCount": 3721,
+          "title": "リップル社、XRPL上のAIエージェント決済向けの開発ツールをローンチ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/07/ripple-1-20190716.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/07/ripple-1-20190716.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=716088",
           "author": "菊谷ルイス",

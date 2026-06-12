@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-06-12T19:01:37.587Z</updated>
+    <updated>2026-06-12T21:11:40.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SEC、株式取引保護規定の廃止を提案　DeFiでのトークン化株売買に道筋]]></title>
+        <id>https://coinpost.jp/?p=716922</id>
+        <link href="https://coinpost.jp/?p=716922"/>
+        <updated>2026-06-12T20:00:29.000Z</updated>
+        <summary type="html"><![CDATA[米SECが2005年以来の米株式市場構造を規定するルールの廃止を提案した。ギャラクシー・デジタルのリサーチ責任者は、自動マーケットメーカーを用いたトークン化米国株のDeFi取引における最大の構造的障壁が取り除かれる可能性があると考察。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【6/12話題】みんなの銀行とスラッシュが提携、スペースXが米史上最大IPO、暗号資産の金商法移管法案が衆議院で可決など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=582303</id>
@@ -2609,17 +2619,6 @@ Strategy、1550BTCを購入──32BTCの売却以来初めて first appeared on
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Galaxy、機関投資家向けOTC予測市場取引を開始──Arcaとの1,000万ドル取引と予測市場の「機関化」【MCB FinTechカタログ通信】]]></title>
-        <id>https://www.nadanews.com/?p=348782</id>
-        <link href="https://www.nadanews.com/348782/"/>
-        <updated>2026-06-08T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年6月2日、暗号資産金融大手のGalaxy Digitalが、機関投資家向けにOTC（店頭・相対）での予測市場取引を開始したことを発表しました。同社の機 ...
-Galaxy、機関投資家向けOTC予測市場取引を開始──Arcaとの1,000万ドル取引と予測市場の「機関化」【MCB FinTechカタログ通信】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>宮本航歩</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI対ビットコイン、電力を奪い合う｜漁夫の利は電力会社]]></title>
         <id>https://crypto-times.jp/?p=165429</id>
         <link href="https://crypto-times.jp/news-ai-vs-bitcoin-a-battle-for-electricity/"/>
@@ -2628,38 +2627,6 @@ Galaxy、機関投資家向けOTC予測市場取引を開始──Arcaとの1,00
 投稿 AI対ビットコイン、電力を奪い合う｜漁夫の利は電力会社 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTX、トランプ氏関連WLFIのステーブルコインUSD1を上場廃止へ]]></title>
-        <id>https://www.nadanews.com/?p=354652</id>
-        <link href="https://www.nadanews.com/354652/"/>
-        <updated>2026-06-08T07:40:05.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所HTXは6月6日、World Liberty Financial（ワールド・リバティ・ファイナンシャル、以下WLFI）が発行するステー ...
-HTX、トランプ氏関連WLFIのステーブルコインUSD1を上場廃止へ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネット株、年初来で半値割れ──優先株配当は総額8.7億円に増額]]></title>
-        <id>https://www.nadanews.com/?p=354620</id>
-        <link href="https://www.nadanews.com/354620/"/>
-        <updated>2026-06-08T07:14:02.000Z</updated>
-        <summary type="html"><![CDATA[メタプラネットは6月8日、B種優先株式について、2026年6月30日、9月30日、12月31日を基準日とする剰余金の配当を実施すると発表した。 1株当たりの配当 ...
-メタプラネット株、年初来で半値割れ──優先株配当は総額8.7億円に増額 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロシア中銀、一般投資家の暗号資産取引をBTC・ETH・USDTの3銘柄に限定へ]]></title>
-        <id>https://www.neweconomy.jp/?p=580628</id>
-        <link href="https://www.neweconomy.jp/posts/580628"/>
-        <updated>2026-06-08T07:09:47.000Z</updated>
-        <summary type="html"><![CDATA[購入上限は30万ルーブル ロシア中央銀行のウラジーミル・チスチュヒン（Vladimir Chistyukhin）第一副総裁は、非プロ・非適格投資家が取引できる暗号資産（仮想通貨）を、ビットコイン（BTC）、イーサリアム（ […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
         </author>
     </entry>
     <entry>

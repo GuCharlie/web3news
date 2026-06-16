@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=355823",
+          "author": "エックスウィン",
+          "description": "● エックスウィンの米国マーケットアナリストであるデリア・ロホ氏によると、CLARITY法案の議論は暗号資産規制ではなく、DeFiやオンチェーン金融を既存金融シ ...\nCLARITY法案の本当の意味──アメリカはビットコインではなく「オンチェーン金融」を制度化しようとしている【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/355823/",
+          "publishedOn": "2026-06-16T22:15:00.000Z",
+          "wordCount": 1977,
+          "title": "CLARITY法案の本当の意味──アメリカはビットコインではなく「オンチェーン金融」を制度化しようとしている【エックスウィン】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/nadanews_top-2026-06-17T065753.548.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=355821",
           "author": "井上 俊彦",
           "description": "超党派の米上院議員グループは6月16日、Scott Bessent（スコット・ベッセント）財務長官に書簡を送り、ステーブルコイン規制を巡り各州の権限を維持するよ ...\n米超党派議員、ステーブルコイン規制で州の権限維持を財務省に要請 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -480,16 +490,6 @@
           "wordCount": 2039,
           "title": "日銀利上げはビットコインに何をもたらすのか──日本の金融正常化と暗号資産市場の行方【エックスウィン】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/nadanews_top-2026-06-13T064811.445.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=355402",
-          "author": "NADA NEWS編集部",
-          "description": "※当サイト内のリンクから各暗号資産交換業者の口座開設を行うと、当社は対価として広告収入を得ることがあります。 暗号資産（仮想通貨）取引所のSBI VCトレードは ...\n【7/10まで】全員に500円＆抽選で5万円相当のBTCが当たる！SBI VCトレードがキャンペーン実施 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/355402/",
-          "publishedOn": "2026-06-12T11:35:45.000Z",
-          "wordCount": 1850,
-          "title": "【7/10まで】全員に500円＆抽選で5万円相当のBTCが当たる！SBI VCトレードがキャンペーン実施",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/9fb9294a0d2129eb07f9b3993f993579.jpg"
         }
       ]
     },
@@ -504,6 +504,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=717679",
+          "author": "菊谷ルイス",
+          "description": "リップルがアフリカ最大の決済インフラ企業フラッターウェーブのシリーズEに戦略投資した。ステーブルコインRLUSDとXRPレジャーを同社の決済網に統合し、アフリカ域内の国際送金コスト削減とリアルタイム決済の実現を目指す。",
+          "link": "https://coinpost.jp/?p=717679",
+          "publishedOn": "2026-06-16T23:25:34.000Z",
+          "wordCount": 3681,
+          "title": "リップル、アフリカ最大決済インフラ『Flutterwave』に戦略投資",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103003.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103003.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=717680",
+          "author": "菊谷ルイス",
+          "description": "スペースXがAIコーディングエージェント「カーソル」の開発元アニースフィアを600億ドルの株式交換で買収すると発表した。IPO直後の大型買収で、同社のAI分野での競争力強化を図る。",
+          "link": "https://coinpost.jp/?p=717680",
+          "publishedOn": "2026-06-16T22:25:36.000Z",
+          "wordCount": 3685,
+          "title": "スペースXがカーソル親会社を9.6兆円で買収、IPO直後にAI強化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/06/spacex-ipo-hyperliquid-binance.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/06/spacex-ipo-hyperliquid-binance.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=717681",
           "author": "菊谷ルイス",

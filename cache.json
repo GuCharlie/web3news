@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=355688",
+          "author": "井上 俊彦",
+          "description": "暗号資産（仮想通貨）取引所のKraken（クラーケン）は6月15日、アメリカの対象顧客向けに、アメリカ商品先物取引委員会（CFTC）の規制下にある暗号資産の永久 ...\nKraken、米CFTC規制下で暗号資産「永久先物」の提供を開始 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/355688/",
+          "publishedOn": "2026-06-16T00:00:00.000Z",
+          "wordCount": 1842,
+          "title": "Kraken、米CFTC規制下で暗号資産「永久先物」の提供を開始",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2023/11/shutterstock_2262358613.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=355685",
+          "author": "井上 俊彦",
+          "description": "イーサリアム（ETH）トレジャリー企業のBitmine Immersion Technologies（ビットマイン・イマージョン・テクノロジーズ）は6月15日、 ...\nBitmine、7万6881ETHを購入──総保有資産は104億ドルに first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/355685/",
+          "publishedOn": "2026-06-15T23:00:00.000Z",
+          "wordCount": 1821,
+          "title": "Bitmine、7万6881ETHを購入──総保有資産は104億ドルに",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2670924417.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=355691",
           "author": "エックスウィン",
           "description": "● CryptoQuantは新たに「Alpha Library」を公開し、オンチェーン、テクニカル、投資家心理、バリュエーション指標を統合的に分析できる仕組みを ...\nビットコイン市場は本当に底打ちしたのか──CryptoQuantの新分析ツールが示す市場の現在地【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -554,6 +574,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=717346",
+          "author": "A.Yamada",
+          "description": "米仮想通貨取引所コインベースのCEOがビットコインの底打ちを示唆した。4年サイクル説を根拠に楽観的見解を維持し、2030年の大幅上昇を予想している。",
+          "link": "https://coinpost.jp/?p=717346",
+          "publishedOn": "2026-06-16T01:12:37.000Z",
+          "wordCount": 3714,
+          "title": "「ビットコインは底を打った可能性」コインベースCEOが4年サイクル説を支持",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/bitcoin-crash-dca-20260414-1-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/bitcoin-crash-dca-20260414-1-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=717352",
+          "author": "Austin Mwendia",
+          "description": "ナイジェリア上院が仮想通貨事業者へのライセンス取得を義務付ける規制法案を可決。同国の仮想通貨受取額は2023〜24年に590億ドルに達しており、法整備の遅れが課題とされていた。審議は4週間以内に上院資本市場委員会が結論を出す。",
+          "link": "https://coinpost.jp/?p=717352",
+          "publishedOn": "2026-06-16T01:00:29.000Z",
+          "wordCount": 3703,
+          "title": "ナイジェリア上院、仮想通貨規制法案を可決　ライセンス制度の導入へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/nigeria-first-hotel-bitcoin-payment.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/nigeria-first-hotel-bitcoin-payment.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=717345",
+          "author": "菊谷ルイス",
+          "description": "スタンダードチャータードがユニスワップの評価カバレッジを開始し、UNIトークンが2030年末までに現在価格の約34倍にあたる100ドルへ上昇するとの見通しを示した。トークン化資産のDeFi流入拡大と手数料バーン機構が根拠となっている。",
+          "link": "https://coinpost.jp/?p=717345",
+          "publishedOn": "2026-06-16T00:30:15.000Z",
+          "wordCount": 3709,
+          "title": "スタンダードチャータード、ユニスワップのUNIトークン2030年末100ドルを予測",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/uniswap-genes.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/uniswap-genes.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=717333",
+          "author": "K.Kobayashi",
+          "description": "予測市場プラットフォームのカルシは6月8日からの週に、名目の週次取引高が8,240億円超に達して過去最高額を更新。11日からはサッカーのワールドカップが開幕している。",
+          "link": "https://coinpost.jp/?p=717333",
+          "publishedOn": "2026-06-15T23:05:48.000Z",
+          "wordCount": 3701,
+          "title": "カルシ、サッカーのワールドカップ開幕週に取引高が過去最高に　8240億円超規模",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/new-prediction-market-vc-kalshi-poly.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/new-prediction-market-vc-kalshi-poly.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=717305",
           "author": "菊谷ルイス",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-06-16T11:03:46.063Z</updated>
+    <updated>2026-06-16T16:08:27.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【6/16話題】北陸銀行とディーカレットDCPがDCJPY決済事業の商用化へ、KuraPrivacyローンチプログラム開始、ストラテジーとビットマインの追加取得など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=583340</id>
+        <link href="https://www.neweconomy.jp/posts/583340"/>
+        <updated>2026-06-16T14:52:03.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【今日の仮想通貨ニュース】人気NFTゲームが公開1年未満で突如終了。ソラナ財務企業に再編の波]]></title>
         <id>https://crypto-times.jp/?p=166037</id>
@@ -37,6 +47,16 @@ AIエージェントとJPYCを活用した健康経営実証へ──歩数達�
 UFCイベントの選手ボーナス、トランプ氏関連WLFIのステーブルコインUSD1で支給 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>廣瀬 優香</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[セイラー氏、ビットコイン上に信用・通貨・株式を積む新金融構造を提唱]]></title>
+        <id>https://coinpost.jp/?p=717600</id>
+        <link href="https://coinpost.jp/?p=717600"/>
+        <updated>2026-06-16T08:31:08.000Z</updated>
+        <summary type="html"><![CDATA[ストラテジー会長のマイケル・セイラー氏が6月16日、ビットコインをデジタル資本の基盤層と位置づけ、その上にデジタルクレジット・デジタルマネー・デジタルイールド・デジタルエクイティを積み上げる5層構造の資本市場論をXで発表した。STRCやMSTRの役割も解説している。]]></summary>
+        <author>
+            <name>Enzo</name>
         </author>
     </entry>
     <entry>
@@ -147,6 +167,16 @@ Benchmark、SECのNMS規則撤廃案を「今年最重要の暗号資産規制�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[イーサリアム、開発者数が累計100万人超　量子耐性・L2統合が次の焦点]]></title>
+        <id>https://coinpost.jp/?p=717552</id>
+        <link href="https://coinpost.jp/?p=717552"/>
+        <updated>2026-06-16T06:53:15.000Z</updated>
+        <summary type="html"><![CDATA[元ブラックロック デジタル資産戦略部門長のジョセフ・チャローム氏がアジア視察後に発信した論考で、イーサリアムの累計開発者数が101万人超に達したと指摘。次期アップグレード「グラムスターダム」や量子耐性対応も解説する。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[北陸銀行とディーカレットDCP、「DCJPY」決済事業の商用化へ基本合意]]></title>
         <id>https://www.neweconomy.jp/?p=583209</id>
         <link href="https://www.neweconomy.jp/posts/583209"/>
@@ -154,6 +184,16 @@ Benchmark、SECのNMS規則撤廃案を「今年最重要の暗号資産規制�
         <summary type="html"><![CDATA[2027年度中のサービス開始目指す ほくほくフィナンシャルグループ傘下の北陸銀行とディーカレットDCPが、デジタル通貨「DCJPY」を活用したデジタル通貨決済事業の検討に向け、基本合意書を締結したと6月16日に発表した。 […]]]></summary>
         <author>
             <name>NewEconomy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナDAT最大手フォワード・インダストリーズ、競合3社に買収提案も全社拒否　業界再編は難航]]></title>
+        <id>https://coinpost.jp/?p=717487</id>
+        <link href="https://coinpost.jp/?p=717487"/>
+        <updated>2026-06-16T06:32:44.000Z</updated>
+        <summary type="html"><![CDATA[ソラナトレジャリー企業最大手のフォワード・インダストリーズが、業界再編を視野にソラナ・カンパニーやスカイAIなど競合3社に統合を提案したが、いずれも拒否または無回答に終わった。]]></summary>
+        <author>
+            <name>幸田直子</name>
         </author>
     </entry>
     <entry>
@@ -294,6 +334,16 @@ Hyperliquid上のVentualsが終了へ──OpenAI・Anthropic連動無期限先�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[アステリア、企業向けJPYC管理サービスが対応ウォレット6種を発表　メタマスクやFireblocksなど]]></title>
+        <id>https://coinpost.jp/?p=717493</id>
+        <link href="https://coinpost.jp/?p=717493"/>
+        <updated>2026-06-16T04:57:32.000Z</updated>
+        <summary type="html"><![CDATA[アステリアが企業向けJPYC入出金管理サービス「JPYC Gateway」の対応ウォレット制度を発表。標準搭載の「Dynamic」に加え、メタマスクやFireblocks、N Suiteなど4種を公認ウォレットに認定。先着100社に無償提供のハードウェアウォレットも含まれる。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[米議会、仮想通貨盗難タスクフォース新設へ｜被害110億ドル超]]></title>
         <id>https://crypto-times.jp/?p=166048</id>
         <link href="https://crypto-times.jp/news-us-congress-to-establish-new-task-force-on-cryptocurrency-theft/"/>
@@ -313,6 +363,16 @@ Hyperliquid上のVentualsが終了へ──OpenAI・Anthropic連動無期限先�
 投稿 1.2億ドルの不審資金、テザー社が一部凍結｜4800万USDTは秘匿先へ は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハイパーリキッドの米国の現物ETF、上場から1カ月が経過　純流入額は計約245億円に]]></title>
+        <id>https://coinpost.jp/?p=717413</id>
+        <link href="https://coinpost.jp/?p=717413"/>
+        <updated>2026-06-16T04:02:10.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ハイパーリキッドの米国の現物ETFは、取引開始後約1カ月が経過。資金の純流入額（15日付）が1.7億ドル相当となるなど、ETFのスタートに関する評価では有識者らから肯定的な見方も上がっている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
         </author>
     </entry>
     <entry>
@@ -338,6 +398,16 @@ Hyperliquid上のVentualsが終了へ──OpenAI・Anthropic連動無期限先�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[半導体主導インフレがビットコインに与える影響は？　バイナンスリサーチ分析]]></title>
+        <id>https://coinpost.jp/?p=717394</id>
+        <link href="https://coinpost.jp/?p=717394"/>
+        <updated>2026-06-16T03:45:02.000Z</updated>
+        <summary type="html"><![CDATA[バイナンスのリサーチ部門が、AI需要による半導体不足など3つの構造的インフレ要因を指摘。短期はビットコインに逆風、長期はハードアセットとしての重要性が増すと見解を示した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ストラテジー社、約160億円のBTC追加｜株式希薄化の懸念も]]></title>
         <id>https://crypto-times.jp/?p=166049</id>
         <link href="https://crypto-times.jp/news-strategy-inc-adds-approximately-16-billion-yen-worth-of-btc/"/>
@@ -346,6 +416,16 @@ Hyperliquid上のVentualsが終了へ──OpenAI・Anthropic連動無期限先�
 投稿 ストラテジー社、約160億円のBTC追加｜株式希薄化の懸念も は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ジンバブエ、仮想通貨事業者の登録制度を導入　登録料500ドル、未登録は刑事罰]]></title>
+        <id>https://coinpost.jp/?p=717365</id>
+        <link href="https://coinpost.jp/?p=717365"/>
+        <updated>2026-06-16T01:45:55.000Z</updated>
+        <summary type="html"><![CDATA[ジンバブエが仮想通貨事業者に対する初の登録制度を導入。財務省令により、売買・送金・保管等のサービスを提供する企業は金融情報機関への登録が義務化され、未登録での営業は刑事訴追の対象となる。]]></summary>
+        <author>
+            <name>Austin Mwendia</name>
         </author>
     </entry>
     <entry>
@@ -1794,153 +1874,6 @@ BlackRockのインカム型ビットコインETF「BITA」、上場迫る──�
         <summary type="html"><![CDATA[仮想通貨イーサリアムのL2アービトラムは、韓国大手LGがアービトラム上で試験的に広告ネットワークを開発していることをXで公表。独自ブロックチェーンを開発している模様だ。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[レイディウムで約134万ドルの資金流出、2021年に廃止の旧AMM V3が被害に]]></title>
-        <id>https://www.neweconomy.jp/?p=582169</id>
-        <link href="https://www.neweconomy.jp/posts/582169"/>
-        <updated>2026-06-12T03:45:41.000Z</updated>
-        <summary type="html"><![CDATA[レイディウム旧AMM V3で約134万ドル被害 ソラナ（Solana）基盤の分散型取引所（DEX）レイディウム（Raydium）の旧自動マーケットメーカー（AMM）プログラムにおいて、不正な流動性引き出しが発生した。レイ […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、「戦争終結」発言でリスクオン　今晩SpaceX株動向に注目【楽天ウォレットDaily Report】]]></title>
-        <id>https://www.nadanews.com/?p=355277</id>
-        <link href="https://www.nadanews.com/355277/"/>
-        <updated>2026-06-12T03:31:43.000Z</updated>
-        <summary type="html"><![CDATA[ポイント ・6.3万ドル台へ回復・トランプの空爆→中止劇でリスクオン、原油は封鎖宣言の影響薄く下落・イランは海峡の実効支配失いつつあり、トランプは「戦争終結」と ...
-ビットコイン、「戦争終結」発言でリスクオン　今晩SpaceX株動向に注目【楽天ウォレットDaily Report】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>松田康生</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slash Visionとみんなの銀行が基本合意──日本円とUSDCをつなぐ決済導線を構築へ]]></title>
-        <id>https://www.nadanews.com/?p=355269</id>
-        <link href="https://www.nadanews.com/355269/"/>
-        <updated>2026-06-12T03:30:14.000Z</updated>
-        <summary type="html"><![CDATA[ステーブルコイン決済サービスを手がけるSlash Visionは6月12日、みんなの銀行と、ステーブルコイン決済ソリューションの価値共創に向けた基本合意書を締結 ...
-Slash Visionとみんなの銀行が基本合意──日本円とUSDCをつなぐ決済導線を構築へ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[みんなの銀行とスラッシュが提携、ステーブルコイン決済ソリューション共同開発へ]]></title>
-        <id>https://www.neweconomy.jp/?p=582140</id>
-        <link href="https://www.neweconomy.jp/posts/582140"/>
-        <updated>2026-06-12T02:47:08.000Z</updated>
-        <summary type="html"><![CDATA[みんなの銀行とスラッシュが提携 ふくおかフィナンシャルグループ傘下のみんなの銀行とステーブルコイン決済ソリューション提供のスラッシュビジョン（SLASH VISION）による、ステーブルコイン決済ソリューションにおける戦 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米銀行団体、クラリティ法案に反対する広告キャンペーンを展開]]></title>
-        <id>https://www.nadanews.com/?p=355252</id>
-        <link href="https://www.nadanews.com/355252/"/>
-        <updated>2026-06-12T02:35:00.000Z</updated>
-        <summary type="html"><![CDATA[地域銀行を代表する全米独立コミュニティ銀行家協会（ICBA）は6月11日、暗号資産（仮想通貨）業界を対象とした新たな広告キャンペーンを発表した。 銀行業界と同水 ...
-米銀行団体、クラリティ法案に反対する広告キャンペーンを展開 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨運用をAIに任せる時代、本格到来か｜コインベースが新製品]]></title>
-        <id>https://crypto-times.jp/?p=165750</id>
-        <link href="https://crypto-times.jp/news-coinbase-for-agents-ai-trade-portfolio-x402/"/>
-        <updated>2026-06-12T02:34:43.000Z</updated>
-        <summary type="html"><![CDATA[米仮想通貨取引所大手のCoinbase（コインベース）はAIエージェントがユーザーの口座に直接接続し、仮想通貨の取引やポートフォリオ管理、決済を自律的に実行できる新プロダクト「Coinbase for Agents」を発 […]
-投稿 仮想通貨運用をAIに任せる時代、本格到来か｜コインベースが新製品 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米大手スタートアップ支援YCがクラリティー法支持　「全社が仮想通貨を使う」]]></title>
-        <id>https://coinpost.jp/?p=716600</id>
-        <link href="https://coinpost.jp/?p=716600"/>
-        <updated>2026-06-12T02:04:43.000Z</updated>
-        <summary type="html"><![CDATA[米スタートアップ支援のYコンビネーター（YC）が、米クラリティー法の上院本会議通過を強く支持。仮想通貨・ステーブルコイン技術はやがて全企業が活用すると訴えた。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【速報】暗号資産の金商法改正案、衆院本会議で可決]]></title>
-        <id>https://www.nadanews.com/?p=355255</id>
-        <link href="https://www.nadanews.com/355255/"/>
-        <updated>2026-06-12T01:38:24.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）の規制を金融商品取引法（金商法）へ移管する改正法案が、6月11日の衆議院本会議で可決された。10日の財務金融委員会での可決を受けたもので、法 ...
-【速報】暗号資産の金商法改正案、衆院本会議で可決 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>栃山 直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米超党派議員、仮想通貨盗難対策を強化する法案提出　司法省内にタスクフォース設置目指す]]></title>
-        <id>https://coinpost.jp/?p=716538</id>
-        <link href="https://coinpost.jp/?p=716538"/>
-        <updated>2026-06-12T01:15:06.000Z</updated>
-        <summary type="html"><![CDATA[米共和・民主両党の下院議員が「仮想通貨窃盗取締・協調法案」を提出。司法省内に専門タスクフォースを設置し、複数省庁の連携強化と被害防止を目指す。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アバランチ特化のトレジャリー企業、ナスダックに上場　AVAX約3.5％保有]]></title>
-        <id>https://coinpost.jp/?p=716546</id>
-        <link href="https://coinpost.jp/?p=716546"/>
-        <updated>2026-06-12T00:44:52.000Z</updated>
-        <summary type="html"><![CDATA[アバランチ（AVAX）に特化したトレジャリー企業アバランチ・トレジャリーが11日、ティッカー「AVAT」でナスダックに上場。時価総額6億7500万ドル超のSPAC合併を経て、AVAX約1500万トークンを保有。単純な資産積み立てにとどまらないエコシステム投資モデルを掲げる。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワールドカップ予想ゲームで最大100万ドル規模の賞金プール──TopNod、Pharosとキャンペーン開始]]></title>
-        <id>https://www.nadanews.com/?p=355214</id>
-        <link href="https://www.nadanews.com/355214/"/>
-        <updated>2026-06-12T00:34:35.000Z</updated>
-        <summary type="html"><![CDATA[ノンカストディアル（非預託型）のデジタルウォレットを提供するTopNod（トップノッド）は6月11日、金融・AI向けレイヤー1ブロックチェーンのPharos（フ ...
-ワールドカップ予想ゲームで最大100万ドル規模の賞金プール──TopNod、Pharosとキャンペーン開始 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAT企業ナカモト、600BTC売却で72億円債務返済]]></title>
-        <id>https://coinpost.jp/?p=716513</id>
-        <link href="https://coinpost.jp/?p=716513"/>
-        <updated>2026-06-12T00:30:26.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン運用企業のナカモトが約600BTCを売却して4,500万ドルの債務を返済し、ローン残高の大半を2027年6月まで延長した。最大2,500万ドルの自社株買いプログラムも承認している。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HashPortとBOOSTRY、セキュリティ・トークン向け優待トークンで共同検討を開始]]></title>
-        <id>https://www.nadanews.com/?p=355205</id>
-        <link href="https://www.nadanews.com/355205/"/>
-        <updated>2026-06-11T23:34:42.000Z</updated>
-        <summary type="html"><![CDATA[HashPort（ハッシュポート）は6月11日、BOOSTRY（ブーストリー）と、セキュリティ・トークン（ST）とアンホステッドウォレットの連携に向けた業務提携 ...
-HashPortとBOOSTRY、セキュリティ・トークン向け優待トークンで共同検討を開始 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPモルガン分析、ビットコインの通貨価値切り下げトレード後退が加速]]></title>
-        <id>https://coinpost.jp/?p=716514</id>
-        <link href="https://coinpost.jp/?p=716514"/>
-        <updated>2026-06-11T23:10:28.000Z</updated>
-        <summary type="html"><![CDATA[JPモルガンのアナリストは、ビットコインと金を対象とした通貨価値切り下げトレードからの資金流出が加速していると報告した。金現物ETFは6月5日週に約200億ドルの流出を記録している。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>

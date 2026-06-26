@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=357127",
+          "author": "Ibrahim Ajibade",
+          "description": "・SharpLinkは8カ月ぶりにイーサリアム（ETH）の購入を再開し、5000ETHを取得した。これにより、同社のETH保有量は87万6000ETH超に拡大し ...\nSharpLink株が4％下落──8カ月ぶりETH購入再開も含み損懸念が重荷に【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/357127/",
+          "publishedOn": "2026-06-26T13:43:45.000Z",
+          "wordCount": 2407,
+          "title": "SharpLink株が4％下落──8カ月ぶりETH購入再開も含み損懸念が重荷に【価格分析】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/image1_1200x800-12.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=357193",
           "author": "NADA NEWS編集部",
           "description": "※当サイト内のリンクから各暗号資産交換業者の口座開設を行うと、当社は対価として広告収入を得ることがあります。 コインチェック（Coincheck）は6月26日、 ...\n【7/11まで】最大2000円相当のETHがもらえる！コインチェック、つみたてキャンペーン開始 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -760,16 +770,6 @@
           "wordCount": 1907,
           "title": "今週が勝負の週となるCLARITY法案、アメリカ暗号資産市場の未来は決まるのか【サンフランシスコ レポート】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/sanfrancisco_market_report.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=356391",
-          "author": "井上 俊彦",
-          "description": "暗号資産（仮想通貨）取引所Coinbase（コインベース）が支援するイーサリアム（Ethereum）のレイヤー2チェーン「Base（ベース）」は19日、2回目の ...\nBase、「Beryl」アップグレードをメインネット実装へ first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/356391/",
-          "publishedOn": "2026-06-22T00:30:00.000Z",
-          "wordCount": 1822,
-          "title": "Base、「Beryl」アップグレードをメインネット実装へ",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/544976cb33388145f0e5fd0bb93140b39441ea926873827d4c1b117c16d6ae05.jpg"
         }
       ]
     },
@@ -1923,51 +1923,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/polymarket-valuation.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/polymarket-valuation.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=718714",
-          "author": "Enzo",
-          "description": "香港投委会と香港理工大学の追跡研究で、仮想通貨投資家の行動類型4種が判明。最多は「追随・塩漬け型」（33.9％）で18〜29歳と女性比率が高く、市場ムードに流されやすい特徴を持つ。2023年の規制導入後、非合理的行動は全体的に改善傾向。",
-          "link": "https://coinpost.jp/?p=718714",
-          "publishedOn": "2026-06-22T01:24:24.000Z",
-          "wordCount": 3702,
-          "title": "香港の仮想通貨投資家、「追随・塩漬け型」が最多　女性比率も高",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/stock-exchange-gbe3813449_1920.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/stock-exchange-gbe3813449_1920.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=718687",
-          "author": "A.Yamada",
-          "description": "「金持ち父さん貧乏父さん」著者ロバート・キヨサキ氏が、金・銀・ビットコイン・イーサリアムについて、下落からの反転を確認後に買い増す方針を明らかにした。",
-          "link": "https://coinpost.jp/?p=718687",
-          "publishedOn": "2026-06-22T00:33:33.000Z",
-          "wordCount": 3194,
-          "title": "キヨサキ氏、「金、銀、ビットコイン、イーサリアムを価格反転時に購入」と発言",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/rich-dad-poor-dad-book-cover-kiyosaki.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/rich-dad-poor-dad-book-cover-kiyosaki.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=718683",
-          "author": "Enzo",
-          "description": "ギャラクシー・リサーチが6月20日に公表したデータによると、米国のビットコイン現物ETFの直近30日間純流出額が約64億ドルと、ETF承認来で最大規模に達した。累積純流入も630億ドルのピークから約90億ドル減少している。",
-          "link": "https://coinpost.jp/?p=718683",
-          "publishedOn": "2026-06-21T23:55:37.000Z",
-          "wordCount": 3709,
-          "title": "ビットコイン現物ETF、30日純流出が過去最大　約64億ドル＝ギャラクシー",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/etf-thursday-.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/etf-thursday-.jpeg"
         }
       ]
     },
@@ -1976,6 +1931,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=587358",
+          "author": "NewEconomyPodcast",
+          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/587358",
+          "publishedOn": "2026-06-26T13:41:56.000Z",
+          "wordCount": 773,
+          "title": "【6/26話題】野村HDとサークルが協業へ、Baseが約2時間ブロック生成停止、ハイリキ分析レポート公開など（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/06/26224135/8b0c3093b0a3a2413df8d04224ce0980.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=587207",
           "author": "mikajirikoka",
@@ -3169,6 +3134,16 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/06/shutterstock_2077303519-1.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=166948",
+          "author": "Crypto Times 編集部",
+          "description": "Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 BitradeXは、2010年FIFAワールドカップ優勝メンバーであり […]\n投稿 David Villa氏、BitradeXのグローバル・ブランドアンバサダーに就任 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/press-david-villa-bitradex/",
+          "publishedOn": "2026-06-26T10:57:41.000Z",
+          "wordCount": 584,
+          "title": "David Villa氏、BitradeXのグローバル・ブランドアンバサダーに就任",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-25-at-21.28.56.jpeg"
         },
         {
           "id": "https://crypto-times.jp/?p=166929",

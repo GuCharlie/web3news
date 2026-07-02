@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=357972",
+          "author": "Shoko Galaviz",
+          "description": "トークン化資産を手がけるSecuritize（セキュリタイズ）は、ニューヨーク証券取引所（NYSE）での取引開始初日に、自社の普通株式をブロックチェーン上でトー ...\nSecuritize、NYSE上場初日に自社株SECZをトークン化 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/357972/",
+          "publishedOn": "2026-07-02T21:00:00.000Z",
+          "wordCount": 1943,
+          "title": "Securitize、NYSE上場初日に自社株SECZをトークン化",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/Securitize-Home-page-4-990x660-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=357899",
           "author": "平木 昌宏",
           "description": "IVS2026 CRYPTO ZONE Powered by NADA NEWSで7月2日、パネルセッション「トークン化MMFから始まる金融の再構築──『ウォー ...\n金融トークン化、次の主役は誰か──アセマネ3社が激論【IVS2026 CRYPTO ZONE】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -744,6 +754,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=721787",
+          "author": "菊谷ルイス",
+          "description": "#cp-summary-2025{all:revert;box-sizing:border-box;width:100%;background:#f8f9fb;border-left:3pxsolid#0d2d4f;border-radiu...",
+          "link": "https://coinpost.jp/?p=721787",
+          "publishedOn": "2026-07-02T21:10:24.000Z",
+          "wordCount": 3680,
+          "title": "セキュリタイズが米NYSE上場、自社株を初日にトークン化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/securitize-stock-token-solana-avalanche.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/securitize-stock-token-solana-avalanche.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=721788",
+          "author": "菊谷ルイス",
+          "description": "JPモルガンは2日、ストラテジーのビットコイン売却方針が仮想通貨市場に回避可能な双方向リスクをもたらすと指摘した。現行約17ヶ月分の現金準備金を24〜36ヶ月分に拡充するよう求めている。",
+          "link": "https://coinpost.jp/?p=721788",
+          "publishedOn": "2026-07-02T20:55:25.000Z",
+          "wordCount": 3701,
+          "title": "ストラテジーのビットコイン売却方針、価格変動リスクを拡大＝JPモルガン",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/JPMorgan-Logo.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/JPMorgan-Logo.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=721776",
+          "author": "菊谷ルイス",
+          "description": "SBIグループ傘下のSBIクリプトは2日、ビットコインマイニングプールを7月31日に終了すると発表した。ネットワーク全体の約2.2%のハッシュレートを占める同プールは2021年の開設から約5年で閉鎖となる。",
+          "link": "https://coinpost.jp/?p=721776",
+          "publishedOn": "2026-07-02T20:00:45.000Z",
+          "wordCount": 3694,
+          "title": "SBIクリプト、ビットコインマイニングプールを7月末に終了",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-mining-13-nations.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-mining-13-nations.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=721751",
           "author": "Enzo",

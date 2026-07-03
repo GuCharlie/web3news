@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-07-03T11:30:21.604Z</updated>
+    <updated>2026-07-03T13:54:08.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウォレットが顧客接点になる時代──PayPay、LINE NEXT、au Coincheck DAが描く決済の未来【IVS2026 CRYPTO ZONE】]]></title>
+        <id>https://www.nadanews.com/?p=357940</id>
+        <link href="https://www.nadanews.com/357940/"/>
+        <updated>2026-07-03T13:32:03.000Z</updated>
+        <summary type="html"><![CDATA[IVS2026 CRYPTO ZONE Powered by NADA NEWSは7月1日、パネルセッション「ウォレットは、次世代スーパーアプリの本命か」を開催 ...
+ウォレットが顧客接点になる時代──PayPay、LINE NEXT、au Coincheck DAが描く決済の未来【IVS2026 CRYPTO ZONE】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>NADA NEWS編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ氏、一族の仮想通貨収益に「違法性は一切ない」]]></title>
         <id>https://crypto-times.jp/?p=167505</id>
@@ -2964,57 +2975,6 @@ Circle、野村ホールディングスとデジタル金融で協業へ──�
 米民主党下院議員、401kでの暗号資産投資を解禁する規則案の撤回要求 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIS年次報告、ステーブルコインは「貨幣の要件を満たさず」]]></title>
-        <id>https://coinpost.jp/?p=720563</id>
-        <link href="https://coinpost.jp/?p=720563"/>
-        <updated>2026-06-29T01:40:30.000Z</updated>
-        <summary type="html"><![CDATA[BISが2026年版年次経済報告書でステーブルコインの構造的課題を指摘。貨幣の等価交換性の欠如や金融安定リスクを分析し、中央銀行主導の統合台帳構想を次世代通貨システムの道筋として提言した。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハイパーリキッド、USDH運用終了に伴い　総額16億円の移行助成金を支給]]></title>
-        <id>https://coinpost.jp/?p=720533</id>
-        <link href="https://coinpost.jp/?p=720533"/>
-        <updated>2026-06-29T01:00:43.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ハイパーリキッドを支援するハイプ財団が、ステーブルコインUSDH運用終了とUSDCへの移行に対応するため総額約1,000万ドルの助成金を提供すると発表した。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、損切り売りが急拡大　アナリストが降参局面と指摘]]></title>
-        <id>https://coinpost.jp/?p=720539</id>
-        <link href="https://coinpost.jp/?p=720539"/>
-        <updated>2026-06-29T00:31:06.000Z</updated>
-        <summary type="html"><![CDATA[CryptoQuantのオンチェーンデータを分析するDarkfost氏が、ビットコインのUTXO損益比率が過去の弱気相場底値圏に匹敵する水準へ低下したと指摘。損切り売りの急拡大が降参局面の始まりを示すとした。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Securitize、SPAC合併で約4億ドルを調達──7月2日にNYSE上場へ]]></title>
-        <id>https://www.nadanews.com/?p=357334</id>
-        <link href="https://www.nadanews.com/357334/"/>
-        <updated>2026-06-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[RWA（現実資産）トークン化プラットフォームのSecuritize（セキュリタイズ）は6月26日、Cantor Fitzgerald（キャンター・フィッツジェラ ...
-Securitize、SPAC合併で約4億ドルを調達──7月2日にNYSE上場へ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サムソン・モウ「ビットコインの底は付いた」、サイクル加速論　見方は割れる]]></title>
-        <id>https://coinpost.jp/?p=720523</id>
-        <link href="https://coinpost.jp/?p=720523"/>
-        <updated>2026-06-28T23:39:46.000Z</updated>
-        <summary type="html"><![CDATA[JAN3のサムソン・モウCEOが「ビットコインの底値はすでに確認された」と主張。2024年半減期の37日前にATHを更新した事実を根拠に、4年サイクルの加速を指摘。追加下落を見込むアナリストとの見方の相違を解説する。]]></summary>
-        <author>
-            <name>Enzo</name>
         </author>
     </entry>
     <entry>

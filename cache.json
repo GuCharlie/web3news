@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=358262",
+          "author": "NADA NEWS編集部",
+          "description": "企業の財務・経営層、専門家必見の最新トレンドを徹底解説 セキュリティ・トークン（ST、デジタル証券）市場は、これまでの不動産STを中心とした枠組みにとどまらず、 ...\n【7/30開催】セキュリティトークン、税制改正で何が変わったのか？ ―受益証券発行信託の「いま」を会計・税務の専門家が読み解く first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/358262/",
+          "publishedOn": "2026-07-08T01:00:00.000Z",
+          "wordCount": 2760,
+          "title": "【7/30開催】セキュリティトークン、税制改正で何が変わったのか？ ―受益証券発行信託の「いま」を会計・税務の専門家が読み解く",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/07/1200-x-800-px.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=358546",
           "author": "井上 俊彦",
           "description": "Grayscale（グレイスケール）の調査部門トップ、Zach Pandl（ザック・パンドル）氏は7月6日付のレポートで、Strategy（ストラテジー）による ...\nStrategyによる売却がビットコインに底値をもたらす＝Grayscale first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -490,16 +500,6 @@
           "wordCount": 2003,
           "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.2】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/shutterstock_2764362281-scaled.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=357940",
-          "author": "NADA NEWS編集部",
-          "description": "IVS2026 CRYPTO ZONE Powered by NADA NEWSは7月1日、パネルセッション「ウォレットは、次世代スーパーアプリの本命か」を開催 ...\nウォレットが顧客接点になる時代──PayPay、LINE NEXT、au Coincheck DAが描く決済の未来【IVS2026 CRYPTO ZONE】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/357940/",
-          "publishedOn": "2026-07-03T13:32:03.000Z",
-          "wordCount": 2706,
-          "title": "ウォレットが顧客接点になる時代──PayPay、LINE NEXT、au Coincheck DAが描く決済の未来【IVS2026 CRYPTO ZONE】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/07/IMG_8863-scaled.jpg"
         }
       ]
     },
@@ -514,6 +514,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=722818",
+          "author": "A.Yamada",
+          "description": "欧州議会が仮想通貨に関する方針文書を採択。DeFIやステーキング、レンディングなどへのMiCA適用評価を欧州委員会に求めた。ユーロ建てステーブルコインに前向きな姿勢も示す。",
+          "link": "https://coinpost.jp/?p=722818",
+          "publishedOn": "2026-07-08T00:45:10.000Z",
+          "wordCount": 3779,
+          "title": "欧州議会、DeFi・ステーキング・NFTへのMiCA適用検討を欧州委員会に要請",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/03/eu_europe9032849348.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/03/eu_europe9032849348.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=722806",
           "author": "K.Kobayashi",
@@ -1242,6 +1257,26 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=590414",
+          "author": "watanabeyousuke",
+          "description": "BonkDAOが悪意あるガバナンス提案で約2,000万ドル流出 ソラナ（Solana）基盤のミームコイン「BONK」のガバナンス組織であるボンクDAO（BonkDAO）が、悪意あるガバナンス提案により、同DAOのトレジャ […]",
+          "link": "https://www.neweconomy.jp/posts/590414",
+          "publishedOn": "2026-07-08T02:01:44.000Z",
+          "wordCount": 884,
+          "title": "BonkDAOが悪意あるガバナンス提案で約2000万ドル流出、約440万ドルで投票権取得との分析も",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/08110124/5e4810b986cecc6c20d20c83aa683d25.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=590397",
+          "author": "OtsugaShinya",
+          "description": "SBI VCトレードの口座登録数が200万突破 国内暗号資産交換業者SBI VCトレードのサービス口座登録数が7月6日時点で200万口座を突破した。この数字は同社提供の「VCTRADEサービス」と「BITPOINTサービ […]",
+          "link": "https://www.neweconomy.jp/posts/590397",
+          "publishedOn": "2026-07-08T01:40:30.000Z",
+          "wordCount": 759,
+          "title": "SBI VCトレード、口座登録数200万突破。ビットポイントとの統合は12月末頃を予定",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/08104022/deb17d0fea6c3ad9d53efd7355fd99aa.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=590195",
           "author": "NewEconomyPodcast",
           "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
@@ -1540,16 +1575,6 @@
           "wordCount": 802,
           "title": "ヴィタリック、「リーン・イーサリアム」をザ・マージに続く「第3の主要な進化段階」と位置付け",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/06105310/bdf3990c277a24ef6c15d38359ec59fc.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=589222",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/589222",
-          "publishedOn": "2026-07-03T14:08:08.000Z",
-          "wordCount": 781,
-          "title": "【7/3話題】セキュリタイズが上場初日に自社株をトークン化、メタプラがビットコイン追加購入、ソラナが新提案制度「SGPs」導入など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/03164900/0066dd2a9cf84284d280786a56e5d820.jpg"
         }
       ]
     },

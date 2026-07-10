@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-07-10T21:34:23.007Z</updated>
+    <updated>2026-07-10T22:56:31.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AIエージェントで新たな取引体験の実現へ、ビットバンクが実証実験開始]]></title>
+        <id>https://coinpost.jp/?p=723918</id>
+        <link href="https://coinpost.jp/?p=723918"/>
+        <updated>2026-07-10T22:15:29.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所ビットバンクは、AIエージェントを通じた新たな取引体験の実現に向けて実証実験を開始。実証実験の背景や内容、将来的な目標について説明している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米上場エンペリー・デジタル、AIデータセンター資金調達のため1400BTC売却]]></title>
+        <id>https://coinpost.jp/?p=723910</id>
+        <link href="https://coinpost.jp/?p=723910"/>
+        <updated>2026-07-10T21:55:30.000Z</updated>
+        <summary type="html"><![CDATA[米ナスダック上場のエンペリー・デジタルが5月7日以降にビットコイン1,400BTCを売却し、約8,710万ドルを調達した。AIデータセンター投資や債務返済に充てる方針で、7月10日時点の保有残高は1,514BTCとなった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号屋、銀行振込対応のステーブルコイン決済「すてぶるペイ」を発表]]></title>
         <id>https://coinpost.jp/?p=723911</id>

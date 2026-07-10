@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=359111",
+          "author": "NADA NEWS編集部",
+          "description": "みなさん、今週もお疲れ様でした！ 暗号資産規制の金融商品取引法（金商法）への移行や、与党が推進する「AIオンチェーン金融」の進展など、いまWeb3は私たちの日常 ...\n今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.3】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/359111/",
+          "publishedOn": "2026-07-10T23:00:00.000Z",
+          "wordCount": 1943,
+          "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.3】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/shutterstock_2764362281-scaled.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=359135",
           "author": "平木 昌宏",
           "description": "HashPort（ハッシュポート）は7月10日、AIエージェントとノンカストディアルウォレット「HashPort Wallet」を接続する「HashPort W ...\nHashPort Wallet、AIエージェントから操作可能に──複数チェーンの資産をJPYCへ集約 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -784,6 +794,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=723909",
+          "author": "菊谷ルイス",
+          "description": "韓国の半導体大手SKハイニックスが10日、米ナスダックにADR上場。約280億ドルの調達額は2014年アリババIPO以来最大の外国企業上場規模で、同日ソラナ上でもトークン化株式の取引が始まった。",
+          "link": "https://coinpost.jp/?p=723909",
+          "publishedOn": "2026-07-10T23:35:28.000Z",
+          "wordCount": 3683,
+          "title": "半導体大手SKハイニックスのトークン化株式がソラナで取引開始、米ナスダック上場と同時に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/sk-token-solana.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/sk-token-solana.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=723918",
           "author": "K.Kobayashi",
@@ -3784,36 +3809,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2318769247.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=167645",
-          "author": "よきょい",
-          "description": "米国の仮想通貨市場構造法案「CLARITY法案」を巡り、今週二つの障害が対照的な動きを見せています。法案は下院を通過済みで、現在は上院での審議入りを待つ状況です。 焦点となってきたのは、ユーザー資金を管理しないソフトウェ […]\n投稿 CLARITY法案は8月までに採決か｜壁は「倫理条項」の駆け引き は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-will-the-clarity-bill-be-put-to-a-vote-by-august/",
-          "publishedOn": "2026-07-06T11:54:08.000Z",
-          "wordCount": 577,
-          "title": "CLARITY法案は8月までに採決か｜壁は「倫理条項」の駆け引き",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2627586955.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=167659",
-          "author": "よきょい",
-          "description": "欧州連合（EU）の仮想通貨規制「MiCA（暗号資産市場規制）」は、既存事業者に認められていた経過措置期間が7月1日に終了し新たな局面に入りました。ライセンスの有無が、どの事業者がEU域内でステーブルコインや仮想通貨サービ […]\n投稿 銀行が仮想通貨の主役に？MiCA完全移行でEUの勢力図が一変か は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-will-mica-completely-change-the-balance-of-power-in-the-eu/",
-          "publishedOn": "2026-07-06T11:26:44.000Z",
-          "wordCount": 578,
-          "title": "銀行が仮想通貨の主役に？MiCA完全移行でEUの勢力図が一変か",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2082744481-scaled.jpg"
         }
       ]
     }

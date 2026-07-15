@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=359768",
+          "author": "松田康生",
+          "description": "ポイント ・CPI好結果で利上げ観測後退 ・トランプ20%警護料を撤回 ・SKハイニックス反発で半導体株高 ・6.5万ドルタッチ、戻り高値更新 昨日のBTC市場 ...\nBTC6.5万ドルタッチ、CPI好結果とウォーシュ議会証言をどう読む？【楽天ウォレットDaily Report】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/359768/",
+          "publishedOn": "2026-07-15T08:59:40.000Z",
+          "wordCount": 2182,
+          "title": "BTC6.5万ドルタッチ、CPI好結果とウォーシュ議会証言をどう読む？【楽天ウォレットDaily Report】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/07/thumbnail_260715_1200x800.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=359741",
           "author": "平木 昌宏",
           "description": "RWA（現実資産）領域のDeFi（分散型金融）インフラを手がけるR25は7月15日、新興国の個人向け融資を運用対象とする「Axil Prime Credit（A ...\nR25の新興国向けRWAファンド、Binance Walletから利用可能に first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -724,6 +734,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=724727",
+          "author": "Ritsuki.Kumazawa",
+          "description": "WebX 2026で落合陽一氏が登壇。大阪・関西万博で人気の「null²」の転生として、横浜ランドマークタワーの常設シアターとGREEN×EXPO 2027向け新作を発表。AI・Web3が変える祭りの未来を、登壇と記者会見からレポート。",
+          "link": "https://coinpost.jp/?p=724727",
+          "publishedOn": "2026-07-15T08:40:01.000Z",
+          "wordCount": 4247,
+          "title": "null²転生、落合陽一が語るAI・Web3がひらく未来社会｜WebX 2026",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/WebX-2026-CRYL-Stage-091844-3198_web2k.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/WebX-2026-CRYL-Stage-091844-3198_web2k.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=724850",
+          "author": "hiroto.yoshii",
+          "description": "ビットバンク廣末紀之氏、bitFlyer加納裕三氏、弁護士河合健氏がWebX2026に登壇。資金決済法から金融商品取引法への移行、分離課税実現の舞台裏、トラベルルール、そして今後3〜5年の日本の暗号資産市場の展望を語った。",
+          "link": "https://coinpost.jp/?p=724850",
+          "publishedOn": "2026-07-15T08:00:54.000Z",
+          "wordCount": 4209,
+          "title": "日本のクリプト大転換期　金商法・税制改正の舞台裏｜WebX2026",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/WebX2026CryptoTax.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/WebX2026CryptoTax.png"
+        },
         {
           "id": "https://coinpost.jp/?p=725115",
           "author": "Enzo",
@@ -1608,66 +1648,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/sk-token-solana.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/sk-token-solana.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=723918",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨取引所ビットバンクは、AIエージェントを通じた新たな取引体験の実現に向けて実証実験を開始。実証実験の背景や内容、将来的な目標について説明している。",
-          "link": "https://coinpost.jp/?p=723918",
-          "publishedOn": "2026-07-10T22:15:29.000Z",
-          "wordCount": 3720,
-          "title": "AIエージェントで新たな取引体験の実現へ、ビットバンクが実証実験開始",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/bitbank-ai-agent.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/bitbank-ai-agent.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=723910",
-          "author": "菊谷ルイス",
-          "description": "米ナスダック上場のエンペリー・デジタルが5月7日以降にビットコイン1,400BTCを売却し、約8,710万ドルを調達した。AIデータセンター投資や債務返済に充てる方針で、7月10日時点の保有残高は1,514BTCとなった。",
-          "link": "https://coinpost.jp/?p=723910",
-          "publishedOn": "2026-07-10T21:55:30.000Z",
-          "wordCount": 3703,
-          "title": "米上場エンペリー・デジタル、AIデータセンター資金調達のため1400BTC売却",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-new-2026-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-new-2026-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=723911",
-          "author": "菊谷ルイス",
-          "description": "#cp-summary-2025{all:revert;box-sizing:border-box;width:100%;background:#f8f9fb;border-left:3pxsolid#0d2d4f;border-radiu...",
-          "link": "https://coinpost.jp/?p=723911",
-          "publishedOn": "2026-07-10T21:25:32.000Z",
-          "wordCount": 3702,
-          "title": "暗号屋、銀行振込対応のステーブルコイン決済「すてぶるペイ」を発表",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/STBLpay-webx.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/STBLpay-webx.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=723906",
-          "author": "菊谷ルイス",
-          "description": "英スタンダードチャータードが2026年末ビットコイン価格10万ドルの予測を維持した。ストラテジーのBTC売却を「ノイズ」と評価し、同社が優先株担保へ戦略転換しているとの見方を示した。",
-          "link": "https://coinpost.jp/?p=723906",
-          "publishedOn": "2026-07-10T20:55:47.000Z",
-          "wordCount": 3711,
-          "title": "英大手銀、2026年末ビットコイン10万ドル予測を維持",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/even-more-bitcoin.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/even-more-bitcoin.jpg"
         }
       ]
     },
@@ -1695,6 +1675,16 @@
           "wordCount": 769,
           "title": "ストラテジー、株式売却で約466.7Mドル調達。ビットコイン購入は見送り",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/15163659/9688e74f525ddcc826ae119b60e62964.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=592402",
+          "author": "OtsugaShinya",
+          "description": "暗号資産の金商法移管法案が成立 暗号資産（仮想通貨）取引に係る規制を資金決済法から金融商品取引法（金商法）へ移管する内容を含む「金融商品取引法及び資金決済に関する法律の一部を改正する法律案」が、7月15日の参議院本会議で […]",
+          "link": "https://www.neweconomy.jp/posts/592402",
+          "publishedOn": "2026-07-15T07:23:26.000Z",
+          "wordCount": 613,
+          "title": "暗号資産規制を金商法へ移管、改正法案が参院本会議で可決・成立",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/15171533/56b36bbec93c12d0e65c1d841e7ee383.jpg"
         },
         {
           "id": "https://www.neweconomy.jp/?p=592297",

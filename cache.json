@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=359879",
+          "author": "平木 昌宏",
+          "description": "ロードスターキャピタルは7月16日、子会社のロードスター証券が、「OwnersBook＋（オーナーズブックプラス）」を通じて、横浜市の大型ホテルを裏付け資産とす ...\nロードスター証券、新体制初の不動産ST提供へ──横浜の大型ホテル裏付けに38.3億円募集 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/359879/",
+          "publishedOn": "2026-07-16T09:53:43.000Z",
+          "wordCount": 2013,
+          "title": "ロードスター証券、新体制初の不動産ST提供へ──横浜の大型ホテル裏付けに38.3億円募集",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/07/527672f09224a1a4850aa279fd04292f.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=359830",
           "author": "Ibrahim Ajibade",
           "description": "・米政府が押収した暗号資産約2億9000万ドル相当をCoinbase Primeに移したにもかかわらず、Polymarketでは、ビットコイン（BTC）が7月中 ...\n米政府、暗号資産約3億ドルを移管もBTC上昇──原油先安観とインフレ鈍化が支え【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -804,6 +814,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=725469",
+          "author": "Enzo",
+          "description": "アナリストのDarkfost氏がCryptoQuantのデータを基に指摘。損失を抱えるUTXOと利益UTXOの比率が過去の下落相場に匹敵する水準まで上昇しており、長期投資家にとっての蓄積機会になり得るとの見解を示した。",
+          "link": "https://coinpost.jp/?p=725469",
+          "publishedOn": "2026-07-16T08:36:15.000Z",
+          "wordCount": 3692,
+          "title": "ビットコイン、損失保有UTXO増加は蓄積機会と分析＝アナリスト",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-new-2026-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-new-2026-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=724583",
           "author": "菊谷ルイス",
@@ -3000,6 +3025,51 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=168267",
+          "author": "よきょい",
+          "description": "仮想通貨を金融商品取引法の規制下に置く改正法が成立しましたが、参議院審議で政府が繰り返し強調したのは「投資を推奨するものではない」という点でした。金商法が保障するのは市場のルールであり価格を保障するものではないとの整理で […]\n投稿 「金融庁が認めたから仮想通貨は安全」は誤解？金商法で異例の線引き は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-is-the-idea-that-cryptocurrency-is-safe-because-the-financial-services-agency-has-approved-it-a-misconception/",
+          "publishedOn": "2026-07-16T09:30:22.000Z",
+          "wordCount": 582,
+          "title": "「金融庁が認めたから仮想通貨は安全」は誤解？金商法で異例の線引き",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2044277003.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=168262",
+          "author": "よきょい",
+          "description": "改正金融商品取引法を審議した参議院財政金融委員会では、仮想通貨の相続をめぐる実務上の課題も取り上げられました。被相続人がどの銘柄をいくら保有していたかを遺族が把握しづらく、申告漏れや納税困難が生じやすい点が指摘された形で […]\n投稿 相続放棄されたビットコインは「国庫行き」に｜金商法審議で判明 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-will-the-revised-financial-instruments-and-exchange-act-change-how-cryptocurrencies-are-chosen/",
+          "publishedOn": "2026-07-16T08:50:11.000Z",
+          "wordCount": 577,
+          "title": "相続放棄されたビットコインは「国庫行き」に｜金商法審議で判明",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2241752485.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=168194",
+          "author": "よきょい",
+          "description": "米労働省が発表した6月の消費者物価指数（CPI）は前月比0.4%低下し、2020年4月以来の大きな下落幅となったことを受け、ビットコイン（BTC）が7月14日に6万5,000ドル目前まで回復しました。 Bitcoin p […]\n投稿 ビットコイン6.5万ドル目前に回復も、追い風は「すでに消失」か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitcoin-recovers-to-the-brink-of-65000/",
+          "publishedOn": "2026-07-16T08:25:02.000Z",
+          "wordCount": 608,
+          "title": "ビットコイン6.5万ドル目前に回復も、追い風は「すでに消失」か",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2700626111.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=168263",
           "author": "よきょい",

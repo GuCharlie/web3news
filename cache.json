@@ -690,16 +690,6 @@
           "wordCount": 2022,
           "title": "ソニー銀、楽曲権利に投資するデジタル証券──米ドル建てで募集",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/07/69d2ad33507d110e61d3016d47fd1479.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=359415",
-          "author": "増田隆幸",
-          "description": "SBIホールディングスの北尾吉孝会長兼社長は7月13日、「WebX 2026」の基調講演で、ジャパンネクスト証券の金融商品取引所への移行を契機に、オンチェーン対 ...\nSBI、オンチェーン対応の最先端取引所構築へ──24時間365日取引・即時決済・ステーブルコイン対応を構想【WebX 2026】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/359415/",
-          "publishedOn": "2026-07-13T09:12:44.000Z",
-          "wordCount": 2007,
-          "title": "SBI、オンチェーン対応の最先端取引所構築へ──24時間365日取引・即時決済・ステーブルコイン対応を構想【WebX 2026】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/07/bad2b65757588c85e5559c8b23bfdeed.JPG"
         }
       ]
     },
@@ -714,6 +704,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=725851",
+          "author": "菊谷ルイス",
+          "description": "ウォーレン米上院議員がトランプ大統領に対し、2026年前半の仮想通貨収益を含む最新資産開示を7月23日までに自発的に公開するよう要求した。上院でクラリティー法案が審議される中、大統領一家の利益相反への懸念が強まっている。",
+          "link": "https://coinpost.jp/?p=725851",
+          "publishedOn": "2026-07-17T20:50:02.000Z",
+          "wordCount": 3710,
+          "title": "ウォーレン議員、トランプ大統領に仮想通貨収益の最新開示を要求",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/elizabethwarren0906211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/elizabethwarren0906211.png"
+        },
         {
           "id": "https://coinpost.jp/?p=725847",
           "author": "菊谷ルイス",
@@ -2440,16 +2445,6 @@
           "wordCount": 757,
           "title": "スターテイル、金融機関向けオンチェーン金融基盤「Startale OFK」提供開始",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/13185107/2b41ec8dc22fb97c2f19034675e2c22c.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=591653",
-          "author": "watanabeyousuke",
-          "description": "AI時代の監査証跡管理へ 金融システム開発を手がけるトレードワークス（TradeWorks）が、SBI証券と共同で、ブロックチェーン証跡基盤「ラストエビデンス（LastEvidence）」を活用した概念実証（PoC）を7 […]",
-          "link": "https://www.neweconomy.jp/posts/591653",
-          "publishedOn": "2026-07-13T08:30:23.000Z",
-          "wordCount": 726,
-          "title": "SBI証券とトレードワークス、ブロックチェーン証跡基盤を証券システムで実証",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/13173011/a007f02acbc2533ff26e1a9215de80ea.jpg"
         }
       ]
     },

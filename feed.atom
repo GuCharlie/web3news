@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-07-21T12:21:19.717Z</updated>
+    <updated>2026-07-21T14:32:40.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【7/21話題】高市政権の骨太の方針にオンチェーン金融、AZ-COM丸和HDがJPYC導入へ、ストラテジーが4週連続BTC追加見送りなど（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=593712</id>
+        <link href="https://www.neweconomy.jp/posts/593712"/>
+        <updated>2026-07-21T13:52:13.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[骨太方針2026、オンチェーン金融推進を初明記]]></title>
         <id>https://coinpost.jp/?p=726323</id>
@@ -1492,47 +1502,6 @@ Bitcoin Japan、初のBTC取得か──約97億円を調達へ first appeared o
         <summary type="html"><![CDATA[Blockaidが約1,800万USDC流出を検知 分散型取引所（DEX）「オスティウム（Ostium）」において、約1,800万USDC（約29.2億円）が攻撃者によって引き出されるセキュリティインシデントを検知したと […]]]></summary>
         <author>
             <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[予測市場と日本市場の未来、Limitless CEOが語る制度設計｜WebX2026]]></title>
-        <id>https://coinpost.jp/?p=724203</id>
-        <link href="https://coinpost.jp/?p=724203"/>
-        <updated>2026-07-17T02:00:17.000Z</updated>
-        <summary type="html"><![CDATA[予測市場プラットフォーム「Limitless」CEO CJ Hetherington氏が、WebX2026で創業の経緯・米CFTC審査・日本市場戦略・ギャンブルとの違いを語った。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「10年前は断られた」──SBI出資の米エバーノース、CEOが語った機関投資家の変化]]></title>
-        <id>https://www.nadanews.com/?p=359616</id>
-        <link href="https://www.nadanews.com/359616/"/>
-        <updated>2026-07-17T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[「10年前、機関投資家に出資を頼むと、断られる理由はいくらでもあった。だが今は違う」。 暗号資産XRP（エックス・アール・ピー）の保有と利回り運用を手掛けるトレ ...
-「10年前は断られた」──SBI出資の米エバーノース、CEOが語った機関投資家の変化 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>橋本 祐樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨取引所クリプトドットコム、シタデルから約650億円を資金調達　企業評価額は約3.2兆円]]></title>
-        <id>https://coinpost.jp/?p=725565</id>
-        <link href="https://coinpost.jp/?p=725565"/>
-        <updated>2026-07-17T01:20:04.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所クリプトドットコムは、シタデル・セキュリティーズから約650億円の出資を受けたことを発表。評価額や今後の計画について説明した。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ストラテジーの資本再建、2つの課題残る＝クリプトクアント]]></title>
-        <id>https://coinpost.jp/?p=725553</id>
-        <link href="https://coinpost.jp/?p=725553"/>
-        <updated>2026-07-17T01:02:25.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨分析企業クリプトクアントが、ビットコイン保有大手ストラテジーの新資本管理策を評価。流動性対応は前進した一方、2つの課題が残されていると指摘した。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
     <entry>

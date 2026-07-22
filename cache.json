@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=360467",
+          "author": "平木 昌宏",
+          "description": "分散型取引所（DEX）のHyperliquid（ハイパーリキッド）は7月20日、50万HYPE（約49億円相当、1HYPE=9845円換算）のステーキングを条件 ...\nHyperliquid、独自の予測市場を作れる新機能を導入へ──運営者への手数料配分は最大50％ first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/360467/",
+          "publishedOn": "2026-07-22T04:00:38.000Z",
+          "wordCount": 2051,
+          "title": "Hyperliquid、独自の予測市場を作れる新機能を導入へ──運営者への手数料配分は最大50％",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/07/AdobeStock_1188695347_Editorial_Use_Only_1200x800.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=360293",
+          "author": "平木 昌宏",
+          "description": "DeFi（分散型金融）レンディング大手Aave（アーベ）で、米ドル連動型ステーブルコイン「USDT」の借入残高が1週間で約2億3900万USDT（約390億円、 ...\nDeFi融資大手AaveのUSDT借入、1週間で約390億円急増──残高4000億円で再び上限目前 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/360293/",
+          "publishedOn": "2026-07-22T03:59:52.000Z",
+          "wordCount": 2370,
+          "title": "DeFi融資大手AaveのUSDT借入、1週間で約390億円急増──残高4000億円で再び上限目前",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/07/image-12_1200x800.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=360441",
           "author": "井上 俊彦",
           "description": "パキスタンの連邦捜査局（FIA）は、暗号資産（仮想通貨）を通じた資金洗浄やテロ資金供与に対処するため、暗号資産専門の捜査部隊を設置した。地元紙Dawn（ドーン） ...\nパキスタン、資金洗浄対策として暗号資産取締りの専門部隊を設置 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -390,26 +410,6 @@
           "wordCount": 1943,
           "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.4】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/shutterstock_2764362281-scaled.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=360017",
-          "author": "Ibrahim Ajibade",
-          "description": "・Tradableは、最大10億ドル相当のプライベートクレジット資産をステラ・ブロックチェーン上でトークン化し、機関投資家によるRWA（現実資産）の活用を拡大す ...\nTradable、ステラ上で最大10億ドルのプライベートクレジットをトークン化へ first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/360017/",
-          "publishedOn": "2026-07-17T13:24:14.000Z",
-          "wordCount": 2228,
-          "title": "Tradable、ステラ上で最大10億ドルのプライベートクレジットをトークン化へ",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/07/image2_1200x800-8.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=360034",
-          "author": "Ibrahim Ajibade",
-          "description": "・PUMPは、初の大規模なトークンロック解除を挟んだ5日間で一時30％以上上昇し、大きな売り圧力が生じるとの予想に反する値動きを見せた。・オンチェーンデータによ ...\nソラナ上で最大のミームコイン発行サービス、独自トークンが大型ロック解除後に一時30％上昇【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/360034/",
-          "publishedOn": "2026-07-17T13:19:07.000Z",
-          "wordCount": 2423,
-          "title": "ソラナ上で最大のミームコイン発行サービス、独自トークンが大型ロック解除後に一時30％上昇【価格分析】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/07/image2_1200x800-9.jpg"
         }
       ]
     },
@@ -420,10 +420,100 @@
       "articles": []
     },
     {
-      "title": "BitcoinGold(BTG)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=725294",
+          "author": "Ritsuki.Kumazawa",
+          "description": "WebX2026レポート。JSCCや3メガ系金融機関、Ava Labs・Digital Assetが、日本国債（JGB）のオンチェーン化を担保管理・レポの観点から議論。2030年の市場規模予測も詳報。",
+          "link": "https://coinpost.jp/?p=725294",
+          "publishedOn": "2026-07-22T03:00:18.000Z",
+          "wordCount": 4384,
+          "title": "国債×ブロックチェーン、オンチェーン化が変える日本の金融インフラ｜WebX2026",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/WebX-2026-CRYL-Stage-105010-2616_web2k-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/WebX-2026-CRYL-Stage-105010-2616_web2k-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=726391",
+          "author": "K.Kobayashi",
+          "description": "英上場企業サツマ・テクノロジーは、資本の返還や上場廃止を決議し、保有する仮想通貨ビットコインを売却する。同社は現在、668BTCを保有している。",
+          "link": "https://coinpost.jp/?p=726391",
+          "publishedOn": "2026-07-22T01:35:42.000Z",
+          "wordCount": 3171,
+          "title": "英上場企業サツマ、保有ビットコインを売却へ　資本返還と上場廃止を決議",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/even-more-bitcoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/even-more-bitcoin.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=726382",
+          "author": "A.Yamada",
+          "description": "テレグラム創業者・CEOのドゥロフ氏が、テレグラムの全アプリに自己管理型の新ウォレットを搭載すると発表した。最近、トンコインはグラムに名称変更している。",
+          "link": "https://coinpost.jp/?p=726382",
+          "publishedOn": "2026-07-22T01:00:54.000Z",
+          "wordCount": 3171,
+          "title": "テレグラム、「グラムウォレット」を全アプリに導入へ　今夏ローンチを計画",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/telegrammessage0915211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/telegrammessage0915211.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=725439",
+          "author": "hiroto.yoshii",
+          "description": "WebX2026「クリプトはなぜ社会を変えきれないのか」セッションレポート。Startale渡辺創太氏、シンプレクス三浦和夫氏、SBI VCトレード近藤智彦氏が登壇。過去10年の歩みと流出事件の教訓、口座数拡大や金商法移行など気づかれにくい構造変化、社会実装の壁、2030年の展望までを議論する。",
+          "link": "https://coinpost.jp/?p=725439",
+          "publishedOn": "2026-07-22T00:30:19.000Z",
+          "wordCount": 4167,
+          "title": "Cryptoは、なぜ社会を変えきれないのか。異なる視点からみる、過去と今後の10年｜WebX2026",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/06/WebX2026Crypto.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/06/WebX2026Crypto.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=726363",
+          "author": "CoinPost編集部",
+          "description": "ビットコインは7月21日から22日朝にかけて上昇した。米国とイランによる攻撃の応酬が激化し、地政学リスクへの警戒が続くなかでも、米国株式市場では半導体株を中心に買い戻しが入った。投資家のリスク回避姿勢が幾分後退し、暗号資産市場にも買いが波及したとみられる。",
+          "link": "https://coinpost.jp/?p=726363",
+          "publishedOn": "2026-07-22T00:00:52.000Z",
+          "wordCount": 2985,
+          "title": "ビットコイン上昇、現物主導の買いを確認　オプション市場は7万ドルを意識｜仮想NISHI",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=726339",
+          "author": "菊谷ルイス",
+          "description": "ビットコイン保有戦略会社のトゥエンティワン・キャピタルは21日、ジャック・マラーズ氏のCEO退任を発表した。テザーが主導した3社統合計画も破談となり、同社株は約15%下落した。",
+          "link": "https://coinpost.jp/?p=726339",
+          "publishedOn": "2026-07-21T23:30:14.000Z",
+          "wordCount": 3170,
+          "title": "米ビットコインDAT企業トゥエンティワン・キャピタルのCEOが退任、テザー主導の3社合併も白紙に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=726353",
           "author": "K.Kobayashi",
@@ -1017,6 +1107,26 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=593755",
+          "author": "gentosha_takahashi",
+          "description": "再建手続き入りへ ムーブメント（Movement）ネットワークの旧コア開発企業であるムーブメントラボ（Movement Labs）が、米デラウェア地区連邦破産裁判所に連邦破産法11条（チャプター11）の適用を申請した。  […]",
+          "link": "https://www.neweconomy.jp/posts/593755",
+          "publishedOn": "2026-07-22T03:54:07.000Z",
+          "wordCount": 763,
+          "title": "ムーブメント旧開発元のMovement Labs、米連邦破産法11条を申請",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/22125400/0f4884e3399832d33372c2e11a240757.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=593750",
+          "author": "OtsugaShinya",
+          "description": "LSEが夜間取引市場開設へ ロンドン証券取引所（London Stock Exchange：LSE）が、新たな夜間取引市場「LSE 24」の開設計画を7月21日に発表した。顧客向けテストは2026年末までに開始する予定だ […]",
+          "link": "https://www.neweconomy.jp/posts/593750",
+          "publishedOn": "2026-07-22T03:47:18.000Z",
+          "wordCount": 799,
+          "title": "ロンドン証券取引所、夜間取引市場「LSE 24」開設へ。株式の24時間取引も視野",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/22124714/dc1d63a9987378e34471a32e9fa1c972.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=593712",
           "author": "NewEconomyPodcast",
           "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
@@ -1175,16 +1285,6 @@
           "wordCount": 619,
           "title": "メタマスク開発元コンセンシス、北朝鮮と繋がりのある開発者を誤って起用=報道",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/21144507/f1befa8d127d18700ab4cdfaf00e4576.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=593002",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/593002",
-          "publishedOn": "2026-07-17T14:58:40.000Z",
-          "wordCount": 779,
-          "title": "【7/17話題】SBIと米オンドファイナンスがトークン化日本株式の提供へ、Visaの企業向けステーブルコイン基盤「VSP」がβ提供開始など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/17192339/e55d6b2a0bae3012fae45fae70be307b.jpg"
         }
       ]
     },
@@ -1710,6 +1810,36 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=168489",
+          "author": "よきょい",
+          "description": "イーサリアム（ETH）財務戦略企業のビットマイン（BitMine）は、2026年5月31日までの四半期にステーキングとバリデーション業務で4,574万ドルを計上し、総収益4,653万ドルの98.3%を占めたことが、7月1 […]\n投稿 ETH財務最大手BitMineの収益、98%がステーキング依存 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-98-3-of-bitmines-revenue-derived-from-staking/",
+          "publishedOn": "2026-07-22T03:45:05.000Z",
+          "wordCount": 578,
+          "title": "ETH財務最大手BitMineの収益、98%がステーキング依存",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2554625077.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=168490",
+          "author": "よきょい",
+          "description": "米国のシンシア・ルミス上院議員は7月20日、審議中の仮想通貨市場構造法案「CLARITY法案」について「あなたの仮想通貨はあなたのもののままだ」とX上で発信しました。2022年に破綻したセルシウスやボイジャーでは、預けた […]\n投稿 破綻時も仮想通貨は守られるか、6800億円没収の教訓｜CLARITY法案 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-will-cryptocurrency-be-protected-in-the-event-of-a-collapse/",
+          "publishedOn": "2026-07-22T02:52:17.000Z",
+          "wordCount": 629,
+          "title": "破綻時も仮想通貨は守られるか、6800億円没収の教訓｜CLARITY法案",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2491707359-2.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=168447",
           "author": "よきょい",

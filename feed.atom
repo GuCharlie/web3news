@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-07-23T19:08:06.345Z</updated>
+    <updated>2026-07-23T20:34:37.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ストラテジーやブラックロックなど9社、ビットコイン安全保障団体を設立]]></title>
+        <id>https://coinpost.jp/?p=726918</id>
+        <link href="https://coinpost.jp/?p=726918"/>
+        <updated>2026-07-23T20:00:04.000Z</updated>
+        <summary type="html"><![CDATA[ブラックロックやコインベースなど大手9社が23日、ビットコインの長期的安全保障を支援するコンソーシアムを設立した。量子コンピュータへの耐性強化を最初の重点課題に掲げ、3年間で計24億円の拠出を表明している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アービトラム上の独自ブリッジから約39億円相当のUSDC流出──新興DEXがハッキング被害]]></title>
         <id>https://www.nadanews.com/?p=360855</id>

@@ -12,6 +12,36 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=360755",
+          "author": "増田隆幸",
+          "description": "日本円ステーブルコイン「JPYC」を手がけるJPYCは7月22日、物流大手AZ-COM丸和ホールディングスとの資本業務提携を発表した。 両社はJPYCを活用した ...\nJPYC、「物流×ステーブルコイン」の社会実装へ──「Pay」は目指さず、商慣習の骨格をつくる first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/360755/",
+          "publishedOn": "2026-07-23T00:45:00.000Z",
+          "wordCount": 2106,
+          "title": "JPYC、「物流×ステーブルコイン」の社会実装へ──「Pay」は目指さず、商慣習の骨格をつくる",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/07/96d49cefc1f6007172302026e06edab5.JPG"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=360751",
+          "author": "井上 俊彦",
+          "description": "韓国で、暗号資産（仮想通貨）市場への個人投資家の関心が薄れている。 ZDNet Koreaは、CoinGeckoのデータを基に、韓国の5大取引所の1日あたりの取 ...\n韓国の暗号資産取引が激減。個人投資家の関心は株式へ＝報道 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/360751/",
+          "publishedOn": "2026-07-23T00:00:00.000Z",
+          "wordCount": 1989,
+          "title": "韓国の暗号資産取引が激減。個人投資家の関心は株式へ＝報道",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2649143673.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=360743",
+          "author": "井上 俊彦",
+          "description": "Franklin Templeton（フランクリン・テンプルトン）でデジタル資産・イノベーション責任者を務めるSandy Kaul（サンディ・カウル）氏は、Xに ...\nAIエージェントはブロックチェーンの「キラーユースケース」になる＝Franklin Templeton first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/360743/",
+          "publishedOn": "2026-07-22T23:30:00.000Z",
+          "wordCount": 1970,
+          "title": "AIエージェントはブロックチェーンの「キラーユースケース」になる＝Franklin Templeton",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2644331155.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=360730",
           "author": "エックスウィン",
           "description": "● ビットコインは約66,500ドルまで回復し、市場を取り巻く環境は6月と比べて大きく改善している。ETFへの資金流入の再開、制度整備への期待、長期保有者による ...\nビットコインは回復局面へ、それでも強気相場とは言い切れない理由──3つのオンチェーン指標が示す市場の現在地【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -500,16 +530,6 @@
           "wordCount": 2181,
           "title": "【速報】暗号資産の金商法改正案が成立──仮想通貨、正式に「金融商品」へ／時価総額10倍のイオレ、AI時代のインフラ企業へ大転換──GPUとオンチェーン金融は一本の戦略【日曜日に読みたい厳選10本】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/07/日曜日に読みたい10選.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=360077",
-          "author": "Ibrahim Ajibade",
-          "description": "・米国の消費者物価指数（CPI）が市場予想を下回り、上場投資信託（ETF）への資金流入も再開したものの、ホルムズ海峡を巡る地政学的緊張が投資家のリスク選好を抑え ...\n原油供給リスク再燃でBTCドミナンスが30日ぶり高水準──20億ドル規模のロング清算集中帯が週末相場の焦点に【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/360077/",
-          "publishedOn": "2026-07-18T11:38:07.000Z",
-          "wordCount": 2432,
-          "title": "原油供給リスク再燃でBTCドミナンスが30日ぶり高水準──20億ドル規模のロング清算集中帯が週末相場の焦点に【価格分析】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/07/image1_1200x800-11.jpg"
         }
       ]
     },
@@ -520,7 +540,7 @@
       "articles": []
     },
     {
-      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "今後予定されるビットコインハードフォークは7件以上にも及ぶ",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [

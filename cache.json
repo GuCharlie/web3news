@@ -685,6 +685,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=727268",
+          "author": "菊谷ルイス",
+          "description": "最大手ビットコイントレジャリー企業『ストラテジー』が、負債と優先株を控除した純ビットコイン保有価値を示す新指標を導入した。株主にとっての実質的な保有価値がより明確になると主張。",
+          "link": "https://coinpost.jp/?p=727268",
+          "publishedOn": "2026-07-24T22:10:33.000Z",
+          "wordCount": 3215,
+          "title": "ストラテジー、ビットコイン保有価値の新指標公表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/strategy-new-bitcoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/strategy-new-bitcoin.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=727266",
           "author": "菊谷ルイス",
           "description": "仮想通貨市場構造法案クラリティー法について、ギャラクシー社が2026年中の成立確率を30%に引き下げた。上院共和党の賛成票は50票程度にとどまり、採決の見通しは不透明だ。",
@@ -2890,6 +2905,36 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=168724",
+          "author": "よきょい",
+          "description": "ビットコインのマイニングプール運営会社Poolin Technologyが、米連邦破産法第11章（チャプター11）の適用を申請しました。同社のウォレット利用者に対する債務は約1億6372万ドルに達しているとされています。 […]\n投稿 元世界最大級BTCマイニング企業Poolinが破綻｜1.1万人の資産どこへ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-btc-mining-company-poolin-collapses/",
+          "publishedOn": "2026-07-24T22:28:30.000Z",
+          "wordCount": 582,
+          "title": "元世界最大級BTCマイニング企業Poolinが破綻｜1.1万人の資産どこへ",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2057554232.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=168723",
+          "author": "よきょい",
+          "description": "トークン化された現実資産（RWA）を機関投資家がDeFiで担保として活用するうえで、価格情報を供給するオラクルのガバナンスが次の関門になっているとみられています。 米証券保管振替機関のDTCCは現在、JPモルガン、ゴール […]\n投稿 トークン化資産、2030年に8.2兆ドルか｜JPモルガンら40社が実験 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-tokenized-assets-could-reach-8-2-trillion-by-2030/",
+          "publishedOn": "2026-07-24T22:15:33.000Z",
+          "wordCount": 578,
+          "title": "トークン化資産、2030年に8.2兆ドルか｜JPモルガンら40社が実験",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2226473899.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=168708",
           "author": "Crypto Times 編集部",

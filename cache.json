@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=361188",
+          "author": "Shoko Galaviz",
+          "description": "米Galaxy Digital（ギャラクシー・デジタル）の調査部門Galaxy Research（ギャラクシー・リサーチ）は7月24日、米国の暗号資産市場構造法 ...\nGalaxy、米クラリティ法案の2026年成立確率を30％へ引き下げ first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/361188/",
+          "publishedOn": "2026-07-26T21:15:00.000Z",
+          "wordCount": 2140,
+          "title": "Galaxy、米クラリティ法案の2026年成立確率を30％へ引き下げ",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/07/shutterstock_2766339995-1-scaled.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=361100",
           "author": "増田隆幸",
           "description": "11時30分。午前中の配送を終えたドライバーのスマートフォンに通知が届く。 「配送完了。報酬が入金されました」 月末や週末の締め日を待つ必要もない。仕事を終えた ...\n配送が終わると、お金が届く──物流から始まる「受け取り方」の変化【編集長コラム】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -450,16 +460,6 @@
           "wordCount": 2095,
           "title": "預かり資産約2兆円のDeFi「Morpho」、初の固定金利型融資を開始",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/07/505461708384dea4616197d95268233d.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=360585",
-          "author": "NADA NEWS編集部",
-          "description": "東証スタンダード上場のANAPホールディングスは7月22日、ビットコイン専門家の東晃慈氏がアドバイザリーボードに参画すると発表した。同社は女性・子ども向けのカジ ...\nANAP、ビットコイン戦略のアドバイザリーボードに東晃慈氏を招聘 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/360585/",
-          "publishedOn": "2026-07-22T08:42:04.000Z",
-          "wordCount": 6493,
-          "title": "ANAP、ビットコイン戦略のアドバイザリーボードに東晃慈氏を招聘",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/07/main.jpg"
         }
       ]
     },
@@ -1208,21 +1208,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/ai-fund-grayscale.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/ai-fund-grayscale.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=726565",
-          "author": "Enzo",
-          "description": "ベセント米財務長官は21日、仮想通貨の市場構造法案「クラリティー法」が採決まで「1ヤードライン」に迫ったと発言し、休会前の議会採決を促した。法案が定めるSECとCFTCの管轄区分と、成立に向けた現状を解説する。",
-          "link": "https://coinpost.jp/?p=726565",
-          "publishedOn": "2026-07-22T08:50:41.000Z",
-          "wordCount": 3161,
-          "title": "米財務長官ベセント氏、クラリティー法採決目前と発言",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/USSenate0809211.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/USSenate0809211.png"
         }
       ]
     },
@@ -1560,26 +1545,6 @@
           "wordCount": 751,
           "title": "【正式発表】物流大手AZ-COM丸和HD、JPYCに約10億円出資へ。円ステーブルコインで物流決済基盤構築",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/22190056/JPYC-260722-PIXTA.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=593868",
-          "author": "watanabeyousuke",
-          "description": "マイナンバーカードで本人確認、ステーブルコインやNFTに対応 マイナンバーカードを活用したデジタル資産ウォレットアプリ「マイナウォレット」の一般提供が、App StoreおよびGoogle Playで開始した。同アプリ開 […]",
-          "link": "https://www.neweconomy.jp/posts/593868",
-          "publishedOn": "2026-07-22T08:37:39.000Z",
-          "wordCount": 743,
-          "title": "マイナンバーカード活用のデジタル資産ウォレット「マイナウォレット」、一般提供開始",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/22181901/554960e7f5de57f8affbe704c36f7a1f.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=593856",
-          "author": "OtsugaShinya",
-          "description": "ANAPのアドバイザリーボードに東晃慈氏 東証スタンダード上場企業で、ビットコイン財務戦略を進めるANAPホールディングスのアドバイザリーボードに、ビットコインの専門家である東晃慈氏が参画した。同社が7月22日に発表した […]",
-          "link": "https://www.neweconomy.jp/posts/593856",
-          "publishedOn": "2026-07-22T08:22:54.000Z",
-          "wordCount": 623,
-          "title": "ANAP、ビットコイン専門家の東晃慈氏をアドバイザリーボードに招へい。事業強化へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/22170012/5b75ad7e31726e2d08afe615caeb1412.jpg"
         }
       ]
     },
@@ -2744,51 +2709,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2579115129.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=168354",
-          "author": "よきょい",
-          "description": "7月16日夕方、QRコード決済サービス「PayPay」で大規模な通信障害が発生し、アプリの読み込みや決済ができない状態となりました。公式サイトや障害情報ページにもアクセスできない状況が続き、Xでは「PayPay障害」がト […]\n投稿 PayPayが止まった日｜AWS依存が浮き彫り、ステーブルコインに注目 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-the-day-paypay-went-down-a-spotlight-on-stablecoins/",
-          "publishedOn": "2026-07-22T09:15:02.000Z",
-          "wordCount": 582,
-          "title": "PayPayが止まった日｜AWS依存が浮き彫り、ステーブルコインに注目",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2755862381.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=168482",
-          "author": "よきょい",
-          "description": "ビットコイン（BTC）は7月22日に約66,200ドルまで上昇しました。7月17日には想定元本約12億ドル・約1万9,000枚のBTCオプションが満期を迎えており、価格を60,000〜65,000ドルに封じ込めていたとさ […]\n投稿 止まらないビットコインの価格回復、「オプションの壁」消滅で上値追いか は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-unstoppable-bitcoin-price-recovery/",
-          "publishedOn": "2026-07-22T09:05:08.000Z",
-          "wordCount": 605,
-          "title": "止まらないビットコインの価格回復、「オプションの壁」消滅で上値追いか",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_1897558246-2.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=168480",
-          "author": "よきょい",
-          "description": "7月22日、ビットコイン（BTC）の価格は1084万円前後で推移しており、イーサリアム（ETH）は約31.4万円、ソラナ（SOL）は約1.27万円で取引されています。世界の暗号資産時価総額は378兆円で、ビットコインのド […]\n投稿 【今日の仮想通貨ニュース】W杯予測市場でトレーダーの明暗別れる。「CLARITY法案」に大きな進展 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-todays-cryptocurrency-news-july-22/",
-          "publishedOn": "2026-07-22T08:42:52.000Z",
-          "wordCount": 609,
-          "title": "【今日の仮想通貨ニュース】W杯予測市場でトレーダーの明暗別れる。「CLARITY法案」に大きな進展",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2215849493.jpg"
         }
       ]
     }

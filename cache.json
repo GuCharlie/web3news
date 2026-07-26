@@ -480,16 +480,6 @@
           "wordCount": 2700,
           "title": "ETH、7月に3週連続でBTCを上回る──Robinhood Chainとトークン化拡大、12億ドル相当の取引所流出が追い風【価格分析】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/07/image6_1200x800-1.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=360580",
-          "author": "平木 昌宏",
-          "description": "DeFi（分散型金融）融資プロトコルのMorpho（モルフォ）は7月21日、固定金利・固定期間の融資プロトコル「Morpho Midnight（モルフォ・ミッド ...\n預かり資産約2兆円のDeFi「Morpho」、初の固定金利型融資を開始 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/360580/",
-          "publishedOn": "2026-07-22T10:35:32.000Z",
-          "wordCount": 2095,
-          "title": "預かり資産約2兆円のDeFi「Morpho」、初の固定金利型融資を開始",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/07/505461708384dea4616197d95268233d.jpg"
         }
       ]
     },
@@ -504,6 +494,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=727327",
+          "author": "Enzo",
+          "description": "半年以上保有する長期保有者（LTH）のBTC保有量が約1630万BTCに達したとの分析が出た。取得コストは約4万9,400ドルと推定され、含み益は約30％まで圧縮。2025年1月の約340％から大幅に低下している。",
+          "link": "https://coinpost.jp/?p=727327",
+          "publishedOn": "2026-07-26T22:49:37.000Z",
+          "wordCount": 3182,
+          "title": "ビットコイン長期保有者、保有1630万BTCで含み益30％まで圧縮＝アナリスト",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/more-bitcoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/more-bitcoin.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=727127",
           "author": "CoinPost編集部",
@@ -2684,36 +2689,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2529670081.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=168526",
-          "author": "よきょい",
-          "description": "外国為替市場で円安・ドル高が進み、7月21日のニューヨーク市場で円は1986年以来となる1ドル＝163円台に突入しました。中東情勢の緊迫化を受けた「有事のドル買い」が主因とされ、7月1日の直近安値162円84銭を割り込ん […]\n投稿 39年ぶりの円安到来、仮想通貨市場に何が起きる？ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-the-yen-hits-a-39-year-low-what-will-happen-to-the-cryptocurrency-market/",
-          "publishedOn": "2026-07-22T11:15:10.000Z",
-          "wordCount": 578,
-          "title": "39年ぶりの円安到来、仮想通貨市場に何が起きる？",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_1576013539.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=168538",
-          "author": "よきょい",
-          "description": "NECの株価が昨年末比2割安と日経平均株価の2割高を大きく下回って推移しています。高度なAIが従来のITサービスやソフトウエア企業を代替するとの「AI脅威論」が重荷となっている形です。 業績自体は堅調とされています。20 […]\n投稿 NEC、顔認証でステーブルコイン決済へ｜株価は2割安に低迷 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-nec-to-enable-stablecoin-payments-via-facial-recognition/",
-          "publishedOn": "2026-07-22T10:58:26.000Z",
-          "wordCount": 584,
-          "title": "NEC、顔認証でステーブルコイン決済へ｜株価は2割安に低迷",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_1657346380.jpg"
         }
       ]
     }

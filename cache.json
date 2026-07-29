@@ -1208,36 +1208,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/bitmex20200616_2.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/bitmex20200616_2.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=727296",
-          "author": "A.Yamada",
-          "description": "ラトニック米商務長官と元政権高官ハインズ氏がステーブルコイン規制「ジーニアス法」をテザー社有利に導いた疑いをブルームバーグが報じた。テザー社は否定している。",
-          "link": "https://coinpost.jp/?p=727296",
-          "publishedOn": "2026-07-25T00:55:43.000Z",
-          "wordCount": 3201,
-          "title": "米ラトニック商務長官ら、ジーニアス法をテザー社有利に進めた疑い浮上＝報道",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/03/congress-us-new-bill-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/03/congress-us-new-bill-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=727265",
-          "author": "菊谷ルイス",
-          "description": "ールド財団はAIエージェント時代に人間であることを証明するID基盤の拡大に向け、パンテラ・キャピタル主導で86億円を調達したと発表した。",
-          "link": "https://coinpost.jp/?p=727265",
-          "publishedOn": "2026-07-24T23:50:28.000Z",
-          "wordCount": 3200,
-          "title": "ワールド財団が86億円調達、AI時代の人間ID基盤拡大へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/world-foundation-new-raise-.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/world-foundation-new-raise-.jpg"
         }
       ]
     },
@@ -1246,6 +1216,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=595981",
+          "author": "NewEconomyPodcast",
+          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/595981",
+          "publishedOn": "2026-07-29T12:30:28.000Z",
+          "wordCount": 772,
+          "title": "【7/29話題】QUICKとJPX総研が暗号資産指数の運営開始、イオレがHYPE取得開始、ソラナのブロック当たり最大計算量引き上げなど（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/29194530/43d43cf4d87ec63cdc3515bf056c7f7c.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=595901",
           "author": "OtsugaShinya",
@@ -2171,6 +2151,51 @@
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
         {
+          "id": "https://crypto-times.jp/?p=168995",
+          "author": "よきょい",
+          "description": "タイ証券取引委員会（SEC）が仮想通貨取引所Bitkub Onlineと元取締役2名について、経済犯罪抑制局に刑事告発を行いました。 2021年に発生した約17億バーツ（約5,300万ドル）規模の顧客資産盗難の影響を、日 […]\n投稿 5300万ドルの盗難を5カ月非開示か｜タイ仮想通貨取引所を告発 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-complaint-filed-against-thai-cryptocurrency-exchange/",
+          "publishedOn": "2026-07-29T09:55:27.000Z",
+          "wordCount": 584,
+          "title": "5300万ドルの盗難を5カ月非開示か｜タイ仮想通貨取引所を告発",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2008449494.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=169002",
+          "author": "よきょい",
+          "description": "ブロックチェーンセキュリティ企業Blockaidが7月28日に公表した報告書によると、2026年上期に仮想通貨プロジェクトがハッキングで失った資産は10億ドル（約1600億円）を超え、同社が確認した攻撃件数は過去最多とな […]\n投稿 半年で仮想通貨1600億円超が流出｜北朝鮮関連が最大の割合 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-over-160-billion-yen-in-cryptocurrency-leaked-in-six-months/",
+          "publishedOn": "2026-07-29T09:15:26.000Z",
+          "wordCount": 581,
+          "title": "半年で仮想通貨1600億円超が流出｜北朝鮮関連が最大の割合",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2568514305.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=169054",
+          "author": "よきょい",
+          "description": "7月29日の東京株式市場で、キオクシアホールディングス（285A）の株価が大きく崩れました。同日は一時前日比15%安となる3万7650円まで売られ、終値は3万8380円となりました。 6月22日に付けた上場来高値11万2 […]\n投稿 11万円が3万円台に｜キオクシア、メタプラネットの再来か？ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-from-the-110000-yen-range-to-the-30000-yen-range-is-kioxia-the-next-metaplanet/",
+          "publishedOn": "2026-07-29T08:42:59.000Z",
+          "wordCount": 586,
+          "title": "11万円が3万円台に｜キオクシア、メタプラネットの再来か？",
+          "enclosure": {
+            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
+            "length": "6303335",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2046455159-1.jpg"
+        },
+        {
           "id": "https://crypto-times.jp/?p=169004",
           "author": "よきょい",
           "description": "7月29日、ビットコイン（BTC）の価格は1047万円前後で推移しており、イーサリアム（ETH）は約31.3万円、ソラナ（SOL）は約1.20万円で取引されています。世界の暗号資産時価総額は372兆円で、ビットコインのド […]\n投稿 【今日の仮想通貨】SKハイニックス決算未達で先物市場に急変。偽ウォレットアプリでApple提訴 は CRYPTO TIMES に最初に表示されました。",
@@ -2959,81 +2984,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2011846745.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=168720",
-          "author": "よきょい",
-          "description": "米証券取引委員会（SEC）がコインベースの支援を受けた情報公開訴訟をめぐり、15万ドルの弁護士費用を支払う内容で和解したことが明らかになりました。和解は7月22日付で成立しSECはこれまで非開示としていた2件の文書を公開 […]\n投稿 コインベースがSECに勝利、15万ドル支払いで和解成立 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-coinbase-wins-against-the-sec/",
-          "publishedOn": "2026-07-25T00:37:17.000Z",
-          "wordCount": 584,
-          "title": "コインベースがSECに勝利、15万ドル支払いで和解成立",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2713671311.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=168712",
-          "author": "よきょい",
-          "description": "ビットコインを財務準備資産として保有する上場企業のうち、少なくとも20社が保有の清算や縮小、蓄積方針の緩和に踏み切っていることが明らかになりました。 List of DATs who have abandoned Bit […]\n投稿 上場20社がビットコイン財務戦略を撤退・縮小｜完全撤退は9社 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-20-listed-companies-withdraw-from-or-scale-back-their-btc-financial-strategies/",
-          "publishedOn": "2026-07-24T23:45:14.000Z",
-          "wordCount": 629,
-          "title": "上場20社がビットコイン財務戦略を撤退・縮小｜完全撤退は9社",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2533218961.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=168722",
-          "author": "よきょい",
-          "description": "英国上場のビットコイン財務戦略企業Smarter Webが、177.89BTCを売却して1170万ドルの転換社債を返済したことを7月23日に開示しました。売却の平均価格は1BTCあたり6万5762ドルで、償還期限である8 […]\n投稿 BTC財務戦略に誤算か｜英企業が177枚売却し社債を前倒し返済 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-british-company-sells-177-btc-to-prepay-corporate-bonds/",
-          "publishedOn": "2026-07-24T23:31:15.000Z",
-          "wordCount": 629,
-          "title": "BTC財務戦略に誤算か｜英企業が177枚売却し社債を前倒し返済",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2714204481-1.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=168724",
-          "author": "よきょい",
-          "description": "ビットコインのマイニングプール運営会社Poolin Technologyが、米連邦破産法第11章（チャプター11）の適用を申請しました。同社のウォレット利用者に対する債務は約1億6372万ドルに達しているとされています。 […]\n投稿 元世界最大級BTCマイニング企業Poolinが破綻｜1.1万人の資産どこへ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-btc-mining-company-poolin-collapses/",
-          "publishedOn": "2026-07-24T22:28:30.000Z",
-          "wordCount": 582,
-          "title": "元世界最大級BTCマイニング企業Poolinが破綻｜1.1万人の資産どこへ",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2057554232.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=168723",
-          "author": "よきょい",
-          "description": "トークン化された現実資産（RWA）を機関投資家がDeFiで担保として活用するうえで、価格情報を供給するオラクルのガバナンスが次の関門になっているとみられています。 米証券保管振替機関のDTCCは現在、JPモルガン、ゴール […]\n投稿 トークン化資産、2030年に8.2兆ドルか｜JPモルガンら40社が実験 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-tokenized-assets-could-reach-8-2-trillion-by-2030/",
-          "publishedOn": "2026-07-24T22:15:33.000Z",
-          "wordCount": 578,
-          "title": "トークン化資産、2030年に8.2兆ドルか｜JPモルガンら40社が実験",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2226473899.jpg"
         }
       ]
     }

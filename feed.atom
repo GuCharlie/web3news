@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-07-30T08:17:48.505Z</updated>
+    <updated>2026-07-30T10:37:02.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ANAP、「BITCOIN JAPAN 2026」を11月に開催へ]]></title>
+        <id>https://coinpost.jp/?p=728743</id>
+        <link href="https://coinpost.jp/?p=728743"/>
+        <updated>2026-07-30T09:57:10.000Z</updated>
+        <summary type="html"><![CDATA[ANAPホールディングスが2026年11月27〜28日、ベルサール秋葉原で「BITCOIN JAPAN 2026」を開催する。企業向けSUMMITから一般向けFESTIVALまで3部構成で展開し、「WebX」運営実績を持つCoinPost子会社のSBIイベントクリエイトが企画運営を担う。]]></summary>
+        <author>
+            <name>M.Gelacio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「2万BTC到達」の裏で1株あたりは0.12%減｜Strive]]></title>
+        <id>https://crypto-times.jp/?p=169069</id>
+        <link href="https://crypto-times.jp/news-behind-the-20000-btc-reached-milestone-the-price-per-share-fell-by-0-12/"/>
+        <updated>2026-07-30T09:01:02.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン財務会社のStriveが保有量2万BTCに到達しました。ただし1株あたりの保有量は逆に減っており、株式数の増加が買い増しのペースを上回った形です。 7月27日のSEC提出書類では7月20日から24日にかけて手 […]
+投稿 「2万BTC到達」の裏で1株あたりは0.12%減｜Strive は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、金・銀連動オプションを提供開始]]></title>
+        <id>https://www.neweconomy.jp/?p=596349</id>
+        <link href="https://www.neweconomy.jp/posts/596349"/>
+        <updated>2026-07-30T08:42:56.000Z</updated>
+        <summary type="html"><![CDATA[Binanceが金・銀のオプション取引開始 暗号資産（仮想通貨）取引所大手バイナンス（Binance）が、金と銀を原資産とするオプション取引「コモディティオプションズ（Commodity Options）」の提供開始を7 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン短期保有者の実現時価総額が62%減＝アナリスト分析]]></title>
+        <id>https://coinpost.jp/?p=728755</id>
+        <link href="https://coinpost.jp/?p=728755"/>
+        <updated>2026-07-30T08:37:47.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインの短期保有者（STH）による実現時価総額が、10月の高値から約62%減少したとアナリストが指摘。資本の破壊と安値圏での再取得が背景にあり、過去の弱気相場の水準に接近している実態を解説する。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロシアFSB、Telegram創業者ドゥロフをテロ支援容疑で訴追、国際指名手配へ]]></title>
+        <id>https://www.neweconomy.jp/?p=596343</id>
+        <link href="https://www.neweconomy.jp/posts/596343"/>
+        <updated>2026-07-30T08:36:04.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナ情報機関がチャットボット経由で若者を勧誘と主張 ロシア連邦保安庁（FSB）が、メッセージアプリ「テレグラム（Telegram）」共同創業者のパベル・ドゥロフ（Pavel Durov）氏を、テロ活動支援容疑で訴追 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム財団、セキュリティ研究者のパスカル・カヴェルサッチョを理事に任命]]></title>
+        <id>https://www.neweconomy.jp/?p=596335</id>
+        <link href="https://www.neweconomy.jp/posts/596335"/>
+        <updated>2026-07-30T08:26:48.000Z</updated>
+        <summary type="html"><![CDATA[キュリティ・プライバシー専門家が加わり、理事会は4名体制に イーサリアム財団（Ethereum Foundation：EF）が、セキュリティ研究者のpcaversaccio（通称pc、パスカル・カヴェルサッチョ〈Pasc […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【今日の仮想通貨】日銀利上げでBTC2割超下落の過去。日立がステーブルコインを含む監視サービス開始]]></title>
         <id>https://crypto-times.jp/?p=169122</id>
@@ -2351,17 +2412,6 @@ CLARITY Actは新たな局面へ。民主党が求める「修正」とは何か
 高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に／CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【日曜日に読みたい厳選10本】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>橋本 祐樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウォール街はなぜビットコインETFを買うのか──機関投資家マネーが市場を変えた理由【エックスウィン】]]></title>
-        <id>https://www.nadanews.com/?p=361152</id>
-        <link href="https://www.nadanews.com/361152/"/>
-        <updated>2026-07-25T21:29:55.000Z</updated>
-        <summary type="html"><![CDATA[●米国で現物ビットコインETFが承認されて以降、ビットコイン市場は「個人投資家中心の市場」から「機関投資家が価格形成に大きな影響を与える市場」へと急速に変化して ...
-ウォール街はなぜビットコインETFを買うのか──機関投資家マネーが市場を変えた理由【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>エックスウィン</name>
         </author>
     </entry>
     <entry>

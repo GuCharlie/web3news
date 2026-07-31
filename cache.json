@@ -600,16 +600,6 @@
           "wordCount": 2411,
           "title": "Binanceに集まるビットコイン──BitMEX・BitMart閉鎖で加速する『勝者総取り』とセルフカストディの時代【エックスウィン】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/07/732871428_1752779992529773_6057058080542917426_n_1200x800.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=361050",
-          "author": "宮本航歩",
-          "description": "2026年7月23日（米国時間）、分散型取引所（DEX）を運営するUniswap Labsが、規制対象資産向けの新しい取引標準「Permissioned Poo ...\nUniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/361050/",
-          "publishedOn": "2026-07-27T08:00:00.000Z",
-          "wordCount": 2092,
-          "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/07/AdobeStock_484943090_Editorial_Use_Only_1200x800.jpg"
         }
       ]
     },
@@ -624,6 +614,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=729175",
+          "author": "菊谷ルイス",
+          "description": "サークルがニューヨーク州金融サービス局から限定目的信託免許を取得したと発表した。ステーブルコインUSDCの発行体制強化に向け、規制対応をさらに深める。",
+          "link": "https://coinpost.jp/?p=729175",
+          "publishedOn": "2026-07-31T20:00:30.000Z",
+          "wordCount": 3190,
+          "title": "USDC発行企業サークル、ニューヨーク州から信託免許を取得",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/circle-new-york-trust-charter.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/circle-new-york-trust-charter.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=729138",
           "author": "Enzo",
@@ -1643,36 +1648,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/strategy-not-buying-again-july-27th.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/strategy-not-buying-again-july-27th.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=727792",
-          "author": "CoinPost編集部",
-          "description": "WebX2026のアナリストセッションを詳報。仮想NISHI、長谷川友哉、松嶋真倫の3氏が示した年末BTC予想は5万・6万・8万ドルに分岐。利上げ観測とオンチェーン指標、どちらを重く見るかで読みが割れた理由を解説。",
-          "link": "https://coinpost.jp/?p=727792",
-          "publishedOn": "2026-07-27T06:58:37.000Z",
-          "wordCount": 4293,
-          "title": "トップアナリストと語るビットコイン相場展望｜WebX2026",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/WebX-2026-CRYL-Stage-140922-5492_web2k-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/WebX-2026-CRYL-Stage-140922-5492_web2k-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=727808",
-          "author": "Enzo",
-          "description": "クリプトクアントが指摘。バイナンスへのビットコイン流入でクジラと個人投資家の乖離が拡大している。クジラは過去30日で44％減の39億ドル、個人は22％減の78億ドルとなり、個人がクジラの2倍規模に。29日のFOMC結果が今後の動向を左右する。",
-          "link": "https://coinpost.jp/?p=727808",
-          "publishedOn": "2026-07-27T06:53:03.000Z",
-          "wordCount": 3197,
-          "title": "バイナンスへのビットコイン流入　クジラ44％減、個人22％減",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/bitcoin-new-new-new-2026-march.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/bitcoin-new-new-new-2026-march.jpg"
         }
       ]
     },
@@ -2210,46 +2185,6 @@
           "wordCount": 644,
           "title": "【7/27話題】Zaifが保有BTCのレンディング新サービス検討、ビットマートが来年1月に運営終了、ワールド財団がWLD売却で約86億円調達など（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/27184353/1c2a68ebb8c643cf9ad0f8beec12ab8a.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=595162",
-          "author": "OtsugaShinya",
-          "description": "ビットコインを売却せず貸し出し、貸借料獲得を目指す 国内暗号資産（仮想通貨）取引所ザイフ（Zaif）が、AIフュージョンキャピタルグループ子会社のミライキャピタルホールディングス（MCH）と、暗号資産レンディング領域での […]",
-          "link": "https://www.neweconomy.jp/posts/595162",
-          "publishedOn": "2026-07-27T07:50:50.000Z",
-          "wordCount": 737,
-          "title": "Zaif、保有BTCのレンディング新サービス検討、ミライキャピタルHDと",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/27165034/c4f9ebcb21a44f1737a31de1f0ecbcac.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=595145",
-          "author": "watanabeyousuke",
-          "description": "Galaxy向け金融基盤を拡張、決済・リワード・デジタル資産を統合へ サムスン電子（Samsung Electronics）が、スマートフォン向けウォレット「サムスンウォレット（Samsung Wallet）」について、 […]",
-          "link": "https://www.neweconomy.jp/posts/595145",
-          "publishedOn": "2026-07-27T07:37:25.000Z",
-          "wordCount": 759,
-          "title": "サムスンの「Samsung Wallet」がステーブルコイン対応へ、主要スマホブランドとして先駆け目指す",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/27163703/383368873533304d6fc43228329e41d9.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=595131",
-          "author": "mikajirikoka",
-          "description": "AIなどでプレー位置を検出、該当区画の権利者に特典・報酬付与 サッカークラブの鎌倉インターナショナルFC（鎌倉インテル）が、「鎌倉スタジアムNFTプロジェクト」に関する特許を取得したと7月24日に発表した。特許権者は同ク […]",
-          "link": "https://www.neweconomy.jp/posts/595131",
-          "publishedOn": "2026-07-27T07:12:59.000Z",
-          "wordCount": 748,
-          "title": "鎌倉インテル、スタジアム区画とNFT保有者を連動させる仕組みで特許取得",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/27161213/ba5449c838cd924003707ea1c5160524.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=595094",
-          "author": "HitomotoToshikazu",
-          "description": "インド当局がGitHubにbitchat関連3URL無効化要求 分散型P2P（ピアツーピア）メッセージングアプリ「ビットチャット（bitchat）」に関連するGitHub上の3件のURLについて、インド内務省傘下のインド […]",
-          "link": "https://www.neweconomy.jp/posts/595094",
-          "publishedOn": "2026-07-27T06:58:49.000Z",
-          "wordCount": 769,
-          "title": "インド当局、ジャックドーシー手がける「ビットチャット」のGitHub削除を要求",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/27155836/3c130b2cbc20f8aabc269334bd4d7cf4.jpeg"
         }
       ]
     },
@@ -3529,96 +3464,6 @@
           "wordCount": 607,
           "title": "BTCC、「BTCC ワールドカップ頂上決戦」が大盛況のうちに終了 — 参加者8万人超、取引高は22%急増",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/2026-07-27-15.03.14-1024x576.png"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=168818",
-          "author": "よきょい",
-          "description": "コインベースがCFTC規制下のデリバティブ取引所で米国版の無期限先物（パーペチュアル）型商品の提供を開始しました。まずはナノ・ビットコインとナノ・イーサリアムの契約からで、現物価格に連動し、レバレッジを組み込み、24時間 […]\n投稿 仮想通貨レバレッジの主役「無期限先物」が米国上陸｜コインベース は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-perpetual-futures-arrive-in-the-u-s-coinbase/",
-          "publishedOn": "2026-07-27T07:55:29.000Z",
-          "wordCount": 583,
-          "title": "仮想通貨レバレッジの主役「無期限先物」が米国上陸｜コインベース",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2758805995.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=168812",
-          "author": "よきょい",
-          "description": "トランプ米大統領がホワイトハウス記者協会の夕食会で赤い「Trump 2028」の帽子を取り出し、4期目を目指す意向を冗談交じりに述べたと報道されました。そうした中、同氏の名を冠したミームコインが数百万ドル規模で取引所へ移 […]\n投稿 トランプ「4期目」発言の裏で、同氏ミームコインが取引所へ大量移動 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-massive-movement-of-trump-coins-amid-trumps-fourth-term-remarks/",
-          "publishedOn": "2026-07-27T07:15:50.000Z",
-          "wordCount": 640,
-          "title": "トランプ「4期目」発言の裏で、同氏ミームコインが取引所へ大量移動",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2586170839.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=168814",
-          "author": "よきょい",
-          "description": "経済的にほぼ同じビットコインのエクスポージャーを持つ2つの取引デスクが、それを維持するために大きく異なるコストを支払う可能性が指摘されています。原因は相場観の差ではなく、規制商品が別々の担保システムに置かれ同じヘッジの一 […]\n投稿 同じBTC投資でも年間41億円の差｜担保分断が生む格差とは は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-a-difference-of-4-1-billion-yen-per-year-even-with-the-same-btc-investment/",
-          "publishedOn": "2026-07-27T06:45:25.000Z",
-          "wordCount": 583,
-          "title": "同じBTC投資でも年間41億円の差｜担保分断が生む格差とは",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2491707359-3.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=168811",
-          "author": "よきょい",
-          "description": "ビットコインは週末に6万4000ドル付近で推移しました。欧州中央銀行（ECB）が7月23日に政策金利を据え置いた一方、保有債券は縮小を続け、ユーロ圏の銀行が企業向け・住宅向け融資の基準を厳格化したことが背景にあると見られ […]\n投稿 欧州中銀が債券市場から退く、ビットコインに逆風｜資金争奪へ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-ecb-withdrawal-from-bond-market-poses-headwind-for-bitcoin/",
-          "publishedOn": "2026-07-27T06:25:34.000Z",
-          "wordCount": 607,
-          "title": "欧州中銀が債券市場から退く、ビットコインに逆風｜資金争奪へ",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_193689755.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=168895",
-          "author": "Crypto Times 編集部",
-          "description": "27日午前の為替市場で円相場は1ドル=163円56〜57銭となりました。前週末17時時点から20銭ほど円高となったものの、21日のニューヨーク市場で1986年以来となる163円台を付けた流れが続いています。 長期化する円 […]\n投稿 円安時代の投資先｜投信保有者約9割が含み益。BTCは選択肢なるか は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-weak-yen-investment-mutual-fund-vs-btc/",
-          "publishedOn": "2026-07-27T05:59:50.000Z",
-          "wordCount": 596,
-          "title": "円安時代の投資先｜投信保有者約9割が含み益。BTCは選択肢なるか",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_2498496683-scaled.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=168810",
-          "author": "よきょい",
-          "description": "Galaxy Digitalは、CLARITY法案を成立させるための時間が上院に残り4営業日しかないとして、年内の成立確率を50%から30%へ引き下げました。7月24日の顧客向けメモで、8月の議会休会前に本会議手続きを終 […]\n投稿 CLARITY法案の年内成立確率が30%に低下｜残り4営業日 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-probability-of-clarity-bill-passing-this-year-drops-to-30/",
-          "publishedOn": "2026-07-27T05:55:14.000Z",
-          "wordCount": 638,
-          "title": "CLARITY法案の年内成立確率が30%に低下｜残り4営業日",
-          "enclosure": {
-            "url": "https://crypto-times.jp/wp-content/uploads/2025/12/Tria_mini_tyousei.mp4",
-            "length": "6303335",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/07/shutterstock_1186368265.jpg"
         }
       ]
     }

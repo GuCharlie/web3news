@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-02T02:23:59.819Z</updated>
+    <updated>2026-08-02T08:15:16.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインFOMC通過も上値重く、クラリティ法案とFRB政策観測が焦点｜bitbankアナリスト寄稿]]></title>
+        <id>https://coinpost.jp/?p=729103</id>
+        <link href="https://coinpost.jp/?p=729103"/>
+        <updated>2026-08-02T02:30:37.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）はFOMC通過後も1030万円台で方向感を欠き、物価指標発表後の円高急進が重石となった。クラリティ法案の休会前採決動向とFRBの追加利上げ観測が、目先の相場を左右する。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お金が24時間動き出したら、人間はいつ眠るのか──JERAとBISから見えた「眠らない金融」【編集長コラム】]]></title>
         <id>https://www.nadanews.com/?p=362116</id>
@@ -2190,16 +2200,6 @@ Strategyがビットコインを買わなかった理由──「買い控え」
         <link href="https://coinpost.jp/?p=728241"/>
         <updated>2026-07-28T20:40:26.000Z</updated>
         <summary type="html"><![CDATA[米モルガン・スタンレー・インベストメント・マネジメントがイーサリアムとソラナを対象とした上場投資商品を新設したと発表。手数料は0.14%で、投資家に仮想通貨への低コストなアクセス手段を提供する。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米上場企業ハイパースケール・データ、ビットコイン保有量1106BTCに拡大]]></title>
-        <id>https://coinpost.jp/?p=728235</id>
-        <link href="https://coinpost.jp/?p=728235"/>
-        <updated>2026-07-28T20:00:51.000Z</updated>
-        <summary type="html"><![CDATA[米上場企業ハイパースケール・データがビットコイン保有量が1,106BTCに達したと発表。直近8日間で15BTCを追加購入し、ビットコイン積み増しを継続している。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>

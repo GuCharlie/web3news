@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=362142",
+          "author": "井上 俊彦",
+          "description": "Truth Social（トゥルース・ソーシャル）を運営するTrump Media & Technology Group（トランプ・メディア・アンド・テ ...\nTrump Media、2628BTCを取引所に送付──売却は否定 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/362142/",
+          "publishedOn": "2026-08-02T23:30:00.000Z",
+          "wordCount": 2080,
+          "title": "Trump Media、2628BTCを取引所に送付──売却は否定",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/12/shutterstock_2592034043.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=362139",
+          "author": "井上 俊彦",
+          "description": "Wintermute（ウィンターミュート）は7月30日、2026年上半期の暗号資産OTC（店頭取引）フロー報告書を公表した。 個人投資家が株式市場に関心を移して ...\nアルトコイン、BTCとの連動が低下──機関マネーが市場構造を変える＝Wintermute first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/362139/",
+          "publishedOn": "2026-08-02T23:05:00.000Z",
+          "wordCount": 2060,
+          "title": "アルトコイン、BTCとの連動が低下──機関マネーが市場構造を変える＝Wintermute",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2024/11/shutterstock_1929459776.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=362131",
           "author": "井上 俊彦",
           "description": "Banca d’Italia（イタリア銀行）は7月、ステーブルコインによる国際送金の実証実験の結果を公表し、従来の送金手段に対する体系的なコスト・速 ...\nステーブルコイン送金に一貫したコスト優位性なし＝イタリア中銀 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -474,6 +494,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=729257",
+          "author": "Enzo",
+          "description": "コールドカードのハードウェアウォレット流出を受け、ビットコインのアクティブアドレス数が急増した。クリプトクアントのモレノ氏は、7月31日時点で2024年12月以来の高水準に達したと分析している。",
+          "link": "https://coinpost.jp/?p=729257",
+          "publishedOn": "2026-08-02T23:47:59.000Z",
+          "wordCount": 3182,
+          "title": "コールドカード被害後、ビットコイン送金急増＝クリプトクアント",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-new-2026-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-new-2026-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=729250",
+          "author": "Enzo",
+          "description": "グラスノード（Glassnode）によれば、BTC先物ベーシスが2月から米国債（2年物）利回りを下回る状態が続く。同じ長さの前例は22年8月から23年1月のみで、当時はサイクル安値で終了した。レバレッジ資金の流出と市場の厚み低下との関係を解説する。",
+          "link": "https://coinpost.jp/?p=729250",
+          "publishedOn": "2026-08-02T23:02:00.000Z",
+          "wordCount": 3179,
+          "title": "ビットコイン先物ベーシス、米国債下回る2022年以来の長さ＝グラスノード",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/bitcoin-new-burn.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/bitcoin-new-burn.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=729103",
           "author": "CoinPost編集部",

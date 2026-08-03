@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-03T09:35:09.248Z</updated>
+    <updated>2026-08-03T12:52:27.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ストラテジー、160億円相当ビットコイン売却　優先株配当と買戻しに充当]]></title>
+        <id>https://coinpost.jp/?p=729523</id>
+        <link href="https://coinpost.jp/?p=729523"/>
+        <updated>2026-08-03T12:20:50.000Z</updated>
+        <summary type="html"><![CDATA[ストラテジーが7月27日から8月2日の間に1,638BTCのビットコインを売却し、約1億473万ドルを確保したと発表した。売却益は優先株配当とSTRC株買戻しに充当し、ドル準備金は40億ドルに達した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロシア政府、モスクワ市・州などで暗号資産マイニング禁止へ]]></title>
+        <id>https://www.neweconomy.jp/?p=597351</id>
+        <link href="https://www.neweconomy.jp/posts/597351"/>
+        <updated>2026-08-03T10:18:04.000Z</updated>
+        <summary type="html"><![CDATA[ロシア政府がモスクワ市・州などで暗号資産マイニング禁止へ ロシア政府が、モスクワ市、モスクワ州、クルスク州の一部地域における暗号資産（仮想通貨）のマイニングを禁止することを決定した。7月25日付の政府決定第936号が、7 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス創業者CZ、「ハードウェアウォレットにもバグがある」と発言。コールドカード問題受け]]></title>
+        <id>https://www.neweconomy.jp/?p=597321</id>
+        <link href="https://www.neweconomy.jp/posts/597321"/>
+        <updated>2026-08-03T10:06:55.000Z</updated>
+        <summary type="html"><![CDATA[COLDCARD問題受けセルフカストディの課題に言及 バイナンス（Binance）創業者のチャンポン・ジャオ（Changpeng Zhao：CZ）氏が、ビットコイン（Bitcoin）向けハードウェアウォレット「コールドカ […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットマイン、ETH保有率5％に迫る──7月のETH ETF流入はビットコインETFの2倍超【価格分析】]]></title>
+        <id>https://www.nadanews.com/?p=362211</id>
+        <link href="https://www.nadanews.com/362211/"/>
+        <updated>2026-08-03T09:52:56.000Z</updated>
+        <summary type="html"><![CDATA[・米国の現物イーサリアム上場投資信託（ETF）には7月、3億6517万ドルの資金が流入し、ビットコインETFの1億7242万ドルの2倍を超えた。これにより、8週 ...
+ビットマイン、ETH保有率5％に迫る──7月のETH ETF流入はビットコインETFの2倍超【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Ibrahim Ajibade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ColdCard攻撃前後、取引所BTC残高が約10億ドル増──ドミナンス、60日で最大低下【価格分析】]]></title>
+        <id>https://www.nadanews.com/?p=362176</id>
+        <link href="https://www.nadanews.com/362176/"/>
+        <updated>2026-08-03T09:51:46.000Z</updated>
+        <summary type="html"><![CDATA[・暗号資産ウォレット「コールドカード」を狙った攻撃が3回にわたって発生し、約1367ビットコイン（BTC、8860万ドル相当）が盗まれた。同時期に、BTCは8月 ...
+ColdCard攻撃前後、取引所BTC残高が約10億ドル増──ドミナンス、60日で最大低下【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Ibrahim Ajibade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ローソン、MetaMask決済を実証──米ドル建てステーブルコインも対象に]]></title>
+        <id>https://www.nadanews.com/?p=362249</id>
+        <link href="https://www.nadanews.com/362249/"/>
+        <updated>2026-08-03T09:48:22.000Z</updated>
+        <summary type="html"><![CDATA[ローソンは8月3日、POSレジと連動したステーブルコイン決済の実証実験を東京都内の2店舗に広げると発表した。 同社によると、8月6日にローソン高輪ゲートウェイシ ...
+ローソン、MetaMask決済を実証──米ドル建てステーブルコインも対象に first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>平木 昌宏</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coldcard攻撃、ビットコイン流出「第4波」発生か──被害額170億円相当に]]></title>
         <id>https://www.nadanews.com/?p=362257</id>
@@ -2005,70 +2068,6 @@ XRP、FRB据え置き後に主要10銘柄で上昇率トップ──XRPLで修�
         <summary type="html"><![CDATA[米SECのアトキンス委員長は27日、仮想通貨の市場構造法案「クラリティ法」が上院で成立しなければ、SEC自ら仮想通貨規則を策定する用意があるとCNBCに述べた。法案の現状と、規制枠組みが政権交代で覆るリスクをどう見ているかを解説する。]]></summary>
         <author>
             <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国44州の司法長官「スポーツ関連予測市場の規制権限はCFTCにない」と主張]]></title>
-        <id>https://coinpost.jp/?p=728546</id>
-        <link href="https://coinpost.jp/?p=728546"/>
-        <updated>2026-07-30T00:04:17.000Z</updated>
-        <summary type="html"><![CDATA[米44州の司法長官がCFTCのスポーツ予測市場規制案に対して、本来の規制権限を超えていると反対する意見書を提出。スポーツ業界からはNFLも規則案の不備を指摘している。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トークン化資産の時価総額が66億ドルに急成長＝CoinGecko]]></title>
-        <id>https://www.nadanews.com/?p=361682</id>
-        <link href="https://www.nadanews.com/361682/"/>
-        <updated>2026-07-29T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[CoinGecko（コインゲッコー）が7月29日に公開した調査レポート「Exchanges Reshaping Traditional Asset Tradin ...
-トークン化資産の時価総額が66億ドルに急成長＝CoinGecko first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米SEC委員長、クラリティ法案が可決されない場合「規則を策定する準備はできている」＝報道]]></title>
-        <id>https://www.nadanews.com/?p=361679</id>
-        <link href="https://www.nadanews.com/361679/"/>
-        <updated>2026-07-29T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アメリカ証券取引委員会（SEC）のPaul Atkins（ポール・アトキンス）委員長は7月27日、CNBCのインタビューで、議会が暗号資産（仮想通貨）市場構造法 ...
-米SEC委員長、クラリティ法案が可決されない場合「規則を策定する準備はできている」＝報道 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金融大手BNY、トークン化ファンド向けの新機能をローンチ　ブラックロックも利用を計画]]></title>
-        <id>https://coinpost.jp/?p=728539</id>
-        <link href="https://coinpost.jp/?p=728539"/>
-        <updated>2026-07-29T22:34:53.000Z</updated>
-        <summary type="html"><![CDATA[BNYは、トークン化ファンド向けに新しいデジタル・トランスファー・エージェンシー機能をローンチしたと発表。機能の目的やブラックロックなどの利用計画を説明している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米検察団体、クラリティ法案の変更を提案＝報道]]></title>
-        <id>https://www.nadanews.com/?p=361676</id>
-        <link href="https://www.nadanews.com/361676/"/>
-        <updated>2026-07-29T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[アメリカの検察を代表する2団体が暗号資産（仮想通貨）市場構造法案「CLARITY法案（クラリティ法案）」の修正を求めていると、Politico（ポリティコ）が7 ...
-米検察団体、クラリティ法案の変更を提案＝報道 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robinhood、第2四半期は予測市場収益が暗号資産・株式を上回る]]></title>
-        <id>https://www.nadanews.com/?p=361674</id>
-        <link href="https://www.nadanews.com/361674/"/>
-        <updated>2026-07-29T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米金融サービス大手Robinhood（ロビンフッド）は7月29日に発表した2026年第2四半期（4〜6月）決算で、予測市場のイベント契約収益が暗号資産（仮想通貨 ...
-Robinhood、第2四半期は予測市場収益が暗号資産・株式を上回る first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Shoko Galaviz</name>
         </author>
     </entry>
     <entry>

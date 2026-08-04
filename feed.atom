@@ -2,10 +2,105 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-03T23:33:47.397Z</updated>
+    <updated>2026-08-04T02:06:29.985Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オフライン保管でも安全ではない？Coldcard不正流出の謎に迫る]]></title>
+        <id>https://crypto-times.jp/?p=169420</id>
+        <link href="https://crypto-times.jp/news-unraveling-the-mystery-of-the-unauthorized-coldcard-leak/"/>
+        <updated>2026-08-04T01:59:07.000Z</updated>
+        <summary type="html"><![CDATA[ハードウェアウォレットColdcardで公表された乱数生成の不具合が、オフライン保管の前提そのものに問いを投げかけています。生成された12語または24語の復元フレーズは一見通常のものですが、内部の乱数の幅が大幅に狭まって […]
+投稿 オフライン保管でも安全ではない？Coldcard不正流出の謎に迫る は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[円買い協調介入は2011年以来、仮想通貨に警戒感＝分析]]></title>
+        <id>https://coinpost.jp/?p=729613</id>
+        <link href="https://coinpost.jp/?p=729613"/>
+        <updated>2026-08-04T01:40:28.000Z</updated>
+        <summary type="html"><![CDATA[日米両国は2011年以来となる協調外為介入を実施し、円買いを進めた。米30年債利回りは2007年以来の高値を記録しており、QCPグループは円キャリー巻き戻しが仮想通貨市場に波及するリスクがあると分析している。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金が年初来安値、円建てBTCも数十万円が目減り｜円高直撃]]></title>
+        <id>https://crypto-times.jp/?p=169469</id>
+        <link href="https://crypto-times.jp/news-gold-hits-year-to-date-low-yen-denominated-btc-also-declines-in-value/"/>
+        <updated>2026-08-04T01:40:11.000Z</updated>
+        <summary type="html"><![CDATA[金（ゴールド）の国内小売価格が年初来安値をつけました。地金商最大手の田中貴金属工業が8月3日午前に公表した店頭小売価格は1グラムあたり2万2624円で、前週末から771円（3%）下落し、2025年11月以来およそ8カ月半 […]
+投稿 金が年初来安値、円建てBTCも数十万円が目減り｜円高直撃 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインベースが9月9日に大移管、全建玉が一度決済へ]]></title>
+        <id>https://crypto-times.jp/?p=169416</id>
+        <link href="https://crypto-times.jp/news-coinbase-to-undergo-major-migration-on-september-9th/"/>
+        <updated>2026-08-04T01:15:33.000Z</updated>
+        <summary type="html"><![CDATA[コインベースが、Coinbase International Exchangeの機関投資家向け口座・残高・建玉を9月9日にDeribitへ移管する見通しを示しました。移管当日は未約定の注文がすべて取り消され、建玉はマーク […]
+投稿 コインベースが9月9日に大移管、全建玉が一度決済へ は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米上院、クラリティー法の初回投票見込まれるも先行き不透明]]></title>
+        <id>https://coinpost.jp/?p=729577</id>
+        <link href="https://coinpost.jp/?p=729577"/>
+        <updated>2026-08-04T01:10:20.000Z</updated>
+        <summary type="html"><![CDATA[米上院のスーン院内総務は4日、クラリティー法の初回投票を来週休会前に行う見通しだと述べた。倫理条項を巡るホワイトハウスの回答は依然示されておらず、仮想通貨市場は法案の行方を見極める展開が続く。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テザーゴールド、金14％下落でもQ2保有量9.5％増]]></title>
+        <id>https://coinpost.jp/?p=729583</id>
+        <link href="https://coinpost.jp/?p=729583"/>
+        <updated>2026-08-04T00:51:00.000Z</updated>
+        <summary type="html"><![CDATA[テザーゴールド（XAUT）の2026年第2四半期保有量が9.5％増加した。金価格が14.1％下落する中でも需要が拡大し、市場価値は約28.4億ドルに達した。テザー本体も同期間に金27.1トンを購入している。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTC保有額とほぼ同額を借入、マイニング企業に何が起きたのか]]></title>
+        <id>https://crypto-times.jp/?p=169421</id>
+        <link href="https://crypto-times.jp/news-powercompute-borrows-an-amount-roughly-equal-to-its-btc-holdings/"/>
+        <updated>2026-08-04T00:44:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインマイニングから高性能計算（HPC）へ事業を広げるPowerComputeが、子会社US Digitalを通じてArch Lendingから約1,807万ドルを借り入れたことを開示しました。 7月27日付の2本 […]
+投稿 BTC保有額とほぼ同額を借入、マイニング企業に何が起きたのか は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、仮想通貨6銘柄の上場廃止を8月17日に実施]]></title>
+        <id>https://coinpost.jp/?p=729564</id>
+        <link href="https://coinpost.jp/?p=729564"/>
+        <updated>2026-08-04T00:00:31.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所バイナンスがアクロスプロトコル等6銘柄の上場廃止を発表した。現物取引は8月17日に終了し、先物は8月7日に自動決済される。対象銘柄の保有者は事前の対応が求められる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ストラテジーが1638BTC売却、黒字100億ドルから赤字82億ドルへ]]></title>
+        <id>https://crypto-times.jp/?p=169412</id>
+        <link href="https://crypto-times.jp/news-strategy-sold-1638-btc/"/>
+        <updated>2026-08-04T00:00:04.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインを大量に保有するストラテジー（旧マイクロストラテジー）が、1,638BTCを約1億470万ドルで売却したことを、8月3日にSECへ提出した8-Kで明らかにしました。 売却は7月27日から8月2日にかけて行われ […]
+投稿 ストラテジーが1638BTC売却、黒字100億ドルから赤字82億ドルへ は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米ブロックチェーン協会、クラリティ法案で全米保安官協会の主張に反論]]></title>
         <id>https://www.nadanews.com/?p=362309</id>
@@ -29,6 +124,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[リップル、ジロとリクイドに出資　資本市場のトークン化を加速]]></title>
+        <id>https://coinpost.jp/?p=729534</id>
+        <link href="https://coinpost.jp/?p=729534"/>
+        <updated>2026-08-03T23:15:47.000Z</updated>
+        <summary type="html"><![CDATA[リップルがジロとリクイドへ戦略出資し、規制対応の移転代行や担保可動化機能を基盤に追加した。トークン化ファンドの活用拡大を後押しする。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ソロマイナーが20万ドル相当のブロック報酬を獲得]]></title>
         <id>https://www.nadanews.com/?p=362305</id>
         <link href="https://www.nadanews.com/362305/"/>
@@ -37,6 +142,26 @@
 ソロマイナーが20万ドル相当のブロック報酬を獲得 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>井上 俊彦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ローソン、円と米ドルのステーブルコイン店頭決済を実証実験へ　メタマスクも利用]]></title>
+        <id>https://coinpost.jp/?p=729550</id>
+        <link href="https://coinpost.jp/?p=729550"/>
+        <updated>2026-08-03T22:40:37.000Z</updated>
+        <summary type="html"><![CDATA[ローソンは、ステーブルコインの店頭決済導入を検討するために実証実験を行うと発表。円と米ドルのステーブルコイン店頭決済を検証し、仮想通貨ウォレットのメタマスクも利用する。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アメリカンビットコイン、BTC採掘量過去最高　保有数は8000BTC超]]></title>
+        <id>https://coinpost.jp/?p=729535</id>
+        <link href="https://coinpost.jp/?p=729535"/>
+        <updated>2026-08-03T22:30:49.000Z</updated>
+        <summary type="html"><![CDATA[アメリカンビットコインが2026年第2四半期決算を発表し、ビットコイン保有量を8,000超に伸ばした。採掘量は過去最高を記録し、保有拡大のペースが加速している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -84,6 +209,16 @@ Saylor氏「個人保有BTCは1サトシも売却せず」Strategyの追加売�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ブラックロック、ステーブルコイン準備資産向け新型ファンド2種を投入]]></title>
+        <id>https://coinpost.jp/?p=729536</id>
+        <link href="https://coinpost.jp/?p=729536"/>
+        <updated>2026-08-03T21:50:51.000Z</updated>
+        <summary type="html"><![CDATA[ブラックロックがステーブルコインの準備資産にも使えるトークン化ファンド2種をローンチ。伝統的市場とデジタル市場をつなぐ資金管理の選択肢が広がる可能性がある。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[BlackRock、トークン化MMF2商品を提供開始]]></title>
         <id>https://www.nadanews.com/?p=362293</id>
         <link href="https://www.nadanews.com/362293/"/>
@@ -92,6 +227,16 @@ Saylor氏「個人保有BTCは1サトシも売却せず」Strategyの追加売�
 BlackRock、トークン化MMF2商品を提供開始 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン専門ウォレット『コールドカード』流出被害拡大、グレースケールは「限定的脆弱性」と分析]]></title>
+        <id>https://coinpost.jp/?p=729537</id>
+        <link href="https://coinpost.jp/?p=729537"/>
+        <updated>2026-08-03T21:25:53.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコイン専門ウォレット「コールドカード」の脆弱性を悪用した第4波の攻撃が発生し被害額が拡大している。ビットコインセキュリティ研究者のロップ氏は、検証の限界と自己管理の責任について見解を語った。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -114,6 +259,26 @@ Bernstein、クラリティ法案の遅れは市場に逆風も「規制整備�
 Coldcard事件でビットコインのアクティブアドレスが急増──「利用拡大」ではなく資金退避だった可能性【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>エックスウィン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットマイン、イーサリアムを追加購入　5%保有目標まであとわずか]]></title>
+        <id>https://coinpost.jp/?p=729539</id>
+        <link href="https://coinpost.jp/?p=729539"/>
+        <updated>2026-08-03T20:50:58.000Z</updated>
+        <summary type="html"><![CDATA[米ビットマインが先週1万399ETHのイーサリアムを追加購入し、保有総額は113億ドルに達したと発表した。イーサリアム保有比率は目標の5%達成に向けて96%まで進んだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ストラテジーのセイラー会長、自身のビットコインは「売却していない」と表明]]></title>
+        <id>https://coinpost.jp/?p=729538</id>
+        <link href="https://coinpost.jp/?p=729538"/>
+        <updated>2026-08-03T20:35:56.000Z</updated>
+        <summary type="html"><![CDATA[ストラテジーのマイケル・セイラー会長は、自身が保有するビットコインは一切売却していないとX上で説明した。同社が今年3度目のビットコイン売却を発表した後の投稿だった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -1716,38 +1881,6 @@ JPMorgan、クラリティ法案成立遅れは暗号資産市場の逆風に＝
         <summary type="html"><![CDATA[韓国政府は仮想通貨の譲渡・貸与益への課税を2027年1月から予定通り開始する方針を示した。損失の繰越控除は認められず、投資家の国内離れが懸念されている。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【7/30話題】日立がデジタルアセット取引のAML実証実施、テレグラムのドゥロフがテロ支援容疑で訴追、アバランチがHeliconをテストネットで有効化など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=596562</id>
-        <link href="https://www.neweconomy.jp/posts/596562"/>
-        <updated>2026-07-30T12:51:44.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クオンタム、1000ETHを約3.1億円で売却──累計売却上限を4375ETHに拡大]]></title>
-        <id>https://www.nadanews.com/?p=361792</id>
-        <link href="https://www.nadanews.com/361792/"/>
-        <updated>2026-07-30T12:16:56.000Z</updated>
-        <summary type="html"><![CDATA[国内上場企業のETH保有量で首位水準にあったクオンタムソリューションズが、ETHの売却を加速させている。 同社は7月30日、連結子会社のGPT Pals Stu ...
-クオンタム、1000ETHを約3.1億円で売却──累計売却上限を4375ETHに拡大 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCC、2026年7月の準備金比率が129%に到達 ｜ 2,550万ドルのリスク準備基金も確保]]></title>
-        <id>https://crypto-times.jp/?p=169137</id>
-        <link href="https://crypto-times.jp/press-btccs-reserve-ratio-reached-129-in-july-2026/"/>
-        <updated>2026-07-30T11:50:20.000Z</updated>
-        <summary type="html"><![CDATA[Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 暗号資産取引所BTCCは、2026年7月に「PoR：準備金証明レポート […]
-投稿 BTCC、2026年7月の準備金比率が129%に到達 ｜ 2,550万ドルのリスク準備基金も確保 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
     <entry>

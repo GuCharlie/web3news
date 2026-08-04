@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-04T08:29:37.816Z</updated>
+    <updated>2026-08-04T11:04:19.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「人を正直者にすることはできない」──Lituus財団責任者が語る、予測市場の紛争解決とゲーム理論]]></title>
+        <id>https://www.nadanews.com/?p=362415</id>
+        <link href="https://www.nadanews.com/362415/"/>
+        <updated>2026-08-04T08:46:57.000Z</updated>
+        <summary type="html"><![CDATA[CoinGeckoによると、予測市場の名目取引高は2026年第2四半期に1138億ドルとなり、2025年通年の635億ドルの約1.8倍に達した。 かつては暗号資 ...
+「人を正直者にすることはできない」──Lituus財団責任者が語る、予測市場の紛争解決とゲーム理論 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Ibrahim Ajibade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイントレジャリーの先へ　DeepPoint始動｜WebX2026]]></title>
+        <id>https://coinpost.jp/?p=729650</id>
+        <link href="https://coinpost.jp/?p=729650"/>
+        <updated>2026-08-04T08:30:50.000Z</updated>
+        <summary type="html"><![CDATA[リミックスポイント取締役の原田浩志氏がWebX2026で語った、ビットコイントレジャリー戦略の「次のフェーズ」。同社がプレリリースしたディープテック特化メディア兼成長プラットフォーム「DeepPoint」の構想と、3年以内の事業目標を詳報する。]]></summary>
+        <author>
+            <name>M.Gelacio</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イクヨ、BTCマイニング機1400台を一時停止──価格下落で収益性見直し]]></title>
         <id>https://www.nadanews.com/?p=362400</id>
@@ -46,6 +67,17 @@
         <summary type="html"><![CDATA[韓国で海外未申告暗号資産事業者サイトの遮断に向け審議基準を協議 韓国で、海外の未申告暗号資産事業者サイトへの接続遮断に向けた審議基準が協議されたと、現地メディア「アジア経済」が7月31日に報じた。 報道によると、韓国の放 […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【今日の仮想通貨】円高で金やBTCの価値が目減り。ストラテジー社がBTC大量売却]]></title>
+        <id>https://crypto-times.jp/?p=169471</id>
+        <link href="https://crypto-times.jp/news-todays-cryptocurrency-news-august-4/"/>
+        <updated>2026-08-04T07:43:16.000Z</updated>
+        <summary type="html"><![CDATA[8月4日、ビットコイン（BTC）の価格は999万円前後で推移しており、イーサリアム（ETH）は約29.1万円、ソラナ（SOL）は約1.15万円で取引されています。世界の暗号資産時価総額は357兆円で、ビットコインのドミナ […]
+投稿 【今日の仮想通貨】円高で金やBTCの価値が目減り。ストラテジー社がBTC大量売却 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
         </author>
     </entry>
     <entry>
@@ -111,6 +143,17 @@ AIはビットコインを奪えるか？──BitGo CEOが100BTCウォレット
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「利益が出る」表示が罠？ウォレットの事前確認を欺く手口とは]]></title>
+        <id>https://crypto-times.jp/?p=169413</id>
+        <link href="https://crypto-times.jp/news-what-are-the-tactics-used-to-deceive-wallet-pre-verification-checks/"/>
+        <updated>2026-08-04T06:47:29.000Z</updated>
+        <summary type="html"><![CDATA[ウォレットに搭載された取引シミュレーション機能が、実際には資金が攻撃者に送られる取引を「わずかな利益が出る」と表示してしまう手口が報告されました。7月30日にarXivで公開されたプレプリント（査読前論文）によると、この […]
+投稿 「利益が出る」表示が罠？ウォレットの事前確認を欺く手口とは は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Canton Networkの創世紀　機関金融をオンチェーンへ｜WebX2026]]></title>
         <id>https://coinpost.jp/?p=729606</id>
         <link href="https://coinpost.jp/?p=729606"/>
@@ -148,6 +191,17 @@ AIはビットコインを奪えるか？──BitGo CEOが100BTCウォレット
         <summary type="html"><![CDATA[2027年10月の新規制導入に先駆け 米投資アプリを展開するロビンフッド・マーケッツ（Robinhood Markets）の英国法人ロビンフッドUK（Robinhood U.K. Ltd）が、英国金融行為規制機構（FCA […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナの処理能力が66%拡大｜それでも混雑は解消されない？]]></title>
+        <id>https://crypto-times.jp/?p=169415</id>
+        <link href="https://crypto-times.jp/news-solanas-processing-capacity-increased-by-66/"/>
+        <updated>2026-08-04T05:41:06.000Z</updated>
+        <summary type="html"><![CDATA[ソラナが7月29日、1ブロックあたりの計算上限を6,000万コンピュートユニット（CU）から1億CUへ引き上げました。約66.7%の拡大となり、Solana Foundationは66%増と説明しています。CUは取引が消 […]
+投稿 ソラナの処理能力が66%拡大｜それでも混雑は解消されない？ は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
         </author>
     </entry>
     <entry>
@@ -202,6 +256,17 @@ AIはビットコインを奪えるか？──BitGo CEOが100BTCウォレット
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[トランプ系企業のビットコインがほぼ全額移動？残りは3.43BTCか]]></title>
+        <id>https://crypto-times.jp/?p=169414</id>
+        <link href="https://crypto-times.jp/news-has-almost-all-the-bitcoin-held-by-trump-linked-companies-been-moved/"/>
+        <updated>2026-08-04T04:41:06.000Z</updated>
+        <summary type="html"><![CDATA[トランプ・メディア・アンド・テクノロジー・グループに関連するウォレットから8月2日、2,628BTCが移動したことが報告されました。5月22日に確認された約2,650BTCの移動と合わせると計5,278BTCとなり、同社 […]
+投稿 トランプ系企業のビットコインがほぼ全額移動？残りは3.43BTCか は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[野村傘下BOOSTRYとデジタル・アセット、『カントン』活用のウォレット提供へ]]></title>
         <id>https://coinpost.jp/?p=729680</id>
         <link href="https://coinpost.jp/?p=729680"/>
@@ -243,6 +308,17 @@ FBI捜査官、捜査口座から暗号資産1.6億円を移転＝報道 first a
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[米仮想通貨法案に暗雲｜議事日程に載らず、8月7日が事実上の期限]]></title>
+        <id>https://crypto-times.jp/?p=169419</id>
+        <link href="https://crypto-times.jp/news-dark-clouds-hang-over-the-us-cryptocurrency-bill/"/>
+        <updated>2026-08-04T04:00:07.000Z</updated>
+        <summary type="html"><![CDATA[米国のデジタル資産市場構造法案「CLARITY法案」が、8月の休会前に残された最後の審議週を迎えています。月曜の本会議日程には政府資金関連法案が置かれ、CLARITY法案は議事日程に登場していません。倫理規定とステーブル […]
+投稿 米仮想通貨法案に暗雲｜議事日程に載らず、8月7日が事実上の期限 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[野村BOOSTRY、Canton基盤のマルチチェーンウォレットを年内提供へ──米Digital Assetと協業]]></title>
         <id>https://www.nadanews.com/?p=362315</id>
         <link href="https://www.nadanews.com/362315/"/>
@@ -251,6 +327,39 @@ FBI捜査官、捜査口座から暗号資産1.6億円を移転＝報道 first a
 野村BOOSTRY、Canton基盤のマルチチェーンウォレットを年内提供へ──米Digital Assetと協業 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>平木 昌宏</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインのスパム対策案が瀬戸際に｜支持率わずか0.89%]]></title>
+        <id>https://crypto-times.jp/?p=169418</id>
+        <link href="https://crypto-times.jp/news-bitcoins-anti-spam-measures-are-on-the-brink/"/>
+        <updated>2026-08-04T03:38:03.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインのスパム対策提案BIP-110が7月25日、通常の承認に向けた最後の2,016ブロック期間に入りました。マイナーの支持率は0.89%にとどまり、ロックインに必要な55%（1,109ブロック）には遠く及ばない状 […]
+投稿 ビットコインのスパム対策案が瀬戸際に｜支持率わずか0.89% は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[会社は1638BTC売却も、セイラー氏「1サトシも売っていない」]]></title>
+        <id>https://crypto-times.jp/?p=169424</id>
+        <link href="https://crypto-times.jp/news-mr-saylor-i-havent-sold-a-single-satoshi/"/>
+        <updated>2026-08-04T03:03:30.000Z</updated>
+        <summary type="html"><![CDATA[ストラテジー（旧マイクロストラテジー）が保有ビットコインの売却を続けるなか、共同創業者で会長のマイケル・セイラー氏が、自身の個人保有については一切売却していないとX上で表明しました。 When I say “Never  […]
+投稿 会社は1638BTC売却も、セイラー氏「1サトシも売っていない」 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ローソンがステーブルコイン決済へ｜POSレジ完結は国内初]]></title>
+        <id>https://crypto-times.jp/?p=169488</id>
+        <link href="https://crypto-times.jp/news-lawson-pilots-stablecoin-payments/"/>
+        <updated>2026-08-04T02:48:42.000Z</updated>
+        <summary type="html"><![CDATA[ローソンは8月3日、店舗におけるステーブルコインでの店頭決済の導入を検討するため、実証実験を実施すると発表しました。 ステーブルコインは法定通貨などに価格を連動させたデジタル通貨で、値動きが小さいことから決済用途での活用 […]
+投稿 ローソンがステーブルコイン決済へ｜POSレジ完結は国内初 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
         </author>
     </entry>
     <entry>
@@ -272,6 +381,28 @@ FBI捜査官、捜査口座から暗号資産1.6億円を移転＝報道 first a
 Bitgetの日本撤退に対し、Bitget Walletが継続提供を強調──「日本ローカライズに努める」 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>栃山 直樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegram、App Storeから消失｜関連仮想通貨GRAMは4.1%安]]></title>
+        <id>https://crypto-times.jp/?p=169482</id>
+        <link href="https://crypto-times.jp/news-telegram-disappears-from-the-app-store/"/>
+        <updated>2026-08-04T02:29:49.000Z</updated>
+        <summary type="html"><![CDATA[メッセージアプリ「Telegram」がApp Storeの検索機能から世界的に姿を消しました。4日時点では、確認されたすべての地域で検索結果に表示されず、アプリの公式ページも404エラーを返す状態が続いています。Appl […]
+投稿 Telegram、App Storeから消失｜関連仮想通貨GRAMは4.1%安 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【今日のマクロ経済】3営業日連続の円買い介入で155円台へ—「介入は時間稼ぎ」との見方も]]></title>
+        <id>https://crypto-times.jp/?p=169470</id>
+        <link href="https://crypto-times.jp/news-macroeconomic-news-for-august-4/"/>
+        <updated>2026-08-04T02:20:18.000Z</updated>
+        <summary type="html"><![CDATA[8月4日現在、日本政府・日銀が3営業日連続で円買い介入を実施したとみられ、ドル円は東京市場で157円台後半から155円20銭台まで急落する場面がありました。5月6日以来の水準です。ただしその後はショートカバーで157円台 […]
+投稿 【今日のマクロ経済】3営業日連続の円買い介入で155円台へ—「介入は時間稼ぎ」との見方も は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
         </author>
     </entry>
     <entry>
@@ -2034,132 +2165,6 @@ Binance Japan、熊本地震で1000万円支援 first appeared on NADA NEWS（�
 Strategy、第2四半期に82億ドルの損失を計上──BTC価格の下落が影響 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPモルガン、クラリティー法案の停滞は仮想通貨市場に逆風と分析]]></title>
-        <id>https://coinpost.jp/?p=728845</id>
-        <link href="https://coinpost.jp/?p=728845"/>
-        <updated>2026-07-30T23:00:30.000Z</updated>
-        <summary type="html"><![CDATA[JPモルガンのアナリストは、クラリティー法の上院可決確率低下が仮想通貨市場への逆風になると分析。草案の一部条項は機関投資家の参入を妨げる可能性があるとも指摘した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBM、「信頼できる量子優位性」を実証したと発表]]></title>
-        <id>https://www.nadanews.com/?p=361871</id>
-        <link href="https://www.nadanews.com/361871/"/>
-        <updated>2026-07-30T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[IBMとシカゴ大学の研究者は7月30日、70個の論理量子ビットと新しい誤り訂正方式を用いて「信頼できる量子優位性」を実証したと発表した。 量子優位性とは、量子コ ...
-IBM、「信頼できる量子優位性」を実証したと発表 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クオンタムソリューションズ、イーサリアム1000ETHを売却　累計売却上限数量増加も発表]]></title>
-        <id>https://coinpost.jp/?p=728856</id>
-        <link href="https://coinpost.jp/?p=728856"/>
-        <updated>2026-07-30T22:30:49.000Z</updated>
-        <summary type="html"><![CDATA[クオンタムソリューションズは、連結子会社が仮想通貨イーサリアムを1,000ETH売却したことを発表。売却方針の売却上限数量を増加したことも公表した。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ベッセント米財務長官、クラリティ法案の採決を要求]]></title>
-        <id>https://www.nadanews.com/?p=361867</id>
-        <link href="https://www.nadanews.com/361867/"/>
-        <updated>2026-07-30T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[アメリカのScott Bessent（スコット・ベッセント）財務長官は7月30日、Xに投稿し、暗号資産（仮想通貨）市場構造法案「CLARITY法案（クラリティ法 ...
-ベッセント米財務長官、クラリティ法案の採決を要求 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPMorganやCiti参加、BIS実証でトークン化資金による国際決済]]></title>
-        <id>https://www.nadanews.com/?p=361866</id>
-        <link href="https://www.nadanews.com/361866/"/>
-        <updated>2026-07-30T22:15:00.000Z</updated>
-        <summary type="html"><![CDATA[国際決済銀行（BIS）と国際金融協会（IIF）が共同で進める実証プロジェクト「Project Agorá（プロジェクト・アゴラ）」で、中央銀行と民間金融機関がト ...
-JPMorganやCiti参加、BIS実証でトークン化資金による国際決済 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBMとシカゴ大学、論理量子ビット70個で優位性実証]]></title>
-        <id>https://coinpost.jp/?p=728844</id>
-        <link href="https://coinpost.jp/?p=728844"/>
-        <updated>2026-07-30T22:05:28.000Z</updated>
-        <summary type="html"><![CDATA[米IBMとシカゴ大学の研究チームが、量子コンピューターで古典コンピューターには実行不可能な計算を検証可能な形で完了させたと発表した。ビットコインの暗号技術への影響は現時点で限定的とみられている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPMorgan、クラリティ法案成立遅れは暗号資産市場の逆風に＝CoinDesk]]></title>
-        <id>https://www.nadanews.com/?p=361864</id>
-        <link href="https://www.nadanews.com/361864/"/>
-        <updated>2026-07-30T21:45:00.000Z</updated>
-        <summary type="html"><![CDATA[米銀JPMorgan（JPモルガン）は、暗号資産（仮想通貨）の市場構造を定める「CLARITY Act（クラリティ法案）」の年内成立の可能性が低下していることが ...
-JPMorgan、クラリティ法案成立遅れは暗号資産市場の逆風に＝CoinDesk first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ストラテジー決算、第2四半期に1.3兆円純損失を計上]]></title>
-        <id>https://coinpost.jp/?p=728843</id>
-        <link href="https://coinpost.jp/?p=728843"/>
-        <updated>2026-07-30T21:40:21.000Z</updated>
-        <summary type="html"><![CDATA[ストラテジーが2026年第2四半期決算を発表。ビットコインの公正価値変動により82.2億ドルの純損失を計上した一方、保有量は84万3775BTCに達した。投資家にとっては損益計算書の悪化とバランスシート強化の両面を見る必要がある内容だ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米上院議員、クラリティ法案巡る新たな倫理規定案をホワイトハウスに提出＝The Block]]></title>
-        <id>https://www.nadanews.com/?p=361855</id>
-        <link href="https://www.nadanews.com/361855/"/>
-        <updated>2026-07-30T21:15:00.000Z</updated>
-        <summary type="html"><![CDATA[米上院で審議中の暗号資産（仮想通貨）市場構造法案「CLARITY Act（クラリティ法案）」を巡り、共和党のThom Tillis（トム・ティリス）、民主党のR ...
-米上院議員、クラリティ法案巡る新たな倫理規定案をホワイトハウスに提出＝The Block first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デジタル資産運用会社3iQ、ブータン新都市のビットコイン運用を受託]]></title>
-        <id>https://coinpost.jp/?p=728842</id>
-        <link href="https://coinpost.jp/?p=728842"/>
-        <updated>2026-07-30T21:10:23.000Z</updated>
-        <summary type="html"><![CDATA[カナダの資産運用会社3iQが、ブータンの新都市構想ゲレフ・マインドフルネス・シティのビットコイン準備金運用を受託した。同国のBTC売却継続の中、資金は都市開発に充てられているとみられる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産取引所は「世界の金融取引所」へ──Open Interestが示す資本集中とTradFi市場への進出【エックスウィン】]]></title>
-        <id>https://www.nadanews.com/?p=361856</id>
-        <link href="https://www.nadanews.com/361856/"/>
-        <updated>2026-07-30T21:06:19.000Z</updated>
-        <summary type="html"><![CDATA[●暗号資産デリバティブ市場の未決済建玉（Open Interest）は約650億ドル規模となっており、Binance、Bybit、Gateの上位3取引所で約63 ...
-暗号資産取引所は「世界の金融取引所」へ──Open Interestが示す資本集中とTradFi市場への進出【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>エックスウィン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米上院両党、クラリティー法の倫理条項に新たな妥協案　休会まで7日]]></title>
-        <id>https://coinpost.jp/?p=728823</id>
-        <link href="https://coinpost.jp/?p=728823"/>
-        <updated>2026-07-30T20:42:39.000Z</updated>
-        <summary type="html"><![CDATA[米上院両党議員がクラリティー法の倫理条項に関する新たな妥協案を30日にホワイトハウスへ送付した。8月7日の休会前に60票を確保できるかが仮想通貨市場の先行きを左右する。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-04T19:25:18.547Z</updated>
+    <updated>2026-08-04T20:49:48.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ギャラクシーとBNY提携、カストディに仮想通貨ステーキング組み込む]]></title>
+        <id>https://coinpost.jp/?p=729833</id>
+        <link href="https://coinpost.jp/?p=729833"/>
+        <updated>2026-08-04T20:35:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨関連企業ギャラクシー・デジタルが米大手金融サービス企業BNYと提携し、デジタル資産カストディ基盤にステーキング機能を組み込む計画を発表した。機関投資家向けサービスの拡充が進む見通しだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米大手銀ウェルズ・ファーゴ、法人向けトークン化預金導入へ]]></title>
+        <id>https://coinpost.jp/?p=729814</id>
+        <link href="https://coinpost.jp/?p=729814"/>
+        <updated>2026-08-04T20:00:03.000Z</updated>
+        <summary type="html"><![CDATA[米大手銀ウェルズ・ファーゴは法人・商業顧客向けにトークン化預金を導入すると発表した。今秋に米ドルと英ポンドの限定的な取引から開始し、2027年にかけて対象国・通貨を拡大する方針だ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ローソンのMetaMask決済導入実証、ネットスターズが支援]]></title>
         <id>https://www.nadanews.com/?p=362452</id>
@@ -1772,89 +1792,6 @@ ETH、7月は20％上昇──ステーキングに20億ドル流入もシグナ
 【墨汁うまい氏寄稿】暗号資産分離課税へ王手、投資家が見落とす「対象外」の盲点とは？ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>墨汁うまい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[レイ・ダリオ氏、ビットコインは1％保有継続　印刷不可も量子リスクに警戒]]></title>
-        <id>https://coinpost.jp/?p=729138</id>
-        <link href="https://coinpost.jp/?p=729138"/>
-        <updated>2026-07-31T08:29:30.000Z</updated>
-        <summary type="html"><![CDATA[米著名投資家レイ・ダリオ氏が英ポッドキャストで、自身のポートフォリオにおけるBTC比率が約1％のまま変わらないことを明らかにした。印刷できない強みを認めつつ、量子コンピューターや政府による監視・課税のリスクにも言及している。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全サービス停止から半年、暗号資産取引所BTCBOXが8月3日より再開へ]]></title>
-        <id>https://www.nadanews.com/?p=362014</id>
-        <link href="https://www.nadanews.com/362014/"/>
-        <updated>2026-07-31T08:05:47.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産取引所「BTCBOX」を運営するBTCボックスは7月31日、システムメンテナンスに伴い停止していたサービスを8月3日より約半年ぶりに順次再開すると発表し ...
-全サービス停止から半年、暗号資産取引所BTCBOXが8月3日より再開へ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>栃山 直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIS「プロジェクト・アゴラ」、実価値を伴う国際決済テスト結果公表。28機関が約80万スイスフラン相当を取引]]></title>
-        <id>https://www.neweconomy.jp/?p=596802</id>
-        <link href="https://www.neweconomy.jp/posts/596802"/>
-        <updated>2026-07-31T07:48:51.000Z</updated>
-        <summary type="html"><![CDATA[実価値を伴う国際決済テストを完了 国際決済銀行（BIS）と国際金融協会（IIF）が共同で進める官民連携プロジェクト「プロジェクト・アゴラ（Project Agorá）」が、実際の価値を伴うトークン化された決済資産を用いた […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国経済副首相、暗号資産課税を2027年から予定どおり実施の方針＝報道]]></title>
-        <id>https://www.neweconomy.jp/?p=596795</id>
-        <link href="https://www.neweconomy.jp/posts/596795"/>
-        <updated>2026-07-31T07:41:18.000Z</updated>
-        <summary type="html"><![CDATA[韓国で暗号資産課税が2027年施行へ 韓国のク・ユンチョル（具潤哲）経済副首相兼財政経済部長官が、暗号資産（仮想通貨）課税を現行法に基づき2027年から予定どおり施行する考えを示した。同国メディア「デジタルアセット（Di […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オリコポイントがBTC・ETH・XRPへの交換に対応、SBI VCトレードと連携]]></title>
-        <id>https://www.neweconomy.jp/?p=596789</id>
-        <link href="https://www.neweconomy.jp/posts/596789"/>
-        <updated>2026-07-31T07:34:27.000Z</updated>
-        <summary type="html"><![CDATA[SBI VCトレードがオリコポイントの交換商品に暗号資産を追加 国内暗号資産（仮想通貨）取引所SBI VCトレードが、オリエントコーポレーション（オリコ）と連携し、「オリコポイント」の交換商品として、ビットコイン（BTC […]]]></summary>
-        <author>
-            <name>TanakaShuya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オリコポイントが暗号資産と交換可能に──BTC・ETH・XRPが対象]]></title>
-        <id>https://www.nadanews.com/?p=362009</id>
-        <link href="https://www.nadanews.com/362009/"/>
-        <updated>2026-07-31T07:33:55.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所SBI VCトレードは7月31日、オリエントコーポレーション（オリコ）と連携し、同社のポイントサービス「オリコポイント」の交換商品とし ...
-オリコポイントが暗号資産と交換可能に──BTC・ETH・XRPが対象 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>栃山 直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アンソロピックのAIが3社に侵入、支払い手段も模索か]]></title>
-        <id>https://crypto-times.jp/?p=169151</id>
-        <link href="https://crypto-times.jp/news-claude-three-incidents/"/>
-        <updated>2026-07-31T07:28:04.000Z</updated>
-        <summary type="html"><![CDATA[アンソロピック（Anthropic）社は7月30日、セキュリティ試験中に自社AIモデル「Claude」がテスト環境から外部のインターネットに到達し、実在する3組織のシステムへ不正アクセスしていたと公表しました。うち1件で […]
-投稿 アンソロピックのAIが3社に侵入、支払い手段も模索か は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム・インスティテューショナル、初回資金調達完了。100超の支援者が参画]]></title>
-        <id>https://www.neweconomy.jp/?p=596783</id>
-        <link href="https://www.neweconomy.jp/posts/596783"/>
-        <updated>2026-07-31T07:27:21.000Z</updated>
-        <summary type="html"><![CDATA[EFから引き継いだ機関向け活動が本格始動 金融機関などによるイーサリアム（Ethereum）およびそのエコシステムの導入を支援する非営利団体「イーサリアム・インスティテューショナル（Ethereum Institutio […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
         </author>
     </entry>
     <entry>

@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=362530",
+          "author": "栃山 直樹",
+          "description": "イーロン・マスク氏が率いるSpaceX（スペースX）は、上場（IPO）後初となる第2四半期決算を発表した。 同決算では大幅な増収とともに、財務資産として保有する ...\nSpaceX、上場後初の決算を発表──売上高92％増と1.8万BTCの保有維持 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/362530/",
+          "publishedOn": "2026-08-05T01:42:26.000Z",
+          "wordCount": 2125,
+          "title": "SpaceX、上場後初の決算を発表──売上高92％増と1.8万BTCの保有維持",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/08/AdobeStock_1912802133_Editorial_Use_Only-scaled.jpeg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=362522",
+          "author": "栃山 直樹",
+          "description": "中国が主導するブロックチェーン技術の国際標準規格案が、国際標準化機構（ISO）において正式にプロジェクト化されたと、8月3日に中国メディアが報じた。 今回立案さ ...\n中国主導のブロックチェーン国際標準案がISOで始動──日本・欧州らも参加 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/362522/",
+          "publishedOn": "2026-08-05T00:18:41.000Z",
+          "wordCount": 2127,
+          "title": "中国主導のブロックチェーン国際標準案がISOで始動──日本・欧州らも参加",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/08/AdobeStock_216349757-scaled.jpeg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=362520",
           "author": "井上 俊彦",
           "description": "Hashdex Asset Management（ハッシュデックス・アセット・マネジメント）は8月3日、ビットコイン（BTC）現物ETF（上場投資信託）「Has ...\nHashdex、ビットコイン現物ETFを閉鎖へ first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -574,6 +594,81 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=729895",
+          "author": "K.Kobayashi",
+          "description": "イタリアの最大手銀行インテーザ・サンパオロは、2026年2Q末時点の保有証券を報告。仮想通貨ビットコインやイーサリアムのETFなどの保有状況が明らかになった。",
+          "link": "https://coinpost.jp/?p=729895",
+          "publishedOn": "2026-08-05T01:55:59.000Z",
+          "wordCount": 3188,
+          "title": "イタリア最大手銀インテーザが保有証券開示、ETHのステーキングETF「ETHB」が26年2Qに3倍増",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/Intesa-Sanpaolo_1361389367.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/Intesa-Sanpaolo_1361389367.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=729900",
+          "author": "Enzo",
+          "description": "DCG傘下のFortitude Miningが、ネブラスカ州プロッサーの12.5MW施設買収を完了。純支出約470万ドルで電力ポートフォリオは7拠点60MW超に拡大。ナスダック上場計画やジーキャッシュ（ZEC）採掘コスト圧縮の狙いを読む。",
+          "link": "https://coinpost.jp/?p=729900",
+          "publishedOn": "2026-08-05T01:42:25.000Z",
+          "wordCount": 3180,
+          "title": "米フォーティチュード社、ジーキャッシュ採掘拡大へ　12.5MW施設取得",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/zcash-mining-fund-back.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/zcash-mining-fund-back.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=729887",
+          "author": "Enzo",
+          "description": "テレグラムのアップルストア一時消失について、創業者パベル・ドゥロフ氏は恐喝目的の投稿者による攻撃が原因だったと説明した。投稿編集機能を悪用した手口やAppleへの批判、トークンGRAMの値動きも解説する。",
+          "link": "https://coinpost.jp/?p=729887",
+          "publishedOn": "2026-08-05T01:08:48.000Z",
+          "wordCount": 3176,
+          "title": "テレグラム一時消失、恐喝攻撃と説明",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/telegram-wallet.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/telegram-wallet.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=729859",
+          "author": "A.Yamada",
+          "description": "ビットディアがノルウェーのTydalでVoltaと16年・47億ドル規模のAIデータセンター賃貸契約を締結した。採掘したビットコインを全売却する方針も継続している。",
+          "link": "https://coinpost.jp/?p=729859",
+          "publishedOn": "2026-08-05T00:55:07.000Z",
+          "wordCount": 3200,
+          "title": "ビットディア、ボルタと7,400億円規模のAIデータセンター契約締結　保有BTCはゼロ維持",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/Bitdeer-Group.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/Bitdeer-Group.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=729845",
+          "author": "菊谷ルイス",
+          "description": "米上院インディアン問題委員会で先住民ゲーミング団体がクラリティー法にスポーツ賭博の州管轄条項を明記するよう求めている。法案自体は倫理条項を巡る対立で休会前の採決実施も不透明な状況が続いている。",
+          "link": "https://coinpost.jp/?p=729845",
+          "publishedOn": "2026-08-05T00:05:55.000Z",
+          "wordCount": 3182,
+          "title": "米上院、クラリティー法にスポーツ賭博の州管轄条項追加を要求",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/stablecoin-congress-vote-next-week.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/stablecoin-congress-vote-next-week.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=729853",
           "author": "K.Kobayashi",
@@ -1585,16 +1680,6 @@
           "wordCount": 811,
           "title": "ユニスワップ、利回り運用機能「Earn」提供開始。モルフォ基盤でUSDCなどの利回り運用に対応",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/03123649/876e304e4bb15b2d9fb631a8544ee9da.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=596853",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/596853",
-          "publishedOn": "2026-07-31T11:54:03.000Z",
-          "wordCount": 781,
-          "title": "【7/31話題】ケネディクスら4社が不動産STとステーブルコインのクロスチェーンDvP実証、ストラテジーのQ2決算は83億ドルの営業損失など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/31193541/eff7816340447e8a7ec144f2055feecd.jpg"
         }
       ]
     },

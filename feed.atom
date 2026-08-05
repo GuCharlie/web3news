@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-05T11:00:42.193Z</updated>
+    <updated>2026-08-05T13:09:19.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[サークル、Arc創設バリデーターにブラックロックやSBIが参加]]></title>
+        <id>https://coinpost.jp/?p=730015</id>
+        <link href="https://coinpost.jp/?p=730015"/>
+        <updated>2026-08-05T12:45:42.000Z</updated>
+        <summary type="html"><![CDATA[サークルは9月16日のArcチェーンメインネット開始を前に、ブラックロックやマスターカードなど11社を創設バリデーターに指定したと発表した。ブラックロックはBUIDLトークンをArcに展開する計画だ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【今日の仮想通貨】AI攻撃でBTCブリッジが停止。金融庁が「暗号資産・ステーブルコイン課」新設]]></title>
         <id>https://crypto-times.jp/?p=169546</id>
@@ -2257,70 +2267,6 @@ ETH、7月は20％上昇──ステーキングに20億ドル流入もシグナ
         <summary type="html"><![CDATA[イタリア中央銀行がステーブルコイン送金の実証実験結果を公表。伝統的な送金手段と比べ体系的なコスト優位性は確認できなかったとしている。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FIFAワールドカップ、予測市場での取引が3兆円規模に　公式NFTも盛況]]></title>
-        <id>https://coinpost.jp/?p=729214</id>
-        <link href="https://coinpost.jp/?p=729214"/>
-        <updated>2026-08-01T00:45:28.000Z</updated>
-        <summary type="html"><![CDATA[チェイナリシスが2026年W杯が予測市場にもたらしたインパクトを分析。取引総額200億ドル規模となった。FIFA公式NFTプラットフォームでは10万人超がチケット購入権を取得した。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム11周年、手数料減で「ウルトラサウンドマネー」に揺らぎ]]></title>
-        <id>https://crypto-times.jp/?p=169165</id>
-        <link href="https://crypto-times.jp/news-ethereums-11th-anniversary/"/>
-        <updated>2026-08-01T00:05:07.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムが7月30日で誕生から11年を迎えました。最初の10年でDAO事件を乗り越え、PoSへ移行する「マージ」を完了し、ステーブルコインやDeFi、トークン化資産の中心的な基盤となりましたが、2度目の10年はより難 […]
-投稿 イーサリアム11周年、手数料減で「ウルトラサウンドマネー」に揺らぎ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[期待と警戒が交差するFOMC後の市場── ビットコインは「反発の質」を試す局面へ【BitTrade Market Weekly】]]></title>
-        <id>https://www.nadanews.com/?p=362057</id>
-        <link href="https://www.nadanews.com/362057/"/>
-        <updated>2026-08-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今週の市場は、「政策イベントを通過しても方向感が定まらず、短期的な安心と中期的な警戒が交錯した一週間」だった。 ビットコインは週前半、63,000〜65,000 ...
-期待と警戒が交差するFOMC後の市場── ビットコインは「反発の質」を試す局面へ【BitTrade Market Weekly】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>荒澤 文寛（あらさわ ふみひろ） ビットトレード リサーチアナリスト</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[出荷量は1桁増でも売上76%増｜キオクシアを押し上げた価格高騰とは]]></title>
-        <id>https://crypto-times.jp/?p=169213</id>
-        <link href="https://crypto-times.jp/news-what-drove-the-price-surge-that-boosted-kioxia/"/>
-        <updated>2026-07-31T23:49:32.000Z</updated>
-        <summary type="html"><![CDATA[キオクシアホールディングスの2027年3月期第1四半期は、売上収益が1兆7,671億円と前四半期比76.2%増、前年同期比では415.5%増となりました。伸びをけん引したのは物量ではなく価格で、米ドルベースの販売単価が前 […]
-投稿 出荷量は1桁増でも売上76%増｜キオクシアを押し上げた価格高騰とは は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米財務省がイラン企業2社に制裁措置、デジタル資産決済による制裁回避も主張]]></title>
-        <id>https://coinpost.jp/?p=729205</id>
-        <link href="https://coinpost.jp/?p=729205"/>
-        <updated>2026-07-31T23:15:25.000Z</updated>
-        <summary type="html"><![CDATA[米財務省は、イラン関連の新たな制裁措置を発表。今回のホルムズ海峡における制裁の要因となった活動には、デジタル資産の決済による制裁回避も含まれるとしている。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨ZEC、「無制限偽造」の欠陥プールを封鎖｜「Ironwood」開始]]></title>
-        <id>https://crypto-times.jp/?p=169164</id>
-        <link href="https://crypto-times.jp/news-cryptocurrency-zec-patches-flaw-allowing-unlimited-counterfeiting/"/>
-        <updated>2026-07-31T23:03:20.000Z</updated>
-        <summary type="html"><![CDATA[プライバシー系仮想通貨Zcash（ZEC）が7月28日、アップグレード「Ironwood」を実施し、脆弱性が見つかったシールドプール「Orchard」を封鎖して、NU6.3のルールに基づく新たなプールを開設しました。ZE […]
-投稿 仮想通貨ZEC、「無制限偽造」の欠陥プールを封鎖｜「Ironwood」開始 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
         </author>
     </entry>
     <entry>

@@ -2,10 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-06T23:53:47.419Z</updated>
+    <updated>2026-08-07T02:27:27.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北朝鮮ハッカー、コインベースも標的　1640社侵入＝報道]]></title>
+        <id>https://coinpost.jp/?p=730403</id>
+        <link href="https://coinpost.jp/?p=730403"/>
+        <updated>2026-08-07T02:15:30.000Z</updated>
+        <summary type="html"><![CDATA[米WIRED誌が独自入手した内部証拠によると、研究者が北朝鮮ハッカー集団のサーバーに22カ月潜入し、コインベースなど世界1640社の被害を確認した。標的は仮想通貨の鍵やウォレットに集中していたという。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビザ、「Visa Direct」でステーブルコイン送金対応拡大。zerohashが基盤提供]]></title>
+        <id>https://www.neweconomy.jp/?p=598768</id>
+        <link href="https://www.neweconomy.jp/posts/598768"/>
+        <updated>2026-08-07T01:53:27.000Z</updated>
+        <summary type="html"><![CDATA[Visa Directでステーブルコイン送金・事前資金供給に対応へ 米決済大手のビザ（Visa）と金融機関向けにステーブルコイン対応の規制・技術基盤を提供するゼロハッシュ（zerohash）が、ビザの送金サービス「ビザ・ […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブラックロックの「イーサリアム（ETH）」現物ETF、3口を1口へ併合]]></title>
+        <id>https://www.neweconomy.jp/?p=598780</id>
+        <link href="https://www.neweconomy.jp/posts/598780"/>
+        <updated>2026-08-07T01:50:38.000Z</updated>
+        <summary type="html"><![CDATA[ETHAが3口を1口に併合 米資産運用大手ブラックロック（BlackRock）の暗号資産（仮想通貨）イーサリアム（ETH）の現物ETFが、10月5日を基準日として、翌6日の営業開始時に3口を1口にまとめるシェア併合を実施 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ大統領、クラリティー法成立なら仮想通貨売却益の納税延期も]]></title>
+        <id>https://coinpost.jp/?p=730333</id>
+        <link href="https://coinpost.jp/?p=730333"/>
+        <updated>2026-08-07T01:45:32.000Z</updated>
+        <summary type="html"><![CDATA[米上院のトム・ティリス議員とルーベン・ガレゴ議員が提出した仮想通貨規制法の倫理条項により、トランプ大統領が資産売却時の税負担を軽減できる可能性が浮上した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットゴー、複数取引所口座の資金管理を一元化する「BitGo Link」提供開始]]></title>
+        <id>https://www.neweconomy.jp/?p=598773</id>
+        <link href="https://www.neweconomy.jp/posts/598773"/>
+        <updated>2026-08-07T01:44:56.000Z</updated>
+        <summary type="html"><![CDATA[BitGoが接続済み取引所口座の一元管理サービスを提供 暗号資産（仮想通貨）カストディ企業ビットゴー（BitGo）が、接続済みの複数取引所口座を一元的に可視化・管理できるサービス「ビットゴーリンク（BitGo Link） […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブロック、四半期決算で増収増益　人員大幅削減も営業費用増加]]></title>
+        <id>https://coinpost.jp/?p=730349</id>
+        <link href="https://coinpost.jp/?p=730349"/>
+        <updated>2026-08-07T01:30:31.000Z</updated>
+        <summary type="html"><![CDATA[ブロックが2026年4-6月期決算を発表。売上総利益が増加するなど好調だったが、アナリストからは人員40%削減にもかかわらず営業費用が前年から増加しているとの指摘も上がった。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カルシ、ネットフリックス予測市場番組に抗議]]></title>
+        <id>https://coinpost.jp/?p=730372</id>
+        <link href="https://coinpost.jp/?p=730372"/>
+        <updated>2026-08-07T00:59:59.000Z</updated>
+        <summary type="html"><![CDATA[予測市場運営会社カルシが、ネットフリックスの新作ドキュメンタリー「Instadocs」のトレーラー映像を巡り、削除と訂正を求める抗議文を送付した。ネバダ州で禁止された取引が行われたかのような誤解を招くとしている。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ondo創業者死去で経営権争いに、母親がCEOを提訴]]></title>
+        <id>https://coinpost.jp/?p=730334</id>
+        <link href="https://coinpost.jp/?p=730334"/>
+        <updated>2026-08-07T00:32:35.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨企業オンドの創業者ネイサン・オールマン氏の死後、母親のキャスリーン氏がCEOイアン・デボード氏の解任と会社の支配権確保を求め、米デラウェア州裁判所に訴えを起こした。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI転換というだけでマイニング株が急騰する時代は終わった]]></title>
+        <id>https://www.nadanews.com/?p=362869</id>
+        <link href="https://www.nadanews.com/362869/"/>
+        <updated>2026-08-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「AI」の二文字でビットコイン（BTC）マイニング株が急騰した時代は終わったようだ。リースを結び、AIテナントの名を挙げ、数百メガワットを上乗せすれば株価が垂直 ...
+AI転換というだけでマイニング株が急騰する時代は終わった first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi減速に逆行し、トークン化された現実資産が急成長＝CoinShares]]></title>
         <id>https://www.nadanews.com/?p=362866</id>

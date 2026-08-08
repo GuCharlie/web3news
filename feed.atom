@@ -2,10 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-08T01:38:07.231Z</updated>
+    <updated>2026-08-08T06:42:51.004Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブラジル中銀、仮想通貨送金に最大24時間の遅延義務付け]]></title>
+        <id>https://coinpost.jp/?p=730620</id>
+        <link href="https://coinpost.jp/?p=730620"/>
+        <updated>2026-08-08T05:00:04.000Z</updated>
+        <summary type="html"><![CDATA[ブラジル中銀は8月7日、詐欺対策として一部の仮想通貨送金を最大24時間遅延させる新規則を発表した。来年施行され、1万ドル超の海外仮想通貨企業や自己管理ウォレットへの送金が対象となる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロシア当局、ウクライナ発詐欺に関与した違法仮想通貨交換所を摘発　20人超拘束]]></title>
+        <id>https://coinpost.jp/?p=730609</id>
+        <link href="https://coinpost.jp/?p=730609"/>
+        <updated>2026-08-08T04:00:12.000Z</updated>
+        <summary type="html"><![CDATA[ロシア当局がモスクワ・シティで違法な仮想通貨交換所9カ所を摘発し20人超を拘束した。ウクライナ拠点の詐欺で盗まれた資金の送金に利用されていた。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイニング大手MARA、採掘BTCの91%を売却｜純損失6億ドル]]></title>
+        <id>https://crypto-times.jp/?p=169699</id>
+        <link href="https://crypto-times.jp/news-major-miner-mara-sells-91-of-mined-bitcoin/"/>
+        <updated>2026-08-08T03:09:06.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインマイニング大手MARA Holdingsが第2四半期に2,213BTCを売却していたことが分かりました。これは同期に採掘した2,422BTCの91.37%にあたります。 同社はさらに、AI・高性能計算向けに開 […]
+投稿 マイニング大手MARA、採掘BTCの91%を売却｜純損失6億ドル は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨カストディ大手BitGoに集団訴訟、目論見書が争点に]]></title>
+        <id>https://crypto-times.jp/?p=169700</id>
+        <link href="https://crypto-times.jp/news-class-action-lawsuit-filed-against-major-cryptocurrency-custodian-bitgo/"/>
+        <updated>2026-08-08T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨カストディ大手BitGoの投資家に対し、複数の法律事務所が8月7日の期限を警告する通知を出しています。ただしこの期限は、提起された証券集団訴訟で主任原告となることを求める投資家にのみ適用されるものです。 通知を出 […]
+投稿 仮想通貨カストディ大手BitGoに集団訴訟、目論見書が争点に は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン決済BTCpayに重大な脆弱性]]></title>
+        <id>https://www.nadanews.com/?p=363114</id>
+        <link href="https://www.nadanews.com/363114/"/>
+        <updated>2026-08-08T02:29:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン決済ソフトのBTCPay Server（ビーティーシーペイ・サーバー）は8月8日、二要素認証（2FA）を迂回できる重大な脆弱性が悪用されているとして ...
+ビットコイン決済BTCpayに重大な脆弱性 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>NADA NEWS編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サークル、USDCとCCTPをXレイヤーに導入]]></title>
+        <id>https://coinpost.jp/?p=730607</id>
+        <link href="https://coinpost.jp/?p=730607"/>
+        <updated>2026-08-08T02:20:33.000Z</updated>
+        <summary type="html"><![CDATA[ステーブルコイン発行企業サークルが、USDCと相互運用プロトコルCCTPをOKXのXレイヤーに導入したと発表した。仮想通貨取引所OKXの利用者はドル建て資産のクロスチェーン移動や分散型金融での活用が可能になる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン6万5000ドル回復も、上値期待は過去最低の23%]]></title>
+        <id>https://crypto-times.jp/?p=169701</id>
+        <link href="https://crypto-times.jp/news-bitcoin-reclaims-65000-yet-upside-expectations-hit-record-low/"/>
+        <updated>2026-08-08T02:15:21.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインが今週6万5,000ドルを回復しました。一時6万5390ドルまで買われ、7月下旬以来の高値をつけています。 Bitcoin price by TradingView ハードウェアウォレットの脆弱性問題やCLA […]
+投稿 ビットコイン6万5000ドル回復も、上値期待は過去最低の23% は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインに分岐リスク？新提案「BIP-110」に期限迫る]]></title>
+        <id>https://crypto-times.jp/?p=169702</id>
+        <link href="https://crypto-times.jp/news-deadline-approaching-for-new-bitcoin-proposal-bip-110/"/>
+        <updated>2026-08-08T01:55:29.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインは、ブロックデータを縮小する一時的なソフトフォーク提案「BIP-110」の期限に近づいています。現在のシグナル期間が終了すると、この提案を適用するノードは支持を示さないブロックを拒否するようになります。期間終 […]
+投稿 ビットコインに分岐リスク？新提案「BIP-110」に期限迫る は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[55時間で6700件の指摘、AIのBTC脆弱性診断はどこまで本物か]]></title>
         <id>https://crypto-times.jp/?p=169703</id>

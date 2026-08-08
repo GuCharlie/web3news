@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=363132",
+          "author": "Ibrahim Ajibade",
+          "description": "専門家インタビュー（パート2）：フィル・モナスティルスキー氏（Lituus財団エグゼクティブ・ディレクター） 関連記事：「人を正直者にすることはできない」──予 ...\n予測市場は「ギャンブル」から「政策を支える情報インフラ」へ──国家にもたらす2つの価値とは【Lituus財団責任者インタビュー②】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/363132/",
+          "publishedOn": "2026-08-08T11:27:46.000Z",
+          "wordCount": 2638,
+          "title": "予測市場は「ギャンブル」から「政策を支える情報インフラ」へ──国家にもたらす2つの価値とは【Lituus財団責任者インタビュー②】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/08/image1-10.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=363114",
           "author": "NADA NEWS編集部",
           "description": "ビットコイン決済ソフトのBTCPay Server（ビーティーシーペイ・サーバー）は8月8日、二要素認証（2FA）を迂回できる重大な脆弱性が悪用されているとして ...\nビットコイン決済BTCpayに重大な脆弱性 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -780,16 +790,6 @@
           "wordCount": 2662,
           "title": "【N.Avenue club 4期2回ラウンドテーブル】オンチェーン金融はどこまで現実になったのか──ステーブルコイン・トークン化資産・金融インフラの現在地",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/08/a30cadbd914f8c7c8797fe95a3e014d8.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=362309",
-          "author": "井上 俊彦",
-          "description": "米暗号資産（仮想通貨）業界団体のBlockchain Association（ブロックチェーン協会）は8月3日、上院で審議中の暗号資産市場構造法案「CLARIT ...\n米ブロックチェーン協会、クラリティ法案で全米保安官協会の主張に反論 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/362309/",
-          "publishedOn": "2026-08-03T23:30:00.000Z",
-          "wordCount": 2166,
-          "title": "米ブロックチェーン協会、クラリティ法案で全米保安官協会の主張に反論",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/07/AdobeStock_413672239-scaled.jpeg"
         }
       ]
     },
@@ -2093,21 +2093,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/binance-more-office.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/binance-more-office.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=729534",
-          "author": "菊谷ルイス",
-          "description": "リップルがジロとリクイドへ戦略出資し、規制対応の移転代行や担保可動化機能を基盤に追加した。トークン化ファンドの活用拡大を後押しする。",
-          "link": "https://coinpost.jp/?p=729534",
-          "publishedOn": "2026-08-03T23:15:47.000Z",
-          "wordCount": 3193,
-          "title": "リップル、ジロとリクイドに出資　資本市場のトークン化を加速",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103002.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103002.jpg"
         }
       ]
     },
@@ -3121,6 +3106,26 @@
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
         {
+          "id": "https://crypto-times.jp/?p=169694",
+          "author": "よきょい",
+          "description": "CryptoQuantによると、Binanceにおけるステーブルコイン証拠金のXRP建玉は7月31日に約1億8,600万ドルへ低下し、2025年4月以来の低水準となりました。同じ契約タイプでBybitは約2億2,900万 […]\n投稿 リップル、1ドル割れ目前｜レバレッジは現物出来高の6倍超 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-ripple-is-on-the-verge-of-falling-below-1/",
+          "publishedOn": "2026-08-08T11:45:01.000Z",
+          "wordCount": 576,
+          "title": "リップル、1ドル割れ目前｜レバレッジは現物出来高の6倍超",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/08/shutterstock_2477249035.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=169697",
+          "author": "よきょい",
+          "description": "ビットコインマイナーのCleanSparkが、会計年度第3四半期に前年同期比30.5%の減収と、4億9,720万ドルの利益から損失への転落を発表しました。 6月30日までの3か月の売上は1億9,860万ドルから1億3,8 […]\n投稿 赤字転落のBTCマイニング大手はAIに賭ける｜長期負債17.8億ドル は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-major-btc-mining-firm-that-swung-to-a-loss-bets-on-ai/",
+          "publishedOn": "2026-08-08T11:19:29.000Z",
+          "wordCount": 576,
+          "title": "赤字転落のBTCマイニング大手はAIに賭ける｜長期負債17.8億ドル",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/08/shutterstock_2563918931.jpg"
+        },
+        {
           "id": "https://crypto-times.jp/?p=169699",
           "author": "よきょい",
           "description": "ビットコインマイニング大手MARA Holdingsが第2四半期に2,213BTCを売却していたことが分かりました。これは同期に採掘した2,422BTCの91.37%にあたります。 同社はさらに、AI・高性能計算向けに開 […]\n投稿 マイニング大手MARA、採掘BTCの91%を売却｜純損失6億ドル は CRYPTO TIMES に最初に表示されました。",
@@ -3659,16 +3664,6 @@
           "wordCount": 583,
           "title": "ストラテジーが1638BTC売却、黒字100億ドルから赤字82億ドルへ",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/08/shutterstock_2604077555.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=169422",
-          "author": "よきょい",
-          "description": "仮想通貨取引プラットフォームのLunoが地域撤退の対象となった一部利用者について、外部ウォレットや他取引所への仮想通貨送付を停止したことが明らかになりました。対象者に残された標準的な手段は、保有資産を売却して8月31日ま […]\n投稿 仮想通貨を外部に出せず「売却のみ」｜取引所Lunoが送付停止 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-luno-suspends-cryptocurrency-transfers/",
-          "publishedOn": "2026-08-03T23:28:23.000Z",
-          "wordCount": 579,
-          "title": "仮想通貨を外部に出せず「売却のみ」｜取引所Lunoが送付停止",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/08/shutterstock_2740790805.jpg"
         }
       ]
     }

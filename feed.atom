@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-14T22:17:30.557Z</updated>
+    <updated>2026-08-14T22:47:40.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ノルウェー政府系ファンド、ビットコイン間接保有が過去最高に]]></title>
+        <id>https://coinpost.jp/?p=731028</id>
+        <link href="https://coinpost.jp/?p=731028"/>
+        <updated>2026-08-14T22:15:34.000Z</updated>
+        <summary type="html"><![CDATA[ノルウェー中央銀行投資管理部門（NBIM）の間接的ビットコイン保有量が過去最高の1万1,549BTCに達したと、K33のデータで判明。イーサリアムの間接保有やスペースX株の初開示も明らかになった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米SEC、証券トークン化特例規則の公表を再度延期]]></title>
+        <id>https://coinpost.jp/?p=731029</id>
+        <link href="https://coinpost.jp/?p=731029"/>
+        <updated>2026-08-14T21:30:38.000Z</updated>
+        <summary type="html"><![CDATA[米SECが準備するトークン化証券の特例措置公表が再び延期された。クラリティー法案の条項調整が影響しており、関連する仮想通貨規則の公開会合も中止となった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米Cboe、ビットコインなど3倍レバレッジETFを申請]]></title>
         <id>https://coinpost.jp/?p=731026</id>

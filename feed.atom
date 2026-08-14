@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-14T19:27:15.018Z</updated>
+    <updated>2026-08-14T20:02:45.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米MSCI、ストラテジーとメタプラネットの株価指数除外を協議]]></title>
+        <id>https://coinpost.jp/?p=731018</id>
+        <link href="https://coinpost.jp/?p=731018"/>
+        <updated>2026-08-14T20:00:43.000Z</updated>
+        <summary type="html"><![CDATA[米指数大手MSCIは非事業会社を除外する新基準を協議中。5月データでの想定では、ビットコイン保有のストラテジーとメタプラネットを含む3社が削除の対象になり得るとされ、投資家は資金流出圧力を注視している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Netflix、破綻した暗号資産取引所「FTX」の盛衰をドラマ化──11月19日配信]]></title>
         <id>https://www.nadanews.com/?p=364036</id>
@@ -1685,39 +1695,6 @@ bitFlyer、ビットコインの分岐計画で対応発表 first appeared on NA
         <updated>2026-08-10T08:30:49.000Z</updated>
         <summary type="html"><![CDATA[ビットコイン採掘とクラウドマイニングを手掛けるBitFuFuが、7月に保有ビットコインを357BTC減らした主因は将来のハッシュレート330日分に対する前払いだったと説明しました。同時に生産量と管理ハッシュレートも減少し […]
 投稿 ビットコイン企業BitFuFu、保有BTCが357枚減少｜前払いが要因 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デジタルガレージ、ステーブルコイン決済基盤を商用展開──JCBなどへ先行提供予定]]></title>
-        <id>https://www.nadanews.com/?p=363359</id>
-        <link href="https://www.nadanews.com/363359/"/>
-        <updated>2026-08-10T07:58:56.000Z</updated>
-        <summary type="html"><![CDATA[デジタルガレージは8月10日、ステーブルコイン決済基盤「DG Stablecoin Payment Service（DG SPS）」の商用展開を開始したと発表し ...
-デジタルガレージ、ステーブルコイン決済基盤を商用展開──JCBなどへ先行提供予定 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナETFに2.6億ドル流入、それでも資産は4900万ドル減]]></title>
-        <id>https://crypto-times.jp/?p=169755</id>
-        <link href="https://crypto-times.jp/news-260-million-flows-into-solana-etfs/"/>
-        <updated>2026-08-10T07:55:29.000Z</updated>
-        <summary type="html"><![CDATA[ビットワイズのソラナETF（正式名称ビットワイズ・ソラナ・ステーキングETF）が、2026年上半期に株式の設定・償還を通じて差し引き2億6710万ドルを集めながら、純資産を減らして期を終えました。6月末の純資産は5億92 […]
-投稿 ソラナETFに2.6億ドル流入、それでも資産は4900万ドル減 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[売上ゼロのBTCマイニング企業が16億株を発行、手元現金は23万ドル]]></title>
-        <id>https://crypto-times.jp/?p=169756</id>
-        <link href="https://crypto-times.jp/news-btc-mining-company-with-zero-revenue-issues-1-6-billion-shares/"/>
-        <updated>2026-08-10T07:33:24.000Z</updated>
-        <summary type="html"><![CDATA[稼働中の事業を持たないビットコイン採掘企業MGTが、8月6日までに約16億5000万株を新規発行していたことが分かりました。2026年上半期の売上高はゼロ、現金残高は23万2000ドルで、事業再開には追加の資本が必要だと […]
-投稿 売上ゼロのBTCマイニング企業が16億株を発行、手元現金は23万ドル は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>よきょい</name>
         </author>

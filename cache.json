@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=364053",
+          "author": "荒澤 文寛（あらさわ ふみひろ） ビットトレード リサーチアナリスト",
+          "description": "今週の市場は、「外部環境は改善したものの、ビットコインへの確信が広がらなかった一週間」だった。 ビットコインは週前半に65,000ドル前後（約1,030万〜1, ...\n好材料でも上がれないビットコイン── 問われる「現物需要」の持続力【BitTrade Market Weekly】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/364053/",
+          "publishedOn": "2026-08-15T00:00:00.000Z",
+          "wordCount": 2258,
+          "title": "好材料でも上がれないビットコイン── 問われる「現物需要」の持続力【BitTrade Market Weekly】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/08/772772772_1559955855598191_325112358801887970_n_1200x800.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=364070",
           "author": "NADA NEWS編集部",
           "description": "みなさん、今週もお疲れ様でした！ 暗号資産規制の金融商品取引法（金商法）への移行や、与党が推進する「AIオンチェーン金融」の進展など、いまWeb3は私たちの日常 ...\n今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.8】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -684,6 +694,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=731027",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨取引所バイナンスが、規制動向を理由にHTXやEXMOなど計16の事業者・プラットフォームとの取引処理を段階的に制限すると発表した。23日には新たに11社が対象となる。",
+          "link": "https://coinpost.jp/?p=731027",
+          "publishedOn": "2026-08-15T00:40:31.000Z",
+          "wordCount": 3178,
+          "title": "バイナンス、HTXなど16社と取引制限へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/binance-new-pic-2022.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/binance-new-pic-2022.png"
+        },
         {
           "id": "https://coinpost.jp/?p=731044",
           "author": "K.Kobayashi",
@@ -2363,26 +2388,6 @@
           "wordCount": 581,
           "title": "グレースケール、仮想通貨ETFのステーキング報酬を毎月現金分配へ",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/08/shutterstock_1857833056.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=169817",
-          "author": "よきょい",
-          "description": "東証株価指数（TOPIX）の第2段階の見直しが、2026年10月の定期入替から始まります。判定の基準日は2026年8月の最終営業日で、当落線上にある銘柄にとっては今月の株価と出来高がそのまま採否に反映される局面に入りまし […]\n投稿 TOPIX見直しで8月末が運命の判定日｜仮想通貨企業に二重の壁 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-end-of-august-is-the-critical-determination-date-for-the-topix-review/",
-          "publishedOn": "2026-08-10T12:38:56.000Z",
-          "wordCount": 588,
-          "title": "TOPIX見直しで8月末が運命の判定日｜仮想通貨企業に二重の壁",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/08/shutterstock_1666743961.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=169819",
-          "author": "よきょい",
-          "description": "8月10日、ビットコイン（BTC）の価格は1026万円前後で推移しており、イーサリアム（ETH）は約30.2万円、ソラナ（SOL）は約1.21万円で取引されています。世界の暗号資産時価総額は360兆円で、ビットコインのド […]\n投稿 【今日の仮想通貨】150億ドル調達を支えたChatGPT。AIのBTC推奨は聞き方次第？ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-todays-cryptocurrency-news-august-10/",
-          "publishedOn": "2026-08-10T11:53:27.000Z",
-          "wordCount": 605,
-          "title": "【今日の仮想通貨】150億ドル調達を支えたChatGPT。AIのBTC推奨は聞き方次第？",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/08/shutterstock_2662676261.jpg"
         }
       ]
     }

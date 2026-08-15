@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-15T00:59:29.787Z</updated>
+    <updated>2026-08-15T02:14:46.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メタプラネットが「BitBonds」創設、初回社債発行完了]]></title>
+        <id>https://coinpost.jp/?p=731036</id>
+        <link href="https://coinpost.jp/?p=731036"/>
+        <updated>2026-08-15T01:30:05.000Z</updated>
+        <summary type="html"><![CDATA[メタプラネットが社債発行プログラム「BitBonds」を創設し、総額約2億円の社債発行を完了した。2026年12月期中間決算は増収増益もビットコイン評価損で純損失となった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヴァンエック、「ビットコインは底打ち近い」と見解]]></title>
+        <id>https://coinpost.jp/?p=731059</id>
+        <link href="https://coinpost.jp/?p=731059"/>
+        <updated>2026-08-15T01:05:23.000Z</updated>
+        <summary type="html"><![CDATA[米資産運用会社ヴァンエックがビットコイン市場停滞は4年サイクルの一部であると述べ、独自フレームワークを基に底打ちが近い可能性を指摘した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンス、HTXなど16社と取引制限へ]]></title>
         <id>https://coinpost.jp/?p=731027</id>

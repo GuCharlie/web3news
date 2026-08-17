@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=364327",
+          "author": "Ibrahim Ajibade",
+          "description": "・Lido（リド）のコントリビューターらは、ステーキング収益の大幅な低下によって小規模バリデーターがネットワークから撤退する可能性があると警告し、イーサリアム開 ...\nLido、ステーキング報酬抑制案への批判強める──イーサリアムのステーキング比率34%突破 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/364327/",
+          "publishedOn": "2026-08-17T13:43:22.000Z",
+          "wordCount": 2432,
+          "title": "Lido、ステーキング報酬抑制案への批判強める──イーサリアムのステーキング比率34%突破",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/08/image2_1200x800-12.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=364314",
           "author": "平木 昌宏",
           "description": "ローソンとネットスターズは8月17日、東京・大崎のローソンゲートシティ大崎アトリウム店で、ネットスターズの店舗向けステーブルコイン決済サービス「Stableco ...\nMetaMaskでローソンの商品を購入──約5秒で決済、その使い勝手は first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -1173,21 +1183,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/strategy-lawsuit.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/strategy-lawsuit.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=730904",
-          "author": "Enzo",
-          "description": "グレースケール調査部門が、ビットコイン需要拡大を支える3つの構造要因を分析した。政府債務の膨張と代替資産需要、ブロックチェーン技術の金融浸透、投資家の世代交代を挙げ、相場調整下でも普及基調は続くとの見方を示した。",
-          "link": "https://coinpost.jp/?p=730904",
-          "publishedOn": "2026-08-13T02:11:56.000Z",
-          "wordCount": 3190,
-          "title": "グレースケール、ビットコイン相場安定化局面で3要因分析",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/bitcoin-market-1984524992.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/bitcoin-market-1984524992.jpg"
         }
       ]
     },
@@ -2549,46 +2544,6 @@
           "wordCount": 629,
           "title": "ナスダック上場トロン社の運用実態｜総資産の約90%が単一DeFiに",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/08/shutterstock_2667305959.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=169960",
-          "author": "よきょい",
-          "description": "学術誌エナジー・エコノミクスに掲載された新たな研究で、風力発電を利用したビットコイン採掘の採算が厳しいことが示されました。 アイルランドのシャノン工科大学の研究チームが、100メガワットの風力発電所に隣接する20メガワッ […]\n投稿 風力発電でのBTC採掘に暗雲、価格が年30%上昇でも赤字との試算 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-dark-clouds-hang-over-btc-mining-using-wind-power/",
-          "publishedOn": "2026-08-13T02:19:48.000Z",
-          "wordCount": 579,
-          "title": "風力発電でのBTC採掘に暗雲、価格が年30%上昇でも赤字との試算",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/08/shutterstock_2443164417.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=169966",
-          "author": "よきょい",
-          "description": "ロシア中央銀行が、公開の組織的な仮想通貨取引を解禁する指令案を公表しました。取引の対象として認められるのはビットコイン（BTC）、イーサリアム（ETH）、テザー社のUSDTの3銘柄のみとされています。この案は8月24日ま […]\n投稿 ロシア中銀が仮想通貨の解禁案｜対象はBTC・ETH・USDTの3銘柄 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-russian-central-bank-proposes-legalizing-cryptocurrency/",
-          "publishedOn": "2026-08-13T02:15:48.000Z",
-          "wordCount": 576,
-          "title": "ロシア中銀が仮想通貨の解禁案｜対象はBTC・ETH・USDTの3銘柄",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/08/shutterstock_2016867146.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=169555",
-          "author": "Crypto Times 編集部",
-          "description": "2026年7月、Bybitに残っていた日本居住者の未決済ポジションが一斉に強制決済されました。同社はその2日後「日本における是正措置の完了」を告知しました。 日本語のサイトも日本語の告知もいまなお動いています。それでも日 […]\n投稿 Bybitは日本で使えるか。2026年の可否と出金・税金｜金融庁の無登録警告 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/bybit-cant-use/",
-          "publishedOn": "2026-08-13T02:00:39.000Z",
-          "wordCount": 611,
-          "title": "Bybitは日本で使えるか。2026年の可否と出金・税金｜金融庁の無登録警告",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2025/12/shutterstock_2363747425.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=169967",
-          "author": "よきょい",
-          "description": "ビットコインマイニング企業のHIVEデジタル・テクノロジーズが、6月30日を期末とする四半期報告書（フォーム10-Q）を8月10日の期限までに提出できませんでした。同社は8月11日の遅延通知で、理由はスウェーデンで争って […]\n投稿 BTCマイニング企業HIVE、決算出せず｜売上73%増でも赤字拡大か は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-btc-mining-company-hive-fails-to-release-earnings-report/",
-          "publishedOn": "2026-08-13T01:55:39.000Z",
-          "wordCount": 575,
-          "title": "BTCマイニング企業HIVE、決算出せず｜売上73%増でも赤字拡大か",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/08/shutterstock_2547026279-1.jpg"
         }
       ]
     }

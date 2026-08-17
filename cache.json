@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=364382",
+          "author": "井上 俊彦",
+          "description": "Grayscale（グレイスケール）のリサーチ責任者Zach Pandl（ザック・パンドル）氏は8月17日公開のレポートで、「波乱含みの2026年の年明けを経て ...\nビットコイン市場が静まり返るとき、それは変化の前兆か？＝Grayscale first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/364382/",
+          "publishedOn": "2026-08-17T23:00:00.000Z",
+          "wordCount": 2100,
+          "title": "ビットコイン市場が静まり返るとき、それは変化の前兆か？＝Grayscale",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/shutterstock_2573539631.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=364378",
           "author": "井上 俊彦",
           "description": "暗号資産分析会社CryptoQuant（クリプトクアント）のアナリスト、Darkfost（ダークフォスト）氏は8月16日、Xへの投稿で、10年以上一度も動いてい ...\nビットコインの17％は失われた？──356万BTCが10年以上動かず first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -580,16 +590,6 @@
           "wordCount": 2168,
           "title": "シティCEO、クラリティ法案支持を表明──ステーブルコイン報酬制度には懸念",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/08/AdobeStock_337058465_Editorial_Use_Only.jpeg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=363757",
-          "author": "平木 昌宏",
-          "description": "JPMorgan Chase（JPモルガン・チェース）やGoldman Sachs（ゴールドマン・サックス）など約40社が7月、トークン化した株式や米国債を使い ...\nJPモルガン、ゴールドマンら約40社、トークン化証券の実取引に成功──10月に正式始動へ=Bloomberg first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/363757/",
-          "publishedOn": "2026-08-13T10:59:36.000Z",
-          "wordCount": 2163,
-          "title": "JPモルガン、ゴールドマンら約40社、トークン化証券の実取引に成功──10月に正式始動へ=Bloomberg",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/08/AdobeStock_955703177_Editorial_Use_Only_1200x800.jpg"
         }
       ]
     },
@@ -604,6 +604,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=731425",
+          "author": "K.Kobayashi",
+          "description": "米財務省は、決済向けステーブルコインの法律であるジーニアス法の規制案を公表。ステーブルコインの発行、提供、販売といった行為を定義することで業界のルールを明確化する。",
+          "link": "https://coinpost.jp/?p=731425",
+          "publishedOn": "2026-08-17T22:20:24.000Z",
+          "wordCount": 3195,
+          "title": "米財務省、ステーブルコインの発行や販売でジーニアス法のパブコメ募集へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2018/09/usaregulation0906.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2018/09/usaregulation0906.png"
+        },
         {
           "id": "https://coinpost.jp/?p=731416",
           "author": "菊谷ルイス",

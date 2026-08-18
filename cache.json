@@ -625,6 +625,51 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=731496",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨ビットコインのマイニング企業のハイブは完全子会社を通じて投資適格企業の顧客と5年間のGPUクラウドサービス契約を締結したと発表。この契約は合計で550億円超の価値があると説明した。",
+          "link": "https://coinpost.jp/?p=731496",
+          "publishedOn": "2026-08-18T02:15:06.000Z",
+          "wordCount": 3189,
+          "title": "ビットコインマイナーのハイブ、550億円超のAIクラウドサービス契約を締結",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/bitcoin_mining1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/bitcoin_mining1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=731491",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨取引所クラーケンの親会社ペイワードが、アンソロピックのセキュリティ強化計画に参加し、AIモデルを使った脆弱性対策を進める方針だ。米国が重要インフラ関連組織への提供を認めたことを受けた動きで、業界全体への波及も見込まれる。",
+          "link": "https://coinpost.jp/?p=731491",
+          "publishedOn": "2026-08-18T01:50:30.000Z",
+          "wordCount": 3189,
+          "title": "クラーケン運営元ペイワード、脆弱性対策にクロード導入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/anthropic-mythos-.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/anthropic-mythos-.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=731484",
+          "author": "Enzo",
+          "description": "Bitdefenderは、公開直後の映画「オデュッセイア」海賊版を装った偽ファイルが仮想通貨ウォレットを狙う情報窃取型マルウェア「Lumma Stealer」の拡散に使われていると発表した。二要素認証を回避する手口も判明している。",
+          "link": "https://coinpost.jp/?p=731484",
+          "publishedOn": "2026-08-18T01:16:48.000Z",
+          "wordCount": 3171,
+          "title": "映画「オデュッセイア」海賊版に偽装、仮想通貨盗むマルウェア拡散",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/Odyssey-2815325879.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/Odyssey-2815325879.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=731445",
           "author": "A.Yamada",
           "description": "ビットフィネックスが仮想通貨ビットコイン市場を分析する最新レポートを発表。取引高が2019年以来の低水準にあるとして、マクロ経済指標などを踏まえ今後の展開を予想した。",
@@ -2040,6 +2085,36 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=170302",
+          "author": "よきょい",
+          "description": "Bitcoin Magazineを傘下に持つNakamotoが、12月4日に期限を迎える6000万USDTの返済に向けて、手元流動性の薄さという課題に直面しています。同社はビットコインを担保とする信用枠を利用しており、保 […]\n投稿 著名BTC財務企業、6000万ドルの返済に黄信号｜手元は5780万ドル は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-warning-signs-for-nakamotos-60-million-repayment/",
+          "publishedOn": "2026-08-18T01:55:37.000Z",
+          "wordCount": 576,
+          "title": "著名BTC財務企業、6000万ドルの返済に黄信号｜手元は5780万ドル",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/08/shutterstock_2246342051.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=170301",
+          "author": "よきょい",
+          "description": "太陽光事業からビットコイン中心の財務戦略へ転換したSono Groupが、厳しい資金繰りに直面しています。8月14日提出の四半期報告によると、6月30日時点の現金は16万6000ドルにとどまる一方、保有ビットコインの公正 […]\n投稿 太陽光からBTCへ転換した企業が資金難｜現金は16万ドルのみ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-companies-that-shifted-from-solar-power-to-btc-are-facing-financial-difficulties/",
+          "publishedOn": "2026-08-18T01:35:12.000Z",
+          "wordCount": 576,
+          "title": "太陽光からBTCへ転換した企業が資金難｜現金は16万ドルのみ",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/08/shutterstock_2268223897.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=170299",
+          "author": "よきょい",
+          "description": "ARK Investが示す2030年のビットコイン時価総額16兆ドルというシナリオについて、現在の水準から達成するには年78.6%の成長が必要との試算が示されました。8月15日時点の時価総額は約1兆2900億ドルで、4年 […]\n投稿 4年で12.4倍成長は可能か？著名投資企業のBTC16兆ドル予測に逆風 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-headwinds-for-prominent-investment-firms-16-trillion-btc-forecast/",
+          "publishedOn": "2026-08-18T01:11:16.000Z",
+          "wordCount": 576,
+          "title": "4年で12.4倍成長は可能か？著名投資企業のBTC16兆ドル予測に逆風",
+          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/08/shutterstock_2665956193.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=170312",
           "author": "よきょい",

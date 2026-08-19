@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-19T06:35:56.531Z</updated>
+    <updated>2026-08-19T07:33:31.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットバンク、ビットコイン入出金一時停止　eCash分岐へ対応]]></title>
+        <id>https://coinpost.jp/?p=731789</id>
+        <link href="https://coinpost.jp/?p=731789"/>
+        <updated>2026-08-19T07:03:53.000Z</updated>
+        <summary type="html"><![CDATA[ビットバンクは19日、ビットコインのハードフォーク計画への対応として、8月21日17時頃から24日19時頃までBTCの入出金を一時停止すると発表。eCash分岐で新資産ECXが生まれる計画で、リプレイリスクにも言及した。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BNBチェーン、「BNBエージェント・スタジオV2」公開、AIエージェントの報酬受け取りが可能に]]></title>
+        <id>https://www.neweconomy.jp/?p=600725</id>
+        <link href="https://www.neweconomy.jp/posts/600725"/>
+        <updated>2026-08-19T06:57:38.000Z</updated>
+        <summary type="html"><![CDATA[AIエージェントの収益化と資金管理機能を強化 ブロックチェーンエコシステム「BNBチェーン（BNB Chain）」が、AIエージェント開発基盤「BNBエージェント・スタジオ（BNB Agent Studio）」のアップデ […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リップル傘下「Ripple Prime」、無担保シニア債の私募で275Mドル調達]]></title>
+        <id>https://www.neweconomy.jp/?p=600714</id>
+        <link href="https://www.neweconomy.jp/posts/600714"/>
+        <updated>2026-08-19T06:44:59.000Z</updated>
+        <summary type="html"><![CDATA[米国事業拡大に向け運転資金などに充当 ブロックチェーンを活用した法人向け金融ソリューションを提供するリップル（Ripple）傘下のノンバンク・プライムブローカー「リップル・プライム（Ripple Prime）」が、無担保 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ローソンでステーブルコイン決済の第2弾実証完了——既存POSシステムとシームレスに連携し、マルチコイン・マルチチェーン決済を検証]]></title>
         <id>https://crypto-times.jp/?p=170382</id>
@@ -15,6 +45,16 @@
 投稿 ローソンでステーブルコイン決済の第2弾実証完了——既存POSシステムとシームレスに連携し、マルチコイン・マルチチェーン決済を検証 は CRYPTO TIMES に最初に表示されました。]]></summary>
         <author>
             <name>Crypto Times 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クラーケンの「Krak」、米国で暗号資産対応デビットカード提供開始。600超の資産、最大2％還元]]></title>
+        <id>https://www.neweconomy.jp/?p=600708</id>
+        <link href="https://www.neweconomy.jp/posts/600708"/>
+        <updated>2026-08-19T06:28:41.000Z</updated>
+        <summary type="html"><![CDATA[複数の資産残高を組み合わせて決済可能 米暗号資産（仮想通貨）取引所クラーケン（Kraken）の運営会社ペイワード（Payward）が提供するグローバルマネーアプリ「クラーク（Krak）」より、米国ユーザー向けのマルチアセ […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
         </author>
     </entry>
     <entry>

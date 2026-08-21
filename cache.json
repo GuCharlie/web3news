@@ -820,16 +820,6 @@
           "wordCount": 2946,
           "title": "Coldcardの脆弱性悪用以降、BTCの取引所残高増加額が20億ドル超──SafePal・Trezorの情報流出でセキュリティリスク高まる【価格分析】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/08/image1_1200x800-6.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=364330",
-          "author": "栃山 直樹",
-          "description": "暗号資産取引所Binance（バイナンス）創業者のChangpeng Zhao（チャンポン・ジャオ、通称CZ）氏は8月17日、自身が所有する公開ウォレットの運用 ...\nCZ氏、公開ウォレット運用停止──便乗トレードが過熱 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/364330/",
-          "publishedOn": "2026-08-17T09:44:35.000Z",
-          "wordCount": 2084,
-          "title": "CZ氏、公開ウォレット運用停止──便乗トレードが過熱",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/08/9d267c6df8ea4f27289bf8eb0acdf659.jpg"
         }
       ]
     },
@@ -844,6 +834,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=732556",
+          "author": "菊谷ルイス",
+          "description": "ブリッジウォーター創業者のレイ・ダリオ氏が、米国の財政赤字拡大による債務危機を警告し、国債を減らして金とビットコインに資産を振り分けるよう投資家に助言した。金と仮想通貨相場は続伸している。",
+          "link": "https://coinpost.jp/?p=732556",
+          "publishedOn": "2026-08-21T21:40:11.000Z",
+          "wordCount": 3175,
+          "title": "レイ・ダリオ、米債務危機警告し金とビットコイン推奨",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/bitcoin-and-gold-ray-dalio.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/bitcoin-and-gold-ray-dalio.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=732554",
           "author": "菊谷ルイス",
@@ -2770,26 +2775,6 @@
           "wordCount": 787,
           "title": "シャープリンク、2億ドル相当ETHをLidoでステーキングへ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17190116/55c22edf8ff500752292c5b32d60e9d3.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=600174",
-          "author": "watanabeyousuke",
-          "description": "Netflixが配信日決定、ファーストルック画像を公開 動画配信サービスのネットフリックス（Netflix）が、暗号資産（仮想通貨）取引所FTXの破綻を題材としたリミテッドシリーズ「アルトゥイスト（The Altruis […]",
-          "link": "https://www.neweconomy.jp/posts/600174",
-          "publishedOn": "2026-08-17T09:40:21.000Z",
-          "wordCount": 794,
-          "title": "ネットフリックス、FTX破綻描く「The Altruists」11月19日配信へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17184007/366190f95c7d5b91522cf927b12aec5b.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=600252",
-          "author": "HitomotoToshikazu",
-          "description": "LombardがLBTC利回りをBitwiseのオプション戦略へ移行 ビットコイン（BTC）金融プロトコルのロンバード（Lombard）が、BTCをDeFi（分散型金融）で活用できるトークン「LBTC」の利回り源泉を、機 […]",
-          "link": "https://www.neweconomy.jp/posts/600252",
-          "publishedOn": "2026-08-17T09:36:22.000Z",
-          "wordCount": 785,
-          "title": "ロンバード、LBTC利回り源泉を変更へ、ビットワイズがオプション運用",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17183600/2f91a25485456dd8ad636d547589e514.jpg"
         }
       ]
     },

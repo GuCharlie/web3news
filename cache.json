@@ -2168,36 +2168,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/new-btc-etf-pic.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/new-btc-etf-pic.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=731162",
-          "author": "Enzo",
-          "description": "仮想通貨ウォレットのSafePalが、注文追跡プラグインの認可不備で顧客情報に不正アクセスがあったと公表した。影響は約39,798人で、氏名や住所、電話番号などが流出したという。シードフレーズや秘密鍵は無事としている。",
-          "link": "https://coinpost.jp/?p=731162",
-          "publishedOn": "2026-08-17T02:13:11.000Z",
-          "wordCount": 3168,
-          "title": "SafePal、注文追跡プラグインに不正アクセス　約4万人に影響",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/hack-hack-.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/hack-hack-.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=731141",
-          "author": "Enzo",
-          "description": "JPモルガン・チェースが2025年10月、ポリマーケットとの銀行取引を打ち切っていたと英FTが報道。同社は移管先を非公表としつつ、JPモルガンとは「緊密な関係」を維持しているとコメント。IPO実現時の引受関与も視野に入れているという。",
-          "link": "https://coinpost.jp/?p=731141",
-          "publishedOn": "2026-08-17T01:42:33.000Z",
-          "wordCount": 3171,
-          "title": "JPモルガン、ポリマーケット口座解消　IPO関与に意欲＝報道",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/polymarket-valuation.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/polymarket-valuation.jpg"
         }
       ]
     },
@@ -2206,6 +2176,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=601322",
+          "author": "TanakaShuya",
+          "description": "国内では約4年ぶりの新規参入 野村ホールディングス傘下のデジタル資産事業会社レーザーデジタル（Laser Digital）の日本法人レーザーデジタルジャパン（Laser Digital Japan）が、8月21日付で資金 […]",
+          "link": "https://www.neweconomy.jp/posts/601322",
+          "publishedOn": "2026-08-21T13:46:42.000Z",
+          "wordCount": 736,
+          "title": "野村HD傘下レーザーデジタルジャパン、暗号資産交換業者に登録",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/21224606/a56cd469fc200f04a921e40d6c60c76b.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=601316",
           "author": "NewEconomyPodcast",
@@ -3055,66 +3035,6 @@
           "wordCount": 601,
           "title": "金融庁、「暗号資産・ステーブルコイン課」を新設。参事官室を前身に設置",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17125910/2f4fbe5c9d9cf8ff3c66b6459cae6f7b.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=599879",
-          "author": "HitomotoToshikazu",
-          "description": "BitmineがETH追加取得 ビットマイン・イマージョン・テクノロジーズ（Bitmine Immersion Technologies：以下、ビットマイン）が、暗号資産（仮想通貨）イーサリアム（ETH）の追加取得を含む […]",
-          "link": "https://www.neweconomy.jp/posts/599879",
-          "publishedOn": "2026-08-17T02:15:35.000Z",
-          "wordCount": 819,
-          "title": "ビットマインがイーサリアムを7391ETH追加取得、総保有量約581万ETHに",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17111517/4caeaf5a8ec2ad45ceee863ec8d515f6.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=599871",
-          "author": "HitomotoToshikazu",
-          "description": "Uniswapがミームコインローンチパッド公開 DEX（分散型取引所）「ユニスワップ（Uniswap）」を開発するユニスワップラボ（Uniswap Labs）が、ロビンフッドチェーン（Robinhood Chain）向け […]",
-          "link": "https://www.neweconomy.jp/posts/599871",
-          "publishedOn": "2026-08-17T02:09:45.000Z",
-          "wordCount": 788,
-          "title": "ユニスワップラボ、ロビンフッドチェーン向けミームコインローンチパッド公開",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17110928/89c5104727867af8e69d93ec6798706b.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=599866",
-          "author": "HitomotoToshikazu",
-          "description": "Coinbaseが英国で米国株取引サービス開始 米暗号資産（仮想通貨）取引所大手コインベース（Coinbase）が、英国ユーザー向け米国株取引サービスの開始を8月6日に発表した。 対象となる英国ユーザーには、同日から順次 […]",
-          "link": "https://www.neweconomy.jp/posts/599866",
-          "publishedOn": "2026-08-17T02:03:39.000Z",
-          "wordCount": 767,
-          "title": "コインベース、英国で米国株取引サービス開始",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17110326/e77953e1e26d4cfec5eff22c77600b9a.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=599861",
-          "author": "HitomotoToshikazu",
-          "description": "Step Appがサービス終了へ Move-to-Earn（動いて稼ぐ）プロジェクト「ステップアップ（Step App）」が、8月21日までに全サービスを終了する予定だ。同プロジェクトが8月6日に公式Xで発表した。 同プ […]",
-          "link": "https://www.neweconomy.jp/posts/599861",
-          "publishedOn": "2026-08-17T01:59:01.000Z",
-          "wordCount": 838,
-          "title": "「Step App」がサービス終了へ。独自トークン「FITFI」は最高値から99.9%以上下落",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17105827/b8c438a8902d2402d4319c1e215e9a5c.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=599851",
-          "author": "OtsugaShinya",
-          "description": "アンカーポイントが香港ドルステーブルコイン「HKDAP」の展開開始 スタンダードチャータード（Standard Chartered）系のアンカーポイント・フィナンシャル（Anchorpoint Financial）が、香 […]",
-          "link": "https://www.neweconomy.jp/posts/599851",
-          "publishedOn": "2026-08-17T01:53:01.000Z",
-          "wordCount": 788,
-          "title": "スタンダードチャータード・アニモカ・HKTの合弁会社、香港ドルステーブルコイン「HKDAP」の展開開始",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17105245/31f87212e8335ab22ce5562c51a002c8-1.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=599846",
-          "author": "OtsugaShinya",
-          "description": "USDT発行元テザーが初の財務諸表監査 時価総額で世界最大のステーブルコイン「USDT」を発行するエルサルバドル拠点のテザー（Tether）は、KPMG米国法人（KPMG U.S.）が、テザー・インターナショナル（Tet […]",
-          "link": "https://www.neweconomy.jp/posts/599846",
-          "publishedOn": "2026-08-17T01:44:50.000Z",
-          "wordCount": 782,
-          "title": "テザー、初の財務諸表監査。KPMG米国法人が無限定適正意見",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17104430/7daa458e14e98effa7bf745f476a974e.jpg"
         }
       ]
     },
@@ -4249,26 +4169,6 @@
           "wordCount": 575,
           "title": "メタプラネットが年4%台の社債発行｜個人向け平均の倍近い利率に",
           "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/08/shutterstock_2673454331-1-1-1.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=170230",
-          "author": "よきょい",
-          "description": "ポール・チューダー・ジョーンズ氏が率いるTudor Investmentが、6月30日時点でBlackRockのビットコインETF「IBIT」の直接保有を68万8529株へ増やしたことが、SECへの提出書類で分かりました […]\n投稿 著名投資家、ビットコインETFを18.9%買い増し｜コールは85%減 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-prominent-investor-increases-bitcoin-etf-holdings-by-18-9/",
-          "publishedOn": "2026-08-17T02:17:01.000Z",
-          "wordCount": 583,
-          "title": "著名投資家、ビットコインETFを18.9%買い増し｜コールは85%減",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/08/shutterstock_2327473803.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=170231",
-          "author": "よきょい",
-          "description": "6月30日を基準日とするForm 13Fが出そろい、下落局面における機関投資家のビットコインETFへの対応が大きく4つのパターンに分かれたことが分かりました。提出は8月12日から14日にかけて行われています。 中東の政府 […]\n投稿 ビットコインETFの現在地｜中東ファンドは動かず、JPモルガンは25%増 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-the-current-state-of-bitcoin-etfs-middle-eastern-funds-remain-on-the-sidelines/",
-          "publishedOn": "2026-08-17T01:45:25.000Z",
-          "wordCount": 579,
-          "title": "ビットコインETFの現在地｜中東ファンドは動かず、JPモルガンは25%増",
-          "imageUrl": "https://crypto-times.jp/wp-content/uploads/2026/08/shutterstock_2628425125.jpg"
         }
       ]
     }

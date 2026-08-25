@@ -700,26 +700,6 @@
           "wordCount": 1969,
           "title": "上場ビットコインマイナー、AI設備投資は収益の15倍",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_772693789.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=364837",
-          "author": "井上 俊彦",
-          "description": "Binance（バイナンス）は8月20日、AIエージェントを同社の取引基盤や市場データに接続する開発者向けプラットフォーム「Binance Agent OS」を ...\nBinance、AIエージェント統合のための開発プラットフォームをリリース first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/364837/",
-          "publishedOn": "2026-08-20T22:45:00.000Z",
-          "wordCount": 1966,
-          "title": "Binance、AIエージェント統合のための開発プラットフォームをリリース",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/08/shutterstock_1903290607-1-1-768x512-1.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=364836",
-          "author": "Shoko Galaviz",
-          "description": "イーロン・マスク氏が率いるSNS「X（旧Twitter）」が、クリエイターやコンテンツ提供者への報酬支払いにステーブルコインを活用する方向で検討を進めていること ...\nマスク氏率いるX、クリエイター報酬へのステーブルコイン導入を検討＝CoinDesk first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/364836/",
-          "publishedOn": "2026-08-20T22:30:00.000Z",
-          "wordCount": 1981,
-          "title": "マスク氏率いるX、クリエイター報酬へのステーブルコイン導入を検討＝CoinDesk",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2318800321.jpg"
         }
       ]
     },
@@ -734,6 +714,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=733193",
+          "author": "Enzo",
+          "description": "GMOあおぞらネット銀行やディーカレットDCPなどが主導し、国内約40行が参加するトークン化預金の相互送金実証が8月中に始まる。全銀システムを介さず銀行間で直接やりとりし、24時間365日の即時決済を目指す。",
+          "link": "https://coinpost.jp/?p=733193",
+          "publishedOn": "2026-08-25T10:39:57.000Z",
+          "wordCount": 3189,
+          "title": "国内約40行、トークン化預金で相互送金実証＝日経",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/tokenized-deposit-shutterstock_2665247575.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/tokenized-deposit-shutterstock_2665247575.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=733189",
+          "author": "Enzo",
+          "description": "フィンテック企業ADVASA Holdingsが8月25日、ダイレクトリスティングでNasdaq Global Marketに上場。ティッカーはADBT。SBI証券・楽天証券など国内5社からも取引が可能になる。",
+          "link": "https://coinpost.jp/?p=733189",
+          "publishedOn": "2026-08-25T10:21:50.000Z",
+          "wordCount": 3219,
+          "title": "Advasa Holdings, Inc.、Nasdaq Global Marketにおける普通株式の取引を本日開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/Advasa.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/Advasa.png"
+        },
         {
           "id": "https://coinpost.jp/?p=733149",
           "author": "hiroto.yoshii",

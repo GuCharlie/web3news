@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-25T20:54:19.201Z</updated>
+    <updated>2026-08-25T21:22:41.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【8/25話題】コスモスラボがCosmos EVMのセキュリティ問題で関連チェーンに停止助言、ビットバンクのETHステーキングサービスなど（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=602295</id>
+        <link href="https://www.neweconomy.jp/posts/602295"/>
+        <updated>2026-08-25T21:11:22.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットワイズ、トークン化株式の自動運用ポートフォリオを提供開始]]></title>
+        <id>https://coinpost.jp/?p=733214</id>
+        <link href="https://coinpost.jp/?p=733214"/>
+        <updated>2026-08-25T21:10:26.000Z</updated>
+        <summary type="html"><![CDATA[#cp-summary-2025{all:revert;box-sizing:border-box;width:100%;background:#f8f9fb;border-left:3pxsolid#0d2d4f;border-radiu...]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、8万ドルで止めているのは誰か──オンチェーンが示す利益確定の構造【エックスウィン】]]></title>
+        <id>https://www.nadanews.com/?p=365534</id>
+        <link href="https://www.nadanews.com/365534/"/>
+        <updated>2026-08-25T21:09:45.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインは直近、再び8万ドルの節目を試したものの、上値を維持できずに押し戻された。 米国の現物ビットコインETFへの資金流入や、米長期金利の低下を背景に買い ...
+ビットコイン、8万ドルで止めているのは誰か──オンチェーンが示す利益確定の構造【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>エックスウィン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[グレースケール、ジーキャッシュがビットコインに対抗と見解]]></title>
         <id>https://coinpost.jp/?p=733209</id>
@@ -1978,48 +2009,6 @@ DeFi利回りの98％は暗号資産市場由来と推定──Rippleら3社、�
 米財務省の国債買い戻し拡大でBTCが約2年半ぶりの大幅週間上昇──予測市場は慎重【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>Ibrahim Ajibade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HashPort、JPYC決済対応のNFTマーケット提供開始]]></title>
-        <id>https://coinpost.jp/?p=732516</id>
-        <link href="https://coinpost.jp/?p=732516"/>
-        <updated>2026-08-21T09:12:24.000Z</updated>
-        <summary type="html"><![CDATA[HashPortが「HashPort Market｜αU」の提供を開始した。電子決済手段型ステーブルコインJPYCでの決済に対応するNFTマーケットで、CryptoGamesと提携したトレカNFTオリパの販売と二次流通も始めた。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップル、企業融資をブロックチェーン上で実行へ──RLUSD活用]]></title>
-        <id>https://www.nadanews.com/?p=364953</id>
-        <link href="https://www.nadanews.com/364953/"/>
-        <updated>2026-08-21T09:07:04.000Z</updated>
-        <summary type="html"><![CDATA[Ripple（リップル）、Cicada Partners（シケイダ・パートナーズ）、Clearpool（クリアプール）の3社は8月20日、企業向け融資をブロック ...
-リップル、企業融資をブロックチェーン上で実行へ──RLUSD活用 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[セキュリタイズのトークン化株式「SECZ」、ループスケールで担保利用可能に]]></title>
-        <id>https://www.neweconomy.jp/?p=601180</id>
-        <link href="https://www.neweconomy.jp/posts/601180"/>
-        <updated>2026-08-21T08:59:56.000Z</updated>
-        <summary type="html"><![CDATA[SECZがLoopscaleで担保利用可能に セキュリタイズ（Securitize）のトークン化された普通株式「SECZ」が、ソラナ（Solana）上のオンチェーン信用市場ループスケール（Loopscale）で担保として […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイニング企業がAI大家に？売上9割をリースで稼ぐも純損失]]></title>
-        <id>https://crypto-times.jp/?p=170492</id>
-        <link href="https://crypto-times.jp/news-ionic-digital-ai-lease-revenue/"/>
-        <updated>2026-08-21T08:59:56.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインマイニング企業から電力拠点のAIインフラ転用へ舵を切るIonic Digitalが、第2四半期の売上高の90%をリース収入で得ました。ウォード郡の拠点をAIインフラ事業者Nscaleへ貸し出す契約によるもので […]
-投稿 マイニング企業がAI大家に？売上9割をリースで稼ぐも純損失 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
         </author>
     </entry>
     <entry>

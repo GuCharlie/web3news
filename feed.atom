@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-09-10T23:18:34.900Z</updated>
+    <updated>2026-09-11T01:18:31.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ステーブルコイン、しきい値上昇で銘柄数が急減＝アークインベスト]]></title>
+        <id>https://coinpost.jp/?p=736850</id>
+        <link href="https://coinpost.jp/?p=736850"/>
+        <updated>2026-09-11T00:59:19.000Z</updated>
+        <summary type="html"><![CDATA[ステーブルコインは規模が大きいほど生存者が絞られるネットワーク効果が働く。アークインベストのヴァレンテ氏によると、1000億ドル級はテザーとサークルの2社体制に向かう可能性がある。各階層の推移を整理した。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リップル社、企業財務AI「Gスマート」を機能拡張　人間によるガバナンスなどを強化]]></title>
+        <id>https://coinpost.jp/?p=736833</id>
+        <link href="https://coinpost.jp/?p=736833"/>
+        <updated>2026-09-11T00:45:32.000Z</updated>
+        <summary type="html"><![CDATA[リップル社が財務管理プラットフォーム「リップル・トレジャリー」組み込みのAI「Gスマート」を拡張した。予測・リスク管理などの領域で企業ポリシーに基づく機能を追加している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインベース、ムーブと提携し米国地域銀行にステーブルコイン基盤提供]]></title>
+        <id>https://coinpost.jp/?p=736804</id>
+        <link href="https://coinpost.jp/?p=736804"/>
+        <updated>2026-09-11T00:30:15.000Z</updated>
+        <summary type="html"><![CDATA[コインベースは決済インフラ企業ムーブと提携し、全米1000超の地域銀行・信用組合にステーブルコインの受け入れ・決済・即時資金化機能を提供する体制を整えた。既存の銀行システムに組み込まれ、地域金融機関の仮想通貨対応を後押しする。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米地域銀行にもステーブルコイン決済──CoinbaseがMoovと提携]]></title>
+        <id>https://www.nadanews.com/?p=367639</id>
+        <link href="https://www.nadanews.com/367639/"/>
+        <updated>2026-09-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所のCoinbase（コインベース）は9月10日、決済インフラ企業Moov（ムーブ）との提携を発表した。 Moovの顧客基盤である全米1 ...
+米地域銀行にもステーブルコイン決済──CoinbaseがMoovと提携 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase CEO「BTCは底打ち」──2030年に40万ドルの目標を維持]]></title>
+        <id>https://www.nadanews.com/?p=367631</id>
+        <link href="https://www.nadanews.com/367631/"/>
+        <updated>2026-09-10T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所大手Coinbase（コインベース）のCEO、Brian Armstrong（ブライアン・アームストロング）氏は9月10日、米CNBC ...
+Coinbase CEO「BTCは底打ち」──2030年に40万ドルの目標を維持 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XRPレジャーの量子耐性移行、2027年に着実な進展との見方]]></title>
+        <id>https://coinpost.jp/?p=736821</id>
+        <link href="https://coinpost.jp/?p=736821"/>
+        <updated>2026-09-10T23:15:59.000Z</updated>
+        <summary type="html"><![CDATA[XRPレジャー財団の貢献者Vet氏は、XRPLの量子コンピュータ対策について2027年に着実な進展が見込めるとの見方を示した。また、作業には慎重さが必要であることも説明している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitwise、ドージコイン現物ETFを1年足らずで閉鎖──純資産は約72万ドル]]></title>
         <id>https://www.nadanews.com/?p=367625</id>
@@ -15,6 +77,16 @@
 Bitwise、ドージコイン現物ETFを1年足らずで閉鎖──純資産は約72万ドル first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>井上 俊彦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインチェック、新規アドレス送金を一定期間制限へ]]></title>
+        <id>https://coinpost.jp/?p=736807</id>
+        <link href="https://coinpost.jp/?p=736807"/>
+        <updated>2026-09-10T22:40:30.000Z</updated>
+        <summary type="html"><![CDATA[コインチェックは9月15日から、新規登録した送金先アドレスへの送金に一定期間の制限を導入する予定だ。フィッシング詐欺や不正送金被害の増加を受けた金融庁・警察庁の要請が背景にある。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -29,6 +101,16 @@ OKX、欧州でOpenAI・AnthropicのプレIPO取引を開始 first appeared on N
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[100人超の研究者ら、ビットコインとイーサリアムの量子攻撃計算量見積もりを半減]]></title>
+        <id>https://coinpost.jp/?p=736806</id>
+        <link href="https://coinpost.jp/?p=736806"/>
+        <updated>2026-09-10T22:10:27.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨業界の研究者らがビットコインとイーサリアムへの量子攻撃について、鍵となる計算量の見積もりをグーグルの基準から半分以下に引き下げた。既存システムでの解読は不可能だが、想定される移行時間軸の見直しを迫る内容だ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[EU証券当局、PolymarketとKalshiのEU展開に警告]]></title>
         <id>https://www.nadanews.com/?p=367620</id>
         <link href="https://www.nadanews.com/367620/"/>
@@ -40,6 +122,16 @@ EU証券当局、PolymarketとKalshiのEU展開に警告 first appeared on NADA 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[コインベースのアームストロングCEO、ビットコイン底打ちの見解示す]]></title>
+        <id>https://coinpost.jp/?p=736805</id>
+        <link href="https://coinpost.jp/?p=736805"/>
+        <updated>2026-09-10T21:40:24.000Z</updated>
+        <summary type="html"><![CDATA[コインベースのアームストロングCEOが、ビットコインは今サイクルで底をすでに打ったとの個人的見解を示した。米上院は来週、クラリティー法の採決を予定しており、投票の行方が投資家の資金配分に影響し得る。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[クラリティ法案、修正版を公表──DeFi規制を見直し]]></title>
         <id>https://www.nadanews.com/?p=367618</id>
         <link href="https://www.nadanews.com/367618/"/>
@@ -48,6 +140,16 @@ EU証券当局、PolymarketとKalshiのEU展開に警告 first appeared on NADA 
 クラリティ法案、修正版を公表──DeFi規制を見直し first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットワイズ、ドージコイン現物ETFを運用終了へ　上場から1年足らずで]]></title>
+        <id>https://coinpost.jp/?p=736808</id>
+        <link href="https://coinpost.jp/?p=736808"/>
+        <updated>2026-09-10T21:20:32.000Z</updated>
+        <summary type="html"><![CDATA[米ビットワイズがドージコイン現物ETF「BWOW」の清算と閉鎖を発表した。取引は10月14日で終了し、22日に株主へ現金が分配される。仮想通貨の冬の中、ミームコインETFへの資金流入が伸び悩んでいたとみられる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>

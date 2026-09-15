@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-09-15T10:57:22.347Z</updated>
+    <updated>2026-09-15T15:27:37.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【9/15話題】CLARITY法案、米18司法長官が反対表明、米上院共和党が最終案を提示、メルカリポイントでBTC・ETH自動購入になど（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=608171</id>
+        <link href="https://www.neweconomy.jp/posts/608171"/>
+        <updated>2026-09-15T13:44:08.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金融庁、行政方針に「オンチェーン金融の社会実装」を明記]]></title>
+        <id>https://www.nadanews.com/?p=368148</id>
+        <link href="https://www.nadanews.com/368148/"/>
+        <updated>2026-09-15T12:50:00.000Z</updated>
+        <summary type="html"><![CDATA[金融庁は9月15日、2026事務年度の金融行政方針を公表した。ブロックチェーンを基盤とする「オンチェーン金融」の社会実装を進め、資金や証券の決済を高度化する方針 ...
+金融庁、行政方針に「オンチェーン金融の社会実装」を明記 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>平木 昌宏</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暗号資産税制、「一件落着」ではない──業界団体BCCCの税制部会が始動]]></title>
+        <id>https://www.nadanews.com/?p=368150</id>
+        <link href="https://www.nadanews.com/368150/"/>
+        <updated>2026-09-15T12:17:11.000Z</updated>
+        <summary type="html"><![CDATA[一般社団法人ブロックチェーン推進協会（BCCC）は9月15日、8月に新設した税制部会のキックオフイベントを都内で開催した。同部会は、暗号資産（仮想通貨）やステー ...
+暗号資産税制、「一件落着」ではない──業界団体BCCCの税制部会が始動 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>橋本 祐樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MetaMask、ロマンス詐欺を送金前に検知できる新機能]]></title>
+        <id>https://www.nadanews.com/?p=368121</id>
+        <link href="https://www.nadanews.com/368121/"/>
+        <updated>2026-09-15T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）ウォレットのMetaMask（メタマスク）は9月14日、ロマンス詐欺や投資詐欺の兆候を送金前に検知し、利用者に警告する新機能を提供したと発表 ...
+MetaMask、ロマンス詐欺を送金前に検知できる新機能 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>平木 昌宏</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新経連、暗号資産税制「一律20％」を個人間取引にも要求]]></title>
+        <id>https://www.nadanews.com/?p=368126</id>
+        <link href="https://www.nadanews.com/368126/"/>
+        <updated>2026-09-15T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[新経済連盟（新経連）は9月11日、暗号資産（仮想通貨）の取引益に一律20％の申告分離課税を適用するよう求めた。国内の取引所を介さず、個人同士で直接売買した場合も ...
+新経連、暗号資産税制「一律20％」を個人間取引にも要求 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>平木 昌宏</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「ビットコインと半導体は共倒れする」──アンソロピックのAI減速提言巡り、ビットコインジャパンCEOが警鐘【価格分析】]]></title>
         <id>https://www.nadanews.com/?p=368125</id>
@@ -1941,131 +1995,6 @@ BTC（ビットコイン）は米FOMCと日銀会合を控え金利動向を見�
         <summary type="html"><![CDATA[ポリマーケットが元アマゾンCFO起用 予測市場プラットフォーム運営のポリマーケット（Polymarket）が、ウォーレン・ジェンソン（Warren Jenson）氏を最高財務責任者（CFO）に任命したと9月10日に発表し […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベース、「Base App」を「Coinbase Wallet」に再改称]]></title>
-        <id>https://www.neweconomy.jp/?p=607144</id>
-        <link href="https://www.neweconomy.jp/posts/607144"/>
-        <updated>2026-09-11T03:07:34.000Z</updated>
-        <summary type="html"><![CDATA[オンチェーン取引を前面に、複数チェーンの資産に対応 米暗号資産（仮想通貨）取引所コインベース（Coinbase）が、ウォレットアプリ「ベースアプリ（Base App）」の名称を「コインベースウォレット（Coinbase  […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[約4000BTC流出のLiquid、約4日ぶりに取引再開──脆弱性を修正]]></title>
-        <id>https://www.nadanews.com/?p=367646</id>
-        <link href="https://www.nadanews.com/367646/"/>
-        <updated>2026-09-11T02:50:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインのサイドチェーン「Liquid Network（リキッド・ネットワーク）」は9月11日、約4000ビットコイン（BTC、約500億円、1BTC＝約1 ...
-約4000BTC流出のLiquid、約4日ぶりに取引再開──脆弱性を修正 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国上院、仮想通貨戦略の策定義務化案を可決　規制競争で欧米に対抗]]></title>
-        <id>https://coinpost.jp/?p=736891</id>
-        <link href="https://coinpost.jp/?p=736891"/>
-        <updated>2026-09-11T02:33:38.000Z</updated>
-        <summary type="html"><![CDATA[英国上院は9月9日、仮想通貨・ステーブルコイン・トークン化証券を含むデジタル資産戦略の策定を財務省に義務付ける修正案88を194対138で可決した。EU・米国で規制整備が先行する中、法案は労働党の反対を押し切り英下院での審議に移る。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なぜ今ロビンフッドなのか──預かり資産9億ドル、ただし主役は株式トークンではない]]></title>
-        <id>https://www.nadanews.com/?p=367649</id>
-        <link href="https://www.nadanews.com/367649/"/>
-        <updated>2026-09-11T02:20:34.000Z</updated>
-        <summary type="html"><![CDATA[9月11日、DefiLlamaによると、米オンライン証券大手Robinhood（ロビンフッド）が運営する独自ブロックチェーン「Robinhood Chain（ロ ...
-なぜ今ロビンフッドなのか──預かり資産9億ドル、ただし主役は株式トークンではない first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>栃山 直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マネーグラム、ステーブルコインカードをローンチ　ステラチェーン採用]]></title>
-        <id>https://coinpost.jp/?p=736859</id>
-        <link href="https://coinpost.jp/?p=736859"/>
-        <updated>2026-09-11T02:00:49.000Z</updated>
-        <summary type="html"><![CDATA[マネーグラムは、ステーブルコインを使用できるマネーグラムカードをローンチ。仮想通貨ステラのブロックチェーンを採用しており、コロンビアから段階的に提供を広げる。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーブルコイン、しきい値上昇で銘柄数が急減＝アークインベスト]]></title>
-        <id>https://coinpost.jp/?p=736850</id>
-        <link href="https://coinpost.jp/?p=736850"/>
-        <updated>2026-09-11T00:59:19.000Z</updated>
-        <summary type="html"><![CDATA[ステーブルコインは規模が大きいほど生存者が絞られるネットワーク効果が働く。アークインベストのヴァレンテ氏によると、1000億ドル級はテザーとサークルの2社体制に向かう可能性がある。各階層の推移を整理した。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップル社、企業財務AI「Gスマート」を機能拡張　人間によるガバナンスなどを強化]]></title>
-        <id>https://coinpost.jp/?p=736833</id>
-        <link href="https://coinpost.jp/?p=736833"/>
-        <updated>2026-09-11T00:45:32.000Z</updated>
-        <summary type="html"><![CDATA[リップル社が財務管理プラットフォーム「リップル・トレジャリー」組み込みのAI「Gスマート」を拡張した。予測・リスク管理などの領域で企業ポリシーに基づく機能を追加している。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベース、ムーブと提携し米国地域銀行にステーブルコイン基盤提供]]></title>
-        <id>https://coinpost.jp/?p=736804</id>
-        <link href="https://coinpost.jp/?p=736804"/>
-        <updated>2026-09-11T00:30:15.000Z</updated>
-        <summary type="html"><![CDATA[コインベースは決済インフラ企業ムーブと提携し、全米1000超の地域銀行・信用組合にステーブルコインの受け入れ・決済・即時資金化機能を提供する体制を整えた。既存の銀行システムに組み込まれ、地域金融機関の仮想通貨対応を後押しする。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米地域銀行にもステーブルコイン決済──CoinbaseがMoovと提携]]></title>
-        <id>https://www.nadanews.com/?p=367639</id>
-        <link href="https://www.nadanews.com/367639/"/>
-        <updated>2026-09-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所のCoinbase（コインベース）は9月10日、決済インフラ企業Moov（ムーブ）との提携を発表した。 Moovの顧客基盤である全米1 ...
-米地域銀行にもステーブルコイン決済──CoinbaseがMoovと提携 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase CEO「BTCは底打ち」──2030年に40万ドルの目標を維持]]></title>
-        <id>https://www.nadanews.com/?p=367631</id>
-        <link href="https://www.nadanews.com/367631/"/>
-        <updated>2026-09-10T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所大手Coinbase（コインベース）のCEO、Brian Armstrong（ブライアン・アームストロング）氏は9月10日、米CNBC ...
-Coinbase CEO「BTCは底打ち」──2030年に40万ドルの目標を維持 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRPレジャーの量子耐性移行、2027年に着実な進展との見方]]></title>
-        <id>https://coinpost.jp/?p=736821</id>
-        <link href="https://coinpost.jp/?p=736821"/>
-        <updated>2026-09-10T23:15:59.000Z</updated>
-        <summary type="html"><![CDATA[XRPレジャー財団の貢献者Vet氏は、XRPLの量子コンピュータ対策について2027年に着実な進展が見込めるとの見方を示した。また、作業には慎重さが必要であることも説明している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitwise、ドージコイン現物ETFを1年足らずで閉鎖──純資産は約72万ドル]]></title>
-        <id>https://www.nadanews.com/?p=367625</id>
-        <link href="https://www.nadanews.com/367625/"/>
-        <updated>2026-09-10T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産運用会社のBitwise（ビットワイズ）は9月10日、ドージコイン（DOGE）現物ETF「Bitwise Dogecoin ETF」（BWOW）を清算し ...
-Bitwise、ドージコイン現物ETFを1年足らずで閉鎖──純資産は約72万ドル first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
         </author>
     </entry>
     <entry>

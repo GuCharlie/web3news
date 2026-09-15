@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=368049",
+          "author": "井上 俊彦",
+          "description": "米Strive（ストライブ）は9月14日、9月8日から11日にかけてビットコイン（BTC）469BTCを1BTC平均7万7954ドルで追加取得したとアメリカ証券 ...\nStrive、BTC保有量2万5000に到達──Strategyは2週続けて売買なし first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/368049/",
+          "publishedOn": "2026-09-15T00:30:00.000Z",
+          "wordCount": 2032,
+          "title": "Strive、BTC保有量2万5000に到達──Strategyは2週続けて売買なし",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/06/shutterstock_709775887.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=368047",
+          "author": "井上 俊彦",
+          "description": "Bitmine Immersion Technologies（ビットマイン・イマージョン・テクノロジーズ）は9月14日、過去1週間にイーサリアム（ETH）を2万 ...\nBitmine、2万7180ETHを追加取得──年間ステーキング収益は3億ドル超 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/368047/",
+          "publishedOn": "2026-09-15T00:00:00.000Z",
+          "wordCount": 2012,
+          "title": "Bitmine、2万7180ETHを追加取得──年間ステーキング収益は3億ドル超",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/shutterstock_2674256243.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=368042",
           "author": "Shoko Galaviz",
           "description": "米国の主要銀行業界団体は14日、暗号資産（仮想通貨）市場の規制枠組みを定める「Digital Asset Market Clarity Act（クラリティ法案） ...\n米銀行8団体、クラリティ法案のステーブルコイン報酬規制強化を要求 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -550,16 +570,6 @@
           "wordCount": 2360,
           "title": "ビットコイン採掘からAIへ──マイニング企業の「電力」が再評価される理由【エックスウィン】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/09/799600686_1050592671182842_7655725459677448162_n_1200x800.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=367606",
-          "author": "平木 昌宏",
-          "description": "米取引所運営会社Nasdaq（ナスダック）が、暗号資産（仮想通貨）取引所Kraken（クラーケン）の親会社Payward（ペイワード）に出資する。出資額は1億ド ...\n米ナスダック、クラーケン親会社に約153億円出資──トークン株式で連携強化＝Bloomberg first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/367606/",
-          "publishedOn": "2026-09-10T13:00:00.000Z",
-          "wordCount": 2064,
-          "title": "米ナスダック、クラーケン親会社に約153億円出資──トークン株式で連携強化＝Bloomberg",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/09/AdobeStock_1534320610_Editorial_Use_Only_1200x800.jpg"
         }
       ]
     },
@@ -574,6 +584,81 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=737465",
+          "author": "Enzo",
+          "description": "ビットコイン開発者が進める耐量子コンピュータ対策の全体像を海外ニュースレターが整理。BIP-360とSHRINCSで事前防御、Lifeboat・Dropkickで事後救済を図る構想と残る課題を解説する。",
+          "link": "https://coinpost.jp/?p=737465",
+          "publishedOn": "2026-09-15T02:57:09.000Z",
+          "wordCount": 3144,
+          "title": "ビットコインの量子耐性、主要提案の全体像を整理　複数提案が連動へ＝レポート",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/bitcoin-custody-risk-and-safety-2667755225.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/bitcoin-custody-risk-and-safety-2667755225.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=737431",
+          "author": "K.Kobayashi",
+          "description": "Ethlabsのデレク・チャン氏は、アカウント抽象化の実装で仮想通貨イーサリアムのブロックチェーンとベースが別々の規格を採用することになったと報告。メリットを生む可能性にも言及した。",
+          "link": "https://coinpost.jp/?p=737431",
+          "publishedOn": "2026-09-15T02:30:24.000Z",
+          "wordCount": 3140,
+          "title": "イーサリアムとベースがアカウント抽象化で別々の規格を採用か、Ethlabsメンバーが報告",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/ethereum-network-value.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/ethereum-network-value.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=737430",
+          "author": "Enzo",
+          "description": "DFDV（DeFi Development Corp.）がSOLトレジャリーを238万8,923SOLに拡大したと発表。最大3億ドル規模のCHAD ATMも新設し、調達資金はSOLの追加購入に充てる方針。",
+          "link": "https://coinpost.jp/?p=737430",
+          "publishedOn": "2026-09-15T01:54:17.000Z",
+          "wordCount": 3144,
+          "title": "ソラナ保有企業DeFiデベロップメント、239万SOLに拡大　3億ドルの調達枠新設",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/solana-new-2026-upgrade.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/solana-new-2026-upgrade.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=737404",
+          "author": "A.Yamada",
+          "description": "ビットコイン採掘企業ビットフフとクリーンスパークは8月の採掘量の回復・微増を発表した。一方、カナーンは減産が継続しており、保有ETH売却資金などで自社株買いを実施した。",
+          "link": "https://coinpost.jp/?p=737404",
+          "publishedOn": "2026-09-15T00:40:01.000Z",
+          "wordCount": 3158,
+          "title": "上場ビットコインマイナー3社が8月の採掘実績を報告、明暗分かれる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/btc-moonson-mining.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/btc-moonson-mining.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=737375",
+          "author": "菊谷ルイス",
+          "description": "オンチェーン金融データを手掛けるカイコが、S&Pグローバル主導の増資でシリーズBを1.1億ドルに拡大した。BNPパリバなど新規12社が参加し、カイコが議長を務める業界作業部会にも加わった。",
+          "link": "https://coinpost.jp/?p=737375",
+          "publishedOn": "2026-09-15T00:25:39.000Z",
+          "wordCount": 3127,
+          "title": "オンチェーン金融データ『カイコ』、S&P主導の増資でシリーズBを1.1億ドルに拡大",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/09/kaiko-sp500-global.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/09/kaiko-sp500-global.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=737395",
           "author": "K.Kobayashi",
@@ -1302,6 +1387,36 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=607905",
+          "author": "TanakaShuya",
+          "description": "BitmineがETH追加取得 ビットマイン・イマージョン・テクノロジーズ（Bitmine Immersion Technologies：以下、ビットマイン）が、暗号資産（仮想通貨）イーサリアム（ETH）の追加取得を含む […]",
+          "link": "https://www.neweconomy.jp/posts/607905",
+          "publishedOn": "2026-09-15T03:04:48.000Z",
+          "wordCount": 750,
+          "title": "ビットマインがイーサリアムを2万7180ETH追加取得、総保有量595万ETH超に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/09/15120428/34660baf8a954a14ebe9bd642561b541.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=607896",
+          "author": "OtsugaShinya",
+          "description": "チェーン終了や用途変更、価格乱高下が続くLSK 国内暗号資産（仮想通貨）取引所OKJが、暗号資産「リスク（LSK）」の販売所および積立サービスを一時停止した。OKJが9月14日に公式Xで発表した。 停止日時は同日15時3 […]",
+          "link": "https://www.neweconomy.jp/posts/607896",
+          "publishedOn": "2026-09-15T02:58:38.000Z",
+          "wordCount": 763,
+          "title": "OKJ、リスク（LSK）の販売所・積立を一時停止、再開時期は未定",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/09/15115817/6541dcaf3e38386358352209640ed97c.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=607889",
+          "author": "watanabeyousuke",
+          "description": "Bitcoin Bridgeでインシデント、損失総額は9.97 BTC クロスチェーンプロトコル「シンビオーシス（Symbiosis）」の開発チームが、9月11日に発生したビットコイン・ブリッジ（Bitcoin Brid […]",
+          "link": "https://www.neweconomy.jp/posts/607889",
+          "publishedOn": "2026-09-15T02:49:25.000Z",
+          "wordCount": 860,
+          "title": "シンビオーシス、ビットコイン・ブリッジのインシデントに関する事後報告公開。ユーザー損失総額は9.97BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/09/15120842/f9f8ea2d68f04ad232331a443a436c22.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=607708",
           "author": "NewEconomyPodcast",
           "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
@@ -1580,16 +1695,6 @@
           "wordCount": 816,
           "title": "コインベース、「Base App」を「Coinbase Wallet」に再改称",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/09/11120713/c69164e4793c573b04974baa971f45a7.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=606944",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/606944",
-          "publishedOn": "2026-09-10T12:06:09.000Z",
-          "wordCount": 787,
-          "title": "【9/10話題】コンセンシスがメタマスクと機関向け事業の2社に分離へ、バイデン息子のミームコイン「LAPTOP」がローンチ直後に価格急騰も大幅下落など",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/09/10185456/bfb12f918c568bad447abc67a1213fb4.jpg"
         }
       ]
     },
@@ -2115,6 +2220,16 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=172235",
+          "author": "よきょい",
+          "description": "イーサリアムの大型アップグレード「Glamsterdam（グラムステルダム）」を前に、ブロック生成を担う「ビルダー」への支払い方式を巡る議論がリキッドステーキング大手Lidoのコミュニティで活発になっています。 焦点は、 […]\n投稿 イーサリアム大型更新前に議論白熱｜Lidoで支払い方式巡り は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-ethereum-glamsterdam-lido-epbs/",
+          "publishedOn": "2026-09-15T03:15:59.000Z",
+          "wordCount": 1993,
+          "title": "イーサリアム大型更新前に議論白熱｜Lidoで支払い方式巡り",
+          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M2HGZN0N5C8JYJT5NR08ZWST.01M2HGZNDVC2BEH72ECV4EXG8W.jpg"
+        },
         {
           "id": "https://crypto-times.jp/?p=172222",
           "author": "よきょい",

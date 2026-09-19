@@ -875,6 +875,51 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=738671",
+          "author": "菊谷ルイス",
+          "description": "ブロックチェーン決済網のパーティアと英LSEG DiSHが常時稼働の決済銀行流動性で提携し、JPモルガンなど参加行が24時間365日の資金移動を可能にする新体制を築く。銀行間送金の効率化により、機関投資家の資金効率を高める。",
+          "link": "https://coinpost.jp/?p=738671",
+          "publishedOn": "2026-09-19T04:35:31.000Z",
+          "wordCount": 3153,
+          "title": "JPモルガン系ブロックチェーン決済網と英LSEG、24時間決済で提携",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/digitaldollar1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/digitaldollar1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=738660",
+          "author": "A.Yamada",
+          "description": "バイナンスリサーチがRWA（現実資産）トークン化市場の現在を分析。運用資産総額は341.8億ドルに達しており資産の「活用度合い」が今後の焦点になるとした。",
+          "link": "https://coinpost.jp/?p=738660",
+          "publishedOn": "2026-09-19T02:45:52.000Z",
+          "wordCount": 3155,
+          "title": "「トークン化RWAのAUMが5兆円に到達」バイナンスが市場の現状と展望をレポート",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/rwa-head.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/rwa-head.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=738612",
+          "author": "CoinPost編集部",
+          "description": "仮想通貨ビットコインは日本時間9月18日夜から19日未明にかけて急騰し、8万ドル台を回復した。今回の上昇は、クラリティ法案の審議停滞を受けて強まった政策面への悲観を、規制当局の具体的な対応が和らげた動きと捉えられる。",
+          "link": "https://coinpost.jp/?p=738612",
+          "publishedOn": "2026-09-19T02:05:04.000Z",
+          "wordCount": 2968,
+          "title": "ビットコイン急騰、8万ドル台回復　SEC・CFTCの制度整備を好感｜仮想NISHI",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0555.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0555.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=738638",
           "author": "A.Yamada",
           "description": "サークル社は独自ブロックチェーン「Arc」向けのAIコーディングエージェント「Arc Studio」を発表。自然言語の指示だけでアプリを生成し、9つのブロックチェーンに対応している。",
@@ -2815,16 +2860,6 @@
           "wordCount": 860,
           "title": "シンビオーシス、ビットコイン・ブリッジのインシデントに関する事後報告公開。ユーザー損失総額は9.97BTCに",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/09/15120842/f9f8ea2d68f04ad232331a443a436c22.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=607708",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/607708",
-          "publishedOn": "2026-09-14T13:37:03.000Z",
-          "wordCount": 801,
-          "title": "【9/14話題】米CLARITY法案が上院で9/15に重要採決へ、ビットバンクがENJ取扱廃止へ、ユニスワップ直近30日取引高700億ドル超になど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/09/14191743/5592d6584a0166b23c960aa928e37e54.jpg"
         }
       ]
     },

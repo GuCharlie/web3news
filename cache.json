@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=370250",
+          "author": "平木 昌宏",
+          "description": "英国の金融行動監視機構（FCA）は9月30日、暗号資産（仮想通貨）企業から認可申請を受け付ける「ゲートウェイ」を開設した。英国で暗号資産事業者を包括的な監督下に ...\n英国、初の暗号資産本格審査開始──既存登録業者も再審査へ first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/370250/",
+          "publishedOn": "2026-09-30T14:20:00.000Z",
+          "wordCount": 2103,
+          "title": "英国、初の暗号資産本格審査開始──既存登録業者も再審査へ",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/09/AdobeStock_2171797377_Editorial_Use_Only_1200x800.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=370236",
+          "author": "平木 昌宏",
+          "description": "米ニューヨーク・マンハッタンの連邦地裁で9月28日、分散型取引所（DEX）から約5470万ドル（約86億円、1ドル＝157円換算）の暗号資産（仮想通貨）を盗んだ ...\n暗号資産86億円盗み希少ポケモンカード購入──米国で裁判開始 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/370236/",
+          "publishedOn": "2026-09-30T13:30:00.000Z",
+          "wordCount": 2286,
+          "title": "暗号資産86億円盗み希少ポケモンカード購入──米国で裁判開始",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/09/picture1_1_8_1200x800.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=370212",
           "author": "平木 昌宏",
           "description": "暗号資産（仮想通貨）取引所Bitget（ビットゲット）のGracy Chen（グレイシー・チェン）CEOは9月30日、ユーザー保護基金の評価額が3億ドル（約47 ...\n資金流出のBitget、保護基金が約486億円に回復──約束の水準を達成 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -660,26 +680,6 @@
           "wordCount": 2390,
           "title": "米SEC「クリプトママ」パース委員、10月2日退任へ",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/09/AdobeStock_521876474_Editorial_Use_Only_1200x800-1.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=369538",
-          "author": "平木 昌宏",
-          "description": "米商品先物取引委員会（CFTC）は9月24日、金融事業者が顧客資金をトークン化商品で運用する際のルールを明らかにした。従来から投資が認められている金融商品の範囲 ...\nCFTCがFAQ公表、顧客資金によるトークン化資産への投資を容認 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/369538/",
-          "publishedOn": "2026-09-26T01:30:00.000Z",
-          "wordCount": 2136,
-          "title": "CFTCがFAQ公表、顧客資金によるトークン化資産への投資を容認",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/09/AdobeStock_323811480_Editorial_Use_Only_1200x800.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=369563",
-          "author": "荒澤 文寛（あらさわ ふみひろ） ビットトレード リサーチアナリスト",
-          "description": "今週の市場は、「上昇への期待が一気に強まった後、マクロ環境の厳しさを改めて突きつけられた一週間」だった。 ビットコインは週初の8万〜8万1,000ドル前後（約1 ...\n「乗り遅れ不安」から「金利への警戒」へ── 強気構造の中で試されるビットコインの買い需要【BitTrade Market Weekly】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/369563/",
-          "publishedOn": "2026-09-26T00:00:00.000Z",
-          "wordCount": 2201,
-          "title": "「乗り遅れ不安」から「金利への警戒」へ── 強気構造の中で試されるビットコインの買い需要【BitTrade Market Weekly】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/09/825311056_2966703470348774_7307656860247596261_n_1200x800.jpg"
         }
       ]
     },
@@ -1413,96 +1413,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=739441",
-          "author": "A.Yamada",
-          "description": "米第6巡回区控訴裁判所は予測市場カルシのスポーツイベント契約は「スワップ」に該当せず州の賭博規制対象になるとの判決を下した。控訴審では州側の2勝目となった。",
-          "link": "https://coinpost.jp/?p=739441",
-          "publishedOn": "2026-09-26T05:00:37.000Z",
-          "wordCount": 3129,
-          "title": "米控訴裁「予測市場のスポーツイベント契約は州が規制可能」と判決、カルシ敗訴",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/ripple-court.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/ripple-court.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=739450",
-          "author": "菊谷ルイス",
-          "description": "米CFTCは24日、仮想通貨・ブロックチェーンに関するFAQを更新し、顧客資金によるトークン化投資対象の拡大やブロックチェーンを使った記録管理の容認を新たに明記した。",
-          "link": "https://coinpost.jp/?p=739450",
-          "publishedOn": "2026-09-26T04:25:53.000Z",
-          "wordCount": 3122,
-          "title": "米CFTC、顧客資金の投資対象トークン化と記録管理を容認",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/cftc-ooki-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/cftc-ooki-1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=739425",
-          "author": "菊谷ルイス",
-          "description": "米司法省はテザー系決済業者キャプストーンの口座から8400万ドルを差し押さえた。テザーは関連銀行EQIバンクへの資産エクスポージャー比率を0.034%にとどまるとしている。",
-          "link": "https://coinpost.jp/?p=739425",
-          "publishedOn": "2026-09-26T02:30:34.000Z",
-          "wordCount": 3136,
-          "title": "米司法省、テザー準備金の一部を扱った決済業者から8400万ドル押収",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/doj-framework.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/doj-framework.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=739427",
-          "author": "A.Yamada",
-          "description": "米ブロック社がAI決済のオープン規格を運営する「x402財団」に加入した。仮想通貨ビットコインのライトニング・ネットワークによる決済機能をx402に導入している。",
-          "link": "https://coinpost.jp/?p=739427",
-          "publishedOn": "2026-09-26T02:05:43.000Z",
-          "wordCount": 3139,
-          "title": "米ブロック社、AIエージェント決済規格「x402」にビットコイン・ライトニングを導入",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/swuare3254-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/swuare3254-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=739426",
-          "author": "菊谷ルイス",
-          "description": "ハイパーリキッド・ストラテジーズに関連するウォレットが49.4万HYPEトークンを追加購入し、月間の購入量は551万HYPEに達した。一方で大口5件が合計98万HYPEのステーキング解除を開始した。",
-          "link": "https://coinpost.jp/?p=739426",
-          "publishedOn": "2026-09-26T01:12:36.000Z",
-          "wordCount": 3132,
-          "title": "ハイパーリキッド・ストラテジーズが70億円相当HYPE追加購入、大口ステーキング解除も観測",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/hyperliquid-etf-new-filing.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/hyperliquid-etf-new-filing.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=739393",
-          "author": "菊谷ルイス",
-          "description": "ビットゲットCEOのグレイシー・チェン氏は25日、不正流出の調査進展を説明した。攻撃者はバックエンドシステムを侵害し資金移動を実行したが、秘密鍵漏えいはなく追加被害の恐れもないとした。",
-          "link": "https://coinpost.jp/?p=739393",
-          "publishedOn": "2026-09-26T00:30:24.000Z",
-          "wordCount": 3139,
-          "title": "ビットゲット、流出経緯を一部説明｜被害額は上方修正",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/09/bitget-hack-2026-sep.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/09/bitget-hack-2026-sep.jpg"
         }
       ]
     },
@@ -1511,6 +1421,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=612491",
+          "author": "NewEconomyPodcast",
+          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/612491",
+          "publishedOn": "2026-09-30T12:16:32.000Z",
+          "wordCount": 654,
+          "title": "【9/30話題】バイナンスペイがPayPay加盟店での訪日客向け暗号資産決済に対応、KDDIらがau PAYで暗号資産ウォレット提供開始など（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/09/30203122/27730471799f8fa3aa894e3d270f1b72.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=612320",
           "author": "OtsugaShinya",
@@ -2884,16 +2804,6 @@
           "wordCount": 2168,
           "title": "担保が健全でも清算？米大手取引所のBTC担保ローンの落とし穴",
           "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M3E5C1P6F4FE03BJ8T5D80SM.01M3E5C2A2DJJX73FJ8PMFA6JF.webp-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172334",
-          "author": "よきょい",
-          "description": "米ニューヨーク州のレティシア・ジェームズ司法長官は9月24日、予測市場（将来の出来事の結果を取引する市場）を運営するPolymarketの米国事業体QCX LLCを州裁判所に提訴しました。州のゲーミングライセンスを持たず […]\n投稿 ニューヨーク州、予測市場を違法賭博で提訴｜利益の3倍の罰金要求 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-new-york-sues-polymarket/",
-          "publishedOn": "2026-09-26T03:23:28.000Z",
-          "wordCount": 2170,
-          "title": "ニューヨーク州、予測市場を違法賭博で提訴｜利益の3倍の罰金要求",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M3DVSB5B89BJP5WKYDRBQD71.01M3DVSBAYPBC0T77XC50720JQ.webp-1536w.webp"
         }
       ]
     }

@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-10-12T23:07:54.261Z</updated>
+    <updated>2026-10-13T03:42:53.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[韓国、未登録の暗号資産取引所27サイトを遮断へ──KuCoin、MEXCなど]]></title>
+        <id>https://www.nadanews.com/?p=372197</id>
+        <link href="https://www.nadanews.com/372197/"/>
+        <updated>2026-10-13T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[韓国金融委員会（FSC）傘下の金融情報分析院（FIU）は10月13日、未登録の暗号資産（仮想通貨）事業者が運営する27サイトについて、韓国内からのアクセス遮断な ...
+韓国、未登録の暗号資産取引所27サイトを遮断へ──KuCoin、MEXCなど first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>平木 昌宏</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインチェックG子会社3iQの関連企業、アブダビの金融事業免許の原則承認を取得]]></title>
+        <id>https://coinpost.jp/?p=742468</id>
+        <link href="https://coinpost.jp/?p=742468"/>
+        <updated>2026-10-13T02:41:35.000Z</updated>
+        <summary type="html"><![CDATA[コインチェックグループ子会社3iQの関連企業は、アブダビの金融事業免許の原則承認を取得。長期的には、仮想通貨ビットコインやイーサリアムのETFの提供などを世界の適格投資家へ拡大していきたいと述べている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スタンダードチャータード、リップルのRLUSDのカストディを開始]]></title>
+        <id>https://coinpost.jp/?p=742424</id>
+        <link href="https://coinpost.jp/?p=742424"/>
+        <updated>2026-10-13T00:55:21.000Z</updated>
+        <summary type="html"><![CDATA[スタンダードチャータードは、リップルのステーブルコインRLUSDの機関向けカストディサービスを開始したことを発表。リップルとLMAXグループとの協業も公表した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米中間選挙を前に、暗号通貨関連PACが下院候補支援に約4億4000万円支出]]></title>
+        <id>https://www.nadanews.com/?p=372177</id>
+        <link href="https://www.nadanews.com/372177/"/>
+        <updated>2026-10-13T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカの暗号資産（仮想通貨）業界が支援する政治活動委員会（PAC）「Fairshake（フェアシェイク）」の2つの関連団体が、11月3日の中間選挙を前に、下院 ...
+米中間選挙を前に、暗号通貨関連PACが下院候補支援に約4億4000万円支出 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strategy、250BTCを追加購入──優先株の買い戻しは約308億円に拡大]]></title>
+        <id>https://www.nadanews.com/?p=372174</id>
+        <link href="https://www.nadanews.com/372174/"/>
+        <updated>2026-10-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最大のビットコイン（BTC）財務企業であるStrategy（ストラテジー）は10月12日、同月5日から11日までに250BTCを2150万ドル（約34億4000 ...
+Strategy、250BTCを追加購入──優先株の買い戻しは約308億円に拡大 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハードウェアウォレットよりもETFの方が安全か ── Ledger事件で再燃する自己管理論争]]></title>
+        <id>https://www.nadanews.com/?p=372169</id>
+        <link href="https://www.nadanews.com/372169/"/>
+        <updated>2026-10-12T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）アナリストのPlanB氏は10月12日、Xへの投稿で、2025年に保有するBTCを現物ETF（上場投資信託）へ移した判断について「後悔は一 ...
+ハードウェアウォレットよりもETFの方が安全か ── Ledger事件で再燃する自己管理論争 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BitMine会長、最大318兆円の資産移転に期待──ETH保有量は603万枚に]]></title>
         <id>https://www.nadanews.com/?p=372168</id>
@@ -59,6 +123,16 @@ Papertradeで約2億円の利益記録──ETH価格参照の仕組みを利用
 予測市場Kalshi、トランプ次期報道官の指名めぐる不審な取引を調査＝WSJ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>平木 昌宏</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ストラテジー、4週連続でビットコイン買い増し　34億円相当BTCを取得]]></title>
+        <id>https://coinpost.jp/?p=742410</id>
+        <link href="https://coinpost.jp/?p=742410"/>
+        <updated>2026-10-12T12:10:49.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン保有最大手のストラテジーが10月5日から11日に250BTCのビットコインを取得し、買い増しは4週連続となった。保有量は848,250BTCに達し、1億9,240万ドル分のSTRC優先株の買い戻しも実施した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -1486,93 +1560,6 @@ Securitize、エヌビディアやアップル、スペースXなど米国株12�
         <summary type="html"><![CDATA[ギリシャ財務省は7日、個人の仮想通貨譲渡益に10％の税率で課税する規定を含む法案を意見公募に付した。課税年ごとに500ユーロまでの譲渡益は非課税とし、貸付やステーキングの収益も利子として10％で課税する。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[財務省、国債トークン化の「3類型」を提示]]></title>
-        <id>https://www.nadanews.com/?p=371545</id>
-        <link href="https://www.nadanews.com/371545/"/>
-        <updated>2026-10-08T13:20:23.000Z</updated>
-        <summary type="html"><![CDATA[財務省は10月8日、国債のトークン化について議論する「国債のオンチェーン対応に関する研究会」の初会合を予定どおり開いたと通信社などが報じた。国内外でブロックチェ ...
-財務省、国債トークン化の「3類型」を提示 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップル、米大手銀行と競合──ウォール街のお家芸「レバレッジ型ETFへの資金提供」で＝WSJ]]></title>
-        <id>https://www.nadanews.com/?p=371505</id>
-        <link href="https://www.nadanews.com/371505/"/>
-        <updated>2026-10-08T12:30:24.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）企業のRipple（リップル）が、米国のレバレッジ型ETF（上場投資信託）への資金提供で大手銀行や証券会社と競合していると、ウォール・ストリ ...
-リップル、米大手銀行と競合──ウォール街のお家芸「レバレッジ型ETFへの資金提供」で＝WSJ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【10/8話題】コインチェックがNAC取扱開始、NOT A HOTEL DAOはCoincheck CaaS導入、Samsung WalletでUSDC国際送金を提供へなど（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=615182</id>
-        <link href="https://www.neweconomy.jp/posts/615182"/>
-        <updated>2026-10-08T12:16:02.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【今日の仮想通貨】S&Pが仮想通貨運用にリスク評価を新設？ディズニー採用のイーサリアムL2が終了へ]]></title>
-        <id>https://crypto-times.jp/?p=172466</id>
-        <link href="https://crypto-times.jp/news-crypto-update-20261008/"/>
-        <updated>2026-10-08T11:43:20.000Z</updated>
-        <summary type="html"><![CDATA[10月8日、ビットコイン（BTC）の価格は1226万円前後で推移しており、イーサリアム（ETH）は約37.8万円、ソラナ（SOL）は約1.58万円で取引されています。世界の暗号資産時価総額は426兆円で、ビットコインのド […]
-投稿 【今日の仮想通貨】S&Pが仮想通貨運用にリスク評価を新設？ディズニー採用のイーサリアムL2が終了へ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マスク氏の半導体工場、テスラとスペースXが運営へ｜TSMCは脇役か]]></title>
-        <id>https://crypto-times.jp/?p=172464</id>
-        <link href="https://crypto-times.jp/news-musk-terafab-tesla-spacex/"/>
-        <updated>2026-10-08T11:32:07.000Z</updated>
-        <summary type="html"><![CDATA[イーロン・マスク氏は2026年10月7日、半導体製造計画「Terafab（テラファブ）」について、テスラとスペースXが所有・運営する方針を明確にしました。 TSMCが関与する場合でも工場の一部を借りる程度にとどまる可能性 […]
-投稿 マスク氏の半導体工場、テスラとスペースXが運営へ｜TSMCは脇役か は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【10/27開催】暗号資産ETF、2028年を見据え、準備は間に合うのか？──売買・保管・監査の業務フローを解説]]></title>
-        <id>https://www.nadanews.com/?p=371475</id>
-        <link href="https://www.nadanews.com/371475/"/>
-        <updated>2026-10-08T11:31:04.000Z</updated>
-        <summary type="html"><![CDATA[10月27日（火）、暗号資産ETFを支える売買・保管・監査の業務フローを実務家が解説するオフラインイベントを開催。BACKSEAT前田慶次氏、finoject三根公博氏、PwC Japan須田真由氏が登壇。限定50名・参加無料（事前承認制）。
-【10/27開催】暗号資産ETF、2028年を見据え、準備は間に合うのか？──売買・保管・監査の業務フローを解説 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>NADA NEWS編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイクロン台湾工場でスト権確立、賛成99%｜AIメモリー供給に懸念]]></title>
-        <id>https://crypto-times.jp/?p=172462</id>
-        <link href="https://crypto-times.jp/news-micron-taiwan-strike-vote/"/>
-        <updated>2026-10-08T11:21:53.000Z</updated>
-        <summary type="html"><![CDATA[米マイクロン・テクノロジーの台湾・桃園工場の労働組合が、ストライキを実施する権利を確立しました。投票は2026年10月1日から6日にかけて行われ、対象組合員2,258人のうち2,012人が参加しています。このうち1,99 […]
-投稿 マイクロン台湾工場でスト権確立、賛成99%｜AIメモリー供給に懸念 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【今日のマクロ経済】高市首相は積極財政維持、米国は追加利上げ視野]]></title>
-        <id>https://crypto-times.jp/?p=172461</id>
-        <link href="https://crypto-times.jp/news-macro-update-20261008/"/>
-        <updated>2026-10-08T11:19:32.000Z</updated>
-        <summary type="html"><![CDATA[10月8日、日経平均株価は前日比1.42%安の69,042円で取引を終え、続落して7万円を割り込みました。米国市場でもS&P500が0.22%下落し、最高値圏から僅かな後退を見せました。9月のFOMC議事要旨では年内の追 […]
-投稿 【今日のマクロ経済】高市首相は積極財政維持、米国は追加利上げ視野 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
     <entry>

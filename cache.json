@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=372804",
+          "author": "エックスウィン",
+          "description": "日本円ステーブルコイン「JPYC」の社会実装が、少しずつ進んでいる。商品を買う、ウォレットで送る、企業の業務に組み込む。制度や技術について語る段階から、実際の利 ...\nJPYCがつなぐ、新しいデジタル金融体験──企業決済・ウォレット・オンチェーン運用の現在地【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/372804/",
+          "publishedOn": "2026-10-17T21:00:00.000Z",
+          "wordCount": 2428,
+          "title": "JPYCがつなぐ、新しいデジタル金融体験──企業決済・ウォレット・オンチェーン運用の現在地【エックスウィン】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/10/e8c81038d895470f9a4a89a749feec51.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=372880",
           "author": "平木 昌宏",
           "description": "グーグルは10月15日、量子チップ「Willow（ウィロー）」を使い、量子計算に必要な特殊な状態を準備する際のエラーを約40分の1に減らしたと発表した。成果は同 ...\nGoogleの量子コンピューター研究で新成果──初期のビットコインに将来的な脅威＝CoinDesk first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -660,16 +670,6 @@
           "wordCount": 2270,
           "title": "金融安定理事会、G20にステーブルコイン監督の連携強化を要請",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/10/AdobeStock_391606038_Editorial_Use_Only_1200x800.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=372222",
-          "author": "栃山 直樹",
-          "description": "NFT取引所のBlur（ブラー）は10月13日、取引サイト「blur.io」を11月12日に閉じると公式Xで発表した。 同社によると、閉じるのは利用者が操作する ...\nNFT取引所Blur、事実上のサービス終了へ──取引サイトを11月閉鎖 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/372222/",
-          "publishedOn": "2026-10-13T07:07:19.000Z",
-          "wordCount": 2431,
-          "title": "NFT取引所Blur、事実上のサービス終了へ──取引サイトを11月閉鎖",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/10/527bdb58b1c998297e55a15e1507d867.jpg"
         }
       ]
     },
@@ -1703,21 +1703,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/altcoin-20260427-1-1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/altcoin-20260427-1-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=742478",
-          "author": "A.Yamada",
-          "description": "韓国の全北銀行が法人向けに仮想通貨ビットコイン担保のウォン建て融資を開始したと伝えられる。背景の一つには民事執行規則改正があり、担保は外部のカストディ業者が保管する。",
-          "link": "https://coinpost.jp/?p=742478",
-          "publishedOn": "2026-10-13T08:15:01.000Z",
-          "wordCount": 3200,
-          "title": "韓国地銀、ビットコイン担保のウォン建て融資を開始",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/korea-tax-crypto.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/korea-tax-crypto.png"
         }
       ]
     },
@@ -2345,16 +2330,6 @@
           "wordCount": 734,
           "title": "スタンダードチャータード、RLUSDのカストディ開始、LMAXでの担保利用へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/13185957/7a5818d645d5294c999c14d12857cf17.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=616095",
-          "author": "HitomotoToshikazu",
-          "description": "メリッツ証券がRippleと提携 韓国のメリッツ証券（Meritz Securities）が、韓国の資本市場におけるデジタル資産の保管・トークン化インフラの活用に向け、米リップル（Ripple）との戦略的提携を10月1日 […]",
-          "link": "https://www.neweconomy.jp/posts/616095",
-          "publishedOn": "2026-10-13T08:03:31.000Z",
-          "wordCount": 598,
-          "title": "韓国メリッツ証券がリップルと提携、カストディ・トークン化基盤の活用検討",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/13170318/a0bd37f3bd72790d7ec8aac30a767496.jpg"
         }
       ]
     },

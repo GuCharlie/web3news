@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=372836",
+          "author": "増田隆幸",
+          "description": "「660万分の1」になってしまった。 タイムズカーから、不正アクセスによって漏れた個人情報に私の情報も含まれていたというメールが届いた。 漏れたのは、氏名、住所 ...\n私の個人情報も漏れた──タイムズカー660万件で考えた「預けすぎる社会」【編集長コラム】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/372836/",
+          "publishedOn": "2026-10-18T01:00:00.000Z",
+          "wordCount": 2374,
+          "title": "私の個人情報も漏れた──タイムズカー660万件で考えた「預けすぎる社会」【編集長コラム】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/10/nadanews_top-2026-10-17T085350.056.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=372796",
+          "author": "Delia Rojo",
+          "description": "エックスウィン アメリカマーケットリサーチアナリストのデリア・ロホです。 サンフランシスコから、今回は少し個人的なお話をしたいと思います。 最近、アメリカで暮ら ...\nアメリカは自由を失ったのではない。「希望」を失いかけているのかもしれない【サンフランシスコレポート】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/372796/",
+          "publishedOn": "2026-10-18T00:00:00.000Z",
+          "wordCount": 2269,
+          "title": "アメリカは自由を失ったのではない。「希望」を失いかけているのかもしれない【サンフランシスコレポート】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/sanfrancisco_market_report.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=372687",
           "author": "橋本 祐樹",
           "description": "ビットコイン保有で世界2位の日本企業・メタプラネットの実態を解説。AmazonでLedgerを購入した元Mt.Gox CEOが不正装置を発見し、押収8000億円 ...\n【ゼロから分かる】ビットコイン保有「世界2位」の日本企業、メタプラネットとは／Amazon Japanで購入したLedgerに不正装置【日曜日に読みたい厳選5本】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -674,6 +694,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=743294",
+          "author": "CoinPost編集部",
+          "description": "今週は、中国人詐欺師からロンドン警視庁が押収した約6万1,000BTC、仮想通貨ウォレットのレジャーに関連する資産流出事案、6年超休眠のビットコインクジラによる約4,582BTC移動に関する記事が関心を集めた。",
+          "link": "https://coinpost.jp/?p=743294",
+          "publishedOn": "2026-10-18T00:25:23.000Z",
+          "wordCount": 2982,
+          "title": "週刊仮想通貨ニュース（10/16）｜英国の押収BTC・レジャー関連の資産流出・6年超休眠のBTCの動向まとめ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=743447",
           "author": "菊谷ルイス",
@@ -1663,21 +1698,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/Ledger-Stax.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/Ledger-Stax.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=742629",
-          "author": "菊谷ルイス",
-          "description": "メタプラネットは13日、想定発行額520億円、利率0％の同社初のユーロ円建転換社債型新株予約権付社債の発行を発表した。仮想通貨ビットコイン担保の有利子借入の一部を無担保・無利息の資金に置き換え、借入返済と自己株式取得に充てる。",
-          "link": "https://coinpost.jp/?p=742629",
-          "publishedOn": "2026-10-13T12:30:11.000Z",
-          "wordCount": 3142,
-          "title": "メタプラネット、初のユーロ円建転換社債を520億円相当分発行へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/HUgDZHvaIAAwfNK.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/HUgDZHvaIAAwfNK.jpeg"
         }
       ]
     },

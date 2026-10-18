@@ -670,16 +670,6 @@
           "wordCount": 2362,
           "title": "CEXとDEXの取引高が同時に回復──暗号資産市場で進む「取引の場」の変化【エックスウィン】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/10/844889068_1797157121329610_431990610191505190_n_1200x800.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=372264",
-          "author": "Ibrahim Ajibade",
-          "description": "ビットコインは10月13日、Ledgerのサプライチェーン懸念と米インフレ指標待ちの中、8万1130ドルから8万3200ドルまで反発した。現物ETFは10月の累計純流出が拡大する一方、Polymarketでは月末までに8万5000ドル到達の確率が78%に上昇した。\nビットコインの9万ドル再挑戦、米CPIとタイでのIMF総会が鍵【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/372264/",
-          "publishedOn": "2026-10-13T14:09:46.000Z",
-          "wordCount": 2615,
-          "title": "ビットコインの9万ドル再挑戦、米CPIとタイでのIMF総会が鍵【価格分析】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/10/image1-9.jpg"
         }
       ]
     },
@@ -694,6 +684,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=743353",
+          "author": "CoinPost編集部",
+          "description": "ビットコイン（BTC）はCPI・PPI上振れを受け一時下落するも、8万ドル水準を維持し底堅さを示した。目先はFOMC金利観測の行方と8万ドルのサポート継続が焦点となる。",
+          "link": "https://coinpost.jp/?p=743353",
+          "publishedOn": "2026-10-18T02:30:53.000Z",
+          "wordCount": 2940,
+          "title": "ビットコインCPI・PPI上振れも8万ドル維持、FOMC金利観測が焦点｜bitbankアナリスト寄稿",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=743294",
           "author": "CoinPost編集部",
@@ -2235,16 +2240,6 @@
           "wordCount": 1203,
           "title": "レジャー、不正部品による復元フレーズ窃取の手口公表。LTEで外部送信",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/14145834/3c2f4721d2c074e19e93fadd16c4f9ca.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=616125",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/616125",
-          "publishedOn": "2026-10-13T13:20:44.000Z",
-          "wordCount": 781,
-          "title": "【10/13話題】SBIらがAIエージェント活用の日韓金融・決済で基本合意、エバーノースがナスダック上場、XRP不正生成の脆弱性を修正など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/13191037/3528bd574cffc27c3aacf1342a00e812.jpg"
         }
       ]
     },
@@ -2771,6 +2766,16 @@
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
         {
+          "id": "https://crypto-times.jp/?p=172535",
+          "author": "よきょい",
+          "description": "今週の半導体業界ではAI需要の強さを示す決算が相次ぐ一方で、株価は大きく揺れました。TSMCは10月15日、7〜9月期の純利益が前年同期比68.7%増の7630億台湾ドルになったと発表しました。前日14日にはASMLも純 […]\n投稿 【今週の半導体】TSMC純利益7割増も株安、日本マネー最大210億ドルで米新工場 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-semiconductor-weekly-20261018/",
+          "publishedOn": "2026-10-18T03:00:00.000Z",
+          "wordCount": 2220,
+          "title": "【今週の半導体】TSMC純利益7割増も株安、日本マネー最大210億ドルで米新工場",
+          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M54K02KHKAFGB7B6AG7YCFNR.01M54K04803Q21N2FFBBZR4ANZ.png-1536w.webp"
+        },
+        {
           "id": "https://crypto-times.jp/?p=172536",
           "author": "よきょい",
           "description": "10月17日、ビットコイン（BTC）の価格は1287万円前後で推移しており、イーサリアム（ETH）は約38.3万円、ソラナ（SOL）は約1.65万円で取引されています。世界の暗号資産時価総額は448兆円で、ビットコインの […]\n投稿 【今日の仮想通貨】米銀行がリップル「RLUSD」に対応。大手決済会社がステーブルコインで新ルート は CRYPTO TIMES に最初に表示されました。",
@@ -3159,46 +3164,6 @@
           "wordCount": 2173,
           "title": "トークン化株の夜間値動き、翌朝の米株に最大99%反映｜IMF分析",
           "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M4WBGCDEDWY28QV1GKQA2XSE.01M4WBGE3FF18MSX57ZCKCZKQC.png-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172492",
-          "author": "よきょい",
-          "description": "半導体業界では今週主要企業の決算発表が相次ぎます。オランダの半導体製造装置大手ASMLは10月14日、2026年第3四半期決算を発表します。 台湾積体電路製造（TSMC）は10月15日の台湾時間14時（日本時間15時）に […]\n投稿 半導体株の反発はあるか？ASML・TSMC決算が今週の試金石 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-asml-tsmc-earnings-preview/",
-          "publishedOn": "2026-10-13T14:22:21.000Z",
-          "wordCount": 2175,
-          "title": "半導体株の反発はあるか？ASML・TSMC決算が今週の試金石",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M4TT7PR0C3MPSMT1CYEXWC8W.01M4TT7RNAJM8GMZGZE3BFAG40.png-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172493",
-          "author": "よきょい",
-          "description": "10月13日、ビットコイン（BTC）の価格は1317万円前後で推移しており、イーサリアム（ETH）は約39.6万円、ソラナ（SOL）は約1.70万円で取引されています。世界の暗号資産時価総額は456兆円で、ビットコインの […]\n投稿 【今日の仮想通貨】BTC8.5万ドルに「売りの壁」か。英銀大手銀行がRLUSD保管を開始 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-crypto-update-20261013/",
-          "publishedOn": "2026-10-13T14:21:17.000Z",
-          "wordCount": 2213,
-          "title": "【今日の仮想通貨】BTC8.5万ドルに「売りの壁」か。英銀大手銀行がRLUSD保管を開始",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M4TT57BNE673H7AMS84YKCXR.01M4TT57J2R43QE2QEV2JY7CZM.webp-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172491",
-          "author": "よきょい",
-          "description": "10月13日の東京株式市場で日経平均株価は4日続落しました。終値は6万7777円52銭で、前週末比1253円安（1.82%安）でした。取引時間中には下げ幅が一時2000円近くに達しました。 3連休中の米国市場で半導体株が […]\n投稿 日経平均一時2000円近く下落で4日続落｜キオクシア13%安 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-nikkei-semiconductor-selloff/",
-          "publishedOn": "2026-10-13T14:10:42.000Z",
-          "wordCount": 2175,
-          "title": "日経平均一時2000円近く下落で4日続落｜キオクシア13%安",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M4TSHDTF76XFBYTZCT8Q1RFN.01M4TSHF2Y8CA1D1DKV7NR13EB.png-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172490",
-          "author": "よきょい",
-          "description": "10月13日の東京株式市場で、キオクシアホールディングス（285A）の株価が急落しました。終値は前営業日比13.28%安の1万5180円で、売買代金でも上位に入りました。中国のメモリー大手、長鑫存儲技術（CXMT）が次世 […]\n投稿 キオクシア株13%急落、中国メモリー大手の次世代DRAMが引き金に は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-kioxia-stock-plunge-cxmt-1013/",
-          "publishedOn": "2026-10-13T13:52:08.000Z",
-          "wordCount": 2173,
-          "title": "キオクシア株13%急落、中国メモリー大手の次世代DRAMが引き金に",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M4TRGX817C5F33ZA8SX6FG7S.01M4TRGXFZM8GG4WXZ81F44MSY.webp-1536w.webp"
         }
       ]
     }

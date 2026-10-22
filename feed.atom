@@ -2,10 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-10-21T23:52:43.857Z</updated>
+    <updated>2026-10-22T03:09:20.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[高市首相も「大至急」、PHP欠陥でニコニコやpixivがサイト停止]]></title>
+        <id>https://crypto-times.jp/?p=172577</id>
+        <link href="https://crypto-times.jp/news-php2shell-vulnerability-patch/"/>
+        <updated>2026-10-22T03:00:22.000Z</updated>
+        <summary type="html"><![CDATA[10月21日、ウェブサイト作りに広く使われているプログラミング言語「PHP」の開発チームが、深刻な脆弱性（プログラムの欠陥で、悪用されると攻撃の入り口になる弱点）2件を修正した緊急アップデートを公開しました。 PHPはW […]
+投稿 高市首相も「大至急」、PHP欠陥でニコニコやpixivがサイト停止 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek、米政府から締め出しも同日に推論基盤を無償公開]]></title>
+        <id>https://crypto-times.jp/?p=172570</id>
+        <link href="https://crypto-times.jp/news-dhs-deepseek-ban-deepinfer/"/>
+        <updated>2026-10-22T02:49:48.000Z</updated>
+        <summary type="html"><![CDATA[米国土安全保障省（DHS）は10月20日、連邦文民機関に対し中国のAI企業DeepSeekの製品を情報システムから排除し、今後の調達を禁じる指令を公表しました。他社がDeepSeekのモデルを組み込んだソフトウェアやサー […]
+投稿 DeepSeek、米政府から締め出しも同日に推論基盤を無償公開 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムL2「Sophon」、11/25を資産引き出し期限に。メインネット終了へ]]></title>
+        <id>https://www.neweconomy.jp/?p=619213</id>
+        <link href="https://www.neweconomy.jp/posts/619213"/>
+        <updated>2026-10-22T02:25:24.000Z</updated>
+        <summary type="html"><![CDATA[Sophon開発チームがチェーン終了の日程を公表 イーサリアム（Ethereum）のレイヤー2（L2）ネットワーク「ソフォン（Sophon）」上の資産の引き出し期限を11月25日とすると、同ネットワーク公式Xより10月2 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デジタル庁、公金給付にステーブルコインやトークン化預金の活用を検討]]></title>
+        <id>https://www.neweconomy.jp/?p=619163</id>
+        <link href="https://www.neweconomy.jp/posts/619163"/>
+        <updated>2026-10-22T01:56:17.000Z</updated>
+        <summary type="html"><![CDATA[子育てや食料品など、使途を限定した給付を想定 デジタル庁が、ステーブルコインやトークン化預金の公金給付への活用可能性を、技術面から検討する方針を示した。金融庁が10月19日に公表した「AI時代を見据えたオンチェーン金融フ […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スイスFINMA、国内初のビットコイン現物ETFを承認。一般投資家も対象に]]></title>
+        <id>https://www.neweconomy.jp/?p=619165</id>
+        <link href="https://www.neweconomy.jp/posts/619165"/>
+        <updated>2026-10-22T01:50:29.000Z</updated>
+        <summary type="html"><![CDATA[「BBIT」が11月にSIXスイス取引所で取引開始予定 スイス金融市場監督機構（FINMA）が、暗号資産（仮想通貨）「ビットコイン（BTC）」に直接投資する、一般投資家向け上場投資信託（ETF）を同国で初めて承認したと1 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アンカレッジデジタルとセキュリタイズが提携、ステーブルコインの直接発行・償還に対応]]></title>
+        <id>https://www.neweconomy.jp/?p=619168</id>
+        <link href="https://www.neweconomy.jp/posts/619168"/>
+        <updated>2026-10-22T01:46:00.000Z</updated>
+        <summary type="html"><![CDATA[米連邦認可銀行が発行・保管・精算を担う 米暗号資産（仮想通貨）企業アンカレッジ・デジタル（Anchorage Digital）が、トークン化プラットフォームを運営するセキュリタイズ（Securitize）との提携を10月 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットゲット、GMO傘下のタイ認可取引所を買収へ]]></title>
+        <id>https://www.neweconomy.jp/?p=619160</id>
+        <link href="https://www.neweconomy.jp/posts/619160"/>
+        <updated>2026-10-22T01:41:33.000Z</updated>
+        <summary type="html"><![CDATA[Bitgetがタイでの取引プラットフォーム提供を計画 暗号資産（仮想通貨）取引所ビットゲット（Bitget）が、タイで認可を受けた取引所・ブローカー運営企業「GMO-Z.comクリプトノミクス（GMO-Z.com Cry […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金融庁、オンチェーン金融の制度整備を検討。証券トークン化やDeFiなど]]></title>
+        <id>https://www.neweconomy.jp/?p=619150</id>
+        <link href="https://www.neweconomy.jp/posts/619150"/>
+        <updated>2026-10-22T01:10:16.000Z</updated>
+        <summary type="html"><![CDATA[振替制度や投信の課題を整理、野村とSecuritizeが提言 金融庁が、「デジタル・分散型金融への対応のあり方等に関する研究会」の令和8事務年度第1回会合を10月20日に開催した。ブロックチェーン上で資金や資産を扱う「オ […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【今日の仮想通貨】ビットコイン10年後に21万ドル？BTC8万ドル死守なるか]]></title>
         <id>https://crypto-times.jp/?p=172576</id>

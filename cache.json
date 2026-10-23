@@ -625,6 +625,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=744348",
+          "author": "Ritsuki.Kumazawa",
+          "description": "Progmatの齊藤達哉代表がnoteで、DCCがまとめたトークン化国債の中間整理を詳説した。主案は国債の性質を変えずにオンチェーン管理口座で扱い、権利移転の正本を24時間稼働の新システムに置く設計だ。",
+          "link": "https://coinpost.jp/?p=744348",
+          "publishedOn": "2026-10-23T10:20:30.000Z",
+          "wordCount": 3205,
+          "title": "「国債の性質は変えず」トークン化へ　Progmat齊藤氏が詳説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/progmat-logo-general.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/progmat-logo-general.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=744436",
+          "author": "S.Ninomiya",
+          "description": "暗号資産（仮想通貨）ビットコインは一時8万1000ドルを割り込んだ。米半導体指数が6.7％下落し、日経平均は一時1445円安。米10年債利回りが5％を割るなかでBTCが売られた背景と、今後の注目点をまとめる。",
+          "link": "https://coinpost.jp/?p=744436",
+          "publishedOn": "2026-10-23T09:05:44.000Z",
+          "wordCount": 3002,
+          "title": "ビットコイン8万1000ドル台に下落、米メタ決算でAI株安",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/bitcoindollar040221.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/bitcoindollar040221.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=744103",
           "author": "Ritsuki.Kumazawa",
           "description": "Progmat主催のDCCが、トークン化国債とオンチェーンレポの中間整理を公表。国債の法的性質を変えずに管理をオンチェーン化する方式を主案とし、11月の開始を目標にカントン・ネットワーク上で実機検証に移る。",
@@ -1238,51 +1268,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/09/shutterstock_79462060.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/09/shutterstock_79462060.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=743489",
-          "author": "Enzo",
-          "description": "ギャラクシーのアレックス・ソーン氏は、ETFの資金流出とBTCトレジャリー企業の買いの鈍さが10月のビットコイン軟調の一因と指摘。同社集計では、5年以上動かなかった古参BTCの放出が年初来で機関の吸収量を12万7,319BTC上回る。",
-          "link": "https://coinpost.jp/?p=743489",
-          "publishedOn": "2026-10-18T23:45:44.000Z",
-          "wordCount": 3193,
-          "title": "ビットコイン軟調、ETF流出と企業の買い鈍化が一因＝ギャラクシー・リサーチ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/bitcoin-market-1984524992.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/bitcoin-market-1984524992.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=743482",
-          "author": "Enzo",
-          "description": "BISのワーキングペーパーが、ステーブルコインと銀行預金は部分的な代替関係にあるとの分析を示した。預金金利0.01％上昇で平均15％の10週成長率は約12％、逆因果を補正すると約6％に鈍る。USDCの反応はUSDTより強い。",
-          "link": "https://coinpost.jp/?p=743482",
-          "publishedOn": "2026-10-18T23:24:30.000Z",
-          "wordCount": 3147,
-          "title": "BIS論文、預金金利上昇でステーブルコインの成長鈍化　USDCで顕著",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/clrcle-usdc-mizuho.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/clrcle-usdc-mizuho.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=743479",
-          "author": "Enzo",
-          "description": "アナリストのダークフォスト氏が、8月下旬から続いたアルトコインの上昇局面の失速を指摘。バイナンス上場銘柄で200日線を上回る割合は9割超から約5割に低下し、直近15日間で1,340億ドル超が流出したという。",
-          "link": "https://coinpost.jp/?p=743479",
-          "publishedOn": "2026-10-18T22:46:10.000Z",
-          "wordCount": 3128,
-          "title": "アルトコインの勢い鈍る、上昇基調の銘柄は9割から5割に＝アナリスト",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/altcoin-20260427-1-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/altcoin-20260427-1-1.jpg"
         }
       ]
     },
@@ -1291,6 +1276,36 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=620018",
+          "author": "gentosha_takahashi",
+          "description": "コインベース・アイルランドに制裁金 アイルランド中央銀行（Central Bank of Ireland）が、暗号資産（仮想通貨）取引所大手コインベース（Coinbase）の現地法人コインベース・アイルランド（Coinb […]",
+          "link": "https://www.neweconomy.jp/posts/620018",
+          "publishedOn": "2026-10-23T09:41:12.000Z",
+          "wordCount": 758,
+          "title": "アイルランド中銀、コインベース現地法人に約325万ユーロの制裁金。顧客資金保全などに不備",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/28114752/7dfbe23c12d604e6655f3e742c36ee16-1.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=619956",
+          "author": "OtsugaShinya",
+          "description": "「サイバー有事前夜」と警鐘、DID・VCの有用性検証も求める 自民党の国家サイバーセキュリティ戦略本部（本部長：平将明衆議院議員）がまとめた「サイバーセキュリティ対策の抜本的強化に関する提言」が、10月22日の党政調審議 […]",
+          "link": "https://www.neweconomy.jp/posts/619956",
+          "publishedOn": "2026-10-23T06:43:31.000Z",
+          "wordCount": 762,
+          "title": "自民党国家サイバーセキュリティ戦略本部、暗号資産の追跡強化を提言。耐量子暗号への移行加速も",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/23154307/eadf0b2b5111dd9b38634960456340fe.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=619942",
+          "author": "OtsugaShinya",
+          "description": "EIP-8037との相互作用を追加調査、新たな実施日は未定 イーサリアム財団（Ethereum Foundation）が、イーサリアム（Ethereum）の次期大型アップグレード「グラムステルダム（Glamsterdam […]",
+          "link": "https://www.neweconomy.jp/posts/619942",
+          "publishedOn": "2026-10-23T06:21:22.000Z",
+          "wordCount": 841,
+          "title": "イーサリアム次期アップグレード「グラムステルダム」、Hoodiでの実施延期。既存コントラクトへの影響調査で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/23151710/5698b43b84b7b7a2e00198a237724a3c.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=619934",
           "author": "OtsugaShinya",
@@ -2505,6 +2520,66 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=172600",
+          "author": "Crypto Times 編集部",
+          "description": "ビットコインやイーサリアムを守る暗号技術は量子コンピューターより先にAIに解読される可能性が指摘されています。 量子コンピューター対策を手がけるProject Elevenの最高技術責任者（CTO）、コナー・ディーガン氏 […]\n投稿 ビットコインの暗号、AIが量子コンピューターより先に解読の可能性か｜専門家が警戒 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/could-ai-crack-bitcoins-encryption-before-quantum-computers-do/",
+          "publishedOn": "2026-10-23T10:26:38.000Z",
+          "wordCount": 2224,
+          "title": "ビットコインの暗号、AIが量子コンピューターより先に解読の可能性か｜専門家が警戒",
+          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M5M4J953QJBTD7M90T07YSWF.01M5M4J9K2W6MSHXEYH9CCNBKX.webp-1536w.webp"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=172599",
+          "author": "Crypto Times 編集部",
+          "description": "米Real Visionのチーフ暗号資産アナリスト、ジェイミー・クーツ氏はビットコインが8万5,000〜8万6,000ドルの抵抗帯を明確に上抜ければ、10万ドルまで比較的短期間で上昇する可能性があるとの見方を示しました。 […]\n投稿 ビットコイン、8.5万ドル突破なら10万ドルへ急伸か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitcoin-breakout-85k-100k-price-prediction/",
+          "publishedOn": "2026-10-23T09:20:59.000Z",
+          "wordCount": 2312,
+          "title": "ビットコイン、8.5万ドル突破なら10万ドルへ急伸か",
+          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/2025/09/btc2025861664.jpg"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=172587",
+          "author": "Crypto Times 編集部",
+          "description": "モナコイン（MONA）は2013年に誕生した日本初の暗号資産です。国内3社が取扱廃止した2025年の動きを含め、特徴・半減期・価格の推移・開発の現状と今後・リスク・国内での買い方を中立に整理します。\n投稿 Monacoin（モナコイン）とは？国内3社が取扱廃止、MONAの価格・将来性・買い方 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/project-what-is-monacoin/",
+          "publishedOn": "2026-10-23T07:35:09.000Z",
+          "wordCount": 1875,
+          "title": "Monacoin（モナコイン）とは？国内3社が取扱廃止、MONAの価格・将来性・買い方",
+          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M5GXPBNM81ZKF4EBW9VB3FTY.png-1536w.webp"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=172598",
+          "author": "Crypto Times 編集部",
+          "description": "中国のDRAM大手、長鑫科技集団（CXMT）が上海総合指数に組み入れられる可能性が高いことが分かりました。 同社はDRAMで世界4位の規模を持ち、サムスン電子とSKハイニックスの韓国2強を追う存在です。10月半ばには次世 […]\n投稿 サムスン・SKを追う中国CXMT｜上場3カ月で上海総合指数入りの可能性 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-will-join-the-shanghai-composite-index/",
+          "publishedOn": "2026-10-23T06:52:54.000Z",
+          "wordCount": 2212,
+          "title": "サムスン・SKを追う中国CXMT｜上場3カ月で上海総合指数入りの可能性",
+          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M5KRC5T6YB3PTBEMN88B45XT.01M5KRC5ZC0CQ52DWX84HA46RV.webp-1536w.webp"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=172590",
+          "author": "Crypto Times 編集部",
+          "description": "Pump.fun（パンプファン）は、Solana上で誰でも無料でミームコインを発行し、その場で売買できるローンチパッドです。収益の50%でPUMPを買い戻し焼却する仕組みやCustom Pairs、使い方とリスクを解説し […]\n投稿 Pump.fun（パンプファン）とは？仮想通貨PUMPの買い戻し焼却と使い方を解説 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/project-what-is-pumpfun/",
+          "publishedOn": "2026-10-23T06:23:00.000Z",
+          "wordCount": 1981,
+          "title": "Pump.fun（パンプファン）とは？仮想通貨PUMPの買い戻し焼却と使い方を解説",
+          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M5GXYV5Z3AMDDWT4HAEV8JWT.png-1536w.webp"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=172597",
+          "author": "Crypto Times 編集部",
+          "description": "半導体メモリー大手のキオクシアホールディングスの株価が23日、一時前日比9.64%安の1万1380円まで下落し、約6カ月ぶりの安値を記録しました。その後価格は反発し、記事執筆現在は1万2540円を付けています。 キオクシ […]\n投稿 キオクシア株が一時9.6%急落、半年ぶり安値に｜米AI投資への懸念が波及か は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-kioxia-shares-plunged-at-one-point/",
+          "publishedOn": "2026-10-23T06:19:06.000Z",
+          "wordCount": 2224,
+          "title": "キオクシア株が一時9.6%急落、半年ぶり安値に｜米AI投資への懸念が波及か",
+          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M40R7M7BDS48F3M2EHNMVB5B.01M40R7MC8MNDJBC7WSRRQY45X.webp-1536w.webp"
+        },
         {
           "id": "https://crypto-times.jp/?p=172596",
           "author": null,

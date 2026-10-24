@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-10-24T17:30:49.414Z</updated>
+    <updated>2026-10-24T20:07:36.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
@@ -1488,99 +1488,6 @@
         <summary type="html"><![CDATA[Zcashのスワップ取引向けに新たなプライバシー保護方式 暗号資産ジーキャッシュ（Zcash：ZEC）のフルノード開発チーム「ザクラ（Zakura）」が、将来の量子コンピュータによる取引履歴の紐付けを防ぐ新たなウォレット […]]]></summary>
         <author>
             <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ポリゴンラボ、「Polygon CDK」にハイパーレジャー・ベス対応追加。企業の独自チェーン構築を支援]]></title>
-        <id>https://www.neweconomy.jp/?p=618634</id>
-        <link href="https://www.neweconomy.jp/posts/618634"/>
-        <updated>2026-10-20T08:05:10.000Z</updated>
-        <summary type="html"><![CDATA[Besuを使う企業向けチェーンがPolygon CDKで構築可能に ポリゴンラボ（Polygon Labs）が、独自ブロックチェーンの開発ツール群「ポリゴンCDK（Polygon CDK）」に、ベス（Besu）を使う構成 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英レボリュート、ジブラルタルで暗号資産ライセンス取得。海外展開を推進へ]]></title>
-        <id>https://www.neweconomy.jp/?p=618620</id>
-        <link href="https://www.neweconomy.jp/posts/618620"/>
-        <updated>2026-10-20T07:59:44.000Z</updated>
-        <summary type="html"><![CDATA[新設法人がDLTプロバイダー認可を取得 英フィンテック大手レボリュート（Revolut）の新設法人が、英領ジブラルタルで暗号資産（仮想通貨）事業に関するライセンスを取得した。レボリュートが10月19日に発表した。 認可を […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クリプトドットコムとNovig、予測市場のスポーツ契約巡り米ミズーリ州を提訴]]></title>
-        <id>https://www.neweconomy.jp/?p=618589</id>
-        <link href="https://www.neweconomy.jp/posts/618589"/>
-        <updated>2026-10-20T07:55:25.000Z</updated>
-        <summary type="html"><![CDATA[州の賭博規制の適用差し止め求める 暗号資産（仮想通貨）取引所クリプトドットコム（Crypto.com）関連の取引所と予測市場プラットフォームのノビグ（Novig）が、スポーツ関連のイベント契約に対する州の賭博規制の適用を […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Japan、ユービーテック製ロボ6機種を国内独占販売へ。株価一時17％高]]></title>
-        <id>https://www.neweconomy.jp/?p=618580</id>
-        <link href="https://www.neweconomy.jp/posts/618580"/>
-        <updated>2026-10-20T07:48:57.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin Japanが人型ロボットなどを国内独占販売へ 東証スタンダード上場のBitcoin Japanが、人型ロボットなど6機種の日本国内における独占販売契約の締結完了を10月19日に発表した。 契約相手は、ロボ […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRPクジラのバイナンス出金、約5年ぶり低水準に＝アナリスト]]></title>
-        <id>https://coinpost.jp/?p=743985</id>
-        <link href="https://coinpost.jp/?p=743985"/>
-        <updated>2026-10-20T07:38:36.000Z</updated>
-        <summary type="html"><![CDATA[XRPの大口投資家（クジラ）によるバイナンスからの出金が約5年ぶりの低水準に落ち込んだ。90日平均は4,970万ドルで2021年10月と同水準。クリプトクアントのダークフォスト氏は、背景にXRPの底堅い値動きを挙げた。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPモルガンAM、ビットコイン年率10％と想定　米大型株や金を上回る]]></title>
-        <id>https://coinpost.jp/?p=743974</id>
-        <link href="https://coinpost.jp/?p=743974"/>
-        <updated>2026-10-20T07:20:52.000Z</updated>
-        <summary type="html"><![CDATA[JPモルガン・アセット・マネジメントが2027年版の長期資本市場想定で、ビットコインのリターン想定を初めて示した。向こう10年から15年の年率複利リターンは10％と米大型株や金を上回るが、ボラティリティ55％と相関の不安定さから主要な共分散行列には組み入れていない。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【今日の仮想通貨】ヘッジファンドがBTC利益確定売りか。XRP保有者に新たな収益源？]]></title>
-        <id>https://crypto-times.jp/?p=172562</id>
-        <link href="https://crypto-times.jp/news-crypto-update-20261020/"/>
-        <updated>2026-10-20T06:41:02.000Z</updated>
-        <summary type="html"><![CDATA[10月20日、ビットコイン（BTC）の価格は1290万円前後で推移しており、イーサリアム（ETH）は約37.8万円、ソラナ（SOL）は約1.65万円で取引されています。世界の暗号資産時価総額は449兆円で、ビットコインの […]
-投稿 【今日の仮想通貨】ヘッジファンドがBTC利益確定売りか。XRP保有者に新たな収益源？ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TSMC熊本第2工場、国内初の3nm量産へ｜経産省が計画変更を認定]]></title>
-        <id>https://crypto-times.jp/?p=172559</id>
-        <link href="https://crypto-times.jp/news-tsmc-kumamoto-3nm/"/>
-        <updated>2026-10-20T06:15:00.000Z</updated>
-        <summary type="html"><![CDATA[経済産業省は10月16日、台湾積体電路製造（TSMC）が熊本県菊陽町に建設中の第2工場について、回路線幅3ナノメートルの先端半導体を生産するための計画変更を認定しました。 従来は6nm、12nm、40nmの生産を計画して […]
-投稿 TSMC熊本第2工場、国内初の3nm量産へ｜経産省が計画変更を認定 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GMTとは？STEPNの仮想通貨、獲得半減と価格・買い方]]></title>
-        <id>https://crypto-times.jp/?p=172561</id>
-        <link href="https://crypto-times.jp/project-what-is-gmt/"/>
-        <updated>2026-10-20T06:12:00.000Z</updated>
-        <summary type="html"><![CDATA[GMT（グリーンメタバーストークン）は、歩くとトークンを得られるアプリSTEPNのガバナンストークンです。2026年1月の獲得半減を含め、特徴・価格・将来性・リスク・国内での買い方を解説します。
-投稿 GMTとは？STEPNの仮想通貨、獲得半減と価格・買い方 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
     <entry>

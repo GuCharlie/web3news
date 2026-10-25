@@ -625,6 +625,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=744612",
+          "author": "Enzo",
+          "description": "イーロン・マスク氏は25日、Xのいいねボタンを長押しすると決済サービスX Money経由で1ドルを送れる機能を追加すると明らかにした。7月に米国で一般提供が始まったX Moneyは、ビットコインやステーブルコインに対応していない。",
+          "link": "https://coinpost.jp/?p=744612",
+          "publishedOn": "2026-10-25T23:09:45.000Z",
+          "wordCount": 3213,
+          "title": "X、いいね長押しで1ドル送金へ　仮想通貨は依然非対応",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/10/elon-doge-new-secretary.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/10/elon-doge-new-secretary.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=744608",
+          "author": "Enzo",
+          "description": "クリプトクアントのアナリストによると、イーサリアム（ETH）の先物建玉は全取引所合計で115億ドルまで縮小した。最大手バイナンスでは1カ月で約2割減少。7月の同様の局面では、その後ETH価格が32％超反発していた。",
+          "link": "https://coinpost.jp/?p=744608",
+          "publishedOn": "2026-10-25T22:34:33.000Z",
+          "wordCount": 3252,
+          "title": "ETHのレバレッジ解消進む、建玉115億ドルに縮小＝アナリスト",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/09/ethereum-sep-30-new-image.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/09/ethereum-sep-30-new-image.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=744399",
           "author": "CoinPost編集部",
           "description": "ビットコインは8.5万ドル手前で失速、AI・半導体株安に連れて1300万円を割り込んだ。8万ドル周辺では下げ止まり底堅さを維持。最大の注目イベントFOMCとGDP・PCEを控え、通過後の相場をbitbankアナリストが解説。",
@@ -1073,21 +1103,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/jimin_.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/jimin_.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=744131",
-          "author": "幸田直子",
-          "description": "米ブロックチェーン協会（BA）は1、ジーニアス法第3条の施行規則案について米財務省に意見書を提出した。DASPの定義、違法発行への「認識ある関与」、海外発行ステーブルコインの扱いなどの修正を求めている。",
-          "link": "https://coinpost.jp/?p=744131",
-          "publishedOn": "2026-10-21T09:15:20.000Z",
-          "wordCount": 3124,
-          "title": "米ブロックチェーン協会、米財務省のジーニアス法施行案に修正要請　DeFiや二次流通への過剰規制を懸念",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/defi_0622.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/defi_0622.jpg"
         }
       ]
     },
@@ -1415,16 +1430,6 @@
           "wordCount": 755,
           "title": "金融庁、オンチェーン金融の制度整備を検討。証券トークン化やDeFiなど",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/22110005/b799229b2fb0974c535cad8f9aa947d4-1.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=619049",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/619049",
-          "publishedOn": "2026-10-21T10:46:40.000Z",
-          "wordCount": 660,
-          "title": "【10/21話題】JPYC活用の銀行口座連携型チャージ機能の実証へ、SBI VCトレードらが韓国シンハンカードとステーブルコイン決済の活用検討へなど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/21190024/3bb99124995e4cca25910b33c7523134.jpg"
         }
       ]
     },
@@ -2309,46 +2314,6 @@
           "wordCount": 2206,
           "title": "RLUSD送金の99.6%は110ウォレット｜779万件で総額7700ドル",
           "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M5F4FFSM9FZ7A1906ESE71V9.01M5F4FH36BQ2K272E4GWGBNGV.png-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172571",
-          "author": "Crypto Times 編集部",
-          "description": "10月21日の日経平均は前日比0.85%高の64,621円で終え、3営業日ぶりに反発しました。米スペースXの上場後初の最終黒字を受け、AI・半導体株に買いが入りましたが、一時1,300円超あった上げ幅は縮小しました。米国 […]\n投稿 【今日のマクロ経済】スペースX黒字化、AI株に買い戻し は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-macro-update-20261021/",
-          "publishedOn": "2026-10-21T10:53:29.000Z",
-          "wordCount": 2459,
-          "title": "【今日のマクロ経済】スペースX黒字化、AI株に買い戻し",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M5F1DZWND3Q31KEGK8DRH4DP.01M5F1E08RZQP05GJC5PKAGYW3.webp-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172574",
-          "author": "よきょい",
-          "description": "オンチェーン分析企業グラスノードが10月19日に公表したレポートで、ビットコインのオプション市場が守りを固める一方、先物市場では強気のポジションが維持されていることが示されました。 25デルタ・スキュー（下落に備えるプッ […]\n投稿 ビットコイン8万ドル死守なるか｜オプションは守り、先物は強気 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-bitcoin-options-futures-glassnode/",
-          "publishedOn": "2026-10-21T10:29:57.000Z",
-          "wordCount": 2208,
-          "title": "ビットコイン8万ドル死守なるか｜オプションは守り、先物は強気",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M5F04Y2W760Y2T3NAWEAGGD2.01M5F04ZSDKBJNKP444W3TS435.png-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172573",
-          "author": "よきょい",
-          "description": "イーロン・マスク氏は10月19日、保有するスペースX株を2027年に米国の子ども1人につき1株ずつ配布すると表明しました。対象は約7,200万人とされ、10月16日の終値146.03ドルで換算すると約105億ドル相当にな […]\n投稿 マスク氏のスペースX株配布はトランプ口座経由か｜米児童に1株ずつ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-musk-spacex-shares-us-children/",
-          "publishedOn": "2026-10-21T10:20:10.000Z",
-          "wordCount": 2206,
-          "title": "マスク氏のスペースX株配布はトランプ口座経由か｜米児童に1株ずつ",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M5EZF752KNNMWBCJ49NHG2WC.01M5EZF7C1VVS7MRX9RSTM5R7V.webp-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172572",
-          "author": "よきょい",
-          "description": "JPモルガン・アセット・マネジメントは10月19日、2027年版「長期資本市場想定」を公表し、今後10年間のビットコインについて3つのシナリオを示しました。基本シナリオは年率10%の複利リターンを想定し、基準価格8万3, […]\n投稿 ビットコイン10年後に21万ドル？JPモルガンが初の長期想定 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-jpmorgan-bitcoin-10year-outlook/",
-          "publishedOn": "2026-10-21T10:17:16.000Z",
-          "wordCount": 2212,
-          "title": "ビットコイン10年後に21万ドル？JPモルガンが初の長期想定",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M5EZBMSYHJYCDW3067BBF26Z.01M5EZBMZZKM5WY6MS7QK17J9N.webp-1536w.webp"
         }
       ]
     }

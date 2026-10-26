@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-10-26T19:41:55.087Z</updated>
+    <updated>2026-10-26T23:32:12.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アビバ、XRPL上で英ファンドをトークン化　従来の商品全体の規模は4兆円超]]></title>
+        <id>https://coinpost.jp/?p=744788</id>
+        <link href="https://coinpost.jp/?p=744788"/>
+        <updated>2026-10-26T22:55:11.000Z</updated>
+        <summary type="html"><![CDATA[リップルは、XRPL上でアビバ・インベスターズが、スターリング・リクイディティ・ファンドをトークン化したシェアクラスをローンチしたと発表。両社は以前から協業している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[予測市場カルシ、S&P指数の公式値で決済する契約を提供へ　指数大手と提携]]></title>
+        <id>https://coinpost.jp/?p=744775</id>
+        <link href="https://coinpost.jp/?p=744775"/>
+        <updated>2026-10-26T22:30:12.000Z</updated>
+        <summary type="html"><![CDATA[米指数大手のS&Pダウ・ジョーンズ・インデックスと予測市場プラットフォームのカルシが提携を発表した。カルシの今後の指数連動契約は公式指数値で決済される。S&Pはビットコイン指数など仮想通貨指数も提供している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米アンソロピックが上場へ、過去最大のIPOとなるか　トークン化株は未発表]]></title>
+        <id>https://coinpost.jp/?p=744784</id>
+        <link href="https://coinpost.jp/?p=744784"/>
+        <updated>2026-10-26T22:05:13.000Z</updated>
+        <summary type="html"><![CDATA[AI大手アンソロピックが26日、ナスダック上場に向けた登録届出書（S-1）を米証券取引委員会に提出した。トークン化株については、バックパックやエックスストックスからアンソロピック株の発表はまだ確認できていない。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米資産運用大手バンガードの小型株ETF、メタプラネット株保有を初開示　12億円に相当]]></title>
+        <id>https://coinpost.jp/?p=744776</id>
+        <link href="https://coinpost.jp/?p=744776"/>
+        <updated>2026-10-26T21:25:15.000Z</updated>
+        <summary type="html"><![CDATA[バンガードの小型株ETFが、仮想通貨ビットコインを財務資産とするメタプラネットの株式450万株（12億円相当）の初の保有を開示したと報じられた。指数に連動するパッシブ運用のファンドで、ビットコインの直接購入ではない。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットマイン、38億円相当イーサリアムを追加購入　204万株買い戻し]]></title>
+        <id>https://coinpost.jp/?p=744777</id>
+        <link href="https://coinpost.jp/?p=744777"/>
+        <updated>2026-10-26T20:50:16.000Z</updated>
+        <summary type="html"><![CDATA[米上場のビットマインは26日、10,452ETHのイーサリアム（約38億円相当）を追加購入した。保有量はETH供給量の4.95％に達し、目標とする5％の99％の水準となった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【今日のマクロ経済】AI株安がファンド直撃、相場変動に警戒]]></title>
         <id>https://crypto-times.jp/?p=172623</id>
@@ -1013,81 +1063,6 @@
         <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[連日の個人情報流出、カプコンも1177万件｜あなたの情報を悪用されないためには？]]></title>
-        <id>https://crypto-times.jp/?p=172596</id>
-        <link href="https://crypto-times.jp/news-capcom-data-breach-crypto-security/"/>
-        <updated>2026-10-22T10:33:36.000Z</updated>
-        <summary type="html"><![CDATA[ゲームメーカーのカプコンは10月22日、会員サービス「CAPCOM ID」が第三者による不正アクセスを受け、全世界で1177万4247件の顧客情報が外部に漏えいしたと発表しました。 同社によると、漏えいしたのはメールアド […]
-投稿 連日の個人情報流出、カプコンも1177万件｜あなたの情報を悪用されないためには？ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>CRYPTO TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨取引所も警戒、PHPに重大脆弱性｜遠隔操作の恐れ]]></title>
-        <id>https://crypto-times.jp/?p=172595</id>
-        <link href="https://crypto-times.jp/news-php-critical-vulnerability-kraken/"/>
-        <updated>2026-10-22T09:52:51.000Z</updated>
-        <summary type="html"><![CDATA[ウェブ開発で広く使われるプログラミング言語PHPの開発チームは10月21日、認証なしで遠隔からコードを実行される恐れがある重大な脆弱性2件（CVE-2026-109618、CVE-2026-109619）を修正しました。 […]
-投稿 仮想通貨取引所も警戒、PHPに重大脆弱性｜遠隔操作の恐れ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【今日の仮想通貨】テスラのBTC評価益がスペースX株の損失を上回る。麻薬密売人関連の500BTCが取引所へ]]></title>
-        <id>https://crypto-times.jp/?p=172592</id>
-        <link href="https://crypto-times.jp/news-crypto-update-20261022/"/>
-        <updated>2026-10-22T09:46:44.000Z</updated>
-        <summary type="html"><![CDATA[10月23日、ビットコイン（BTC）の価格は1309万円前後で推移しており、イーサリアム（ETH）は約38.5万円、ソラナ（SOL）は約1.66万円で取引されています。世界の暗号資産時価総額は459兆円で、ビットコインの […]
-投稿 【今日の仮想通貨】テスラのBTC評価益がスペースX株の損失を上回る。麻薬密売人関連の500BTCが取引所へ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーブルコイン規制まで3カ月切る｜申請だけでは発行継続不可]]></title>
-        <id>https://crypto-times.jp/?p=172593</id>
-        <link href="https://crypto-times.jp/news-stablecoin-issuer-waiver-deadline/"/>
-        <updated>2026-10-22T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[米通貨監督庁（OCC）は10月21日、GENIUS法（米国のステーブルコイン規制法）の施行に向けた手続きを示しました。承認待ちの既存発行者が、施行日の2027年1月18日以降も発行を続けるための適用除外（ウェーバー）の申 […]
-投稿 ステーブルコイン規制まで3カ月切る｜申請だけでは発行継続不可 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[売却の前触れか？麻薬密売人関連の500BTCがコインベースへ]]></title>
-        <id>https://crypto-times.jp/?p=172591</id>
-        <link href="https://crypto-times.jp/news-clifton-collins-500btc-coinbase/"/>
-        <updated>2026-10-22T08:15:00.000Z</updated>
-        <summary type="html"><![CDATA[ブロックチェーン分析企業アーカム・インテリジェンスは、アイルランドで麻薬密売の有罪判決を受けたクリフトン・コリンズ氏に関連するアドレスから、500BTC（約4150万ドル）が移動したと発表しました。 移動は2026年10 […]
-投稿 売却の前触れか？麻薬密売人関連の500BTCがコインベースへ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米OCC、ステーブルコイン規制「GENIUS法」の最終規則公表。2027年1月18日施行へ]]></title>
-        <id>https://www.neweconomy.jp/?p=619453</id>
-        <link href="https://www.neweconomy.jp/posts/619453"/>
-        <updated>2026-10-22T08:06:09.000Z</updated>
-        <summary type="html"><![CDATA[GENIUS法の最終規則を公表 米通貨監督庁（OCC）が、決済用ステーブルコインの規制枠組みを定めた米国の「ジーニアス法（GENIUS Act）」を実施するための最終規則を10月21日に公表した。同規則とジーニアス法はい […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドージコインラボ設立、MyDogeなど集約しDOGEの決済・アプリ利用拡大へ]]></title>
-        <id>https://www.neweconomy.jp/?p=619444</id>
-        <link href="https://www.neweconomy.jp/posts/619444"/>
-        <updated>2026-10-22T07:44:57.000Z</updated>
-        <summary type="html"><![CDATA[ハウス・オブ・ドージは一部事業を拠出し株式取得へ 独立組織「ドージコインラボ（Dogecoin Labs）」が、ドージコイン財団（Dogecoin Foundation）との提携に基づく設立を10月21日に発表した。同組 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
     <entry>

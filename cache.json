@@ -625,6 +625,81 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=744788",
+          "author": "K.Kobayashi",
+          "description": "リップルは、XRPL上でアビバ・インベスターズが、スターリング・リクイディティ・ファンドをトークン化したシェアクラスをローンチしたと発表。両社は以前から協業している。",
+          "link": "https://coinpost.jp/?p=744788",
+          "publishedOn": "2026-10-26T22:55:11.000Z",
+          "wordCount": 3215,
+          "title": "アビバ、XRPL上で英ファンドをトークン化　従来の商品全体の規模は4兆円超",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103003.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103003.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=744775",
+          "author": "菊谷ルイス",
+          "description": "米指数大手のS&Pダウ・ジョーンズ・インデックスと予測市場プラットフォームのカルシが提携を発表した。カルシの今後の指数連動契約は公式指数値で決済される。S&Pはビットコイン指数など仮想通貨指数も提供している。",
+          "link": "https://coinpost.jp/?p=744775",
+          "publishedOn": "2026-10-26T22:30:12.000Z",
+          "wordCount": 3191,
+          "title": "予測市場カルシ、S&P指数の公式値で決済する契約を提供へ　指数大手と提携",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/new-prediction-market-vc-kalshi-poly.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/new-prediction-market-vc-kalshi-poly.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=744784",
+          "author": "菊谷ルイス",
+          "description": "AI大手アンソロピックが26日、ナスダック上場に向けた登録届出書（S-1）を米証券取引委員会に提出した。トークン化株については、バックパックやエックスストックスからアンソロピック株の発表はまだ確認できていない。",
+          "link": "https://coinpost.jp/?p=744784",
+          "publishedOn": "2026-10-26T22:05:13.000Z",
+          "wordCount": 3201,
+          "title": "米アンソロピックが上場へ、過去最大のIPOとなるか　トークン化株は未発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/anthropic-IPO-s-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/anthropic-IPO-s-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=744776",
+          "author": "菊谷ルイス",
+          "description": "バンガードの小型株ETFが、仮想通貨ビットコインを財務資産とするメタプラネットの株式450万株（12億円相当）の初の保有を開示したと報じられた。指数に連動するパッシブ運用のファンドで、ビットコインの直接購入ではない。",
+          "link": "https://coinpost.jp/?p=744776",
+          "publishedOn": "2026-10-26T21:25:15.000Z",
+          "wordCount": 3206,
+          "title": "米資産運用大手バンガードの小型株ETF、メタプラネット株保有を初開示　12億円に相当",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/vanguard-not-doing-eth-etf-as-predicted-hahaha.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/vanguard-not-doing-eth-etf-as-predicted-hahaha.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=744777",
+          "author": "菊谷ルイス",
+          "description": "米上場のビットマインは26日、10,452ETHのイーサリアム（約38億円相当）を追加購入した。保有量はETH供給量の4.95％に達し、目標とする5％の99％の水準となった。",
+          "link": "https://coinpost.jp/?p=744777",
+          "publishedOn": "2026-10-26T20:50:16.000Z",
+          "wordCount": 3201,
+          "title": "ビットマイン、38億円相当イーサリアムを追加購入　204万株買い戻し",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/tomlee2_0530.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/tomlee2_0530.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=744763",
           "author": "菊谷ルイス",
           "description": "米ナスダック上場のStriveが10月17日から23日に6,182BTCの仮想通貨ビットコインを追加購入し、保有量は43,000BTCに増えた。一方、ストラテジーは5週連続の購入が途切れ、保有量は848,517BTCのままとなった。",
@@ -1520,26 +1595,6 @@
           "wordCount": 820,
           "title": "【10/22話題】ソラナのAlpenglowがメインネットβで稼働開始、ネイピアラボがロビンフッドチェーンでNapier AMMローンチなど（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/22200757/ea8b4b43d5f3d10a351f98246c4a6911.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=619453",
-          "author": "gentosha_takahashi",
-          "description": "GENIUS法の最終規則を公表 米通貨監督庁（OCC）が、決済用ステーブルコインの規制枠組みを定めた米国の「ジーニアス法（GENIUS Act）」を実施するための最終規則を10月21日に公表した。同規則とジーニアス法はい […]",
-          "link": "https://www.neweconomy.jp/posts/619453",
-          "publishedOn": "2026-10-22T08:06:09.000Z",
-          "wordCount": 767,
-          "title": "米OCC、ステーブルコイン規制「GENIUS法」の最終規則公表。2027年1月18日施行へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/22170543/f957fdba3c3341b20783c32fc476577e.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=619444",
-          "author": "OtsugaShinya",
-          "description": "ハウス・オブ・ドージは一部事業を拠出し株式取得へ 独立組織「ドージコインラボ（Dogecoin Labs）」が、ドージコイン財団（Dogecoin Foundation）との提携に基づく設立を10月21日に発表した。同組 […]",
-          "link": "https://www.neweconomy.jp/posts/619444",
-          "publishedOn": "2026-10-22T07:44:57.000Z",
-          "wordCount": 631,
-          "title": "ドージコインラボ設立、MyDogeなど集約しDOGEの決済・アプリ利用拡大へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/22164414/ee25a9f9b7dcece9c4c6029ce68c76f5.jpg"
         }
       ]
     },
@@ -2354,56 +2409,6 @@
           "wordCount": 2224,
           "title": "キオクシア株が一時9.6%急落、半年ぶり安値に｜米AI投資への懸念が波及か",
           "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M40R7M7BDS48F3M2EHNMVB5B.01M40R7MC8MNDJBC7WSRRQY45X.webp-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172596",
-          "author": null,
-          "description": "ゲームメーカーのカプコンは10月22日、会員サービス「CAPCOM ID」が第三者による不正アクセスを受け、全世界で1177万4247件の顧客情報が外部に漏えいしたと発表しました。 同社によると、漏えいしたのはメールアド […]\n投稿 連日の個人情報流出、カプコンも1177万件｜あなたの情報を悪用されないためには？ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-capcom-data-breach-crypto-security/",
-          "publishedOn": "2026-10-22T10:33:36.000Z",
-          "wordCount": 2219,
-          "title": "連日の個人情報流出、カプコンも1177万件｜あなたの情報を悪用されないためには？",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M5HJC99T1GZKH9SQSWNDXDQV.01M5HJC9HJT7E47AT95XP53FBF.webp-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172595",
-          "author": "よきょい",
-          "description": "ウェブ開発で広く使われるプログラミング言語PHPの開発チームは10月21日、認証なしで遠隔からコードを実行される恐れがある重大な脆弱性2件（CVE-2026-109618、CVE-2026-109619）を修正しました。 […]\n投稿 仮想通貨取引所も警戒、PHPに重大脆弱性｜遠隔操作の恐れ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-php-critical-vulnerability-kraken/",
-          "publishedOn": "2026-10-22T09:52:51.000Z",
-          "wordCount": 2481,
-          "title": "仮想通貨取引所も警戒、PHPに重大脆弱性｜遠隔操作の恐れ",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M5HGDFCAP8WXEMYKQPRC0C0C.01M5HGDGQ8J1X71J74PMYX2T26.png-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172592",
-          "author": "よきょい",
-          "description": "10月23日、ビットコイン（BTC）の価格は1309万円前後で推移しており、イーサリアム（ETH）は約38.5万円、ソラナ（SOL）は約1.66万円で取引されています。世界の暗号資産時価総額は459兆円で、ビットコインの […]\n投稿 【今日の仮想通貨】テスラのBTC評価益がスペースX株の損失を上回る。麻薬密売人関連の500BTCが取引所へ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-crypto-update-20261022/",
-          "publishedOn": "2026-10-22T09:46:44.000Z",
-          "wordCount": 2315,
-          "title": "【今日の仮想通貨】テスラのBTC評価益がスペースX株の損失を上回る。麻薬密売人関連の500BTCが取引所へ",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M5HG20MAXWTF4YQNWG0PVRGN.01M5HG20VNMSCD4EPWRSSDE6YK.webp-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172593",
-          "author": "よきょい",
-          "description": "米通貨監督庁（OCC）は10月21日、GENIUS法（米国のステーブルコイン規制法）の施行に向けた手続きを示しました。承認待ちの既存発行者が、施行日の2027年1月18日以降も発行を続けるための適用除外（ウェーバー）の申 […]\n投稿 ステーブルコイン規制まで3カ月切る｜申請だけでは発行継続不可 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-stablecoin-issuer-waiver-deadline/",
-          "publishedOn": "2026-10-22T08:30:00.000Z",
-          "wordCount": 2206,
-          "title": "ステーブルコイン規制まで3カ月切る｜申請だけでは発行継続不可",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M5GYCZYY6GXFFHAEM14781AN.01M5GYD0SHAGN7WD8PTS71HZNN.webp-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172591",
-          "author": "よきょい",
-          "description": "ブロックチェーン分析企業アーカム・インテリジェンスは、アイルランドで麻薬密売の有罪判決を受けたクリフトン・コリンズ氏に関連するアドレスから、500BTC（約4150万ドル）が移動したと発表しました。 移動は2026年10 […]\n投稿 売却の前触れか？麻薬密売人関連の500BTCがコインベースへ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-clifton-collins-500btc-coinbase/",
-          "publishedOn": "2026-10-22T08:15:00.000Z",
-          "wordCount": 2257,
-          "title": "売却の前触れか？麻薬密売人関連の500BTCがコインベースへ",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M5GY1FD5KFJ7NY3HHH2SX2M1.01M5GY1FKX0YQPX2VGPAEK0S84.webp-1536w.webp"
         }
       ]
     }

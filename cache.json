@@ -625,6 +625,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=745033",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨取引所OKXとICEの合弁会社OKXICEが計画する株式のトークン化取引に、IBMなど4社が新たに異議を申し立てた。反対した企業は計26社となった。異議が出た銘柄はOKXICEでは取り扱えなくなる。",
+          "link": "https://coinpost.jp/?p=745033",
+          "publishedOn": "2026-10-27T12:50:40.000Z",
+          "wordCount": 3190,
+          "title": "マイクロソフトやIBMなど計26社が株式トークン化に反対、OKXとICEの計画めぐり",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/ice-nyse-moonpay.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/ice-nyse-moonpay.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=745019",
           "author": "Ritsuki.Kumazawa",
           "description": "自民党ブロックチェーン推進議連が第37回会合で、8月の米国視察を報告した。SEC・CFTCなど米当局の姿勢や予測市場の扱いを共有し、JBAはDeFiの法的位置づけや仮想通貨の「電子的財産権」明確化を提言した。金融庁の検討状況も紹介。",
@@ -1448,36 +1463,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/bitcoindollar040221.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/bitcoindollar040221.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=744103",
-          "author": "Ritsuki.Kumazawa",
-          "description": "Progmat主催のDCCが、トークン化国債とオンチェーンレポの中間整理を公表。国債の法的性質を変えずに管理をオンチェーン化する方式を主案とし、11月の開始を目標にカントン・ネットワーク上で実機検証に移る。",
-          "link": "https://coinpost.jp/?p=744103",
-          "publishedOn": "2026-10-23T03:00:54.000Z",
-          "wordCount": 3210,
-          "title": "国債トークン化、実機で「経済合理性」検証へ　Progmat齊藤氏",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/progmat_1023_thumbnail-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/progmat_1023_thumbnail-1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=744293",
-          "author": "Enzo",
-          "description": "自民党の国家サイバーセキュリティ戦略本部による提言が22日、党政調審議会で了承された。官邸主導の対処本部設置を柱に、不正取得された仮想通貨の追跡や、ビットコインにも関わる耐量子計算機暗号（PQC）への移行加速を盛り込んだ。",
-          "link": "https://coinpost.jp/?p=744293",
-          "publishedOn": "2026-10-23T01:30:01.000Z",
-          "wordCount": 3195,
-          "title": "自民党、「サイバー有事前夜」と提言　暗号資産の追跡や耐量子暗号を明記",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/jimin_.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/jimin_.jpeg"
         }
       ]
     },
@@ -1865,56 +1850,6 @@
           "wordCount": 776,
           "title": "ユニスワップ、外部DEXの流動性を利用する「Aggregator Hooks」を3チェーンで提供開始",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/23142644/f1f281577c86ef5e86dc68bef0eb9800.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=619812",
-          "author": "watanabeyousuke",
-          "description": "独立L1への移行調査を支持、11月にホワイトペーパー草案公開へ イーサリアム（Ethereum）のレイヤー2（L2）ネットワーク「スタークネット（Starknet）」のガバナンスで、量子コンピューターへの耐性を備えた独立 […]",
-          "link": "https://www.neweconomy.jp/posts/619812",
-          "publishedOn": "2026-10-23T05:19:55.000Z",
-          "wordCount": 795,
-          "title": "スタークネットの独立L1移行調査、ガバナンス投票で93.52%が支持",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/23141624/d53f510dda8f9fcfcd588228b8f5f667.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=619797",
-          "author": "OtsugaShinya",
-          "description": "国債と決済手段をオンチェーンで連携、レポ取引の効率化へ プログマ（Progmat）が主催する「デジタルアセット共創コンソーシアム（DCC）」が、日本国債のトークン化とオンチェーンでのレポ取引に関する共同検討の「中間整理」 […]",
-          "link": "https://www.neweconomy.jp/posts/619797",
-          "publishedOn": "2026-10-23T02:04:25.000Z",
-          "wordCount": 762,
-          "title": "プログマ主催DCC、日本国債トークン化の実機検証へ。カントンで11月開始目指す",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/23110405/867722f71c17ea376a0d2cf6fe7a52eb.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=619788",
-          "author": "watanabeyousuke",
-          "description": "脆弱性2件の修正版が公開、クラウドフレアは攻撃を試みる通信を観測 暗号資産（仮想通貨）取引所バイナンス（Binance）の共同創業者チャンポン・ジャオ（Changpeng Zhao：CZ）氏が、ウェブサイトの閲覧に普段以 […]",
-          "link": "https://www.neweconomy.jp/posts/619788",
-          "publishedOn": "2026-10-23T01:54:52.000Z",
-          "wordCount": 855,
-          "title": "バイナンス共同創業者CZ、PHPの重大な脆弱性を警告。ウェブサイト閲覧に注意喚起",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/23105202/820342826539a094f39633637049ff31.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=619780",
-          "author": "OtsugaShinya",
-          "description": "BTC・ETHなどを売却せずに米ドルを借り入れ 米予測市場運営企業カルシ（Kalshi）傘下のカルシプライム（Kalshi Prime）と、デジタル資産インフラ企業ビットゴー（BitGo Holdings）が、「ホドルマ […]",
-          "link": "https://www.neweconomy.jp/posts/619780",
-          "publishedOn": "2026-10-23T01:46:52.000Z",
-          "wordCount": 761,
-          "title": "カルシとビットゴー、暗号資産担保の証拠金融資「HODL Margining」開始",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/23104437/66bb395b02f8bf88df1c55cdc370022b.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=619716",
-          "author": "OtsugaShinya",
-          "description": "暗号資産分野への投資は継続 米ベンチャーキャピタルのアンドリーセン・ホロウィッツ（Andreessen Horowitz：a16z）の暗号資産（仮想通貨）投資部門「a16zクリプト（a16z Crypto）」の名称が、「 […]",
-          "link": "https://www.neweconomy.jp/posts/619716",
-          "publishedOn": "2026-10-23T01:07:30.000Z",
-          "wordCount": 1098,
-          "title": "a16z Crypto、「a16z Frontier」に改称。AIなどへ投資対象を拡大",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/23100447/3e5794cc31c337bef6bc45391228f2f1.jpg"
         }
       ]
     },

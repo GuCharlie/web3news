@@ -2,10 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-10-28T23:22:47.027Z</updated>
+    <updated>2026-10-29T02:36:34.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[チェーンリンク、機関投資家向けDeFi融資ソリューション「CustodySync」稼働開始]]></title>
+        <id>https://www.neweconomy.jp/?p=621722</id>
+        <link href="https://www.neweconomy.jp/posts/621722"/>
+        <updated>2026-10-29T02:30:21.000Z</updated>
+        <summary type="html"><![CDATA[チェーンリンクの「CustodySync」が稼働開始 ブロックチェーン向けオラクルサービスを提供するチェーンリンク（Chainlink）が、機関投資家向けの新ソリューション「チェーンリンク・カストディシンク（Chainl […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBI、米クロスリバー親会社と日本合弁へ　RWAトークン化やAI決済]]></title>
+        <id>https://coinpost.jp/?p=745316</id>
+        <link href="https://coinpost.jp/?p=745316"/>
+        <updated>2026-10-29T02:25:09.000Z</updated>
+        <summary type="html"><![CDATA[SBIホールディングスが米クロスリバー銀行の親会社CRBグループと、日本での合弁会社設立に向け基本合意。融資債権のRWAトークン化やクロスボーダー決済、AIエージェント向け決済を検討し、円建てステーブルコインJPYSCの導入も検討する。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヴァンエック、ビットコイン現物ETFを組み込む複合資産ETF提供]]></title>
+        <id>https://www.neweconomy.jp/?p=621716</id>
+        <link href="https://www.neweconomy.jp/posts/621716"/>
+        <updated>2026-10-29T02:21:17.000Z</updated>
+        <summary type="html"><![CDATA[VanEckがBTC現物ETFを組み込む複合資産ETF提供 米資産運用会社ヴァンエック（VanEck）が、株式や債券、金などに加え、ビットコイン（BTC）関連商品にも投資するETF（上場投資信託）の提供開始を10月27日 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リップルとコインベースが提携、ステーブルコインRLUSDのアクセス拡大へ]]></title>
+        <id>https://coinpost.jp/?p=745271</id>
+        <link href="https://coinpost.jp/?p=745271"/>
+        <updated>2026-10-29T01:44:40.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨業界大手のリップルとコインベースがパートナーシップを締結。コインベースが段階的にRLUSDに対応することやXRPLなど3チェーンで入出金可能になることなどを発表した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ジャナスとセントリフュージ、ナスダック100連動のトークン化ファンド立ち上げ、ステラ展開へ]]></title>
+        <id>https://www.neweconomy.jp/?p=620903</id>
+        <link href="https://www.neweconomy.jp/posts/620903"/>
+        <updated>2026-10-29T01:20:18.000Z</updated>
+        <summary type="html"><![CDATA[Nasdaq100連動のトークン化ファンドがStellar展開へ 資産運用会社ジャナスヘンダーソン（Janus Henderson）と、資産トークン化基盤を提供するセントリフュージ（Centrifuge）が、ナスダック1 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グーグル、金融機関向けの仮想通貨・トークン化資産セキュリティツールを限定公開]]></title>
+        <id>https://coinpost.jp/?p=745262</id>
+        <link href="https://coinpost.jp/?p=745262"/>
+        <updated>2026-10-29T01:12:34.000Z</updated>
+        <summary type="html"><![CDATA[グーグルが金融機関向けの仮想通貨保護サービスを限定公開した。MPCで秘密鍵を分散管理する仕組みで、複数の金融機関が試験中。商用提供は2027年初頭の予定だ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JAL予約9.2万人分に不正アクセス、約2000人はパスポート番号も]]></title>
+        <id>https://crypto-times.jp/?p=172654</id>
+        <link href="https://crypto-times.jp/news-jal-amadeus-data-breach/"/>
+        <updated>2026-10-29T00:45:00.000Z</updated>
+        <summary type="html"><![CDATA[日本航空（JAL）と日本トランスオーシャン航空（JTA）は2026年10月28日、旅客サービスシステムの提供元が不正アクセスを受け、約9万2000人分の予約情報が外部から閲覧された形跡があると発表しました。システムはスペ […]
+投稿 JAL予約9.2万人分に不正アクセス、約2000人はパスポート番号も は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社員1人の創薬企業をClaude開発元が買収｜AIで11機関と研究]]></title>
+        <id>https://crypto-times.jp/?p=172651</id>
+        <link href="https://crypto-times.jp/news-anthropic-mithril-drug-discovery/"/>
+        <updated>2026-10-29T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[米AI企業アンソロピックは10月27日、米マサチューセッツ州ケンブリッジの創薬スタートアップ、ミスリル・メディシン（Mithril Medicine）を買収したと発表しました。買収は2026年7月に完了していたとされてい […]
+投稿 社員1人の創薬企業をClaude開発元が買収｜AIで11機関と研究 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リップル「2026年は成功の年」、年間プロダクト収益のランレートは1400億円超へ]]></title>
+        <id>https://coinpost.jp/?p=745257</id>
+        <link href="https://coinpost.jp/?p=745257"/>
+        <updated>2026-10-29T00:10:33.000Z</updated>
+        <summary type="html"><![CDATA[リップルは、2026年の年間プロダクト収益のランレートを算出し、約1,420億円に近づいていると発表。多様なソリューションを利用している顧客やパートナー企業の数が3倍になったとも公表した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインがS&P500に劣後する理由｜勝率55%でも負け幅2倍]]></title>
         <id>https://crypto-times.jp/?p=172657</id>

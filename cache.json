@@ -625,6 +625,51 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=745770",
+          "author": "菊谷ルイス",
+          "description": "東証上場のイオレは30日、ビットコイン151.21BTCの全量売却を決議した。売却見込額は18億3,100万円、売却損は約2億5,400万円の見込みで、代金はAIデータセンター事業関連投資に先行して充てる。",
+          "link": "https://coinpost.jp/?p=745770",
+          "publishedOn": "2026-10-31T01:20:48.000Z",
+          "wordCount": 3220,
+          "title": "東証上場イオレ、保有151.21ビットコインを全量売却へ　AIデータセンター投資に充当",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/bitcoin_usd-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/bitcoin_usd-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=745771",
+          "author": "菊谷ルイス",
+          "description": "バイナンスで1兆円相当の資産が流出し、大半が約20分に集中したことが判明。分析会社は秘密鍵の盗難・漏洩ではなく署名の仕組みへの侵害と指摘し、EIP-7702が悪用された手口を踏まえ、承認ルールの独立判定などの対策を挙げた。",
+          "link": "https://coinpost.jp/?p=745771",
+          "publishedOn": "2026-10-31T00:20:45.000Z",
+          "wordCount": 3224,
+          "title": "バイナンス不正流出の大半が約20分で実行、秘密鍵に頼らず署名悪用",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/northkoreahack021821.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/northkoreahack021821.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=745772",
+          "author": "菊谷ルイス",
+          "description": "米商品先物取引委員会（CFTC）のセリグ委員長は30日、バイナンスで29日に起きたハッキングを受け、仮想通貨取引所が任意で連邦登録できる選択肢を設ける考えを示した。米国のデリバティブ市場と同じサイバー対策などが適用される。",
+          "link": "https://coinpost.jp/?p=745772",
+          "publishedOn": "2026-10-30T22:32:52.000Z",
+          "wordCount": 3222,
+          "title": "米CFTC委員長、バイナンス被害めぐり仮想通貨取引所が選べる伝統金融並みの保護を提案",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/justice-department-cftc-polymarket.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/justice-department-cftc-polymarket.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=745773",
           "author": "菊谷ルイス",
           "description": "30日の米国株式市場ではバイナンスの1兆円不正流出事件を受けて、コインベースが10.62%、サークルが9.3％下落した。ウォール街の3社は市場全体の脅威になる根拠は乏しいとみている。",
@@ -1778,21 +1823,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/tomlee2_0530.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/tomlee2_0530.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=744763",
-          "author": "菊谷ルイス",
-          "description": "米ナスダック上場のStriveが10月17日から23日に6,182BTCの仮想通貨ビットコインを追加購入し、保有量は43,000BTCに増えた。一方、ストラテジーは5週連続の購入が途切れ、保有量は848,517BTCのままとなった。",
-          "link": "https://coinpost.jp/?p=744763",
-          "publishedOn": "2026-10-26T12:40:31.000Z",
-          "wordCount": 3198,
-          "title": "米上場ストライブ、780億円相当ビットコインを追加購入　保有量4.3万BTCに",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/strive-new-btc-buy.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/strive-new-btc-buy.jpeg"
         }
       ]
     },
@@ -2420,16 +2450,6 @@
           "wordCount": 775,
           "title": "トークン化MMFと「JPYSC」の連携検討、SBI・スターテイル・ブラックロックが基本合意",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/27120703/b1195435988766d62747ea553023cb42.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=620374",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/620374",
-          "publishedOn": "2026-10-26T13:19:08.000Z",
-          "wordCount": 788,
-          "title": "【10/26話題】ソニューム独自トークン「SONEIUM」発行計画、HSBCがRedCoin提供開始、中国の国家ブロックチェーン基本構築は2030年までになど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/26191350/fcb18add079fd9cabe8f7eb1a8659e72.jpg"
         }
       ]
     },
@@ -3354,16 +3374,6 @@
           "wordCount": 2193,
           "title": "仮想通貨取引所が銀行に？クラーケン、欧州の銀行を買収へ",
           "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M5V7TMHB1TH5JW7YAW66SNPB.01M5V7TP65MAQPV7R5ZM8SGVM7.png-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172623",
-          "author": "Crypto Times 編集部",
-          "description": "10月26日の日経平均は前営業日比0.80%安の62,189.65円で終え、3営業日続落しました。半導体関連株が売られる一方、資源・商社株は堅調でした。23日の米国市場では、原油高と長期金利の上昇が重荷となり、S&P50 […]\n投稿 【今日のマクロ経済】AI株安がファンド直撃、相場変動に警戒 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-macro-update-20261026/",
-          "publishedOn": "2026-10-26T13:20:24.000Z",
-          "wordCount": 2424,
-          "title": "【今日のマクロ経済】AI株安がファンド直撃、相場変動に警戒",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M5W5TDPY76KKH9CNAEYB9SHQ.01M5W5TG47C30T1MVCT8FJV735.png-1536w.webp"
         }
       ]
     }

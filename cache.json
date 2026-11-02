@@ -625,6 +625,81 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=746032",
+          "author": "Enzo",
+          "description": "金融庁は2日、デジタル・分散型金融に関する研究会の第2回会合を開き、ステーブルコインの100万円上限やレンディング規制を議論した。JPYCとSBI VCトレードが上限の見直しを求めた一方、全銀協は慎重な検討を求めた。",
+          "link": "https://coinpost.jp/?p=746032",
+          "publishedOn": "2026-11-02T10:21:32.000Z",
+          "wordCount": 3256,
+          "title": "ステーブルコインの100万円上限、金融庁研究会で議論　全銀協は慎重",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/fsa-new.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/fsa-new.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=745949",
+          "author": "幸田直子",
+          "description": "米ナスダック上場のネクスト・テクノロジーが、保有する約5,833BTCの売却または担保設定を取締役会で承認した。バイナンスの不正流出事件を受け、カストディリスクの高まりを理由に挙げている。",
+          "link": "https://coinpost.jp/?p=745949",
+          "publishedOn": "2026-11-02T05:55:04.000Z",
+          "wordCount": 3254,
+          "title": "米上場企業、5833BTCのビットコイン売却か担保化を検討　バイナンス事件受け",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/bitcoin_usd-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/bitcoin_usd-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=745924",
+          "author": "A.Yamada",
+          "description": "Name.comは顧客ドメイン15件が不正にリダイレクトされたと発表した。DeFiサイトでのEVM系流出額は約13.8万〜20.2万ドルと推計されている。",
+          "link": "https://coinpost.jp/?p=745924",
+          "publishedOn": "2026-11-02T05:10:56.000Z",
+          "wordCount": 3247,
+          "title": "DeFiサイトなど15ドメインに不正リダイレクト　訪問者の資金抜き取り",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/hacking2_0402.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/hacking2_0402.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=745959",
+          "author": "Enzo",
+          "description": "SBI VCトレードは2日、円建てステーブルコインJPYSCのレンディング（貸コイン）残高が100億円を突破したと発表した。取扱残高も300億円を超えた。利用料の計算方法と、貸出中のJPYSCが分別管理の対象外となる点など、利用者が負うリスクを整理する。",
+          "link": "https://coinpost.jp/?p=745959",
+          "publishedOn": "2026-11-02T04:05:04.000Z",
+          "wordCount": 3252,
+          "title": "SBI VCトレードのJPYSCレンディング残高、100億円を突破",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/JPYSC-VC-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/JPYSC-VC-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=745917",
+          "author": "Enzo",
+          "description": "カルダノのガバナンス組織インターセクトが、Linuxカーネルの重大な脆弱性についてステークプール運営者（SPO）に更新と再起動を要請した。深刻度は10点満点中9.8。委任されたADAへの影響と主要ディストリビューションの修正状況をまとめた。",
+          "link": "https://coinpost.jp/?p=745917",
+          "publishedOn": "2026-11-02T02:40:14.000Z",
+          "wordCount": 3235,
+          "title": "カルダノ団体、Linuxの重大欠陥でプール運営者に更新呼びかけ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/02/cardano-ada-upgrade.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/02/cardano-ada-upgrade.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=745881",
           "author": "A.Yamada",
           "description": "米FBIはバイナンスから63億ドル規模の仮想通貨が流出した件は北朝鮮系ハッキング集団の犯行だと発表した。トランプ大統領は関与が確認されれば北朝鮮と協議する意向を示した。",
@@ -1343,66 +1418,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/bitcoin-new-burn.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/bitcoin-new-burn.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=745316",
-          "author": "Enzo",
-          "description": "SBIホールディングスが米クロスリバー銀行の親会社CRBグループと、日本での合弁会社設立に向け基本合意。融資債権のRWAトークン化やクロスボーダー決済、AIエージェント向け決済を検討し、円建てステーブルコインJPYSCの導入も検討する。",
-          "link": "https://coinpost.jp/?p=745316",
-          "publishedOn": "2026-10-29T02:25:09.000Z",
-          "wordCount": 3218,
-          "title": "SBI、米クロスリバー親会社と日本合弁へ　RWAトークン化やAI決済",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/payment343424-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/payment343424-1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=745271",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨業界大手のリップルとコインベースがパートナーシップを締結。コインベースが段階的にRLUSDに対応することやXRPLなど3チェーンで入出金可能になることなどを発表した。",
-          "link": "https://coinpost.jp/?p=745271",
-          "publishedOn": "2026-10-29T01:44:40.000Z",
-          "wordCount": 3221,
-          "title": "リップルとコインベースが提携、ステーブルコインRLUSDのアクセス拡大へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/Ripple-and-Coinbase-RLUSD.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/Ripple-and-Coinbase-RLUSD.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=745262",
-          "author": "A.Yamada",
-          "description": "グーグルが金融機関向けの仮想通貨保護サービスを限定公開した。MPCで秘密鍵を分散管理する仕組みで、複数の金融機関が試験中。商用提供は2027年初頭の予定だ。",
-          "link": "https://coinpost.jp/?p=745262",
-          "publishedOn": "2026-10-29T01:12:34.000Z",
-          "wordCount": 3203,
-          "title": "グーグル、金融機関向けの仮想通貨・トークン化資産セキュリティツールを限定公開",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/google0206.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/google0206.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=745257",
-          "author": "K.Kobayashi",
-          "description": "リップルは、2026年の年間プロダクト収益のランレートを算出し、約1,420億円に近づいていると発表。多様なソリューションを利用している顧客やパートナー企業の数が3倍になったとも公表した。",
-          "link": "https://coinpost.jp/?p=745257",
-          "publishedOn": "2026-10-29T00:10:33.000Z",
-          "wordCount": 3269,
-          "title": "リップル「2026年は成功の年」、年間プロダクト収益のランレートは1400億円超へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/03/ripple0312.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/03/ripple0312.jpg"
         }
       ]
     },
@@ -1411,6 +1426,106 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=623154",
+          "author": "OtsugaShinya",
+          "description": "Anthropicが日本の投資家向けに株式募集へ 対話型AI「クロード（Claude）」を開発する米アンソロピック（Anthropic）が、米国での新規株式公開（IPO）に伴う日本の投資家向け株式募集に関する有価証券届出 […]",
+          "link": "https://www.neweconomy.jp/posts/623154",
+          "publishedOn": "2026-11-02T08:15:36.000Z",
+          "wordCount": 743,
+          "title": "アンソロピック、日本で最大約5529億円の株式募集へ。米ナスダック上場に伴い",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02171320/Anthropic-261102-PIXTA.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=623130",
+          "author": "watanabeyousuke",
+          "description": "古いiPhoneのシードフレーズ保管に注意喚起 暗号資産（仮想通貨）ウォレットを開発するワンキー（OneKey）の創業者イーシー（Yishi）氏が、古いiPhoneをシードフレーズの保管に使用する危険性について、10月3 […]",
+          "link": "https://www.neweconomy.jp/posts/623130",
+          "publishedOn": "2026-11-02T08:05:30.000Z",
+          "wordCount": 1623,
+          "title": "OneKey創業者、古いiPhoneでのシードフレーズ保管に警鐘。機内モードでも攻撃リスク",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02170259/f6ede59b6eef7867d9b45b4c0bfe144d.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=623120",
+          "author": "watanabeyousuke",
+          "description": "FBI、北朝鮮の関与を発表し関連アドレスの取引阻止を要請 米連邦捜査局（FBI）が、暗号資産（仮想通貨）取引所バイナンス（Binance）から60億ドル（約9,468億円）以上の暗号資産が盗まれた事件について、北朝鮮によ […]",
+          "link": "https://www.neweconomy.jp/posts/623120",
+          "publishedOn": "2026-11-02T08:01:07.000Z",
+          "wordCount": 805,
+          "title": "バイナンス60億ドル超流出事件は北朝鮮の関与、資金洗浄阻止へ協力要請＝FBI",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02165701/a5ad530ca7ae1761608f23a9def5f06a-1.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=623113",
+          "author": "OtsugaShinya",
+          "description": "対応ブロックチェーンは10に拡大 米決済大手ビザ（Visa）のステーブルコインによる精算額が、年換算で250億ドル（約3.9兆円）を超えた。ビザのライアン・マキナニー（Ryan McInerney）CEOが、10月27日 […]",
+          "link": "https://www.neweconomy.jp/posts/623113",
+          "publishedOn": "2026-11-02T07:55:02.000Z",
+          "wordCount": 746,
+          "title": "Visa、ステーブルコイン精算額が年換算250億ドル超に、前年同期比10倍",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02165237/902da9bbaee4bb24991a741935148cbd.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=623105",
+          "author": "HitomotoToshikazu",
+          "description": "KuCoinがロシア・ベラルーシ向けサービス終了へ 暗号資産（仮想通貨）取引所クーコイン（KuCoin）は10月29日、ロシアとベラルーシの利用者に対するサービス提供を即時終了すると発表した。 今回の措置は、クーコインが […]",
+          "link": "https://www.neweconomy.jp/posts/623105",
+          "publishedOn": "2026-11-02T07:50:59.000Z",
+          "wordCount": 741,
+          "title": "クーコイン、ロシア・ベラルーシ向けサービスを即時終了へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02164846/1a55ab2394596a0dde7f98d596d813c3.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=623098",
+          "author": "HitomotoToshikazu",
+          "description": "KalshiがシリーズGで10億ドル調達 米予測市場運営企業カルシ（Kalshi）が、シリーズGの資金調達ラウンドで10億ドル（約1,578億円）を調達し、調達後の企業評価額が400億ドル（約6.3兆円）になったと10月 […]",
+          "link": "https://www.neweconomy.jp/posts/623098",
+          "publishedOn": "2026-11-02T07:46:24.000Z",
+          "wordCount": 1640,
+          "title": "米予測市場カルシ、シリーズGで1Bドル調達。評価額40Bドルに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02170813/a97b34f89106a3d9f81ea124e86fc0c1.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=623071",
+          "author": "OtsugaShinya",
+          "description": "人間を装う応答や自傷助長を禁止、事業者に年齢確認を要求 米ニューヨーク州のキャシー・ホークル（Kathy Hochul）知事が、州内の18歳未満の利用者に対し、AIチャットボットの有害な機能を提供することを禁じる法案に1 […]",
+          "link": "https://www.neweconomy.jp/posts/623071",
+          "publishedOn": "2026-11-02T07:10:09.000Z",
+          "wordCount": 749,
+          "title": "NY州知事、AIチャットボット規制法に署名。未成年者への有害な機能提供を禁止へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02160623/16f9200d45b83f60ea9b7d1b198e9056.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=623048",
+          "author": "OtsugaShinya",
+          "description": "7〜9月期の全社売上高の約11％、収益分配などを含む 米マイクロソフト（Microsoft）が、オープンAI（OpenAI）との商取引により、2027会計年度第1四半期（2026年7〜9月）に100億ドル（約1兆5,80 […]",
+          "link": "https://www.neweconomy.jp/posts/623048",
+          "publishedOn": "2026-11-02T06:49:58.000Z",
+          "wordCount": 834,
+          "title": "マイクロソフトのOpenAI関連売上高、四半期100億ドルに。Xbox事業を上回る",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02160241/93530cf8cd1bfb5c6f3b9194c46180b8.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=623032",
+          "author": "HitomotoToshikazu",
+          "description": "SBIが米デジタル銀行Erebor Bankに出資へ SBIホールディングスが、米国拠点のSBIホールディングスUSA（SBI Holdings USA）を通じて、米デジタル銀行のエレボール・バンク（Erebor Ban […]",
+          "link": "https://www.neweconomy.jp/posts/623032",
+          "publishedOn": "2026-11-02T06:30:54.000Z",
+          "wordCount": 751,
+          "title": "SBI、米デジタル銀行エレボールに1億ドル出資へ。ステーブルコイン入出金や24時間精算に対応",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02161206/f50f3db27e25de9c8a131eed6c037888.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=623021",
+          "author": "OtsugaShinya",
+          "description": "5中全会で採択した決定全文を公表 中国共産党中央委員会が、暗号資産（仮想通貨）やブロックチェーンを利用した汚職を断固として取り締まる方針を示した。中国の国営通信社「新華社」が11月1日に公表した決定全文で明らかになった。 […]",
+          "link": "https://www.neweconomy.jp/posts/623021",
+          "publishedOn": "2026-11-02T06:05:22.000Z",
+          "wordCount": 608,
+          "title": "中国共産党、暗号資産やブロックチェーンを悪用した汚職を取り締まる方針",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02150041/da628cea0af6a33fbb47fee9cae60eaf.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=622590",
           "author": "NewEconomyPodcast",
@@ -1640,36 +1755,6 @@
           "wordCount": 757,
           "title": "SBI、米クロスリバー親会社と日本で合弁設立へ基本合意、JPYSC導入も検討",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/29145359/3f9b81a0208e65702bac9171eac1fcc9.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=621722",
-          "author": "watanabeyousuke",
-          "description": "チェーンリンクの「CustodySync」が稼働開始 ブロックチェーン向けオラクルサービスを提供するチェーンリンク（Chainlink）が、機関投資家向けの新ソリューション「チェーンリンク・カストディシンク（Chainl […]",
-          "link": "https://www.neweconomy.jp/posts/621722",
-          "publishedOn": "2026-10-29T02:30:21.000Z",
-          "wordCount": 1038,
-          "title": "チェーンリンク、機関投資家向けDeFi融資ソリューション「CustodySync」稼働開始",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/29113002/2e6be65cfc70fccbc7b39a7093c86e3e.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=621716",
-          "author": "HitomotoToshikazu",
-          "description": "VanEckがBTC現物ETFを組み込む複合資産ETF提供 米資産運用会社ヴァンエック（VanEck）が、株式や債券、金などに加え、ビットコイン（BTC）関連商品にも投資するETF（上場投資信託）の提供開始を10月27日 […]",
-          "link": "https://www.neweconomy.jp/posts/621716",
-          "publishedOn": "2026-10-29T02:21:17.000Z",
-          "wordCount": 773,
-          "title": "ヴァンエック、ビットコイン現物ETFを組み込む複合資産ETF提供",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/05/07151740/3f0995b0019cb600bedc6236815868a2.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=620903",
-          "author": "HitomotoToshikazu",
-          "description": "Nasdaq100連動のトークン化ファンドがStellar展開へ 資産運用会社ジャナスヘンダーソン（Janus Henderson）と、資産トークン化基盤を提供するセントリフュージ（Centrifuge）が、ナスダック1 […]",
-          "link": "https://www.neweconomy.jp/posts/620903",
-          "publishedOn": "2026-10-29T01:20:18.000Z",
-          "wordCount": 756,
-          "title": "ジャナスとセントリフュージ、ナスダック100連動のトークン化ファンド立ち上げ、ステラ展開へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/05/14120520/1afb2979719f3d6695cf4797763d93f6.jpg"
         }
       ]
     },
@@ -2196,6 +2281,46 @@
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
         {
+          "id": "https://crypto-times.jp/?p=172697",
+          "author": "よきょい",
+          "description": "11月2日、ビットコイン（BTC）の価格は1223万円前後で推移しており、イーサリアム（ETH）は約35.4万円、ソラナ（SOL）は約1.47万円で取引されています。世界の暗号資産時価総額は422兆円で、ビットコインのド […]\n投稿 【今日の仮想通貨】世界最大のビットコインETFが北朝鮮の標的に？米中間選挙で仮想通貨規制は変わる？ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-crypto-update-20261102/",
+          "publishedOn": "2026-11-02T08:00:00.000Z",
+          "wordCount": 2294,
+          "title": "【今日の仮想通貨】世界最大のビットコインETFが北朝鮮の標的に？米中間選挙で仮想通貨規制は変わる？",
+          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M3NXJAEFVC9CMHP7DB6P45CT.01M3NXJARWPBZ483WKR0GF8AVP.webp-1536w.webp"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=172700",
+          "author": "よきょい",
+          "description": "10月29日に仮想通貨取引所バイナンスで約63億ドル（約9922億円）が流出した事件を受け、米国で業界規制をめぐる議論が再び活発になっています。バイナンスのリチャード・テン共同CEOは原因の一部として、開発運用担当エンジ […]\n投稿 バイナンス1兆円規模の流出で米規制論が再燃｜トランプ氏も言及 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-binance-hack-us-regulation-debate/",
+          "publishedOn": "2026-11-02T06:30:00.000Z",
+          "wordCount": 2184,
+          "title": "バイナンス1兆円規模の流出で米規制論が再燃｜トランプ氏も言及",
+          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M6CMP1SKXH07XE265AQ91TAN.01M6CMP2JDV21ASW47FVRKGR88.png-1536w.webp"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=172699",
+          "author": "よきょい",
+          "description": "10月29日に約63億ドルのハッキング被害を受けた仮想通貨取引所大手のバイナンスは、2026年11月1日に出金を再開しました。同社は再開から9時間半で出金が46億5000万ドル、入金が10億1000万ドルあり、差し引き約 […]\n投稿 バイナンスから5700億円超が純流出、出金再開から9時間半で は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-binance-withdrawals-resume-outflow/",
+          "publishedOn": "2026-11-02T05:00:00.000Z",
+          "wordCount": 2391,
+          "title": "バイナンスから5700億円超が純流出、出金再開から9時間半で",
+          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M6CM0H2KV6E8BDKK6V58SN0P.01M6CM0H70V7RXZ8D7XGGC4EBE.webp-1536w.webp"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=172695",
+          "author": "よきょい",
+          "description": "米国では11月3日に中間選挙が実施され、上下両院の勢力図が決まります。10月の株式市場ではAI（への巨額投資が収益に結び付くのかという懸念から、半導体などハイテク株が大きく売られました。選挙結果はAIの基盤となるデータセ […]\n投稿 米中間選挙で半導体株はどう動く？争点は「データセンター」 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-midterms-data-center-chip-stocks/",
+          "publishedOn": "2026-11-02T04:00:00.000Z",
+          "wordCount": 2185,
+          "title": "米中間選挙で半導体株はどう動く？争点は「データセンター」",
+          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M6CG2YDSAPF18DDMS563X8KV.01M6CG2Z687G6374VVABBRWK8M.png-1536w.webp"
+        },
+        {
           "id": "https://crypto-times.jp/?p=172692",
           "author": "よきょい",
           "description": "10月の株式市場はAI（人工知能）関連銘柄への期待が懸念に変わり、日米ともに荒い値動きが続く1か月となりました。 米ナスダック総合指数は月間で約5.3%下落し、2025年3月以来の大きな月間下落率を記録。日経平均株価も9 […]\n投稿 「ブラックオクトーバー」だったのか｜AI懸念に揺れた10月相場 は CRYPTO TIMES に最初に表示されました。",
@@ -2544,66 +2669,6 @@
           "wordCount": 2179,
           "title": "タイ最高裁がビットコインを「財産」と判断｜強盗事件で先例に",
           "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M61MCCC4NTY4ESFVD09PR08S.01M61MCCK8C8YK3K5EP4PG5CK9.webp-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172654",
-          "author": "よきょい",
-          "description": "日本航空（JAL）と日本トランスオーシャン航空（JTA）は2026年10月28日、旅客サービスシステムの提供元が不正アクセスを受け、約9万2000人分の予約情報が外部から閲覧された形跡があると発表しました。システムはスペ […]\n投稿 JAL予約9.2万人分に不正アクセス、約2000人はパスポート番号も は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-jal-amadeus-data-breach/",
-          "publishedOn": "2026-10-29T00:45:00.000Z",
-          "wordCount": 2177,
-          "title": "JAL予約9.2万人分に不正アクセス、約2000人はパスポート番号も",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M61N64X9NSWCNPFZ6CZ7K4K7.01M61N66AWY2PMBDZX0NZK71DB.png-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172651",
-          "author": "よきょい",
-          "description": "米AI企業アンソロピックは10月27日、米マサチューセッツ州ケンブリッジの創薬スタートアップ、ミスリル・メディシン（Mithril Medicine）を買収したと発表しました。買収は2026年7月に完了していたとされてい […]\n投稿 社員1人の創薬企業をClaude開発元が買収｜AIで11機関と研究 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-anthropic-mithril-drug-discovery/",
-          "publishedOn": "2026-10-29T00:15:00.000Z",
-          "wordCount": 2180,
-          "title": "社員1人の創薬企業をClaude開発元が買収｜AIで11機関と研究",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M61KRQ3K0F79XYCH38NH20TZ.01M61KRQBRTTVTM9XYAHKA7HG0.webp-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172657",
-          "author": "よきょい",
-          "description": "ビットコインが米S&P500指数を上回る日の割合が、最近の取引日で50%を超えるまで回復しました。 グラスノードによると、6月はおよそ5日に1日の割合で約6年ぶりの低水準でした。2026年10月1日から26日までの18取 […]\n投稿 ビットコインがS&P500に劣後する理由｜勝率55%でも負け幅2倍 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-bitcoin-underperforms-sp500/",
-          "publishedOn": "2026-10-28T17:25:57.000Z",
-          "wordCount": 2182,
-          "title": "ビットコインがS&P500に劣後する理由｜勝率55%でも負け幅2倍",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M61RWG9BYS9Y2NS4ZTZRD0HW.01M61RWH3ZXR1QABHKJAPQKAB3.png-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172658",
-          "author": "よきょい",
-          "description": "米連邦公開市場委員会（FOMC）の政策決定を前に、ビットコインのオプション（あらかじめ決めた価格で売買する権利）市場で短期的な価格変動を見込む動きが強まっています。 FRBは日本時間10月29日午前3時に政策金利を発表し […]\n投稿 ビットコインに大きな値動き？FOMC前に予想変動率が1週間で上昇 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-bitcoin-options-volatility-fomc/",
-          "publishedOn": "2026-10-28T17:00:43.000Z",
-          "wordCount": 2182,
-          "title": "ビットコインに大きな値動き？FOMC前に予想変動率が1週間で上昇",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M61Q9JHRGKMGP8MJ94SHS8ZJ.01M61Q9K7CAQ017XVWXJZZDETE.png-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172650",
-          "author": "よきょい",
-          "description": "グーグルは10月28日（米国時間）、金融機関が仮想通貨やトークン化資産を保管・送金するための新サービス「Google Multi-Party Compute」を、ニューヨークで開いた同社初のデジタル資産シンポジウムで披露 […]\n投稿 グーグル、機関向け仮想通貨保管に参入へ｜親会社はETH・SOLで既に利用 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-google-mpc-crypto-custody/",
-          "publishedOn": "2026-10-28T15:58:29.000Z",
-          "wordCount": 2185,
-          "title": "グーグル、機関向け仮想通貨保管に参入へ｜親会社はETH・SOLで既に利用",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M61KNZ70HKEBB2W2928EK1AA.01M61KNZCHHJHRPEHY4K9GBX07.webp-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172649",
-          "author": "よきょい",
-          "description": "イスラエルで10月27日、国会（クネセト、定数120）の総選挙が行われました。2023年10月7日のハマスによる襲撃以降で初の総選挙で、国会が任期満了を迎えての選挙は1988年以来となります。 ネタニヤフ首相の右派リクー […]\n投稿 イスラエル総選挙、両陣営過半数届かずか｜中東リスクに市場注視 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-israel-election-no-majority/",
-          "publishedOn": "2026-10-28T15:56:53.000Z",
-          "wordCount": 2178,
-          "title": "イスラエル総選挙、両陣営過半数届かずか｜中東リスクに市場注視",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M61KJZ8VS61FB2P4MMVDMEC2.01M61KK0H63XJ76A16SAT1JE9G.png-1536w.webp"
         }
       ]
     }

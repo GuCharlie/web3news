@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-11-04T15:38:36.263Z</updated>
+    <updated>2026-11-04T21:41:31.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コインベース、バイナンスハッキングの影響を受けず　資産の99％超をオフライン保管]]></title>
+        <id>https://coinpost.jp/?p=746381</id>
+        <link href="https://coinpost.jp/?p=746381"/>
+        <updated>2026-11-04T21:25:58.000Z</updated>
+        <summary type="html"><![CDATA[米仮想通貨取引所大手コインベースは、バイナンスのハッキングの影響を受けておらず、顧客資産の99％超をコールドウォレットで保管していることを強調した。秘密鍵の分割や緊急停止の仕組みなど、資産管理の体制も公表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米下院民主党、クラリティー法案を協議　SEC監督権限の拡大案も]]></title>
+        <id>https://coinpost.jp/?p=746383</id>
+        <link href="https://coinpost.jp/?p=746383"/>
+        <updated>2026-11-04T21:00:03.000Z</updated>
+        <summary type="html"><![CDATA[米下院民主党が、ウォーターズ下院議員の修正案を仮想通貨のクラリティー法案に拡大する案を協議している。検討案にはSECの監督拡大やCFTCの役割限定が含まれるとされ、トランプ大統領らへの倫理条項の追加も見込まれる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[民主党が圧勝で米議会を奪還、ビットコインは前日比1.2%上昇]]></title>
         <id>https://coinpost.jp/?p=746369</id>
@@ -1066,124 +1086,6 @@
         <summary type="html"><![CDATA[今週は、リップルによる年間プロダクト収益のランレート発表、グーグルのセキュリティツール限定公開、ビットワイズによる仮想通貨ビットコインの価格予測、バイナンスの不正流出に関する記事が関心を集めた。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【今日の仮想通貨】資金流出を受けバイナンス創業者がマスク氏に苦言。玉木代表「DEXへの動きが加速するかも」]]></title>
-        <id>https://crypto-times.jp/?p=172687</id>
-        <link href="https://crypto-times.jp/news-crypto-update-20261031/"/>
-        <updated>2026-10-31T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[10月31日、ビットコイン（BTC）の価格は1218万円前後で推移しており、イーサリアム（ETH）は約35.3万円、ソラナ（SOL）は約1.52万円で取引されています。世界の暗号資産時価総額は426兆円で、ビットコインの […]
-投稿 【今日の仮想通貨】資金流出を受けバイナンス創業者がマスク氏に苦言。玉木代表「DEXへの動きが加速するかも」 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年2.5兆円の日本株売りがビットコインに波及？日銀がETF売却加速]]></title>
-        <id>https://crypto-times.jp/?p=172685</id>
-        <link href="https://crypto-times.jp/news-boj-etf-sales-double/"/>
-        <updated>2026-10-31T06:15:00.000Z</updated>
-        <summary type="html"><![CDATA[日本銀行は10月30日、保有する上場投資信託（ETF）の売却ペースを2倍以上に引き上げることを決めました。2027年1月から、年間の売却額を簿価ベースで約3300億円から約8600億円に増やします。 日銀は時価ベースでは […]
-投稿 年2.5兆円の日本株売りがビットコインに波及？日銀がETF売却加速 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨犯罪追跡大手チェイナリシス、不正アクセス被害に]]></title>
-        <id>https://coinpost.jp/?p=745824</id>
-        <link href="https://coinpost.jp/?p=745824"/>
-        <updated>2026-10-31T05:02:04.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨分析大手チェイナリシスが30日、顧客のユーザーIDや氏名などへの不正アクセスを公表した。10月には日本の佐川急便や米国のオラクル・ヘルスを含む数百件の個人情報漏えいも確認されている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米クラリティー法案が再び焦点に、バイナンス被害で資産凍結の法的保護めぐり論争広がる]]></title>
-        <id>https://coinpost.jp/?p=745789</id>
-        <link href="https://coinpost.jp/?p=745789"/>
-        <updated>2026-10-31T04:45:50.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所バイナンスで約63億ドル（1兆円超）の被害が出たハッキングを受け、ルミス上院議員は、クラリティー法案が成立していれば不審な取引を凍結できたと主張した。これに反論も出ており、業界団体は取引所の連邦監督を議会に求めている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アンソロピック、格付けは「ジャンク級」か｜120兆円投資に逆風]]></title>
-        <id>https://crypto-times.jp/?p=172688</id>
-        <link href="https://crypto-times.jp/news-anthropic-ipo-junk-rating/"/>
-        <updated>2026-10-31T04:34:28.000Z</updated>
-        <summary type="html"><![CDATA[AI開発企業のアンソロピックは早ければ11月にも新規株式公開（IPO）を予定していますが、上場後に主要格付け会社から投資適格（信用度が高く、年金や保険会社が投資しやすい水準）を下回る格付けを受ける見通しであると一部報道さ […]
-投稿 アンソロピック、格付けは「ジャンク級」か｜120兆円投資に逆風 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス創業者、マスク氏に「今は茶化す時ではない」と苦言]]></title>
-        <id>https://crypto-times.jp/?p=172684</id>
-        <link href="https://crypto-times.jp/news-cz-musk-spacex-stake/"/>
-        <updated>2026-10-31T04:11:30.000Z</updated>
-        <summary type="html"><![CDATA[バイナンス共同創業者のチャンポン・ジャオ（CZ）氏は10月30日、同社の不正流出への対応が続くなか、イーロン・マスク氏にXで「今は茶化すタイミングではない、やめてほしい」と呼びかけました。 発端はXでのやりとりです。ジャ […]
-投稿 バイナンス創業者、マスク氏に「今は茶化す時ではない」と苦言 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テザー社、USDT準備金の超過分が1兆円超えに回復　6月末から約2倍に]]></title>
-        <id>https://coinpost.jp/?p=745813</id>
-        <link href="https://coinpost.jp/?p=745813"/>
-        <updated>2026-10-31T04:10:53.000Z</updated>
-        <summary type="html"><![CDATA[ステーブルコインUSDTを提供するテザー社は、7～9月期の準備金保証報告書を公表した。9月末の超過準備金は79.5億ドルで6月末から約2倍になっている。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベース、1130億円の黒字転換も取引収益は44%減｜7〜9月期]]></title>
-        <id>https://crypto-times.jp/?p=172683</id>
-        <link href="https://crypto-times.jp/news-coinbase-q3-earnings-profit/"/>
-        <updated>2026-10-31T04:07:10.000Z</updated>
-        <summary type="html"><![CDATA[米仮想通貨取引所大手のコインベースは7〜9月期決算を発表しました。純利益は7億1900万ドル、日本円で約1130億円となり、4〜6月期の約564億円の赤字から黒字に転じました。売上高は約1910億円で前期とほぼ同じ水準で […]
-投稿 コインベース、1130億円の黒字転換も取引収益は44%減｜7〜9月期 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス出金、48時間以内に順次再開へ｜日本法人の対応は？]]></title>
-        <id>https://crypto-times.jp/?p=172682</id>
-        <link href="https://crypto-times.jp/news-binance-withdrawal-resume-48h/"/>
-        <updated>2026-10-31T04:05:40.000Z</updated>
-        <summary type="html"><![CDATA[大規模な不正流出が起きた仮想通貨取引所バイナンスでは出金の停止が続いています。バイナンスは同日のセキュリティに関する更新で、入金は通常どおり利用できる一方、出金は停止中だとしました。 共同CEOのイー・ハー氏は、48時間 […]
-投稿 バイナンス出金、48時間以内に順次再開へ｜日本法人の対応は？ は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス流出資金に「見たことのない」洗浄手口｜損より速さを優先か]]></title>
-        <id>https://crypto-times.jp/?p=172681</id>
-        <link href="https://crypto-times.jp/news-binance-hack-laundering-pattern/"/>
-        <updated>2026-10-31T03:58:58.000Z</updated>
-        <summary type="html"><![CDATA[ブロックチェーン分析企業チェイナリシスは、バイナンスから流出した資金の動きにこれまでに見たことのない資金洗浄のパターンを確認したと発表しました。 短時間に数千件の取引が行われており、攻撃者が自動化の仕組みで資金の流れを隠 […]
-投稿 バイナンス流出資金に「見たことのない」洗浄手口｜損より速さを優先か は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ユニスワップ、手数料変換を外部に開放｜ロビンフッドが利用]]></title>
-        <id>https://crypto-times.jp/?p=172680</id>
-        <link href="https://crypto-times.jp/news-uniswap-token-jar-robinhood/"/>
-        <updated>2026-10-31T03:56:51.000Z</updated>
-        <summary type="html"><![CDATA[分散型取引所のユニスワップは手数料変換の仕組み「Token Jar（TJAR）」を外部のアプリに開放しました。 ユニスワップによると米証券会社ロビンフッドはすでにTJARを使っており、各チェーンでユニスワップのAPI経由 […]
-投稿 ユニスワップ、手数料変換を外部に開放｜ロビンフッドが利用 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>よきょい</name>
         </author>
     </entry>
     <entry>

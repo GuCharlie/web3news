@@ -625,6 +625,246 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=746658",
+          "author": "菊谷ルイス",
+          "description": "Binanceは5日、シグナルプラスに紐づくAPIキーをすべて削除したと発表した。自社システムへの影響はなく資産は安全としており、仮想通貨デリバティブ大手Deribitも同様の対応を取った。",
+          "link": "https://coinpost.jp/?p=746658",
+          "publishedOn": "2026-11-05T12:35:50.000Z",
+          "wordCount": 3230,
+          "title": "バイナンス、シグナルプラス連携のAPIキー全削除　利用者への影響なし",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/binance-announcement.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/binance-announcement.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=746419",
+          "author": "Enzo",
+          "description": "日本語：バイデン前米大統領の次男ハンター・バイデン氏がCoinPostの単独取材に応じた。ミームコイン「LAPTOP」の透明性設計や予測市場、ローンチ直後の価格急落、民主党への提言、米国の暗号資産規制、日本市場への期待を語った。",
+          "link": "https://coinpost.jp/?p=746419",
+          "publishedOn": "2026-11-05T09:00:13.000Z",
+          "wordCount": 3490,
+          "title": "バイデン前米大統領の次男に聞くミームコイン「LAPTOP」 透明性の設計と民主党への提言",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/coinpost-interview-hunter-biden_20261104.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/coinpost-interview-hunter-biden_20261104.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=746610",
+          "author": "Enzo",
+          "description": "仮想通貨取引所バイナンスは4日、約63億ドル相当が流出した事件で影響額の約98％を補填したと発表した。準備金証明の対象は10銘柄から44銘柄に拡大。凍結額の幅や流出資金の動き、3日公表の初期報告の要点をまとめる。",
+          "link": "https://coinpost.jp/?p=746610",
+          "publishedOn": "2026-11-05T08:30:59.000Z",
+          "wordCount": 3243,
+          "title": "バイナンス、流出資産の約98％補填　準備金証明は44銘柄に拡大",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/binance-rebuke.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/binance-rebuke.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=746511",
+          "author": "幸田直子",
+          "description": "米マイニング大手のライオット・プラットフォームズとHut 8が、Q3決算で大量のビットコイン売却を公表した。ライオットはAIデータセンター建設と債務返済に、Hut 8は自社株買いに充当した。",
+          "link": "https://coinpost.jp/?p=746511",
+          "publishedOn": "2026-11-05T08:00:56.000Z",
+          "wordCount": 3264,
+          "title": "米ビットコインマイニング大手2社、計2.3万BTC売却　AIデータセンター投資と自社株買いに活用",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-mining-13-nations.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-mining-13-nations.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=746597",
+          "author": "Enzo",
+          "description": "三菱UFJ銀行やHSBC、JPモルガンのキネクシスなど5社が4日、シンガポールで非営利団体GL1 Orgを設立した。MAS主導の取り組みを業界主導に移し、ブロックチェーン上のトークン化資産を各基盤で扱うための共通標準の策定と普及を支える。",
+          "link": "https://coinpost.jp/?p=746597",
+          "publishedOn": "2026-11-05T07:18:00.000Z",
+          "wordCount": 3241,
+          "title": "三菱UFJ銀行やHSBC、JPモルガンなど5社、トークン化金融の標準化団体を設立",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/Mitsubishi-UFJ-Bank.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/Mitsubishi-UFJ-Bank.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=746490",
+          "author": "菊谷ルイス",
+          "description": "米ビットワイズのマット・ホーガン投資責任者は4日付のメモで、バイナンスのハッキングがビットコイン相場に影響しないとの見方を示した。過去最大級10件のハッキング後、ビットコインは上昇と下落が5件ずつだった。",
+          "link": "https://coinpost.jp/?p=746490",
+          "publishedOn": "2026-11-05T07:00:41.000Z",
+          "wordCount": 3235,
+          "title": "バイナンスのハッキング被害、ビットコインへの影響は限定的＝米Bitwise投資責任者",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/bitcoin-halving-buy-from-miners.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/bitcoin-halving-buy-from-miners.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=746529",
+          "author": "M.Gelacio",
+          "description": "Coincheck（コインチェック）が2026年11月に始めた「Coincheckチャット」の使い方を解説。できること、投稿のルール、利用するときの注意点まで、国内最大の暗号資産メディアCoinPostがまとめました。",
+          "link": "https://coinpost.jp/?p=746529",
+          "publishedOn": "2026-11-05T06:45:58.000Z",
+          "wordCount": 4147,
+          "title": "Coincheckチャットとは？使い方と注意点【2026年】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/coincheck-chat-thumbnail-20261105.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/coincheck-chat-thumbnail-20261105.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=746584",
+          "author": "Enzo",
+          "description": "韓国統一省の当局者は5日、北朝鮮の関与が指摘される大手仮想通貨取引所バイナンスの60億ドル超の不正流出をめぐり、政府内で対北制裁の議論はまだ始まっていないと明らかにした。FBIの断定や金与正氏の否定談話とあわせて経緯を整理する。",
+          "link": "https://coinpost.jp/?p=746584",
+          "publishedOn": "2026-11-05T06:30:59.000Z",
+          "wordCount": 3229,
+          "title": "バイナンス60億ドル流出、韓国政府は対北制裁の議論に至らず",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/north-korea-war-on-lararus.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/north-korea-war-on-lararus.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=746564",
+          "author": "Enzo",
+          "description": "BitMEX共同創業者のアーサー・ヘイズ氏が、SpaceXやアンソロピックなどAI大型IPOのロック解除による希薄化を警告。株価低迷がAI関連債の利回り上昇と米銀行の信用縮小を招き、ドル流動性の低下を通じて仮想通貨市場に波及すると分析した。",
+          "link": "https://coinpost.jp/?p=746564",
+          "publishedOn": "2026-11-05T06:00:13.000Z",
+          "wordCount": 3243,
+          "title": "ヘイズ氏、AI大型IPOの希薄化に警鐘　ビットコインなどへの波及を予想",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/0522_arthur_C.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/0522_arthur_C.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=746537",
+          "author": "Enzo",
+          "description": "英資産運用大手シュローダーは4日、新興国債券ファンドのトークン化持分をソラナ上で提供開始した。RWA基盤のセントリフュージと連携し、同社初のソラナ展開となる。現金や短期国債が中心だったトークン化がアクティブ運用の債券戦略へ広がる。",
+          "link": "https://coinpost.jp/?p=746537",
+          "publishedOn": "2026-11-05T05:10:35.000Z",
+          "wordCount": 3246,
+          "title": "英資産運用大手シュローダー、新興国債券ファンドをソラナでトークン化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/SISF.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/SISF.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=746528",
+          "author": "菊谷ルイス",
+          "description": "仏銀行グループのクレディ・ミュチュエル・アルケアは、ハッキングで攻撃者が自社口座から他行へ送金し、仮想通貨に換金した可能性があると説明した。顧客資産への影響はないとしている。",
+          "link": "https://coinpost.jp/?p=746528",
+          "publishedOn": "2026-11-05T04:35:59.000Z",
+          "wordCount": 3214,
+          "title": "仏銀行アルケア、ハッキング被害で自社口座から不正送金と発表、仮想通貨に換金の可能性",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/hacking2_0508.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/hacking2_0508.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=746485",
+          "author": "A.Yamada",
+          "description": "ナスダック上場のカントン・ストラテジックは、SECのイノベーション免除の下でトークン化株式の初取引が成立したと発表した。取引はTSV LLC上で実施された。",
+          "link": "https://coinpost.jp/?p=746485",
+          "publishedOn": "2026-11-05T04:05:34.000Z",
+          "wordCount": 3234,
+          "title": "米SECイノベーション免除制度下で初のトークン化米国株取引、TSV LLC上で実施",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/boostry-digital-asset-canton-network-2135194305-.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/boostry-digital-asset-canton-network-2135194305-.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=746500",
+          "author": "Enzo",
+          "description": "イーサリアム財団の研究者ドレイク氏がDevcon 8で、耐量子・ポストAI移行を2028年12月までに完了させたいとの目標を示した。EF公式期限より1年早い。Glamsterdam後の24カ月で3回のハードフォークを想定する。",
+          "link": "https://coinpost.jp/?p=746500",
+          "publishedOn": "2026-11-05T03:08:56.000Z",
+          "wordCount": 3301,
+          "title": "イーサリアム耐量子化、EF研究者が2028年完了を目標に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/09/ethereum-sep-30-new-image.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/09/ethereum-sep-30-new-image.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=746467",
+          "author": "Enzo",
+          "description": "ソニー銀行は、セキュリティトークン（ST）事業の委託先セキュリタイズ・ジャパンへの不正アクセスで、顧客621人分の情報が漏洩したと発表した。デジタル証券の取引は停止中。同じ委託先を使う丸井グループやNTTデータも漏洩を公表している。",
+          "link": "https://coinpost.jp/?p=746467",
+          "publishedOn": "2026-11-05T02:30:32.000Z",
+          "wordCount": 3234,
+          "title": "ソニー銀行、デジタル証券の委託先に不正アクセス　顧客621人分の情報漏洩",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/Sony-bank.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/Sony-bank.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=746488",
+          "author": "菊谷ルイス",
+          "description": "メタディスクリプション（120文字以内）：セキュリティ企業のブロックエイドが4000万ドルの投資確約を取り付けた。バイナンスで63億ドル規模のハッキングが起きたことで、クリプトセキュリティへの投資需要が高まっている。",
+          "link": "https://coinpost.jp/?p=746488",
+          "publishedOn": "2026-11-05T02:30:14.000Z",
+          "wordCount": 3215,
+          "title": "バイナンス流出被害後のセキュリティ需要高まる、Blockaidに63億円投資確約",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/security_261006_2689173269.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/security_261006_2689173269.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=746413",
+          "author": "CoinPost編集部",
+          "description": "*本レポートは、クリプトアナリストである仮想NISHI（@Nishi8maru）氏が、CoinPostに寄稿した記事です。クリプト市場マーケットレポート（11/5AM10時執筆）寄稿者：仮想NISHI仮想NISHIクリプトアナリスト。BTC...",
+          "link": "https://coinpost.jp/?p=746413",
+          "publishedOn": "2026-11-05T02:00:49.000Z",
+          "wordCount": 3047,
+          "title": "ビットコイン急反発、米中間選挙が転機に　原油安と米金利低下が上昇を後押し｜仮想NISHI",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=746442",
           "author": "K.Kobayashi",
           "description": "モルガン・スタンレーは、DTCCのトークン化サービスのローンチ後にRWAをトークン化し始めたことを発表。対象の資産は米国株と米国債であることなどを説明した。",
@@ -1418,21 +1658,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=745600",
-          "author": "CoinPost編集部",
-          "description": "今週は、リップルによる年間プロダクト収益のランレート発表、グーグルのセキュリティツール限定公開、ビットワイズによる仮想通貨ビットコインの価格予測、バイナンスの不正流出に関する記事が関心を集めた。",
-          "link": "https://coinpost.jp/?p=745600",
-          "publishedOn": "2026-11-01T00:25:25.000Z",
-          "wordCount": 3083,
-          "title": "週刊仮想通貨ニュース（10/30）｜バイナンス流出・BTC価格予測・リップルの発表のまとめ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
         }
       ]
     },
@@ -1441,6 +1666,106 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=624151",
+          "author": "NewEconomyPodcast",
+          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/624151",
+          "publishedOn": "2026-11-05T12:38:45.000Z",
+          "wordCount": 797,
+          "title": "【11/5話題】農中信託銀行がデジタル証券の信託業務に参入へ、ビットコインが6週間ぶり安値から反発など（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/05174158/91c1c00cedb402bc584238189d2ac3d4.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=624177",
+          "author": "HitomotoToshikazu",
+          "description": "トークン化商品「SISF」がソラナに対応 RWA（現実資産）のトークン化基盤を提供するセントリフュージ（Centrifuge）が、トークン化商品「SISF」をソラナ（Solana）上に展開したと11月4日に発表した。SI […]",
+          "link": "https://www.neweconomy.jp/posts/624177",
+          "publishedOn": "2026-11-05T10:34:43.000Z",
+          "wordCount": 951,
+          "title": "セントリフュージ、英資産運用会社シュローダーの新興国債券戦略をソラナに展開",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/05193424/0c990157c56f7ef9d1e455b416708a37.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=624158",
+          "author": "HitomotoToshikazu",
+          "description": "BitGoが機関向け取引・金融サービス事業開始 デジタル資産の保管・取引基盤を提供するビットゴー（BitGo）が、機関投資家向けの取引・金融サービス事業「ビットゴー・グローバル・マーケッツ（BitGo Global Ma […]",
+          "link": "https://www.neweconomy.jp/posts/624158",
+          "publishedOn": "2026-11-05T10:02:00.000Z",
+          "wordCount": 873,
+          "title": "ビットゴー、機関投資家向け「Global Markets」開始。デリバティブや担保管理を拡充",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/05190141/00babe926c72ee73b42a2a33b39afd3e.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=624144",
+          "author": "OtsugaShinya",
+          "description": "ソニー銀行がデジタル証券の取引を停止 ソニー銀行が、デジタル証券の委託先への不正アクセスにより、顧客情報が漏洩したと10月30日に発表した。同行が11月4日に更新した同発表によると委託先は、トークン化資産プラットフォーム […]",
+          "link": "https://www.neweconomy.jp/posts/624144",
+          "publishedOn": "2026-11-05T08:31:54.000Z",
+          "wordCount": 757,
+          "title": "ソニー銀行の顧客情報621人分が漏洩、委託先のセキュリタイズジャパンに不正アクセス",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/05173130/2ade2ed335881238df8a70209534e193.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=624134",
+          "author": "OtsugaShinya",
+          "description": "市場インフラと規制対応の2つの枠組みを継承 三菱UFJ銀行や米銀行大手JPモルガン（JPMorgan）のブロックチェーン事業部門キネクシス（Kinexys by J.P. Morgan）など5機関が、シンガポールを拠点と […]",
+          "link": "https://www.neweconomy.jp/posts/624134",
+          "publishedOn": "2026-11-05T08:06:45.000Z",
+          "wordCount": 773,
+          "title": "三菱UFJ銀行など5機関、トークン化金融市場の標準化へ新組織「GL1 Org」設立",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/05175513/5ffa754362ab290a54c1b35bb920ad8e.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=624127",
+          "author": "watanabeyousuke",
+          "description": "フラッシュローンによる価格操作で償還額が約33倍に オンチェーン分析アカウントのオンチェーン・レンズ（Onchain Lens）が、BNBチェーン（BNB Chain）上のインシュアランスプール（InsurancePoo […]",
+          "link": "https://www.neweconomy.jp/posts/624127",
+          "publishedOn": "2026-11-05T07:59:30.000Z",
+          "wordCount": 881,
+          "title": "BNBチェーン上のインシュアランスプールに攻撃、約18万ドル相当のBNB流出か",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/05165847/158a02ddac83d26e6b48e021baa266e4.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=624120",
+          "author": "TanakaShuya",
+          "description": "現金などと並ぶ財務資産としてビットコインの活用を検討 米ナスダック上場のスーパーリーグ・エンタープライズ（Super League Enterprise）が、暗号資産（仮想通貨）ビットコイン（BTC）を8BTC追加購入し […]",
+          "link": "https://www.neweconomy.jp/posts/624120",
+          "publishedOn": "2026-11-05T07:44:33.000Z",
+          "wordCount": 754,
+          "title": "メタプラ出資予定の米スーパーリーグ、ビットコイン追加購入。累計取得量15BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/05164417/ee596578e085b8000f8b0b005e33a9f8.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=624113",
+          "author": "watanabeyousuke",
+          "description": "NYDIGとの保管契約は違約金なしで終了 米ビットコイン（BTC）マイニング企業ライオット・プラットフォームズ（Riot Platforms）が、NYDIGトラストに預けていたデジタル資産の保管先を変更し、従来の保管契約 […]",
+          "link": "https://www.neweconomy.jp/posts/624113",
+          "publishedOn": "2026-11-05T07:38:34.000Z",
+          "wordCount": 763,
+          "title": "米ビットコインマイニング企業ライオット、ビットゴーへのデジタル資産移管完了。NYDIGとの保管契約終了",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/05163819/98aeadffadb12c894f87bacb547846e6.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=624107",
+          "author": "watanabeyousuke",
+          "description": "STRCが約半年ぶりに基準額100ドルに到達 ビットコイン（BTC）保有企業ストラテジー（Strategy）が発行する永久優先株「STRC」の市場価格が、11月4日の取引で一時、1株当たりの基準額100ドル（約1.58万 […]",
+          "link": "https://www.neweconomy.jp/posts/624107",
+          "publishedOn": "2026-11-05T07:32:47.000Z",
+          "wordCount": 755,
+          "title": "ストラテジーの優先株「STRC」、5月以来初めて一時100ドル到達。BTC購入資金の調達再開か",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/05163231/9c27eb2c1bd4b01041289d8be386040d.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=624098",
+          "author": "OtsugaShinya",
+          "description": "お知らせメールを一時停止、配信再開後に対象者へ個別連絡 国内暗号資産（仮想通貨）取引所ザイフ（Zaif）が、メール配信の委託先であるアララへの不正アクセスにより、顧客のメールアドレス38万536件（重複を除く）が外部に流 […]",
+          "link": "https://www.neweconomy.jp/posts/624098",
+          "publishedOn": "2026-11-05T07:23:37.000Z",
+          "wordCount": 768,
+          "title": "国内暗号資産取引所Zaif、委託先への不正アクセスで顧客のメルアド38万536件流出",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/05162315/cee117a561581fa0e75e7552f0fe9535.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=623770",
           "author": "NewEconomyPodcast",
@@ -2245,6 +2570,76 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=172733",
+          "author": "Crypto Times 編集部",
+          "description": "11月5日、SMBCコンシューマーファイナンスは、金融機関向けの保証業務で使用するシステムが不正アクセスを受け、最大32万118人分の個人情報が外部に流出したと正式に発表しました。対象には氏名や住所、運転免許証番号、勤務 […]\n投稿 【情報流出・不正アクセスまとめ 11/5】三井住友系の消費者金融で最大32万人情報漏えい は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-information-leak-1105/",
+          "publishedOn": "2026-11-05T11:39:43.000Z",
+          "wordCount": 2174,
+          "title": "【情報流出・不正アクセスまとめ 11/5】三井住友系の消費者金融で最大32万人情報漏えい",
+          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M6NQVG0CS8HDMAQ0706RNK22.01M6NQVG8ABSW1NBTSHFDBKYV6.png-1536w.webp"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=172661",
+          "author": "Crypto Times 編集部",
+          "description": "ソラナ（SOL）は、Proof of Historyと並列処理で高速な取引を目指すブロックチェーンです。2026年10月のAlpenglow稼働など最新の動きと、特徴・価格動向・将来性・リスク・国内での買い方を解説します […]\n投稿 Solana（ソラナ）とは？Alpenglow稼働とSOLの将来性・価格・買い方 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/project-what-is-solana/",
+          "publishedOn": "2026-11-05T09:02:00.000Z",
+          "wordCount": 1821,
+          "title": "Solana（ソラナ）とは？Alpenglow稼働とSOLの将来性・価格・買い方",
+          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M62WSR2K5PXNSJKRWS2RCGRV.png-1536w.webp"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=172730",
+          "author": "よきょい",
+          "description": "リップル（XRP）を財務資産として保有する米企業Evernorth（ティッカー：XRPN）の株式売却枠について、2026年10月30日に転売登録の効力が発生しました。この枠では米金融大手キャンター・フィッツジェラルドの関 […]\n投稿 リップル購入余力が22%目減り？保有企業の株価下落で調達枠縮小 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-evernorth-xrp-share-sale/",
+          "publishedOn": "2026-11-05T06:00:00.000Z",
+          "wordCount": 2182,
+          "title": "リップル購入余力が22%目減り？保有企業の株価下落で調達枠縮小",
+          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M6MDE738FM36BYJ40SQEYMJW.01M6MDE77BHG4TA93WCZ0W22TZ.webp-1536w.webp"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=172729",
+          "author": "よきょい",
+          "description": "ビットコインのマイニング（採掘）収益の目安となる「ハッシュプライス」（計算能力1単位あたりの1日の想定収益）が下落しています。 マイニングデータ企業LuxorのHashrate Indexによると、11月2日18時（協定 […]\n投稿 ビットコイン採掘収益が1週間で8.7%低下｜難易度上昇が重し は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-bitcoin-hashprice-decline/",
+          "publishedOn": "2026-11-05T05:00:00.000Z",
+          "wordCount": 2188,
+          "title": "ビットコイン採掘収益が1週間で8.7%低下｜難易度上昇が重し",
+          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M6MD8MB7YMZAN41GKEZS9DS0.01M6MD8MJM5D5F776G08RGY04S.webp-1536w.webp"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=172728",
+          "author": "よきょい",
+          "description": "米商品先物取引委員会（CFTC）は、米国の個別株を対象とするパーペチュアル先物（満期のない無期限先物）を要件を満たす規制取引所で取引できると発表しました。マイケル・セリグ委員長は、これらの契約が規則40.3に基づき承認さ […]\n投稿 米国株の「無期限先物」解禁、仮想通貨の取引手法がウォール街へ は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-cftc-stock-perpetual-futures/",
+          "publishedOn": "2026-11-05T04:00:00.000Z",
+          "wordCount": 2182,
+          "title": "米国株の「無期限先物」解禁、仮想通貨の取引手法がウォール街へ",
+          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M6MD3RQ8MG1FH34B444C71NA.01M6MD3TH97RRFSABMTET4XCJM.png-1536w.webp"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=172731",
+          "author": "よきょい",
+          "description": "大手取引所バイナンスから盗まれたXRPが複数のアカウントに分散され、大口保有者（クジラ）の数を見かけ上押し上げている可能性が浮上しています。 バイナンスは2026年11月3日の報告で、10月29日20時05分から09分（ […]\n投稿 XRPクジラ増加は見せかけか｜バイナンス流出の2.3億XRPが7口座に は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-binance-stolen-xrp-whales/",
+          "publishedOn": "2026-11-05T02:30:00.000Z",
+          "wordCount": 2184,
+          "title": "XRPクジラ増加は見せかけか｜バイナンス流出の2.3億XRPが7口座に",
+          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M6ME739E6HNBGPNB5V8A5AZ5.01M6ME74ZQCYHQ48HY6VKF499K.png-1536w.webp"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=172725",
+          "author": "よきょい",
+          "description": "11月3日に投開票された米中間選挙で、民主党が上下両院で過半数を獲得する見通しとなりました。上院ではテキサス、カンザス、アイオワ、オハイオ、サウスカロライナ、ノースカロライナの6州で、AP通信が民主党への議席移動を判定し […]\n投稿 「青い波」はなぜ起きた？共和党の敗因にイラン戦争とガソリン高 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-us-midterm-blue-wave-iran-war/",
+          "publishedOn": "2026-11-05T02:00:00.000Z",
+          "wordCount": 2184,
+          "title": "「青い波」はなぜ起きた？共和党の敗因にイラン戦争とガソリン高",
+          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M6MBD03MWCJ6PP0CPFJKV83J.01M6MBD291VPNH5C4BAZTSSWXJ.png-1536w.webp"
+        },
         {
           "id": "https://crypto-times.jp/?p=172726",
           "author": "よきょい",

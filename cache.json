@@ -625,12 +625,57 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=746928",
+          "author": "菊谷ルイス",
+          "description": "米労働省は今週、仮想通貨を含む代替資産を組み入れたファンドを401kで提供する際の受託者の義務を明確にする規則を、ホワイトハウスの情報規制問題室に提出した。費用の見積もりは作成中という。",
+          "link": "https://coinpost.jp/?p=746928",
+          "publishedOn": "2026-11-06T21:22:21.000Z",
+          "wordCount": 3238,
+          "title": "米労働省、仮想通貨含む確定拠出年金の代替資産規則を審査に提出",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/401k-crypto-plan.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/401k-crypto-plan.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=746929",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨決済カード事業者のGnosis Payは、旧システムへの不正アクセスで顧客の一部情報が流出したと公表した。顧客資金への影響はなく、オンライン決済に追加の本人確認を必須にするなどの対策を講じた。",
+          "link": "https://coinpost.jp/?p=746929",
+          "publishedOn": "2026-11-06T21:10:27.000Z",
+          "wordCount": 3230,
+          "title": "仮想通貨カードのGnosis Pay、不正アクセスで顧客情報流出　顧客資金に影響なし",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/gnosis-pay-data-leak.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/gnosis-pay-data-leak.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=746930",
+          "author": "菊谷ルイス",
+          "description": "米財務省は現地時間6日、仮想通貨取引所MEXCグローバルとの送金を米金融機関に禁じる命令を出した。160億ドル以上の違法取引への関与を理由に、米金融システムへのアクセスを事実上遮断した。",
+          "link": "https://coinpost.jp/?p=746930",
+          "publishedOn": "2026-11-06T20:55:29.000Z",
+          "wordCount": 3219,
+          "title": "米財務省、仮想通貨取引所MEXCを米金融システムから排除",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/US-DoS-new-program.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/US-DoS-new-program.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=746918",
           "author": "菊谷ルイス",
           "description": "ハイパーコールが、IPO前のアンソロピックの予想株価を追跡するオプション市場を9日に開始する見通し。同社は初の市場と説明した。現金精算型で株式は得られず、米国の顧客は利用できない。アンソロピックのIPOは延期の可能性もある。",
           "link": "https://coinpost.jp/?p=746918",
           "publishedOn": "2026-11-06T13:20:10.000Z",
-          "wordCount": 3236,
+          "wordCount": 3238,
           "title": "米アンソロピックの上場前予想株価連動オプション、ハイパーコールが9日に提供開始へ",
           "enclosure": {
             "length": "0",
@@ -645,7 +690,7 @@
           "description": "ビットバンクは6日、外部サービスの障害により、一部の顧客で暗号資産の出金と入金反映の遅延が続いていると発表した。顧客資産への影響はないという。",
           "link": "https://coinpost.jp/?p=746914",
           "publishedOn": "2026-11-06T12:50:57.000Z",
-          "wordCount": 3219,
+          "wordCount": 3221,
           "title": "ビットバンク、外部サービスの障害で暗号資産の入出金遅延が継続　顧客資産に影響なし",
           "enclosure": {
             "length": "0",
@@ -660,7 +705,7 @@
           "description": "iOS 18.4から18.7を狙う攻撃キットDarkSwordが仮想通貨窃盗に悪用された疑い。Bitqueryは関連が疑われるネットワークで約406万ドル相当のUSDT移動を確認、全件の関連は未確定とする。修正版iOSと対策をまとめる。",
           "link": "https://coinpost.jp/?p=746889",
           "publishedOn": "2026-11-06T08:33:03.000Z",
-          "wordCount": 3251,
+          "wordCount": 3253,
           "title": "iPhone攻撃キット「DarkSword」、仮想通貨窃盗に悪用か",
           "enclosure": {
             "length": "0",
@@ -1883,36 +1928,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/fsa-new.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/fsa-new.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=745949",
-          "author": "幸田直子",
-          "description": "米ナスダック上場のネクスト・テクノロジーが、保有する約5,833BTCの売却または担保設定を取締役会で承認した。バイナンスの不正流出事件を受け、カストディリスクの高まりを理由に挙げている。",
-          "link": "https://coinpost.jp/?p=745949",
-          "publishedOn": "2026-11-02T05:55:04.000Z",
-          "wordCount": 3254,
-          "title": "米上場企業、5833BTCのビットコイン売却か担保化を検討　バイナンス事件受け",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/bitcoin_usd-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/bitcoin_usd-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=745924",
-          "author": "A.Yamada",
-          "description": "Name.comは顧客ドメイン15件が不正にリダイレクトされたと発表した。DeFiサイトでのEVM系流出額は約13.8万〜20.2万ドルと推計されている。",
-          "link": "https://coinpost.jp/?p=745924",
-          "publishedOn": "2026-11-02T05:10:56.000Z",
-          "wordCount": 3247,
-          "title": "DeFiサイトなど15ドメインに不正リダイレクト　訪問者の資金抜き取り",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/hacking2_0402.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/hacking2_0402.jpg"
         }
       ]
     },
@@ -2340,106 +2355,6 @@
           "wordCount": 802,
           "title": "【11/2話題】SBI VCトレードのJPYSCレンディング残高100億円突破、アンソロピックが日本で最大約5529億円の株式募集へ、バイナンス出金再開など（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02191132/53341cebd2e0635e5e3369b91da28492.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=623154",
-          "author": "OtsugaShinya",
-          "description": "Anthropicが日本の投資家向けに株式募集へ 対話型AI「クロード（Claude）」を開発する米アンソロピック（Anthropic）が、米国での新規株式公開（IPO）に伴う日本の投資家向け株式募集に関する有価証券届出 […]",
-          "link": "https://www.neweconomy.jp/posts/623154",
-          "publishedOn": "2026-11-02T08:15:36.000Z",
-          "wordCount": 743,
-          "title": "アンソロピック、日本で最大約5529億円の株式募集へ。米ナスダック上場に伴い",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02171320/Anthropic-261102-PIXTA.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=623130",
-          "author": "watanabeyousuke",
-          "description": "古いiPhoneのシードフレーズ保管に注意喚起 暗号資産（仮想通貨）ウォレットを開発するワンキー（OneKey）の創業者イーシー（Yishi）氏が、古いiPhoneをシードフレーズの保管に使用する危険性について、10月3 […]",
-          "link": "https://www.neweconomy.jp/posts/623130",
-          "publishedOn": "2026-11-02T08:05:30.000Z",
-          "wordCount": 1623,
-          "title": "OneKey創業者、古いiPhoneでのシードフレーズ保管に警鐘。機内モードでも攻撃リスク",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02170259/f6ede59b6eef7867d9b45b4c0bfe144d.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=623120",
-          "author": "watanabeyousuke",
-          "description": "FBI、北朝鮮の関与を発表し関連アドレスの取引阻止を要請 米連邦捜査局（FBI）が、暗号資産（仮想通貨）取引所バイナンス（Binance）から60億ドル（約9,468億円）以上の暗号資産が盗まれた事件について、北朝鮮によ […]",
-          "link": "https://www.neweconomy.jp/posts/623120",
-          "publishedOn": "2026-11-02T08:01:07.000Z",
-          "wordCount": 805,
-          "title": "バイナンス60億ドル超流出事件は北朝鮮の関与、資金洗浄阻止へ協力要請＝FBI",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02165701/a5ad530ca7ae1761608f23a9def5f06a-1.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=623113",
-          "author": "OtsugaShinya",
-          "description": "対応ブロックチェーンは10に拡大 米決済大手ビザ（Visa）のステーブルコインによる精算額が、年換算で250億ドル（約3.9兆円）を超えた。ビザのライアン・マキナニー（Ryan McInerney）CEOが、10月27日 […]",
-          "link": "https://www.neweconomy.jp/posts/623113",
-          "publishedOn": "2026-11-02T07:55:02.000Z",
-          "wordCount": 746,
-          "title": "Visa、ステーブルコイン精算額が年換算250億ドル超に、前年同期比10倍",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02165237/902da9bbaee4bb24991a741935148cbd.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=623105",
-          "author": "HitomotoToshikazu",
-          "description": "KuCoinがロシア・ベラルーシ向けサービス終了へ 暗号資産（仮想通貨）取引所クーコイン（KuCoin）は10月29日、ロシアとベラルーシの利用者に対するサービス提供を即時終了すると発表した。 今回の措置は、クーコインが […]",
-          "link": "https://www.neweconomy.jp/posts/623105",
-          "publishedOn": "2026-11-02T07:50:59.000Z",
-          "wordCount": 741,
-          "title": "クーコイン、ロシア・ベラルーシ向けサービスを即時終了へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02164846/1a55ab2394596a0dde7f98d596d813c3.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=623098",
-          "author": "HitomotoToshikazu",
-          "description": "KalshiがシリーズGで10億ドル調達 米予測市場運営企業カルシ（Kalshi）が、シリーズGの資金調達ラウンドで10億ドル（約1,578億円）を調達し、調達後の企業評価額が400億ドル（約6.3兆円）になったと10月 […]",
-          "link": "https://www.neweconomy.jp/posts/623098",
-          "publishedOn": "2026-11-02T07:46:24.000Z",
-          "wordCount": 1640,
-          "title": "米予測市場カルシ、シリーズGで1Bドル調達。評価額40Bドルに",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02170813/a97b34f89106a3d9f81ea124e86fc0c1.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=623071",
-          "author": "OtsugaShinya",
-          "description": "人間を装う応答や自傷助長を禁止、事業者に年齢確認を要求 米ニューヨーク州のキャシー・ホークル（Kathy Hochul）知事が、州内の18歳未満の利用者に対し、AIチャットボットの有害な機能を提供することを禁じる法案に1 […]",
-          "link": "https://www.neweconomy.jp/posts/623071",
-          "publishedOn": "2026-11-02T07:10:09.000Z",
-          "wordCount": 749,
-          "title": "NY州知事、AIチャットボット規制法に署名。未成年者への有害な機能提供を禁止へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02160623/16f9200d45b83f60ea9b7d1b198e9056.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=623048",
-          "author": "OtsugaShinya",
-          "description": "7〜9月期の全社売上高の約11％、収益分配などを含む 米マイクロソフト（Microsoft）が、オープンAI（OpenAI）との商取引により、2027会計年度第1四半期（2026年7〜9月）に100億ドル（約1兆5,80 […]",
-          "link": "https://www.neweconomy.jp/posts/623048",
-          "publishedOn": "2026-11-02T06:49:58.000Z",
-          "wordCount": 834,
-          "title": "マイクロソフトのOpenAI関連売上高、四半期100億ドルに。Xbox事業を上回る",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02160241/93530cf8cd1bfb5c6f3b9194c46180b8.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=623032",
-          "author": "HitomotoToshikazu",
-          "description": "SBIが米デジタル銀行Erebor Bankに出資へ SBIホールディングスが、米国拠点のSBIホールディングスUSA（SBI Holdings USA）を通じて、米デジタル銀行のエレボール・バンク（Erebor Ban […]",
-          "link": "https://www.neweconomy.jp/posts/623032",
-          "publishedOn": "2026-11-02T06:30:54.000Z",
-          "wordCount": 751,
-          "title": "SBI、米デジタル銀行エレボールに1億ドル出資へ。ステーブルコイン入出金や24時間精算に対応",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02161206/f50f3db27e25de9c8a131eed6c037888.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=623021",
-          "author": "OtsugaShinya",
-          "description": "5中全会で採択した決定全文を公表 中国共産党中央委員会が、暗号資産（仮想通貨）やブロックチェーンを利用した汚職を断固として取り締まる方針を示した。中国の国営通信社「新華社」が11月1日に公表した決定全文で明らかになった。 […]",
-          "link": "https://www.neweconomy.jp/posts/623021",
-          "publishedOn": "2026-11-02T06:05:22.000Z",
-          "wordCount": 608,
-          "title": "中国共産党、暗号資産やブロックチェーンを悪用した汚職を取り締まる方針",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02150041/da628cea0af6a33fbb47fee9cae60eaf.jpg"
         }
       ]
     },
@@ -3354,36 +3269,6 @@
           "wordCount": 2180,
           "title": "キオクシア株15.8%安で半年ぶり安値｜1万円割れはあるか",
           "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M4Z5R82T0CPRKBS99HP24CPM.01M4Z5R8D5J1H0VPDYDKGAB2FT.webp-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172697",
-          "author": "よきょい",
-          "description": "11月2日、ビットコイン（BTC）の価格は1223万円前後で推移しており、イーサリアム（ETH）は約35.4万円、ソラナ（SOL）は約1.47万円で取引されています。世界の暗号資産時価総額は422兆円で、ビットコインのド […]\n投稿 【今日の仮想通貨】世界最大のビットコインETFが北朝鮮の標的に？米中間選挙で仮想通貨規制は変わる？ は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-crypto-update-20261102/",
-          "publishedOn": "2026-11-02T08:00:00.000Z",
-          "wordCount": 2294,
-          "title": "【今日の仮想通貨】世界最大のビットコインETFが北朝鮮の標的に？米中間選挙で仮想通貨規制は変わる？",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M3NXJAEFVC9CMHP7DB6P45CT.01M3NXJARWPBZ483WKR0GF8AVP.webp-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172700",
-          "author": "よきょい",
-          "description": "10月29日に仮想通貨取引所バイナンスで約63億ドル（約9922億円）が流出した事件を受け、米国で業界規制をめぐる議論が再び活発になっています。バイナンスのリチャード・テン共同CEOは原因の一部として、開発運用担当エンジ […]\n投稿 バイナンス1兆円規模の流出で米規制論が再燃｜トランプ氏も言及 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-binance-hack-us-regulation-debate/",
-          "publishedOn": "2026-11-02T06:30:00.000Z",
-          "wordCount": 2184,
-          "title": "バイナンス1兆円規模の流出で米規制論が再燃｜トランプ氏も言及",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M6CMP1SKXH07XE265AQ91TAN.01M6CMP2JDV21ASW47FVRKGR88.png-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172699",
-          "author": "よきょい",
-          "description": "10月29日に約63億ドルのハッキング被害を受けた仮想通貨取引所大手のバイナンスは、2026年11月1日に出金を再開しました。同社は再開から9時間半で出金が46億5000万ドル、入金が10億1000万ドルあり、差し引き約 […]\n投稿 バイナンスから5700億円超が純流出、出金再開から9時間半で は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-binance-withdrawals-resume-outflow/",
-          "publishedOn": "2026-11-02T05:00:00.000Z",
-          "wordCount": 2391,
-          "title": "バイナンスから5700億円超が純流出、出金再開から9時間半で",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M6CM0H2KV6E8BDKK6V58SN0P.01M6CM0H70V7RXZ8D7XGGC4EBE.webp-1536w.webp"
         }
       ]
     }

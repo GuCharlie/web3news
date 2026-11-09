@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-11-08T22:38:36.116Z</updated>
+    <updated>2026-11-09T02:19:23.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トークン化預金、利点の一方で規制・流動性に課題＝米連銀専門家]]></title>
+        <id>https://coinpost.jp/?p=747042</id>
+        <link href="https://coinpost.jp/?p=747042"/>
+        <updated>2026-11-09T01:30:48.000Z</updated>
+        <summary type="html"><![CDATA[米カンザスシティ連銀が、預金トークンとトークン化預金を多面的に分析するレポートを公表。米大手銀の決済ネットワーク計画や、規制上の課題を指摘した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米上院議員、バイナンスとテザーなど4社に記録提出を再要求　期限は1月4日]]></title>
+        <id>https://coinpost.jp/?p=747033</id>
+        <link href="https://coinpost.jp/?p=747033"/>
+        <updated>2026-11-08T23:56:30.000Z</updated>
+        <summary type="html"><![CDATA[米上院常設調査小委員会の民主党筆頭委員ブルーメンソール議員が、バイナンスとテザー、トランプ一族関連のWLFIなど4社に記録提出を改めて要求した。11月30日までの提出開始を求め、2027年1月4日を最終期限とした。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米財務省、カナダの両替業者8社を制裁　イランの仮想通貨取引を仲介]]></title>
+        <id>https://coinpost.jp/?p=747029</id>
+        <link href="https://coinpost.jp/?p=747029"/>
+        <updated>2026-11-08T23:27:03.000Z</updated>
+        <summary type="html"><![CDATA[米財務省OFACは6日、イラン政権の制裁逃れを支援したとして、カナダの送金・両替業者8社を制裁対象に指定した。イランリアルと仮想通貨の交換を仲介し、一部は革命防衛隊関連アドレスとも取引していたという。麻薬組織の資金洗浄への関与も指摘した。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金融庁と欧州委員会、ステーブルコインやトークン化で意見交換]]></title>
+        <id>https://coinpost.jp/?p=747025</id>
+        <link href="https://coinpost.jp/?p=747025"/>
+        <updated>2026-11-08T23:15:57.000Z</updated>
+        <summary type="html"><![CDATA[金融庁は6日、欧州委員会と東京で開いた日EU合同金融規制フォーラム第7回会合の共同声明を公表した。暗号資産やステーブルコイン、トークン化の進展を議論し、欧州委はMiCAの実施状況と公開協議の主要論点を報告した。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス金現物、週約515億円超で開始直後除き最高＝アナリスト]]></title>
+        <id>https://coinpost.jp/?p=747021</id>
+        <link href="https://coinpost.jp/?p=747021"/>
+        <updated>2026-11-08T22:39:45.000Z</updated>
+        <summary type="html"><![CDATA[バイナンスで金を裏付けとするトークンの取引が再燃している。クリプトクアントのアナリストによると、累計取引高は80億ドル（約1.27兆円）を超え、直近7日間は初動期を除き過去最高の3億2,500万ドル（約515億円）超に。金価格の調整と仮想通貨安が重なる中での動きだ。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中間選挙が揺らした日米株、日経平均は歴代3位の3643円安]]></title>
         <id>https://crypto-times.jp/?p=172754</id>
@@ -1308,16 +1358,6 @@
         <link href="https://coinpost.jp/?p=746383"/>
         <updated>2026-11-04T21:00:03.000Z</updated>
         <summary type="html"><![CDATA[米下院民主党が、ウォーターズ下院議員の修正案を仮想通貨のクラリティー法案に拡大する案を協議している。検討案にはSECの監督拡大やCFTCの役割限定が含まれるとされ、トランプ大統領らへの倫理条項の追加も見込まれる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[民主党が圧勝で米議会を奪還、ビットコインは前日比1.2%上昇]]></title>
-        <id>https://coinpost.jp/?p=746369</id>
-        <link href="https://coinpost.jp/?p=746369"/>
-        <updated>2026-11-04T13:00:37.000Z</updated>
-        <summary type="html"><![CDATA[米中間選挙で民主党が上下両院の多数派を確保した。仮想通貨業界は1.7億ドル超を投じたが、業界に懐疑的なブラウン氏が当選する結果となった。一方で、ビットコインは7万8000ドル台で取引され、昨日の警戒から1.2%反発した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-11-14T23:35:33.659Z</updated>
+    <updated>2026-11-15T04:36:06.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、200日線割れ1100万円台　エヌビディア決算とアンソロピックIPOが焦点｜bitbankアナリスト寄稿]]></title>
+        <id>https://coinpost.jp/?p=747846</id>
+        <link href="https://coinpost.jp/?p=747846"/>
+        <updated>2026-11-15T02:30:25.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は200日移動平均線を下抜け、1100万円近辺まで値を下げた。エヌビディア決算とアンソロピックIPOが相場のカギを握るなか、売られ過ぎからの反発が注目される。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[週刊仮想通貨ニュース（11/13）｜上場企業のBTC売却・米BTC準備金・DAT企業の指数除外のまとめ]]></title>
+        <id>https://coinpost.jp/?p=747789</id>
+        <link href="https://coinpost.jp/?p=747789"/>
+        <updated>2026-11-15T00:25:54.000Z</updated>
+        <summary type="html"><![CDATA[今週は、米上場企業の仮想通貨ビットコインの売却規模、トランプ大統領の戦略的ビットコイン準備金購入に対する意欲、米MSCIによるストラテジー・メタプラネットの指数除外に関する記事が関心を集めた。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[タイ当局、マネロン対策でステーブルコイン送金に1日約2300万円の上限案]]></title>
         <id>https://coinpost.jp/?p=747963</id>
@@ -1723,26 +1743,6 @@
         <link href="https://coinpost.jp/?p=747326"/>
         <updated>2026-11-10T20:50:55.000Z</updated>
         <summary type="html"><![CDATA[#cp-summary-2025{all:revert;box-sizing:border-box;width:100%;background:#f8f9fb;border-left:3pxsolid#0d2d4f;border-radiu...]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【11/10話題】NYSE関連のトークン化証券基盤にアバランチ、デジガレの決済基盤がアーク上のUSDCに対応、バイナンス流出資産を北朝鮮が自作ミームコインで洗浄かなど（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=625607</id>
-        <link href="https://www.neweconomy.jp/posts/625607"/>
-        <updated>2026-11-10T13:11:09.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米上場企業14社、2026年に1.2兆円相当ビットコインを売却]]></title>
-        <id>https://coinpost.jp/?p=747315</id>
-        <link href="https://coinpost.jp/?p=747315"/>
-        <updated>2026-11-10T12:35:24.000Z</updated>
-        <summary type="html"><![CDATA[オンチェーン分析のLookonchainは10日、上場企業14社が2026年に10万8,247BTCのビットコイン（1.2兆円相当）を売却したと明らかにした。マラとライオットで全体の約56.2％を占めるという。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>

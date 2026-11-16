@@ -625,6 +625,66 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=748022",
+          "author": "A.Yamada",
+          "description": "Lookonchainはイーサリアム財団関連のウォレットが4日間で7,500ETHを売却し、ステーブルコインUSDSに交換したと報告した。米ETH現物ETFは7週連続で純流出となっている。",
+          "link": "https://coinpost.jp/?p=748022",
+          "publishedOn": "2026-11-16T02:15:45.000Z",
+          "wordCount": 3224,
+          "title": "イーサリアム財団関連アドレス、23億円相当のETH売却　現物ETFも7週連続流出",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/09/ethereum-new-logo-sep19.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/09/ethereum-new-logo-sep19.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=748038",
+          "author": "CoinPost編集部",
+          "description": "ビットコインは週末の流動性低下でロングの強制清算が連鎖し、円建てで一時1,000万円を割り込んだ。アンソロピックIPOによるAI銘柄への資金シフト懸念やバイナンス問題も重しに。仮想NISHI氏が解説。",
+          "link": "https://coinpost.jp/?p=748038",
+          "publishedOn": "2026-11-16T01:23:23.000Z",
+          "wordCount": 3025,
+          "title": "ビットコイン一時1000万円割れ、清算連鎖とアンソロピックIPOへの資金シフト懸念も｜仮想NISHI",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0556.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0556.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=748032",
+          "author": "Enzo",
+          "description": "バイナンス創業者のCZ氏が、ビットコインが一時6万2,006ドルまで下げた相場について考えられる要因を5つ挙げた。アンソロピックのIPOへの資金移動やETFからの資金流出、利上げ観測を列挙し、バイナンスによる売却は否定した。",
+          "link": "https://coinpost.jp/?p=748032",
+          "publishedOn": "2026-11-16T00:50:52.000Z",
+          "wordCount": 3215,
+          "title": "CZ氏が考える仮想通貨下落の5要因　バイナンスによる売りは否定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/cz-binance2_0412.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/cz-binance2_0412.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=748017",
+          "author": "Enzo",
+          "description": "バイナンスのイーサリアム（ETH）準備高が約290万ETHまで減少し、2020年11月以来の低水準となった。2025年7月比で約42％減。クリプトクアントのアナリストは、価格下落局面での蓄積の可能性を指摘する。",
+          "link": "https://coinpost.jp/?p=748017",
+          "publishedOn": "2026-11-15T23:52:34.000Z",
+          "wordCount": 3281,
+          "title": "バイナンスのイーサリアム準備高、2020年以来の低水準に　流出続く＝アナリスト",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/09/ethereum-sep-30-new-image.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/09/ethereum-sep-30-new-image.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=748013",
           "author": "Enzo",
           "description": "ブロックチェーンセキュリティ企業スローミストの責任者が15日、iPhone上の仮想通貨ウォレットを狙う攻撃ツールが地下フォーラムで販売されていると注意を促した。同氏はDarkSwordの改良版と推測し、iOSの更新を呼びかけている。",
@@ -1508,21 +1568,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/nomura-new-invest.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/nomura-new-invest.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=747504",
-          "author": "菊谷ルイス",
-          "description": "ドイツ銀行は11日、欧州の法人・機関投資家向けに仮想通貨の保管サービスを開始したと発表した。ビットコインやイーサリアムなど5銘柄に対応し、同行が顧客に代わって秘密鍵を管理する。",
-          "link": "https://coinpost.jp/?p=747504",
-          "publishedOn": "2026-11-11T12:34:42.000Z",
-          "wordCount": 3188,
-          "title": "ドイツ銀行、法人・機関向け仮想通貨保管を開始、ビットコインなど5銘柄対応",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/deutsche-bank-2026.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/deutsche-bank-2026.jpg"
         }
       ]
     },
@@ -2395,6 +2440,26 @@
       "feedUrl": "https://crypto-times.jp/feed",
       "siteUrl": "https://crypto-times.jp/",
       "articles": [
+        {
+          "id": "https://crypto-times.jp/?p=172825",
+          "author": "よきょい",
+          "description": "金融庁が公表した令和9（2027）年度税制改正要望に、NISAの「非課税保有限度額の当年中の復活」が盛り込まれています。 現行制度では商品を売却して空いた枠を再び使えるのは翌年以降で、同じ年のうちに再利用することはできま […]\n投稿 NISA大幅改善か、売却枠がその年に復活へ｜金融庁が要望 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-nisa-quota-same-year-restore/",
+          "publishedOn": "2026-11-16T01:31:10.000Z",
+          "wordCount": 2227,
+          "title": "NISA大幅改善か、売却枠がその年に復活へ｜金融庁が要望",
+          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M7GZMX5J0EFM2DAFNPJ4YQKE.01M7GZMYS79Z78S3YB22WANFRM.png-1536w.webp"
+        },
+        {
+          "id": "https://crypto-times.jp/?p=172824",
+          "author": "よきょい",
+          "description": "米半導体大手エヌビディアで共同創業者のジェンスン・フアン氏が2026年11月12日にCEO、社長、取締役を辞任しました。暫定CEOにはCFO（最高財務責任者）のコレット・クレス氏が就き、ハーベイ・ジョーンズ氏が同社初の取 […]\n投稿 フアン氏復帰に11万人署名、それでも実現が難しい理由 は CRYPTO TIMES に最初に表示されました。",
+          "link": "https://crypto-times.jp/news-nvidia-jensen-huang-return-petition/",
+          "publishedOn": "2026-11-16T01:30:39.000Z",
+          "wordCount": 2228,
+          "title": "フアン氏復帰に11万人署名、それでも実現が難しい理由",
+          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M7GZKM8RHWRNZJ3QCF93W6ZK.01M7GZKP5G999HF843MM2FP49X.png-1536w.webp"
+        },
         {
           "id": "https://crypto-times.jp/?p=172823",
           "author": "よきょい",

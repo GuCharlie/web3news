@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-11-15T23:26:13.400Z</updated>
+    <updated>2026-11-16T02:56:20.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム財団関連アドレス、23億円相当のETH売却　現物ETFも7週連続流出]]></title>
+        <id>https://coinpost.jp/?p=748022</id>
+        <link href="https://coinpost.jp/?p=748022"/>
+        <updated>2026-11-16T02:15:45.000Z</updated>
+        <summary type="html"><![CDATA[Lookonchainはイーサリアム財団関連のウォレットが4日間で7,500ETHを売却し、ステーブルコインUSDSに交換したと報告した。米ETH現物ETFは7週連続で純流出となっている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NISA大幅改善か、売却枠がその年に復活へ｜金融庁が要望]]></title>
+        <id>https://crypto-times.jp/?p=172825</id>
+        <link href="https://crypto-times.jp/news-nisa-quota-same-year-restore/"/>
+        <updated>2026-11-16T01:31:10.000Z</updated>
+        <summary type="html"><![CDATA[金融庁が公表した令和9（2027）年度税制改正要望に、NISAの「非課税保有限度額の当年中の復活」が盛り込まれています。 現行制度では商品を売却して空いた枠を再び使えるのは翌年以降で、同じ年のうちに再利用することはできま […]
+投稿 NISA大幅改善か、売却枠がその年に復活へ｜金融庁が要望 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フアン氏復帰に11万人署名、それでも実現が難しい理由]]></title>
+        <id>https://crypto-times.jp/?p=172824</id>
+        <link href="https://crypto-times.jp/news-nvidia-jensen-huang-return-petition/"/>
+        <updated>2026-11-16T01:30:39.000Z</updated>
+        <summary type="html"><![CDATA[米半導体大手エヌビディアで共同創業者のジェンスン・フアン氏が2026年11月12日にCEO、社長、取締役を辞任しました。暫定CEOにはCFO（最高財務責任者）のコレット・クレス氏が就き、ハーベイ・ジョーンズ氏が同社初の取 […]
+投稿 フアン氏復帰に11万人署名、それでも実現が難しい理由 は CRYPTO TIMES に最初に表示されました。]]></summary>
+        <author>
+            <name>よきょい</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン一時1000万円割れ、清算連鎖とアンソロピックIPOへの資金シフト懸念も｜仮想NISHI]]></title>
+        <id>https://coinpost.jp/?p=748038</id>
+        <link href="https://coinpost.jp/?p=748038"/>
+        <updated>2026-11-16T01:23:23.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインは週末の流動性低下でロングの強制清算が連鎖し、円建てで一時1,000万円を割り込んだ。アンソロピックIPOによるAI銘柄への資金シフト懸念やバイナンス問題も重しに。仮想NISHI氏が解説。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CZ氏が考える仮想通貨下落の5要因　バイナンスによる売りは否定]]></title>
+        <id>https://coinpost.jp/?p=748032</id>
+        <link href="https://coinpost.jp/?p=748032"/>
+        <updated>2026-11-16T00:50:52.000Z</updated>
+        <summary type="html"><![CDATA[バイナンス創業者のCZ氏が、ビットコインが一時6万2,006ドルまで下げた相場について考えられる要因を5つ挙げた。アンソロピックのIPOへの資金移動やETFからの資金流出、利上げ観測を列挙し、バイナンスによる売却は否定した。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンスのイーサリアム準備高、2020年以来の低水準に　流出続く＝アナリスト]]></title>
+        <id>https://coinpost.jp/?p=748017</id>
+        <link href="https://coinpost.jp/?p=748017"/>
+        <updated>2026-11-15T23:52:34.000Z</updated>
+        <summary type="html"><![CDATA[バイナンスのイーサリアム（ETH）準備高が約290万ETHまで減少し、2020年11月以来の低水準となった。2025年7月比で約42％減。クリプトクアントのアナリストは、価格下落局面での蓄積の可能性を指摘する。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iPhoneのウォレット狙う攻撃ツール地下販売　スローミスト責任者が警告]]></title>
         <id>https://coinpost.jp/?p=748013</id>
@@ -1262,16 +1324,6 @@
         <link href="https://coinpost.jp/?p=747518"/>
         <updated>2026-11-11T20:35:40.000Z</updated>
         <summary type="html"><![CDATA[野村ホールディングスが、スイス拠点の暗号資産子会社レーザー・デジタルの売却を検討していることが12日、ブルームバーグの報道で分かった。損失で欧州事業が赤字に陥った経緯があり、最終決定はなく、保有継続の可能性もある。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドイツ銀行、法人・機関向け仮想通貨保管を開始、ビットコインなど5銘柄対応]]></title>
-        <id>https://coinpost.jp/?p=747504</id>
-        <link href="https://coinpost.jp/?p=747504"/>
-        <updated>2026-11-11T12:34:42.000Z</updated>
-        <summary type="html"><![CDATA[ドイツ銀行は11日、欧州の法人・機関投資家向けに仮想通貨の保管サービスを開始したと発表した。ビットコインやイーサリアムなど5銘柄に対応し、同行が顧客に代わって秘密鍵を管理する。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>

@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-11-20T22:05:03.712Z</updated>
+    <updated>2026-11-21T03:19:50.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アンソロピックの史上最大級IPOで株トークンが複数のブロックチェーンに登場、取引高15億円超]]></title>
+        <id>https://coinpost.jp/?p=749037</id>
+        <link href="https://coinpost.jp/?p=749037"/>
+        <updated>2026-11-21T03:10:45.000Z</updated>
+        <summary type="html"><![CDATA[サンティメントは20日、アンソロピックIPOに伴う株式トークンが複数チェーンで登場したと報告した。株式トークンに伴う権利や流動性の課題も指摘している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン年初来最安値、米ハイテク株急落とマイナー売りが重荷｜仮想NISHI]]></title>
+        <id>https://coinpost.jp/?p=749035</id>
+        <link href="https://coinpost.jp/?p=749035"/>
+        <updated>2026-11-21T00:25:36.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコインは20日から21日にかけて大幅に下落し、一時年初来最安値を更新した。アンソロピック株を中心に米ハイテク株が急落した。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「クラリティー法案の年内成立可能性はゼロ」共同提案議員]]></title>
+        <id>https://coinpost.jp/?p=749014</id>
+        <link href="https://coinpost.jp/?p=749014"/>
+        <updated>2026-11-20T23:05:32.000Z</updated>
+        <summary type="html"><![CDATA[米共和党のモレノ上院議員は20日、クラリティー法案が上院で可決されるシナリオはないと述べた。予測市場ではクラリティー法案の年内成立確率がほぼ0%で、米下院民主党は別の市場構造法案を協議している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[偽の仮想通貨取引所で58億円超詐取、米SECが8事業体を提訴]]></title>
+        <id>https://coinpost.jp/?p=749016</id>
+        <link href="https://coinpost.jp/?p=749016"/>
+        <updated>2026-11-20T22:50:37.000Z</updated>
+        <summary type="html"><![CDATA[米SECは19日、偽の投資顧問会社と仮想通貨取引所で米国の投資家から3,700万ドル超をだまし取ったとして、コロラド州の8事業体を提訴した。SNS広告からチャットに誘導する手口で、2024年8月から2026年5月まで続いた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットバンク、MEXCへの暗号資産出金を24日から制限、入金も12月10日から]]></title>
+        <id>https://coinpost.jp/?p=749017</id>
+        <link href="https://coinpost.jp/?p=749017"/>
+        <updated>2026-11-20T22:10:39.000Z</updated>
+        <summary type="html"><![CDATA[ビットバンクは20日、MEXCとの暗号資産の入出金を制限すると発表した。出金は24日、入金は12月10日から対象となり、MEXCに暗号資産を保有する顧客は期限までの手続きが必要になる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[政府、マネロン対策の基本方針を改訂、暗号資産の悪用リスクへの対応も明記]]></title>
         <id>https://coinpost.jp/?p=749018</id>
@@ -2097,58 +2147,6 @@
         <summary type="html"><![CDATA[米ビットマイン・イマージョン・テクノロジーズが直近1週間で7,653ETHのイーサリアムを購入した。保有量は総供給量の4.97％に当たり、保有資産は計118億ドルに上る。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米ストラテジー、53億円相当ビットコインを買い増し　3週連続]]></title>
-        <id>https://coinpost.jp/?p=748183</id>
-        <link href="https://coinpost.jp/?p=748183"/>
-        <updated>2026-11-16T13:20:44.000Z</updated>
-        <summary type="html"><![CDATA[米ストラテジーは16日、9日から15日の1週間に485BTCのビットコインを買い増し、3週連続の購入で保有量が850,849BTCのビットコインに達したと発表した。調達資金の最大の用途は優先株STRCの買い戻しだった。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デジタル証券に株主連絡の配信、コインベースと金融IT大手ブロードリッジが規格案を公開]]></title>
-        <id>https://coinpost.jp/?p=748180</id>
-        <link href="https://coinpost.jp/?p=748180"/>
-        <updated>2026-11-16T12:50:05.000Z</updated>
-        <summary type="html"><![CDATA[米コインベースと米金融IT大手ブロードリッジは16日、トークン化株式を保有するウォレットへ株主向け連絡を直接届ける規格案を公開した。イーサリアム改善提案にも提出し、株主向け連絡の配信を示すことを支援するデータオラクルも開始した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネット株、今年最安値に迫る6%強の下落]]></title>
-        <id>https://crypto-times.jp/?p=172835</id>
-        <link href="https://crypto-times.jp/news-metaplanet-shares-fall-more-than-6-approaching-this-years-low/"/>
-        <updated>2026-11-16T12:24:03.000Z</updated>
-        <summary type="html"><![CDATA[11月16日、ビットコインを主要な財務資産として保有するメタプラネットの株価は前週比-6.85%、15円安の204円で取引を終えました。一時197円を付け、2026年7月につけた今年最安値である192円に迫る勢いの下落と […]
-投稿 メタプラネット株、今年最安値に迫る6%強の下落 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【11/16話題】イーサリアム財団が7500ETH売却か、SBIとカンボジア中銀がカントンで国債トークン化・JPYSCで送金実証へなど（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=627086</id>
-        <link href="https://www.neweconomy.jp/posts/627086"/>
-        <updated>2026-11-16T12:22:04.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金価格が1年超ぶり安値、銀も急落｜米利上げ観測が重荷か]]></title>
-        <id>https://crypto-times.jp/?p=172834</id>
-        <link href="https://crypto-times.jp/news-gold-prices-hit-lowest-level-in-over-a-year/"/>
-        <updated>2026-11-16T11:21:08.000Z</updated>
-        <summary type="html"><![CDATA[16日の国際商品市場で金価格が下落し、2025年10月以来、約1年1カ月ぶりの安値をつけました。金の現物価格は日本時間16日午後3時時点で1トロイオンス＝3,840ドルと前営業日比約1％安に。米国の12月限金先物も1.1 […]
-投稿 金価格が1年超ぶり安値、銀も急落｜米利上げ観測が重荷か は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
     <entry>

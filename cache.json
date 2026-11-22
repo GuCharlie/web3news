@@ -625,6 +625,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=748859",
+          "author": "CoinPost編集部",
+          "description": "今週は、ブロックストリームのアダム・バックCEOによる仮想通貨ビットコインの価格予測、ストライブのCEOによる相場分析、バンガードの指数ファンドによるメタプラネット株の保有に関する記事が関心を集めた。",
+          "link": "https://coinpost.jp/?p=748859",
+          "publishedOn": "2026-11-22T00:25:36.000Z",
+          "wordCount": 3037,
+          "title": "週刊仮想通貨ニュース（11/20）｜BTCとSOL強気予測・ETH相場・ファンドのメタプラ株保有まとめ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=749050",
           "author": "A.Yamada",
           "description": "コインベースの仮想通貨市場週間レポートによるとビットコインは約12%下落し200週移動平均線を割り込んだ。過去の事例や、BTCとETHのサポート・レジスタンス水準を解説している。",
@@ -1598,21 +1613,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/midterm-new-clarity-act-US-congress-1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/midterm-new-clarity-act-US-congress-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=748408",
-          "author": "Enzo",
-          "description": "クリプトクアント認定アナリストのアドラーJr.氏が分析。ビットコインの供給のうち含み益にある割合は1週間で7ポイント下がり52％に。長期保有者の保有量も90日来の低水準となり、含み益と含み損の分岐点が近づく。",
-          "link": "https://coinpost.jp/?p=748408",
-          "publishedOn": "2026-11-17T08:50:32.000Z",
-          "wordCount": 3217,
-          "title": "ビットコイン含み益比率、52％に低下　過去1年有数の下げ幅＝アナリスト",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/06/bitcoin-down-but-not-that-bad-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/06/bitcoin-down-but-not-that-bad-1.jpg"
         }
       ]
     },
@@ -2090,26 +2090,6 @@
           "wordCount": 794,
           "title": "【11/17話題】野村HD・NRI・BOOSTRY、オンチェーン金融で協業検討、ライターで約1040万USDC流出、日本の銀行がステーブルコインの国際利用拡大に期待など（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/17185403/eaebb7454ca79314fa6de8fb99d28634.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=627535",
-          "author": "TanakaShuya",
-          "description": "現金などと並ぶ財務資産としてビットコインの活用を検討 米ナスダック上場のスーパーリーグ・エンタープライズ（Super League Enterprise）が、暗号資産（仮想通貨）ビットコイン（BTC）を8BTC追加購入し […]",
-          "link": "https://www.neweconomy.jp/posts/627535",
-          "publishedOn": "2026-11-17T10:11:16.000Z",
-          "wordCount": 740,
-          "title": "メタプラ出資予定の米スーパーリーグ、ビットコイン追加購入。累計取得量39BTCに",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/05/25153346/6c0b5c071802b6585918c24c5d4692b8.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=627528",
-          "author": "watanabeyousuke",
-          "description": "ヴィタリック、leanPCSへの評価を転換 イーサリアム（Ethereum）共同創設者のヴィタリック・ブテリン（Vitalik Buterin）氏が、改善提案「EIP-8288」を実現する技術的な選択肢として「リーンPC […]",
-          "link": "https://www.neweconomy.jp/posts/627528",
-          "publishedOn": "2026-11-17T10:05:45.000Z",
-          "wordCount": 1606,
-          "title": "ヴィタリック、EIP8288の実現手段で「leanPCS」支持。汎用的な証明処理の早期実現に期待",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/17190318/de30c9b19cc53dbea3114ad690ce3da0.jpg"
         }
       ]
     },
@@ -3214,76 +3194,6 @@
           "wordCount": 2473,
           "title": "キオクシア・NVIDIAなどのAI関連銘柄が連日安、Anthropic上場失敗ならAI株総崩れの恐れも",
           "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M7PC11ZYXV9F8WV652B9KCJJ.01M7PC1292JVR379H1T6V5C1YE.png-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172844",
-          "author": "よきょい",
-          "description": "米国株式市場はAI・半導体関連を中心に売りが広がり、主要3指数がそろって3営業日続落しました。ダウ平均は前日比739ポイント（1.4%）安の5万1608.17、S&P500は145ポイント（1.9%）安の7416.59で […]\n投稿 NVIDIA時価総額4兆ドル割れ、米株3日続落｜決算前に警戒感 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-us-stocks-nvidia-earnings-selloff/",
-          "publishedOn": "2026-11-17T12:30:00.000Z",
-          "wordCount": 2368,
-          "title": "NVIDIA時価総額4兆ドル割れ、米株3日続落｜決算前に警戒感",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M7MJWRH4TK17226T9MNM0ZY4.01M7MJWTP7TF2PA963YKS8GG0A.png-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172845",
-          "author": "よきょい",
-          "description": "11月17日の東京株式市場で日経平均株価は大幅に続落し、前日比801円59銭（1.34%）安の5万8860円43銭で取引を終えました。前場には一時970円近く下げ、節目の5万9000円を割り込む場面もありました。TOPI […]\n投稿 日経平均801円安で5万9000円割れ｜NVIDIA決算前に半導体売り は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-nikkei-falls-nvidia-earnings-20261117/",
-          "publishedOn": "2026-11-17T12:00:00.000Z",
-          "wordCount": 2369,
-          "title": "日経平均801円安で5万9000円割れ｜NVIDIA決算前に半導体売り",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M7MK122Q2ADDMWXY48HMKAC3.01M7MK153KM5JQX62S8HP9TE42.png-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172847",
-          "author": "よきょい",
-          "description": "11月17日、ビットコイン（BTC）の価格は1031万円前後で推移しており、イーサリアム（ETH）は約29.0万円、ソラナ（SOL）は約1.14万円で取引されています。世界の暗号資産時価総額は364兆円で、ビットコインの […]\n投稿 【今日の仮想通貨】2027年にビットコイン強気相場到来の予測。BTC反発の正体は先物か は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-crypto-update-20261117/",
-          "publishedOn": "2026-11-17T11:41:17.000Z",
-          "wordCount": 2480,
-          "title": "【今日の仮想通貨】2027年にビットコイン強気相場到来の予測。BTC反発の正体は先物か",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M2YMNPKKKYK7HP98FFCR1WKJ.01M2YMNQKRYR9JMZZW98J18PXQ.jpg-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172846",
-          "author": "よきょい",
-          "description": "AIアシスタント「Claude」を開発する米Anthropicが今週中に予定するナスダック市場への新規株式公開（IPO）が大詰めを迎えています。 同社は11月10日に米証券取引委員会（SEC）へ修正版の登録届出書（S-1 […]\n投稿 Claude開発元が史上最大級IPOへ、調達最大10兆円｜19日上場 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-anthropic-ipo-nasdaq-ant/",
-          "publishedOn": "2026-11-17T11:09:41.000Z",
-          "wordCount": 2372,
-          "title": "Claude開発元が史上最大級IPOへ、調達最大10兆円｜19日上場",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M7MK27PD0AT337WCD088EAEA.01M7MK29XZ6D4YWK7N3RZ0805P.png-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172843",
-          "author": "よきょい",
-          "description": "内閣府が11月16日に発表した2026年7〜9月期の実質GDP（国内総生産）1次速報は、年率換算で0.1%減となりました。前期比では-0.0%で個人消費は0.3%減少しています。成長の停滞は日銀の追加利上げに慎重論を強め […]\n投稿 日本GDP年率マイナス、日本経済に陰り？円とビットコインの行方 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-japan-gdp-boj-bitcoin-yen-carry/",
-          "publishedOn": "2026-11-17T10:17:56.000Z",
-          "wordCount": 2368,
-          "title": "日本GDP年率マイナス、日本経済に陰り？円とビットコインの行方",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M7MG67YM1Q2KJ58T95EYNS8M.01M7MG69X4J69C373QTA331JDX.png-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172840",
-          "author": "よきょい",
-          "description": "FRB（米連邦準備制度理事会）が公表した金融安定報告書で、ヘッジファンドのグロス想定元本ベースのレバレッジが2026年第1四半期に過去最高となったことが示されました。データは2013年からの系列で報告書はおおむね10月2 […]\n投稿 ヘッジファンドのレバ過去最高、ビットコインに飛び火の恐れも は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-fed-hedge-fund-leverage-record/",
-          "publishedOn": "2026-11-17T10:11:36.000Z",
-          "wordCount": 2369,
-          "title": "ヘッジファンドのレバ過去最高、ビットコインに飛び火の恐れも",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M7MFTGMBQB7QVREAQDPHGSQF.01M7MFTJBBEVZQDFAB3JYSHET0.png-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172842",
-          "author": "Crypto Times 編集部",
-          "description": "Press Release ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 約1ヶ月で25位から9位へ。クリプト低迷期と言われる今、「配らない」DEXが選ばれる5つ […]\n投稿 ポイント制もTGEもなし──新興Perp DEX「PopDEX」はなぜ短期間で伸びたのか は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/press-popdex-perp-dex-growth/",
-          "publishedOn": "2026-11-17T09:47:25.000Z",
-          "wordCount": 1013,
-          "title": "ポイント制もTGEもなし──新興Perp DEX「PopDEX」はなぜ短期間で伸びたのか",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M7MA78Q0VP08JG4C93F3SX56.01M7MA798011W5GANWT2EP56F4.png-1536w.webp"
         }
       ]
     }

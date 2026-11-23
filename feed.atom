@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gucharlie.github.io/web3news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-11-22T21:28:41.542Z</updated>
+    <updated>2026-11-23T01:54:41.844Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gucharlie.github.io/web3news/index.html"/>
     <link rel="self" href="https://gucharlie.github.io/web3news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東京国税局、暗号資産の追徴税額12億円に　調査体制強化＝報道]]></title>
+        <id>https://coinpost.jp/?p=749085</id>
+        <link href="https://coinpost.jp/?p=749085"/>
+        <updated>2026-11-23T00:34:46.000Z</updated>
+        <summary type="html"><![CDATA[東京国税局は昨年度、暗号資産の利用者91人を調査し、39億円余りの申告漏れを指摘した。国税当局は調査体制を強化し、海外当局との情報交換も始める予定だ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[財務省研究会資料、国債トークン化の実機検証をカントンのブロックチェーンで実施へ]]></title>
         <id>https://coinpost.jp/?p=749074</id>
@@ -1259,38 +1269,6 @@
         <summary type="html"><![CDATA[米上院の超党派6議員がベッセント財務長官に書簡を送り、ジーニアス法の施行で州規制下のステーブルコイン発行体にも連邦申請者と同等の猶予措置を設けるよう求めた。2027年1月の施行を前に、州と連邦の扱いの差が論点に浮上している。]]></summary>
         <author>
             <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【11/18話題】国内初のマントル（MNT）上場、英モニュメント銀行がミッドナイトで個人向けトークン化預金を提供開始など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=627993</id>
-        <link href="https://www.neweconomy.jp/posts/627993"/>
-        <updated>2026-11-18T12:36:27.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三菱UFJ銀行で650万件流出、仮想通貨のセルフカストディに通じる教訓]]></title>
-        <id>https://crypto-times.jp/?p=172862</id>
-        <link href="https://crypto-times.jp/news-mufg-karte-6-5m-leak-plaid/"/>
-        <updated>2026-11-18T11:38:14.000Z</updated>
-        <summary type="html"><![CDATA[三菱UFJ銀行は18日、ウェブサイトやアプリでの顧客への案内を委託しているプレイドのサービス「KARTE（カルテ）」が不正アクセスを受け、顧客に関する情報約650万件が外部に漏えいしたと発表しました。漏えいしたのは性別、 […]
-投稿 三菱UFJ銀行で650万件流出、仮想通貨のセルフカストディに通じる教訓 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FOMC議事要旨が19日明け方に公表で12月利上げ観測は96%超、ビットコインに逆風]]></title>
-        <id>https://crypto-times.jp/?p=172857</id>
-        <link href="https://crypto-times.jp/news-fomc-minutes-october-preview-bitcoin/"/>
-        <updated>2026-11-18T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[FRB（米連邦準備制度理事会）は日本時間11月19日午前4時、10月27〜28日に開いたFOMC（連邦公開市場委員会）の議事要旨を公表します。市場は12月の追加利上げをほぼ織り込んでおり、利上げを支持する参加者がどこまで […]
-投稿 FOMC議事要旨が19日明け方に公表で12月利上げ観測は96%超、ビットコインに逆風 は CRYPTO TIMES に最初に表示されました。]]></summary>
-        <author>
-            <name>Crypto Times 編集部</name>
         </author>
     </entry>
     <entry>

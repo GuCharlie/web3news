@@ -625,6 +625,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=749085",
+          "author": "A.Yamada",
+          "description": "東京国税局は昨年度、暗号資産の利用者91人を調査し、39億円余りの申告漏れを指摘した。国税当局は調査体制を強化し、海外当局との情報交換も始める予定だ。",
+          "link": "https://coinpost.jp/?p=749085",
+          "publishedOn": "2026-11-23T00:34:46.000Z",
+          "wordCount": 3196,
+          "title": "東京国税局、暗号資産の追徴税額12億円に　調査体制強化＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/09/Tax060930_shutterstock_2734039073-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/09/Tax060930_shutterstock_2734039073-1.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=749074",
           "author": "菊谷ルイス",
           "description": "プログマが事務局を務めるデジタルアセット共創コンソーシアムが、国債トークン化の実機検証を2026年11月から2027年3月まで、機関投資家向けブロックチェーンのカントン（Canton）・ネットワーク上で行う計画を、財務省の研究会資料で示した。",
@@ -1620,16 +1635,6 @@
           "wordCount": 628,
           "title": "香港金融管理局、暗号資産のマネロン対策にAI活用を検討",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/19135614/264b944dbfbdb97a023d6b0af25ad919.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=627993",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/627993",
-          "publishedOn": "2026-11-18T12:36:27.000Z",
-          "wordCount": 660,
-          "title": "【11/18話題】国内初のマントル（MNT）上場、英モニュメント銀行がミッドナイトで個人向けトークン化預金を提供開始など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/18184314/5c910c11ef0d57a5a0ff6be5b73b12d8.jpg"
         }
       ]
     },
@@ -2604,26 +2609,6 @@
           "wordCount": 2369,
           "title": "個人消費が再びコロナ前割れ｜日本経済に長期停滞の影",
           "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M7RYAMCQPZGVM9BMSR0DFQ6Y.01M7RYAPEPM4ZTVQHMRYSSWJDJ.png-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172862",
-          "author": "Crypto Times 編集部",
-          "description": "三菱UFJ銀行は18日、ウェブサイトやアプリでの顧客への案内を委託しているプレイドのサービス「KARTE（カルテ）」が不正アクセスを受け、顧客に関する情報約650万件が外部に漏えいしたと発表しました。漏えいしたのは性別、 […]\n投稿 三菱UFJ銀行で650万件流出、仮想通貨のセルフカストディに通じる教訓 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-mufg-karte-6-5m-leak-plaid/",
-          "publishedOn": "2026-11-18T11:38:14.000Z",
-          "wordCount": 2496,
-          "title": "三菱UFJ銀行で650万件流出、仮想通貨のセルフカストディに通じる教訓",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M7Q4MMKS0DBW5SK6HYAHVDAZ.01M7Q4MMXX6KMGD3CP90KM7GDV.png-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=172857",
-          "author": "Crypto Times 編集部",
-          "description": "FRB（米連邦準備制度理事会）は日本時間11月19日午前4時、10月27〜28日に開いたFOMC（連邦公開市場委員会）の議事要旨を公表します。市場は12月の追加利上げをほぼ織り込んでおり、利上げを支持する参加者がどこまで […]\n投稿 FOMC議事要旨が19日明け方に公表で12月利上げ観測は96%超、ビットコインに逆風 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-fomc-minutes-october-preview-bitcoin/",
-          "publishedOn": "2026-11-18T09:30:00.000Z",
-          "wordCount": 2492,
-          "title": "FOMC議事要旨が19日明け方に公表で12月利上げ観測は96%超、ビットコインに逆風",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M7PFPBSTD0KC8FRY4EQ2JTJ5.01M7PFPC1MSFKEJNZWE175R205.png-1536w.webp"
         }
       ]
     }

@@ -625,6 +625,111 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=749829",
+          "author": "菊谷ルイス",
+          "description": "量子計算理論を専門とするアーロンソン氏は27日、AI研究機関が近いうちに公表する暗号解読の理論的成果は現在の暗号技術に差し迫った危険をもたらすものではないと述べた。噂の中心はRSA暗号で、ビットコインとは別方式だ。",
+          "link": "https://coinpost.jp/?p=749829",
+          "publishedOn": "2026-11-28T00:40:33.000Z",
+          "wordCount": 3187,
+          "title": "暗号技術が破られる噂、公表予定の研究成果は現行方式に「差し迫った脅威ではない」＝専門家",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/cryptography-break-.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/cryptography-break-.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=749865",
+          "author": "A.Yamada",
+          "description": "BGINと東京大学生産技術研究所は11月30日、ブロックチェーンの量子耐性移行を議論するワークショップを東京・駒場で共催する。金融庁やメルカリなども登壇予定だ。",
+          "link": "https://coinpost.jp/?p=749865",
+          "publishedOn": "2026-11-28T00:30:44.000Z",
+          "wordCount": 3194,
+          "title": "BGINと東大生研、東京駒場でブロックチェーンの量子耐性移行に関するワークショップ開催へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/tokyo-a16z-PM-takaichi-.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/tokyo-a16z-PM-takaichi-.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=749830",
+          "author": "菊谷ルイス",
+          "description": "トランプ一族が関与するワールドリバティ・フィナンシャルの関連ウォレットが、WETHとmETHを約2,000万ドル相当のステーブルコインに交換した。約1,659万USDCをDolomiteに送り、ETH、WETH、mETHの残高はゼロとなった。",
+          "link": "https://coinpost.jp/?p=749830",
+          "publishedOn": "2026-11-27T22:55:35.000Z",
+          "wordCount": 3190,
+          "title": "トランプ一族関連のワールド・リバティ、32億円相当のイーサリアム系資産を清算",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/trump-son-bitcoin-mining.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/trump-son-bitcoin-mining.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=749831",
+          "author": "菊谷ルイス",
+          "description": "クリプトクアントによると、ビットコインのクジラは9月30日から11月21日に12万1,117BTCを買い増した。例年は第4四半期に保有量を減らす層で、価格が約30％下落するなかでも増やした。一方、含み益は縮小している。",
+          "link": "https://coinpost.jp/?p=749831",
+          "publishedOn": "2026-11-27T22:05:37.000Z",
+          "wordCount": 3206,
+          "title": "「押し目買い転換は異例」　ビットコインのクジラ、9〜11月で12万BTC超を買い増し",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/new-bitcoin-whale-2026.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/new-bitcoin-whale-2026.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=749832",
+          "author": "菊谷ルイス",
+          "description": "バイナンス共同CEOのイー・ハー氏は27日、ブロックチェーン上で株式を新規公開するトークン化IPO事業を、規制当局の承認後に始める計画を明らかにした。採用ページでは、株式資本市場担当の2職種を募集している。",
+          "link": "https://coinpost.jp/?p=749832",
+          "publishedOn": "2026-11-27T21:30:39.000Z",
+          "wordCount": 3183,
+          "title": "バイナンス、『トークン化IPO』事業に本腰　規制当局の承認待ち",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/binance-new-pic-2022.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/binance-new-pic-2022.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=749833",
+          "author": "菊谷ルイス",
+          "description": "カナダの資産運用会社ウェリントン・アルタスのジェームス・ソーン氏は27日、仮想通貨ビットコインが数年規模の底を形成したと主張した。最高値の12万6,000ドルを上回れば、20万3,000ドルが目標になるとの見方を示した。",
+          "link": "https://coinpost.jp/?p=749833",
+          "publishedOn": "2026-11-27T21:12:41.000Z",
+          "wordCount": 3268,
+          "title": "ビットコインがスーパーサイクル確立か、最高値突破なら20万3000ドルも視野に＝アナリスト",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/bitcoin-and-gold-ray-dalio.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/bitcoin-and-gold-ray-dalio.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=749834",
+          "author": "菊谷ルイス",
+          "description": "中国のサイバースペース管理局は27日、ブロックチェーンを使うデジタルIDの相互承認規定を公表した。2027年3月1日に施行し、金融や税務、税関の既存システムとの連携も進める。",
+          "link": "https://coinpost.jp/?p=749834",
+          "publishedOn": "2026-11-27T20:55:44.000Z",
+          "wordCount": 3185,
+          "title": "中国、ブロックチェーン基盤の分散型デジタルIDを導入へ　2027年3月施行",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/china-digital-exchange-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/china-digital-exchange-1.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=749822",
           "author": "菊谷ルイス",
           "description": "イーサリアムのコア開発者は26日、延期していた次期アップグレード「グラムスターダム」のフーディ・テストネットでの稼働日を日本時間12月16日に決めた。実行層は現行仕様を変更せず進める方針だ。",
@@ -1763,51 +1868,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/nvidia-eth-mining.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/nvidia-eth-mining.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=749116",
-          "author": "菊谷ルイス",
-          "description": "米ストラテジーは23日、16日から22日の1週間に457BTCのビットコインを買い増したと8-Kで明らかにした。購入は4週連続で、保有量は851,305BTCとなった。",
-          "link": "https://coinpost.jp/?p=749116",
-          "publishedOn": "2026-11-23T13:04:18.000Z",
-          "wordCount": 3197,
-          "title": "ストラテジー、47億円相当のビットコインを追加購入　4週連続で買い増し",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/strategy-new-buy-nv-23.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/strategy-new-buy-nv-23.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=749115",
-          "author": "菊谷ルイス",
-          "description": "米上場企業アメリカンビットコインは23日、ファルコンXと最大1億5,000万ドルのビットコイン担保融資枠契約を結んだと発表した。保有するビットコインを売却せずに、成長投資などの資金を確保できる。",
-          "link": "https://coinpost.jp/?p=749115",
-          "publishedOn": "2026-11-23T12:55:14.000Z",
-          "wordCount": 3198,
-          "title": "アメリカンビットコイン、ビットコインを売らず担保で238億円の融資枠を確保",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/trump-son-bitcoin-mining.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/trump-son-bitcoin-mining.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=749094",
-          "author": "A.Yamada",
-          "description": "ストラテジーはビットコインが下落する中、準備金を積み増していることを強調した。仮想通貨市場下落にともない、ビットマインやメタプラネットなどDAT各社は含み損を抱える。",
-          "link": "https://coinpost.jp/?p=749094",
-          "publishedOn": "2026-11-23T12:00:40.000Z",
-          "wordCount": 3210,
-          "title": "仮想通貨弱気相場でDAT各社が大幅含み損、ストラテジーは5.6兆円の準備金を強調",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/Strategylogo0825.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/Strategylogo0825.png"
         }
       ]
     },
@@ -3529,106 +3589,6 @@
           "wordCount": 2980,
           "title": "【続報】ジェンスン・ファン氏がNvidiaのCEOに復帰、株価3割高でビットコインも5分で4%上昇",
           "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M84DRTBGP8M2GED82JM3A28M.01M84DRTNJH16KJGHAJEH00VK6.png-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=173207",
-          "author": "Crypto Times 編集部",
-          "description": "AI関連株が急落するなか、株価の底打ちを判断する目安として、企業の利益予想の下方修正が進み、その動きが落ち着くことが挙げられています。背景にはAI向け設備投資に対する市場の期待が高すぎる可能性があり、今後は関連企業の利益 […]\n投稿 AI株は今が買い時か？専門家が示す底打ちの条件 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-now-is-the-time-to-buy-ai-stocks-experts-outline-the-conditions-for-a-market-bottom/",
-          "publishedOn": "2026-11-23T11:17:33.000Z",
-          "wordCount": 2878,
-          "title": "AI株は今が買い時か？専門家が示す底打ちの条件",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M2HKBX4VP1W8XHHD3EGJA4F0.01M2HKBXKK4TPGAA3E260CD4S3.jpg-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=173206",
-          "author": "Crypto Times 編集部",
-          "description": "米運用大手ステート・ストリート・インベストメント・マネジメントで債券戦略を統括するマサヒコ・ルー氏は、日本銀行は2027年にかけて利上げを続け、政策金利は1.75%前後に達するとの見通しを示しました。 ルー氏は日銀の利上 […]\n投稿 日銀の利上げ、2027年に1.75%到達か｜米運用大手が予測 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-major-us-asset-manager-predicts-boj-interest-rates-will-reach-1-75-by-2027/",
-          "publishedOn": "2026-11-23T10:43:16.000Z",
-          "wordCount": 2877,
-          "title": "日銀の利上げ、2027年に1.75%到達か｜米運用大手が予測",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M682GB1F42117T6BREQAZZR4.01M682GB8RWQYX99QXJQ69GN93.webp-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=173205",
-          "author": "Crypto Times 編集部",
-          "description": "米国では11月12日から17日にかけて、大規模なシステム障害が相次ぎました。12日には世界で4億3,000万人以上が利用するMicrosoft 365のサービスに障害が発生し、企業や行政機関の業務に影響が広がりました。翌 […]\n投稿 米国で起きたシステム障害連鎖、「急ぎすぎた修正」が背景か は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-was-a-hasty-fix-behind-the-system-outage-in-the-us/",
-          "publishedOn": "2026-11-23T10:32:41.000Z",
-          "wordCount": 2883,
-          "title": "米国で起きたシステム障害連鎖、「急ぎすぎた修正」が背景か",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/2026/08/shutterstock_2414197855-1.jpg"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=173204",
-          "author": "Crypto Times 編集部",
-          "description": "米AI企業アンソロピック（Anthropic）が史上最大の上場を果たした直後にAI関連株が急落しました。ナスダック総合指数は高値から15%超下げています。これは2000年前後のドットコムバブル崩壊の再来なのでしょうか。ジ […]\n投稿 AIバブルは「崩壊」ではなく「しぼみ始めた」段階｜専門家の分析 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-experts-analyze-that-the-ai-bubble-is-not-collapsing-but-has-begun-to-deflate/",
-          "publishedOn": "2026-11-23T10:19:57.000Z",
-          "wordCount": 2876,
-          "title": "AIバブルは「崩壊」ではなく「しぼみ始めた」段階｜専門家の分析",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M3NVHMJTPP2W0Q6CYGT2JM6N.01M3NVHMTT4HTZ1V3NYRKWBFH9.webp-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=173202",
-          "author": "Crypto Times 編集部",
-          "description": "先週、金とビットコイン（BTC）がそろって大きく下げました。金は1週間で約9%下げて14カ月ぶりの安値を付け、BTCも約2年ぶりの安値まで売られています。AI関連株の急落で損失を抱えた投資家が、現金をつくるために換金しや […]\n投稿 金まで売られたAI株ショック、ビットコインも「デジタルゴールド」になれず は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-gold-bitcoin-fell-together-safe-haven/",
-          "publishedOn": "2026-11-23T10:00:00.000Z",
-          "wordCount": 2886,
-          "title": "金まで売られたAI株ショック、ビットコインも「デジタルゴールド」になれず",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M83T3VYQR3JNCZ8J14FMKJ5W.01M83T3WDNWFMCCPM7TTCNKXBT.png-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=173203",
-          "author": "Crypto Times 編集部",
-          "description": "国内取引所bitbankのビットコイン（BTC）価格は、23日17時台に約978万円と、1000万円を下回っています。ドル円が159円近くまで円安に振れていても、円建てのBTC価格を支える効果はほとんど出ていません。10 […]\n投稿 1ドル159円の円安でもビットコインは1000万円割れ、次に怖いのは円高か は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-bitcoin-below-10m-yen-weak-yen-no-cushion/",
-          "publishedOn": "2026-11-23T09:45:00.000Z",
-          "wordCount": 2879,
-          "title": "1ドル159円の円安でもビットコインは1000万円割れ、次に怖いのは円高か",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M83T41GHFSK2BY3AZ7PHTH1W.01M83T41V80T08P19RT40CMAG6.png-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=173201",
-          "author": "Crypto Times 編集部",
-          "description": "米国の株式市場が閉まっていた21〜22日の週末、仮想通貨の取引所Hyperliquid上の株式先物で、Nvidia株は金曜夜の価格から約3%上がっていました。日本時間23日朝に米国の株価指数先物の取引が始まると、相場は週 […]\n投稿 米国株が閉まる週末、Nvidiaの値段を付けていたのは仮想通貨の取引所だった は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-hyperliquid-weekend-stock-price-discovery-nvidia/",
-          "publishedOn": "2026-11-23T09:30:00.000Z",
-          "wordCount": 2885,
-          "title": "米国株が閉まる週末、Nvidiaの値段を付けていたのは仮想通貨の取引所だった",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M83T3YYY48RY56DYK1PQ755K.01M83T3ZB3CSWN79005YH0VSEH.png-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=173118",
-          "author": "Crypto Times 編集部",
-          "description": "ドル円相場は1ドル＝160円を前に伸び悩んでいます。前週は節目直前まで円安が進んだものの、AI関連株の急落と米長期金利の低下を受け、158円台へ反落。23日も159円前後で推移しており、円安を支える金利差と円買い材料の綱 […]\n投稿 ドル円160円の攻防、AI株投資による円売りも？介入警戒で上値重く は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-the-battle-over-the-160-yen-mark-for-the-dollar-yen-exchange-rate-continues/",
-          "publishedOn": "2026-11-23T08:31:30.000Z",
-          "wordCount": 2879,
-          "title": "ドル円160円の攻防、AI株投資による円売りも？介入警戒で上値重く",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M2A2NCQYP02ZCD354Y771NGK.01M2A2ND8CHC2DQG42GSJK9R6V.jpg-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=173117",
-          "author": "Crypto Times 編集部",
-          "description": "世界的な人工知能（AI）関連株の急落を受け、韓国、台湾、中国の金融当局が相次いで株式市場の安定化措置を発表しました。 23日の韓国株式市場では、総合株価指数（KOSPI）が一時前営業日比5.81％安の4,586.80まで […]\n投稿 AI株暴落でアジア3カ国が市場対策、韓国株は一時5.8％急落 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-three-asian-countries-take-market-measures-amid-ai-stock-plunge/",
-          "publishedOn": "2026-11-23T07:45:58.000Z",
-          "wordCount": 2885,
-          "title": "AI株暴落でアジア3カ国が市場対策、韓国株は一時5.8％急落",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M5V5S1WV0ABVEQJ0ASM5F6MF.01M5V5S23TK8T1WFEK6TP8RDB1.webp-1536w.webp"
-        },
-        {
-          "id": "https://crypto-times.jp/?p=173116",
-          "author": "Crypto Times 編集部",
-          "description": "トランプ米大統領は23日、退任した米半導体大手NVIDIA（エヌビディア）の創業者ジェンスン・フアン氏を最高経営責任者 (CEO) として復帰させるよう自身のSNSでコメントしました。トランプ氏はフアン氏の再就任は「会社 […]\n投稿 トランプ氏「米国にとっても最善策」エヌビディア創業者のCEO復帰を希望 は CRYPTO TIMES に最初に表示されました。",
-          "link": "https://crypto-times.jp/news-president-trump-hopes-nvidia-founder-will-return-as-ceo/",
-          "publishedOn": "2026-11-23T07:36:10.000Z",
-          "wordCount": 2889,
-          "title": "トランプ氏「米国にとっても最善策」エヌビディア創業者のCEO復帰を希望",
-          "imageUrl": "https://crypto-times.jp/_emdash/api/media/file/01M6Z5JH2QC5H8SK73KK1GJZMN.01M6Z5JH8D9Q5MJA0GN9NZETGK.webp-1536w.webp"
         }
       ]
     }
